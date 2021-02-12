@@ -1,0 +1,1704 @@
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.22"]
+[Round "1.1"]
+[White "Morozevich, Alexander"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2762"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4116992"]
+[BlackFideId "2000024"]
+[EventDate "2012.11.22"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 b6 4. e3 g6 5. d4 Bg7 6. d5 O-O 7. Be2 e6 8. e4 exd5
+9. e5 Ne4 10. Nxd5 Nc6 11. Qd3 f5 12. exf6 Nxf6 13. Bg5 Bb7 14. Rd1 Qe8 15. Bxf6
+Bxf6 16. O-O Rd8 17. Qd2 Qf7 18. Bd3 Nb4 19. Be4 Nxd5 20. Bxd5 Bxd5 21. cxd5 Qg7
+22. b3 g5 23. h3 h5 24. d6 g4 25. Qd5+ Rf7 26. Ne1 gxh3 27. Rd3 hxg2 28. Nxg2 h4
+29. Kh1 Qg5 30. Qe4 Rg7 31. Ne3 h3 32. Rdd1 Qe5 33. Qf3 Rf8 34. Nf5 Rg6 35. Rde1
+Qc3 36. Qd5+ 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.22"]
+[Round "1.2"]
+[White "Caruana, Fabiano"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2747"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "4102142"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 Nc6 8. d5
+Ne5 9. Bd4 O-O 10. f4 Ng4 11. Bxg7 Kxg7 12. Qd4+ Kg8 13. Be2 c6 14. Bxg4 Bxg4
+15. h3 Bd7 16. Nf3 cxd5 17. exd5 e6 18. d6 Bc6 19. O-O Nd5 20. Nxd5 Bxd5 21. Ne5
+f6 22. Ng4 Kg7 23. Ne3 Qxd6 24. Rad1 Rfd8 25. Nxd5 exd5 26. Rf3 b6 27. Rfd3 Rac8
+28. Qxd5 Qxd5 29. Rxd5 Rxd5 30. Rxd5 Rc2 31. Rd7+ Kg8 32. Rxa7 Rxb2 33. Rb7 Rxa2
+34. Rxb6 f5 35. Rb8+ Kg7 36. Rb7+ Kg8 37. Rb8+ Kg7 38. Rb7+ Kg8 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.22"]
+[Round "1.3"]
+[White "Gelfand, Boris"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2732"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "703303"]
+[EventDate "2012.11.22"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 e6 6. d4 cxd4 7. Nb5 d5 8. cxd5
+exd5 9. Nfxd4 Nf6 10. O-O O-O 11. Be3 Ng4 12. Bf4 Nxd4 13. Nxd4 Qb6 14. Nb3 Bxb2
+15. Rb1 Bg7 16. Qxd5 Nf6 17. Qd6 Bf5 18. Rbc1 Be4 19. Rfd1 Bxg2 20. Kxg2 Qxd6
+21. Rxd6 Rfc8 22. Na5 Ne4 23. Rd7 Nc5 24. Rd5 b6 25. Be3 Bf8 26. Nb3 Ne6 27.
+Rxc8 Rxc8 28. Rd7 Rc7 29. Rxc7 Nxc7 30. Kf3 Nd5 31. Bd2 f5 32. e4 fxe4+ 33. Kxe4
+Nf6+ 34. Kd3 Kf7 35. Nd4 Bc5 36. f3 Bxd4 37. Kxd4 Ke6 38. g4 Nd5 39. h3 Ne7 40.
+f4 h5 41. f5+ Kf6 42. fxg6 hxg4 43. hxg4 Nxg6 44. Kd5 Ke7 45. Be3 Kd7 46. Bg5 b5
+47. Bd2 a6 48. Bc3 Nf4+ 49. Ke4 Nh3 50. Bd4 Ng5+ 51. Kd5 Nf3 52. Bf6 Ke8 53. Bc3
+Kf7 54. Kc5 Nh2 55. g5 Nf3 56. Bf6 Nd2 57. Kb6 Ne4 58. Kxa6 b4 59. Ka5 Nc3 60.
+Kxb4 Nxa2+ 61. Kc4 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.22"]
+[Round "1.4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Kasimdzhanov, Rustam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2696"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "14200244"]
+[EventDate "2012.11.22"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Bf4 Nf6 5. e3 O-O 6. a3 Nbd7 7. Nb5 Ne8 8. Nf3
+c6 9. Nc3 f5 10. h3 Nd6 11. cxd5 exd5 12. Bd3 Nf6 13. Ne5 Be6 14. O-O Nd7 15.
+Ne2 a5 16. Qc2 a4 17. Bh2 Nxe5 18. dxe5 Ne4 19. Nd4 Qd7 20. Rad1 Nc5 21. Be2 Ne4
+22. f3 Nc5 23. g4 Nb3 24. Nxb3 axb3 25. Qxb3 Rf7 26. Qc2 Raf8 27. Bd3 g6 28. Bg3
+fxg4 29. fxg4 Bg5 30. Qe2 d4 31. Rxf7 Rxf7 32. exd4 Qxd4+ 33. Kh2 Rd7 34. Bc2
+Qxb2 35. Rxd7 Bxd7 36. e6 Be8 37. a4 Qb4 38. Qf2 Be7 39. Qe1 Qb2 40. Qb1 Qxb1
+41. Bxb1 Kg7 42. Be5+ Bf6 43. Bd6 Bh4 44. Kg2 c5 45. Bxc5 Bc6+ 46. Kf1 Bxa4 47.
+Ke2 Bb3 48. Be4 Bxe6 49. Bxb7 h5 50. gxh5 Bxh3 51. Bd4+ Kh6 52. hxg6 Kxg6 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.22"]
+[Round "1.5"]
+[White "Ponomariov, Ruslan"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2737"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "8602883"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. Re1 Bg4 10. Nde2 Nc6 11. h3 Bd7 12. a4 Rc8 13. Be3 Ne5 14. Bd4 Nc6 15.
+Be3 Ne5 16. b3 Qa5 17. Rb1 b5 18. axb5 Bxb5 19. Ra1 Qc7 20. Nxb5 axb5 21. Nd4
+Nfd7 22. Nxb5 Qxc2 23. Qxc2 Rxc2 24. Rec1 Rxc1+ 25. Rxc1 Rb8 26. Bf1 Nc5 27.
+Bxc5 dxc5 28. Kg2 Nd7 29. Rd1 Nb6 30. Rc1 Nd7 31. Rd1 Nb6 32. Rc1 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.22"]
+[Round "1.6"]
+[White "Dominguez Perez, Leinier"]
+[Black "Karjakin, Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2775"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "14109603"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+d6 9. c3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Bg5 h6 15. Bh4
+Qc8 16. dxe5 dxe5 17. N3h2 a5 18. Qf3 Ra6 19. Ng4 Nxg4 20. Qxg4 Nc5 21. Qf3 Qa8
+22. Rad1 b4 23. Nd2 Rd6 24. Qe3 Ne6 25. Nc4 Rxd1 26. Rxd1 bxc3 27. bxc3 f6 28.
+Rb1 a4 29. Kh1 Ba6 30. Nb2 a3 31. Nd3 Bc4 32. Bb3 Bxb3 33. Rxb3 Rd8 34. Rb1 Qa4
+35. Nb4 Nf4 36. Bg3 c5 37. Nd5 Nxd5 38. exd5 Qc2 39. Rb7 Qxa2 40. Ra7 Qb1+ 0-1
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.23"]
+[Round "2.1"]
+[White "Kamsky, Gata"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2775"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "2000024"]
+[BlackFideId "14109603"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. Bg5 Be7 7. e3 O-O 8. Bd3
+dxc4 9. Bxc4 Nbd7 10. O-O c5 11. Qe2 Ne4 12. Nxe4 Bxe4 13. Bxe7 Qxe7 14. Rfd1
+Bxf3 15. Qxf3 cxd4 16. Bb5 Nf6 17. Rxd4 Rad8 18. Rxd8 Rxd8 19. Rc1 g6 20. Qe2
+Rd5 21. Rd1 Qd6 22. Rxd5 Qxd5 23. h3 Ne4 24. Bd3 Qc6 25. Bxe4 Qxe4 26. Qd2 Qb1+
+27. Kh2 Qf5 28. Kg1 Qb1+ 29. Kh2 Qf5 30. Kg1 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.23"]
+[Round "2.2"]
+[White "Wang, Hao"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2726"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "3503240"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+ Bd7 6. Qb3 dxc4 7. Qxc4 O-O 8.
+Bf4 c6 9. e4 b5 10. Qd3 Qa5 11. Be2 c5 12. O-O b4 13. Nd1 cxd4 14. Nxd4 Rd8 15.
+Ne3 Ba4 16. Nb3 Bxb3 17. axb3 Rxd3 18. Rxa5 Nc6 19. Ra6 Rd2 20. Bc4 Nd4 21. Nf5
+Ne2+ 22. Bxe2 Rxe2 23. Nxe7+ Kh8 24. f3 Nh5 25. Bd6 Rxb2 26. g4 Bd4+ 27. Kh1 Ng7
+28. Nc6 Bc3 29. Rfa1 Rxb3 30. Rxa7 Rxa7 31. Rxa7 Ne6 32. Rxf7 Rb1+ 33. Kg2 b3
+34. Rb7 b2 35. Rb8+ Kg7 36. Rb7+ Kh8 37. Rb8+ Kg7 38. Rb7+ 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.23"]
+[Round "2.3"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2741"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "14200244"]
+[BlackFideId "14103320"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 O-O 8. a4
+Rb8 9. axb5 axb5 10. Nc3 d6 11. Nd5 Nxd5 12. exd5 Nd4 13. Nxd4 exd4 14. Bd2 Bd7
+15. Ra7 Ra8 16. Qa1 Qb8 17. Rxa8 Qxa8 18. Qa5 Qxa5 19. Bxa5 Rc8 20. Ra1 Ra8 21.
+Ra3 Ra7 22. Bd2 Rxa3 23. bxa3 Kf8 24. Ba5 Bd8 25. Kf1 Ke7 26. Ke2 f6 27. f3 c5
+28. dxc6 Bxa5 29. cxd7 Kxd7 30. a4 bxa4 31. Bxa4+ Ke6 32. Bb3+ Ke5 33. g3 g5 34.
+Bf7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.23"]
+[Round "2.4"]
+[White "Leko, Peter"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2732"]
+[BlackElo "2764"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "Ufimtsev-Pytel variation"]
+[WhiteFideId "703303"]
+[BlackFideId "13401319"]
+[EventDate "2012.11.22"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Nf3 Bg4 5. h3 Bh5 6. Bd3 e6 7. g4 Bg6 8. g5 Nfd7
+9. Nh4 d5 10. Nxg6 hxg6 11. Qg4 Qb6 12. Ne2 Na6 13. c3 dxe4 14. Bxe4 Nc7 15. Qf3
+Nb5 16. a4 Nd6 17. a5 Qb5 18. Bd3 Qd5 19. Qxd5 cxd5 20. a6 b6 21. h4 Rc8 22. Ng3
+Be7 23. Ke2 Kf8 24. Bf4 Nc4 25. h5 gxh5 26. Nxh5 Kg8 27. Bc1 g6 28. Ng3 Rxh1 29.
+Nxh1 e5 30. dxe5 Ncxe5 31. Bb5 Nc5 32. Be3 Ne6 33. Rd1 Nc7 34. Bd3 Re8 35. f4
+Bxg5 36. Nf2 Nxd3 37. Nxd3 Be7 38. Kf3 f6 39. Bd4 Kf7 40. Rh1 Nxa6 41. Ra1 Nc5
+42. Bxc5 bxc5 43. f5 g5 44. Rxa7 Kf8 45. b4 c4 46. Nc5 Bxc5 47. bxc5 Rc8 48. Ra6
+Kf7 49. Ra7+ Kg8 50. Ra5 Re8 51. Ra7 Rc8 52. Ra5 Re8 53. Ra7 Rc8 54. Ra5 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.23"]
+[Round "2.5"]
+[White "Svidler, Peter"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2751"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "4102142"]
+[BlackFideId "2805677"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. Re1
+c4 9. a4 Ng6 10. b4 Nce5 11. axb5 axb5 12. Rxa8 Bxa8 13. Na3 Bc6 14. Nd4 Nf4 15.
+Nxc6 dxc6 16. d4 cxd3 17. Bxf4 Ng6 18. Bg3 dxc2 19. Qxd8+ Kxd8 20. Nxc2 e5 21.
+Ra1 Kc8 22. Ra7 f6 23. Ne3 Kb8 24. Ra1 Rg8 25. Nf5 Ne7 26. Nd4 Kb7 27. Ne6 Nc8
+28. Rd1 Bd6 29. f3 g6 30. Bh4 Re8 31. Nc5+ Bxc5+ 32. bxc5 g5 33. Rd7+ Kb8 34.
+Be1 Re7 35. Rd8 Rf7 36. h4 Kc7 37. Rh8 gxh4 38. Bxh4 Ne7 39. Ra8 Kb7 40. Rd8 Ng6
+41. Be1 Kc7 42. Ra8 Kb7 43. Rd8 Kc7 44. Ra8 Kb7 45. Rd8 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.23"]
+[Round "2.6"]
+[White "Morozevich, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2786"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "4116992"]
+[BlackFideId "2020009"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Be6 7. Qe2 Nd7 8.
+Be3 Qe7 9. Bxc5 Qxc5 10. Nc3 Qd6 11. O-O-O c5 12. Nh4 O-O-O 13. Nf5 Bxf5 14.
+exf5 Nf6 15. Rhe1 Rhe8 16. Qf3 Qd4 17. g4 h6 18. a3 a6 19. Re3 Re7 20. Kb1 Nd5
+21. Nxd5 Qxd5 22. Qxd5 Rxd5 23. Rde1 f6 24. f4 Kd7 25. c3 b5 26. Kc2 Kd6 27. b3
+Re8 28. Re4 Re7 29. b4 Re8 30. c4 bxc4 31. dxc4 Rd4 32. fxe5+ fxe5 33. bxc5+
+Kxc5 34. Rxe5+ Rxe5 35. Rxe5+ Kxc4 36. Re7 c5 37. Rxg7 Rd3 38. h4 Rf3 39. Kd2
+Kd4 40. Ke2 Rxa3 41. f6 Ra2+ 42. Kf3 Ra1 43. Kg2 Ra2+ 44. Kg3 Ra1 45. g5 hxg5
+46. hxg5 Rf1 47. Rc7 a5 48. f7 a4 49. g6 a3 50. Ra7 Rf6 51. g7 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.24"]
+[Round "3.1"]
+[White "Dominguez Perez, Leinier"]
+[Black "Kasimdzhanov, Rustam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2696"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "3503240"]
+[BlackFideId "14200244"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 f6 12. c4 bxc4 13. Nxc4 Bb4 14. Bd2 Kh8 15.
+d4 exd4 16. Bxb4 Ndxb4 17. a3 Nd5 18. Nxd4 Nf4 19. Nxc6 Bxc6 20. Qxd8 Rfxd8 21.
+f3 Bd5 22. Rad1 g5 23. Rd2 Bg8 24. Red1 Rxd2 25. Rxd2 Rb8 26. Ba2 a5 27. b4 axb4
+28. axb4 Rxb4 29. Ne3 Bxa2 30. Rxa2 h5 31. Rc2 Rb3 32. Nf5 Rc3 33. Rxc3 Ne2+ 34.
+Kf2 Nxc3 35. h4 Kh7 36. g4 hxg4 37. hxg5 fxg5 38. fxg4 Kg6 39. Ke3 Kf6 40. Kd4
+Nd1 41. Kd5 Nf2 42. Ne3 c5 43. Nc4 Nxg4 44. Kxc5 Nh2 45. Kd4 g4 46. Ke3 g3 47.
+Nd2 Nf1+ 48. Nxf1 g2 49. Kf2 gxf1=Q+ 50. Kxf1 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.24"]
+[Round "3.2"]
+[White "Caruana, Fabiano"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2762"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[WhiteFideId "2020009"]
+[BlackFideId "2000024"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 g6 6. Bd3 Bg7 7. O-O O-O 8. h3 b5
+9. b3 Nbd7 10. Qc2 Bb7 11. c5 Ne8 12. Bb2 Nc7 13. b4 a5 14. a3 Ne6 15. Nd2 Qc7
+16. f4 axb4 17. axb4 Rxa1 18. Rxa1 Ra8 19. Rxa8+ Bxa8 20. Nf3 Bb7 21. g4 Bc8 22.
+Bc1 Nf6 23. Qa2 h6 24. Ne5 g5 25. Bf5 Nd8 26. Bd3 gxf4 27. exf4 Nd7 28. Nf3 Ne6
+29. Ne2 Qb7 30. Be3 Qa6 31. Qb2 Nef8 32. Ng3 e6 33. Nh5 Bh8 34. f5 Nf6 35. Bxh6
+Ne4 36. f6 Nxf6 37. Ne5 Ne4 38. Bxe4 dxe4 39. Qf2 Bxe5 40. dxe5 Qa1+ 41. Kg2 f5
+42. exf6 Kf7 43. Bxf8 Kxf8 44. Qd2 Kf7 45. Qd8 Qb2+ 46. Kg3 Qc3+ 47. Kh4 Qe1+
+48. Ng3 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.24"]
+[Round "3.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2747"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[WhiteFideId "13401319"]
+[BlackFideId "4102142"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 e6 7. O-O b6 8. b4 dxc4
+9. Bxc4 Bb7 10. a4 Nbd7 11. Ba3 Re8 12. Qe2 c5 13. dxc5 bxc5 14. bxc5 Bf8 15.
+Bb5 Rc8 16. Rfd1 Bxc5 17. Ne5 Bxa3 18. Nxd7 Rxc3 19. Nxf6+ Qxf6 20. Bxe8 Be4 21.
+Qg4 Bd5 22. Qd4 Qxd4 23. Rxd4 a6 24. h3 Kf8 25. Bd7 Bd6 26. e4 Bc5 27. Rdd1 Bxe4
+28. Rac1 Bb4 29. Rxc3 Bxc3 30. Rc1 Bd4 31. a5 Ke7 32. Bc8 Bb2 33. Rc5 Bd3 34.
+Bb7 Bb5 35. Rc8 Be5 36. Ra8 Bc7 37. Bxa6 Bc6 38. Ra7 Kd6 39. Bb7 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.24"]
+[Round "3.4"]
+[White "Ponomariov, Ruslan"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2732"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "14103320"]
+[BlackFideId "703303"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be7 8. Be3
+O-O 9. Qf3 b5 10. a3 Bb7 11. Bd3 Nbd7 12. O-O Rc8 13. Rfd1 Nb6 14. Nd2 Nfd7 15.
+Qg3 Nc5 16. Bh6 Ne6 17. Be3 Nc5 18. Bh6 Ne6 19. Be3 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.24"]
+[Round "3.5"]
+[White "Gelfand, Boris"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2748"]
+[ECO "D91"]
+[Opening "Gruenfeld"]
+[Variation "5.Bg5"]
+[WhiteFideId "2805677"]
+[BlackFideId "4116992"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 dxc4 8.
+e3 b5 9. a4 c6 10. Qb1 Qd7 11. Ne5 Bxe5 12. Bxe5 O-O 13. Be2 Bb7 14. O-O a6 15.
+Qb2 c5 16. dxc5 Nc6 17. Rfd1 Qf5 18. Bg3 Qxc5 19. Rd7 Bc8 20. Rc7 Ra7 21. Rxa7
+Nxa7 22. axb5 axb5 23. Bf3 Nc6 24. Bxc6 Qxc6 25. Qb4 Bb7 26. f3 Qd7 27. e4 Ra8
+28. Rxa8+ Bxa8 29. h3 f6 30. Qa5 Bc6 31. Qc7 Qxc7 32. Bxc7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.24"]
+[Round "3.6"]
+[White "Karjakin, Sergey"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2737"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "8602883"]
+[EventDate "2012.11.22"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6 8.
+Bg5 Qd6 9. Bd3 Qb4+ 10. Bd2 Qxb2 11. O-O Be7 12. c4 O-O 13. Re1 Qb6 14. Bc3 Qd6
+15. Ne5 b5 16. c5 Qd5 17. Bxb5 Bb7 18. f3 Qd8 19. Nc6 Bxc6 20. Bxc6 Nd5 21. Qd3
+Rb8 22. Qc4 Nxc3 23. Qxc3 Bf6 24. Rad1 g6 25. Qc4 Bg7 26. d5 exd5 27. Qxd5 Qf6
+28. Ba4 Rb2 29. Bb3 Qh4 30. Kh1 Qf2 31. f4 Qxf4 32. Rf1 Rf2 33. Qc4 Rxf1+ 34.
+Rxf1 Qxc4 35. Bxc4 h5 36. g3 Be5 37. Re1 Re8 38. Bb5 Rb8 39. a4 f6 40. Rd1 Kg7
+41. Rd7+ Kh6 42. Kg2 a6 43. Bxa6 Rb2+ 44. Kh1 Rc2 45. Bf1 Rxc5 46. Rd2 Rc1 47.
+Kg2 Ra1 48. Bb5 c5 49. Kf3 Kg5 50. Rd5 Ra3+ 51. Ke2 h4 52. Rxc5 hxg3 53. hxg3
+Kg4 54. a5 Kxg3 55. a6 Ra5 56. Rd5 g5 57. Bc4 Ra4 58. Bb5 Ra5 59. Bc4 Ra4 60.
+Bb5 Ra2+ 61. Rd2 Ra5 62. Bc4 f5 63. Rd5 Rxd5 64. Bxd5 Bb8 65. Be6 f4 66. Kd3 g4
+67. Ke4 f3 68. Kf5 Ba7 69. Kg5 f2 70. Bc4 Kf3 71. Bd5+ Ke3 72. Bg2 g3 73. Kg4
+Bb8 74. a7 Bxa7 75. Kxg3 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.25"]
+[Round "4.1"]
+[White "Svidler, Peter"]
+[Black "Ponomariov, Ruslan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2741"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Potter variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "14103320"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 O-O 8.
+Bg5 Nd4 9. Qd2 Nxb3 10. axb3 Re8 11. f3 h6 12. Bf4 d5 13. O-O-O d4 14. Kb1 Be6
+15. Nb5 Qe7 16. g4 Rad8 17. h4 c6 18. Na3 Bc7 19. Nc4 Bxf4 20. Qxf4 Qc5 21. g5
+Nh5 22. Qh2 Bxc4 23. Bxc4 b5 24. Bd3 Qe5 25. Rdg1 Qxh2 26. Rxh2 g6 27. Rg4 Ng7
+28. gxh6 Nh5 29. f4 Kh7 30. e5 Kxh6 31. b4 Kg7 32. Rf2 Kf8 33. f5 gxf5 34. Rg5
+Ng7 35. h5 Re6 36. Rfg2 Ne8 37. Rxf5 Rd7 38. Rf1 Rh6 39. e6 Re7 40. exf7 Nf6 41.
+Rg6 Rxg6 42. hxg6 Nh5 43. Rh1 Re5 44. Be2 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.25"]
+[Round "4.2"]
+[White "Leko, Peter"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2732"]
+[BlackElo "2726"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "703303"]
+[BlackFideId "3503240"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3
+cxd4 9. Nxd4 Nd7 10. Bf4 Qh4 11. g3 Qh5 12. O-O g5 13. cxd5 gxf4 14. dxe6 Nxc3
+15. exd7 fxg3 16. hxg3 Bxd7 17. bxc3 Rac8 18. Bf5 Bxc3 19. Bxd7 Bxa1 20. Bxc8
+Bxd4 21. Bxb7 Qxe5 22. Kg2 Rb8 23. Rb1 Kg7 24. Qd3 Qf6 25. Qe2 Re8 26. Qg4+ Kf8
+27. Bf3 Qg6 28. Qxd4 Qxb1 29. Qh8+ Ke7 30. Qe5+ Kf8 31. Qh8+ Ke7 32. Qe5+ 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.25"]
+[Round "4.3"]
+[White "Morozevich, Alexander"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2764"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "13401319"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Qb6 6. e3 Qxb2 7. Bb5+ Bd7 8.
+Bxd7+ Nbxd7 9. Nge2 Qa3 10. Rb1 b6 11. O-O a6 12. Bc7 e6 13. Bxb6 Bd6 14. Rb3
+Bxh2+ 15. Kh1 Qe7 16. g3 Ng4 17. Bc5 Qf6 18. Nf4 Nxf2+ 19. Rxf2 Bxg3 20. Rfb2
+Qh4+ 21. Kg1 Nxc5 22. dxc5 Bxf4 23. exf4 Qxf4 24. Ne2 Qc7 25. Qd4 O-O 26. Rb7
+Qa5 27. Kf2 Rac8 28. Rc2 Rc6 29. Nc1 Qd8 30. Nd3 Qc8 31. Re7 Qd8 32. Rb7 Qc8 33.
+Rb3 e5 34. Nxe5 Qf5+ 35. Ke1 Qxc2 36. Nxc6 Qxa2 37. Re3 a5 38. Qxd5 Qc2 39. Re2
+Qc1+ 40. Kf2 Qf4+ 41. Qf3 Qh4+ 42. Kf1 a4 43. Ne7+ Kh8 44. Nf5 Qf6 45. Rf2 Qe5
+46. Rc2 a3 47. c6 Rc8 48. Kg2 h6 49. Ng3 Qe8 50. c7 a2 51. Rxa2 Rxc7 52. Ra8
+Rc2+ 53. Kg1 Rc1+ 54. Kg2 Rc2+ 55. Kg1 Rc1+ 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.25"]
+[Round "4.4"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2775"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "14200244"]
+[BlackFideId "14109603"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. Be2 Ke7 10. Ne5 Nbd7 11. Nd3 Bd6 12. Nd2 b5 13. b3 Bb7 14. Bb2
+Rhc8 15. Bf3 Bxf3 16. Nxf3 Nc5 17. Nxc5 Rxc5 18. a4 bxa4 19. Rxa4 Rc2 20. Bxf6+
+Kxf6 21. Rfa1 Be5 22. Nxe5 Kxe5 23. g3 Rb2 24. Rxa6 Rxa6 25. Rxa6 Rxb3 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.25"]
+[Round "4.5"]
+[White "Kamsky, Gata"]
+[Black "Wang, Hao"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2737"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "2000024"]
+[BlackFideId "8602883"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 a6 6. Ne5 Bb4+ 7. Bd2 Qxd4 8.
+Bxb4 Qxe5 9. Nd2 Qb5 10. Ba3 Bd7 11. Qc2 Nc6 12. Rc1 O-O-O 13. Nxc4 Kb8 14. b3
+Nd4 15. Qb2 Bc6 16. f3 h5 17. h4 e5 18. e4 Bd7 19. Kf2 Be6 20. Ne3 Nd7 21. Rhe1
+f6 22. f4 Qb6 23. Kg1 Rdg8 24. Qf2 g5 25. hxg5 fxg5 26. fxe5 h4 27. Nf5 Bxf5 28.
+exf5 hxg3 29. Qe3 Nxf5 30. Qxb6 Nxb6 31. e6 Re8 32. Bb2 Rh6 33. Rc5 Nh4 34. Be5
+Na8 35. Bxg3 Nxg2 36. Kxg2 Rhxe6 37. Rxe6 Rxe6 38. Kf3 Rg6 39. Kg4 b5 40. a4
+bxa4 41. bxa4 Rb6 42. Kxg5 Rb4 43. a5 Rb5 44. Rxb5+ axb5 45. Kf5 Kb7 46. Ke6 b4
+47. Be1 b3 48. Bc3 Kc6 49. Ke7 Kb5 50. Ke6 Kc4 51. Be5 c5 52. Kd6 Kb4 53. Kc6 c4
+54. a6 c3 55. Bxc3+ Kxc3 56. Kb7 b2 57. Kxa8 b1=Q 58. a7 Kb4 0-1
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.25"]
+[Round "4.6"]
+[White "Caruana, Fabiano"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2751"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "2020009"]
+[BlackFideId "2805677"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 Nd4 6. Nxd4 cxd4 7. d3 a6 8.
+Ba4 b5 9. Bb3 Bb7 10. Nd2 Nc6 11. f4 Na5 12. Bd5 Be7 13. Bxb7 Nxb7 14. Nf3 Qb6
+15. Qe2 Na5 16. Qf2 Bc5 17. a3 b4 18. axb4 Bxb4 19. Rf1 Bc5 20. f5 f6 21. fxe6
+dxe6 22. b4 Bxb4 23. Rb1 Qc5 24. Nxd4 e5 25. Ne6 Qxf2+ 26. Kxf2 Kf7 27. Rxb4
+Kxe6 28. Rb6+ Kd7 29. Bd2 Nc6 30. Rb7+ Ke6 31. Rxg7 a5 32. Ra1 Rhb8 33. Ra2 h5
+34. Rc7 Rc8 35. Rb7 Rcb8 36. Rh7 Rh8 37. Rxh8 Rxh8 38. Rb2 Ra8 39. c3 Rb8 40.
+Rxb8 Nxb8 41. Bc1 Nd7 42. Ba3 f5 43. exf5+ Kxf5 44. c4 e4 45. Ke3 exd3 46. Kxd3
+Ne5+ 47. Kd4 Ke6 48. c5 Nc6+ 49. Kc4 Ne5+ 50. Kd4 Nc6+ 51. Ke4 Ne5 52. Bb2 Nc4
+53. Bc3 a4 54. h4 a3 55. c6 a2 56. Kf4 Nd6 57. Ba1 Kd5 58. c7 Kc6 59. Kg5 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.27"]
+[Round "5.1"]
+[White "Gelfand, Boris"]
+[Black "Kamsky, Gata"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2762"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "2805677"]
+[BlackFideId "2000024"]
+[EventDate "2012.11.22"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 d6 4. Nf3 g6 5. O-O Bg7 6. c4 O-O 7. Nc3 c6 8. d5 e5
+9. dxe6 Bxe6 10. b3 Na6 11. Bb2 Qe7 12. Ng5 Bd7 13. Qd2 h6 14. Nh3 Be6 15. Rad1
+Rad8 16. Ba3 Nc5 17. f4 Qc7 18. Nf2 Rfe8 19. Kh1 Qb6 20. Qc2 d5 21. cxd5 cxd5
+22. Nxd5 Nxd5 23. Bxc5 Qc7 24. Rd2 Bc3 25. Nd3 b6 26. Bf2 Bxd2 27. Qxd2 Qc3 28.
+Qc1 Qxc1 29. Rxc1 Rc8 30. Ra1 Nc3 31. Bf3 Nxe2 32. Re1 Nc3 33. Nb4 Ne4 0-1
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.27"]
+[Round "5.2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2786"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "2020009"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. O-O O-O 10. b3 Bb7 11. Bb2 b4 12. Ne4 Nxe4 13. Bxe4 Nf6 14. Bc2 c5 15.
+dxc5 Bxc5 16. Ng5 Qxd1 17. Rfxd1 Be7 18. Nxh7 Nxh7 19. Rd7 Bf6 20. Bxf6 Bc8 21.
+Bxh7+ Kxh7 22. Rd8 Rxd8 23. Bxd8 a5 24. f3 e5 25. Rc1 Be6 26. Be7 Ra7 27. Bd6 f6
+28. Rc6 Bd5 29. Rb6 a4 30. Rxb4 axb3 31. axb3 Ra1+ 32. Kf2 Rb1 33. Rh4+ Kg8 34.
+b4 g5 35. Rg4 Be6 36. Rg3 Bc4 37. e4 Rb2+ 38. Kg1 Rb1+ 39. Kf2 Rb2+ 40. Ke1 Kf7
+41. Bc5 Be6 42. h3 Bc4 43. h4 gxh4 44. Rg4 Bb5 45. Rxh4 Re2+ 46. Kd1 Rxg2 47. f4
+Kg6 48. fxe5 fxe5 49. Rh8 Rg4 50. Rg8+ Kh5 51. Rh8+ Kg6 52. Rg8+ Kh5 53. Rh8+
+Kg6 54. Rg8+ 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.27"]
+[Round "5.3"]
+[White "Dominguez Perez, Leinier"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2747"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "4102142"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. O-O b5 7. Bb3 d6 8. c3 O-O
+9. Re1 Ne7 10. a4 Rb8 11. axb5 axb5 12. Nbd2 Ng6 13. Nf1 Bb6 14. Be3 c5 15. Bg5
+Be6 16. Bxe6 fxe6 17. c4 bxc4 18. dxc4 Ne7 19. Ng3 h6 20. Bxf6 Rxf6 21. Re3 Nc6
+22. Ne1 Nd4 23. Nd3 Ra8 24. Rb1 Qd7 25. Ne2 Nc6 26. Nc3 Nd4 27. Ne2 Nc6 28. h3
+Rf7 29. Nc3 Nd4 30. Ne2 Nc6 31. Nc3 Nd4 32. Rg3 Bd8 33. Qg4 Bg5 34. h4 Bf4 35.
+Rh3 Qb7 36. Rd1 Qb3 37. Kh1 Qc2 38. Nb5 Nxb5 39. cxb5 Kh8 40. b3 Rb7 41. Rg1 c4
+42. Nxf4 exf4 43. Qxe6 cxb3 44. Rxb3 Qxf2 45. Qg4 Rab8 46. Rc1 Rxb5 47. Rc7 Rg8
+48. Rxb5 Qf1+ 49. Kh2 Qxb5 50. Qxf4 Qe8 51. Rb7 Qe6 52. Rb6 Re8 53. Rxd6 Qxe4
+54. Qxe4 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.27"]
+[Round "5.4"]
+[White "Ponomariov, Ruslan"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2748"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "4116992"]
+[EventDate "2012.11.22"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nc6 6. Bb5 Bd7 7. Nxc6 bxc6 8.
+Bd3 Bd6 9. Qe2 Qc7 10. Nf3 dxe4 11. Qxe4 Nf6 12. Qh4 h6 13. O-O c5 14. Nd2 Nd5
+15. Nc4 Bf4 16. Re1 Rb8 17. Be4 Bxc1 18. Raxc1 Nb6 19. Ne3 O-O 20. b3 f5 21. Bd3
+e5 22. f3 Rbe8 23. Rcd1 Kh8 24. c3 Rf6 25. Bc2 Be6 26. Rd2 a5 27. c4 Nc8 28.
+Bxf5 Rxf5 29. Nxf5 Bxf5 30. Qh5 Rf8 31. Rd5 Kh7 32. Rdxe5 Bg6 33. Qh4 Rd8 34.
+Qg3 Bf7 35. Qf4 Bg6 36. h4 Rd4 37. Qf8 Qd7 38. h5 Bf7 39. Qxc5 a4 40. Re7 Nxe7
+41. Rxe7 Rd1+ 42. Kh2 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.27"]
+[Round "5.5"]
+[White "Karjakin, Sergey"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2732"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "703303"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. g3 O-O 8. Bg2
+dxc4 9. O-O Nc6 10. e3 Rd8 11. Qa4 a6 12. Nd2 Bd7 13. Qc2 Na5 14. Rfd1 Qe7 15.
+a3 Bd6 16. Nce4 Bc6 17. Nxc4 Nxc4 18. Qxc4 Bd5 19. Qc2 Bxe4 20. Qxe4 c6 21. h4
+h5 22. b4 a5 23. Rab1 g6 24. Rd3 Rd7 25. b5 Bxa3 26. bxc6 bxc6 27. Qxc6 Rad8 28.
+Rc3 Bb4 29. Rc4 Qd6 30. Qa4 Rc7 31. Rbc1 Rdc8 32. Bc6 e5 33. d5 Kg7 34. Kg2 Qf6
+35. Qb5 Qd6 36. R1c2 Re7 37. Qa4 Rb8 38. Qb3 Rc8 39. Qd3 Rd8 40. Qe2 Qf6 41. Qd3
+Qd6 42. Qe2 Qf6 43. Qd3 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.27"]
+[Round "5.6"]
+[White "Wang, Hao"]
+[Black "Kasimdzhanov, Rustam"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2696"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "14200244"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 Qe6 10. Qe4 Bb4 11. Bd2 Ba6 12. b3 Bxc3 13. Bxc3 d5 14. Qf3 dxc4
+15. Rc1 O-O-O 16. Be2 Kb7 17. O-O cxb3 18. Bxa6+ Kxa6 19. axb3 Kb7 20. Ra1 Rd5
+21. Qe2 Rb5 22. b4 Ra8 23. Rfc1 a6 24. h3 Nd5 25. Bd2 Nxb4 26. Rc4 a5 27. f4 Qd5
+28. Rac1 Rd8 29. Be3 Nd3 30. R1c2 c5 31. Ra4 Kb6 32. Rca2 Nb2 33. Qxb2 Qd1+ 34.
+Kh2 Qxa4 35. Bxc5+ Kb7 36. Qf2 Qb3 37. Ra3 Qc4 38. Be3 g6 39. Qe1 Rd3 40. Qe2
+Rbd5 0-1
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.28"]
+[Round "6.1"]
+[White "Leko, Peter"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2732"]
+[BlackElo "2737"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[WhiteFideId "703303"]
+[BlackFideId "8602883"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O e6 8. Qc2
+Nbd7 9. Rd1 b6 10. b4 Bb7 11. Rb1 Re8 12. a4 Qc7 13. h3 Rac8 14. Ba3 e5 15. dxe5
+Nxe5 16. Nxe5 Qxe5 17. Bb2 Qg5 18. Bf3 dxc4 19. Ne2 Re7 20. Qxc4 c5 21. Bxb7
+Rxb7 22. Nf4 Rbb8 23. Rbc1 Qf5 24. g4 Qe4 25. Bxf6 Qxc4 26. Rxc4 Bxf6 27. Nd5
+Bh4 28. Rdc1 Rd8 29. e4 cxb4 30. Rxb4 Rbc8 31. Rbc4 Rxc4 32. Rxc4 f5 33. f3 fxe4
+34. fxe4 Bg3 35. Kg2 Bd6 36. Rc6 Kf7 37. Ne3 Ke7 38. Nc4 Bb8 39. e5 Kd7 40. Rf6
+Ke7 41. Rc6 Kd7 42. Rf6 Ke7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.28"]
+[Round "6.2"]
+[White "Caruana, Fabiano"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2741"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[WhiteFideId "2020009"]
+[BlackFideId "14103320"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Nc3 Qf6 7. Qf3 Bd4 8.
+Bd2 Qxf3 9. gxf3 Rb8 10. Na4 Ne7 11. Ba5 Bb6 12. Bc3 f6 13. h4 d5 14. h5 Kf7 15.
+b4 Be6 16. Bd3 a5 17. a3 axb4 18. axb4 Rhd8 19. Ke2 Ra8 20. Nxb6 cxb6 21. Rxa8
+Rxa8 22. Bd4 c5 23. bxc5 Nc6 24. c3 dxe4 25. fxe4 bxc5 26. Bxc5 Ne5 27. Bb1 Rb8
+28. Bd4 Rb2+ 29. Ke3 Bc4 30. Kf4 g5+ 31. hxg6+ hxg6 32. Kg3 g5 33. Rc1 Nd3 34.
+Bxd3 Bxd3 35. f3 Rb1 36. Rxb1 Bxb1 37. c4 f5 38. exf5 Bxf5 39. f4 gxf4+ 40. Kxf4 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.28"]
+[Round "6.3"]
+[White "Kamsky, Gata"]
+[Black "Kasimdzhanov, Rustam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2696"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "2000024"]
+[BlackFideId "14200244"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 O-O 8. a4 b4
+9. Nbd2 Bc5 10. c3 d6 11. h3 Rb8 12. Nc4 bxc3 13. bxc3 h6 14. Be3 Bxe3 15. Nxe3
+Be6 16. Bxe6 fxe6 17. Rb1 Qd7 18. Qc2 Na5 19. Rfc1 Qc6 20. Rb4 Rb6 21. Rxb6 cxb6
+22. Qa2 Re8 23. Qa3 Nb7 24. d4 Nxe4 25. dxe5 dxe5 26. Nxe5 Qc5 27. Qxc5 Nbxc5
+28. f3 Nf6 29. Ra1 Nd5 30. N5c4 Nxe3 31. Nxe3 Rc8 32. Nc4 Nd7 33. Rd1 Rxc4 34.
+Rxd7 Rxc3 35. Rd6 Rc4 36. Rxe6 Rxa4 37. Rxb6 Kf7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.28"]
+[Round "6.4"]
+[White "Svidler, Peter"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2775"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "4102142"]
+[BlackFideId "14109603"]
+[EventDate "2012.11.22"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. a3
+O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Be3 Nxf3+ 13. Bxf3 c6 14. Bc5 Rf7 15.
+Qc2 Nd5 16. Ne4 Rc8 17. Rfd1 b6 18. Bxe7 Rxe7 19. Rbc1 Rd7 20. Qb2 Ne7 21. Nd2
+Kh8 22. Rc3 Nd5 23. Rc2 Ne7 24. Rc3 Nd5 25. Rc2 Ne7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.28"]
+[Round "6.5"]
+[White "Morozevich, Alexander"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2726"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "3503240"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Nd7 8.
+Nf3 c5 9. Be2 O-O 10. O-O a6 11. Qa3 Qc7 12. Bg5 Re8 13. Rad1 Rb8 14. d5 e6 15.
+dxe6 Rxe6 16. Bh4 Bh6 17. Bc4 Rxe4 18. Bg3 Qb6 19. Qa4 Re7 20. Bd6 Qd8 21. Bxe7
+Qxe7 22. Rfe1 Qf8 23. Rxd7 b5 24. Bxf7+ Kg7 25. Qd1 Bxd7 26. Qxd7 Rd8 27. Qc7
+Rc8 28. Qb7 Rb8 29. Qe7 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.28"]
+[Round "6.6"]
+[White "Gelfand, Boris"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2764"]
+[ECO "D30"]
+[Opening "QGD Slav"]
+[WhiteFideId "2805677"]
+[BlackFideId "13401319"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Nbd2 Bd6 6. b3 Nbd7 7. Bb2 Qe7 8. Ne5
+Ba3 9. Bxa3 Qxa3 10. Bd3 Nxe5 11. dxe5 Nd7 12. f4 b6 13. cxd5 cxd5 14. O-O g6
+15. e4 O-O 16. exd5 exd5 17. Nf3 Qb4 18. f5 Nxe5 19. Nxe5 Qd4+ 20. Kh1 Qxe5 21.
+Qd2 Bxf5 22. Bxf5 gxf5 23. Rae1 Qf6 24. Qxd5 Rae8 25. Rxe8 Rxe8 26. h3 Qe5 27.
+Rxf5 Qxd5 28. Rxd5 Re2 29. a4 Re3 30. Rb5 Kg7 31. a5 bxa5 32. Rxa5 Rxb3 33. Rxa7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.29"]
+[Round "7.1"]
+[White "Ponomariov, Ruslan"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2751"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "14103320"]
+[BlackFideId "2805677"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 Nd4 6. Nxd4 cxd4 7. c3 a6 8.
+Bf1 Nc6 9. Na3 Bc5 10. b4 Ba7 11. Rb1 O-O 12. b5 axb5 13. Nxb5 Bc5 14. Bb2 dxc3
+15. Bxc3 d5 16. exd5 exd5 17. d4 Be7 18. Qc2 Bf6 19. Bd3 g6 20. f4 Bd7 21. f5
+Na7 22. fxg6 hxg6 23. Nd6 Ba4 24. Qxa4 Qxd6 25. Bb4 Bxd4+ 26. Kh1 Bc5 27. Bxc5
+Qxc5 28. Qg4 Qc3 29. Bxg6 fxg6 30. Qxg6+ Qg7 31. Qe6+ Qf7 32. Qg4+ Qg7 33. Qe6+
+Qf7 34. Qg4+ Qg7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.29"]
+[Round "7.2"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2732"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "14200244"]
+[BlackFideId "703303"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. a3 Nb8 11. Nbd2 Nbd7 12. Nf1 Re8 13. Ng3 h6 14. Nh2 Bf8 15. Ng4
+Nxg4 16. Qxg4 Nf6 17. Qf5 Bc8 18. Qf3 Be6 19. Bxe6 Rxe6 20. c4 c6 21. b4 d5 22.
+exd5 cxd5 23. c5 Qd7 24. d4 e4 25. Qb3 g6 26. a4 Bg7 27. axb5 Qxb5 28. Ra5 Qb7
+29. Bf4 Ne8 30. Rd1 Rd8 31. b5 axb5 32. Rxb5 Qa8 33. h4 Ra6 34. Nf1 Ra3 35. Qc2
+Ra2 36. Qb3 Ra3 37. Qc2 Ra2 38. Qb3 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.29"]
+[Round "7.3"]
+[White "Wang, Hao"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2747"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "8602883"]
+[BlackFideId "4102142"]
+[EventDate "2012.11.22"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. Bf4 Be6 8.
+Qa3 O-O 9. e4 N8d7 10. Rd1 c6 11. Ng5 Bg4 12. Be2 Bxe2 13. Nxe2 h6 14. Nf3 Nc4
+15. Qc3 Qa5 16. Qxa5 Nxa5 17. b3 b6 18. O-O Rac8 19. Rc1 c5 20. dxc5 bxc5 21.
+Rfd1 Nb6 22. Be3 c4 23. b4 Nc6 24. Bxb6 axb6 25. Rxc4 b5 26. Rc5 Nxb4 27. Rxb5
+Nxa2 28. Rd2 Rfd8 29. Rxd8+ Rxd8 30. g3 Nc3 31. Nxc3 Bxc3 32. Kg2 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.29"]
+[Round "7.4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2762"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Smyslov defence"]
+[WhiteFideId "13401319"]
+[BlackFideId "2000024"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Bd3 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Qxf3 e6 10. b3 Re8 11. Bb2 Nbd7 12. Qe2 a6 13. Rac1 Rc8 14. Rfd1 Qc7 15.
+f4 dxc4 16. Bxc4 b5 17. Bd3 Qa7 18. Ne4 Nxe4 19. Bxe4 c5 20. dxc5 Nxc5 21. Bf3
+Bxb2 22. Qxb2 Ne4 23. Rd4 Ng3 24. Kf2 Nf5 25. Rxc8 Rxc8 26. Rd3 Qe7 27. Qd2 h5
+28. g3 e5 29. Rd7 Qf6 30. Be4 exf4 31. exf4 Kg7 32. Kg2 Qe6 33. Bxf5 Qxf5 34.
+Rd3 Qe4+ 35. Kh2 b4 36. h4 a5 37. Qb2+ Kg8 38. Rd2 Rc3 39. Rg2 Kg7 40. Qd2 Rd3
+41. Qb2+ Kh7 42. Qf6 Qd5 43. Qg5 Kg7 44. Re2 Rd1 45. Qxd5 Rxd5 46. Kh3 Kf6 47.
+Rc2 Kf5 48. Rc4 Rd1 49. Rc5+ Ke4 50. Rxa5 Kf3 51. Kh2 Rd2+ 52. Kh3 f5 53. Ra6
+Rg2 54. Rxg6 Kf2 55. Rc6 Rxg3+ 56. Kh2 Rg4 57. Kh3 Rxf4 58. Rg6 Rf3+ 59. Kh2 Ke3
+60. Rg5 Kf4 61. Rxh5 Rf2+ 62. Kh3 Rxa2 63. Rg5 Rc2 64. Rg7 Rc3+ 65. Kg2 Rxb3 66.
+h5 Rb2+ 67. Kh3 Rb3+ 68. Kg2 Rb2+ 69. Kh3 Rb3+ 70. Kg2 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.29"]
+[Round "7.5"]
+[White "Dominguez Perez, Leinier"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2786"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Pytel-Wade variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "2020009"]
+[EventDate "2012.11.22"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Bc4 Bg7 7. O-O O-O 8. h3
+a6 9. Re1 b5 10. Bb3 Bb7 11. Bg5 c5 12. dxc5 Qxc5 13. Qe2 e6 14. Rad1 Nbd7 15.
+Bf4 Rfe8 16. Bd6 Qb6 17. Qe3 Qxe3 18. Rxe3 Nb6 19. Be5 Rac8 20. Red3 Nc4 21.
+Bxc4 Rxc4 22. a3 h6 23. Nd2 Rcc8 24. Bxf6 Bxf6 25. Nde4 Bxc3 26. Nxc3 Bc6 27.
+R1d2 g5 28. Rd6 Kf8 29. Nd1 Ke7 30. Ne3 h5 31. c4 bxc4 32. R6d4 Bb5 33. h4 Rg8
+34. Kh2 c3 35. Rc2 cxb2 36. Rxb2 Rc5 37. a4 Bc6 38. Rb6 a5 39. hxg5 Rgxg5 40.
+Ra6 e5 41. Ra7+ Ke6 42. Rd8 f5 43. Rh8 Rg6 44. Rhh7 f4 45. Rae7+ Kd6 46. Nf5+
+Kd5 47. Rxh5 Bxa4 48. Ra7 Kc4 49. Rh8 Bc2 50. Nh4 Rb6 51. Nf3 a4 52. Ng5 Kb4 53.
+Rha8 Rh6+ 54. Nh3 Bb3 55. f3 Rc2 56. Kg1 Rd6 57. Re8 Rdd2 58. Rg7 a3 59. Rxe5 a2
+60. Re1 Rb2 61. Kh2 Rb1 62. Re4+ Kc5 63. Ra7 a1=Q 64. Rxa1 Rxa1 65. Nxf4 Ra4 66.
+Re5+ Kd6 67. Rf5 Bc2 68. Rf7 Ke5 69. Kg3 Rd8 70. Nh3 Rg8+ 71. Kh2 Rh4 72. Rc7
+Bf5 73. Rc5+ Ke6 74. g4 Rgh8 75. Rxf5 Rxh3+ 76. Kg2 Rh2+ 77. Kg3 R8h3+ 78. Kf4
+Rf2 79. Re5+ Kf6 80. Re3 Ra2 81. g5+ Kf7 82. Kg4 Rh1 83. Rb3 Rg1+ 0-1
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.29"]
+[Round "7.6"]
+[White "Karjakin, Sergey"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2748"]
+[ECO "B49"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "4116992"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Be2 Nf6 8. O-O
+Be7 9. f4 d6 10. a4 O-O 11. Kh1 Nxd4 12. Qxd4 Bd7 13. e5 Ne8 14. Bf3 Bc6 15. Qb6
+Bxf3 16. Rxf3 Rc8 17. a5 Qc6 18. Na4 f6 19. exd6 Nxd6 20. Qxc6 Rxc6 21. Bc5 Re8
+22. Rd1 Ne4 23. Bxe7 Rxe7 24. c3 e5 25. Kg1 exf4 26. Rxf4 g6 27. Rf3 f5 28. Rfd3
+Nc5 29. Nxc5 Rxc5 30. Rd5 Rxd5 31. Rxd5 Kf7 32. Rd6 Kg7 33. Kf2 Kh6 34. Kf3 Kh5
+35. Rb6 Kg5 36. g3 Rc7 37. h3 Rd7 38. c4 Rd3+ 39. Kf2 Rd7 40. Ke3 Re7+ 41. Kf3
+Rc7 42. b3 Kh5 43. Kf4 Rf7 44. Kf3 g5 45. b4 g4+ 46. hxg4+ fxg4+ 47. Ke4 Kg5 48.
+b5 axb5 49. cxb5 h5 50. a6 Re7+ 51. Kd3 Rd7+ 52. Kc4 Rc7+ 53. Rc6 bxc6 54. b6
+Rc8 55. b7 Rb8 56. Kc5 h4 57. a7 Rxb7 58. a8=Q Rh7 59. Qg8+ Kh6 60. gxh4 Rg7 61.
+Qh8+ Kg6 62. h5+ Kf7 63. h6 Rg5+ 64. Kd6 g3 65. Qh7+ Kf6 66. Qe7+ Kf5 67. Qxg5+
+Kxg5 68. h7 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.30"]
+[Round "8.1"]
+[White "Gelfand, Boris"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2726"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[WhiteFideId "2805677"]
+[BlackFideId "3503240"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. Nd2 c6 10. a3 Ne8 11. b4 cxd5 12. cxd5 f5 13. Nc4 Nf6 14. Bg5 Nxe4 15. Nxe4
+fxe4 16. Nd2 Bf6 17. Be3 Nf5 18. Nxe4 Nxe3 19. fxe3 Bf5 20. Bd3 Qb6 21. Qe2 Bxe4
+22. Bxe4 Bg5 23. Rfe1 Rac8 24. Qd3 Qc7 25. g3 Qc3 26. Qe2 Qc4 27. Qg4 Kg7 28. h4
+h5 29. Qxg5 Qxe4 30. Rf1 Qxd5 31. Qe7+ Kg8 32. Rf6 Rxf6 33. Qxf6 Qf7 34. Qxd6
+Rf8 35. Qxe5 Qf2+ 36. Kh1 Qf3+ 37. Kh2 Qe2+ 38. Kh3 Qg4+ 39. Kg2 Qe2+ 40. Kh3
+Qg4+ 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.30"]
+[Round "8.2"]
+[White "Caruana, Fabiano"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2775"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "14109603"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Nh4 Bxg2 12. Kxg2 Qc8 13. Rc1 Qb7+ 14. Nf3 Rc8 15.
+a4 bxa4 16. Rxa4 Nbd7 17. Qc6 Rcb8 18. Na3 Ne4 19. Qxb7 Rxb7 20. Nc4 Bf8 21. Be3
+c5 22. Nfe5 cxd4 23. Nxd7 dxe3 24. Nxf8 Kxf8 25. Nxe3 Nf6 26. Nc4 Ke7 27. Rd1
+Rc7 28. Nb6 Raa7 29. Rc4 Rxc4 30. Nxc4 Rc7 31. b3 Nd7 32. Ra1 Nc5 33. Nd2 Rb7
+34. Ra5 Nxb3 35. Nxb3 Rxb3 36. Rxa6 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.30"]
+[Round "8.3"]
+[White "Svidler, Peter"]
+[Black "Kasimdzhanov, Rustam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2696"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Keres variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "14200244"]
+[EventDate "2012.11.22"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. c4 e6 5. cxd5 exd5 6. h3 Bxf3 7. Bxf3 Ngf6 8.
+O-O c6 9. d3 Bc5 10. Qc2 O-O 11. Nd2 Qe7 12. e3 a5 13. a4 Bb4 14. Bg2 Rfe8 15.
+b3 Qc5 16. Qb1 Qb6 17. Nf3 Bc3 18. Ra2 d4 19. Rc2 Nd5 20. Nxd4 Bxd4 21. exd4
+Qxd4 22. Rc4 Qb6 23. d4 N7f6 24. Bd2 Qd8 25. Qd3 Nb6 26. Rcc1 Nbd5 27. Rfe1
+Rxe1+ 28. Rxe1 Nc7 29. Re5 Ne6 30. Bc3 Nd7 31. Re1 Nf6 32. Re5 Nd7 33. Re1 Nf6
+34. Re5 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.30"]
+[Round "8.4"]
+[White "Kamsky, Gata"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2732"]
+[ECO "E55"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system, Bronstein variation"]
+[WhiteFideId "2000024"]
+[BlackFideId "703303"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
+Nbd7 9. Bd2 cxd4 10. Nxd4 Ne5 11. Be2 Bc5 12. Rc1 b6 13. b4 Bxd4 14. exd4 Ng6
+15. Bf3 Rb8 16. Re1 h6 17. Nb5 a6 18. Na7 Bb7 19. b5 Bxf3 20. Qxf3 Ra8 21. Nc6
+Qd5 22. Qxd5 Nxd5 23. Nb4 Nxb4 24. Bxb4 Rfd8 25. bxa6 Rxd4 26. a3 Nf4 27. Rc6
+Nd5 28. g3 Rxa6 29. Bd6 Raa4 30. Rc8+ Kh7 31. Rf8 Ra7 32. Rc1 Rd7 33. Be5 Re4
+34. Ba1 Re2 35. h4 h5 36. Bd4 Rd2 37. Be5 f6 38. Bc3 Ra2 39. Bb4 Nxb4 40. axb4
+Rdd2 41. Rf1 Rab2 42. Rf7 Kg6 43. Rb7 Rxb4 44. Rc1 Rbb2 45. Rcc7 Rxf2 46. Rxg7+
+Kf5 47. Rxb6 Rg2+ 48. Kh1 Rxg3 0-1
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.30"]
+[Round "8.5"]
+[White "Morozevich, Alexander"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2737"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "8602883"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Nf3 Nc6 6. Bf4 a6 7. Rc1 Bf5 8. e3
+Rc8 9. Be2 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. Nh4 Bg6 13. g3 O-O 14. Nxg6 hxg6 15.
+Na4 Nd7 16. a3 Ne7 17. b4 a5 18. bxa5 Qxa3 19. Bb5 Nf6 20. Rb1 Nf5 21. Rb3 Qe7
+22. Bd3 Nd6 23. Qe1 Rc7 24. Qb4 Nd7 25. Bb5 Nf6 26. Rfb1 Rfc8 27. Kg2 Rc1 28.
+Bd3 Rxb1 29. Rxb1 Rc7 30. Qa3 Nd7 31. Rb3 Qf8 32. Rc3 Rxc3 33. Qxc3 Qd8 34. h4
+Qb8 35. Kf1 Kf8 36. Qb4 Qc7 37. Nc5 Ke7 38. e4 b6 39. axb6 Qxb6 40. Qxb6 Nxb6
+41. e5 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.11.30"]
+[Round "8.6"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2741"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[WhiteFideId "13401319"]
+[BlackFideId "14103320"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bd3 Nc6 7. Be3 Nb4 8. Be4
+f5 9. exf6 exf6 10. Nc3 f5 11. Bb1 N4d5 12. Nf3 Nxe3 13. fxe3 Bd6 14. O-O O-O
+15. e4 c6 16. Qb3+ Kh8 17. e5 Be7 18. a4 Nd5 19. Ba2 Rb8 20. a5 Ne3 21. Ne2 f4
+22. Rf2 Ng4 23. Rff1 Ne3 24. Rf2 Ng4 25. Rff1 Ne3 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.02"]
+[Round "9.1"]
+[White "Dominguez Perez, Leinier"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2764"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[WhiteFideId "3503240"]
+[BlackFideId "13401319"]
+[EventDate "2012.11.22"]
+
+1. c4 c6 2. Nf3 d5 3. g3 g6 4. Bg2 Bg7 5. O-O Nf6 6. b3 dxc4 7. bxc4 Ne4 8. d4
+c5 9. Qc2 Nc6 10. Qxe4 Bf5 11. Qe3 Nxd4 12. Ne1 Nxe2+ 13. Qxe2 Bxa1 14. Bxb7 Rb8
+15. Bc6+ Kf8 16. Nd2 Bb2 17. Nb3 Bxc1 18. Nxc1 Qd6 19. Bd5 Kg7 20. Nb3 Rhd8 21.
+Qe3 e6 22. Bf3 Kg8 23. Ng2 Qa6 24. Qxc5 Bd3 25. Re1 Bxc4 26. Ne3 Bxb3 27. axb3
+Rxb3 28. Kg2 Qb6 29. Qe7 Rdd3 30. Ng4 Qd8 31. Nf6+ Kg7 32. Ne8+ Kg8 33. Nf6+ Kg7
+34. Ne8+ Kg8 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.02"]
+[Round "9.2"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2748"]
+[ECO "B27"]
+[Opening "Sicilian"]
+[Variation "Hungarian variation"]
+[WhiteFideId "14200244"]
+[BlackFideId "4116992"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 g6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be2 cxd4 7. Qxd4 Qa5 8.
+Qe5 Nc6 9. Qxa5 Nxa5 10. Ne5 Bg7 11. Bb5+ Nd7 12. Bf4 a6 13. Bxd7+ Bxd7 14. Nxd7
+Kxd7 15. Nd2 Rhc8 16. O-O-O Ke8 17. Rhe1 b5 18. Kb1 Nc4 19. Nxc4 Rxc4 20. Be5
+Bxe5 21. Rxe5 Rd8 22. Rde1 e6 23. Kc2 Ke7 24. R5e4 Rxe4 25. Rxe4 Rd5 26. a4 Rg5
+27. axb5 axb5 28. g3 Rf5 29. f4 g5 30. Re5 Kf6 31. Rxf5+ Kxf5 32. fxg5 Ke4 33.
+Kd2 Kf3 34. b3 e5 35. c4 bxc4 36. bxc4 Kf2 37. Kd3 Kf3 38. Kd2 Kf2 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.02"]
+[Round "9.3"]
+[White "Leko, Peter"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2732"]
+[BlackElo "2747"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "703303"]
+[BlackFideId "4102142"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8.
+O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Qg4 Kf8 12. b3 c5 13. Na4 Bb7 14. c4 d4 15.
+Nb2 h5 16. Qe2 Qc7 17. Be4 g6 18. Nd3 Kg7 19. Qf3 Bxe4 20. Rxe4 Qc6 21. h4 a5
+22. Nb2 Qc7 23. Qg3 Qc6 24. Re2 Rhb8 25. Bg5 Bxg5 26. Qxg5 Qc7 27. Rd1 Qd8 28.
+Qf4 Qe7 29. Re4 Nb6 30. Nd3 Nd7 31. Nb2 Nb6 32. Nd3 Nd7 33. Nb2 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.02"]
+[Round "9.4"]
+[White "Karjakin, Sergey"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2751"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "2805677"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. O-O Nf6 7. h3 O-O 8. a3 a6
+9. Nd5 Nxd5 10. Bxd5 Be6 11. Bxe6 fxe6 12. c3 Qd7 13. b4 d5 14. Rb1 b5 15. Be3
+d4 16. Bd2 dxc3 17. Bxc3 Bd6 18. Qe2 Rf7 19. bxc5 Bxc5 20. Bb2 Raf8 21. Rbc1 Bb6
+22. Kh1 Rxf3 23. gxf3 Bd4 24. Rg1 Bxb2 25. Qxb2 Rxf3 26. Qc3 Qf7 27. Qxc6 Rxh3+
+28. Kg2 Qf3+ 29. Kf1 Qxd3+ 30. Ke1 Re3+ 31. fxe3 Qxe3+ 32. Kd1 Qd3+ 33. Ke1 Qe3+
+34. Kd1 Qd3+ 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.02"]
+[Round "9.5"]
+[White "Ponomariov, Ruslan"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2762"]
+[ECO "B04"]
+[Opening "Alekhine's defence"]
+[Variation "modern, Larsen variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "2000024"]
+[EventDate "2012.11.22"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Bf5 7. O-O Nd7 8. Nf3
+e6 9. c4 N5f6 10. Bf4 Qb6 11. Qc1 Be7 12. Nc3 O-O 13. a3 Ne4 14. b4 Nxc3 15.
+Qxc3 Nf6 16. Qb2 Bg4 17. h3 Bxf3 18. Bxf3 a6 19. Be3 Qc7 20. a4 Ne8 21. Rac1 Nd6
+22. g4 Bf6 23. Bg2 g6 24. f4 Rad8 25. Rfd1 Rfe8 26. Qf2 Qe7 27. Qf3 Rd7 28. Bf2
+Bh4 29. Be3 Bf6 30. Bf2 Qd8 31. Rd2 Nc8 32. Rcd1 Ne7 33. Qb3 Qc7 34. Bg3 Qb6 35.
+Bf2 Qc7 36. Bg3 Qb6 37. Bf2 Qc7 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.02"]
+[Round "9.6"]
+[White "Wang, Hao"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2786"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[WhiteFideId "8602883"]
+[BlackFideId "2020009"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 a6 7. Bd3 Bg4 8. Nge2
+e6 9. O-O Be7 10. Rc1 Bh5 11. Qb3 Na5 12. Qa4+ Nc6 13. Bg3 Bg6 14. Nf4 Bxd3 15.
+Nxd3 Nd7 16. Qd1 O-O 17. Na4 Rc8 18. Ndc5 Nxc5 19. dxc5 Na7 20. b4 Rc6 21. h3 a5
+22. b5 Nxb5 23. Qb3 Nc7 24. Qxb7 Qa8 25. Rb1 Rc8 26. Qxa8 Nxa8 27. Rb7 Bf8 28.
+Rfb1 f6 29. Ra7 e5 30. f4 d4 31. fxe5 dxe3 32. exf6 gxf6 33. Kf1 Re8 34. Ke2
+Rcc8 35. Rbb7 f5 36. Rxa5 Rcd8 37. Be1 Bh6 38. Nb2 Rb8 39. Raa7 Rxb7 40. Rxb7
+Rc8 41. Nd3 Nc7 42. Rb6 Bg5 43. Rc6 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.03"]
+[Round "10.1"]
+[White "Ponomariov, Ruslan"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2726"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "14103320"]
+[BlackFideId "3503240"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 Nc6 5. Bg2 g6 6. d3 Bg7 7. h3 O-O 8. O-O
+Rb8 9. f4 Nd7 10. a4 a6 11. f5 b5 12. axb5 axb5 13. g4 b4 14. Nd5 e6 15. Ne3 Nd4
+16. Nf4 Nb6 17. Bd2 Nb5 18. Ra2 Re8 19. Qf3 d5 20. exd5 exf5 21. gxf5 Nd4 22.
+Qf2 Nxf5 23. Nxf5 Bxf5 24. c3 bxc3 25. bxc3 Nd7 26. Nh5 Be5 27. d4 cxd4 28. cxd4
+Bd6 29. Ra7 Nb6 30. Bh6 Bf8 31. Bf4 Rc8 32. Qg3 Be7 33. Rxe7 Qxe7 34. Bg5 Qe2
+35. Nf6+ Kg7 36. Nxe8+ Rxe8 37. Rxf5 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.03"]
+[Round "10.2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2775"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "13401319"]
+[BlackFideId "14109603"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
+Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 h6 13. Rad1 d6 14. Qb5 Ne8 15. g4
+Nd7 16. h4 a6 17. Qxb6 Nxb6 18. b3 Bf6 19. Nb1 d5 20. g5 hxg5 21. hxg5 Be7 22.
+Ne5 Nd6 23. g6 f6 24. Nf7 e5 25. Nxd6 Rxd6 26. Bg3 f5 27. Bxe5 Rxg6 28. cxd5 c4
+29. Bg3 Bb4 30. bxc4 Bxd2 31. Nxd2 Rc8 32. e3 a5 33. Rb1 Ba6 34. d6 Nd7 35. Kf1
+Kf8 36. Bf3 Rf6 37. Kg2 g5 38. Bh2 Bxc4 39. Nxc4 Rxc4 40. Rb7 Ke8 41. Be2 Rc8
+42. Bb5 Rd8 43. Be5 Re6 44. f4 gxf4 45. Bxf4 Rg6+ 46. Kf3 Rg1 47. Be5 Rg6 48.
+Kf4 Rh6 49. a4 Re6 50. Rc7 Rh6 51. Kg5 Rh7 52. Bf6 Rb8 53. Bc6 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.03"]
+[Round "10.3"]
+[White "Kamsky, Gata"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2747"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[WhiteFideId "2000024"]
+[BlackFideId "4102142"]
+[EventDate "2012.11.22"]
+
+1. g3 d5 2. Bg2 e5 3. d3 c6 4. Nf3 Bd6 5. O-O Nf6 6. c4 O-O 7. cxd5 cxd5 8. Nc3
+h6 9. Nb5 Nc6 10. Nxd6 Qxd6 11. d4 e4 12. Ne5 Nxe5 13. Bf4 Nfg4 14. dxe5 Qe6 15.
+Qd4 g5 16. Bd2 Qxe5 17. Bc3 Qxd4 18. Bxd4 Re8 19. Rfc1 Ne5 20. Rc5 Nc6 21. Rxd5
+Be6 22. Rd6 Nxd4 23. Rxd4 f5 24. g4 fxg4 25. Bxe4 Rad8 26. Rxd8 Rxd8 27. Bd3 Rc8
+28. Kf1 Kg7 29. Ke1 Kf6 30. Kd2 h5 31. a3 Ke5 32. Rg1 Rc6 33. Rg3 Rb6 34. Re3+
+Kf6 35. Kc3 Rc6+ 36. Kd2 Rb6 37. Kc3 Rc6+ 38. Kd2 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.03"]
+[Round "10.4"]
+[White "Morozevich, Alexander"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2732"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "703303"]
+[EventDate "2012.11.22"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. g3 Qb6 7. Nb3 Ne5 8. e4
+Bb4 9. Qe2 d6 10. Bd2 a5 11. f4 Nc6 12. Be3 Qc7 13. Bg2 a4 14. Nd2 Bxc3 15. bxc3
+b6 16. Rb1 Nd7 17. Qf2 Rb8 18. O-O O-O 19. g4 Ba6 20. Qh4 Rfe8 21. Rf3 Nf8 22.
+Rh3 b5 23. e5 dxe5 24. Be4 h6 25. f5 f6 26. Bxh6 gxh6 27. Qxh6 Qa7+ 28. Kg2 Qg7
+29. Bxc6 Qxh6 30. Rxh6 Red8 31. Ne4 Kg7 32. Rxf6 Rdc8 33. cxb5 Rxc6 34. bxc6
+Rxb1 35. fxe6 Bd3 36. e7 Bxe4+ 37. Kg3 Ng6 38. e8=Q Kxf6 39. Qd8+ Kf7 40. c7 Rb2
+41. Qd7+ Kf6 42. g5+ 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.03"]
+[Round "10.5"]
+[White "Gelfand, Boris"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2737"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "2805677"]
+[BlackFideId "8602883"]
+[EventDate "2012.11.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Bd7 8. Qe2
+Bd6 9. Qxc4 O-O 10. Rd1 Rb8 11. Nbd2 e5 12. dxe5 Bxe5 13. Qe2 Qe7 14. Nc4 Rfd8
+15. Bd2 Bd4 16. Rac1 Bf5 17. Qe1 Bc5 18. a3 b5 19. Na5 Nxa5 20. Bxa5 Be4 21. Qc3
+Rxd1+ 22. Rxd1 Re8 23. Ng5 Bxg2 24. Kxg2 h6 25. Nf3 Ne4 26. Qc2 Bd6 27. Nd4 c5
+28. Nf5 Qf6 29. Nxd6 Nxd6 30. Qxc5 Qxf2+ 31. Kxf2 Ne4+ 32. Kf3 Nxc5 33. Rd6 Re5
+34. Bb4 Rf5+ 35. Kg4 g6 36. Bxc5 Rxc5 37. Rxa6 Rc2 38. b4 Rxh2 39. Ra5 Ra2 40.
+Kf3 h5 41. Rxb5 Rxa3 42. Ke4 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.03"]
+[Round "10.6"]
+[White "Caruana, Fabiano"]
+[Black "Kasimdzhanov, Rustam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2696"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "2020009"]
+[BlackFideId "14200244"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. a4 b4 10. Nbd2 Na5 11. Ba2 c5 12. c3 Rb8 13. Nc4 Nc6 14. h3 h6 15. Ne3 Be6
+16. Bc4 Bxc4 17. Nxc4 Re8 18. Be3 Bf8 19. Nfd2 d5 20. exd5 Qxd5 21. Qf3 Qxf3 22.
+Nxf3 Nd5 23. Bd2 f6 24. a5 Kf7 25. g4 Red8 26. Kf1 Rb7 27. Red1 Re7 28. Rac1 Re6
+29. Re1 Nde7 30. Re3 Ng6 31. Re4 Rxd3 32. Be3 Rd5 33. h4 h5 34. gxh5 Nf4 35.
+Bxf4 exf4 36. Rxf4 Kg8 37. Kg2 Rxh5 38. Rd1 bxc3 39. bxc3 Ne7 40. Rg4 Nd5 41.
+Ng5 fxg5 42. Rxd5 Rxh4 43. Rdxg5 Rxg4+ 44. Rxg4 Be7 45. Rg3 Bf6 46. Rd3 Re4 47.
+Nb6 c4 48. Rd5 Bxc3 49. Rc5 Re2 50. Rc8+ Kh7 51. Nxc4 Bd4 52. Rf8 Rc2 53. Nb6
+Bc5 54. Ra8 Rxf2+ 55. Kg3 Ra2 56. Rxa6 Bxb6 57. Rxb6 Rxa5 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.04"]
+[Round "11.1"]
+[White "Leko, Peter"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2732"]
+[BlackElo "2786"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Pytel-Wade variation"]
+[WhiteFideId "703303"]
+[BlackFideId "2020009"]
+[EventDate "2012.11.22"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5 Qb6 7. Na3 c6 8. Nc4
+Qd8 9. g3 Be6 10. Qe2 Bg7 11. Bg2 O-O 12. O-O Qc8 13. Ng5 Bd5 14. Bh3 Bxc4 15.
+Qxc4 Nbd7 16. Qe2 Qd8 17. c4 h6 18. Nf3 Re8 19. Rd1 e6 20. Bd2 a5 21. Bc3 Qc7
+22. Rac1 a4 23. Bg2 Rad8 24. Rd3 Ng4 25. Re1 h5 26. h3 Nh6 27. Bd2 c5 28. Bg5
+Rc8 29. Bf4 Qa5 30. dxc5 Nxc5 31. Qd2 Qxd2 32. Rxd2 Red8 33. Red1 Rxd2 34. Rxd2
+Ne4 35. Rc2 Nc5 36. Rd2 Ne4 37. Rd7 Nc5 38. Rd1 f6 39. Be3 Nf5 40. Bxc5 Rxc5 41.
+Rd8+ Kh7 42. Bf1 Rc7 43. Ra8 e5 44. Rxa4 e4 45. Nd2 Nd6 46. Ra5 f5 47. Rd5 Nc8
+48. b4 Bc3 49. a3 Ne7 50. Rd6 Bb2 51. Nb1 Nc6 52. c5 Re7 53. Kg2 h4 54. b5 Nd4
+55. Nd2 hxg3 56. Kxg3 Bc3 57. Nb1 Bb2 58. Nd2 Bc3 59. Nb1 Bb2 60. Nd2 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.04"]
+[Round "11.2"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2751"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "14200244"]
+[BlackFideId "2805677"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5 15.
+Bc4 Rb8 16. b3 Kh8 17. O-O f5 18. exf5 Bxf5 19. Nce3 Bg6 20. Bd3 Bxd3 21. Qxd3
+Bxe3 22. fxe3 Rxf1+ 23. Qxf1 Rxb3 24. Rc4 Rb5 25. Nc7 Rb6 26. Nd5 Rb5 27. e4 Rc5
+28. Rxc5 dxc5 29. Qf7 h6 30. Qe6 Qa8 31. Qd7 a4 32. Nb6 Qb8 33. Qxc6 a3 34. Qxc5
+Qa7 35. Na4 Qxa4 36. Qf8+ Kh7 37. Qf5+ Kg8 38. Qe6+ Kf8 39. Qf5+ Kg8 40. Qc8+
+Kf7 41. Qf5+ Kg8 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.04"]
+[Round "11.3"]
+[White "Wang, Hao"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2764"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "8602883"]
+[BlackFideId "13401319"]
+[EventDate "2012.11.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3 Qc7
+9. Bd2 Be7 10. Nxg6 hxg6 11. O-O-O Nbd7 12. cxd5 cxd5 13. Kb1 Qb6 14. Qa4 a6 15.
+g4 Qc6 16. Qxc6 bxc6 17. Na4 e5 18. Be2 g5 19. Rc1 Rh6 20. Rxc6 Ne4 21. Rxh6
+Nxd2+ 22. Kc2 gxh6 23. Kxd2 exd4 24. exd4 Bd6 25. h4 Ke7 26. hxg5 Bf4+ 27. Kc2
+Bxg5 28. b4 a5 29. Bb5 Nf8 30. Nb6 Rb8 31. bxa5 Ne6 32. Kd3 Kd6 33. a4 Nf4+ 34.
+Kc3 Ne6 35. Kd3 Nf4+ 36. Kc3 Ne6 37. Re1 Bf6 38. Rxe6+ fxe6 39. a6 Rh8 40. a7
+Kc7 41. a8=Q Rxa8 42. Nxa8+ Kb7 43. Bd7 e5 44. dxe5 Bxe5+ 45. Kd3 d4 46. a5 Kxa8
+47. a6 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.04"]
+[Round "11.4"]
+[White "Karjakin, Sergey"]
+[Black "Ponomariov, Ruslan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2741"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "14103320"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 O-O 13. g3 Be6 14. Bg2 Bg5 15. O-O
+Qb8 16. b3 a5 17. f4 Bd8 18. Kh1 Ra7 19. Qh5 f6 20. Rad1 Ne7 21. Nce3 Bb6 22.
+Nxb6 Qxb6 23. Rd3 Qc5 24. Qd1 Rd8 25. f5 Bf7 26. g4 a4 27. g5 axb3 28. axb3 Kf8
+29. Qg4 Rda8 30. gxf6 gxf6 31. Qh4 Ng8 32. Ng4 Ke7 33. Qxh7 Ra1 34. Ne3 Kf8 35.
+Qh4 R8a2 36. Qg3 Qc6 37. h3 Rxf1+ 38. Nxf1 Ra1 39. Kh2 Ra2 40. Qe1 Bh5 41. Ng3
+Be8 42. Qxb4 Qc5 43. Qe1 Bc6 44. Nf1 Nh6 45. Qh4 Nf7 46. Qe1 Ke7 47. h4 Nh6 48.
+Rd2 Qa5 49. Kh3 Ra3 50. Qg3 Nf7 51. Rd3 Qa8 52. Ne3 Qh8 53. c5 Ra2 54. cxd6+
+Nxd6 55. Nd5+ Bxd5 56. Rxd5 Qc8 57. b4 Rc2 58. Kh2 Qc4 59. Rc5 Qe2 60. Qg8 Nf7
+61. Rxc2 Qxc2 62. Qb8 Qd2 63. Qa7+ Kf8 64. Qc5+ Kg7 65. b5 Nh6 66. Qe7+ Nf7 67.
+Qa3 Nd6 68. b6 Nxe4 69. Qf3 Nd6 70. b7 Qb4 71. Qh5 Nf7 72. Bd5 Nh8 73. Kh3 Qb1
+74. Qg4+ Kh6 75. Qf3 Qb6 76. Qb3 Qf2 77. b8=Q Qxf5+ 78. Kh2 1-0
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.04"]
+[Round "11.5"]
+[White "Svidler, Peter"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2748"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "4116992"]
+[EventDate "2012.11.22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 d6 8. O-O
+Bd7 9. a4 Nf6 10. Nxc6 Bxc6 11. a5 b5 12. axb6 Qxb6 13. Re1 Be7 14. Ra3 Qc7 15.
+Nd5 exd5 16. exd5 Bd7 17. Rae3 Ng8 18. Qe2 Qd8 19. c4 Kf8 20. c5 Bb5 21. Qh5 g6
+22. Qd1 Bg5 23. c6 Bf6 24. Bh3 Kg7 25. Bd2 h5 26. Qc2 Qc7 27. Bc3 h4 28. g4 g5
+29. Qf5 Rh6 30. Qxg5+ Rg6 31. Qf4 Kf8 32. Bxf6 Nxf6 33. g5 Nxd5 34. Qxh4 Nxe3
+35. Qh8+ Rg8 36. Qh6+ Rg7 37. Qh8+ Rg8 38. Qh6+ Rg7 39. Qh8+ 1/2-1/2
+
+[Event "FIDE GP Tashkent"]
+[Site "Tashkent UZB"]
+[Date "2012.12.04"]
+[Round "11.6"]
+[White "Dominguez Perez, Leinier"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2762"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "3503240"]
+[BlackFideId "2000024"]
+[EventDate "2012.11.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. Nbd2 Re8 13. Nf1 h6 14. Ng3 Bf8 15. d4
+cxd4 16. cxd4 d5 17. Nxe5 dxe4 18. b3 Nc6 19. Bb2 Nb4 20. Bb1 Rc8 21. a3 Nc6 22.
+Nxe4 Nxe5 23. Nxf6+ Qxf6 24. dxe5 Qe6 25. b4 Rc4 26. Qd3 g6 27. Ba2 a5 28. bxa5
+Bc5 29. Qg3 h5 30. Bxc4 bxc4 31. Rad1 Rc8 32. Bc3 Bxa3 33. Rd6 1-0
+

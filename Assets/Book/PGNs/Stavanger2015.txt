@@ -1,0 +1,949 @@
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Giri,A"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2781"]
+[EventDate "2015.06.17"]
+[ECO "B31"]
+
+1. Nf3 c5 2. e4 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Rb8 7. h3 Qc7
+8. c3 Nf6 9. e5 Nd5 10. c4 Nb4 11. d4 cxd4 12. a3 Na6 13. Qxd4 O-O 14. c5
+d6 15. cxd6 exd6 16. exd6 Qb6 17. Qh4 Nc5 18. Be3 Qxb2 19. Nbd2 Nd7 20.
+Rab1 Qxa3 21. Rxb8 Nxb8 22. Bh6 Nd7 23. Bxg7 Kxg7 24. Qd4+ Kg8 25. Ne4 Re8
+26. Kh2 a5 27. Nfg5 Rf8 28. Nf6+ Nxf6 29. Qxf6 Qa2 30. Re7 Bf5 31. Nxf7
+Qxf7 32. Rxf7 Rxf7 33. Qd8+ Kg7 34. Qxa5 Bd7 35. Qc5 Rf5 36. Qa7 Rf7 37. g4
+Kf6 38. f4 Kg7 39. Kg3 Kg8 40. Qe3 Kg7 41. h4 Kg8 42. Qe5 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2876"]
+[BlackElo "2798"]
+[EventDate "2015.06.17"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Rc1 g6 9. Be2 Bg7 10. cxd5 exd5 11. b4 a6 12. a4 O-O 13. b5 axb5 14. axb5
+Qd6 15. O-O Nb6 16. Qb3 Rb8 17. Nd1 Bf5 18. Nb2 Rfc8 19. Nd3 Bxd3 20. Qxd3
+c5 21. dxc5 Rxc5 22. h4 Na4 23. h5 Rbc8 24. Rxc5 Nxc5 25. Qc2 gxh5 26. Nd4
+Qg6 27. Nf5 Bf8 28. Rd1 Qe6 29. Rc1 Nb3 30. Qxc8 Nxc1 31. Qxc1 Qxf5 32. Qc7
+Qb1+ 33. Bf1 d4 34. exd4 Qd1 35. Qe5 Bg7 36. Qe8+ Bf8 37. Qd8 Kg7 38. Qd5
+b6 39. Qe5+ Kg8 40. Qf6 Bg7 41. Qxb6 Bxd4 42. Qxh6 Qg4 43. Qd6 Qd1 44. Qd8+
+Kh7 45. Qc7 Kg7 46. b6 Qg4 47. b7 Qh4 48. g3 Qf6 49. Qc2 Qe5 50. Qd3 Ba7
+51. Qf3 Qf6 52. Qe2 Qc3 53. Kh2 Qd4 54. Qf3 Bb8 55. Kh3 Bc7 56. Be2 Bb8 57.
+Bd1 f5 58. Be2 f4 59. Qxh5 Qxf2 60. Qg5+ Kf7 0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Anand,V"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2804"]
+[BlackElo "2805"]
+[EventDate "2015.06.17"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 O-O 6. Bxc6 bxc6 7. Nxe5
+Re8 8. Nef3 d5 9. O-O Bg4 10. h3 Bh5 11. Qe2 dxe4 12. Nxe4 h6 13. Be3 Nxe4
+14. dxe4 Rxe4 15. Qd3 Bxf3 16. Qxd8+ Rxd8 17. Bxc5 Be2 18. Rfc1 a5 19. b3
+a4 20. Re1 Rd2 21. Rac1 axb3 22. axb3 Rd5 23. Be3 Bh5 24. Ra1 Bg6 25. Ra7
+Re7 26. c4 Rd8 27. Rea1 Bc2 28. b4 Rd1+ 29. Rxd1 Bxd1 30. b5 cxb5 31. cxb5
+Re5 32. Rxc7 Rxb5 33. Rc5 Rxc5 34. Bxc5 Bc2 35. Bd6 Bd1 36. Bc5 Bc2 37. Bd6
+Bd1 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Nakamura,Hi"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteElo "2802"]
+[BlackElo "2677"]
+[EventDate "2015.06.17"]
+[ECO "A20"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. b3 Be7
+8. Bb2 f6 9. d4 e4 10. Ne1 f5 11. f3 exf3 12. Nxf3 Nd5 13. Qd3 O-O 14. e3
+Be6 15. a3 Qd7 16. Nbd2 Rad8 17. Rac1 Nb6 18. b4 a6 19. Nb3 Na4 20. Ba1 Bd5
+21. Nbd2 Qe6 22. Rfe1 Nb6 23. e4 fxe4 24. Nxe4 Qg6 25. Qe2 Rfe8 26. Ne5
+Nxe5 27. dxe5 c6 28. Bd4 Nd7 29. Bf3 Rf8 30. Bh5 Qh6 31. Be3 Qe6 32. Bf4 a5
+33. Ng5 Qf5 34. Bg4 Qg6 35. Bh5 Qf5 36. e6 Nf6 37. Bf7+ Kh8 38. Rf1 Ne4 39.
+Nxe4 Qxe4 40. Qxe4 Bxe4 41. Be3 axb4 42. Bc5 Rd2 43. Rfe1 Bxc5+ 44. Rxc5
+Rg2+ 45. Kf1 b3 46. Rxe4 b2 47. Re1 Rxh2 48. Rce5 Rh1+ 49. Kg2 b1=Q 50.
+Rxb1 Rxb1 51. e7 Ra8 52. e8=R+ Rxe8 53. Rxe8+ 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.16"]
+[Round "1"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2780"]
+[EventDate "2015.06.17"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Nbd7
+8. e3 g5 9. Bg3 Ne4 10. Qc2 h5 11. h3 Bxc3+ 12. bxc3 Nxg3 13. fxg3 Nb6 14.
+Bd3 g4 15. hxg4 Bxg4 16. O-O Qe7 17. Ne5 Be6 18. Bf5 Nd7 19. e4 Nxe5 20.
+exd5 O-O-O 21. dxe6 fxe6 22. Rae1 exf5 23. Rxe5 Qa3 24. Rfxf5 Kb8 25. Rxh5
+Rxh5 26. Rxh5 a6 27. Kh2 Rf8 28. Qb3 Qe7 29. Qd5 Qe2 30. a4 Qd3 31. c4 a5
+32. Rh4 Qc3 33. g4 Qe1 34. Rh7 Qc1 35. Qe5 Qxc4 36. g5 Rg8 37. Rh8 Qf7 38.
+Rxg8+ Qxg8 39. Qf6 b5 40. axb5 a4 41. g6 a3 42. b6 a2 43. Qe5 Qd8 44. bxc7+
+Qxc7 45. g7 Qxe5+ 46. dxe5 a1=Q 47. g8=Q+ Kc7 48. Qc4+ Kd8 49. Qd5+ Ke7 50.
+Qd6+ Ke8 51. Qc6+ Ke7 52. Qc7+ Ke6 53. Qd6+ Kf7 54. Qd7+ Kf8 55. Qf5+ Ke7
+56. g3 Qc3 57. Kh3 Ke8 58. Kh4 Qe1 59. Qf4 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2"]
+[White "Grischuk,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2780"]
+[EventDate "2015.06.17"]
+[ECO "A22"]
+
+1. c4 Nf6 2. Nc3 e5 3. e3 Bb4 4. Nge2 c6 5. a3 Ba5 6. b4 Bc7 7. Bb2 O-O 8.
+Ng3 d5 9. cxd5 Nxd5 10. Qc2 Nd7 11. Bd3 N7f6 12. O-O Nxc3 13. Bxc3 Be6 14.
+Rab1 Kh8 15. Rfd1 Ng4 16. Nf5 g6 17. f3 Nxh2 18. Kxh2 gxf5 19. Bxf5 Qh4+
+20. Kg1 Rg8 21. Bxe6 fxe6 22. Qe4 Rxg2+ 23. Kxg2 Rg8+ 24. Qg4 Rxg4+ 25.
+fxg4 Qxg4+ 26. Kf2 Qh4+ 27. Ke2 Qg4+ 28. Kd3 Qf5+ 29. Ke2 Qg4+ 30. Kd3 Qf5+
+1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2"]
+[White "Giri,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2804"]
+[EventDate "2015.06.17"]
+[ECO "A14"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8.
+e3 b6 9. Nc3 Ba6 10. Qe2 Qd7 11. Rfd1 Rac8 12. Nb5 Rfd8 13. Rac1 dxc4 14.
+bxc4 Qd3 15. Qxd3 Rxd3 16. Bf1 Rd7 17. d4 Rcd8 18. a4 Bb7 19. d5 exd5 20.
+Bh3 dxc4 21. Bxd7 Nxd7 22. Nd6 Ba6 23. Nxc4 f6 24. Rd2 Bxc4 25. Rxc4 a6 26.
+Rc1 b5 27. axb5 axb5 28. Ba3 Kf7 29. Rxd7 Rxd7 30. Bxc5 Ne5 31. Nxe5+ fxe5
+32. Bxe7 Kxe7 33. Kf1 Kd6 34. Ke2 e4 35. Rc8 Ra7 36. Kd2 Ra2+ 37. Kc3 Rxf2
+38. Rb8 Rxh2 39. Rxb5 Ke6 40. Kd4 Rg2 41. Kxe4 Rxg3 42. Kf4 Rg1 43. Rb6+
+Kf7 44. e4 h5 45. Rb7+ Ke6 46. Rb6+ Kd7 47. Kf5 Kc7 48. Rb2 Kd7 49. e5 Rf1+
+50. Kg5 Ke6 51. Kxh5 Kxe5 52. Kg4 g5 53. Kxg5 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2798"]
+[BlackElo "2802"]
+[EventDate "2015.06.17"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8.
+Nxe5 Nxe5 9. d4 Bxd4 10. Qxd4 d6 11. Bf4 c5 12. Qd2 O-O 13. f3 c4 14. Ba2
+Be6 15. Nc3 b4 16. Ne2 b3 17. Bb1 bxc2 18. Bxc2 Rxb2 19. Rfb1 Rxb1+ 20.
+Rxb1 Qc7 21. Rd1 Ne8 22. Qb4 Nd3 23. Bxd3 cxd3 24. Rxd3 Qc4 25. Qa3 d5 26.
+Kf2 Qc6 27. Nd4 Qc4 28. exd5 Qxd5 29. Nxe6 Qxe6 30. Qb3 Nf6 31. Qxe6 fxe6
+32. Rb3 Rc8 33. Bd2 Rc2 34. Ke2 Nd5 35. Kd3 Rc7 36. Rb8+ Kf7 37. g4 Rd7 38.
+Kc2 Rc7+ 39. Kb3 e5 40. Ra8 Rb7+ 41. Kc2 Rc7+ 42. Kd3 Rd7 43. Ke2 Rd6 44.
+h4 Nf4+ 45. Bxf4 exf4 46. a5 h6 47. h5 Ke7 48. Ra7+ Kf8 49. Ke1 Kg8 50. Ke2
+Kf8 51. Ke1 Kg8 52. Ke2 Kf8 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2876"]
+[EventDate "2015.06.17"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. b3 Bf5 13. Nd4 Bh7
+14. Bb2 Rd8 15. Nce2 Nd5 16. c4 Nb4 17. Nf4 Rg8 18. g4 Na6 19. Nf5 Nc5 20.
+Rxd8+ Kxd8 21. Rd1+ Kc8 22. Ba3 Ne6 23. Nxe6 Bxa3 24. Nexg7 Bf8 25. e6 Bxf5
+26. Nxf5 fxe6 27. Ng3 Be7 28. Kg2 Rf8 29. Rd3 Rf7 30. Nh5 Bd6 31. Rf3 Rh7
+32. Re3 Re7 33. f4 Ba3 34. Kf3 Bb2 35. Re2 Bc3 36. g5 Kd7 37. Kg4 Re8 38.
+Ng3 Rh8 39. h4 b6 40. h5 c5 41. g6 Re8 42. f5 exf5+ 43. Kf4 Rh8 44. Nxf5
+Bf6 45. Rg2 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.17"]
+[Round "2"]
+[White "Hammer,J"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2723"]
+[EventDate "2015.06.17"]
+[ECO "A29"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. e4 d6 8.
+d3 h6 9. Be3 Kh7 10. h3 Nd7 11. Rc1 Nd4 12. Bxd4 exd4 13. Ne2 c5 14. h4 b5
+15. cxb5 Rb8 16. a4 a6 17. b4 axb5 18. bxc5 dxc5 19. axb5 Rxb5 20. Nf4 Ne5
+21. Bh3 Bb7 22. h5 Nxf3+ 23. Qxf3 Qd6 24. Rb1 Rb4 25. Nd5 Bxd5 26. exd5 c4
+27. Rxb4 Qxb4 28. dxc4 Qxc4 29. d6 Qc5 30. d7 Qxh5 31. Qxh5 gxh5 32. Bf5+
+Kg8 33. Re1 Bf6 34. Re8 h4 35. g4 Kg7 36. f4 Bd8 37. Kg2 Bf6 38. Bd3 Bd8
+39. Kf3 Bf6 40. Bf1 Bd8 41. Ke4 Bf6 42. Kd5 Rg8 43. Kc6 Bd8 44. Rxd8 Rxd8
+45. Kc7 Rf8 46. d8=Q Rxd8 47. Kxd8 h5 48. gxh5 Kh6 49. Ke7 Kxh5 50. Be2+
+Kh6 51. Bf1 Kh5 52. f5 Kg4 53. f6 h3 54. Bxh3+ Kxh3 55. Kxf7 d3 56. Kg7 d2
+57. f7 d1=Q 58. f8=Q Qg4+ 59. Kf7 Qf5+ 60. Ke7 Qxf8+ 61. Kxf8 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2802"]
+[BlackElo "2805"]
+[EventDate "2015.06.17"]
+[ECO "A35"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. O-O Bg7
+8. Nxd5 Qxd5 9. d3 O-O 10. Be3 Bd7 11. Nd4 Qd6 12. Nxc6 Bxc6 13. Bxc6 Qxc6
+14. Rc1 Qa6 15. Qb3 b6 16. Rc4 Rfd8 17. Rfc1 Rd7 18. a3 Rad8 19. Rf4 Bf6
+20. h4 Qb7 21. Rc2 Qb8 22. Rf3 Rd5 23. Bg5 Qd6 24. Bxf6 exf6 25. Qa4 a5 26.
+Qf4 f5 27. Qxd6 R8xd6 28. Rf4 Rd4 29. Rxd4 Rxd4 30. Kg2 Kg7 31. Rc3 Kf6 32.
+e3 Rd6 33. Kf3 Ke5 34. a4 Kd5 35. Ke2 Rd7 36. Kd2 h6 37. Rc1 Kc6 38. Kc3 b5
+39. axb5+ Kxb5 40. b3 g5 41. hxg5 hxg5 42. Rh1 Ra7 43. Rh7 f4 44. gxf4 gxf4
+45. e4 a4 46. bxa4+ Rxa4 47. Rxf7 Ra3+ 48. Kd2 Ra2+ 49. Ke1 Ra3 50. Ke2
+Ra2+ 51. Kf3 Rd2 52. Rd7 Kc6 53. Rd5 Kb6 54. e5 Kc6 55. Rd8 Kc7 56. Rd6 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3"]
+[White "Vachier Lagrave,M"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2723"]
+[BlackElo "2798"]
+[EventDate "2015.06.17"]
+[ECO "D47"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 Qc7 12. dxe6 fxe6 13. Bc2 Bd6 14. Ng5
+Nf8 15. f4 O-O-O 16. Qe1 e5 17. f5 h6 18. Nf3 N8d7 19. Kh1 Rhe8 20. Bd2 Qc6
+21. Rd1 Nb6 22. Nd5 Nbxd5 23. exd5 Qd7 24. Ba5 e4 25. Ng1 Bc7 26. d6 Bxa5
+27. Qxa5 e3 28. Ne2 Qc6 0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2876"]
+[BlackElo "2773"]
+[EventDate "2015.06.17"]
+[ECO "B51"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Ngf6 5. Qe2 a6 6. Ba4 b5 7. Bc2 e6 8.
+d4 Bb7 9. O-O Be7 10. Re1 O-O 11. Nbd2 cxd4 12. cxd4 Rc8 13. Nf1 Re8 14.
+Ng3 Bf8 15. Be3 Rc7 16. Bd3 e5 17. d5 Nc5 18. Bc2 b4 19. a3 b3 20. Bxc5
+Rxc5 21. Bxb3 Qb6 22. Bc4 Rec8 23. Bd3 g6 24. Nf1 Bh6 25. Ne3 a5 26. b4
+axb4 27. axb4 R5c7 28. b5 Qc5 29. h3 Nh5 30. Qb2 Qb6 31. Qb4 Bxe3 32. Rxe3
+Rc3 33. Rae1 f5 34. exf5 Nf4 35. Be4 R3c5 36. fxg6 hxg6 37. Bxg6 Rxb5 38.
+Qe4 Rf8 39. Nxe5 dxe5 40. Rg3 Rxd5 41. Qb1 Qxb1 42. Bxb1+ Kh8 43. Be4 Rd7
+44. Bxb7 Rxb7 45. Rxe5 Rh7 46. Re4 Rhf7 47. Kh2 Kh7 48. Rf3 Kg6 49. h4 Nh5
+50. Rxf7 Rxf7 51. Re2 Nf4 52. Rd2 Nh5 53. g3 Nf6 54. Kg2 Rd7 55. Ra2 Rd5
+56. Ra4 Re5 57. g4 Re4 58. Rxe4 Nxe4 59. Kf3 Nd6 60. Kf4 Nf7 61. Ke4 Kf6
+62. f4 Nd6+ 63. Kd5 Nb5 64. h5 Nc3+ 65. Kd4 Nb5+ 66. Kc4 Nd6+ 67. Kc5 Ke6
+68. Kc6 Nf7 69. Kc7 Nh6 70. g5 Nf7 71. g6 Nh6 72. Kd8 Kf5 73. Ke7 Kxf4 74.
+Kf8 Kg5 75. g7 Kxh5 76. g8=Q Nxg8 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2780"]
+[BlackElo "2677"]
+[EventDate "2015.06.17"]
+[ECO "A29"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 O-O 9. d3 Be6 10. Be3 Nd5 11. Bd2 f6 12. Qc2 Nb6 13. b4 Nd4 14. Nxd4
+exd4 15. Na4 Bd5 16. Nxb6 cxb6 17. Bxd5+ Qxd5 18. Rfc1 Qd7 19. Qc7 Rad8 20.
+Rc2 Kf7 21. Rac1 g5 22. Qxd7 Rxd7 23. Rc7 Rfd8 24. g4 f5 25. h3 b5 26. Kg2
+Ke6 27. Rxd7 Rxd7 28. Kf3 Kf6 29. Rg1 Bd8 30. Bc1 Kg6 31. gxf5+ Kxf5 32.
+Rg4 Bf6 33. Bb2 Rd8 34. Re4 h5 35. Kg3 Be5+ 36. Kg2 Bf6 37. Kf1 Rd7 38. Ke1
+Rd8 39. Kd1 Rd7 40. Kc2 Rd8 41. Kb3 Kg6 42. f3 Kf5 43. a4 bxa4+ 44. Kxa4 a6
+45. Kb3 b5 46. Kc2 Rc8+ 47. Kd1 Rd8 48. Bc1 Ra8 49. Bd2 Rg8 50. Bc1 Ra8 51.
+Bb2 Rd8 52. Kc2 Rc8+ 53. Kd2 Rd8 54. Kd1 Rd6 55. Bc1 Rd8 56. Bb2 Rd6 57.
+Bc1 Rd8 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.18"]
+[Round "3"]
+[White "Anand,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2804"]
+[BlackElo "2781"]
+[EventDate "2015.06.17"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14.
+Ncb4 Nxb4 15. cxb4 O-O 16. Rxa4 a5 17. h4 Bh6 18. b5 Bd7 19. Nc3 d5 20.
+exd5 Kh8 21. Be2 f5 22. g3 Qb6 23. O-O Rbd8 24. Kg2 Bc8 25. f4 Rfe8 26.
+fxe5 Rxe5 27. Qd4 Qf6 28. Rc4 Bd7 29. Rf3 Bxb5 30. Nxb5 Rxe2+ 31. Kh3 Rxb2
+32. Rc6 Qxd4 33. Nxd4 Rd2 34. Ne6 Re8 35. Rxf5 g6 36. Rf6 Kg8 37. d6 Bg7
+38. Nxg7 Kxg7 39. Rf4 Kg8 40. Rc7 Rxd6 41. Rff7 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2798"]
+[BlackElo "2780"]
+[EventDate "2015.06.17"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6
+8. e3 O-O 9. Be2 dxc4 10. O-O Bd7 11. Bxc4 Bxc3 12. bxc3 Rfd8 13. Be2 Be8
+14. Qa3 Qe7 15. Qb2 Na5 16. Qb4 Qxb4 17. cxb4 Nc6 18. Rab1 a5 19. bxa5 Nxa5
+20. Rfc1 Rdc8 21. Ne1 Ra7 22. Nd3 Nc6 23. Bf3 Nd8 24. Nb4 Ra5 25. h4 Kf8
+26. Rc3 c6 27. Bd1 Ke7 28. Bb3 c5 29. Nd3 b6 30. dxc5 bxc5 31. f3 Rc7 32.
+e4 Nb7 33. Rbc1 Ba4 34. e5 Rc6 35. Kh2 Rb6 36. h5 Bxb3 37. axb3 Kd7 38. b4
+cxb4 39. Rc8 Nd8 40. R1c7+ Ke8 41. Nc5 Rxc5 42. Rxc5 b3 43. Rc1 Kd7 44.
+R8c7+ Ke8 45. Rc8 Kd7 46. R8c3 Ke7 47. Rd3 Nb7 48. Rdc3 Nd8 49. f4 f6 50.
+Rc7+ Ke8 51. Rxg7 fxe5 52. Rcc7 Kf8 53. Rh7 Kg8 54. Rcg7+ Kf8 55. Rd7 Kg8
+56. Rxh6 Nf7 57. Rg6+ Kh8 58. Rf6 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4"]
+[White "Giri,A"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2802"]
+[EventDate "2015.06.17"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8.
+a4 Rb8 9. d4 Bb6 10. Na3 O-O 11. axb5 axb5 12. Nxb5 Bg4 13. Bc2 exd4 14.
+cxd4 d5 15. e5 Ne4 16. Ra3 f6 17. exf6 Qxf6 18. Nc3 Bxf3 19. gxf3 Nxc3 20.
+bxc3 Qxf3 21. Qxf3 Rxf3 22. Kg2 Rbf8 23. Bb3 R3f5 24. Ra2 Na5 25. Bc2 R5f6
+26. Bd3 Nb7 27. Re1 Rf3 28. Rd2 Ba5 29. Bb2 c5 30. Ba6 Nd6 31. dxc5 Ne4 32.
+Rxd5 Rxf2+ 33. Kg1 Rxb2 34. Bc4 Kh8 35. Rxe4 Rc2 36. Rf5 Rd8 37. Rd5 Rf8
+38. Bd3 Rxc3 39. Kg2 h6 40. Ra4 Bd8 41. Re4 Bf6 42. Re6 Kg8 43. c6 Rc8 44.
+Rdd6 Rc5 45. Ba6 Ra8 46. Be2 Kf7 47. Re3 Ra2 48. Kh3 Rac2 49. Bf3 R2c3 50.
+Bd5+ Rxd5 51. Rxf6+ Kxf6 52. Rxc3 Rd8 53. Kg4 Rc8 54. c7 Ke6 55. Kh5 Kd6
+56. Rd3+ Ke6 57. Rc3 Kd6 58. Rd3+ Ke6 59. Rc3 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2876"]
+[EventDate "2015.06.17"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
+Nbd2 Re8 9. Re1 b5 10. Bc2 Bf8 11. Nf1 g6 12. h3 Bb7 13. Ng3 Nb8 14. d4
+Nbd7 15. a4 c5 16. d5 c4 17. Bg5 Bg7 18. Qd2 Rb8 19. Nh2 Bc8 20. Ng4 Nc5
+21. Nh6+ Bxh6 22. Bxh6 bxa4 23. Ra2 a3 24. bxa3 Nfd7 25. f4 a5 26. Rf1 f6
+27. f5 Nd3 28. Bxd3 cxd3 29. Qd1 Re7 30. Raf2 Rf7 31. Qxd3 Nc5 32. Qf3 Ba6
+33. Qg4 g5 34. h4 Bxf1 35. Rxf1 Qd7 36. hxg5 fxg5 37. Qh5 Kh8 38. f6 Rg8
+39. Bg7+ Rfxg7 40. fxg7+ Qxg7 41. Nf5 Qg6 42. Qxg6 Rxg6 43. Ne7 Kg7 44.
+Nxg6 Kxg6 45. Rf8 a4 46. c4 h5 47. Kf2 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4"]
+[White "Grischuk,A"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2677"]
+[EventDate "2015.06.17"]
+[ECO "A20"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. d3 Be7 7. Nh3 g5 8.
+Ng1 h5 9. h3 Nc6 10. Bxc6+ bxc6 11. Nf3 f6 12. Be3 Bxh3 13. Rxh3 g4 14. Rh1
+gxf3 15. exf3 Bb4 16. Qb3 Nd5 17. Bd2 Bxc3 18. Bxc3 Nxc3 19. Qxc3 Qd5 20.
+Rc1 h4 21. gxh4 O-O-O 22. Qxc6 Qxc6 23. Rxc6 Rxd3 24. Ke2 Rhd8 25. Rc2 R3d4
+26. h5 R8d7 27. h6 Rh7 28. Rc6 Rd6 29. Rxd6 cxd6 30. f4 Kd7 31. fxe5 dxe5
+32. f4 Ke6 33. fxe5 fxe5 34. Ke3 Kf7 35. Ke4 Kg8 36. Kxe5 Rd7 37. Rg1+ Kh8
+38. Rg7 Rd2 39. Rb7 a5 40. a4 Kg8 41. b3 Rh2 42. Rb6 Rd2 43. Rb5 Rd3 44.
+Ke4 Rh3 45. Kd4 Kh7 46. Kc4 Rh4+ 47. Kc3 Rh3+ 48. Kb2 Kxh6 49. Rxa5 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.19"]
+[Round "4"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2723"]
+[EventDate "2015.06.17"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8.
+g3 Be6 9. Bg2 b5 10. O-O Nbd7 11. Be3 Be7 12. Nd5 Nxd5 13. exd5 Bf5 14. f4
+Qc8 15. Rc1 O-O 16. b3 exf4 17. Bxf4 Qc5+ 18. Nd4 Bf6 19. Be3 Rfe8 20. Nxf5
+Rxe3 21. Kh1 Re5 22. c4 b4 23. Qxh5 g6 24. Qg4 Rxf5 25. Rxf5 Ne5 26. Rxe5
+Bxe5 27. Rf1 Qd4 28. Qxd4 Bxd4 29. Bf3 Re8 30. Kg2 Re3 31. Rd1 Bc5 32. h4
+Kg7 33. g4 Rc3 34. Rd2 Be3 35. Re2 a5 36. Be4 Bd4 37. Bf3 Bf6 38. g5 Bd4
+39. Be4 Be5 40. Bf3 Bd4 41. Be4 Be5 42. Bf3 Bd4 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5"]
+[White "Vachier Lagrave,M"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2773"]
+[EventDate "2015.06.17"]
+[ECO "D45"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
+O-O e5 9. cxd5 cxd5 10. e4 exd4 11. Nxd5 Nxd5 12. exd5 h6 13. Nxd4 Qh4 14.
+Nf3 Qh5 15. Bh7+ Kh8 16. Qf5 Qxf5 17. Bxf5 Nf6 18. Bc2 b6 19. Ba4 Bb7 20.
+Bc6 Bxc6 21. dxc6 Rac8 22. Be3 Rxc6 23. Rad1 Re8 24. Bd4 Bf8 25. g3 Kg8 26.
+Kg2 Ne4 27. Rfe1 Rce6 28. Re3 Nc5 29. Ra3 a5 30. Re3 Rd8 31. Rc1 Rxe3 32.
+Bxe3 Nd3 33. Rc3 Nxb2 34. Bxb6 Na4 35. Bxd8 Nxc3 36. Bxa5 Nxa2 37. Nd4 Nc1
+38. Bd2 Nd3 39. Nf5 h5 40. h3 f6 41. Kf3 Kf7 42. Ke2 Ne5 43. Bc3 Nc6 44. g4
+hxg4 45. hxg4 g6 46. Nd4 Nxd4+ 47. Bxd4 Ke6 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2876"]
+[BlackElo "2781"]
+[EventDate "2015.06.17"]
+[ECO "B91"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8.
+Bg2 b5 9. Nd5 Nbd7 10. Nec3 Bb7 11. a4 Nxd5 12. Nxd5 Nf6 13. axb5 Nxd5 14.
+exd5 axb5 15. Rxa8 Qxa8 16. Qd3 O-O 17. O-O Bc8 18. Be3 Bd7 19. Rc1 h6 20.
+Qd1 Qb7 21. Ra1 Ra8 22. h4 Ra6 23. b3 Bd8 24. c4 bxc4 25. bxc4 Bb6 26. c5
+Bxc5 27. Bxc5 dxc5 28. d6 Qb6 29. Rxa6 Qxa6 30. Bd5 Qc8 31. Qb3 Be8 32. Qc3
+c4 33. Bxc4 Bd7 34. Qb3 Qe8 35. Qf3 Kf8 36. h5 Kg8 37. Qe4 Bc6 38. Bd5 Bd7
+39. Kg2 Kh8 40. f4 exf4 41. Qxe8+ Bxe8 42. Bxf7 Bc6+ 43. Kf2 fxg3+ 44. Kxg3
+Bd7 45. Bg6 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5"]
+[White "Nakamura,Hi"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2802"]
+[BlackElo "2804"]
+[EventDate "2015.06.17"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. e3 b6 8.
+cxd5 exd5 9. Bd3 Ba6 10. Bxa6 Nxa6 11. Qd3 Qc8 12. Ne2 c5 13. b3 cxd4 14.
+exd4 Nc7 15. O-O Ne6 16. Bd2 Qd7 17. f3 Rac8 18. a4 Rc6 19. Rfc1 Rxc1+ 20.
+Rxc1 Rc8 21. Ra1 Ne8 22. Nc3 Rc6 23. a5 N8c7 24. f4 g6 25. axb6 axb6 26.
+Ra7 Ng7 27. Na2 Nge8 28. f5 Qxf5 29. Qxf5 gxf5 30. Nb4 Re6 31. Bf4 Nb5 32.
+Ra8 Nxd4 33. Nxd5 Kg7 34. Bd2 Rd6 35. Rxe8 Rxd5 36. Bc3 f6 37. Kf1 Nxb3 38.
+Re7+ Kg6 39. Re6 Nd2+ 40. Bxd2 Rxd2 41. Rxb6 Ra2 42. Rb4 Rd2 43. Ra4 Rb2
+44. Rc4 Rd2 45. Ra4 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5"]
+[White "Hammer,J"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2677"]
+[BlackElo "2798"]
+[EventDate "2015.06.17"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+Bd2 Nbd7 9. Qc2 a6 10. O-O-O Be7 11. Kb1 Qc7 12. h3 Rd8 13. c5 e5 14. f4
+exd4 15. exd4 Nh5 16. Ne2 Nhf6 17. Nc3 Nh5 18. Ne2 Nhf6 19. Ng3 Ng8 20. Bd3
+f5 21. Nxf5 gxf5 22. Bxf5 Ndf6 23. Bg6+ Kf8 24. g4 Ne4 25. g5 Rh4 26. Bc1
+Qd7 27. Qg2 b6 28. cxb6 Bd6 29. Bxe4 dxe4 30. d5 Ne7 31. dxc6 Qxc6 32. Rhe1
+Qxb6 33. Qxe4 Bc5 34. Rxd8+ Qxd8 35. Qc4 Qd4 36. Qxa6 g6 37. Re5 Qd6 38.
+Qa8+ Kg7 39. Qf3 Bd4 40. Re2 Qd7 41. Qd3 Nc6 42. Rh2 Nb4 43. Qc4 Rxh3 44.
+Rd2 Qf5+ 45. Ka1 Bc5 46. a3 Nd3 47. Rd1 Nxc1 48. Rxc1 Bf8 49. Qd4+ Kg8 50.
+Rc7 Qe6 51. Qc4 Qxc4 52. Rxc4 Kf7 53. a4 Rb3 54. a5 Rb5 55. Ra4 Bg7 56. Ra2
+Bd4 57. Ra4 Bxb2+ 58. Ka2 Bc1 59. a6 Rb2+ 60. Ka1 Rb8 61. Rc4 Be3 62. Rc7+
+Kg8 63. Rc6 Bd4+ 64. Ka2 Kf7 65. Rd6 Bc3 66. Rc6 Bh8 67. Ka3 Bd4 68. Ka4
+Rf8 69. Kb5 Kg7 70. Rc7+ Rf7 71. Rxf7+ Kxf7 72. Kc4 Ba7 73. Kd5 Ke7 74. Kc6
+Ke6 0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.21"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2780"]
+[BlackElo "2805"]
+[EventDate "2015.06.17"]
+[ECO "A30"]
+
+1. c4 c5 2. Nf3 Nf6 3. e3 e6 4. d4 d5 5. cxd5 exd5 6. Bb5+ Bd7 7. Bxd7+
+Nbxd7 8. dxc5 Nxc5 9. O-O Be7 10. Nc3 O-O 11. b3 Nce4 12. Ne2 Qa5 13. Bb2
+Ba3 14. Bxa3 Qxa3 15. Qc1 Qa6 16. Qb2 Rac8 17. Nfd4 Rc7 18. Rac1 Rfc8 19.
+a4 Qb6 20. Nb5 Rxc1 21. Rxc1 Rxc1+ 22. Qxc1 g6 23. f3 Nc5 24. Qc3 a6 25.
+Nbd4 Qd6 26. h4 b6 27. g3 a5 28. Nb5 Qe7 29. Nf4 h6 30. Nd4 Qe5 31. Nfe2
+Nfd7 32. Kg2 Kh7 33. Nf4 g5 34. hxg5 hxg5 35. Nh5 g4 36. fxg4 Qe4+ 37. Nf3
+Qxg4 38. Nf6+ Nxf6 39. Qxf6 Qxg3+ 40. Kxg3 Ne4+ 41. Kf4 Nxf6 42. Ke5 Kg6
+43. Nd4 Kg5 44. Kd6 Ng4 45. Nc2 Kf5 46. Kxd5 Nf6+ 47. Kc6 Ke4 48. Kxb6 Kd3
+49. Ne1+ Kxe3 50. Kxa5 Kd2 51. Nf3+ Kc3 52. b4 Nd5 53. b5 Kb3 54. Ne5 f5
+55. Nd7 Ne3 56. b6 Nc4+ 57. Kb5 Nd6+ 58. Kc6 Nc4 59. Kc5 Na5 60. Kb5 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2876"]
+[BlackElo "2802"]
+[EventDate "2015.06.17"]
+[ECO "D56"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Rc1 c6 10. Qc2 Nxc3 11. Qxc3 dxc4 12. Bxc4 b6 13. O-O Nd7 14.
+Rfd1 Bb7 15. h3 c5 16. d5 exd5 17. Bxd5 Bxd5 18. Rxd5 Nf6 19. Rd3 Rad8 20.
+Rcd1 Rxd3 21. Qxd3 Rc8 22. a4 c4 23. Qc2 Qe4 24. Nd4 c3 25. Qb3 Qd5 26. Qc2
+Qe4 27. Qxe4 Nxe4 28. b3 Nd2 29. Rc1 a5 30. Rc2 Nb1 31. Rc1 Nd2 32. Rc2 Nb1
+33. Nb5 Kf8 34. f3 Rd8 35. Nd4 Rc8 36. Rc1 Na3 37. Nc2 Nxc2 38. Rxc2 Rc5
+39. Kf2 b5 40. axb5 Rxb5 41. Rxc3 g6 42. f4 h5 43. Rc8+ Kg7 44. Ra8 Rxb3
+45. Rxa5 Rb2+ 46. Kf3 Rb3 47. Ra7 Rc3 48. Re7 Rb3 49. Kg3 Rb2 50. Kf3 Rb3
+51. g4 hxg4+ 52. hxg4 Rb1 53. Rd7 Rf1+ 54. Ke4 Rg1 55. g5 Ra1 56. Ke5 Ra3
+57. e4 Ra5+ 58. Kd6 Ra6+ 59. Ke5 Ra5+ 60. Rd5 Ra4 61. Rc5 Ra1 62. Rc2 Rf1
+63. Rc7 Re1 64. Ra7 Rg1 65. Ra4 Rf1 66. Ra6 Re1 67. Kd4 Rd1+ 68. Ke3 Re1+
+69. Kf3 Rf1+ 70. Kg3 Re1 71. e5 Re3+ 72. Kf2 Rb3 73. Rd6 Ra3 74. Rd8 Rc3
+75. Ke2 Ra3 76. Rd3 Ra1 77. Ke3 Re1+ 78. Kd4 Rf1 79. Ke4 Ra1 80. Rd7 Ra4+
+81. Rd4 Ra5 82. Rc4 Kf8 83. Rc8+ Kg7 84. Rc7 Kf8 85. Kd4 Ra4+ 86. Rc4 Ra5
+87. Rc8+ Kg7 88. e6 fxe6 89. Rc5 Ra7 90. Ke5 Rf7 91. Rc4 Rf5+ 92. Kxe6 Kg8
+93. Rc8+ Kg7 94. Rc7+ Kg8 95. Rc8+ Kg7 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6"]
+[White "Anand,V"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2723"]
+[EventDate "2015.06.17"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8.
+Bg2 Nc6 9. Be3 Be7 10. f4 Nd7 11. O-O Nxd4 12. Qxd4 O-O 13. Qd2 Rb8 14. Ne2
+b5 15. Rad1 Qc7 16. f5 Nf6 17. Ng3 Bb7 18. Kh1 Rbd8 19. Bxh6 gxh6 20. Qxh6
+d5 21. g5 Qxg3 22. Rd3 Nh5 23. g6 fxg6 24. fxg6 Rxf1+ 25. Bxf1 Nf6 26. Rxg3
+dxe4 27. Be2 e3+ 28. Kg1 Bc5 29. Kf1 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2781"]
+[BlackElo "2798"]
+[EventDate "2015.06.17"]
+[ECO "E20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Nge2 b5 8. Nf4
+exd5 9. cxd5 a6 10. Be2 Nbd7 11. O-O c4 12. Be3 Bc5 13. Bxc5 Nxc5 14. b4
+cxb3 15. axb3 b4 16. Nb5 Qb6 17. Kh1 g5 18. Qd4 Ncd7 19. Qxb6 Nxb6 20. Nc7
+Ra7 21. Nb5 Re7 22. Nxd6 gxf4 23. Bxa6 Rd8 24. Bxc8 Rxd6 25. Bf5 Nbd7 26.
+g3 fxg3 27. Rg1 Kf8 28. Rxg3 Nc5 29. Bh3 Re8 30. Rb1 Nh5 31. Rg5 Nf4 32.
+Bf1 Ra8 33. Bc4 Ra2 34. Rg4 Rh6 35. h4 Nfd3 36. Rg2 Rxh4+ 37. Kg1 Ra7 38.
+d6 Rh6 39. Rh2 Rxd6 0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6"]
+[White "Caruana,F"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2677"]
+[EventDate "2015.06.17"]
+[ECO "A13"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 d4 5. e3 Nc6 6. O-O Bc5 7. b4 Bxb4 8.
+exd4 O-O 9. Bb2 Rb8 10. Na3 Bxa3 11. Bxa3 Re8 12. Bb2 b5 13. Bc3 bxc4 14.
+Qa4 Bd7 15. Qxc4 Nd5 16. Rfb1 Rb6 17. a4 Qb8 18. Re1 a5 19. Qc5 Nxc3 20.
+dxc3 Rb2 21. Ng5 Qb6 22. Ne4 Ne7 23. Qg5 Ng6 24. h4 h6 25. Qg4 Bc6 26. h5
+Bxe4 27. Bxe4 Ne7 28. Qf3 Rd8 29. Rab1 Nd5 30. Rxb2 Qxb2 31. Rb1 Qa2 32.
+Rb7 Qxa4 33. Bxd5 exd5 34. Rxc7 Qe8 35. Rc5 a4 36. Rxd5 Rxd5 37. Qxd5 a3
+38. Qa5 Qe1+ 39. Kg2 Qe4+ 40. Kh2 Qc2 41. Qxa3 Qxf2+ 42. Kh3 Qf1+ 43. Kh2
+Qf2+ 44. Kh3 Qf1+ 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.22"]
+[Round "6"]
+[White "Giri,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2780"]
+[EventDate "2015.06.17"]
+[ECO "D39"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4
+8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Nbd7 11. Bxf6 Qxc3+ 12. Kf1 gxf6 13. h4
+a6 14. Rh3 Qb4 15. Be2 Ne5 16. Rb1 Qd6 17. Qd2 Bd7 18. Rxb7 Bb5 19. Rb3 Rc8
+20. Bxb5+ axb5 21. Qb4 Qxb4 22. Rxb4 O-O 23. R7xb5 Rfd8 24. Ke2 Kg7 25. Ra4
+Ra8 26. Rbb4 Rdb8 27. Nb3 Rxb4 28. Rxb4 Rxa2+ 29. Nd2 Kg6 30. g3 h5 31. Rd4
+f5 32. exf5+ Kxf5 33. Rf4+ Kg6 34. Rd4 Kf5 35. Rf4+ Kg6 36. Rd4 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Hammer,J"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2773"]
+[EventDate "2015.06.17"]
+[ECO "B08"]
+
+1. Nf3 g6 2. e4 d6 3. d4 Bg7 4. Nc3 Nf6 5. Be3 a6 6. Qd2 b5 7. Bh6 O-O 8.
+Bd3 Bg4 9. e5 dxe5 10. dxe5 Nh5 11. Bxg7 Nxg7 12. Be4 Bxf3 13. Bxf3 Qxd2+
+14. Kxd2 Ra7 15. Rad1 Nd7 16. Rhe1 Nb6 17. Bc6 Ne6 18. Kc1 Nd8 19. Be4 c5
+20. Nd5 Nxd5 21. Bxd5 Ne6 22. g3 c4 23. Bxe6 fxe6 24. f4 Kf7 25. h4 h5 26.
+Rd4 Rc8 27. Red1 Ke8 28. c3 a5 29. Kc2 Rb7 30. Re4 b4 31. Rdd4 Rbc7 32. Kd2
+Rc5 33. Kc2 R5c7 34. a3 b3+ 35. Kd2 Rc5 36. Ke3 R8c7 37. Rd2 Rd5 38. Red4
+Rxd4 39. Rxd4 Rc5 40. a4 Rc8 41. Re4 Kf7 42. Kd4 Kg7 43. Re2 Kf8 44. Rg2
+Kg7 45. Rd2 Kf7 46. Ke4 Ke8 47. Rd4 Rc5 48. Kf3 Kf7 49. Ke3 Ke8 50. Ke4 Rc7
+51. Kf3 Rc5 52. Ke3 Rc8 53. Re4 Kf7 54. Kd4 Kg7 55. Re3 Kf7 56. Re2 Kf8 57.
+Rg2 Kg7 58. Ke3 Kf7 59. Rh2 Kf8 60. Kd4 Kf7 61. Rg2 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Topalov,V"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2798"]
+[BlackElo "2805"]
+[EventDate "2015.06.17"]
+[ECO "E60"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Nc3 O-O 8.
+Ne5 e6 9. O-O Nfd7 10. Nf3 Nf6 11. Bf4 Nc6 12. Ne5 Nxe5 13. Bxe5 Bd7 14.
+Qd2 Qe7 15. Rac1 Bc6 16. Rc2 Rfd8 17. Rfc1 Ne8 18. Bxg7 Kxg7 19. e3 Nd6 20.
+Ne2 Bb5 21. Nf4 Rac8 22. h4 Rxc2 23. Rxc2 Rc8 24. Rxc8 Nxc8 25. Qa5 Qd7 26.
+b3 b6 27. Qc3 Qc6 28. Qa1 Qc7 29. Bh3 Qc2 30. a4 Ba6 31. Qa3 Qd1+ 32. Kh2
+Qd2 33. Bg2 h6 34. a5 Qxa5 35. Qc1 Qb4 36. e4 Qxd4 37. exd5 e5 38. Ne6+
+fxe6 39. Qc7+ Kf6 40. Qd8+ Kf7 41. Qd7+ Kf8 42. Qd8+ Kf7 43. Qd7+ Kf8 44.
+Qd8+ 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Vachier Lagrave,M"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2876"]
+[EventDate "2015.06.17"]
+[ECO "D43"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8.
+Nxe4 dxe4 9. Nd2 Qxd4 10. e3 Qxb2 11. Rb1 Qc3 12. Be2 Nd7 13. O-O Nc5 14.
+Nb3 Nd3 15. Nd2 Nc5 16. Nb3 Nd3 17. Nd2 Nc5 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2780"]
+[BlackElo "2804"]
+[EventDate "2015.06.17"]
+[ECO "A29"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3
+8. bxc3 Re8 9. f3 exf3 10. Nxf3 Qe7 11. e3 Ne5 12. Nxe5 Qxe5 13. Rb1 Rb8
+14. Rb5 Qe7 15. d3 d6 16. e4 Bg4 17. Bf3 Bh3 18. Bg2 Bg4 19. Bf3 Bh3 20.
+Bg2 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.23"]
+[Round "7"]
+[White "Nakamura,Hi"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2802"]
+[BlackElo "2781"]
+[EventDate "2015.06.17"]
+[ECO "A37"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 Nge7 7. O-O O-O 8.
+Ne1 d6 9. Nc2 Be6 10. Ne3 Qd7 11. d3 Bh3 12. Rb1 Bxg2 13. Kxg2 f5 14. Ned5
+Nxd5 15. Nxd5 Ne7 16. Nc3 h5 17. b4 Rf7 18. f3 e4 19. Bb2 exf3+ 20. Rxf3
+Re8 21. bxc5 dxc5 22. Qd2 Qe6 23. Re1 Nc6 24. Nd5 Bxb2 25. Qxb2 Nd4 26. Rf2
+b5 27. Qc1 bxc4 28. Qxc4 Nc2 29. Qxc2 Qxd5+ 30. Kg1 Rfe7 31. Rc1 Re5 32.
+Qc4 Qxc4 33. Rxc4 Kg7 34. e4 fxe4 35. dxe4 Rxe4 36. Rxc5 R8e7 37. Ra5 R4e5
+38. Ra6 R5e6 39. Ra5 Re5 40. Ra6 R5e6 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Grischuk,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2805"]
+[EventDate "2015.06.17"]
+[ECO "A49"]
+
+1. Nf3 Nf6 2. g3 g6 3. d4 d5 4. c4 c6 5. Bg2 Bg7 6. Qb3 O-O 7. Nc3 Qb6 8.
+O-O Rd8 9. Na4 Qxb3 10. axb3 Na6 11. Nc3 Bf5 12. Bf4 Nh5 13. Bg5 Nf6 14.
+Bf4 Nh5 15. Bg5 Nf6 16. Rfc1 h6 17. Bd2 Ne4 18. cxd5 cxd5 19. Be1 Nb8 20.
+e3 Nc6 21. Nh4 Nxc3 22. bxc3 Be4 23. Bxe4 dxe4 24. b4 a6 25. c4 e6 26. Rab1
+Na7 27. Ng2 g5 28. Bc3 Rac8 29. c5 e5 30. dxe5 Nc6 31. Ne1 Bxe5 32. Kf1
+Bxc3 33. Rxc3 Rd2 34. Rc2 Rcd8 35. b5 axb5 36. Rxd2 Rxd2 37. Rxb5 Nd8 38.
+Rb4 Ne6 39. Rxb7 Nxc5 40. Rb5 Nd7 41. h3 Kg7 42. Rb4 f5 43. Rc4 Ne5 44. Rc2
+Rd1 45. Ke2 Ra1 46. f4 exf3+ 47. Nxf3 Nxf3 48. Kxf3 Rf1+ 49. Kg2 Ra1 50.
+Kf3 Rf1+ 51. Kg2 Ra1 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2876"]
+[BlackElo "2780"]
+[EventDate "2015.06.17"]
+[ECO "C90"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8.
+c3 O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 h6 13. Ne3 Re8 14. a4 Be6
+15. d4 exd4 16. cxd4 Nb4 17. Bb1 bxa4 18. Rxa4 Bf8 19. Ra1 d5 20. e5 Ne4
+21. h3 Qb6 22. Nxd5 Bxd5 23. Bxe4 Rad8 24. Bxd5 Rxd5 25. Be3 Red8 26. dxc5
+Bxc5 27. Qb3 Bxe3 28. Rxe3 a5 29. e6 fxe6 30. Rae1 R8d6 31. Rc1 Nd3 32.
+Rc8+ Kh7 33. Qa4 Qxb2 34. Qe4+ Rf5 35. Kh2 Nf4 36. Rc2 Qa1 37. g4 Qf1 38.
+Ne1 Nh5 39. gxf5 exf5 40. Qc4 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Giri,A"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2798"]
+[EventDate "2015.06.17"]
+[ECO "E10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Qc2 Nbd7 9. Rd1 b6 10. b3 a5 11. Bc3 Bb7 12. Nbd2 c5 13. Ne5 cxd4 14. Bxd4
+Nxe5 15. Bxe5 Qc8 16. Rac1 dxc4 17. Bxf6 Bxf6 18. Qxc4 Bxg2 19. Kxg2 Qb7+
+20. Qe4 Rfb8 21. Rc6 Qd7 22. Rcc1 Qb7 23. Qxb7 Rxb7 24. Ne4 Be7 25. Nd6 Rd7
+26. Nc4 Rxd1 27. Rxd1 b5 28. Ne5 Bf6 29. Nd7 a4 30. Rc1 axb3 31. axb3 Be7
+32. Rc7 Rd8 33. Rb7 Bd6 34. g4 h5 35. gxh5 Kh7 36. b4 Bxb4 37. Ne5 Rd5 38.
+Nxf7 Rxh5 39. f4 Kg6 40. Ne5+ Kh7 41. Nf7 Kg6 42. Ne5+ Kh7 43. Nf3 Rf5 44.
+Ng5+ Kh6 45. Kf3 Bd2 46. e3 b4 47. Nxe6 Rh5 48. Nxg7 Rxh2 49. Nf5+ Kg6 50.
+Ne7+ Kf6 51. Nd5+ Ke6 52. Ke4 Rh3 53. Rb6+ Kd7 54. Kd3 Bc1 55. Rxb4 Kd6 56.
+Kd4 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2802"]
+[BlackElo "2723"]
+[EventDate "2015.06.17"]
+[ECO "B92"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+Qd3 b5 9. a4 b4 10. Nd5 Bb7 11. Nxf6+ Bxf6 12. Bd2 a5 13. c3 bxc3 14. Bxc3
+O-O 15. O-O Nc6 16. Rfd1 Re8 17. Bf3 Be7 18. Qb5 Qc8 19. Bg4 Qxg4 20. Qxb7
+Rec8 21. Nxa5 Nxa5 22. Qxe7 Nb3 23. f3 Qf4 24. Ra3 Nd4 25. Raa1 Ne2+ 26.
+Kh1 Nxc3 27. bxc3 h5 28. Qxd6 Rxc3 29. Qd5 Ra6 30. Qb5 Rac6 31. Qf1 h4 32.
+h3 Rc2 33. Re1 Qd2 34. Red1 Qg5 35. Re1 Qd2 36. Rad1 Qb4 37. Qd3 Kh7 38.
+Qd8 Rf6 39. Rc1 Qxa4 40. Rxc2 Qxc2 41. Qd1 Qf2 42. Rf1 Qg3 43. Qd7 Rg6 44.
+Rg1 Rf6 45. Rf1 Rg6 46. Rg1 Rf6 47. Rf1 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.24"]
+[Round "8"]
+[White "Anand,V"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2677"]
+[EventDate "2015.06.17"]
+[ECO "A20"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. d3 Be7 7. Be3 O-O
+8. Rc1 f5 9. Nf3 Nc6 10. O-O Be6 11. b4 a6 12. a3 Kh8 13. Na4 Nxa4 14. Qxa4
+Bd5 15. Bc5 Bd6 16. Qc2 Qf6 17. e4 Be6 18. exf5 Bxf5 19. Be3 a5 20. b5 Ne7
+21. Bg5 Qf7 22. Qc3 h6 23. Bxe7 Qxe7 24. Nh4 Bxa3 25. Bxb7 Bxc1 26. Nxf5
+Rxf5 27. Bxa8 Ba3 28. Qxa5 Bc5 29. Be4 Rf8 30. Kg2 Qd6 31. h4 h5 32. Qd2
+Qf6 33. Qe2 g6 34. Bxg6 Qxg6 35. Qxe5+ Kg8 36. Qxc5 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Vachier Lagrave,M"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2781"]
+[EventDate "2015.06.17"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Nbd7
+8. e3 g5 9. Bg3 Ne4 10. Qc2 h5 11. h3 Qf6 12. Bd3 Bxc3+ 13. bxc3 Nxg3 14.
+fxg3 g4 15. hxg4 hxg4 16. Nh4 Nb6 17. Qf2 Qxf2+ 18. Kxf2 Be6 19. Nf5 Kd7
+20. Rh4 Rhg8 21. Ke2 Nc8 22. Rf1 Nd6 23. Nxd6 Kxd6 24. Bf5 Rg5 25. Bxe6
+Kxe6 26. Rh7 Rf8 27. a4 b6 28. Kd3 c5 29. Rh6+ f6 30. Rh7 Rf5 31. Rf4 c4+
+32. Ke2 Rxf4 33. gxf4 Kf5 34. Rd7 Ke4 35. Re7+ Kf5 36. Rd7 Ke4 37. Re7+ Kf5
+38. Rd7 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Topalov,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2798"]
+[BlackElo "2804"]
+[EventDate "2015.06.17"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8.
+Rc1 dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Bd7 12. Qb3 Nc6 13. Nxc6 Bxc3 14.
+Rxc3 Bxc6 15. Bb5 Bd5 16. Bc4 Bc6 17. Bb5 Bd5 18. Bc4 1/2-1/2
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Hammer,J"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2876"]
+[EventDate "2015.06.17"]
+[ECO "D30"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 4. Bg5 f6 5. Bd2 dxc4 6. e3 Nc6 7. Bxc4 Bd6 8.
+e4 Nge7 9. O-O O-O 10. Qb3 Kh8 11. Bxe6 Bxh2+ 12. Kxh2 Qd6+ 13. Kh1 Bxe6
+14. d5 Bg8 15. Qa3 Qxa3 16. Nxa3 Na7 17. Bb4 Rfe8 18. Rac1 Rac8 19. Nd4 f5
+20. f3 fxe4 21. fxe4 Ng6 22. Nf5 Rxe4 23. Bc3 Bxd5 24. Bxg7+ Kg8 25. Bd4
+Rxd4 26. Nxd4 Bxa2 27. b3 Rd8 28. Ne6 Rd2 29. Rc3 Re2 30. Nf4 Rb2 31. Nxg6
+hxg6 32. Rxc7 Rxb3 33. Rd1 Nc6 34. Rdd7 1-0
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2780"]
+[BlackElo "2802"]
+[EventDate "2015.06.17"]
+[ECO "A25"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 d6 5. e3 a6 6. Nge2 Ba7 7. a3 h5 8. d4
+h4 9. b4 Nge7 10. c5 Bf5 11. Bb2 Qd7 12. Qb3 h3 13. Bf3 exd4 14. Nxd4 Bg4
+15. Bxg4 Qxg4 16. Nxc6 Nxc6 17. Qd1 Qg6 18. cxd6 O-O-O 19. Rc1 Rxd6 20. Qc2
+Qh5 21. Qe2 Ne5 22. Qxh5 Nd3+ 23. Ke2 Nxc1+ 24. Rxc1 Rxh5 25. g4 Re5 26.
+Rg1 Re8 27. Rg3 Bd4 28. Na4 Bxb2 29. Nxb2 Red8 30. Nc4 Rc6 31. Ne5 Rc2+ 32.
+Ke1 f6 33. Nf3 Rh8 34. g5 Ra2 35. Nd4 Rxa3 36. Ne6 Ra1+ 37. Ke2 Rh1 38.
+gxf6 gxf6 39. Nf4 b6 40. Nxh3 Rb1 0-1
+
+[Event "3rd Norway Chess 2015"]
+[Site "Stavanger NOR"]
+[Date "2015.06.25"]
+[Round "9"]
+[White "Caruana,F"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2773"]
+[EventDate "2015.06.17"]
+[ECO "C80"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3
+Bf5 15. Re1 O-O 16. b4 Qd7 17. h3 Rfd8 18. g4 Bg6 19. Bf4 a5 20. bxa5 Rxa5
+21. Ba2 Rf8 22. b4 Ra4 23. Qd2 Nd8 24. Bg5 c5 25. Bxe7 Qxe7 26. bxc5 Qxc5
+27. Nh4 Ne6 28. Bb3 Rxa1 29. Rxa1 Qxe5 30. Nxg6 hxg6 31. Bxe6 fxe6 32. Qxd3
+b4 33. Rc1 Qf4 34. Rf1 b3 35. Qxg6 Qc4 36. Re1 Rf6 37. Qe8+ Kh7 38. Qh5+
+Rh6 39. Qe5 Rxh3 40. Qxe6 Qxe6 41. Rxe6 Rxc3 42. Rb6 Rc4 43. Rxb3 Rxg4+
+1/2-1/2
+

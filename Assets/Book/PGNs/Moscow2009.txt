@@ -1,0 +1,900 @@
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.05"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2772"]
+[EventDate "2009.11.05"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. cxd5 Ne4
+8. Qc2 exd5 9. Bf4 Nc6 10. e3 Re8 11. Nf3 g5 12. Bg3 g4 13. Ne5 Nxe5 14.
+Bxe5 c5 15. Bd3 Bf5 16. Qe2 f6 17. Bxe4 Bxe4 18. Bg3 Qa5+ 19. Qd2 Qxd2+ 20.
+Kxd2 c4 21. f3 gxf3 22. gxf3 Bg6 23. h4 Bh5 24. Ke2 Re6 25. Be1 Kf7 26. Kf2
+Rae8 27. Bd2 Rb6 28. Bc3 Rb3 29. a4 b6 30. Rhe1 Bg6 31. e4 dxe4 32. d5 a6
+33. fxe4 Bxe4 34. d6 f5 35. Rg1 Ke6 36. Rg7 Kxd6 37. Rxh7 Bd3 38. Kf3 Re4
+39. h5 Rh4 40. Rg1 Be4+ 41. Ke3 Rh3+ 42. Kf4 Rf3+ 43. Kg5 b5 44. axb5 axb5
+45. Kf6 Rbxc3 46. bxc3 Rxc3 47. Rg8 Rh3 48. Rc8 c3 49. Rhc7 c2 50. Kg5 Rh2
+51. Rc3 Ke6 52. Re8+ Kf7 53. Rb8 Rg2+ 54. Kf4 Ke6 55. Re8+ Kd7 56. Rb8 Ke6
+57. Re8+ Kf6 58. Rf8+ Ke6 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.05"]
+[Round "1"]
+[White "Morozevich,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2752"]
+[EventDate "2009.11.05"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nc3
+d6 8. Qg3 Qg6 9. Bd2 Nf6 10. f3 O-O 11. O-O-O Nd7 12. Qxg6 hxg6 13. h4 a5
+14. h5 gxh5 15. Rxh5 g6 16. Rh2 Bg1 17. Rh1 Bd4 18. a4 Bg7 19. b3 Ne5 20.
+Be2 Ba6 21. Bxa6 Rxa6 22. Rh3 Re8 23. Rdh1 Nd7 24. g4 Raa8 25. g5 Nc5 26.
+Ne2 Ne6 27. f4 Nc5 28. f5 gxf5 29. exf5 Rxe2 30. f6 Rxd2 31. Rh7 Rxc2+ 32.
+Kxc2 Ne6 33. fxg7 Ra7 34. R1h5 Rb7 35. Kc3 c5 36. Rh8+ Kxg7 37. R8h7+ Kg8
+38. Rh8+ Kg7 39. R8h7+ 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.05"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2758"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "E10"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Bd6 6. Bg2 c6 7. O-O Nbd7 8.
+Nc3 dxc4 9. Bg5 h6 10. Bxf6 Qxf6 11. Ne4 Qe7 12. Nfd2 Nb6 13. f4 O-O 14.
+Qc2 c5 15. Nxc4 Nxc4 16. Qxc4 cxd4 17. Nxd6 Qxd6 18. Rad1 e5 19. fxe5 Qxe5
+20. Qxd4 Qxd4+ 21. Rxd4 Be6 22. Bxb7 Rab8 23. Bd5 Bxd5 24. Rxd5 Rxb2 25.
+Ra5 Re8 26. Rxa7 Rexe2 27. Rfxf7 Re1+ 28. Rf1 Ree2 29. Rff7 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.05"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2754"]
+[EventDate "2009.11.05"]
+[ECO "D80"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6
+8. Nf3 Bg7 9. Qb1 b6 10. Be2 c5 11. O-O O-O 12. Rd1 Nd7 13. dxc5 Qe8 14. c6
+Nc5 15. Nd4 Bd5 16. Qb5 Rc8 17. Bxc4 Bxc6 18. Nxc6 Rxc6 19. Rac1 Rc7 20.
+Bg3 Qxb5 21. Bxb5 Rcc8 22. f3 a6 23. Be2 b5 24. Be1 Na4 25. c4 Nb2 26. Rd7
+Nxc4 27. Bxc4 e6 28. Bb4 Rfe8 29. Ra7 bxc4 30. Rxa6 c3 31. Rc2 Red8 32. Rd6
+Rxd6 33. Bxd6 Rd8 34. Bb4 Rd1+ 35. Kf2 Rb1 36. Bxc3 Bxc3 37. Rxc3 Rb2+
+1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.05"]
+[Round "1"]
+[White "Ivanchuk,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2788"]
+[EventDate "2009.11.05"]
+[ECO "D94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 c6 7. Qb3 e6 8.
+Bd3 Nbd7 9. O-O Qe7 10. Na4 Re8 11. Bb4 Qd8 12. Bd6 dxc4 13. Qxc4 Nb8 14.
+Qc5 b5 15. Nc3 Bb7 16. Rac1 a5 17. Bg3 Nbd7 18. Qd6 Bf8 19. Qc7 Qxc7 20.
+Bxc7 Rec8 21. Be5 b4 22. Na4 Nd5 23. Nc5 Nxc5 24. dxc5 f6 25. Bg3 e5 26.
+Rfd1 Ba6 27. Bxa6 Rxa6 28. Nd2 a4 29. e4 Nc7 30. f3 Bh6 31. Rb1 a3 32. Nc4
+Nb5 33. Be1 axb2 34. Rxb2 Rca8 35. Bxb4 Rxa2 36. Rxa2 Rxa2 37. Kf1 Bf8 38.
+Nd6 Nd4 39. Be1 Rc2 40. Bf2 Nb3 41. Nb7 Nxc5 42. Nxc5 Bxc5 43. Bxc5 Rxc5
+44. Rd8+ 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.06"]
+[Round "2"]
+[White "Carlsen,M"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2750"]
+[EventDate "2009.11.05"]
+[ECO "E25"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5
+8. dxc5 Qa5 9. e4 Nf6 10. Be3 O-O 11. Qb3 Na6 12. Nh3 Nd7 13. Bxa6 Qxa6 14.
+c4 Ne5 15. Rc1 Bd7 16. Qc3 f6 17. O-O Ba4 18. Nf4 Rfd8 19. Bd4 Ng6 20. Nxg6
+hxg6 21. e5 f5 22. h4 Rd7 23. Rf2 Rad8 24. Rd2 Qc6 25. Kh2 Qc7 26. Qe3 Kf7
+27. Kg3 Rh8 28. Qf4 Qd8 29. Rb1 Bc6 30. Rbb2 Qa5 31. Be3 Rxd2 32. Rxd2 Qxa3
+33. Qd4 Rc8 34. Rd1 Qa5 35. Ra1 Qd8 36. Qxd8 Rxd8 37. Rxa7 Rd3 38. Bg5 Rd4
+39. Be3 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.06"]
+[Round "2"]
+[White "Kramnik,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2788"]
+[EventDate "2009.11.05"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Bg5 h6
+14. Bh4 g5 15. Bg3 Nc6 16. d5 Rad8 17. Rxb7 e6 18. Bc7 Bxf3 19. Bxf3 Rd7
+20. dxc6 Rxd1 21. Rxd1 Qc2 22. Bd6 g4 23. Bxg4 Qxc6 24. Rc7 Qb6 25. Rd7 Rd8
+26. Bc7 Rxd7 27. Bxb6 Rxd1+ 28. Bxd1 axb6 29. Kf1 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.06"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2758"]
+[EventDate "2009.11.05"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+cxd5 Qxd5 15. Bf4 Rac8 16. Bd3 Qd7 17. Rb1 b6 18. d5 Bxd3 19. Qxd3 Bxa3 20.
+Ng5 g6 21. Ne4 Qf5 22. Bxc7 Rxc7 23. Nf6+ Qxf6 24. Rxe8+ Kg7 25. dxc6 Bc5
+26. Rb2 Rxc6 27. Qd8 Qxd8 28. Rxd8 a5 29. Kf1 a4 30. Ke2 a3 31. Ra2 b5 32.
+Rb8 Bd6 33. Rxb5 Rxc3 34. Kd2 Rc6 35. g3 h5 36. Kd1 h4 37. Ra5 hxg3 38.
+hxg3 Rb6 39. Rc2 Rb1+ 40. Ke2 Rb2 41. Kd3 Bb4 42. Ra4 Be1 43. Rxa3 Rxc2 44.
+Kxc2 Bxf2 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.06"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nxe5 Nxe4 6. Qe2 Nxe5 7. Qxe4
+Qe7 8. d4 Nc6 9. Qg4 h5 10. Qxg7 Bxd4 11. Qg3 a6 12. Bc4 h4 13. Qf4 d6 14.
+Bd5 Be5 15. Qc4 Bd7 16. c3 O-O-O 17. Nd2 Be6 18. f4 Bf6 19. Ne4 Rde8 20.
+Re1 Bxd5 21. Qxd5 Qe6 22. Qxe6+ Rxe6 23. Bd2 Bd8 24. Ng5 Rf6 25. Ne4 Re6
+26. Ng5 Rf6 27. Ne4 Re6 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.06"]
+[Round "2"]
+[White "Ponomariov,R"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2786"]
+[EventDate "2009.11.05"]
+[ECO "D87"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O
+8. Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Qd2 b6 13. Bh6 Rb8 14.
+Bxg7 Kxg7 15. Qe3 e5 16. Qg3 cxd4 17. cxd4 Qd6 18. d5 Na5 19. Bd3 Rb7 20.
+f4 exf4 21. Nxf4 Kg8 22. Qg5 f6 23. Qh6 Rf7 24. Rf3 Qe5 25. Rg3 Rg7 26.
+Nxg6 hxg6 27. Rxg6 Rxg6 28. Qxg6+ Kh8 29. Qh6+ Kg8 30. Qg6+ Kh8 31. Qh6+
+Kg8 32. Qg6+ 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.07"]
+[Round "3"]
+[White "Gelfand,B"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2758"]
+[BlackElo "2801"]
+[EventDate "2009.11.05"]
+[ECO "D80"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. cxd5 Nxc3 7. bxc3 Qxd5
+8. e3 Bg7 9. Nf3 cxd4 10. cxd4 Nc6 11. Be2 O-O 12. O-O Bf5 13. Nd2 e5 14.
+Bf3 Qd6 15. Nc4 Qb4 16. Bxc6 Qxc4 17. Bxb7 Rab8 18. Qf3 exd4 19. Bd5 Qb4
+20. e4 Be6 21. Rad1 Qc3 22. Qf4 Bxd5 23. exd5 Qc5 24. Bf6 Bxf6 25. Qxf6
+Qxd5 26. Qxd4 Qxa2 27. Ra1 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.07"]
+[Round "3"]
+[White "Anand,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2788"]
+[BlackElo "2754"]
+[EventDate "2009.11.05"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O
+8. h3 e5 9. Nf3 exd4 10. Bxd4 Bxd4 11. Qxd4 Qe7 12. Qe3 Nc6 13. Bb5 Nb4 14.
+Rc1 Be6 15. b3 a6 16. Be2 Nc6 17. O-O f6 18. Rfe1 Rad8 19. Bf1 Bf7 20. Nh2
+Be6 21. f4 Nd4 22. f5 Bf7 23. Ng4 gxf5 24. Nh6+ Kh8 25. Qf2 fxe4 26. Rxe4
+Qd6 27. Rd1 c5 28. Nxf7+ Rxf7 29. b4 f5 30. bxc5 fxe4 31. Qxf7 Nf3+ 32.
+Qxf3 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.07"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Qc2 O-O
+8. e3 c5 9. Be2 Qa5 10. O-O cxd4 11. Nxd4 Bxc3 12. bxc3 Re8 13. Bf4 Ne5 14.
+Rab1 a6 15. Bxe5 Rxe5 16. Rfc1 Qc7 17. c4 dxc4 18. Qxc4 Qxc4 19. Rxc4 b5
+20. Bf3 bxc4 21. Bxa8 Kf8 22. Rb8 Re8 23. Kf1 Nd7 24. Rb4 a5 25. Rb1 Ne5
+26. Bd5 c3 27. Bb7 Bxb7 28. Rxb7 Rc8 29. Nc2 Nc6 30. a3 Rd8 31. Rb1 Rd2 32.
+Rc1 Ne5 33. Nd4 Rxf2+ 34. Kxf2 Nd3+ 35. Kf3 Nxc1 36. Ke4 Ke7 37. Nc2 Kd6
+38. Kd4 Nb3+ 39. Kxc3 Nc5 40. Kc4 f5 41. Nd4 g6 42. Nf3 Ne6 43. h4 Nc7 44.
+Ng5 h5 45. g3 Nd5 46. Kd4 Nc7 47. a4 Nd5 48. Nf7+ Ke6 49. Nd8+ Kd6 50. Nb7+
+Ke6 51. Nd8+ Kd6 52. Nf7+ Ke6 53. Ne5 Nb6 54. Nxg6 Nxa4 55. Nf4+ Kf7 56.
+Nxh5 Nb6 57. Nf4 a4 58. Nd3 a3 59. Nb4 Kg6 60. Kc3 Kh5 61. Nc2 a2 62. Kb2
+Na4+ 63. Kxa2 Nc3+ 64. Kb3 Ne4 65. Kc4 Nxg3 66. Kd5 Kxh4 67. Ke5 Kg4 68.
+Nd4 Kg5 69. Nf3+ Kg4 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.07"]
+[Round "3"]
+[White "Morozevich,A"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteElo "2750"]
+[BlackElo "2772"]
+[EventDate "2009.11.05"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4
+8. Qxc4 b6 9. Bf4 Ba6 10. Qc2 Nbd7 11. e4 Bxf1 12. Kxf1 c5 13. Bd6 Re8 14.
+e5 Nd5 15. h4 cxd4 16. Ng5 f5 17. Qc4 Qc8 18. Qxd4 Nc5 19. Rd1 Nb3 20. Qd3
+Nc1 21. Qb5 Qc2 22. Rxd5 a6 23. Qxb6 Qc4+ 24. Kg1 exd5 25. g3 h6 26. Nf3 f4
+27. g4 Qe4 28. Kg2 Nd3 29. Qb3 Qc4 30. Qb7 Nxf2 31. Kxf2 Qc2+ 32. Kg1 Qd1+
+33. Kf2 Qxh1 34. e6 Rac8 35. Qf7+ Kh8 36. Bc5 Qc1 37. b4 Qc2+ 38. Kg1 Qe2
+39. Nd4 Qxg4+ 40. Kf2 Qxh4+ 41. Ke2 f3+ 42. Kxf3 Rf8 43. Bxf8 Rc3+ 44. Kg2
+Qg3+ 45. Kf1 Rc1+ 0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.07"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2786"]
+[BlackElo "2752"]
+[EventDate "2009.11.05"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 Bb7 10. h4 g4 11. Nxg4 Nxg4 12. Qxg4 Qxd4 13. Rd1 Qf6 14. a4
+h5 15. Qg5 Qxg5 16. hxg5 a6 17. Be5 Rg8 18. Rxh5 Nd7 19. Bf4 b4 20. Nb1 c5
+21. f3 Bg7 22. Rh7 Bd4 23. Bxc4 Nf8 24. Rh5 Ng6 25. Bc1 O-O-O 26. b3 Ne5
+27. Be2 Rd7 28. Rd2 Rgd8 29. Rc2 Ng6 30. Kf1 Kb8 31. g3 Ka7 32. Nd2 Ne5 33.
+Nc4 Nc6 34. Rd2 a5 35. Rd1 Ba6 36. f4 Bc3 37. Rxd7+ Rxd7 38. Rh7 Bc8 39.
+Be3 Bd4 40. Bxd4 cxd4 41. Bd3 Kb8 42. e5 f5 43. gxf6 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.08"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2786"]
+[EventDate "2009.11.05"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. Nd2 Bb7 10. Nce4 Be7 11. Nxf6+ Nxf6 12. O-O O-O 13. Nb3 c5 14.
+dxc5 Qd5 15. f3 Rfd8 16. Be2 Qe5 17. Qe1 Bd5 18. Qc3 Qxc3 19. bxc3 Bxb3 20.
+axb3 Nd5 21. b4 Nxc3 22. Kf2 a5 23. Rxa5 Rxa5 24. bxa5 Bxc5 25. Bb2 Nxe2
+26. Kxe2 Bb4 27. Ra1 Rd2+ 28. Kf1 Rxb2 29. a6 Bc5 30. Rc1 g6 31. Rxc5 Ra2
+32. Rxb5 Rxa6 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.08"]
+[Round "4"]
+[White "Ponomariov,R"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2788"]
+[EventDate "2009.11.05"]
+[ECO "D71"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 Nb6 7. Nc3 Nc6
+8. e3 O-O 9. O-O Re8 10. Re1 Bd7 11. b3 e5 12. Nxe5 Nxe5 13. dxe5 Bxe5 14.
+Bb2 c6 15. f4 Bg7 16. e4 Nc4 17. bxc4 Qb6+ 18. Kh1 Qxb2 19. Rb1 Qxc3 20.
+Qxd7 Rab8 21. Rec1 Qa3 22. Rd1 Re7 23. Qd6 Qxd6 24. Rxd6 Rbe8 25. Bf3 Bf8
+26. e5 Rc7 27. Rd3 f6 28. exf6 Re6 29. Bg4 Rxf6 30. Rd7 Rxd7 31. Bxd7 b6
+32. Rd1 Rd6 33. Rxd6 Bxd6 34. Bxc6 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.08"]
+[Round "4"]
+[White "Morozevich,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2758"]
+[EventDate "2009.11.05"]
+[ECO "A28"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. e3 Be7 7. Be2 O-O
+8. O-O Be6 9. Bd2 f5 10. Nxd5 Qxd5 11. Bc3 Rad8 12. Qc2 Kh8 13. a3 Bf6 14.
+b4 a6 15. Rac1 Qb3 16. Qxb3 Bxb3 17. e4 g6 18. Rfe1 Rfe8 19. Nd2 Ba4 20. g3
+Kg8 21. exf5 gxf5 22. Bh5 Rf8 23. Nc4 Bg5 24. Ra1 Rxd3 25. Nb2 Rxc3 26.
+Nxa4 Rc2 27. Nc5 e4 28. Bd1 Rb2 29. Bb3+ Kh8 30. Rab1 Rxb1 31. Rxb1 Nd4 32.
+Nxb7 f4 33. Nc5 e3 34. gxf4 Bxf4 35. fxe3 Bxe3+ 36. Kh1 Nxb3 37. Rxb3 Bxc5
+38. bxc5 Rf1+ 39. Kg2 Rc1 40. Rb8+ Kg7 41. Ra8 Rxc5 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.08"]
+[Round "4"]
+[White "Kramnik,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2754"]
+[EventDate "2009.11.05"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5
+8. Rc1 Qa5 9. Qd2 O-O 10. Nf3 Bg4 11. d5 Na6 12. h4 f5 13. exf5 Bxf5 14. h5
+Rad8 15. hxg6 Bxg6 16. Bh6 Bxh6 17. Rxh6 Rf6 18. Ne5 Qa4 19. Qe3 Qf4 20.
+Qxf4 Rxf4 21. Nxg6 hxg6 22. Rxg6+ Kf7 23. Rg5 Re4+ 24. Be2 Kf6 25. Rh5 Kg6
+26. g4 Rf8 27. Rd1 Rf6 28. Rh8 Kg7 29. Rd8 Rb6 30. f3 Re3 31. Rd3 Re5 32.
+Kf2 Rh6 33. Bf1 Rh2+ 34. Kg3 Rxa2 35. d6 exd6 36. R3xd6 Re7 37. R6d7 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.08"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8.
+f3 Be6 9. Qd2 O-O 10. O-O-O Qc7 11. g4 Rc8 12. Qf2 Nbd7 13. Kb1 b5 14. g5
+Nh5 15. Nd5 Bxd5 16. Rxd5 Rcb8 17. f4 Nxf4 18. Bxf4 exf4 19. Qxf4 Nb6 20.
+Rd3 Rc8 21. Rc3 Qd8 22. Rf3 Bxg5 23. Qxf7+ Kh8 24. Rg1 Qe7 25. Qh5 Rf8 26.
+Rxf8+ Rxf8 27. Bd3 Bh6 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.10"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2758"]
+[BlackElo "2772"]
+[EventDate "2009.11.05"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. Nc3 O-O 8.
+Bg5 b5 9. Ne5 Ra6 10. a4 bxa4 11. Nxc4 h6 12. Bxf6 Qxf6 13. O-O Rd8 14.
+Qxa4 Bd7 15. Qd1 Be8 16. e3 c5 17. d5 Bxc3 18. bxc3 Qxc3 19. Rc1 Qf6 20. d6
+a4 21. Qd3 Nc6 22. Nd2 Nb4 23. Qc4 Qb2 24. Ne4 Qb3 25. Qxc5 Nd5 26. Rb1 Qa2
+27. Qd4 a3 28. Rfc1 Rc6 29. Re1 Qc4 30. Ra1 Qxd4 31. exd4 Ra8 32. h4 Rb6
+33. Rec1 a2 34. Kh2 Rb2 35. Nc5 Bb5 36. Kg1 Ra7 37. Bf1 Bxf1 38. Kxf1 Nf6
+39. Nd3 Rd2 40. Ne5 Kh7 41. Rc7 Ra4 42. d7 Raxd4 43. Ra7 Rd1+ 44. Rxd1
+Rxd1+ 45. Ke2 Rd5 46. Kf3 Nxd7 47. Nxd7 Rxd7 48. Rxa2 Rd5 49. Ra7 Kg6 50.
+Ke3 Rb5 51. Ke2 Rb3 52. Re7 Ra3 53. Rb7 f5 54. Kf1 f4 55. gxf4 Rh3 56. Rb4
+Kf5 57. Rb7 Rh1+ 58. Kg2 Rxh4 59. f3 Kf6 60. Kg3 Rh1 61. Ra7 h5 62. Ra5 g6
+63. Ra7 Rg1+ 64. Kf2 Rd1 65. Kg3 Rd8 66. Rb7 Rh8 67. Ra7 Rg8 68. Kh4 Rd8
+69. Kg3 Rd5 70. Ra8 g5 71. fxg5+ Rxg5+ 72. Kh4 Rf5 73. Kg3 Rb5 74. Rf8+ Kg7
+75. Re8 Kf7 76. Rh8 Rf5 77. Rh6 Ke7 78. f4 Kd6 79. Kf3 Rb5 80. Ke4 Ke7 81.
+Kf3 Kf7 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.10"]
+[Round "5"]
+[White "Anand,V"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2788"]
+[BlackElo "2752"]
+[EventDate "2009.11.05"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. a4
+e5 15. Bg4 exd4 16. e5 c5 17. Re1 Nxe5 18. Bxe5 O-O 19. Bxg7 Kxg7 20. Ne2
+f5 21. Bh5 f4 22. Nxd4 cxd4 23. Re6 Bc8 24. Rg6+ Kh7 25. axb5 Rf6 26. Rxf6
+Qxf6 27. Qc2+ Bf5 28. Qxc4 Rc8 29. Qd5 axb5 30. h3 Kh8 31. Qxb5 Rf8 32. Ra6
+Qg7 33. Rd6 d3 34. Qb6 Qe5 35. Bg6 d2 36. Bxf5 Qxf5 37. Qd4+ Kh7 38. Qxd2
+Rf7 39. f3 h5 40. Rd5 Qg6 41. Qa5 Rg7 42. h4 Qb1+ 43. Kh2 Qxb2 44. Rxg5
+Rxg5 45. Qxg5 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.10"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2801"]
+[EventDate "2009.11.05"]
+[ECO "A48"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 b6 7. a4 c5 8. c3
+Ba6 9. O-O Qc8 10. Re1 Qb7 11. Bb5 Bxb5 12. axb5 a6 13. Qe2 axb5 14. Rxa8
+Qxa8 15. Qxb5 Na6 16. Bh2 Qb7 17. Nbd2 Nc7 18. Qb3 Ne6 19. Ra1 Rb8 20. Ra3
+b5 21. Qa2 Qd5 22. Qa1 Ne4 23. Qa2 Qxa2 24. Rxa2 Nxd2 25. Nxd2 b4 26. Kf1
+bxc3 27. bxc3 cxd4 28. cxd4 Nc7 29. Ra5 f5 30. g4 Rb5 31. Rxb5 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.10"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2750"]
+[EventDate "2009.11.05"]
+[ECO "D31"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Bd6 5. Qc2 f5 6. Bd3 Nf6 7. cxd5 cxd5 8.
+Nb5 Bb4+ 9. Bd2 Nc6 10. Nc7+ Qxc7 11. Bxb4 Bd7 12. Nf3 Rc8 13. Qb3 Ne4 14.
+Rc1 Qb6 15. Ba3 Qxb3 16. axb3 Kf7 17. Ke2 Rhd8 18. Rc2 Ke8 19. Rhc1 Na5 20.
+Ne5 Rxc2+ 21. Rxc2 Nc6 22. h4 Rc8 23. f3 Nf6 24. Bd6 g6 25. Rc5 a6 26. Kf2
+Nxe5 27. Rxc8+ Bxc8 28. dxe5 Ng8 29. g4 Nh6 30. gxf5 Nxf5 31. Bxf5 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.10"]
+[Round "5"]
+[White "Svidler,P"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Bd7 11. b3 Kc8 12. Bb2 b6 13. Rad1 c5
+14. Nd5 a5 15. a4 c4 16. g4 Ne7 17. Nf4 Nc6 18. e6 fxe6 19. Ng6 Rg8 20.
+Nfe5 Nxe5 21. Nxe5 Be8 22. Nxc4 b5 23. axb5 Bxb5 24. Rd4 a4 25. Ra1 Rb8 26.
+Ba3 axb3 27. cxb3 Bxc4 28. bxc4 Ra8 29. Bb2 Rxa1+ 30. Bxa1 Bd6 31. Re4
+1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.11"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2788"]
+[EventDate "2009.11.05"]
+[ECO "D39"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Bg5 Bb4 6. a3 Bxc3+ 7. bxc3 h6
+8. Bxf6 Qxf6 9. e3 b5 10. a4 c6 11. Ne5 a6 12. g4 Bb7 13. Bg2 Qe7 14. O-O
+O-O 15. f4 Nd7 16. Nxc6 Qd6 17. Ne7+ Qxe7 18. Bxb7 Ra7 19. Bg2 Nb6 20. axb5
+axb5 21. Rxa7 Qxa7 22. Qa1 Qe7 23. e4 Ra8 24. Qb2 Ra5 25. e5 Qh4 26. Qe2
+Ra3 27. f5 Rxc3 28. fxe6 fxe6 29. Qe4 Qd8 30. Qg6 Qxd4+ 31. Kh1 Re3 32.
+Qxe6+ Kh7 33. Qf5+ Kh8 34. Qf8+ Kh7 35. Qf5+ Kh8 36. Qf8+ 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.11"]
+[Round "6"]
+[White "Kramnik,V"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "D38"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 c5
+8. dxc5 Qa5 9. Rc1 Ne4 10. Qxd5 Nxc3 11. bxc3 Bxc3+ 12. Kd1 O-O 13. Bc4 Nf6
+14. Bxf6 Bxf6 15. Ke2 b5 16. c6 Ba6 17. Qf5 Qa3 18. Bd3 Rfd8 19. c7 Qxa2+
+20. Nd2 Rxd3 21. Qxd3 b4 22. Kf3 Bb7+ 23. Kg3 h5 24. h3 Qa5 25. f4 Rc8 26.
+Nc4 Qa6 27. Ne5 Qxd3 28. Nxd3 Bc3 29. Rhd1 a5 30. Nc5 Rxc7 31. Na4 Be4 32.
+Rd6 Kh7 33. Ra6 h4+ 34. Kh2 Rd7 35. Nc5 Re7 36. Rxa5 Bd2 37. Rc4 f5 38.
+Nxe4 fxe4 39. Rh5+ Kg6 40. Rg5+ Kf6 41. Rc6+ Kf7 42. Rf5+ Kg8 43. g4 Re8
+44. Re5 Rb8 45. g5 Kh7 46. Re7 Bxe3 47. Rh6+ Kg8 48. Rg6 Bd4 49. Rge6 Kh7
+50. f5 Bc5 51. Re8 Rxe8 52. Rxe8 b3 53. Kg2 Be3 54. Rxe4 Bxg5 55. Rb4 g6
+56. Rb7+ Kh6 57. fxg6 Kxg6 58. Kf3 Bd2 59. Kg4 Be1 60. Rxb3 Bg3 61. Rf3 Be1
+62. Re3 Bf2 63. Re6+ Kf7 64. Kf5 Bg3 65. Re4 Bf2 66. Kg5 Bg3 67. Re2 Kg7
+68. Re7+ Kf8 69. Kf6 Bf2 70. Re6 Bg3 71. Kg6 Bh2 72. Re4 Bg3 73. Kf6 Bf2
+74. Kg6 Bg3 75. Re2 Bd6 76. Kg5 Bg3 77. Kf6 Bf4 78. Re4 Bd6 79. Rd4 Bc7 80.
+Kg6 Bg3 81. Re4 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.11"]
+[Round "6"]
+[White "Gelfand,B"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2758"]
+[BlackElo "2786"]
+[EventDate "2009.11.05"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. dxc5 Nxc5 13. Nxc5 Bxc5 14. O-O
+h6 15. Nd2 O-O 16. Ne4 Bd4 17. Nd6 Bc6 18. Bh7+ Kxh7 19. Qxd4 f6 20. Bd2
+fxe5 21. Qe4+ Kg8 22. Qxe5 Qd7 23. Rac1 Rad8 24. Nc4 Rf5 25. Qg3 Nf6 26.
+Bxh6 Ne4 27. Qg4 Nf6 28. Qg6 Qe7 29. Bg5 Be8 30. Bxf6 Qxf6 31. Qxf6 gxf6
+32. Rfd1 Rxd1+ 33. Rxd1 Rc5 34. b3 Bb5 35. Ne3 f5 36. f4 Kf7 37. Kf2 a5 38.
+Rd8 Rc1 39. Rb8 Bd3 40. Rb7+ Kf6 41. Ra7 Rb1 42. g4 fxg4 43. Nxg4+ Kf5 44.
+Ne5 Ke4 45. Nxd3 Kxd3 46. Rxa5 Ke4 47. Re5+ Kxf4 48. Rxe6 Rh1 49. Kg2 Rc1
+50. Re2 Rc3 51. Kf2 Rc1 52. Rd2 Ke4 53. Kg3 Rc8 54. h4 Ke5 55. Re2+ Kf5 56.
+Rf2+ Kg6 57. Rf4 Rc2 58. Rxb4 Rxa2 59. Rb5 Rd2 60. h5+ Kf6 61. h6 Rd7 62.
+Rh5 Rh7 63. Kf4 Kg6 64. Rh3 Kf6 65. Ke4 Ke6 66. Kd4 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.11"]
+[Round "6"]
+[White "Leko,P"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2754"]
+[EventDate "2009.11.05"]
+[ECO "B42"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. Qg4 Bf6
+8. Qg3 Nc6 9. N1d2 d5 10. O-O Nge7 11. Re1 Ne5 12. Bf1 O-O 13. c3 N7c6 14.
+Nd4 Bh4 15. Nxc6 Nxc6 16. Qf3 d4 17. e5 dxc3 18. Qxc3 Qd4 19. Qxd4 Nxd4 20.
+Re4 Nc2 21. Rb1 Be7 22. Nc4 b5 23. Nd6 f5 24. Re2 Nb4 25. Bd2 Nd5 26. Ba5
+Bd7 27. Rc2 Bxd6 28. exd6 Rfc8 29. Rbc1 Rxc2 30. Rxc2 Kf7 31. g3 Rc8 32.
+Rxc8 Bxc8 33. a4 Bd7 34. axb5 axb5 35. Bg2 Ke8 36. f4 Bc6 37. Bc3 g6 38.
+Kf2 Kd7 39. Bxd5 exd5 40. Ke3 d4+ 41. Kxd4 Kxd6 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.11"]
+[Round "6"]
+[White "Morozevich,A"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2750"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "E60"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 Bg7 5. e4 d6 6. Nc3 O-O 7. Nge2 e6 8. Ng3
+Na6 9. Be2 exd5 10. cxd5 Nc7 11. a4 a6 12. Bg5 Bd7 13. h4 b5 14. h5 h6 15.
+Be3 b4 16. Nb1 g5 17. Bf2 Nfe8 18. Ra2 f5 19. b3 fxe4 20. Nxe4 Bf5 21. Ng3
+Kh8 22. Bc4 Bh7 23. O-O Nf6 24. Re2 Qd7 25. Rfe1 Rae8 26. Rxe8 Rxe8 27.
+Rxe8+ Qxe8 28. Nd2 Nfxd5 29. Nde4 Qc6 30. Bd3 Nf4 31. Bc2 Nce6 32. Nd2 Nd3
+33. Nge4 Nef4 34. g3 Nh3+ 35. Kg2 Nhxf2 36. Nxf2 Nxf2 37. Kxf2 Bg8 38. Qe2
+d5 39. Qe7 Bd4+ 40. Kf1 Qe6 41. Qf8 Qh3+ 42. Ke2 Qg2+ 43. Kd1 Qg1+ 44. Ke2
+Qf2+ 45. Kd1 Bg7 46. Qd6 a5 47. Qb6 Qg1+ 48. Ke2 Qg2+ 49. Kd1 c4 0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.12"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2772"]
+[EventDate "2009.11.05"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6
+8. Bxc4 c5 9. e5 Qd8 10. d5 exd5 11. Bxd5 O-O 12. Rc1 Nc6 13. O-O Nd4 14.
+Be4 Re8 15. Nd5 Bf5 16. Bxf5 Qxd5 17. Nxd4 Rxe5 18. Nb5 Qxd1 19. Rfxd1 Rxf5
+20. a3 c4 21. axb4 Rxb5 22. Rxc4 a5 23. g3 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.12"]
+[Round "7"]
+[White "Anand,V"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2750"]
+[EventDate "2009.11.05"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. a4 c5 7. Bxc4 Nc6 8.
+O-O Be7 9. dxc5 O-O 10. Qc2 Bxc5 11. Rd1 Qc7 12. Ne4 Be7 13. Bd2 Na5 14.
+Bxa5 Qxa5 15. Nxf6+ Bxf6 16. Bd3 g6 17. Be4 Qb4 18. Rd2 Ra7 19. h3 b6 20.
+Rad1 b5 21. axb5 Qxb5 22. Nd4 Qb6 23. Qc6 Rb7 24. Rc2 Qxc6 25. Nxc6 Kg7 26.
+Rdd2 h5 27. Bf3 h4 28. Na5 Rd7 29. Bc6 Rxd2 30. Rxd2 Be7 31. Nc4 g5 32. Rd1
+f5 33. Nb6 Bc5 34. Nxc8 Rxc8 35. Ba4 Rb8 36. b3 Kf6 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.12"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2758"]
+[EventDate "2009.11.05"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+Bd3 dxc4 9. Bxc4 Bd6 10. O-O O-O 11. e4 e5 12. d5 Nb6 13. Bd3 cxd5 14. exd5
+h6 15. Be3 Rc8 16. Rac1 Nc4 17. Bxc4 Rxc4 18. Qe2 Rc8 19. Bxa7 b6 20. Nb5
+Rc5 21. Rfd1 Qd7 22. Nxd6 Qxd6 23. Rxc5 Qxc5 24. Qe3 Qc2 25. Qb3 Qxb3 26.
+axb3 Rd8 27. d6 b5 28. f3 Ra8 29. Be3 Nd7 30. Rd5 Rb8 31. f4 exf4 32. Bxf4
+f6 33. Rd2 Kf7 34. Kf2 Ke6 35. Ke3 Rc8 36. Kd4 g5 37. Re2+ Ne5 38. Bxe5
+fxe5+ 39. Rxe5+ Kxd6 40. Rxb5 Rc2 41. g4 Rxb2 42. Rb6+ Kc7 43. Kc3 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.12"]
+[Round "7"]
+[White "Svidler,P"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2801"]
+[EventDate "2009.11.05"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 d5 8.
+a4 b4 9. d4 cxd4 10. cxd4 dxe4 11. Bxe4 Nd5 12. Nbd2 Bb7 13. Nb3 Be7 14.
+Nc5 Bxc5 15. dxc5 O-O 16. Qc2 Nf6 17. Rd1 Qc7 18. Bd3 h6 19. b3 Na5 20. Bb2
+Bxf3 21. gxf3 Qf4 22. Be2 Rfc8 23. Rac1 Nb7 24. c6 Na5 25. c7 Nd5 26. Qe4
+Qxe4 27. fxe4 Nxc7 28. Be5 Ne8 29. Rxc8 Rxc8 30. Bxa6 Ra8 31. Be2 Nxb3 32.
+Rb1 Na5 33. Bb5 b3 34. Bc3 Nd6 35. f3 Ndc4 36. Kf2 f6 37. Ke2 Na3 38. Rb2
+N3c4 39. Rb1 Na3 40. Rb2 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.12"]
+[Round "7"]
+[White "Ponomariov,R"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2752"]
+[EventDate "2009.11.05"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Bf4 Nd5 13. Nc3 Nxf4 14.
+Qxf4 Nd7 15. Rfd1 Bd6 16. Qe3 Nb6 17. Qd3 c5 18. dxc5 Bxc5 19. Qxd8 Rfxd8
+20. Ne5 Bxg2 21. Kxg2 f5 22. e3 Rac8 23. Rxd8+ Rxd8 24. Rc1 Rc8 25. Ne2 Bd6
+26. Rxc8+ Nxc8 27. Nc6 Kf7 28. f4 Ke8 29. Kf3 Kd7 30. Ncd4 Ne7 31. e4
+1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.13"]
+[Round "8"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Bf4 Bd6 13. Nbd2 Bxf4 14.
+gxf4 Qd6 15. Nb3 Nbd7 16. Rd1 a5 17. Ne5 Bxg2 18. Kxg2 a4 19. Nc5 Nxc5 20.
+Qxc5 Qxc5 21. dxc5 Rfd8 22. Nc6 Rxd1 23. Rxd1 Kf8 24. Kf3 Ke8 25. Nb4 Nd7
+26. c6 Nc5 27. Rc1 Na6 28. Nxa6 Rxa6 29. e4 b4 30. Rc5 f5 31. exf5 exf5 32.
+Ke3 Ke7 33. Kd4 Kd6 34. Kc4 b3 35. axb3 axb3 36. Rxf5 Rxc6+ 37. Kxb3 Rc1
+38. h4 Rf1 39. Rg5 Rxf2 40. Rxg7 Rxf4 41. Rxh7 c5 42. h5 Rh4 43. h6 Kc6 44.
+Kc3 Kd5 45. Rh8 Rh3+ 46. Kd2 Kc6 47. Ke2 Kb7 48. Kf2 c4 49. Kg2 Rh5 50. Kf3
+Rh4 51. Kg3 Rh1 52. Kf4 Rh2 53. Ke5 Rxb2 54. Kd4 Rb6 55. Kxc4 Rg6 56. Kd5
+Rf6 57. Ke5 Rc6 58. Rh7+ Kb8 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.13"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2739"]
+[EventDate "2009.11.05"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8.
+Qd2 Nbd7 9. g4 h6 10. O-O-O Ne5 11. Qe1 Qc7 12. h4 b4 13. Nce2 Nc4 14. Nf4
+Nxe3 15. Qxe3 Qb6 16. Bc4 Qc5 17. Qb3 d5 18. exd5 Bd6 19. Nfxe6 fxe6 20.
+dxe6 Be7 21. Qd3 O-O 22. Bb3 Rd8 23. g5 Nh7 24. gxh6 Qh5 25. Qe4 Qxh6+ 26.
+Kb1 Ra7 27. Nf5 Rxd1+ 28. Rxd1 Qf6 29. Rd7 Bxd7 30. exd7+ Kf8 31. Qd5 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.13"]
+[Round "8"]
+[White "Gelfand,B"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2758"]
+[BlackElo "2788"]
+[EventDate "2009.11.05"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Bd7 9. Qxc4 Bc6 10. Bf4 a5 11. Nc3 Na6 12. Ne5 Bxg2 13. Kxg2 Nd5 14.
+Rad1 Nab4 15. Bc1 Nb6 16. Qb3 N4d5 17. Nb5 c6 18. Na3 Nb4 19. e4 Nd7 20.
+Nxd7 Qxd7 21. Nc4 Qd8 22. Be3 b5 23. Ne5 Qc7 24. Nd3 Qb7 25. Nxb4 Bxb4 26.
+f3 bxa4 27. Qxa4 Qb5 28. Qc2 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.13"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2752"]
+[EventDate "2009.11.05"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8.
+Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5
+exd5 15. dxc5 dxc4 16. c6 cxb3 17. Re1 Bb5 18. Nxb3 Bxc6 19. Bxg7 Kxg7 20.
+Nd4 Bxg2 21. Nf5+ Kh8 22. Rxe7 Bh3 23. Qd4+ Ne5 24. Qxe5+ f6 25. Qe2 Bxf5
+26. Rd1 Bg4 27. Rxh7+ Kxh7 28. Qxg4 Qe8 29. Rd7+ Rf7 30. Rxf7+ Qxf7 31.
+Qxc8 Qxa2 32. Qf5+ Kg7 33. Qg4+ Kh7 34. Qh5+ Kg7 35. Qg4+ Kh7 36. Qh5+ Kg7
+1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.13"]
+[Round "8"]
+[White "Morozevich,A"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2754"]
+[EventDate "2009.11.05"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Bg5 Be7 10. e5 Nd7 11. Bxe7 Qxe7 12. Re1 c5 13. b3 Bb7 14.
+Qh5 h6 15. f4 O-O 16. Qe2 f6 17. exf6 Rxf6 18. Rad1 Qd6 19. f5 exf5 20.
+Nxd5 Bxd5 21. Bc4 Nb6 22. Bxd5+ Nxd5 23. Qf3 Rd8 24. c4 Re6 25. Rxe6 Qxe6
+26. cxd5 Qe5 27. Qd3 Rd6 28. h3 f4 29. Kf2 Kh8 30. Rd2 g5 31. Kf1 Kg7 32.
+Qc4 h5 33. Qxc5 g4 34. hxg4 hxg4 35. Qd4 Kf6 36. Qd3 a5 37. Rd1 Kg5 38. Kf2
+Qb2+ 39. Rd2 Qe5 40. Rd1 Qb2+ 41. Qd2 Qxd2+ 42. Rxd2 Kf5 43. g3 fxg3+ 44.
+Kxg3 Ke4 45. a3 Rxd5 46. Rxd5 Kxd5 47. b4 axb4 48. axb4 Kc4 49. Kxg4 Kxb4
+1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.14"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2772"]
+[EventDate "2009.11.05"]
+[ECO "D37"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6
+8. e5 Qd8 9. Qa4+ Nc6 10. Bxc4 Bd7 11. Qc2 Na5 12. Bd3 c5 13. dxc5 Rc8 14.
+a3 Bxc5 15. O-O O-O 16. Rad1 Be7 17. Qe2 Qc7 18. Qe4 g6 19. Qg4 Kg7 20. Ne2
+Bc6 21. Nf4 Rg8 22. Nd4 Kh7 23. h4 Qxe5 24. h5 Kh8 25. Nxc6 Nxc6 26. hxg6
+f5 27. g7+ Rxg7 28. Ng6+ Kg8 29. Nxe5 1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.14"]
+[Round "9"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2788"]
+[BlackElo "2786"]
+[EventDate "2009.11.05"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. c5 Nbd7 7. Bd3 e5 8.
+Nxe5 Nxe5 9. dxe5 Nd7 10. e6 Nxc5 11. exf7+ Kxf7 12. b3 Nxd3+ 13. Qxd3 Qg5
+14. g3 Qf6 15. Bb2 Qf3 16. Rg1 Bg4 17. a3 Re8 18. Rc1 b4 19. axb4 Bxb4 20.
+h3 Bxh3 21. g4 Bxg4 22. Rg3 Qf5 23. Qd4 Re4 24. Qa7+ Qd7 25. Qb6 c5 0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.14"]
+[Round "9"]
+[White "Leko,P"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2801"]
+[EventDate "2009.11.05"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Bg7 10. h3 Nf6 11. Qf3 Qb6 12. O-O-O Nc6 13. Nxc6 Qxc6 14.
+Be2 Qc5 15. Rhe1 g4 16. hxg4 Bxg4 17. Qd3 Be6 18. e5 dxe5 19. Bf3 e4 20.
+Nxe4 Nxe4 21. Rxe4 O-O 22. Qe3 Rac8 23. Qxc5 Rxc5 24. Bg4 Bxg4 25. Rxg4 f5
+26. Rb4 b5 27. a4 Rfc8 28. c3 Rc4 29. Rxc4 Rxc4 30. axb5 axb5 31. Rd8+ Kh7
+32. Rd7 Rg4 33. Bb8 Rxg2 34. Rxe7 Kg6 35. Bg3 h5 36. Kd1 Bf6 37. Re6 Kf7
+38. Re3 h4 39. Bc7 Rxf2 40. b3 Rf1+ 41. Ke2 Rc1 42. c4 bxc4 43. bxc4 Rxc4
+44. Bb8 Rc2+ 45. Kf1 Kg6 46. Re2 Rc8 47. Bd6 Rc6 48. Be7 Bxe7 49. Rxe7 Rc2
+50. Re3 Kg5 51. Kg1 Kg4 52. Ra3 f4 53. Ra8 Rd2 54. Ra7 Kg3 55. Rg7+ Kf3 56.
+Ra7 Rd1+ 57. Kh2 Ke2 58. Kh3 f3 59. Ra2+ Rd2 0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.14"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2750"]
+[EventDate "2009.11.05"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. Bg5 Be7 8.
+e3 O-O 9. Nbd2 e5 10. Nxc4 exd4 11. Nxd4 Nxd4 12. Qxd4 Qxd4 13. exd4 Rd8
+14. Rfd1 Bg4 15. Re1 Bb4 16. Rec1 Rab8 17. a3 Bf8 18. Ne3 Rxd4 19. Rxc7 Be2
+20. Rxb7 Rxb7 21. Bxb7 Nd7 22. Nf5 Ra4 23. Re1 Bb5 24. Re8 h6 25. Be7 g6
+26. b3 Ra5 27. Bb4 1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2009.11.14"]
+[Round "9"]
+[White "Svidler,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2758"]
+[EventDate "2009.11.05"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5
+14. Bb5+ c6 15. Nxd5 cxb5 16. Qb3 O-O 17. Be3 Bc5 18. Rad1 Bxe3 19. Rxe3
+Qa5 20. Qc2 Rfe8 21. f4 b4 22. f5 Nf8 23. Ne7+ Kh8 24. Qc4 Ne6 25. Nd5 Rad8
+26. Ree1 Qc5+ 27. Qxc5 Nxc5 28. Rxe8+ Rxe8 29. Nxb4 g6 30. fxg6 1/2-1/2
+

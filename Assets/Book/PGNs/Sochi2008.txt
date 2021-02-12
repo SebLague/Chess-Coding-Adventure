@@ -1,0 +1,1889 @@
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Svidler,P"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2723"]
+[EventDate "2008.07.31"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8.
+Nd2 Nbc6 9. N2f3 a6 10. O-O Bg4 11. c3 Qd7 12. Rc1 Rd8 13. h3 Bh5 14. a3
+Na5 15. Nd2 Bxe2 16. Qxe2 Rc8 17. b3 Nac6 18. N2f3 Ng6 19. Nxc6 Rxc6 20. b4
+Be7 21. c4 Rxc4 22. Rxc4 dxc4 23. Qxc4 O-O 24. Rc1 Qa4 25. h4 h5 26. g4
+hxg4 27. Qxg4 Rd8 28. h5 Rd1+ 29. Kh2 Rxc1 30. Bxc1 Qd1 31. hxg6 Qxc1 32.
+gxf7+ Kxf7 33. Qh5+ Kf8 34. Qh8+ Kf7 35. Qh5+ Kf8 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Wang Yue"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2737"]
+[EventDate "2008.07.31"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Bd3 Nbd7 8.
+O-O Bd6 9. Nd2 O-O 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bc2 e5 14.
+Bg5 h6 15. Bxf6 Qxf6 16. Qxf6 gxf6 17. Rad1 exd4 18. Rxd4 Bc5 19. Rd7 Rab8
+20. Rfd1 Rfe8 21. Kf1 Kf8 22. Bf5 a5 23. g3 Re5 24. Bg4 f5 25. Bf3 Re7 26.
+Be2 Rbe8 27. Rxe7 Kxe7 28. Kg2 Rd8 29. Rxd8 Kxd8 30. f4 Ke7 31. Bd3 Ke6 32.
+b3 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Navara,D"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2781"]
+[EventDate "2008.07.31"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qb3 Nc6 6. Nbd2 Bb7 7. e4 d5 8.
+cxd5 exd5 9. e5 Ne4 10. Bd3 Bb4 11. O-O O-O 12. Rd1 Bxd2 13. Bxd2 Qd7 14.
+Rac1 Rac8 15. Be3 Na5 16. Qc2 Nc4 17. Bf4 h6 18. b3 Na5 19. Nd2 c5 20. Nxe4
+dxe4 21. Bxe4 cxd4 22. Qd3 Rxc1 23. Rxc1 Rd8 24. b4 Nc6 25. Qf3 Rc8 26. Rd1
+Qe6 27. b5 Nxe5 28. Bxe5 Bxe4 29. Qxe4 Re8 30. Re1 f6 31. Qxd4 Qxa2 32. Re3
+fxe5 33. Rxe5 Rxe5 34. Qxe5 Qc4 35. h4 a6 36. bxa6 Qxa6 37. Qe8+ Kh7 38.
+Qe4+ Kg8 39. Qe8+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Grischuk,A"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2727"]
+[EventDate "2008.07.31"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 h5 10. h4 g4 11. Be2 Bb7 12. O-O Nbd7 13. Qc2 Nxe5 14. Bxe5
+Bg7 15. b3 cxb3 16. axb3 O-O 17. Bg3 c5 18. e5 Nd5 19. Nxb5 cxd4 20. Nd6
+Rb8 21. Qd2 Nc3 22. Bd3 a5 23. Ra3 Bd5 24. Bc2 Rb6 25. Re1 a4 26. Qd3 f5
+27. exf6 Rxf6 28. Nc4 Bxc4 29. bxc4 Qe7 30. Qxd4 Qxa3 31. Qxb6 e5 32. Qd8+
+Qf8 33. Qa5 e4 34. Bxe4 Nxe4 35. Rxe4 a3 36. Re3 Qf7 37. Qxa3 Qxc4 38. Qa5
+Qf7 39. Re5 Rh6 40. Qd8+ Kh7 41. Re7 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2709"]
+[EventDate "2008.07.31"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. Nf3 b6
+8. e3 Bb7 9. b4 a5 10. Bb2 Nbd7 11. Be2 Ne4 12. Qb3 axb4 13. axb4 Rxa1+ 14.
+Bxa1 b5 15. O-O bxc4 16. Qxc4 Nb6 17. Qc2 f5 18. Rc1 Nd5 19. Bb2 Rf7 20. b5
+h6 21. Ra1 Ndf6 22. Nd2 Nxd2 23. Qxd2 Ne4 24. Qd3 Rf6 25. Qc2 Rg6 26. Bf3
+Qb8 27. Kh1 Bd5 28. Qe2 Nf6 29. Bxd5 Nxd5 30. Qc4 Kh7 31. Qc6 Nb4 32. Qc4
+Qb7 33. f3 Nd5 34. Bc1 e5 35. dxe5 dxe5 36. Bd2 e4 37. fxe4 Nf6 38. Ra6
+Qxe4 39. Qxe4 Nxe4 40. Ba5 Nd6 41. Bxc7 Nxb5 42. Rxg6 Kxg6 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Radjabov,T"]
+[Black "Al Modiahki,M"]
+[Result "1-0"]
+[WhiteElo "2744"]
+[BlackElo "2556"]
+[EventDate "2008.07.31"]
+[ECO "A07"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 Bxf3 5. Bxf3 e6 6. Qc2 Nf6 7. O-O Be7
+8. d4 O-O 9. Rd1 Nbd7 10. b3 Rc8 11. Nc3 c5 12. cxd5 cxd4 13. Rxd4 Bc5 14.
+Rh4 exd5 15. Bb2 Ne5 16. Qf5 Ng6 17. Ra4 d4 18. Nb5 a6 19. Rc4 Ne7 20. Qg5
+h6 21. Qc1 d3 22. Bxf6 d2 23. Qc2 axb5 24. Rxc5 Rxc5 25. Qxc5 d1=R+ 26.
+Rxd1 Qxd1+ 27. Kg2 gxf6 28. Qxe7 Kg7 29. Qxb7 Qd2 30. a3 Qb2 31. Qxb5 Qxa3
+32. Qc4 Qd6 33. b4 Rb8 34. b5 Qe5 35. Bc6 Qe7 36. Qg4+ Kf8 37. Qf4 Qe5 38.
+Qxh6+ Ke7 39. h4 Qc7 40. Qd2 Qe5 41. Qd7+ Kf8 42. b6 Qe6 43. Qxe6 fxe6 44.
+b7 Ke7 45. g4 Kd6 46. Bf3 Kc7 47. Kg3 Rg8 48. Bg2 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.07.31"]
+[Round "1"]
+[White "Cheparinov,I"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2717"]
+[EventDate "2008.07.31"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nd6
+8. Bf4 O-O 9. Re1 Re8 10. Nc3 c6 11. Ne2 Nd7 12. Ng3 Nf8 13. Ne5 f6 14. Nf3
+Be6 15. c3 Qd7 16. Qc2 Bf7 17. Nh4 g6 18. Bh6 Ne6 19. Nf3 Bf8 20. Qd2 Qe7
+21. b3 Bxh6 22. Qxh6 Qf8 23. Qd2 g5 24. h4 h6 25. c4 b6 26. Rac1 Rad8 27.
+cxd5 cxd5 28. Nh2 Nf4 29. Ng4 Qg7 30. Rxe8+ Bxe8 31. Nf5 Nxf5 32. Bxf5 Bg6
+33. Bxg6 Qxg6 34. Rc6 Rf8 35. g3 h5 36. Nxf6+ Rxf6 37. Rxf6 Qxf6 38. gxf4
+gxf4 39. Qe2 Qxh4 40. Qe6+ Kg7 41. Qd7+ Kg6 42. Qe8+ Kg7 43. Qd7+ Kg6 44.
+Qe8+ Kg7 45. Qd7+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Jakovenko,D"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2744"]
+[EventDate "2008.07.31"]
+[ECO "E97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. Re1 h6 11. Nd2 Nf4 12. Bf1 f5 13. c5 fxe4 14. Ndxe4
+Nf5 15. g3 Nh5 16. Bg2 Nf6 17. a4 Nxe4 18. Nxe4 Nd4 19. Be3 Nf5 20. Rc1 Rf7
+21. Qd3 Qf8 22. Rc2 Nd4 23. Bxd4 exd4 24. h3 Bf5 25. Rce2 g5 26. Qb5 Re7
+27. g4 Bh7 28. cxd6 cxd6 29. Nd2 a6 30. Qc4 Rxe2 31. Qxe2 d3 32. Qe3 Bc3
+33. Rd1 Bxd2 34. Qxd2 Re8 35. Bf1 Qf3 36. Bg2 Qf7 37. Re1 Rxe1+ 38. Qxe1
+Qf4 39. Qe8+ Kg7 40. Qe7+ Kh8 41. Bf1 d2 42. Be2 Bg8 43. Bd1 b6 44. Qd8 b5
+45. axb5 axb5 46. Qc8 Kg7 47. Qc3+ Qe5 48. Qxe5+ dxe5 49. Kf1 Bxd5 50. Ke2
+Kf6 51. Kxd2 e4 52. Be2 Bc6 53. Ke3 Ke5 54. Bf1 Bd7 55. Be2 Bc6 56. Bf1 Bd7
+57. Be2 Bc6 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2781"]
+[EventDate "2008.07.31"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. Be2 O-O 14. O-O
+Bg5 15. Qd3 Rb8 16. Rad1 g6 17. b3 Be6 18. Bf3 Rb7 19. Qe2 Ne7 20. Nxe7+
+Qxe7 21. Rd3 h5 22. Rfd1 Rd8 23. Ne3 Bxe3 24. Qxe3 Rdd7 25. Qh6 Qf8 26.
+Qxf8+ Kxf8 27. Rxd6 Rbc7 28. h4 Ke7 29. Ra6 Rc5 30. Kf1 Rxd1+ 31. Bxd1 Kd7
+32. Ra7+ Kc6 33. Ke2 Kb6 34. Re7 Rc7 35. Rxc7 Kxc7 36. g3 Kd6 37. Ke3 f6
+38. f4 Bf7 39. f5 g5 40. g4 hxg4 41. hxg5 fxg5 42. Bxg4 a4 43. f6 a3 44.
+Bf5 Kc5 45. Kf3 Bh5+ 46. Kg3 Kd6 47. Bc8 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Al Modiahki,M"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2556"]
+[BlackElo "2728"]
+[EventDate "2008.07.31"]
+[ECO "C19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Bd3 Qa5 9. Ne2 Ng6 10. Bd2 dxc3 11. Nxc3 Qc7 12. f4 a6 13. h4 h5 14. Qg3
+Nc6 15. O-O Nce7 16. Ne2 Nf5 17. Bxf5 exf5 18. Nd4 Qc5 19. Be3 Qe7 20. Bf2
+Be6 21. Rab1 b5 22. a4 O-O 23. axb5 axb5 24. Rxb5 Rfc8 25. Rb6 Nf8 26. Qd3
+g6 27. Ra6 Bd7 28. Rfa1 Qe8 29. Rxa8 Rxa8 30. Rxa8 Qxa8 31. Kh2 Ne6 32.
+Nxe6 Bxe6 33. Bd4 Qd8 34. Qg3 Qe7 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Gashimov,V"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2720"]
+[EventDate "2008.07.31"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nc3 Nxe5 7. dxe5
+Nxc3 8. bxc3 Be7 9. Qh5 Be6 10. Rb1 Qd7 11. Bg5 c6 12. O-O Bxg5 13. Qxg5
+O-O 14. f4 h6 15. Qg3 f5 16. h3 b6 17. Kh2 c5 18. Rfd1 Rad8 19. Be2 Kh7 20.
+Rd2 Qa4 21. Rbd1 Qxa2 22. c4 d4 23. c3 Qa3 24. cxd4 Qxg3+ 25. Kxg3 Rxd4 26.
+Rxd4 cxd4 27. Rxd4 Kg6 28. Rd6 Kf7 29. Bf3 Ke7 30. Bd5 Bxd5 31. cxd5 Rd8
+32. Rxd8 Kxd8 33. Kf3 a5 34. Ke3 a4 35. Kd3 a3 36. Kc3 b5 37. Kb3 b4 38. h4
+h5 39. g3 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Cheparinov,I"]
+[Result "0-1"]
+[WhiteElo "2738"]
+[BlackElo "2687"]
+[EventDate "2008.07.31"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Ne4 h6 12. Bd2 Bd7 13. Rad1 Kc8
+14. Rfe1 c5 15. Ng3 b6 16. Nh5 Kb7 17. Bc3 Be6 18. g4 Ne7 19. Nf4 g5 20.
+Nxe6 fxe6 21. Nd2 Rd8 22. Ne4 Rxd1 23. Rxd1 Nd5 24. Bd2 Bg7 25. h4 gxh4 26.
+f4 Rf8 27. Rf1 Nb4 28. Bxb4 cxb4 29. g5 hxg5 30. fxg5 Rxf1+ 31. Kxf1 Bxe5
+32. b3 Kc6 33. Kg2 Kd5 34. Nf2 Bd4 35. g6 Bg7 36. Nd3 Ke4 37. Nxb4 Kf5 38.
+Nc6 a5 39. Kh3 Bf6 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Karjakin,Sergey"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2704"]
+[EventDate "2008.07.31"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Rd1
+Be7 14. Kg2 Be6 15. Be3 a5 16. Ne2 h5 17. f3 a4 18. Nf4 g6 19. Rd2 Rd8 20.
+Rxd8+ Kxd8 21. Rd1+ Ke8 22. Nxe6 fxe6 23. Rd4 b5 24. Rd3 Rh7 25. b3 axb3
+26. cxb3 Ba3 27. Bg5 Rd7 28. Rxd7 Kxd7 29. f4 hxg4 30. hxg4 c5 31. Kf3 c4
+32. bxc4 bxc4 33. Ke4 c5 34. f5 gxf5+ 35. gxf5 exf5+ 36. Kxf5 c3 37. e6+
+Ke8 38. Ke4 c2 39. Kd5 c1=Q 40. Bxc1 Bxc1 41. Kxc5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.01"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2646"]
+[EventDate "2008.07.31"]
+[ECO "D45"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 a6 6. b3 Bb4 7. Bd2 O-O 8. Bd3
+Nbd7 9. O-O Qe7 10. Ne5 Nxe5 11. dxe5 Nd7 12. f4 f6 13. Qc2 h6 14. a3 Bc5
+15. b4 Ba7 16. exf6 Nxf6 17. c5 b6 18. cxb6 Bxb6 19. Na4 Ba7 20. Rae1 e5
+21. fxe5 Qxe5 22. Nc5 Qe7 23. h3 Bxc5 24. Qxc5 Qxc5 25. bxc5 Be6 26. Bc3
+Rab8 27. Rb1 Nd7 28. Rxf8+ Rxf8 29. Bd4 Rb8 30. Rxb8+ Nxb8 31. Kf2 Kf7 32.
+Ke1 g6 33. Kd2 Bf5 34. Bf1 Ke6 35. Kc3 Bb1 36. Kb4 Ba2 37. Bd3 g5 38. g4
+Bc4 39. Bf5+ Ke7 40. Bg7 Bf1 41. Bxh6 Bxh3 42. Bxg5+ Ke8 43. Bg6+ Kf8 44.
+Bf4 Nd7 45. Bd6+ Kg8 46. g5 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Cheparinov,I"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2687"]
+[BlackElo "2723"]
+[EventDate "2008.07.31"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Qd2 e5 13. Bh6 cxd4 14.
+cxd4 exd4 15. Bxg7 Kxg7 16. f4 f6 17. Rac1 Bg4 18. Ng3 Bd7 19. h4 Rc8 20.
+Rxc8 Bxc8 21. h5 Qe7 22. Qe2 Bd7 23. Rc1 Rc8 24. Re1 Rc3 25. e5 f5 26. hxg6
+hxg6 27. Qd2 Nc4 28. Bxc4 Rxc4 29. Qd3 Qc5 30. e6 Bb5 31. Nh5+ Kh6 32. Qh3
+d3+ 33. Kh2 gxh5 34. Qh4 Be8 35. Re5 Qf8 36. Qg5+ Kh7 37. Rxf5 Qg7 38. Qd8
+Rc2 39. Rg5 Qc7 40. Qxd3+ Kh6 41. Qf5 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Grischuk,A"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2709"]
+[EventDate "2008.07.31"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Ra7 11. Rc1 Be4 12. Qb3 Nc6 13. e3 Qa8 14. Qd1
+b4 15. Qf1 Nb8 16. Ne1 c5 17. dxc5 Nc6 18. Nf3 Rd8 19. a3 bxa3 20. Rxa3 Qb7
+21. Bc3 Nd5 22. Nbd2 Bxf3 23. Nxf3 Bxc5 24. Raa1 Bb4 25. Nd4 Bxc3 26. bxc3
+Nxd4 27. cxd4 a5 28. Ra4 Rc8 29. Rca1 Qb6 30. Bxd5 exd5 31. Qb1 Qd8 32. Qa2
+h5 33. Rxa5 Rxa5 34. Qxa5 Qd7 35. h4 Qf5 36. Qb4 Qf3 37. Qd6 Rc2 38. Rf1
+Rb2 39. Qf4 Qxf4 40. gxf4 f5 41. Kg2 Kf7 42. Kf3 g6 43. Re1 Ra2 44. Re2 Ra3
+45. Rb2 Ke6 46. Ke2 Kf6 47. Kd2 Ke6 48. Kc2 Ra1 49. Rb6+ Kf7 50. Rb1 Ra3
+51. Rb7+ Ke6 52. Rb6+ Kf7 53. Kb1 Rd3 54. Kc1 Rc3+ 55. Kd2 Ra3 56. Kc2 Ra1
+57. Rb1 Ra3 58. Kd2 Ra2+ 59. Ke1 Ke6 60. Rb6+ Kf7 61. Kf1 Ra1+ 62. Kg2 Ra2
+63. Rd6 Ra5 64. Kf3 Rb5 65. Ra6 Rb2 66. Ra8 Ke7 67. Rg8 Kf7 68. Rd8 Rb5 69.
+Rd6 Ra5 70. Kg3 Rb5 71. Kg2 Ra5 72. Kf3 Rb5 73. Ke2 Rb2+ 74. Kd3 Rxf2 75.
+Rxd5 Rh2 76. Rd7+ Ke6 77. Rd8 Ke7 78. Rh8 Rxh4 79. d5 Rh1 80. Kd4 Re1 81.
+Ra8 h4 82. Ra7+ Kf6 83. Rh7 Rd1+ 84. Kc4 Re1 85. Kd4 Rd1+ 86. Kc4 Re1 87.
+Kd4 Rd1+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2717"]
+[EventDate "2008.07.31"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Nxd4 11. cxd5 Bxf3 12. gxf3 c5 13. dxc6 Nxc6
+14. Bb5 O-O 15. Qxd8 Bxd8 16. Be3 Ba5 17. Bxc6 bxc6 18. Rac1 Rfe8 19. Re2
+Bb6 20. Na4 Re6 21. Nc5 Re7 22. Na4 Re6 23. Nc5 Re7 24. Na4 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Gelfand,B"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2738"]
+[EventDate "2008.07.31"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qb3 Nb6 7. d4 Bg7
+8. Bf4 Be6 9. Qa3 O-O 10. e4 c6 11. Rd1 N8d7 12. Ng5 Bg4 13. f3 h6 14. fxg4
+e5 15. Nf3 exf4 16. e5 Re8 17. Be2 Qe7 18. Qxe7 Rxe7 19. O-O c5 20. dxc5
+Nxc5 21. Nd5 Nxd5 22. Rxd5 Nd7 23. Rfd1 Nxe5 24. Rd8+ Rxd8 25. Rxd8+ Kh7
+26. Nxe5 Bxe5 27. Rd2 Kg7 28. Bf3 Bc7 29. Kf1 Bb6 30. Rd5 Be3 31. h4 Bc1
+32. h5 b6 33. b3 Bb2 34. Rd2 Bf6 35. Re2 Rc7 36. Re4 Rc1+ 37. Re1 Rc3 38.
+Re4 b5 39. Ke1 a5 40. Rxf4 Rc1+ 41. Ke2 Rc2+ 42. Kd3 Rxa2 43. Bd5 g5 44.
+Rf1 a4 45. Rc1 Be5 46. Rf1 f6 47. bxa4 Rxa4 48. Be6 Kf8 49. Rb1 Ke7 50. Bf5
+Rd4+ 51. Ke2 b4 52. Rd1 Rxd1 53. Kxd1 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2737"]
+[EventDate "2008.07.31"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Bd3 Nbd7 8.
+O-O Bd6 9. Nc3 O-O 10. Bd2 Re8 11. Qd1 dxc4 12. Bxc4 a6 13. Qc2 c5 14. dxc5
+Nxc5 15. Rfd1 Rc8 16. Be1 Qe7 17. Rac1 Rc7 18. Be2 Rec8 19. Qb1 h6 20. Bf3
+g6 21. Ne2 Rb8 22. Nf4 Ncd7 23. Rxc7 Bxc7 24. Qc2 Ne5 25. Be2 Nc6 26. Bxa6
+Bxf4 27. exf4 Nb4 28. Bxb4 Qxb4 29. a3 Qf8 30. Be2 Rc8 31. Qb3 Rc7 32. Bf3
+Qc8 33. g3 Kg7 34. Qb4 h5 35. h4 Rc4 36. Qxb7 Qc5 37. b4 Qf5 38. Qe7 Ne4
+39. Qa7 e5 40. Qa6 Rc3 41. Qe2 Nf6 42. fxe5 Rxf3 43. exf6+ Kh7 44. Qe7 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Navara,D"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2727"]
+[EventDate "2008.07.31"]
+[ECO "A29"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nxd4 exd4 13. Ne4 Bd5 14. Bb2
+f5 15. Nd2 Bxg2 16. Kxg2 Kh8 17. Nf3 Bf6 18. a4 a5 19. b5 Re8 20. Re1 c5
+21. bxc6 bxc6 22. e3 dxe3 23. Bxf6 gxf6 24. fxe3 Nd5 25. Qd2 Nb4 26. Rbd1
+Ra7 27. Nh4 Qd5+ 28. e4 fxe4 29. dxe4 Rxe4 30. Qxd5 cxd5 31. Rxe4 dxe4 32.
+Rd4 Rc7 33. Nf5 Rc2+ 34. Kh3 h5 35. Rxe4 Nd3 36. Re6 Ne5 37. Rxf6 Rxh2+ 38.
+Kxh2 Ng4+ 39. Kh3 Nxf6 40. Nd4 Ne4 41. Nb3 Nc3 42. g4 hxg4+ 43. Kxg4 Nxa4
+44. Nxa5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.02"]
+[Round "3"]
+[White "Wang Yue"]
+[Black "Al Modiahki,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2556"]
+[EventDate "2008.07.31"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. b3 Bb4+ 6. Bd2 Bd6 7. Nc3 Nbd7 8.
+Bd3 O-O 9. O-O Qe7 10. Qc2 b6 11. e4 dxc4 12. Bxc4 e5 13. d5 b5 14. dxc6
+bxc4 15. cxd7 Ba6 16. bxc4 Bxc4 17. Rfd1 Nxd7 18. Bg5 Qe6 19. Nd2 Ba6 20.
+Qa4 Bb7 21. Be3 Rfc8 22. Qb3 Nb6 23. Qxe6 fxe6 24. Nb5 Bc5 25. Bxc5 Rxc5
+26. Nd6 Ba6 27. Nb3 Rc2 28. Rdc1 Rxc1+ 29. Rxc1 Rd8 30. Nc5 Rxd6 31. Nxa6
+Na4 32. Nc7 Nc3 33. Kf1 Nxa2 34. Rc5 Kf7 35. Nb5 Rd1+ 36. Ke2 Rc1 37. Rxe5
+Rc2+ 38. Ke3 Nb4 39. Nxa7 Rxf2 40. Rb5 Ra2 41. Rb7+ Kf6 42. Rxb4 Rxa7 43.
+Rb5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Cheparinov,I"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2720"]
+[EventDate "2008.07.31"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Na5 12. Qa4 Nc6 13. Bb5 Bh4 14. g3
+Bf6 15. Bxc6 bxc6 16. Qxc6 Rb8 17. c4 f4 18. Nxe4 dxe4 19. Qxe4 Bxf3 20.
+Qxf3 fxg3 21. hxg3 Bxd4 22. Bf4 Rxb2 23. Rf1 Rxf2 24. Rxf2 Bxa1 25. Kg2 Be5
+26. Qe4 Bxf4 27. Rxf4 Qd2+ 28. Kh3 Qd7+ 29. Kh2 Rd8 30. Qf5 c6 31. Kh3 Qe7
+32. Re4 Qf7 33. Rf4 Rf8 34. Qxf7+ Rxf7 35. Rd4 h6 36. Rd8+ Kh7 37. Rc8 Rf2
+38. Rxc6 Rxa2 39. c5 Rc2 40. Ra6 Rxc5 41. Rxa7 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Gashimov,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2728"]
+[EventDate "2008.07.31"]
+[ECO "B43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. g3 Nf6 7. Bg2 Nc6 8.
+O-O d6 9. Re1 Nd7 10. Bg5 Nde5 11. Nxc6 bxc6 12. b3 Bb7 13. Na4 c5 14. Qe2
+h6 15. Be3 Be7 16. f4 Nd7 17. Rad1 O-O 18. c4 Rad8 19. Rf1 Rfe8 20. Qf2 Nf6
+21. Qc2 Nd7 22. Qf2 Nf6 23. Qc2 Nd7 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2744"]
+[EventDate "2008.07.31"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Bc4 Be6 14.
+Ne4 Qc7 15. Bc5 Rfd8 16. g4 Nf4 17. Qc3 Rd4 18. Bxd4 exd4 19. Qb4 d3 20.
+Bxe6 Ne2+ 21. Kb1 Rb8 22. Bxf7+ Kh8 23. Qxb8+ Qxb8 24. c3 Nxc3+ 25. Nxc3
+Bxc3 26. Bb3 Bf6 27. Rxd3 Qe5 28. Rd2 Qe3 29. Rhd1 Qxf3 30. Rd7 Qe4+ 31.
+Bc2 Qb4 32. Bb3 Qe4+ 33. Ka1 Qg2 34. R1d2 Qxg4 35. a3 a5 36. Rb7 a4 37.
+Rdd7 Qg1+ 38. Bd1 Qxh2 39. Rdc7 Bd8 40. Rc8 Qd2 41. Bc2 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2737"]
+[EventDate "2008.07.31"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Qc2 g6 9. cxd5 exd5 10. Bd3 Bg7 11. O-O O-O 12. b4 Qd6 13. Rab1 a5 14. bxa5
+Rxa5 15. a4 Re8 16. h3 Nf8 17. Nd2 Ra7 18. Nb3 Ne6 19. Rfe1 Bf8 20. a5 Qd8
+21. e4 Nf4 22. Re3 Bb4 23. exd5 Nxd3 24. Qxd3 Bf5 25. Rbe1 Bxd3 26. Rxe8+
+Qxe8 27. Rxe8+ Kg7 28. dxc6 bxc6 29. Na4 Bc4 30. Nac5 Bxc5 31. Nxc5 Rxa5
+32. Re1 Ra2 33. Rc1 Bd5 34. Nd3 Ra4 35. Ne5 Rxd4 36. Nxc6 Bxc6 37. Rxc6
+1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Jakovenko,D"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2704"]
+[EventDate "2008.07.31"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. e3 h6 13. Qe2 Bh7 14. Rd1
+Nbd7 15. Na2 Be7 16. Nc4 Ne4 17. b3 Rc8 18. Qe1 Nd6 19. Bd2 Nxc4 20. bxc4
+Ra8 21. e4 Qc7 22. f4 Rfd8 23. Kh1 Kh8 24. Rab1 f6 25. f5 Nf8 26. Bf4 e5
+27. dxe5 fxe5 28. Be3 Nd7 29. g4 Nc5 30. Nc3 Rxd1 31. Rxd1 Rd8 32. h4 Rxd1
+33. Qxd1 Qd7 34. Qg1 Nd3 35. g5 Nf4 36. Bf1 Qd8 37. gxh6 gxh6 38. Ne2 Nxe2
+39. Bxe2 Bf8 40. Qg3 Bg7 41. Kg2 Bg8 42. Qe1 Bf7 43. Bf2 b6 44. c5 bxc5 45.
+Qc3 Qb6 46. Qxc5 Qxc5 47. Bxc5 Bb3 48. Be7 Kg8 49. Bd8 Bf8 50. Bxa5 Bxa4
+51. Bc7 Bg7 52. Bc4+ Kf8 53. Bd8 Bc2 54. Kf3 Bd1+ 55. Ke3 h5 56. Bg5 Ke8
+57. f6 Bf8 58. Be6 Kd8 59. Kd3 Kc7 60. Bd2 Kd6 61. Bc4 Bg4 62. Bf7 Kd7 63.
+Bc3 Bd6 64. Bb2 Bf3 65. Bg8 Bg4 66. Bf7 Bf3 67. Ba1 Bd1 68. Bc3 Bg4 69. Bd2
+Bf8 70. Be3 Bf3 71. Bg5 Bd1 72. Bc4 Bg4 73. Bd2 Bh3 74. Bf7 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Karjakin,Sergey"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2781"]
+[EventDate "2008.07.31"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Bf4
+Be7 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 O-O-O 11. Bb5 a6 12. Ba4 Bf6 13. Rhe1
+h6 14. Nd4 Bd5 15. f3 Rhe8 16. Ne2 Bc4 17. Ng3 Bh4 18. Be3 f6 19. Bf2 Bxg3
+20. hxg3 Rxe1 21. Rxe1 Re8 22. Bxc6 Qxc6 23. b3 Bf7 24. Rxe8+ Qxe8 25. Qe3
+1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.03"]
+[Round "4"]
+[White "Al Modiahki,M"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2556"]
+[BlackElo "2646"]
+[EventDate "2008.07.31"]
+[ECO "B40"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 Nd4 5. Nxd4 cxd4 6. Ne2 Nf6 7. d3 d5 8.
+cxd5 exd5 9. Nxd4 Qb6 10. Nc2 dxe4 11. Be2 Bd6 12. O-O O-O 13. Na3 Be6 14.
+Nc4 Bxc4 15. dxc4 Bc5 16. Qc2 Rad8 17. a3 Bd4 18. Rb1 Rfe8 19. b4 e3 20.
+fxe3 Bxe3+ 21. Kh1 Ne4 22. Bxe3 Qxe3 23. Bf3 Rd2 24. Bxe4 Rxc2 25. Bxc2
+Qxa3 26. c5 Re7 27. Bb3 Qxb4 28. Bd5 Qa5 29. Bxb7 g6 30. Rfc1 Re5 31. c6
+Rc5 32. h3 Kf8 33. Ra1 Qb4 34. c7 Rxc7 35. Rxc7 a5 36. Bf3 Qb6 37. Rc8+ Kg7
+38. Ra8 h5 39. R8xa5 Qd4 40. Rd1 Qe3 41. Ra4 Kh6 42. h4 Qe5 43. Re4 Qg3 44.
+Kg1 f5 45. Rc4 Kg7 46. Kf1 Kh6 47. Rdd4 Kg7 48. Rc6 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.04"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2744"]
+[BlackElo "2687"]
+[EventDate "2008.07.31"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 Bb7 10. h4 g4 11. Nxg4 Nbd7 12. Nxf6+ Qxf6 13. Be2 O-O-O 14.
+e5 Qf5 15. a4 b4 16. Bxc4 Nc5 17. Ne2 Rg8 18. O-O Be7 19. Qc1 Ne4 20. Ba6
+Kb8 21. Bxb7 Kxb7 22. a5 Rc8 23. a6+ Kb8 24. Qxh6 Ng5 25. d5 Rg6 26. Qxg6
+Qxg6 27. d6 Bd8 28. hxg5 Bb6 29. Rfd1 Qxg5 30. Rac1 Qg4 31. d7 Rd8 32. Kf1
+Kc7 33. Rd6 Rxd7 34. Rcxc6+ Kd8 35. f3 Qh5 36. Rxb6 Qh1+ 37. Ng1 Rxd6 38.
+exd6 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.04"]
+[Round "5"]
+[White "Grischuk,A"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2738"]
+[EventDate "2008.07.31"]
+[ECO "B96"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O b5 10. e5 Bb7 11. Qh3 dxe5 12. Nxe6 fxe6 13. Qxe6+ Be7 14.
+Bxb5 axb5 15. Nxb5 Qc6 16. Nd6+ Kd8 17. fxe5 Kc7 18. Qxe7 Rxa2 19. exf6
+Ra1+ 20. Kd2 Qd5+ 21. Kc3 Qa5+ 22. Kd3 Qd5+ 23. Kc3 Qa5+ 24. Kd3 Qd5+
+1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.04"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2723"]
+[EventDate "2008.07.31"]
+[ECO "A13"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Bf4 Nbd7 9. Qc2 a5 10. Rd1 Nh5 11. Bc1 b5 12. Ne5 Bb7 13. Nxd7 Qxd7 14. c5
+f5 15. Nd2 Qc7 16. Nf3 Bf6 17. Bg5 Rae8 18. Qd2 Bc8 19. Rac1 Bxg5 20. Qxg5
+Nf6 21. Qf4 Qxf4 22. gxf4 Re7 23. Ne5 Bd7 24. Rd3 Ra8 25. Rh3 Be8 26. e3
+Rc7 27. Rg3 Re7 28. Bf1 Rc7 29. Bd3 Kf8 30. Kf1 Rd8 31. Ke2 Ra7 32. Rcg1
+Rc7 33. f3 Nh5 34. Rg5 Nf6 35. R5g3 Nh5 36. Rg5 Nf6 37. R5g3 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.04"]
+[Round "5"]
+[White "Wang Yue"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2717"]
+[EventDate "2008.07.31"]
+[ECO "E35"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 c5 7. Nf3 h6 8.
+Bxf6 Qxf6 9. a3 Ba5 10. dxc5 Bf5 11. Qd2 Bxc3 12. Qxc3 Qxc3+ 13. bxc3 Nd7
+14. Nd4 Be4 15. f3 Bh7 16. c6 bxc6 17. Nxc6 Nb6 18. e3 Rc8 19. Nxa7 Rxc3
+20. a4 Rxe3+ 21. Kf2 Rb3 22. Bb5+ Ke7 23. Rhc1 Rb2+ 24. Kg3 Rc2 25. Rxc2
+Bxc2 26. Re1+ Kf6 27. Rc1 Nc8 28. Nxc8 Rxc8 29. Bd3 Rc3 30. Rxc2 Rxd3 31.
+Ra2 d4 32. a5 Re3 33. Kf2 Re7 34. Ra3 Re6 35. Rb3 Re5 36. Rb6+ Ke7 37. a6
+d3 38. a7 Re2+ 39. Kf1 Ra2 40. Rb7+ Ke6 41. Rb3 Rxa7 42. Rxd3 Ke5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.04"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Al Modiahki,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2556"]
+[EventDate "2008.07.31"]
+[ECO "B19"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Ne4 Nxe4 14.
+Qxe4 Nf6 15. Qd3 O-O 16. Kb1 c5 17. Qe2 Qb6 18. Be3 Rfd8 19. dxc5 Bxc5 20.
+Bxc5 Qxc5 21. Ne5 Rd5 22. Rxd5 Qxd5 23. f3 Rd8 24. a3 Qd2 25. Qxd2 Rxd2 26.
+g4 Kf8 27. Re1 Ke7 28. Re3 Nd7 29. Nd3 Nb6 30. Ne5 Nd7 31. Nd3 Nb6 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.04"]
+[Round "5"]
+[White "Navara,D"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2709"]
+[EventDate "2008.07.31"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. a4 Bb7 8.
+d3 O-O 9. Nc3 b4 10. Nd5 Na5 11. Nxe7+ Qxe7 12. Ba2 d5 13. exd5 Qd6 14. Qe1
+Rfe8 15. Bd2 Nxd5 16. Ng5 b3 17. cxb3 Nc6 18. Qe4 Nf6 19. Qc4 Qd7 20. b4
+Nd8 21. Qc2 Bxg2 22. Kxg2 h6 23. f4 hxg5 24. fxg5 Nh5 25. Rae1 Qg4+ 26. Kh1
+Ng3+ 27. hxg3 Qh3+ 28. Kg1 Qxg3+ 29. Kh1 Qh3+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.04"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2727"]
+[EventDate "2008.07.31"]
+[ECO "A17"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 O-O 5. Bg2 d5 6. a3 Be7 7. d4 dxc4 8.
+Ne5 Nc6 9. Bxc6 bxc6 10. Nxc6 Qe8 11. Nxe7+ Qxe7 12. Qa4 c5 13. Qxc4 cxd4
+14. Qxd4 e5 15. Qb4 Qe6 16. Bg5 a5 17. Qh4 Nd5 18. Rc1 Rb8 19. Na4 f5 20.
+O-O f4 21. e4 fxe3 22. fxe3 Rxf1+ 23. Rxf1 h6 24. Nc5 hxg5 25. Rf8+ Kxf8
+26. Nxe6+ Bxe6 27. Qxg5 Rxb2 28. Qxe5 Rb1+ 29. Kf2 Kf7 30. Qh5+ Kf8 31. Qe5
+Kf7 32. Qh5+ Kf8 33. Qe5 Kf7 34. Qh5+ 1/2-1/2
+
+Chess Classic Mainz
+-------------------
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.06"]
+[Round "6"]
+[White "Cheparinov,I"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2687"]
+[BlackElo "2728"]
+[EventDate "2008.07.31"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Qb3 Qc7 8.
+Nxg6 hxg6 9. Bd2 Nbd7 10. cxd5 exd5 11. O-O-O a5 12. f3 a4 13. Qc2 a3 14.
+b3 Bb4 15. Kb1 Qb6 16. g4 O-O 17. h4 Rfe8 18. Rc1 Qa5 19. Bd3 Nf8 20. h5 g5
+21. Bf5 Rad8 22. Qd3 b6 23. Rc2 c5 24. Rd1 Re7 25. Bc1 Rc7 26. Ne2 Re7 27.
+Ng1 Rde8 28. Nh3 cxd4 29. exd4 Re1 30. Nf2 N6h7 31. Rxe1 Bxe1 32. Re2 Rxe2
+33. Qxe2 Bxf2 34. Qxf2 g6 35. hxg6 fxg6 36. Bd3 Ne6 37. Bxg6 Nhf8 38. Bf5
+Qb4 39. Qe3 Kf7 40. Qe5 Qxd4 41. Qb8 Qd1 42. Qxb6 Nd4 43. Qc7+ Ke8 44. Qc3
+Nxf5 45. gxf5 d4 46. Qc2 Qf1 47. Qe4+ Kf7 48. Kc2 Nh7 49. Qd5+ Kg7 50. Qd7+
+Kg8 51. Qe6+ Kh8 52. Qe8+ Kg7 53. Qg6+ Kh8 54. f6 d3+ 55. Kb1 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.06"]
+[Round "6"]
+[White "Gelfand,B"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2744"]
+[EventDate "2008.07.31"]
+[ECO "E97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 Kh8 13. Be3 Bh6 14. Nf7+
+Rxf7 15. Bxh6 f4 16. Bg5 Neg8 17. g4 h6 18. Bh4 g5 19. Bf2 h5 20. h3 Rh7
+21. c5 Ne7 22. Kg2 Ng6 23. Rh1 Bd7 24. b5 dxc5 25. Bxc5 Kg7 26. d6 hxg4 27.
+hxg4 Rxh1 28. Kxh1 Qh8+ 29. Kg2 Nh4+ 30. Kg1 c6 31. bxc6 bxc6 32. Kf2 Be6
+33. Rb1 Kg6 34. Ke1 Rd8 35. Kd2 Rd7 36. Qa4 Qc8 37. Kc2 Ne8 38. Rd1 Ng2 39.
+Ba6 Qa8 40. Bc4 Ng7 41. Nd5 cxd5 42. exd5 Qe8 43. dxe6 Nxe6 44. Bxa7 Kf6
+45. Bb5 Qc8+ 46. Kb2 Rb7 47. d7 Qc6 48. Ka1 Rxb5 49. Qa3 Rd5 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.06"]
+[Round "6"]
+[White "Jakovenko,D"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2781"]
+[EventDate "2008.07.31"]
+[ECO "B84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. a4 Nc6 8.
+O-O Be7 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Rb8 13. g4 Nd7 14. Bg2 b6
+15. g5 Bb7 16. Nxc6 Bxc6 17. Qh5 Bf8 18. Bg1 g6 19. Qh3 Bg7 20. f5 exf5 21.
+exf5 Bxc3 22. Qxc3 Bxg2+ 23. Kxg2 Qxc3 24. bxc3 Nc5 25. Bxc5 dxc5 26. fxg6
+hxg6 27. Rae1 Rbd8 28. Rxe8+ Rxe8 29. Kf3 Kg7 30. Rd1 Rh8 31. Kg3 Re8 32.
+Kf3 Rh8 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.06"]
+[Round "6"]
+[White "Al Modiahki,M"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2556"]
+[BlackElo "2737"]
+[EventDate "2008.07.31"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nf5 8. c3 O-O 9. d4 Nxe5 10. Rxe5 g6 11. Nd2 d5 12. Nf3 c6 13. Re1 Bd6 14.
+Bg5 f6 15. Bd2 Ng7 16. Bd3 Be6 17. Bh6 Qd7 18. Nh4 Rae8 19. Qc2 Bf7 20. g3
+b6 21. a4 Rxe1+ 22. Rxe1 c5 23. Qd1 Re8 24. Rxe8+ Qxe8 25. Ng2 cxd4 26.
+cxd4 Ne6 27. Bb5 Qd8 28. Ne3 f5 29. Bc6 Qf6 30. Nxd5 Qxd4 31. Qxd4 Nxd4 32.
+Nf6+ Kh8 33. Bd5 Bxd5 34. Nxd5 Nb3 35. Nc3 Be5 36. Be3 Kg7 37. Kf1 Kf6 38.
+Ke2 g5 39. f3 f4 40. gxf4 gxf4 41. Bf2 Bd4 42. Nb5 Bxf2 43. Kxf2 a5 44. Nc7
+Ke5 45. Na8 Nc5 46. Nxb6 Nd3+ 47. Ke2 Nxb2 48. h4 Kd6 49. h5 Kc6 50. Nc8
+Nxa4 51. Ne7+ Kc5 52. Ng6 Nc3+ 53. Kd3 Nd5 54. Nf8 a4 55. Nxh7 a3 56. Kc2
+Kc4 57. Ng5 Ne3+ 58. Kc1 Kb3 59. Ne4 a2 60. Nd2+ Ka3 61. Nb1+ Kb4 62. Kb2
+axb1=Q+ 63. Kxb1 Nf5 64. Kb2 Nh6 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.06"]
+[Round "6"]
+[White "Svidler,P"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2704"]
+[EventDate "2008.07.31"]
+[ECO "C53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Bb3 h6 7. Nbd2 O-O 8.
+O-O a6 9. Re1 Ba7 10. Nf1 Be6 11. Ba4 Ne7 12. h3 Ng6 13. d4 c6 14. Ng3 Qc7
+15. Be3 Rfe8 16. Bc2 Rad8 17. Qc1 Bb8 18. dxe5 dxe5 19. Bb3 Bxb3 20. axb3
+Nf4 21. Qc2 g6 22. Nf1 Kg7 23. b4 c5 24. Bxf4 exf4 25. bxc5 Qxc5 26. N1d2
+Re7 27. b4 Qc8 28. c4 Nd7 29. c5 Ne5 30. Nxe5 Bxe5 31. Rad1 Qe6 32. Nf3
+Rxd1 33. Rxd1 Bf6 34. Re1 Be5 35. Rd1 Bf6 36. Re1 Be5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.06"]
+[Round "6"]
+[White "Kamsky,G"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2727"]
+[EventDate "2008.07.31"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8.
+Bg2 dxe4 9. O-O Qc7 10. Nxe4 Nxe4 11. Bxe4 Nd7 12. Re1 Be7 13. c3 O-O 14.
+Qf3 Ne5 15. Qg2 Ng6 16. Be3 Rb8 17. Rad1 Bd7 18. Qg3 Qc8 19. Bxg6 hxg6 20.
+Bf4 Ra8 21. Bd6 Bxd6 22. Qxd6 Rd8 23. Qe7 Re8 24. Qd6 Rd8 25. Qe7 Be8 26.
+Nf3 Rd7 27. Rxd7 Qxd7 28. Qxd7 Bxd7 29. Rd1 Be8 30. Rd6 Kf8 31. Rb6 Rd8 32.
+Kf1 Bb5+ 33. Ke1 e5 34. Rxb7 Bc6 35. Rxf7+ Kxf7 36. Nxe5+ Ke6 37. Nxc6 Rh8
+38. Ke2 Rxh3 39. a4 Kd6 40. Nb4 a5 41. Nc2 Rh4 42. Ne3 Kc5 43. b3 Rh3 44.
+Kd3 Rf3 45. Ke2 Rh3 46. Kd3 Rf3 47. Ke2 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.06"]
+[Round "6"]
+[White "Gashimov,V"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2646"]
+[EventDate "2008.07.31"]
+[ECO "C99"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Rd8 14. d5
+Bd7 15. Nf1 Rdc8 16. Ne3 Bd8 17. Nh2 Nc4 18. Bd3 Qa7 19. Neg4 Nxg4 20. hxg4
+Bb6 21. Qe2 Bd4 22. Rb1 a5 23. b3 Nb6 24. Bd2 b4 25. Rf1 Rc7 26. Kh1 Nc8
+27. g3 Bc3 28. f4 a4 29. Be3 Bd4 30. Bxd4 Qxd4 31. Nf3 Qb6 32. fxe5 Bxg4
+33. exd6 Nxd6 34. e5 Nf5 35. Bxf5 Bxf5 36. Rbd1 axb3 37. axb3 Rc2 38. Rd2
+Raa2 39. Rfd1 Rxd2 40. Rxd2 Ra1+ 41. Kg2 Qh6 42. e6 fxe6 43. dxe6 Bxe6 44.
+Rd8+ Kf7 45. Ne5+ Ke7 46. Nc6+ Kf7 47. Qf3+ Qf6 48. Qh5+ g6 49. Qxh7+ Qg7
+50. Ne5+ Kf6 51. Qh4+ g5 52. Qd4 Bh3+ 53. Kf3 Rf1+ 54. Ke2 Qe7 55. Rf8+ Ke6
+56. Rh8 Bg2 57. Qe3 Kf5 58. g4+ Kf6 59. Rf8+ Qxf8 60. Nd7+ Kg6 61. Nxf8+
+Rxf8 62. Qe6+ Rf6 63. Qg8+ Kh6 64. Qh8+ Kg6 65. Qh5+ Kg7 66. Qxg5+ Kf7 67.
+Kd3 Rg6 68. Qf5+ Kg7 69. Qe5+ Kf7 70. Qf4+ 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.07"]
+[Round "7"]
+[White "Wang Yue"]
+[Black "Cheparinov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2687"]
+[EventDate "2008.07.31"]
+[ECO "D30"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bh4 dxc4 6. Nc3 c6 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. Re1
+Bf8 15. Bg3 Bg7 16. Bd6 Bf8 17. Bg3 Bg7 18. Bg4 c5 19. d5 Ne5 20. Bxe5 Bxe5
+21. dxe6 Qxd1 22. Raxd1 fxe6 23. Bxe6 Rd8 24. Bd5 Rh7 25. Kf1 Bxc3 26. bxc3
+Bxd5 27. exd5+ Re7 28. Re3 Rxe3 29. fxe3 Ke7 30. Ke2 Kd6 31. e4 Rf8 32. Ke3
+Rf6 33. a4 Ke5 34. axb5 axb5 35. Rb1 Rf4 36. Rxb5 Rxe4+ 37. Kd2 Kxd5 38.
+Rb6 h5 39. Rg6 Re5 40. Ra6 h4 41. h3 Ke4 42. Ra4 Kf4 43. Rxc4+ Kg3 44. Rg4+
+Kf2 45. c4 Kf1 46. g3 hxg3 47. Rxg3 Kf2 48. Rg4 Kf3 49. Kd1 Ke3 50. h4 gxh4
+51. Rxh4 Kd3 52. Rh3+ Re3 53. Rxe3+ Kxe3 54. Kc2 Kd4 55. Kd2 Kxc4 56. Kc2
+1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.07"]
+[Round "7"]
+[White "Radjabov,T"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2723"]
+[EventDate "2008.07.31"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 c5
+8. d5 Bxc3+ 9. bxc3 O-O 10. Nf3 Bg4 11. Be2 Bxf3 12. Bxf3 Nd7 13. O-O Qc7
+14. c4 Rad8 15. Qb3 e5 16. Rfb1 Rb8 17. Qa3 b6 18. Rd1 Nf6 19. Qc3 Rfd8 20.
+a4 Qe7 21. g3 Ne8 22. Bg2 Nd6 23. Re1 Re8 24. Ra2 Rb7 25. Rb2 Qf6 26. Reb1
+Qg7 27. Rb3 Reb8 28. R3b2 h5 29. Rb3 Kh7 30. Re1 Re8 31. Reb1 Reb8 32. Re1
+Qf6 33. Rf1 Kg7 34. Rb2 h4 35. Re2 Re7 36. Re3 Rh8 37. h3 g5 38. g4 Rb8 39.
+Rb1 Reb7 40. Qc1 Qe7 41. Reb3 f6 42. Qc2 Qd7 43. R3b2 a6 44. Bf1 Qc8 45.
+Be2 Kf8 46. Kg2 Ke7 47. Bf1 Qc7 48. Be2 Qc8 49. Bf1 Qc7 50. Be2 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.07"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2717"]
+[EventDate "2008.07.31"]
+[ECO "C49"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6
+8. Bg5 Bd7 9. Nd2 h6 10. Bh4 g5 11. Bxc6 Bxc6 12. Bg3 Ne8 13. d4 f6 14. Re1
+Ng7 15. f3 Qe8 16. Nc4 b6 17. Ne3 Qf7 18. Qd3 Rae8 19. Qc4 Qxc4 20. Nxc4
+Rf7 21. Ne3 exd4 22. cxd4 f5 23. d5 Bd7 24. exf5 Nxf5 25. Nxf5 Rxe1+ 26.
+Rxe1 Bxf5 27. Re2 Kf8 28. Kf2 Re7 29. Rd2 Kf7 30. c4 a6 31. a4 a5 32. h3
+Bd7 33. Ra2 Bf5 34. Rd2 Bd7 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.07"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2709"]
+[EventDate "2008.07.31"]
+[ECO "D56"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Qc2 Nxc3 10. Qxc3 dxc4 11. Qxc4 b6 12. Rc1 c5 13. dxc5 Bb7 14.
+Qa4 Rc8 15. Be2 Rxc5 16. Rxc5 Qxc5 17. O-O Nc6 18. Rd1 Ne5 19. Nd4 a5 20.
+f4 Nc6 21. Bf3 Rd8 22. Kf2 Nxd4 23. Bxb7 Qe7 24. Rxd4 Rxd4 25. Qxd4 Qxb7
+26. Qd8+ Kh7 27. Qd3+ Kg8 28. Qd8+ Kh7 29. Qd3+ Kg8 30. Qd8+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.07"]
+[Round "7"]
+[White "Grischuk,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2720"]
+[EventDate "2008.07.31"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5
+8. Bxb4 Ndxb4 9. O-O Rb8 10. Na3 O-O 11. Qb5 b6 12. Qxc4 Ba6 13. Nb5 Qd5
+14. Qxd5 Nxd5 15. a4 Na5 16. Ne5 Rbd8 17. Bxd5 Bxb5 18. Bxe6 Be8 19. b4
+fxe6 20. bxa5 Rxd4 21. axb6 cxb6 22. a5 Rd5 23. Nd3 Rxa5 24. Rxa5 bxa5 25.
+Nc5 Bb5 26. Nxe6 Re8 27. Nd4 Bxe2 28. Nxe2 Rxe2 29. Rc1 Re8 30. Rc6 a4 31.
+Ra6 Ra8 32. Kf1 Kf7 33. Ke2 a3 34. Kd3 a2 35. Kc3 a1=Q+ 36. Rxa1 a5 37. Ra4
+Ke6 38. h4 Kd5 39. Rd4+ Kc6 40. Rg4 Ra7 41. Kb3 a4+ 42. Ka3 Kd5 43. f3 Ke5
+44. Re4+ Kd5 45. Rg4 Ke5 46. Re4+ Kd5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.07"]
+[Round "7"]
+[White "Navara,D"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2738"]
+[EventDate "2008.07.31"]
+[ECO "B87"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+O-O Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 Nbd7 12. f3 O-O 13. Bd5 Nxd5 14.
+exd5 Ne5 15. Rad1 b4 16. Na4 Nc4 17. Bh6 Bf6 18. b3 Nb6 19. dxe6 fxe6 20.
+Nxb6 Qxb6 21. Be3 Qc7 22. Rd2 e5 23. Ne2 Be6 24. Bg5 Qc5+ 25. Kh1 Bxg5 26.
+Qxg5 e4 27. Qxc5 dxc5 28. Kg1 exf3 29. Rxf3 Rfd8 30. Rfd3 Rxd3 31. Rxd3 a5
+32. Ng3 c4 33. Rd6 Bf7 34. Nf5 h6 35. Kf2 a4 36. Ne7+ Kh7 37. Nd5 axb3 38.
+axb3 Bxd5 39. Rxd5 Ra2 40. bxc4 Rxc2+ 41. Kg3 Rxc4 42. Rb5 Rc3+ 43. Kh4 b3
+44. Rb6 g6 45. Rb7+ Kg8 46. g4 Kf8 47. g5 h5 48. h3 Ke8 49. Rxb3 Rxb3
+1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.07"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Al Modiahki,M"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2556"]
+[EventDate "2008.07.31"]
+[ECO "C24"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Na5 5. Nge2 Nxc4 6. dxc4 d6 7. O-O Be7
+8. a4 O-O 9. a5 Be6 10. b3 c6 11. f4 exf4 12. Nxf4 Nd7 13. Bb2 Ne5 14. h3
+g5 15. Nfe2 g4 16. hxg4 Bxg4 17. Qd4 f6 18. Ng3 Rf7 19. Nd1 Rg7 20. Ne3 Rg6
+21. Nxg4 Rxg4 22. Nf5 Bf8 23. Qe3 Qe8 24. Rf4 Rxf4 25. Qxf4 Qh5 26. Rf1 Re8
+27. Bd4 a6 28. Qg3+ Qg6 29. Qh3 Nf7 30. Rf4 Ng5 31. Qd3 Re6 32. Ng3 Bh6 33.
+Rg4 Bf8 34. Rh4 Be7 35. Bc3 Kf7 36. Kf2 Ke8 37. Kf1 Kd7 38. b4 Ke8 39. b5
+Kf7 40. Kg1 Kg8 41. Kh2 Kf7 42. Bd2 Bf8 43. Bc1 Re8 44. Nf5 Kg8 45. bxc6
+bxc6 46. c5 Nxe4 47. Rxe4 Qxf5 48. Rxe8 Qh5+ 49. Kg3 Qxe8 50. cxd6 Qe1+ 51.
+Kf3 Qxc1 52. d7 Be7 53. d8=Q+ Bxd8 54. Qxd8+ Kg7 55. Qd7+ Kg6 56. Qe8+ Kg7
+57. Qd7+ Kg6 58. Qd3+ Kg5 59. Ke2 Qg1 60. Qg3+ Kh6 61. Qf4+ Kg6 62. Qe4+
+Kg7 63. Qxc6 Qb1 64. Qd7+ Kg8 65. Qd3 Kg7 66. Qg3+ Kf8 67. Qd6+ Kg7 68. Kd2
+Qb5 69. Qc7+ Kg6 70. g3 h5 71. c4 Qb3 72. c5 Qb2+ 73. Kd3 Qb1+ 74. Kd4 Qd1+
+75. Kc4 Qe2+ 76. Kd5 Qf3+ 77. Ke6 Qb3+ 78. Kd7 Qd5+ 79. Qd6 Qb7+ 80. Kd8
+Qa8+ 81. Kc7 Qa7+ 82. Kc6 Kg5 83. Qc7 Qa8+ 84. Kb6 Kg4 85. c6 Qg8 86. Qb7
+Kxg3 87. c7 Qe6+ 88. Ka7 Qe3+ 89. Ka8 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2728"]
+[EventDate "2008.07.31"]
+[ECO "B96"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Bxf6 gxf6 9. f5 Nc6 10. fxe6 fxe6 11. Bc4 Nxd4 12. Qxd4 Rg8 13. O-O-O Bd7
+14. Bb3 O-O-O 15. g3 Be7 16. Na4 Rg5 17. Rd3 Re5 18. Rc3 Bc6 19. Qa7 Kd7
+20. Bd5 exd5 21. Nb6+ Ke8 22. exd5 Rxd5 23. Nxd5 Qa5 24. Nxe7 Bxh1 25. Qf2
+Kxe7 26. Qe1+ Kf8 27. Qxh1 Qxa2 28. Qxb7 Qa1+ 29. Kd2 Re8 30. Re3 Rxe3 31.
+Kxe3 Qg1+ 32. Kd3 Qxh2 33. Qc8+ Ke7 34. Qc7+ Ke6 35. Qc8+ Ke7 36. Qc7+ Ke6
+37. Qc8+ Ke7 38. Qc7+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Cheparinov,I"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2646"]
+[EventDate "2008.07.31"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc6 6. d4 Nf6 7. O-O cxd4
+8. Qa4 Bd7 9. Nxd4 Qb6 10. Nxc6 Bxc6 11. Bxc6+ Qxc6 12. Qxc6+ bxc6 13. Nd2
+g6 14. Nc4 Bg7 15. Bd2 Ne4 16. Bf4 O-O 17. Rac1 Rfd8 18. Rc2 Rd5 19. Rfc1
+Bd4 20. Be3 c5 21. b3 f5 22. f3 Nd6 23. Bf2 Nxc4 24. Rxc4 Re5 25. Kf1 Rd8
+26. Rd1 Rd6 27. Rd3 Bxf2 28. Kxf2 Ra6 29. Rd2 Ra5 30. f4 Re6 31. Rdc2 Rea6
+32. a4 Rb6 33. R2c3 Rb7 34. e4 fxe4 35. Rxe4 Kf7 36. Ke2 Ra6 37. Kd2 Rd6+
+38. Kc2 Rbd7 39. Kb2 Rd2+ 40. Rc2 Kf6 41. Re5 R7d5 42. Rxd5 Rxd5 43. Re2 e5
+44. fxe5+ Rxe5 45. Rd2 Re3 46. Rc2 Re5 47. Kc3 Ke6 48. Kc4 Kd6 49. Kb5 Re3
+50. Rd2+ Kc7 51. Kxc5 Rxb3 52. Rf2 Rc3+ 53. Kd5 Ra3 54. Rf7+ Kb6 55. Rxh7
+Rxa4 56. Rf7 Ra5+ 57. Kc4 Rc5+ 58. Kb3 Rb5+ 59. Kc4 Rc5+ 60. Kb3 Rb5+
+1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Gashimov,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2737"]
+[EventDate "2008.07.31"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. Ne4 Ng6 11. Nfg5 Ke8 12. f4 h6 13. Nf3 Bf5
+14. Re1 Rd8 15. c3 Be7 16. Nd4 Bc8 17. Be3 h5 18. Rad1 h4 19. Nf3 Rxd1 20.
+Rxd1 f6 21. exf6 gxf6 22. Kf2 Rh5 23. Bc1 Ra5 24. a3 Rd5 25. Re1 Kf7 26. g3
+Rd8 27. Rg1 Bf5 28. Re1 Rh8 29. Kg2 Bd7 30. Nf2 Rg8 31. Ne4 b6 32. Kf2 Rh8
+33. Rd1 Be6 34. Re1 c5 35. Rg1 Bf5 36. Re1 a5 37. Ned2 Be6 38. Nf1 f5 39.
+Ne3 Bf6 40. Rd1 hxg3+ 41. hxg3 Bc8 42. Nd5 Rd8 43. Rd2 Rd7 44. Nxf6 Rxd2+
+45. Bxd2 Kxf6 46. Ne5 Nxe5 47. fxe5+ Kxe5 48. Bf4+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2738"]
+[BlackElo "2781"]
+[EventDate "2008.07.31"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bg5 d6 7. Nbd2 h6 8.
+Bh4 g5 9. Bg3 Nh5 10. Bxc6 bxc6 11. d4 exd4 12. Nxd4 Nxg3 13. hxg3 Qf6 14.
+N2b3 Bb6 15. Qf3 Qxf3 16. gxf3 Kg7 17. g4 d5 18. Nf5+ Bxf5 19. gxf5 Rfe8
+20. Nd2 Rad8 21. Rd1 dxe4 22. fxe4 Rd5 23. Ke2 Rxf5 24. Rh2 Rf4 25. f3 f5
+0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Jakovenko,D"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2727"]
+[EventDate "2008.07.31"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Qb3 dxc4 6. Qxc4 b5 7. Qd3 Nbd7
+8. e4 b4 9. Na4 Qa5 10. b3 c5 11. Be3 Bb7 12. Nxc5 Bxc5 13. dxc5 O-O 14.
+Qb5 Qxb5 15. Bxb5 Bxe4 16. Rc1 Rfc8 17. c6 Nb6 18. Ne5 a6 19. Be2 Nbd5 20.
+Bd2 Bxg2 21. Rg1 Be4 22. f3 Bf5 23. Kf2 a5 24. Bb5 Ne8 25. Nd7 Nec7 26. Ba4
+f6 27. Rc4 Rd8 28. Rd1 e5 29. Rc5 Kf7 30. a3 Be6 31. h4 h5 32. Kg3 Ra7 33.
+axb4 axb4 34. Rc4 Nc3 35. Bxc3 Bxc4 36. Bxb4 Ke8 37. Bc5 Rxa4 38. bxa4 Bd5
+39. Bb6 Bxc6 40. Bxc7 Rxd7 41. Rxd7 Kxd7 42. Bb6 Bxa4 43. f4 g5 44. hxg5
+fxg5 45. fxe5 Ke6 46. Bd8 Kf5 47. e6 h4+ 48. Kf2 Bc6 49. Be7 Bd5 50. Bd8
+Bxe6 51. Be7 Kg4 52. Bd8 Kh5 53. Be7 g4 54. Bd6 Bd5 55. Bc7 g3+ 56. Bxg3
+hxg3+ 57. Kxg3 Kg5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Gelfand,B"]
+[Black "Wang Yue"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2704"]
+[EventDate "2008.07.31"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. e3 h6 13. Qe2 Bh7 14. Rd1
+Nfd7 15. Nd3 Qe7 16. e4 e5 17. Nxe5 Nxe5 18. dxe5 Bc5 19. Be3 Bxe3 20. Qxe3
+Nc4 21. Qe2 Nxe5 22. f4 Nd7 23. Rd4 Rfd8 24. Rad1 Nc5 25. Qe3 Rxd4 26. Rxd4
+Nb3 27. Rd1 Re8 28. e5 Qc5 29. Qxc5 Nxc5 30. Bf1 Kf8 31. Kf2 Ke7 32. Ke3 f6
+33. exf6+ Kxf6+ 34. Kf2 Bc2 35. Rc1 Bb3 36. Nd5+ Bxd5 37. Rxc5 Re4 38. Bg2
+Rc4 39. Rxc4 Bxc4 40. Ke3 Bb3 41. Kd4 Bxa4 42. Kc5 Bb3 43. Be4 a4 44. h4
+Bd1 45. Kd6 h5 46. Bd3 Bf3 47. Kc5 b5 48. Bc2 Ke6 49. Bg6 Kd7 50. Bc2 Kc7
+51. b3 a3 52. Bb1 Be4 53. Ba2 Kd7 54. Kb4 Ke6 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.08"]
+[Round "8"]
+[White "Kamsky,G"]
+[Black "Al Modiahki,M"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2556"]
+[EventDate "2008.07.31"]
+[ECO "B31"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Ne7
+8. a3 a5 9. Be3 b6 10. Nbd2 a4 11. Qb1 Qc7 12. b3 O-O 13. bxa4 Rxa4 14. Qb3
+Ra6 15. a4 Be6 16. Qc3 h6 17. Nb3 Bxb3 18. cxb3 Rd8 19. a5 Rxa5 20. Rxa5
+bxa5 21. Bxc5 Nc8 22. h4 Nd6 23. Rc1 Nb5 24. Qc4 Rb8 25. Be3 Nd4 26. Bxd4
+exd4 27. g3 Qb6 28. Nd2 Qb5 29. Kf1 Rd8 30. Ra1 Bf8 31. Qxb5 cxb5 32. Rxa5
+Bb4 33. Ra2 Bxd2 34. Rxd2 Rc8 35. Ke2 Rc3 36. e5 f6 37. exf6 Kf7 38. Kf3
+Kxf6 39. Ke4 Rxb3 40. Kxd4 b4 41. Kc4 Rb1 42. Re2 h5 43. d4 Kf5 44. Re3 Rd1
+45. d5 Rd2 46. f4 Kf6 47. Rb3 Rd1 48. Rxb4 Rc1+ 49. Kd4 Rd1+ 50. Kc5 Rd3
+51. Rd4 Rc3+ 52. Kb4 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Wang Yue"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2704"]
+[BlackElo "2744"]
+[EventDate "2008.07.31"]
+[ECO "E81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8.
+Qxd8 Rxd8 9. Bxc5 Nc6 10. Nge2 b6 11. Ba3 Bb7 12. Rd1 a5 13. Nc1 Nb4 14.
+Bd3 Bh6 15. Nd5 Nfxd5 16. cxd5 e6 17. Bxb4 axb4 18. dxe6 Bxc1 19. e7 Rdc8
+20. e8=Q+ Rxe8 21. Rxc1 f5 22. Rc7 Bd5 23. O-O fxe4 24. fxe4 Bxa2 25. Ra1
+Bd5 26. Rxa8 Bxa8 27. Bb5 Re5 28. Bc4+ Kf8 29. Rc8+ Re8 30. Rxe8+ Kxe8 31.
+e5 Ke7 32. Kf2 Bc6 33. g3 g5 34. Ke3 h6 35. Kd4 Bd7 36. Bd5 Bb5 37. Bf3 Be8
+38. Bg2 Ba4 39. Bd5 Bb5 40. Bg8 Kf8 41. Bc4 Ba4 42. Bd5 Bb5 43. Bf3 Ke7 44.
+Bg4 Bf1 45. Kd5 Bb5 46. Bf5 Be8 47. Kc4 b3 48. Kxb3 Bb5 49. Kc3 Be2 50. Kd4
+Bb5 51. Kd5 Ba4 52. b4 Bb5 53. Bg4 Ba4 54. Bc8 Kd8 55. Ba6 Kd7 56. e6+ Ke7
+57. Bc8 Bb5 58. Bd7 Be2 59. Kc6 b5 60. Kb6 Bc4 61. Bxb5 Bxe6 62. Kc7 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Cheparinov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2687"]
+[EventDate "2008.07.31"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. e3 Nbd7 6. Bd2 Bd6 7. Bd3 O-O 8.
+O-O dxc4 9. Bxc4 c5 10. dxc5 Nxc5 11. Qc2 a6 12. Be2 b5 13. b4 Ncd7 14. Ne4
+Be7 15. Nxf6+ Nxf6 16. a4 bxa4 17. Rxa4 Bb7 18. Rfa1 Ne4 19. Bxa6 Rxa6 20.
+Rxa6 Nxd2 21. Qxd2 Qxd2 22. Nxd2 Bxa6 23. Rxa6 Bxb4 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Grischuk,A"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2723"]
+[EventDate "2008.07.31"]
+[ECO "D15"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. d4 a6 5. c5 g6 6. Bf4 Bg7 7. e3 Nh5 8. Bg5
+Bg4 9. Be2 Nd7 10. Qb3 Rb8 11. e4 dxe4 12. Nxe4 O-O 13. O-O Ndf6 14. Nxf6+
+Bxf6 15. Be3 Qc7 16. h3 Be6 17. Qb6 Qxb6 18. cxb6 Bg7 19. a4 Nf6 20. a5 Nd5
+21. Bd2 Rfd8 22. Rfc1 h6 23. Bc4 Rbc8 24. b4 g5 25. Re1 Bf6 26. Rac1 Kg7
+27. Ne5 Rd6 28. Kh2 Rcd8 29. g3 Bxe5 30. Rxe5 Nf6 31. Bxe6 Rxe6 32. Rxe6
+fxe6 33. Rc4 Kg6 34. Kg2 Rd5 35. g4 h5 36. Kf3 hxg4+ 37. hxg4 Nd7 38. Bc3
+Nf6 39. Bb2 Rb5 40. Bc1 Rd5 41. Be3 Rb5 42. Bd2 Rd5 43. Bc1 Rd8 44. Bd2 e5
+45. dxe5 Nxg4 46. Rxg4 Rxd2 47. Ke3 Kf5 48. Rxg5+ Kxg5 49. Kxd2 Kf5 50. Kd3
+Kxe5 51. Ke3 Kd5 52. Kd3 Ke5 53. Ke3 Kd5 54. Kd3 Ke5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Karjakin,Sergey"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2717"]
+[EventDate "2008.07.31"]
+[ECO "A61"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. h3 Bg7 8.
+e4 O-O 9. Bd3 a6 10. a4 Re8 11. O-O Nbd7 12. Re1 Nh5 13. Bg5 Bf6 14. Be3
+Ne5 15. Be2 Nxf3+ 16. Bxf3 Ng7 17. Qd2 b6 18. Rab1 Be5 19. Bg5 f6 20. Bf4
+Ra7 21. b4 Rf7 22. Bd1 Qc7 23. bxc5 bxc5 24. Bxe5 fxe5 25. Qg5 Ref8 26. Rb2
+Rf4 27. Bg4 Qa5 28. Re3 Qc7 29. Re1 Qa5 30. Rc1 Bxg4 31. hxg4 c4 32. Qh6
+Qc5 33. Nd1 Qd4 34. Rb7 R4f7 35. Rcb1 Rxb7 36. Rxb7 Qxd1+ 37. Kh2 Rf7 38.
+Rb8+ Rf8 39. Rb7 Rf7 40. Rb8+ Rf8 41. Rb7 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2738"]
+[EventDate "2008.07.31"]
+[ECO "A29"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Nd4 5. Bg2 Nxf3+ 6. Bxf3 Bb4 7. Qb3
+Bc5 8. d3 c6 9. O-O O-O 10. Bg2 h6 11. Bd2 Re8 12. Rac1 Bf8 13. h3 d6 14.
+Kh2 a6 15. Be3 Qe7 16. Rcd1 Rb8 17. Ba7 Ra8 18. Bb6 Nd7 19. Be3 f5 20. c5+
+Kh8 21. cxd6 Qf6 22. d4 e4 23. f3 exf3 24. Rxf3 Bxd6 25. Bf4 Bxf4 26. Rxf4
+Re3 27. d5 c5 28. d6 Rxg3 29. Kxg3 Qg5+ 30. Kh2 Qxf4+ 31. Kh1 c4 32. Qb4 a5
+33. Qb5 Nf6 34. Qb6 Bd7 35. e3 Qg3 36. Qxb7 Re8 37. Qf3 Qxf3 38. Bxf3 Rxe3
+39. Kg2 g5 40. Nd5 Nxd5 41. Rxd5 g4 42. hxg4 fxg4 43. Bxg4 Bxg4 44. d7 Bxd7
+45. Rxd7 Re2+ 46. Kf3 Rxb2 47. Rc7 Rc2 48. a4 c3 49. Ke4 Rc1 50. Rc5 c2 51.
+Kd3 Ra1 52. Kxc2 Rxa4 53. Kb3 Rb4+ 54. Kc3 Ra4 55. Kb3 Ra1 56. Kb2 Re1 57.
+Rxa5 Kg7 58. Kc2 Kg6 59. Kd2 Re8 60. Ra3 Kg5 61. Re3 Rf8 62. Ke2 Kg4 63.
+Re7 h5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Al Modiahki,M"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2556"]
+[BlackElo "2709"]
+[EventDate "2008.07.31"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. exd5 Qxd5
+8. Na3 Qd8 9. Nc4 Nf5 10. a4 Bd6 11. Nxd6+ Qxd6 12. d3 O-O 13. a5 Qc7 14.
+Qd2 e5 15. Qc3 Nfd4 16. Qxc5 Nxf3+ 17. gxf3 Be6 18. f4 Qd7 19. c3 Rae8 20.
+Bg2 Qxd3 21. Qe3 Qb5 22. Qb6 Qc4 23. Qxb7 Bd5 24. Bxd5 Qxd5 25. f5 Qc4 26.
+Qb6 Qg4+ 27. Kh1 Qf3+ 28. Kg1 Ra8 29. Ra4 Rfb8 30. Qe3 Qxf5 31. Qg3 Qf6 32.
+Rg4 Kh8 33. b4 Re8 34. h4 h6 35. Kh2 Rg8 36. Rg1 Rae8 37. Bg5 Qe6 38. Be3
+Qf6 39. Bg5 Qe6 40. Be3 Qf6 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.09"]
+[Round "9"]
+[White "Navara,D"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2720"]
+[EventDate "2008.07.31"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5 cxd5 7. Nf3 Bd6
+8. d4 Nc6 9. O-O Be6 10. Ng5 O-O 11. Bxf4 h6 12. Nxe6 fxe6 13. Ne2 Na5 14.
+c3 Nxb3 15. Qxb3 b6 16. Rf3 Nh5 17. Raf1 Nxf4 18. Nxf4 Rxf4 19. Rxf4 Bxf4
+20. Rxf4 Qg5 21. g3 Rf8 22. Rxf8+ Kxf8 23. Qc2 Qf5 24. Qe2 Ke7 25. Kg2 g5
+26. g4 Qf4 27. h3 Qc1 28. a4 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.11"]
+[Round "10"]
+[White "Cheparinov,I"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2687"]
+[BlackElo "2737"]
+[EventDate "2008.07.31"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Bd3 Nbd7 8.
+O-O Bd6 9. Nc3 O-O 10. Bd2 Re8 11. Qd1 dxc4 12. Bxc4 Qe7 13. Qc2 e5 14.
+Rae1 Rad8 15. Bb3 Bb8 16. Ne2 Qd6 17. g3 Nb6 18. Qf5 Nbd5 19. Qf3 e4 20.
+Qg2 h5 21. Nf4 g6 22. Rc1 Nh7 23. Ba5 b6 24. Bd2 Ng5 25. Bd1 h4 26. gxh4
+Nxf4 27. exf4 Ne6 28. h5 Nxd4 29. Be3 c5 30. Bxd4 cxd4 31. Ba4 Re7 32. Rc6
+Qxf4 33. hxg6 f5 34. Rfc1 d3 35. Rc8 Kg7 36. R1c4 Rxc8 37. Rxc8 Rc7 38.
+Rxc7+ Bxc7 39. Bd7 a6 40. h4 b5 41. Qh3 d2 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.11"]
+[Round "10"]
+[White "Grischuk,A"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2704"]
+[EventDate "2008.07.31"]
+[ECO "B13"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Nf3 h6
+8. Bxf6 exf6 9. Bxc4 Bd6 10. O-O O-O 11. h3 Bf5 12. Re1 a6 13. Bd3 Qd7 14.
+Bxf5 Qxf5 15. Qb3 Bb4 16. Rec1 Bxc3 17. bxc3 b5 18. a4 Na5 19. Qa2 Rfc8 20.
+d5 Rc4 21. axb5 axb5 22. Nd4 Qd7 23. Rab1 Ra4 24. Qc2 Nc4 25. Nxb5 R4a5 26.
+Qe2 Rxb5 27. Qxc4 Rxd5 28. Qf4 Rc8 29. Rb8 Rdc5 30. Rxc8+ Qxc8 31. c4 h5
+32. Qe4 g6 33. h4 Kg7 34. g3 Qc7 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.11"]
+[Round "10"]
+[White "Kamsky,G"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2709"]
+[EventDate "2008.07.31"]
+[ECO "C91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d4 d6 9. c3 Bg4 10. d5 Na5 11. Bc2 c6 12. h3 Bc8 13. dxc6 Qc7 14. Nbd2 Qxc6
+15. Nf1 Re8 16. Ng3 Be6 17. Ng5 Bd7 18. a4 Bd8 19. Re3 Nc4 20. Rd3 Be7 21.
+b3 Na5 22. Nh5 Nxh5 23. Qxh5 Bxg5 24. Qxg5 h6 25. Qd2 Re6 26. Rd5 Qc8 27.
+axb5 axb5 28. c4 Nc6 29. Rxa8 Qxa8 30. cxb5 Nd4 31. Bd1 Bxb5 32. Bb2 Qa2
+33. Bg4 Rf6 34. Qc1 Ne2+ 35. Bxe2 Bxe2 36. Ba3 Ba6 37. Rd2 Qxb3 38. Bxd6
+Re6 39. Qa1 Bd3 40. Bxe5 Qb1+ 41. Kh2 Qxa1 42. Bxa1 Bxe4 43. Re2 Bd5 44.
+Rxe6 Bxe6 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.11"]
+[Round "10"]
+[White "Gelfand,B"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2781"]
+[EventDate "2008.07.31"]
+[ECO "A30"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8.
+e4 a6 9. d4 cxd4 10. Nxd4 Qc7 11. Be3 O-O 12. Rc1 Re8 13. f4 Bf8 14. f5 h6
+15. Rf1 Nbd7 16. fxe6 fxe6 17. Bh3 Qc5 18. b4 Qxc4 19. Nd5 Qxa2 20. Rf2
+Qxf2+ 21. Bxf2 exd5 22. Bxd7 Nxd7 23. Rc7 Bc8 24. Nf5 Ne5 25. Qh5 Re6 26.
+Bd4 Rf6 27. Bxe5 dxe5 28. Nxh6+ gxh6 29. Qxe5 Rd6 30. Qh5 Bd7 31. e5 Be8
+32. Qf3 Rdd8 33. Qf5 Bg7 34. Qg4 Bf7 35. e6 Rf8 36. Rxf7 Rxf7 37. exf7+
+Kxf7 38. Qd7+ 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.11"]
+[Round "10"]
+[White "Gashimov,V"]
+[Black "Al Modiahki,M"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2556"]
+[EventDate "2008.07.31"]
+[ECO "B57"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nde2 e6
+8. Bb3 Be7 9. Be3 Qc7 10. Qd2 a6 11. O-O-O Ng4 12. f4 Nxe3 13. Qxe3 O-O 14.
+Rhf1 b5 15. f5 b4 16. Na4 Na5 17. Ng3 Nxb3+ 18. axb3 Kh8 19. Nh5 exf5 20.
+exf5 Bb7 21. f6 gxf6 22. Rde1 Rfe8 23. Nb6 Rab8 24. Qh6 Rg8 25. Nxf6 Rg7
+26. Nbd5 Qa5 27. Nxe7 Qa1+ 28. Kd2 Qxb2 29. g4 Qc3+ 30. Kd1 Bf3+ 31. Rxf3
+Qxf3+ 32. Kc1 Qc3 33. Re3 Qa1+ 34. Kd2 Qd4+ 35. Ke2 Qc5 36. Nf5 Qxc2+ 37.
+Kf3 Qd1+ 38. Kf2 Qc2+ 39. Re2 Qc5+ 40. Kf1 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.11"]
+[Round "10"]
+[White "Radjabov,T"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2744"]
+[BlackElo "2646"]
+[EventDate "2008.07.31"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. f4 Bb4 8.
+Bd3 d6 9. Nxc6 bxc6 10. O-O e5 11. h3 exf4 12. Bxf4 O-O 13. e5 Bxc3 14.
+bxc3 dxe5 15. Bxe5 Nd5 16. Qh5 f5 17. Rae1 Qe8 18. Qh4 Qd8 19. Qd4 Qd7 20.
+c4 Nf6 21. Bd6 Ne8 22. c5 Nxd6 23. cxd6 Qa7 24. Qxa7 Rxa7 25. Re7 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.11"]
+[Round "10"]
+[White "Svidler,P"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteElo "2738"]
+[BlackElo "2727"]
+[EventDate "2008.07.31"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 Bb7 8.
+Bg2 Nxd5 9. O-O Be7 10. Qe4 Na6 11. Nh4 g6 12. Qe5 f6 13. Qe4 Qc8 14. Rd1
+Nac7 15. Nxg6 hxg6 16. Qxg6+ Kd8 17. a3 b5 18. e4 Nb6 19. Nc3 Ne6 20. b4
+cxb4 21. Nd5 Nf8 22. Qg7 Rh7 23. Qg8 Nxd5 24. exd5 d6 25. axb4 Qf5 26. Be3
+a6 27. Rac1 Rc8 28. Bb6+ Ke8 29. h4 Qg6 30. Qxg6+ Nxg6 31. Rxc8+ Bxc8 32.
+Rc1 Bf5 33. Ra1 Rg7 34. Kh2 Bc8 35. Rc1 Bb7 36. f4 Bd8 37. Bd4 Kf7 0-1
+
+Najdorf Memorial
+----------------
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.12"]
+[Round "11"]
+[White "Wang Yue"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2723"]
+[EventDate "2008.07.31"]
+[ECO "D80"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. Qa4+ c6
+8. Qxc4 Qa5 9. e3 Be6 10. Qd3 Bg7 11. Nf3 Nd7 12. Qd2 Nc5 13. Rc1 Ne4 14.
+Qc2 Nd6 15. Bd3 Qxa2 16. Qxa2 Bxa2 17. c4 b5 18. cxb5 cxb5 19. Rc7 Bf6 20.
+Bg3 a6 21. Ke2 Bd5 22. Ra1 O-O 23. Ne5 Rfc8 24. Rxc8+ Nxc8 25. Nd7 Bg7 26.
+Nc5 a5 27. Bxb5 Nd6 28. Bxd6 exd6 29. Na6 Bxg2 30. Rxa5 Bf8 31. Ra4 d5 32.
+f3 Rc8 33. Kf2 Bh3 34. Be2 Be7 35. Ke1 h5 36. Kd2 Be6 37. f4 h4 38. Ra1 Bd6
+39. Rc1 Rxc1 40. Kxc1 g5 41. fxg5 Bxh2 42. Nc5 Kg7 43. Nxe6+ fxe6 44. Bg4
+1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.12"]
+[Round "11"]
+[White "Jakovenko,D"]
+[Black "Gashimov,V"]
+[Result "1-0"]
+[WhiteElo "2709"]
+[BlackElo "2717"]
+[EventDate "2008.07.31"]
+[ECO "A61"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. h3 Bg7 8.
+e4 O-O 9. Bd3 a6 10. a4 Re8 11. O-O Nbd7 12. Re1 b6 13. Bf4 Qc7 14. Qd2 Bb7
+15. Bc4 Nh5 16. Bh2 h6 17. Rad1 Kh7 18. Qc2 Re7 19. Be2 Kg8 20. Nd2 Nhf6
+21. Nc4 Ne8 22. f4 Bd4+ 23. Kh1 Rd8 24. Bf3 Qb8 25. Ne2 Bg7 26. Nc3 b5 27.
+axb5 axb5 28. Nxb5 Bxd5 29. exd5 Rxe1+ 30. Rxe1 Qxb5 31. f5 Qb4 32. Rf1 g5
+33. Nxd6 Nxd6 34. Bxd6 Be5 35. Bxe5 Nxe5 36. Qe2 Nxf3 37. Rxf3 c4 38. f6
+Rxd5 39. Re3 Rd8 40. Re8+ Rxe8 41. Qxe8+ Qf8 42. Qxf8+ Kxf8 43. Kg1 Ke8 44.
+Kf2 Kd7 45. Ke3 Ke6 46. Kd4 Kxf6 47. Kxc4 Ke6 48. b4 f5 49. b5 g4 50. hxg4
+fxg4 51. Kd4 Kd6 52. Ke4 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.12"]
+[Round "11"]
+[White "Ivanchuk,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2744"]
+[EventDate "2008.07.31"]
+[ECO "E61"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bf4 d6 6. e3 c5 7. d5 Qb6 8.
+Rb1 e5 9. Bg5 Bf5 10. Bd3 Bxd3 11. Qxd3 Nbd7 12. Nd2 Rae8 13. a3 a6 14. f3
+Qc7 15. Bh4 Nh5 16. g4 e4 17. fxe4 Bf6 18. Bxf6 Nhxf6 19. Qe2 Ne5 20. h3
+Qe7 21. Rg1 Nfd7 22. Kd1 Qh4 23. Kc2 Rb8 24. Rh1 Kg7 25. a4 Rh8 26. Qg2 Qg5
+27. Qg3 h5 28. Qf4 Qe7 29. g5 Rhf8 30. Rbf1 Qd8 31. Qg3 Qa5 32. Ra1 Qb4 33.
+a5 b5 34. axb6 Nxb6 35. Na2 Qa5 36. Nc3 Qb4 37. Na2 Qa5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.12"]
+[Round "11"]
+[White "Aronian,L"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2720"]
+[EventDate "2008.07.31"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8.
+Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5
+exd5 15. dxc5 dxc4 16. cxb6 Nxb6 17. Re1 cxb3 18. Qxb3 Nd7 19. Nf3 Bc4 20.
+Qb2 Bf6 21. Bxf6 Nxf6 22. Ne5 Bd5 23. Rad1 Qa5 24. Bxd5 Nxd5 25. Nd7 Rfd8
+26. Qe5 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.12"]
+[Round "11"]
+[White "Karjakin,Sergey"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2687"]
+[EventDate "2008.07.31"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O h6 7. Nbd2 Ne7 8.
+Nb3 Nc8 9. Be3 Be7 10. Nfd2 O-O 11. f4 Ncb6 12. a4 a5 13. c3 f6 14. exf6
+Nxf6 15. Nc5 Bxc5 16. dxc5 Nbd7 17. b4 Ne4 18. Nxe4 Bxe4 19. Qe1 Qe7 20.
+Qg3 Bf5 21. Bd4 Nf6 22. Qe3 Ne4 23. Rfb1 g5 24. Rf1 Kh7 25. bxa5 Bg6 26.
+Be5 gxf4 27. Bxf4 Qxc5 28. Qxc5 Nxc5 29. Be5 Rf5 30. Rxf5 Bxf5 31. Rf1 Nxa4
+32. g4 Rg8 33. Rf4 Nc5 34. Rb4 h5 35. h3 hxg4 36. hxg4 Bd3 37. Bxd3+ Nxd3
+38. Rxb7+ Kh6 39. Bg7+ Kg5 40. Bd4 e5 41. Bb6 Ra8 42. Ra7 Rb8 43. Rg7+ Kf4
+44. g5 Kf5 45. Rc7 c5 46. Rc6 d4 47. cxd4 cxd4 48. a6 Nb4 49. Rf6+ Kxg5 50.
+a7 Ra8 51. Rd6 d3 52. Kf2 Rc8 53. Rd8 Rc2+ 54. Kg3 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.12"]
+[Round "11"]
+[White "Al Modiahki,M"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2556"]
+[BlackElo "2738"]
+[EventDate "2008.07.31"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bg4 6. Nbd2 e6 7. h3 Bh5 8.
+Nb3 Bxc5 9. Nxc5 Qa5+ 10. c3 Qxc5 11. Be3 Qa5 12. Qb3 Nge7 13. Nd4 Rb8 14.
+f4 O-O 15. Bd3 Bg6 16. Bxg6 hxg6 17. O-O b5 18. Nxc6 Nxc6 19. Bc5 Rfc8 20.
+Bd6 Rb7 21. Kh2 Qb6 22. a4 Na5 23. Qxb5 Qd8 24. Qe2 Nc4 25. Ba3 Rb3 26. Qd1
+Qb6 27. a5 Qb5 28. Bb4 Rxb2 29. Qd4 Nd2 30. Rf2 Nb3 31. Rxb2 Nxd4 32. cxd4
+Rc4 33. Rab1 Qa4 34. Bc5 Qxa5 35. Rb8+ Kh7 36. R8b7 Qd2 37. Rxf7 Rc2 38.
+Rg1 a5 39. Kh1 a4 40. Re7 Qe3 41. Rxe6 a3 42. Ra6 a2 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.12"]
+[Round "11"]
+[White "Navara,D"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2728"]
+[EventDate "2008.07.31"]
+[ECO "B43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. O-O Bc5
+8. Nb3 Be7 9. f4 d6 10. a4 Nc6 11. a5 b5 12. axb6 Qxb6+ 13. Kh1 O-O 14. Qe2
+Nb4 15. Be3 Qb8 16. Na5 Qc7 17. Bf2 Bd7 18. Bc4 Bb5 19. Rfc1 Bxc4 20. Qxc4
+Qb8 21. Qe2 Rc8 22. Nc4 Nd7 23. Bd4 Qc7 24. b3 Nc6 25. Bf2 Bf6 26. Qd2 Ne7
+27. Rd1 Bxc3 28. Qxc3 d5 29. exd5 exd5 30. Qb4 Nf6 31. Bb6 Qxf4 32. Qxe7
+dxc4 33. Rxa6 Rab8 34. Ba7 Qg4 35. Rad6 Re8 36. Rd8 Qxd1+ 37. Rxd1 Rxe7 38.
+Bxb8 cxb3 39. cxb3 h6 40. b4 Rb7 41. Bd6 Ne4 42. Bc5 Nxc5 43. bxc5 Kf8 44.
+Kg1 Rc7 45. Rc1 Ke7 46. Kf2 Ke6 47. Rc3 Kd5 48. Rg3 g6 49. Rd3+ Kxc5 50. h4
+Kc6 51. h5 Rd7 52. Rh3 gxh5 53. Rxh5 Kd6 54. g4 Ke7 55. Rxh6 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.13"]
+[Round "12"]
+[White "Radjabov,T"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2737"]
+[EventDate "2008.07.31"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Bc5 6. Be3 Bb6 7. Qg4 g6
+8. Nd2 Qe7 9. Nxc6 bxc6 10. Bxb6 axb6 11. Bd3 d5 12. Qf4 Nf6 13. O-O O-O
+14. Rfe1 Re8 15. h3 Be6 16. exd5 Nxd5 17. Qg3 Qd6 18. Qxd6 cxd6 19. Bc4 b5
+20. Bb3 Nf4 21. Ne4 Red8 22. Rad1 Bxb3 23. axb3 d5 24. Nc5 Re8 25. h4 Kg7
+26. Rxe8 Rxe8 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.13"]
+[Round "12"]
+[White "Gelfand,B"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2727"]
+[EventDate "2008.07.31"]
+[ECO "E35"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 c5 7. dxc5 h6
+8. Bh4 O-O 9. e3 g5 10. Bg3 Ne4 11. Nf3 Nd7 12. Be2 Ndxc5 13. O-O Bxc3 14.
+bxc3 Bf5 15. Qb2 Qb6 16. Qb4 Qxb4 17. cxb4 Nc3 18. bxc5 Nxe2+ 19. Kh1 Rfc8
+20. Nd4 Nxd4 21. exd4 Re8 22. Rfe1 f6 23. Kg1 Kf7 24. f3 Rxe1+ 25. Rxe1 Re8
+26. Kf2 Rxe1 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.13"]
+[Round "12"]
+[White "Wang Yue"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2646"]
+[EventDate "2008.07.31"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Qd2 e5 13. dxe5 Bxe5 14.
+Rad1 Be6 15. Bh6 Bg7 16. Bxg7 Kxg7 17. f4 f5 18. Qc2 Qe7 19. exf5 Bxf5 20.
+Bxf5 Rxf5 21. Ng3 Rf7 22. Rde1 Qh4 23. f5 Raf8 24. Re4 Qg5 25. Ref4 Qe7 26.
+Qc1 Nc6 27. Re4 Qd8 28. Qe3 gxf5 29. Re6 Ne7 30. Nh5+ Kg8 31. Qg3+ Ng6 32.
+Nf4 Rf6 33. h4 Kh8 34. Nxg6+ hxg6 35. Rfe1 f4 36. Qg4 Qd7 37. a4 Rxe6 38.
+Qxe6 Qxe6 39. Rxe6 Kg7 40. Kf2 Kh6 41. Kf3 Kh5 42. a5 bxa5 43. Ra6 Rf7 44.
+Rc6 Rf5 45. Ra6 a4 46. g4+ fxg3+ 47. Kxg3 Rf7 48. Rxa4 Rd7 49. Rc4 Rd5 50.
+Kf2 a6 51. Kg3 Kh6 52. Kg4 Kg7 53. Ra4 Rd6 54. Ra5 Rc6 55. Kg5 Kf7 56. Ra1
+c4 57. Ra5 Rf6 58. Kg4 Rc6 59. Kf4 Ke7 60. Ke4 Kd7 61. h5 gxh5 62. Rxh5 Kc7
+63. Kd4 Kb6 64. Rh8 a5 65. Rb8+ Ka6 66. Kd5 Rc7 67. Kd6 Rh7 68. Kc5 Ka7 69.
+Rg8 Rh5+ 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.13"]
+[Round "12"]
+[White "Kamsky,G"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2717"]
+[EventDate "2008.07.31"]
+[ECO "A30"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d5 8.
+d4 dxc4 9. dxc5 Bxc5 10. Qa4+ Nbd7 11. Bg5 O-O 12. Red1 Qc8 13. e3 Bc6 14.
+Qxc4 Qb7 15. Bxf6 Nxf6 16. Ne1 Bxg2 17. Nxg2 Rac8 18. Qf4 Rfd8 19. Ne1 h6
+20. Rac1 Be7 21. a4 a6 22. Qf3 Qxf3 23. Nxf3 Rxd1+ 24. Rxd1 Bb4 25. Na2 Be7
+26. Rc1 Rxc1+ 27. Nxc1 Kf8 28. Nd3 Ke8 29. Nfe5 Nd7 30. Kg2 Nxe5 31. Nxe5
+Bf6 32. Nd3 Kd7 33. Kf3 Kd6 34. b3 Bc3 35. e4 b5 36. axb5 axb5 37. Ke3 h5
+38. h3 g6 39. f3 Ba5 40. f4 Bb6+ 41. Kf3 Bd4 42. g4 hxg4+ 43. hxg4 f5 44.
+Ne1 Kc5 45. Nd3+ Kd6 46. Ne1 Kc5 47. Nd3+ Kd6 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.13"]
+[Round "12"]
+[White "Svidler,P"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2709"]
+[EventDate "2008.07.31"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Qc2 c5 8.
+dxc5 Nxc5 9. Be2 dxc4 10. Bxc4 Bd7 11. O-O Qb6 12. Rfd1 Rfd8 13. Be2 Be8
+14. Nd2 Nd5 15. Nc4 Nb4 16. Nxb6 Nxc2 17. Nxa8 Nxa1 18. Rxd8 Bxd8 19. Bd6
+Na4 20. Nd1 Bf6 21. b3 Nc3 22. Nxc3 Bxc3 23. Bf3 Bc6 24. Bxc6 bxc6 25. Bc5
+a6 26. Nc7 a5 27. Na6 Nc2 28. Nb8 Nb4 29. Bxb4 axb4 30. Nxc6 Kf8 31. Kf1 e5
+32. e4 Ke8 33. Ke2 Kd7 34. Na5 Bd4 35. f3 Bb6 36. Nc4 Bc7 37. Ne3 Kc6 38.
+Nf5 g6 39. Nh6 f6 40. Kd3 Kc5 41. Nf7 Bb6 42. h4 Kb5 43. h5 Bc5 44. hxg6
+hxg6 45. Nh8 g5 46. Nf7 Bb6 47. Nd6+ Kc5 48. Nf5 Kb5 49. g3 Bc5 50. Kd2 Bf8
+51. Ke2 Bc5 52. Kf1 Kc6 53. Kg2 Kd7 54. Kh3 Ke6 55. Kg4 Kf7 56. Kh5 Bf8 57.
+g4 Be7 58. Kh6 Bc5 59. Kh7 Bf8 60. Kh8 Bc5 61. Nh6+ Kg6 62. Nf5 Kf7 63. Kh7
+Bf8 64. Ne3 Bc5 65. Nc4 Bf8 66. Na5 Bd6 67. Nc6 Bc5 68. Nd8+ Ke7 69. Nb7
+Bb6 70. Kg7 Ke6 71. Kf8 Kd7 72. Kf7 Kc7 73. Kxf6 Kxb7 74. Kxg5 Kc6 75. Kf6
+Kd6 76. g5 Bd8+ 77. Kf5 Bb6 78. Kg6 Bd8 79. Kh6 Ke7 80. Kg7 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.13"]
+[Round "12"]
+[White "Grischuk,A"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2781"]
+[EventDate "2008.07.31"]
+[ECO "E21"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. d4 c5 5. g3 Nc6 6. Bg2 Ne4 7. Bd2 Nxd2 8.
+Qxd2 cxd4 9. Nxd4 O-O 10. O-O Ne5 11. b3 a6 12. Nf3 Qa5 13. Rfc1 Nc6 14.
+Nd4 Be7 15. Rc2 Qc7 16. Rd1 Rb8 17. e3 Rd8 18. h3 h6 19. Kh2 Bf8 20. f4 d6
+21. Nd5 Qd7 22. Nb6 Qc7 23. Nd5 Qd7 24. Nb6 Qc7 25. Nd5 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.13"]
+[Round "12"]
+[White "Cheparinov,I"]
+[Black "Al Modiahki,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2556"]
+[EventDate "2008.07.31"]
+[ECO "B67"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 h6 10. Be3 h5 11. Kb1 Qc7 12. Nxc6 Bxc6 13. Ne2 d5 14. e5
+Nd7 15. f4 g5 16. f5 Nc5 17. fxe6 fxe6 18. Bxc5 Bxc5 19. Qxg5 Qe7 20. Qd2
+O-O-O 21. Nf4 Be8 22. Qc3 Kb8 23. Nxe6 Qxe6 24. Qxc5 Qxe5 25. Bd3 h4 26.
+Qb4 Qd6 27. Qxd6+ Rxd6 28. Rhf1 Rg8 29. Rf2 Bc6 30. b3 Kc7 31. Rdd2 Rd7 32.
+Rf4 Rh8 33. Be2 Re7 34. Bf3 h3 35. g3 Re1+ 36. Kb2 Rg1 37. Rfd4 Rf8 38. Bg4
+Rh8 39. Kc3 a5 40. a4 Rh7 41. Re2 Kd6 42. Kd2 Kc5 43. Rf4 Rg2 44. Bf3 d4
+45. Bxc6 bxc6 46. Rff2 Rg1 47. Kd3 Rh5 48. Rf4 Rd5 49. Ref2 Rd1+ 50. Ke2
+Rb1 51. Kd3 Rd1+ 52. Rd2 Re1 53. Re4 Rh1 54. g4 Rg1 55. Rf2 Rd1+ 56. Ke2
+Rc1 57. Kd2 Rg1 58. Rf3 Rg2+ 59. Re2 Rxg4 60. Rxh3 Kb4 61. Rf2 Rc5 62. Rd3
+Ka3 63. c3 dxc3+ 64. Rxc3 Rxc3 65. Kxc3 Rb4 66. Rb2 c5 67. Rb1 Ka2 68. Rb2+
+Ka3 69. Rb1 Ka2 70. Rc1 Rxb3+ 71. Kc4 Rb4+ 72. Kxc5 Rxa4 73. Kb5 Rh4 74.
+Kxa5 Rxh2 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2728"]
+[EventDate "2008.07.31"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. O-O b4 10. Ne4 Nxe4 11. Bxe4 Bd6 12. a3 bxa3 13. b3 Nf6 14. Nd2
+Qc7 15. Bf3 Bxh2+ 16. Kh1 Bd6 17. Nc4 Be7 18. Bxa3 O-O 19. Bc5 Rfd8 20. b4
+Bxc5 21. bxc5 a5 22. Re1 Ba6 23. Nb6 Rab8 24. Rxa5 Bb5 25. Qa1 Nd5 26. Ra7
+Rb7 27. Rxb7 Qxb7 28. Qa5 Qe7 29. Ra1 Qg5 30. Nxd5 exd5 31. Qc7 g6 32. Ra7
+Qf6 33. Bg4 Re8 34. Kg1 Kg7 35. Bd7 Re7 36. Qd8 h5 37. Ra8 Kh6 38. Rc8 Kh7
+39. Bxc6 Bxc6 40. Rxc6 Qxc6 41. Qxe7 Kg7 42. Kh2 1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Karjakin,Sergey"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2727"]
+[BlackElo "2744"]
+[EventDate "2008.07.31"]
+[ECO "B78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 a6 13. h4 h5 14. g4
+hxg4 15. h5 Nxh5 16. Rdg1 Qa5 17. Bh6 Bf6 18. fxg4 Bxg4 19. Bxf8 Kxf8 20.
+Qe3 Rxc3 21. Qxc3 Qxc3 22. bxc3 e6 23. Bc4 Nxc4 24. Rxg4 Be5 25. Rg2 b5 26.
+Rf2 Kg8 27. a4 bxa4 28. Ka2 Nf6 29. Re2 d5 30. exd5 Nxd5 31. Rh3 Bxd4 32.
+cxd4 Nf4 33. Reh2 Nxh3 34. Rxh3 g5 35. Rg3 f6 36. Rc3 Nd2 37. Rd3 Ne4 38.
+c4 Kf7 39. c5 g4 40. c6 Ke7 41. d5 exd5 42. c7 Kd7 43. Rxd5+ Kxc7 44. Rf5
+g3 45. Rf4 Kd7 46. Kb2 Ke6 47. Rxe4+ Kf5 48. Re1 Kg4 49. Kc2 g2 50. Kd2 Kg3
+51. Ke2 a3 52. Ra1 a2 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Ivanchuk,V"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2704"]
+[EventDate "2008.07.31"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Be7 6. Nxe4 dxe4 7. Qxd8+
+Bxd8 8. Nd4 c6 9. Bf4 Nd7 10. Nf5 O-O 11. Nd6 Ba5+ 12. c3 Bc7 13. O-O-O
+Bxd6 14. exd6 Nb6 15. c4 Be6 16. b3 a5 17. Be2 a4 18. Kb2 axb3 19. axb3 Nd7
+20. Ra1 f5 21. Kc3 Kf7 22. h4 c5 23. Rhd1 h6 24. f3 b6 25. fxe4 fxe4 26.
+Rf1 Nf6 27. Be5 Kg6 28. Kd2 h5 29. Ke3 Bd7 30. Bc3 Rfe8 31. Rf4 Rxa1 32.
+Bxa1 Re6 33. Bxf6 gxf6 34. Rxe4 Rxd6 35. Re7 Bf5 36. Re8 Bc2 37. Rg8+ Kh7
+38. Rb8 Bxb3 39. Bd3+ Kg7 40. Rb7+ Kf8 41. Be2 Rd4 1/2-1/2
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Gashimov,V"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2738"]
+[EventDate "2008.07.31"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Re8 10. d4 Bb7 11. a4 Qd7 12. Nbd2 Bf8 13. Bc2 exd4 14. cxd4
+Nb4 15. Bb1 g6 16. Ra3 bxa4 17. Rxa4 a5 18. Ra3 Bg7 19. e5 dxe5 20. dxe5
+Nfd5 21. Ne4 Qb5 22. Bd2 Nb6 23. Nc3 Qd7 24. Be4 Bxe4 25. Rxe4 Nc6 26. Qe2
+Nxe5 27. Nxe5 Rxe5 28. Rxe5 Bxe5 29. Qxe5 Qxd2 30. Ne4 Nd7 31. Nxd2 Nxe5
+32. Rc3 Ra7 33. Nb3 Nd7 34. Rd3 Nb6 35. Nd4 c5 36. Nc6 Ra8 37. Rb3 Nc4 38.
+Rb5 a4 39. Ne7+ Kg7 40. Nd5 Rc8 41. Nc3 a3 42. bxa3 Nxa3 43. Rb7 c4 44. Ra7
+Nc2 45. Rd7 Nb4 46. Rd4 Nd3 47. g3 Kf6 48. Kf1 Ke5 49. Rd5+ Ke6 50. Rd4 f5
+51. f4 Nc1 52. Rd5 Nb3 53. g4 Rf8 54. Re5+ Kd6 55. Kf2 fxg4 56. Re4 gxh3
+57. Rxc4 g5 58. Kg3 h2 59. Kxh2 Rxf4 60. Rxf4 gxf4 61. Ne4+ Ke5 62. Ng5 h5
+63. Kh3 Nc5 64. Kh4 Ne6 65. Nh3 Ng7 66. Kg5 f3 67. Kg6 h4 68. Kg5 Ke4 69.
+Kxh4 Ke3 70. Kg4 Ne6 71. Kg3 Nd4 72. Kh2 Ne2 73. Kh1 Nf4 74. Nxf4 Kxf4 75.
+Kg1 Ke3 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Navara,D"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2646"]
+[BlackElo "2723"]
+[EventDate "2008.07.31"]
+[ECO "D87"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 O-O 9. O-O Nc6 10. Be3 Na5 11. Bd3 b6 12. Qd2 e5 13. dxe5 Be6 14.
+Rad1 Nc4 15. Bxc4 Bxc4 16. f4 Qe7 17. Qc2 Rad8 18. Rfe1 h5 19. Nc1 Qe6 20.
+Rd2 Bb5 21. Nb3 Qc4 22. Bf2 g5 23. Bg3 gxf4 24. Bxf4 Qe6 25. Rd6 Rxd6 26.
+exd6 Qf6 27. Qf2 Qxc3 28. e5 Re8 29. Nd2 Bc6 30. h3 Qd3 31. Re3 Qd4 32. Nf1
+h4 33. Nh2 Bxe5 34. Rxe5 Qa1+ 35. Qf1 Qd4+ 36. Be3 Qxe5 37. Ng4 Qc3 38.
+Nh6+ Kh8 39. Nxf7+ Kg7 40. Bh6+ Kg6 0-1
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Jakovenko,D"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2709"]
+[BlackElo "2687"]
+[EventDate "2008.07.31"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Ne4 h6 12. b3 c5 13. Bb2 Be6
+14. Nfd2 h5 15. Ng5 Be7 16. Nxe6+ fxe6 17. g3 h4 18. Kg2 Kd7 19. Rae1 Rad8
+20. Nf3 Ke8 21. Rd1 a5 22. a4 Rd5 23. c4 Rd8 24. Bc1 Rf8 25. Rfe1 Rf7 26.
+Rxd8+ Bxd8 27. Re4 hxg3 28. fxg3 Rd7 29. h4 Rd3 30. Re3 Rd7 31. h5 Ne7 32.
+g4 Nc6 33. g5 Ne7 34. Re2 Nf5 35. Rd2 Rf7 36. Rd3 Rf8 37. Kh3 c6 38. Kg4
+Bc7 39. Be3 b6 40. g6 Bd8 41. Bf4 Bc7 42. Nd2 Nh6+ 43. Bxh6 gxh6 44. Rd6
+Bxd6 45. exd6 e5 46. Ne4 Rf4+ 47. Kg3 Rf1 48. Kg2 Rf4 49. Nf6+ Rxf6 50. d7+
+1-0
+
+[Event "2nd FIDE GP"]
+[Site "Sochi RUS"]
+[Date "2008.08.14"]
+[Round "13"]
+[White "Al Modiahki,M"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2556"]
+[BlackElo "2720"]
+[EventDate "2008.07.31"]
+[ECO "B51"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Ngf6 5. Re1 a6 6. Bf1 b6 7. d4 cxd4
+8. Nxd4 Bb7 9. c4 g6 10. Nc3 Bg7 11. Bg5 O-O 12. Qd2 Rc8 13. Rac1 Re8 14.
+f3 e6 15. Kh1 Qc7 16. Red1 Qb8 17. Nb3 Rc6 18. Nd4 Rcc8 19. Nb3 Rc6 20. Nd4
+Rcc8 1/2-1/2
+
+Tal Memorial
+------------

@@ -1,0 +1,224 @@
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.06"]
+[Round "1"]
+[White "Karjakin,Sergey"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2722"]
+[BlackElo "2730"]
+[ECO "B78"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.Bc4 Bd7 10.O-O-O Rc8 11.Bb3 Nxd4 12.Bxd4 b5 13.Nd5 Nxd5 14.Bxg7 Kxg7 15.exd5 a5
+16.a3 Kg8 17.Rhe1 Rc5 18.g4 b4 19.axb4 axb4 20.Qxb4 Qa8 21.Kd2 Rb8 22.Ra1 Rxd5+
+23.Ke3 Re5+ 24.Kd2  1/2-1/2
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.06"]
+[Round "1"]
+[White "Grischuk,A"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2773"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Ne5 Bb7
+10.h4 g4 11.Be2 Nbd7 12.Bxg4 Rg8 13.Nxd7 Qxd7 14.Bf3 O-O-O 15.Qd2 Rxg3 16.fxg3 e5
+17.O-O-O Qxd4 18.g4 Nd7 19.Qxd4 exd4 20.Rxd4 Bg7 21.Rdd1 Rg8 22.g5 Ne5 23.gxh6 Bxh6+
+24.Kb1 b4 25.Ne2 c5 26.Rd6 Bg7 27.Rhd1 Kc7 28.Nf4 Rh8 29.h5 Bc6 30.R6d2 Bh6
+31.Nd5+ Kb8 32.Rf2 Ba4 33.Rdf1 Nd3 34.Re2 Ne5 35.Rh1 a5 36.Rf2 Bd7 37.Be2 Be6
+38.Nf4 Bc8 39.Rd1 Bb7 40.Nd5 Re8 41.Rf6 Re6 42.Rdf1 Bg7 43.R6f5 Nd3 44.Rxf7 Bd4
+45.Rd7 Re8 46.Rff7 Bc6 47.Rde7 Rd8 48.b3 Ne5 49.Rf5 cxb3 50.Rfxe5 bxa2+ 51.Kxa2 Rf8
+52.R5e6  1-0
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.07"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2722"]
+[ECO "E55"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O dxc4 8.Bxc4 Nbd7
+9.Qe2 b6 10.Rd1 cxd4 11.exd4 Bb7 12.d5 Bxc3 13.dxe6 Bxf3 14.gxf3 fxe6 15.bxc3 Qc7
+16.Ba3 Nc5 17.Rd4 Kh8 18.Re1 Rac8 19.Qe5 Qf7 20.Bc1 Nd5 21.Bxd5 exd5 22.Qxd5 Qxf3
+23.Qxf3 Rxf3 24.Re7 Rxc3 25.Be3 Ra3 26.Rg4 h5 27.Rg5 h4 28.Bd4 Kh7 29.Rgxg7+ Kh6
+30.Bb2  1-0
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.07"]
+[Round "2"]
+[White "Grischuk,A"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2730"]
+[ECO "D47"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.e4 b4 10.Na4 c5 11.e5 Nd5 12.O-O cxd4 13.Nxd4 Be7 14.Re1 O-O 15.Qg4 Re8
+16.Bb5 Kh8 17.Bd2 a6 18.Bc6 Qc7 19.Rac1 Nxe5 20.Bxb7 Nxg4 21.Rxc7 Nxc7 22.Bxa8 Rxa8
+23.Nc6 Nd5 24.Nxe7 Nxe7 25.Bxb4 Nd5 26.Bd2 Rc8 27.Rc1 Rxc1+ 28.Bxc1 Ne5 29.Nc5 Nb4
+30.b3 Nxa2 31.Bb2 Nc6 32.Nxa6 Kg8 33.Kf1 f6 34.Ke2 Nab4 35.Nxb4 Nxb4 36.Ke3 Kf7
+37.Kd4 Nc2+ 38.Kc5 Ne1 39.Kc6 Nxg2 40.b4 Nf4 41.b5 Nd5 42.Kd6 Kg6 43.Bd4 Kg5
+44.b6 Nxb6 45.Bxb6 e5 46.Ke6 e4 47.Kf7 f5 48.Kxg7 h5 49.Kf7 f4 50.Ke6 Kg4
+51.Ke5 Kf3 52.h4  1-0
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.08"]
+[Round "3"]
+[White "Shirov,A"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2730"]
+[BlackElo "2773"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Be3 Bg4
+16.Qd3 Rae8 17.Nd2 Qh5 18.a4 Re6 19.axb5 axb5 20.Nf1 Bf5 21.Qd2 Bh3 22.Bd1 Qg6
+23.Bf3 Qf5 24.Bh1 Rfe8 25.Re2 h5 26.Qc2 Qg4 27.Ree1 h4 28.Qd1 Qf5 29.Qf3 Qg6  0-1
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.08"]
+[Round "3"]
+[White "Karjakin,Sergey"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2722"]
+[BlackElo "2733"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a3 h6 13.d5 Nb8 14.Nh2 Nbd7 15.Qf3 Qc8
+16.Ndf1 c6 17.dxc6 Qxc6 18.Ng4 Re7 19.Ng3 d5 20.exd5 Nxd5 21.Nf5 Re6 22.Qg3 Kh8
+23.Be3 h5 24.Rad1 Nxe3 25.Ngxe3 Rg6 26.Qh2 Rf6 27.Bd5 Qc8 28.Qg3 g6 29.Qg5 Bg7
+30.Ne7 Qc7 31.Ng4 Rf4 32.Nh6 Rf8 33.Nxf7+ R4xf7 34.Nxg6+ Kh7 35.Qxh5+ Bh6
+36.Bxf7 Rxf7 37.Rxd7 Rxd7 38.Nf8+ Kg7 39.Ne6+  1-0
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.10"]
+[Round "4"]
+[White "Shirov,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2722"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8 13.Nbd2 Bf8 14.a4 h6 15.Bc2 exd4
+16.cxd4 Nb4 17.Bb1 c5 18.d5 Nd7 19.Ra3 c4 20.axb5 axb5 21.Nd4 Rxa3 22.bxa3 Nd3
+23.Bxd3 cxd3 24.Nxb5 Qa5 25.Nd4 Qc3 26.Nf5 Nc5 27.f3 Bxd5 28.exd5 Rxe1+ 29.Qxe1 Nb3
+30.Qe8 Qxc1+ 31.Kh2 Nxd2 32.Ne7+ Kh7 33.Qxf8 Nf1+ 34.Kh1 Ng3+ 35.Kh2 Nf1+
+36.Kh1  1/2-1/2
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.10"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2733"]
+[ECO "D11"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 a6 5.Nc3 b5 6.c5 Nbd7 7.a3 a5 8.Bd3 e5 9.dxe5 Ng4
+10.Bxb5 cxb5 11.Qxd5 Rb8 12.h3 b4 13.axb4 axb4 14.Ne4 Nxc5 15.Qxd8+ Kxd8
+16.Nxc5 Nxf2 17.Kxf2 Bxc5 18.Bd2 Kc7 19.Rhc1 Kb6 20.Nd4 Rd8 21.Rc2 Rd5 22.Rac1 Be6
+23.Nb3 Rbd8 24.Ke2 Bf8 25.Nd4 Bc5 26.Nxe6 fxe6 27.e4 Rxe5 28.Rc4 Rd4 29.Rxd4 Bxd4
+30.b3 Rc5 31.Rf1 Kb5 32.Rf7 Bc3 33.Be3 Rc6 34.Rb7+ Ka6 35.Rb8 Ka5 36.Bg5 h6
+37.Be7 e5 38.g4 Re6 39.Bf8 g5 40.Rd8 Rf6 41.Rd5+ Kb6 42.Rd6+  1-0
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.11"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2730"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Nb6 7.b3 Bd6 8.Bb2 O-O
+9.d3 Bg4 10.h3 Bh5 11.Nbd2 Qe7 12.Ne4 f5 13.Nxd6 cxd6 14.b4 Nxb4 15.Qb3+ N4d5
+16.Nxe5 dxe5 17.Bxd5+ Nxd5 18.Qxd5+ Kh8 19.Rfe1 Rae8 20.Rac1 f4 21.g4 Bf7
+22.Qe4 Bg6 23.Qg2 Qf7 24.Rc5 Qxa2 25.Rb5 b6 26.Ra1 Qf7 27.Rxe5 Qb3 28.Rxe8 Rxe8
+29.Bd4 Qb4 30.Qd5 Qe7 31.Rc1 h6 32.Qf3 Qd6 33.Bb2 Kh7 34.Rc4 b5 35.Rc6 Qb4
+36.Bc3 Qe7 37.Qxf4 Rf8 38.Qe3 Qf7 39.Be5 Re8 40.f4 Qd7 41.Qc5 Qe7 42.Rc7 Qxc5+
+43.Rxc5  1-0
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.11"]
+[Round "5"]
+[White "Grischuk,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2722"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4 14.cxd4 Nb4 15.Bb1 c5
+16.d5 Nd7 17.Ra3 c4 18.axb5 axb5 19.Nd4 Rxa3 20.bxa3 Nd3 21.Bxd3 cxd3 22.Bb2 Qa5
+23.Nf5 g6 24.Ne3 Ne5 25.Nb3 Qa4 26.Bxe5 Rxe5 27.Ng4 Re7 28.Nf6+ Kh8 29.Qxd3 Bg7
+30.Qf3 Qxa3 31.Re2 Qa8 32.Rc2 Qd8 33.Qf4 Re5 34.Ng4 Re7 35.Nxh6 Qf8 36.Ng4 f5
+37.exf5 Qxf5 38.Qxf5 Re1+ 39.Kh2 gxf5 40.Ne3 Be5+ 41.g3 f4 42.gxf4 Bxf4+
+43.Kg2 Bxe3 44.fxe3 Rxe3 45.Nd4 Rd3 46.Nxb5 Rxd5 47.Nxd6 Rxd6+ 48.Kg3 Bc6
+49.Kf4 Kg7 50.Rc5 Be8 51.Ke5 Rh6 52.Rc3 Rh5+ 53.Kd6 Bg6 54.Re3 Bf5 55.Ke5 Bc8+
+56.Kd4 Kf6 57.h4 Bf5 58.Rb3 Be6 59.Rb4 Rxh4+ 60.Kc3 Rh1 61.Kd4 Rd1+ 62.Ke4 Bd5+
+63.Kf4 Rf1+ 64.Ke3 Ke5 65.Ke2 Rh1 66.Kd2 Be4 67.Rb5+ Kf4 68.Rb3 Rh2+ 69.Kc3 Rh8
+70.Kc4 Rc8+ 71.Kd4 Rd8+ 72.Kc3 Bd3 73.Rb4+ Ke3 74.Rb2 Rc8+ 75.Kb3 Kd4 76.Kb4 Rc6
+77.Kb3 Rc1 78.Rd2 Rc8 79.Rb2 Bc4+ 80.Kb4 Kd3 81.Rh2 Rb8+ 82.Kc5 Rb5+ 83.Kd6 Rg5
+84.Rh3+ Kd4 85.Rh4+ Kc3 86.Rh3+ Kb4 87.Rh7 Rd5+ 88.Ke7 Kc5 89.Rg7 Rh5 90.Kf6 Kd6
+91.Rg5 Rh4 92.Rg7 Be6 93.Kg5 Rg4+ 94.Kf6 Rf4+ 95.Kg5 Rf2 96.Kg6 Ke5 97.Kg5 Bf7
+98.Kh6 Kf6 99.Rg6+ Bxg6  1/2-1/2
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.12"]
+[Round "6"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2722"]
+[BlackElo "2773"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Be7 6.d3 f6 7.Be3 Bg4 8.Nbd2 Qd7
+9.b4 g5 10.Qb1 Nh6 11.d4 Nf7 12.dxe5 fxe5 13.Qb2 Qe6 14.Rfb1 Bxf3 15.Nxf3 g4
+16.Nd2 h5 17.a4 Nd6 18.c4 O-O 19.c5 Nf7 20.Qb3 Qxb3 21.Rxb3 Bg5 22.Nc4 Rad8
+23.Na5 Bxe3 24.Rxe3 Rd2 25.Nxb7 Rb8 26.Na5 Rxb4 27.h3 Nd8 28.hxg4 hxg4 29.Nb3 Rc2
+30.Rd1 Ne6 31.Rd7 Kf8 32.Rh7 Rcc4 33.Rh6 Ke7 34.Rh7+ Kf8 35.Rh6 Ke7 36.Rh7+  1/2-1/2
+
+[Event "2nd Grand Slam Masters"]
+[Site "Bilbao ESP"]
+[Date "2009.09.12"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2733"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 h6 8.Bg2 Nc6
+9.h3 Ne5 10.Qe2 g5 11.f4 gxf4 12.Bxf4 Bd7 13.Nf3 Qc7 14.O-O-O Rc8 15.Bg3 Be7
+16.Nxe5 dxe5 17.Rhf1 Rg8 18.Rd3 Nh7 19.h4 Nf8 20.Qf2 Rg7 21.Rf3 Bc5 22.Qd2 Rh7
+23.Kb1 b5 24.Ne2 Bb4 25.c3 Be7 26.Nc1 Bc6 27.Nd3 Nd7 28.Ka1 Bxe4 29.Re3 Bxg2
+30.Qxg2 Qc6 31.Qe2 Qc4 32.Re4 Qd5 33.Nxe5 Nxe5 34.Rd1 Qc6 35.Bxe5 Rd8 36.Rxd8+ Bxd8
+37.Rd4 f6 38.Rd6 Qc4 39.Qd1 Be7 40.Rd4 Qc6 41.Bh2 e5 42.Rd3 Rg7 43.Rg3 Qe4
+44.a3 Bc5 45.Rd3 Be7 46.Rg3 Bc5 47.Rd3 Be7  1/2-1/2

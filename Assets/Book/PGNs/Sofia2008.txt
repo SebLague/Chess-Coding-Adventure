@@ -1,0 +1,614 @@
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.08"]
+[Round "1"]
+[White "Radjabov,T"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2751"]
+[BlackElo "2740"]
+[EventDate "2008.05.08"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8.
+O-O O-O 9. Qc2 d6 10. Nc3 Nbd7 11. Rfe1 Bxc3 12. Bxc3 Be4 13. Qb2 Re8 14.
+Bh3 Bb7 15. Nd2 e5 16. Rad1 h6 17. f3 exd4 18. Bxd4 Ne5 19. Nf1 Nh5 20.
+Bxe5 Rxe5 21. e4 Qf6 22. Ne3 Qxf3 23. Bg2 Qf6 24. Ng4 Qe7 25. Nxe5 dxe5 26.
+Qf2 Bc6 27. a4 Qc5 28. Qxc5 bxc5 29. Re3 Kf8 30. Red3 Ke7 31. Rd5 Bxd5 32.
+Rxd5 Nf6 33. Rxc5 Kd6 34. Rb5 Ra7 35. h4 Nd7 36. Rd5+ Ke7 37. Bh3 c6 38.
+Rxd7+ Rxd7 39. Bxd7 Kxd7 40. c5 h5 41. Kf2 g6 42. Ke2 f5 43. exf5 gxf5 44.
+Kd3 Ke6 45. Kc4 f4 46. gxf4 exf4 47. Kd4 Kf5 48. Kd3 f3 0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.08"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2763"]
+[BlackElo "2767"]
+[EventDate "2008.05.08"]
+[ECO "E00"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Bb4+ 6. Bd2 Be7 7. Bg2 Nc6
+8. Bc3 O-O 9. O-O d5 10. Nd2 Bd7 11. cxd5 Nxd5 12. Bxd5 exd5 13. Qb3 Bf6
+14. N2f3 Bg4 15. Rfd1 Rb8 16. Qa4 Bxf3 17. exf3 Bxd4 18. Bxd4 Qd7 19. b4 b6
+20. Rac1 Rbc8 21. Bb2 Rfd8 22. Rc2 Ne7 23. Rxc8 Nxc8 24. b5 Ne7 25. Qb3 Nf5
+26. a4 h5 27. h3 Qe6 28. Kg2 Qe2 29. g4 Nh4+ 30. Kg3 Ng6 31. gxh5 Ne7 32.
+Kg2 Nf5 33. Bd4 Qe7 34. Qd3 Qg5+ 35. Kh2 Re8 36. Bb2 Re3 37. fxe3 Qg3+ 38.
+Kh1 Qxf3+ 39. Kg1 Nxe3 40. Rd2 Qg3+ 41. Kh1 Qxh3+ 42. Kg1 Qg3+ 43. Kh1 Qe1+
+44. Kh2 Qxd2+ 45. Qxd2 Nf1+ 46. Kg2 Nxd2 47. Be5 Ne4 48. Kf3 Nc5 49. Ke3
+Nxa4 50. Kd4 Nc5 51. Kxd5 a6 52. bxa6 Nxa6 53. Kc6 Nc5 54. Bc7 Kh7 55. Bxb6
+Ne4 56. Be3 Nf6 57. Kd6 Nxh5 58. Ke5 Kg6 59. Bd2 f5 60. Be1 Kg5 0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.08"]
+[Round "1"]
+[White "Cheparinov,I"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2708"]
+[EventDate "2008.05.08"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8.
+f3 Be6 9. Qd2 O-O 10. O-O-O a5 11. Qe1 Qc7 12. Bb5 Nbd7 13. Qf2 Rfc8 14.
+Kb1 Bc4 15. g4 Bxb5 16. Nxb5 Qc6 17. a4 Ne8 18. Rd3 Qc4 19. Nc3 Nc7 20. Bb6
+Nxb6 21. Qxb6 Qb4 22. Qxb4 axb4 23. Nd5 Nxd5 24. Rxd5 Rxa4 25. Rb5 Ra7 26.
+Rxb4 g6 27. Rd1 f5 28. gxf5 gxf5 29. Rd5 fxe4 30. fxe4 Kf7 31. c3 h5 32.
+Na5 Rc7 33. Nc4 Ke6 34. Ne3 Bd8 35. Nf5 Rd7 36. c4 b6 37. Rb3 Ra4 38. Rbd3
+Be7 39. b3 Ra8 40. Rg3 Bf8 41. Kb2 h4 42. Rg6+ Kf7 43. Rg4 Rda7 44. Rxh4
+Ra1 45. Rh7+ Ke6 46. Rh8 Re1 47. Ng3 Kf7 48. Rh7+ Ke6 49. Rb7 Rea1 50. Nf5
+R8a2+ 51. Kc3 Rc1+ 52. Kb4 Rb2 53. Rb8 Rcb1 54. Rd3 Kf7 55. Rf3 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2767"]
+[BlackElo "2740"]
+[EventDate "2008.05.08"]
+[ECO "C11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. a3
+cxd4 9. Nxd4 Bc5 10. Be2 O-O 11. Qd2 Qc7 12. Bf3 Nxd4 13. Bxd4 Nb6 14. Ne2
+Bxd4 15. Qxd4 Bd7 16. b3 Bb5 17. Nc3 Rfc8 18. Nxb5 axb5 19. Be2 Nd7 20. Ra2
+Nb8 21. O-O Nc6 22. Qd2 Qb6+ 23. Kh1 Qa5 24. Qxa5 Rxa5 25. Raa1 Rca8 26.
+Rad1 Rxa3 27. Bxb5 Nb4 28. c4 R8a5 29. f5 exf5 30. g4 Rxb3 31. gxf5 Re3 32.
+Rb1 Nd3 33. e6 d4 34. Be8 Nc5 35. Bxf7+ Kf8 36. f6 gxf6 37. Rxf6 Ke7 38.
+Rh6 d3 39. Rxh7 d2 40. Rg1 Re1 41. Bh5+ Kxe6 42. Rhg7 Ne4 43. R7g6+ Ke5 0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Cheparinov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2696"]
+[EventDate "2008.05.08"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+Bd2 Bb4 9. Bd3 O-O 10. a3 Ba5 11. O-O Re8 12. b4 Bc7 13. Rac1 dxc4 14. Bxc4
+e5 15. Bb3 exd4 16. exd4 Nb6 17. Bg5 h6 18. Bxf6 Qxf6 19. Qxf6 gxf6 20.
+Rce1 f5 21. Rxe8+ Rxe8 22. Rd1 Kg7 23. Kf1 Re7 24. Rd3 Rd7 25. Ke2 Bd8 26.
+Kf3 Bf6 27. Ne2 Nd5 28. Ng3 Kg6 29. Rd2 Ne7 30. Ne2 Kg7 31. Rd1 Rd8 32. Ke3
+Nd5+ 33. Kf3 Ne7 34. Rd3 Nd5 35. Ng3 Kg6 36. Bc2 Ne7 37. Ne2 Kg7 38. g3 Nd5
+39. Rd2 Nc7 40. Bxf5 Nb5 41. a4 Nxd4+ 42. Nxd4 Rxd4 43. Rxd4 Bxd4 44. b5
+cxb5 45. axb5 a6 46. bxa6 bxa6 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.09"]
+[Round "2"]
+[White "Bu Xiangzhi"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2751"]
+[EventDate "2008.05.08"]
+[ECO "D78"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c6 5. b3 d5 6. Bb2 O-O 7. O-O a5 8.
+Nc3 Bf5 9. d4 Ne4 10. e3 Nd7 11. Qe2 Nxc3 12. Bxc3 Nf6 13. Rfc1 Be4 14. Bf1
+Bxf3 15. Qxf3 e6 16. b4 Ne4 17. Be1 axb4 18. Bxb4 Re8 19. a4 h5 20. h4 f5
+21. cxd5 exd5 22. a5 Re6 23. Rab1 Qd7 24. Rb3 Qf7 25. Be1 Rae8 26. Rcb1
+R6e7 27. Rb6 g5 28. a6 bxa6 29. Rxc6 gxh4 30. gxh4 f4 31. Qxf4 Qxf4 32.
+exf4 Bxd4 33. Rg6+ Kf7 34. f5 Ng3 35. Rxg3 Rxe1 36. Rxe1 Rxe1 37. Ra3 Re4
+38. Bg2 Rf4 39. Bxd5+ Kf6 40. Rxa6+ Kxf5 41. Ra2 Rxf2 42. Rxf2+ Kg4 43.
+Bf3+ Kxh4 44. Bxh5 Bxf2+ 45. Kxf2 Kxh5 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2708"]
+[EventDate "2008.05.08"]
+[ECO "A11"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. e3 a6 5. Qc2 b5 6. b3 Bg4 7. Ne5 Bh5 8.
+cxb5 cxb5 9. Bxb5+ axb5 10. Nxb5 e6 11. Nc7+ Ke7 12. Nxa8 Nfd7 13. Ba3+ Kf6
+14. Bb2 Nxe5 15. f4 Nbd7 16. Nc7 Bg6 17. Bxe5+ Nxe5 18. fxe5+ Kxe5 19. Qc3+
+Kf5 20. O-O+ Kg5 21. a4 Kh6 22. Rf3 Bf5 23. Raf1 Bd6 24. Nb5 Bb8 25. Nd4
+Be4 26. Rh3+ Kg6 27. d3 Bf5 28. Rhf3 Be5 29. Qe1 Bxd4 30. Rg3+ Kh6 31. exd4
+g6 32. Rgf3 Qh4 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Cheparinov,I"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2696"]
+[BlackElo "2767"]
+[EventDate "2008.05.08"]
+[ECO "C11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8.
+Ne2 Be7 9. c3 O-O 10. g3 cxd4 11. Nexd4 Nc5 12. Bg2 Bd7 13. O-O Rc8 14. Kh1
+Ne4 15. Nxc6 bxc6 16. c4 a5 17. Qc2 g6 18. Rad1 Nc5 19. Nd4 Qc7 20. g4 Rfd8
+21. Qf2 Be8 22. f5 Qxe5 23. fxe6 Nxe6 24. Nxe6 Qxe6 25. Rde1 Qxg4 26. Bd4
+Qh4 27. Rxe7 Qxe7 28. Re1 Qg5 29. Re5 Qc1+ 30. Re1 Qg5 31. Re5 f5 32. h4
+Qg4 33. Kh2 dxc4 34. Bh3 Qd1 35. Re1 Rxd4 36. Rxd1 Rxd1 37. Bf1 Bf7 38. Be2
+0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.10"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2763"]
+[EventDate "2008.05.08"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. Re1
+Bf8 15. Bg3 Bg7 16. Bd6 Bf8 17. Bg3 Bg7 18. e5 c5 19. d5 O-O 20. Bf3 Ra7
+21. dxe6 Bxf3 22. exf7+ Rxf7 23. gxf3 Qe8 24. e6 Re7 25. Qd5 Nf6 26. Qxc5
+Ra8 27. Qf5 Rd8 28. Rac1 Qc6 29. b3 Rde8 30. a4 Rxe6 31. Rxe6 Qxe6 32.
+Qxe6+ Rxe6 33. axb5 cxb3 34. Rb1 Nh5 35. bxa6 Rxa6 36. Rxb3 Bxc3 37. Rxc3
+Kf7 38. Rc4 Rf6 39. Kg2 Kg6 40. h4 Nf4+ 41. Bxf4 Rxf4 42. Rc6+ Kh5 43. hxg5
+hxg5 44. Kg3 Ra4 45. Rf6 Ra3 46. Re6 Ra4 47. Re4 Ra3 48. Rd4 Rb3 49. Kg2
+Kg6 50. f4 gxf4 51. Rxf4 Kg5 52. Rf3 Rxf3 53. Kxf3 Kf5 54. Ke3 Ke5 55. f4+
+Kf5 56. Kd4 Kxf4 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Ivanchuk,V"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2696"]
+[EventDate "2008.05.08"]
+[ECO "E99"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. Rc1 Ng6
+15. cxd6 cxd6 16. Nb5 Rf7 17. Qc2 Ne8 18. Nf2 h5 19. a4 Bf8 20. h3 Rg7 21.
+Qb3 Nh4 22. Rc2 g4 23. fxg4 Nf6 24. Be1 hxg4 25. hxg4 Nh5 26. Nh1 f3 27.
+Bxf3 Nf4 28. Ng3 Bxg4 29. Bxg4 Rxg4 30. Nc7 Rc8 31. Ne6 Rxc2 32. Qxc2 Qb6+
+33. Kh1 Nhxg2 34. Nf5 Qa6 35. Rg1 Qd3 36. Qxd3 Nxd3 37. Bh4 Rxe4 38. Rxg2+
+Kf7 39. Nxd6+ Bxd6 40. Ng5+ 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2767"]
+[EventDate "2008.05.08"]
+[ECO "A17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Nc3 O-O 6. Bg2 dxc4 7. a3 Be7 8.
+Qa4 a6 9. Qxc4 b5 10. Qd3 Bb7 11. Bg5 Nbd7 12. b4 a5 13. O-O axb4 14. axb4
+Bxb4 15. Nxb5 c5 16. dxc5 Rxa1 17. Rxa1 Bxc5 18. Bxf6 Qxf6 19. Qc3 Qxc3 20.
+Nxc3 Bxf3 21. Bxf3 Ne5 22. Bb7 Bd4 23. Rc1 Bxc3 24. Rxc3 Rb8 25. Rc8+ Rxc8
+26. Bxc8 Nc4 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.11"]
+[Round "4"]
+[White "Bu Xiangzhi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2763"]
+[EventDate "2008.05.08"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Bd3 Nbd7 8.
+O-O Bd6 9. Nd2 O-O 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Qh4 13. Rd1 Nf6 14.
+Bc2 Rfd8 15. Be3 Bc7 16. b4 a6 17. a4 e5 18. dxe5 Bxe5 19. Rxd8+ Rxd8 20.
+Rd1 Re8 21. Bb3 g6 22. a5 Kg7 23. b5 cxb5 24. cxb5 Qb4 25. bxa6 bxa6 26.
+Bb6 Rc8 27. Ba2 Rc2 28. Bb1 Rd2 29. Rxd2 Qxd2 30. Bd3 Bc3 31. g3 Bxa5 32.
+Bd4 Bd8 33. Qd5 Bb6 34. Bxf6+ Kxf6 35. Qf3+ Kg7 36. Bxa6 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.12"]
+[Round "5"]
+[White "Topalov,V"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2708"]
+[EventDate "2008.05.08"]
+[ECO "D19"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O O-O 9. Qe2 Ne4 10. Ne5 Nd7 11. Nxd7 Qxd7 12. Na2 Be7 13. f3 Nf6 14. e4
+Bg6 15. Be3 Qc7 16. Nc1 a5 17. Nd3 Nd7 18. Rac1 Rfe8 19. g3 Bd6 20. Nf4 e5
+21. Nxg6 hxg6 22. f4 exd4 23. Bxd4 b6 24. f5 g5 25. Qh5 Nf6 26. Bxf6 gxf6
+27. Qg6+ Kf8 28. Qxf6 Be5 29. Qxg5 Qe7 30. f6 Bd4+ 31. Rf2 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.12"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2763"]
+[BlackElo "2740"]
+[EventDate "2008.05.08"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+a3 Nbd7 9. g3 Be7 10. b3 e5 11. cxd5 Nxd5 12. Nxd5 Qa5+ 13. Nc3 Qxc3+ 14.
+Bd2 Qb2 15. d5 cxd5 16. Bb5 a6 17. Bxd7+ Kxd7 18. O-O e4 19. Bc3 Qxc3 20.
+Qxd5+ Ke8 21. Rac1 Qd3 22. Qxb7 Rd8 23. Rfd1 Qxd1+ 24. Rxd1 Rxd1+ 25. Kg2
+a5 26. g4 Kf8 27. Qxe4 g5 28. Qf5 Bd8 29. Qc5+ Kg8 30. Qe5 g6 31. b4 axb4
+32. axb4 Kh7 33. b5 Rf8 34. Qc5 Kg8 35. b6 Rb1 36. f4 Rb2+ 37. Kg3 gxf4+
+38. exf4 Bxb6 39. Qc3 Rb1 40. f5 Rg1+ 41. Kh3 Re8 42. Qf6 Bf2 43. Qg7+ Kxg7
+44. f6+ Kf8 0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.12"]
+[Round "5"]
+[White "Cheparinov,I"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2751"]
+[EventDate "2008.05.08"]
+[ECO "E97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 Kh8 13. Ne6 Bxe6 14. dxe6
+Nh5 15. g3 Bf6 16. exf5 Nxf5 17. g4 e4 18. Nxe4 Bxa1 19. Bg5 Bd4+ 20. Kh1
+Qe8 21. e7 Nxe7 22. Qxd4+ Ng7 23. b5 Ng8 24. Bd2 Qf7 25. Bc3 h6 26. f4 Rae8
+27. Rf1 Nf6 28. Bf3 Nd7 29. g5 Kh7 30. Bg4 h5 31. Bh3 Ne6 32. Qd1 Nec5 33.
+Nf6+ Nxf6 34. Bxf6 Ne4 35. f5 Kg8 36. fxg6 Qxg6 37. Bf5 Qf7 38. Qd4 Nxf6
+39. gxf6 Kh8 40. Bd3 Re6 41. Qh4 Rfe8 42. Qg5 Re1 43. Qh6+ Kg8 44. Qg5+ Kh8
+45. Qh6+ Kg8 46. Qg5+ 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.14"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2751"]
+[EventDate "2008.05.08"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. c3 f5 14.
+Nc2 O-O 15. O-O Rb8 16. exf5 e4 17. Be2 Bxf5 18. Nb4 Qg5 19. f4 exf3 20.
+Bxf3 Rbe8 21. Nc6 Be5 22. Nxe5 dxe5 23. Qc1 Qxc1 24. Raxc1 Be6 25. Rfe1 f6
+26. Rcd1 Rd8 27. Bb7 a5 28. Bc6 b4 29. cxb4 axb4 30. a4 Rxd1 31. Rxd1 Rc8
+32. Be4 f5 33. Bd5 Bxd5 34. Rxd5 Rc2 35. b3 Rc3 36. Rxe5 Rxb3 37. Rxf5 Ra3
+38. a5 b3 39. Rb5 Kg7 40. h3 b2 41. Rxb2 Rxa5 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.14"]
+[Round "6"]
+[White "Bu Xiangzhi"]
+[Black "Cheparinov,I"]
+[Result "0-1"]
+[WhiteElo "2708"]
+[BlackElo "2696"]
+[EventDate "2008.05.08"]
+[ECO "D45"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. b3 Nbd7 6. Bb2 Bd6 7. Nf3 O-O 8.
+Be2 Ne4 9. Nd2 f5 10. O-O Qh4 11. f4 Nxd2 12. Qxd2 Nf6 13. a4 Rf7 14. a5 g5
+15. g3 Qh3 16. Bf3 gxf4 17. exf4 Bd7 18. Na4 Ne4 19. Bxe4 fxe4 20. Nc5 Be8
+21. Ba3 Qf5 22. a6 b6 23. Nb7 Bxa3 24. Rxa3 Rg7 25. Nd6 Qf6 26. f5 Bh5 27.
+fxe6 Bf3 28. cxd5 cxd5 29. Nf7 h5 30. Ne5 h4 31. Nxf3 hxg3 32. b4 Rf8 33.
+h3 g2 34. Re1 exf3 35. Qf2 Qf5 36. Kh2 Qf4+ 37. Kg1 Qf5 38. Kh2 Qf4+ 39.
+Kg1 Rg3 40. e7 Rxh3 41. exf8=Q+ Kxf8 42. Rxf3 Rxf3 43. Re2 Kf7 44. b5 Kf6
+0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.14"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2763"]
+[EventDate "2008.05.08"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. O-O O-O 10. a3 Bb7 11. h3 e5 12. Qc2 Re8 13. Bd2 Qe7 14. Ng5 h6
+15. Nge4 Bc7 16. Rfe1 Bb6 17. Ng3 Rad8 18. Rad1 Qf8 19. Nce2 a6 20. b4 h5
+21. Bc3 h4 22. Ne4 Nd5 23. Nc5 Nxc5 24. dxc5 Bc7 25. Bb2 Bc8 26. Bh7+ Kh8
+27. Bf5 Bxf5 28. Qxf5 Qe7 29. Nc3 Nxc3 30. Bxc3 Kg8 31. Qe4 Qe6 32. Qxh4
+Qb3 33. Rc1 Qxa3 34. Qe4 a5 35. Qxc6 axb4 36. Bxb4 Qxb4 37. Qxc7 Rc8 38.
+Qa7 Re6 39. Red1 Qe4 40. Qd7 Rec6 41. Qb7 b4 42. Rd7 Qf5 43. Rd5 Rg6 44.
+Kf1 b3 45. Qxb3 Qg5 46. g3 Qf5 47. Kg2 Rf6 48. Rd2 Qf3+ 49. Kh2 Rd6 50. Qa2
+Rxd2 51. Qxd2 Rc6 52. Kg1 Rh6 53. Qd1 Qc6 54. h4 Rf6 55. Qg4 g6 56. h5 Kg7
+57. e4 Kh6 58. hxg6 fxg6 59. Kg2 Kg7 60. Qe2 Rf7 61. Rc4 g5 62. Qh5 Qf6 63.
+Rc2 Qd8 64. c6 Qd3 65. Qxg5+ Kf8 66. Qh6+ Kg8 67. Rd2 Qxe4+ 68. Kh2 Rf8 69.
+c7 Qf5 70. f3 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.15"]
+[Round "7"]
+[White "Radjabov,T"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2708"]
+[EventDate "2008.05.08"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 g6 7. Ne5 Bg7 8. Be2
+O-O 9. O-O Nfd7 10. f4 a5 11. a3 f6 12. Nf3 f5 13. Bd2 Nf6 14. Be1 Kh8 15.
+Bh4 Be6 16. Ne5 Qc7 17. Qe1 Nbd7 18. Bg5 Nxe5 19. fxe5 Ne4 20. Nxe4 fxe4
+21. Qh4 Rxf1+ 22. Rxf1 Re8 23. Bg4 Qd7 24. Rf7 Bxg4 25. Bf6 exf6 26. Rxd7
+Bxd7 27. exf6 a4 28. fxg7+ Kxg7 29. Kf2 h6 30. Ke1 Re6 31. Qg3 Be8 32. Kd2
+g5 33. Kc3 Kf8 34. Kb4 Bf7 35. Ka5 Kg7 36. Kb6 Kf8 37. Kc7 Kg7 38. Kd7 Kf8
+39. Qf2 Rg6 40. Qf5 h5 41. g3 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.15"]
+[Round "7"]
+[White "Cheparinov,I"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2763"]
+[EventDate "2008.05.08"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. c3 Rb8 13. d4 Qc7 14. dxe5 dxe5
+15. Nc4 Rd8 16. Qe2 b3 17. Nxa5 Qxa5 18. Bb1 c4 19. Qxc4 Bc5 20. h3 Qb6 21.
+Be3 Bxe3 22. Rxe3 Rd1+ 23. Re1 Rxe1+ 24. Nxe1 Be6 25. Qe2 Nd7 26. a5 Qd6
+27. Bd3 Nc5 28. Bc4 Bxc4 29. Qxc4 g6 30. Nf3 Rd8 31. Re1 Qc7 32. g3 Kg7 33.
+Re2 Rd3 34. Kg2 Qd6 35. Ng5 Qe7 36. Re3 Rxe3 37. fxe3 Qd7 38. Nf3 Qd1 39.
+Qxc5 Qe2+ 40. Kg1 Qxf3 41. Qxe5+ Kg8 42. Qb8+ Kg7 43. Qe5+ Kg8 44. Qb8+ Kg7
+45. Qe5+ 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.15"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2767"]
+[EventDate "2008.05.08"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Rc1 Bd6 9. Bd3 O-O 10. O-O Qe7 11. Qc2 a6 12. c5 Bc7 13. e4 dxe4 14. Nxe4
+Rd8 15. Rfe1 Nf8 16. Qc3 f6 17. Bb1 Kh8 18. a3 Bd7 19. Nfd2 f5 20. Ng3 Qf6
+21. Nf3 Be8 22. Ba2 b6 23. Rc2 bxc5 24. Qxc5 Rab8 25. Rd2 a5 26. Qc3 Rd6
+27. Rde2 Bb6 28. Re5 Bf7 29. Bb1 Qd8 30. Ba2 Rb7 31. Ne2 Ng6 32. Re3 a4 33.
+Qc2 Rc7 34. Qxa4 c5 35. dxc5 Rxc5 36. Rc3 Ne5 37. Ned4 Ng4 38. h3 Nxf2 39.
+Kxf2 Ra5 40. Qc2 Rxd4 41. Kf1 Qd7 42. Rc8+ Kh7 43. Qc6 Qd6 44. Qxd6 Rxd6
+45. Rf8 Ra7 46. Ne5 Rd2 47. Re2 Rd1+ 48. Re1 Rd2 49. Re2 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.16"]
+[Round "8"]
+[White "Bu Xiangzhi"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2740"]
+[EventDate "2008.05.08"]
+[ECO "A30"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8.
+Qxd4 d6 9. Rd1 a6 10. b3 Nbd7 11. e4 Qc8 12. Bb2 O-O 13. Qe3 Re8 14. Rac1
+Qc7 15. h3 Rac8 16. Nh2 Qb8 17. Ng4 Ba8 18. Nxf6+ Bxf6 19. Na4 Be7 20. e5
+Bxg2 21. exd6 Bxd6 22. Kxg2 Nc5 23. Nc3 Be5 24. b4 Nb7 25. Qxb6 Rxc4 26.
+Na4 Rxc1 27. Rxc1 Bxb2 28. Nxb2 Qa8 29. Qc6 Nd6 30. Qxa8 Rxa8 31. Rc6 Nf5
+32. Rc7 h5 33. Nd3 h4 34. g4 Nd4 35. a4 f6 36. Nc5 e5 37. a5 Ne2 38. Ne6
+Nf4+ 39. Nxf4 exf4 40. Rc6 Kf7 41. g5 Kg6 42. gxf6 gxf6 43. Kf3 Kg5 44.
+Rc5+ f5 45. Rc6 Rb8 46. Rb6 Ra8 47. Ke2 Re8+ 48. Kd3 Re4 49. Kc3 Re2 50.
+Rxa6 Rxf2 51. Rd6 f3 52. Rd1 Kf4 53. Kb3 Re2 54. a6 Re3+ 55. Kc4 f2 56. Rf1
+Kg3 57. b5 Ra3 58. Kb4 Ra2 59. Kb3 Ra5 60. Kb4 Ra2 61. Kb3 Ra5 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.16"]
+[Round "8"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2763"]
+[BlackElo "2751"]
+[EventDate "2008.05.08"]
+[ECO "E97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. Re1 a5 11. bxa5 Rxa5 12. Nd2 Nf4 13. Bf1 c5 14. a4 Ra6
+15. Ra3 Nh5 16. Nb5 Nf6 17. Bb2 Ne8 18. Nf3 h6 19. g3 f5 20. exf5 Nxf5 21.
+Nd2 Nf6 22. Bd3 Rf7 23. Bc2 Bd7 24. Qb1 Rf8 25. Rf3 h5 26. Ne4 Nxe4 27.
+Rxe4 Ra8 28. Re1 Rc8 29. Bc1 Ra8 30. Bd2 b6 31. Be3 e4 32. Rf4 Nxe3 33.
+fxe3 Bh6 34. Nxd6 Bxf4 35. gxf4 Qh4 36. Re2 Bg4 37. Rg2 g5 38. f5 Bxf5 39.
+Rg3 Bh3 40. Bxe4 Rf1+ 41. Qxf1 Bxf1 42. Bf5 g4 43. Be6+ Kh7 44. Bf5+ Kh8
+0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.16"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2696"]
+[EventDate "2008.05.08"]
+[ECO "D90"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. Nf3 Bg7 7. e3 O-O
+8. Rc1 N8d7 9. a4 a5 10. e4 e5 11. d5 c6 12. Bg5 Bf6 13. Be3 Qe7 14. d6 Qe6
+15. b3 Bg7 16. h4 f5 17. Ng5 Qf6 18. b4 f4 19. Bxb6 Nxb6 20. bxa5 Nd7 21.
+a6 Kh8 22. Nb1 Bh6 23. Nf3 bxa6 24. Rxc6 Bb7 25. Rc7 Bxe4 26. Rxd7 Qf5 27.
+Rc7 Bxb1 28. Ng5 Bg7 29. Bc4 Bc2 30. Qd5 h6 31. Rf7 Qc8 32. Rxg7 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2763"]
+[EventDate "2008.05.08"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Bd3 Nbd7 8.
+O-O Bd6 9. Nc3 O-O 10. Bd2 Re8 11. Qd1 dxc4 12. Bxc4 a6 13. a4 c5 14. dxc5
+Nxc5 15. Qc2 Rc8 16. Rfd1 Qe7 17. Rac1 Rc7 18. Be1 Rec8 19. Be2 h6 20. Bf3
+Ncd7 21. Qb3 Ne5 22. Be2 Bb4 23. Rc2 Nc6 24. Bf3 Ne5 25. Be2 Nc6 26. Bf3
+Ne5 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Radjabov,T"]
+[Black "Cheparinov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2696"]
+[EventDate "2008.05.08"]
+[ECO "D46"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. b3 Bd6 7. Bb2 O-O 8.
+Bd3 e5 9. cxd5 cxd5 10. dxe5 Nxe5 11. Be2 Nxf3+ 12. Bxf3 Be5 13. O-O Bf5
+14. Qd2 Ne4 15. Nxe4 Bxb2 16. Qxb2 dxe4 17. Be2 Qe7 18. Rfd1 Rad8 19. b4 h6
+20. Rxd8 Rxd8 21. Rd1 Rxd1+ 22. Bxd1 Qd7 23. Be2 Bg4 24. Bxg4 Qxg4 25. Qc2
+Qd7 26. h3 Qd5 27. Qc7 Kh7 28. a4 a6 29. Qb6 Qd1+ 30. Kh2 Qd5 31. Kg1 Qd1+
+32. Kh2 Qd5 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.17"]
+[Round "9"]
+[White "Bu Xiangzhi"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2708"]
+[BlackElo "2767"]
+[EventDate "2008.05.08"]
+[ECO "D23"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Qc2 dxc4 5. Qxc4 Bf5 6. g3 Nbd7 7. Bg2 e6
+8. O-O Be7 9. Nc3 O-O 10. Re1 h6 11. e4 Bh7 12. Bf4 Rc8 13. Qe2 Re8 14.
+Rad1 b5 15. a3 a5 16. Ne5 Nxe5 17. Bxe5 Qb6 18. a4 Nd7 19. Bf4 b4 20. Nb1
+Nf6 21. Be5 c5 22. Nd2 cxd4 23. Nb3 Qc6 24. Qb5 Qxb5 25. axb5 a4 26. Nxd4
+Ng4 27. Bf4 g5 28. Bf3 Nxf2 29. Kxf2 gxf4 30. Nc6 fxg3+ 31. Kxg3 Bf8 32.
+Rd7 Bg6 33. e5 Bc5 34. Rc1 Be3 35. Rc4 a3 36. bxa3 bxa3 37. Ra4 Bc5 38. Ra6
+a2 39. Rxa2 Kg7 40. Ra6 Rb8 41. Nxb8 Rxb8 42. Bc6 h5 43. Ra8 Rb6 44. Rdd8
+h4+ 45. Kf4 Bh7 46. Be4 Be7 47. Rdb8 1-0
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.18"]
+[Round "10"]
+[White "Cheparinov,I"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2696"]
+[BlackElo "2740"]
+[EventDate "2008.05.08"]
+[ECO "B48"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6
+8. O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Bd4 Be7 12. Qf2 d6 13. g4 O-O 14. g5
+Nfd7 15. Rg1 Bb7 16. Kb1 Rfc8 17. Rg3 b4 18. Na4 Bd8 19. Nc1 Bc6 20. b3
+Bxa4 21. bxa4 Nc6 22. Be3 Qb8 23. Rh3 Nb6 24. Qh4 h6 25. Qg3 Nxa4 26. Rxd6
+hxg5 27. Bd3 Bf6 28. e5 Bxe5 29. Rh8+ Kxh8 30. Qh3+ Kg8 31. Qh7+ Kf8 32.
+Rd7 Nc3+ 33. Ka1 Nb5+ 0-1
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.18"]
+[Round "10"]
+[White "Aronian,L"]
+[Black "Bu Xiangzhi"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2708"]
+[EventDate "2008.05.08"]
+[ECO "D94"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. h3 O-O 7. Bd3 c5 8. O-O
+Nc6 9. Re1 Nb4 10. dxc5 Nxd3 11. Qxd3 Bf5 12. Qe2 dxc4 13. e4 Be6 14. Ng5
+Qd3 15. Qxd3 cxd3 16. Nxe6 fxe6 17. Be3 Nd7 18. Rad1 Rfc8 19. Na4 b5 20.
+cxb6 axb6 21. Rxd3 Ne5 22. Ra3 b5 23. Nc5 Nc4 24. Rxa8 Rxa8 25. Nxe6 Bxb2
+26. Nc7 Rxa2 27. Nxb5 Ra5 28. Nc7 Nxe3 29. fxe3 Ra4 30. Rb1 Bf6 31. Kf2
+Rxe4 32. Kf3 Ra4 33. Nd5 Kf7 34. g4 Be5 35. Rb7 Bd6 36. Nc3 Ra5 37. Ne4 Ke6
+38. h4 h5 39. g5 Be5 40. Rb6+ Kf7 41. Rb1 Ra3 42. Rd1 Bc7 43. Rb1 Be5 44.
+Rd1 Bc7 45. Rb1 1/2-1/2
+
+[Event "4th M-Tel Masters"]
+[Site "Sofia BUL"]
+[Date "2008.05.18"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2751"]
+[EventDate "2008.05.08"]
+[ECO "B32"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8.
+Nd5 Nf6 9. c4 b4 10. Nxf6+ Qxf6 11. Nc2 Qg6 12. Ne3 Be7 13. g3 Nd4 14. Bg2
+Bb7 15. Nf5 Qxf5 16. exf5 Bxg2 17. Rg1 Bf3 18. Qd3 d5 19. cxd5 Rc8 20. Be3
+Nc2+ 21. Kf1 e4 22. Qxa6 O-O 23. Rb1 Nxe3+ 24. fxe3 Rc2 25. h4 Rd8 26. Qb7
+Kf8 27. a4 Rd2 28. Rc1 R2xd5 29. Rc8 Rd1+ 30. Kf2 R1d2+ 31. Ke1 Rd1+ 32.
+Kf2 R1d2+ 33. Ke1 Rd1+ 34. Kf2 R1d2+ 1/2-1/2
+

@@ -1,0 +1,909 @@
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.26"]
+[Round "1.4"]
+[White "Mamedov,Rau"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2790"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 d6 5.d4 cxd4 6.cxd4 Nc6 7.Bc4 dxe5 8.dxe5 Ndb4
+9.Qxd8+ Nxd8 10.Na3 Bg4 11.Bd2 Nbc6 12.Bc3 Bxf3 13.gxf3 a6 14.Nc2 e6 15.Bd3 Rc8
+16.Be4 Be7 17.f4 f5 18.exf6 Bxf6 19.Bxf6 gxf6 20.f5 Ne7 21.O-O-O exf5 22.Bf3 Rc7
+23.Kb1 Ndc6 24.Bh5+ Ng6 25.Ne3 Ne7 26.Nd5 Nxd5 27.Rxd5 f4 28.Rd4 O-O 29.Rg1 Rg7
+30.Bxg6 Rxg6 31.Rxg6+ hxg6 32.Rxf4 Kg7 33.Kc2 Kh6 34.Kd3 Kg5 35.Rb4 b5 36.a4 Rd8+
+37.Ke4 Rh8 38.Ke3 Rh3+ 39.f3 bxa4 40.Rg4+ Kh5 41.Rxa4 Rxh2 42.Rxa6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.26"]
+[Round "1.3"]
+[White "Mamedyarov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2779"]
+[ECO "E15"]
+
+1.Nf3 Nf6 2.c4 b6 3.d4 e6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 c6 8.e4 d5 9.exd5 cxd5
+10.Ne5 Bb7 11.Bg2 Nc6 12.O-O Nxd4 13.Bf4 Nf5 14.cxd5 Nxd5 15.Nxd5 Bxd5 16.Nc6 Qd7
+17.Bxd5 exd5 18.Nb8 Qb7 19.Qd3 Nd6 20.Na6 O-O 21.Nb4 d4 22.Qxd4 Nf5 23.Qd5 Qxd5
+24.Nxd5 Bc5 25.Rad1 Rfd8 26.Bc7 Re8 27.Bf4 Red8 28.Bc7 Re8 29.Bf4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.26"]
+[Round "1.2"]
+[White "Caruana,F"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2804"]
+[BlackElo "2763"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O Nxd4
+9.Bxd4 e5 10.Be3 d6 11.h3 b5 12.Bd3 b4 13.Nd5 Nxd5 14.exd5 a5 15.Kb1 Be7
+16.g4 O-O 17.g5 Ba6 18.Qe4 g6 19.h4 Rfc8 20.Rc1 Qd7 21.Bxa6 Rxa6 22.f4 Qf5
+23.Qxf5 gxf5 24.c3 bxc3 25.Rxc3 Rxc3 26.bxc3 Ra8 27.Kc2 Rb8 28.Rf1 e4 29.a4 Kf8
+30.h5 Ke8 31.Rg1 Kd7 32.Bd4 Kc7 33.g6 fxg6 34.hxg6 hxg6 35.Rxg6 Rf8 36.Rg7 Kd7
+37.c4 Ke8 38.Kc3 Bh4 39.Ra7 Be1+ 40.Kc2 Rg8 41.Ra8+ Kf7 42.Ra7+ Ke8 43.Ra8+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.26"]
+[Round "1.1"]
+[White "Safarli,E"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2765"]
+[ECO "A13"]
+
+1.Nf3 d5 2.c4 e6 3.g3 dxc4 4.Bg2 a6 5.Qc2 Bd6 6.Qxc4 Nf6 7.O-O b5 8.Qb3 Bb7
+9.a4 Nbd7 10.axb5 Bd5 11.Qc2 axb5 12.Rxa8 Qxa8 13.Na3 Qb7 14.d3 c5 15.Bg5 O-O
+16.Rc1 Rc8 17.Nb1 h6 18.Bxf6 Nxf6 19.Nc3 Bc6 20.Qb3 Be7 21.Ra1 Ne8 22.Ne1 Bxg2
+23.Nxg2 Nd6 24.Ne3 Bg5 25.Nf1 b4 26.Nb1 c4 27.dxc4 Nxc4 28.e3 Nxe3 29.fxe3 Rc1
+30.Kf2 Qh1 31.Qd3 f5 32.h4 Be7 33.Ra5 f4 34.exf4 Qc6 35.Re5 Bc5+ 36.Rxc5 Qxc5+
+37.Ne3 b3 38.Nd2 Rc2 39.Kf3 Rxb2 40.Qd8+ Kh7 41.Qd3+ Kh8 42.Qd8+ Kh7 43.Qd3+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.26"]
+[Round "1.5"]
+[White "Radjabov,T"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2663"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 cxd4 5.O-O d5 6.Bf4 Nc6 7.Nxd4 Bc5 8.Nb3 Be7
+9.c4 dxc4 10.Qxd8+ Nxd8 11.Na5 Nd5 12.Nxc4 Nxf4 13.gxf4 Bd7 14.Nc3 Rc8 15.Ne5 Bb4
+16.Ne4 Bb5 17.a3 Be7 18.Nc3 Bc6 19.Nxc6 Nxc6 20.Rfd1 Rg8 21.Rac1 g5 22.fxg5 Rxg5
+23.Kf1 Rc5 24.Ne4 Rxc1 25.Rxc1 f5 26.Nd2 Kd7 27.e3 Bf6 28.b4 b6 29.Rd1 Ke7
+30.Rc1 Kd7 31.Rd1 Ke7 32.Rc1 Kd7  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.27"]
+[Round "2.3"]
+[White "Eljanov,P"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2765"]
+[BlackElo "2804"]
+[ECO "D91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.Bf4 Nxc3 7.bxc3 c5 8.e3 O-O
+9.Be2 dxc4 10.Bxc4 Nd7 11.O-O Nb6 12.Bb3 c4 13.Bc2 Nd5 14.Qd2 Nxf4 15.exf4 Be6
+16.a4 Bd5 17.Ne5 e6 18.Rfb1 Rb8 19.Qe3 a6 20.a5 b5 21.axb6 Rxb6 22.g3 Rxb1+
+23.Rxb1 Bxe5 24.Qxe5 Qa8 25.h4 Bh1 26.Kf1 h5 27.Ke1 a5 28.Ra1 Qg2 29.Rxa5 Qg1+
+30.Ke2 Bg2 31.Qe3 Rb8 32.Ra2 Bh3 33.Kd2 Bf5 34.Qe1 Qg2 35.Bxf5 exf5 36.Kc2 Qb7
+37.Kd2 Qg2 38.Kc1 Qf3 39.Rc2 Ra8 40.Qe2 Qh1+ 41.Kd2 Ra1 42.Qe8+ Kg7 43.Qe5+ Kh7
+44.Qe2 Rb1 45.f3 Rg1  0-1
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.27"]
+[Round "2.4"]
+[White "Mamedov,Rau"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2726"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 Bxd3 8.Qxd3 e6
+9.O-O Ngf6 10.Bf4 Be7 11.c4 O-O 12.Rfd1 Qb6 13.Qc2 Rfe8 14.Ne5 Rad8 15.h3 Nf8
+16.Rd3 c5 17.Rb3 Qa6 18.Ra3 Qb6 19.Rb3 Qa6 20.Ra3 Qb6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.27"]
+[Round "2.5"]
+[White "Harikrishna,P"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2763"]
+[BlackElo "2748"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 a6 5.a4 Bg7 6.Nf3 O-O 7.Qd2 Nbd7 8.h3 e5
+9.dxe5 dxe5 10.Bc4 b6 11.O-O Bb7 12.Rfd1 Qe7 13.Nd5 Nxd5 14.Bxd5 Bxd5 15.Qxd5 Nf6
+16.Qc4 Rfe8 17.c3 a5 18.Rd3 Qe6 19.Qxc7 Nxe4 20.Rad1 Bf6 21.Nd2 Nxd2 22.R1xd2 e4
+23.Rd6 Be5 24.Rxe6 Bxc7 25.Rc6 Rec8 26.Kf1 Bd8 27.Rcd6 Rab8 28.Rd7 Bf6 29.Bf4 Ra8
+30.Rb7 Rc6 31.Rdd7 Rd8 32.Rxd8+ Bxd8 33.Rb8  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.27"]
+[Round "2.2"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2790"]
+[BlackElo "2779"]
+[ECO "A36"]
+
+1.g3 c5 2.Bg2 Nc6 3.c4 g6 4.Nc3 Bg7 5.a3 d6 6.Rb1 a5 7.d3 e5 8.e4 h5 9.h4 Bh6
+10.Bh3 Bxc1 11.Rxc1 Nf6 12.Bxc8 Rxc8 13.Nge2 O-O 14.O-O Qd7 15.Kg2 Kg7 16.f3 Nd4
+17.Rf2 b6 18.a4 Rb8 19.b3 Rb7 20.Rb1 Rbb8 21.Qd2 Rbe8 22.Qb2 Qb7 23.Rbf1 Ng8
+24.Nd5 Ne7 25.Nxd4 exd4 26.Nf4 Qd7 27.Re2 Nc6 28.Qd2 Nb4 29.Rfe1 Re5 30.Nh3 Re7
+31.f4 f6 32.Qd1 Rh8 33.Kh2 Qg4 34.Kg2 Rhe8 35.f5 gxf5 36.Nf2 Qg6 37.exf5 Rxe2
+38.fxg6 Rxe1 39.Qxh5 Rh8 40.Qf3 Re3 41.Qg4 Re5 42.Qd7+ Kxg6 43.Ne4 Nxd3 44.Qg4+ Kh6
+45.Nxd6 Rf8 46.Nf5+ Rxf5 47.Qxf5 Ne5 48.Qe6 d3 49.Qxb6 Rf7 50.Qxa5 Rd7 51.Qd2+ Kg7
+52.a5 Nc6 53.a6 Kf7 54.h5 Nb4 55.h6 Kg6 56.Qf4 Rd4 57.h7 Rxf4 58.h8=Q d2
+59.Qe8+ Kh6 60.Qh8+ Kg6 61.Qe8+ Kh6 62.Qe2 Rd4 63.a7 d1=Q 64.Qxd1 Rxd1 65.a8=Q Rd2+
+66.Kf3 Rd3+ 67.Kf4 Rxb3 68.Kf5  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.27"]
+[Round "2.1"]
+[White "Hou Yifan"]
+[Black "Safarli,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2663"]
+[BlackElo "2664"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.h4 Qc7 8.Nf3 Bd7
+9.h5 h6 10.Rh4 Nbc6 11.Rg4 Nf5 12.Bd3 Nce7 13.dxc5 Qxc5 14.Rb4 a5 15.Rxb7 Bc6
+16.Rb3 Ba4 17.Rbb1 Qxc3+ 18.Bd2 Qc5 19.Qe2 O-O 20.g4 Nd4 21.Nxd4 Qxd4 22.c3 Qc5
+23.g5 hxg5 24.Qg4 Bc6 25.Rc1 Nf5 26.Bxg5 Bb5 27.Bxf5 exf5 28.Qd4 Qc4 29.Qxc4 Bxc4
+30.Be7 Rfb8 31.Rab1 Bd3 32.Rxb8+ Rxb8 33.Kd2 Be4 34.Ke3 Rb2 35.Bc5 Rb5 36.Bd6 Rb2
+37.Bc5 Rb5 38.Bd6 Rb2 39.Bc5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.28"]
+[Round "3.1"]
+[White "Mamedyarov,S"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2765"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.Qb3 c5 6.Bg5 Bb7 7.e3 O-O 8.Be2 cxd4
+9.Qxb4 Nc6 10.Qa3 dxc3 11.bxc3 h6 12.Bh4 Rc8 13.Rd1 Qc7 14.Bxf6 gxf6 15.O-O Kg7
+16.Nd4 Ne5 17.Nb5 Qc5 18.Qb4 a5 19.Qxc5 Rxc5 20.Nd6 Ba6 21.Rd4 f5 22.Rb1 Rb8
+23.f4 Nc6 24.Rd2 Ne7 25.Kf2 Kf8 26.e4 Nc8 27.Nb5 Ke7 28.Rbd1 Rb7 29.exf5 Rxf5
+30.g3 Rc5 31.Na3 d6 32.g4 Rd7 33.h4 Rd8 34.Rd4 Na7 35.Rb1 Nc8 36.Nc2 d5 37.cxd5 Bxe2
+38.Kxe2 Rdxd5 39.Kd3 h5 40.Ne3 Rd7 41.f5 hxg4 42.h5 Nd6 43.h6 Rc8 44.Re1 Nb7
+45.Rxd7+ Kxd7 46.Nxg4 Nc5+ 47.Kd4 Kd6 48.Ne5 f6 49.Ng6 e5+ 50.Ke3 Rc7 51.Rd1+ Kc6
+52.Rd8 Nb7 53.Rc8 Rxc8 54.Ne7+ Kc5 55.Nxc8 Nd8 56.h7 Nf7 57.Ne7 Kc4 58.Ng8 Kxc3
+59.Nxf6  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.28"]
+[Round "3.2"]
+[White "Caruana,F"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2663"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 Be7 11.Bc2 d4 12.Nb3 d3 13.Bb1 Nxb3 14.axb3 Bf5 15.Re1 O-O
+16.Be3 Qd5 17.Bd4 Rfd8 18.h4 Bg6 19.b4 d2 20.Qxd2 Bxb1 21.Raxb1 Bxb4 22.Qf4 Be7
+23.e6 fxe6 24.Qg4 Nxd4 25.Nxd4 Bf6 26.Nxe6 Rd7 27.Re3 h5 28.Qg6 Rf7 29.Rbe1 Rc8
+30.Nf4 Qd7 31.Qxh5 Re7 32.Nd5 Rf7 33.Rd1 Qc6 34.Nf4 Rd7 35.Re8+  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.28"]
+[Round "3.3"]
+[White "Radjabov,T"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2790"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 O-O 8.Rc1 dxc4
+9.Bxc4 c5 10.O-O cxd4 11.Nxd4 Bd7 12.Ne4 Qe7 13.Be2 Nc6 14.a3 Nxd4 15.Qxd4 Ba5
+16.Qc5 Bd8 17.Bf3 Bc6 18.Rfd1 Bxe4 19.Qxe7 Bxe7 20.Bxe4 Bf6 21.b4 Rad8 22.g3 Bb2
+23.Rxd8 Rxd8 24.Rc7 Bxa3 25.Rxb7 Kf8 26.Rxa7 Bxb4 27.Ra8 Rxa8 28.Bxa8 Bc5
+29.Kg2 Bb4 30.Be4 Bc5 31.h3 Bb4 32.Bf3 g5 33.g4 Bc5 34.Be4 Bb4 35.Bf3 Bc5
+36.Be4 Bb4 37.Bf3 Bc5 38.Be4 Bb4 39.Bf3 Bc5 40.Be4 Bb6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.28"]
+[Round "3.4"]
+[White "Karjakin,Sergey"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2763"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nd7
+9.O-O-O c5 10.Bd3 Nf6 11.Rhe1 Be6 12.Bg5 h6 13.Bxh6 c4 14.Bxg7 cxd3 15.Qg5 Ne4
+16.Qh6 Bg5+ 17.Nxg5 Qxg5+ 18.Qxg5 Nxg5 19.Bxf8 dxc2 20.Rxd6 Kxf8 21.h4 Nh7
+22.Kxc2 Nf6 23.f3 Ke7 24.Rd4 Rh8 25.c4 Nd7 26.b3 a6 27.Kc3 Nb8 28.g3 Nc6
+29.Rd2 Kf6 30.Rh2 b5 31.cxb5 axb5 32.Rd2 Rh5 33.Re3 Ne7 34.Re4 Rf5 35.Rd3 Rc5+
+36.Kd2 Nf5 37.Rg4 Rc8 38.Rc3 Ra8 39.Rc2 Ne7 40.Rf4+ Kg7 41.Ke1 Nd5 42.Rd4 Kf6
+43.Kf2 Ke5 44.Re4+ Kd6 45.h5 Ke7 46.g4 Kd6 47.Rd2 f5 48.gxf5 Bxf5 49.h6 Rh8
+50.Red4 Be6 51.Rh4 Ke7 52.Rh5 Nf6 53.Rxb5 Rxh6 54.a4 Rh1 55.a5 Nd7 56.b4 Bc4
+57.Rg5 Ke6 58.Rd4 Rc1 59.a6 Rc2+ 60.Kg3 Bf1 61.a7 Nb6 62.Rd1  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.28"]
+[Round "3.5"]
+[White "Safarli,E"]
+[Black "Mamedov,Rau"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2655"]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Kh8 10.c5 Nh5 11.Nd2 Nf4 12.Nc4 f5 13.f3 Ng8 14.cxd6 cxd6 15.Be3 Bh6
+16.a4 Bd7 17.Nb5 Bxb5 18.axb5 fxe4 19.fxe4 Nxe2+ 20.Qxe2 Rxf1+ 21.Rxf1 Bxe3+
+22.Qxe3 Nf6 23.Qh3 Nxe4 24.Qg4 Nf6 25.Qe6 Ne4 26.Qg4 Nf6 27.Qe6 Ne4 28.Qg4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.29"]
+[Round "4.4"]
+[White "Hou Yifan"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2663"]
+[BlackElo "2748"]
+[ECO "B91"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Be7 8.Bg2 Nbd7
+9.a4 b6 10.h3 O-O 11.O-O Bb7 12.g4 b5 13.Ng3 b4 14.Nd5 Nxd5 15.exd5 Rc8 16.a5 Rc5
+17.Nf5 Re8 18.Nxe7+ Rxe7 19.Bg5 f6 20.Bd2 Rb5 21.Re1 Qc8 22.c3 bxc3 23.bxc3 Bxd5
+24.Bxd5+ Rxd5 25.Qb3 Qc6 26.Be3 Nc5 27.Bxc5 dxc5 28.Qc4 Kf8 29.Qe4 g6 30.Rad1 Rd6
+31.Rxd6 Qxd6 32.Rb1 Kg7 33.Rb6 Qd2 34.Rb7 Qd6 35.Rxe7+ Qxe7 36.Qc6 Qa7 37.Qb6 Qa8
+38.Qxc5 Qb7 39.c4 Qd7 40.Kg2 Qb7+ 41.Kg1 Qd7 42.Kh2 Qb7 43.Qd6 Qf3 44.Qd7+ Kf8
+45.Kg1 Qxh3 46.c5 f5 47.Qd6+ Kf7 48.Qd5+ Kf6 49.c6 Qxg4+ 50.Kf1 Qh3+ 51.Ke2 Qc3
+52.Qd8+ Ke6 53.c7 Qc2+ 54.Kf1 Qc4+ 55.Kg2 Qg4+ 56.Kf1  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.29"]
+[Round "4.5"]
+[White "Eljanov,P"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2779"]
+[ECO "D30"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Nbd7 5.e3 h6 6.Bh4 Be7 7.Nbd2 c5 8.Be2 O-O
+9.O-O b6 10.cxd5 Nxd5 11.Bg3 Bb7 12.Nc4 N7f6 13.dxc5 Bxc5 14.Nfd2 Rc8 15.e4 Ne7
+16.e5 Ne4 17.Nxe4 Bxe4 18.Nd6 Bxd6 19.exd6 Nf5 20.Qa4 Bd5 21.d7 Rc5 22.b4 Nxg3
+23.hxg3 Rc7 24.Bb5 Qg5 25.Rfe1 Rd8 26.Re3 h5 27.Rae1 h4 28.Re5 Qf6 29.Qa3 Ba8
+30.Qe3 hxg3 31.Qxg3 a6 32.Rxe6 fxe6 33.Qxc7 Rf8 34.Qxb6 axb5 35.Qxe6+ Qf7
+36.Qxf7+ Kxf7 37.Re5 Rd8 38.Rxb5 Rxd7 39.a4 Bc6 40.Rf5+ Ke6 41.Ra5 Rd1+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.29"]
+[Round "4.3"]
+[White "Mamedov,Rau"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2655"]
+[BlackElo "2804"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.a4 Ba7 8.Bg5 h6 9.Bh4 g5
+10.Bg3 Ne7 11.d4 Nxe4 12.Nxe5 O-O 13.Nxf7 Rxf7 14.Bxf7+ Kxf7 15.f4 g4 16.f5 Nxg3
+17.hxg3 Ng8 18.Qxg4 Qg5 19.Qxg5 hxg5 20.Nd2 Nf6 21.Nf3 Nh7 22.g4 Bd7 23.Rfe1 Rg8
+24.Kf2 Nf6 25.Kg3 c5 26.Re2 cxd4 27.cxd4 Bb6 28.b3 Bc6 29.Rae1 Ba5 30.Re7+ Kf8
+31.R1e2 Bd8 32.R7e6 Bd7 33.R6e3 Nd5 34.Re4 Nc3 35.d5 Bf6 36.Nd2 Rg7 37.Re1 Nxe4+
+38.Nxe4 Re7 39.Kf3 Kg7 40.Rh1 Be8 41.Nxd6 Bf7 42.Nxf7 Kxf7 43.Rc1 Bd4 44.Rc4 Bb6
+45.Re4 Rxe4 46.Kxe4 Ke7 47.b4 Bd8 48.a5 Kd6 49.Kd4 Bf6+ 50.Kc4 Bg7 51.b5 Bf6  0-1
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.29"]
+[Round "4.2"]
+[White "Radjabov,T"]
+[Black "Safarli,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2664"]
+[ECO "D86"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.f4 Bg4 13.f5 gxf5 14.h3 cxd4 15.Bxf7+ Kxf7
+16.Qb3+ e6 17.Nxd4 Nxd4 18.cxd4 Qb6 19.Qxb6 axb6 20.hxg4 Bxd4 21.Bxd4 Rxd4
+22.exf5 Rxg4 23.Rc7+ Kf6 24.fxe6+ Kxe6 25.Rxb7 Rxa2 26.Rxb6+ Ke5 27.Rf2 Rxf2
+28.Kxf2 Kf5 29.Kf3 Rf4+ 30.Kg3 Rg4+ 31.Kf3 Rf4+ 32.Kg3 Rg4+ 33.Kf3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.29"]
+[Round "4.1"]
+[White "Giri,A"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2790"]
+[BlackElo "2763"]
+[ECO "D41"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Rc1 b6 12.Bd3 Bb7 13.O-O h6 14.Qe3 Nc6 15.h4 Rc8
+16.h5 Qe7 17.Bb1 Rfd8 18.d5 exd5 19.e5 Ba6 20.Rfe1 Qd7 21.Qf4 Ne7 22.Nd4 Rxc1
+23.Qxc1 Qa4 24.e6 Qxd4 25.exf7+ Kxf7 26.Qc7 Re8 27.Bg6+  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.30"]
+[Round "5.4"]
+[White "Safarli,E"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteElo "2664"]
+[BlackElo "2790"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c4 Nf6 5.Nc3 g6 6.O-O Bg7 7.Ba4 O-O 8.h3 Nb6
+9.Bb3 e5 10.d3 Ne8 11.Bg5 f6 12.Be3 f5 13.Bg5 Bf6 14.Bh6 Bg7 15.Bg5 Qd7 16.exf5 gxf5
+17.a4 a5 18.Nb5 Kh8 19.Re1 Bf6 20.Bxf6+ Nxf6 21.d4 e4 22.dxc5 dxc5 23.Qxd7 Nbxd7
+24.Nd2 Ne5 25.Bc2 Bd7 26.f3 Rad8 27.Rad1 Rg8 28.Kh2 Be8 29.Nc7 Bh5 30.Ne6 Rde8
+31.Nc7 Re7 32.Nd5 Nxd5 33.cxd5 exf3 34.d6 Reg7 35.g4 Nxg4+ 36.hxg4 Rxg4 37.Nxf3 Rg2+
+38.Kh3 Bxf3 39.Bb3 R8g3+ 40.Kh4 Rg4+ 41.Kh3 Bxd1 42.d7 R4g3+ 43.Kh4 Rd3  0-1
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.30"]
+[Round "5.3"]
+[White "Caruana,F"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2726"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 O-O 8.Bf4 b6
+9.Qd2 Re8 10.O-O-O a5 11.Ne5 b5 12.Qe3 Qb6 13.Bh6 Bh8 14.f4 a4 15.Rhf1 e6
+16.g4 a3 17.b4 Nd7 18.Nxd7 Bxd7 19.e5 f5 20.Ne2 Bg7 21.Bxg7 Kxg7 22.h4 fxg4
+23.h5 gxh5 24.Ng3 Kh8 25.Nxh5 Re7 26.Nf6 Be8 27.f5 exf5 28.Rxf5 Qc7 29.Rg5 Rg7
+30.Rh1 Bg6 31.Rxg4 Qf7 32.Kb1 cxb4 33.Qd4 Bf5 34.e6 Rxg4 35.exf7 Rxd4 36.Ne8  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.30"]
+[Round "5.2"]
+[White "Karjakin,Sergey"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2663"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Bc2 f5 12.Nb3 Qd7 13.Nbd4 Nxd4 14.Nxd4 c5 15.Nxe6 Qxe6
+16.f3 Ng5 17.a4 Rad8 18.axb5 axb5 19.Bxg5 Bxg5 20.f4 Be7 21.Kh1 Qb6 22.Qd3 c4
+23.Qh3 g6 24.g4 d4 25.gxf5 Qc6+ 26.Qg2 Qxg2+ 27.Kxg2 d3 28.Bd1 Rxf5 29.Bg4 Rff8
+30.Ra5 h5 31.Bd1 b4 32.Ra6 bxc3 33.bxc3 Kh7 34.Ra7 Rf7 35.Rc7 Rd5 36.Rxc4 Bf8
+37.Rc8 Rc5 38.Rd8 Bh6 39.Rxd3 Rxf4 40.Rd7+ Kh8 41.Rxf4 Bxf4 42.e6 Bg5 43.e7 Bxe7
+44.Rxe7 Rxc3 45.Bf3 Rc8 46.Kg3 Rg8 47.Kh4 Rg7 48.Re8+ Kh7 49.Kg5 Ra7 50.Bd5 Kg7
+51.Re6 Kh7 52.Be4 Ra5+ 53.Kf6  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.30"]
+[Round "5.1"]
+[White "Mamedyarov,S"]
+[Black "Mamedov,Rau"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2655"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Be2 dxc4 8.Bxc4 O-O
+9.O-O b5 10.Bd3 Bb7 11.e4 e5 12.h3 Re8 13.dxe5 Nxe5 14.Nxe5 Bxe5 15.Be3 a6
+16.f4 Bxc3 17.bxc3 c5 18.e5 c4 19.Bf5 g6 20.Rad1 Nd5 21.Be4 Nxe3 22.Rxd8 Nxc2
+23.Rxa8 Bxa8 24.Bxc2 f6 25.f5 gxf5 26.exf6 Re2 27.Rf2 Re1+ 28.Rf1 Re2 29.Rf2 Re1+
+30.Rf1 Re2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.05.30"]
+[Round "5.5"]
+[White "Harikrishna,P"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2763"]
+[BlackElo "2765"]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d6 8.Nd2 Bd7
+9.f4 exf4 10.Rxf4 Ne7 11.Bxd7 Nxd7 12.c4 Ne5 13.Bb2 f6 14.Nf1 Qd7 15.Ne3 a6
+16.Qh5 b5 17.Rh4 h6 18.Rf1 bxc4 19.d4 Nf7 20.Ng4 Qb5 21.Nxf6+ gxf6 22.e5 Kh8
+23.Bc1 Ng8 24.Qg6 dxe5 25.Rxf6 Qb1 26.Rf1 exd4 27.Bxh6 Qxf1+ 28.Kxf1 Nfxh6+
+29.Kg1 Rab8 30.Rxh6+ Nxh6 31.Qxh6+ Kg8 32.Qg6+ Kh8 33.h3 d3 34.Qh6+ Kg8 35.Qxa6 dxc2
+36.Qxc4+ Kh8 37.Qc3+ Kg8 38.Qxc2 Rfc8 39.Qc6 Kf7 40.a4 Ke7 41.a5  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.01"]
+[Round "6.3"]
+[White "Safarli,E"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2804"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4 cxd4 8.Nxd4 Bc5
+9.Nb3 Nc6 10.Bg5 a6 11.Rd1 Qc7 12.Be2 Be7 13.Bh4 Ne5 14.Bg3 h5 15.O-O g5
+16.Nd4 h4 17.Bxe5 Qxe5 18.Nf3 Bxe4 19.Nxe5 Bxc2 20.Rd2 Bf5 21.Rfd1 Ra7 22.Na4 Rc7
+23.Nxb6 d6 24.Nf3 Ne4 25.Rd3 Rb7 26.Na4 Nc5 27.Nxc5 dxc5 28.R3d2 Bf6 29.b4 g4
+30.Ne1 cxb4 31.axb4 Rxb4 32.c5 O-O 33.Bxa6 Be4 34.Be2 Bc3 35.Rd6 Bd5 36.Rb6 Re4
+37.Kf1 Be5 38.h3 Bc7 39.Rb2 f5 40.Nd3 Rb8 41.Rxb8+ Bxb8 42.Rb1 Bh2 43.Nb4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.01"]
+[Round "6.5"]
+[White "Radjabov,T"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2748"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nf6 8.Ne5 Bh7
+9.Bd3 Nbd7 10.Bxh7 Nxe5 11.dxe5 Qa5+ 12.Kf1 Nxh7 13.e6 Qd5 14.Qxd5 cxd5 15.Ne2 fxe6
+16.Nf4 Rg8 17.Nxe6 Rc8 18.c3 Kf7 19.Nxf8 Rgxf8 20.Be3 Nf6 21.Bxa7 b6 22.Bxb6 Rb8
+23.Bd4 Rxb2 24.a4 e5 25.Bxe5 Ng4 26.Bd4 Nxf2 27.Bxf2 Kg8 28.Kg1 Rfxf2 29.Rh2 Ra2
+30.Rxa2 Rxa2 31.g3 Ra1+ 32.Kf2 Ra2+ 33.Kg1 Ra1+ 34.Kf2 Ra2+ 35.Kg1 Ra1+ 36.Kf2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.01"]
+[Round "6.4"]
+[White "Mamedov,Rau"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2779"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nb3 Be6 8.Be3 Be7
+9.f4 Nc6 10.f5 Bxb3 11.axb3 Nb4 12.g3 d5 13.exd5 Qc7 14.d6 Bxd6 15.Nb5 Nxc2+
+16.Ke2 Qc6 17.Nxd6+ Ke7 18.Rc1 Nxe3 19.Rxc6 Nxd1 20.Nxb7 Rhb8 21.Rc7+ Kf8
+22.Kxd1 Ra7 23.Bc4 Raxb7 24.Rxb7 Rxb7 25.Re1 Nd7 26.Kc2 Rb6 27.Ra1 Nb8 28.Kd3 Nc6
+29.Ra4 Ke7 30.Ke4 f6 31.h4 Nb8 32.Kd5 Rd6+ 33.Ke4 Rb6 34.Kd5 Rd6+ 35.Ke4 Rb6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.01"]
+[Round "6.1"]
+[White "Hou Yifan"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2663"]
+[BlackElo "2763"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Nc3 Bf5
+9.Re1 Nxc3 10.bxc3 Bxd3 11.Qxd3 O-O 12.Re2 Qd6 13.Rb1 b6 14.Bd2 Bf6 15.Rbe1 Na5
+16.Qf5 g6 17.Qh3 Qc6 18.Bg5 Nc4 19.Bxf6 Qxf6 20.Ne5 Nxe5 21.Rxe5 Qc6 22.R1e3 Rae8
+23.Qh6 Rxe5 24.dxe5 Qb5 25.g4 Qb1+ 26.Kg2 Qxc2 27.Rh3 Qe4+ 28.Kf1 Qb1+ 29.Kg2 Qe4+
+30.Kf1 Qb1+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.01"]
+[Round "6.2"]
+[White "Giri,A"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2790"]
+[BlackElo "2765"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.h3 Bh5 5.O-O Nd7 6.d4 e6 7.c4 Ngf6 8.cxd5 cxd5
+9.Qb3 Qb6 10.Nc3 Be7 11.Ne5 Qxb3 12.axb3 a6 13.g4 Bg6 14.g5 Nh5 15.Nxg6 hxg6
+16.e4 dxe4 17.d5 exd5 18.Nxd5 Bd6 19.Be3 f5 20.gxf6 Ndxf6 21.Rfd1 O-O-O 22.Ra5 Bc7
+23.Ne7+ Kb8 24.Raa1 Rhe8 25.Nxg6 Nd5 26.Bg5 Rd6 27.Ra4 Rxg6 28.Rxd5 Nf4 29.Bxf4 Bxf4
+30.Rb4 e3 31.fxe3 Bxe3+ 32.Kh1 b5 33.Re4 Rxe4 34.Bxe4 Rg1+ 35.Kh2 Rf1 36.Kg3 Kc7
+37.b4 Rf4 38.Re5 Kd6 39.Re8 g5 40.Bb7 Bc1 41.Bxa6 Rxb4 42.Rb8 Ke5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.02"]
+[Round "7.4"]
+[White "Eljanov,P"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2663"]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 d5 3.Bf4 e6 4.e3 c5 5.c3 Nc6 6.Nbd2 Bd6 7.Bg3 O-O 8.Bb5 a5
+9.a4 Ne7 10.Qe2 Nf5 11.Bd3 Be7 12.Be5 b6 13.Bxf6 Bxf6 14.g4 Nd6 15.h4 Be7
+16.g5 Bb7 17.Ne5 Qe8 18.Rg1 f5 19.gxf6 Bxf6 20.Qg4 Ba6 21.Bc2 Ra7 22.Ndf3 Bxe5
+23.dxe5 Nf5 24.Ng5 h6 25.Nh3 d4 26.e4 d3 27.Bb3 c4 28.Bd1 Qb8 29.exf5 Qxe5+
+30.Kd2 Rxf5 31.f4 Qf6 32.Bf3 Bb7 33.Bxb7 Rxb7 34.Qf3 Rf7 35.h5 Qh4 36.Rg4 Qxh5
+37.Rag1 Rd5 38.Nf2 Qf5 39.Ne4 Rdd7 40.Qe3 b5 41.Nc5 Rde7 42.Qe5 bxa4 43.Ke3 Kh7
+44.Rh4 Qxe5+ 45.fxe5 Rf5 46.Rxc4 Rxe5+ 47.Ne4 g5 48.Rxa4 Kg6 49.Kxd3 Rf7
+50.Nd2 h5 51.Re4 Rxe4 52.Nxe4 g4 53.c4 Rf3+ 54.Kd4 Kf5 55.Ng3+ Rxg3 56.Rxg3 h4
+57.Rg1 g3 58.Ke3 Kg4 59.Rd1 e5 60.c5  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.02"]
+[Round "7.1"]
+[White "Mamedyarov,S"]
+[Black "Safarli,E"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2664"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 d5 5.Bg2 O-O 6.a3 Bxc3+ 7.bxc3 c5 8.cxd5 exd5
+9.Nf3 cxd4 10.Nxd4 Nc6 11.O-O Ne4 12.c4 Re8 13.Bb2 Na5 14.cxd5 Nc4 15.Rb1 Nxb2
+16.Rxb2 Qxd5 17.Qd3 Bd7 18.Rfb1 Rab8 19.Rb5 Bxb5 20.Rxb5 Nxf2 21.Kxf2 Qd6
+22.Bxb7 Rbd8 23.e3 Re5 24.a4 h5 25.h4 Rde8 26.e4 Qf6+ 27.Kg2 Rxb5 28.axb5 g6
+29.Bd5 Re7 30.Qd2 a6 31.bxa6 Qxa6 32.Nc6 Rc7 33.Nd8 Qa4 34.Qh6 Rc2+ 35.Kh3 Qd7+
+36.Ne6 fxe6 37.Qxg6+ Kf8 38.Bxe6 Qg7 39.Qxh5 Rc3 40.Qg4 Qxg4+ 41.Kxg4 Kg7
+42.Kf4 Rc1 43.Kg5 Re1 44.Bf5  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.02"]
+[Round "7.2"]
+[White "Karjakin,Sergey"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2726"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qa5 7.Bd2 Qa4 8.h4 Nc6
+9.Nf3 Nge7 10.h5 h6 11.Rb1 c4 12.g3 b6 13.Bh3 Bd7 14.O-O O-O-O 15.Nh4 Rdg8
+16.Ng2 Kb8 17.Re1 Bc8 18.Kh2 Ka8 19.Bf4 Rf8 20.Qc1 Rhg8 21.Re2 Rh8 22.Re1 Rh7
+23.Bd2 Rhh8 24.Re2 Rh7 25.Kg1 Rhh8 26.Ra1 Rh7 27.Kh2 Rhh8 28.Ne3 Ng8 29.Ng2 Nge7
+30.Bf4 Ng8 31.Bd2 Nge7 32.Bf4 Ng8 33.Bd2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.02"]
+[Round "7.3"]
+[White "Caruana,F"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2804"]
+[BlackElo "2790"]
+[ECO "C81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Qe2 Be7 10.Rd1 O-O 11.c4 bxc4 12.Bxc4 Bc5 13.Be3 Bxe3 14.Qxe3 Qb8 15.Bb3 Na5
+16.Nd4 c5 17.Nxe6 fxe6 18.f3 c4 19.fxe4 cxb3 20.exd5 bxa2 21.Rxa2 Nc4 22.Qd4 Qb3
+23.Nc3 Rac8 24.Rb1 Ne3 25.Qxe3 Rxc3 26.Qxc3 Qxa2 27.Rd1 exd5 28.Qd4 Re8 29.Rc1 h6
+30.h3 Kh8 31.e6 Rxe6 32.Rc8+ Kh7 33.Qd3+ Re4 34.Qf1 Re5 35.Qd3+ Re4 36.Qf1 Re5
+37.Qd3+ Re4 38.Qf1  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.02"]
+[Round "7.5"]
+[White "Harikrishna,P"]
+[Black "Mamedov,Rau"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2655"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nh6 7.c3 O-O 8.h3 f5
+9.e5 Nf7 10.d4 cxd4 11.cxd4 c5 12.dxc5 Bb7 13.Nc3 e6 14.Nd4 Bxe5 15.f4 Bg7
+16.Be3 g5 17.fxg5 f4 18.Bf2 Qxg5 19.c6 Bxd4 20.Qxd4 Bxc6 21.Ne4 Qg7 22.Qxg7+ Kxg7
+23.Rad1 Rg8 24.Bh4 Kh6 25.Rd2 Rg6 26.Nf6 e5 27.b4 Kg7 28.b5 Bxb5 29.Nxd7 Re8
+30.Nc5 Nd6 31.Ne4 Nxe4 32.Rxe4 Bc6 33.Rc4 e4 34.Rdc2 Ree6 35.Be1 h5 36.Kh2 Kh6
+37.Rd4 f3 38.Bh4 e3 39.gxf3 e2 40.Be1 Bxf3 41.Bd2+ Kh7 42.Rc7+ Rg7 43.Rxg7+ Kxg7
+44.Kg3 Bc6 45.Kf2 Kg6 46.a4 a6 47.Be1 Kf5 48.Bd2 Kg6 49.Be1 Be4 50.Kxe2 Bf5+
+51.Kf2 Bxh3 52.Bb4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.03"]
+[Round "8.3"]
+[White "Caruana,F"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2804"]
+[BlackElo "2748"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 O-O 13.h4 a5 14.g3 Be6 15.Bh3 Rb8
+16.Qd3 Qd7 17.Nxf6+ gxf6 18.Bf5 Qb7 19.Ne3 Nd4 20.O-O b3 21.a3 Kh8 22.Rac1 Rbc8
+23.Rfe1 Rc5 24.Qd1 Bxf5 25.Nxf5 Nxf5 26.exf5 Rd8 27.Qh5 Kg7 28.Rc3 h6 29.Ree3 a4
+30.Qe2 d5 31.Qf3 Rdc8 32.cxd5 Rxc3 33.Rxc3 Rxc3 34.Qxc3 Qxd5 35.Qb4 h5 36.Qxa4 Qd3
+37.g4 Qb1+ 38.Kg2 Qxb2 39.gxh5 Qc2 40.Qg4+ Kh7 41.h6 Kxh6 42.Qg8 Qxf5 43.Qf8+ Kh5
+44.f3 Kxh4 45.Qb4+ Qf4 46.Qxb3 Qd2+ 47.Kf1 Kg3 48.f4+ Kxf4 49.a4 f5 50.Qb5 Qd1+
+51.Kf2 Qc2+ 52.Kf1 f6 53.Qb4+ e4 54.Qb5 Kg3 55.Qe2 Qxe2+ 56.Kxe2 f4 57.a5 f3+
+58.Kf1 e3  0-1
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.03"]
+[Round "8.1"]
+[White "Radjabov,T"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2763"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 Bb7 6.Bg2 c5 7.d5 exd5 8.cxd5 Nxd5
+9.O-O Nc6 10.Rd1 Be7 11.Qa4 Nf6 12.Nh4 O-O 13.Nf5 d5 14.Nc3 Nd4 15.Nxd4 cxd4
+16.Qxd4 Bc5 17.Qh4 Ne4 18.Qxd8 Raxd8 19.Bxe4 dxe4 20.Be3 Bxe3 21.fxe3 Rxd1+
+22.Rxd1 Bc6 23.Nd5 Bxd5 24.Rxd5 Rc8 25.Rd7 h5 26.Rxa7 Rc2 27.Kf2 Rxb2 28.a4 g6
+29.a5 bxa5 30.Rxa5 f5 31.h4 Kg7 32.Ra7+ Kf6 33.Ra6+ Kf7 34.Ra7+ Kf6 35.Ra6+ Kf7
+36.Ra7+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.03"]
+[Round "8.2"]
+[White "Giri,A"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteElo "2790"]
+[BlackElo "2663"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3 c5 8.cxd5 exd5
+9.a3 Bxc3+ 10.Qxc3 Nd7 11.g3 O-O 12.Bg2 Re8 13.e3 b6 14.O-O Bb7 15.Rfc1 a5
+16.dxc5 Qxc3 17.Rxc3 Nxc5 18.Rac1 Kf8 19.Nd4 Rad8 20.Bf1 Re7 21.Bb5 g6 22.b4 axb4
+23.axb4 Ne4 24.Rc7 Nd6 25.Rxe7 Kxe7 26.Rc7+ Kf8 27.Bd3 Rb8 28.g4 Ke8 29.Bb5+ Kf8
+30.Bd7 Bc8 31.h3 Bxd7 32.Rxd7 Ne4 33.Nc6 Ra8 34.Ne5 Ra1+ 35.Kg2 Ra2 36.Rxf7+ Kg8
+37.h4 Rb2 38.Rf4 Kg7 39.Nc6 b5 40.Nd8 Rxb4 41.Ne6+ Kg8 42.Rf8+ Kh7 43.Rf7+ Kh8
+44.Rf8+ Kh7 45.Rf7+ Kh8 46.f3 Rb2+ 47.Kh3 Re2 48.Rf8+ Kh7 49.Rf7+ Kh8 50.Rf8+ Kh7
+51.fxe4 Rxe3+ 52.Kh2 Rxe4 53.Rf7+ Kh8 54.Rf8+ Kh7 55.Rf7+ Kh8 56.Nc7 Kg8
+57.Rd7 Rxg4 58.Kh3 Rc4 59.Nxd5 Kf8 60.Nf6 Rc6 61.Ng4 Rb6 62.Nxh6 b4 63.Rf7+ Ke8
+64.Rf2 b3 65.Rb2 Ke7 66.Ng4 Ke6 67.Re2+ Kf7 68.Rb2 Ke6 69.Kg3 Rb5 70.Nf2 Kf6
+71.Ne4+ Kg7 72.Ng5 Kh6 73.Nf3 Rb4 74.Kf2 Kh5 75.Ke3 Rb8 76.Ke4 Rb4+ 77.Kd5 Kg4
+78.Ne5+ Kh5 79.Nf3 Kg4 80.Kc5 Rb8 81.Ne5+ Kh5 82.Nc6 Rb7 83.Na5 Rb8 84.Nc6 Rb7
+85.Ne5 Rb8 86.Kc4 Rc8+ 87.Kd4 Rb8 88.Kc3 Rb5 89.Nf3 Rb8 90.Nd4 Kxh4 91.Nxb3 g5
+92.Rh2+ Kg3 93.Rh7 g4 94.Nd2 Rg8 95.Kd3 Kg2 96.Nc4 Rf8 97.Nd2 g3 98.Rg7 Ra8
+99.Ke3 Ra3+ 100.Kf4 Kg1 101.Nc4 g2 102.Nxa3 Kf2 103.Rxg2+ Kxg2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.03"]
+[Round "8.5"]
+[White "Mamedov,Rau"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2765"]
+[ECO "B11"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d4 Nf6 7.Bd3 dxe4 8.Nxe4 Qxd4
+9.c3 Qd8 10.O-O Nxe4 11.Bxe4 Bd6 12.Rd1 Qc7 13.Qd3 Be5 14.Bxh7 Nd7 15.Be4 O-O-O
+16.Qf3 Nf6 17.Bg5 Qa5 18.Bxf6 gxf6 19.Rxd8+ Rxd8 20.Qe2 Bc7 21.Bf3 f5 22.a4 Bb8
+23.Kf1 a6 24.Qe3 Bc7 25.Qe2 Kb8 26.Bh5 Qc5 27.Rd1 Rxd1+ 28.Qxd1 Qc4+ 29.Be2 Qh4
+30.Qd4 Qxd4 31.cxd4 Bb6 32.Bh5 Kc7 33.Bxf7 Kd6 34.Ke2 Bxd4 35.b3 b5 36.axb5 cxb5
+37.g4 Ke7 38.Bg8 fxg4 39.hxg4 a5 40.f4 a4 41.bxa4 bxa4 42.Bh7 a3 43.Bb1 e5
+44.fxe5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.03"]
+[Round "8.4"]
+[White "Safarli,E"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2779"]
+[ECO "B13"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 Nc6 6.Bg5 Be6 7.Be2 Qa5 8.Bf3 dxc4
+9.d5 O-O-O 10.Bd2 Nxd5 11.Nxd5 Rxd5 12.Bxd5 Qxd5 13.Nf3 Bf5 14.O-O e6 15.b3 Bd3
+16.bxc4 Qf5 17.Re1 Bc5 18.Be3 Bb4 19.Bd2 Bc5 20.Be3 Bb4 21.Bd2 Bc5 22.Be3  1/2-1/2
+
+[Event "Gashimov Mem TB 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "1"]
+[White "Mamedyarov,S"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2804"]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qa4+ Bd7 6.Qb3 dxc4 7.Qxc4 O-O 8.Bf4 c6
+9.e4 b5 10.Qd3 c5 11.e5 Nh5 12.Bg5 cxd4 13.Qxd4 Nc6 14.Qe3 b4 15.Nd5 Be6
+16.Nf4 Nxf4 17.Bxf4 Qa5 18.b3 Bd5 19.Be2 Rad8 20.O-O Bxf3 21.Bxf3 Nxe5 22.Bxe5 Bxe5
+23.Rad1 Bf6 24.Qe2 e6 25.g3 Bd4 26.Kg2 Rd6 27.Rd2 Rfd8 28.Rfd1 e5 29.Be4 Qb6
+30.Qc4 Kg7 31.f4 exf4 32.gxf4 a5 33.h3 R8d7 34.Bf3 Bg1 35.Qc2 Rxd2+ 36.Rxd2 Rc7
+37.Qe4 Qe3 38.Qe5+ Qxe5 39.fxe5 Be3 40.Re2 Bg5 41.Bd5 Bf4 42.Kf3 g5 43.h4 h6
+44.hxg5 hxg5 45.Kg4 Rc5 46.e6 fxe6 47.Bxe6 Kf6 48.Bc4 Rc6 49.Re4 Rd6 50.Re8 Rd2
+51.Re2 Rxe2 52.Bxe2 Ke5 53.Bb5 Kd4 54.Ba4 Kc3  1/2-1/2
+
+[Event "Gashimov Mem TB 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2804"]
+[BlackElo "2746"]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 Qa5
+9.O-O d6 10.h3 Bd7 11.f4 Rfc8 12.Nf3 Be8 13.Qe1 e6 14.Rd1 Rd8 15.g4 b5 16.f5 b4
+17.Ne2 d5 18.fxe6 Nxe4 19.Nf4 Ne7 20.Bd4 Qc7 21.Bxg7 Kxg7 22.Nd4 f6 23.Bxd5 Nxd5
+24.Qxe4 Nxf4 25.Rxf4 Qe5 26.Qb7+ Kg8 27.Qf3 Rac8 28.e7 Qxe7 29.Rxf6 Rxd4
+30.Rxd4 Qe1+ 31.Qf1 Qe3+ 32.Qf2 Qc1+ 33.Qf1 Qe3+ 34.Qf2 Qc1+ 35.Qf1  1/2-1/2
+
+[Event "Gashimov Mem TB 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "3"]
+[White "Caruana,F"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2804"]
+[BlackElo "2746"]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 Qa5
+9.O-O d6 10.h3 Bd7 11.f4 Nxd4 12.Bxd4 Bc6 13.Qe2 Nd7 14.Bxg7 Kxg7 15.Rad1 Nc5
+16.Kh1 Rac8 17.Qe3 Nxb3 18.axb3 Qc5 19.Qe1 b5 20.Rf2 b4 21.Nd5 e6 22.Nxb4 Bxe4
+23.c3 d5 24.Nc2 a5 25.Nd4 Qe7 26.Ra1 Ra8 27.Qe3 f6 28.c4 e5 29.Nb5 exf4 30.Qxf4 dxc4
+31.bxc4 f5 32.Rd1 Rad8 33.Rfd2 Rxd2 34.Rxd2 g5 35.Qf2 g4 36.Qg3 Kh8 37.Nd6 gxh3
+38.Qxh3 Qg5 39.Rf2 Rf6 40.c5 Qc1+ 41.Kh2 Kg8 42.Qg3+ Rg6 43.Qf4 Rh6+ 44.Kg3 Rg6+
+45.Kh2 Qxf4+ 46.Rxf4 Rxg2+ 47.Kh3 Rxb2 48.Nxe4 fxe4 49.Rxe4 Rc2 50.Re5 a4
+51.Re4 a3 52.Ra4 Rc3+ 53.Kg4 Kf7 54.Kf4 h5 55.Ra7+ Ke6 56.Ke4 h4 57.Kd4 Rg3
+58.Ra6+ Ke7 59.Ke5 h3 60.c6 h2 61.Ra7+ Kd8 62.c7+ Kc8  0-1
+
+[Event "Gashimov Mem TB 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "4"]
+[White "Mamedyarov,S"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2804"]
+[ECO "A41"]
+
+1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 Bf5 7.Nc3 Ne4 8.Bd2 Nc6
+9.Nxe4 Bxe4 10.Bc3 d5 11.Qb3 dxc4 12.Qxc4 Qd7 13.Rfd1 Rfd8 14.d5 Bxd5 15.Qh4 Qf5
+16.Rxd5 Rxd5 17.e4 g5 18.Nxg5 Qxg5 19.exd5 Qxh4 20.gxh4 Nd4 21.Bxd4 Bxd4
+22.Rc1 Bb6 23.Be4 Kg7 24.Rc3 h6 25.Rf3 a5 26.a4 Bd4 27.b3 Ra6 28.Kg2 Rb6
+29.Bc2 Be5 30.Re3 Bd6 31.Re4 Kf6 32.h3 Be5 33.Re3 Rd6 34.Be4 Bf4 35.Re2 Rb6
+36.Bc2 Rd6 37.Be4 Rd8 38.Kf3 Bd6 39.Bd3 Rg8 40.Re1 Bb4 41.Rc1 Bd6 42.Re1 Be5
+43.Rc1 Rd8 44.Be4 Bd6 45.Rg1 Ke5 46.Rd1 Bc5 47.Rc1 Bb6 48.Re1 Rd6 49.Kg2 Rf6
+50.Bf3+ Kd6 51.Re4 Rf5 52.Rg4 Ba7 53.Rc4 Rf6 54.Rg4 Bc5 55.Rg8 Bd4 56.Rd8+ Kc5
+57.Rd7 Kb4 58.Rxc7 Kxb3 59.Rxb7+ Kxa4 60.Rxe7 Kb4 61.Rb7+ Kc3 62.Rc7+ Kd3
+63.Rc6 Rf4 64.d6 Bf6 65.d7 Bxh4 66.Rxh6 Be7 67.Rd6+ Rd4 68.Rxd4+ Kxd4 69.Bh5 f5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "9.5"]
+[White "Hou Yifan"]
+[Black "Mamedov,Rau"]
+[Result "0-1"]
+[WhiteElo "2663"]
+[BlackElo "2655"]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 c6 3.g3 g6 4.Qa4 d4 5.e3 dxe3 6.dxe3 Na6 7.Nc3 Nc5 8.Qc2 Bg7
+9.h3 Nf6 10.e4 O-O 11.Be3 Qa5 12.Bd2 Qb6 13.Rd1 Rd8 14.Be2 Be6 15.Kf1 h6
+16.g4 Qc7 17.b4 Ncd7 18.g5 hxg5 19.Nxg5 Nf8 20.Kg2 N6h7 21.h4 a5 22.a3 axb4
+23.axb4 Nxg5 24.hxg5 Qe5 25.Rc1 b5 26.Be3 Bxc4 27.Bxc4 bxc4 28.Ne2 c3 29.Nxc3 Qe6
+30.Rh3 Ra3 31.Nb1 Rb3 32.Nd2 Rc3 33.Qd1 Rcd3 34.Rc2 Nh7 35.Qh1 Nxg5 36.Bxg5 Qg4+
+37.Rg3 Rxg3+ 38.fxg3 Qxg5 39.Nf3 Qb5 40.Qe1 Qa4 41.Rd2 Rb8 42.e5 Bh6 43.Rd4 Qc2+
+44.Qf2 Qb3 45.Qe1 Be3 46.Rh4 Ra8 47.Kh3 Qd3 48.Rg4 e6 49.Ng5 Bxg5 50.Rxg5 Qf3
+51.Rg4 Kg7 52.Rh4 g5  0-1
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "9.4"]
+[White "Karjakin,Sergey"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2804"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 Be7 11.Bc2 d4 12.Nb3 d3 13.Nxc5 dxc2 14.Qxd8+ Rxd8 15.Nxe6 fxe6
+16.Be3 Rd5 17.Rfc1 Nxe5 18.Nxe5 Rxe5 19.Rxc2 Rd5 20.c4 Rd7 21.cxb5 axb5 22.a4 bxa4
+23.Kf1 Kf7 24.Rxa4 Rb8 25.Rac4 c5 26.Bxc5 Bxc5 27.Rxc5 Rd1+ 28.Ke2 Rb1 29.g3 R1xb2
+30.Rxb2 Rxb2+ 31.Kf3 Rb3+ 32.Ke2 Rb2+ 33.Kf3 Rb3+ 34.Ke2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "9.2"]
+[White "Harikrishna,P"]
+[Black "Safarli,E"]
+[Result "0-1"]
+[WhiteElo "2763"]
+[BlackElo "2664"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb4 6.Qa4 c5 7.dxc5 Bxc5 8.Bg2 Bb7
+9.b4 Be7 10.Bb2 O-O 11.O-O Nc6 12.a3 a6 13.Qc2 h6 14.Rad1 Qc7 15.Ne4 Nxe4
+16.Qxe4 f5 17.Qe3 Rad8 18.Rd2 Bf6 19.Bxf6 Rxf6 20.c5 bxc5 21.Qxc5 d6 22.Qc4 Qb6
+23.Rc1 d5 24.Qc5 Qxc5 25.Rxc5 g5 26.e3 f4 27.Nd4 fxe3 28.fxe3 Ne5 29.Rc7 Ba8
+30.Re7 Rc8 31.Rd1 Ng4 32.Bh3 Nf2 33.Bxe6+ Rxe6 34.Rxe6 Nxd1 35.Nf5 Rc1 36.Re8+ Kh7
+37.Kg2 Bc6 38.Re7+ Kg6 39.Nd4 Bb5 40.h4 Bd3 41.Re6+ Kf7 42.Kf3 Be4+ 43.Ke2 Nc3+
+44.Kd2 Rd1+ 45.Kxc3 Rxd4 46.Rxa6 Rd3+ 47.Kb2 Rxe3 48.b5 Ke7 49.Rxh6 d4 50.b6 Re2+
+51.Kb3 d3 52.b7 d2 53.Rd6 Bxb7 54.Rd4 g4 55.Kc3 Rg2 56.h5 Rxg3+ 57.Kxd2 Rg1
+58.h6 g3 59.Rh4 g2 60.h7 Rd1+ 61.Kc3 g1=Q 62.h8=Q Qc5+  0-1
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "9.3"]
+[White "Mamedyarov,S"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2790"]
+[ECO "A49"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.O-O O-O 6.c3 Nbd7 7.Bf4 b6 8.a4 c5
+9.Nbd2 Bb7 10.a5 bxa5 11.Nb3 Qb6 12.dxc5 Nxc5 13.Be3 Qxb3 14.Bxc5 Qxd1 15.Rfxd1 Rfe8
+16.Rxa5 a6 17.Ne5 Rad8 18.Bb6 Rb8 19.Ba7 Rbd8 20.Bb6 Rb8 21.Bd4 e6 22.e3 Red8
+23.Bb6 Rdc8 24.Ba7 Ra8 25.Bd4 Rc7 26.Rda1 Nd7 27.Nxd7 Rxd7 28.Bf1 e5 29.Bc5 d4
+30.cxd4 exd4 31.Bxa6 Rxa6 32.Rxa6 Bxa6 33.Rxa6 f5 34.exd4 Bxd4 35.b4 Bxc5
+36.bxc5 Rd1+ 37.Kg2 Rc1 38.Rc6 Kf7 39.Kf3 g5 40.Ke3 Rc3+ 41.Kd4 Rf3 42.Ke5 Rxf2
+43.Rf6+ Ke8 44.Rxf5 Rxh2 45.Kd6 Rd2+ 46.Kc7 Rd7+ 47.Kb6 g4 48.Re5+ Kd8 49.Rg5 Rd3
+50.Rg8+ Ke7 51.Rxg4 Rb3+ 52.Kc7 Kf6 53.c6  1-0
+
+[Event "Vugar Gashimov Mem 2016"]
+[Site "Shamkir AZE"]
+[Date "2016.06.04"]
+[Round "9.1"]
+[White "Eljanov,P"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2726"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 g6 3.Nc3 d5 4.e3 Bg7 5.Be2 c6 6.h4 h6 7.Nf3 Qa5 8.Qd2 Bg4
+9.Ne5 Bxe2 10.Qxe2 Qa6 11.Qf3 Nbd7 12.a3 Nxe5 13.Bxe5 O-O 14.g4 Nd7 15.Bxg7 Kxg7
+16.h5 g5 17.e4 e6 18.Qe3 dxe4 19.Nxe4 Qa5+ 20.c3 Qc7 21.O-O-O Nb6 22.Kb1 Nd5
+23.Qd2 b5 24.Nc5 a5 25.Rhe1 Qf4 26.Qe2 Rad8 27.Nd3 Qd6 28.Qd2 Rb8 29.Qc2 Rfd8
+30.Nc5 Nf4 31.Qe4 Qd5 32.Nd3 Qxe4 33.Rxe4 Nxd3 34.Rxd3 a4 35.Kc2 Rd5 36.Re5 Rbd8
+37.Rde3 R8d7 38.Kd3 Kf8 39.Ke4 Ke7 40.Kf3 R7d6 41.Ke2 Rd8 42.Kf3 R8d6 43.Ke2 Rd8
+44.Kf3 R8d6  1/2-1/2

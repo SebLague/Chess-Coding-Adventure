@@ -1,0 +1,592 @@
+[Event "Mtel - Blindfold"]
+[Site "Sofia BUL"]
+[Date "2007.05.08"]
+[Round "1"]
+[White "Brunetti,Alex"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo "2772"]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 c6 3.c3 Bf5 4.Qb3 Qc8 5.Bf4 e6 6.e3 Nf6 7.h3 Be7 8.Nbd2 a5
+9.a4 O-O 10.Nh4 Be4 11.f3 Bg6 12.Nxg6 hxg6 13.Bd3 Nh5 14.Bh2 Bh4+ 15.Kd1 Bg3
+16.Bg1 Nd7 17.e4 Qc7 18.Be3 Nf4 19.Bf1 e5 20.Bxf4 Bxf4 21.exd5 cxd5 22.Qxd5 Nb6
+23.Qe4 exd4 24.cxd4 Rfe8 25.Qd3 Nd5 26.Nc4 Rad8 27.Be2 Qxc4 28.Qxc4 Ne3+
+29.Kd2 Nxc4+ 30.Kc3 Rxe2  0-1
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.10"]
+[Round "1"]
+[White "Topalov,V"]
+[Black "Nisipeanu,LD"]
+[Result "0-1"]
+[WhiteElo "2772"]
+[BlackElo "2693"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.g3 Nf6 5.Bg2 c6 6.d4 g6 7.Bf4 Qb4 8.Ne2 Bg7
+9.Qc1 O-O 10.O-O Bg4 11.a3 Qa5 12.h3 Bxe2 13.Nxe2 Nbd7 14.c4 e5 15.b4 Qc7
+16.dxe5 Nxe5 17.Qc2 a5 18.Rae1 axb4 19.axb4 Rfe8 20.c5 Nd5 21.Bd2 Nd7 22.Qc4 N7f6
+23.g4 h5 24.Ng3 hxg4 25.hxg4 Qd7 26.g5 Rxe1 27.Rxe1 Ne8 28.Bf3 Nec7 29.Bg4 Qd8
+30.Kg2 Nb5 31.Rd1 Ra1 32.Rxa1 Bxa1 33.Bf3 Be5 34.Ne2 Ndc7 35.Be3 Ne6 36.Bg4 Nbc7
+37.Qe4 Bg7 38.f4 Qd1 39.Kf2 Bc3 40.b5 Qe1+ 41.Kg2 Nd5 42.bxc6 bxc6 43.Qd3 Bd4
+44.Bxe6 Nxe3+ 45.Kh2 Qf2+ 46.Kh3 Qf3+ 47.Ng3 Qg2+  0-1
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.10"]
+[Round "1"]
+[White "Adams,Mi"]
+[Black "Sasikiran,K"]
+[Result "1/2-1/2"]
+[WhiteElo "2734"]
+[BlackElo "2690"]
+[ECO "B14"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6
+9.Be2 Nce7 10.O-O Bd7 11.Nxd5 Nxd5 12.Ne5 Bd6 13.Qb3 Qb6 14.Qf3 Bxe5 15.dxe5 Bb5
+16.Bxb5+ Qxb5 17.a4 Qb4 18.Qg3 g6 19.Bh6 O-O-O 20.Qf3 Rd7 21.Rac1+ Kb8 22.b3 Rc8
+23.Rxc8+ Kxc8 24.Rc1+ Kb8 25.g3 Qa3 26.Kg2 Qb2 27.Re1 Rc7 28.Bf8 Qc3 29.Qd1 Kc8
+30.Re4 h5 31.Bd6 Rc6 32.Rd4 Qb2 33.Rxd5 exd5 34.Qxd5 Qc2 35.e6 Rxd6 36.Qxd6 Qe4+
+37.Kg1 fxe6 38.Qc5+ Kd7 39.Qxa7 Qb1+ 40.Kg2 Qxb3 41.h4 Qd5+ 42.Kg1 Qd1+ 43.Kg2 Qd5+
+44.Kg1 Qd1+ 45.Kg2  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.10"]
+[Round "1"]
+[White "Mamedyarov,S"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2757"]
+[BlackElo "2705"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 Bg4 5.f3 Be6 6.Nge2 dxc4 7.Nf4 Qc8 8.e4 g6
+9.g4 Bg7 10.h4 h6 11.b3 cxb3 12.axb3 Nbd7 13.Nxe6 fxe6 14.e5 Qc7 15.exf6 Qg3+
+16.Ke2 Nxf6 17.Qd3 O-O-O 18.Rxa7 Kb8 19.Ra4 Rhf8 20.Rh3 Qc7 21.Be3 e5 22.Qc4 Nd5
+23.Nxd5 Rxd5 24.Qd3 exd4 25.Bd2 Rf6 26.Kd1 Re6 27.f4 Qb6 28.Bg2 Rc5 29.Rc4 Rb5
+30.f5 gxf5 31.gxf5 Rd6 32.Kc2 Qa7 33.Kb2 Re5 34.Ra4 Qb6 35.Bf4 Re2+ 36.Kb1 Rxg2
+37.Rg3 Rxg3 38.Qxg3  1-0
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.11"]
+[Round "2"]
+[White "Sasikiran,K"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2757"]
+[ECO "A40"]
+
+1.d4 g6 2.Nf3 Bg7 3.c3 d6 4.e4 Nf6 5.Bd3 O-O 6.O-O Nbd7 7.Re1 e5 8.Bg5 h6
+9.Bh4 g5 10.Bg3 Nh5 11.Nbd2 exd4 12.Nxd4 Nxg3 13.hxg3 Ne5 14.Bc2 Re8 15.Nf1 Bg4
+16.f3 c5 17.Nf5 Bxf5 18.exf5 Qb6 19.Rb1 Nd7 20.Ne3 c4 21.Qd2 Nf6 22.Kh2 Qc5
+23.b3 cxb3 24.Bxb3 Re5 25.Nc4 Rd5 26.Qe3 Qc6 27.Rbd1 Rxd1 28.Rxd1 d5 29.Ne5 Qc7
+30.Ng4 h5 31.Nxf6+ Bxf6 32.f4 gxf4 33.Qxf4 Qxf4 34.gxf4 Rd8 35.Bxd5 b5 36.Kh3 Kf8
+37.Bf3 Rxd1 38.Bxd1 h4 39.Be2 a6 40.Kg4 Kg7 41.Bf3 Bxc3 42.Kxh4 b4 43.Bd1 a5
+44.Kg4 f6 45.Bb3 Bd2 46.Kf3 Bc1 47.g3 Bd2 48.Ke4 Be1 49.Kf3 Bd2 50.Ke4 Be1
+51.Kf3 Bd2 52.Ke4  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.11"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2734"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.Re1 c5 14.cxd5 exd5 15.e3 Nf6
+16.Qb1 Qd7 17.Qb2 cxd4 18.Bxd4 Bd3 19.Rac1 h5 20.Nf3 Be4 21.Ne5 Qe6 22.f3 Bf5
+23.b4 Rfe8 24.b5 Rxc1 25.Rxc1 Bc5 26.Qc3 Bh3 27.Re1 h4 28.Nc6 Nd7 29.Bxg7 hxg3
+30.hxg3 Qg6 31.Bxh3 Qxg3+ 32.Bg2 Qxg7 33.Qxg7+ Kxg7 34.Kf2 f5 35.f4 Nf6 36.Bf3 Ne4+
+37.Ke2 Nc3+ 38.Kd3 Nxb5 39.Ne5 Kf6 40.a4 Nc7 41.Rh1 Rxe5 42.fxe5+ Kxe5 43.Rh7 Ne6
+44.Rxa7 b5 45.Ra8 bxa4 46.Rxa4 f4 47.exf4+ Nxf4+ 48.Rxf4 Kxf4 49.Bxd5 Ke5  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.11"]
+[Round "2"]
+[White "Nisipeanu,LD"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2705"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 Qb6 5.e3 Bg4 6.h3 Bxf3 7.Qxf3 e6 8.Bd3 Bb4
+9.O-O O-O 10.Qe2 Nbd7 11.Bd2 a5 12.Rfd1 Rfe8 13.Rab1 Bf8 14.Be1 g6 15.Qc2 Qa7
+16.Bf1 Nb6 17.b3 Nc8 18.Qb2 Nd6 19.c5 Nde4 20.a3 Nxc3 21.Bxc3 Ne4 22.Be1 e5
+23.b4 exd4 24.exd4 axb4 25.axb4 Bg7 26.h4 Qa3 27.Qxa3 Rxa3 28.b5 Bf6 29.g3 g5
+30.bxc6 bxc6 31.Rb6 gxh4 32.gxh4 Re6 33.Bd3 Bxd4 34.Bxe4 Rxe4 35.Rxc6 Bc3
+36.Bxc3 Rxc3 37.Rxd5 Rxh4 38.Rg5+ Kf8 39.Rf5 Rg4+ 40.Kf1 Rc1+ 41.Ke2 Re4+
+42.Kd2 Rcc4 43.Rc7 Rcd4+ 44.Kc3 Rc4+ 45.Kd2 Rcd4+ 46.Kc3 Rc4+ 47.Kd3  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.12"]
+[Round "3"]
+[White "Mamedyarov,S"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2757"]
+[BlackElo "2772"]
+[ECO "D43"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3 Nd7 8.e4 dxe4
+9.Nxe4 Qf4 10.Bd3 e5 11.O-O exd4 12.Nxd4 Nc5 13.Nxc5 Bxc5 14.Rae1+ Kf8 15.Re4 Qf6
+16.Qc3 a5 17.Rfe1 Bd7 18.R1e3 Bb4 19.Qc2 Qd6 20.Rf3 h5 21.c5 Bxc5 22.Bc4 f6
+23.Ne6+ Bxe6 24.Rxe6 Qd7 25.Qf5 Qd4 26.Re4 Qd1+ 27.Bf1 Bd6 28.Rd3 Bxh2+ 29.Kxh2 Qxf1
+30.Rd7  1-0
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.12"]
+[Round "3"]
+[White "Adams,Mi"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteElo "2734"]
+[BlackElo "2693"]
+[ECO "C07"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd6 7.O-O Nf6 8.Nb3 Nc6
+9.Nbxd4 Nxd4 10.Nxd4 a6 11.Re1 Bd7 12.Bg5 Qc5 13.Bxe6 fxe6 14.Bxf6 gxf6 15.Nxe6 Bxe6
+16.Rxe6+ Be7 17.b4 Qc3 18.Re3 Qc7 19.Qh5+ Kf8 20.Rae1 Re8 21.Qh6+ Kf7 22.Qh5+ Kf8
+23.Qh6+ Kf7 24.c3 Rhg8 25.Qxh7+ Rg7 26.Qh5+ Kf8 27.g3 Qd7 28.Re6 Rg5 29.Qh8+ Kf7
+30.Qh7+ Rg7 31.Qh5+ Rg6 32.c4 Kg7 33.Qd5 Qc7 34.Qe4 Kf7 35.c5 Qd7 36.Qf5 Kg7
+37.Qe4 Kf7 38.Qf5 Kg7 39.Qh5  1-0
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.12"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Sasikiran,K"]
+[Result "0-1"]
+[WhiteElo "2705"]
+[BlackElo "2690"]
+[ECO "D27"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 dxc4 4.e3 a6 5.Bxc4 e6 6.O-O c5 7.dxc5 Qxd1 8.Rxd1 Bxc5
+9.b3 Nbd7 10.Bb2 b6 11.Nc3 Bb7 12.Rac1 Be7 13.Ne2 Rc8 14.Nf4 b5 15.Be2 O-O
+16.Nd4 Nc5 17.Bf3 Nce4 18.Nd3 Bd6 19.Ne2 Rfd8 20.Ne5 Bb8 21.Rxc8 Rxc8 22.Ng3 Bd5
+23.Nd3 a5 24.b4 a4 25.a3 Nc3 26.Rc1 Bxf3 27.gxf3 Bxg3 28.Rxc3 Rxc3 29.Bxc3 Nd5
+30.Bd4 Bd6 31.f4 f6 32.Kg2 Kf7 33.Kf3 h6 34.e4 Nxf4 35.Nxf4 e5 36.Ne2 exd4
+37.Nxd4 Bxh2 38.Nxb5 Be5 39.Ke3 g5 40.Nd4 h5 41.Nf5 h4 42.Ke2 Ke6 43.Ne3 h3
+44.Kf1 Bd4 45.Kg1 Bxe3 46.fxe3 g4  0-1
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.13"]
+[Round "4"]
+[White "Sasikiran,K"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2690"]
+[BlackElo "2772"]
+[ECO "E92"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.Be3 Ng4 8.Bg5 f6
+9.Bh4 g5 10.Bg3 Nh6 11.d5 Nd7 12.h3 f5 13.exf5 Nc5 14.Nd2 Bxf5 15.O-O e4
+16.Nb3 b6 17.Nd4 Qf6 18.Nc6 a5 19.f4 Bd7 20.Nb5 Bxc6 21.dxc6 Qxb2 22.Rb1 Qxa2
+23.Nxc7 Nf5 24.Bf2 e3 25.Be1 Nd4 26.Nxa8 Nxe2+ 27.Kh2 Nxf4 28.Rxf4 gxf4 29.Rxb6 f3
+30.Qd5+ Ne6 31.Qxe6+ Kh8 32.Qg4 Be5+ 33.Kh1 f2  0-1
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.13"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2734"]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.c3 Bg4 8.h3 Bh5
+9.d3 Nd7 10.Be3 h6 11.Nbd2 Bg5 12.Bxc6 bxc6 13.d4 Bxe3 14.Rxe3 O-O 15.b4 a5
+16.a3 axb4 17.axb4 Qf6 18.Ra5 exd4 19.cxd4 c5 20.Qa1 Nb6 21.e5 Qg6 22.dxc5 dxc5
+23.g4 Bxg4 24.hxg4 Qxg4+ 25.Kf1 cxb4 26.Rxa8 Rxa8 27.Qd4 Qxd4 28.Nxd4 c5
+29.Nc6 Nd5 30.Re1 Ra6 31.Nd8 Ra2 32.Nc4 Rc2 33.Na5 c4 34.e6 fxe6 35.Nxe6 b3
+36.Nd4 Ra2 37.Nxc4 Ra4 38.Re8+ Kh7 39.Nxb3 Rxc4 40.Nd2 Rc2 41.Ne4 Nf4 42.f3 g5
+43.Ra8 Rc6 44.Rd8 Kg6 45.Rd6+ Rxd6 46.Nxd6 h5 47.Kf2 h4 48.Ne4 Kf5 49.Nd6+ Ke5
+50.Nf7+ Kf6 51.Nd6 Nd5 52.Ne4+ Kf5 53.Nc5 Ke5 54.Nd7+ Kd4 55.Nf8 Nf4 56.Nh7 Ne6
+57.Nf6 Ke5 58.Ng4+ Kf5 59.Ke3 Nf4 60.Nh6+ Kg6 61.Ng4 Nd5+ 62.Ke2 Kf5 63.Nf2 Ke5
+64.Kf1 Nf4 65.Ng4+ Kd4 66.Kf2 Nd3+ 67.Ke2 Ne5 68.Nf2 Ng6 69.Ng4 Kd5 70.Kf2 Ne5
+71.Nf6+ Ke6 72.Ne4 Kf5 73.Nc5 Nc4 74.Nd3 Ne5 75.Nc5 Nc6 76.Nd3 Nd4 77.Nc5 Ne6
+78.Nd3 Nf4 79.Nb4 Ke6 80.Nc6 Nd5 81.Nd4+ Kd6 82.Nb3 Nf4 83.Nd4 Ke5 84.Nc6+ Ke6
+85.Nd4+ Kd5 86.Nf5 Ke5 87.Ne3 Nd3+ 88.Kg2 Nf4+ 89.Kf2 Ne6 90.Nc2 Nc5 91.Ne3 Ne6
+92.Nc2 Nd4 93.Nb4 Ne6 94.Nc2  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.13"]
+[Round "4"]
+[White "Mamedyarov,S"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2693"]
+[ECO "E10"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5 5.dxe6 fxe6 6.cxb5 d5 7.Nc3 Nbd7 8.e4 d4
+9.e5 Ng4 10.Ne4 Bb7 11.Nfg5 Ndxe5 12.f4 Bxe4 13.fxe5 Bf5 14.Bd3 Bxd3 15.Qxd3 Nxe5
+16.Qh3 Qf6 17.Nxe6 Nd3+ 18.Ke2 c4 19.Nc7+ Kd8 20.Ne6+ Ke8 21.Nc7+ Kd8 22.Ne6+ Ke8  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.14"]
+[Round "5"]
+[White "Nisipeanu,LD"]
+[Black "Sasikiran,K"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2690"]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 dxc4 3.Na3 a6 4.Nxc4 b5 5.Ne3 Bb7 6.g3 Nf6 7.Bg2 Nbd7 8.O-O e6
+9.b3 c5 10.Bb2 Be7 11.Qc2 O-O 12.Rfd1 Qb6 13.Rac1 Rac8 14.Qb1 Rfd8 15.Qa1 Ne8
+16.d4 Ndf6 17.Ba3 Ne4 18.dxc5 Nxc5 19.Bb2 Bf6 20.Ne1 Bxg2 21.Kxg2 h6 22.Nf3 Ne4
+23.Rxc8 Rxc8 24.Rc1 Rd8 25.Rd1 Rc8 26.Rc1 Rd8 27.Rd1  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.14"]
+[Round "5"]
+[White "Adams,Mi"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2734"]
+[BlackElo "2757"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6
+9.Re1 Be7 10.e5 Nd7 11.Qg4 g6 12.b3 c5 13.Bh6 Bb7 14.Na4 Qc7 15.Qf4 Bf8 16.Bxf8 Rxf8
+17.c4 f6 18.cxd5 fxe5 19.Qe3 exd5 20.Rac1 e4 21.f3 Qf4 22.Qxf4 Rxf4 23.fxe4 dxe4
+24.Nxc5 Nxc5 25.Rxc5 Kf8 26.Bc4 Re8 27.Rf1 Rxf1+ 28.Kxf1 Re7 29.Ke2 Rd7 30.Ke3 Ke7
+31.h4 Kd6 32.b4 Ke7 33.g4 Kd8 34.Be2 h6 35.a3 Rd6 36.g5 hxg5 37.hxg5 Rd7
+38.Ra5 Rd6 39.Re5 Kc7 40.Rc5+ Kb8 41.Re5 Rc6 42.Kd4 Rd6+ 43.Kc3 Rc6+ 44.Bc4 Rc7
+45.a4 Ka7 46.a5 Kb8 47.Kd4 Rd7+ 48.Ke3 Ka7 49.Re6 Rc7 50.Kd4 Rd7+ 51.Ke3 Rc7
+52.Kd4 Rd7+ 53.Ke5 e3 54.Kf6 Rc7 55.Bxa6 Bxa6 56.Rxe3 Rc6+ 57.Re6 Rxe6+ 58.Kxe6 Bb5
+59.Kf6 Bd3 60.b5 Bxb5 61.Kxg6 Bd3+ 62.Kf6 Ka6 63.g6 Bxg6 64.Kxg6 Kxa5  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.14"]
+[Round "5"]
+[White "Topalov,V"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2705"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.Bg2 Bb4+ 7.Bd2 Bxd2+ 8.Qxd2 c6
+9.Ne5 Nfd7 10.Nc3 Nxe5 11.dxe5 Nd7 12.f4 Qe7 13.O-O Rd8 14.Rfd1 O-O 15.Qe3 Rfe8
+16.a4 Qb4 17.Na2 Qc5 18.Rd4 f6 19.cxd5 fxe5 20.fxe5 exd5 21.b4 Qe7 22.b5 Bb7
+23.bxc6 Bxc6 24.Nb4 Nxe5 25.Rc1 Kh8 26.Nxc6 Nxc6 27.Qxe7 Nxe7 28.Rc7 Rc8
+29.Rxc8 Rxc8 30.Bxd5 Nxd5 31.Rxd5 Kg8 32.a5 bxa5 33.Rxa5 Rc7 34.e4 Kf7 35.Kg2 Rc2+
+36.Kh3 Rc4 37.Rxa7+ Kf8 38.e5 Rc5 39.e6 Re5 40.Rf7+ Kg8 41.Re7 Kf8 42.Rf7+ Kg8
+43.Re7  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.16"]
+[Round "6"]
+[White "Sasikiran,K"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2734"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 b5 14.Re1 dxe4 15.Nxe4 bxc4
+16.Qe2 Rb8 17.Bf1 Nf6 18.Nc5 Nd5 19.Nxa6 Nxc3 20.Qxc4 Nb5 21.Nxb8 Qxb8 22.a4 Nd6
+23.Qxc6 Nf5 24.Rad1 Bf6 25.Qe4 Qxb3 26.d5 Nd6 27.Qe3 Qxe3 28.Rxe3 e5 29.Rc3 Bd8
+30.Rc6 Nf5 31.d6 Bb6 32.d7 Rd8 33.Rc8 Kf8 34.Rd5  1-0
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.16"]
+[Round "6"]
+[White "Kamsky,G"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2705"]
+[BlackElo "2757"]
+[ECO "B08"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.h3 O-O 6.Be3 c6 7.Qd2 b5 8.Bd3 Nbd7
+9.O-O Qc7 10.Ne2 c5 11.c3 e5 12.Ng3 c4 13.Bc2 Re8 14.a4 bxa4 15.Bxa4 exd4
+16.Nxd4 a6 17.Bh6 Bh8 18.Ndf5 Re6 19.Rfd1 Nc5 20.Nxd6 Bb7 21.Nxb7 Qxb7 22.f3 Nd3
+23.b3 Bg7 24.Bxg7 Kxg7 25.bxc4 Nb2 26.Rdb1 Qa7+ 27.Kh1 Nxc4 28.Qg5 Rc8 29.Nf5+ Kh8
+30.Nd4 Rb6 31.Rxb6 Qxb6 32.Bb3 Rc5 33.Qh6 Kg8 34.Re1 Rh5 35.Qf4 Rc5 36.e5 Nh5
+37.Qh4 Nxe5 38.f4 Rxc3 39.fxe5 Rxb3 40.e6 fxe6 41.Nxb3 Qxb3 42.Qd8+ Kg7 43.Qe7+ Kh6
+44.Qf8+  1-0
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.16"]
+[Round "6"]
+[White "Nisipeanu,LD"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2693"]
+[BlackElo "2772"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nde2 Be6 8.f4 g6
+9.h3 h5 10.fxe5 dxe5 11.Qxd8+ Kxd8 12.O-O-O+ Nbd7 13.Ng1 Rc8 14.Bd3 Bh6 15.Bxh6 Rxh6
+16.Nf3 Ke7 17.Ng5 h4 18.Be2 Rc5 19.Rhf1 Rh8 20.Rd3 Rhc8 21.Kd2 b5 22.a3 a5
+23.b4 axb4 24.axb4 R5c6 25.Rdf3 Bc4 26.Bxc4 Rxc4 27.Ra1 Rxb4 28.Nd5+ Nxd5
+29.Rxf7+ Kd6 30.exd5 Rd4+ 31.Kc1 Nc5 32.Raa7 e4 33.Ne6 Rc4 34.Nxc5 R8xc5
+35.Rad7+ Ke5 36.Rf2 b4 37.Re7+ Kd6 38.Rb7 Kxd5 39.Kb2 e3 40.Re2 Re4 41.Kb3 Ke5
+42.Rf7 g5 43.Rf8 Rd5 44.c4 Rd7 45.Re1 Rd2 46.Kxb4 Rxg2 47.Kc3 Rg3 48.Re8+ Kf5
+49.Rf1+ Kg6 50.Rxe4 e2+ 51.Rf3 Rxf3+ 52.Kd2 Rxh3 53.c5 Ra3 54.c6 Ra2+  0-1
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.17"]
+[Round "7"]
+[White "Adams,Mi"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2734"]
+[BlackElo "2772"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.g3 g6 4.Bg2 Bg7 5.Nge2 Nc6 6.d3 e5 7.a3 Nge7 8.Rb1 Be6
+9.b4 Qd7 10.Nd5 Nd4 11.O-O b6 12.bxc5 bxc5 13.Nxe7 Qxe7 14.Nxd4 cxd4 15.f4 f6
+16.f5 Bf7 17.c3 dxc3 18.Qa4+ Qd7 19.Qxd7+ Kxd7 20.Rb7+ Ke8 21.Rc7 Rd8 22.Bh3 d5
+23.exd5 Rxd5 24.Rxc3 gxf5 25.Be3 Be6 26.Bg2 Rd6 27.Rc7 Bd7 28.Rb1 Kf7 29.Rbb7 Rd8
+30.d4 Kg6 31.Rxa7 Bh6 32.Bxh6 Kxh6 33.dxe5 fxe5 34.Bf1 f4 35.gxf4 exf4 36.Ra6 Rxa6
+37.Bxa6 Bg4 38.Rc2 Rd1+ 39.Kf2 Ra1 40.Be2 Bxe2 41.Rxe2 Rxa3 42.Re8 Kg5 43.Rg8+ Kh4
+44.Rf8 Kg4 45.Rg8+ Kh3 46.Rh8 Ra7 47.Rf8 h5 48.Rxf4 Ra2+ 49.Kg1 Ra1+ 50.Rf1 Rxf1+
+51.Kxf1 Kxh2 52.Kf2  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.17"]
+[Round "7"]
+[White "Kamsky,G"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2693"]
+[ECO "B47"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 Nf6 7.O-O a6 8.Be3 Bb4
+9.Na4 Be7 10.c4 Nxe4 11.c5 O-O 12.Rc1 Rb8 13.g3 Nf6 14.Bf3 g6 15.Nb6 e5 16.Nb3 d6
+17.cxd6 Bxd6 18.Bxc6 bxc6 19.Qf3 Bf5 20.Qxc6 Qxc6 21.Rxc6 Be7 22.Bc5 Bxc5
+23.Nxc5 Kg7 24.Re1 Rbd8 25.Nc4 Rc8 26.Rxc8 Rxc8 27.b4 Ne4 28.Nxe4 Rxc4 29.Nd6 Rxb4
+30.Nxf5+ gxf5 31.Rxe5 Ra4 32.Rxf5 h6 33.Kg2 Rxa2 34.Rc5 a5 35.g4 a4 36.Ra5 Ra3
+37.Ra6 Kh7 38.f3 Ra1 39.f4 Ra2+ 40.Kg3 Ra3+ 41.Kh4 Ra2 42.h3 Ra3 43.g5 hxg5+
+44.fxg5 Ra1 45.Kg3 Rg1+ 46.Kf2 Rxg5 47.Rxa4  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.17"]
+[Round "7"]
+[White "Mamedyarov,S"]
+[Black "Sasikiran,K"]
+[Result "0-1"]
+[WhiteElo "2757"]
+[BlackElo "2690"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 d6 3.Bg2 g6 4.Nc3 Bg7 5.d3 f5 6.e4 Nf6 7.Nge2 a5 8.exf5 gxf5
+9.d4 O-O 10.Bg5 Qe8 11.O-O h6 12.Bxf6 Bxf6 13.c5 Nc6 14.Nb5 Qe7 15.Nec3 Qg7
+16.cxd6 cxd6 17.d5 Nd4 18.Nxd4 exd4 19.Nb5 f4 20.Nxd6 Bg4 21.Qd3 Be7 22.Nb5 f3
+23.Bh1 Bc5 24.d6 Kh8 25.Rad1 Rad8 26.a3 Bb6 27.Rfe1 Bf5 28.Qd2 Qf6 29.Re7 Bd7
+30.Rde1 Qg5 31.Qd3 Qf5 32.Qd2 Qg5 33.Qc2 Qf5 34.Qxf5 Rxf5 35.Nc7 d3 36.Rd1 Rc5
+37.Bxf3 Rc2 38.Rf1 Bh3 39.Ne6 Bxf2+ 40.Kh1 Bxf1 41.d7 Rg8  0-1
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.18"]
+[Round "8"]
+[White "Sasikiran,K"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2690"]
+[BlackElo "2705"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.e3 b5 6.c5 g6 7.Bd3 Bg7 8.h3 Bf5 9.Bxf5 gxf5
+10.Qc2 Qc8 11.Ne5 Ne4 12.Nd3 Nd7 13.Ne2 Bf6 14.Bd2 Rg8 15.g3 e6 16.O-O-O h5
+17.Rdg1 Qc7 18.Nef4 Nxd2 19.Qxd2 h4 20.g4 e5 21.Ne2 e4 22.Ndf4 fxg4 23.hxg4 Bg5
+24.Nh3 f6 25.Nef4 Nf8 26.f3 exf3 27.Rf1 O-O-O 28.Rxf3 Re8 29.a4 Bh6 30.Nf2 Nh7
+31.Ng2 Re6 32.Rxh4 Bg5 33.Rhh3 Rge8 34.Kb1 Nf8 35.Nf4 Bxf4 36.Rxf4 Nh7 37.axb5 axb5
+38.Rf5 Ng5 39.Rh1 Rxe3 40.Rxf6 Nf3 41.Rxf3 Rxf3 42.Nd3 Ref8 43.Qe2 Qf7 44.Rh6 Rf1+
+45.Kc2 Rf6 46.Rxf6 Qxf6 47.g5 Qg6 48.Kc3 Qe4 49.Qxe4 dxe4 50.Ne5 Kc7 51.Kd2 Rf2+
+52.Ke3 Rxb2 53.Kxe4 Rg2 54.d5 cxd5+ 55.Kxd5 Rxg5 56.Kd4 Rh5 57.Nd3 Rh4+ 58.Kc3 Kc6
+59.Kb3 Kd5 60.Kc2 Kc4  0-1
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.18"]
+[Round "8"]
+[White "Nisipeanu,LD"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2693"]
+[BlackElo "2734"]
+[ECO "C96"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.Kh1 Re8 13.d5 Nb6 14.b3 Bd7 15.Be3 Qc7 16.g4 c4
+17.b4 Nb7 18.Nbd2 a5 19.a3 Ra6 20.Nf1 Rea8 21.Bc1 Nd8 22.Ne3 axb4 23.cxb4 f6
+24.Nf5 Bc8 25.Rg1 Nf7 26.h4 Bd8 27.Rg3 Kh8 28.g5 g6 29.Ne3 fxg5 30.hxg5 Kg8
+31.Kg2 Na4 32.Qe1 Bd7 33.Qh1 Qc8 34.Qh2 Nc3 35.Kf1 Be7 36.Bb2 Na4 37.Bc1 Bf8
+38.Qh4 Be7 39.Qh2 Bf8 40.Qh4 Be7 41.Nf5 Qf8 42.Nh2 h6 43.Ng4 hxg5 44.Bxg5 Nxg5
+45.Ngh6+ Kh7 46.Nf7+ Kg8 47.N7h6+ Kh7 48.Nf7+ Kg8 49.Nxg5 Bxg5 50.Rxg5 Be8
+51.Kg2 R8a7 52.Rh1 Qf6 53.Nh6+  1-0
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.18"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2757"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6
+9.Re1 Be7 10.Qf3 O-O 11.Bg5 d4 12.Na4 e5 13.b3 Nd7 14.Bxe7 Qxe7 15.c3 c5
+16.Rac1 Qd6 17.Qg3 Bb7 18.Rc2 Rac8 19.Rec1 Qh6 20.Nb2 f5 21.exf5 e4 22.Bc4+ Kh8
+23.cxd4 cxd4 24.Bf1 Qxc1 25.Rxc1 Rxc1 26.Qf4 Rc5 27.g4 Ne5 28.Nc4 Nf3+ 29.Kg2 Nh4+
+30.Kh3 Nxf5 31.b4 Rc6 32.gxf5 Rxf5 33.Qb8+ Bc8 34.Kg2 Rf8 35.Qe5 Rg6+ 36.Kh1 e3
+37.Qe7 Rgf6 38.Ne5 exf2 39.h4 Be6 40.Kh2 Bxa2 41.Nd7 R6f7 42.Qc5 Re8 43.Qxd4 Rd8
+44.Qb2 Rfxd7 45.Qxa2 Rd4 46.Kg3 Rxb4 47.Qxf2 a5 48.h5 h6 49.Qf7 a4 50.Bc4 a3
+51.Qe7 Rdb8 52.Qd6 a2 53.Bxa2 R4b6 54.Qd3 Rb2 55.Bc4 R2b4 56.Qd6 R4b6 57.Qd5 Rb4
+58.Bd3 Rb3 59.Kf4 Rxd3 60.Qxd3 Rf8+ 61.Ke5 Rf6 62.Qd8+ Kh7 63.Qxf6 gxf6+
+64.Kxf6 Kh8  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.19"]
+[Round "9"]
+[White "Sasikiran,K"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2693"]
+[ECO "B38"]
+
+1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Bg7 6.Be3 Nf6 7.Nc3 O-O 8.Be2 b6
+9.O-O Bb7 10.f4 Nxd4 11.Bxd4 Rc8 12.Qd3 d6 13.Rad1 Qc7 14.Kh1 Rfe8 15.e5 dxe5
+16.fxe5 Nh5 17.Nd5 Bxd5 18.cxd5 Bxe5 19.Bxh5 Bxd4 20.Qxd4 gxh5 21.Rd3 e5
+22.Qh4 Qd6 23.Qxh5 Kh8 24.Rg3 f6 25.Qh6 Qf8 26.Qh4 Red8 27.h3 Rxd5 28.Rg6 Rd4
+29.Rgxf6 Rxh4 30.Rxf8+ Rxf8 31.Rxf8+ Kg7 32.Rf3 Rb4 33.b3 a5 34.Kh2 e4 35.Rf5 a4
+36.bxa4 Rxa4 37.Rb5 Rxa2 38.Rxb6 Ra3 39.Re6 Re3 40.Kg1 Kf7 41.Kf2 Rxh3 42.Rxe4  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.19"]
+[Round "9"]
+[White "Kamsky,G"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2772"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 c5 4.e3 cxd4 5.exd4 b6 6.Nbd2 Be7 7.h3 O-O 8.Bd3 Ba6
+9.Bxa6 Nxa6 10.O-O b5 11.c3 Nc7 12.a4 Ncd5 13.Bh2 a6 14.Qb3 Qb6 15.Ra2 d6
+16.Rfa1 Rab8 17.axb5 axb5 18.Ra6 Qd8 19.Ra7 Nc7 20.Ne1 Nfd5 21.Nd3 Qd7 22.Nb4 Nxb4
+23.Qxb4 Qc6 24.c4 Rfc8 25.cxb5 Qc2 26.Nf1 Nd5 27.Qd2 Qb3 28.Ne3 Bf8 29.Bg3 Nxe3
+30.Qxe3 Qxb5 31.Qf3 f6 32.R1a6 Rb6 33.Ra1 Qxb2 34.Bf4 d5 35.Be3 Qc2 36.Kh2 Qg6
+37.g3 h5 38.Ra8 Rbc6 39.R1a6 Qf7 40.Bf4 Rc3 41.Qe2 Rc2 42.Qe1 Rxa8 43.Rxa8 Qd7
+44.Qb1 Rc8 45.Rxc8 Qxc8 46.Qg6 Qc4 47.Be3 e5 48.dxe5 d4 49.e6 dxe3 50.Qf7+ Kh7
+51.Qxh5+  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.19"]
+[Round "9"]
+[White "Mamedyarov,S"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2734"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 b5 14.Re1 dxe4 15.Nxe4 bxc4
+16.Qe2 Rb8 17.Bf1 Qc8 18.bxc4 Nb6 19.Nd2 Na4 20.Ba5 c5 21.Qd1 Nb2 22.Qg4 Bd8
+23.Nb3 cxd4 24.Qxd4 Bf6 25.Qxa7 Ra8 26.Qc5 Nxc4 27.Rac1 Nxa5 28.Qxa5 Qd8
+29.Qxd8 Rfxd8 30.Bxa6 Rxa6 31.Re2 g6 32.Kf1 Kg7 33.Rcc2 Rd1+ 34.Re1 Rd8 35.Ree2 Rd1+
+36.Re1 Rd8 37.Ree2  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.20"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Sasikiran,K"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2690"]
+[ECO "E43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O d5 8.a3 Bd6
+9.cxd5 exd5 10.b4 Nbd7 11.b5 Ne4 12.Bb2 Re8 13.a4 Re6 14.Ne2 a5 15.Ba3 Rc8
+16.Bxd6 cxd6 17.Rc1 Ndf6 18.h3 Re7 19.Qb3 h6 20.Rxc8 Qxc8 21.Rc1 Rc7 22.Rxc7 Qxc7
+23.Qc2 Qe7 24.Qc1 g6 25.Nh2 Kg7 26.h4 Ne8 27.f3 N4f6 28.Nf1 h5 29.Nf4 Nd7
+30.Qe1 Nf8 31.Qg3 Kh6 32.Nxh5 gxh5 33.Qg8 f5 34.Ng3 Ng7 35.Bxf5 Ng6 36.Bxg6 Kxg6
+37.Nxh5 Qxe3+ 38.Kh2 Qe7 39.Nf4+ Kf6 40.g4 Qf7 41.Qd8+ Qe7 42.Qg8 Qf7 43.Qd8+ Qe7
+44.Qxe7+ Kxe7 45.Kg3 Ne6 46.Nxe6 Kxe6 47.f4 Bc8 48.f5+ Kf7 49.h5 Bd7 50.h6 Kg8
+51.Kf4 Be8 52.Kg5 Kf7 53.h7 Kg7 54.h8=Q+ Kxh8 55.Kf6 Bxb5 56.Ke7 Bd3 57.f6 Bg6
+58.f7 Bxf7 59.Kxf7  1-0
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.20"]
+[Round "10"]
+[White "Nisipeanu,LD"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2757"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 b6 7.a3 Bb7 8.Bd3 d6
+9.O-O Nd7 10.Nbd2 dxe5 11.dxe5 Be7 12.Ne4 O-O 13.Re1 Rc8 14.Bd2 Qc7 15.Rc1 Qb8
+16.Bb1 h6 17.Ng3 Rfd8 18.Rxc8 Qxc8 19.Qa4 Bf8 20.Qg4 Ne7 21.Bxh6 Bxf3 22.gxf3 Nxe5
+23.Rxe5 Rd1+ 24.Kg2 Rxb1 25.Rg5 g6 26.Bxf8 Qxf8 27.Qd4 Qg7 28.Qd8+ Qf8 29.Qd4 Nf5
+30.Nxf5 exf5 31.Rg3 Qe7 32.Rh3 Qg5+ 33.Rg3 Qe7 34.Rh3 Qg5+ 35.Rg3 Qc1 36.Qd8+ Kg7
+37.Qd4+ f6 38.Qd7+ Kf8 39.Qd8+ Kf7 40.Qd7+ Kf8 41.Qd8+ Kf7 42.Qd7+  1/2-1/2
+
+[Event "MTel"]
+[Site "Sofia BUL"]
+[Date "2007.05.20"]
+[Round "10"]
+[White "Adams,Mi"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2734"]
+[BlackElo "2705"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 d6 10.Nbd2 Na5 11.Ba2 c5 12.Nf1 b4 13.c3 bxc3 14.bxc3 c4 15.Ng3 cxd3
+16.Qxd3 Bc8 17.Ba3 Be6 18.Bxe6 fxe6 19.Rad1 Ne8 20.Bb4 Rf7 21.Bxa5 Qxa5 22.Qc4 Rf6
+23.Nf5 Bf8 24.Ne3 Qc7 25.Qxc7 Nxc7 26.Nc4 Ne8 27.Nb6 Ra7 28.c4 Rff7 29.c5 Rfc7
+30.Ng5 Rxc5 31.Nxe6 Rc6 32.Nd5 Be7 33.Rc1 Rxc1 34.Rxc1 Kf7 35.Nec7 Bd8 36.Nxe8 Kxe8
+37.Kf1 Rb7 38.Rc6 Rb1+ 39.Ke2 Rb2+ 40.Kf3 Rb3+ 41.Kg4 Rb2 42.Kg3 a5 43.Rxd6 Ra2
+44.Nc3 Ra3 45.Rc6 Kd7 46.Rc4 h5 47.f3 g6 48.Kh3 Bb6 49.Nd5 Bd8 50.Kg3 Ra2
+51.Kh3 Ra3 52.Nc3 Bb6 53.Kh4 Bd8+ 54.Kg3 Bb6 55.h4 Ra1 56.Nd5 Bd8 57.Kh2 Ra3
+58.Kh3 Ra1 59.g3 Ra3 60.Kg2 Ra2+ 61.Kh3 Ra3 62.f4 exf4 63.Nxf4 Bc7 64.Rd4+ Kc6
+65.Nd3 Bb6 66.Ne5+ Kb7 67.Nc4 Bxd4 68.Nxa3 Kc6 69.Nc4 Bc3 70.Ne3 Kc5 71.Nd5 Bg7
+72.g4 Kc4 73.Ne7 Kb3 74.Nc6 Kxa4 75.Nxa5 Kxa5 76.e5 Bxe5 77.gxh5 gxh5 78.Kg2  1/2-1/2

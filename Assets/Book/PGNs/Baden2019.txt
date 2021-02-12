@@ -1,0 +1,1174 @@
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.20"]
+[Round "1.1"]
+[White "Keymer,Vincent"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2516"]
+[BlackElo "2845"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[WhiteFideId "12940690"]
+[BlackFideId "1503014"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg7 6. Nf3 O-O 7. Be2 e5 8. O-O Ne8
+9. Ne1 f5 10. exf5 gxf5 11. f4 Nd7 12. Nd3 e4 13. Nf2 Bxc3 14. bxc3 Ndf6 15. Be3
+Ng7 16. Qe1 Bd7 17. Nd1 Ba4 18. h3 Bxd1 19. Qxd1 Qe8 20. Kf2 Qg6 21. Rg1 Kh8 22.
+a4 Rg8 23. Qf1 Nfh5 24. g3 Raf8 25. Qg2 Qf6 26. Rac1 Qd8 27. Qh2 Nf6 28. g4 Nd7
+29. g5 Qa5 30. g6 h6 31. Rb1 Rb8 32. Qg3 Qd8 33. Ke1 Ne8 34. Kd2 Nf8 35. Bf2 Qe7
+36. Ke3 Qf6 37. Kd2 Nxg6 38. h4 Ne7 39. Qh3 Rxg1 40. Rxg1 Qf7 41. h5 Nf6 42. Bh4
+b6 43. Rb1 Qf8 44. Rg1 Qf7 45. Rb1 Qg7 46. Rg1 Qf8 47. Kc2 Nfg8 48. Kd2 Qf7 49.
+Kc2 Rf8 50. Kd2 Qe8 51. Ra1 Rf7 52. a5 bxa5 53. Rxa5 Nc8 54. Ra1 Qf8 55. Rb1 Nb6
+56. Rg1 Rg7 57. Rxg7 Kxg7 58. Qg3+ Kh8 59. Qg6 a5 60. Bf1 a4 61. Kc2 a3 62. Kb3
+Na4 63. Bh3 Qg7 64. Qxg7+ Kxg7 65. Bxf5 Nf6 66. Kxa3 Nxc3 67. Bf2 Ne2 68. Ka4
+Nxh5 69. Ka5 Nf6 70. Kb6 Kf7 71. Kc7 Ke7 72. Be3 Nd4 73. Bg6 h5 74. Bf2 Nf3 75.
+Bf5 Nd2 76. Bh4 e3 77. Bd3 Nf3 78. Bxf6+ Kxf6 79. Kxd6 h4 80. Kc7 Nd4 81. Kc8 e2 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.20"]
+[Round "1.2"]
+[White "Svidler,P"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2819"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "2020009"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O Nd7 12. Bd2 f5 13. a5 a6 14. Na3 e4 15.
+Nc4 Ne5 16. Nb6 Rb8 17. f4 exf3 18. Bxf3 Bf6 19. c3 g5 20. Be2 f4 21. Nxc8 Qxc8
+22. Kh1 b5 23. axb6 Rxb6 24. Qc2 Bg7 25. b3 Qb7 26. b4 Qxd5 27. Qa2 Qxa2 28.
+Rxa2 d5 29. Rxa6 Rxa6 30. Bxa6 Nc4 31. Rd1 Nxd2 32. Rxd2 Bxc3 33. Rxd5 Bxb4 34.
+Rxg5+ Kh8 35. Kg1 f3 36. gxf3 Rxf3 37. Bc4 Rf8 38. Kg2 Bc3 39. Bd3 Rg8 40. Rxg8+
+Kxg8 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.20"]
+[Round "1.3"]
+[White "Vachier Lagrave,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2774"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "623539"]
+[BlackFideId "5000017"]
+[EventDate "2019.04.20"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. O-O
+Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4 12. Ndb5 Ba5 13. Rb1 Qxc2 14. Rb3
+Ne7 15. Nd6+ Kf8 16. Nxb7 Bb6 17. Nd6 Ba5 18. Nb7 Bb6 19. Nd6 Ba5 20. Nb7 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.20"]
+[Round "1.4"]
+[White "Aronian,L"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2695"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "13300474"]
+[BlackFideId "4650891"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Qc7 8. a4
+Be7 9. a5 O-O 10. Be2 Nbd7 11. Nd2 b5 12. axb6 Nxb6 13. O-O a5 14. Nb5 Qb8 15.
+c4 Be6 16. Qb3 Rc8 17. Rfc1 Bd8 18. Qd1 Nbd7 19. f3 Bb6 20. Nf1 Ne8 21. Rc3 Bc5
+22. Kh1 Rc6 23. Bd2 Bb4 24. Rcc1 Bxd2 25. Nxd2 Nc7 26. Ra3 Nc5 27. Rca1 Rca6 28.
+Nb1 Bd7 29. N1c3 N7e6 30. Nd5 a4 31. b4 axb3 32. Rxa6 Rxa6 33. Rxa6 Nxa6 34.
+Qxb3 Nac5 35. Qd1 Nd8 36. Ne3 Ndb7 37. h3 g6 38. Bf1 Be6 39. Nc2 Qd8 40. Qe1 h5
+41. Ne3 h4 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.20"]
+[Round "1.5"]
+[White "Meier,Geo"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2693"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "4675789"]
+[BlackFideId "2205530"]
+[EventDate "2019.04.20"]
+
+1. Nf3 d5 2. d4 e6 3. g3 b5 4. Bg2 Nf6 5. O-O Bb7 6. a4 b4 7. a5 Be7 8. c3 O-O
+9. cxb4 Bxb4 10. Qb3 Qe7 11. Bd2 Na6 12. Rc1 Rab8 13. Bxb4 Nxb4 14. Nbd2 Ba6 15.
+Qe3 Rb7 16. Ne5 Bb5 17. Bf1 Nd7 18. Nxd7 Qxd7 19. Qa3 Na6 20. Rc3 Rfb8 21. Nb3
+Bc4 22. Nd2 Bb5 23. Nb3 Bc4 24. Nd2 Bb5 25. Nb3 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.21"]
+[Round "2.1"]
+[White "Vallejo Pons,F"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2693"]
+[BlackElo "2845"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[WhiteFideId "2205530"]
+[BlackFideId "1503014"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 Ba7 8. dxe5
+Nxe4 9. Bc2 d5 10. exd6 Nxd6 11. Bg5 f6 12. Bf4 g5 13. Bxd6 Qxd6 14. Qxd6 cxd6
+15. Nbd2 g4 16. Nh4 d5 17. Nf5 d4 18. Nc4 Bxf5 19. Bxf5 h5 20. Rad1 Rfd8 21. a4
+Ne7 22. Be6+ Kg7 23. Rfe1 f5 24. Na5 Rab8 25. Kf1 Kf6 26. Bb3 Ng6 27. Re6+ Kg5
+28. g3 dxc3 29. bxc3 Rxd1+ 30. Bxd1 Rd8 31. f4+ gxf3 32. Bxf3 h4 33. Nc4 hxg3
+34. hxg3 Bb8 35. Kg2 b5 36. axb5 axb5 37. Ne3 Rd2+ 38. Kh3 Rd3 39. Be2 Rxc3 40.
+Bxb5 f4 41. Be8 Nf8 42. Rb6 Be5 43. Nf1 fxg3 44. Rc6 Ra3 45. Rb6 Ra2 46. Rb4 Ne6
+47. Rg4+ Kf6 48. Bc6 g2 49. Bxg2 Nf4+ 50. Rxf4+ Bxf4 51. Bf3 Bb8 52. Ng3 Kg5 53.
+Ne2 Bc7 54. Kg2 Kh4 55. Kf2 Bb6+ 56. Ke1 Be3 57. Kd1 Kg5 58. Be4 Kf6 59. Bf3 Ke5
+60. Bg2 Kd6 61. Be4 Kc5 62. Bf5 Rd2+ 63. Ke1 Rd8 64. Be4 Kc4 65. Kf1 Rf8+ 66.
+Ke1 Bf2+ 67. Kd2 Rd8+ 68. Kc2 Be3 69. Bf3 Rd2+ 70. Kb1 Kb3 71. Nc1+ Ka3 72. Ne2
+Rb2+ 73. Ka1 Rb8 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.21"]
+[Round "2.2"]
+[White "Anand,V"]
+[Black "Keymer,Vincent"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2774"]
+[BlackElo "2516"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "5000017"]
+[BlackFideId "12940690"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 Be7 8. O-O
+O-O 9. Ng3 Be6 10. Nd5 Bxd5 11. exd5 g6 12. c4 Nbd7 13. Bh6 Re8 14. Rc1 Bf8 15.
+Bg5 h6 16. Bd2 a5 17. b3 h5 18. Re1 Bg7 19. h3 Qe7 20. Be3 Qf8 21. Qd2 h4 22.
+Ne2 Nh5 23. Nc3 f5 24. Bg5 Nf4 25. Bxf4 exf4 26. Re6 Ne5 27. Be2 Rxe6 28. dxe6
+Re8 29. Qd5 Qe7 30. Nb5 Qxe6 31. Qxb7 Re7 32. Qb8+ Kh7 33. Qxd6 Qxd6 34. Nxd6
+Bf8 35. Nb5 Nc6 36. Kf1 Re5 37. a3 Bc5 38. Bf3 Nd4 39. Nxd4 Bxd4 40. Rb1 Re6 41.
+b4 Rb6 42. Rd1 Bb2 43. c5 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.21"]
+[Round "2.3"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2819"]
+[BlackElo "2773"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "2020009"]
+[BlackFideId "623539"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 Nf6 6. b3 e6 7. Bb2 d5 8. exd5
+exd5 9. O-O-O Be6 10. a3 Bc5 11. Nf3 O-O 12. Bd3 Rc8 13. Rhe1 Re8 14. h3 Qa5 15.
+Nb5 Qxd2+ 16. Rxd2 a6 17. Nbd4 Ne4 18. Rde2 Bd7 19. Kd1 f6 20. Nxc6 Bxc6 21. Nd4
+Bd7 22. f3 Ng3 23. Rxe8+ Rxe8 24. c4 dxc4 25. Bxc4+ Kf8 26. b4 Bd6 27. Ne6+ Bxe6
+28. Rxe6 Rd8 29. Kc2 Nh5 30. Re4 b5 31. Bd3 Nf4 32. Bf1 Re8 33. Kb3 Rxe4 34.
+fxe4 Ne6 35. a4 Nc7 36. Bd4 Ke7 37. Be2 Kd7 38. Be3 Be5 39. h4 g6 40. h5 gxh5
+41. Bxh5 Ne6 42. Bg4 Kd6 43. a5 Nd4+ 44. Ka2 Kc7 45. Bf2 Nc2 46. Kb3 Nd4+ 47.
+Ka2 Nc2 48. Kb3 Nd4+ 49. Ka2 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.21"]
+[Round "2.4"]
+[White "Naiditsch,A"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2735"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[WhiteFideId "4650891"]
+[BlackFideId "4102142"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Be7 9. Bxe7 Nxe7 10. Nc3 Bd7 11. Nde2 O-O-O 12. Qc1 Ng6 13. Qe3 Kb8 14.
+Rad1 Qe7 15. f4 Bc8 16. Nc1 Rxd1 17. Rxd1 b6 18. Nd3 a5 19. Re1 Ba6 20. Nf2 Re8
+21. a3 f6 22. Ne2 Bb7 23. Ng3 c5 24. Nf5 Qf7 25. Rd1 Nf8 26. c3 a4 27. h3 Ne6
+28. Ng3 Bc6 29. Rd2 Nd8 30. Qd3 Nb7 31. Kh2 Nd6 32. Rd1 h5 33. Re1 h4 34. Nf1
+Qb3 35. e5 fxe5 36. fxe5 Qxb2 37. Re2 Qb5 38. Qc2 Nc4 39. e6 Nxa3 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.21"]
+[Round "2.5"]
+[White "Meier,Geo"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2763"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[WhiteFideId "4675789"]
+[BlackFideId "13300474"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 e6 7. c3 Be7 8.
+d4 O-O 9. e5 dxe5 10. dxe5 Nd5 11. c4 Nb4 12. Nc3 Nc6 13. Rd1 a6 14. Bf4 Qc7 15.
+h4 Rfd8 16. h5 h6 17. b3 Nf8 18. Ne4 Rxd1+ 19. Rxd1 Rd8 20. Rxd8 Qxd8 21. Ned2
+Qa5 22. Ne4 Nd7 23. g3 Kf8 24. Kg2 Ke8 25. g4 Qc7 26. Kg3 Qa5 27. Kg2 Qc7 28.
+Kg3 Qa5 29. Kg2 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.22"]
+[Round "3.1"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2774"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2019.04.20"]
+
+1. c4 e5 2. g3 Nf6 3. Nc3 Bb4 4. e4 Bxc3 5. dxc3 d6 6. f3 a5 7. Nh3 a4 8. Nf2
+Be6 9. Bd3 Nbd7 10. Qe2 c6 11. f4 Nb6 12. Be3 c5 13. O-O-O Qe7 14. f5 Bd7 15. g4
+h6 16. h4 O-O-O 17. g5 Ne8 18. Bd2 hxg5 19. hxg5 Nc7 20. Ng4 Rdg8 21. Rh2 Qf8
+22. Rdh1 Kb8 23. b4 axb3 24. axb3 Nc8 25. Kb2 Qd8 26. Rh7 Rxh7 27. Rxh7 Rh8 28.
+Qh2 Rxh7 29. Qxh7 Qf8 30. Ne3 Ne7 31. Kc2 Qg8 32. Qh4 Qf8 33. Kd1 Nc6 34. Qh7
+Ne7 35. Ke2 Nc8 36. Kf2 Ne7 37. Be2 Qg8 38. Qh1 g6 39. Qh6 Ne8 40. f6 Nc6 41. b4
+Nc7 42. bxc5 dxc5 43. Nd5 Ne6 44. Be3 Ka7 45. Bg4 b6 46. Nc7 Qc8 47. Nb5+ Kb8
+48. Nd6 Qg8 49. Qh1 Qf8 50. Qd1 Ncd8 51. Nb5 Bc6 52. Kg1 Nc7 53. Bf2 Nb7 54. Bg3
+Bxb5 55. cxb5 Qd6 56. Qe2 Ne6 57. Bxe6 Qxe6 58. Qh2 Qg4 59. Kf2 Qxe4 60. Bxe5+
+Kc8 61. Qh3+ Kd8 62. Qh8+ Kd7 63. Qh3+ Kd8 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.22"]
+[Round "3.2"]
+[White "Svidler,P"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2628"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "4675789"]
+[EventDate "2019.04.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 Bb4 13. Rb3 Qa5 14. a3 Be7 15.
+f5 exf5 16. Nxd5 Qxd2+ 17. Kxd2 Bd8 18. Rc3 Ba5 19. Nc7+ Bxc7 20. Rxc7 Kd8 21.
+Rc3 Nf8 22. Bc5 Bd7 23. Bxf8 Bxb5 24. Bxg7 Rg8 25. Bf6+ Kd7 26. Rd1 f4 27. g3
+fxg3 28. Kc1+ Ke8 29. hxg3 Bc6 30. Rd4 Rg6 31. Rcd3 Kf8 32. Rh4 h6 33. g4 Bb5
+34. Rd2 Re8 35. g5 Rxg5 36. Rxh6 Rg8 37. Rdh2 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.22"]
+[Round "3.3"]
+[White "Keymer,Vincent"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2516"]
+[BlackElo "2819"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[WhiteFideId "12940690"]
+[BlackFideId "2020009"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. a3 Bxd2+ 7. Qxd2 d5 8.
+Bg2 O-O 9. O-O b6 10. Qc2 Bb7 11. cxd5 exd5 12. Nc3 Nd8 13. e3 c5 14. Rfd1 Ne6
+15. Rac1 Rfd8 16. Qb1 Rac8 17. b4 c4 18. Ne5 g6 19. h4 Nf8 20. Qb2 N8d7 21. f4
+a6 22. Bh3 b5 23. g4 Nxe5 24. fxe5 Ne4 25. Nxe4 dxe4 26. g5 Rc7 27. Rf1 Bd5 28.
+Rf6 Rc6 29. Qf2 a5 30. h5 axb4 31. axb4 Rf8 32. Rf1 c3 33. Kh2 Ra8 34. hxg6 hxg6
+35. Rxc6 Bxc6 36. Rc1 Qxb4 37. Kg3 Qa3 38. Rh1 c2 39. e6 Be8 40. Qd2 Qd3 41. Qf2
+Ra3 42. Kf4 Qd1 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.22"]
+[Round "3.4"]
+[White "Vachier Lagrave,M"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2695"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4650891"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ne7 10. Rd1+ Ke8 11. Nc3 Ng6 12. b3 Be7 13. Ne4 a5 14. Re1 a4
+15. Bb2 Be6 16. Nd4 Nf4 17. Rad1 h5 18. h4 Nd5 19. c4 Nb4 20. a3 Na6 21. b4 c5
+22. Nxe6 fxe6 23. b5 Nb8 24. f4 Rf8 25. Nf6+ gxf6 26. exf6 Bd6 27. Rxe6+ Kf7 28.
+Rde1 Rd8 29. g4 hxg4 30. h5 Nd7 31. Re7+ Bxe7 32. Rxe7+ Kg8 33. Rg7+ Kh8 34. f7
+Rf8 35. f5 Nb6 36. Bf6 Nxc4 37. Rxg4+ Kh7 38. Rg7+ Kh6 39. Rg6+ Kh7 40. Rg7+ Kh6
+41. Rg6+ Kh7 42. Rg7+ Kh6 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.22"]
+[Round "3.5"]
+[White "Aronian,L"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2693"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "2205530"]
+[EventDate "2019.04.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Rc8 16. Qe3 Qd8 17. O-O Rc4 18. Rfb1 Be7 19. f5 Bg5 20. Qf2 exf5 21. e6
+fxe6 22. Bxg7 Rg8 23. Be5 d4 24. Qe2 Be3+ 25. Kf1 Qh4 26. Rxd7 Kxd7 27. Rb7+ Ke8
+28. Rb8+ Kf7 29. Rb7+ Ke8 30. Rb8+ Kf7 31. Rb7+ Ke8 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.23"]
+[Round "4.1"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2819"]
+[BlackElo "2845"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Bf5 12. h4 h5 13. Bg5 Qb8 14. Qa4 Bd7 15.
+Qc2 Bxb5 16. cxb5 Be7 17. Bd3 Nf8 18. b6 Nd7 19. bxa7 Qxa7 20. O-O Bxg5 21. hxg5
+O-O 22. Bf5 Rad8 23. b4 Qd4 24. Qc7 Nb6 25. Rad1 Qf4 26. Bh3 Na4 27. g6 fxg6 28.
+Qc2 b5 29. Qxg6 Rf6 30. Qxh5 g6 31. Qg4 Qxg4 32. Bxg4 Rf4 33. Be6+ Kg7 34. Rc1
+Rxb4 35. Rc7+ Kh6 36. g3 Nc5 37. f4 exf4 38. Rxf4 Rxf4 39. gxf4 Ra8 40. Rc6 Ne4
+41. Bh3 Rxa2 42. Bg2 Ng3 43. Rxd6 Ne2+ 44. Kf1 Nxf4 45. Be4 Ra4 46. Bxg6 Nxg6
+47. Rb6 Rf4+ 48. Ke1 b4 49. d6 Rd4 50. d7 Rxd7 51. Rxb4 Kg5 52. Ke2 Re7+ 53. Kd2
+Kf5 54. Rb5+ Ne5 55. Rb4 Rd7+ 56. Ke2 Nd3 57. Ra4 Nf4+ 58. Ke1 Kg4 59. Ra3 Rd8
+60. Rc3 Rh8 61. Ra3 Rh2 62. Kd1 Kf5 63. Re3 Nd5 64. Re8 Kf4 65. Kc1 Nc3 66. Re7
+Ne4 67. Re8 Ke3 68. Re7 Rh6 69. Rc7 Kd3 70. Rd7+ Rd6 71. Rxd6+ Nxd6 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.23"]
+[Round "4.2"]
+[White "Naiditsch,A"]
+[Black "Keymer,Vincent"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2695"]
+[BlackElo "2516"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "4650891"]
+[BlackFideId "12940690"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nc3 a6 3. Nge2 d6 4. a4 Nf6 5. g3 Nc6 6. Bg2 e6 7. O-O Be7 8. f4 O-O
+9. d3 Rb8 10. h3 Nd7 11. g4 h6 12. Ng3 Bh4 13. Nce2 b5 14. Kh2 b4 15. Be3 a5 16.
+Qd2 Ba6 17. b3 Qe7 18. Rg1 Rbc8 19. Raf1 g6 20. e5 d5 21. f5 Ncxe5 22. Bxh6 Rfe8
+23. fxg6 fxg6 24. g5 Nf7 25. Qf4 Nxh6 26. Qxh4 Nf7 27. Nh5 gxh5 28. Rf6 Nxf6 29.
+gxf6 Qd6+ 30. Nf4 Kf8 31. Qg3 Red8 32. Re1 e5 33. Ng6+ Ke8 34. Nxe5 Qxf6 35.
+Ng4+ Qe7 36. Nf6+ 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.23"]
+[Round "4.3"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2735"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "13300474"]
+[BlackFideId "4102142"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 dxe5 11. Nbd2 Bc5 12. a5 h6 13. h3 Qd6 14. Qe2 Be6 15. Nc4
+Qe7 16. Be3 Rab8 17. Bxc5 Qxc5 18. Ncd2 Rfe8 19. Qxa6 Ra8 20. Qe2 Nxa5 21. Bxe6
+fxe6 22. Ra4 Ra7 23. Qe3 Qxe3 24. Rxe3 c5 25. Nxe5 Nc6 26. Rxa7 Nxa7 27. Rd3 Nb5
+28. f3 Ra8 29. Nb3 Rc8 30. Nc4 Kf8 31. Kf2 Ke7 32. Rd1 g5 33. Ra1 Nd7 34. Ke3
+Nd6 35. Nxd6 Kxd6 36. Ra6+ Ke7 37. Na5 Ne5 38. g3 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.23"]
+[Round "4.4"]
+[White "Vallejo Pons,F"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2693"]
+[BlackElo "2774"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[WhiteFideId "2205530"]
+[BlackFideId "5000017"]
+[EventDate "2019.04.20"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. g3 Nf6 7. a3 Bc5 8. d3
+O-O 9. Bg2 Nbd7 10. O-O b5 11. Qd1 Qb6 12. Qe2 a5 13. Kh1 d4 14. Nb1 e5 15. Nd2
+Bd6 16. f4 Qc7 17. f5 Nb6 18. g4 c5 19. Nf3 c4 20. Bg5 Nfd7 21. f6 g6 22. Bh6
+Rfc8 23. Ng5 Bf8 24. Bxf8 Nxf8 25. Qe1 Nbd7 26. a4 bxa4 27. Rxa4 cxd3 28. cxd3
+h6 29. Nf3 Ne6 30. Qh4 Kh7 31. g5 h5 32. Raa1 Qc2 33. Rf2 Qxd3 34. Bf1 Qb3 35.
+Nd2 Qb4 36. Be2 Qxd2 37. Bxh5 Qxg5 38. Bxg6+ Kxg6 39. Rg2 Qxg2+ 40. Kxg2 Rh8 41.
+Qg3+ Kxf6 42. Rf1+ Ke7 43. Qa3+ Ndc5 44. Rc1 Kd6 45. b4 axb4 46. Qxb4 Rab8 47.
+Qc4 Ke7 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.23"]
+[Round "4.5"]
+[White "Meier,Geo"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2773"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[WhiteFideId "4675789"]
+[BlackFideId "623539"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h3 dxc4 6. e4 c5 7. d5 O-O 8. Bxc4 b5
+9. Nxb5 Nxe4 10. O-O Ba6 11. Qe2 Nd6 12. Nxd6 Qxd6 13. Re1 Bxc4 14. Qxc4 Rd8 15.
+Bf4 Qxd5 16. Qxd5 Rxd5 17. Rxe7 Nc6 18. Re2 Nb4 19. Rae1 h6 20. b3 Kh7 21. Re7
+Rf5 22. Bg3 g5 23. Ne5 Kg8 24. Nc4 Bd4 25. R1e2 Nd5 26. Re8+ Rxe8 27. Rxe8+ Kh7
+28. Ra8 Nc3 29. Rxa7 Ne2+ 30. Kh2 Bxf2 31. Bxf2 Rxf2 32. Ne5 Nf4 33. Rxf7+ Kg8
+34. Rf6 Rxg2+ 35. Kh1 Re2 36. Nd7 Kg7 37. Ra6 Nxh3 38. Nxc5 Nf4 39. Ra4 Kg6 40.
+Ne4 Rb2 41. Ng3 Kf6 42. Ra6+ Ne6 43. Ra4 Nc5 44. Ra5 Nd3 45. Ra6+ Ke5 46. Rxh6
+Rxa2 47. Rh8 Rb2 48. Rf8 g4 49. Kg1 Rxb3 50. Re8+ Kd5 51. Rd8+ Ke6 52. Re8+ Kf6
+53. Rf8+ Ke7 54. Rg8 Rb1+ 55. Kg2 Nf4+ 56. Kf2 Rb2+ 57. Ke3 Nd5+ 58. Kd4 Nf6 59.
+Rg5 Ke6 60. Re5+ Kf7 61. Rg5 Rb4+ 62. Ke5 Nh7 63. Rf5+ Kg6 64. Rf1 Rb3 65. Ne2
+Rb5+ 66. Kd4 Ng5 67. Nf4+ Kf5 68. Ng2+ Nf3+ 69. Ke3 Rb3+ 70. Kf2 Nh2 71. Ra1 g3+
+72. Kg1 Nf3+ 73. Kh1 Rb2 74. Ra5+ Ke4 75. Ra1 Nd4 76. Kg1 Rf2 77. Ra4 Ke5 78.
+Ra5+ Kd6 79. Ra6+ Kc5 80. Ra5+ Kb4 81. Ra1 Kb3 82. Rd1 Nf3+ 83. Kh1 Kb2 84. Rg1
+Nxg1 85. Kxg1 Kc3 86. Ne3 Kd3 87. Nf1 Ke2 88. Nxg3+ Kf3 89. Nf5 Rd2 90. Nh4+ Kg3
+91. Nf5+ Kg4 92. Ne3+ Kf3 93. Nf5 Rd5 94. Ne7 Rc5 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.24"]
+[Round "5.1"]
+[White "Carlsen,M"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2695"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "1503014"]
+[BlackFideId "4650891"]
+[EventDate "2019.04.20"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 a5 6. Bg2 O-O 7. O-O Re8 8. d3
+Nxd5 9. cxd5 Nd4 10. Nxd4 exd4 11. e4 c6 12. Bf4 cxd5 13. a3 Bc5 14. b4 Bf8 15.
+exd5 d6 16. bxa5 Qxa5 17. Bd2 Qa6 18. Qf3 g6 19. Bb4 Bf5 20. Rad1 Re5 21. g4 Bd7
+22. Qf4 h5 23. h3 hxg4 24. hxg4 Qb6 25. Bf3 Ba4 26. Rc1 Bg7 27. Kg2 Bb3 28. Rh1
+Bxd5 29. Bxd5 Rxd5 30. Rh3 Qd8 31. Qf3 Rb5 32. Qg3 Qg5 33. Rc7 Rd8 34. Rh1 Qd5+
+35. Qf3 Qxf3+ 36. Kxf3 d5 37. Rhc1 Be5 38. Rc8 Rxc8 39. Rxc8+ Kg7 40. g5 f6 41.
+Re8 Rb6 42. Re7+ Kg8 43. Kg4 f5+ 44. Kf3 Bh2 45. Rd7 Rb5 46. Bd6 Bxd6 47. Rxd6
+Rb3 48. Rxg6+ Kh7 49. Rh6+ Kg7 50. Kf4 Rxd3 51. a4 Rc3 52. Rd6 Rc5 53. Rd7+ Kg6
+54. Rxb7 Rc6 55. a5 d3 56. Ke3 Rc5 57. f4 d2 58. Kxd2 Rxa5 59. Rd7 Kh5 60. Ke3 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.24"]
+[Round "5.2"]
+[White "Anand,V"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2819"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "2020009"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Ne8 13. d5 c6 14. Qd1 b6 15.
+Bf4 Bb7 16. dxc6 dxc6 17. Nd2 c5 18. Nc4 Qxd1 19. Rxd1 Rd8 20. Rxd8 Bxd8 21. Bb8
+a6 22. a4 b5 23. axb5 axb5 24. Na3 b4 25. Nc4 bxc3 26. bxc3 Bd5 27. Ba7 Bxc4 28.
+Bxc4 Nd6 29. Bd5 Nb5 30. Bxc5 Nxc3 31. Bc6 Ne2+ 32. Kf1 Nf4 33. Be3 Ne6 34. g3
+Bf6 35. Bd5 g6 36. Ke2 Kg7 37. Bxe6 fxe6 38. Kd3 Kf7 39. Ke4 h5 40. h3 Be7 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.24"]
+[Round "5.3"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2763"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "623539"]
+[BlackFideId "13300474"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. d3 Be6 11. Bxe6 fxe6 12. Nbd2 d5 13. Nb3 d4 14. Bd2 Rb8 15. Rc1
+Rb5 16. h3 Qd6 17. Bg5 Nd7 18. Bxe7 Qxe7 19. Nfd2 Nc5 20. Nc4 Nb7 21. Ra1 Nd6
+22. Ncd2 Nb7 23. Nc4 Nd6 24. Ncd2 Nb7 25. Nc4 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.24"]
+[Round "5.4"]
+[White "Svidler,P"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2693"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[WhiteFideId "4102142"]
+[BlackFideId "2205530"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. c3 g5 7. Nbd2 Bg7 8. Bb3
+Nh5 9. Nc4 Nf4 10. Ne3 Be6 11. d4 exd4 12. Nf5 Bxf5 13. exf5 dxc3 14. bxc3 Ne5
+15. Nxe5 dxe5 16. Qf3 O-O 17. Qxb7 Ne2+ 18. Kh1 Nxc1 19. Raxc1 Qf6 20. Qxc7 Qxf5
+21. Bd5 Rad8 22. c4 Rd7 23. Qc6 Rfd8 24. Rcd1 Bf8 25. g3 Kg7 26. Kg2 Qf6 27.
+Qxf6+ Kxf6 28. Rb1 h5 29. h3 Bc5 30. Rb5 Rc7 31. Rfb1 g4 32. hxg4 hxg4 33. Rb7
+Rdc8 34. f3 Bb6 35. Rxc7 Rxc7 36. fxg4 e4 37. Rf1+ Kg7 38. Bxe4 Rxc4 39. Rxf7+
+Kxf7 40. Bd5+ Kg7 41. Bxc4 Bc5 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.24"]
+[Round "5.5"]
+[White "Keymer,Vincent"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2516"]
+[BlackElo "2628"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "12940690"]
+[BlackFideId "4675789"]
+[EventDate "2019.04.20"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 dxc4 5. e4 b5 6. e5 Nd5 7. Nxb5 Nb6 8. Be2
+Nc6 9. O-O Be7 10. Qd2 Bb7 11. Qf4 Qd7 12. Nc3 h6 13. Rd1 g5 14. Qg3 O-O-O 15.
+Be3 Nb4 16. Nd2 h5 17. Nxc4 g4 18. Nxb6+ axb6 19. Bb5 Bc6 20. Bxc6 Qxc6 21. Qf4
+Rdf8 22. d5 Nxd5 23. Nxd5 exd5 24. Rac1 Qb7 25. Qf5+ Kb8 26. Qd7 c5 27. Qxd5
+Qxd5 28. Rxd5 Rd8 29. Rdd1 Kc7 30. Kf1 Kc6 31. Ke2 Rhe8 32. f4 f6 33. exf6 Bxf6
+34. Rxd8 Rxd8 35. b3 Re8 36. Kd3 Rd8+ 37. Kc2 Re8 38. Re1 Kd5 39. a4 Re4 40. Bd2
+Rxe1 41. Bxe1 Ke4 42. f5 h4 43. Bc3 Bxc3 44. Kxc3 Kxf5 45. Kc4 Kf4 46. Kb5 Ke3
+47. Kxb6 Kf2 48. a5 Kxg2 49. a6 Kxh2 50. a7 g3 51. a8=Q g2 52. Qb8+ Kh3 53. Qc8+
+Kh2 54. Qc7+ Kh3 55. Qd7+ Kh2 56. Qd6+ Kh3 57. Qe6+ Kh2 58. Qe5+ Kh3 59. Qe1 c4
+60. b4 c3 61. Kc6 c2 62. Qc1 Kh2 63. Qxc2 Kh3 64. Qd3+ Kh2 65. Qe2 Kh3 66. Qe3+
+Kh2 67. Qf2 h3 68. b5 Kh1 69. Qg3 h2 70. Qf3 Kg1 71. Qe3+ Kf1 72. Qf4+ Kg1 73.
+b6 h1=Q 74. b7 Qh7 75. b8=Q Kh1 76. Qf3 Qc2+ 77. Kd5 Qd2+ 78. Ke4 Qc2+ 79. Ke5
+Qc5+ 80. Kf6 Qd4+ 81. Kg6 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.26"]
+[Round "6.1"]
+[White "Vallejo Pons,F"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2693"]
+[BlackElo "2819"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[WhiteFideId "2205530"]
+[BlackFideId "2020009"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Bc4 Bc5 6. Nxe5 Qe7 7. Nf3 d5 8.
+Bxd5 Bg4 9. d3 O-O-O 10. Be3 Nxd5 11. Nxd5 Rxd5 12. exd5 Re8 13. O-O Bxf3 14.
+gxf3 Bd6 15. f4 Qh4 16. Bxd4 Bxf4 17. Kg2 Qg5+ 18. Kh1 Qh4 19. Kg2 Qg5+ 20. Kh1
+Qh4 21. Kg2 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.26"]
+[Round "6.2"]
+[White "Naiditsch,A"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2774"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit"]
+[WhiteFideId "4650891"]
+[BlackFideId "5000017"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 c6 6. Nxe5 d6 7. Nf3 Bg4 8. d3
+d5 9. exd5 Nxd5 10. O-O Be7 11. Re1 Nc7 12. Bg5 Nxf3+ 13. gxf3 Be6 14. Bxe7 Qxe7
+15. Bb3 O-O-O 16. Qd2 Qf6 17. Qe3 Kb8 18. f4 Bf5 19. Qg3 Ne6 20. Bxe6 fxe6 21.
+Re5 h5 22. Kh1 h4 23. Qe3 Rhf8 24. Rg1 Rf7 25. a3 h3 26. Rg5 Rdf8 27. Ne2 c5 28.
+Ng3 Bh7 29. Nh5 Qd8 30. Nxg7 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.26"]
+[Round "6.3"]
+[White "Meier,Geo"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2845"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "4675789"]
+[BlackFideId "1503014"]
+[EventDate "2019.04.20"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. b3 b5 7. Bb2 Bb7 8. Nbd2
+Nbd7 9. c4 bxc4 10. Nxc4 a5 11. Rc1 c5 12. dxc5 Nxc5 13. Bd4 Ncd7 14. a4 Ra6 15.
+Na3 Qa8 16. Nb5 Rc6 17. Rxc6 Bxc6 18. Ne1 Bxg2 19. Nxg2 Rc8 20. Na7 Rd8 21. Qc2
+e5 22. Be3 d5 23. Nc6 Re8 24. Bd2 Ne4 25. Nxa5 Rc8 26. Qa2 Ndf6 27. Be1 Nc3 28.
+Bxc3 Rxc3 29. b4 Bf8 30. Qb2 d4 31. e3 Ne4 32. exd4 exd4 33. Nb3 d3 34. Rc1
+Rxc1+ 35. Qxc1 Qxa4 36. Qc4 Nc5 37. Nd2 Qa1+ 38. Nf1 d2 39. Ne3 Ne6 40. Qb3 Qe1
+41. Kg2 Bxb4 42. Qb2 h5 43. h4 Ba5 44. Qb8+ Nf8 45. Qa8 Bc3 46. Qc6 Qc1 47. Qd5
+Ne6 48. Qc4 Ba5 49. Qd5 Bb4 50. Qb5 Qc3 51. Qd5 Qc1 52. Qb5 Bc3 53. Qa4 Bd4 54.
+Nd1 Kg7 55. Kf3 Bf6 56. Ke2 Nd4+ 57. Kd3 Qb1+ 58. Kxd2 Qe4 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.26"]
+[Round "6.4"]
+[White "Aronian,L"]
+[Black "Keymer,Vincent"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2763"]
+[BlackElo "2516"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "13300474"]
+[BlackFideId "12940690"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nc3 a6 3. Nge2 d6 4. g3 Nf6 5. Bg2 Nc6 6. O-O e6 7. d4 cxd4 8. Nxd4
+Bd7 9. Re1 Be7 10. Nxc6 Bxc6 11. e5 dxe5 12. Bxc6+ bxc6 13. Rxe5 O-O 14. Qxd8
+Rfxd8 15. Re2 c5 16. Na4 Rd1+ 17. Kg2 Rad8 18. b3 Nd5 19. c3 Rc8 20. Re4 Nf6 21.
+Re2 Nd5 22. Rd2 Rxd2 23. Bxd2 c4 24. Nb2 Bf6 25. Nxc4 Bxc3 26. Rd1 Bxd2 27. Rxd2
+g5 28. Kf3 Kg7 29. Ne3 Rc3 30. Rc2 f5 31. Rxc3 Nxc3 32. a4 g4+ 33. Kg2 Kf6 34.
+Nc2 Ne4 35. b4 Nc3 36. b5 axb5 37. a5 Nd5 38. a6 Nc7 39. a7 Ke5 40. Kf1 Kd5 41.
+Nb4+ Kc4 42. Nc6 Kd3 43. Ke1 Na8 44. Nd8 e5 45. Nc6 Ke4 46. Kd2 Kd5 47. Nb4+ Kc4
+48. Nc6 Kd5 49. Nb4+ Ke4 50. Nc6 f4 51. Kc3 Kd5 52. Nb4+ Ke4 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.26"]
+[Round "6.5"]
+[White "Svidler,P"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2773"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "4102142"]
+[BlackFideId "623539"]
+[EventDate "2019.04.20"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. dxc3 Qc7 7. e4 e6 8.
+Be3 Bd7 9. Nd2 Bc6 10. Qg4 Nd7 11. Qg3 O-O-O 12. Bf4 e5 13. Bg5 f6 14. Be3 g6
+15. Qh3 Kb8 16. Be2 Nb6 17. b3 h5 18. O-O Bh6 19. Bxh6 Rxh6 20. Qe3 Rh7 21. Rfd1
+Rhd7 22. Nf1 Rxd1 23. Rxd1 Rxd1 24. Bxd1 Nc8 25. f3 Qd6 26. Be2 Ne7 27. Qh6 f5
+28. Ne3 fxe4 29. Nc4 Qf6 30. fxe4 Kc7 31. g3 Ng8 32. Qh7+ Ne7 33. Qh6 Ng8 34.
+Qh7+ Ne7 35. Qh6 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.27"]
+[Round "7.1"]
+[White "Vachier Lagrave,M"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2693"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[WhiteFideId "623539"]
+[BlackFideId "2205530"]
+[EventDate "2019.04.20"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. g3 Bd7
+9. h4 Ne7 10. Bh3 h6 11. O-O O-O-O 12. h5 Kb8 13. Nh4 Rg8 14. Ng2 Qc7 15. Re1
+Nc8 16. Rb1 Nb6 17. Nf1 Be7 18. Be3 Rdf8 19. Qe2 Qc8 20. Nh2 Na8 21. g4 Nc7 22.
+f4 Nc6 23. Rf1 Re8 24. Nf3 g6 25. hxg6 fxg6 26. Rf2 Rh8 27. Qc2 h5 28. g5 Reg8
+29. Ngh4 Qe8 30. Nd2 Na5 31. Re1 Ba4 32. Qb1 Bd8 33. Bg2 Rg7 34. Bf3 Na8 35. Rh2
+Nb6 36. Kf2 Nc8 37. Nf1 Ne7 38. Ng3 a6 39. Reh1 Kc8 40. Kg1 Qf7 41. Rh3 Kc7 42.
+R1h2 Qe8 43. Ng2 Rf8 44. Nh4 Rh8 45. f5 exf5 46. Ne2 Kb8 47. Nf4 Qc6 48. Nhg2
+Bc7 49. Bf2 Nb3 50. Qe1 Qd7 51. Ne3 Bc6 52. Bg3 Rd8 53. Qf1 b5 54. Re2 Bb7 55.
+Qg2 Qc6 56. Re1 Rgg8 57. Rh2 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.27"]
+[Round "7.2"]
+[White "Keymer,Vincent"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2516"]
+[BlackElo "2735"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[WhiteFideId "12940690"]
+[BlackFideId "4102142"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Nbd2 Bb7 6. Bg2 O-O 7. O-O d5 8. Ne5
+Qc8 9. cxd5 Bxd5 10. f3 Rd8 11. Ne4 Nbd7 12. Nxf6+ Nxf6 13. e4 Bb7 14. Be3 Nd7
+15. Qb3 Be7 16. Nxd7 Qxd7 17. Rac1 c5 18. dxc5 Bxc5 19. Bxc5 bxc5 20. Rfd1 Qc7
+21. Qb5 a6 22. Qb3 h6 23. Bf1 a5 24. a3 Rxd1 25. Rxd1 Ba6 26. Bxa6 Rxa6 27. Qb5
+Rc6 28. Rd2 c4 29. Kg2 Kh7 30. Rc2 Rc5 31. Qe8 Qb7 32. Rd2 c3 33. bxc3 Rxc3 34.
+a4 Rc8 35. Qb5 Qxb5 36. axb5 Rb8 37. Rb2 g5 38. b6 Kg7 39. h4 gxh4 40. gxh4 a4
+41. Ra2 Rxb6 42. Rxa4 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.27"]
+[Round "7.3"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2763"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bd2 O-O 11. Qe2 e5 12. Nb3 Qc7 13. O-O Bg4 14. f3 Rc8
+15. Bd5 Nxd5 16. exd5 Bh5 17. c4 Nd7 18. Rfc1 b6 19. a4 a5 20. Qf2 Qd6 21. Be3
+Bg6 22. Qd2 f6 23. Qb2 Rc7 24. Nd2 Nc5 25. Qa3 Rd8 26. Rc3 f5 27. Re1 e4 28.
+fxe4 fxe4 29. Bxc5 Rxc5 30. Nxe4 Qe5 31. Rce3 Rcc8 32. h3 Qc7 33. Nd2 Re8 34.
+Re7 Rxe7 35. Rxe7 Qd8 36. Qe3 Rc7 37. Re6 Rc5 38. Qb3 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.27"]
+[Round "7.4"]
+[White "Anand,V"]
+[Black "Meier,Geo"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2628"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "4675789"]
+[EventDate "2019.04.20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3 Bd6
+8. Bd3 O-O 9. Qe2 b6 10. O-O-O Bb7 11. Kb1 c5 12. Bg5 h6 13. Bh4 Rc8 14. Rhe1
+Bxf3 15. Qxf3 c4 16. Be4 g5 17. Bg3 Bxg3 18. fxg3 Kg7 19. c3 b5 20. g4 Qd6 21.
+Rf1 Nxe4 22. Qxe4 Qxh2 23. d5 Qd6 24. Qd4+ e5 25. Qxa7 Rc5 26. Qb7 e4 27. Rf5 e3
+28. Kc1 b4 29. Qxb4 Rb8 30. Qa4 Rcb5 31. Qa7 R8b7 32. Qxe3 Rxb2 33. Qe5+ Qxe5
+34. Rxe5 Rxg2 35. Rd4 Rg1+ 36. Kc2 Rgb1 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.27"]
+[Round "7.5"]
+[White "Caruana,F"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2819"]
+[BlackElo "2695"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[WhiteFideId "2020009"]
+[BlackFideId "4650891"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nd2 O-O 6. Nf3 dxc4 7. O-O b5 8. a4
+c6 9. b3 c3 10. Nb1 Bb7 11. Qc2 c5 12. Nxc3 cxd4 13. Nxb5 Nc6 14. Qc4 Qe7 15.
+Nbxd4 Na5 16. Qb5 Rfd8 17. Bf4 Bc3 18. Rac1 a6 19. Qe5 Bxf3 20. Bxf3 Bxd4 21.
+Qxa5 Nd5 22. Bc7 Rd7 23. e3 Qf6 24. Bxd5 Rxd5 25. Qb4 Bb2 26. Rc2 h5 27. Qb7 Rf8
+28. Qxa6 h4 29. Qc4 h3 30. Qg4 Rd3 31. b4 Rb3 32. Qxh3 Ra8 33. b5 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.28"]
+[Round "8.1"]
+[White "Vallejo Pons,F"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2693"]
+[BlackElo "2695"]
+[ECO "D30"]
+[Opening "QGD"]
+[WhiteFideId "2205530"]
+[BlackFideId "4650891"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Nbd7 5. e3 h6 6. Bf4 dxc4 7. Bxc4 Bd6 8.
+Bxd6 cxd6 9. Nc3 d5 10. Bd3 b6 11. Ne5 Bb7 12. f4 O-O 13. O-O Ne4 14. Bxe4 dxe4
+15. Qa4 Nf6 16. f5 Qe7 17. h3 a5 18. Ng4 Nxg4 19. hxg4 Qg5 20. Rf4 exf5 21. Qd7
+Bc8 22. Qc6 Rb8 23. gxf5 Bxf5 24. Nxe4 Qg6 25. Qxg6 Bxg6 26. Nd6 Rfd8 27. Nb5
+Rbc8 28. Rd1 f6 29. a3 Rc2 30. Rf2 Rc4 31. Rfd2 Be8 32. Nc3 b5 33. Kf2 f5 34. d5
+Kf7 35. Rd4 Rdc8 36. e4 Kf6 37. Rxc4 bxc4 38. Ke3 Ke5 39. exf5 Rb8 40. Rd2 h5
+41. g3 Bd7 42. d6 Kxf5 43. Rd5+ Ke6 44. Kd4 Bc6 45. Rxh5 Rxb2 46. Rxa5 Kxd6 47.
+Rg5 Bg2 48. Rg6+ Ke7 49. Rxg7+ Kf6 50. Rg4 Bh3 51. Rf4+ Ke7 52. Kxc4 Be6+ 53.
+Kd3 Rg2 54. Ne2 Rh2 55. Ke3 Rh1 56. Ra4 Re1 57. Kf2 Ra1 58. Ra5 Kf6 59. Nc3 Bf5
+60. Nd5+ Kf7 61. Ke3 Bc2 62. g4 Ke6 63. Nf4+ Kd6 64. Ne2 Rd1 65. g5 Rd3+ 66. Kf2
+Rd2 67. Ke3 Rd3+ 68. Kf2 Rd2 69. g6 Ke7 70. Ra7+ Kf8 71. Ke3 Rd3+ 72. Kf4 Bd1
+73. Ng1 Rd6 74. Kg5 Rd5+ 75. Kf4 Rd6 76. Rf7+ Kg8 77. Kg5 Ra6 78. Kh6 Bc2 79.
+Rg7+ Kf8 80. Nf3 Rxa3 81. Ng5 Ra6 82. Nh7+ Ke8 83. Rg8+ Ke7 84. Rg7+ Ke8 85. Kg5
+Rxg6+ 86. Rxg6 Bxg6 87. Kxg6 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.28"]
+[Round "8.2"]
+[White "Meier,Geo"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2819"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "4675789"]
+[BlackFideId "2020009"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nf6 7. Nc3 Nd7 8. Be3
+e5 9. Qd2 h6 10. a3 b6 11. b4 Nf8 12. bxc5 Ne6 13. cxb6 axb6 14. Qc1 f5 15. a4
+f4 16. Bd2 O-O 17. Qb2 Nd4 18. Ne2 Nxf3+ 19. gxf3 Be6 20. Rb1 Ra6 21. Bc3 Qc7
+22. Rg1 Kh7 23. h4 Rb8 24. Ra1 c5 25. Kd2 Rd8 26. Rgd1 Bh3 27. Qb5 Rda8 28. Rg1
+Qd6 29. Qb2 R8a7 30. Rab1 Qf6 31. a5 Bd7 32. axb6 Rb7 33. h5 g5 34. Ra1 Raxb6
+35. Qa3 Qd6 36. Nc1 Be6 37. Rh1 Bf7 38. Ke2 Qd7 39. Qa4 Rc6 40. Qa5 c4 41. Ra3
+Rbc7 42. Kd2 Rc5 43. Qa8 Rc8 44. Ra7 Qb5 45. Qxc8 Rxc8 46. Rxf7 Kg8 47. Rxg7+
+Kxg7 48. d4 exd4 49. Bxd4+ Kf7 50. Rd1 c3+ 51. Ke1 Qb2 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.28"]
+[Round "8.3"]
+[White "Svidler,P"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2845"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[WhiteFideId "4102142"]
+[BlackFideId "1503014"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Nf6 7. Nf1 Nd7 8. Nd5
+Nb6 9. Nxb6 axb6 10. c3 O-O 11. Ne3 Bg5 12. O-O Kh8 13. a3 f5 14. Nxf5 Bxc1 15.
+Rxc1 Bxf5 16. exf5 d5 17. Ba2 Rxf5 18. Qg4 Rf6 19. f4 exf4 20. Qg5 Qf8 21. Qxd5
+Rd8 22. Qf3 Ne5 23. Qe4 Ng4 24. Rce1 Ne3 25. Rf2 Re8 26. Qxb7 g5 27. Rfe2 g4 28.
+Rf2 Qh6 29. Qc7 Ref8 30. h3 gxh3 31. g3 fxg3 32. Rxf6 h2+ 33. Kh1 g2# 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.28"]
+[Round "8.4"]
+[White "Vachier Lagrave,M"]
+[Black "Keymer,Vincent"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2773"]
+[BlackElo "2516"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[WhiteFideId "623539"]
+[BlackFideId "12940690"]
+[EventDate "2019.04.20"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 d5 7. exd6 Qxd6 8. O-O
+Be6 9. Na3 Bxb3 10. axb3 Qd3 11. Re1 e6 12. Re3 Qd7 13. Nc4 Nxc4 14. bxc4 Be7
+15. d4 cxd4 16. cxd4 O-O 17. Rd3 b5 18. cxb5 Nb4 19. Ne5 Qxb5 20. Rh3 Nd5 21.
+Rb3 Qe8 22. Rg3 f5 23. Qe2 Bf6 24. Rga3 Qe7 25. Nf3 Rfb8 26. Ra6 Rb6 27. Rxb6
+Nxb6 28. Bf4 Rc8 29. g3 Qd7 30. Bg5 Rc7 31. Re1 Kf7 32. h4 Rc6 33. h5 h6 34.
+Bxf6 gxf6 35. Nh4 Nd5 36. g4 Ne7 37. Qe3 Rc8 38. gxf5 Rg8+ 39. Kh2 Nxf5 40. Nxf5
+exf5 41. Qb3+ Kf8 42. Qb4+ Kf7 43. Qc4+ Kf8 44. Qc5+ Kf7 45. Ra1 Ra8 46. Ra6 Qe8
+47. Qxf5 Qb8+ 48. Kh3 Qc8 49. Rxf6+ 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.28"]
+[Round "8.5"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2774"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Qe2 Qe7 7. h3 Bd6 8.
+Nbd2 Nd7 9. O-O O-O 10. Nc4 Re8 11. Re1 c5 12. Nh2 Nf8 13. f4 exf4 14. Qf2 Ng6
+15. Rf1 Be6 16. Nxd6 cxd6 17. Bxf4 d5 18. exd5 Bxd5 19. Bd2 b6 20. Ng4 Qe2 21.
+Ne3 Qxf2+ 22. Kxf2 Be6 23. Bc3 Ne7 24. Rfe1 Nd5 25. Nxd5 Bxd5 26. b3 f6 27.
+Rxe8+ Rxe8 28. Re1 Kf7 29. Rxe8 Kxe8 30. Bd2 Kd7 31. Bc3 Ke8 32. Bd2 Kd7 33. Bc3 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.29"]
+[Round "9.1"]
+[White "Naiditsch,A"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2628"]
+[ECO "A10"]
+[Opening "English opening"]
+[WhiteFideId "4650891"]
+[BlackFideId "4675789"]
+[EventDate "2019.04.20"]
+
+1. c4 b6 2. Nc3 Bb7 3. e4 e5 4. Nge2 Nc6 5. g3 Bc5 6. Bg2 h5 7. h3 d6 8. d3 Qd7
+9. h4 f5 10. exf5 Qxf5 11. O-O Nf6 12. d4 exd4 13. Nb5 Qc8 14. Nf4 Ne5 15. Ne6
+Bxg2 16. Kxg2 c6 17. Nbc7+ Kd7 18. Re1 Bb4 19. f4 Neg4 20. Re2 Qb7 21. Nxa8 c5+
+22. Kg1 Rxa8 23. Qd3 b5 24. a3 Ba5 25. b4 bxc4 26. Qf5 Qd5 27. Nxd4+ Qxf5 28.
+Nxf5 cxb4 29. Re7+ Kd8 30. Rxg7 b3 31. Nxd6 Bb6+ 32. Kg2 c3 33. Rb1 b2 34. Bxb2
+cxb2 35. Rxb2 Rb8 36. Rf7 Nd7 37. Ne4 Ne3+ 38. Kh3 Rc8 39. Rd2 Rc7 40. Nf6 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.29"]
+[Round "9.2"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2819"]
+[BlackElo "2763"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 15.
+g3 Qh3 16. Nd2 Rae8 17. Ne4 Bg4 18. Qg2 Qxg2+ 19. Kxg2 f5 20. h3 Bh5 21. Bf4
+Bxf4 22. gxf4 fxe4 23. dxe4 Bf3+ 24. Kxf3 Rxf4+ 25. Kg3 Rfxe4 26. Rxe4 Rxe4 27.
+f3 Re5 28. c4 bxc4 29. Bxc4 a5 30. Rc1 Rg5+ 31. Kf2 Kf8 32. Bd3 Ne7 33. Rc4 Rh5
+34. h4 Ke8 35. b4 axb4 36. Rxb4 Kd7 37. a4 g6 38. Kg3 Ra5 39. Rd4+ Ke6 40. Kg4
+Nd5 41. Kg3 Ne7 42. Kg4 Nd5 43. Kg3 Ne7 1/2-1/2
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.29"]
+[Round "9.3"]
+[White "Carlsen,M"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2773"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "623539"]
+[EventDate "2019.04.20"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 d6 6. O-O Bf5 7. h3 Nf6 8. d3 O-O
+9. Be3 a6 10. Qd2 b5 11. cxb5 axb5 12. Nxb5 Qa5 13. Nc3 Rab8 14. Rfc1 Rfc8 15.
+b3 e5 16. Bh6 Nd4 17. Bxg7 Nxf3+ 18. exf3 Kxg7 19. f4 Qa6 20. fxe5 dxe5 21. Na4
+Nd7 22. Rc3 Rb4 23. g4 Be6 24. Nxc5 Nxc5 25. Rxc5 Rxb3 26. Rxc8 Bxc8 27. Rc1
+Rxd3 28. Qe2 Be6 29. Qxe5+ Kg8 30. Rb1 Rd8 31. Rb8 Rxb8 32. Qxb8+ Kg7 33. Bd5
+Bxd5 34. Qe5+ f6 35. Qxd5 h5 36. gxh5 gxh5 37. Qd7+ Kg6 38. a4 Qe2 39. Qd5 f5
+40. a5 f4 41. Kg2 Kh6 42. Qf5 Qc4 43. Kf3 1-0
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.29"]
+[Round "9.4"]
+[White "Keymer,Vincent"]
+[Black "Vallejo Pons,F"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2516"]
+[BlackElo "2693"]
+[ECO "A61"]
+[Opening "Benoni defence"]
+[WhiteFideId "12940690"]
+[BlackFideId "2205530"]
+[EventDate "2019.04.20"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. h3 Bg7 8. e4 O-O
+9. Bd3 a6 10. a4 Nh5 11. g4 Nf6 12. Bf4 Ne8 13. Qd2 Nd7 14. O-O h5 15. gxh5 Ne5
+16. Nxe5 dxe5 17. Bg5 f6 18. Be3 c4 19. Bxc4 Nd6 20. Qe2 f5 21. f4 Qh4 22. Bc5
+Qg3+ 23. Kh1 Qxh3+ 24. Qh2 Qxh2+ 25. Kxh2 Nxc4 26. Bxf8 Kxf8 27. hxg6 exf4 28.
+exf5 Bxf5 29. Rae1 Re8 30. Rxe8+ Kxe8 31. Re1+ Be5 32. Nd1 Bxg6 33. Kg2 Bc2 34.
+Kf3 Kd7 35. Nf2 Kd6 36. Rc1 Ne3 0-1
+
+[Event "GRENKE Chess Classic 2019"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2019.04.29"]
+[Round "9.5"]
+[White "Anand,V"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2735"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "4102142"]
+[EventDate "2019.04.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Na5 10. Ba2 Be6 11. b4 Bxa2 12. Rxa2 Nc6 13. Bg5 Ng4 14. Bd2 Nf6 15. Re1
+Qd7 16. Nd5 Nxd5 17. exd5 Na7 18. a4 c6 19. axb5 axb5 20. Qa1 cxd5 21. Be3 d4
+22. Nxd4 exd4 23. Bxd4 Bf6 24. Bxf6 gxf6 25. Re3 Rfe8 26. Rg3+ Kf8 27. h3 Re6
+28. c4 bxc4 29. dxc4 Qc7 30. Kh2 Qxc4 31. Rxa7 Rxa7 32. Qxa7 Qxb4 33. Qa8+ Re8
+34. Qf3 Re6 35. Qa8+ Re8 36. Qf3 Re6 37. Qa8+ Re8 1/2-1/2

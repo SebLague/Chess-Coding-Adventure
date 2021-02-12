@@ -1,0 +1,826 @@
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Giri,A"]
+[Black "Dubov,Daniil"]
+[Result "1/2-1/2"]
+[WhiteElo "2787"]
+[BlackElo "2690"]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 e5 5.Nxe5 O-O 6.Nf3 Re8 7.d3 d5 8.cxd5 Nxd5
+9.Bd2 Bg4 10.Qb3 Nxc3 11.bxc3 Na6 12.Be2 Nc5 13.Qc2 Bxf3 14.gxf3 Qh4 15.d4 Ne6
+16.Qc1 c6 17.a4 Qh3 18.Rb1 b6 19.Be3 Rac8 20.Qd2 f5 21.Qd3 Kh8 22.e5 c5 23.d5 f4
+24.dxe6 Rcd8 25.Qe4 fxe3 26.fxe3 Rxe6 27.Rd1 Rde8 28.Bf1 Qh6 29.Qf4 g5 30.Qg4 Bxe5
+31.Bb5 Rf8 32.Rd7 Bf4 33.Bd3 Rxe3+ 34.Kf2 Rfe8 35.h4 R3e7 36.Rxe7 Rxe7  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Vitiugov,N"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2734"]
+[BlackElo "2739"]
+[ECO "A36"]
+
+1.c4 g6 2.Nc3 c5 3.g3 Bg7 4.Bg2 Nc6 5.b3 e5 6.Bb2 Nge7 7.e3 d6 8.Nge2 O-O
+9.d3 Rb8 10.h4 h6 11.Qd2 Bg4 12.O-O-O a6 13.f3 Be6 14.h5 d5 15.cxd5 Nxd5
+16.hxg6 fxg6 17.Kb1 Qe7 18.f4  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Wei Yi"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2708"]
+[ECO "A13"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 d4 5.e3 c5 6.O-O Nc6 7.exd4 cxd4 8.d3 Bd6
+9.Bg5 h6 10.Bxf6 Qxf6 11.Nbd2 Qe7 12.a3 a5 13.Ne4 Bc7 14.b4 axb4 15.axb4 Rxa1
+16.Qxa1 f5 17.Nc5 O-O 18.Re1 Nxb4 19.Nxe6 Nc2 20.Nxf8 Qxe1+ 21.Qxe1 Nxe1
+22.Nxe1 Kxf8 23.Bd5  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Wojtaszek,R"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2724"]
+[BlackElo "2781"]
+[ECO "D82"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 c5 6.dxc5 Qa5 7.Rc1 dxc4 8.Bxc4 O-O
+9.Ne2 Qxc5 10.Qb3 Qa5 11.O-O Nbd7 12.Nb5 Ne4 13.Bc7 b6 14.Bxf7+ Rxf7 15.Qd5 Nec5
+16.Qxa8 Qxb5 17.Nd4 Qa6 18.b4 Nd3 19.Rcd1 Nb2 20.Rb1 Bxd4 21.exd4 Nc4 22.Rbc1 b5
+23.a4 Qb7 24.Qxb7 Bxb7 25.axb5 Na3 26.f4 Nxb5 27.Be5 Rf8 28.g3 Kf7 29.f5 g5
+30.g4 a6 31.Kf2 Nf6 32.Rg1 Rh8 33.Ke2 h6 34.h3 Rd8 35.Rc4 Rg8 36.Re1 Nd5
+37.Kf2 Rd8 38.Kg3 Ndc3 39.Kh2 Ne4 40.Re2 Nec3 41.Re3 Nd5 42.Re2 Rd7 43.Kg3 Nf6
+44.h4 Rd8 45.hxg5 hxg5 46.Bxf6 exf6 47.Rh2 Kg7 48.Rd2 Rd7 49.Rc1 Bd5 50.Kf2 Kf7
+51.Rc5 Ke7 52.Re2+ Kd6 53.Re8 Nxd4 54.Ra5 Bb7 55.Ra3 Kd5 56.Rc3 Bc6 57.Ke3 Nb3
+58.Re6 Bb5 59.Rxb3 Kc4 60.Rb1 Kc3 61.Rxf6 Rd3+ 62.Ke4 Rd4+ 63.Ke5 Rxg4 64.Rb6 Bd3
+65.Rc6+ Kd2 66.Rb2+ Ke3 67.f6  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Karjakin,Sergey"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2772"]
+[ECO "D45"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.a4 Bd6 7.a5 O-O 8.Be2 e5 9.cxd5 cxd5
+10.dxe5 Nxe5 11.O-O Bc7 12.Qb3 Nc6 13.a6 bxa6 14.Qa4  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Duda,J"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2754"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d5 7.exd5 Nxd5 8.a4 a6
+9.Re1 Bg4 10.Nbd2 Kh8 11.h3 Bh5 12.Ne4 Ba7 13.Ng3 Bg6 14.Nxe5 Nxe5 15.Rxe5 Nb6
+16.Qf3 c6 17.Bf4 Bb8 18.Ree1 Nxc4 19.dxc4 Qh4 20.Ne2 Ba7 21.Bd6 Rfe8 22.Nf4 Bc2
+23.c5 a5 24.Re2 Bb3 25.Ra3  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Radjabov,T"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2761"]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.c4 Be7 5.O-O O-O 6.d4 dxc4 7.Qc2 b5 8.a4 b4
+9.Nbd2 Bb7 10.Nxc4 c5 11.dxc5 Be4 12.Qd1  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.17"]
+[Round "1.1"]
+[White "Nepomniachtchi,I"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2762"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d4 Nxd4
+9.Bxf7+ Rxf7 10.Nxe5 Rf8 11.Qxd4 Bb7 12.Nc3 c5 13.Qd1 b4 14.Nd5 Nxd5 15.exd5 Bd6
+16.c4 bxc3 17.bxc3 a5 18.Nf3 Qf6 19.Bg5 Qg6 20.Be7 Bxe7 21.Rxe7 Qd6 22.Qe2 Bxd5
+23.Rd1 Rab8 24.Ne1 Qc6 25.Qe5 Bf7 26.Rdxd7 Rfe8 27.Qf4 Qf6 28.Rxe8+ Rxe8
+29.Qd2 Qe6 30.Rd8 h6 31.Rxe8+ Qxe8 32.a3 Qa4 33.Qc1 Bg6 34.Nf3 Qb3 35.Ne5 Bc2
+36.Ng4 a4 37.h3 Bf5 38.Ne5 Kh7 39.Kh2 Qa2 40.Kg1 Kg8 41.Qf4 Qxa3 42.Qxf5 Qxc3
+43.Nc6 Kh8 44.Qf7 Qb3 45.Qe8+ Kh7 46.Qe4+ Kh8 47.Na5 Qd1+ 48.Kh2 Qd6+ 49.f4 a3
+50.Qa4 c4 51.Qxc4 Qd2 52.Nb3 Qe3 53.Nc1 h5 54.h4 Qe7 55.Qc8+ Kh7 56.Qf5+ g6
+57.Qh3 Qf7 58.f5 Qc7+ 59.Qg3 Qxc1 60.Qxg6+ Kh8 61.Qxh5+ Kg7 62.Qg6+ Kf8 63.Qf6+ Ke8
+64.Qe6+ Kf8 65.Qd6+ Kf7 66.Qe6+ Kf8 67.Qf6+ Kg8 68.Qe5 Kf7 69.f6 Qc4 70.Qe7+ Kg6
+71.Qg7+ Kf5 72.Qg5+  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "Nakamura,Hi"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2759"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.g3 O-O 6.Bg2 dxc4 7.Ne5 c5 8.dxc5 Qxd1+
+9.Nxd1 Bxc5 10.O-O Nd5 11.Ne3 Nc6 12.N3xc4 Nxe5 13.Nxe5 Bd4 14.Nd3  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "Dubov,Daniil"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2787"]
+[ECO "D30"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 dxc4 5.e4 b5 6.a4 c6 7.Nc3 b4 8.Nb1 Ba6 9.e5 h6
+10.Bxf6 gxf6 11.exf6 c5 12.Nbd2 c3 13.bxc3 bxc3 14.Ne4 cxd4 15.Bb5+ Bxb5
+16.axb5 Qd5 17.Qxd4 Qxb5 18.Nxc3 Bb4 19.O-O-O Qa5 20.Nb5 Na6 21.Qd7+ Kf8
+22.Kb1 Ba3 23.Rd3 Qb4+ 24.Kc2 Qa4+ 25.Kd2 Bb4+ 26.Ke2 Kg8 27.Ne5 Qc2+ 28.Kf3 Rf8
+29.Rhd1 h5 30.Qd4 Rh7 31.Qf4 Bc5 32.Nd4 Qa2 33.R1d2 Qd5+ 34.Ke2 Bb4 35.Ndc6 Qc5
+36.Ne7+ Kh8  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "Grischuk,A"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2752"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 h6 7.Bh4 O-O 8.e3 Bf5
+9.Be2 Nbd7 10.Qb3 Bxc3+ 11.Qxc3 c6 12.Nd2 Ne4 13.Bxd8 Nxc3 14.bxc3 Rfxd8
+15.a4 c5 16.Nf1 Rac8 17.Ng3 Bh7 18.Kd2 Rc7 19.a5 Kf8 20.h4 Nf6 21.Bf3 Ke7
+22.h5 Kd6 23.Ra3 cxd4 24.exd4 Re8 25.Nf1 Be4 26.Ne3 Bxf3 27.Nf5+ Kc6 28.gxf3 Rg8
+29.Raa1 Kd7 30.Rag1 Rgc8 31.Rc1 Rg8 32.Rce1 b6 33.a6 b5 34.Re5 Rb8 35.Rg1 Nxh5
+36.Rxd5+ Ke6 37.Re5+ Kd7 38.Nxg7 Nxg7 39.Rxg7 Kd6 40.Rh7 b4 41.Rxh6+ Kd7
+42.Rd5+ Ke7 43.Re5+ Kd7 44.cxb4 Rxb4 45.Ke3 Rc3+ 46.Ke4 Rcc4 47.Rd5+ Ke7
+48.f4 Rc2 49.f3 Ra4 50.f5 Re2+ 51.Kf4 Rea2 52.Rhd6  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "Jakovenko,D"]
+[Black "Wei Yi"]
+[Result "0-1"]
+[WhiteElo "2708"]
+[BlackElo "2736"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.c3 b5 7.Bb3 d6 8.Bg5 h6 9.Bh4 Bd7
+10.O-O Bb6 11.a4 Rb8 12.axb5 axb5 13.Na3 g5 14.Bg3 Ne7 15.d4 exd4 16.e5 dxe5
+17.Nxe5 O-O 18.cxd4 Nf5 19.Nc2 Kg7 20.Qf3 Nxd4 21.Nxd4 Bxd4 22.Rad1 c5 23.Nxd7 Qxd7
+24.Bxb8 Rxb8 25.Bc2 Qd5 26.Qg3 Re8 27.b3 Nh5 28.Qg4 Nf4 29.h4 Re2 30.hxg5 hxg5
+31.Bd3 Rb2 32.Bxb5 Rxb3 33.Ba6 Kg6  0-1
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "Svidler,P"]
+[Black "Vitiugov,N"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2734"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Bc2 f5 12.Nb3 Qd7 13.Nfd4 Nxd4 14.Nxd4 c5 15.Ne2 Rad8
+16.f3 Ng5 17.Be3 d4 18.cxd4 cxd4 19.Nxd4 Bc5 20.Bxg5 Bxd4+ 21.Kh1 Rde8 22.Bb3 Bxb3
+23.Qxb3+ Qe6 24.f4 Qxb3 25.axb3 Re6 26.Rfd1 Bxb2 27.Ra2 Bc3 28.Rd6 Rfe8 29.Raxa6 Rxd6
+30.Rxd6 h6 31.Bd8 Kf7 32.Rd7+ Ke6 33.Rd6+ Kf7 34.g3 Re6 35.Rd5 Ra6 36.Rxb5 Ra1+
+37.Kg2 Ra2+ 38.Kh3 Bd2 39.Rb7+ Ke8 40.Bb6 g5 41.fxg5 hxg5 42.Bc5 g4+ 43.Kh4 Bc1
+44.Kh5 Rxh2+ 45.Kg6 Rc2 46.Bd6  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "So,W"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2728"]
+[ECO "B78"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6
+9.Bc4 Bd7 10.O-O-O Ne5 11.Bb3 Rc8 12.Kb1 Nc4 13.Bxc4 Rxc4 14.g4 b5 15.b3 b4
+16.bxc4 bxc3 17.Qxc3 Qc7 18.g5 Nh5 19.Ka1 Rc8 20.Rb1 Be6 21.Rb2 Bxc4 22.Rhb1 d5
+23.exd5 Nf4 24.Rb7 Qe5 25.R1b4 Nxd5 26.Rxc4 Rf8 27.Rc5 Nxc3 28.Rxe5 Bxe5
+29.Nc6 Bg7 30.Bxa7 e5 31.Kb2 e4 32.fxe4 Nxe4+ 33.Kb3 Re8 34.a4 Re6 35.Nd4 Ra6
+36.Rb8+ Bf8 37.Bb6 Kg7 38.a5 Bd6 39.Re8 f5 40.gxf6+ Nxf6 41.Rd8 Bxh2 42.Ne6+ Kf7
+43.Nc5 Rxb6+ 44.axb6 h5 45.b7 h4 46.Rd2 Bc7 47.Ne4 Ke6 48.Nxf6 Kxf6 49.Rd7 Bg3
+50.Rh7 g5 51.Kc4 Kf5 52.Kd3 Kg4 53.Ke2 Kh3 54.c4 Kg2 55.Rh5  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "Aronian,L"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2762"]
+[BlackElo "2773"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nc3 Nb6 6.e3 Nc6 7.Nge2 Qd3 8.f4 Bb4
+9.fxe5 Nxe5 10.Nf4 Qa6 11.Qc2 O-O 12.d4 Ng4 13.Nd3 Bxc3+ 14.Qxc3 Na4 15.Qb3 c5
+16.dxc5 Bf5 17.Nb4 Qa5 18.O-O Nxc5 19.Qc4 Ne5 20.Qd4 Bd3 21.Rd1 Be2 22.Qxe5 Rae8
+23.Qf5 Qxb4 24.Bd2 Qb6 25.Rdc1 Nd3 26.Rc2 Rxe3 27.Qa5 Qxa5 28.Bxa5 b6 29.Bd2 Re7
+30.a4 h6 31.a5 bxa5 32.Bxa5 Rb8 33.Bc3 Bh5 34.Bf1 Bg6 35.Rd2 Nc5 36.Rdd1  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.18"]
+[Round "1.2"]
+[White "Mamedyarov,S"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2724"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.d4 exd4 8.Nxd4 Nxd4
+9.Qxd4 c5 10.Qh4 d5 11.f3 O-O 12.cxd5 Nxd5 13.Qxe7 Nxe7 14.Bc4 Nc6 15.b3 Re8
+16.Kf2 Be6 17.Bb5 Red8 18.Bxc6 bxc6 19.e4 c4 20.bxc4 Rab8 21.Be3 Rb2+ 22.Kg3 h5
+23.h4 Bxc4 24.Rhc1 Rxa2 25.Rxa2 Bxa2 26.Rxc6 Ra8 27.Rc5 g6 28.Ra5 Be6 29.Bxa7 f6
+30.Kf4 Kf7 31.Ra6 Bd7 32.Ke3 Be6 33.Kd4 Rd8+ 34.Ke3 Ra8 35.f4 Bd7 36.Ra5 Be6
+37.Kd4 Rd8+ 38.Kc3 Ra8 39.g3 Bd7 40.Kd4 Be6 41.Ke3 Bd7 42.Ra6 Bb5 43.Ra5 Bc6
+44.e5 Bb7 45.Kd4 Ke6 46.exf6  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.19"]
+[Round "1.4"]
+[White "Duda,J"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2754"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.a4 d5 7.exd5 Nxd5 8.a5 a6
+9.Nbd2 f6 10.Ne4 Ba7 11.Qb3 Ne7 12.O-O Kh8 13.h3 b5 14.axb6 cxb6 15.d4 exd4
+16.Nxd4 b5 17.Bd3 b4 18.Rd1 bxc3 19.bxc3 Rb8 20.Qa3 Bxd4 21.cxd4 Nc6 22.Bc4 Ncb4
+23.Qg3 Rb6 24.Nc5 Qd6 25.Qf3 Rd8 26.Bb3 Be6 27.Re1 Bg8 28.Re4 a5 29.Bd2 Nc6
+30.Bxa5 Ra8 31.Bc3 Rab8 32.Bc2 Ndb4 33.Ba4 Bd5 34.Qf4 Qxf4 35.Rxf4 Ra8 36.Re1 h6
+37.Rg4 Na2 38.Bd2 Rb2 39.Bxh6 gxh6 40.Bxc6 Bxc6 41.Re6 h5 42.Rg3 Nc1 43.Rxc6 Ne2+
+44.Kh2 Nxg3 45.Kxg3 h4+ 46.Kxh4 Rxf2 47.g4 Kg7 48.Kg3 Rd2 49.Rxf6 Ra3+ 50.Rf3 Rxf3+
+51.Kxf3 Kf7 52.Kf4 Rxd4+ 53.Ne4 Ke6 54.Ke3 Rd1 55.h4 Ke5 56.Ng5 Re1+ 57.Kf3 Ra1
+58.Nf7+ Kf6 59.Nd6 Ke5 60.Nc4+ Kd4 61.Nd6 Ke5 62.Nf7+ Kf6 63.Nd6 Ke5 64.Nc4+ Kd4
+65.Nd2 Ke5 66.g5 Kf5 67.Nc4 Kg6 68.Ne3 Ra3 69.Kf4 Ra4+ 70.Kg3 Ra3 71.Kf4 Ra4+
+72.Kg3 Ra3  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.19"]
+[Round "1.4"]
+[White "Radjabov,T"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2761"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.Bd3 Bb4+ 11.Nd2 d4 12.Qc2 Nc6 13.O-O dxe3 14.Bxe3 h6 15.Nf3 Bg4
+16.Bh7+ Kh8 17.Be4 Rc8 18.Bf5 Bxf5 19.Qxf5 Qa5 20.Qd7 Rc7 21.Qh3 Re8 22.Rad1 Bf8
+23.Bf4 Rce7 24.a3 Qb5 25.b4 a5 26.Bd6 Re6 27.Bxf8 Rxf8 28.bxa5 Qxa5 29.Rd7 Rf6
+30.Rxb7 Qxa3  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.19"]
+[Round "1.3"]
+[White "So,W"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2728"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O 7.Re1 a5 8.Nbd2 Be6
+9.Bb5 Ne7 10.d4 Ba7 11.Nf1 Ng6 12.Ng3 c6 13.Bd3 a4 14.h3 b5 15.Be3 Bb6 16.Qd2 Re8
+17.a3 Rb8 18.Rad1 Bc7 19.Bc2 h6 20.Nf5 Bxf5 21.exf5 Nf8 22.dxe5 dxe5 23.Qxd8 Rbxd8
+24.c4 N8d7 25.g4 Rb8 26.cxb5 cxb5 27.Kg2 Nb6 28.Bxb6 Rxb6 29.Be4 Bd6 30.Re2 Kf8
+31.Bc2 e4 32.Nd2 Be5 33.Rb1 Rc6 34.Bxe4 Bd4 35.Nf3 Bxf2 36.Bxc6 Rxe2 37.Bxb5 Re3
+38.Kxf2 Rb3 39.Bxa4 Ne4+ 40.Kg2 Rb8 41.Bc2 Nd6 42.b4 Rc8 43.Bb3 Rc3 44.a4  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.19"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2761"]
+[BlackElo "2759"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 dxc4 7.e3 c5 8.Bxc4 cxd4
+9.Nxd4 O-O 10.O-O Bd7 11.Qe2 Nc6 12.Rfd1 Qb6 13.Nf3 Rfd8 14.e4 Be8 15.e5 Nd7
+16.Bxe7 Nxe7 17.Rd6 Qa5 18.Rad1 Nf5 19.R6d2 Nf8 20.Bd3 Bc6 21.Be4 Rxd2 22.Rxd2 Rc8
+23.h4 a6 24.h5 b5 25.a3 Bxe4 26.Qxe4 Qb6 27.Kh2 Qa7 28.Qd3 Rc7 29.Ne4 Rd7
+30.Nd6 Qb6 31.g4 Nxd6 32.exd6 f6 33.Nh4 Kf7 34.f4 Ke8 35.f5 e5 36.Qd5 Qe3
+37.Ng6 Nxg6 38.hxg6 Qf4+ 39.Kh3 Qf1+ 40.Kh4 Qe1+ 41.Kh5  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.20"]
+[Round "2.1"]
+[White "Nakamura,Hi"]
+[Black "Dubov,Daniil"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2690"]
+[ECO "D33"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.Nf3 d5 5.cxd5 exd5 6.d4 Nc6 7.Bg2 cxd4 8.Nxd4 Bc5
+9.Nb3 Bb6 10.O-O d4 11.Na4 O-O 12.Bg5 Re8 13.Nxb6 axb6 14.e3 d3 15.Bxf6 gxf6
+16.a3 Be6 17.Rc1 Rc8 18.Rc3 Ne5 19.Nd4 Rxc3 20.bxc3 Qc7 21.Qd2 Bd7 22.Re1 Rc8
+23.Rc1 Qc5 24.f4 Nc4 25.Qxd3 Qxa3 26.Rb1 Nd6 27.Ne2 Bf5 28.e4  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.20"]
+[Round "2.1"]
+[White "Svidler,P"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2724"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 e6 7.a4 b6 8.c3 Bb7
+9.Na3 Qc7 10.Qe2 Be7 11.Bb1 O-O 12.d4 Bc6 13.Bd3 Qb7 14.Bg5 h6 15.Bh4 cxd4
+16.cxd4 Rfe8 17.Nc2 a5 18.b4 Qa7 19.Nd2 Rac8 20.Bg3  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.20"]
+[Round "2.1"]
+[White "Wei Yi"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2773"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.Nc3 e5 8.Qd3 h6
+9.Nd2 Rc8 10.Nc4 Be6 11.Ne3 Nf6 12.O-O Be7 13.a4 O-O 14.a5 Qd7 15.Bd2 Bd8
+16.Ncd5 Nxd5 17.exd5 Bg4 18.f4 exf4 19.Nxg4 Qxg4 20.Bxf4 Re8 21.Rf3 Bf6 22.c3 Be5
+23.h3 Qh4 24.Ra4 Bxf4 25.Raxf4 Qe1+ 26.Rf1 Qe2 27.Qxe2 Rxe2 28.Rb4 Rc7 29.Rf2 Re1+
+30.Rf1 Re2 31.Rf2 Re1+  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.20"]
+[Round "2.1"]
+[White "Grischuk,A"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2754"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 b6 7.cxd5 Nxd5 8.Nxd5 Qxd5
+9.Be2 Qa5+ 10.Nd2 Ba6 11.O-O c5 12.Nc4 Bxc4 13.Bxc4 cxd4 14.exd4 Nc6 15.d5 exd5
+16.Qxd5 Qxd5 17.Bxd5 Rac8 18.Rad1 Rfd8 19.g3 Bf6 20.Kg2 h5 21.b3 g5 22.Be3 Nb4
+23.Bb7 Rc7 24.Rxd8+ Bxd8 25.Rd1 Bf6 26.Bf3 g4 27.Be2 Nxa2 28.Bf4 Rc2  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.21"]
+[Round "2.2"]
+[White "Wojtaszek,R"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2724"]
+[BlackElo "2739"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.f3 e6 4.e4 c5 5.d5 d6 6.Nc3 Bg7 7.Nge2 O-O 8.Ng3 exd5
+9.cxd5 a6 10.a4 h5 11.Bg5 Qe8 12.Bd3 Nh7 13.Bf4 Qe7 14.Nge2 Nd7 15.O-O Ne5
+16.Bc2 Rb8 17.a5 b5 18.axb6 Rxb6 19.Bc1 h4 20.f4 Ng4 21.h3 Ngf6 22.Ra2 Bd7
+23.Qe1 Nh5 24.Be3 Rfb8 25.b3 Rxb3 26.Bxb3 Rxb3 27.Bd2 Bd4+ 28.Kh2 N7f6 29.Rf3 Rb4
+30.Rxa6 Rc4 31.Ra7 Qd8 32.Qa1 Nxe4 33.Ra8 Bc8 34.Qa6 Nxd2 35.Rxc8 Nxf3+ 36.gxf3 Qxc8
+37.Qxc8+ Kg7 38.Nxd4 Rxd4 39.Qd8 Rd2+ 40.Kg1 Nxf4 41.Qxd6 Nxh3+ 42.Kf1  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.21"]
+[Round "2.2"]
+[White "Nepomniachtchi,I"]
+[Black "Wei Yi"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2736"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Bc2 f5 12.exf6 Nxf6 13.Re1 Qd7 14.a4 Bf5 15.Bxf5 Qxf5
+16.axb5 axb5 17.Rxa8 Rxa8 18.Nf1 Qd7 19.Bg5 Rd8 20.Ng3 h6 21.Bxf6 Bxf6 22.Nh5 Qf5
+23.Nxf6+ Qxf6 24.Qb3 b4 25.cxb4 Nd4 26.Nxd4 Qxd4 27.Rd1 Qe5 28.g3 Kh8 29.Qc3 d4
+30.Qd3 c6 31.b3 Qd6 32.Rc1 Rb8 33.h4 Rxb4 34.Qa6 Rb8 35.Rxc6 Qd5 36.Rc8+ Rxc8
+37.Qxc8+ Kh7 38.Qc4 Qf3 39.Qxd4 Qxb3 40.Qe4+ Kh8 41.Kg2 Qf7 42.g4 Qf6 43.Kg3 g5
+44.hxg5 hxg5 45.Qf5 Qe7 46.Kf3 Kg7 47.Qe4 Qf6+ 48.Qf5 Qe7 49.Qd5 Qf6+ 50.Ke2 Qb2+
+51.Qd2 Qb5+ 52.Qd3 Qb2+ 53.Kf1 Qc1+ 54.Kg2 Qc6+ 55.f3 Qe6 56.Qd4+ Qf6 57.Qb4 Qe5
+58.Kf2 Kf7 59.Qe4 Qb2+ 60.Ke3 Qc3+ 61.Ke2 Qb2+ 62.Kd3 Qb3+ 63.Kd4 Qb4+ 64.Ke5 Qb2+
+65.Qd4 Qe2+ 66.Qe4 Qb2+ 67.Qd4 Qe2+ 68.Qe4  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.21"]
+[Round "2.2"]
+[White "Dubov,Daniil"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2761"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 b5 8.a4 b4
+9.Nbd2 Bb7 10.Nxc4 c5 11.dxc5 Be4 12.Qd2 Nbd7 13.Nfe5 Bxg2 14.Kxg2 Bxc5 15.Nxd7 Nxd7
+16.b3 Nb6 17.Qxd8 Rfxd8 18.Nxb6 Bxb6 19.a5 Bd4 20.Ra4 a6 21.Rxb4 Bc3 22.Rc4 Bxa5
+23.b4 Bb6 24.Bf4 h6 25.Rc6 Bd4 26.Bc7 Rd5 27.Rd1 Rc8 28.Rdc1 Bf6 29.Bd6 Rd8
+30.Bc7 Rc8 31.Bd6 Rd8 32.Bc7  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.21"]
+[Round "2.2"]
+[White "So,W"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2772"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 Rb8 13.Be2 O-O 14.O-O a5 15.Na3 Na7
+16.Qd3 Kh8 17.Rfd1 Be6 18.Ne3 b4 19.Nac4 Nb5 20.cxb4 axb4 21.Nxd6 Nxd6 22.Qxd6 Bxe3
+23.Qxd8 Rfxd8 24.fxe3 Rdc8 25.Rd2 g6 26.Kf2 Kg7 27.Bd1 Ra8 28.a4 bxa3 29.Rxa3 Rab8
+30.Ra5 Rc4 31.Rxe5 Rcb4 32.Ra5 Rxb2 33.Rxb2 Rxb2+ 34.Kg3 h6 35.h4 Bd7 36.Bf3 Rb5
+37.Rxb5 Bxb5 38.Kf4 Kf6 39.e5+ Ke6 40.Bg4+ Ke7 41.Bc8 Bc4 42.g4 Kd8 43.Bb7 Ke7
+44.g5 hxg5+ 45.Kxg5 Ke6 46.Kf4 Ke7 47.Ke4 Be6 48.Bd5 Bc8 49.Kf4 Kf8 50.Bf3 Be6
+51.Bg4 Bb3 52.Kg5 Kg7 53.Bd7 Bc4 54.Bc6 Be6 55.Kf4 Kf8 56.Ke4 Ke7 57.Bd5 Bc8
+58.Kf4 Kf8 59.Bc4 Bh3 60.Bb3 Bc8 61.Bd5 Kg7 62.Kg5 Bd7 63.Bc4 Bc8 64.Kf4 Kf8
+65.Bb3 Bh3 66.e6 f6 67.Kg3 Bf5 68.Kf4 Bh3  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.22"]
+[Round "2.3"]
+[White "Dubov,Daniil"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2690"]
+[BlackElo "2761"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.b3 O-O
+9.Bb2 Re8 10.Rc1 Bf8 11.d3 Nd4 12.e3 Nxf3+ 13.Qxf3 c6 14.Rfd1 Qg5 15.h4 Qg4
+16.Ne4 Qxf3 17.Bxf3 a5 18.Nc5 a4 19.d4 axb3 20.axb3 Ra2 21.Bc3 Nd5 22.Bxd5 cxd5
+23.Nd3 Bg4 24.Rd2 Rxd2 25.Bxd2 exd4 26.exd4 Bf5 27.Nc5 Re2 28.Be3 Rb2 29.Nxb7 Rxb3
+30.Nc5 Rb4 31.Ra1 f6 32.Ra8 Kf7 33.Rd8 Be7 34.Rxd5 Bc8 35.Kf1 Rb5 36.Ke2 Be6
+37.Nxe6 Rxd5 38.Nc5 f5 39.Nd3 Bd6 40.Kf3 Bc7 41.Nf4 Ra5 42.Ne2 Ra3 43.Nf4 Rb3
+44.Nd5 Bb8 45.Nf4 Ba7 46.Ke2 Ra3 47.Nd3 Ke6 48.Nf4+ Kd6 49.Nh5 g6 50.Nf4 Bb6
+51.Kd2 Kc6 52.Ke2 Kd6 53.Kd2 Bd8 54.Ke2 Bf6 55.Kd2 Kc6 56.Ke2 Kb5 57.h5 g5
+58.Nd5 Bd8 59.Bd2 Ra7 60.Kd3 Rd7 61.Ne3 Rf7 62.Nc4 Rf8 63.Ne5 Be7 64.f3 Ra8
+65.Nf7 Ra3+ 66.Ke2 Kc4 67.Bxg5 Bb4 68.Ne5+ Kd5 69.Nd3 Ra2+ 70.Kf1 Bd2 71.Bf6 Kc4
+72.Ne5+ Kxd4 73.g4 Bf4 74.Ng6+ Ke3 75.Nh4 fxg4 76.fxg4 h6 77.Kg1 Bh2+ 78.Kf1 Rf2+
+79.Ke1 Rxf6  0-1
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.22"]
+[Round "2.3"]
+[White "So,W"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2772"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5 Ne7 14.Re1 Bg7 15.c3 O-O
+16.Nc2 f4 17.a4 bxa4 18.Nb4 f5 19.Bxa6 Ng6 20.Qh5 Qb6 21.Rxa4 e4 22.Rea1 Kh8
+23.Bf1 Rxa4 24.Rxa4 f3 25.Ra6 Qc5 26.Rc6 Qa7 27.Ra6 Qc5 28.Rc6 Qa7 29.Ra6  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.22"]
+[Round "2.3"]
+[White "Wei Yi"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2773"]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.f5 Be7 11.fxe6 Bxe6 12.Nxe6 fxe6 13.Bc4 Nbd7 14.Bxe6 Nc5 15.Bf5 g6
+16.Bh3 Nfxe4 17.Nxe4 Nxe4 18.Qd4 Qc3+ 19.Qxc3 Nxc3 20.Bxe7 Kxe7 21.Rb3 Ne4
+22.Rxb7+ Kf6 23.O-O+ Kg5 24.g3 Rab8 25.Ra7 Rb2 26.Bg2 d5 27.h4+ Kg4 28.Kh2 Nxg3
+29.Bh3+ Kxh4 30.Rf4+ Kg5 31.Kxg3 Rxa2 32.Rg4+ Kh6 33.Rc7 Ra3+ 34.c3 Re8 35.Rh4+ Kg5
+36.Rg4+ Kh6 37.Kf3 Re1 38.Rh4+ Kg5 39.Rg4+ Kh6 40.Rh4+ Kg5 41.Rd4 Re5 42.Rc5 h5
+43.Bd7 h4 44.Bc6 Rf5+ 45.Ke3 h3 46.Rdxd5 h2 47.Rxf5+ gxf5 48.Be4 Kh4 49.Bf3 Kg3
+50.Rc8 f4+ 51.Ke4 Ra4+ 52.c4 Ra3 53.Rg8+ Kh4 54.Rh8+ Kg3 55.Rg8+ Kh4 56.Bh1 Ra1
+57.Rh8+ Kg3 58.Rg8+ Kh4 59.Bg2 Ra2 60.Kf3 Rc2 61.Rg4+ Kh5 62.Rxf4 Rc1 63.Ke3 Kg5
+64.Re4 Rg1 65.Kf3 Rf1+ 66.Ke2 Rg1 67.Kf2 h1=Q 68.Bxh1 Rxh1 69.Re5+ Kf6 70.Ra5  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.22"]
+[Round "2.4"]
+[White "Nakamura,Hi"]
+[Black "Dubov,Daniil"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2690"]
+[ECO "A22"]
+
+1.c4 e5 2.g3 Nf6 3.Nc3 Bb4 4.Bg2 Nc6 5.Nf3 Bxc3 6.bxc3 O-O 7.O-O e4 8.Nd4 Ne5
+9.d3 c5 10.Nc2 exd3 11.exd3 d5 12.Bf4 Ng6 13.Be3 Bg4 14.f3 Bf5 15.Bxc5 dxc4
+16.Bxf8 Nxf8 17.Rf2 Bxd3 18.Bf1 Ne6 19.Bxd3 cxd3 20.Ne1 Nc5 21.Rd2 Nd5 22.Nxd3 Nxc3
+23.Qe1 Nxd3 24.Qe3 Qf6 25.Qxd3 b5 26.Re1 h5 27.a3 a5 28.Qd4 Qxd4+ 29.Rxd4 Rb8
+30.Re7 b4 31.axb4 axb4 32.Rdd7 Rf8 33.Rb7 Nd5 34.Red7 Nf6 35.Rd2 Rc8 36.Rxb4 Rc3
+37.Kg2 g6 38.h3 Kg7 39.Rb7 Ra3 40.h4 Ra4 41.Kf2 Rc4 42.Ra2 Ng8 43.Rba7 Nh6
+44.R7a4 Rc3 45.R4a3 Rc4 46.Ra4 Rc3 47.R4a3 Rc4 48.Ra4  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.22"]
+[Round "2.4"]
+[White "Grischuk,A"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2754"]
+[ECO "D41"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 cxd4 6.Qxd4 exd5 7.e4 Nc6 8.Bb5 dxe4
+9.Qxd8+ Kxd8 10.Ng5 Be6 11.Nxe6+ fxe6 12.Bxc6 bxc6 13.Ke2 Bb4 14.Na4 Ke7
+15.Rd1 Rhd8 16.Rxd8 Rxd8 17.Be3 Ra8 18.Rc1 Kd7 19.Rc4 Bd6 20.b3 Nd5 21.Rxe4 Nxe3
+22.Kxe3 Rf8 23.h3 Rf5 24.Ke2 h5 25.Nb2 Bc5 26.Nd3 Kd6 27.h4 Bb6 28.g3 Ra5
+29.a4 g5 30.b4 Rd5 31.hxg5 Rxg5 32.a5 Bc7 33.Nc5 e5 34.Re3 Rg4 35.Ne4+ Ke7
+36.f3 Rg6 37.Rc3 Kd7 38.Rc1 Bd6 39.Rd1 Kc7 40.Nxd6 Rxd6 41.Rh1 Rg6 42.Rxh5 Rxg3
+43.Rxe5 Kd6 44.Re4 Rg5 45.Rc4 Rg1 46.Ke3 Kd5 47.Rc5+ Kd6 48.Ke4 Re1+ 49.Kf5 Rb1
+50.Rc4 Kd5 51.Re4 c5 52.Re5+ Kd4 53.bxc5 Rb5 54.f4 Rxa5 55.Ke6 Ra6+ 56.Kd7 Rf6
+57.c6 Rxf4 58.Ra5 Rf7+ 59.Kc8 Kc4 60.c7 Kb4 61.Rxa7  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.22"]
+[Round "2.4"]
+[White "Nepomniachtchi,I"]
+[Black "Wei Yi"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2736"]
+[ECO "B10"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 g6 4.d4 Bg7 5.h3 dxe4 6.Nxe4 Nf6 7.Nxf6+ exf6 8.Bc4 O-O
+9.O-O a5 10.a4 Nd7 11.Bf4 Nb6 12.Bb3 Nd5 13.Bh2 Be6 14.Re1 h5 15.Nd2 f5 16.c3 Bh6
+17.Nc4 f4 18.Ne5 Qg5 19.Qf3 Rae8 20.Re2 f6 21.h4 Qf5 22.Bc2 Qxc2 23.Rxc2 fxe5
+24.dxe5 Bg4 25.Qd3 Bf5 26.Qd1 Bxc2 27.Qxc2 Re6 28.Re1 Bg7 29.c4 Nb4 30.Qd2 Rxe5
+31.Rxe5 Bxe5 32.g3 fxg3 33.Bxg3 Bxg3 34.fxg3 c5 35.Qd7 Rf7 36.Qd8+ Kg7 37.Qxa5 Na6
+38.Qb6 Kh7 39.Kg2 Kh6 40.a5 Kh7 41.Qd6 Kg7 42.g4 hxg4 43.Kg3 Kh7 44.Kxg4 Kg7
+45.Qe6  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.23"]
+[Round "3.1"]
+[White "Nakamura,Hi"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2772"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a6 7.a4 Ba7 8.Re1 O-O
+9.h3 h6 10.Nbd2 Re8 11.Qb3 Qe7 12.a5 b5 13.axb6 cxb6 14.Bd5 Qc7 15.Qc4 Bb7
+16.Bxc6 Bxc6 17.Rxa6 Qb7 18.Ra3 b5 19.Qb3 Rac8 20.Qa2 Bb6 21.b4 d5 22.Qc2 Re6
+23.Nh4 Nh5 24.Nb3 dxe4 25.dxe4 Nf6 26.Nd2 Rd8 27.Nhf3 Rc8 28.Bb2 Qe7 29.c4 bxc4
+30.Qxc4 Nh5 31.Nf1 Nf4 32.Ng3 Qe8 33.Rc1 Rd8 34.Qc2 Bb5 35.Rd1 Rc8  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.23"]
+[Round "3.1"]
+[White "Nepomniachtchi,I"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2724"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 e5 7.Nde2 Be7 8.O-O O-O
+9.Ng3 Be6 10.Nd5 Bxd5 11.exd5 g6 12.c4 Nbd7 13.Bh6 Re8 14.Rc1 Nc5 15.Bb1 a5
+16.b3 Rb8 17.f4 exf4 18.Bxf4 b5 19.Qf3 bxc4 20.Rxc4 Rb4 21.Bd2 Rxc4 22.bxc4 Ncd7
+23.Bc3 Qb6+ 24.Kh1 Rf8 25.Qf4 Bd8 26.h3  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.24"]
+[Round "3.2"]
+[White "Grischuk,A"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2761"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 b5 8.a4 b4
+9.Nfd2 c6 10.Nxc4 Qxd4 11.Rd1 Qc5 12.Be3 Qh5 13.Nbd2 Ng4 14.Nf3 Nxe3 15.Nxe3 a5
+16.Nd4 Ba6 17.Rac1 Rc8 18.Bf3 Qg6 19.Be4 Qh5 20.Bf3 Qg6 21.Be4 Qh5 22.Kg2 Ra7
+23.h4 g6 24.f4 Qh6 25.Nb3 Kh8 26.Bd3 Bb7 27.Nc4 c5+ 28.Be4 Ba6 29.Nbxa5 Qf8
+30.Bf3 Rd8 31.h5 Bf6 32.Rxd8 Qxd8 33.Rd1 Rd7 34.Rxd7 Nxd7 35.h6 Nb6 36.Ne5 Bxe5
+37.Nc6 Nc4 38.Nxd8 Ne3+ 39.Kf2 Nxc2 40.Nxf7+ Kg8 41.Nxe5 c4 42.Bg4 Nd4 43.Ke1 Kf8
+44.Kd1 Ke7 45.e3 Nb3 46.Nc6+ Kf6 47.Nxb4 Bb7 48.Be2 Na5 49.Kd2 Nb3+ 50.Kc3 Nc5
+51.a5 Ne4+ 52.Kxc4 Nxg3 53.Bd3 g5 54.fxg5+  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.24"]
+[Round "3.2"]
+[White "Wojtaszek,R"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2724"]
+[BlackElo "2773"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.e3 O-O 5.Be2 d6 6.Nc3 Nbd7 7.O-O e5 8.b4 Re8
+9.Bb2 exd4 10.Nxd4 a5 11.a3 Ne5 12.Qb3 Bg4 13.Rad1 axb4 14.axb4 Bxe2 15.Ndxe2 c6
+16.h3 Qe7 17.Nd4 Ned7 18.Ra1 Nb6 19.Rxa8 Rxa8 20.Rc1 Rd8 21.Na4 Nxa4 22.Qxa4  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.25"]
+[Round "3.5"]
+[White "Wojtaszek,R"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2724"]
+[BlackElo "2773"]
+[ECO "D78"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 c6 6.O-O d5 7.Qb3 Qb6 8.Nc3 Rd8
+9.Na4 Qxb3 10.axb3 Na6 11.Nc3 Nc7 12.Bf4 Nfe8 13.Rfc1 Ne6 14.cxd5 Nxf4 15.gxf4 cxd5
+16.Ne5 e6 17.Nb5 Bd7 18.Nxa7 Nd6 19.e3 Be8 20.Bf1 h6 21.b4 g5 22.fxg5 hxg5
+23.b5 f6 24.Nd3 e5 25.Nc5 Bf7 26.b6 exd4 27.exd4 f5 28.Ra4 Nc4 29.Bxc4 dxc4
+30.Nxb7 Rdb8 31.Nd6 Rxb6 32.Nxf7 Kxf7 33.Rcxc4 Rxb2 34.Rc7+ Kg8 35.Rc8+ Rxc8
+36.Nxc8 Kf7 37.Ra7+ Kf8 38.Nd6 f4 39.Kg2 Rxf2+ 40.Kxf2 Bxd4+  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.25"]
+[Round "3.6"]
+[White "Nepomniachtchi,I"]
+[Black "Wojtaszek,R"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2724"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.Nc3 e5 8.Qd3 Rc8
+9.O-O h6 10.Nd2 Qc7 11.h3 Nf6 12.a4 Be7 13.Rd1 O-O 14.Nf1 d5 15.exd5 Ne8
+16.d6 Bxd6 17.Nd5 Qc6 18.Nfe3 Bc5 19.b4 Bd6 20.c4 b6 21.a5 e4 22.Qd4 Be6
+23.axb6 Bxd5 24.Qxd5 Qxd5 25.Rxd5 Bxb4 26.Rxa6 Nd6 27.b7 Nxb7 28.Rb6  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.25"]
+[Round "3.3"]
+[White "Wojtaszek,R"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2724"]
+[BlackElo "2773"]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.e3 Bg7 4.Be2 O-O 5.O-O d6 6.b3 e5 7.dxe5 Ng4 8.Bb2 Nc6
+9.c4 Ngxe5 10.Nc3 Re8 11.Qd2 Bg4 12.Nxe5 Nxe5 13.f3 Be6 14.e4 Nc6 15.Nd5 Bxb2
+16.Qxb2 Bxd5 17.cxd5 Ne5 18.Rac1 c5 19.dxc6 bxc6 20.Rfd1 Qe7 21.f4 Nd7 22.Bf3 Nc5
+23.e5 dxe5 24.Qxe5 Qxe5 25.fxe5 Rxe5 26.Bxc6 Rb8 27.Rd5 Rxd5 28.Bxd5 Na6
+29.a3 Rd8 30.Bb7 Nb8 31.b4 Kg7 32.Kf2 Rd3 33.Rc7 Rxa3 34.Bd5 Rd3 35.Rxf7+ Kh6
+36.Bc4 Rd2+ 37.Ke3 Rxg2 38.b5 a6 39.bxa6 Nxa6 40.Bxa6 Rxh2  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.25"]
+[Round "3.4"]
+[White "Nepomniachtchi,I"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2724"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.Nc3 e5 8.Qd3 Rc8
+9.O-O h6 10.Nd2 Qc7 11.h3 Nf6 12.a4 Be7 13.Rd1 O-O 14.Nf1 Be6 15.Ne3 Qc5
+16.Qe2 Bd8 17.Qf3 b5 18.axb5 axb5 19.Ne2 Bb6 20.Ng3 Ra8 21.Rxa8 Rxa8 22.c3 Ra1
+23.Nef5 Ne8 24.Be3 Rxd1+ 25.Qxd1 Qc7 26.Bxh6 gxh6 27.Qg4+ Kf8 28.Qh4 f6 29.Qxh6+ Kg8
+30.Qg6+ Kf8 31.Qh5 Qf7 32.Qh8+ Qg8 33.Qh6+ Kf7 34.Qh5+ Kf8 35.Qh6+ Kf7 36.Qh5+ Kf8
+37.Qh6+  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.27"]
+[Round "4.1"]
+[White "Grischuk,A"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2773"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Be2 Nc6
+9.d5 Bxc3+ 10.Bd2 Bxa1 11.Qxa1 Nd4 12.Nxd4 cxd4 13.Qxd4 O-O 14.O-O Qb6 15.Qc3 Bd7
+16.Bh6 f6 17.Bxf8 Rc8 18.Qf3 Kxf8 19.e5 Kg7 20.exf6+ exf6 21.h3 Qd6 22.Qd3 h5
+23.Qd2 b5 24.Qa5 a6 25.Bf3 Be8 26.h4 Bf7 27.g3 Rc4 28.Rd1 Rc2 29.Be4 Rc8
+30.Bg2 Rc7 31.Bf3 Rc4 32.Bg2 Kg8 33.Bf3 Kh7 34.Kg2 f5 35.Qd2 b4 36.Qe3 Rc7
+37.Rd3 a5 38.a3 bxa3  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.28"]
+[Round "4.2"]
+[White "Nepomniachtchi,I"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2772"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re2 Nc4 11.b3 Nb6 12.a4 a5 13.Nc3 d6 14.Ne4 Be7 15.Qe1 Nd5 16.Nc3 Nxc3
+17.Rxe7 Nd5 18.Re2 Bg4 19.f3 Bf5 20.Qd2 Re8 21.Bb2 Rxe2 22.Qxe2 Qe8 23.Re1  1/2-1/2
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.29"]
+[Round "4.4"]
+[White "Nepomniachtchi,I"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2772"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.a4 a6 7.h3 Ba7 8.O-O h6 9.Re1 O-O
+10.Nbd2 Re8 11.b4 Be6 12.Bxe6 Rxe6 13.Qc2 Qd7 14.Nc4 d5 15.exd5 Qxd5 16.Ne3 Qd7
+17.Nc4 Qd5 18.Ne3 Qd7 19.b5 Na5 20.c4 Bd4 21.Rb1 axb5 22.axb5 Ree8 23.c5 Nd5
+24.Nxd5 Qxd5 25.Nxd4 exd4 26.Rxe8+ Rxe8 27.Bf4 Re7 28.Qa4 b6 29.c6 Kh7 30.Rb4 Qe6
+31.Rxd4 f5 32.Be3 g5 33.Qb4 Rg7 34.Rd8 Nb3 35.Bd4 Re7 36.Qxe7+  1-0
+
+[Event "Moscow FIDE Grand Prix"]
+[Site "Moscow RUS"]
+[Date "2019.05.29"]
+[Round "4.3"]
+[White "Grischuk,A"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2773"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.d3 Nc6 4.g3 d5 5.exd5 Qxd5 6.Bg2 Bg4 7.h3 Bxf3 8.Qxf3 Qxf3
+9.Bxf3 Nd4 10.Bd1 O-O-O 11.Nd2 Nc6 12.a3 g6 13.Ne4 Nxe4 14.dxe4 h5 15.c3 Bh6
+16.Bxh6 Rxh6 17.Bb3 f6 18.h4 Kd7 19.Ke2 Ke7 20.Rhd1 Rhh8 21.Bd5 Rd6 22.b4 Nd8
+23.f4 c6 24.Bb3 Rxd1 25.Rxd1 Ne6 26.Ke3 a5 27.Bxe6 Kxe6 28.bxa5 Ra8 29.Rb1 Rxa5
+30.Rxb7 Rxa3 31.Kd3 exf4 32.gxf4 Ra1 33.Rc7 Kd6 34.Rf7 Ke6 35.Rc7 Kd6 36.Rf7 Ke6
+37.Rc7  1/2-1/2

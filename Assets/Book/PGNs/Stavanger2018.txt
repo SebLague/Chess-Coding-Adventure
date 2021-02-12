@@ -1,0 +1,702 @@
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.28"]
+[Round "1.1"]
+[White "Carlsen,M"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2843"]
+[BlackElo "2822"]
+[ECO "C24"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Nf3 d5 5.Bb3 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 a5 8.c3 Nbd7
+9.exd5 cxd5 10.O-O O-O 11.Re1 Re8 12.Nf1 b5 13.a4 b4 14.cxb4 axb4 15.Ne3 Bb7
+16.d4 e4 17.Ne5 Nxe5 18.dxe5 Rxe5 19.Qd4 Re7 20.Rac1 Rd7 21.Red1 h6 22.Rc5 Ra5
+23.Rxa5 Qxa5 24.h3 Kh7 25.Rc1 Rc7 26.Rxc7 Qxc7 27.Qxb4 Qc1+ 28.Bd1 Ba6 29.Qd4 Be2
+30.Kh2 Bxd1 31.Nxd1 Qc7+ 32.Kg1 Qc1 33.b4 e3 34.fxe3 Ne4 35.Qxd5 Nd2 36.Qf5+ Kh8
+37.Qg4 f5 38.Qe2 Ne4 39.Qe1 Qa1 40.a5 Nd6 41.Qd2 Nc4 42.Qd4 Qc1 43.Kf1 Nxe3+
+44.Qxe3 Qxd1+ 45.Kf2 Qc2+ 46.Kg3 g5 47.Qe5+ Kh7 48.Kh2 f4 49.Qd5 Qa4 50.Qf7+ Kh8
+51.Qg6 Qxb4 52.Qxh6+ Kg8 53.Qxg5+ Kh7 54.Qh5+ Kg7 55.Qg5+ Kh7 56.h4 Qd6 57.Qh5+ Kg7
+58.Qg5+ Kh7 59.h5 f3+ 60.g3 f2 61.Qg6+ Kh8 62.Qxd6 f1=Q 63.Qh6+ Kg8 64.Qe6+ Kh8
+65.Qe3 Qb5 66.Qc3+ Kh7 67.g4 Qd5 68.Qc7+ Kg8 69.Kg3 Qe6 70.Qd8+ Kh7 71.Qd3+ Kh8
+72.a6 Qe5+ 73.Kh3 Qa1 74.Qd8+ Kh7 75.Qe7+ Kh6 76.Qe3+ Kh7 77.a7  1-0
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.28"]
+[Round "1.2"]
+[White "Mamedyarov,S"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2808"]
+[BlackElo "2789"]
+[ECO "D94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd2 dxc4 7.Bxc4 Nbd7 8.e4 c5
+9.d5 Ne8 10.Qe2 a6 11.a4 Nd6 12.Bd3 Ne5 13.Nxe5 Bxe5 14.O-O e6 15.Be3 exd5
+16.Nxd5 Be6 17.Bxc5 Bxd5 18.exd5 Re8 19.Qd2 Rc8 20.Be3 Qf6 21.Bg5 Qg7 22.Bh6 Qf6
+23.Bg5 Qg7 24.Bh6 Qf6 25.Bg5  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.28"]
+[Round "1.5"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2764"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.c3 d5 6.Nbd2 O-O 7.O-O Re8 8.exd5 a6
+9.Bxc6 bxc6 10.Ne4 Nxe4 11.dxe4 cxd5 12.Qxd5 Qxd5 13.exd5 e4 14.Nd2 e3 15.fxe3 Bxe3+
+16.Kh1 Bg4 17.Nf3 Bxc1 18.Raxc1 Re2 19.b4 Bxf3 20.Rxf3 Rxa2 21.Kg1 Rd2 22.c4 Rb8
+23.b5 axb5 24.cxb5 Rxb5 25.Rxc7 Rb1+ 26.Rf1 Rxf1+ 27.Kxf1 Kf8 28.Rc8+ Ke7
+29.Rc7+ Kf8 30.Rc8+ Ke7 31.Rc7+  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.28"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2791"]
+[ECO "A18"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.e5 Ne4 6.Nf3 Bf5 7.d3 Nxc3 8.bxc3 c5
+9.d4 Qa5 10.Bd2 Nc6 11.Be2 Be7 12.O-O O-O 13.a4 Rac8 14.Ra2 a6 15.Rb2 c4
+16.Ne1 b5 17.axb5 axb5 18.Bg4 Bxg4 19.Qxg4 h5 20.Qxh5 b4 21.Qg4 Rfe8 22.Nf3 Qa3
+23.Rc2 b3 24.Rcc1 Qa2 25.Qf5 Ra8 26.Bg5 Qe2 27.Qd7 Bxg5 28.Nxg5 Ne7 29.e6 f6
+30.Nf7 Ng6 31.Nh6+ gxh6 32.Qf7+ Kh8 33.Qxf6+ Kh7 34.Qf7+ Kh8 35.Qf6+ Kh7
+36.Qf7+ Kh8 37.Qf6+  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.28"]
+[Round "1.4"]
+[White "So,W"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2782"]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.b4 c6
+9.a4 Bd6 10.Qc2 e5 11.cxd5 cxd5 12.dxe5 Nxe5 13.Bc3 Re8 14.Nbd2 Nxf3+ 15.Bxf3 Bh3
+16.Rfc1 Qe7 17.Qb2 Rad8 18.b5 Ne4 19.Nxe4 dxe4 20.Bg2 Bxg2 21.Kxg2 f6 22.Bd4 Qe6
+23.Qa2 Bb8 24.Qxe6+ Rxe6 25.e3 Kf7 26.Ra2 b6 27.Rac2 h5 28.h3 Rh8 29.Kf1 Rd8
+30.Ke2 Re7 31.Rc6 Re6 32.R6c4 Re7 33.Bc3 Ree8 34.Bb4 Rd7 35.R1c2 f5 36.Rc1 Be5
+37.g4 hxg4 38.hxg4 g6 39.Rg1 Red8 40.Rc6 Rc7 41.Rxc7+ Bxc7 42.Rh1 Rd7 43.gxf5 gxf5
+44.Rh6 Be5 45.f3 exf3+ 46.Kxf3 Rd3 47.Ke2 Rb3 48.Bd6 Bxd6 49.Rxd6 Rb4 50.Rd7+ Ke6
+51.Rxa7 f4 52.Ra6 Kd5 53.exf4 Rxf4 54.Rxb6 Rxa4 55.Ra6 Rxa6 56.bxa6 Kc6 57.a7 Kb7
+58.a8=R Kxa8  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.1"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2782"]
+[BlackElo "2843"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.dxe5 Nxe4
+9.Qd5 Nc5 10.Bc2 Ne7 11.Qd1 d5 12.exd6 Qxd6 13.Qxd6 cxd6 14.Rd1 Bg4 15.Rxd6 Bf5
+16.Na3 Ne4 17.Bxe4 Bxe4 18.Rd1 Nf5 19.Nc4 Rfe8 20.Be3 Bxe3 21.Nxe3 Nxe3 22.fxe3 Bxf3
+23.gxf3 Rxe3 24.Rd7 Rb8 25.Rad1 Kf8 26.Kf2 Re7 27.Rd8+ Re8 28.Rxb8 Rxb8 29.Rd7 Ke8
+30.Rc7 b5 31.Rc6 Ra8 32.c4 Kd7 33.cxb5 axb5 34.Rb6 Rxa2 35.Rxb5 Ra4 36.Kg3 Rd4
+37.Rb7+ Ke6 38.Rb6+ Kf5 39.Rb5+ Ke6 40.Rb6+ Kf5 41.Rb5+ Ke6  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.5"]
+[White "Nakamura,Hi"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2760"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.cxd5 exd5 6.h3 O-O 7.Bf4 c5 8.dxc5 Bxc5
+9.e3 Nc6 10.Be2 d4 11.exd4 Bxd4 12.O-O Bxc3 13.bxc3 h6 14.Qb3 Ne4 15.Qc2 Re8
+16.Bd3 Nc5 17.Bh7+ Kh8 18.Be3 Qa5 19.Nd2 Na4 20.Nc4 Qxc3 21.Nd6 Re7 22.Qxa4 Kxh7
+23.Rac1 Qf6 24.Nxc8 Rxc8 25.Bxa7 Nxa7 26.Rxc8 Nxc8 27.Qc2+ Qg6 28.Qxc8 Re2
+29.Qxb7 Rxa2 30.Qb1 Qxb1 31.Rxb1 h5 32.h4 g6 33.g3 Ra3 34.Kg2 Ra2 35.Rb7 Kg7
+36.Rc7 Kf6 37.Rb7 Kg7 38.Rc7 Kf6 39.Rb7 Ke5  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.2"]
+[White "Caruana,F"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2822"]
+[BlackElo "2808"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 b6
+9.O-O-O Bb7 10.h4 Nd7 11.Bd3 Re8 12.Kb1 Bf6 13.Rh3 Nc5 14.Bxc5 bxc5 15.g4 c4
+16.Bxc4 Re4 17.Qd3 d5 18.Bxd5 Qxd5 19.Qxd5 Bxd5 20.Rxd5 Rxg4 21.Ra5 Rg2 22.a4 Rxf2
+23.h5 Rf1+ 24.Ka2 Rf2 25.Kb1 Rf1+ 26.Ka2 Rf2  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.3"]
+[White "Ding Liren"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2789"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.e3 O-O 5.Be2 d6 6.Nc3 Bf5 7.O-O a5 8.d5 Na6
+9.Nd4 Bd7 10.e4 Nc5 11.f3 e5 12.dxe6 fxe6 13.Be3 Nh5 14.g3 e5 15.Ndb5 Bh3
+16.Rf2 Rf7 17.Qd2 Qf8 18.Bf1 Bxf1 19.Raxf1 Rd8 20.Ne2 c6 21.Nbc3 Nf6 22.Rd1 Rfd7
+23.b3 Qf7 24.Rff1 Bf8 25.Kg2 d5 26.cxd5 cxd5 27.Nxd5 Nxd5 28.exd5 Rxd5 29.Qc2 Rxd1
+30.Rxd1 e4 31.fxe4 Rxd1 32.Qxd1 Nxe4 33.Qd3 Nc5 34.Bxc5 Bxc5 35.Nf4 a4 36.h4 axb3
+37.axb3 b6 38.h5 gxh5 39.Qd8+ Kg7 40.Qg5+ Kf8 41.Qd8+ Kg7 42.Qg5+ Kf8 43.Qd8+  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.4"]
+[White "Aronian,L"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2764"]
+[BlackElo "2778"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bg5 Bd5 11.Qc2 Be4 12.Qd1 h6 13.Bxf6 Bxf6 14.Nc3 Bxf3 15.Bxf3 Qxd4
+16.Bxb7 Ra7 17.Bg2 Nd7 18.Ne4 c5 19.Rb1 Qxd1 20.Rfxd1 Rb8 21.b3 Be7 22.e3 c4
+23.bxc4 Rxb1 24.Rxb1 Rc7 25.c5 Nxc5 26.Rc1 f5 27.Nxc5 Rxc5 28.Rb1 Kf7 29.Rb6 a5
+30.Bc6 Bd8 31.Ra6 Ke7 32.Kg2 g5 33.h3 Bc7 34.Bb5 Rc3 35.Ra8 Rc2 36.Ra6 h5
+37.Rc6 Rxc6 38.Bxc6 h4 39.gxh4 gxh4 40.e4 Kd6 41.Bb7 Ke7 42.Bc6 Kd6 43.Bb7 Ke7  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.30"]
+[Round "3.2"]
+[White "Vachier Lagrave,M"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2789"]
+[BlackElo "2822"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 c6
+9.Nc3 Nxc3 10.bxc3 dxc4 11.Bxc4 Bf5 12.Ng5 h6 13.Qf3 Bg6 14.Ne4 Bxh2+ 15.Kxh2 Qh4+
+16.Qh3 Qxh3+ 17.gxh3 Bxe4 18.Rg1 Re8 19.Bxh6 g6 20.Rge1 Nd7 21.Bf1 Bf5 22.c4 Nf6
+23.a4 Rad8 24.Bg5 Kg7 25.Rxe8 Rxe8 26.a5 Rd8 27.Be3 a6 28.Ra4 Ng8 29.Rb4 Rd7
+30.Bg2 Ne7 31.h4 Be6 32.Be4 Nf5 33.d5 cxd5 34.cxd5 Bxd5 35.Bxf5 gxf5 36.Rd4 Bc6
+37.Rxd7 Bxd7 38.h5 Kh7 39.Kg3 Be6 40.Kf4 Bd7  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.30"]
+[Round "3.3"]
+[White "Mamedyarov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2808"]
+[BlackElo "2782"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O h6 7.Re1 O-O 8.h3 a5 9.Nbd2 Be6
+10.Bb5 Qb8 11.Nf1 Qa7 12.Re2 a4 13.Ng3 Qa5 14.Bxc6 bxc6 15.Nh4 Rfe8 16.Re1 Kh7
+17.Qf3 d5 18.exd5 Bxd5 19.Qf5+ g6 20.Nxg6 fxg6 21.Qxf6 Rf8 22.Qh4 g5 23.Bxg5 Rxf2
+24.Qxh6+ Kg8 25.Qg6+ Kh8 26.Qh6+ Kg8 27.Qg6+ Kh8 28.Qh6+  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.30"]
+[Round "3.5"]
+[White "So,W"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2769"]
+[ECO "D56"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 Ne4 8.Bxe7 Qxe7
+9.Rc1 c6 10.g4 Rd8 11.Qc2 Nd7 12.Nxe4 dxe4 13.Qxe4 Qb4+ 14.Ke2 e5 15.Qc2 exd4
+16.Nxd4 Ne5 17.h3 c5 18.Nf5 Bxf5 19.gxf5 b5 20.Qc3 Nxc4 21.Qxb4 cxb4 22.b3 Nb6
+23.e4 Rac8 24.Rxc8 Rxc8 25.Kd2 a6 26.Bd3 Kf8 27.f4 f6 28.Rc1 Rxc1 29.Kxc1 Ke7
+30.Kd2 Kd6 31.Be2 Kc5 32.Kd3 Nc8 33.Bh5 Ne7 34.Be8 Nc8 35.Bd7 Ne7 36.h4 Kd6
+37.Be8 Kc5 38.Ke3 Nc8 39.Bd7 Ne7 40.Kd3 Kd6 41.Be6 g6 42.Ke3 a5 43.Kd4 Nc6+
+44.Kd3 Ne7 45.Kd4 Nc6+ 46.Ke3 Ne7 47.Kd4  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.30"]
+[Round "3.1"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2843"]
+[BlackElo "2764"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Nf5 11.d5 Re8 12.Rxe8+ Qxe8 13.Qd3 d6 14.Nd2 Bg5 15.Nf3 Bxc1
+16.Rxc1 Bd7 17.Re1 Qd8 18.Qc4 g6 19.h3 Ng7 20.Re3 a5 21.a4 Ne8 22.Qd4 Ng7
+23.g4 c6 24.c4 Ne8 25.Qf4 Kg7 26.Rb3 Rb8 27.Ng5 Nf6 28.Rf3 h6 29.Ne4 Nxe4
+30.Qxf7+ Kh8 31.Qxg6  1-0
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.30"]
+[Round "3.4"]
+[White "Anand,V"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2791"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a3 O-O
+9.Nc3 Bg4 10.Be3 Nd4 11.Bxd4 exd4 12.Nd5 c5 13.a4 Be6 14.Nxf6+ Bxf6 15.Bxe6 fxe6
+16.Re1 Qc7 17.e5 dxe5 18.Nd2 c4 19.Qg4 Qc6 20.axb5 axb5 21.Ne4 Be7 22.g3 b4
+23.Qe2 c3 24.Rxa8 Rxa8 25.b3 Ra2 26.Rc1 Qe8 27.Qg4 Qf7 28.Qd1 g6 29.Kg2 Bf8
+30.h3 h5 31.Ra1 Ra3 32.Rb1 Ra2 33.Ra1 Ra3 34.Rb1 Ra2 35.Ra1 Ra3  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.01"]
+[Round "4.3"]
+[White "Karjakin,Sergey"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2782"]
+[BlackElo "2789"]
+[ECO "D86"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O b6 11.dxc5 Qc7 12.Nd4 Ne5 13.Nb5 Qb8 14.Be2 bxc5 15.Rb1 a6
+16.Na3 Qc7 17.f4 Rd8 18.Qc2 Ng4 19.Bxg4 Bxg4 20.f5 gxf5 21.Nc4 e6 22.h3 Bh5
+23.exf5 exf5 24.Bg5 f4 25.Qf2 f3 26.Bxd8 Rxd8 27.Qh4 fxg2 28.Rfe1 Bf3 29.Re3 Bc6
+30.Rbe1 Rf8 31.Ne5 Bd5 32.Rg3 f6 33.Nd3 Bxa2 34.c4 Qd6 35.Nf4 Qd4+ 36.Kh2 Bxc4
+37.Qh6 f5 38.Nh5  1-0
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.01"]
+[Round "4.4"]
+[White "Anand,V"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2778"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O
+9.Be3 Be6 10.Rc1 Nd5 11.Nxd5 Bxd5 12.Qc2 Re8 13.a3 a5 14.Qa4 Bd6 15.Ng5 Bxg2
+16.Qc4 Qe7 17.Kxg2 Nd4 18.Ne4 Ne6 19.Qd5 f5 20.Nxd6 Qxd6 21.Qxb7 Rab8 22.Qf3 f4
+23.Bd2 Nd4 24.Qe4 Rxb2 25.Bxf4 Nxe2 26.Rc6 Nxf4+ 27.gxf4 Qd7 28.Qc4+ Kh8
+29.fxe5 Rc2 30.Qxc2 Qg4+ 31.Kh1 Qf3+ 32.Kg1 Rxe5 33.Rc5 Qg4+ 34.Kh1 Qf3+
+35.Kg1 Qg4+  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.01"]
+[Round "4.2"]
+[White "Aronian,L"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2764"]
+[BlackElo "2808"]
+[ECO "D87"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 O-O
+9.O-O Nc6 10.Be3 Na5 11.Bd3 b6 12.Rc1 e5 13.dxc5 Be6 14.c4 bxc5 15.Bxc5 Bh6
+16.Rc3 Re8 17.Qc2 Qc7 18.Ba3 Rab8 19.h3 Red8 20.Bc1 Bf8 21.Bg5 Rd7 22.c5 h6
+23.Be3 Nc6 24.Bc4 Nd4 25.Bxd4 exd4 26.Bxe6 dxc3 27.Bxd7 Qxd7 28.Nxc3 Qd4
+29.c6 Qc4 30.Rc1 Qxc6 31.Nd5 Qxc2 32.Rxc2 Rb1+ 33.Kh2 Kg7 34.f4 Re1 35.e5 g5
+36.g3 Rd1 37.Ne3 Rd3 38.Ng4 Be7 39.f5 Bd8 40.f6+ Kh7 41.e6 fxe6 42.Rf2 Bc7
+43.f7 Bxg3+ 44.Kg2 Bd6 45.f8=Q Bxf8 46.Rxf8 Ra3 47.Rf2 Kg6 48.Re2 Kh5 49.Nf6+ Kg6
+50.Ne4 e5 51.Rc2 Kf5 52.Ng3+ Ke6 53.Rf2 Kd5 54.Nf5 Ra6 55.Kf3 Ra3+ 56.Kg4 h5+
+57.Kxh5 Rxh3+ 58.Kxg5 e4 59.Kg4 Ra3 60.Re2 Ke5 61.Ng3 Ra4 62.Kh3 Kf4 63.Kg2 e3
+64.Rb2 Ra3 65.Ne2+ Ke4 66.Kf1 Kd3 67.Ke1 Ra6 68.Kd1 Rh6 69.Rb3+ Ke4 70.Rb4+  1-0
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.01"]
+[Round "4.1"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2843"]
+[ECO "D55"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 Nbd7 8.Be2 dxc4
+9.Bxc4 a6 10.a4 c5 11.O-O cxd4 12.Nxd4 Nb6 13.Be2 Nbd5 14.Nxd5 Nxd5 15.Bxe7 Qxe7
+16.Qb3 b6 17.Bf3 Bb7 18.Nf5 exf5 19.Bxd5 Bxd5 20.Qxd5 Qf6 21.Qb3 Rad8 22.Rfd1 Rxd1+
+23.Rxd1 Rd8 24.Rxd8+ Qxd8 25.g3 g6 26.h4 h5 27.Qc4 a5 28.b3 Qd1+ 29.Kg2 Qd7
+30.Kf1 Qd1+ 31.Kg2 Qd7 32.Kf1 Qd1+ 33.Kg2 Qd7  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.02"]
+[Round "5.4"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2789"]
+[BlackElo "2764"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 cxd4 6.Nxd4 O-O 7.Bg2 d5 8.cxd5 Nxd5
+9.Qb3 Nc6 10.Nxc6 bxc6 11.O-O Rb8 12.Qc2 Ba6 13.Rd1 Bxc3 14.bxc3 Qa5 15.Bb2 Bc4
+16.Rd4 Qa6 17.e4 Nb6 18.a4 e5 19.Rd2 Qa5 20.Rd6 c5 21.Bh3 Nc8 22.Rd2 Nb6
+23.Rd6 Nc8 24.Rd2 Nb6 25.Rd6  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.02"]
+[Round "5.1"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2843"]
+[BlackElo "2760"]
+[ECO "A33"]
+
+1.c4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.a3 Be7 7.e4 O-O 8.Nf3 Qa5
+9.Bd2 Qh5 10.Be2 d5 11.cxd5 exd5 12.exd5 Nxd5 13.O-O Nf6 14.Nd4 Qc5 15.Nxc6 Qxc6
+16.Bf3 Qa6 17.Re1 Be6 18.Qe2 Qxe2 19.Nxe2 Bg4 20.Bxg4 Nxg4 21.h3 Ne5 22.Nf4 Nc6
+23.Nd5 Bd6 24.Bc3 f6 25.Rad1 Rad8 26.Rd2 Kf7 27.Red1 Bb8 28.Kf1 Rfe8 29.Nb4 Rxd2
+30.Rxd2 Bf4 31.Rd1 Rd8 32.Rxd8 Nxd8 33.Ke2 Bd6 34.Nc2 Nc6 35.Nd4 Nxd4+ 36.Bxd4 a6
+37.Kd3 Ke6 38.Be3 Kd5 39.f3 b5 40.Bd2 f5 41.Be1 g6 42.Bd2 Be7 43.Be1 Bd6
+44.Bd2 Be7 45.Be1  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.02"]
+[Round "5.3"]
+[White "Mamedyarov,S"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2808"]
+[BlackElo "2769"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 d5 7.Bg5 dxc4 8.Qxc4 b6
+9.Rd1 Ba6 10.Qa4 h6 11.Bh4 Qe7 12.Nf3 Rd8 13.e3 Bxf1 14.Rxf1 c5 15.dxc5 Rxd1+
+16.Qxd1 g5 17.Bg3 Qxc5 18.Qd8+ Kg7 19.Be5 Qc1+ 20.Ke2 Qc4+ 21.Ke1 Qc1+ 22.Ke2 Qc4+
+23.Ke1 Qc1+ 24.Ke2  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.02"]
+[Round "5.2"]
+[White "Caruana,F"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2822"]
+[BlackElo "2782"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.b3 O-O 8.Bb2 Re8
+9.a3 a5 10.h3 b6 11.Be2 Bb7 12.O-O d5 13.cxd5 Nxd5 14.Qc2 e4 15.Nh2 Qg5 16.f4 exf3
+17.Nxf3 Qg3 18.Rf2 Rad8 19.Bc4 Nf6 20.Bxf6 gxf6 21.Raf1 Rd6 22.b4 axb4 23.axb4 Re7
+24.b5 Ne5 25.Nd4 Bc8 26.Kh1 Kg7 27.Be2 Kh8 28.Qc3 Kg7 29.Bd1 Kg8 30.Bc2 Qh4
+31.Rf4 Qg3 32.Bf5 Bb7 33.Be4 Bc8 34.Qa3 Kg7 35.Qa8 Bxh3 36.gxh3 Qxh3+ 37.Kg1 Rxd4
+38.Bg2 Qg3 39.Rxd4 Ng4 40.Rf3 Qe1+ 41.Bf1  1-0
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.03"]
+[Round "6.2"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2764"]
+[BlackElo "2822"]
+[ECO "D37"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 dxc4 5.e4 Bb4 6.Bxc4 Nxe4 7.O-O Nf6 8.Qa4+ Nc6
+9.Ne5 Rb8 10.d5 exd5 11.Nxd5 Nxd5 12.Nxc6 bxc6 13.Qxc6+ Qd7 14.Bxd5 O-O 15.Qxd7 Bxd7
+16.Be3 Bd6 17.b3 a5 18.Rfd1 a4 19.Rac1 axb3 20.axb3 Rfe8 21.h3 Be6 22.Bxe6 Rxe6
+23.Bc5 Bxc5 24.Rxc5 g6 25.Rxc7 Rxb3 26.Rcd7 Rb8 27.Rd8+ Rxd8 28.Rxd8+ Kg7  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.03"]
+[Round "6.1"]
+[White "So,W"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2778"]
+[BlackElo "2843"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Bf4 Nf6 5.Nc3 Nc6 6.Nf3 a6 7.Rc1 Bf5 8.e3 Rc8
+9.Be2 e6 10.O-O Nd7 11.Na4 Be7 12.h3 O-O 13.a3 Na5 14.Nc5 Nc4 15.b4 Nxc5
+16.dxc5 Nxa3 17.Nd4 Be4 18.f3 Bg6 19.Qb3 Nc4 20.Bxc4 dxc4 21.Qxc4 Qe8 22.Bg3 e5
+23.Nb3 Bd8 24.Qd5 Qb5 25.Bxe5 Be7 26.Qd2 Rfd8 27.Bd6 Bf6 28.e4 h6 29.Nd4 Bxd4+
+30.Qxd4 Re8 31.Rfe1 Kh7 32.g4 f6 33.f4 Qc6 34.f5 Bf7 35.h4 Ra8 36.Rc2 a5
+37.g5 Bh5 38.g6+ Kh8 39.b5 Qxb5 40.Rb2 Qc6 41.Rb6 Qc8 42.Qd5 a4 43.Rxb7 Rg8
+44.c6  1-0
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.03"]
+[Round "6.3"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2789"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 g6 6.b3 Bg7 7.Bb2 Nf6 8.O-O-O O-O
+9.Kb1 Qa5 10.Nge2 e5 11.f3 Rd8 12.Nd5 Qxd2 13.Nxf6+ Bxf6 14.Rxd2 Bg5 15.Rd1 Be6
+16.Nc3 Nd4 17.Bd3 Rac8 18.Rhf1 Nc6 19.a3 Ne7 20.Ne2 Be3 21.h3 g5 22.a4 f6
+23.c4 Ng6 24.Bc1 Bxc1 25.Nxc1 h5 26.Rf2 h4 27.Rfd2 Kf7 28.Ne2 Ke7 29.Kb2 Nf4
+30.Nc3 a5 31.Bf1 b6 32.Bd3 Rc5 33.Bc2 Rc7 34.Re1 Rc5 35.Nd1 Rc6 36.Ne3 Rc7
+37.Red1 Rc6 38.Bd3 Rc7 39.Bc2 Rc6 40.Bd3 Rc7 41.Bc2 Rc6  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.03"]
+[Round "6.4"]
+[White "Anand,V"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2808"]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.c3 a6 5.Ba4 Bg7 6.O-O Nge7 7.d4 exd4 8.cxd4 b5
+9.Bc2 d5 10.exd5 Nxd5 11.Re1+ Be6 12.Bg5 Qd7 13.Nc3 O-O 14.Be4 Rae8 15.Bxd5 Bxd5
+16.Ne5 Nxe5 17.dxe5 c6 18.f4 f6 19.Bxf6 Bxf6 20.Nxd5 cxd5 21.exf6 Rxe1+ 22.Qxe1 Rxf6
+23.Qd2 d4 24.Rd1 d3 25.Qxd3 Qxd3 26.Rxd3 Rxf4 27.Rd6 Rc4 28.Rxa6 Rc1+ 29.Kf2 Rc2+
+30.Kg1 Rc1+ 31.Kf2 Rc2+ 32.Kg1 Rc1+  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.05"]
+[Round "7.3"]
+[White "Vachier Lagrave,M"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2789"]
+[BlackElo "2760"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Nbd2 O-O 11.Re1 Nc5 12.Nd4 Nxd4 13.cxd4 Nd3 14.Re3 Nf4 15.Nf3 Bg4
+16.h3 Bh5 17.Rc3 Ne6 18.g4 Bg6 19.Be3 a5 20.Bc2 Bb4 21.Rb3 f5 22.exf6 Bxc2
+23.Qxc2 Qxf6 24.Ne5 c5 25.Nd7 Qf7 26.Nxf8 Rxf8 27.Qf5 cxd4 28.Qxf7+ Rxf7
+29.Rxb4 axb4 30.Bd2 b3 31.axb3 Rf3 32.b4 Rd3 33.Re1 Kf7 34.Bc1 Rxh3 35.Re5 Rd3
+36.Kf1 Rd1+ 37.Re1 Rxe1+ 38.Kxe1 g6 39.f4 Nd8 40.g5 Ke6  0-1
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.05"]
+[Round "7.1"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2822"]
+[BlackElo "2769"]
+[ECO "A18"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Bd3 Bd7 8.Nf3 Bc6
+9.Bc2 Bxf3 10.Qxf3 Qxf3 11.gxf3 Nc6 12.Rb1 O-O-O 13.d4 g6 14.Ke2 e5 15.Bg5 Rd6
+16.c5 Rd7 17.Bf6 Rg8 18.dxe5 Bxc5 19.Be4 Be7 20.Rxb7 Kxb7 21.Rb1+ Kc8 22.Bxc6 Bxf6
+23.Bxd7+ Kxd7 24.exf6 Re8+ 25.Kd3 Re6 26.Rb4 Rxf6 27.Ke3 Re6+ 28.Kd3 Rf6
+29.Ke3 Re6+ 30.Kd3 Rf6  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.05"]
+[Round "7.4"]
+[White "Mamedyarov,S"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2808"]
+[BlackElo "2778"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Rd1 Bc6 10.Bg5 b5 11.Bxf6 Bxf6 12.Nc3 Qe8 13.e4 g6 14.h4 Nd7 15.axb5 axb5
+16.Rxa8 Qxa8 17.d5 exd5 18.exd5 Bb7 19.Nxb5 Qa5 20.Nc3 Nb6 21.d6 cxd6 22.Rxd6 Be7
+23.Rd1 Bf6 24.Rd6 Be7 25.Rd1 Bf6 26.Rd6 Be7  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.05"]
+[Round "7.2"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2782"]
+[BlackElo "2764"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.Qa4+ Nc6 8.e3 O-O
+9.Be2 dxc4 10.O-O Bd7 11.Bxc4 Bxc3 12.bxc3 Rfd8 13.Qa3 Qe7 14.Qxe7 Nxe7 15.Rab1 b6
+16.Ne5 Be8 17.e4 Nc8 18.f3 Nd6 19.Be2 Kf8 20.Kf2 Rac8 21.Nd3 Nb7 22.Nf4 c5
+23.Ba6 Rc7 24.Bxb7 Rxb7 25.dxc5 Rd2+ 26.Kg3 Rxa2 27.cxb6 Rxb6 28.Rxb6 axb6
+29.c4 b5 30.cxb5 g5 31.Nd3 Bxb5 32.Rf2 Rxf2 33.Nxf2 f5 34.exf5 exf5 35.h4 f4+
+36.Kg4 Bf1 37.hxg5 hxg5 38.Kxg5 Bxg2 39.Kxf4 Bxf3  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.06"]
+[Round "8.1"]
+[White "Carlsen,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2843"]
+[BlackElo "2808"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Re1 O-O 11.Nbd2 Nxd2 12.Qxd2 Qd7 13.Qd3 Rad8 14.Bc2 g6 15.Bh6 Rfe8
+16.Rad1 d4 17.Nxd4 Nxd4 18.Qxd4 Qxd4 19.Rxd4 Rxd4 20.cxd4 c5 21.dxc5 Bxc5
+22.b3 a5 23.h3 b4 24.Rd1 Rc8 25.Rd2 Be7 26.Bd1 Rc5 27.Bf4 g5 28.Bg3 Kg7 29.f4 Rc1
+30.Kh2 Bc5 31.fxg5 Be3 32.Rd3 Bxg5 33.h4 Bf5 34.Rf3 Bg4 35.hxg5 Rxd1 36.Rf2 Be6
+37.Bf4 Rd3 38.Rf3 Rxf3 39.gxf3 Bf5 40.e6 fxe6 41.Bc7 Bb1 42.Bxa5 Bxa2 43.Bxb4 Bxb3
+44.Bc3+ Kg6 45.f4 Kf7 46.Kg3 Kg6 47.Be5 Kf7 48.Bc3 Kg6 49.Be5 Kf7 50.Bc3 Kg6  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.06"]
+[Round "8.3"]
+[White "Anand,V"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2760"]
+[BlackElo "2822"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3 Nf6 6.d4 d5 7.Bd3 Bd6 8.O-O O-O
+9.Bg5 h6 10.Bh4 Nc6 11.c3 g5 12.Bg3 Ne4 13.Bxd6 cxd6 14.Nfd2 f5 15.Na3 Be6
+16.Nc2 Nxd2 17.Qxd2 f4 18.Rae1 Qf6 19.f3 Rf7 20.Re2 Raf8 21.Ne1 Ne7 22.Bc2 a5
+23.Bb3 Rg7 24.Qd3 Bd7 25.a4 Kh8 26.Qd2 h5 27.Nd3 Nf5 28.Bxd5 Ne3 29.Rxe3 fxe3
+30.Qxe3 Bxa4 31.Ra1 Re7 32.Qd2 Bb5 33.Rxa5 Bxd3 34.Qxd3 Re1+ 35.Kf2 Rfe8
+36.Ra8 Qf4 37.Rxe8+ Rxe8 38.Qd1 Qxh2 39.Qd2 Qh4+ 40.Kf1 Qh1+ 41.Kf2 Qh4+
+42.Kf1 Ra8 43.Ke2 Ra1 44.Kd3 b5 45.c4 bxc4+ 46.Kxc4 Qf4 47.Qe2 Qc1+ 48.Kb5 Qc8
+49.Kb6 Qb8+ 50.Kc6 Rc1+  0-1
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.06"]
+[Round "8.4"]
+[White "Nakamura,Hi"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2769"]
+[BlackElo "2782"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ng5 Bxc3 8.bxc3 Re8
+9.f3 exf3 10.Nxf3 d5 11.d4 dxc4 12.Bg5 h6 13.Bxf6 Qxf6 14.Nd2 Qe7 15.e4 Na5
+16.e5 Be6 17.Ne4 Rad8 18.Qh5 b5 19.Nf6+ Kh8 20.d5 Bxd5 21.Bxd5 Rxd5 22.Nxe8 Rxe5
+23.Qxf7 Qxe8 24.Qxe8+ Rxe8 25.Rae1 Rxe1 26.Rxe1 c5 27.Kf2 b4 28.Ke3 bxc3
+29.Rc1 Nc6 30.Rxc3 Nb4 31.Rxc4 Nxa2 32.Rxc5 Nb4 33.Ke4 Kh7 34.Rc4 a5 35.Rc5 a4
+36.Ra5 Nc6 37.Rxa4 Nd8 38.Ra6 Nf7 39.Kf5 Nh8 40.h4 Nf7 41.g4  1-0
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.06"]
+[Round "8.2"]
+[White "So,W"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2789"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nf3 Be7 8.Bg5 Nbd7
+9.a4 h6 10.Be3 Ng4 11.Bc1 Ngf6 12.Nd2 Nc5 13.O-O Qc7 14.a5 Be6 15.Re1 O-O
+16.Bf3 Rad8 17.Nd5 Nxd5 18.exd5 Bf5 19.b4 Nd7 20.c4 Bg5 21.Be2 e4 22.Nb3 Bf6
+23.Nd4 Bg6 24.Be3 Ne5 25.Qb3 Nd3 26.Red1 Rfe8 27.Ra2 Qe7 28.Nc2 Rc8 29.Ne1 Bg5
+30.Bxg5 hxg5 31.Raa1 Qc7 32.Nxd3 exd3 33.Bxd3 Bxd3 34.Qxd3 Qxc4 35.Qd2 Re2
+36.Qxg5 Qxb4 37.h3 Re5 38.Qd2 Qxd2 39.Rxd2 Rc5 40.Rb2 Re7 41.Rab1 Rxa5 42.Rxb7 Rxb7
+43.Rxb7 Rxd5 44.Kf1 g6 45.Ke2 Kg7 46.h4 a5 47.Ra7 Kf6 48.g4 Rd4 49.h5 a4
+50.f3 gxh5 51.gxh5 Rh4 52.h6 Rxh6 53.Rxa4 Ke5 54.Re4+ Kf5 55.Rd4 Re6+ 56.Kd3 f6
+57.Kd2 Kg6 58.Rg4+ Kf7 59.Rf4 Re5 60.Rd4 d5 61.Ra4 Kg6 62.Ra6 Kf5 63.Rd6 Re6
+64.Rxd5+ Kf4 65.Kd3 Kxf3 66.Rf5+ Kg4 67.Rf1 f5 68.Rg1+ Kf4 69.Rf1+ Kg5 70.Rg1+ Kf6
+71.Rf1 Re8 72.Kd4 Re5 73.Rh1 Re2 74.Kd3 Re8 75.Rf1 Kg5 76.Rg1+ Kh4 77.Rf1 Kg4
+78.Rg1+ Kh3 79.Rf1 Re5 80.Kd4  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.07"]
+[Round "9.1"]
+[White "Vachier Lagrave,M"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2789"]
+[BlackElo "2843"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a3 O-O
+9.Nc3 Na5 10.Ba2 Be6 11.b4 Bxa2 12.Rxa2 Nc6 13.Bg5 Ng4 14.Bd2 Nf6 15.Bg5 Ng4
+16.Bd2 Nf6 17.Bg5  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.07"]
+[Round "9.4"]
+[White "Karjakin,Sergey"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2782"]
+[BlackElo "2760"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6
+9.a3 Qa5 10.O-O-O Ne4 11.Nb5 a6 12.Nc7 e5 13.Rxd5 exf4 14.Qxe4 Qxc7 15.Rxc5 fxe3
+16.Bd3 g6 17.fxe3 Be6 18.Qh4 Rae8 19.Be4 Qb6 20.Qh6 f5 21.Ng5 Rf7 22.Bd5 Bxd5
+23.Rxd5 Qxe3+ 24.Kb1 Rfe7 25.Rhd1 Qe2 26.h4 Ne5 27.Nf3 Qe4+ 28.Ka2 Qxc4+
+29.Ka1 Ng4 30.Qc1 Qxc1+ 31.Rxc1 Kg7 32.h5 Nf6  0-1
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.07"]
+[Round "9.3"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2764"]
+[BlackElo "2769"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6
+9.Rd1 Qa5 10.a3 Re8 11.Nd2 e5 12.Bg5 Nd4 13.Qb1 Bf5 14.Bd3 Bxd3 15.Qxd3 Ne4
+16.Nxd5 Nxg5 17.b4 Qd8 18.bxc5 Nde6 19.O-O Nxc5 20.Qb1 Nge6 21.Nf3 Nf8 22.Rd2 Rc8
+23.Rfd1 Qd6 24.Nc3 Qg6 25.Rd5 Qxb1 26.Rxb1 f6 27.Nb5 Ne4 28.Nd2 Nxd2 29.Rxd2 Re7
+30.Nxa7 Rxc4 31.Nb5 Rd7 32.Rxd7 Nxd7 33.Nd6 Rc3 34.Nxb7 Rxa3 35.h3 Ra8 36.Rd1 Nf8
+37.Nc5 Rc8 38.Ne4 Rc7 39.Kf1 Ne6 40.Rd6 Kf7 41.Rb6 Nc5 42.Nxc5 Rxc5  1/2-1/2
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.07"]
+[Round "9.2"]
+[White "Caruana,F"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteElo "2822"]
+[BlackElo "2778"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.O-O Nd4 6.Nxd4 Bxd4 7.Ba4 c6 8.c3 Bb6
+9.Na3 d6 10.Bc2 Be6 11.Qe2 h6 12.Kh1 g5 13.Nc4 Bc7 14.Ne3 d5 15.Re1 Qe7 16.a4 O-O-O
+17.Rb1 d4 18.Nf1 Bb6 19.Bd2 Bg4 20.f3 Be6 21.Ng3 Rhg8 22.b4 g4 23.a5 dxc3
+24.Bxc3 Bd4 25.Bxd4 Rxd4 26.b5 c5 27.Bb3 h5 28.Nf5 Bxf5 29.exf5 Re8 30.Rbc1 gxf3
+31.Qxf3 Red8 32.Bc4 e4 33.dxe4 Qe5 34.Bxf7 Rd3 35.Qf2 R8d4 36.Bd5 Kd7 37.b6 axb6
+38.axb6 Ng4 39.Qg1 Kd8 40.h3 Rxh3+ 41.gxh3 Rd3 42.Qg2 Rg3 43.hxg4 Rxg2 44.Kxg2 h4
+45.Kf3 Qg3+ 46.Ke2 h3 47.Rg1 Qh4 48.e5  1-0

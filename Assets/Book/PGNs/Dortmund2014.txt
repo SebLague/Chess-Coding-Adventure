@@ -1,0 +1,748 @@
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.12"]
+[Round "1.1"]
+[White "Baramidze,D"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2616"]
+[BlackElo "2789"]
+[ECO "A81"]
+[Opening "Dutch defence"]
+[WhiteFideId "4667719"]
+[BlackFideId "2020009"]
+[EventDate "2014.07.12"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 d6 4. Nf3 g6 5. O-O Bg7 6. c4 O-O 7. Nc3 Qe8 8. Re1
+Qf7 9. b3 Ne4 10. Qc2 Nc6 11. Be3 Nxc3 12. Qxc3 e5 13. d5 Nb8 14. Rac1 h6 15. c5
+Na6 16. cxd6 cxd6 17. h4 Bd7 18. Qd2 Kh7 19. Red1 b6 20. Ne1 Rac8 21. Nd3 Nc5
+22. Nb2 Qe7 23. b4 Na4 24. Nxa4 Bxa4 25. Rxc8 Rxc8 26. Rc1 Qd7 27. Rxc8 Qxc8 28.
+Qc1 Qxc1+ 29. Bxc1 Bc2 30. f3 Bf6 31. Kf2 Kg7 32. e4 f4 33. Bh3 h5 34. Bd7 g5
+35. hxg5 Bxg5 36. Kg2 Kf6 37. g4 h4 38. Bb5 Bd1 39. Bd3 h3+ 40. Kxh3 Bxf3 41. b5
+Bh6 42. Kh4 Kg6 43. Bd2 Bf8 44. Be1 Bg2 45. g5 Bf3 46. a4 Be7 47. a5 Bxg5+ 48.
+Kh3 Kf7 49. axb6 axb6 50. Bf2 Bd8 51. Bg1 Kg6 52. Bf2 Kh5 53. Bg1 Bd1 54. Kg2
+Kg4 55. Kf1 Kg3 56. Bf2+ Kh2 57. Bg1+ Kh1 58. Bf2 Bh5 59. Bg1 Bg4 60. Bf2 Bf3
+61. Ke1 Kg2 62. Bf1+ Kh2 63. Bd3 Bh5 64. Kf1 Bg6 65. Bc2 Kh3 66. Kg1 Kg4 67. Kf1
+Kh3 68. Kg1 Kg4 69. Kf1 f3 70. Be1 f2 71. Bxf2 Kf3 72. Bd1+ Kf4 73. Bb3 Be8 74.
+Bc4 Kxe4 75. Ke2 Bh5+ 0-1
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.12"]
+[Round "1.2"]
+[White "Naiditsch,A"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2743"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "400041"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Be7 11. c4 Kc8 12. Nc3 b6 13. Bg5 Re8 14. g4 Bxg5
+15. Nxg5 Nh4 16. f4 h6 17. Nge4 h5 18. gxh5 Rh8 19. Ng3 Bxh3 20. Kf2 Nf5 21.
+Nce4 Nh6 22. Rh1 Be6 23. b3 Kb7 24. Rad1 Rae8 25. Rd2 a5 26. a4 c5 27. Ng5 Bc8
+28. Nf3 Kb8 29. Nh2 Ref8 30. Rg1 f6 31. exf6 Rxf6 32. Ne2 Nf5 33. Ng4 Rff8 34.
+Ne3 Rxh5 35. Nxf5 Bxf5 36. Rxg7 Rh2+ 37. Rg2 Rh4 38. Kg1 Bg4 39. Rh2 Rxh2 40.
+Kxh2 Bxe2 41. Rxe2 Rxf4 42. Kg3 Rf1 43. Rf2 Re1 44. Rf3 Kc8 45. Kf2 Re6 46. Re3
+Kd7 47. Kf3 Rd6 48. Ke2 Re6 49. Kd3 Rd6+ 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.12"]
+[Round "1.3"]
+[White "Kramnik,V"]
+[Black "Meier,Geo"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2632"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "4675789"]
+[EventDate "2014.07.12"]
+
+1. c4 c5 2. Nf3 Nf6 3. g3 Nc6 4. Bg2 d5 5. O-O d4 6. a3 e5 7. d3 a5 8. e4 Be7 9.
+Ne1 h5 10. f4 h4 11. f5 hxg3 12. hxg3 g6 13. Nd2 gxf5 14. exf5 Rg8 15. Qf3 Bd7
+16. Rf2 Qb6 17. Re2 O-O-O 18. Ne4 Qb3 19. Nf2 a4 20. Bh6 Bf8 21. Bxf8 Rdxf8 22.
+g4 Rg7 23. Ne4 Nxe4 24. Qxe4 Rfg8 25. Bf3 f6 26. Rg2 Nd8 27. Qe2 Bc6 28. Bxc6
+bxc6 29. Qe4 Kc7 30. Nf3 Nf7 31. Rf1 Nd6 32. Qe2 Rxg4 33. Rf2 Nxf5 34. Nd2 Rxg2+
+35. Rxg2 Rxg2+ 36. Kxg2 Qxb2 37. Kf3 Nd6 38. Qh2 Qxa3 39. Ke2 Qb2 40. Qh7+ Kb6
+41. Qe7 Nb7 0-1
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.12"]
+[Round "1.4"]
+[White "Leko,P"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2723"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "703303"]
+[BlackFideId "14103320"]
+[EventDate "2014.07.12"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. b4 e5
+9. dxe5 dxe5 10. e4 Qxd1 11. Rxd1 f4 12. Bb2 fxg3 13. hxg3 Bg4 14. Re1 Nbd7 15.
+Nd2 a5 16. a3 Rfd8 17. Ncb1 b6 18. Nf3 Bxf3 19. Bxf3 Bf8 20. b5 cxb5 21. cxb5
+Rac8 22. Nc3 Nc5 23. Red1 Nd3 24. Na4 Nxb2 25. Rxd8 Rxd8 26. Nxb2 Rd4 27. Rd1
+Rxd1+ 28. Bxd1 Nxe4 29. Bc2 Nc3 30. a4 Bc5 31. Nd1 Ne2+ 32. Kf1 Nd4 33. Bd3 Kg7
+34. Nc3 h5 35. Ne4 Be7 36. Kg2 g5 37. Bb1 g4 38. Bd3 Bb4 39. Bc4 Kg6 40. Bd3 Kf7
+41. Bc4+ Kg6 42. Bd3 Kf7 43. Bc4+ Kg6 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.13"]
+[Round "2.1"]
+[White "Caruana,F"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2723"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "14103320"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
+Qd2 Be6 9. O-O-O Qd7 10. Kb1 Bf6 11. h3 h6 12. b3 a6 13. g4 O-O-O 14. Bg2 g5 15.
+Nd4 Nxd4 16. cxd4 d5 17. f4 gxf4 18. Bxf4 h5 19. g5 Bg7 20. Rde1 h4 21. Be5 Rdg8
+22. Qf4 Qd8 23. Bf1 Kb8 24. Bd3 Bc8 25. Kb2 Bxe5 26. Rxe5 Rg7 27. a4 a5 28. Ka2
+Ka7 29. Qd2 Kb8 30. Qf4 Ka7 31. Rhe1 Bxh3 32. Rh1 Bc8 33. Rxh4 Rxh4 34. Qxh4 b6
+35. Qh6 Rg8 36. Qc6 Be6 37. g6 Rg7 38. gxf7 Bxf7 39. Re7 Qxe7 40. Ba6 Kxa6 41.
+Qa8# 1-0
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.13"]
+[Round "2.2"]
+[White "Meier,Geo"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2632"]
+[BlackElo "2737"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4675789"]
+[BlackFideId "703303"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Ne5 Bc6 10. Nxc6 Nxc6 11. e3 Na5 12. Nd2 c5 13. dxc5 Rc8 14. b4 cxb3 15.
+Nxb3 Nxb3 16. Qxb3 Nd7 17. Ba3 Nxc5 18. Bxc5 Rxc5 19. Qxb7 a5 20. Rfd1 Qc7 21.
+Rab1 Rd8 22. Qxc7 Rxd1+ 23. Rxd1 Rxc7 24. Bf1 g6 25. Bb5 Kg7 26. Rd7 Rxd7 27.
+Bxd7 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.13"]
+[Round "2.3"]
+[White "Adams,Mi"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2743"]
+[BlackElo "2777"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "400041"]
+[BlackFideId "4101588"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. Bxf6 gxf6 5. dxc5 e6 6. Nf3 Bxc5 7. Be2 Nc6 8.
+O-O e5 9. c4 d4 10. exd4 Nxd4 11. Nxd4 Bxd4 12. Qc2 f5 13. Nd2 Qe7 14. Rad1 O-O
+15. b4 Qxb4 16. Nf3 Rd8 17. Nxe5 Be6 18. Qc1 f6 19. Nf3 Bb6 20. Qh6 Qf8 21. Qh4
+Rxd1 22. Bxd1 Kh8 23. Re1 Bg8 24. Bc2 Rc8 25. Bd3 Rc6 26. h3 Qd6 27. Bxf5 Rxc4
+28. g4 Kg7 29. Kg2 h6 30. Qg3 Qxg3+ 31. Kxg3 Rc3 32. Be6 Rc2 33. Re4 Bxf2+ 34.
+Kf4 Bxe6 35. Rxe6 Rxa2 36. Rd6 Kf7 37. Kf5 Ra5+ 38. Ke4 Rb5 39. Rd2 Rb4+ 40. Kf5
+Rb5+ 41. Ke4 Bg3 42. Nd4 Rb4 43. Kd5 a5 44. Nf5 Bf4 45. Ra2 Rb5+ 46. Kc4 Rb4+
+47. Kd5 a4 48. Kc5 Re4 49. Kb5 Ke6 50. Rxa4 Rxa4 51. Kxa4 Kd5 52. Kb5 Ke4 53.
+Kb6 Kf3 54. Kxb7 Kg2 55. Kc6 Kxh3 56. Kd5 Kxg4 57. Ke6 h5 58. Kxf6 Bc1 59. Ke5
+Bd2 60. Ke4 Bg5 61. Ke5 Kf3 62. Nd4+ Kg2 63. Nf5 Kf3 64. Nd4+ Kg4 65. Nf5 Bd2
+66. Ke4 Bf4 67. Nh4 Kxh4 68. Kxf4 Kh3 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.13"]
+[Round "2.4"]
+[White "Baramidze,D"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2616"]
+[BlackElo "2705"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "4667719"]
+[BlackFideId "4650891"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Nc6 6. Qa4 Nd7 7. Qxc4 Nb6 8. Qd3
+e5 9. Nxe5 Nb4 10. Qc3 Qxd4 11. O-O Qxc3 12. Nxc3 Bd6 13. Nd3 Nxd3 14. exd3 c6
+15. a4 Be6 16. a5 Nd5 17. Bxd5 cxd5 18. Nb5 Bb8 19. Bf4 Bxf4 20. gxf4 Kd7 21.
+Rfc1 Rhc8 22. Kf1 Rc6 23. Nd4 Bh3+ 24. Ke2 Rf6 25. Nb5 Re8+ 26. Kf3 a6 27. Rc7+
+Kd8 28. Rxb7 Kc8 29. Ra7 Kb8 30. Ra8+ Kxa8 31. Nc7+ Kb7 32. Nxe8 Re6 33. Nxg7
+Rg6 34. Ne8 Bg4+ 35. Ke3 Re6+ 36. Kd4 Rxe8 37. Rg1 h5 38. Rg3 Re2 39. f3 Be6 40.
+Rg7 Kc7 41. f5 Bxf5 42. Rxf7+ Bd7 43. h4 Rh2 44. Kxd5 Rxh4 45. d4 Rh2 46. b4 h4
+47. Rf6 Re2 48. Rf7 h3 49. Rh7 Re3 50. f4 h2 0-1
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.15"]
+[Round "3.1"]
+[White "Naiditsch,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2789"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "2020009"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Be7 11. Nc3 Kc8 12. Bf4 b6 13. Rd2 Nh4 14. Nxh4
+Bxh4 15. Ne4 h6 16. g4 Be7 17. Ng3 g6 18. Ne4 Be6 19. Nf6 a5 20. a3 a4 21. Re1
+h5 22. Kg2 hxg4 23. hxg4 Ra5 24. Kg3 Rb5 25. c3 Rd8 26. Rxd8+ Kxd8 27. Bc1 Bxf6
+28. exf6 Rd5 29. Re4 b5 30. Rd4 Rxd4 31. cxd4 Kd7 32. Bf4 Bb3 33. Kf3 Bd1+ 34.
+Ke4 Bxg4 35. Ke5 Be6 36. Bd2 Bd5 37. f4 Be6 38. Bb4 Bd5 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.15"]
+[Round "3.2"]
+[White "Kramnik,V"]
+[Black "Baramidze,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2616"]
+[ECO "E07"]
+[Opening "Catalan"]
+[Variation "closed, Botvinnik variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "4667719"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. g3 O-O 6. Bg2 Nbd7 7. Qd3 c6 8. O-O
+b6 9. b3 a5 10. e4 Ba6 11. e5 Ne8 12. h4 h6 13. Rd1 b5 14. cxb5 cxb5 15. Ne2 b4
+16. Qe3 Bxe2 17. Qxe2 a4 18. Be3 Qa5 19. Rac1 Nc7 20. Nh2 Rfc8 21. Qg4 Kf8 22.
+f4 Qb6 23. Nf3 Nb5 24. Rxc8+ Rxc8 25. f5 axb3 26. axb3 Rc3 27. f6 Rxe3 28. Qxg7+
+Ke8 29. fxe7 Rxf3 30. Bxf3 Nxd4 31. Kg2 Nf5 32. Qh8+ Kxe7 33. Rc1 Qd8 34. Rc8
+Qxh8 35. Rxh8 Nxe5 36. Bh5 Kf6 37. Rb8 Nc6 38. Rb7 Nfe7 39. Kf2 e5 40. g4 Ke6
+41. g5 hxg5 42. hxg5 e4 43. Ke3 Kf5 44. Bxf7 Kxg5 45. Bxd5 Nxd5+ 46. Kxe4 Nde7
+47. Rb6 Kf6 48. Kd3 Ke6 49. Kc4 Kd6 50. Kb5 Kd5 51. Ka4 Kd4 52. Rxb4+ Nxb4 53.
+Kxb4 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.15"]
+[Round "3.3"]
+[White "Leko,P"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2743"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "703303"]
+[BlackFideId "400041"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Nd2 Kc8 14. Nf3
+Be7 15. Bg5 Bc5 16. Rd3 Be6 17. Be3 Bxe3 18. Rxe3 Kd7 19. Rd1+ Ke7 20. Nd4 Rad8
+21. Red3 g6 22. Nxe6 Rxd3 23. Rxd3 Kxe6 24. f4 h5 25. Kg2 hxg4 26. hxg4 a5 27.
+Kg3 Rh1 28. Rd8 g5 29. fxg5 Rg1+ 30. Kf3 Rf1+ 31. Kg3 Rg1+ 32. Kf3 Rf1+ 33. Kg3
+Rg1+ 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.15"]
+[Round "3.4"]
+[White "Ponomariov,R"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2632"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Burn variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "4675789"]
+[EventDate "2014.07.12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 Be7 7. Nxf6+ Bxf6
+8. Qd2 Bxg5 9. Nxg5 Nf6 10. O-O-O O-O 11. Be2 b6 12. Bf3 Rb8 13. Kb1 h6 14. Ne4
+Bb7 15. Rhe1 Bxe4 16. Bxe4 Nxe4 17. Rxe4 Qd5 18. Qf4 Rbd8 19. Rd3 Rd7 20. h4
+Rfd8 21. b3 Qf5 22. Qxf5 exf5 23. Rf4 g6 24. c4 Kg7 25. Kc2 Kf6 26. g4 c5 27. d5
+Re7 28. Re3 Rxe3 29. fxe3 Ke5 30. Kd3 Rg8 31. Ke2 f6 32. Kf3 fxg4+ 33. Rxg4 f5
+34. Rg1 a5 35. Rg2 Rg7 36. Rg1 Rg8 37. Rg2 Rg7 38. Rg1 Rg8 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.16"]
+[Round "4.1"]
+[White "Caruana,F"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2632"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "4675789"]
+[EventDate "2014.07.12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 O-O 10. O-O-O a6 11. Qf2 Bxd4 12. Bxd4 b5 13. Be3 Qa5 14. Kb1 b4 15.
+Ne2 Qc7 16. Nd4 Nxd4 17. Bxd4 a5 18. Bb5 Ba6 19. Bxd7 Qxd7 20. g4 a4 21. b3 Qc6
+22. f5 Bb5 23. Rd2 axb3 24. cxb3 Ra3 25. Re1 Rfa8 26. Re3 Rc8 27. Qe1 Rc7 28.
+Qd1 Ra8 29. Re1 Rac8 30. Qf3 Qa6 31. Red1 Qa3 32. Bb2 Qa6 33. Qe3 Kh8 34. f6
+gxf6 35. exf6 Rg8 36. g5 h6 37. Rg1 Rcc8 38. g6 1-0
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.16"]
+[Round "4.2"]
+[White "Adams,Mi"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2743"]
+[BlackElo "2723"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "400041"]
+[BlackFideId "14103320"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. Be3 Bb6 7. Bxc6+ bxc6 8.
+h3 O-O 9. Re1 h6 10. Nbd2 Be6 11. Nf1 Rb8 12. b3 c5 13. Ng3 Nd7 14. c3 d5 15. d4
+cxd4 16. cxd4 Ba5 17. Bd2 Bxd2 18. Qxd2 dxe4 19. Rxe4 exd4 20. Rxd4 c5 21. Rd3
+Qc7 22. Nh5 Bf5 23. Qc3 f6 24. Re3 Bg6 25. Ng3 Nb6 26. Rae1 Nd5 27. Qc4 Bf7 28.
+Re4 Rb4 29. Qc1 Bg6 30. Rc4 Rc8 31. Nh4 Bd3 32. Ngf5 g6 33. Nxh6+ Kg7 34. Ng4 g5
+35. Qd2 Nf4 36. Rxb4 cxb4 37. Qxb4 Ne2+ 38. Rxe2 Bxe2 39. Nf5+ Kh8 40. Ng3 a5
+41. Qe4 Bxg4 42. Qxg4 Rd8 43. Qh5+ Qh7 44. Qf3 Qe7 45. Nf5 Qe1+ 46. Kh2 Kg8 47.
+Ne3 Qc3 48. g3 Rd2 49. Kg1 Rxa2 50. Qd5+ Kf8 51. Qd8+ Kf7 52. Qd7+ Kf8 53. Qd8+
+Kf7 54. Qd7+ Kf8 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.16"]
+[Round "4.3"]
+[White "Baramidze,D"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2616"]
+[BlackElo "2737"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4667719"]
+[BlackFideId "703303"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 11. a3 Nbd7 12. b4 Ra7 13. Nc3 Qa8 14. Nh4 Bxg2 15.
+Nxg2 c6 16. Ne4 Nxe4 17. Qxe4 Nb6 18. Rfc1 Rc8 19. Ra2 a5 20. bxa5 Nc4 21. Bb4
+Bc7 22. Ne3 Nxe3 23. Qxe3 Bxa5 24. Bc5 Ra6 25. Rac2 h6 26. Qe4 Qb7 27. e3 Qd7
+28. Bb4 Bd8 29. Rc3 Bf6 30. h4 Bd8 31. R1c2 Bf6 32. Rc1 Bd8 33. R1c2 Bf6 34. Kg2
+Bd8 35. Qe5 Bf6 36. Qc5 Rd8 37. Qh5 Rc8 38. Qc5 Rd8 39. Qh5 Rc8 40. Kh2 Rd8 41.
+Qf3 Rc8 42. Qh1 Qc7 43. Qe4 Qd7 44. Qh1 Qc7 45. Qe4 Qd7 46. h5 Bd8 47. Qh1 Bf6
+48. Qc1 Rb6 49. Rc5 Be7 50. R5c3 Bf6 51. Rc5 Be7 52. R5c3 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.16"]
+[Round "4.4"]
+[White "Naiditsch,A"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2777"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "4101588"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Bd7 13. g3 Rd8 14. Bg5 Nh6
+15. Kg2 Bf5 16. Rxd8+ Bxd8 17. Bxd8 Kxd8 18. Rd1+ Ke7 19. Rd2 a5 20. Nd4 Bc8 21.
+f3 Rd8 22. g4 c5 23. Nb3 Rxd2+ 24. Nxd2 Ke6 25. Nc4 hxg4 26. hxg4 Bd7 27. a4 b6
+28. Kg3 g5 29. b3 Bc6 30. f4 gxf4+ 31. Kxf4 Ng8 32. Ne4 Bxe4 33. Kxe4 Ne7 34.
+Nd2 Nd5 35. Nf3 Nc3+ 36. Kd3 Nd1 37. Ke2 Nc3+ 38. Kd3 Nd1 39. Ke2 Nc3+ 40. Kd2
+Nd5 41. c3 Nf4 42. Ke3 Nh3 43. c4 c6 44. Ke2 Nf4+ 45. Ke3 Nh3 46. Ke2 Nf4+ 47.
+Ke3 Nh3 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.18"]
+[Round "5.1"]
+[White "Kramnik,V"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2789"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "4101588"]
+[BlackFideId "2020009"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 O-O 8. Nc3
+b6 9. Bg5 Bb7 10. Rc1 Ne4 11. Bf4 Nxc3 12. Rxc3 f6 13. Nc4 Rf7 14. O-O Nc6 15.
+Na3 e6 16. Qa4 Rc8 17. Rfc1 a6 18. Qd1 g5 19. Bd2 f5 20. Nc2 Rfc7 21. Bf1 Nb8
+22. Rxc7 Rxc7 23. Nb4 h6 24. Rxc7 Qxc7 25. e3 a5 26. Nd3 Nd7 27. b4 axb4 28.
+Nxb4 Nf6 29. Qa4 Bf8 30. Nd3 Bc6 31. Qa6 Ne4 32. Bb4 Bxb4 33. Nxb4 Nd6 34. Qa3
+Be8 35. Nd3 Bb5 36. Ne5 Bxf1 37. Kxf1 Nc4 38. Qa8+ Kg7 39. Nd3 Nd2+ 40. Kg2 Qc4
+41. Qa7+ Kg8 42. Qa8+ Kg7 43. Qa3 b5 44. Qe7+ Kh8 45. Qf8+ Kh7 46. Qf7+ Kh8 47.
+Qf8+ Kh7 48. Qf7+ 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.18"]
+[Round "5.2"]
+[White "Leko,P"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2705"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[WhiteFideId "703303"]
+[BlackFideId "4650891"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 Nbd7 8. Bd3
+Nh5 9. Bxe7 Qxe7 10. Nge2 Nhf6 11. O-O Nb6 12. Rae1 O-O 13. Nf4 Bd7 14. g3 Qd6
+15. f3 Rfc8 16. g4 g6 17. a3 c5 18. Qd2 cxd4 19. exd4 Bc6 20. g5 Nfd7 21. Re2
+Re8 22. Rfe1 Rxe2 23. Rxe2 Nf8 24. h4 Re8 25. Rxe8 Bxe8 26. Qe3 Bc6 27. Kg2 f6
+28. gxf6 Qxf6 29. Kg3 Kf7 30. Nd1 Nbd7 31. Nf2 g5 32. hxg5 Qxg5+ 33. Kh2 Qe7 34.
+Ng4 Qxe3 35. Nxe3 Nf6 36. Kg3 N8d7 37. Kh4 Nb6 38. Kg5 Nc8 39. Ng4 Nxg4 40. fxg4
+Nd6 41. Bxh7 Nb5 42. Ne2 Kg7 43. Bd3 Nd6 44. Kf4 Bd7 45. Nc3 Bc6 46. Nd1 Nf7 47.
+Ne3 Nd8 48. Bf5 Nf7 49. Be6 Nd6 50. Ke5 1-0
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.18"]
+[Round "5.3"]
+[White "Ponomariov,R"]
+[Black "Baramidze,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2616"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "4667719"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4
+c5 16. d5 c4 17. Bg5 Rb8 18. Qd2 Bc8 19. axb5 axb5 20. Ra7 Nc5 21. Rea1 Bg7 22.
+Be3 Re7 23. Bxc5 dxc5 24. Rxe7 Qxe7 25. Qg5 b4 26. Qxe5 Qb7 27. Qf4 Nd7 28. Ne2
+h6 29. h4 Ra8 30. Qc1 b3 31. Bd1 Nb6 32. Rb1 f5 33. Nd2 fxe4 34. Nxe4 Qxd5 35.
+N2g3 Bb7 36. Bf3 Qe5 37. Qd2 Rf8 38. Ra1 Kh8 39. Ra5 Qe7 40. Rxc5 Ra8 41. Qc1
+Qxh4 42. Rb5 Qd8 43. Nf1 Bxe4 44. Bxe4 Qe8 45. Bxa8 Qxb5 46. Be4 Kh7 47. Ne3 h5
+48. Qb1 Qe8 49. Kf1 Bh6 50. Nd5 Nxd5 51. Bxd5 Qe5 52. Bxc4 Qf4 53. Bxb3 Qc1+ 54.
+Qxc1 Bxc1 55. c4 Bxb2 56. c5 h4 57. Ke2 Kg7 58. Kd3 g5 59. Ke4 Kf6 60. f4 gxf4
+61. Kxf4 Be5+ 62. Kg4 Bg3 63. c6 Ke7 64. c7 Kd7 65. c8=B+ Kc7 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.18"]
+[Round "5.4"]
+[White "Meier,Geo"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2632"]
+[BlackElo "2743"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "4675789"]
+[BlackFideId "400041"]
+[EventDate "2014.07.12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Be7 8. h3 Bh5
+9. g4 Bg6 10. Nxg6 hxg6 11. Bg2 g5 12. Bd2 Nbd7 13. Qa4 Qc7 14. cxd5 Nxd5 15.
+O-O O-O 16. Rac1 Rad8 17. Qc2 Qb8 18. Rfd1 Rfe8 19. Ne2 Nf8 20. a3 Ng6 21. b4
+Nh4 22. Qb3 e5 23. Bh1 a6 24. a4 exd4 25. Nxd4 Nf4 26. exf4 Rxd4 27. fxg5 Red8
+28. Be3 Rxb4 29. Qc2 Qe5 30. Rxd8+ Bxd8 31. Rb1 a5 32. Bd2 Bc7 33. Kf1 Qh2 34.
+Ke2 Qe5+ 35. Kf1 Qh2 36. Ke2 Rxb1 37. Qxb1 Qxh3 38. Qe4 Ng6 39. Qe8+ Nf8 40. Bf3
+Qh2 41. Be3 Qe5 42. Qxe5 Bxe5 43. Be4 Ne6 44. g6 Bf4 45. Bb6 Bc7 46. Be3 Kf8 47.
+Kd3 Ke7 48. Kc4 fxg6 49. Bxg6 Kf6 50. Bf5 g6 51. Bxe6 Kxe6 52. f4 Bb8 53. Bd2
+Bc7 54. Be3 Bd6 55. Bd2 Kf7 56. Be3 Bb4 57. Bc1 Ke6 58. Be3 Kf7 59. Bc1 Ke6 60.
+Be3 Kf7 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.19"]
+[Round "6.1"]
+[White "Caruana,F"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2743"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "400041"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Be7 11. Nc3 Kc8 12. g4 Nh4 13. Nxh4 Bxh4 14. Be3 b6
+15. Rd2 c5 16. Nd5 Re8 17. Rad1 Bc6 18. Bf4 h6 19. Kg2 Kb7 20. c4 a5 21. Re1
+Rad8 22. Bg3 Bxg3 23. Kxg3 f6 24. f4 Re6 25. Rdd1 fxe5 26. Rxe5 Red6 27. f5 a4
+28. Kf4 b5 29. b3 a3 30. Ke4 b4 31. h4 R6d7 32. Rd2 Rf7 33. g5 hxg5 34. hxg5 Rh8
+35. Kf4 Rh1 36. Rf2 Rg1 37. Ne7 Bh1 38. g6 Rf6 39. Rxc5 Rd6 40. Rb5+ Ka6 41. Nd5
+Bxd5 42. Rxd5 Rxd5 43. cxd5 Kb6 44. f6 gxf6 45. Kf5 Kc5 46. Kxf6 Kxd5 47. g7 c5
+48. Rf5+ 1-0
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.19"]
+[Round "6.2"]
+[White "Baramidze,D"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2616"]
+[BlackElo "2632"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[WhiteFideId "4667719"]
+[BlackFideId "4675789"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 O-O 7. O-O c6 8. Qc2
+Nbd7 9. Rd1 b6 10. Bf4 Bb7 11. Nc3 dxc4 12. Nd2 Nd5 13. Nxc4 Nxf4 14. gxf4 Qc7
+15. e3 Rad8 16. Rac1 c5 17. d5 exd5 18. Nxd5 Bxd5 19. Rxd5 b5 20. Ne5 Nxe5 21.
+Rxe5 Bd6 22. Rd5 Be7 23. a4 a6 24. axb5 axb5 25. Re5 Bd6 26. Rd5 Be7 27. Rcd1
+Rxd5 28. Rxd5 Rd8 29. b3 g6 30. Rxd8+ Bxd8 31. Bf1 Qd7 32. Qe2 c4 33. bxc4 bxc4
+34. Qxc4 Qg4+ 35. Bg2 Qd1+ 36. Bf1 Qg4+ 37. Bg2 Qd1+ 38. Bf1 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.19"]
+[Round "6.3"]
+[White "Naiditsch,A"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2723"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "14103320"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. Qc2
+Qc7 16. b3 g6 17. Bb2 Rac8 18. Rad1 Nh5 19. Qb1 bxa4 20. bxa4 exd4 21. cxd4 d5
+22. Rc1 Nf4 23. Bf1 Qb8 24. g3 Ne6 25. h4 Bg7 26. Bh3 c5 27. dxc5 Bxb2 28. Qxb2
+Ndxc5 29. Ne5 Red8 30. Bxe6 Nxe6 31. Rxc8 Qxc8 32. Rc1 Qa8 33. exd5 Bxd5 34. Ng4
+Bh1 35. Nf6+ Kf8 36. Nxh7+ Kg8 37. Nf6+ Kf8 38. f3 Bxf3 39. Qa3+ Kg7 40. Nxf3
+Kxf6 41. Qb2+ Ke7 42. Ne5 Nd4 43. Rf1 f5 44. Re1 Qd5 45. Qb6 Rd6 46. Qc7+ Kf8
+47. Nxg6+ Rxg6 48. Qe7+ Kg8 49. Qe8+ 1-0
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.19"]
+[Round "6.4"]
+[White "Kramnik,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2737"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[WhiteFideId "4101588"]
+[BlackFideId "703303"]
+[EventDate "2014.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. b3 Be7 7. O-O O-O 8. Bb2 c5
+9. cxd5 Nxd5 10. Nbd2 Nd7 11. Qe2 Rc8 12. Rfd1 cxd4 13. Nxd4 Qc7 14. Nc4 a6 15.
+Rac1 b5 16. Nd2 Qb8 17. Ne4 Rxc1 18. Rxc1 Rc8 19. Rd1 N7f6 20. Nxf6+ Bxf6 21.
+Qd2 Be7 22. Be4 Nf6 23. Bxb7 Qxb7 24. Rc1 h6 25. Rxc8+ Qxc8 26. Qc2 Qxc2 27.
+Nxc2 Nd5 28. Kf1 f6 29. e4 Nb4 30. Nxb4 Bxb4 31. Ke2 Kf7 32. g4 e5 33. h4 g5 34.
+h5 Ke6 35. Kd3 Kd6 36. f3 Kc6 37. a3 Bd6 38. b4 Be7 39. Kc2 Bd6 40. Kd3 Be7 41.
+Kc2 Bd6 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.20"]
+[Round "7.1"]
+[White "Leko,P"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2789"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "703303"]
+[BlackFideId "2020009"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. d4 Bf6 11. Re1 d5 12. Ne2 Nd6 13. c3 Re8 14. Bf4 c6 15.
+Ng3 Rxe1 16. Qxe1 g6 17. Bh6 Nf5 18. Nxf5 Bxf5 19. Qd2 Qd7 20. Re1 Re8 21. Rxe8+
+Qxe8 22. f3 Bg7 23. Bxg7 Kxg7 24. g4 Bd7 25. Qf4 Qe1 26. Qc7 Be6 27. Qxb7 Qe3+
+28. Kg2 Qd2+ 29. Kg1 Qe3+ 30. Kg2 Qd2+ 31. Kg1 1/2-1/2
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.20"]
+[Round "7.2"]
+[White "Ponomariov,R"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2777"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "4101588"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8.
+Nf3 d5 9. d4 O-O 10. Nc3 Bb4 11. Bf4 Nce7 12. a3 Bd6 13. Qd2 c6 14. g3 f6 15. h4
+Bxf4 16. Qxf4 Ng6 17. Qd2 Nd6 18. Bg2 Bf5 19. b3 Qd7 20. Re3 Be4 21. Rae1 Rae8
+22. R3e2 Ne7 23. Nxe4 dxe4 24. Nh2 f5 25. c4 Rd8 26. f3 Qc7 27. Qc3 Rd7 28. fxe4
+Nxe4 29. Bxe4 fxe4 30. Rxe4 Nf5 31. Kg2 Qd6 32. c5 Qg6 33. Rg4 Qh6 34. Nf3 Ne7
+35. Ng5 Qg6 36. Qe3 Nd5 37. Qe4 Qh6 38. Qe2 Qf6 39. Re4 h6 40. Ne6 Rff7 41. Nf4
+Nc7 42. Qe3 Qf5 43. a4 Rf8 44. Qe2 Rfd8 45. Qc4+ Kh7 46. Re5 Qf6 47. Qd3+ Kg8
+48. R1e4 Rf8 49. Qe2 Rfd8 50. Re7 Rxe7 51. Rxe7 Nd5 52. Re8+ Kf7 53. Nxd5 Rxd5
+54. Rb8 Qxd4 55. Qe8+ Kf6 56. Rxb7 Qxc5 1-0
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.20"]
+[Round "7.3"]
+[White "Meier,Geo"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2632"]
+[BlackElo "2705"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[WhiteFideId "4675789"]
+[BlackFideId "4650891"]
+[EventDate "2014.07.12"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. Ne1 Nd7 10. Nd3 f5 11. f3 f4 12. Bd2 h5 13. Rc1 g5 14. c5 dxc5 15. b4 cxb4
+16. Nb5 c6 17. d6 Nd5 18. Nxb4 Qb6+ 19. Kh1 Nxb4 20. Nc7 Rb8 21. Qb3+ Kh8 22.
+Bxb4 c5 23. Bc3 Qxb3 24. axb3 a6 25. g3 b5 26. Ne6 Re8 27. Nxg7 Kxg7 28. Rg1 Kh6
+29. h4 g4 30. fxg4 Bb7 31. g5+ Kg6 32. Bf3 fxg3 33. Kg2 b4 34. Be1 a5 35. Kxg3
+a4 36. bxa4 Ba6 37. Bg2 c4 38. Bh3 Nc5 39. Bf5+ Kg7 40. d7 Red8 41. Kf3 Nd3 42.
+Bg3 Rb7 43. Rgd1 Rbxd7 44. Bxd7 Rxd7 45. Ke3 Kg6 46. Be1 Rd4 47. Bxb4 Nxc1 48.
+Rxc1 Bb7 49. Be1 Rxe4+ 50. Kd2 Rd4+ 51. Kc3 Bd5 52. a5 Rd3+ 53. Kb4 e4 54. a6 e3
+55. a7 Ba8 56. Ra1 e2 57. Bc3 Rd1 58. Ra6+ Kf5 59. Rf6+ Ke4 60. Rf8 Rb1+ 61.
+Kxc4 Rc1 62. Re8+ Kf3 63. g6 Bc6 64. g7 Rg1 65. g8=Q 1-0
+
+[Event "42nd GM 2014"]
+[Site "Dortmund GER"]
+[Date "2014.07.20"]
+[Round "7.4"]
+[White "Adams,Mi"]
+[Black "Baramidze,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2743"]
+[BlackElo "2616"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "400041"]
+[BlackFideId "4667719"]
+[EventDate "2014.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4
+c5 16. d5 c4 17. Bg5 h6 18. Be3 Nc5 19. Qd2 h5 20. Bxc5 dxc5 21. Reb1 Nd7 22. b3
+Nb6 23. Qe2 cxb3 24. Bxb3 c4 25. Bd1 Bc8 26. axb5 a5 27. Nd2 Qc7 28. Ngf1 Bd7
+29. Ne3 Rec8 30. Qf3 a4 31. Be2 Ra5 32. Ndxc4 Nxc4 33. Bxc4 Be8 34. b6 Qd6 35.
+Bd3 Rac5 36. Bc2 Rxc3 37. Bxa4 Bxa4 38. b7 Rb8 39. Rxa4 Qc7 40. Ra7 Kg7 41. Kh2
+Be7 42. Ra8 Rxb7 43. Nf5+ 1-0

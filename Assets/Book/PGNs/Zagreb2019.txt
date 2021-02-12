@@ -1,0 +1,670 @@
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.2"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2819"]
+[BlackElo "2754"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Qc2 Qa5 10.Rd1 Re8 11.Nd2 e5 12.Bg5 Nd4 13.Qb1 Bf5 14.Bd3 Bxd3 15.Qxd3 Ne4
+16.Nxd5 Nxg5 17.b4 Qd8 18.bxc5 Nde6 19.Qf5 Nxc5 20.h4 Nge6 21.Nf3 Qa5+ 22.Ke2 f6
+23.h5 e4 24.Nd2 Qxa3 25.Rh4 Rad8 26.Nxe4 Qa2+ 27.Ke1 Qa5+ 28.Kf1 Nxe4 29.Rxe4 Qa4
+30.Rb1 Ng5 31.Rd4 Nf7 32.Rxb7 Qa6 33.Qb1 Rf8 34.Kg1 Kh8 35.c5 Rc8 36.Nf4 Ne5
+37.h6 g6 38.Rd6 Qc4 39.Re6 Rxc5 40.Ree7  1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.4"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2752"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Ne7 10.Rd1+ Ke8 11.Nc3 Ng6 12.b3 Be7 13.Ne4 h5 14.Re1 Kf8 15.Bb2 c5
+16.Rad1 Bf5 17.c4 Nf4 18.Bc1 Ne6 19.Neg5 Rh6 20.Ne4 Rh8 21.Neg5 Rh6 22.Nxe6+ Rxe6
+23.Bg5 Re8 24.Rd5 b6 25.Kh2 a5 26.Kg3 a4 27.Kf4 Bc2 28.Bxe7+ Kxe7 29.Re3 axb3
+30.axb3 f6 31.h4 Ra8 32.b4 Ra4 33.Rc3 c6 34.Rd2 Bg6 35.bxc5 bxc5 36.Rb2 Kf8
+37.Rb8+ Re8 38.Rb6 Re6 39.Kg3 Bf7 40.exf6 gxf6 41.Nd2 Re2 42.Rb8+ Kg7 43.Rd8 Ra2
+44.Rcd3 Be6 45.Re3 Rexd2 46.Rxd2 Rxd2 47.Rxe6 Rd4 48.Rxc6 Rxc4 49.Kf3 Rxh4
+50.Rxc5  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.5"]
+[White "Anand,V"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteElo "2767"]
+[BlackElo "2775"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 h6 5.c3 d6 6.Nbd2 g5 7.h3 Bg7 8.Bb3 O-O
+9.Nf1 Ne7 10.h4 g4 11.N3h2 d5 12.f3 Ng6 13.fxg4 Nxh4 14.g3 Ng6 15.Qe2 a5
+16.Bc2 d4 17.g5 hxg5 18.Bxg5 a4 19.c4 Qd6 20.Nd2 Ra6 21.Rb1 Nh7 22.Qh5 Nxg5
+23.Qxg5 Qe7 24.Qxe7 Nxe7 25.Nhf3 f5 26.Bd1 Bd7 27.Nh4 Bh6 28.exf5 Nxf5 29.Ne4 Be3
+30.Be2 Rh6 31.Rh2 Bc6 32.Rg2 Nd6  0-1
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.1"]
+[White "Giri,A"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2779"]
+[BlackElo "2875"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Ne7 6.h4 h5 7.e5 d6 8.exd6 Ng6
+9.Nfd2 Bxd6 10.Nc4 Be7 11.Nc3 Ba6 12.Qf3 Bxc4 13.Qxc6+ Kf8 14.dxc4 Nxh4 15.O-O Nf5
+16.Ne2 Rc8 17.Qa4 Rc7 18.Bf4 Rd7 19.c3 g5 20.Rad1 Rxd1 21.Rxd1 Qa8 22.Bc7 h4
+23.f3 h3  0-1
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.6"]
+[White "Mamedyarov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2748"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 O-O 6.e4 b5 7.e5 exd5 8.exf6 d4 9.a3 Ba5
+10.b4 dxc3 11.bxa5 Qxf6 12.Qd5 Re8+ 13.Kf2 c2 14.Ra2 Bb7 15.Qd2 bxc4 16.Rxc2 d5
+17.Bb2 Qh4+ 18.g3 Qe7 19.Ne2 Nc6 20.a6 Bxa6 21.Qxd5 Bb7 22.Qe4 Nb4 23.Qxe7 Nd3+
+24.Kg2 Ne1+ 25.Kf2 Nd3+ 26.Kg2 Ne1+ 27.Kf2  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.26"]
+[Round "1.3"]
+[White "So,W"]
+[Black "Ding Liren"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2805"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 Bc5 4.Nc3 c6 5.e3 O-O 6.Nge2 d5 7.cxd5 Nxd5 8.d4 exd4
+9.Nxd5 cxd5 10.exd4 Bb6 11.Nc3 Nc6 12.Be3 Be6 13.O-O Qd7 14.Na4 Rfd8 15.Nxb6 axb6
+16.Qb3 Ra6 17.Rfc1 Bh3 18.Bf3 Bg4 19.Bg2 Bh3 20.Bf3 Bg4 21.Bh1 h5 22.h4 Be2
+23.Kh2 Qf5 24.Bg2 Na5 25.Qc3 Nc6 26.b3 b5 27.Qd2 Bf3 28.Bf1 Rb6 29.Bf4 Rc8
+30.Rc3 Bg4 31.f3 b4 32.Rd3 Bxf3 33.Rxf3 Ne5 34.dxe5 Rc2 35.Rf2 Rxd2 36.Rxd2 Rc6
+37.Bh3 Qg6 38.Rad1 Ra6 39.Bg2 d4 40.Bxb7 Ra5 41.Rxd4 Rxa2+ 42.R1d2 Qb6 43.Rxa2 Qxd4
+44.Rd2 Qc3 45.Bd5 Kf8 46.Bc4 Ke7 47.Bg5+ f6 48.exf6+ gxf6 49.Re2+ Kd7 50.Bd2  1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.27"]
+[Round "2.2"]
+[White "Nepomniachtchi,I"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2819"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8
+9.a4 Be7 10.Bd2 O-O 11.a5 a6 12.Na3 Nd7 13.Nc4 f5 14.Bb4 Rf6 15.Qd2 Rg6 16.g3 e4
+17.h4 b5 18.axb6 Nxb6 19.Na5 Bd7 20.O-O-O Bf6 21.Nc6 Qe8 22.Kb1 Kh8 23.h5 Rh6
+24.Qe3 Na4 25.c3 Rxh5 26.Rxh5 Qxh5 27.Be2 Qe8 28.Kc2 h6 29.Qf4 a5 30.Nxa5 Nxc3
+31.bxc3 Ba4+ 32.Kb1 Bxd1 33.Bxd1 Qb5 34.Nb3 Bg5 35.Qxf5 Qf1 36.Qg4 Rf8 37.Kb2 Rxf2+
+38.Bc2 Qc4 39.Qe6 Bf6 40.Qxd6 Rxc2+ 41.Kxc2 Qd3+ 42.Kb2 e3 43.Qe6 e2 44.Ka3 Bg5
+45.d6 Qa6+ 46.Kb2 Qd3 47.d7 Kh7 48.c4 Bf6+ 49.Ka3 Qc2 50.Qxf6  1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.27"]
+[Round "2.4"]
+[White "Aronian,L"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2779"]
+[ECO "E06"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.d4 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bf4 Bd6 11.Bg5 Nbd7 12.Nbd2 h6 13.Bxf6 Nxf6 14.Rfd1 Qe7 15.Ne1 Bd5
+16.Qc2 Bxg2 17.Kxg2 c5 18.dxc5 Bxc5 19.Rac1 Bb4 20.Qc7 Qe8 21.Qxb7 Bxd2 22.Rxd2 Qxa4
+23.Nd3 Nd5 24.Qc6 Qa5 25.Rdd1 Rfb8 26.Qc4 Ra7 27.Qc5 Qxc5 28.Rxc5 g5 29.Rdc1 Kg7
+30.R1c4 Rab7 31.h4 Rb3 32.hxg5 hxg5 33.Ra5 Nb4 34.Ne5 Rb7 35.Nf3 f6 36.Nd4 Rxb2
+37.Nxe6+ Kg6 38.Nd4 Rd2 39.Rac5 a5 40.Rxa5 Rxd4 41.Rxd4 Nc6 42.Raa4 Nxd4
+43.Rxd4 Rb2 44.Kf3 Kf7 45.e4 Ke6 46.Ke3 f5 47.Rd5 Rb3+ 48.Rd3 Rb2 49.f3 Rg2
+50.exf5+ Kxf5 51.g4+ Kg6 52.Rd6+ Kg7 53.Ke4 Rf2 54.Kf5 Rxf3+ 55.Kxg5 Ra3  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.27"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2875"]
+[BlackElo "2767"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4 cxd4 8.Nxd4 Bxc3+
+9.bxc3 Qa5 10.Bb5+ Bd7 11.Bxf6 gxf6 12.Bxd7+ Nxd7 13.O-O Qxc3 14.Qa4 O-O
+15.Nxe6 Nb6 16.Qd4 Rfc8 17.Qxc3 Rxc3 18.Nf4 Rc5 19.Rfd1 f5 20.exf5 Rac8 21.f6 Rf5
+22.g3 Rxf6 23.Rd3 Rfc6 24.Ra3 Rc1+ 25.Rxc1 Rxc1+ 26.Kg2 Nc8 27.Rd3 Rc7 28.Rd8+ Kg7
+29.h4 Ne7 30.Nh5+ Kh6 31.Nf6 Kg6 32.Ne8 Rc6 33.Rd7 Re6 34.h5+ Kh6 35.Nd6 f5
+36.Nxb7 Ng8 37.Nd6 Nf6 38.Nxf5+ Kg5 39.Nd4 Nxd7 40.Nxe6+ Kxh5 41.Kf3 Kg6
+42.Kf4 Kf6 43.Ng5 h6 44.Ne4+ Ke6 45.Kg4 Ke5 46.f3 Kd4 47.Kf5 Ke3 48.f4 h5
+49.Ng5 Nc5 50.Kg6 Kf2 51.f5 Kxg3 52.Ne6 Nd7 53.Kxh5 Kf3 54.Kg5 Ke4 55.Nc7 a5
+56.Nb5 Kd3 57.Kg6 a4 58.Kf7 Ne5+ 59.Kf6 Nf3 60.Ke7 Kc2 61.f6 Ng5 62.Nd4+ Kb2
+63.Ne6 Nh7 64.f7 Kxa2 65.Ng5 a3 66.Nxh7 Kb1 67.f8=Q a2 68.Qf5+ Kb2 69.Qe5+ Kb1
+70.Qe4+ Kb2 71.Qe2+ Kb1 72.Nf6 a1=Q 73.Nd5 Qg7+ 74.Kd6 Qf8+ 75.Ke5 Qe8+ 76.Kd4 Qxe2
+77.Nc3+ Ka1 78.Nxe2  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.27"]
+[Round "2.3"]
+[White "Ding Liren"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2748"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O Nbd7 8.Qc2 c6
+9.Rc1 Re8 10.a3 a5 11.Bf4 Ne4 12.Nc3 g5 13.Be3 Nd6 14.b3 Nf5 15.Qd3 g4 16.Nd2 Nxe3
+17.Qxe3 Bg5 18.Qd3 dxc4 19.Nxc4 Bxc1 20.Rxc1 Nb6 21.Ne5 f5 22.e4 Qg5 23.Ne2 Nd7
+24.Nf4 Nxe5 25.dxe5 Rd8 26.Qe3 Bd7 27.h4 gxh3 28.Bxh3 Be8 29.Qc5 Bh5 30.exf5 exf5
+31.e6 Rd1+ 32.Rxd1 Bxd1 33.Bxf5 Qf6 34.Bd3 Bf3 35.Qe3 Bd5 36.Nh5 Qe7 37.Qe5 Rf8
+38.g4 h6 39.f4 b5 40.b4 axb4 41.axb4 Bxe6 42.f5 Qa7+ 43.Kf1 Qf7 44.Kf2 Qa7+
+45.Kf1 Qf7 46.Kf2 Qa7+ 47.Kg2 Bd5+ 48.Kh3 Qf7 49.Kh4 Qa7 50.Kh3 Qf7 51.Kh4 Qa7  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.27"]
+[Round "2.5"]
+[White "So,W"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2779"]
+[ECO "A04"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 g6 4.b3 Bg7 5.Bb2 b6 6.Bg2 Bb7 7.O-O O-O 8.Nc3 d5
+9.Nxd5 Nxd5 10.Bxg7 Kxg7 11.cxd5 Qxd5 12.d4 cxd4 13.Qxd4+ Qxd4 14.Nxd4 Bxg2
+15.Kxg2 a5 16.Rfd1 Rc8 17.Rac1 Na6 18.Nb5 a4 19.bxa4 Rxc1 20.Rxc1 Nc5 21.Nc3 Nxa4
+22.Nxa4 Rxa4 23.Rc2 Kf6 24.Rc6+ Kg7 25.Rxb6 Rxa2 26.Kf1 Ra1+ 27.Kg2 Ra2 28.Kf1 Ra1+
+29.Kg2  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.27"]
+[Round "2.6"]
+[White "Nakamura,Hi"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2774"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bb5+ c6 8.Ba4 O-O
+9.Nf3 c5 10.O-O cxd4 11.cxd4 Bg4 12.Rb1 Nc6 13.d5 Na5 14.h3 Bxf3 15.Qxf3 a6
+16.Bf4 b5 17.Bc2 Rc8 18.Qe2 Nc4 19.Rbd1 Qb6 20.h4 Rfd8 21.h5 Be5 22.Bc1 Bb2
+23.Bf4 Be5 24.Bc1 Bb2 25.Bf4 Be5  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.28"]
+[Round "3.3"]
+[White "Vachier Lagrave,M"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2805"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 O-O 7.Re1 a5 8.Bg5 h6
+9.Bh4 g5 10.Bg3 Nh7 11.d4 Bb6 12.dxe5 h5 13.h4 Bg4 14.hxg5 Nxg5 15.exd6 h4
+16.Bh2 Qf6 17.Nbd2 cxd6 18.Be2 Bxf3 19.Bxf3 Ne5 20.Rf1 h3 21.Bg4 d5 22.Bxh3 Rae8
+23.Kh1 dxe4 24.Bxe5 Rxe5 25.Qg4 Bxf2 26.Nc4 e3 27.Nxe3 Rxe3 28.Rxf2 Qxf2
+29.Qxg5+ Kh8 30.Qh6+ Kg8 31.Qg5+ Kh8 32.Qh6+ Kg8 33.Qg5+  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.28"]
+[Round "3.4"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2752"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.Re1 O-O 8.Nbd2 Ba7
+9.Nf1 Na5 10.Bb3 Nxb3 11.axb3 Bg4 12.h3 Bxf3 13.Qxf3 Qe8 14.b4 Qe6 15.Be3 Bxe3
+16.Nxe3 c6 17.Qf5 Qxf5 18.Nxf5 Rad8 19.Rad1 Rfe8 20.Ne3 Kf8 21.f3 d5 22.Kf2 Rd7
+23.Ng4 Nxg4+ 24.hxg4 Red8 25.exd5 Rxd5 26.Ke2 Rb5 27.Rd2 a5 28.bxa5 Rxa5
+29.Red1 Ke7 30.g5 e4 31.f4 exd3+ 32.Rxd3 Rxd3 33.Rxd3 Ra2 34.Rd2 f6 35.gxf6+ Kxf6
+36.g4 h6 37.Kf3 Ke6 38.Ke4 Ra4+ 39.Kf3 Ra2 40.Ke4 Ra4+ 41.Kf3  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.28"]
+[Round "3.5"]
+[White "Giri,A"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2754"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 O-O 6.h3 d6 7.c3 a6 8.Re1 h6 9.Nbd2 Ba7
+10.a4 Re8 11.b4 Be6 12.Bxe6 Rxe6 13.Bb2 b5 14.d4 Re8 15.axb5 axb5 16.Qe2 exd4
+17.Qxb5 dxc3 18.Bxc3 Ne5 19.Qb7 Bb6 20.Bxe5 dxe5 21.Rxa8 Qxa8 22.Qxa8 Rxa8
+23.Nxe5 Bd4 24.Nc6 Bc3 25.Rd1 Bxd2 26.Rxd2 Nxe4 27.Re2 Nd6 28.Rc2 Ra1+ 29.Kh2 Kf8
+30.Ne5 Ra7 31.Nc6 Ra1 32.Ne5 Ra7 33.Nc6 Ra1  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.28"]
+[Round "3.6"]
+[White "Karjakin,Sergey"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2754"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6
+9.Rd1 Qa5 10.a3 Re8 11.Nd2 e5 12.Bg5 Nd4 13.Qb1 Bf5 14.Bd3 Bxd3 15.Qxd3 Ne4
+16.Ndxe4 dxe4 17.Qd2 Ne6 18.Nxe4 Qxd2+ 19.Rxd2 f5 20.Nxc5 Nxc5 21.f3 Rac8
+22.O-O e4 23.Rd5 Ne6 24.Rxf5 exf3 25.R1xf3 Nxg5 26.Rxg5 Rxc4 27.h3 Rc1+ 28.Kh2 Rc2
+29.Rb5 b6 30.a4 h6 31.a5 bxa5 32.Rb7 Rf8 33.Kg3 a6 34.Rxf8+ Kxf8 35.Rb6 Kf7
+36.Rxa6 Rxb2 37.Rxa5 g5 38.Kf3 Kg6 39.Ra6+ Kg7 40.h4 gxh4 41.Ra4 h3 42.gxh3 Kf6
+43.Rf4+ Ke7 44.Rh4 Rb6 45.e4 Kf7 46.Kf4 Rf6+ 47.Ke5 Ra6 48.Rf4+ Ke7 49.Rf5 Ra3
+50.h4 Ra1 51.Kf4 Rf1+ 52.Ke3 Re1+ 53.Kd3 Rd1+ 54.Ke2 Ra1 55.Rh5 Kf6 56.Kd3 Rd1+
+57.Ke3 Re1+ 58.Kd4 Rd1+ 59.Kc5 Ke6 60.Kc4 Kf6 61.Rd5 Rh1 62.h5 Ke6 63.Rb5 Rd1
+64.Ra5 Rc1+ 65.Kd4 Rd1+ 66.Ke3 Re1+ 67.Kf3 Rf1+ 68.Ke2 Rb1 69.Ra6+ Ke5 70.Rxh6 Kxe4
+71.Rh8 Kf5 72.h6 Kg6 73.Kf3 Rb3+ 74.Ke2 Rb2+ 75.Kd3 Rb7 76.h7 Rxh7 77.Rxh7 Kxh7  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.28"]
+[Round "3.2"]
+[White "Mamedyarov,S"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteElo "2774"]
+[BlackElo "2775"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.e3 O-O 5.Be2 d6 6.Nc3 Nbd7 7.O-O e5 8.b3 Re8
+9.h3 e4 10.Nd2 h5 11.b4 Nf8 12.Re1 Bf5 13.Bb2 Qd7 14.Nd5 Nxd5 15.cxd5 Qe7
+16.Rc1 Nh7 17.Qc2 Qg5 18.Qxc7 Bxh3 19.Bf1 Bf8 20.Qxb7 Nf6 21.Qa6 Bc8 22.Qa4 Bd7
+23.Qd1 Bg4 24.f3 exf3 25.Nxf3 Qh6 26.Qb3 h4 27.Ne5 h3 28.Nxg4 Nxg4 29.gxh3 Nxe3
+30.Rc3 Nf5 31.Rd1 Qh5 32.Rf3 Bh6  0-1
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.28"]
+[Round "3.1"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2819"]
+[BlackElo "2875"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 Be7 7.Re1 b5 8.Rxe4 d5
+9.Nxe5 Nxe5 10.Rxe5 bxa4 11.Nc3 O-O 12.Re1 Bd6 13.Qh5 a3 14.Nxd5 axb2 15.Bxb2 Rb8
+16.Rab1 Re8 17.Ne3 Bf4 18.d5 Rb4 19.c4 Bxe3 20.Rxe3 Rxe3 21.fxe3 Rxc4 22.Bd4 c5
+23.Ba1 f6 24.h3 Qe7 25.Qf3 h6 26.Re1 Re4 27.Kf2 Bd7 28.Rd1 Kh7 29.Rd2 Qe8
+30.Bb2 Ra4 31.a3 Rc4 32.Re2 Qg6 33.e4 Ba4 34.d6 Bc6 35.Qg3 Qxg3+ 36.Kxg3 Kg6
+37.e5 fxe5 38.Bxe5 h5 39.Bb2 h4+ 40.Kh2 Kf5 41.Bxg7 Re4 42.Rxe4 Kxe4 43.Bf6 c4
+44.Bxh4 c3 45.Bf6 c2 46.Bb2 Kd5 47.g4 Kxd6 48.Kg3 Bb5 49.Kf3 Ke7 50.h4 Kf8
+51.h5 Be8 52.Kg3 Kg8 53.Kh4 Kh7 54.Kg5 Bd7 55.Kf4 a5 56.Kg5 a4 57.Kf4 Be6
+58.g5 Bf7 59.g6+ Bxg6 60.hxg6+ Kxg6 61.Ke5 Kf7 62.Kd6 Ke8 63.Bc1 Kd8 64.Kc6 Kc8
+65.Bf4 c1=Q+ 66.Bxc1 Kb8 67.Kb6 Ka8 68.Bf4  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.29"]
+[Round "4.6"]
+[White "Ding Liren"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2754"]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 a6 6.O-O c5 7.b3 cxd4 8.Nxd4 Be7
+9.Bb2 O-O 10.Nd2 b5 11.Be2 Bb7 12.Bf3 Ra7 13.Rc1 Qd7 14.Qe2 Bxf3 15.N2xf3 Rc8
+16.Ne5 Qe8 17.Rxc8 Qxc8 18.Rc1 Rc7 19.Rxc7 Qxc7 20.Nd3 Qa5 21.Ba1 Qc7 22.Qc2 Qxc2
+23.Nxc2 Nfd7 24.Kf1 Nc6 25.Nd4 Nxd4 26.Bxd4 f5 27.Ke2 Bd6 28.f4 Kf7 29.h3 g6
+30.Kd2 Ke7 31.Kc3 Kd8 32.Be5 Be7 33.Kd4 Kc8 34.e4 fxe4 35.Kxe4 Nc5+ 36.Nxc5 Bxc5
+37.g4 Kd7 38.f5 gxf5+ 39.gxf5 Ke7 40.a4 bxa4 41.bxa4 Ba3 42.Bd4 Bb4 43.Be5 Ba3
+44.Bd4 Bb4 45.Be5  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.29"]
+[Round "4.2"]
+[White "Carlsen,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2875"]
+[BlackElo "2774"]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.h4 Nxc3 6.bxc3 Bg7 7.h5 c5 8.Rb1 b6
+9.e4 O-O 10.hxg6 hxg6 11.d4 Bb7 12.Ng5 cxd4 13.Qg4 Nd7 14.Qh3 Nf6 15.e5 Nh5
+16.e6 Qd5 17.exf7+ Rxf7 18.Bd3 Qe5+ 19.Kd1 dxc3 20.Nxf7 Kxf7 21.Re1 c2+ 22.Bxc2 Rd8+
+23.Bd2 Qd6 24.Qe3 Nf4 25.Kc1 Bh6 26.Kb2 Rc8 27.Rbc1 e6 28.Kb1 Bxg2 29.Bb3 Rxc1+
+30.Bxc1 Bh3 31.Bb2 Bf5+ 32.Ka1 Bg7 33.Bxg7 Kxg7 34.Rd1 Nd3 35.Bc4 Qe5+ 36.Qxe5+ Nxe5
+37.Be2 g5 38.Rc1 Kf6 39.Rc7 Bd3 40.Bxd3 Nxd3 41.Rxa7 Nxf2 42.Rb7 g4 43.Rxb6 g3
+44.a4 Ne4 45.Rb1 Nc5 46.a5 Ke5 47.Kb2 Kf4 48.Kc3 g2 49.Kc4 Na6 50.Kb5 Nb8
+51.Kc4 Na6 52.Kb5 Nb8 53.Kc4 Na6 54.Rg1 Kg3 55.Kd4 Kf2 56.Rxg2+ Kxg2 57.Ke5 Nc5
+58.a6 Nxa6 59.Kxe6  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.29"]
+[Round "4.5"]
+[White "Vachier Lagrave,M"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2779"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Bc2 Bg4 11.Qe1 Nc5 12.Nd4 Nxd4 13.cxd4 Ne6 14.Qd2 O-O 15.Nc3 f5
+16.Qd3 Kh8 17.Bb3 c6 18.h3 Bh5 19.f4 g5 20.Kh2 gxf4 21.Bd1 Bxd1 22.Qxd1 Bg5
+23.Ne2 Ra7 24.Bxf4 Rg7 25.Qd2 Rfg8 26.Bxg5 Rxg5 27.Rf2 c5 28.b4 cxb4 29.Qxb4 R5g6
+30.Qc3 Qh4 31.Raf1 f4 32.Qf3 Rg3 33.Qxd5 Ng5 34.Nxf4 Nxh3 35.Qxg8+ Rxg8 36.Nxh3 Qxd4
+37.e6 Qd6+ 38.Nf4 Rf8 39.g3 Rxf4 40.gxf4 Qxe6 41.f5 Qh6+ 42.Kg3 Qg5+ 43.Kh3 Qh5+
+44.Kg3 Qg5+ 45.Kh3 Qh5+ 46.Kg3  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.29"]
+[Round "4.4"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2819"]
+[ECO "D04"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 c5 4.Nbd2 cxd4 5.exd4 Bf5 6.Ne5 Nbd7 7.Ndf3 e6 8.c3 Be7
+9.Bf4 O-O 10.Qb3 Nxe5 11.Bxe5 Ne4 12.Be2 f6 13.Bf4 g5 14.Be3 b5 15.a4 bxa4
+16.Qxa4 Bd6 17.Ra2 a5 18.O-O Qb8 19.Kh1 h5 20.c4 h4 21.h3 Bb4 22.Raa1 Ra7
+23.Rac1 Rg7 24.cxd5 exd5 25.Qb5 Qd6 26.Qa6 Qe7 27.Bd3 Kh8 28.Ng1 Bh7 29.Bxe4 Qxe4
+30.Rc8 Rxc8 31.Qxc8+ Rg8 32.Qa6 Be7 33.Re1 Bd8 34.Qd6 Be7 35.Qa6 Bd8 36.Qd6 Be7
+37.Qa6  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.29"]
+[Round "4.1"]
+[White "Nepomniachtchi,I"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2748"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O a6 7.Bb3 Ba7 8.h3 h6 9.Re1 g5
+10.Nh2 Rg8 11.Be3 g4 12.hxg4 Nxg4 13.Qf3 Rg7 14.Bxa7 Nxh2 15.Kxh2 Qh4+ 16.Kg1 Bg4
+17.Qe3 Nxa7 18.Nd2 Nc6 19.g3 Qh3 20.Bd1 Bxd1 21.Raxd1 O-O-O 22.Qf3 Rh8 23.Nf1 h5
+24.Ne3 h4 25.Qf5+ Qxf5 26.Nxf5 Rg5 27.Re3 Kd7 28.Kg2 hxg3 29.Rxg3 Rxg3+ 30.Kxg3 Ne7
+31.Nxe7 Kxe7 32.Kf3 Rh3+ 33.Kg2 Rh8 34.Kf3 Rh3+ 35.Kg2 Rh8  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.29"]
+[Round "4.3"]
+[White "So,W"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2767"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 e4 5.Bg5 d5 6.Bxf6 Qxf6 7.Nc3 Bb4 8.e3 O-O
+9.Ne2 Be6 10.O-O Qe7 11.Nf4 Bxc3 12.bxc3 Nd7 13.Qb3 Nb6 14.cxd5 cxd5 15.Rfb1 g5
+16.Nxe6 fxe6 17.a4 Rab8 18.Ra2 Qc7 19.Bf1 Rfc8 20.Qb4 Nc4 21.Bxc4 Qxc4 22.Qe7 Qxa2
+23.Qxe6+ Kg7 24.Qe7+ Kg6 25.Qe6+ Kg7 26.Qe7+ Kg6 27.Qe6+  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.30"]
+[Round "5.6"]
+[White "Mamedyarov,S"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2752"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 d5 5.Qa4+ Nc6 6.Bg5 dxc4 7.a3 Bxc3+ 8.bxc3 Qd5
+9.Bxf6 gxf6 10.g3 Bd7 11.Qc2 Na5 12.e4 Qd6 13.Bg2 Nb3 14.Rd1 Qxa3 15.O-O O-O-O
+16.Qe2 Bb5 17.Rb1 c6 18.Rfd1 a5 19.Nd2 Nxd4 20.cxd4 Rxd4 21.Ra1 Qb2 22.Rab1 c3
+23.Qf3 Rxd2 24.Rxb2 cxb2 25.Bf1 Rhd8 26.Rb1 Bxf1 27.Kxf1 Rc2 28.Kg2 Rdd2
+29.Qxf6 a4 30.Kh3 Rxf2 31.Qh8+ Kc7 32.Qd4 f6 33.Qxa4 Rxh2+ 34.Kg4 h5+ 35.Kf4 Rhf2+
+36.Ke3 Rfe2+ 37.Kf3 Rf2+ 38.Ke3 Rfe2+ 39.Kf3 Rf2+  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.30"]
+[Round "5.5"]
+[White "Giri,A"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteElo "2779"]
+[BlackElo "2805"]
+[ECO "D45"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 b6
+9.O-O Bb7 10.Bb2 Rc8 11.Rad1 c5 12.dxc5 Nxc5 13.cxd5 Nxd5 14.Bc4 Nb4 15.Qe2 Qe7
+16.a3 Nc6 17.b4 Nd7 18.Ne4 Be5 19.Bd3 Bxb2 20.Qxb2 Rcd8 21.Rd2 f6 22.Bb1 Nde5
+23.Nxe5 Nxe5 24.Rc1 Rxd2 25.Qxd2 Rd8 26.Qe2 Qd7 27.Nc3 Rc8 28.Rd1 Qe7 29.Ne4 Bd5
+30.f4 Nf7 31.Qd2 Qc7 32.Nf2 Nd6 33.e4 Bb3 34.e5 Nf5 35.Re1 fxe5 36.fxe5 Qc3
+37.Qxc3 Rxc3 38.Ne4 Rc7 39.Kf2 Bd5 40.Rd1 h6 41.Nd6 Nxd6 42.exd6 Rc6 43.Be4 Rxd6
+44.Ke3 Kf7 45.Rc1 Ke7 46.Rc8 Rd7 47.Bxd5 Rxd5 48.a4 Kd6 49.h4 Re5+ 50.Kd3 Rh5
+51.Rd8+ Ke7 52.Rg8 Kf7 53.Ra8 a5 54.Ra6 axb4 55.Rxb6 Rxh4 56.a5 Rg4 57.a6 Rxg2
+58.Kc4 Ra2 59.Kxb4 h5 60.Kb5 h4 61.Rc6 h3 62.Rc3 h2 63.Rf3+ Ke7 64.Rh3 g5  0-1
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.30"]
+[Round "5.4"]
+[White "Anand,V"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2779"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 Rc8 7.b3 g6 8.Bb2 e5
+9.d3 Bg7 10.Nc3 Nf8 11.Nd2 Ne6 12.Nc4 a6 13.a4 O-O 14.g3 Nd4 15.Qd1 Qd7 16.Ne3 Rce8
+17.Rb1 h5 18.Ncd5 Nxd5 19.Nxd5 Nc6 20.Bc1 f5 21.f3 Ne7 22.Nxe7+ Rxe7 23.Bg5 Ref7
+24.Qe2 Kh7 25.Kg2 Bh6 26.Bxh6 Kxh6 27.exf5 Rxf5 28.b4 cxb4 29.Rxb4 R8f7 30.d4 Qc6
+31.dxe5 Rxe5 32.Qc4 Rc7 33.Qxc6 Rxc6 34.Rxb7 Re2+ 35.Rf2 Rxf2+ 36.Kxf2 Rxc2+
+37.Ke3 Rc4 38.Rb6 Rxa4 39.Rxd6 Ra3+ 40.Kf4 Ra4+ 41.Ke3 Ra3+ 42.Kf4 Ra4+ 43.Ke3  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.30"]
+[Round "5.3"]
+[White "Caruana,F"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2819"]
+[BlackElo "2754"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O 7.h3 a6 8.a4 h6 9.Re1 Ba7
+10.Nbd2 Re8 11.b4 Be6 12.Bxe6 Rxe6 13.Nb3 Ne7 14.Nh4 d5 15.Qe2 Rd6 16.Nc5 Bxc5
+17.bxc5 Re6 18.Qf3 dxe4 19.dxe4 Qd7 20.a5 Rd8 21.Rb1 Qc6 22.Qe3 Kh7 23.Rb4 Ng6
+24.Nxg6 fxg6 25.f3 Nh5 26.Qf2 g5 27.Kh2 Nf4 28.Bxf4 gxf4 29.Reb1 Rd3 30.Rxb7 Rxc3
+31.Rb8 Qxc5 32.Qh4 Qe7 33.Qg4 Rc2 34.Qf5+ g6 35.Qf8 Qxf8 36.Rxf8 Kg7 37.Rbb8 Rd6
+38.Rg8+ Kh7 39.Rh8+ Kg7 40.Rhg8+ Kh7 41.Rh8+ Kg7  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.30"]
+[Round "5.2"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2875"]
+[ECO "D30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 a6 4.cxd5 exd5 5.Nc3 h6 6.Bf4 Nf6 7.e3 Bd6 8.Be5 Be6
+9.Qb3 Ra7 10.Bd3 Bxe5 11.Nxe5 O-O 12.O-O Nbd7 13.f4 c5 14.f5 c4 15.Qa3 cxd3
+16.fxe6 fxe6 17.Nxd3 Ra8 18.Qd6 Qb6 19.Qxb6 Nxb6 20.Nc5 Rf7 21.b3 Re8 22.Rac1 e5
+23.h3 Nc8 24.Nd3 exd4 25.exd4 Na7 26.Nf4 Nc6 27.Nfxd5 Nxd5 28.Nxd5 Rd7 29.Rc5 Nxd4
+30.Rd1 Ne6 31.Rc4 Red8 32.Re1 Rxd5 33.Rxe6 R8d6 34.Rxd6 Rxd6 35.a4 b6 36.b4 Rd1+
+37.Kf2 Ra1 38.Rc6 Ra2+ 39.Kf3 Ra3+ 40.Kf2 Ra2+ 41.Kf3 Ra3+ 42.Kf2 Ra2+  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.06.30"]
+[Round "5.1"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2775"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Na4 Bf5 6.f3 Nb6 7.e4 Nxa4 8.Qxa4+ Bd7
+9.Qb3 Bg7 10.Be3 O-O 11.d5 b6 12.Rd1 Qe8 13.Rd2 c6 14.Ne2 e6 15.dxc6 Nxc6
+16.Qa3 Ne5 17.Nc3 b5 18.Qa6 b4 19.Nd1 Qe7 20.Be2 Rfd8 21.O-O Bc8 22.Rxd8+ Qxd8
+23.Qa4 a5 24.Nf2 Bd7 25.Qd1 Nc6 26.b3 Be8 27.Qxd8 Rxd8 28.Rd1 Bd4 29.Bxd4 Nxd4
+30.Kf1 Kf8 31.e5 Bc6 32.Ng4 Ke7 33.Nf6 h5 34.Rc1 Kf8 35.Kf2 a4 36.bxa4 Bxa4
+37.Rc7 b3 38.axb3 Bxb3 39.Ke3 Ba4 40.Bd3 Nc6 41.Nd7+ Ke8 42.Nf6+ Kf8 43.Bc2 Bb5
+44.Kf4 Ne7 45.Nh7+ Ke8 46.Nf6+ Kf8 47.Be4 Rc8 48.Ra7 Bc6 49.Kg5 Bxe4 50.Nxe4 Nc6
+51.Rb7 Kg7 52.Nd6 Rf8 53.f4 Nd4 54.Rd7 Nf5 55.Nxf5+ gxf5 56.Rd3 Ra8 57.Rg3 f6+
+58.Kxh5+ Kf7 59.Rg6 fxe5 60.fxe5 Ra5 61.Kh6 Rxe5 62.Rg7+ Kf6 63.Rg6+ Kf7
+64.Rg7+ Kf6 65.Rg6+  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.2"]
+[White "Carlsen,M"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2875"]
+[BlackElo "2754"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Qc2 Re8 10.Bg5 Be7 11.Rd1 Qa5 12.Bd3 dxc4 13.Bxc4 h6 14.Bf4 Bd7 15.O-O Rac8
+16.e4 e5 17.Be3 Nd4 18.Bxd4 Rxc4 19.Bxe5 Ba4 20.b3 Nxe4 21.Rd3 Rec8 22.Qb2 Nc5
+23.Re3 Bxb3 24.Bxg7 Rg4 25.Bxh6 Bf6 26.Ne5 Bxe5 27.Rxe5 Qb6 28.Qd2 Rg6 29.Be3 Qc6
+30.Nd5 Bxd5 31.Qxd5 b6 32.g3 Nd7 33.Qxc6 Rgxc6 34.Rd5 Nf8 35.Rfd1 Ne6 36.a4 Rc4
+37.a5 Rb4 38.Rd7 bxa5 39.Rxa7 a4 40.Rdd7 Nd8 41.Rd5 Ne6 42.Rda5 Rcc4 43.Kg2  1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.3"]
+[White "So,W"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2774"]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 e5 5.Nxe5 O-O 6.Nf3 Re8 7.Bd3 Nxe4 8.Bxe4 Bxc3
+9.dxc3 Rxe4+ 10.Be3 d6 11.c5 d5 12.h3 b6 13.O-O Bb7 14.Re1 Nd7 15.Nd2 Re8
+16.Nb3 Qh4 17.Qd2 f6 18.f4 Qh5 19.Bf2 g5 20.c6 Bxc6 21.Nd4 Bb7 22.Nb5 Rxe1+
+23.Rxe1 Re8 24.Nxc7 Rxe1+ 25.Qxe1 d4 26.Qe7 Qf7 27.Qd8+ Nf8 28.Bxd4 gxf4
+29.Ne8 Ne6  1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.4"]
+[White "Vachier Lagrave,M"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2779"]
+[BlackElo "2819"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bb7
+9.d3 h6 10.axb5 axb5 11.Rxa8 Qxa8 12.Nh4 Bc8 13.Na3 Bg4 14.Qc2 Qb8 15.Kh1 g5
+16.Nf5 Bxf5 17.exf5 O-O 18.Qd1 Na5 19.Bxf7+ Rxf7 20.b4 Bxb4 21.cxb4 Nc6 22.Nc2 Qc8
+23.g4 Qa8 24.f3 Qa2 25.d4 Re7 26.dxe5 dxe5 27.Qd3 e4 28.Qc3 Ne5 29.f4 Nd5
+30.Qh3 Nf3 31.Ne1 Nxe1 32.Rxe1 e3 33.fxg5 hxg5 34.Qg2 Qc4 35.Qf3 Re4 36.h3 Rf4
+37.Qg3 Rf1+  0-1
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.5"]
+[White "Aronian,L"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2748"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Be7 10.Nc3 Nh4 11.Nxh4 Bxh4 12.f4 Bd7 13.Bd2 Kc8 14.Be1 Be7 15.f5 Bc5+
+16.Bf2 Bb4 17.g4 Re8 18.Bg3 Bc5+ 19.Kh2 Bd4 20.Rae1 b6 21.Nd1 Kb7 22.c3 Bc5
+23.Nf2 Be7 24.e6 fxe6 25.fxe6 Bc8 26.Nd3 Bf6 27.Rxf6 gxf6 28.Nf4 Rd8 29.Re2 Rd1
+30.Bh4 c5 31.Bxf6 Kc6 32.e7 Bd7 33.g5 Be8 34.Ne6 Bh5 35.Rf2 Bg6 36.h4 Kd7
+37.Nf4 Bb1 38.a3 Rg8 39.Ng2 Re8 40.Ne3 Rd3 41.Re2 Ke6 42.Kg3 Kf7 43.Kf4 h6
+44.Re1 hxg5+ 45.hxg5 Ba2 46.Ng4 Rh3 47.Ne5+ Ke6 48.Kg4 Rh7 49.Nf3+ Kf7 50.Kf5 Kg8
+51.g6 Rh5+ 52.Kg4 Rh6 53.Nh4 Bf7 54.gxf7+ Kxf7 55.Bg5  1-0
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.6"]
+[White "Giri,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2767"]
+[ECO "C81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Qe2 Be7 10.Rd1 O-O 11.c4 bxc4 12.Bxc4 Bc5 13.Be3 Bxe3 14.Qxe3 Qb8 15.Bb3 Na5
+16.Nbd2 Qa7 17.Nxe4 Qxe3 18.fxe3 Nxb3 19.axb3 dxe4 20.Nd4 Rfb8 21.Rdc1 Bxb3
+22.Rxc7 Be6 23.Rd1 Rxb2 24.Nxe6 fxe6 25.Rdd7 Rb1+ 26.Kf2 Rb2+ 27.Kg3 Kh8
+28.Rxg7 Rg8 29.Rxg8+ Kxg8 30.Rc6 Kf7 31.Rxa6 Re2 32.h4 h5 33.Ra7+ Kg6 34.Re7 Rxe3+
+35.Kf4 Re1 36.Rxe6+ Kg7 37.Re7+ Kg6 38.Re6+ Kg7 39.Rf6 e3 40.Ke4 e2 41.Rf2 Kg8
+42.g3 Rg1 43.Rxe2 Rxg3 44.Rf2 Kg7 45.Kf5 Kf7 46.Rf4 Ke7 47.Re4 Rg1 48.Ra4 Rf1+
+49.Kg6 Ke6 50.Ra5 Rh1 51.Kg5 Rh2 52.Kxh5 Kf5 53.Ra6 Kxe5 54.Kg5 Rg2+ 55.Kh6 Kf5
+56.h5 Rh2 57.Rb6 Rh1 58.Ra6 Rh2 59.Kg7 Rxh5  1/2-1/2
+
+[Event "Croatia GCT 2019"]
+[Site "Zagreb CRO"]
+[Date "2019.07.01"]
+[Round "6.1"]
+[White "Ding Liren"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2775"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Be7 7.d4 e4 8.Ne5 f5
+9.Nxc6 bxc6 10.Qc2 Nb4 11.Qa4 Bd7 12.a3 Nd5 13.Nc3 Bd6 14.f3 exf3 15.Bxf3 Nb6
+16.Qb3 Qf6 17.Be3 Qg6 18.Bf2 h5 19.e4 h4 20.exf5 Qxf5 21.Rae1+ Kd8 22.Ne4 Qg6
+23.Nxd6 cxd6 24.d5 c5 25.a4 Bxa4 26.Qa3 Re8 27.b4 Rc8 28.bxc5 Rxe1 29.Rxe1 hxg3
+30.hxg3 dxc5 31.Kg2 Qc2 32.Qe3 Rc7 33.Qe6 Rd7 34.d6 Kc8 35.Rh1  1-0

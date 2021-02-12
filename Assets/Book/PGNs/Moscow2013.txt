@@ -1,0 +1,1170 @@
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.13"]
+[Round "1.1"]
+[White "Andreikin, Dmitry"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2760"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteFideId "4158814"]
+[BlackFideId "4116992"]
+[EventDate "2013.06.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Kb1 Nxd4 11. e5 Nf5 12. exf6 exf6 13. Nxd5 Nxe3 14. Qxe3 Be6
+15. Bc4 f5 16. Nc3 Qe7 17. Bxe6 fxe6 18. Rhe1 Rfe8 19. Nb5 Qb4 20. Qb3 Qxb3 21.
+axb3 Re7 22. c4 a6 23. Nd6 Rd8 24. b4 Red7 25. Rxe6 Bf8 26. c5 Bxd6 27. cxd6 Kf7
+28. Rde1 b6 29. Re7+ Rxe7 30. Rxe7+ Kf6 31. Rxh7 Rxd6 32. Kc2 Ke5 33. Rh4 b5 34.
+Rh6 Kf4 35. h4 Ke3 36. Kc1 Rc6+ 37. Kb1 Rc4 38. Rxg6 Rxh4 39. Rf6 Rh2 40. Rxf5
+Rxg2 41. Rf6 Rf2 42. Rxa6 Rxf3 43. Rc6 Ke4 44. Rd6 Rf5 45. Kc2 Rf2+ 46. Kc3 Rf3+
+47. Kc2 Rf2+ 48. Kc3 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.13"]
+[Round "1.2"]
+[White "Anand, Viswanathan"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2774"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "5000017"]
+[BlackFideId "2020009"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 f6 12. c3 Kh8 13. Bc2 Qd7 14. Nb3 a5 15. a4
+bxa4 16. Rxa4 Ncb4 17. Rxa5 Nxc2 18. Qxc2 Nb6 19. Rxa8 Rxa8 20. Nbd2 g5 21. Nh2
+Rd8 22. d4 exd4 23. cxd4 Bb4 24. Re2 Qxd4 25. Ndf1 Qc5 26. Qxc5 Bxc5 27. Rc2 Bd6
+28. Ng4 Kg7 29. Bd2 Kg6 30. Nge3 f5 31. Nc4 Nxc4 32. Rxc4 Ra8 33. Rc1 f4 34. Bc3
+h5 35. Nd2 Bd5 36. f3 Bc5+ 37. Kf1 Be3 38. Ke2 Bc4+ 39. Ke1 Re8 40. Kd1 Bxd2 41.
+Kxd2 Re2+ 42. Kd1 Rxg2 43. Bd4 Be2+ 44. Ke1 Bxf3 45. Rxc7 Re2+ 46. Kf1 Rh2 47.
+Rg7+ Kf5 48. Be5 Kxe5 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.13"]
+[Round "1.3"]
+[White "Gelfand, Boris"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2782"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2805677"]
+[BlackFideId "14109603"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Re1 Be4 12. Qc1 Bb7 13. Qc2 Be4 14. Qc1 Bb7 15. a3
+Nbd7 16. Ba5 Qb8 17. b4 e5 18. dxe5 Nxe5 19. Nxe5 Bxe5 20. Ra2 Bxg2 21. Kxg2
+Qb7+ 22. f3 Nd5 23. e4 Nb6 24. Nd2 Rfd8 25. Rc2 Rac8 26. Re2 g6 27. Bxb6 cxb6
+28. Nf1 Bg7 29. Red2 a5 30. Ne3 Bh6 31. Kf2 Re8 32. Rxc8 Qxc8 33. Qxc8 Bxe3+ 34.
+Kxe3 Rxc8 35. Rd6 Rc4 36. Rd4 Rc2 37. Rd2 Rc4 38. Rd4 Rc2 39. Rd2 Rc4 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.13"]
+[Round "1.4"]
+[White "Carlsen, Magnus"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2864"]
+[BlackElo "2803"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "1503014"]
+[BlackFideId "4101588"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. Bxf6 gxf6 5. dxc5 e6 6. Nf3 Nd7 7. c4 dxc4 8. c6
+Nb6 9. Nbd2 c3 10. bxc3 bxc6 11. Qc2 Bg7 12. Bd3 f5 13. e4 Qf6 14. Rc1 O-O 15.
+O-O c5 16. Rfe1 Rd8 17. a4 c4 18. Bf1 fxe4 19. Nxe4 Qf5 20. Nd4 Bxd4 21. cxd4
+Bb7 22. Nc5 Qxc2 23. Rxc2 Bc6 24. a5 Rxd4 25. axb6 axb6 26. Nxe6 fxe6 27. Bxc4
+Bd7 28. h3 Kf7 29. Bb3 Ke7 30. Rce2 Rd6 31. Re4 Ra3 32. R1e3 h5 33. Rh4 Be8 34.
+Kh2 Bg6 35. Rb4 Kf6 36. Kg3 e5 37. Kh4 Rd4+ 38. Rxd4 exd4 39. Re6+ Kg7 40. Rxb6
+d3 41. Bd1 Ra2 42. Kg3 h4+ 43. Kxh4 Rxf2 44. Kg3 Rf6 45. Rxf6 Kxf6 46. Kf4 d2
+47. Ke3 Ke5 48. g3 Bf5 49. h4 Be6 50. Kxd2 Ke4 51. Ke2 Bg4+ 52. Ke1 Be6 53. Kf2
+Ke5 54. Ke3 Bd7 55. Bc2 Bg4 56. Bg6 Bd7 57. h5 Kf6 58. Kf4 Be6 59. Be4 Kg7 60.
+Kg5 Bd7 61. h6+ Kh8 62. Kf4 Be6 63. Bf5 Bf7 64. g4 Bh5 65. g5 Kg8 66. Be6+ Kh7
+67. Kf5 Bg6+ 68. Kf6 Kh8 69. Bd7 Bh5 70. Bc6 Kh7 71. Bd5 Bg6 72. Bg8+ 1-0
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.13"]
+[Round "1.5"]
+[White "Nakamura, Hikaru"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2753"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "13401319"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. Bd2 dxc4 8.
+Bxc4 a6 9. O-O Bd6 10. Rad1 e5 11. dxe5 Nxe5 12. Be2 Qe7 13. Ng5 Bf5 14. e4 Bd7
+15. Qc2 h6 16. Nf3 Rfe8 17. Rfe1 Rad8 18. g3 Neg4 19. h3 Nxf2 20. Kxf2 Bxh3 21.
+Kg1 Bxg3 22. Bf1 Bxe1 23. Rxe1 Bg4 24. Bg2 Bxf3 25. Bxf3 Qd6 26. Re2 Qg3+ 27.
+Bg2 Ng4 28. Nd1 Re6 29. Ne3 Rc6 30. Qb1 Qh2+ 31. Kf1 Qf4+ 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.14"]
+[Round "2.1"]
+[White "Morozevich, Alexander"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2753"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "13401319"]
+[EventDate "2013.06.13"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 h6 7. O-O Nd7 8. Nbd2 c5
+9. dxc5 Nxc5 10. Nd4 Bh7 11. N2b3 Nc6 12. Be3 Nxb3 13. axb3 Nxe5 14. Bb5+ Nd7
+15. Qh5 Bg6 16. Qe5 Qb8 17. Qxb8+ Rxb8 18. Rxa7 Bd6 19. b4 Ke7 20. f4 Be4 21. f5
+e5 22. f6+ gxf6 23. Nf5+ Bxf5 24. Rxf5 Nf8 25. Rf1 Ne6 26. Bc6 d4 27. Bd2 Rhd8
+28. Bxh6 dxc3 29. bxc3 Rdc8 30. Rxb7+ Rxb7 31. Bxb7 Rxc3 32. Rb1 f5 33. b5 f4
+34. b6 Kf6 35. Be4 Rc8 36. h4 Rh8 37. Bg5+ Nxg5 38. hxg5+ Kxg5 39. Rb5 f5 40.
+Bd5 Kf6 41. b7 e4 42. Bc6 Bb8 43. Ra5 Rd8 44. Rd5 Rg8 45. Kf1 Rh8 46. Bd7 Rh1+
+47. Ke2 Rh2 48. Kf1 Rh1+ 49. Ke2 Rh2 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.14"]
+[Round "2.2"]
+[White "Kramnik, Vladimir"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2784"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "2016192"]
+[EventDate "2013.06.13"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nf3 Nbd7 7. O-O e5 8. b3
+Re8 9. e4 c6 10. Be3 exd4 11. Nxd4 Nc5 12. f3 Qe7 13. Re1 a5 14. Qc2 Be6 15.
+Rad1 a4 16. b4 Ncd7 17. Nxe6 Qxe6 18. Nxa4 Ne5 19. c5 Qc4 20. Qb3 dxc5 21. Nb6
+Qxb3 22. axb3 Rad8 23. bxc5 Nfd7 24. Na4 Nf8 25. Rd6 Ne6 26. Red1 Ra8 27. h3 Nc4
+28. bxc4 Rxa4 29. Rd7 Rb4 30. f4 Bf8 31. Kh2 Bxc5 32. Bc1 Ra8 33. f5 Nf8 34.
+R7d3 Rxc4 35. Bh6 Be7 36. R1d2 b5 37. Rf3 b4 38. e5 gxf5 39. Rxf5 Ng6 40. Rdf2
+Bf8 41. Bg5 b3 42. Rxf7 Rb8 43. Bf1 Rc3 44. e6 b2 45. Bf6 b1=Q 46. Bxc3 Qb3 47.
+R7f3 Bc5 48. Rb2 Qxb2+ 49. Bxb2 Rxb2+ 50. Bg2 Be7 51. h4 Re2 52. Rc3 c5 53. Kh3
+Kg7 54. Bd5 Ne5 55. g4 Ng6 56. Rf3 Bd6 57. Rf7+ Kh8 58. g5 Rh2+ 59. Kg4 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.14"]
+[Round "2.3"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2864"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "1503014"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Ne8 10. d5 Bc5 11. Re1 d6 12. Nc3 Bf5 13. Bd3 Bxd3 14. Qxd3 Nf6
+15. Na4 Re8 16. Bd2 Rxe1+ 17. Rxe1 Qd7 18. Nxc5 dxc5 19. c4 Re8 20. f3 Rxe1+ 21.
+Bxe1 b6 22. g4 Ne8 23. Bg3 Nd6 24. b3 a5 25. Kf2 a4 26. Qe3 Kf8 27. h4 axb3 28.
+axb3 Qe7 29. Qc3 f6 30. h5 Kf7 31. Bf4 g6 32. Qa1 Ke8 33. h6 Kf7 34. Bg3 Ke8 35.
+Bh4 Kf7 36. Bg3 Ke8 37. Bh4 Kf7 38. Bg3 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.14"]
+[Round "2.4"]
+[White "Caruana, Fabiano"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2755"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "2020009"]
+[BlackFideId "2805677"]
+[EventDate "2013.06.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Ne2 Ne8 14. f4 a5 15. f5
+a4 16. fxe6 axb3 17. cxb3 fxe6 18. Bh3 Rxa2 19. Bxe6+ Kh8 20. Ng3 Nc7 21. Bc4
+Qa8 22. Rhf1 Rxf1 23. Rxf1 Ra1+ 24. Kc2 Rxf1 25. Bxf1 d5 26. h4 d4 27. Bg1 Ne6
+28. Qe2 Ndc5 29. Qc4 Nf4 30. Qf7 Qf8 31. Qc4 g6 32. Bf2 Ne2 33. Nh1 d3+ 34. Kd1
+Qf3 35. Bxc5 Qxf1+ 36. Kd2 Nf4 37. Ng3 Qg2+ 38. Kc1 Qxg3 39. Kb1 Ne2 40. Qf7
+Qe1+ 41. Ka2 Nc3+ 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.14"]
+[Round "2.5"]
+[White "Andreikin, Dmitry"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2786"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "4158814"]
+[BlackFideId "5000017"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Qd3 dxc4 6. Qxc4 b5 7. Qd3 Bb7 8. e4
+b4 9. Na4 Qa5 10. b3 c5 11. Ne5 cxd4 12. Qb5+ Qxb5 13. Bxb5+ Ke7 14. Nc5 Bxe4
+15. Bb2 Bxg2 16. Rg1 Bc6 17. Bxc6 Nxc6 18. Nxc6+ Kd6 19. Rc1 Kxc6 20. Nxe6+ Kd7
+21. Nxf8+ Rhxf8 22. Bxd4 Rac8 23. Rxc8 Rxc8 24. Rxg7 Ke6 25. Bxf6 Kxf6 26. Rxh7
+Kg6 27. Rh4 Rc2 28. Rxb4 Rxa2 29. Kf1 Ra3 30. Ke2 a5 31. Rb6+ f6 32. Rb5 a4 33.
+bxa4 Rxa4 34. Kf3 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.15"]
+[Round "3.1"]
+[White "Anand, Viswanathan"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2760"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[WhiteFideId "5000017"]
+[BlackFideId "4116992"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a3 h6 13. Ba2 Nb8 14. Qb3 Qd7 15. Qc2
+c5 16. d5 c4 17. b3 cxb3 18. Bxb3 Qc7 19. a4 Rc8 20. c4 b4 21. a5 Nbd7 22. Qb1
+Rcb8 23. Bc2 Bc8 24. Ra4 Be7 25. Re3 Bd8 26. Rxb4 Qxa5 27. Ba3 Qc7 28. Rxb8 Rxb8
+29. Rb3 Ra8 30. Ne1 Nc5 31. Bxc5 Qxc5 32. Nd3 Qa5 33. Qc1 Nd7 34. Ra3 Qc7 35.
+Ba4 Bg5 36. Bc6 Rb8 37. Qc2 f5 38. exf5 Nf6 39. g4 e4 40. Ne1 Qe7 41. Ng2 Qe5
+42. Nf1 e3 43. Ngxe3 Bh4 44. Rb3 Rxb3 45. Qxb3 Qf4 46. Nd1 Ne4 47. Qe3 Ng5 48.
+Kg2 Qxc4 49. Nd2 Qc1 50. Nc3 Nf7 51. Qe8+ Kh7 52. Nf3 Ne5 53. Nxh4 Qxc3 54. Ng6
+Qf3+ 55. Kg1 Bxf5 56. gxf5 Qxf5 57. Nxe5 dxe5 58. Qe6 Qb1+ 59. Kh2 Qc2 60. Qf7 1-0
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.15"]
+[Round "3.2"]
+[White "Gelfand, Boris"]
+[Black "Andreikin, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2713"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[WhiteFideId "2805677"]
+[BlackFideId "4158814"]
+[EventDate "2013.06.13"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nd2 c5 4. a3 Bxd2+ 5. Qxd2 cxd4 6. Nf3 Nf6 7. Nxd4 O-O 8.
+e3 d5 9. cxd5 Qxd5 10. Nb5 Qc6 11. f3 e5 12. e4 a6 13. Nc3 Be6 14. Qf2 Bb3 15.
+Be2 Qe6 16. O-O Nc6 17. Be3 Rfd8 18. Bd1 h6 19. Rc1 Rd3 20. Be2 Rd7 21. Bd1 Rd3
+22. Be2 Rd7 23. Bd1 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.15"]
+[Round "3.3"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2864"]
+[BlackElo "2774"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Yugoslav variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[EventDate "2013.06.13"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bg4 5. c4 e6 6. cxd5 Bxf3 7. Bxf3 cxd5 8.
+Nc3 Nc6 9. d4 Be7 10. e3 O-O 11. b3 Qa5 12. Bb2 Ba3 13. Qc1 Bxb2 14. Qxb2 Rfc8
+15. Rac1 Ne7 16. Na4 Nd7 17. Nc5 Nxc5 18. dxc5 Rxc5 19. b4 Rb5 20. a3 Qd8 21. e4
+a5 22. exd5 Nxd5 23. Rc5 Qb6 24. Rxb5 Qxb5 25. Bxd5 exd5 26. Rc1 Re8 27. Qd4
+axb4 28. axb4 h6 29. Kg2 b6 30. Rd1 Re4 31. Qxd5 Qxd5 32. Rxd5 Rxb4 33. h4 Kf8
+34. Rd7 Re4 35. Rb7 Re6 36. g4 g5 37. f4 gxf4 38. Kf3 Rf6 39. g5 Rc6 40. Kxf4 h5
+41. Kf5 Kg7 42. Rb8 Rc5+ 43. Kf4 Rb5 44. Ke4 Rb1 45. Kf5 Rb2 46. Kf4 Rb4+ 47.
+Ke5 Kg6 48. Rg8+ Kh7 49. Rf8 Rxh4 50. Rxf7+ Kg6 51. Rf6+ Kxg5 52. Rxb6 Ra4 53.
+Rb8 Kg4 54. Rg8+ Kf3 55. Rf8+ Kg3 56. Rg8+ Kh2 57. Kf5 h4 58. Rb8 h3 59. Kg5 Re4
+60. Kf5 Re2 61. Rg8 Rg2 62. Rd8 Rf2+ 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.15"]
+[Round "3.4"]
+[White "Nakamura, Hikaru"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2782"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "14109603"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 c5 8. d5
+Bxc3+ 9. bxc3 O-O 10. Nf3 e6 11. Be2 exd5 12. exd5 Bg4 13. O-O Nd7 14. h3 Bxf3
+15. Bxf3 Ne5 16. Be2 Qd6 17. Rb1 b6 18. Re1 Rfd8 19. Ba6 Rab8 20. c4 Nd7 21. Bb5
+Nf6 22. Qe2 Rb7 23. Rb3 Nh5 24. Re3 Ng7 25. g4 Kf8 26. a4 f5 27. Re5 fxg4 28.
+hxg4 Rf7 29. Qe3 Qf6 30. Re2 Qf4 31. Qxf4 Rxf4 32. R5e4 Rxe4 33. Rxe4 h5 34. f3
+Kf7 35. Kg2 Kf6 36. Re1 g5 37. Kg3 Rh8 38. Bc6 Kf7 39. d6 h4+ 40. Kh2 Kf6 41. d7
+Ne6 42. Bd5 Nc7 43. Be4 Ne6 44. Bd5 Nc7 45. f4 gxf4 46. g5+ Kg6 47. Re5 Rd8 48.
+Be4+ Kf7 49. Bf5 Rh8 50. Kg2 a5 51. Kf2 f3 52. Re1 1-0
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.15"]
+[Round "3.5"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2803"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "4101588"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bg5 Ba6 10. Qa4 Qd7 11. Qc2 c5 12. dxc5 Rc8 13. Bxf6 gxf6 14. Qe4 Qb5
+15. b4 bxc5 16. e3 Qb7 17. Qg4+ Kf8 18. b5 Bxb5 19. Rb1 a6 20. a4 f5 21. Qh4 Qe4
+22. Qh6+ Ke7 23. Qg5+ Kf8 24. Qh6+ Ke7 25. Qg5+ Kf8 26. Qh6+ Ke7 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.17"]
+[Round "4.1"]
+[White "Morozevich, Alexander"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2803"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "4116992"]
+[BlackFideId "4101588"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O 8.
+O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Bd6 12. h3 Rb8 13. b3 Be5 14. Bf4 Bxc3
+15. Bxb8 Bxa1 16. Rxa1 Bg4 17. hxg4 Qxb8 18. Qf5 Re8 19. g3 h6 20. c4 d4 21. c5
+Re5 22. Qf4 Qe8 23. Qxd4 Rd5 24. Qc3 Nxg4 25. Re1 Qd7 26. Be4 Re5 27. f3 Qe7 28.
+b4 f5 29. fxg4 fxe4 30. Qc4+ Kh8 31. Qd4 e3 32. Qd6 Qe8 33. a3 Re4 34. Qd3 Qe6
+35. Kg2 Kg8 36. Qd8+ Kh7 37. Qd3 Kg8 38. Qd8+ Kh7 39. Qd3 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.17"]
+[Round "4.2"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2753"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[WhiteFideId "14109603"]
+[BlackFideId "13401319"]
+[EventDate "2013.06.13"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bd3 O-O 6. Nf3 c5 7. dxc5 Nbd7 8. cxd6
+exd6 9. O-O Re8 10. h3 b5 11. Nxb5 Nxe4 12. Bxe4 Rxe4 13. Nxd6 Re7 14. Nxc8 Rxc8
+15. Re1 Rxe1+ 16. Nxe1 Qb6+ 17. Kh2 Nc5 18. Nd3 Nxd3 19. Qxd3 Re8 20. Bd2 Qxb2
+21. Re1 Rb8 22. a4 Bf6 23. Qc4 h5 24. Re3 Qa1 25. Re1 Qb2 26. a5 Rd8 27. Bb4 Qd4
+28. Re4 Qa1 29. a6 h4 30. Re1 Qd4 31. Qxd4 Rxd4 32. Re8+ Kh7 33. c3 Rc4 34. Ra8
+Bxc3 35. Bxc3 Rxc3 36. Rxa7 Kg7 37. Rb7 Ra3 38. a7 Kf6 39. Kg1 Ke6 40. Kf2 f6
+41. Ke2 Kf5 42. Rh7 Ke4 43. Rxh4 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.17"]
+[Round "4.3"]
+[White "Caruana, Fabiano"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2784"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2013.06.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+h5 9. Qd2 Nbd7 10. Nd5 Nxd5 11. exd5 Bf5 12. Be2 Rc8 13. Rc1 Qh4+ 14. g3 Qf6 15.
+O-O Be7 16. Na5 Rc7 17. Bd3 O-O 18. c4 Bxd3 19. Qxd3 Re8 20. b4 Bf8 21. Rce1 g6
+22. Qd2 Qf5 23. a4 Nf6 24. Bb6 Rcc8 25. f4 e4 26. Bd4 Rc7 27. h3 Bg7 28. Qg2 b5
+29. axb5 axb5 30. Bxf6 Bxf6 31. g4 hxg4 32. hxg4 Bd4+ 33. Kh2 Qf6 34. Nc6 Bb6
+35. g5 Qf5 36. c5 dxc5 37. Ne5 cxb4 38. d6 Rc3 39. Rxe4 Kg7 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.17"]
+[Round "4.4"]
+[White "Andreikin, Dmitry"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2864"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "4158814"]
+[BlackFideId "1503014"]
+[EventDate "2013.06.13"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e3 g6 6. Bb5+ Bd7 7. Qb3 Nxc3 8.
+Ne5 e6 9. bxc3 Bxb5 10. Qxb5+ Nd7 11. Rb1 b6 12. c4 Bd6 13. Nxd7 Qxd7 14. a4
+O-O-O 15. a5 Qxb5 16. Rxb5 Bc7 17. Bb2 Rhe8 18. Ke2 e5 19. e4 f5 20. f3 Kb7 21.
+Bc3 Kc6 22. axb6 axb6 23. Rbb1 h5 24. h3 h4 25. Rbg1 f4 26. Ra1 Ra8 27. Rxa8
+Rxa8 28. Ra1 Rxa1 29. Bxa1 g5 30. d3 Bd6 31. Kd2 Bc7 32. Kc2 Bd6 33. Kd2 Bc7 34.
+Kc2 Bd6 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.17"]
+[Round "4.5"]
+[White "Anand, Viswanathan"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2755"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "5000017"]
+[BlackFideId "2805677"]
+[EventDate "2013.06.13"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. exd5 Nxd5 8. d4
+Nf6 9. Be3 Be7 10. c4 O-O 11. Nc3 cxd4 12. Nxd4 Ne5 13. h3 Bd7 14. Rc1 Rc8 15.
+Qb3 Qc7 16. Na4 Rcd8 17. Qb6 Qxb6 18. Nxb6 Be8 19. a3 Ned7 20. Nb3 Nxb6 21. Bxb6
+Rc8 22. Be3 Rb8 23. Bc5 Bxc5 24. Nxc5 Bc6 25. b4 Rfc8 26. Red1 Kf8 27. f3 Ke7
+28. Kf2 Nd7 29. Nxd7 Bxd7 30. c5 Ba4 31. Rd3 Rd8 32. Ke3 Bb5 33. Rxd8 Rxd8 34.
+Bxb5 axb5 35. c6 bxc6 36. Rxc6 Ra8 37. Rb6 Rxa3+ 38. Kf4 f5 39. Rxb5 Kf6 40. h4
+Rd3 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.18"]
+[Round "5.1"]
+[White "Gelfand, Boris"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2760"]
+[ECO "A56"]
+[Opening "Benoni defence"]
+[WhiteFideId "2805677"]
+[BlackFideId "4116992"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. h3 O-O 7. Nf3 e6 8. Bd3 exd5
+9. exd5 Re8+ 10. Be3 Rxe3+ 11. fxe3 Qe7 12. O-O Nbd7 13. Qd2 Ne5 14. Nxe5 Qxe5
+15. Rf3 Bd7 16. Raf1 Rf8 17. Qf2 Qe7 18. Rxf6 Bxf6 19. Qxf6 Qxe3+ 20. Rf2 Qxd3
+21. Qxd6 Bf5 22. Qxc5 b6 23. Qc7 Rc8 24. Qxa7 Qe3 25. d6 Qd4 26. Nb5 Qxc4 27.
+Qxb6 Qc1+ 28. Kh2 Re8 29. Qc7 Qd1 30. Rxf5 gxf5 31. d7 Rf8 32. Qg3+ Kh8 33. Qd6 1-0
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.18"]
+[Round "5.2"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2864"]
+[BlackElo "2786"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 Nxd5 8. Bd2
+Nd7 9. g3 b6 10. Nxd5 exd5 11. Bg2 Bb7 12. Bb4 Nf6 13. O-O Re8 14. Rc1 c6 15.
+Bxe7 Rxe7 16. Re1 Qd6 17. Nf4 Bc8 18. Qa4 Rc7 19. f3 Be6 20. e4 dxe4 21. fxe4
+Qd7 22. d5 cxd5 23. Qxd7 Rxd7 24. Nxe6 fxe6 25. Bh3 Kh8 26. e5 Ng8 27. Bxe6 Rdd8
+28. Rc7 d4 29. Bd7 1-0
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.18"]
+[Round "5.3"]
+[White "Nakamura, Hikaru"]
+[Black "Andreikin, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2713"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "2016192"]
+[BlackFideId "4158814"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Bf4 d6 6. Nc3 Nbd7 7. Qc2 c5 8. dxc5
+Nxc5 9. Rd1 Be7 10. e3 O-O 11. Be2 Nce4 12. O-O Nxc3 13. Qxc3 Rc8 14. Qb3 Nh5
+15. Be5 Qc7 16. Bd4 Nf6 17. Nd2 d5 18. cxd5 Bxd5 19. Qa4 Bc6 20. Qb3 Bd5 21. Qa4
+Bc6 22. Qb3 Bd5 23. Qa4 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.18"]
+[Round "5.4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2774"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Smyslov defence"]
+[WhiteFideId "13401319"]
+[BlackFideId "2020009"]
+[EventDate "2013.06.13"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Bd3 O-O 7. O-O Bg4 8. h3
+Bxf3 9. Qxf3 e6 10. Rd1 Nbd7 11. b3 Re8 12. Bb2 Rc8 13. Rac1 a6 14. Bf1 Qe7 15.
+Rc2 h5 16. e4 dxe4 17. Nxe4 Nxe4 18. Qxe4 Rcd8 19. Re2 Nb6 20. g3 Rd7 21. h4
+Red8 22. Red2 Nc8 23. Bh3 Qf8 24. Bc3 Bf6 25. Ba5 b6 26. Bc3 Ne7 27. Bb4 a5 28.
+Ba3 Qg7 29. Kf1 Rc7 30. Rd3 Rcd7 31. R1d2 Kh7 32. Qf3 Kg8 33. Qd1 Rc7 34. Bg2
+Nf5 35. d5 exd5 36. cxd5 c5 37. d6 Ra7 38. Bh3 Nd4 39. d7 Be5 40. f4 Bf6 41. Qe1
+Kh7 42. Bb2 Qf8 43. Qe4 Bh8 44. Bxd4 Bxd4 45. Re2 f5 46. Qe7+ 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.18"]
+[Round "5.5"]
+[White "Kramnik, Vladimir"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2782"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "4101588"]
+[BlackFideId "14109603"]
+[EventDate "2013.06.13"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. a3
+O-O 9. d3 Be6 10. Be3 Nd5 11. Nxd5 Bxd5 12. Qa4 a6 13. Rac1 f6 14. Nd2 Bxg2 15.
+Kxg2 Qd5+ 16. f3 Rfc8 17. Qc4 Qxc4 18. Rxc4 Nd8 19. f4 exf4 20. gxf4 f5 21. Kf3
+Ne6 22. b4 a5 23. bxa5 Rxa5 24. a4 Rca8 25. Rb1 Rxa4 26. Rxb7 Bf6 27. Rb8+ Rxb8
+28. Rxa4 Rb5 29. Ra6 Kf7 30. Nc4 h6 31. Ra7 Ke8 32. h3 Kd7 33. Bf2 g5 34. fxg5
+hxg5 35. Ra6 Rd5 36. Bg3 Bg7 37. Kg2 Rb5 38. Ra5 Rxa5 39. Nxa5 c5 40. e3 Nd8 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.19"]
+[Round "6.1"]
+[White "Morozevich, Alexander"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2782"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "14109603"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Qf5 7. Qb3 Nc6 8.
+Bd2 O-O 9. h3 a5 10. g4 Qg6 11. a3 a4 12. Qc4 Bxc3 13. Bxc3 Nd5 14. Bd2 Bd7 15.
+Bg2 Qe4 16. Rc1 Rfc8 17. Rg1 f6 18. g5 Rf8 19. gxf6 Rxf6 20. Bg5 Rf7 21. Ne5
+Nxe5 22. Bxe4 Nxc4 23. Rxc4 Bb5 24. Rc2 c6 25. Bh4 Nf4 26. Rg4 Raf8 27. Bg3 g6
+28. Bxf4 Rxf4 29. f3 Kg7 30. Rc5 R4f6 31. Kf2 Kf7 32. Rh4 Kg7 33. Ke3 Rd8 34.
+Rg4 Kf7 35. h4 Rf8 36. Rgg5 Rh8 37. Rge5 Ke7 38. Rg5 Kd6 39. h5 b6 40. Rc1 gxh5
+41. Rxh5 h6 42. Rg1 Bc4 43. Rg7 Rb8 44. Bc2 b5 45. Kd2 Rd8 46. Rh7 Rg8 47. R5xh6
+Rxh6 48. Rxh6 Rg2 49. Bd1 Kd5 50. Ke3 Kd6 51. Rh1 Ke7 52. Rf1 Rh2 53. Rf2 Rh4
+54. Bc2 Rh1 55. Kd2 Kd6 56. f4 Rh3 57. e3 Rh1 58. f5 exf5 59. Bxf5 c5 60. dxc5+
+Kxc5 61. Bc2 Be6 62. Bd1 Rh4 63. Rf6 Bd5 64. Rf5 Rh2+ 65. Kc3 Rh3 66. Kd3 Kd6
+67. Rh5 Rg3 68. Kd4 Bc4 69. Bxa4 Rg4+ 70. e4 bxa4 71. Kxc4 Rxe4+ 72. Kd3 Re8 73.
+Rb5 Rc8 74. Kd4 Rc6 75. Rb4 Ra6 76. Kc4 Kc6 77. Rb5 Ra8 78. Kb4 Kd6 79. Rb6+ Kc7
+80. Kb5 Kd7 81. Rb7+ Kd6 82. Kb6 Rh8 83. Ka7 Kc6 84. Rb4 Rh7+ 85. Ka6 Rh8 86.
+Rc4+ Kd5 87. Rc7 Kd6 88. Kb7 Rh2 89. Rc6+ Kd5 90. Rb6 Kc5 91. Rb4 Rh7+ 92. Ka6
+Rh8 93. Rb5+ Kc4 94. Rb7 Ra8+ 95. Kb6 Kb3 96. Kc5+ Ka2 97. Rb4 Ra5+ 98. Kc4 Rh5
+99. Rxa4 Kxb2 100. Ra8 Rh4+ 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.19"]
+[Round "6.2"]
+[White "Caruana, Fabiano"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2803"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "4101588"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Kc8 11. g4 Ne7 12. Ng5 Be8 13. f4 h5 14. f5 hxg4
+15. hxg4 Rh4 16. Kf2 Rxg4 17. Rh1 Nxf5 18. Rh8 Bc5+ 19. Kf3 Rg1 20. Rxe8+ Kd7
+21. Rxa8 Nd4+ 22. Ke4 Rxc1 23. b4 Bb6 24. c4 c5 25. a3 Re1+ 26. Kd3 Rd1+ 27. Kc3
+Rc1+ 28. Kd3 Rd1+ 29. Kc3 Rc1+ 30. Kd3 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.19"]
+[Round "6.3"]
+[White "Andreikin, Dmitry"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2753"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[WhiteFideId "4158814"]
+[BlackFideId "13401319"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Bd3 d6 7. Nc3 Qh4 8.
+Qf3 Nh6 9. Be3 Bb6 10. Bxb6 axb6 11. Qg3 Qxg3 12. hxg3 f5 13. a4 fxe4 14. Bxe4
+d5 15. Bd3 O-O 16. f3 Bf5 17. g4 Bxd3 18. cxd3 Rf4 19. O-O-O Nf7 20. Rhe1 Rb4
+21. Re7 d4 22. Ne4 Rc8 23. a5 bxa5 24. Re1 h6 25. Nc5 Rb5 26. Ne6 Rcb8 27. Re2
+Ne5 28. Nf4 Nf7 29. Rxc7 a4 30. Rxc6 Ne5 31. Rc7 g5 32. Nh5 Rc5+ 33. Rc2 Nxd3+
+34. Kd2 Rxc7 35. Rxc7 Ne5 36. Nf6+ Kf8 37. Kc1 Rb3 38. Nd7+ Nxd7 39. Rxd7 d3 40.
+Rd4 Kg7 41. Rxa4 d2+ 42. Kd1 Rxb2 43. Rd4 Rb1+ 44. Ke2 Re1+ 45. Kxd2 Rg1 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.19"]
+[Round "6.4"]
+[White "Anand, Viswanathan"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2784"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "2016192"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 a6 6. Bxc6 dxc6 7. d4 exd4 8.
+cxd4 Ne7 9. h3 O-O 10. Nc3 h6 11. Qb3 g5 12. Rd1 b6 13. a4 a5 14. Be3 Ng6 15. d5
+c5 16. Nb5 g4 17. hxg4 Bxg4 18. Bd2 Qd7 19. Rac1 c6 20. dxc6 Qxc6 21. Bc3 Bxf3
+22. gxf3 Rad8 23. Rxd8 Rxd8 24. Rd1 Rd7 25. Rxd7 Qxd7 26. Qd5 Qxd5 27. exd5 Bxc3
+28. bxc3 Ne5 29. Nd6 Kf8 30. Kh2 Ke7 31. Nc8+ Kd7 32. Nxb6+ Kc7 33. f4 Nf3+ 34.
+Kg2 Nd2 35. Na8+ Kb7 36. d6 Kc6 37. Nc7 Kxd6 38. Nb5+ Kd5 39. Kg3 Kc4 40. Nd6+
+Kxc3 41. Nxf7 c4 42. f5 Kd4 43. Nd6 Ke5 44. Nb5 Kxf5 45. f3 h5 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.19"]
+[Round "6.5"]
+[White "Gelfand, Boris"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2864"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "2805677"]
+[BlackFideId "1503014"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 a6 7. a4 Bd6 8. Bxd6
+cxd6 9. Bxc4 O-O 10. O-O d5 11. Bd3 b6 12. Qb3 Qe7 13. Rfc1 Bb7 14. Rc2 Rfc8 15.
+Rac1 Qd6 16. Na2 Rxc2 17. Rxc2 Rc8 18. Rxc8+ Bxc8 19. Qc3 Bb7 20. b4 Ne4 21. Qc1
+h6 22. h3 Kf8 23. b5 a5 24. Nc3 Qc7 25. Qa3+ Qd6 26. Qc1 Qc7 27. Qa3+ Ke8 28.
+Ne2 g5 29. Qb2 Ke7 30. Nd2 Ndf6 31. Nf1 Nd6 32. f3 Nd7 33. g4 f6 34. Nfg3 Nf8
+35. Kf2 Bc8 36. Qc2 Qxc2 37. Bxc2 Bd7 38. Nc3 Be8 39. f4 Bf7 40. Bb3 gxf4 41.
+exf4 Ng6 42. f5 Nf4 43. fxe6 Nxh3+ 44. Ke3 Bxe6 45. Nxd5+ Kd8 46. Nh5 f5 47.
+gxf5 Nxf5+ 48. Ke4 Ng5+ 49. Ke5 Ne7 50. Nhf4 Bg8 51. Bd1 Bxd5 52. Nxd5 Nf7+ 53.
+Ke6 Ng5+ 54. Ke5 Nf7+ 55. Ke6 Ng5+ 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.21"]
+[Round "7.1"]
+[White "Carlsen, Magnus"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2864"]
+[BlackElo "2760"]
+[ECO "B17"]
+[Opening "Caro-Kann"]
+[Variation "Steinitz variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4116992"]
+[EventDate "2013.06.13"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. c3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Qd5 8.
+f3 Bf5 9. Ne2 Bxd3 10. Nf4 Qg5 11. Qxd3 Nd5 12. g3 e6 13. Qe2 Nxf4 14. Bxf4 Qd5
+15. Be5 f6 16. Bf4 O-O-O 17. O-O Bd6 18. Be3 e5 19. dxe5 Qxe5 20. Qf2 a6 21.
+Rfe1 Qf5 22. Bb6 Bc7 23. Bxc7 Kxc7 24. Re7+ Rd7 25. Rae1 Rd8 26. Kg2 Qd5 27. a3
+Rxe7 28. Rxe7+ Rd7 29. Rxd7+ Kxd7 30. Qc2 g6 31. Qc1 Qd3 32. Kf2 Ke6 33. Qe3+
+Qxe3+ 34. Kxe3 Kd5 35. b3 c5 36. c4+ Ke5 37. f4+ Ke6 38. g4 f5 39. g5 a5 40. a4
+b6 41. h4 Kd6 42. Kf2 Ke6 43. Kf3 Ke7 44. Kg3 Kf7 45. Kh3 Ke6 46. h5 Kf7 47. h6 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.21"]
+[Round "7.2"]
+[White "Nakamura, Hikaru"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2755"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "2805677"]
+[EventDate "2013.06.13"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Bxf6 gxf6 10. Nd5 f5 11. c4 b4 12. Nc2 fxe4 13. g3 Bg7 14. Bg2 O-O 15.
+Bxe4 Rb8 16. b3 f5 17. Bg2 e4 18. Rb1 Qa5 19. O-O Qxa2 20. Nde3 Qa5 21. Qxd6 Rf6
+22. Qf4 Qe5 23. Qxe5 Nxe5 24. Nd5 Rf7 25. Ncxb4 a5 26. Nc2 Rfb7 27. Nce3 Nc6 28.
+c5 Rxb3 29. Nb6 Rxb1 30. Rxb1 Be6 31. Bf1 Bd4 32. Rb5 Kf7 33. Nec4 Kg7 34. Nd6
+Kf6 35. Na4 e3 36. fxe3 Bxe3+ 37. Kg2 Bd5+ 38. Kh3 Rxb5 39. Bxb5 Ne5 40. Nc3 Bf3
+41. Be2 Bxe2 42. Nd5+ Kg5 43. Nxe3 Ng4 44. Kg2 Nxe3+ 45. Kf2 Nc4 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.21"]
+[Round "7.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2786"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "5000017"]
+[EventDate "2013.06.13"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+e5 9. cxd5 cxd5 10. e4 exd4 11. Nxd5 Nxd5 12. exd5 h6 13. Nxd4 Qh4 14. Nf3 Qh5
+15. Bh7+ Kh8 16. Qf5 Qxf5 17. Bxf5 Nf6 18. Bc2 b6 19. Rd1 Bb7 20. Bb3 Rad8 21.
+Rd3 Bc7 22. Bd2 Bxd5 23. Bxd5 Rxd5 24. Rxd5 Nxd5 25. Rc1 Rd8 26. h4 Rd7 27. Kf1
+Kg8 28. b4 b5 29. Ke2 h5 30. g3 Bb6 31. Rc8+ Kh7 32. Ng5+ Kg6 33. Rc6+ f6 34.
+Ne6 Kf7 35. Nc5 Rc7 36. Rd6 Nxb4 37. Bxb4 Bxc5 38. Bxc5 Rxc5 39. Rd7+ Kg6 40.
+Rxa7 Rc2+ 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.21"]
+[Round "7.4"]
+[White "Kramnik, Vladimir"]
+[Black "Andreikin, Dmitry"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2713"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "4158814"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Bg2 O-O 7. Nf3 c6 8.
+O-O Nbd7 9. Rc1 Qe7 10. Qe3 dxc4 11. Rxc4 Nd5 12. Qa3 Re8 13. Qxe7 Rxe7 14. e4
+N5b6 15. Rc2 e5 16. Nbd2 a5 17. a3 g6 18. Rac1 exd4 19. Nxd4 Ne5 20. f4 Rd7 21.
+Ne2 Ng4 22. Nf1 Rd8 23. h3 Nf6 24. Rd2 Be6 25. Kf2 Na4 26. Rcc2 Nd7 27. Ke3 Bb3
+28. Rc1 Ndb6 29. Rd4 c5 30. Rxd8+ Rxd8 31. e5 Nc4+ 32. Kf3 Naxb2 33. Nc3 Nxa3
+34. Ne3 b5 35. Ne4 Nd3 36. Rh1 Nc2 37. Nxc2 Bxc2 38. h4 b4 39. h5 gxh5 40. Nf6+
+Kf8 41. Ke3 b3 42. Nd5 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.21"]
+[Round "7.5"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2774"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "14109603"]
+[BlackFideId "2020009"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. c3 Rb8 13. Nc4 Nc6 14. h3 Be6 15. Ng5
+Bd7 16. f4 Rb7 17. a5 Qb8 18. Nb6 Be8 19. fxe5 dxe5 20. Be3 Qd8 21. Nf3 Bd6 22.
+Nd5 Nxd5 23. Bxd5 bxc3 24. bxc3 Rb5 25. Nd2 Ne7 26. Bc4 Rxa5 27. Bxa6 Rxa1 28.
+Qxa1 Ng6 29. Bc4 Bd7 30. Qa7 Nf4 31. Nf3 Be6 32. Bxf4 Bxc4 33. dxc4 exf4 34. e5
+Be7 35. Rb1 Qd3 36. Re1 Re8 37. e6 fxe6 38. Rxe6 Kf8 39. Qc7 Qxc3 40. Qxf4+ Bf6
+41. Qd6+ Be7 42. Qf4+ Bf6 43. Qd6+ Be7 44. Qd5 g6 45. Re1 Rd8 46. Qb7 Qf6 47.
+Ne5 Qd6 48. Kh1 Re8 49. Qe4 Qe6 50. Qf4+ Kg8 51. Nf3 Qf7 52. Qe5 h6 53. Qe4 Kg7
+54. Kg1 Qf6 55. Qb7 Qd6 56. Kh1 Kg8 57. Qe4 Kg7 58. Qe3 Qf6 59. Nh2 Qg5 60. Qe6
+Qf5 61. Qc6 Qf7 62. Qd7 Kf8 63. Qc6 Kg7 64. Nf3 Rd8 65. Qc7 Bf6 66. Qxc5 Rd7 67.
+Qb4 Rb7 68. Qa4 Qc7 69. Qc2 Qc5 70. Qd3 Rc7 71. Re4 Ra7 72. Re1 Rc7 73. Rc1 Re7
+74. Qc2 h5 75. Qd2 g5 76. Nh2 Re4 77. Qd7+ Qe7 78. Qxe7+ Bxe7 79. g4 Re3 80. c5
+Rxh3 81. c6 Bd6 82. c7 Bxc7 83. Rxc7+ Kg6 84. Rc6+ Kf7 85. Kg2 hxg4 86. Nxg4 Ra3
+87. Ne5+ Ke7 88. Nf3 Ra5 89. Kg3 Rf5 90. Ng1 Rf4 91. Nh3 Rf6 92. Rc5 Kd6 93. Ra5
+Kc7 94. Kg4 Kb6 95. Ra1 Rd6 96. Nxg5 Kb5 97. Kf4 Kc6 98. Ne4 Rd8 99. Rc1+ Kb6
+100. Ke5 Rh8 101. Nf6 Rh2 102. Kd6 Kb5 103. Rc5+ Kb4 104. Nd5+ Kb3 105. Rc3+ Kb2
+106. Rg3 Kc2 107. Ne3+ Kb2 108. Kc5 Rh4 109. Rf3 Rh5+ 110. Kd4 Rh4+ 111. Kd3 Kb3
+112. Rf5 Rb4 113. Nc2 Rb6 114. Ra5 Rb7 115. Ra6 Rd7+ 116. Nd4+ Kb4 117. Rc6 Rd8
+118. Rc4+ Ka5 119. Kc3 Kb6 120. Rb4+ Ka6 121. Kc4 Rc8+ 122. Kd5 Ka5 123. Rb1 Rc3
+124. Ne6 Rh3 125. Kc4 Rh4+ 126. Nd4 Ka6 127. Kc5 Rh5+ 128. Kd6 Rh6+ 129. Ne6 Ka5
+130. Kc5 Rh5+ 131. Kc4 Rh4+ 132. Nd4 Ka6 133. Kc5 Rh5+ 134. Kd6 Rh6+ 135. Ne6
+Ka5 136. Rb2 Ka4 137. Kd5 Rh5+ 138. Ke4 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.22"]
+[Round "8.1"]
+[White "Morozevich, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2774"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "4116992"]
+[BlackFideId "2020009"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. h3 c6 11. Qf3 Re8 12. Bg5 h6 13. Bxf6 Qxf6 14. Qxf6
+gxf6 15. Ne2 Bd6 16. Rad1 Be6 17. Ng3 Rab8 18. Nh5 Be5 19. b3 Kf8 20. f4 Bb2 21.
+Rf3 c5 22. Bh7 Rb6 23. c3 Bc8 24. Rg3 d4 25. cxd4 Bxd4+ 26. Kh2 Bd7 27. Rg8+ Ke7
+28. Re1+ Re6 29. Rxe6+ fxe6 30. Rg7+ Kd6 31. Rg6 Rh8 32. Rxh6 Bb5 33. g4 Bd3 34.
+f5 Be5+ 35. Kg2 Be4+ 36. Kf2 Bd4+ 37. Ke2 c4 38. g5 c3 39. Ng3 c2 40. Nxe4+ Ke5 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.22"]
+[Round "8.2"]
+[White "Andreikin, Dmitry"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2782"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4158814"]
+[BlackFideId "14109603"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Ne5 Nc6 10. Qxc4 Nxe5 11. dxe5 Nd5 12. Rd1 Qc8 13. Nc3 Nxc3 14. Qxc3 c5
+15. Be3 Rb8 16. b4 Bc6 17. Bxc5 Bxg2 18. Kxg2 b6 19. Bd4 Qb7+ 20. f3 Rfc8 21.
+Qb3 b5 22. axb5 Qxb5 23. Qd3 Rc6 24. Bc5 Bxc5 25. bxc5 Qxd3 26. Rxd3 Rxc5 27.
+Rxa6 Rxe5 28. Rb6 Rf8 29. Kf2 g6 30. Rdb3 Kg7 31. R6b5 Rxb5 32. Rxb5 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.22"]
+[Round "8.3"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2803"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "4101588"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3
+cxd4 9. Nxd4 Nd7 10. Bf4 Qb6 11. Nb3 Qc7 12. O-O Nxe5 13. Bxe4 dxe4 14. Qxe4
+Bxc3 15. bxc3 f6 16. Rfe1 Qxc4 17. Bxe5 Qxe4 18. Rxe4 fxe5 19. Rxe5 b6 20. Nd4
+Bd7 21. Rae1 Rac8 22. R1e3 Rc4 23. Nxe6 Bxe6 24. Rxe6 Rfc8 25. Re7 Rxc3 26. h4
+Rxe3 27. fxe3 a5 28. Rb7 Rc2 29. Rxb6 Rxa2 30. Ra6 Re2 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.22"]
+[Round "8.4"]
+[White "Gelfand, Boris"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2753"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "13401319"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qb3 c5 6. dxc5 Nc6 7. Bg5 dxc4 8.
+Qxc4 Qa5 9. Rc1 Bxc5 10. a3 Bd7 11. e3 Rc8 12. Qb5 Bb6 13. Bd3 Nd5 14. O-O Nxc3
+15. Rxc3 Qxb5 16. Bxb5 f6 17. Bh4 Ke7 18. Rfc1 Rhd8 19. Kf1 Be8 20. Bd3 h5 21.
+Bg3 Rd7 22. Be4 Rcd8 23. Ne1 e5 24. Nd3 Bf7 25. Ke2 Bd5 26. Bf5 Be6 27. Bg6 Bf7
+28. Be4 Bd5 29. Bf5 Be6 30. Bg6 Bf7 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.22"]
+[Round "8.5"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2864"]
+[BlackElo "2784"]
+[ECO "A13"]
+[Opening "English opening"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2013.06.13"]
+
+1. c4 e6 2. g3 d5 3. Bg2 c6 4. Qc2 Nf6 5. Nf3 dxc4 6. Qxc4 b5 7. Qb3 Bb7 8. O-O
+Nbd7 9. d4 a6 10. Ne5 Qb6 11. Be3 c5 12. Nxd7 Nxd7 13. d5 e5 14. a4 b4 15. Nd2
+Bd6 16. Nc4 Qc7 17. f4 O-O 18. Rac1 exf4 19. Bxf4 Bxf4 20. gxf4 a5 21. e4 Rae8
+22. e5 Ba6 23. Rfe1 Kh8 24. Nd6 Re7 25. Qe3 Qd8 26. b3 g5 27. Kh1 Qb8 28. Qf2
+gxf4 29. Qxf4 Bd3 30. Re3 Bg6 31. Rf1 Rxe5 32. Rxe5 Qxd6 33. Re8 Qxf4 34. Rxf8+
+Kg7 35. Rxf4 Kxf8 36. d6 Ne5 37. Bf1 Bc2 38. Bb5 f5 39. Kg2 c4 40. Bxc4 Be4+ 41.
+Kg3 Nxc4 42. bxc4 Ke8 43. c5 Bc6 44. Rxf5 Bxa4 45. Re5+ Kd8 46. Re7 Bc6 47. Rc7 1-0
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.23"]
+[Round "9.1"]
+[White "Nakamura, Hikaru"]
+[Black "Morozevich, Alexander"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2760"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Vienna variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4116992"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nbd2 dxc4 6. e3 b5 7. a4 c6 8. Qc2
+Bb7 9. Be2 Nbd7 10. O-O O-O 11. b3 c3 12. Ne4 h6 13. Bh4 g5 14. Nxf6+ Nxf6 15.
+Bg3 c5 16. Bxb5 Be4 17. Qe2 Rc8 18. Ba6 cxd4 19. Nxd4 Rc5 20. Rad1 Nd5 21. Nc2
+Qb6 22. Bc4 a5 23. Rd4 Bg6 24. h4 Rcc8 25. hxg5 hxg5 26. Rg4 Be7 27. e4 Nf4 28.
+Bxf4 gxf4 29. e5 Kg7 30. Bd3 Rh8 31. g3 Rh6 32. Be4 Rch8 33. Qc4 fxg3 34. Rxg3
+Rh4 35. Qc6 Qxc6 36. Bxc6 Bc5 37. Rc1 Rf4 38. Ne3 Bd4 39. Bb5 Kf8 40. Bc6 Bxe5
+41. Nd1 Rb4 42. Rxg6 fxg6 43. Nxc3 Ke7 44. Bg2 Rxb3 45. Ne4 Rd8 46. Re1 Rbd3 47.
+Kf1 Rd1 48. Nc5 Rxe1+ 49. Kxe1 Rd4 0-1
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.23"]
+[Round "9.2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2864"]
+[ECO "E62"]
+[Opening "King's Indian"]
+[Variation "fianchetto variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "1503014"]
+[EventDate "2013.06.13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 c6 6. Bg2 Bf5 7. O-O Ne4 8. Re1
+O-O 9. Qb3 Nxc3 10. bxc3 Qc8 11. e4 Bg4 12. e5 Bxf3 13. Bxf3 dxe5 14. Rb1 exd4
+15. cxd4 Bxd4 16. Qxb7 Qf5 17. Kg2 Na6 18. Bh6 Nc5 19. Qxe7 Nd3 20. Re4 Bg7 21.
+Rd1 Bxh6 22. Rxd3 Bg5 23. Qe5 Qxe5 24. Rxe5 Bf6 25. Ra5 Rfd8 26. Rxd8+ Rxd8 27.
+Bxc6 Rd2 28. Rxa7 Bd4 29. Rd7 Rxf2+ 30. Kh3 Be5 31. Rd5 Bc7 32. Rd7 Be5 33. Rd5
+Bc7 34. Rd7 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.23"]
+[Round "9.3"]
+[White "Kramnik, Vladimir"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2755"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "2805677"]
+[EventDate "2013.06.13"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. e3 e6 6. Nge2 Nge7 7. O-O O-O 8. d4
+cxd4 9. Nxd4 d5 10. cxd5 Nxd4 11. exd4 Nxd5 12. Re1 Qb6 13. Bxd5 exd5 14. Nxd5
+Qxd4 15. Qxd4 Bxd4 16. Nc7 Rb8 17. Nb5 Bb6 18. Bh6 Rd8 19. Bf4 Ra8 20. Nc7 Bxc7
+21. Bxc7 Rf8 22. Bd6 Rd8 23. Bc7 Rf8 24. Bd6 Rd8 25. Bc7 Rf8 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.23"]
+[Round "9.4"]
+[White "Karjakin, Sergey"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2786"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "5000017"]
+[EventDate "2013.06.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 dxe5 12. fxe5 Nd5 13. Nxd5 exd5 14. e6 Bxe6
+15. Rxb7 Bd6 16. Nxe6 fxe6 17. Be2 O-O 18. Qd4 Rf7 19. Rxf7 Kxf7 20. O-O+ Kg8
+21. Qg4 Qe3+ 22. Bf2 Qe5 23. Bg3 Qe3+ 24. Bf2 Qe5 25. Bd4 Qxh2+ 26. Kf2 Qf4+ 27.
+Qxf4 Bxf4 28. Bg4 Nc6 29. Bxe6+ Kh8 30. Bxd5 Rd8 31. Bxg7+ Kxg7 32. Bxc6 Rd2+
+33. Kf3 Rxc2 34. Be4 Rc1 35. Rxc1 Bxc1 1/2-1/2
+
+[Event "8th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2013.06.23"]
+[Round "9.5"]
+[White "Caruana, Fabiano"]
+[Black "Andreikin, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2713"]
+[ECO "C75"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "4158814"]
+[EventDate "2013.06.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c3 Bd7 6. O-O g6 7. d4 Bg7 8. h3 Nf6
+9. Re1 O-O 10. Nbd2 Re8 11. Bc2 Qe7 12. Nf1 Qf8 13. Ng3 Rad8 14. d5 Ne7 15. Nh2
+Bh6 16. Qf3 Bxc1 17. Raxc1 Qg7 18. Qe3 Nh5 19. Nxh5 gxh5 20. Kh1 f5 21. exf5
+Bxf5 22. Bxf5 Nxf5 23. Qd3 Rf8 24. Nf3 Ne7 25. c4 Ng6 26. Rc3 Kh8 27. Qf1 Qf6
+28. Re4 a5 29. Rb3 b6 30. h4 Rd7 31. g3 Qf5 32. Re2 Qg4 33. Nd2 Rdf7 34. Ne4 Rf3
+35. Rxf3 Qxf3+ 36. Kh2 h6 37. Re1 Ne7 38. Qe2 Qf7 39. Qd2 Nf5 40. Nc3 Qg6 41.
+Re4 1/2-1/2
+

@@ -1,0 +1,613 @@
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.11"]
+[Round "1"]
+[White "Movsesian,S"]
+[Black "Bu Xiangzhi"]
+[Result "0-1"]
+[WhiteElo "2732"]
+[BlackElo "2714"]
+[EventDate "2008.12.11"]
+[ECO "C24"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. Nc3 dxe4 7. Ng5 O-O 8.
+Ncxe4 Nxe4 9. Nxe4 Bf5 10. Qf3 Bxe4 11. dxe4 Nd7 12. c3 a5 13. O-O a4 14.
+Bc2 Qe7 15. Rd1 Rfd8 16. h4 h6 17. g3 b5 18. Bd2 Nf8 19. Qg4 Qe6 20. Qxe6
+Nxe6 21. Kf1 Kf8 22. Be1 Ke7 23. Rd2 g5 24. hxg5 hxg5 25. Bd1 b4 26. Bg4
+bxc3 27. bxc3 Rab8 28. Rad1 Nc5 29. f3 a3 30. Bf2 Na4 31. Be3 f6 32. c4 Nb2
+33. Rc1 Bb4 34. Rh2 Rh8 35. Rxh8 Rxh8 36. Kg2 Rd8 37. Rh1 Nxc4 38. Rh7+ Kd6
+39. Ba7 c5 40. Bh5 Ba5 41. Rf7 Kc6 42. Rxf6+ Kb5 43. Kh3 Rh8 44. g4 Ra8 45.
+Rf7 Nd6 46. Rd7 Kc6 47. Rh7 Bb4 48. f4 exf4 49. e5 Nc8 50. e6 Kd6 51. Rh8
+Kxe6 52. Bg6 Kd5 53. Rd8+ Kc4 54. Bf5 Rxa7 55. Rxc8 Kc3 56. Rc6 Kb2 57. Be6
+Re7 58. Kg2 Rxe6 0-1
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.11"]
+[Round "1"]
+[White "Ivanchuk,V"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2727"]
+[EventDate "2008.12.11"]
+[ECO "C99"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5
+15. Be3 a4 16. Nbd2 Bd7 17. Rc1 Qb7 18. Nf1 h6 19. Ng3 Rfe8 20. Qd2 exd4
+21. Bxh6 Ne5 22. Bg5 Nxf3+ 23. gxf3 Bxh3 24. Qxd4 Nh7 25. Bxe7 Qxe7 26. f4
+Qh4 27. Bd3 Re6 28. e5 Rd8 29. Rcd1 Rh6 30. Bxb5 Bg4 31. Rd3 Nf8 32. exd6
+Ne6 33. Qe5 Qh2+ 34. Kf1 Qh3+ 35. Kg1 Qh2+ 36. Kf1 Qh3+ 37. Kg1 Qh2+
+1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.11"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2791"]
+[EventDate "2008.12.11"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8.
+g3 Bd6 9. O-O O-O 10. Nxg6 hxg6 11. Qc2 dxc4 12. Bxc4 c5 13. dxc5 Bxc5 14.
+Rd1 Rc8 15. Qb3 Qc7 16. Bf1 Be7 17. Bg2 Nc5 18. Qc2 Rfd8 19. Bd2 Nd3 20.
+Qb3 a6 21. Be1 Nxe1 22. Rxd8+ Rxd8 23. Rxe1 b5 24. Rd1 g5 25. Ne2 Rxd1+ 26.
+Qxd1 Nd7 27. Qc1 Qxc1+ 28. Nxc1 Kf8 29. Kf1 Bd6 30. Ke2 Ke7 31. Nd3 Ne5 32.
+Bb7 Nxd3 33. Kxd3 a5 34. b3 a4 35. Bc6 axb3 36. axb3 b4 37. h3 f5 38. Kc4
+Kf6 39. g4 g6 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.12"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Movsesian,S"]
+[Result "0-1"]
+[WhiteElo "2727"]
+[BlackElo "2732"]
+[EventDate "2008.12.11"]
+[ECO "B83"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O O-O
+8. f4 Nc6 9. Be3 e5 10. Nxc6 bxc6 11. Kh1 exf4 12. Bxf4 Be6 13. Bf3 Qb8 14.
+b3 Qb4 15. Qd2 Rfd8 16. Rad1 Rac8 17. Qe3 d5 18. Be5 Qa5 19. exd5 Nxd5 20.
+Nxd5 cxd5 21. Bh5 d4 22. Qe4 g6 23. Bf3 Bf5 24. Qf4 Bg5 25. Qxg5 Qxe5 26.
+Bg4 h6 27. Rxf5 Qg7 28. Qe7 gxf5 29. Bxf5 Re8 30. Qd6 Rcd8 31. Qa6 Qg5 32.
+Bd3 Re7 33. Rf1 Kg7 34. g3 Qd5+ 35. Kg1 Rd6 36. Qc8 Qe6 37. Qb8 Rb6 38. Qd8
+Rd6 39. Qb8 Rd5 40. Rf4 Rg5 41. Rf3 Qe5 42. Qd8 h5 43. Rf2 Re6 44. Qd7 Rf6
+45. Re2 Qf4 46. Re4 Qf2+ 47. Kh1 h4 0-1
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.12"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Bu Xiangzhi"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2714"]
+[EventDate "2008.12.11"]
+[ECO "D19"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O O-O 9. Qe2 Nbd7 10. e4 Bg6 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3
+Be7 15. Ng5 Bxg5 16. Qxg5 Bg6 17. Be2 Nb8 18. Qe3 Nc6 19. Bd2 Rc8 20. Bc3
+Qh4 21. g3 Qe4 22. Rac1 f6 23. Qxe4 Bxe4 24. exf6 gxf6 25. f3 Bg6 26. Rfd1
+Rfd8 27. Bf1 Bf5 28. Kf2 e5 29. dxe5 d4 30. Be1 fxe5 31. Bd2 Rf8 32. Re1
+Rce8 33. Rc5 Bg6 34. Bc4+ Kh8 35. Bh6 Rf6 36. Bg5 Rf5 37. h4 Ref8 38. f4
+exf4 39. Rxf5 fxg3+ 40. Kxg3 Rxf5 41. b4 Kg7 42. Bf4 a6 43. b5 axb5 44.
+axb5 Na5 45. Ba2 Rxb5 46. Be5+ Kh6 47. Bf4+ Kg7 48. Be5+ Kh6 49. Bf4+
+1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.12"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2757"]
+[BlackElo "2786"]
+[EventDate "2008.12.11"]
+[ECO "B36"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 g6 5. e4 Nf6 6. Nc3 d6 7. Nc2 Bg7 8.
+Be2 Nd7 9. Bd2 a5 10. O-O Nc5 11. Qc1 h5 12. Rd1 Bd7 13. Ne1 Nd4 14. Bf1
+O-O 15. Bg5 Bc6 16. Nd5 Re8 17. f3 b5 18. Be3 Nce6 19. Qd2 bxc4 20. Bxc4
+Rb8 21. Kh1 Nb5 22. Rac1 Nc5 23. b4 axb4 24. Nxb4 Qb6 25. Ned3 Na3 26. Bb3
+Ba8 27. Nxc5 dxc5 28. Bxc5 Qa5 29. Qf4 e6 30. Rd7 Rf8 31. Rxf7 Rxf7 32.
+Qxb8+ Kh7 33. Bxe6 1-0
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.13"]
+[Round "3"]
+[White "Bu Xiangzhi"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2727"]
+[EventDate "2008.12.11"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qh4 Nxc3 7. dxc3
+Nc6 8. Bf4 f6 9. Bh6 e5 10. Bxf8 Kxf8 11. Qh6+ Kg8 12. e4 Qe7 13. Bc4+ Be6
+14. Bxe6+ Qxe6 15. O-O Nd8 16. Qe3 Nf7 17. Rfd1 Kg7 18. Rd5 b6 19. b3 Rhd8
+20. Rad1 Rd6 21. Rxd6 Nxd6 22. Nd2 Rd8 23. Qe2 a5 24. Nc4 Qe7 25. Nxd6 Rxd6
+26. g3 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.13"]
+[Round "3"]
+[White "Movsesian,S"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2757"]
+[EventDate "2008.12.11"]
+[ECO "C55"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. c3 Be7 7. Bb3 O-O 8.
+h3 Nh7 9. Be3 Kh8 10. d4 f5 11. exf5 e4 12. Nh2 Bxf5 13. Nd2 Qe8 14. Bc2
+Nf6 15. Ng4 d5 16. f3 Qg6 17. fxe4 Bxg4 18. e5 Bxd1 19. Bxg6 Bh5 20. exf6
+Bxg6 21. fxe7 Rfe8 22. Bf4 Rxe7 23. Rae1 Rae8 24. Nf3 Be4 25. Ne5 Nxe5 26.
+Bxe5 Kg8 27. Rf2 Rf8 28. Ref1 Rxf2 29. Rxf2 c6 30. h4 Rf7 31. Rxf7 Kxf7 32.
+Kf2 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.13"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2791"]
+[EventDate "2008.12.11"]
+[ECO "B10"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 Nc6 7. Bb5 e6
+8. O-O Be7 9. d4 O-O 10. Re1 Bd7 11. Nxd5 exd5 12. Bf4 Bf6 13. Ne5 Nxe5 14.
+dxe5 Bxb5 15. exf6 Qxf6 16. Qxd5 Bc6 17. Qg5 Qxg5 18. Bxg5 Rfe8 19. Bd2 a6
+20. Rxe8+ Rxe8 21. Re1 Rxe1+ 22. Bxe1 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.14"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2757"]
+[EventDate "2008.12.11"]
+[ECO "C86"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 O-O 8.
+c3 Re8 9. d4 Bf8 10. d5 Na5 11. Bc2 c6 12. Bg5 h6 13. Bh4 cxd5 14. exd5 g5
+15. Bg3 d6 16. Nbd2 Bg4 17. h3 Bh5 18. Ne4 Rc8 19. a4 Nxe4 20. Qxe4 Bg6 21.
+Qe2 Bxc2 22. Qxc2 b4 23. Nd2 bxc3 24. bxc3 Nc4 25. Rfb1 Qc7 26. Ne4 Bg7 27.
+Bh2 Qa5 28. Rd1 Rb8 29. Qe2 Qc7 30. g4 Rb2 31. Qd3 Reb8 32. Bg3 R2b6 33.
+Qf3 Na5 34. h4 Nb3 35. hxg5 Nxa1 36. gxh6 Bxh6 37. Rxa1 Rb1+ 38. Rxb1 Rxb1+
+39. Kg2 Bg7 40. Bh4 Re1 41. Qf5 Rxe4 42. Qxe4 Qxc3 43. Be7 Bf8 44. Bg5 Qb3
+45. Bf6 Bg7 46. Be7 Bf8 47. Bf6 Bg7 48. Be7 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.14"]
+[Round "4"]
+[White "Bu Xiangzhi"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2786"]
+[EventDate "2008.12.11"]
+[ECO "D73"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. d4 c6 6. b3 dxc4 7. bxc4 c5 8.
+O-O Nc6 9. d5 Nd7 10. dxc6 bxc6 11. Nc3 Bxc3 12. Rb1 O-O 13. Bh6 Bg7 14.
+Bxg7 Kxg7 15. Qa4 Qc7 16. Nd2 Nb6 17. Qa5 Rd8 18. Nb3 Be6 19. Qxc5 Bxc4 20.
+Rfc1 Bd5 21. Nd4 Rac8 22. Nb5 Qd7 23. Nxa7 Qxa7 24. Rxb6 Qxa2 25. Qxe7 Re8
+26. Bxd5 Qxd5 27. Qc5 Qxc5 28. Rxc5 Rxe2 29. Rbxc6 Rxc6 30. Rxc6 h5 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.14"]
+[Round "4"]
+[White "Movsesian,S"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2791"]
+[EventDate "2008.12.11"]
+[ECO "B52"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 g6 6. Nc3 Bg7 7. d4 cxd4
+8. Nxd4 Nf6 9. h3 O-O 10. O-O a6 11. a4 e6 12. Be3 Rc8 13. b3 Qd8 14. Nde2
+Nc6 15. Qd2 Bf8 16. Rfd1 Nd7 17. Rab1 Qa5 18. Bh6 Be7 19. Qb2 Qh5 20. Bf4
+Qc5 21. Qd2 Qb4 22. Qb2 Rd8 23. Bd2 Qc5 24. Be3 Qa5 25. Bd2 Qc5 26. Be3 Qa5
+27. Bd2 Qc5 28. Be3 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.15"]
+[Round "5"]
+[White "Topalov,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2791"]
+[BlackElo "2727"]
+[EventDate "2008.12.11"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Bd7 11. Rb1 Qc7 12. Bd3 Rfd8 13. h3 Be8 14.
+d5 Ne5 15. c4 e6 16. Nf4 Rab8 17. Be2 Rd6 18. Qc2 Ra6 19. Rb5 Bf8 20. a4
+Bxb5 21. cxb5 Rd6 22. Qc3 Bg7 23. Qxc5 Rc8 24. Qxa7 b6 25. Qxc7 Rxc7 26.
+Rd1 Bf6 27. dxe6 Rxd1+ 28. Bxd1 fxe6 29. Bb3 1-0
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.15"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2732"]
+[EventDate "2008.12.11"]
+[ECO "B80"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Nc6 7. f4 a6 8.
+Qf3 Qa5 9. Bd3 Nxd4 10. Bxd4 e5 11. Be3 exf4 12. Bd2 Qc7 13. Qxf4 Be6 14.
+Nd5 Nxd5 15. exd5 Bxd5 16. O-O-O Be6 17. Rhe1 Be7 18. Bc3 O-O-O 19. Kb1 Kb8
+20. g3 h5 21. Bxg7 Rhg8 22. Bf6 Rg4 23. Qf2 Bxf6 24. Qxf6 Rc8 25. Bf5 Ra4
+26. a3 Ra5 27. Bxe6 Qxc2+ 28. Ka2 fxe6 29. Rc1 Qf5 30. Rxc8+ Kxc8 31. Rxe6
+Qd5+ 32. Ka1 Qd1+ 33. Ka2 Qd5+ 34. Ka1 Qd1+ 35. Ka2 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.15"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Bu Xiangzhi"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2714"]
+[EventDate "2008.12.11"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7
+8. g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Bxe5 Nxe5 13. Qd4 f6 14.
+O-O-O Rd8 15. Qe3 Be7 16. Rxd8+ Kxd8 17. Rd1+ Kc8 18. Be4 Bxe4 19. Qxe4 h5
+20. Ne3 Kb8 21. Qf5 Rd8 22. f4 Rxd1+ 23. Kxd1 Qb6 24. Qe6 Qxe3 25. Qxe7
+Qd4+ 26. Kc2 gxf4 27. Qxf6 f3 28. exf3 Qd3+ 29. Kb3 Nxf3 30. Ka2 a6 31.
+Qf8+ Ka7 32. Qc5+ Kb8 33. Qxh5 Qc4+ 34. Ka1 Qf1+ 35. Nb1 Qf2 36. Qf5 Ka7
+37. Qf4 c5 38. h4 Qe2 39. Qf8 Qe3 40. h5 Ne1 41. Qf5 Qc1 42. h6 Nc2+ 43.
+Ka2 Nb4+ 44. Ka1 Nc2+ 45. Ka2 Nb4+ 46. Ka1 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.17"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2791"]
+[BlackElo "2757"]
+[EventDate "2008.12.11"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. O-O O-O 10. Qc2 Bb7 11. e4 e5 12. h3 Re8 13. dxe5 Nxe5 14. Nxe5
+Bxe5 15. Be3 Qe7 16. Rfd1 a6 17. Ne2 c5 18. Bxc5 Qc7 19. f3 Bxb2 20. Qxb2
+Qxc5+ 21. Qd4 Qe7 22. Bc2 Bd5 23. exd5 Qxe2 24. Bb3 a5 25. d6 a4 26. Bd5
+Rac8 27. Rd2 Qe5 28. Qxe5 Rxe5 29. Bb7 Rd8 30. Rb1 g6 31. Bc6 Rc5 32. Bxb5
+Rb8 33. Rdb2 a3 34. Rb3 Rc2 35. Rxa3 Rd2 36. Ra7 Nd5 37. d7 Kg7 38. Re1 Ne3
+39. a4 Nxg2 40. Re4 g5 41. Rc7 Nh4 42. Rc3 Rb7 43. Re2 Rbxd7 44. Kf2 R7d5
+45. Rxd2 Rxd2+ 46. Ke3 Ra2 47. Kd4 Ng2 48. Kc4 Nf4 49. Kb3 Ra1 50. Kb2 Re1
+51. Rc5 Kf6 52. a5 Re5 53. Rxe5 Kxe5 54. a6 Ne6 55. a7 Nc7 56. Bc6 f5 57.
+Kb3 Kd6 58. Bb7 Kc5 59. Kc2 Kd4 60. Kd2 h6 61. Ke2 Ke5 62. Ke3 Kf6 63. Bc6
+Ke7 64. a8=Q Nxa8 65. Bxa8 Kf6 66. Bc6 Ke5 67. Bb5 Kd5 68. Ba6 Ke5 69. h4
+Kd5 70. hxg5 hxg5 71. Bc8 Ke5 72. Bd7 1-0
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.17"]
+[Round "6"]
+[White "Svidler,P"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2786"]
+[EventDate "2008.12.11"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. c3 Nf6 6. Re1 a6 7. Ba4 c4 8.
+Bc2 Ng4 9. b3 b5 10. bxc4 bxc4 11. Na3 Nge5 12. Qe2 Nxf3+ 13. gxf3 Ne5 14.
+Nxc4 Nxc4 15. Qxc4 e6 16. d4 Be7 17. Qd3 O-O 18. Bf4 Rc8 19. c4 e5 20. Bg3
+exd4 21. e5 g6 22. exd6 Bf6 23. Rad1 Rc5 24. Qa3 Rxc4 25. Bd3 Rc3 26. Qxa6
+Qa8 27. Qxa8 Rxa8 28. Be5 Kg7 29. Bf1 Rxa2 30. Bxf6+ Kxf6 31. Rxd4 Ra8 32.
+h4 Ra4 33. Rxa4 Bxa4 34. Kg2 Bc6 35. Re3 Rxe3 36. fxe3 Ke5 37. Kg3 Kxd6 38.
+Kf4 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.17"]
+[Round "6"]
+[White "Bu Xiangzhi"]
+[Black "Movsesian,S"]
+[Result "1-0"]
+[WhiteElo "2714"]
+[BlackElo "2732"]
+[EventDate "2008.12.11"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. Bg5 Nbd7 7. a5 Bb4 8.
+Qa4 Be7 9. e3 O-O 10. Be2 b5 11. axb6 Nxb6 12. Qc2 Nxc4 13. Bxc4 dxc4 14.
+O-O c5 15. dxc5 Bxc5 16. Rfd1 Qc7 17. Ra4 Be7 18. Bf4 Qc5 19. Ne5 Bb7 20.
+Rxc4 Qa5 21. Qb3 Rad8 22. Rxd8 Rxd8 23. Ra4 Qc7 24. Rc4 Qa5 25. h3 Qa1+ 26.
+Kh2 Ba8 27. Nc6 Bxc6 28. Rxc6 Qf1 29. Qb7 Bf8 30. Bg3 a5 31. Rc7 h5 32.
+Rxf7 Qd3 33. Rxf6 gxf6 34. Ne4 Bg7 35. Qe7 Rf8 36. Qxe6+ Kh8 37. Qf5 a4 38.
+Bd6 Rf7 39. Qe6 Qb3 40. Qc8+ Kh7 41. Qf5+ Kg8 42. Ba3 h4 43. Nd6 Rc7 44.
+Qe4 Qb8 45. Qxa4 Bf8 46. Qg4+ Rg7 47. Qc4+ Kh7 48. Qxh4+ Kg6 49. Qe4+ Kh6
+50. Qe6 Kh7 51. Qxf6 Rg6 52. Qf7+ Bg7 53. Qf4 Bh6 54. Qe5 Bg7 55. Qe7 Kh8
+56. e4 Bf6 57. Qe6 Kh7 58. Qf5 Qg8 59. g3 Qb3 60. e5 Bg7 61. Nf7 Qd5 62. h4
+1-0
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.18"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2786"]
+[BlackElo "2757"]
+[EventDate "2008.12.11"]
+[ECO "A20"]
+
+1. c4 e5 2. g3 f5 3. d4 exd4 4. Nf3 Bb4+ 5. Nbd2 Nf6 6. Bg2 Nc6 7. O-O Bc5
+8. Nb3 d6 9. Nfxd4 Nxd4 10. Nxd4 O-O 11. Nc2 Qe8 12. b4 Bb6 13. Be3 Bxe3
+14. Nxe3 f4 15. Nd5 Nxd5 16. Qxd5+ Kh8 17. Rfe1 Rf6 18. Rad1 c6 19. Qe4 Qf7
+20. Rd4 Bg4 21. Qd3 Rf8 22. Qd2 h5 23. Bf3 fxg3 24. hxg3 Bxf3 25. exf3 Rxf3
+26. Re2 c5 27. bxc5 dxc5 28. Rd8 Qxc4 29. Rxf8+ Rxf8 30. Re5 b6 31. Rxh5+
+Kg8 32. Rh4 Qe6 33. a4 a6 34. Rh5 c4 35. Qd4 Qf7 36. Rd5 c3 37. Rd6 b5 38.
+Rxa6 Rc8 39. Qg4 Qc4 0-1
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.18"]
+[Round "7"]
+[White "Movsesian,S"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2732"]
+[BlackElo "2727"]
+[EventDate "2008.12.11"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 h6 6. O-O Ne7 7. b3 c5 8. Ba3
+Nec6 9. dxc5 Be7 10. Nc3 a6 11. Na4 Nd7 12. b4 O-O 13. Re1 Qc7 14. h3 Rfd8
+15. Qd2 Be4 16. Bb2 Bxf3 17. Bxf3 Ncxe5 18. Qf4 Nxf3+ 19. Qxf3 Qc6 20. Qb3
+b6 21. Qg3 d4 22. Bxd4 Bf8 23. Nxb6 Nxb6 24. Bf6 Nd5 25. Bxd8 Rxd8 26. Rad1
+Rc8 27. a3 a5 28. c4 Nxb4 29. axb4 axb4 30. Rd3 Bxc5 31. Qh4 Bb6 32. Re4
+Ra8 33. Rg4 Qc5 34. Qf6 Qxf2+ 35. Qxf2 Ra1+ 36. Kh2 Bxf2 37. Rf4 Bb6 38.
+Rd7 b3 39. Rb7 Bc5 40. Rfxf7 Bd4 41. Rf3 b2 42. Rfb3 Rc1 43. R7b4 Be5+ 44.
+g3 Rc2+ 45. Kg1 Bd4+ 46. Kf1 e5 47. c5 Kf7 48. c6 Ke6 49. Rb7 Kd6 50. c7
+Kd7 51. Ke1 Kc8 52. Kd1 Rh2 53. g4 Rxh3 54. Kc2 Rxb3 55. Rxb3 Kxc7 56. Rf3
+Kd6 57. Rf7 e4 58. Rb7 e3 59. Kd3 Ke5 60. Rb4 g5 61. Ke2 Bc3 62. Rb7 Kd4
+63. Rd7+ Kc4 64. Rd1 0-1
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.18"]
+[Round "7"]
+[White "Bu Xiangzhi"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2791"]
+[EventDate "2008.12.11"]
+[ECO "D43"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. Qc2 Qe7 12. Rad1 O-O 13. Rfe1 a6 14. a3
+b5 15. Ba2 c5 16. d5 c4 17. dxe6 Qxe6 18. b3 Ne5 19. Nxe5 Qxe5 20. Nd5 cxb3
+21. Bxb3 Bb7 22. Nb6 Be4 23. Qa2 Rae8 24. Nd7 Qg5 25. f4 Qf5 26. Nxf8 Bxf8
+27. Bd5 h5 28. Rd4 Bc5 29. Bxe4 Rxe4 30. Rxe4 Qxe4 31. Kh1 Qd3 32. a4 bxa4
+33. Qxa4 Qc3 34. Rf1 Qd3 35. Qa1 Kh7 36. e4 Qxe4 37. Qxa6 Be7 38. f5 gxf5
+39. Qc8 Kg6 40. Qg8+ Kf6 41. Qh7 h4 42. Ra1 Qf4 43. Qh8+ Kg6 44. Qg8+ Kf6
+45. Rd1 Bd6 46. Qd8+ Ke6 47. Re1+ Be5 48. Qb6+ Ke7 49. Qg1 Kf6 50. Rf1 Qe4
+51. Qb6+ Kg7 52. Qb3 Kg6 53. Qf3 Bd6 54. Qc3 Be5 55. Qa3 Qe2 56. Qc1 f6 57.
+Re1 Qf2 58. Qe3 Qc2 59. Qf3 Qd2 60. Rf1 Qc2 61. Re1 Qd2 62. Rd1 Qb4 63. Rf1
+Qe4 64. Qb3 Kh6 65. Qd1 Kg6 66. Qd2 Qc4 67. Rc1 Qe4 68. Re1 Qc4 69. Rc1 Qe4
+70. Re1 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.19"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2791"]
+[BlackElo "2786"]
+[EventDate "2008.12.11"]
+[ECO "B45"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nf6 6. Ndb5 Bb4 7. a3
+Bxc3+ 8. Nxc3 d5 9. exd5 exd5 10. Bd3 O-O 11. O-O d4 12. Ne2 Bg4 13. f3 Bh5
+14. Nf4 Re8 15. Nxh5 Nxh5 16. f4 Nf6 17. Qf3 Nd5 18. Qh3 g6 19. f5 Ne3 20.
+Qh6 Qe7 21. Rf4 gxf5 22. Bd2 Rad8 23. Bxf5 Nxf5 24. Rxf5 Rd6 25. Qf4 Rg6
+26. Rf1 Qe2 27. g3 Rf8 28. Rf2 Qe6 29. h4 Ne7 30. Re5 Qd7 31. h5 Rg7 32.
+Rg5 f5 33. Rxg7+ Kxg7 34. Qe5+ Kg8 35. Bh6 Nc6 36. Qf4 Rf7 37. g4 d3 38.
+cxd3 Kh8 39. gxf5 Qxd3 40. Kg2 Qd5+ 41. Qf3 Ne7 42. Qxd5 Nxd5 43. Rc2 Rc7
+44. Rxc7 Nxc7 45. Kf3 Kg8 46. Ke4 Ne8 47. Ke5 Kf7 48. Bg5 Nc7 49. h6 Nb5
+50. Be3 b6 51. a4 Nc7 52. Kd6 Na6 53. Kc6 Nb4+ 54. Kb7 Nd5 55. Bg5 a5 56.
+Kc6 Nb4+ 57. Kxb6 Nd3 58. b3 1-0
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.19"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2714"]
+[EventDate "2008.12.11"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 a6 6. c5 b6 7. cxb6 Nbd7 8.
+Bd3 c5 9. b3 Nxb6 10. Ba3 Nfd7 11. O-O Bb7 12. Rc1 Rc8 13. Re1 Be7 14. Re2
+O-O 15. Rec2 cxd4 16. Bxe7 Qxe7 17. exd4 e5 18. dxe5 Nxe5 19. Nd4 g6 20.
+Bf1 Qd6 21. h3 Rfd8 22. Qd2 Kg7 23. a4 Nbd7 24. f4 Nc6 25. Nxc6 Rxc6 26.
+Ne2 Rxc2 27. Rxc2 Nf8 28. Nd4 Ne6 29. Nxe6+ Qxe6 30. Qd4+ Qf6 31. Qxf6+
+Kxf6 32. Rc7 Rb8 33. g4 h6 34. b4 Bc8 35. a5 Ke6 36. Bd3 Bd7 37. f5+ Ke7
+38. Bxa6 Kd6 39. Rb7 Rxb7 40. Bxb7 gxf5 41. gxf5 Bxf5 42. h4 Bd3 43. Kf2 d4
+44. Kf3 Bf1 45. Kf4 Bd3 46. a6 Kc7 47. Ke5 Kb6 48. Kxd4 Be2 49. Ke5 h5 50.
+Kf6 Bc4 51. Kg5 Be2 52. Bd5 f6+ 53. Kxf6 Kxa6 54. Bc6 1-0
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.19"]
+[Round "8"]
+[White "Aronian,L"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2732"]
+[EventDate "2008.12.11"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. c5 Nbd7 7. Bd3 e5 8.
+Nxe5 Nxe5 9. dxe5 Nd7 10. e6 Nxc5 11. exf7+ Kxf7 12. Bc2 g6 13. O-O Bg7 14.
+Ne2 Re8 15. Nd4 Qd6 16. b4 Ne6 17. Rb1 Nxd4 18. exd4 a5 19. bxa5 Rxa5 20.
+Bb3 Bf5 21. Ra1 Be4 22. Be3 Qd7 23. Rc1 Raa8 24. Re1 Bf5 25. Qd2 h5 26. h3
+Re4 27. f3 Ree8 28. g4 hxg4 29. hxg4 Be6 30. Qc2 Qd6 31. Qh2 Qxh2+ 32. Kxh2
+Bd7 33. Kg2 Re6 34. Bf2 Rae8 35. Rxe6 Rxe6 36. Kf1 b4 37. Bc2 Rf6 38. Kg2
+Re6 39. Bd3 Re8 40. Rb1 Bf8 41. Kf1 Ra8 42. Rb2 Ra3 43. Ke2 g5 44. Be3 Kf6
+45. Rc2 Bd6 46. Bd2 Be7 47. Be1 Bd6 48. Bd2 Be7 49. Be1 Bd6 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.20"]
+[Round "9"]
+[White "Movsesian,S"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2786"]
+[EventDate "2008.12.11"]
+[ECO "B51"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 Ngf6 5. Nc3 cxd4 6. Qxd4 e5 7. Qd3 h6
+8. Be3 Be7 9. O-O-O a6 10. Bc4 b5 11. Bb3 Bb7 12. g4 Nxg4 13. Rhg1 Nxe3 14.
+Qxe3 g6 15. Bd5 Rb8 16. Bxb7 Rxb7 17. Nd5 Nb6 18. Nxe5 dxe5 19. Nf6+ Bxf6
+20. Rxd8+ Bxd8 21. Qc5 Nd7 22. Qc8 Ra7 23. Qc6 h5 24. a3 h4 25. h3 Ke7 26.
+Rd1 Rh5 27. Kb1 Rg5 28. Ka2 Rg2 29. c3 Rh2 30. f4 exf4 31. e5 Re2 32. Rxd7+
+Rxd7 33. Qf6+ 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.20"]
+[Round "9"]
+[White "Svidler,P"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2727"]
+[BlackElo "2791"]
+[EventDate "2008.12.11"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Nd7 7. Nbd2 c4 8. a4
+h6 9. b3 cxb3 10. Nxb3 Rc8 11. Ra2 Qc7 12. Bd3 Bxd3 13. Qxd3 Ne7 14. O-O
+Qc4 15. Rb1 b6 16. Qf1 Nc6 17. c3 Qxc3 18. a5 Be7 19. axb6 axb6 20. Qd1 Qc4
+21. Nc1 Nb4 22. Ra7 Qc2 23. Qxc2 Nxc2 24. Bd2 Na3 25. Ra1 Nc4 26. Rb7 Nb8
+27. Ra8 O-O 28. Raxb8 Nxd2 29. Rxc8 Nxf3+ 30. gxf3 Rxc8 31. Ne2 Bd8 32. f4
+g6 33. Kg2 Kf8 34. Kf3 Ra8 35. Ke3 Ra3+ 36. Kd2 Bh4 0-1
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.20"]
+[Round "9"]
+[White "Bu Xiangzhi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2757"]
+[EventDate "2008.12.11"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Bd3 Nbd7 8.
+O-O Bd6 9. Nd2 O-O 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Nf6 13. Bc2 e5 14.
+Bg5 h6 15. Bxf6 Qxf6 16. Qxf6 gxf6 17. Rad1 exd4 18. Rxd4 Bc5 19. Rd7 Rab8
+20. Rfd1 Rfe8 21. Kf1 Kf8 22. b3 Re7 23. Bf5 Rbe8 24. Rxe7 Rxe7 25. g3 a5
+26. Rd8+ Re8 27. Rd7 Re7 28. Rd8+ Re8 29. Rd7 Re7 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.21"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2732"]
+[EventDate "2008.12.11"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 Nc6 7. Rc1 Bf5
+8. e3 Rc8 9. Be2 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. a3 O-O 13. Nd2 Nd7 14. b4
+a5 15. Nb5 Qe7 16. bxa5 Nxa5 17. Qa4 Nc6 18. Na7 Ra8 19. Nxc6 bxc6 20. Qxc6
+Rxa3 21. Qc7 Ra2 22. Rfd1 Qd8 23. Qxd8 Rxd8 24. Kf1 Bc2 25. Ra1 Rda8 26.
+Rxa2 Rxa2 27. Rc1 Kf8 28. Nf3 Ke7 29. Ne1 Ba4 30. Rb1 Kd6 31. Bb5 Bxb5+ 32.
+Rxb5 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.21"]
+[Round "10"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2727"]
+[EventDate "2008.12.11"]
+[ECO "A29"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nd2 c6 13. Nde4 Nd5 14. e3
+Nf5 15. Bd2 Rf7 16. Ne2 b6 17. Qc1 Rc8 18. Rd1 Bf8 19. Be1 Rd7 20. Rb2 Nh6
+21. Rc2 Ne7 22. Rc3 Nf7 23. d4 Bg4 24. f3 Be6 25. Nf2 Rd6 26. Rcd3 Nf5 27.
+dxe5 Nxe5 28. Rxd6 Nxd6 29. Nd4 Bd7 30. f4 Nec4 31. e4 c5 32. bxc5 Rxc5 33.
+Bb4 Rc8 34. e5 Nxe5 35. Qb1 Nef7 36. Bd5 a5 37. Bxd6 Bxd6 38. Ne4 Qe7 39.
+Qxb6 Bxa3 40. Qxa5 Kf8 41. Bxf7 Qxe4 42. Bd5 Qe3+ 43. Kh1 Bc5 44. Qd2 Qxd2
+45. Rxd2 Bxd4 1/2-1/2
+
+[Event "Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2008.12.21"]
+[Round "10"]
+[White "Ivanchuk,V"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[WhiteElo "2786"]
+[BlackElo "2714"]
+[EventDate "2008.12.11"]
+[ECO "C26"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bb4 4. Nf3 O-O 5. O-O d6 6. Nd5 Be6 7. d4 Bxd5
+8. exd5 e4 9. Nh4 c6 10. c3 Ba5 11. Bg5 Nbd7 12. Nf5 Nb6 13. f3 h6 14. Bh4
+e3 15. Qd3 Nxc4 16. Qxc4 Qd7 17. Nxe3 Nh5 18. Rae1 Bd8 19. Bxd8 Rfxd8 20.
+Qd3 Rab8 21. b3 Nf6 22. dxc6 bxc6 23. Re2 a5 24. Rfe1 g6 25. d5 Nxd5 26.
+Nxd5 cxd5 27. Qxd5 Qa7+ 28. Kh1 Qc5 29. Qd2 d5 30. Re5 a4 31. bxa4 h5 32.
+f4 Rbc8 33. f5 Qxc3 34. Qh6 1-0
+

@@ -1,0 +1,938 @@
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.13"]
+[Round "1"]
+[White "Leko,P"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2726"]
+[EventDate "2012.07.13"]
+[ECO "D27"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5
+8. Qxd8+ Kxd8 9. Ne5 Ke7 10. Be2 Nbd7 11. Nc4 Ra7 12. Nbd2 b5 13. Na5 Rc7
+14. a4 bxa4 15. Ndc4 Nb8 16. Rxa4 Bd7 17. Ra1 Bb5 18. b3 Ne4 19. Bb2 f6 20.
+Bf3 Ng5 21. Be2 Rd8 22. Rfc1 Bb4 23. Bf1 Nd7 24. Ba3 Bc5 25. Bxc5+ Nxc5 26.
+Na3 Bxf1 27. Kxf1 Rdc8 28. f3 Nf7 29. Rc3 Nd7 30. Rxc7 Rxc7 31. N3c4 Nfe5
+32. Ke2 Nxc4 33. Nxc4 Nc5 34. Na5 Nb7 35. Nxb7 Rxb7 36. Rxa6 Rxb3 37. Ra7+
+Kf8 38. Kf2 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.13"]
+[Round "1"]
+[White "Karjakin,Sergey"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2799"]
+[EventDate "2012.07.13"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Nb6 9. Nc3 Ba6 10. b3 O-O-O 11. Bb2 Re8 12. f4 f6 13. O-O-O fxe5
+14. fxe5 Qxe5 15. Qxe5 Rxe5 16. Bd3 Re8 17. Rhf1 d5 18. cxd5 Bxd3 19. Rxd3
+Nxd5 20. Nxd5 cxd5 21. Rxd5 Bd6 22. Bxg7 Rhg8 23. Rf7 Re2 24. Rd2 Rxg7 25.
+Rxg7 Bf4 26. Rgd7 Rxg2 27. Kc2 Bxd2 28. Rxd2 Rg4 29. Rd3 Rg2+ 30. Rd2 Rg4
+31. Rd3 Rg2+ 32. Rd2 Rg4 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.13"]
+[Round "1"]
+[White "Caruana,F"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2700"]
+[EventDate "2012.07.13"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 O-O
+8. Be3 Re8 9. f3 d5 10. O-O-O Be6 11. Qf2 Ne5 12. h3 Ng6 13. Bxb6 axb6 14.
+f4 Bd7 15. f5 Ne5 16. exd5 b5 17. a3 Nc4 18. Bxc4 bxc4 19. Nd2 b5 20. g4 b4
+21. axb4 Ra1+ 22. Ndb1 Ne4 23. Nxe4 Rxe4 24. f6 Qa8 25. Qf3 Qe8 26. Qc3 Qa8
+27. Qf3 Qe8 28. Rhf1 g5 29. Qg3 Re3 30. Rf3 Re2 31. Rf2 Ba4 32. Qf3 Rxb1+
+33. Kxb1 Bxc2+ 34. Kc1 Bxd1 35. Kxd1 Re3 36. Qf5 h6 37. b5 Re5 38. Qf3 Qxb5
+39. Re2 Qxd5+ 40. Qxd5 Rxd5+ 41. Kc2 Rd6 42. Re8+ Kh7 43. Re7 Rxf6 44. Rxc7
+Rf4 45. Kc3 Kg6 46. Rxc4 Rf3+ 47. Kc2 Rxh3 48. b4 h5 49. gxh5+ Rxh5 50. b5
+Rh8 51. b6 Rb8 52. Rb4 Kf6 53. Kd3 Ke6 54. b7 Kd6 55. Ke4 Kc6 56. Kf5 Rxb7
+57. Rxb7 Kxb7 58. Kxg5 Kc6 59. Kf6 Kd5 60. Kxf7 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.13"]
+[Round "1"]
+[White "Fridman,D"]
+[Black "Gustafsson,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2629"]
+[EventDate "2012.07.13"]
+[ECO "D02"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Qb3 dxc4 5. Qxc4 Bg4 6. Nbd2 Nbd7 7. g3 e6
+8. Bg2 Be7 9. O-O O-O 10. Ne5 Bh5 11. Nxd7 Nxd7 12. Nb3 a5 13. e4 a4 14.
+Nc5 Nxc5 15. dxc5 e5 16. Be3 Bg4 17. b4 axb3 18. axb3 Qc7 19. b4 Rfd8 20.
+Qc3 h6 21. h3 Be2 22. Rfe1 Rxa1 23. Qxa1 Bc4 24. h4 Be6 25. Bf3 Bf6 26. Be2
+Qc8 27. Qa7 Kh7 28. Rb1 Rd7 29. Ra1 Rd8 30. Kh2 Kg8 31. Qb6 Rd7 32. Qa5 Rd8
+33. Qb6 Rd7 34. Qa7 Rd8 35. Qb6 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.13"]
+[Round "1"]
+[White "Meier,Geo"]
+[Black "Bartel,Mat"]
+[Result "1-0"]
+[WhiteElo "2644"]
+[BlackElo "2674"]
+[EventDate "2012.07.13"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 c5 6. O-O Nc6 7. dxc5 Qxd1
+8. Rxd1 Bxc5 9. Nbd2 c3 10. bxc3 Bd7 11. Rb1 O-O-O 12. Ne1 e5 13. Nd3 Bf5
+14. Rb5 Bb6 15. Nc4 Bc7 16. Bg5 a6 17. Rb2 h6 18. Bxf6 gxf6 19. Ne3 Bg6 20.
+Rdb1 Na5 21. Bxb7+ Nxb7 22. Rxb7 Bxd3 23. exd3 Rxd3 24. Ra7 Rhd8 25. Rxa6
+R8d6 26. Rxd6 Rxd6 27. Nf5 Rd2 28. Nxh6 Rxa2 29. h4 Bd6 30. h5 Kd7 31. Rb7+
+Ke6 32. Rb6 Ra4 33. Nxf7 Kxf7 34. Rxd6 Rc4 35. Rd7+ Ke6 36. Rg7 Rxc3 37. h6
+Rc8 38. h7 Rh8 39. g4 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.14"]
+[Round "2"]
+[White "Ponomariov,R"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2726"]
+[BlackElo "2775"]
+[EventDate "2012.07.13"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8.
+h3 Bxf3 9. Qxf3 g6 10. d3 Bg7 11. Be3 O-O 12. Nd2 Nd7 13. Qd1 b5 14. Nf3
+Nb6 15. d4 Na4 16. Re2 Qa5 17. Rc1 Rad8 18. Rec2 Qc7 19. b3 Nb6 20. a4 bxa4
+21. bxa4 c4 22. a5 Nxa5 23. Ra1 Nb3 24. Rxa6 d5 25. exd5 Nxd5 26. Qe2 Na5
+27. Bd2 Ra8 28. Rxa8 Rxa8 29. Ra2 Rc8 30. Ng5 Nb3 31. Qxc4 Nxd2 32. Qxd5
+Nxf1 33. Nxf7 e6 34. Qxe6 Rf8 35. Ne5+ Kh8 36. Kxf1 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.14"]
+[Round "2"]
+[White "Gustafsson,J"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteElo "2629"]
+[BlackElo "2799"]
+[EventDate "2012.07.13"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 c6 8.
+O-O exd4 9. Nxd4 Re8 10. f3 d5 11. cxd5 Nxd5 12. Nxd5 cxd5 13. Rc1 a5 14.
+Qb3 a4 15. Qxd5 Qxd5 16. exd5 a3 17. b3 Nc6 18. Nc2 Rxe3 19. Nxe3 Nb4 20.
+Rc4 Nxa2 21. Ra4 Rxa4 22. bxa4 Bd4 23. Kf2 Nb4 24. Rc1 a2 25. Rxc8+ Kg7 26.
+Rc1 Nxd5 27. Rd1 Nxe3 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.14"]
+[Round "2"]
+[White "Naiditsch,A"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2644"]
+[EventDate "2012.07.13"]
+[ECO "A30"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d6 8.
+e4 a6 9. d4 cxd4 10. Nxd4 Qc7 11. Be3 Nbd7 12. Rc1 Ne5 13. Nd5 exd5 14.
+cxd5 Qd7 15. Nf5 O-O 16. f4 Ng6 17. h4 Nxd5 18. Bd4 Nf6 19. h5 Rfe8 20.
+hxg6 hxg6 21. Nxe7+ Rxe7 22. Bxf6 gxf6 23. Qd4 Rae8 24. Kf2 Kg7 25. Rcd1
+Qb5 26. Re3 Rc7 27. Rd2 Qc5 28. Qxd6 Qxd6 29. Rxd6 Rc2+ 30. Re2 Rxe2+ 31.
+Kxe2 Bxe4 32. Bxe4 Rxe4+ 33. Kf3 Re6 34. Rd7 f5 35. Ra7 a5 36. Rd7 Rc6 37.
+Rb7 Re6 38. Rd7 Rc6 39. Rb7 Kf6 40. Ke3 Rd6 41. Ke2 Kg7 42. Ke3 Kh6 43.
+Rxf7 Kh5 44. Kf3 Rd3+ 45. Kf2 Kg4 46. Rf6 Rf3+ 47. Ke2 Rxg3 48. Rxg6+ Kxf4
+49. Rxb6 Re3+ 50. Kf2 Rf3+ 51. Ke2 Re3+ 52. Kf2 Rf3+ 53. Ke2 Ke5 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.14"]
+[Round "2"]
+[White "Bartel,Mat"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteElo "2674"]
+[BlackElo "2779"]
+[EventDate "2012.07.13"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 b6 3. Nc3 Bb7 4. d4 e6 5. a3 d5 6. cxd5 Nxd5 7. Qa4+ Nd7
+8. Nxd5 Bxd5 9. Qc2 Bb7 10. e4 Be7 11. Bf4 Rc8 12. Rd1 O-O 13. Bd3 c5 14.
+d5 c4 15. Be2 exd5 16. exd5 Nc5 17. d6 Bf6 18. Qxc4 Ne6 19. Qb4 Rc2 20. Be3
+Rxb2 21. Qc4 Qd7 22. Bd3 Rc8 23. Qg4 Rc6 24. Bf4 Bc3+ 25. Kf1 Rc5 26. Ng5
+h5 27. Qxh5 Nxg5 28. Bxg5 g6 29. Bxg6 fxg6 30. Qxg6+ Bg7 31. Be3 Rd5 32.
+Ke1 Qxd6 33. Qxd6 Bc3+ 34. Kf1 Rxd6 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.14"]
+[Round "2"]
+[White "Fridman,D"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2730"]
+[EventDate "2012.07.13"]
+[ECO "E06"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. c4 O-O 6. O-O dxc4 7. Qa4 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Bg5 Nbd7 12. Nbd2 Rc8 13. Bxf6 Nxf6 14.
+Nb3 c5 15. Nxc5 Be4 16. Qc3 e5 17. Qe1 Bxc5 18. dxc5 Rxc5 19. Rc1 Rxc1 20.
+Qxc1 Qd5 21. a3 Rd8 22. Qc3 Bxf3 23. exf3 Qd2 24. Qc7 Re8 25. Qc1 Rd8 26.
+Qc7 Re8 27. Qc1 Rd8 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.15"]
+[Round "3"]
+[White "Karjakin,Sergey"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2700"]
+[EventDate "2012.07.13"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6
+14. g3 Bxg5 15. Bxg5 Rg6 16. h4 f6 17. exf6 gxf6 18. Bf4 Nxh4 19. f3 Rd8
+20. Rxd8+ Kxd8 21. Kf2 Nf5 22. Rh1 Ng7 23. b3 Bf5 24. Nd1 Bd7 25. c4 Be8
+26. Bd2 Nf5 27. Bf4 Ng7 28. Ne3 Ne6 29. Rxh5 Nxf4 30. gxf4 Rg2+ 31. Kxg2
+Bxh5 32. b4 Kd7 33. c5 Ke6 34. Kg3 b6 35. a3 f5 36. Kf2 Bg6 37. Ke2 Bh5 38.
+Kf2 Bg6 39. Kg2 Bf7 40. Kh3 Bh5 41. Kg3 Kf6 42. Nc2 Be8 43. Nd4 Bd7 44. Kf2
+b5 45. Kg3 Kg7 46. Kf2 Kf6 47. Ke3 Be8 48. Kd2 Bd7 49. Kc3 Be8 50. Kb2 Bd7
+51. a4 a6 52. a5 Be8 53. Kc3 Bd7 54. Nc2 Be6 55. Ne1 Bc4 56. Nd3 Bxd3 57.
+Kxd3 Ke6 58. Kd4 Kf6 59. Kd3 Ke6 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.15"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Bartel,Mat"]
+[Result "1-0"]
+[WhiteElo "2799"]
+[BlackElo "2674"]
+[EventDate "2012.07.13"]
+[ECO "A25"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 f5 4. Bg2 Nf6 5. e3 d5 6. Nxd5 Nxd5 7. cxd5 Nb4
+8. d3 Nxd5 9. Nf3 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Qd6 12. O-O O-O 13. e4 Ne7
+14. d4 fxe4 15. Nxe5 Bf5 16. Qc3 Rad8 17. Rac1 Nd5 18. Qb3 Qb6 19. Qxb6
+axb6 20. Rfe1 c6 21. Bxe4 Bxe4 22. Rxe4 Nf6 23. Rf4 Rfe8 24. Kf1 Nd5 25.
+Rf3 Nb4 26. Rc4 Na6 27. Re3 b5 28. Rc1 Nb4 29. a3 Nd5 30. Re2 Nb6 31. b3
+Rf8 32. Nd3 Rxd4 33. Nc5 Rb8 34. Re7 Nd5 35. Rxb7 Rxb7 36. Nxb7 Ne7 37. Ke2
+Rd7 38. Nc5 Ra7 39. Ra1 Nd5 40. Kd3 Nb6 41. Kd4 Kf7 42. f4 Ra8 43. Nb7 Nd7
+44. a4 bxa4 45. bxa4 Kf6 46. a5 Kf5 47. h3 h5 48. Nd6+ Ke6 49. Ne4 Kf5 50.
+a6 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.15"]
+[Round "3"]
+[White "Meier,Geo"]
+[Black "Ponomariov,R"]
+[Result "0-1"]
+[WhiteElo "2644"]
+[BlackElo "2726"]
+[EventDate "2012.07.13"]
+[ECO "D12"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8.
+O-O dxc4 9. Nxg6 hxg6 10. Bxc4 Qc7 11. h3 g5 12. Be2 e5 13. Bd2 Rd8 14. Rc1
+Nb6 15. Re1 Be7 16. a4 a6 17. a5 Nbd5 18. Nxd5 Rxd5 19. Bc4 Rd7 20. Qb3 O-O
+21. d5 Ne4 22. Qd3 Nxd2 23. Qxd2 e4 24. Red1 Rfd8 25. Qe2 c5 26. b4 Qe5 27.
+b5 Bd6 28. Qg4 axb5 29. Bxb5 Re7 30. g3 g6 31. Kg2 Kg7 32. Rh1 Rh8 33. Be2
+Rh5 34. Qc8 Rc7 35. Qa8 Rh8 36. Qa7 f5 37. Qb6 f4 38. exf4 gxf4 39. gxf4
+Qxf4 40. Qb3 Rf8 41. Qe3 Qf6 42. Rc4 Bf4 43. Qxe4 Re7 44. Qd3 Bd6 45. f4
+Rfe8 46. Bg4 Re3 47. Qc2 Bxf4 48. Rb1 Rg3+ 49. Kh1 Rxg4 50. hxg4 Qh4+ 51.
+Kg1 Qxg4+ 52. Kf1 Qh3+ 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.15"]
+[Round "3"]
+[White "Caruana,F"]
+[Black "Fridman,D"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2655"]
+[EventDate "2012.07.13"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8.
+Nd2 Nbc6 9. N2f3 Be4 10. O-O Ng6 11. Nd2 Ngxe5 12. Nxe4 dxe4 13. c3 Bd6 14.
+Qa4 Qa5 15. Qb3 Bc7 16. Qxb7 Rb8 17. Qa6 Nxd4 18. Bxd4 Qxa6 19. Bxa6 Rxb2
+20. Rfb1 Rxb1+ 21. Rxb1 Kd7 22. a4 Nc6 23. Bxg7 Rb8 24. Bb5 Bd6 25. Rd1 Kc7
+26. Bh6 Be5 27. Be3 f5 28. g3 Bd6 29. c4 Ra8 30. a5 e5 31. c5 Bf8 32. Rd5
+Re8 33. a6 Re6 34. Kg2 Bg7 35. Bd2 Rg6 36. h4 h5 37. Kf1 Re6 38. Be2 Nd4
+39. Rd6 Rxd6 40. cxd6+ Kxd6 41. Bxh5 Kc6 42. Be2 Nxe2 43. Kxe2 Kb5 44. h5
+Kxa6 45. h6 Bf8 46. h7 Bg7 47. g4 fxg4 48. Ke3 Kb5 49. Kxe4 Kc6 50. Kf5 e4
+51. Kxe4 Kd7 52. Kf5 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.15"]
+[Round "3"]
+[White "Leko,P"]
+[Black "Gustafsson,J"]
+[Result "1-0"]
+[WhiteElo "2730"]
+[BlackElo "2629"]
+[EventDate "2012.07.13"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
+Re1 Re8 9. Nbd2 Bf8 10. d4 b5 11. Bc2 Bg4 12. h3 Bh5 13. d5 Ne7 14. Nf1 h6
+15. a4 c6 16. dxc6 Nxc6 17. Ng3 Bxf3 18. Qxf3 b4 19. Nf5 bxc3 20. bxc3 Na5
+21. Rd1 Re6 22. Ba3 g6 23. Ne3 Kg7 24. Bb4 Ra7 25. Rab1 Re8 26. Rd2 Nc6 27.
+Bc5 Rd7 28. Bb6 Qa8 29. a5 Rc8 30. Rbd1 Nb8 31. Nd5 Nxd5 32. Rxd5 Qc6 33.
+R5d3 Rb7 34. Bb3 Qe8 35. Bd5 Re7 36. Qe2 Nd7 37. Rf3 Nc5 38. Ra1 Na4 39.
+Qc2 Nc5 40. Qe2 Na4 41. Qxa6 Nxc3 42. Qd3 Nxd5 43. Qxd5 Qc6 44. Rb3 Qxd5
+45. exd5 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.16"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2775"]
+[EventDate "2012.07.13"]
+[ECO "C19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 d4 13. Nxd4 Nxd4
+14. Qxd4 Bd7 15. Rg1 Nf5 16. Qf2 Qc6 17. Bd3 Qd5 18. Rb1 Bc6 19. Rb3 O-O-O
+20. Rxc3 Kb8 21. g4 Nd4 22. Rg3 Qh1+ 23. Bf1 b6 24. Bb2 Be4 25. a4 Rd5 26.
+Ba3 Rc8 27. Bd6+ Kb7 28. Rxc8 Nf3+ 29. Ke2 Rd2+ 30. Ke3 Kxc8 31. Rg1 Nxg1
+32. Kxd2 Nf3+ 33. Kc3 Nxh2 34. Be2 Qa1+ 35. Kd2 Qh1 36. Qg3 Nf1+ 37. Bxf1
+Qxf1 38. Qe3 Qg2+ 39. Qe2 Qxe2+ 40. Kxe2 Bxc2 41. a5 bxa5 42. Kd2 Bg6
+1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.16"]
+[Round "4"]
+[White "Naiditsch,A"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2799"]
+[EventDate "2012.07.13"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Bd6 8. Nc3 Qh4 9. g3 Nxc3 10. bxc3 Qg4 11. Re1+ Kf8 12. Be2 Qg6 13. c4 dxc4
+14. Bxc4 h5 15. Qf3 h4 16. Qxb7 Re8 17. Rxe8+ Bxe8 18. Bd3 Qh5 19. Qe4 hxg3
+20. hxg3 Qd1+ 21. Bf1 Qh5 22. Bd3 Qd1+ 23. Bf1 Qh5 24. Bd3 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.16"]
+[Round "4"]
+[White "Ponomariov,R"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2779"]
+[EventDate "2012.07.13"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nxe5 8. Rxe5 O-O 9. Nc3 Bf6 10. Re1 c6 11. d4 Nf5 12. d5 d6 13. Ne4 Be7 14.
+c3 Nh4 15. g3 Ng6 16. f4 f5 17. Nf2 c5 18. Bd2 Bf6 19. Qc2 Ne7 20. c4 Kh8
+21. a4 Bd7 22. Bd3 Qc7 23. Kg2 Rae8 24. Nh3 b6 25. Bc3 Bxc3 26. Qxc3 Ng8
+27. Ng5 Nf6 28. b3 h6 29. Nf3 Kh7 30. h3 Qd8 31. Ra2 Rxe1 32. Qxe1 Re8 33.
+Re2 Rxe2+ 34. Qxe2 g6 35. Nd2 Kg7 36. Nb1 Kf7 37. Nc3 Nh5 38. Qe3 Qf6 39.
+Be2 Ng7 40. Kf2 g5 41. Bf3 g4 42. Bg2 h5 43. h4 a5 44. Ke1 Qe7 45. Qxe7+
+Kxe7 46. Bf1 Kf6 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.16"]
+[Round "4"]
+[White "Gustafsson,J"]
+[Black "Bartel,Mat"]
+[Result "1/2-1/2"]
+[WhiteElo "2629"]
+[BlackElo "2674"]
+[EventDate "2012.07.13"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 a6 6. Qc2 c5 7. cxd5 exd5 8.
+Be2 Be6 9. O-O Nc6 10. Rd1 cxd4 11. Nxd4 Nxd4 12. Rxd4 Bc5 13. Rd1 Qe7 14.
+Bf3 O-O 15. Nxd5 Nxd5 16. Bxd5 Bxd5 17. Rxd5 Rac8 18. Bd2 Bxe3 19. Bc3 Bb6
+20. Qf5 Qe6 21. Qf3 Rfe8 22. g3 Qe2 23. Kg2 Qxf3+ 24. Kxf3 Re7 25. Rad1 f6
+26. Rd7 Rc7 27. Rxc7 Rxc7 28. Rd8+ Kf7 29. Bd4 Bxd4 30. Rxd4 Ke6 31. Ke3
+Rc2 32. Rb4 b5 33. a4 bxa4 34. Rxa4 Rxb2 35. Rxa6+ 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.16"]
+[Round "4"]
+[White "Fridman,D"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2644"]
+[EventDate "2012.07.13"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Nc6 6. Bg2 d5 7. cxd5 Nxd5 8.
+Bd2 cxd4 9. Nxd4 Nxd4 10. Nxd5 Bxd2+ 11. Qxd2 e5 12. Nc3 O-O 13. Rd1 Bf5
+14. e3 Nc2+ 15. Kf1 Nb4 16. a3 Nc6 17. Qxd8 Rfxd8 18. Ke2 Kf8 19. Bd5 Rac8
+20. Rd2 Ne7 21. Bf3 Rxd2+ 22. Kxd2 Rd8+ 23. Kc1 b6 24. Rd1 Rxd1+ 25. Kxd1
+Nc8 26. Bd5 Nd6 27. Kd2 Ke7 28. f3 h6 29. b3 Bd7 30. Kd3 f6 31. Kd2 Nb5 32.
+Nxb5 Bxb5 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.17"]
+[Round "5"]
+[White "Karjakin,Sergey"]
+[Black "Fridman,D"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2655"]
+[EventDate "2012.07.13"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8.
+O-O Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4 12. Ndb5 Ba5 13. Rb1 Qxc2
+14. Rb3 Ne7 15. Nd6+ Kf8 16. Nxb7 Bb6 17. Nd6 Ba5 18. Bf3 Bd3 19. Qc1 Qxc1
+20. Rxc1 Ng6 21. Nxd5 Nxe5 22. Nf4 Nxf3+ 23. gxf3 Bg6 24. Rb7 Bb6 25. Rc8+
+Rxc8 26. Nxc8 Bd4 27. Rb8 Be5 28. Ra8 Bxf4 29. Nxa7+ Ke7 30. Rxh8 Kd7 31.
+Nb5 Be5 32. a4 Kc6 33. Nc3 Bc2 34. a5 Bg6 35. Ne4 Kb5 36. Ra8 h6 37. Kg2 f5
+38. Nd2 Bd6 39. a6 Bf4 40. Nc4 Bh5 41. a7 Ka6 42. Na5 Bc7 43. Rc8 Kxa7 44.
+Rxc7+ Kb6 45. Rxg7 Kxa5 46. Rh7 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.17"]
+[Round "5"]
+[White "Kramnik,V"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2726"]
+[EventDate "2012.07.13"]
+[ECO "D27"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Bxc5
+8. Qe2 Nc6 9. e4 b5 10. Bb3 Bb7 11. Nc3 Nd4 12. Nxd4 Bxd4 13. e5 Nd5 14.
+Nxd5 Bxd5 15. Rd1 Bxb3 16. axb3 Qb6 17. Bd2 O-O 18. Ba5 Qa7 19. Rd2 f6 20.
+exf6 Rxf6 21. Rxd4 Qxd4 22. Bc3 Qf4 23. Bxf6 Qxf6 24. Rc1 Qf5 25. h3 Qd5
+26. Qe3 h6 27. b4 Rf8 28. f3 Rd8 29. Kh1 Kh8 30. Re1 Qd4 31. Qc3 Qxc3 32.
+bxc3 Rd3 33. Rxe6 Rxc3 34. Rxa6 Rc4 35. Rb6 Rxb4 36. f4 Rxf4 37. Rxb5
+1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.17"]
+[Round "5"]
+[White "Meier,Geo"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2730"]
+[EventDate "2012.07.13"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Bxc6 bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qa4 e5 12. dxe5 Qxe5 13. Qxc4 Be6
+14. Qc2 Bf5 15. Qd2 Bh3 16. Re1 Rad8 17. Qc3 Qd5 18. f3 Rfe8 19. Na3 Qb7
+20. Qb3 Qa6 21. Qb5 Qe6 22. Qb3 Qa6 23. Qb5 Qe6 24. Qb3 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.17"]
+[Round "5"]
+[White "Bartel,Mat"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteElo "2674"]
+[BlackElo "2700"]
+[EventDate "2012.07.13"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. h3 Be7 6. Nc3 O-O 7. O-O Nd4 8.
+Nxd4 exd4 9. Ne2 c5 10. c3 a6 11. Ba4 dxc3 12. bxc3 c4 13. Bc2 cxd3 14.
+Qxd3 Qa5 15. Nd4 Bd7 16. f4 Rfc8 17. Bd2 d5 18. e5 Ne4 19. Rae1 Bc5 20.
+Rxe4 Bf5 21. Bb3 Bxe4 22. Qe3 b5 23. f5 Re8 24. f6 g6 25. Qh6 Bf8 26. Qf4
+Qc7 27. e6 Qxf4 28. Rxf4 Rxe6 29. Nxe6 fxe6 30. Rxe4 dxe4 31. Bxe6+ Kh8 32.
+Be3 h5 33. Bd4 Rd8 34. Kf2 b4 35. Ke2 Kh7 36. Bb3 bxc3 37. Bxc3 Rd3 38. Bd2
+Rg3 39. Kf2 h4 40. Bc4 Bh6 41. Bb4 Rg5 42. f7 e3+ 43. Ke1 Rf5 44. Be6 Rf2
+45. a3 Bg7 46. Bc4 a5 47. Be7 Bc3+ 48. Kd1 Rd2+ 49. Ke1 Rxg2+ 50. Kd1 Rd2+
+51. Ke1 Rf2+ 52. Kd1 e2+ 53. Bxe2 Rxf7 54. Bxh4 Rd7+ 55. Kc1 Rc7 56. Kd1
+Bb2 57. a4 Ba3 58. Bb5 Bb4 59. Ke2 Rc3 60. Bd7 Kh6 61. Bf6 Rc2+ 62. Kf3 Be1
+63. Bd4 Kh5 64. Bg4+ Kg5 65. Bd7 Rc4 66. Be5 Rb4 67. Bd6 Rb3+ 68. Ke4 Bb4
+69. Bc7 Kh4 70. Bd8+ g5 71. Bb6 Be1 72. Be3 Rb7 73. Bb5 Rf7 74. Bc4 Rf8 75.
+Bb5 Bb4 76. Bd7 Rf7 77. Bg4 Be1 78. Kd3 Re7 79. Bc5 Rb7 80. Ke2 Bg3 81. Be3
+Rb2+ 82. Kf3 Rb3 83. Ke2 Rb4 84. Bd7 Bf4 85. Bf2+ Kh5 86. Be8+ Kh6 87. Kf3
+Kg7 88. Bd7 Bc7 89. Be1 Rf4+ 90. Ke3 Rf7 91. Bc3+ Kf8 92. Bg4 Ke7 93. Kd3
+Rf4 94. Bd4 Kd6 95. Bd1 Rf1 96. Be2 Rh1 97. Bg4 Bd8 98. Kc2 Rf1 99. Kd3 Kd5
+100. Bc3 Kc5 101. Be2 Rb1 102. Bg4 Rb3 103. Kd2 Ra3 104. Bd7 Kd6 105. Bb5
+Ra2+ 106. Ke3 Rh2 107. Bf1 Kd5 108. Bd2 g4 109. h4 Bb6+ 110. Kd3 g3 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.17"]
+[Round "5"]
+[White "Caruana,F"]
+[Black "Gustafsson,J"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2629"]
+[EventDate "2012.07.13"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
+Re1 b5 9. Bc2 d5 10. Nbd2 dxe4 11. dxe4 Be6 12. Qe2 Bc5 13. b4 Ba7 14. a4
+Nh5 15. Nf1 Bc4 16. Qd1 Qf6 17. Bg5 Qg6 18. Ne3 Bxe3 19. Bxe3 Rad8 20. Qc1
+Rfe8 21. axb5 axb5 22. Ra6 Rd6 23. h3 Nd4 24. Nxe5 Nf3+ 25. Nxf3 Rxa6 26.
+e5 Qc6 27. Nd4 Qa8 28. g4 Rxe5 29. gxh5 Rxh5 30. Bf4 g6 31. Qe3 Ra1 32. Bd1
+c5 33. bxc5 Rxc5 34. Bh6 Rc8 35. Nf5 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.19"]
+[Round "6"]
+[White "Leko,P"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2779"]
+[EventDate "2012.07.13"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Bd7 9. Qxc4 Bc6 10. Bg5 Bd5 11. Qd3 c5 12. Nc3 Bc6 13. Rfd1 Qa5 14. Ne5
+Bxg2 15. Kxg2 cxd4 16. Qxd4 Rd8 17. Qc4 Qxe5 18. Rxd8+ Bxd8 19. Bf4 Qa5 20.
+Qc8 Qb6 21. f3 g5 22. a5 Nc6 23. Qxa8 Qxb2 24. Bxg5 Kg7 25. Rd1 Qxc3 26.
+Rxd8 Nxd8 27. Qxd8 Nd5 28. e4 Ne3+ 29. Bxe3 Qxe3 30. g4 Qe2+ 31. Kg3 Qe1+
+32. Kg2 Qe2+ 33. Kg3 Qe1+ 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.19"]
+[Round "6"]
+[White "Fridman,D"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2799"]
+[EventDate "2012.07.13"]
+[ECO "D93"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. dxc5 Ne4 8.
+Rc1 Nd7 9. cxd5 Qa5 10. Nd4 Nxc3 11. bxc3 Qxa2 12. Qb3 Qxb3 13. Nxb3 a5 14.
+c6 Nf6 15. d6 bxc6 16. dxe7 Re8 17. Nd4 Bd7 18. Bd6 Ne4 19. Ba3 c5 20. Bd3
+Rxe7 21. Bxe4 Rxe4 22. Bxc5 Rc8 23. Ba3 f5 24. g3 g5 25. Kd2 Rce8 26. Rhe1
+f4 27. exf4 Rxe1 28. Rxe1 Rxe1 29. Kxe1 gxf4 30. Kd2 Kf7 31. Kd3 fxg3 32.
+hxg3 h5 33. f4 Bf6 34. Kc4 h4 35. gxh4 Bxh4 36. Nf3 Bf6 37. Ne5+ Bxe5 38.
+fxe5 Ke6 39. Bd6 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.19"]
+[Round "6"]
+[White "Ponomariov,R"]
+[Black "Bartel,Mat"]
+[Result "0-1"]
+[WhiteElo "2726"]
+[BlackElo "2674"]
+[EventDate "2012.07.13"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
+Re1 b5 9. Bc2 Nd7 10. d4 Bb7 11. Nbd2 Bf6 12. Nf1 Re8 13. Ne3 Nb6 14. Ng4
+Bc8 15. h3 Bxg4 16. hxg4 g6 17. d5 Ne7 18. g3 Qd7 19. g5 Bg7 20. Kg2 c6 21.
+dxc6 Qxc6 22. Nh2 d5 23. exd5 Nexd5 24. Be4 Rad8 25. Qf3 Qe6 26. Ng4 Na4
+27. Rd1 Nc7 28. Rxd8 Rxd8 29. Bc2 Nc5 30. Be3 Nd3 31. Rd1 e4 32. Nf6+ Bxf6
+33. Qxf6 Qxf6 34. gxf6 Nd5 35. Bd4 Nxb2 36. Re1 e3 37. Be4 exf2 38. Kxf2 h5
+39. Kf3 Nc7 40. Bb7 Rb8 41. Re7 Rxb7 42. Be5 Rb6 43. Rxc7 Nc4 44. Bd4 Re6
+45. Kf4 Nd6 46. Ra7 Nf5 47. Be5 Nxg3 48. Re7 Nf5 49. Rd7 Nh6 50. Re7 Ng4
+51. Bd4 Kf8 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.19"]
+[Round "6"]
+[White "Gustafsson,J"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteElo "2629"]
+[BlackElo "2700"]
+[EventDate "2012.07.13"]
+[ECO "E94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8.
+Be3 Ng4 9. Bg5 Qe8 10. Re1 exd4 11. Nxd4 Qe5 12. Nf3 Qc5 13. Bh4 Be6 14.
+Nd2 h5 15. Nb3 Qb6 16. Bxg4 Bxg4 17. Qd3 Nb4 18. Qb1 a5 19. Nd2 Qd4 20. Bg5
+Qd3 21. Nd5 Qxb1 22. Raxb1 Nxd5 23. cxd5 a4 24. Rec1 Rfc8 25. Be3 Be2 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.19"]
+[Round "6"]
+[White "Caruana,F"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2644"]
+[EventDate "2012.07.13"]
+[ECO "C11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8.
+Qd2 O-O 9. Be2 a6 10. O-O b5 11. a3 Bb7 12. Kh1 Qc7 13. dxc5 Nxc5 14. Qe1
+f6 15. Bxc5 Bxc5 16. Bd3 f5 17. Ne2 d4 18. b4 Bb6 19. a4 Qe7 20. axb5 axb5
+21. Rb1 Ra2 22. Nc1 Ra4 23. Bxb5 Rxb4 24. Nd3 Rxb1 25. Qxb1 Rc8 26. Bc4 Na5
+27. Ba2 Rc6 28. Ng5 Bd8 29. Qb4 Bc8 30. Qxd4 h6 31. Nf3 Rxc2 32. Nb4 Nc6
+33. Nxc6 Rxc6 34. Qa4 Bd7 35. Rd1 Rc1 36. Qb3 Qc5 37. Qd3 Rxd1+ 38. Qxd1
+Bb6 39. h3 Bc8 40. Qa4 Kf7 41. Kh2 Ke7 42. h4 Bd7 43. Qd1 Qb4 44. Qd6+ Qxd6
+45. exd6+ Kxd6 46. Ne5 Bc8 47. Nc4+ Kc5 48. Nxb6 Kxb6 49. Kg3 Kc5 50. Kf2
+Kd4 51. Bb3 e5 52. fxe5 Kxe5 53. g3 f4 54. Bd1 g5 55. hxg5 hxg5 56. gxf4+
+Kxf4 57. Bf3 g4 58. Bxg4 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.20"]
+[Round "7"]
+[White "Naiditsch,A"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2726"]
+[EventDate "2012.07.13"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c4 O-O 8.
+h3 Nd7 9. Be3 Bf6 10. Nc3 Nd4 11. Bxd7 Bxd7 12. Nd5 b5 13. c5 dxc5 14. Rc1
+c6 15. Nxf6+ Qxf6 16. Rxc5 Nxf3+ 17. Qxf3 Qxf3 18. gxf3 Rae8 19. Kh2 f5 20.
+Rg1 Rf6 21. d4 exd4 22. Bxd4 Rg6 23. Rxg6 hxg6 24. Be5 Kf7 25. h4 Rh8 26.
+Kg3 Rh5 27. Bf4 fxe4 28. Rxh5 gxh5 29. fxe4 Be6 30. a3 c5 31. Bd6 b4 32. a4
+a5 33. Bxc5 Bd7 34. Bb6 Bxa4 35. Bxa5 b3 36. Kf4 g6 37. Bc3 Bd7 38. Kg5 Bg4
+39. f4 Bf3 40. f5 Bxe4 41. fxg6+ Bxg6 42. Kf4 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.20"]
+[Round "7"]
+[White "Kramnik,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2799"]
+[BlackElo "2730"]
+[EventDate "2012.07.13"]
+[ECO "E01"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 c6 7. O-O Nbd7 8.
+Qb3 O-O 9. Rc1 Nb6 10. Ba5 dxc4 11. Qd1 Qd5 12. Bc3 Qb5 13. a4 Qa6 14. Nbd2
+Nbd5 15. Ne5 c5 16. Ndxc4 Nxc3 17. bxc3 Nd7 18. Qb3 Rb8 19. Qb5 Qxb5 20.
+axb5 cxd4 21. cxd4 Nxe5 22. Nxe5 f6 23. Nc4 Bd7 24. b6 axb6 25. Nxb6 Be8
+26. Rab1 Bg6 27. Ra1 Rfd8 28. e3 Bd3 29. Bh3 f5 30. Bf1 Bxf1 31. Kxf1 Rd6
+32. Rcb1 Bd8 33. Nc4 Rd7 34. Ne5 Rc7 35. Ra6 b6 36. Kg2 Bf6 37. Nd3 Rcb7
+38. Rb5 Bd8 39. Re5 Re7 40. Nf4 Kf7 41. Nd3 Rc8 42. Rb5 Kf6 43. h4 g6 44.
+Kf3 h5 45. Ra2 Rb7 46. Ne5 Kg7 47. Ke2 Kf6 48. Kd3 Rbc7 49. Kd2 Rb7 50. Kd3
+Rbc7 51. Rb3 Rb7 52. Nc4 Bc7 53. Rb5 Rcb8 54. Rab2 Ra7 55. Rc2 Ke7 56. e4
+fxe4+ 57. Kxe4 Rd8 58. Ne3 Rd7 59. Rc6 Ra4 60. Nc4 Kf7 61. Rb3 Ra2 62. f4
+Ra4 63. Ke3 Ra1 64. Nd2 Ke7 65. Nf3 Ra7 66. Rb5 Ra5 67. Rxa5 bxa5 68. Ke4
+Bd6 69. Ra6 Rb7 70. Rxa5 Bb8 71. Ra6 Rb3 72. Ng5 Rxg3 73. Rxe6+ Kd7 74.
+Rxg6 Rg4 75. Rg7+ Kc8 76. Ne6 Rxh4 77. Rh7 Bd6 78. Kd5 Bxf4 79. Kc6 Kb8 80.
+Kb6 Kc8 81. Kc6 Kb8 82. Rb7+ Ka8 83. Rb5 Rg4 84. Ra5+ Kb8 85. Rxh5 Bg3 86.
+Rh8+ Ka7 87. Rh7+ Kb8 88. Rb7+ Kc8 89. Rf7 Kb8 90. d5 Rc4+ 91. Nc5 Rc2 92.
+Rb7+ Ka8 93. Rb5 Bh2 94. Rb1 Ka7 95. Rb7+ Ka8 96. Rg7 Kb8 97. Rg8+ Ka7 98.
+Rg7+ Kb8 99. Rg6 Ka7 100. d6 Bxd6 101. Rxd6 Rc1 102. Rd2 Kb8 103. Ra2 Rc3
+104. Rb2+ Kc8 105. Re2 Kd8 106. Kd6 Rc1 107. Nb7+ Kc8 108. Re7 Rd1+ 109.
+Kc6 Rc1+ 110. Nc5 Kd8 111. Re2 Rc3 112. Kd6 Rc1 113. Ne6+ Kc8 114. Rd2 Rc3
+115. Nc5 Rc1 116. Re2 Kd8 117. Re3 Rc2 118. Ne6+ Kc8 119. Rd3 Rc1 120. Rd5
+Rc2 121. Rd1 Rc3 122. Nf4 Rb3 123. Rc1+ Kb7 124. Nd5 Rb2 125. Rc7+ Kb8 126.
+Rh7 Rb1 127. Nc3 Rb6+ 128. Kc5 Rb3 129. Ne4 Rb7 130. Rh8+ Kc7 131. Nd6 Rb1
+132. Rh7+ Kd8 133. Nb7+ Ke8 134. Kc6 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.20"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2775"]
+[EventDate "2012.07.13"]
+[ECO "B42"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. O-O Nc6
+8. Qg4 Nf6 9. Qg3 d6 10. Kh1 e5 11. Nc3 Nh5 12. Qf3 Qh4 13. g3 Qg4 14. Qxg4
+Bxg4 15. Nd5 Rc8 16. Kg2 Be6 17. Nd2 Nf6 18. Nc4 Bc5 19. Nxf6+ gxf6 20. c3
+h5 21. h4 Ne7 22. Ne3 d5 23. exd5 Nxd5 24. Nf5 Rg8 25. Be4 Rd8 26. Re1 Rd7
+27. Bh6 Nf4+ 28. Bxf4 exf4 29. b4 Bb6 30. Rad1 fxg3 31. fxg3 Rxd1 32. Rxd1
+Bc7 33. c4 Rg4 34. Kf3 Bxf5 35. Bxf5 Rxc4 36. a3 Rc3+ 37. Rd3 Rxd3+ 38.
+Bxd3 Kf8 39. Be4 b6 40. a4 b5 41. axb5 axb5 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.20"]
+[Round "7"]
+[White "Bartel,Mat"]
+[Black "Fridman,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2674"]
+[BlackElo "2655"]
+[EventDate "2012.07.13"]
+[ECO "A13"]
+
+1. c4 e6 2. Nf3 d5 3. g3 dxc4 4. Qa4+ Nd7 5. Qxc4 a6 6. d3 c5 7. Bg2 Ngf6
+8. Qc2 b5 9. a4 Bb7 10. O-O Be7 11. Nc3 Qb6 12. Qb3 Nd5 13. axb5 axb5 14.
+Rxa8+ Bxa8 15. Bg5 Nxc3 16. Qxc3 Bxg5 17. Nxg5 O-O 18. Ne4 Bb7 19. Ra1 f5
+20. Ng5 Bxg2 21. Kxg2 Qc6+ 22. Kg1 h6 23. Nf3 Ra8 24. Rc1 Qd5 25. Nh4 g5
+26. Nf3 Ra4 27. Nd2 g4 28. Qc2 Qe5 29. Nc4 Qd4 30. Na3 Qb4 31. d4 cxd4 32.
+Qc8+ Nf8 33. Qe8 Ra7 34. Rc8 Kg7 35. Nxb5 Rf7 36. Kf1 d3 37. exd3 Qd2 38.
+Qc6 Qxd3+ 39. Kg2 f4 40. gxf4 Ng6 41. Qc3+ e5 42. Qxd3 Nxf4+ 43. Kg3 Nxd3
+44. Rc7 Nxb2 45. Kxg4 Nd3 46. Rxf7+ Kxf7 47. Kf5 Nxf2 48. Kxe5 Ng4+ 49. Kf4
+Nxh2 50. Nd6+ Kg6 51. Nf5 Nf3 52. Nxh6 Kxh6 53. Kxf3 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.20"]
+[Round "7"]
+[White "Meier,Geo"]
+[Black "Gustafsson,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2629"]
+[EventDate "2012.07.13"]
+[ECO "B13"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5
+8. Qb3 Bxf3 9. gxf3 e6 10. Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ Ke7 13. Qxb5
+Qd7 14. Nxd5+ Qxd5 15. Bg5+ f6 16. Qxd5 exd5 17. Be3 Ke6 18. O-O-O Bb4 19.
+a3 Rhc8+ 20. Kb1 Bc5 21. Rhe1 Bxe3 22. Rxe3+ Kd6 23. Rde1 Rc4 24. Re6+ Kc5
+25. Rg1 Rh4 26. Rc1+ Rc4 27. Rg1 Rh4 28. Rc1+ Rc4 29. Rd1 a5 30. Re7 Rh4
+31. Rd7 Rxh2 32. R1xd5+ Kc6 33. R5d6+ Kc5 34. Rd2 Rg2 35. a4 Kc6 36. R7d6+
+Kc7 37. R6d3 Rb8 38. Rd5 Rg5 39. Rxg5 fxg5 40. Rd5 h6 41. Rxa5 Rb4 42. Ra7+
+Kb8 43. Rxg7 Rxa4 44. Rg6 Rh4 45. Kc1 Rh2 46. Kd2 Rxf2+ 47. Ke3 Rxb2 48.
+Rxh6 Kc7 49. Rg6 Rb5 50. Kf2 Kd7 51. Kg3 Rf5 52. Kg4 Rf4+ 53. Kxg5 Rxf3
+1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.21"]
+[Round "8"]
+[White "Caruana,F"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2799"]
+[EventDate "2012.07.13"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. c3 O-O 7. Nbd2 Ne7 8.
+d4 exd4 9. cxd4 Bb6 10. b3 d5 11. e5 Ne4 12. Bd3 Bf5 13. Qe2 Nc6 14. Bb2
+Nxd2 15. Qxd2 Be4 16. Be2 f6 17. b4 fxe5 18. dxe5 Kh8 19. b5 Ne7 20. Ng5
+Ng6 21. g3 Qe7 22. e6 Rf5 23. Nxe4 dxe4 24. Qd7 Raf8 25. Qxe7 Nxe7 26. Ba3
+Re8 27. Rad1 h5 28. Rd7 Nd5 29. Rf7 Nf6 30. Bc4 Bc5 31. Bb2 Re7 32. Bd4 Bd6
+33. Re1 b6 34. Rf8+ Kh7 35. Rxe4 Rxf2 36. Kxf2 Nxe4+ 37. Kg2 Nc5 38. Ra8
+Nxe6 39. Bd3+ Kh6 40. h4 g6 41. Rh8+ Rh7 42. Rg8 Rg7 43. Bxg7+ Kh7 44. Re8
+Nxg7 45. Re3 Kh6 46. a4 Kh7 47. Kh3 Kh6 48. Bc2 Kh7 49. g4 hxg4+ 50. Kxg4
+Kh6 51. Re2 Bb4 52. Re5 Nh5 53. Re6 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.21"]
+[Round "8"]
+[White "Meier,Geo"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2779"]
+[EventDate "2012.07.13"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+Bd2 Nbd7 9. Rc1 Bd6 10. g3 Qe7 11. Qb3 Rb8 12. Bg2 O-O 13. O-O b5 14. c5
+Bc7 15. f4 a5 16. Qc2 a4 17. h3 Nh7 18. e4 f5 19. e5 g5 20. Ne2 g6 21. g4
+Kh8 22. h4 gxh4 23. g5 Kg7 24. Kf2 Rh8 25. Rh1 Nhf8 26. Rh3 Ra8 27. Rch1
+Ba5 28. Be3 Ra7 29. Nc1 Nb8 30. Kf1 Qd8 31. Bf3 Kg8 32. Rxh4 Rxh4 33. Rxh4
+Qe7 34. Bd1 Na6 35. Rh2 Qb7 36. a3 Nb8 37. Nd3 Qa8 38. Qb1 Kf7 39. Bc2 Bd8
+40. Ke2 Ke8 41. Kf3 Rh7 42. Rxh7 Nxh7 43. Qh1 Nf8 44. Qh6 Qa7 45. Bd2 Qh7
+46. Qxh7 Nxh7 47. b3 axb3 48. Bxb3 Kd7 49. a4 bxa4 50. Bxa4 Kc8 51. Ke2 Kb7
+52. Kd1 Nf8 53. Kc2 Na6 54. Kb3 Nb8 55. Kc2 Na6 56. Kb3 Nb8 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.21"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Bartel,Mat"]
+[Result "1-0"]
+[WhiteElo "2730"]
+[BlackElo "2674"]
+[EventDate "2012.07.13"]
+[ECO "C18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 dxc3 11. f4 Nbc6 12. h4 Bd7 13. h5 O-O-O 14.
+Qd3 Nf5 15. h6 Rg6 16. h7 Rh8 17. Be3 d4 18. Bf2 Qa5 19. Rh3 f6 20. Nxd4
+fxe5 21. Nxf5 exf5 22. Rd1 Rg7 23. Qxc3 Qxc3+ 24. Rxc3 exf4 25. Bxa7 Rhxh7
+26. Bc5 Be8 27. Bd6 Rh4 28. Kf2 Rd7 29. Rdd3 Bh5 30. Rc4 Rg4 31. Bxf4 Re7
+32. g3 Rg8 33. Ra4 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.21"]
+[Round "8"]
+[White "Fridman,D"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2700"]
+[EventDate "2012.07.13"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. Ne5 Bb4+ 7. Nc3 Nd5 8.
+O-O Nxc3 9. bxc3 Bxc3 10. Rb1 Qxd4 11. Qa4+ b5 12. Qa3 Qxe5 13. Bf4 Qf6 14.
+Bxc7 b4 15. Rxb4 Bxb4 16. Qxb4 a5 17. Qb5+ Bd7 18. Qb6 Na6 19. Bxa8 Nxc7
+20. Qxc7 Qd8 21. Qa7 O-O 22. Be4 Bc8 23. Qc5 Ba6 24. Rb1 Qd2 25. Bxh7+ Kxh7
+26. Qxf8 Qxa2 27. Rb8 Qa1+ 28. Kg2 Qe5 29. h4 c3 30. h5 Qxh5 31. Qh8+ Kg6
+32. Qxh5+ Kxh5 33. Rb3 Bxe2 34. Rxc3 a4 35. Rc7 Kg6 36. Ra7 Bd1 37. f4 f5
+38. Kf2 Kf6 39. Ke3 Bb3 40. Kd4 g5 41. Ra8 gxf4 42. gxf4 Bd1 43. Ra6 Bb3
+44. Ra8 Bd1 45. Ra6 Bb3 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.21"]
+[Round "8"]
+[White "Gustafsson,J"]
+[Black "Ponomariov,R"]
+[Result "0-1"]
+[WhiteElo "2629"]
+[BlackElo "2726"]
+[EventDate "2012.07.13"]
+[ECO "D46"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
+O-O dxc4 9. Bxc4 e5 10. Bb3 h6 11. h3 Re8 12. Bd2 e4 13. Nh4 Bb8 14. Nf5
+Nb6 15. Ng3 Bxg3 16. fxg3 Be6 17. g4 Bc4 18. Bxc4 Nxc4 19. Ne2 Nd6 20. Nc3
+Rc8 21. Be1 Nd5 22. Nxd5 cxd5 23. Qe2 Re7 24. Bh4 f6 25. Rac1 Rxc1 26. Rxc1
+Rc7 27. Qe1 Rxc1 28. Qxc1 Qc8 29. Qxc8+ Nxc8 30. Kf1 Kf7 31. Ke2 Kg6 32.
+Bg3 h5 33. gxh5+ Kxh5 34. Bc7 Ne7 35. Bd6 Nc6 36. b3 g5 37. g3 f5 38. Kd2
+f4 39. gxf4 gxf4 40. Bxf4 Kh4 41. Bd6 Kxh3 42. Ke2 Kg2 43. Bc5 a6 44. Bd6
+Nd8 45. Be5 Nf7 46. Bf4 Nd8 47. Be5 Kg1 48. Ke1 Nc6 49. Bd6 Na7 50. a4 Nc6
+51. b4 Kg2 52. Ke2 Na7 53. Bc5 Nc8 54. a5 Kg3 55. Bf8 Na7 56. Bd6+ Kg2 57.
+Bc5 Nb5 58. Bf8 Na3 59. Be7 Nc4 60. Bc5 Nb2 61. Be7 Nd3 62. Bd6 Nf2 63. Bf4
+Nh1 64. Kd2 Kf3 65. b5 axb5 66. Kc3 Nf2 67. Bg5 Nd1+ 68. Kb4 Nxe3 69. Kxb5
+Nc4 70. Kc5 e3 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.22"]
+[Round "9"]
+[White "Naiditsch,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2730"]
+[EventDate "2012.07.13"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O c5 7. c4 Nbc6 8.
+Na3 a6 9. dxc5 d4 10. Qa4 Ng6 11. Rd1 d3 12. b4 Be7 13. Bxd3 Bxd3 14. Qb3
+Ncxe5 15. Nxe5 Nxe5 16. Bb2 Qc7 17. Bxe5 Qxe5 18. Qxd3 O-O 19. Nc2 a5 20.
+Re1 Qb2 21. a3 Rfd8 22. Qe4 axb4 23. Rab1 Qf6 24. axb4 Ra2 25. Rf1 Rd2 26.
+Ne3 Rxf2 27. Qxb7 Qf4 28. Qxe7 Rxg2+ 29. Nxg2 Rxg2+ 30. Kxg2 Qg4+ 31. Kh1
+Qe4+ 32. Kg1 Qg4+ 33. Kf2 Qf4+ 34. Ke2 Qe4+ 35. Kd2 Qd4+ 36. Ke2 Qe4+ 37.
+Kd2 Qd4+ 38. Ke2 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.22"]
+[Round "9"]
+[White "Kramnik,V"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteElo "2799"]
+[BlackElo "2644"]
+[EventDate "2012.07.13"]
+[ECO "A16"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. e3 Nc6 5. d4 d5 6. cxd5 Nxd5 7. Bc4 cxd4
+8. exd4 Be7 9. O-O O-O 10. Re1 Bf6 11. Bb3 Nde7 12. Bf4 Bxd4 13. Nxd4 Nxd4
+14. Bc4 Nec6 15. Rc1 Qf6 16. Bc7 e5 17. Nd5 Qg5 18. f4 exf4 19. Bxf4 Qh4
+20. Bg3 Qd8 21. Nc7 Rb8 22. Nb5 Ra8 23. Bd6 Re8 24. Bxf7+ Kxf7 25. Qh5+ g6
+26. Qxh7+ Kf6 27. Nxd4 Nxd4 28. Qh4+ Kf7 29. Rc7+ Bd7 30. Qh7+ Kf6 31. Rf1+
+Ke6 32. Qxg6+ Kd5 33. Rc5+ 1-0
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.22"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "Fridman,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2655"]
+[EventDate "2012.07.13"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Rc1 b6 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. Bxe7 Qxe7 11. g3 Ba6 12. e3 Bb7 13. Bg2 c5 14.
+Ne5 c4 15. O-O b5 16. b3 Nd7 17. Nxd7 Qxd7 18. bxc4 dxc4 19. d5 b4 20. Rxc4
+Ba6 21. Rxb4 Bxf1 22. Bxf1 Rab8 23. Rg4 Rb1 24. Qxb1 Qxg4 25. Qb7 Qa4 26.
+Bb5 Qxa2 27. d6 a5 28. d7 a4 29. Qb6 Qb1+ 30. Kg2 Qe4+ 31. Kg1 Qb1+ 32. Kg2
+Qe4+ 33. Kg1 1/2-1/2
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.22"]
+[Round "9"]
+[White "Bartel,Mat"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2674"]
+[BlackElo "2775"]
+[EventDate "2012.07.13"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Qd2 Qxd2+ 12. Bxd2 e6 13. O-O b6
+14. Rbc1 Bb7 15. Rc7 Bxe4 16. Ng5 Bd5 17. Bb4 Rd8 18. Bb5 a6 19. Nxf7 axb5
+20. Nxd8 Na6 21. Rxg7+ Kxg7 22. Be7 b4 23. Rc1 Bxa2 24. Rc6 b5 25. h4 b3
+26. Ba3 Nb4 27. Nxe6+ Kg8 0-1
+
+[Event "40th GM"]
+[Site "Dortmund GER"]
+[Date "2012.07.22"]
+[Round "9"]
+[White "Karjakin,Sergey"]
+[Black "Gustafsson,J"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2629"]
+[EventDate "2012.07.13"]
+[ECO "B19"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14.
+Ne4 Nxe4 15. Qxe4 Nf6 16. Qe2 Qd5 17. Be3 Ng4 18. Bc1 Nf6 19. Ne5 Qe4 20.
+Qf1 c5 21. f3 Qh7 22. dxc5 Bxc5 23. Nd7 Nxd7 24. Rxd7 Rac8 25. g4 Bb6 26.
+Rh2 f5 27. Qe2 fxg4 28. Qxe6+ Kh8 29. Qxg4 Rce8 30. Rg2 Rg8 31. Bd2 Re5 32.
+a4 Ba5 33. Qd4 Rxh5 34. Bxa5 Rxa5 35. Rgxg7 1-0
+

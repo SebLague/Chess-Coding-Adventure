@@ -1,0 +1,587 @@
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.23"]
+[Round "1"]
+[White "Dominguez Perez,L"]
+[Black "Predojevic,B"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2651"]
+[EventDate "2008.05.23"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. f3 b5 10. O-O-O Be7 11. g4 b4 12. Nd5 Bxd5 13. exd5 Nb6 14. Na5
+Nbxd5 15. Nc4 h6 16. h4 Nxe3 17. Nxe3 d5 18. Nxd5 Nxd5 19. Qxd5 Qxd5 20.
+Rxd5 Bf6 21. Ra5 Ke7 22. Rxa6 Rxa6 23. Bxa6 Rd8 24. Bd3 Kd6 25. h5 Bg5+ 26.
+Kb1 Be3 27. Re1 Bd4 28. Be4 Ke6 29. Rd1 Rb8 30. Rd3 Rb6 31. Kc1 Kf6 32. c3
+bxc3 33. bxc3 Bc5 34. Rd7 Ke6 35. Bf5+ Kf6 36. Be4 Ke6 37. Rd8 Kf6 38. Kc2
+g6 39. a4 gxh5 40. gxh5 Bf2 41. Rd5 Ke6 42. a5 Ra6 43. Rb5 f5 44. Bd3 Rc6
+45. Kb3 Kf6 46. Rd5 Re6 47. a6 Kg5 48. Rd7 e4 49. fxe4 fxe4 50. Be2 Kf6 51.
+Rh7 Kg5 52. Rg7+ Kf6 53. Rg6+ Ke5 54. Kb4 Rd6 55. Kb5 Rd2 56. Bc4 Rc2 57.
+Rg2 e3 1-0
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.23"]
+[Round "1"]
+[White "Sokolov,Iv NED"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2774"]
+[EventDate "2008.05.23"]
+[ECO "E91"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Bg4 7. Be3 Nfd7 8.
+Rc1 c5 9. d5 a6 10. a4 Qb6 11. b3 Ne5 12. Nxe5 Bxe2 13. Nxe2 Bxe5 14. Nf4
+Qa5+ 15. Bd2 Qd8 16. h4 Nd7 17. h5 g5 18. Nd3 f6 19. Qg4 Kh8 20. a5 Bd4 21.
+Rh3 Rb8 22. Kf1 Qe8 23. Bc3 Bxc3 24. Rxc3 b6 25. axb6 Rxb6 26. Re3 Rb7 27.
+g3 Qf7 28. Rf3 h6 29. Kg2 Rfb8 30. Re3 Qg7 31. Qf5 Qh7 32. Qe6 Nf8 33. Qg4
+Qg7 34. Qf5 a5 35. Nc1 Nd7 36. Re2 Qf7 37. g4 Ne5 38. Ra2 Ra7 39. Nd3 Nxd3
+40. Rxd3 Kg7 41. Ra3 Kg8 42. Rd2 Qh7 43. Qf3 Rb4 44. Rda2 Rab7 45. Qd3 Qf7
+46. Ra1 Qe8 47. f3 e5 48. dxe6 Qxe6 49. Rxa5 Rxb3 50. Ra8+ Kg7 51. Qd5 Rb2+
+52. Kg3 Qxd5 53. cxd5 Rb8 54. Rxb8 Rxb8 55. Ra6 Rd8 56. Ra7+ Kg8 57. Rc7
+Ra8 58. Rc6 Rd8 59. f4 Rd7 60. Kf3 Kf7 61. e5 dxe5 62. fxe5 Rxd5 63. Rxf6+
+Kg7 64. Rg6+ Kh7 65. e6 Re5 66. Rf6 Kg7 67. Rf7+ 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.23"]
+[Round "1"]
+[White "Timofeev,Arty"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. Ne5 e6 6. Bf4 dxc4 7. Nxc4 b5 8.
+Ne5 Bb7 9. e3 c5 10. dxc5 Qxd1+ 11. Rxd1 Bxc5 12. Be2 Nbd7 13. O-O Nxe5 14.
+Bxe5 Ke7 15. g3 Rhd8 16. a3 Ne8 17. Nb1 Rxd1 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.24"]
+[Round "2"]
+[White "Movsesian,S"]
+[Black "Sokolov,Iv NED"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2690"]
+[EventDate "2008.05.23"]
+[ECO "C53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O Bb6 7. a4 a6 8.
+Nbd2 Ne7 9. Bb3 Ng6 10. Nc4 Ba7 11. h3 O-O 12. Re1 b5 13. Ne3 c6 14. Nf1 b4
+15. cxb4 Qb6 16. Qd2 Rb8 17. b5 axb5 18. a5 Qc7 19. Qc2 Ra8 20. Bg5 Nh5 21.
+Rec1 Bd7 22. Qd2 Nhf4 23. d4 h6 24. Bxf4 Nxf4 25. Ne3 exd4 26. Nf5 Bxf5 27.
+exf5 Nh5 28. Nxd4 Bxd4 29. Qxd4 c5 30. Qd2 Nf6 31. Bd1 Qd7 32. Bf3 Ra6
+1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.24"]
+[Round "2"]
+[White "Dominguez Perez,L"]
+[Black "Timofeev,Arty"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2664"]
+[EventDate "2008.05.23"]
+[ECO "B45"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 d6 6. Be3 Nf6 7. Qd2 Be7
+8. f3 O-O 9. O-O-O d5 10. Bb5 Nxd4 11. Qxd4 a6 12. Ba4 dxe4 13. Qe5 Bd7 14.
+Bxd7 Nxd7 15. Qxe4 Qc8 16. Na4 Nf6 17. Qe5 Qc6 18. Nb6 Rad8 19. h3 Bd6 20.
+Qd4 Nh5 21. Qc4 Bf4 22. Bxf4 Qxc4 23. Nxc4 Nxf4 24. Ne3 g5 25. c4 f5 26.
+Kc2 h5 27. b4 Kg7 28. c5 Kf6 29. Kb3 h4 30. Kc4 Ng6 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.24"]
+[Round "2"]
+[White "Predojevic,B"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2651"]
+[BlackElo "2774"]
+[EventDate "2008.05.23"]
+[ECO "C11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8.
+Ne2 Qb6 9. Qc1 g5 10. c3 cxd4 11. cxd4 Bb4+ 12. Kf2 f6 13. g3 g4 14. Nh4
+fxe5 15. fxe5 Ndxe5 16. dxe5 d4 17. Bf4 Rf8 18. Kg2 Bd7 19. h3 d3 20. hxg4
+dxe2 21. Bxe2 Nd4 22. Qe3 Bc5 23. b4 Qxb4 24. Rhb1 Qa5 25. Kh3 Nxe2 26.
+Qxe2 Bd4 27. Bh6 Rf2 28. Qe4 Bxa1 29. Rxa1 O-O-O 30. Bg5 Bc6 31. Rc1 Qd5
+32. Qxh7 Qxa2 33. Rxc6+ bxc6 34. Nf3 Rxf3 35. Bxd8 Kxd8 0-1
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.25"]
+[Round "3"]
+[White "Morozevich,A"]
+[Black "Movsesian,S"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. e3 b5 6. c5 Nbd7 7. Bd2 a5 8. Rc1
+Ba6 9. a3 Qc7 10. b4 axb4 11. axb4 g6 12. Bd3 Bg7 13. O-O O-O 14. Ne2 Bb7
+15. h3 Ra3 16. Bc3 Rfa8 17. Bb2 R3a6 18. Qb3 Ne8 19. Rfe1 e5 20. e4 dxe4
+21. Bxe4 Ndf6 22. Ng3 exd4 23. Nxd4 Rd8 24. Bf3 Raa8 25. Ndf5 gxf5 26. Nxf5
+Rd7 27. Nxg7 Kxg7 28. Qc3 Qf4 29. Re4 Qd2 30. Qe5 Ra2 31. Re2 Qh6 32. Rce1
+Rxb2 33. Qxb2 Nc7 34. Bg4 Rd3 35. Re7 Ncd5 36. Rxb7 Rd2 37. Qe5 1-0
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.25"]
+[Round "3"]
+[White "Sokolov,Iv NED"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "D16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8.
+O-O cxd4 9. exd4 Be7 10. Bg5 O-O 11. Re1 Bd7 12. Rc1 Rc8 13. Qe2 Nb4 14.
+Ne5 Be8 15. Rcd1 Nfd5 16. Bxe7 Nxe7 17. Qf3 Bc6 18. Qh3 Ned5 19. Bb3 b6 20.
+Ne4 Nf4 21. Qg3 Bd5 22. Bxd5 Nbxd5 23. Qb3 Qc7 24. Rd2 Ng6 25. Qg3 Rfd8 26.
+h4 Nde7 27. h5 Nxe5 28. dxe5 Rxd2 29. Nxd2 Rd8 30. Ne4 h6 31. Nd6 Nf5 32.
+Nxf5 exf5 33. b3 Qc6 34. Qe3 Qe6 35. Qc3 a5 36. Qe3 Rd5 37. Kh2 Rc5 38. Kg1
+Rd5 39. f4 Kh7 40. Kh2 Kg8 41. Qg3 Rd4 42. Re3 Qd5 43. e6 fxe6 44. Qg6 Rxf4
+45. Qe8+ Kh7 46. Qg6+ 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.25"]
+[Round "3"]
+[White "Timofeev,Arty"]
+[Black "Predojevic,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2651"]
+[EventDate "2008.05.23"]
+[ECO "D52"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 Nxd5
+8. Qd2 Bb4 9. Rc1 h6 10. Bh4 c5 11. a3 Bxc3 12. bxc3 b6 13. Bd3 Ba6 14. c4
+Qxd2+ 15. Nxd2 cxd4 16. exd4 Nf4 17. Be4 Rc8 18. Bg3 g5 19. h4 Ke7 20. hxg5
+hxg5 21. Rxh8 Rxh8 22. Bxf4 gxf4 23. Ke2 Rd8 24. Nb3 e5 25. Kf3 exd4 26.
+Nxd4 Ne5+ 27. Kxf4 Rxd4 28. Kxe5 Rxc4 29. Rxc4 Bxc4 30. f4 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.26"]
+[Round "4"]
+[White "Dominguez Perez,L"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2774"]
+[EventDate "2008.05.23"]
+[ECO "B48"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6
+8. O-O-O Be7 9. f3 O-O 10. g4 b5 11. g5 Ne8 12. h4 Ne5 13. h5 Bb7 14. g6
+Rc8 15. Kb1 b4 16. Na4 Nxf3 17. Nxf3 Bxe4 18. Nb6 Bxf3 19. Nxc8 Qxc8 20.
+Qxd7 Qxd7 21. Rxd7 Bxh1 22. gxh7+ Kxh7 23. Bd3+ Kg8 24. Rxe7 Nf6 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.26"]
+[Round "4"]
+[White "Predojevic,B"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2651"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "B81"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Bg2 a6 8.
+h3 Qc7 9. Qe2 Nc6 10. Be3 Nxd4 11. Bxd4 e5 12. Be3 Be6 13. O-O-O Rc8 14.
+Kb1 Be7 15. Nd5 Nxd5 16. exd5 Bd7 17. Be4 Bh4 18. Rhg1 Bg5 19. Qd2 Qd8 20.
+f4 exf4 21. Bxf4 Qf6 22. Bxg5 hxg5 23. Rde1 O-O 24. h4 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.26"]
+[Round "4"]
+[White "Timofeev,Arty"]
+[Black "Sokolov,Iv NED"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2690"]
+[EventDate "2008.05.23"]
+[ECO "A29"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 6. O-O O-O 7. e3 Bb4 8.
+Nd5 Ba5 9. d4 Bg4 10. h3 Bh5 11. g4 Bg6 12. dxe5 Nxe5 13. Nxe5 dxe5 14. b4
+Nxd5 15. bxa5 Nb4 16. Ba3 Qe7 17. a6 Rab8 18. axb7 c5 19. Bxb4 cxb4 20. Bd5
+Rfd8 21. Qf3 Bd3 22. Rfc1 e4 23. Qf4 Rxb7 24. Bxb7 Qxb7 25. f3 Re8 26. c5
+Bb5 27. c6 Bxc6 28. Qd6 Re6 29. Qd8+ Re8 30. Qd6 Re6 31. Qd8+ Re8 32. Qd6
+1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.27"]
+[Round "5"]
+[White "Sokolov,Iv NED"]
+[Black "Predojevic,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2651"]
+[EventDate "2008.05.23"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. O-O cxd4 13. Re1 Be7 14. Nxd4
+O-O 15. Qg4 Re8 16. Bh6 Bf8 17. Rad1 Qa5 18. Bb5 Rad8 19. Bg5 Be7 20. Nxe6
+Qxb5 21. Nxd8 Bxd8 22. Bxd8 Rxd8 23. b3 Qc6 24. e6 N7f6 25. exf7+ Kxf7 26.
+Qc4 Rc8 27. Rc1 Qxc4 28. Rxc4 Rxc4 29. bxc4 Nf4 30. f3 Nd7 31. Rd1 Ke7 32.
+Kf2 a5 33. g3 Ne6 34. Ke3 Bc6 35. Nb2 Ne5 36. f4 Ng4+ 37. Kd2 Nc5 38. Re1+
+Kd6 39. h3 Nf6 40. Ke3 h5 41. Rd1+ Kc7 42. Kd4 Nce4 43. Rd3 Nc3 44. a3 Be4
+45. axb4 Ne2+ 46. Ke3 Bxd3 47. Nxd3 Nxg3 48. bxa5 Nf5+ 49. Kf3 Nd4+ 50. Ke3
+Nc6 51. a6 Kb6 52. f5 Kxa6 53. Nc5+ Ka5 54. Ne6 Kb4 55. Nxg7 Kxc4 56. Kf4
+Kd5 57. Kg5 Ke5 58. Nxh5 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.27"]
+[Round "5"]
+[White "Morozevich,A"]
+[Black "Timofeev,Arty"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2664"]
+[EventDate "2008.05.23"]
+[ECO "B63"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O Nxd4 9. Qxd4 O-O 10. f3 a6 11. h4 b5 12. Kb1 Bb7 13. g4 Rc8 14.
+Bd3 Nd7 15. a3 Rc5 16. Be2 Rc6 17. Na2 f6 18. Bc1 Qb6 19. c3 Qxd4 20. cxd4
+d5 21. exd5 exd5 22. Bd3 Nb6 23. Rhe1 Bd6 24. Nb4 Rc7 25. Re6 Nc8 26. h5
+Re7 27. Bf5 Rfe8 28. Rxe7 Nxe7 29. Be6+ Kf8 30. Bd2 Rd8 31. Rc1 Ke8 32. f4
+Bc8 33. Bxc8 Rxc8 34. Rxc8+ Nxc8 35. Nxd5 Ne7 36. Nxe7 Kxe7 37. f5 Kd7 38.
+Kc2 Kc6 39. h6 gxh6 40. Bxh6 Kd5 41. Kd3 Bg3 42. b3 Bf2 43. Be3 Bg3 44. Bh6
+Bf2 45. Bg7 Bh4 46. a4 Bg5 47. Bf8 bxa4 48. bxa4 Bh4 49. Be7 Bg5 50. Bd8
+Bh4 51. Bc7 Bf2 52. Bb6 Bh4 53. Bc5 Bg5 54. Bb4 Bh4 55. Bd2 Bf2 56. Be3 Bh4
+57. Bg1 Bg3 58. Ke3 Bh4 59. Kf3 Bg5 60. Bf2 Bh6 61. Bh4 Bg7 62. Ke3 Bh6+
+63. Kd3 Bg7 64. Kc3 Ke4 65. d5 Kxd5 66. Kb4 Kc6 67. Kc4 Kd6 68. Be1 Bh6 69.
+Bg3+ Kc6 70. Bh4 Bg7 71. Kb4 Kb6 72. Bf2+ Kc6 73. Ka5 Kb7 74. Bd4 h6 75.
+Bc5 h5 76. gxh5 Bh6 77. Kb4 Kc6 78. Kc4 Kd7 79. Kd5 Bg5 80. Bd4 1-0
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.27"]
+[Round "5"]
+[White "Movsesian,S"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Be2 g6 8.
+O-O Bg7 9. Be3 O-O 10. Qd2 Bd7 11. Nb3 Na5 12. f3 Rc8 13. Rfd1 Re8 14. Nd4
+Qc7 15. Kh1 Red8 16. Bf1 Re8 17. Qf2 Qb8 18. Nb3 Nc4 19. Ba7 Qa8 20. Bxc4
+Rxc4 21. Bd4 Be6 22. a5 Rec8 23. h3 Qb8 24. Rd2 Rb4 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.29"]
+[Round "6"]
+[White "Movsesian,S"]
+[Black "Timofeev,Arty"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2664"]
+[EventDate "2008.05.23"]
+[ECO "B70"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. O-O O-O
+8. Re1 Nc6 9. Bb3 Bd7 10. h3 Nxd4 11. Qxd4 Bc6 12. Qd3 Nd7 13. Bg5 h6 14.
+Bh4 Nc5 15. Qd2 g5 16. Bg3 Bxc3 17. Qxc3 Nxe4 18. Qd3 d5 19. Be5 Nc5 20.
+Qg3 f6 21. Bd4 Nxb3 22. axb3 Qd7 23. f4 Rf7 24. Re3 Rg7 25. Rae1 Qc7 26.
+Qg4 Qxf4 27. Qxf4 gxf4 28. Rxe7 Rxe7 29. Rxe7 Re8 30. Rxe8+ Bxe8 31. Bxf6
+a5 32. Kf2 b5 33. Be5 Bg6 34. Bxf4 Bxc2 35. b4 axb4 36. Bxh6 d4 37. Bd2 Kf7
+38. Kf3 Ke6 39. Bxb4 Kd5 40. Kf4 Kc4 41. Be7 d3 42. Ke3 Bd1 43. Bf6 Be2 44.
+g4 Bf1 45. h4 Be2 46. g5 Kd5 47. Bc3 Ke6 48. Bd2 Ke5 49. b4 Bh5 50. Kxd3
+Kf5 51. Kd4 Kg6 52. Kc5 Be2 53. Be1 Kh5 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.29"]
+[Round "6"]
+[White "Morozevich,A"]
+[Black "Sokolov,Iv NED"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2690"]
+[EventDate "2008.05.23"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Bc5 6. Nxc6 bxc6 7. Bd3
+Ne7 8. O-O O-O 9. Bg5 f6 10. Bh4 d6 11. Nd2 Ng6 12. Bg3 f5 13. exf5 Bxf5
+14. Bxf5 Rxf5 15. a4 a6 16. Qb3+ Kh8 17. Qb7 Rb8 18. Qxa6 Rxb2 19. Ne4 h5
+20. h4 Rb6 21. Qc4 Qg8 22. Qe2 Rb8 23. Ng5 Nf8 24. Qxh5+ Nh7 25. Rae1 Bb6
+26. Re7 Rbf8 27. Kh2 R5f6 28. a5 1-0
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.29"]
+[Round "6"]
+[White "Predojevic,B"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2651"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "B22"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 e6 6. d4 cxd4 7. cxd4 d6 8.
+Qe2 Be7 9. O-O O-O 10. Rd1 Bd7 11. Nbd2 Qc7 12. Nf1 Rac8 13. Bxd5 exd5 14.
+Bf4 dxe5 15. Nxe5 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.30"]
+[Round "7"]
+[White "Timofeev,Arty"]
+[Black "Dominguez Perez,L"]
+[Result "0-1"]
+[WhiteElo "2664"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "B92"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Kh1 Nc6 10. f3 b5 11. Be3 Na5 12. Nxa5 Qxa5 13. Qd2 Qc7 14. a4
+b4 15. Nd5 Nxd5 16. exd5 Qa5 17. b3 Bd8 18. f4 Bf6 19. f5 e4 20. Rad1 Bc3
+21. Qc1 Re8 22. f6 Bxf6 23. Rxf6 gxf6 24. Bh6 Re5 25. Qf4 Qd8 26. Rf1 Bf5
+27. Qg3+ Bg6 28. h4 Rc8 29. c4 bxc3 30. h5 c2 31. hxg6 hxg6 32. Bc1 Rxd5
+33. Qe3 a5 34. Qxe4 Re5 35. Qd3 Qe7 36. Rf2 Re4 37. Kg1 Qe5 38. Qb5 Qa1 39.
+Rf1 Qd4+ 40. Kh2 Rc5 41. Qb8+ Kg7 0-1
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.30"]
+[Round "7"]
+[White "Morozevich,A"]
+[Black "Predojevic,B"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2651"]
+[EventDate "2008.05.23"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Qb6 6. Qd2 Nc6 7. e3 Bf5
+8. f3 e6 9. Rc1 Bb4 10. h4 h5 11. a3 Bxc3 12. Rxc3 O-O 13. Be2 Rfe8 14. Bd1
+e5 15. Bxe5 Nxe5 16. dxe5 Rxe5 17. Ne2 Rae8 18. Nd4 Bd7 19. O-O Qd6 20. Bb3
+R5e7 21. Rfc1 g6 22. Ba2 Kg7 23. Ne2 Bb5 24. Nf4 Qb6 25. Kf2 Bc4 26. b3 Bb5
+27. Bb1 Bc6 28. Rd1 a5 29. Qd4 Qd8 30. e4 Qd6 31. exd5 Bb5 32. Bd3 Bxd3 33.
+Rcxd3 Re5 34. b4 Re4 35. fxe4 Rxe4 36. Nxh5+ gxh5 37. Rg3+ Kh8 38. Qc3 axb4
+39. axb4 Re5 40. Kg1 Ng4 41. Rxg4 hxg4 42. Re1 f6 43. Rxe5 fxe5 44. Qc8+
+1-0
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.30"]
+[Round "7"]
+[White "Sokolov,Iv NED"]
+[Black "Movsesian,S"]
+[Result "0-1"]
+[WhiteElo "2690"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. Ne5 Nbd7 6. Bf4 dxc4 7. Nxc4 b5
+8. Ne5 Bb7 9. e3 e6 10. Qf3 Ra7 11. Bd3 c5 12. Qh3 Be7 13. Rd1 cxd4 14.
+exd4 Nb6 15. O-O b4 16. Ne2 O-O 17. Ng4 g6 18. Nh6+ Kg7 19. Be5 Nbd5 20. f4
+Bd6 21. Ng3 Bc6 22. f5 Bxe5 23. dxe5 Ng8 24. f6+ Kh8 25. Ng4 Qb6+ 26. Kh1
+Ne3 27. Nxe3 Qxe3 28. Rfe1 Qg5 29. Nf1 Rd7 30. Qg3 Qxg3 31. hxg3 Rfd8 32.
+Be2 h5 33. Rxd7 Rxd7 34. Bxa6 Bd5 35. Ne3 Bxa2 36. Rd1 Ra7 37. Rd6 Rc7 38.
+Bd3 Nh6 39. Ra6 Rc1+ 40. Kh2 Re1 41. Bxg6 fxg6 42. Ra8+ Kh7 43. Ra7+ Kg8
+44. Ra8+ Kf7 45. Ra7+ Ke8 46. Ra8+ Kd7 47. Ra7+ Kd8 48. Ra8+ Kc7 49. Ra7+
+Kb6 50. Rh7 Rxe3 51. Rxh6 Rxe5 52. Rxg6 Rf5 53. g4 hxg4 54. Kg3 Bd5 55.
+Kxg4 Bxg2 0-1
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.31"]
+[Round "8"]
+[White "Predojevic,B"]
+[Black "Timofeev,Arty"]
+[Result "1/2-1/2"]
+[WhiteElo "2651"]
+[BlackElo "2664"]
+[EventDate "2008.05.23"]
+[ECO "B22"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 Nb6 6. Bb3 d5 7. exd6 c4 8.
+Bc2 e5 9. O-O Bxd6 10. d3 cxd3 11. Qxd3 h6 12. Rd1 Bc7 13. Qe2 Qe7 14. b3
+f5 15. Ba3 Qf6 16. Nd4 Nxd4 17. cxd4 Kf7 18. Nc3 Bd7 19. Bc5 Rhe8 20. Bxb6
+Bxb6 21. Nd5 exd4 22. Qxe8+ Rxe8 23. Nxf6 Kxf6 24. Bd3 Ba5 25. Rac1 Bc3 26.
+Rc2 b5 27. Re2 Rxe2 28. Bxe2 Ke5 29. Bd3 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.31"]
+[Round "8"]
+[White "Dominguez Perez,L"]
+[Black "Sokolov,Iv NED"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2690"]
+[EventDate "2008.05.23"]
+[ECO "C93"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. Nf1 Bb7 13. Ng3 Na5 14. Bc2 Nc4
+15. b3 Nb6 16. Bd3 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.05.31"]
+[Round "8"]
+[White "Movsesian,S"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2774"]
+[EventDate "2008.05.23"]
+[ECO "C54"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O Bb6 7. Nbd2 O-O 8.
+Bb3 Be6 9. Nc4 h6 10. a4 Re8 11. Re1 Bc5 12. a5 Ng4 13. Ne3 Bxe3 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.06.01"]
+[Round "9"]
+[White "Morozevich,A"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8.
+Be3 Nbd7 9. Qd2 b5 10. O-O-O Be7 11. g4 b4 12. Nd5 Bxd5 13. exd5 Nb6 14.
+Qxb4 Nfxd5 15. Bxb6 Nxb6 16. f4 Qc7 17. fxe5 dxe5 18. Qe4 O-O 19. Kb1 a5
+20. a4 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.06.01"]
+[Round "9"]
+[White "Sokolov,Iv NED"]
+[Black "Timofeev,Arty"]
+[Result "0-1"]
+[WhiteElo "2690"]
+[BlackElo "2664"]
+[EventDate "2008.05.23"]
+[ECO "D31"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Bd6 5. Bd3 f5 6. Qh5+ g6 7. Qe2 Nf6 8. b3
+Nbd7 9. Bb2 Qe7 10. Nh3 b6 11. f3 Bb7 12. O-O O-O 13. e4 dxe4 14. fxe4 e5
+15. d5 cxd5 16. Nxd5 Nxd5 17. cxd5 fxe4 18. Bxe4 Nc5 19. Rfe1 Nxe4 20. Qxe4
+Rad8 21. Rad1 Bb4 22. Qxe5 Qxe5 23. Rxe5 Bd6 24. Rg5 Be7 25. Re5 Bd6 26.
+Rg5 Rc8 27. Be5 Bc5+ 28. Kh1 Bxd5 29. Nf4 Be3 30. Rg4 Rcd8 31. Re1 Bd2 32.
+Rg1 Be3 33. Re1 Bd2 34. Rg1 Bb7 35. Ne6 Bc8 36. Nxd8 Bxg4 37. Nc6 Re8 38.
+Bg3 Re2 39. h3 Bd7 40. Ne5 Bf5 41. Nc6 Be4 42. Nd4 Re3 43. Kh2 Rd3 44. Nb5
+Bb4 45. a3 Bc5 46. Re1 Rxb3 47. a4 Bc6 48. Nxa7 Bxa4 49. Nc8 Rb2 50. Bd6
+Bxd6+ 51. Nxd6 Bc6 52. Ne4 b5 53. Kg3 b4 54. Nf2 b3 55. Re3 Bd5 56. Rd3
+Rxf2 57. Rxd5 Rf5 58. Rd2 Rb5 59. Rb2 Kf7 60. Kf4 Kf6 61. Ke4 h5 62. h4
+Rb4+ 63. Kf3 Kf5 64. g3 Rb6 65. Kf2 Ke4 66. Ke2 Rb8 0-1
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.06.01"]
+[Round "9"]
+[White "Movsesian,S"]
+[Black "Predojevic,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2651"]
+[EventDate "2008.05.23"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Qf3 Be7 10. Qg3 Nh5 11. Qh3 g6 12. e5 f5 13. Bh6 Rb8 14. Be2
+Rb4 15. Bxh5 Rh4 16. Qg3 Kf7 17. Ne2 Rxh5 18. Bd2 c5 19. a3 Rh4 20. b4 Re4
+21. Qf3 Bd7 22. Ng3 Rc4 23. c3 h5 24. h3 Qc7 25. bxc5 Rxc5 26. Rfe1 Bb5 27.
+a4 Bc4 28. Be3 Rc6 29. Bd4 h4 30. Ne2 Bxe2 31. Qxe2 Rc4 32. Reb1 Rb8 33.
+Qd1 Rxb1 34. Rxb1 Qd7 35. a5 Ra4 36. Qd2 Kg7 37. Rb6 Rxa5 38. c4 Ra4 39. c5
+Rc4 40. Rxa6 g5 41. Qb2 Bxc5 42. Bxc5 Rxc5 43. Qb8 Qc8 44. Qd6 Rc1+ 45. Kh2
+Rh1+ 46. Kxh1 Qc1+ 47. Kh2 Qf4+ 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.06.02"]
+[Round "10"]
+[White "Predojevic,B"]
+[Black "Sokolov,Iv NED"]
+[Result "1-0"]
+[WhiteElo "2651"]
+[BlackElo "2690"]
+[EventDate "2008.05.23"]
+[ECO "C53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Bb3 a6 8.
+Re1 Ba7 9. Nbd2 Nh7 10. Nf1 Ng5 11. Nxg5 hxg5 12. Be3 Qf6 13. Bxa7 Rxa7 14.
+Ba4 b5 15. Bb3 Ne7 16. a4 b4 17. a5 Ng6 18. Ra4 bxc3 19. bxc3 c5 20. Ra2
+Nf4 21. f3 Rb7 22. Bc4 Rb8 23. Ne3 Qh6 24. g3 Nh5 25. d4 cxd4 26. cxd4 O-O
+27. Rd2 Nf6 28. dxe5 dxe5 29. Rd8 Nh7 30. Qd6 Qxd6 31. Rxd6 Nf6 32. Rb6
+Rxb6 33. axb6 Bb7 34. Rc1 Rd8 35. Bf1 Kf8 36. Nc4 Rc8 37. Rb1 Nd7 38. Na5
+Rb8 39. Bh3 Nf6 40. Bf1 Nd7 41. Bh3 Nf6 42. Rc1 Ne8 43. Bd7 Nd6 44. Rc7
+Bxe4 45. fxe4 Rxb6 46. Bc6 g6 47. Rd7 Rb1+ 48. Kf2 Rb2+ 49. Ke3 Nb5 50. Bd5
+Nc3 51. Rxf7+ Ke8 52. Rb7 Rxh2 53. Nc6 1-0
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.06.02"]
+[Round "10"]
+[White "Timofeev,Arty"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2774"]
+[EventDate "2008.05.23"]
+[ECO "C91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. Be3 Bh5 11. Nbd2 Na5 12. Bc2 Ng4 13. b4 exd4 14. cxd4
+Nxe3 15. Rxe3 Nc6 16. Qb1 Kh8 17. a3 Bf6 18. Qb2 Re8 19. Rb1 Rc8 20. Rd3
+Bxf3 21. Nxf3 Rxe4 22. Rc3 Rxd4 23. Qb3 Rc4 24. Rxc4 bxc4 25. Qxc4 Ne5 26.
+Nxe5 Bxe5 27. f4 Bf6 28. Qxa6 g6 29. Qc6 Bd4+ 30. Kh1 Qe7 31. Qe4 Qxe4 32.
+Bxe4 c6 33. a4 d5 34. Bf3 Be3 35. g3 d4 36. Kg2 c5 37. b5 c4 38. b6 d3 39.
+b7 Rb8 40. Rb4 c3 41. Rc4 c2 42. Rc8+ Kg7 43. Rxb8 c1=Q 44. Rg8+ Kxg8 45.
+b8=Q+ Kg7 46. Qe5+ Kh6 47. Qd6 Qc2+ 48. Kh3 Bc5 49. Qf6 Bg1 50. Qg5+ Kg7
+51. Qe5+ Kh6 52. Qg5+ Kg7 53. Qe5+ Kh6 54. Qg5+ 1/2-1/2
+
+[Event "GMA"]
+[Site "Sarajevo BIH"]
+[Date "2008.06.02"]
+[Round "10"]
+[White "Dominguez Perez,L"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2695"]
+[EventDate "2008.05.23"]
+[ECO "B80"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 Nc6 7. Qd2 Be7
+8. f3 O-O 9. g4 Nd7 10. O-O-O Nxd4 11. Qxd4 Ne5 12. Be2 Bd7 13. h4 b5 14.
+f4 Nc6 15. Qd2 a6 1/2-1/2
+

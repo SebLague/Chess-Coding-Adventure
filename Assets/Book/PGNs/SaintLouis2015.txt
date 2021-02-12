@@ -1,0 +1,1157 @@
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.23"]
+[Round "1.1"]
+[White "Carlsen,M"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2853"]
+[BlackElo "2816"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "1503014"]
+[BlackFideId "2900084"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Nf6 5. Re1 a6 6. Bd3 b5 7. c4 g5 8. Nxg5
+Ne5 9. Be2 bxc4 10. Na3 Rg8 11. Nxc4 Nxc4 12. d4 Nb6 13. Bh5 Nxh5 14. Qxh5 Rg7
+15. Nxh7 Qd7 16. dxc5 dxc5 17. e5 Qc6 18. f3 Qg6 19. Nf6+ Kd8 20. Qxg6 Rxg6 21.
+Ne4 Bb7 22. h4 Rc8 23. h5 Rg8 24. Bd2 Nc4 25. Bc3 Bh6 26. Rad1+ Ke8 27. Rd3 Bf4
+28. Nf2 Bc6 29. Nh3 Bg3 30. Re2 Bb5 31. Rd1 Bc6 32. Nf2 Bxe5 33. Ng4 Bxc3 34.
+bxc3 Kf8 35. Kf2 Rh8 36. Ne5 Nxe5 37. Rxe5 Be8 38. g4 f6 39. Re6 Bb5 40. Rde1
+Rc7 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.23"]
+[Round "1.2"]
+[White "Nakamura,Hi"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2816"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2016192"]
+[BlackFideId "5000017"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 Bd5 11. Qc2 Be4 12. Qd1 c5 13. dxc5 Bxc5 14. Qxd8 Rxd8
+15. Nbd2 Bc6 16. Nb3 Be7 17. Na5 h6 18. Be3 Nd5 19. Bd2 Nb6 20. Bf4 Nd5 21. Ne5
+g5 22. Bd2 Bf6 23. Nd3 b6 24. Nc4 b5 25. Bxd5 bxc4 26. Bxc4 Bxb2 27. Ra2 Bg7 28.
+Rc1 Be8 29. Nc5 Bf8 30. Bd3 Nc6 31. Be4 Rdc8 32. Kf1 Ra7 33. Nb3 Rac7 34. Rac2
+Bd6 35. f4 f5 36. Bd3 Nb8 37. Rxc7 Rxc7 38. Rxc7 Bxc7 39. fxg5 hxg5 40. Nc5 Bd6
+41. Nxe6 Bxa4 42. Nxg5 Bd7 43. Bc3 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.23"]
+[Round "1.3"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2808"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13300474"]
+[BlackFideId "2020009"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Ne4 8. Rc1
+Nxc3 9. Rxc3 b6 10. c6 Nf6 11. a3 a5 12. Bd3 Ne4 13. Rc2 f6 14. Qe2 Bd6 15. O-O
+g5 16. Bxd6 Nxd6 17. Re1 a4 18. Nd2 e5 19. e4 f5 20. f3 dxe4 21. fxe4 Ra5 22.
+exf5 Nxf5 23. Bc4+ Kg7 24. d5 Re8 25. Ne4 Nd4 26. Qh5 Nxc2 27. Nxg5 Bf5 28. Rf1
+Qf6 29. Ne6+ Rxe6 30. Rxf5 Qg6 31. dxe6 Qxh5 32. Rxh5 Nd4 33. e7 Ra8 34. Rxe5
+Re8 35. Re4 Nf5 36. Be6 Nd6 37. Bd7 Nxe4 38. Bxe8 Kf6 39. Bg6 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.23"]
+[Round "1.4"]
+[White "Giri,A"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2771"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "24116068"]
+[BlackFideId "4126025"]
+[EventDate "2015.08.23"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2
+c6 9. Rd1 b6 10. Bf4 Ba6 11. b3 Rc8 12. Nc3 dxc4 13. e4 Nh5 14. Be3 Nhf6 15. h3
+b5 16. bxc4 bxc4 17. Rab1 Qa5 18. Bd2 Qa3 19. Re1 Nb6 20. Re3 Rb8 21. Rxb6 Rxb6
+22. Na4 Rb1+ 23. Kh2 c3 24. Rxc3 Qb4 25. Rxc6 Qb5 26. Ne5 Ra1 27. Bc3 Rf1 28.
+Nb2 Qb7 29. Rxa6 Qxa6 30. Nbc4 Nxe4 31. Bxe4 Rb8 32. Bxh7+ Kf8 33. Qe2 Rc1 34.
+Qh5 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.23"]
+[Round "1.5"]
+[White "So,W"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2731"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "5202213"]
+[BlackFideId "623539"]
+[EventDate "2015.08.23"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 c5 7. Qa4+ Nc6 8.
+Ng5 e6 9. Nge4 Nb6 10. Qb5 c4 11. Na4 O-O 12. Nxb6 axb6 13. Qxc4 e5 14. Qc2 Be6
+15. Nc3 b5 16. Bxc6 bxc6 17. b3 Bf5 18. d3 e4 19. dxe4 Bxe4 20. Nxe4 Bxa1 21.
+O-O Re8 22. f3 Bd4+ 23. e3 Bg7 24. Rd1 Qc7 25. Rd6 c5 26. Rd5 Re5 27. Rd1 c4 28.
+a3 Re7 29. bxc4 Qxc4 30. Qd2 Qb3 31. Qd6 Rc8 32. Nf2 Rec7 33. Bd2 Bf8 34. Qd4
+Bxa3 35. Kg2 Bb2 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.24"]
+[Round "2.1"]
+[White "Topalov,V"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2814"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2900084"]
+[BlackFideId "2016192"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 d6 6. O-O O-O 7. c3 Ne7 8. d4
+exd4 9. cxd4 Bb6 10. Re1 Ng6 11. h3 c6 12. Bd3 Nh5 13. Nc4 Bc7 14. d5 Nhf4 15.
+Bf1 f5 16. e5 Nxd5 17. exd6 Bxd6 18. Nxd6 Qxd6 19. b3 Bd7 20. Bb2 Rfe8 21. Qd4
+Qf6 22. Qd2 Qd6 23. Bc4 h6 24. Qd4 Qf6 25. Qxf6 gxf6 26. Bxf6 Rxe1+ 27. Rxe1 Re8
+28. Rd1 Be6 29. Nd4 Kf7 30. Nxe6 Rxe6 31. Bd4 a6 32. Kf1 Ngf4 33. b4 Re4 34. f3
+Re8 35. g3 Ne6 36. Bf2 Rd8 37. Re1 f4 38. g4 Ng5 39. Kg2 Re8 40. Rd1 Re5 41. Bd4
+Re8 42. h4 Ne6 43. Bf2 Nec7 44. h5 Kf6 45. Kh3 b5 46. Bd4+ Kg5 47. Bxd5 Nxd5 48.
+Rc1 Re6 49. Rc5 Rd6 50. Bg7 Re6 51. Bd4 Rd6 52. a3 Re6 53. Rc1 Ne7 54. Bf2 Kf6
+55. Bh4+ Kf7 56. g5 hxg5 57. Bxg5 Nd5 58. Kg4 Kg7 59. Bxf4 Nxf4 60. Kxf4 Rd6 61.
+Rc3 Kf6 62. Kg4 a5 63. bxa5 Rd4+ 64. f4 Ra4 65. Rxc6+ Kg7 66. a6 Rxa3 67. f5 b4
+68. f6+ Kf7 69. h6 Kg6 70. Rc8 b3 71. Rg8+ Kf7 72. h7 Ra4+ 73. Kf3 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.24"]
+[Round "2.2"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2765"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "623539"]
+[BlackFideId "13300474"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8. e3
+O-O 9. Be2 dxc4 10. O-O Bd7 11. Bxc4 Bxc3 12. bxc3 Rfd8 13. Be2 Be8 14. Qa3 Qe7
+15. Qb2 b6 16. Nd2 Na5 17. Nb3 Nxb3 18. axb3 a5 19. b4 axb4 20. Qxb4 Kf8 21. Bf3
+Qxb4 22. cxb4 Rxa1 23. Rxa1 Ke7 24. Kf1 Kd6 25. Ke2 Bb5+ 26. Kd2 e5 27. dxe5+
+Kxe5+ 28. Kc3 Rd3+ 29. Kc2 Rd8 30. Kc3 Rd3+ 31. Kc2 Rd8 32. Kc3 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.24"]
+[Round "2.3"]
+[White "Giri,A"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2779"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[EventDate "2015.08.23"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 e5 4. e3 f5 5. d4 e4 6. d5 exf3 7. dxc6 dxc6 8. Qxd8+
+Kxd8 9. gxf3 Nf6 10. b3 Bd6 11. Bb2 Ke7 12. O-O-O Be6 13. Bd3 Rhd8 14. Kc2 Rd7
+15. Ne2 g6 16. h3 Rad8 17. f4 Bc7 18. Ba3 b6 19. Ng3 Kf7 20. Bb2 a6 21. Be5 b5
+22. Bxf5 gxf5 23. Bxc7 Rxd1 24. Rxd1 Rxd1 25. Kxd1 bxc4 26. bxc4 Ne4 27. Nxe4
+fxe4 28. h4 Bxc4 29. a3 Ke6 30. f5+ Kxf5 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.24"]
+[Round "2.4"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2808"]
+[BlackElo "2853"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Archangelsk (counterthrust) variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. Nc3
+O-O 9. a3 d6 10. Re1 Qd7 11. Ne2 Nd8 12. Ng3 Ne6 13. Ba2 Rfe8 14. Ng5 d5 15.
+Nxe6 Qxe6 16. Bg5 h6 17. Bxf6 Bxf6 18. Qf3 c6 19. c4 Rad8 20. cxd5 cxd5 21. Nf5
+Bg5 22. h4 Bd2 23. Re2 dxe4 24. dxe4 Qf6 25. g3 Kf8 26. h5 Bg5 27. a4 b4 28. a5
+Kg8 29. Bc4 Rd7 30. Ra4 Kh8 31. Rxb4 g6 32. hxg6 fxg6 33. Qb3 Bc6 34. Ne3 Bxe4
+35. Bd5 Bxd5 36. Nxd5 Qc6 37. Nc3 Qf3 38. Qc2 Red8 39. Rbe4 Rd2 40. Rxd2 Rxd2 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.24"]
+[Round "2.5"]
+[White "Grischuk,A"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2816"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "4126025"]
+[BlackFideId "5000017"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. dxc5 Nc6 5. Bb5 Qa5+ 6. Nc3 a6 7. Bxc6+ bxc6 8.
+Nf3 e6 9. O-O Bd7 10. a3 Qxc5 11. Na4 Qa7 12. c4 Be7 13. Rc1 Rc8 14. cxd5 cxd5
+15. Rxc8+ Bxc8 16. Qd4 Qxd4 17. exd4 Bd7 18. Nb6 Bd8 19. Nxd7 Nxd7 20. Rc1 f6
+21. Rc6 Kf7 22. Rxa6 Bb6 23. Bd2 g5 24. h3 Rb8 25. Bb4 Rb7 26. Ra8 Nb8 27. Kf1
+Nc6 28. Bc3 e5 29. dxe5 d4 30. Bb4 Nxe5 31. Nxe5+ fxe5 32. Ke2 e4 33. f3 d3+ 34.
+Kd2 exf3 35. Rf8+ 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.25"]
+[Round "3.1"]
+[White "Anand,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2816"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "5000017"]
+[BlackFideId "2900084"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. O-O Nf6 8.
+Nc3 e5 9. Qd3 h6 10. Nd2 b5 11. a4 Rb8 12. Rd1 Be7 13. axb5 axb5 14. Nf1 b4 15.
+Nd5 Nxd5 16. Qxd5 O-O 17. Ne3 Be6 18. Qd3 Qc7 19. Bd2 Rfc8 20. c3 bxc3 21. Bxc3
+Qb7 22. Nd5 Bg5 23. h3 Ra8 24. Ne3 Bxe3 25. Qxe3 Rxa1 26. Rxa1 Ra8 27. Rxa8+
+Qxa8 28. f3 Qc6 29. Kf2 f6 30. Kg1 Qc5 31. Qxc5 dxc5 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.25"]
+[Round "3.2"]
+[White "Aronian,L"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2793"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "13300474"]
+[BlackFideId "24116068"]
+[EventDate "2015.08.23"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. d3
+O-O 9. Be3 Re8 10. Qd2 Bf8 11. Rfc1 h6 12. a3 Bg4 13. Ne4 Nd4 14. Bxd4 exd4 15.
+Qf4 Bxf3 16. exf3 Nd5 17. Qg4 c6 18. f4 a5 19. Nd2 a4 20. Qd1 Nb6 21. h4 Ra5 22.
+Rc2 Nd7 23. Ne4 Nc5 24. Nxc5 Bxc5 25. Qd2 Bf8 26. Re1 Rxe1+ 27. Qxe1 Ra8 28. Qe4
+Qb6 29. Re2 Qc5 30. Bf3 Rd8 31. Kg2 Bd6 32. f5 Bf8 33. f6 gxf6 34. Qf4 Qd6 35.
+Qf5 Ra8 36. Rc2 Bg7 37. Rc4 Qe6 38. Qf4 Qe5 39. Rb4 Qxf4 40. gxf4 Ra7 41. f5 Bf8
+42. Rxd4 Ra5 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.25"]
+[Round "3.3"]
+[White "Carlsen,M"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2853"]
+[BlackElo "2731"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "1503014"]
+[BlackFideId "623539"]
+[EventDate "2015.08.23"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d4 cxd4 6. Nxd4 O-O 7. Nc3 Qc7 8. Nd5
+Qxc4 9. Nxe7+ Kh8 10. Nxc8 Rxc8 11. O-O Nc6 12. Be3 Ng4 13. Nc2 Nxe3 14. Nxe3
+Qe6 15. Nd5 Bxb2 16. Rb1 Be5 17. Rxb7 Rab8 18. Rxb8 Rxb8 19. e3 Rb2 20. a4 Ne7
+21. Nf4 Bxf4 22. exf4 Qb6 23. a5 Qc5 24. Qxd7 Ra2 25. Qd3 Kg7 26. a6 h5 27. Bb7
+Nf5 28. Qe4 Nd6 29. Qb1 Rd2 30. Qa1+ Kg8 31. Bg2 Nf5 32. Qe5 Qxe5 33. fxe5 Re2
+34. Rb1 Rxe5 35. Rb7 Re1+ 36. Bf1 h4 37. Rxa7 h3 38. Rd7 Ra1 39. g4 Nh4 40. Rd3
+Ng2 41. Rxh3 Nf4 42. Rf3 g5 43. Rb3 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.25"]
+[Round "3.4"]
+[White "So,W"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2771"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "5202213"]
+[BlackFideId "4126025"]
+[EventDate "2015.08.23"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 g6 5. Bg2 d6 6. O-O Bg7 7. d4 cxd4 8. Nxd4
+Bd7 9. b3 Nxd4 10. Qxd4 Bc6 11. Bb2 O-O 12. Nd5 Bxd5 13. cxd5 Qa5 14. Bc3 Qa6
+15. Qd2 Rfc8 16. Rfc1 Qb5 17. Rab1 a5 18. e4 Nd7 19. Bxg7 Kxg7 20. Qd4+ Kg8 21.
+Bf1 Rxc1 22. Rxc1 Qb4 23. Rc4 Qe1 24. Rc7 Ne5 25. Kg2 Qb4 26. Qxb4 axb4 27. Rc2
+Kg7 28. f4 Nd7 29. Kf3 f5 30. exf5 gxf5 31. Rc7 Nc5 32. Rxe7+ Kf6 33. Re2 h5 34.
+Ke3 h4 35. Kd4 hxg3 36. hxg3 Rg8 37. Re3 Ra8 38. Kc4 Rxa2 39. Kxb4 Rf2 40. Bc4
+Ne4 41. Kb5 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.25"]
+[Round "3.5"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2808"]
+[ECO "D81"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Be6 6. Qa4+ Bd7 7. Qb3 c5 8. d5
+b5 9. Nxb5 Bxb5 10. Qxb5+ Nbd7 11. g3 Rb8 12. Qa4 Bg7 13. Bg2 O-O 14. Nh3 Nb6
+15. Qxa7 Nfxd5 16. O-O Qc8 17. Qa3 Nb4 18. Qb3 Nc6 19. Bf4 Nd4 20. Qd1 e5 21.
+Be3 Rd8 22. Bxd4 Rxd4 23. Qc2 Rc4 24. Qd2 Rd4 25. Qc1 e4 26. e3 Rc4 27. Qd2 Rb4
+28. Rac1 Rxb2 29. Qd6 c4 30. Ng5 Rxa2 31. Nxe4 Qf8 32. Rfd1 Qxd6 33. Rxd6 Ra1
+34. Rxa1 Bxa1 35. Rc6 Rc8 36. Rxb6 c3 37. Nxc3 Bxc3 38. Bd5 Rc7 39. h4 Kg7 40.
+g4 h6 41. g5 hxg5 42. hxg5 Rc5 43. Rd6 Kf8 44. e4 Be5 45. Rd8+ Ke7 46. Ra8 Rc7
+47. Kg2 Bf4 48. Ra5 Kf8 49. Bb3 Rc3 50. Rb5 Kg7 51. Bd1 Rd3 52. Be2 Rc3 53. Rd5
+Kf8 54. Bb5 Ke7 55. Kf1 Rc2 56. Be2 Rd2 57. Ra5 Rd4 58. Bf3 Rd3 59. Be2 Rd4 60.
+f3 Kf8 61. Ba6 Rd7 62. Bc4 Re7 63. Kg2 Re5 64. Ra8+ Re8 65. Ra5 Re5 66. Rxe5
+Bxe5 67. Kh3 Bf4 68. Kg4 Bc1 69. f4 Ke7 70. f5 gxf5+ 71. Kxf5 Bb2 72. e5 Bc3 73.
+Bb3 Bb2 74. Bc4 Bc3 75. Bb3 Bb2 76. Bc4 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.26"]
+[Round "4.1"]
+[White "Grischuk,A"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2816"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "4126025"]
+[BlackFideId "2900084"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8. f3
+e5 9. Nb3 Be6 10. Be3 h5 11. Nd5 Bxd5 12. exd5 Nbd7 13. Qd2 g6 14. O-O-O Nb6 15.
+Kb1 Nbxd5 16. Bg5 Be7 17. Na5 Rb8 18. Bc4 Nb6 19. Bxf6 Bxf6 20. Qxd6 Qxd6 21.
+Rxd6 Bd8 22. Rd3 Bc7 23. Bb3 Ke7 24. Rhd1 Rhd8 25. Rxd8 Bxd8 26. Nc4 Nxc4 27.
+Bxc4 Bb6 28. c3 Rd8 29. Rxd8 Bxd8 30. Kc2 Bc7 31. Bd5 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.26"]
+[Round "4.2"]
+[White "Giri,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2853"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "1503014"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 12. Nc2 Nxd5 13. Qxd5 Rb8 14. Nb4 Bb7 15.
+Qd3 O-O 16. Be2 a5 17. Nd5 b4 18. O-O bxc3 19. bxc3 Bg5 20. Rab1 Qd7 21. Rb3 Bc6
+22. Rfb1 Rxb3 23. Rxb3 g6 24. Rb6 Rc8 25. h3 Bxd5 26. Qxd5 Rxc3 27. Rxd6 Qe7 28.
+Bd1 Rc7 29. g3 Kg7 30. Ba4 Bc1 31. Rc6 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.26"]
+[Round "4.3"]
+[White "So,W"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2765"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "13300474"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Ne2 a6 8. a4 Ba5 9.
+Bd2 exd5 10. cxd5 Nh5 11. g3 Nd7 12. Bg2 b5 13. g4 b4 14. Nb1 Qh4+ 15. Kf1 Ne5
+16. Be1 Qf6 17. gxh5 Nxf3 18. Bf2 Bg4 19. Qc1 Nd4 20. Nxd4 cxd4 21. e5 dxe5 22.
+Nd2 Rac8 23. Qb1 b3 24. Nxb3 Bb6 25. a5 Ba7 26. Kg1 Bf5 27. Be4 Qg5+ 28. Kf1 Qf4 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.26"]
+[Round "4.4"]
+[White "Vachier Lagrave,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2814"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[WhiteFideId "623539"]
+[BlackFideId "2016192"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c5 7. d5 e6 8. Ng3 exd5
+9. cxd5 a6 10. a4 h5 11. Be2 Nbd7 12. O-O h4 13. Nh1 Nh5 14. Be3 f5 15. f4 Qe8
+16. Bxh5 gxh5 17. e5 dxe5 18. d6 exf4 19. Bxf4 Nf6 20. Nf2 Bd7 21. Nd3 h3 22.
+Ne5 hxg2 23. Re1 Be6 24. Qf3 Ne4 25. Rad1 Bxe5 26. Bxe5 Qg6 27. Qxg2 Qxg2+ 28.
+Kxg2 Bd7 29. Rg1 Kf7 30. Kf3 Rg8 31. Nxe4 fxe4+ 32. Kxe4 Ke6 33. Bf4 Bxa4 34.
+Rde1 h4 35. Rxg8 Rxg8 36. Kf3+ Kf6 37. Re5 Bc6+ 38. Ke3 Re8 39. Rxe8 Bxe8 40. d7
+Bxd7 41. Bd6 c4 42. Kd4 b5 43. Kc3 Ke6 44. Bc7 Kd5 45. Bd8 h3 46. b4 cxb3 47.
+Kxb3 Kc5 48. Be7+ Kb6 49. Bd8+ Kc5 50. Be7+ Kb6 51. Bd8+ 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.26"]
+[Round "4.5"]
+[White "Caruana,F"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2808"]
+[BlackElo "2816"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2015.08.23"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 g6 8. Bd3
+Bg7 9. O-O O-O 10. e4 Qd8 11. Re1 c5 12. exd5 cxd4 13. dxe6 Bxe6 14. Ne2 Qd6 15.
+Qd2 Nc6 16. Nf4 Bg4 17. Be4 Bxf3 18. Bxf3 Ne5 19. Bd5 Rac8 20. b3 b5 21. Rac1
+bxc4 22. bxc4 Rc7 23. Nd3 Nxd3 24. Qxd3 Kh7 25. g3 Bf6 26. Rb1 Kg7 27. Rb5 Rfc8
+28. Reb1 Rc5 29. a4 Rxb5 30. axb5 Rc7 31. Qb3 Qe5 32. Qf3 Bg5 33. c5 Rd7 34. b6
+axb6 35. cxb6 Rxd5 36. Qxd5 Qxd5 37. b7 d3 38. b8=Q d2 39. Rd1 Qf3 40. Qb2+ Kh7
+41. Qc2 Be3 42. fxe3 Qxe3+ 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.27"]
+[Round "5.1"]
+[White "Topalov,V"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2808"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2900084"]
+[BlackFideId "2020009"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 Ne7 8. d4
+exd4 9. cxd4 Bb6 10. Re1 Bg4 11. h3 Bh5 12. Qb3 d5 13. e5 Nd7 14. a4 a5 15. Qd1
+Nb8 16. Nb3 Nbc6 17. Bg5 h6 18. Bh4 Qc8 19. g4 Bg6 20. Rc1 Bh7 21. Bg3 Nb4 22.
+Re3 Na2 23. Ra1 Nb4 24. Ne1 Nec6 25. Qd2 Qe6 26. Bxc6 Qxc6 27. Rc3 Qe6 28. Ng2
+f6 29. Nf4 Qd7 30. e6 Qe7 31. Re1 f5 32. Nc5 Bxc5 33. Rxc5 c6 34. Rc3 g5 35. Ng2
+f4 36. Nxf4 gxf4 37. Bxf4 Nd3 38. Rxd3 Bxd3 39. Bxh6 Rf3 40. Re3 Rxe3 41. Qxe3
+Qh7 42. f3 Re8 43. h4 Qg6 44. e7 Qd6 45. Bf4 Qxe7 46. Qxd3 Qe1+ 47. Qf1 Qxf1+
+48. Kxf1 Rf8 49. Be5 Rxf3+ 50. Kg2 Rb3 51. h5 Rxb2+ 52. Kg3 b5 53. axb5 Rxb5 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.27"]
+[Round "5.2"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2771"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "4126025"]
+[EventDate "2015.08.23"]
+
+1. c4 c5 2. Nf3 Nc6 3. e3 Nf6 4. d4 cxd4 5. exd4 d5 6. Nc3 Bg4 7. Bg5 e6 8. cxd5
+exd5 9. Qe2+ Be6 10. Bxf6 gxf6 11. Qc2 Qb6 12. a3 O-O-O 13. Na4 Qc7 14. Bb5 Rg8
+15. O-O Bh3 16. Nh4 Rg4 17. Bxc6 bxc6 18. Qd3 Rxh4 19. gxh3 Qf4 20. Rac1 Kd7 21.
+Rfe1 Bd6 22. Kf1 Qxd4 23. Qf5+ Kc7 24. Nc3 Kb7 25. Ne2 Qe5 26. Qc2 Rc4 27. Qb3+
+Kc7 28. Rxc4 dxc4 29. Qxc4 Qd5 30. Qxd5 cxd5 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.27"]
+[Round "5.3"]
+[White "Nakamura,Hi"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2793"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "24116068"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f4 b5 10. e5 b4 11. Ncb5 axb5 12. Nxb5 Qb8 13. exf6 gxf6 14. Kb1 d5
+15. Qf2 Ba6 16. Bb6 Bxb5 17. Bxb5 Qb7 18. Rhe1 Rb8 19. Bxc6+ Qxc6 20. Bd4 Ra8
+21. b3 Kd7 22. a4 bxa3 23. Rd3 Rhc8 24. Re2 Qb5 25. Qf3 Ra6 26. f5 Rac6 27.
+fxe6+ fxe6 28. Rdd2 a2+ 29. Ka1 f5 30. Qe3 Rg8 31. c4 dxc4 32. Bc5+ Ke8 33. Bxe7
+Kxe7 34. Qh6 Qb6 35. Qxh7+ Kf8 36. Qh4 Ke8 37. Qh5+ Kf8 38. Qh4 Ke8 39. Qh5+ 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.27"]
+[Round "5.4"]
+[White "Carlsen,M"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2853"]
+[BlackElo "2779"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. Qd2 b5 10. O-O-O Be7 11. g4 b4 12. Nd5 Bxd5 13. exd5 Nb6 14. Na5 Nbxd5
+15. Nc4 Nxe3 16. Nxe3 O-O 17. Bc4 Nd7 18. h4 a5 19. g5 Rc8 20. Bd5 Nb6 21. Kb1
+Qc7 22. Rhf1 Nxd5 23. Nxd5 Qb7 24. f4 f5 25. Qe3 e4 26. h5 Rc5 27. h6 g6 28. Qb3
+Rf7 29. a4 Bd8 30. Rd4 Kf8 31. Rfd1 Rc6 32. Ne3 Bb6 33. Nc4 Bxd4 34. Nxa5 Qb6
+35. Nxc6 Bc5 36. Qd5 e3 37. a5 Qb5 38. Nd8 Ra7 39. Ne6+ Ke8 40. Nd4 Qxa5 41.
+Qg8+ Kd7 42. Qxh7+ Kc8 43. Qg8+ Kb7 44. c3 bxc3 45. Qb3+ Qb6 46. Qxb6+ Kxb6 47.
+bxc3 Bxd4 48. Rxd4 Kc6 49. Kc2 Ra2+ 50. Kd1 Rf2 51. Ke1 Kd7 52. Ra4 Ke6 53. Ra8
+Rh2 54. c4 Kf7 55. Rb8 Ke6 56. Rg8 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.27"]
+[Round "5.5"]
+[White "Anand,V"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2731"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "623539"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Qd3 Nc6 10. a3 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. O-O-O Qxd3 14. Bxd3
+O-O-O 15. Nc5 Bd5 16. c4 Bxg2 17. Rhg1 e4 18. Be2 Bf3 19. Bxf3 exf3 20. Rxg7
+Rxd1+ 21. Kxd1 Rd8+ 22. Kc1 Ne5 23. Ne4 Kd7 24. Rxh7 Ke6 25. Nd2 Rc8 26. Kc2
+Nxc4 27. Nxc4 Rxc4+ 28. Kd3 Rg4 29. h3 Ra4 30. Rh6+ f6 31. Rh7 Ra5 32. Ke4 Rb5
+33. Bd4 Bd6 34. Rh6 Be5 35. Bxe5 Rxe5+ 36. Kxf3 Rf5+ 37. Ke2 Re5+ 38. Kf1 Rb5
+39. b4 Rd5 40. Rg6 a5 41. bxa5 Rxa5 42. Rg3 Ra4 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.29"]
+[Round "6.1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2853"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2015.08.23"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. d3
+O-O 9. a3 Re8 10. b4 Bf8 11. Nd2 Be6 12. Bb2 Qd7 13. Nce4 Bh3 14. Bxh3 Qxh3 15.
+Qb3 Qd7 16. Nf3 a5 17. b5 Nd4 18. Nxd4 exd4 19. a4 Qd5 20. Qxd5 Nxd5 21. Bxd4 f5
+22. Nc3 Nxc3 23. Bxc3 Rxe2 24. Rfe1 Rxe1+ 25. Rxe1 Bb4 26. Rc1 c6 27. bxc6 bxc6
+28. Bxb4 axb4 29. Rxc6 Rxa4 30. Rb6 Ra1+ 31. Kg2 Rd1 32. Rxb4 Rxd3 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.29"]
+[Round "6.2"]
+[White "Vachier Lagrave,M"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2816"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2900084"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. Nd4 Ng6 13. f4 Bc5 14. Be3 h5
+15. Ne4 Bxd4 16. Rxd4 h4 17. Rad1 Bf5 18. e6 Bxe6 19. Nc5 Rh5 20. Nxb7 Rd5 21.
+b3 Rb8 22. Rxd5 cxd5 23. Nc5 c6 24. Rd4 Bc8 25. Ra4 Ra8 26. c4 dxc4 27. Rxc4 Bf5
+28. Nb7 Kd7 29. Rd4+ Kc7 30. Nd6 Bb1 31. Nxf7 Re8 32. Kf2 Bxa2 33. f5 Nf8 34.
+Ra4 Bxb3 35. Rxa7+ Kb8 36. Nd6 Rd8 37. Rxg7 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.29"]
+[Round "6.3"]
+[White "Giri,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2816"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "24116068"]
+[BlackFideId "5000017"]
+[EventDate "2015.08.23"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Ne5 Nbd7 8. Nxg6
+hxg6 9. Bg2 e6 10. Nd2 g5 11. O-O Be7 12. Re1 Nf8 13. e4 Nxe4 14. Nxe4 dxe4 15.
+Rxe4 Ng6 16. Be3 O-O 17. d5 cxd5 18. cxd5 e5 19. Qd2 a5 20. d6 Qxd6 21. Qxd6
+Bxd6 22. Bxg5 Rac8 23. Re2 b6 24. Rd1 Bc5 25. Be4 Nf4 26. Bxf4 exf4 27. Kg2 Rfd8
+28. Red2 Rxd2 29. Rxd2 g5 30. Rd7 Re8 31. Kf3 Re7 32. Rxe7 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.29"]
+[Round "6.4"]
+[White "So,W"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2814"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, main line"]
+[WhiteFideId "5202213"]
+[BlackFideId "2016192"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. Ne1 Nd7 10. f3 f5 11. Be3 f4 12. Bf2 g5 13. Nd3 Ng6 14. c5 Nf6 15. Rc1 Rf7
+16. Kh1 h5 17. cxd6 cxd6 18. Nb5 a6 19. Na3 b5 20. Rc6 g4 21. Qc2 Qf8 22. Rc1
+Bd7 23. Rc7 Bh6 24. Be1 h4 25. fxg4 f3 26. gxf3 Nxe4 27. Rd1 Rxf3 28. Rxd7 Rf1+
+29. Kg2 Be3 30. Bg3 hxg3 31. Rxf1 Nh4+ 32. Kh3 Qh6 33. g5 Nxg5+ 34. Kg4 Nhf3 35.
+Nf2 Qh4+ 36. Kf5 Rf8+ 37. Kg6 Rf6+ 38. Kxf6 Ne4+ 39. Kg6 Qg5# 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.29"]
+[Round "6.5"]
+[White "Grischuk,A"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2808"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4126025"]
+[BlackFideId "2020009"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Ne4 8. a3
+Nxc3 9. bxc3 c6 10. Qa4 g5 11. Bg3 f5 12. h3 f4 13. Bh2 e5 14. Be2 e4 15. Nd2
+Nxc5 16. dxc5 Bxc5 17. O-O b5 18. Qb3 Qe7 19. Kh1 Be6 20. a4 d4 21. Qd1 d3 22.
+Bg4 Bd5 23. axb5 cxb5 24. Nb3 fxe3 25. Nxc5 Qxc5 26. fxe3 Qxe3 27. Re1 Qf2 28.
+Bg1 Qf7 29. Qd2 Qg6 30. Ra6 Rf6 31. Rea1 Re8 32. Rxf6 Qxf6 33. Rxa7 h6 34. Be3
+Qe5 35. Qe1 Bc4 36. Bd4 Qf4 37. Be3 Qe5 38. Bd4 Qf4 39. Rg7+ Kf8 40. Qa1 b4 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.30"]
+[Round "7.1"]
+[White "Nakamura,Hi"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2765"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Nbd2 h6 13. Bc4 Bd6 14. a5 Re8 15.
+Bd3 Nd7 16. b3 Nc5 17. Bc4 Be6 18. Bb2 f6 19. Bxe6+ Rxe6 20. Nc4 Rb8 21. Nfd2
+Rb5 22. Ra2 Nb7 23. Rea1 Bc5 24. Kf1 Re7 25. Ke2 Rd7 26. Nf1 Bd4 27. Nfe3 Bxe3
+28. Nxe3 Kf7 29. f3 Ke6 30. g4 Nc5 31. Nc4 Ke7 32. Bc1 Ne6 33. Be3 Ncd4+ 34. Kf2
+Ng5 35. Bxg5 fxg5 36. Rd1 Ke6 37. Rd3 Rf7 38. Ra1 Rb8 39. Rad1 Rbf8 40. Nxe5
+Kxe5 41. Rxd4 Rxf3+ 42. Ke2 Rf2+ 43. Ke1 Rf1+ 44. Ke2 R8f2+ 45. Ke3 Rf3+ 46. Ke2
+R1f2+ 47. Ke1 Rxh2 48. Rd5+ Kf4 49. R1d4 Kxg4 50. Rc5 Rg3 51. Kf1 Rc3 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.30"]
+[Round "7.2"]
+[White "Carlsen,M"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2853"]
+[BlackElo "2771"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4126025"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Qd3 Nbd7 10. Nd5 O-O 11. O-O Bxd5 12. exd5 Rc8 13. c4 Ne8 14. Qd2 b6 15.
+Rac1 a5 16. Na1 g6 17. b4 Ng7 18. bxa5 bxa5 19. Bd3 Nc5 20. Bc2 a4 21. Rb1 e4
+22. Bxc5 Rxc5 23. Bxa4 Rxc4 24. Bc6 Nf5 25. Qe2 Rc3 26. Qxe4 Ra3 27. Qe2 Bf6 28.
+Nb3 Qe7 29. Qxe7 Nxe7 30. Nd2 Rxa2 31. Nc4 Rd8 32. g4 Bd4 33. Rbd1 Bc5 34. Rd2
+Rxd2 35. Nxd2 Nxc6 36. dxc6 Rc8 37. Ne4 Rxc6 38. Rd1 h6 39. h4 Kf8 40. Kg2 Ke7
+41. Rc1 Rc8 42. Kf3 Ke6 43. Rc2 Rc7 44. h5 gxh5 45. gxh5 Bb6 46. Re2 Bd4 47. Kg3
+d5 48. Nd2+ Kf5 49. Kg2 Be5 50. Nf3 Bf6 51. Ra2 Rd7 52. Ne1 Rc7 53. Kf3 Bg5 54.
+Ra5 Ke5 55. Ke2 Ke4 56. Ra4+ d4 57. f3+ Kd5 58. Ra5+ Kc4 59. Nd3 Re7+ 60. Re5
+Re6 61. f4 Bf6 62. Rxe6 fxe6 63. Nf2 Be7 64. Ng4 Kc3 65. f5 exf5 66. Nxh6 Kc2 0-1
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.30"]
+[Round "7.3"]
+[White "Topalov,V"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2793"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "2900084"]
+[BlackFideId "24116068"]
+[EventDate "2015.08.23"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. dxc3 Qxd1+ 7. Kxd1 f6
+8. Be3 e5 9. Nd2 Be6 10. Bc4 Kf7 11. Kc2 Be7 12. Rad1 Rd8 13. Bxe6+ Kxe6 14. Nc4
+Rxd1 15. Rxd1 Nc6 16. a4 a5 17. f4 h5 18. Rf1 exf4 19. Bxf4 Ne5 20. Bxe5 fxe5
+21. Rf3 b6 22. Rg3 Rg8 23. Kd3 Bh4 24. Rf3 Be7 25. Ke2 Rb8 26. Rg3 Kf6 27. Ne3
+c6 28. Nc4 Bc5 29. h3 Ra8 30. Rf3+ Ke6 31. Rg3 Kf6 32. Rf3+ Ke6 33. Rg3 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.30"]
+[Round "7.4"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2808"]
+[BlackElo "2731"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "623539"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Nf6 5. Qe2 a6 6. Ba4 e5 7. O-O Be7 8. d4 b5
+9. Bc2 O-O 10. Rd1 Qc7 11. a4 Rb8 12. axb5 axb5 13. Na3 Ba6 14. d5 Qb7 15. b4
+Bd8 16. Bd3 Ra8 17. Bg5 c4 18. Bc2 Nh5 19. Bxd8 Rfxd8 20. Nh4 g6 21. Qe3 Qb6 22.
+Qxb6 Nxb6 23. g3 Nf6 24. Ng2 Ne8 25. Ra2 Bc8 26. Rda1 Bd7 27. Nb1 Rxa2 28. Rxa2
+Ra8 29. Rxa8 Nxa8 30. Nd2 Nb6 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.30"]
+[Round "7.5"]
+[White "Anand,V"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2779"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "5202213"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. O-O Re8 8.
+Nc4 Nd7 9. b3 a5 10. a4 f6 11. Be3 Bb4 12. Rc1 b5 13. c3 Bf8 14. Nb2 Nc5 15. Qc2
+Bg4 16. d4 exd4 17. Nxd4 bxa4 18. Nxa4 Nxe4 19. f3 Nd6 20. Bf2 Bd7 21. c4 Qc8
+22. Qc3 Nf5 23. Nc2 Nd6 24. Nd4 Nb7 25. c5 Nd8 26. Nb2 Ne6 27. Nc4 Bxc5 28. Nxe6
+Bb4 29. Nxg7 Bxc3 30. Nxe8 Bxe8 31. Rxc3 Bf7 32. Nd2 f5 33. Rxc6 Qd7 34. Rc2 Re8
+35. Nc4 Bxc4 36. Rxc4 Re2 37. h3 Rd2 38. Re1 Rd1 39. Kh2 c6 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.31"]
+[Round "8.1"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2816"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2015.08.23"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8.
+bxc3 Re8 9. f3 exf3 10. Nxf3 d5 11. d4 dxc4 12. Bg5 h6 13. Bxf6 Qxf6 14. e4 Bg4
+15. Qa4 Qd6 16. Rae1 Rab8 17. Qxc4 b5 18. e5 bxc4 19. exd6 cxd6 20. Rxe8+ Rxe8
+21. Nd2 Na5 22. Ne4 Rd8 23. Rb1 d5 24. Nc5 Be6 25. Rb5 Nc6 26. Na6 Rd7 27. a4
+Kf8 28. Nc5 Rc7 29. Na6 Rd7 30. Nc5 Rc7 31. Na6 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.31"]
+[Round "8.2"]
+[White "Carlsen,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2853"]
+[BlackElo "2814"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2015.08.23"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Bf4 Nf6 5. e3 O-O 6. a3 c5 7. dxc5 Bxc5 8. Nf3
+Nc6 9. Qc2 Qa5 10. Rd1 Be7 11. Be2 Ne4 12. cxd5 Nxc3 13. Qxc3 Qxc3+ 14. bxc3
+exd5 15. Rxd5 Bxa3 16. Nd4 Nxd4 17. exd4 b6 18. Kd2 Be6 19. Rb5 Bd7 20. Rb3 Be7
+21. Bf3 Ba4 22. Rb2 Rad8 23. Ra1 b5 24. Bc6 a6 25. Bb7 Bd6 26. Be3 a5 27. Bc6
+Rb8 28. d5 Rfd8 29. Kd3 Bf8 30. Bd4 f6 31. Ke4 Bd6 32. c4 Bb4 33. Ba7 f5+ 34.
+Kf3 Rbc8 35. cxb5 Bxb5 36. Bxb5 Bc3 37. Rab1 Bxb2 38. Rxb2 Rxd5 39. Be3 Rb8 40.
+Bc4 Rxb2 41. Bxd5+ Kh8 42. Bd4 Rb1 43. Ke2 a4 44. g3 a3 45. Kd2 h5 46. h4 Kh7
+47. Bc4 g6 48. Kc2 Re1 49. Be3 f4 50. Bxf4 a2 51. Bxa2 Re2+ 52. Kb3 Rxf2 53. Bb1
+Re2 54. Kc4 Kg7 55. Kd5 Re1 56. Bc2 Re2 57. Bd3 Re1 58. Be4 Rd1+ 59. Ke5 Re1 60.
+Bd2 Re2 61. Bc3 Kh6 62. Bb4 Rf2 63. Bc5 Rf1 64. Bb4 Rf2 65. Be7 Rf1 66. Bf6 Rg1
+67. Bg5+ Kg7 68. Bf4 Re1 69. Kd5 Rd1+ 70. Ke6 Re1 71. Ke5 Re2 72. Kd5 Re1 73.
+Bd3 Kh7 74. Kd4 Kg7 75. Be3 Ra1 76. Ke4 Ra4+ 77. Kf3 Ra3 78. Bb5 Rb3 79. Be8 Rb1
+80. Bc6 Rb4 81. Bd2 Rb6 82. Bc3+ Kh6 83. Bd5 Rb1 84. Kf4 Rf1+ 85. Ke5 Rg1 86.
+Bd2+ Kg7 87. Bf4 Re1+ 88. Kd6 Kf6 89. Bf3 Kf5 90. Kd5 Rf1 91. Be4+ Kg4 92. Bxg6
+Rxf4 93. gxf4 Kxf4 94. Bxh5 Kg3 95. Bd1 Kxh4 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.31"]
+[Round "8.3"]
+[White "Grischuk,A"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2731"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4126025"]
+[BlackFideId "623539"]
+[EventDate "2015.08.23"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d4 cxd4 6. Nxd4 O-O 7. Nc3 Qc7 8. Nd5
+Nxd5 9. cxd5 Qb6 10. Nb3 d6 11. O-O Na6 12. Be3 Qb4 13. Bd2 Qa4 14. Na5 Qxd1 15.
+Raxd1 Bxb2 16. Rb1 Bf6 17. Nxb7 Kg7 18. Na5 Nc5 19. Rfc1 Ba6 20. Kf1 Rfb8 21.
+Rb4 Rxb4 22. Bxb4 Rb8 23. a3 Bb5 24. Bf3 Na6 25. Nc6 Rb7 26. Na5 Rb6 27. Bd2 Nc5
+28. Bb4 Na6 29. Bd2 Nc5 30. Bb4 Na6 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.31"]
+[Round "8.4"]
+[White "Giri,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2808"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "2020009"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Rc1 O-O 9. Qd2 e5 10. Nf3 cxd4 11. cxd4 exd4 12. Nxd4 Bd7 13. Bc4 Nc6 14. Nf3
+Bg4 15. Qxd8 Raxd8 16. O-O Rfe8 17. Rb1 Na5 18. Bd5 Be6 19. Bxe6 Rxe6 20. Bxa7
+Ra8 21. Bd4 Bxd4 22. Nxd4 Rxe4 23. Nf3 Re2 24. a4 Re4 25. Rfc1 Rxa4 26. h3 Re8
+27. Rc7 h6 28. Rb5 Re2 29. Ne5 Ra1+ 30. Kh2 Rxf2 31. Ng4 Rff1 32. Nxh6+ Kg7 33.
+Ng4 Rh1+ 34. Kg3 Rhb1 35. Rd5 Rd1 36. Rb5 Rd6 37. Ne5 Rf6 38. Rc3 Rf5 39. Rcc5
+b6 40. Rxb6 Rg5+ 41. Kf2 Ra2+ 42. Kf1 Rgxg2 43. Rxa5 Rxa5 44. Kxg2 Rxe5 45. h4
+Re6 46. Rb7 Kf6 47. Ra7 Re3 48. Ra5 Re5 49. Ra7 Re4 50. Kg3 Ke6 51. Ra5 f6 52.
+Ra6+ Kf5 53. Ra5+ Re5 54. Ra3 Rd5 55. Rf3+ Ke6 56. Re3+ Re5 57. Ra3 Re4 58. Ra6+
+Kf5 59. Ra5+ Re5 60. Ra3 Rd5 61. Rf3+ Ke6 62. Re3+ Kf7 63. Ra3 Rd4 64. Ra6 Ke7
+65. Ra3 Ke6 66. Re3+ Kf5 67. Rf3+ Ke5 68. Re3+ Re4 69. Ra3 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.08.31"]
+[Round "8.5"]
+[White "So,W"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2816"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Simagin variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "2900084"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bd6 7. c5 Be7 8. b4 b6
+9. Bb2 a5 10. Nf4 axb4 11. axb4 Rxa1 12. Qxa1 Nc6 13. Nd3 bxc5 14. bxc5 Ne4 15.
+Be2 Bd7 16. f3 Nxc3 17. Bxc3 Qa8 18. Kd2 Rb8 19. Qxa8 Rxa8 20. Ra1 Rxa1 21. Bxa1
+Kf8 22. Bc3 Ke8 23. g4 g6 24. f4 h6 25. h3 Bf6 26. Bf3 Bc8 27. Bd1 Bd7 28. Ne1
+Na7 29. Ba5 Bd8 30. Nf3 Bb5 31. Bc3 Nc6 32. Ke1 Nb8 33. Bc2 Nd7 34. Ba5 Nf6 35.
+g5 hxg5 36. fxg5 Nd7 37. h4 Nb8 38. Ne5 Nc6 39. Nxc6 Bxc6 40. Kf2 Kd7 41. Kg3
+Be7 42. Kf4 Bb5 43. Ke5 c6 44. Bd1 Bd3 45. Bb6 Bf1 46. Ba7 Bd3 47. Bb8 Bb1 48.
+Bd6 Bd8 49. Bb8 Bd3 50. Bd6 Bb1 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.09.01"]
+[Round "9.1"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2765"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "13300474"]
+[EventDate "2015.08.23"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 dxc4 6. Qa4+ Nc6 7. a3 Bxc3+ 8.
+bxc3 Qd5 9. Bxf6 gxf6 10. Nd2 b5 11. Qc2 a6 12. e4 Qd7 13. g3 Bb7 14. Bg2 Ne7
+15. O-O O-O 16. Rfd1 Rad8 17. a4 c5 18. axb5 axb5 19. Nf3 Qc7 20. Rab1 f5 21.
+exf5 Nxf5 22. Rxb5 Bxf3 23. Bxf3 cxd4 24. Qc1 dxc3 25. Rxf5 Rxd1+ 26. Bxd1 exf5
+27. Qg5+ Kh8 28. Qf6+ Kg8 29. Qg5+ Kh8 30. Qf6+ Kg8 31. Qg5+ 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.09.01"]
+[Round "9.2"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2816"]
+[BlackElo "2853"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 h5 10. Nc3 Be7 11. Rd1+ Ke8 12. Ne2 Nh4 13. Nxh4 Bxh4 14. f3
+Bf5 15. Nd4 Bg6 16. Bf4 Be7 17. g4 Rd8 18. Kg2 hxg4 19. hxg4 Bc5 20. c3 Bxd4 21.
+Rxd4 Rxd4 22. cxd4 Ke7 23. Rc1 Ke6 24. Be3 f6 25. exf6 gxf6 26. Bd2 Rd8 27. Bc3
+Kf7 28. Kg3 Re8 29. Rh1 Bd3 30. Re1 Rxe1 31. Bxe1 Bc4 32. a3 b6 33. Kf4 a5 34.
+Ke3 a4 35. Bg3 b5 36. Bxc7 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.09.01"]
+[Round "9.3"]
+[White "Vachier Lagrave,M"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2793"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2015.08.23"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4 Bb6
+9. Be3 O-O 10. Nbd2 h6 11. h3 Re8 12. Re1 Rb8 13. a3 Na5 14. Ba2 exd4 15. Bxd4
+Nc6 16. Bxb6 Rxb6 17. c4 b4 18. c5 dxc5 19. e5 Nh7 20. Ne4 Qxd1 21. Raxd1 b3 22.
+Bb1 c4 23. Nc3 Nf8 24. Be4 Ne7 25. Na4 Rb5 26. Nd4 Ra5 27. Nc3 g5 28. Bf3 Ne6
+29. Nc6 Nxc6 30. Bxc6 Rf8 31. Bd5 Nf4 32. Bxc4 Be6 33. Bxe6 Nxe6 34. Re3 Kg7 35.
+Ne2 Rb8 36. Nd4 Nxd4 37. Rxd4 Re8 38. f4 gxf4 39. Rxf4 Rexe5 40. Rxb3 Rab5 41.
+Rbf3 f5 42. b4 a5 43. Rc3 c5 44. bxc5 1/2-1/2
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.09.01"]
+[Round "9.4"]
+[White "Nakamura,Hi"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2771"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "4126025"]
+[EventDate "2015.08.23"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. c3 b5 7. Bc2 Bb7 8. Re1
+Rc8 9. a4 b4 10. a5 Qc7 11. d3 bxc3 12. bxc3 e6 13. h3 Be7 14. Bf4 O-O 15. Nbd2
+Bc6 16. Nc4 Bb5 17. Nfd2 Rfd8 18. Bg3 Ne8 19. Kh2 Rb8 20. Ne3 Ne5 21. Qe2 Nc6
+22. Nb3 Ne5 23. Nd2 Nc6 24. Ndc4 Nf6 25. Kh1 Ne5 26. f4 Nxc4 27. dxc4 Bc6 28.
+Nd1 g6 29. Bh2 Nh5 30. Qe3 Bh4 31. g3 Be7 32. Kg1 Re8 33. e5 Ng7 34. g4 f5 35.
+exf6 Bxf6 36. Nf2 Bh4 37. Re2 Bxf2+ 38. Rxf2 Rf8 39. Bg3 Rbe8 40. Kh2 Rf7 41.
+Rd1 Rd7 42. Rfd2 Qd8 43. h4 Rf8 44. Rf2 Kh8 45. Rb1 Qxa5 46. h5 gxh5 47. f5 exf5
+48. gxf5 Qd8 49. f6 Ne8 50. Bh4 Rdf7 51. Qh6 Rg8 52. Re1 d5 53. Qxh5 Qd6+ 54.
+Re5 d4 55. cxd4 Qxd4 56. Re7 Rxe7 57. fxe7 Qd6+ 58. Kh3 Bd7+ 59. Bf5 Qd3+ 60.
+Rf3 Bxf5+ 61. Qxf5 Qxf5+ 62. Rxf5 Kg7 63. Bg3 h6 64. Be5+ Kh7 65. Rf7+ Kg6 66.
+Rf8 Kh7 67. Bf4 a5 68. Bxh6 a4 69. Be3 a3 70. Bxc5 a2 71. Bd4 Nc7 72. Ba1 Ne8
+73. c5 Nc7 74. c6 Ne8 75. Kh4 Nc7 76. Kh5 Ne8 77. c7 1-0
+
+[Event "3rd Sinquefield Cup 2015"]
+[Site "Saint Louis USA"]
+[Date "2015.09.01"]
+[Round "9.5"]
+[White "Caruana,F"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2808"]
+[BlackElo "2779"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "2020009"]
+[BlackFideId "5202213"]
+[EventDate "2015.08.23"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O g6 6. d4 cxd4 7. Qxd4 Bg7 8. Nc3
+d6 9. Be3 Nbd7 10. Rac1 Rc8 11. b3 a6 12. Rfd1 O-O 13. Qh4 Re8 14. Bh3 Rc7 15.
+g4 Qa8 16. Bd4 h6 17. g5 hxg5 18. Nxg5 e6 19. Be3 Qb8 20. Bf4 Bf8 21. Rxd6 e5
+22. Rxd7 exf4 23. Rcd1 Bg7 24. R7d3 Rce7 25. Bg2 Bxg2 26. Kxg2 Nh5 27. Nd5 Rxe2
+28. Qg4 Qd6 29. Qf3 Qc5 30. R3d2 R2e5 31. h4 b5 32. Rc2 b4 33. Rcd2 a5 34. Qg4
+Bh6 35. Kf1 Rf5 36. Nf3 Bg7 37. Qg2 a4 38. Rd3 Qa5 39. Ng5 axb3 40. axb3 Bf8 41.
+Qf3 Bc5 42. Ne4 Kg7 43. Nxc5 Qxc5 44. Rd4 Kh6 45. Qd3 Kh7 46. Qf3 Re6 47. Kg1
+Qa5 48. Kg2 Kh6 49. R1d3 Qd8 50. Qg4 1/2-1/2

@@ -1,0 +1,805 @@
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.19"]
+[Round "1.2"]
+[White "Ding Liren"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2744"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 d6 6.O-O O-O 7.d3 Re8 8.Bd2 Nd4
+9.a3 Nxf3+ 10.Bxf3 Bxc3 11.Bxc3 c6 12.e4 Bh3 13.Re1 c5 14.b4 b6 15.a4 Nd7
+16.a5 Be6 17.Ra3 Rb8 18.b5 Qc8 19.axb6 axb6 20.Re2 Ra8 21.Rea2 Rxa3 22.Rxa3 Qc7
+23.Bg2 Nf8 24.f4 f6 25.f5 Bc8 26.Bd2 Bb7 27.g4 h6 28.h4 Nh7 29.Bf3 Qe7 30.Kf2 Rb8
+31.Qc1 Ra8 32.Rxa8+ Bxa8 33.Qa1 Bb7 34.Qa7 Qc7 35.g5 fxg5 36.hxg5 Nxg5 37.Bxg5 hxg5
+38.Bh5 Kf8 39.Kg3 Ke7 40.Kg4 Kd8 41.Bg6 Ke7 42.Kxg5 Kf8 43.Kh5 Ke7 44.Kg4 Kd8
+45.Bh7 Ke8 46.Bg8 g6 47.Bd5 gxf5+ 48.Kf3 fxe4+ 49.Ke3 Qd8 50.Bxb7 Qg5+ 51.Kxe4 Qf4+
+52.Kd5 Qf3+ 53.Kxd6 Qf6+ 54.Kd5 Qf3+ 55.Kxe5 Qg3+ 56.Kf5 Qh3+ 57.Kf4 Qh4+
+58.Kf3 Qf6+ 59.Ke2 Qb2+ 60.Ke1 Qc1+ 61.Ke2 Qb2+ 62.Kf1 Qc1+ 63.Kg2 Qd2+ 64.Kg3 Qg5+
+65.Kf3 Qf6+ 66.Ke3 Qd4+ 67.Ke2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.19"]
+[Round "1.5"]
+[White "Topalov,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2749"]
+[BlackElo "2748"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ke8 10.h3 h5 11.Bf4 Be7 12.Rad1 Be6 13.Ng5 Rh6 14.Rfe1 Bb4 15.a3 Bxc3
+16.bxc3 Ne7 17.Nf3 Rh8 18.Nd4 Nd5 19.Bg5 Nxc3 20.Rd3 Na4 21.f4 Nc5 22.Rc3 Na4
+23.Rg3 c5 24.Nxe6 fxe6 25.f5 Kf7 26.Bh4 Rag8 27.Rb1 Nb6 28.fxe6+ Kxe6 29.Rg6+ Kf7
+30.Rg5 Ke6 31.a4 Nxa4 32.Rxb7 Nc3 33.Rxc7 Ne4 34.Rg6+ Kf5 35.Ra6 g5 36.Be1 Re8
+37.Raxa7 Rxe5 38.Rf7+ Ke6 39.c4 Re8 40.Rg7 Kf5 41.Rgf7+ Ke6 42.Rg7 Kf5 43.Rgf7+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.19"]
+[Round "1.1"]
+[White "Navara,D"]
+[Black "Mamedov,Rau"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2704"]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 Re8
+9.f3 e6 10.f4 d6 11.Ndb5 Bf8 12.Qf3 a6 13.Nd4 Na5 14.O-O b5 15.f5 exf5 16.exf5 Bb7
+17.Bxf7+ Kxf7 18.Qg3 Bg7 19.fxg6+ hxg6 20.Bg5 Nc6 21.Rxf6+ Bxf6 22.Rf1 Nxd4
+23.Bxf6 Qxf6 24.Rxf6+ Kxf6 25.Qh4+ Ke5 26.Qh7 Bxg2 27.Qg7+ Ke6 28.Qxg6+ Kd7
+29.Qg7+ Ke6 30.Qxd4 Rg8 31.Kf2 Raf8+ 32.Ke3 Rg5 33.Qb6 Rc5 34.Ne2 Rf3+ 35.Kd2 Rf2
+36.Ke3 Rf3+ 37.Kd2 Rf2 38.Ke3 Rf3+ 39.Kd2 Rf2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.19"]
+[Round "1.3"]
+[White "Mamedyarov,S"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2814"]
+[BlackElo "2843"]
+[ECO "E61"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 Nc6 6.Nf3 d5 7.cxd5 Nxd5 8.O-O e5
+9.Nxe5 Nxc3 10.Nxc6 Nxd1 11.Nxd8 Rxd8 12.Rxd1 Rxd4 13.Be3 Rxd1+ 14.Rxd1 Bf6
+15.Bd4 Bxd4 16.Rxd4 Be6 17.f4 c6 18.Rb4 b6 19.Bxc6 Rc8 20.Bb5 Bxa2 21.Ra4 Be6
+22.Rxa7 Rc1+ 23.Kf2 Rb1 24.Bd7 Bxd7 25.Rxd7 Rxb2 26.g4 b5 27.Rb7 b4 28.g5 b3
+29.Kf3 Rb1 30.Ke4 Kg7 31.Ke5 Rb2 32.e4 Rxh2 33.Rxb3 h6 34.gxh6+ Rxh6 35.Rg3 Rh8
+36.Rb3 Re8+ 37.Kd4 Ra8 38.Ke3 Ra7 39.Kf3 Ra8 40.Kg4 Ra7 41.Rc3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.19"]
+[Round "1.4"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2777"]
+[BlackElo "2778"]
+[ECO "E35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 h6 7.Bh4 c5 8.dxc5 g5
+9.Bg3 Ne4 10.e3 Nc6 11.Bd3 Nxg3 12.hxg3 d4 13.exd4 Qxd4 14.Nf3 Qxc5 15.O-O Be6
+16.Rfc1 g4 17.Ne1 O-O-O 18.Be4 Kb8 19.Nd3 Qc4 20.Qe2 Qa6 21.Nxb4 Nxb4 22.Qe3 Qb6
+23.Qf4+ Qd6 24.Qe3 Qd4 25.Qf4+ Qd6 26.Qe3 Qd4 27.Qf4+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.20"]
+[Round "2.1"]
+[White "Karjakin,Sergey"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2778"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.O-O O-O 7.h3 a5 8.Re1 h6 9.Nbd2 Be6
+10.b3 Ba7 11.Nf1 d5 12.exd5 Nxd5 13.Bd2 Qf6 14.N1h2 Rad8 15.Ng4 Bxg4 16.hxg4 e4
+17.g5 hxg5 18.Bxg5 Nxc3 19.Bxf6 Nxd1 20.Raxd1 gxf6 21.Rxe4 Rfe8 22.Rde1 Rxe4
+23.Rxe4 Kf8 24.Rh4 Kg7 25.Rg4+ Kf8 26.Rh4 Kg7 27.Rg4+ Kf8  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.20"]
+[Round "2.3"]
+[White "Carlsen,M"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2843"]
+[BlackElo "2745"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 a6 7.Be2 c5 8.c3 h6 9.dxc5 Bxc5
+10.Nxc5 Nxc5 11.Be3 Nd7 12.Nd4 Ne7 13.f4 Be4 14.O-O Nc6 15.Nxc6 bxc6 16.c4 O-O
+17.cxd5 cxd5 18.b4 f6 19.exf6 Qxf6 20.Rc1 e5 21.Bd3 Qg6 22.Bxe4 Qxe4 23.Re1 d4
+24.Qb3+ Kh8 25.Bd2 Qf5 26.Qh3 Qxh3 27.gxh3 exf4 28.Rc4 Rad8 29.Re6 Rf6 30.Re4 Nb6
+31.Rcxd4 Rxd4 32.Rxd4 g5 33.h4 Kg7 34.hxg5 hxg5 35.h4 Kg6 36.Kg2 gxh4 37.Bxf4 Rc6
+38.Kf3 Kf5 39.Be3 Rc3 40.Rf4+ Ke5 41.Rxh4 Nc4 42.Re4+ Kd5 43.Kf4 Nxe3 44.Rxe3 Rxe3
+45.Kxe3 Kc4 46.a3 Kb3 47.Kd4 Kxa3 48.Kc5 Kb3 49.b5 axb5 50.Kxb5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.20"]
+[Round "2.2"]
+[White "Topalov,V"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2749"]
+[BlackElo "2777"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.a3 d5 5.cxd5 Nxd5 6.Qc2 Nxc3 7.dxc3 Bd6 8.e4 O-O
+9.Bc4 Qe7 10.Bg5 Qe8 11.O-O-O Be6 12.Bd5 f6 13.Be3 Bxd5 14.Rxd5 Ne7 15.Rdd1 Qc6
+16.Nd2 a5 17.Qb3+ Kh8 18.Qc4 Qd7 19.a4 b6 20.f3 Rab8 21.Kc2 b5 22.axb5 Rxb5
+23.Ra1 Rfb8 24.b3 Ng6 25.Qa4 Qe7 26.Nc4 Bc5 27.Bxc5 Qxc5 28.Rhd1 Nf4 29.Rd2 h6
+30.Qa3 a4 31.bxa4 Rb4 32.Rb1 Qxc4 33.Rxb4 Rxb4 34.Qxb4 Qa2+ 35.Qb2 Qxa4+
+36.Qb3 Qa6 37.g3 Ne6 38.Qd5 Ng5 39.f4 Nf3 40.Rd1 Qe2+ 41.Kb3 Nd4+ 42.Rxd4 exd4
+43.Qxd4 Qxh2 44.Qd8+ Kh7 45.Qd3 Kh8 46.e5 fxe5 47.fxe5 Qg2 48.Qd8+ Kh7 49.Qd3+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.20"]
+[Round "2.4"]
+[White "Wojtaszek,R"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2814"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Nc6 6.Qa4 Bb4+ 7.Bd2 Nd5 8.Bxb4 Nxb4
+9.Ne5 O-O 10.Nxc6 Nxc6 11.e3 e5 12.d5 Ne7 13.Qxc4 c6 14.dxc6 Nxc6 15.Nc3 Be6
+16.Qb5 Qb6 17.Qxb6 axb6 18.O-O Rfd8 19.Rfd1 Kf8 20.Bd5 Ke7 21.Kf1 f5 22.f3 b5
+23.Bxe6 Rxd1+ 24.Rxd1 Kxe6 25.a3 b4 26.axb4 Nxb4 27.Ke2 Na2 28.Rb1 Nb4 29.Rd1 Na2
+30.Rb1 Nb4 31.Rd1 Na2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.20"]
+[Round "2.5"]
+[White "Radjabov,T"]
+[Black "Mamedov,Rau"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2704"]
+[ECO "D19"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qe2 O-O 10.e4 Bg6 11.Bd3 Bh5 12.e5 Nd5 13.Nxd5 cxd5 14.Qe3 Be7 15.Ng5 Bxg5
+16.Qxg5 Bg6 17.Qxd8 Rfxd8 18.Be2 Nb8 19.Be3 Nc6 20.Rfc1 Rdc8 21.Rc3 Nb4 22.Raa3 a5
+23.h4 h6 24.g4 Nc2 25.Rab3 Nxe3 26.fxe3 Bc2 27.Rxc8+ Rxc8 28.Rxb7 Bxa4 29.Ra7 Bd1
+30.Bxd1 Rc1 31.Rxa5 Rxd1+ 32.Kf2 Rd2+ 33.Kf3 Rxb2 34.Ra8+ Kh7 35.Ra7 Kg8
+36.Ra8+ Kh7 37.Ra7 Kg8 38.Ra8+ Kh7  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.21"]
+[Round "3.2"]
+[White "Mamedyarov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2814"]
+[BlackElo "2778"]
+[ECO "E37"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 Ne4 7.Qc2 c5 8.dxc5 Nc6
+9.Nf3 Qa5+ 10.Bd2 Qxc5 11.e3 Nxd2 12.Nxd2 dxc4 13.O-O-O Qf5 14.Ne4 O-O 15.Bxc4 Ne5
+16.g4 Nxg4 17.Rhg1 Nf6 18.Bd3 Nxe4 19.Bxe4 Qh5 20.f4 f5 21.Bh1 Qf7 22.Kb1 e5
+23.fxe5 Be6 24.Rd6 Rac8 25.Qd2 Rc5 26.Bxb7 Rxe5 27.Qd4 Ba2+ 28.Ka1 Re7 29.Bc6 Bb3
+30.Rc1 f4 31.exf4 Qxf4 32.Bd5+ Bxd5 33.Qxd5+ Kh8 34.Qd2 h6 35.Ka2 Qf7+ 36.Ka1 Qf4
+37.Ka2 Qf7+ 38.Ka1 Qf4 39.Ka2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.21"]
+[Round "3.4"]
+[White "Ding Liren"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2749"]
+[ECO "D45"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Be2 Bd6 7.O-O O-O 8.b3 b6
+9.Bb2 Bb7 10.Qc2 Qe7 11.Rfe1 Rfe8 12.Rad1 Rad8 13.Bf1 c5 14.cxd5 exd5 15.g3 a6
+16.Bg2 Rc8 17.Qb1 h6 18.Nh4 c4 19.Nf5 Qf8 20.Nxd6 Qxd6 21.bxc4 Rxc4 22.a4 Rec8
+23.Rc1 h5 24.h3 Nf8 25.Qa2 Ne6 26.Qb3 Qd8 27.Re2 Bc6 28.Rec2 b5 29.axb5 axb5
+30.Nb1 Ng5 31.h4 Nge4 32.Na3 Qe7 33.Qd3 Rxc2 34.Nxc2 Bd7 35.Qa3 Qe8 36.Nb4 Rc4
+37.Rxc4 bxc4 38.Bc1 Be6 39.Na6 Qb5 40.Nc5 Kh7 41.Nxe6 fxe6 42.Bf1 Nxf2 43.Kxf2 Ne4+
+44.Ke2 c3+ 45.Ke1 Qb1 46.Bg2 Qc2 47.Bxe4+ dxe4 48.Kf1 Kg6 49.Kg1 Kh7 50.Kh1 Kh6
+51.Kg1 Kg6 52.Kh1 Qd1+ 53.Kh2 Qe2+ 54.Kg1 Qd1+ 55.Kh2 Qe2+ 56.Kg1 Qe1+ 57.Kg2 Qe2+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.21"]
+[Round "3.5"]
+[White "Giri,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2777"]
+[BlackElo "2748"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Bg5 Bg4 8.Nbd2 Nbd7
+9.c4 dxc4 10.Nxc4 Re8 11.h3 Be6 12.Nxd6 cxd6 13.Nd2 Qa5 14.Bf4 Qb4 15.Bg3 Qxb2
+16.Rb1 Qxa2 17.Rxb7 Qd5 18.Rc7 Rec8 19.Rxc8+ Rxc8 20.Qa1 Bf5 21.Bxf5 Qxf5
+22.Qxa7 Qc2 23.Nf3 Qc6 24.Ra1 Ne4 25.d5 Qc3 26.Kh2 Ndf6 27.Ra6 Qb4 28.Qc7 Qb8
+29.Qxb8 Rxb8 30.Bxd6 Re8 31.Be5 Nxd5 32.Bd4 Nc7 33.Ra2 Ne6 34.Be3 Nd6 35.Rc2 Nf5
+36.Rc3 Nxe3 37.Rxe3 Nc7 38.Rc3 Ne6 39.Re3 Nc7 40.Rc3 Ne6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.21"]
+[Round "3.3"]
+[White "Mamedov,Rau"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2843"]
+[ECO "B09"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 c5 6.Bb5+ Bd7 7.e5 Ng4 8.Bxd7+ Qxd7
+9.d5 dxe5 10.h3 e4 11.Nxe4 Nf6 12.Nxf6+ Bxf6 13.O-O O-O 14.c4 e6 15.Be3 exd5
+16.cxd5 Rd8 17.Qc2 Na6 18.Rad1 Nb4 19.Qxc5 Nxd5 20.Bd4 Rac8 21.Qa3 Qf5 22.Bxf6 Qxf6
+23.Qxa7 Nxf4 24.Rxd8+ Rxd8 25.Qe3 Nd5 26.Qb3 Nf4 27.Qe3 Nd5 28.Qb3 b6 29.Rd1 Nf4
+30.Rxd8+ Qxd8 31.Qe3 g5 32.Kh2 h6 33.h4 Ne6 34.hxg5 hxg5 35.Qe4 Qf6 36.Qe5 Qg6
+37.g4 Qd3 38.Kg3 b5 39.Kf2 Kf8 40.Qe2 Nf4 41.Qxd3 Nxd3+ 42.Ke3 Nxb2 43.Nxg5 Nd1+
+44.Kd4 Nf2 45.Nxf7 Kxf7 46.Kc5 Ne4+ 47.Kxb5 Nc3+ 48.Kc4 Nxa2 49.g5 Kg7 50.g6 Nb4
+51.Kxb4 Kxg6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.21"]
+[Round "3.1"]
+[White "Navara,D"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2744"]
+[ECO "B91"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Be7 8.Bg2 b5
+9.Nd5 Nbd7 10.Nec3 Nb6 11.Nxe7 Qxe7 12.Bg5 O-O 13.O-O h6 14.Bxf6 Qxf6 15.a4 b4
+16.Nd5 Nxd5 17.Qxd5 Be6 18.Qxd6 a5 19.Qb6 Rfc8 20.Rfc1 Qe7 21.Qe3 Rc5 22.Bf1 Rac8
+23.Ba6 R8c6 24.Bb5 Rc8 25.Ba6 R8c6 26.Bb5 Rc8 27.Ba6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.22"]
+[Round "4.1"]
+[White "Giri,A"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2777"]
+[BlackElo "2778"]
+[ECO "A15"]
+
+1.c4 Nf6 2.Nf3 e6 3.b3 d5 4.Bb2 c5 5.cxd5 exd5 6.g3 Nc6 7.Bg2 d4 8.O-O Be7
+9.Na3 O-O 10.Nc4 Be6 11.e3 Rc8 12.exd4 cxd4 13.Re1 Bd5 14.Nce5 Nxe5 15.Nxe5 Re8
+16.Bf3 Bc5 17.Rc1 Qd6 18.Nd3 Rxe1+ 19.Nxe1 Re8 20.Nd3 Bb6 21.Nf4 Bxf3 22.Qxf3 Qd7
+23.h4 h6 24.Ng2 Ng4 25.Re1 Ne5 26.Qe4 Re6 27.Ba1 Ng4 28.Qd3 Ne5 29.Qe4 g6
+30.Rf1 f5 31.Qf4 Qd5 32.f3 Kg7 33.g4 Rf6 34.g5 hxg5 35.hxg5 Re6 36.Qg3 Nd3
+37.Nf4 Nxf4 38.Qxf4 Kf7 39.Qh4 Ke7 40.Qh7+ Kd6 41.Bb2 f4 42.Kh1 Qxg5 43.Ba3+ Kc6
+44.Rc1+ Kb5 45.Qxb7 Qh4+ 46.Kg1 Re1+ 47.Rxe1 Qxe1+ 48.Kg2 Qxd2+ 49.Kh3 Qc2
+50.Qd5+ Ka6 51.Bd6 Qc8+ 52.Kg2 Qc2+ 53.Kh3 Qc1 54.Kg4 Qg1+ 55.Kxf4 Qh2+ 56.Kg4 Qh5+
+57.Qxh5 gxh5+ 58.Kxh5 d3 59.Bf4 Ba5 60.Kg4 Kb5 61.Kf5 d2 62.Bxd2 Bxd2 63.f4 Kb4
+64.Ke4 Kc5 65.Ke5 Kc6 66.f5 Bb4 67.Ke6 Ba3 68.f6 a5 69.Kf7 Kd7  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.22"]
+[Round "4.3"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2843"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 b6
+9.O-O Bb7 10.Bb2 Qe7 11.Rad1 Rad8 12.Rfe1 Rfe8 13.e4 Nxe4 14.Nxe4 dxe4 15.Qxe4 Bb4
+16.Rf1 Bd6 17.Rfe1 Bb4 18.Rf1 Bd6 19.Rfe1 Bb4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.22"]
+[Round "4.2"]
+[White "Karjakin,Sergey"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2745"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Qb6 7.Nc3 Nc6 8.O-O Qxb2
+9.Qe1 cxd4 10.Bxd4 Nxd4 11.Nxd4 Bb4 12.Ndb5 Ba5 13.g4 Bg6 14.Rb1 Qxc2 15.Rc1 Qb2
+16.f4 Ne7 17.Nd6+ Kf8 18.f5 exf5 19.gxf5 Nxf5 20.Nxf5 Rc8 21.Bb5 Bxf5 22.e6 f6
+23.Rxf5 Bxc3 24.Rxc3 Qxc3 25.e7+ Kf7 26.e8=Q+ Rhxe8 27.Bxe8+ Kf8 28.Qxc3 Rxc3
+29.Ba4 Rc5 30.Bb3 Ke7 31.Rxd5 Rxd5 32.Bxd5 b5 33.Kf2 Kd6 34.Bg8 h6 35.Ke3 Ke5
+36.Bb3 g5 37.Bd1 f5 38.h3 a5 39.Bf3 b4 40.Bd1 Kd5 41.Kd3 Ke5 42.Ke3 Kd5 43.Kd3 Ke5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.22"]
+[Round "4.4"]
+[White "Topalov,V"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2749"]
+[BlackElo "2814"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Be3 Be7 10.c3 O-O 11.Nbd2 Nxd2 12.Qxd2 Na5 13.Bc2 Nc4 14.Qd3 g6 15.Bh6 Nxb2
+16.Qe2 Re8 17.Nd4 Bd7 18.f4 c5 19.Nf3 Qb6 20.Qf2 d4 21.Bg5 dxc3 22.Qh4 c4+
+23.Kh1 Bf8 24.f5 Nd3 25.e6 Bxe6 26.fxe6 Rxe6 27.Rad1 Rae8 28.Bxd3 cxd3 29.Rxd3 Re4
+30.Bf4 Be7 31.Qg3 b4 32.Ng5 Bxg5 33.Bxg5 Qe6 34.h3 Qe5 35.Kh2 Qxg3+ 36.Kxg3 h6
+37.Bxh6 Re1 38.Rf6 R1e6 39.Rf2 Re2 40.Rd5 Rxf2 41.Kxf2 f6 42.Be3  1-0
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.22"]
+[Round "4.5"]
+[White "Wojtaszek,R"]
+[Black "Mamedov,Rau"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2704"]
+[ECO "D30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.g3 Nc6 6.Bg2 Nf6 7.O-O Be7 8.dxc5 Bxc5
+9.Qc2 Bb6 10.Nc3 O-O 11.Bg5 Be6 12.Na4 h6 13.Nxb6 axb6 14.Bxf6 Qxf6 15.Qb3 Ra6
+16.Rac1 d4 17.Qb5 Rxa2 18.Rc2 d3 19.exd3 Bg4 20.Qc4 Bxf3 21.Bxf3 Ne5 22.Qxa2 Nxf3+
+23.Kg2 Nd4 24.b4 Qf3+ 25.Kg1 Qxd3 26.Qc4 Qe4 27.Rd1 Nf3+ 28.Kh1 Nd4+ 29.Kg1 Qxc2
+30.Rxd4 Qxc4 31.Rxc4 Rd8 32.Kg2 Kf8 33.h4 Rd6 34.Rc7 Rd4 35.Rxb7 Rxb4 36.h5 Rb5
+37.f4 f5 38.Kf2 Rb3 39.Rd7 Rb5 40.Ke3 Rb3+ 41.Kf2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.23"]
+[Round "5.1"]
+[White "Navara,D"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2745"]
+[BlackElo "2749"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Nf6 4.O-O Bg4 5.d3 Nbd7 6.c4 dxc4 7.dxc4 e5 8.Qc2 h6
+9.Rd1 Qc7 10.Nc3 Be6 11.b3 Bc5 12.Na4 Be7 13.Nh4 g6 14.h3 Kf8 15.Bb2 Re8
+16.e4 Kg8 17.Rac1 Kh7 18.Nf5 Bf8 19.Ne3 Nb6 20.Qc3 Nxa4 21.Qxe5 Bd6 22.Qxf6 Nxb2
+23.Qxb2 Qe7 24.Qc3 Bb4 25.Qe5 Qg5 26.Qb2 Rd8 27.a3 Rxd1+ 28.Rxd1 Bc5 29.Nf1 Rd8
+30.h4 Qe7 31.Rxd8 Qxd8 32.b4 Qd4 33.Qc2 Be7 34.c5 a5 35.bxa5 Bxc5 36.a4 Kg7
+37.Nh2 Bb3 38.Qe2 Qxa4 39.Nf3 Qa1+ 40.Bf1 Qc3 41.Kg2 Ba4 42.Qc4 Qxc4 43.Bxc4 Bc2
+44.Nd2 Bb4 45.Bb3 Bxb3 46.Nxb3 c5 47.Kf3 c4 48.Nd4 Bxa5 49.Nb5 c3 50.Nd4 b5
+51.Ke2 b4 52.f4 Bb6 53.Nb3 h5  0-1
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.23"]
+[Round "5.5"]
+[White "Ding Liren"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2748"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.c5 Nh5 8.Bd3 Nxf4
+9.exf4 b6 10.b4 a5 11.a3 c6 12.O-O Qc7 13.g3 Ba6 14.Qe2 Bxd3 15.Qxd3 Ra7
+16.Rfc1 Rfa8 17.cxb6 Qxb6 18.b5 a4 19.f5 c5 20.fxe6 fxe6 21.dxc5 Nxc5 22.Qe3 Rb7
+23.Rab1 Nb3 24.Qxb6 Rxb6 25.Rc2 Bf6 26.Nxa4 Rxb5 27.Nc3 Rb7 28.Ne2 Rab8 29.Nf4 Nd4
+30.Rxb7 Nxf3+ 31.Kg2 Ne1+ 32.Kf1 Rxb7 33.Kxe1 Kf7 34.a4 Ra7 35.Ra2 g5 36.Nd3 Ke7
+37.f4 gxf4 38.gxf4 Kd6 39.Ke2 Bc3 40.Ke3 Ba5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.23"]
+[Round "5.4"]
+[White "Mamedov,Rau"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2778"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 b5 7.c3 Bb7 8.Bc2 c4
+9.a4 e6 10.axb5 axb5 11.Rxa8 Qxa8 12.Na3 Bxe4 13.Bxe4 Nxe4 14.d3 cxd3 15.Nxb5 Qb7
+16.c4 d5 17.cxd5 exd5 18.Qb3 Nc5 19.Qxd5 Qxd5 20.Nc7+ Kd7 21.Nxd5 Bd6 22.b4 Nb3
+23.Rxe4 Nxc1 24.Rc4 Ne2+ 25.Kf1 Rb8 26.Ne1 Nf4 27.Nxf4 d2 28.Ke2 dxe1=B 29.Kxe1 Rxb4
+30.Rxb4 Bxb4+ 31.Ke2 Bd6 32.Kf3 Bb4 33.Ke2 Bd6 34.Kf3 Bb4 35.Ke2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.23"]
+[Round "5.3"]
+[White "Carlsen,M"]
+[Black "Wojtaszek,R"]
+[Result "1-0"]
+[WhiteElo "2843"]
+[BlackElo "2744"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Qd2 Nf6 6.b3 e6 7.Bb2 a6 8.O-O-O b5
+9.f3 h5 10.Nh3 Be7 11.Ng5 h4 12.f4 Bb7 13.Kb1 Rc8 14.Be2 Qc7 15.Rhe1 Nh7
+16.Nxh7 Rxh7 17.g4 hxg3 18.hxg3 Bf6 19.Bd3 Rh8 20.g4 Nd4 21.Re3 Kf8 22.Ne2 Nxe2
+23.Rxe2 Bc3 24.Bxc3 Qxc3 25.Qe3 Rc5 26.e5 dxe5 27.fxe5 Rh1 28.Rxh1 Bxh1 29.Rh2 Rxe5
+30.Rh8+ Ke7 31.Qa7+  1-0
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.23"]
+[Round "5.2"]
+[White "Mamedyarov,S"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2814"]
+[BlackElo "2777"]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.Qc2 c5 8.Rd1 cxd4
+9.Rxd4 Qa5 10.Bg3 Nb6 11.Nd2 dxc4 12.Bxc4 Nxc4 13.Nxc4 Qa6 14.O-O Rd8 15.Rxd8+ Bxd8
+16.Ne5 Bd7 17.Nxd7 Nxd7 18.Rd1 Nf6 19.Qd3 Qxd3 20.Rxd3 Rc8 21.f3 Kf8 22.Kf1 a6
+23.Ke2 Ke8 24.Rd4 Be7 25.Bd6 Nd5 26.Bxe7 Nxc3+ 27.bxc3 Kxe7 28.Kd3 Rc5 29.Rb4 b5
+30.c4 Kd6 31.cxb5 axb5 32.a4 Rd5+ 33.Ke2 bxa4 34.Rxa4 Rc5 35.Ra6+ Ke7 36.Ra4 Rc2+
+37.Kf1 Rc1+ 38.Kf2 Rc2+ 39.Kf1 Rc1+ 40.Kf2 Rc2+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.25"]
+[Round "6.1"]
+[White "Ding Liren"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2814"]
+[ECO "D60"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Be2 h6 8.Bh4 c5
+9.cxd5 Nxd5 10.Bxe7 Nxe7 11.O-O cxd4 12.Nxd4 Nf6 13.Qb3 Qa5 14.a3 Rd8 15.Qb4 Qxb4
+16.axb4 Nc6 17.Nc2 Rd2 18.Rfc1 Nd5 19.Nxd5 exd5 20.b5 Rxe2 21.bxc6 d4 22.exd4 bxc6
+23.Kf1 Re4 24.f3 Rh4 25.Nb4 Bd7 26.Nxc6 Bxc6 27.Rxc6 Rxd4 28.Rc2 a5 29.b3 Rb4
+30.Ra3 Rab8 31.Rxa5 Rxb3 32.Kf2 Rb2 33.Rxb2 Rxb2+ 34.Kf1 Rb1+ 35.Kf2 Rb2+
+36.Kf1 Rb1+ 37.Kf2 Rb2+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.25"]
+[Round "6.5"]
+[White "Radjabov,T"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2744"]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.e5 h6 11.Bh4 dxe5 12.fxe5 g5 13.exf6 gxh4 14.Be2 Qa5 15.O-O Nd7
+16.Kh1 Qg5 17.Qe1 Nxf6 18.Nf3 Qg7 19.Ne5 Be7 20.Na4 O-O 21.Nb6 Rb8 22.Rb3 Ne4
+23.Ned7 Bxd7 24.Nxd7 Qg5 25.Nxb8 Rxb8 26.Bh5 Nd2 27.Rxf7 Nxb3 28.Qxe6 Kh8
+29.Rxe7 Rf8 30.Kg1 Qxh5 31.cxb3 Qd1+ 32.Qe1 Qd4+ 33.Qe3 Qd1+ 34.Qe1 Qd4+
+35.Qe3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.25"]
+[Round "6.3"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2778"]
+[BlackElo "2843"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6 13.Re1 Bf5 14.Qf3 Qh4 15.g3 Qh3
+16.Be3 Bxd3 17.Nd2 Qf5 18.Bd4 Rfe8 19.a4 Kf8 20.h4 h6 21.Qxf5 Bxf5 22.Rxe8+ Rxe8
+23.axb5 axb5 24.Ra6 Ne7 25.Be3 Kg8 26.Ba2 Rd8 27.Bb6 Re8 28.Be3 Rd8 29.Bb6 Re8
+30.Be3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.25"]
+[Round "6.2"]
+[White "Giri,A"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2777"]
+[BlackElo "2745"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Qb6 7.Nc3 Nc6 8.Na4 Qa5+
+9.c3 cxd4 10.Nxd4 Nxd4 11.Bxd4 Ne7 12.O-O Nc6 13.b4 Qc7 14.Rc1 Be7 15.g4 Be4
+16.f3 Bg6 17.f4 Be4 18.Nc5 a5 19.Be3 axb4 20.cxb4 Ra3 21.Bf2 Bxc5 22.Bxc5 Rxa2
+23.b5 Bc2 24.b6 Bxd1 25.bxc7 Kd7 26.Bxd1 Kxc7 27.Bd6+ Kd7 28.Rb1  1-0
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.25"]
+[Round "6.4"]
+[White "Topalov,V"]
+[Black "Mamedov,Rau"]
+[Result "1/2-1/2"]
+[WhiteElo "2749"]
+[BlackElo "2704"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5 Ne7 14.Re1 Bg7 15.c3 O-O
+16.Nc2 Re8 17.Qh5 e4 18.Bf1 Nxd5 19.Qxf5 Re5 20.Qh3 Qb6 21.Rad1 Rae8 22.Rxe4 Rxe4
+23.Rxd5 h6 24.Qd3 R8e6 25.g3 R4e5 26.Bg2 b4 27.cxb4 Re2 28.Rf5 Qc7 29.Ne3 Qc1+
+30.Bf1 Rxb2 31.a3 Ra2 32.Qd5 Rxa3 33.Kg2 Raxe3 34.fxe3 Qxe3 35.Bxa6 Qe4+
+36.Qxe4 Rxe4 37.Rb5 Kf8 38.Bb7 Re2+ 39.Kh3 Bd4 40.Bf3 Rb2 41.Rd5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.26"]
+[Round "7.4"]
+[White "Mamedov,Rau"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2777"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Bd3 Nf6 6.O-O Be7 7.c3 O-O 8.Bc2 Bg4
+9.h3 Bh5 10.d4 c6 11.Re1 Na6 12.Nbd2 Qd7 13.Nf1 Rae8 14.Ng3 Bg6 15.Bxg6 hxg6
+16.Qb3 Bd8 17.Bg5 Nd5 18.Bxd8 Rxd8 19.Ne4 Rfe8 20.Qa3 Nf6 21.Nxf6+ gxf6 22.d5 c5
+23.Qb3 Kg7 24.c4 Rxe1+ 25.Rxe1 Re8 26.a3 Rxe1+ 27.Nxe1 Nb8 28.Nc2 Qe7 29.Qe3 Qe5
+30.Qb3 b6 31.Ne3 f5 32.Qa4 a6 33.b4 f4 34.Nf1 Kf8 35.bxc5 dxc5 36.Qb3 Nd7
+37.Qa4 Nb8 38.Qb3 Nd7 39.Qa4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.26"]
+[Round "7.3"]
+[White "Carlsen,M"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2843"]
+[BlackElo "2749"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.bxc3 d6 7.e4 O-O 8.g3 Ne8
+9.Nh4 Ne7 10.d3 f5 11.exf5 Nxf5 12.Nxf5 Bxf5 13.Bg2 c6 14.h3 Nc7 15.O-O Ne6
+16.Be3 Nc5 17.Rad1 Qd7 18.Kh2 Bg6 19.Rd2 Rae8 20.Qd1 b6 21.Re1 h6 22.Bxc5 dxc5
+23.Re3 Re6 24.Kg1 Rd6 25.h4 Rd8 26.Rxe5 Bxd3 27.Be4 Bxc4 28.Rxd6 Qxd6 29.Re8+ Rxe8
+30.Qxd6 Rxe4 31.Qxc6 Re1+ 32.Kh2 Bxa2 33.g4 Kh7 34.f4 h5 35.f5 hxg4 36.h5 Bf7
+37.Qb7 Kg8 38.Qxa7 Bxh5 39.Qxb6 c4 40.Qd8+ Be8 41.Kg3 Kh7 42.Qc7 Kg8 43.Qxc4+ Bf7
+44.Qd4 Re8 45.c4 Rf8 46.c5 Be8 47.Qd5+ Kh7 48.Qe6 Bb5 49.c6 Bxc6 50.Qg6+ Kg8
+51.Qxc6 Rf6 52.Qe8+ Kh7 53.Kxg4 Rh6 54.Kf4 Rf6 55.Ke5 Rh6 56.Qe6  1-0
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.26"]
+[Round "7.2"]
+[White "Wojtaszek,R"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2778"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Nd2 c5 5.a3 Bxd2+ 6.Qxd2 cxd4 7.Nf3 d5 8.Bg2 dxc4
+9.Qxd4 Qxd4 10.Nxd4 O-O 11.Be3 Nd5 12.Rc1 Nxe3 13.fxe3 Nd7 14.Rxc4 Nf6 15.O-O Rd8
+16.Rc7 Rb8 17.b4 Rd7 18.Rc4 Rd8 19.Rc7 e5 20.Nb5 Bg4 21.Re1 a6 22.Nc3 Rbc8
+23.Rxc8 Rxc8 24.Na4 Rc7 25.h3 Bc8 26.Nb6 Be6 27.a4 h5 28.a5 g6 29.Kf2 Kg7
+30.Rd1 Bf5 31.Rd6 Be6 32.Rd1 g5 33.Ke1 Kf8 34.h4 gxh4 35.gxh4 Ke7 36.e4 Nd7
+37.Nd5+ Bxd5 38.Rxd5 Rc4 39.Bh3 Nf6 40.Rxe5+ Kd6 41.Rf5 Nxe4 42.Kd1 Nc3+
+43.Ke1 Rxh4 44.Bg2 Rxb4 45.Rxf7 Nd5 46.Rh7 Rb5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.26"]
+[Round "7.1"]
+[White "Navara,D"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteElo "2745"]
+[BlackElo "2778"]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a3 d6
+9.c3 Na5 10.Ba2 c5 11.d4 c4 12.Bg5 h6 13.Bh4 Bg4 14.h3 Bxf3 15.Qxf3 Nc6 16.d5 Na5
+17.Bxf6 Bxf6 18.Nd2 Bg5 19.Nf1 g6 20.a4 Qe7 21.Bb1 Nb3 22.Ra2 Nc5 23.Bc2 Rfb8
+24.g3 h5 25.h4 Bh6 26.axb5 axb5 27.Rea1 Rxa2 28.Rxa2 Kg7 29.Qe2 Rb7 30.Qe1 Qc7
+31.Kg2 Qb6 32.Kf3 Rc7 33.Kg2 b4 34.cxb4 Nd3 35.Bxd3 cxd3 36.Ra1 Rc2  0-1
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.26"]
+[Round "7.5"]
+[White "Mamedyarov,S"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2814"]
+[BlackElo "2748"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.b3 Bg7 6.Nf3 O-O 7.O-O dxc4 8.bxc4 c5
+9.Bb2 cxd4 10.Nxd4 Qb6 11.Qc1 Bd7 12.Nd2 Nc6 13.e3 Rac8 14.Bc3 Nxd4 15.exd4 Bf5
+16.Qa3 Bd3 17.Rfe1 Bxc4 18.Nxc4 Rxc4 19.Rab1 Qa6 20.Qxa6 bxa6 21.Bb4 Rxd4
+22.Bxe7 Re8 23.Bc5 Rxe1+ 24.Rxe1 Rd2 25.Rb1 Nd7 26.Bxa7 Bd4 27.Bxd4 Rxd4
+28.Bf1 Ra4 29.Rb7 Nf8 30.Rb6 Rxa2 31.Rxa6 Rxa6 32.Bxa6 Ne6 33.Bf1 Nf8 34.Ba6 Ne6
+35.Bf1 Nf8 36.Ba6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.27"]
+[Round "8.5"]
+[White "Radjabov,T"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2778"]
+[ECO "D47"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.O-O a6 10.e4 c5 11.d5 c4 12.Bc2 Qc7 13.dxe6 fxe6 14.Ne2 Nc5 15.Bf4 Qd7
+16.Qxd7+ Nfxd7 17.Ned4 Be7 18.b4 cxb3 19.axb3 b4 20.Rfe1 O-O 21.Bc7 g6 22.Rad1 Rac8
+23.Ba5 Rfe8 24.Re3 e5 25.Ne2 Nf6 26.Bxb4 Ncxe4 27.Bxe4 Nxe4 28.Bxe7 Rxe7
+29.Ng3 Nxg3 30.hxg3 Bxf3 31.gxf3 Rc5 32.b4 Rb5 33.Ra1 Re6 34.Rea3 Rxb4 35.Rxa6 Rxa6
+36.Rxa6 Rb5 37.Ra8+ Kg7 38.Ra7+ Kg8 39.Ra8+ Kg7 40.Ra7+ Kg8  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.27"]
+[Round "8.4"]
+[White "Mamedyarov,S"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2814"]
+[BlackElo "2745"]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.h4 dxc4 6.e4 c5 7.d5 b5 8.h5 O-O 9.hxg6 fxg6
+10.d6 exd6 11.Nxb5 d5 12.Nc3 Re8 13.Be3 d4 14.e5 Ba6 15.Qa4 Qd7 16.Bxc4+ Bxc4
+17.Qxc4+ Qe6 18.Qxe6+ Rxe6 19.exf6 Bxf6 20.Nd5 Bd8 21.O-O-O dxe3 22.Nxe3 Nc6
+23.Rd7 Be7 24.Rxh7 Rb8 25.Rc7 Bf6 26.Rb7 Nb4 27.Rxb8+ Kxh7 28.Rb7+ Kg8 29.Rxa7 Nd3+
+30.Kb1 Bxb2 31.a4 Bd4 32.Kc2 Nb4+ 33.Kd2 Bxe3+ 34.fxe3 Nd5 35.a5 c4 36.Rd7 Nf6
+37.Rd8+ Kg7 38.Kc3 Rc6 39.Ne5 Ne4+ 40.Kd4 c3 41.Kxe4 Rc4+ 42.Kf3  1-0
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.27"]
+[Round "8.2"]
+[White "Ding Liren"]
+[Black "Mamedov,Rau"]
+[Result "1-0"]
+[WhiteElo "2778"]
+[BlackElo "2704"]
+[ECO "D34"]
+
+1.d4 d5 2.c4 e6 3.Nf3 c5 4.cxd5 exd5 5.g3 Nc6 6.Bg2 Nf6 7.O-O Be7 8.Nc3 O-O
+9.Bg5 c4 10.e3 Be6 11.b3 cxb3 12.Qxb3 Na5 13.Qb2 Ne4 14.Nxe4 dxe4 15.Bxe7 Qxe7
+16.Nd2 Nc4 17.Nxc4 Bxc4 18.Rfc1 Rac8 19.a4 g6 20.a5 Rc6 21.Bf1 b5 22.axb6 Rxb6
+23.Qa3 Qxa3 24.Rxa3 Bxf1 25.Kxf1 a6 26.Rc5 f5 27.h3 Rff6 28.Kg2 h5 29.Raa5 Kg7
+30.Rc7+ Rf7 31.Rc8 h4 32.Re8 hxg3 33.Kxg3 Rb3 34.Kg2 Rb2 35.Rxa6 f4 36.exf4 Rxf4
+37.Ra7+ Kh6 38.Kg3 Rf6 39.h4 g5 40.Rh8+ Kg6 41.Rg8+ Kf5 42.Rxg5+  1-0
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.27"]
+[Round "8.3"]
+[White "Giri,A"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2777"]
+[BlackElo "2843"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3 a5
+9.d3 O-O 10.Be3 Be6 11.Rc1 a4 12.Nd2 f5 13.Bxb6 cxb6 14.Nxa4 Bg5 15.Nc3 e4
+16.Kh1 Qd7 17.Rb1 Rad8 18.Nc4 Qf7 19.b3 exd3 20.exd3 f4 21.Ne4 Be7 22.gxf4 Qxf4
+23.a4 Nb4 24.Qe2 Qh6 25.Rbd1 Nd5 26.Rg1 Kh8 27.Bf1 Rf4 28.Ne5 Rdf8 29.f3 Rh4
+30.d4 Nf4 31.Qd2 Bxb3 32.Rb1 Bxa4 33.Bb5 Bxb5 34.Rxb5 Qe6 35.Qb2 Bd8 36.Ng5 Qe8
+37.Rb3 Bxg5 38.Rxg5 Ne6 39.Rg4 Rxg4 40.fxg4 Qd8 41.Rh3 Qd5+ 42.Kg1 Qe4 43.Qb4 Rf6  0-1
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.27"]
+[Round "8.1"]
+[White "Topalov,V"]
+[Black "Wojtaszek,R"]
+[Result "0-1"]
+[WhiteElo "2749"]
+[BlackElo "2744"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 O-O 7.d4 Ba7 8.Re1 b5
+9.Bb3 d6 10.h3 Bb7 11.a4 Ne7 12.Bc2 Ng6 13.Na3 c6 14.Bd3 Re8 15.Nc2 h6 16.dxe5 dxe5
+17.Be3 Bxe3 18.Nxe3 Nf4 19.Bc2 Qc7 20.Nf5 Rad8 21.Qc1 Bc8 22.Nh2 Bxf5 23.exf5 e4
+24.axb5 axb5 25.Nf1 c5 26.b3 Nd3 27.Bxd3 exd3 28.Rxe8+ Rxe8 29.c4 Re2 30.cxb5 Qe5
+31.Ra8+ Kh7 32.Qc4 Qxf5 33.f3 Rc2 34.Qxf7 Qg5 35.g4 Qh4  0-1
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.28"]
+[Round "9.5"]
+[White "Navara,D"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2748"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 Be7 5.d3 Nf6 6.Ng5 O-O 7.f4 exf4 8.Bxf4 d5
+9.exd5 Nd4 10.Nge4 b5 11.d6 Nxe4 12.dxe7 Qxe7 13.Nxe4 bxc4 14.O-O cxd3 15.cxd3 Rd8
+16.Qh5 Bf5 17.Rae1 Bg6 18.Qxc5 Qxc5 19.Nxc5 Rac8 20.Nb7 Rd7 21.Nc5 Rdd8 22.Nb7 Rd7
+23.Nc5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.28"]
+[Round "9.4"]
+[White "Karjakin,Sergey"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2778"]
+[BlackElo "2749"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Na4 Bb6 7.a3 O-O 8.O-O Ne7
+9.Nxb6 axb6 10.Bg5 Be6 11.Bxf6 gxf6 12.Nh4 d5 13.exd5 Nxd5 14.d4 c6 15.Re1 b5
+16.Bxd5 cxd5 17.Qh5 e4 18.f3 b4 19.fxe4 dxe4 20.Rxe4 Ra5 21.Qh6 Qd5 22.Rf4 bxa3
+23.bxa3 Qg5 24.Qxf6 Qxf6 25.Rxf6 Rc8 26.Rf2 b5 27.Rd2 b4 28.a4 Bd7 29.Kf2 Rxa4
+30.Rb1 Rc4 31.Rb2 Kf8 32.g3 Bh3 33.Nf3 f6 34.Ke3 Bg4 35.Ne1 Ke7 36.Ng2 Bh3
+37.Nf4 Be6 38.d5 Bf5 39.d6+ Kd8 40.Nd5 Ra3+ 41.Kf2 Be4 42.Nb6 Rc5 43.Rxb4 Rh5
+44.Ke1 Bc6 45.Re2 Ra6 46.c4 Ra1+ 47.Kd2 Rf5 48.Re7 Ra2+ 49.Kc3  1-0
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.28"]
+[Round "9.3"]
+[White "Carlsen,M"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2843"]
+[BlackElo "2778"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.Qe2+ Qe7
+9.dxc3 Qxe2+ 10.Kxe2 Bc5 11.Be3 Bxe3 12.Kxe3 c6 13.Bd3 d5 14.Rae1 Ke7 15.c4 dxc4
+16.Bxc4 Rd8 17.Rd1 Be6 18.Bxe6 Kxe6 19.Rhe1 Rxd1 20.Rxd1 Re8 21.f4 f5 22.Kf3 Re7
+23.Re1+ Kf6 24.Rd1 Ke6 25.Re1+ Kf6 26.Rd1 Ke6 27.Re1+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.28"]
+[Round "9.2"]
+[White "Wojtaszek,R"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2777"]
+[ECO "E06"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Bg5 Bc6 10.Rd1 b5 11.Bxf6 Bxf6 12.Nc3 Qe8 13.d5 exd5 14.Nd4 Qe5 15.e4 dxe4
+16.axb5 axb5 17.Nxc6 Nxc6 18.Rxa8 Rxa8 19.Qxe4 Qxe4 20.Bxe4 Ra6 21.Nxb5 Ne5
+22.Nxc7 Ra2 23.Rb1 Nd7 24.Bc6 Nc5 25.Bd5 Rxb2 26.Rxb2 Bxb2 27.Bxc4 Be5 28.Na6 Nxa6
+29.Bxa6 Bd6 30.Bb5 Be5 31.Ba6 Bd6 32.Bb5 Be5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.28"]
+[Round "9.1"]
+[White "Mamedov,Rau"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2704"]
+[BlackElo "2814"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.Nc3 Ne8 10.Nd5 Bd6 11.Re1 c6 12.Ne3 Bc7 13.Nf5 d5 14.Ne7+ Kh8 15.Nxc8 Rxc8
+16.d3 Nf6 17.Qf3 Qd7 18.g3 Ng4 19.d4 Rce8 20.Bd2 f5 21.Rxe8 Rxe8 22.Re1 Rxe1
+23.Bxe1 Qe6 24.Qe2 Qd7 25.Qf3 Qe6 26.Qe2 Qd7 27.Qf3 Qe6  1/2-1/2

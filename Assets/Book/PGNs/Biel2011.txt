@@ -1,0 +1,787 @@
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.18"]
+[Round "1"]
+[White "Pelletier,Y"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2590"]
+[BlackElo "2821"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[WhiteFideId "1301837"]
+[BlackFideId "1503014"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 b6 10. O-O Bb7 11. d5 Bxc3 12. Bc4 Bg7 13. Qd3 Qc8 14. Bg5 Re8
+15. e5 e6 16. dxe6 fxe6 17. Rbd1 Bxf3 18. Qxf3 Nc6 19. Bb5 Nxe5 20. Qe4 Nf7 21.
+Bh4 Bd4 22. Rxd4 cxd4 23. Bxe8 Qxe8 24. Qxd4 Rc8 25. Re1 e5 26. Qg4 Rc2 27. h3
+Qc6 28. Bg3 Rxa2 29. Bxe5 Nxe5 30. Rxe5 Ra4 31. Qd1 Rf4 32. Qb3+ Rf7 33. Re7
+Qc1+ 34. Kh2 Qf4+ 35. Kh1 Kf8 36. Re2 Kg7 37. Qd5 a5 38. f3 Rc7 39. Re1 Rc1 40.
+Rxc1 Qxc1+ 41. Kh2 Qc7+ 42. Kh1 Kf6 43. Qd4+ Ke6 44. Qg4+ Kd6 45. Qd4+ Kc6 46.
+Qe4+ Kb5 47. Qe2+ Qc4 48. Qe8+ Qc6 49. Qe2+ Kc5 50. Qe3+ Kb4 51. Qe1+ Kc4 52.
+Qe2+ Kc3 53. Qe3+ Kb2 54. Qd2+ Kb1 55. Qd3+ Qc2 56. Qb5+ Ka1 57. Kh2 Qc7+ 58.
+Kh1 Qc1+ 59. Kh2 Qf4+ 60. Kh1 Qd4 61. Qf1+ Kb2 62. Qe2+ Kc1 63. Qe4 Qc3 64. f4
+b5 65. Qe5 Qc4 66. Qa1+ Kc2 67. Qxa5 b4 68. Qa4+ Kb2 69. f5 gxf5 70. Kh2 h5 71.
+Qd7 Qf4+ 72. Kh1 b3 73. Qd3 Qf2 74. Qd5 h4 75. Kh2 Qf4+ 76. Kh1 Kc2 77. Qc5+ Kb1
+78. Qb5 b2 79. Qd3+ Ka2 80. Qa6+ Kb3 81. Qb5+ Ka3 82. Qa5+ Qa4 83. Qc5+ Ka2 84.
+Qd5+ Ka1 85. Qe5 Qe4 86. Qa5+ Kb1 87. Qc3 f4 88. Qd2 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.18"]
+[Round "1"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2722"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[WhiteFideId "2020009"]
+[BlackFideId "623539"]
+[EventDate "2011.07.18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. a3 Nbd7 10. Bc4 g5 11. Bf2 Qc7 12. Qe2 Nb6 13. Bb3 gxf4 14. O-O-O Be7 15.
+Rhe1 Rg8 16. g3 fxg3 17. Bxg3 e5 18. Nf5 Bxf5 19. exf5 Rg7 20. Kb1 O-O-O 21. Bf2
+Rd7 22. Bxb6 Qxb6 23. Bxf7 Kb8 24. Bb3 Rc7 25. Rd3 Rg5 26. Rf1 h5 27. h3 Rg1 28.
+Rxg1 Qxg1+ 29. Ka2 Qg5 30. Qf3 h4 31. Re3 Rc5 32. Ne4 Nxe4 33. Rxe4 Bf6 34. Rb4
+Qg7 35. Qd3 Qd7 36. Rb6 Rc6 37. Rb4 Qc7 38. Qd5 Ka7 39. Rg4 Qc8 40. Qe4 d5 41.
+Qxd5 Qxf5 42. c3 Qf2 43. Qf7 e4 44. Rg7 Qb6 45. Rg2 e3 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.18"]
+[Round "1"]
+[White "Shirov,A"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2694"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "4116992"]
+[EventDate "2011.07.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qh4+ 16. Qf2 Be7 17. Qxh4 Bxh4+ 18. Kd2 Bd8 19. Rhb1 Bc6 20. Rb8 Rxb8
+21. Rxb8 O-O 22. Rc8 Bb7 23. Rb8 Bc6 24. Rc8 Bb7 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.19"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Pelletier,Y"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2590"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "1301837"]
+[EventDate "2011.07.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 c5 8.
+Be3 Qc7 9. Qe2 a6 10. O-O b6 11. dxc5 Bxc5 12. Bxc5 Qxc5 13. Qe5 Qxe5 14. Nxe5
+Ke7 15. a4 Bb7 16. Ra3 a5 17. f4 g6 18. Re1 Rhd8 19. g3 Rab8 20. Rb3 Ba8 21. Rc3
+Rbc8 22. Rxc8 Rxc8 23. Kf2 Nd7 24. Nxd7 Kxd7 25. h4 h5 26. Ke3 Rc5 27. Kd2 Bc6
+28. b3 Kd6 29. c3 Bd7 30. Re4 Rd5 31. Ke3 Rc5 32. Bc4 b5 33. Rd4+ Kc7 34. axb5
+Bxb5 35. Bxb5 Rxb5 36. b4 axb4 37. cxb4 e5 38. fxe5 Rxe5+ 39. Re4 Rb5 40. Rf4 f5
+41. Rd4 Re5+ 42. Kf4 Re6 43. Kg5 Kc6 44. Rd8 Re3 45. Kxg6 Rxg3+ 46. Kxh5 f4 47.
+Rf8 f3 48. Rf5 Kb6 49. Kh6 Kc6 50. h5 Kb6 51. Kh7 Kc6 52. h6 Kb6 53. Kh8 Kc6 54.
+h7 Kb6 55. Rf8 Kb5 56. Rb8+ Kc6 57. b5+ Kc7 58. Rg8 f2 59. Rf8 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.19"]
+[Round "2"]
+[White "Carlsen,M"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2821"]
+[BlackElo "2714"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Wade variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "2209390"]
+[EventDate "2011.07.18"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. Nd4 e5 14. Nf5 g6 15. Nh6 Nh5
+16. g3 Bc5 17. Qf3 Rf8 18. Bd2 Bd4 19. b4 cxb3 20. Bxb3 Qd6 21. Rac1 Ng7 22. a4
+f5 23. axb5 f4 24. Ne2 Bb6 25. bxa6 Bxa6 26. Bc4 g5 27. Bxa6 Rxa6 28. Rc8+ Bd8
+29. Nf5 Nxf5 30. exf5 Nf6 31. Qd3 Ra7 32. Qb5+ Qd7 33. Rxd8+ 1-0
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.19"]
+[Round "2"]
+[White "Vachier Lagrave,M"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2694"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4116992"]
+[EventDate "2011.07.18"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. e4 Nxc3 5. bxc3 g6 6. d4 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Qc7 11. Rc1 b6 12. Qd2 Bb7 13. Bh6 Rad8 14. Bxg7 Kxg7
+15. f4 Qd7 16. Bb5 Qe6 17. f5 Qd6 18. Bxc6 Bxc6 19. d5 Bd7 20. c4 Qe5 21. Rc3
+Rh8 22. Rh3 f6 23. Qf4 b5 24. Qh6+ Kf7 25. Nf4 Rdg8 26. Ne6 bxc4 27. Ra3 Qxe4
+28. Ng5+ fxg5 29. fxg6+ Ke8 30. Rxa7 hxg6 31. Ra8+ Bc8 32. Qxg5 Kd8 33. d6 Qd4+
+34. Rf2 Qd1+ 35. Rf1 Qd4+ 36. Rf2 Qd1+ 37. Rf1 Qxd6 38. h3 Qd4+ 39. Kh1 Rf8 40.
+Re1 Rf6 41. Qg3 Rhf8 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.20"]
+[Round "3"]
+[White "Shirov,A"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2711"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[WhiteFideId "2209390"]
+[BlackFideId "2020009"]
+[EventDate "2011.07.18"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 Be7 5. O-O d6 6. Nbd2 O-O 7. Re1 Nbd7 8. a3
+h6 9. Nf1 Nh7 10. Ng3 Nb6 11. Bb3 Ng5 12. c3 Bg4 13. d4 Qc8 14. Qd3 Nxf3+ 15.
+gxf3 Be6 16. d5 Bh3 17. f4 exf4 18. Bxf4 Qg4 19. Bd2 Bg5 20. f3 Qh4 21. Bxg5
+hxg5 22. dxc6 bxc6 23. Nf5 Bxf5 24. exf5 d5 25. Qd4 Qh6 26. Re2 Rfe8 27. Rae1
+Rxe2 28. Rxe2 Qd6 29. c4 c5 30. Qd2 d4 31. Qxg5 d3 32. Re4 Nd7 33. Qe7 Qc6 34.
+Re3 d2 35. Rd3 Nf6 36. Qe3 Qc7 37. Qxd2 Qe5 38. Rd8+ Rxd8 39. Qxd8+ Kh7 40. Qd2
+a5 41. Kf1 Kg8 42. Bd1 Qc7 43. Ke1 Qe5+ 44. Be2 Qc7 45. Kd1 Nd7 46. h4 Nf6 47.
+Kc2 Kh7 48. Kb3 Nd7 49. Ka2 Nf6 50. Bd1 Nh5 51. Ba4 f6 52. Be8 Nf4 53. Qd7 Qb8
+54. Bf7 Ne2 55. Bg6+ Kh8 56. h5 Nd4 57. Kb1 Qg8 58. h6 gxh6 59. Qe7 Nxf3 60. Bf7
+Qg1+ 61. Ka2 Ne5 62. Qf8+ Kh7 63. Bg6+ 1-0
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.20"]
+[Round "3"]
+[White "Morozevich,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2821"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "1503014"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 Bg7 7. e3 c5 8. d5
+Nd7 9. Ne2 Ne5 10. Nc3 f5 11. Be2 Nf7 12. Bh4 O-O 13. f3 exf3 14. gxf3 Qd6 15.
+Bg3 e5 16. O-O-O Bd7 17. Kb1 a6 18. e4 f4 19. Bf2 Rab8 20. h4 b5 21. Rc1 Rfc8
+22. Ka1 Bf8 23. Nd1 a5 24. cxb5 Bxb5 25. Bxb5 Rxb5 26. Nc3 Rb4 27. Rc2 c4 28.
+Rhc1 a4 29. a3 Rb3 30. Qe2 Qa6 31. Nb1 Nd6 32. Nd2 Nb5 33. d6 Nxd6 34. Qf1 Rb7
+35. Qh3 Re8 36. h5 g5 37. Bc5 Rc7 38. Bxd6 Qxd6 39. Rxc4 Rxc4 40. Nxc4 Qe6 41.
+Qg2 Be7 42. Nd2 Kg7 43. Nb1 Kh6 44. Rc7 Rc8 45. Rxc8 Qxc8 46. Qg4 Qc4 47. Qf5
+Bc5 48. Qxe5 Bd4 49. Qd6+ Kxh5 50. Qd7 Kg6 51. Qf5+ Kh6 52. Qh3+ Kg7 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.20"]
+[Round "3"]
+[White "Pelletier,Y"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2590"]
+[BlackElo "2722"]
+[ECO "E92"]
+[Opening "King's Indian"]
+[Variation "Gligoric-Taimanov system"]
+[WhiteFideId "1301837"]
+[BlackFideId "623539"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Nbd7 8. O-O
+Qe7 9. Qc2 exd4 10. Nxd4 Re8 11. f3 Ne5 12. Rad1 Be6 13. Nd5 Bxd5 14. cxd5 Rac8
+15. Rfe1 Nxd5 16. exd5 Ng4 17. Bb5 Nxe3 18. Bxe8 Rxe8 19. Qd2 Bh6 20. Nc2 f5 21.
+Qd3 f4 22. Nxe3 fxe3 23. Re2 Rf8 24. Qb3 Qe5 25. Rc1 Bf4 26. g3 Bxg3 27. hxg3
+Rxf3 28. Rg2 Rxg3 29. Qc3 Qf4 30. Rxg3 Qxg3+ 31. Kh1 Qh3+ 32. Kg1 Qg3+ 33. Kh1
+Qh4+ 34. Kg1 Qg3+ 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.22"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2821"]
+[BlackElo "2711"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[EventDate "2011.07.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Bd3 Qh4 7. Qe2 Ne7 8.
+Nc3 O-O 9. Be3 Bb6 10. O-O d5 11. exd5 Nxd5 12. Bd2 Bd4 13. Rae1 Nb4 14. Qe4
+Qxe4 15. Bxe4 Ba6 16. Ne2 Bc5 17. a3 Nd5 18. b4 Bd6 19. Nd4 Bxf1 20. Kxf1 Nb6
+21. Nxc6 Rfe8 22. a4 Kf8 23. a5 Nc4 24. Bc1 a6 25. f4 Re6 26. Bd5 Rf6 27. Re4 1-0
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.22"]
+[Round "4"]
+[White "Shirov,A"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2722"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "2209390"]
+[BlackFideId "623539"]
+[EventDate "2011.07.18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8. exd5
+Nxd5 9. Nde2 Bb4 10. Bg2 O-O 11. O-O Nxc3 12. Nxc3 Qc7 13. Ne4 Nc6 14. c3 Be7
+15. f4 f5 16. gxf5 Rxf5 17. Be3 Bd7 18. Qd3 Rd8 19. b4 Be8 20. Qc4 Bf7 21. Ng3
+Rf6 22. Ne4 Rf5 23. Ng3 Rf6 24. Ne4 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.22"]
+[Round "4"]
+[White "Morozevich,A"]
+[Black "Pelletier,Y"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2590"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "1301837"]
+[EventDate "2011.07.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. g3 b6 8.
+Bb5+ Bd7 9. a4 a6 10. Be2 Bc6 11. O-O Bd6 12. Ne5 Bxe5 13. dxe5 Qd5 14. Qxd5
+Nxd5 15. a5 b5 16. Bd2 O-O-O 17. Rfd1 Rd7 18. f3 Rhd8 19. Kf2 Ne7 20. Bg5 Rxd1
+21. Rxd1 Rxd1 22. Bxd1 Ng6 23. f4 h6 24. Bh4 Nxh4 25. gxh4 f5 26. Ke3 Be8 27.
+Kd4 c6 28. Kc5 Kc7 29. Bf3 h5 30. c4 g6 31. b4 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.23"]
+[Round "5"]
+[White "Vachier Lagrave,M"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2821"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[WhiteFideId "623539"]
+[BlackFideId "1503014"]
+[EventDate "2011.07.18"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Bg5 7. Nf1 Bxc1 8. Rxc1
+Nge7 9. Ne3 O-O 10. O-O Ng6 11. Ncd5 Be6 12. c3 Na5 13. Nf5 Kh8 14. g3 Qd7 15.
+Nde3 Ne7 16. Nxe7 Nxc4 17. dxc4 Qxe7 18. Qd3 Rad8 19. Rcd1 b6 20. Rd2 Rd7 21. b3
+Re8 22. Kg2 Qg5 23. Rfd1 Kg8 24. Qe2 Red8 25. Qf3 Qe7 26. h4 Qf8 27. h5 Qe7 28.
+h6 g6 29. Nd5 Bxd5 30. Rxd5 Qg5 31. Rh1 Kf8 32. Qd3 Qf6 33. Qe3 Qe6 34. Rf1 f6
+35. b4 Ke8 36. Rfd1 Kf7 37. a4 Ke7 38. a5 Rc8 39. b5 Qg4 40. axb6 axb6 41. Ra1
+Rb8 42. f3 Qe6 43. Qd2 Kf7 44. Rd1 Ke7 45. Ra1 Kf7 46. Ra6 Qe7 47. Qe3 Qe6 48.
+Qc1 g5 49. Qh1 Kg6 50. g4 Kf7 51. Kf2 Ke7 52. Qf1 Kf7 53. Ke3 Kg6 54. Qh1 Kf7
+55. Kd3 Ke7 56. Kc2 Qg8 57. Qa1 Qf8 58. Rd1 Rdb7 59. Rh1 Kf7 60. Kb3 Qe7 61. Qa2
+Qd7 62. Ra1 Qe7 63. Qd2 Kg6 64. Qh2 Kf7 65. R1a2 Qd7 66. Qh5+ Kf8 67. Qh1 Kf7
+68. Qd1 Kg6 69. Rd2 Rd8 70. Qh1 Kf7 71. Rda2 Rdb8 72. Ra1 Qe7 73. R6a2 Rd7 74.
+Qd1 Kg6 75. Qh1 Kf7 76. Qb1 Rdb7 77. Qd3 Kg6 78. f4 gxf4 79. Qh3 Kf7 80. Ra8 Qe6
+81. Qh5+ Kf8 82. Qf5 Qxf5 83. gxf5 Rxa8 84. Rxa8+ Kf7 85. Kc2 Re7 86. Kd3 Re8
+87. Ra7+ Kg8 88. Rg7+ Kf8 89. Rxh7 Kg8 90. Ra7 Kh8 91. h7 Rb8 92. Ke2 Rd8 93.
+Kf3 Rc8 94. Kg4 Rd8 95. Kh5 f3 96. Kg6 1-0
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.23"]
+[Round "5"]
+[White "Caruana,F"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2694"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "4116992"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Bd7 8. Nc3
+Nd5 9. Nd2 Nb6 10. Qe2 Na5 11. Rd1 Bb4 12. Nf3 O-O 13. Bd2 Qe7 14. Ne4 Bb5 15.
+Bc3 Na4 16. Qd2 Nxc3 17. Nxc3 Ba4 18. Rdc1 c5 19. d5 Rad8 20. e4 b5 21. Qe3 Bxc3
+22. Qxc3 b4 23. Qe5 Bb5 24. Rd1 Rd6 25. Rac1 Qd8 26. Qh5 exd5 27. exd5 Rh6 28.
+Qf5 Rf6 29. Qe4 Nb7 30. Qc2 Re8 31. Re1 Nd6 32. Rxe8+ Qxe8 33. Re1 Qc8 34. Ne5
+Qf5 35. Qxf5 Rxf5 36. Bh3 Rh5 37. Bg4 Rh6 38. Rc1 f6 39. Nc6 f5 40. Bd1 Kf8 41.
+Bf3 Ne4 42. Bxe4 fxe4 43. Nd8 Ke7 44. Nb7 Rh5 45. Nxc5 e3 46. Re1 Kd6 47. Ne4+
+Kxd5 48. Rxe3 Kd4 49. Nd2 Bc6 50. h4 Ra5 51. a3 bxa3 52. bxa3 Rb5 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.23"]
+[Round "5"]
+[White "Pelletier,Y"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2590"]
+[BlackElo "2714"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "5.Bg5 dc"]
+[WhiteFideId "1301837"]
+[BlackFideId "2209390"]
+[EventDate "2011.07.18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. a4 Bb4 7. e4 Qa5 8. Bd2 c5
+9. dxc5 Nc6 10. Bxc4 Qxc5 11. Qe2 e5 12. Be3 Qe7 13. O-O Bxc3 14. bxc3 O-O 15.
+Bc1 Qc7 16. Ba3 Rd8 17. h3 Na5 18. Ba2 Be6 19. Bxe6 fxe6 20. Rfd1 Qc4 21. Qxc4
+Nxc4 22. Be7 Rxd1+ 23. Rxd1 Nxe4 24. Rd7 Nb6 25. Rxb7 Nxa4 26. c4 Nac5 27. Rc7
+Nd3 28. c5 Rb8 29. Bd6 Rb1+ 30. Kh2 Ndxf2 31. Rc8+ Kf7 32. Nxe5+ Kf6 33. Rf8+
+Kg5 34. Nf7+ Kg6 35. Ne5+ Kh6 36. Nf7+ Kg6 37. Ne5+ Kh6 38. Nf7+ 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.25"]
+[Round "6"]
+[White "Vachier Lagrave,M"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2711"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical, hedgehog system"]
+[WhiteFideId "623539"]
+[BlackFideId "2020009"]
+[EventDate "2011.07.18"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 c5 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. b3 d6 8. Bb2
+Nbd7 9. e3 O-O 10. Qe2 Qc7 11. Rfd1 a6 12. Rac1 Rfe8 13. d4 Ne4 14. Nxe4 Bxe4
+15. Ne1 Bxg2 16. Nxg2 cxd4 17. exd4 Qb7 18. Ne3 Rac8 19. Ba3 Bf8 20. d5 e5 21.
+h4 g6 22. h5 f5 23. hxg6 hxg6 24. Kg2 Nf6 25. Rh1 Qd7 26. Rh4 Bg7 27. Rch1 g5
+28. Rh5 f4 29. Rxg5 fxe3 30. Qxe3 Rf8 31. Rh4 Nh7 32. Rgh5 Nf6 33. Rg5 Nh7 34.
+Rgh5 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.25"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Pelletier,Y"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2821"]
+[BlackElo "2590"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "1301837"]
+[EventDate "2011.07.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. g3 Be7 6. Bg2 Ngf6 7. Nc3 O-O 8.
+Nf3 Nd5 9. Qd3 Nb4 10. Qd2 c5 11. O-O cxd4 12. Nxd4 Nb6 13. a3 e5 14. axb4 exd4
+15. Nb5 Bf6 16. Rd1 Bg4 17. f3 Bf5 18. g4 a6 19. Nxd4 Bxd4+ 20. Qxd4 Bxc2 21.
+Qxd8 Raxd8 22. Rxd8 Rxd8 23. f4 Rd7 24. b5 Rd1+ 25. Kf2 axb5 26. Bxb7 f5 27. Bf3
+Rd8 28. Ra5 fxg4 29. Bxg4 Bd3 30. Be6+ Kh8 31. b3 h6 32. Bb2 Nd5 33. Ra7 Nf6 34.
+Rf7 Rd6 35. f5 Bc2 36. Rf8+ Kh7 37. Bxf6 gxf6 38. Rxf6 Rd2+ 39. Ke3 Rd3+ 40. Ke2
+h5 41. Rf7+ Kh6 42. Rc7 1-0
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.25"]
+[Round "6"]
+[White "Morozevich,A"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2714"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "2209390"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 c5 8.
+dxc5 d4 9. Qc2 Nbd7 10. b4 h6 11. Bd2 a5 12. Rd1 axb4 13. axb4 e5 14. Nf3 Re8
+15. g3 e4 16. Nxd4 Ne5 17. Qc3 Nfg4 18. Be3 Nxe3 19. fxe3 Qg5 20. Bg2 Nd3+ 21.
+exd3 Qxe3+ 22. Kf1 Bh3 23. Qb2 Bg4 24. Re1 Qxd3+ 25. Kg1 Rad8 26. Nb5 e3 27. h3
+e2 28. Kh2 Qe3 29. Nd6 Qf2 30. Nxe8 Rxe8 31. Qd2 Bf3 32. Rhg1 Re3 33. b5 f5 34.
+Qd4 Be4 35. Qxe3 Qxe3 36. Bxe4 Qxe4 37. c6 bxc6 38. bxc6 f4 39. c7 fxg3+ 40.
+Rxg3 Qxc4 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.26"]
+[Round "7"]
+[White "Shirov,A"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2821"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2209390"]
+[BlackFideId "1503014"]
+[EventDate "2011.07.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bg5 h6 7. Bh4 Be7 8. Nbd2
+d6 9. Nf1 Nb8 10. Ne3 Ng4 11. Bg3 Nxe3 12. fxe3 Nd7 13. d4 Nf6 14. Bd3 Ng4 15.
+Qe2 Bg5 16. dxe5 dxe5 17. Bxe5 Bh4+ 18. g3 Nxe5 19. Nxe5 Bf6 20. Nf3 Qe7 21.
+O-O-O c6 22. Nd4 a6 23. Rhf1 c5 24. Nf5 Bxf5 25. Rxf5 b5 26. Bc2 c4 27. Rfd5 Be5
+28. Qh5 Rae8 29. a3 Qa7 30. Kd2 Qb8 31. Ke2 Re6 32. Qh4 Qb6 33. Rd8 Ree8 34.
+Rxe8 Rxe8 35. Rd5 Qc7 36. a4 Qb6 37. axb5 axb5 38. Qh5 Qb8 39. Rd7 g6 40. Qf3
+Rf8 41. Kf2 b4 42. Qe2 bxc3 43. bxc3 Qc8 44. Qd2 Bxc3 45. Qd5 Qa6 46. e5 Qa2 47.
+Qe4 Bxe5 48. h4 Re8 49. Kg2 h5 50. Kh3 c3 51. Rd5 Qa6 52. Bd3 Qc8+ 53. Kg2 Bg7
+54. Rc5 Qd7 55. Qc4 Rxe3 56. Rc7 Rxg3+ 57. Kxg3 Be5+ 58. Kf2 Qxc7 59. Qxc7 Bxc7
+60. Kf3 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.26"]
+[Round "7"]
+[White "Pelletier,Y"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2590"]
+[BlackElo "2711"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[WhiteFideId "1301837"]
+[BlackFideId "2020009"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Qd2 e6 13. f4 Bc7 14. O-O exd5
+15. exd5 Ba5 16. d6 Rb8 17. Bb2 b5 18. Rbd1 Bd7 19. Bf3 c4 20. Kh1 Bf5 21. Qd4
+Bb6 22. Qd5 Be6 23. Qe5 Qd7 24. Ba3 Rfe8 25. Rfe1 Bf2 26. Rf1 Bb6 27. Rfe1 Bf2
+28. Rf1 Bf5 29. Qf6 Be3 30. Bd5 Be4 31. Bxe4 Rxe4 32. f5 Rbe8 33. h3 Bh6 34. Bb4
+Bg7 35. Qg5 h6 36. Qd2 gxf5 37. Qf2 f4 38. Qc5 Be5 39. Qd5 Re3 40. a4 bxa4 41.
+Qxc4 a5 42. Bxa5 Kh8 43. Rd3 Rxd3 44. Qxd3 Qxd6 45. Qxd6 Bxd6 46. Bb4 Bc7 47.
+Ra1 Ra8 48. Kg1 Kg7 49. Kf2 Kf6 50. Ke2 Ke5 51. Kd3 Kd5 52. Rd1 Be5 53. Kc2+ Kc4
+54. Re1 f6 55. Re4+ Kb5 56. Kb2 Rg8 57. Re2 Rg3 58. Rf2 h5 59. Ka2 Re3 60. Kb2
+Re1 61. Ka2 Kc4 62. Ka3 Ra1+ 63. Kb2 Rd1 64. Ka3 Re1 65. Ba5 Kd3 66. Kxa4 Re2 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.26"]
+[Round "7"]
+[White "Morozevich,A"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2722"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Byrne (Simagin) variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "623539"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8. Be2
+e5 9. d5 Nd4 10. Nxd4 exd4 11. Qxd4 c6 12. d6 Re8 13. Qd3 b5 14. f3 b4 15. Nd1
+Re6 16. Qc2 Nh5 17. Be3 Be5 18. g3 Rxd6 19. Qc5 Bd4 20. Bxd4 Rxd4 21. Ne3 Be6
+22. Nc2 Rd2 23. Nxb4 Rxb2 24. Qc3 Rxb4 25. Qxb4 Rb8 26. Qc3 Qb6 27. a3 Bh3 28.
+Bf1 Be6 29. Rd1 Qc7 30. Kf2 Rb3 31. Qd4 Rxa3 32. Qd8+ Qxd8 33. Rxd8+ Kg7 34. Be2
+Nf6 35. Rc1 Ra2 36. Ke3 a5 37. Rd2 Ra3+ 38. Rd3 Ra2 39. Rxc6 a4 40. Rcc3 Nd7 41.
+Ra3 Rb2 42. Rd2 Rb4 43. Rd4 1-0
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.27"]
+[Round "8"]
+[White "Vachier Lagrave,M"]
+[Black "Pelletier,Y"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2590"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[WhiteFideId "623539"]
+[BlackFideId "1301837"]
+[EventDate "2011.07.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. g3 Be7 6. Bg2 Ngf6 7. Nxf6+ Bxf6 8.
+Ne2 O-O 9. O-O Rb8 10. Nc3 b5 11. Qd3 a6 12. a4 b4 13. Ne4 a5 14. Nxf6+ Nxf6 15.
+Bg5 Bb7 16. Bxb7 Rxb7 17. Rfe1 c6 18. Re5 Rd7 19. c3 bxc3 20. bxc3 Rd5 21. Rae1
+h6 22. Bxf6 gxf6 23. Rxe6 fxe6 24. Qg6+ Kh8 25. Qxh6+ Kg8 26. Qg6+ Kh8 27. Re4
+f5 28. Qh6+ Kg8 29. Rxe6 Rd7 30. Rg6+ Kf7 31. Rxc6 Ke8 32. d5 Re7 33. c4 f4 34.
+Qh5+ Rff7 35. Kg2 f3+ 36. Kh3 Qd7+ 37. g4 Kd8 38. Qg5 Rg7 39. Qf4 Ke8 40. Kg3
+Qb7 41. Qf5 Rc7 42. Rh6 Rh7 43. Re6+ 1-0
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.27"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2821"]
+[BlackElo "2694"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "4116992"]
+[EventDate "2011.07.18"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bxf6 Qxc3+ 11. Kf1 gxf6 12. Rc1 Qa5 13. g3 Bd7 14.
+Kg2 Nc6 15. Bb5 Rd8 16. Bxc6 Bxc6 17. Nxc6 bxc6 18. Qf3 Qe5 19. Rxc6 O-O 20. Re1
+Rd7 21. Qe3 Rb8 22. Rec1 Rd4 23. R1c4 Rb4 24. Qxd4 Qxd4 25. Rxd4 Rxd4 26. Ra6
+Rxe4 27. Rxa7 f5 28. a4 Kg7 29. Kf3 e5 30. a5 Ra4 31. a6 Ra3+ 32. Ke2 Ra2+ 33.
+Ke3 Ra3+ 34. Kd2 Ra2+ 35. Ke3 Ra3+ 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.27"]
+[Round "8"]
+[White "Caruana,F"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2714"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "2209390"]
+[EventDate "2011.07.18"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd7 7. O-O Nc6 8.
+Nb3 Nf6 9. Nbxd4 Bc5 10. Nxc6 Qxc6 11. Ne5 Qb6 12. Qe2 O-O 13. Bd3 Nd5 14. Qe4
+f5 15. Qe2 Qc7 16. Bc4 Bd6 17. Nf3 Bd7 18. Bxd5 exd5 19. Be3 f4 20. Bd4 Bf5 21.
+Bc3 Rae8 22. Qd2 Be4 23. Rad1 h6 24. Rfe1 Qf7 25. Qd4 b6 26. Bb4 Bxb4 27. Qxb4
+Bxc2 28. Rxe8 Rxe8 29. Re1 Rxe1+ 30. Qxe1 Be4 31. Nd4 f3 32. gxf3 Bxf3 33. Qe6
+Qxe6 34. Nxe6 Kf7 35. Nd4 Bg4 36. f3 Bd7 37. Kf2 g5 38. Ke3 h5 39. Ne2 Kf6 40.
+Nd4 a5 41. a3 a4 42. Nc2 Ke5 43. Nd4 Be8 44. Ne2 Bg6 45. Nd4 Kd6 46. Kd2 Bh7 47.
+Ne2 Kc5 48. Kc3 h4 49. Nd4 Kd6 50. Kd2 Bg6 51. b3 axb3 52. Nxb3 Ke5 53. Ke3 Be8
+54. Nd4 Bd7 55. Ne2 Bc8 56. Nd4 Kd6 57. Kd3 Ba6+ 58. Kd2 Bf1 59. Nb3 Bh3 60. Nd4
+Bd7 61. Kd3 g4 62. fxg4 Bxg4 63. Kd2 Ke5 64. Ke3 Bh5 65. Nc6+ Kd6 66. Nd4 Kc5
+67. Kd3 Bg6+ 68. Kc3 Kd6 69. Kd2 Be4 70. Ne2 Ke5 71. Ke3 Kf5 72. Nd4+ Kg4 73.
+Kf2 Kh3 74. Kg1 Bg2 75. Nf5 Bf3 76. Nd4 Be4 77. Ne6 Kg4 78. Kf2 Bf5 79. h3+ Kxh3
+80. Nf4+ Kg4 81. Nxd5 Be4 82. Nc3 Bf3 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.28"]
+[Round "9"]
+[White "Carlsen,M"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2821"]
+[BlackElo "2722"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "1503014"]
+[BlackFideId "623539"]
+[EventDate "2011.07.18"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 c6 6. Nc3 d5 7. cxd5 cxd5 8. Ne5
+e6 9. O-O Nfd7 10. f4 Nc6 11. Be3 Nb6 12. Bf2 Bd7 13. e4 Ne7 14. Nxd7 Qxd7 15.
+e5 Rac8 16. Qe2 Rc4 17. Rfc1 Rfc8 18. Bf1 R4c7 19. Qe1 a6 20. b3 Bf8 21. Qd2 Nc6
+22. a3 f5 23. Kg2 Qg7 24. Be3 Be7 25. Bd3 Na5 26. Qb2 g5 27. Ne2 g4 28. Rh1 h5
+29. h3 Kf7 30. Rh2 h4 31. Bd2 Nc6 32. Rah1 Rh8 33. hxg4 Qxg4 34. Rh3 Rcc8 35.
+Ng1 Qg7 36. Nf3 hxg3 37. b4 Rxh3 38. Rxh3 Rh8 39. Rxh8 Qxh8 40. b5 axb5 41. Bxb5
+Qc8 42. a4 Nc4 43. Bxc4 dxc4 44. Qc1 Nb4 45. Bxb4 Bxb4 46. d5 Qc5 47. dxe6+ Kxe6
+48. Kxg3 Qd5 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.28"]
+[Round "9"]
+[White "Shirov,A"]
+[Black "Pelletier,Y"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2590"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "1301837"]
+[EventDate "2011.07.18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. g3 Be7 6. Bg2 Ngf6 7. Nxf6+ Bxf6 8.
+Ne2 O-O 9. O-O Rb8 10. Nc3 Nb6 11. Be3 Nd5 12. Ne4 Nxe3 13. Nxf6+ Qxf6 14. fxe3
+Qg5 15. Qd3 b6 16. a4 c5 17. a5 Bb7 18. Bxb7 Rxb7 19. axb6 axb6 20. Qe4 Rd7 21.
+c3 g6 22. Rf2 Rfd8 23. Ra6 cxd4 24. exd4 Qb5 25. Qe2 Qc6 26. Qe5 Ra8 27. Rxa8+
+Qxa8 28. c4 Qa4 29. Qb8+ Kg7 30. Qe5+ Kg8 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.28"]
+[Round "9"]
+[White "Morozevich,A"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2711"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "4116992"]
+[BlackFideId "2020009"]
+[EventDate "2011.07.18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Ne5 Bb7 10. h4 g4 11. Nxg4 Nxg4 12. Qxg4 Qxd4 13. Qf4 Bb4 14. Rd1 Bxc3+ 15.
+Ke2 Qe5 16. Qxe5 Bxe5 17. Bxe5 Rh7 18. Ke3 Nd7 19. Bg3 O-O-O 20. Be2 f5 21. Rd6
+fxe4 22. Rxe6 Nc5 23. Rg6 h5 24. Rg5 Rd5 25. Rd1 Nd3 26. b3 Ba6 27. bxc4 bxc4
+28. Rd2 Kb7 29. Rg8 Kb6 30. Rc2 Ne1 31. Rc1 Nxg2+ 32. Kxe4 Re7+ 33. Kf3 Nxh4+
+34. Bxh4 Rf5+ 35. Kg2 Rxe2 36. a4 Rb2 37. Rb8+ Bb7 38. Rxc4 c5+ 39. Kh2 Rb1 40.
+f4 Rd5 41. Rd8 Rbd1 42. Rxd5 Bxd5 43. Rc3 c4 44. Bf6 Kc5 45. Kg3 Kb4 46. Rc2 a5
+47. f5 Rf1 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.29"]
+[Round "10"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2821"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[EventDate "2011.07.18"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 a6 8. a5 h6
+9. Re1 exd4 10. Nxd4 Ne5 11. Bf1 c5 12. Nb3 Be6 13. Bf4 Rc8 14. h3 Re8 15. Bxe5
+dxe5 16. Nd2 c4 17. Ra4 Bc5 18. Nxc4 Bd4 19. Qf3 Rc5 20. Nd1 Qc7 21. Nde3 Bxe3
+22. Nxe3 Rxa5 23. Rb4 Rd8 24. Rd1 Rxd1 25. Qxd1 Rc5 26. Ra4 Rc6 27. Bd3 Rd6 28.
+Qe1 b5 29. Ra3 g6 30. b4 Rc6 31. Qa1 Qd6 32. Kh2 h5 33. Rc3 Rxc3 34. Qxc3 h4 35.
+Nf1 Nh5 36. Nd2 g5 37. Nf3 f6 38. g3 hxg3+ 39. fxg3 Ng7 1/2-1/2
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.29"]
+[Round "10"]
+[White "Pelletier,Y"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2590"]
+[BlackElo "2694"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "1301837"]
+[BlackFideId "4116992"]
+[EventDate "2011.07.18"]
+
+1. d4 d5 2. Nf3 e6 3. c4 a6 4. cxd5 exd5 5. Nc3 c6 6. Qc2 Bd6 7. Bg5 Ne7 8. e3
+f6 9. Bh4 Bf5 10. Bd3 Bxd3 11. Qxd3 Nd7 12. Bg3 Nb6 13. O-O-O Bb4 14. Nd2 O-O
+15. Kb1 a5 16. Rhe1 a4 17. a3 Ba5 18. f3 Qd7 19. e4 f5 20. Be5 f4 21. g3 Ng6 22.
+gxf4 Nxf4 23. Qc2 Ng6 24. Bg3 dxe4 25. Rxe4 Bxc3 26. Qxc3 Nd5 27. Qc2 b5 28. Be5
+Rae8 29. Rde1 Nxe5 30. Rxe5 h6 31. Rc1 Rxe5 32. dxe5 Ne7 33. Ne4 Qd5 34. Nc5 Rf4
+35. Rd1 Rd4 36. Rxd4 Qxd4 37. Nd3 Qe3 38. f4 Qe4 39. Ka1 Nd5 40. Qd2 Kh7 41. Qd1
+Kg8 42. Qd2 Ne3 43. Qc3 Nf5 44. Nc5 Qxf4 45. Ne6 Qf1+ 46. Ka2 Ne7 47. Qd4 Nd5
+48. Nd8 Qh3 49. e6 b4 50. Qd1 Qxh2 51. Qc1 bxa3 0-1
+
+[Event "Biel ACCENTUS GM"]
+[Site "Biel SUI"]
+[Date "2011.07.29"]
+[Round "10"]
+[White "Vachier Lagrave,M"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2714"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "623539"]
+[BlackFideId "2209390"]
+[EventDate "2011.07.18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. g3 dxc4 6. Bg2 b5 7. Ne5 a6 8. O-O Bb7
+9. a4 Be7 10. axb5 axb5 11. Rxa8 Bxa8 12. Bf4 Nd5 13. Qa1 Bb7 14. Qa7 Qc8 15.
+Nxc4 Nxf4 16. Nb6 Nxe2+ 17. Nxe2 Qc7 18. Na8 Qc8 19. Nb6 Qc7 20. Na8 Qc8 21. Nb6 1/2-1/2

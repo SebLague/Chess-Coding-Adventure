@@ -1,0 +1,619 @@
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.11"]
+[Round "1.1"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2765"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.a5 d6 10.d3 Be6 11.Bxe6 fxe6 12.Nbd2 Qb8 13.Nb3 Nd8 14.d4 exd4 15.Qxd4 c5
+16.Qc4 Nd7 17.Be3 Bf6 18.Ra2 Re8 19.Nbd2 Nf7 20.Qb3 Qb5 21.Rd1 Nde5 22.Nxe5 Nxe5
+23.Qa4 Qxa4 24.Rxa4 Rac8 25.h3 g5 26.c3 d5 27.exd5 exd5 28.cxb4 Nd3 29.Bxc5 Nxb2
+30.Raa1 Nxd1 31.Rxd1 Bc3 32.Nf3 d4 33.Nxg5 Rb8 34.Nf3 Bxb4 35.Bb6 Re4 36.Nxd4 Re1+
+37.Rxe1 Bxe1 38.Ne6 Re8 39.Nc5 Rc8 40.Nxa6 Bxa5 41.Bxa5 Ra8 42.Bd2 Rxa6 43.g4 Kf7
+44.Kg2 Kg6 45.Be3 h5 46.f4 hxg4 47.hxg4 Rf6 48.Kf3 Rf7 49.Bc5 Rf6 50.Bb4 Rf7
+51.Ke4 Rb7 52.Bc5 Rb3 53.Be3 Rb4+ 54.Ke5 Kf7 55.Kf5 Rb5+ 56.Ke4 Kf6 57.Bd2 Rc5
+58.Be1 Rc4+ 59.Kf3 Rc5 60.Bh4+ Kg6 61.Be7 Ra5 62.Kg3 Kf7 63.Bd6 Kg6 64.Kh4 Ra1
+65.Bc5 Rd1 66.f5+ Kf6 67.Be3 Rh1+ 68.Kg3 Rb1 69.Bc5 Rb5 70.Bd4+ Kg5 71.Be3+ Kf6
+72.Bd4+ Kg5 73.Be3+ Kf6 74.Bd4+  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.11"]
+[Round "1.1"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2746"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 b6 7.Qc2 Bb7 8.Rd1 Bd6
+9.Bg3 Nbd7 10.cxd5 Nxd5 11.e4 Nxc3 12.bxc3 Bxg3 13.hxg3 e5 14.Bb5 c6 15.Be2 Qc7
+16.g4 Rfe8 17.g5 Rad8 18.Kf1 b5 19.Rh4 a6 20.a4 Qa5 21.g6 hxg6 22.Ng5 Nf8
+23.Rd3 Bc8 24.Qb3 Qc7 25.axb5 axb5 26.Rf3 Be6 27.d5 cxd5 28.exd5 Rxd5 29.Nxe6 fxe6
+30.Rfh3 e4 31.Rxe4 Ra8 32.g3 Qc5 33.Re3 Ra3 34.Qb2 Qd6 35.Rh4 Ra4 36.Rhe4 Qa3
+37.Qxa3 Rxa3 38.Bg4 Rc5 39.Bxe6+ Nxe6 40.Rxe6 Raxc3 41.Rxc3 Rxc3 42.Rxg6 b4
+43.Rb6 b3 44.Kg2 Kf7 45.f4 g5 46.fxg5 Rc2+ 47.Kf3 b2 48.Kg4 Kg7 49.Rb7+ Kg6
+50.Rb6+ Kg7 51.Rb7+ Kg6  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.12"]
+[Round "1.2"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2832"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nd7
+9.O-O-O c6 10.h4 d5 11.Kb1 Re8 12.Bd3 Bc5 13.Bd4 Bxd4 14.cxd4 Nf6 15.Rde1 Ne4
+16.Qf4 Qf6 17.Qxf6 Nxf6 18.Kc1 Rxe1+ 19.Rxe1 Kf8 20.Kd2 h6 21.Ne5 Ng4 22.Nxg4 Bxg4
+23.c3 Re8 24.Rxe8+ Kxe8 25.Ke3 g5 26.hxg5 hxg5 27.f3 Be6 28.f4 f6 29.g3 Ke7
+30.a3 Bd7 31.Bc2 Be6 32.Bd3 Bd7 33.Bc2 Be6  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.12"]
+[Round "1.2"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2781"]
+[ECO "A34"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bc4 Nd3+ 7.Ke2 Nf4+ 8.Kf1 Ne6
+9.d4 cxd4 10.Bxe6 Bxe6 11.Nxd4 Nc6 12.Nxe6 Qxd1+ 13.Nxd1 fxe6 14.Bd2 e5 15.f3 e6
+16.Be3 Bb4 17.Nf2 Ba5 18.Ke2 Bb6 19.Rhd1 Bxe3 20.Kxe3 Ke7 21.Rac1 Rhd8 22.Rxd8 Rxd8
+23.Nd3 Kd6 24.Nc5 Rb8 25.h4 Nb4 26.a3 b6 27.Nxe6 Na2 28.Ra1 Kxe6 29.Rxa2 Rc8
+30.Kd2 Rd8+ 31.Ke2 Rc8 32.b3 Rc1 33.Rd2 Ra1 34.a4 Rb1 35.Rd3 Rb2+ 36.Kf1 a6
+37.Kg1 b5 38.Rd8 bxa4 39.bxa4 Ra2 40.Rh8 h6 41.Re8+ Kf6 42.Rb8 Rxa4 43.Rb6+ Kf7
+44.h5 a5 45.Ra6 Ra2 46.Kh2 a4 47.Kh3 a3 48.g3 Ra1 49.Kg4 a2 50.Kf5 Rf1 51.Rxa2 Rxf3+
+52.Kxe5 Rxg3 53.Ra7+ Kg8 54.Kd6 g6 55.Ra8+ Kf7 56.Ra7+ Kg8 57.Ra8+ Kf7 58.Ra7+  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.4"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2832"]
+[BlackElo "2746"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 b6 7.cxd5 Nxd5 8.Nxd5 Qxd5
+9.Bd3 Qa5+ 10.Kf1 Ba6 11.Bxc7 Bxd3+ 12.Qxd3 Na6 13.Bg3 Nb4 14.Qe2 Rfc8 15.a3 Qa4
+16.Kg1 Na2 17.h3 Nc1 18.Qf1 Qc2 19.Kh2 Ne2 20.Be5 Qxb2 21.d5 Nc3 22.dxe6 fxe6
+23.Rd1 Qxa3 24.Rd7 Nd5 25.Nd4 Bf6 26.Bg3 Bxd4 27.exd4 Qa4 28.Rd6 Rc6 29.Rd7 Rcc8
+30.Rd6 Qe8 31.Qa6 Rc6 32.Ra1 Rxd6 33.Bxd6 Qd7 34.Be5 Nb4 35.Qe2 Nc6 36.Bg3 Qd5
+37.Qa6 Nxd4 38.Rc1 Nf5 39.Rc8+ Rxc8 40.Qxc8+ Kf7 41.Qc7+ Kf6 42.Bf4 e5 43.Bc1 h6
+44.Bb2 Qc5 45.Qb8 a5 46.f4 Kg6 47.Bxe5 Qc6 48.Qa7 h5 49.h4 a4 50.Qa6 Kh7
+51.Qd3 Qg6 52.g3 Nh6 53.Qc4 Ng4+ 54.Kh3 Qb1  0-1
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2832"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.Nf3 e4 5.Nd4 Qb6 6.Nc2 d5 7.O-O dxc4 8.Nc3 Na6
+9.d3 exd3 10.exd3 Be7 11.Re1 Be6 12.dxc4 O-O 13.Be3 Qa5 14.Bd2 Qb6 15.Na4 Qd8
+16.b3 Re8 17.Bc3 Nc5 18.Bxf6 Qxd1 19.Raxd1 gxf6 20.Nc3 f5 21.Ne2 Bf6 22.Ned4 Rad8
+23.Bh3 f4 24.Nxe6 Rxd1 25.Rxd1 Nxe6 26.Bxe6 Rxe6 27.Kf1 b5 28.cxb5 cxb5 29.gxf4 Re4
+30.f5 Kg7 31.Rd5 a6 32.Rd6 Rh4 33.Ne3 a5 34.Ra6 a4 35.bxa4 bxa4 36.Kg2 Rd4
+37.Kf3 h5 38.Ra5 Rh4 39.Kg2 Rf4 40.Kg3 Rb4 41.Nd5 Bh4+ 42.Kg2 Rd4 43.f6+ Kg6
+44.Kf3 Bg5 45.h3 h4 46.Rb5 Bxf6 47.Ke3 Rd1 48.Nf4+ Kg7 49.Ra5 Rh1 50.Kf3 Rh2
+51.Nh5+ Kg6 52.Nf4+ Kg7 53.Rxa4 Be5 54.Kg4 Rxf2 55.Nd3 Rg2+ 56.Kf5 Bg3 57.Nf4 Rf2
+58.Kg4 Bxf4 59.Rxf4 Rxa2 60.Kxh4 Ra6 61.Rg4+ Kh7 62.Rf4 Kg7 63.Rg4+ Kh7 64.Rf4  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.3"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2781"]
+[ECO "A34"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.bxc3 g6 7.Bb5+ Bd7 8.Be2 Bg7
+9.O-O O-O 10.d4 Nc6 11.Rb1 Qc7 12.e4 Bg4 13.d5 Ne5 14.c4 b6 15.Nxe5 Bxe2
+16.Qxe2 Bxe5 17.f4 Bd4+ 18.Kh1 e6 19.e5 exd5 20.cxd5 Qd7 21.Qc4 Rad8 22.d6 Rfe8
+23.Bb2 Bxb2 24.Rxb2 Qe6 25.Qa4 Qd7 26.Qa6 f6 27.Re2 Re6 28.a4 Qf7 29.Rd2 fxe5
+30.fxe5 Qg7 31.d7 Rxe5 32.Qxa7 Qf6 33.Kg1 Qc6 34.Rb1 Re7 35.Qxb6 Qxb6 36.Rxb6 Rexd7
+37.Rxd7 Rxd7 38.a5 c4 39.a6 c3 40.Rc6 Ra7 41.h3 c2 42.Rxc2 Rxa6 43.Kh2 Ra7
+44.Rc1 Kg7 45.Rc2 Kg8 46.Rc1 Kg7 47.Rc2 Kg8  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.5"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2746"]
+[BlackElo "2832"]
+[ECO "A06"]
+
+1.Nf3 d5 2.e3 Nf6 3.b3 e6 4.c4 Be7 5.Bb2 O-O 6.Nc3 c5 7.cxd5 Nxd5 8.Be2 b6
+9.Nxd5 exd5 10.d4 a5 11.dxc5 bxc5 12.O-O Be6 13.Bb5 Qb6 14.Qe2 Nc6 15.Rac1 Rac8
+16.Ne5 Nxe5 17.Bxe5 Rfd8 18.Rfd1 h6 19.h3 Bf8 20.Bd3 g6 21.Bf6 Rd7 22.Bb5 Ra7
+23.Ba1 Bg7 24.Bxg7 Kxg7 25.Qb2+ Kg8 26.Be2 a4 27.Bf3 Rd8 28.Qf6 axb3 29.axb3 Rad7
+30.Qc3 Rc8 31.Ra1 d4 32.exd4 Rxd4 33.Rab1 Rb4 34.Bd5 Bxd5 35.Rxd5 c4 36.Rbd1 Rxb3
+37.Qe5 c3 38.Qe7 Rb1 39.Kh2 Rxd1 40.Rxd1 c2 41.Rd7 Qb8+ 42.g3 Qb3 43.Rd8+ Rxd8
+44.Qxd8+ Kg7 45.Qd4+ Kh7 46.Qf4 Kg8 47.Qd2 Qb2  0-1
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.5"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2765"]
+[BlackElo "2781"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c3 Nf6 5.Bd3 Ne5 6.Be2 Nxf3+ 7.Bxf3 e5 8.d4 Be7
+9.O-O O-O 10.Be3 b6 11.Nd2 Qc7 12.Re1 Bd7 13.a4 a6 14.b4 cxd4 15.cxd4 Rfc8
+16.h3 b5 17.axb5 Bxb5 18.Nb3 Qc2 19.d5 Qxd1 20.Rexd1 Rc4 21.Na5 Rxb4 22.Rdc1 Ra4
+23.Nc6 Rxa1 24.Rxa1 Kf8 25.g3 Bd3 26.Bg5 h6 27.Bxf6 Bxf6 28.Ra3 Bb5 29.Bg4 Bd8
+30.h4 Bb6 31.Rf3 Be2 32.Rb3 Bxf2+ 33.Kxf2 Bxg4 34.Ra3 Bd7 35.Na5 Ke7 36.Rc3 Rc8
+37.Rb3 Bb5 38.Rb2 Rc3 39.Nb3 g6 40.g4 Rh3 41.Nd2 Rxh4 42.Kg3 Rh1 43.Rc2 Kd7
+44.Nf3 Rb1 45.Nd2 Rb4 46.Kf3 a5 47.Ke3 a4 48.Ra2 Ke7 49.Ra1 Bd7 50.Kf3 h5
+51.gxh5 gxh5 52.Ra3 f5 53.exf5 Bxf5 54.Nf1 Be4+ 55.Ke2 Bxd5  0-1
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.4"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2765"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Be7 10.Nc3 Nh4 11.Nxh4 Bxh4 12.Re1 b6 13.g4 Be7 14.Be3 Bd7 15.Rad1 Kc8
+16.Ne2 Re8 17.Nf4 Bf8 18.Bc1 g6 19.Re2 Bg7 20.Rde1 Kb7 21.e6 fxe6 22.Nxe6 Bf6
+23.c3 c5 24.Bf4 Bxe6 25.Rxe6 Rf8 26.R1e4 Rf7 27.g5 Bd8 28.h4 b5 29.c4 bxc4
+30.Be3 Rb8 31.Bxc5 Kc8 32.Bd4 Rb5 33.Rc6 Kd7 34.Rxc4 c6 35.a4 Rb3 36.Bxa7 Rxb2
+37.Bd4 Rd2 38.Be3 Rd5 39.Rb4 Bc7 40.Kg2 Rf8 41.Rb7 c5 42.a5 Kc6 43.a6 Ra8
+44.Re6+ Bd6 45.Rxh7 Rxa6 46.Rxg6 c4 47.Rg8 Rf5 48.g6 Be5 49.g7  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.6"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2765"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bc4 e6 5.Bb3 Ne7 6.c3 b6 7.O-O Bb7 8.Re1 Nd7
+9.Nbd2 O-O 10.Nf1 c5 11.Ng3 Qc7 12.Bg5 Nc6 13.Qd2 Rac8 14.Bh6 Na5 15.Bxg7 Kxg7
+16.Rad1 Nxb3 17.axb3 Nf6 18.e5 dxe5 19.dxe5 Ng8 20.Ng5 Rcd8 21.Qf4 Rd5 22.c4 Rd7
+23.h4 Rfd8 24.Rd6 Rxd6 25.exd6 Rxd6 26.Nxf7 Rd7 27.Ne5 Rd4 28.Qg5 Qe7 29.Nf3 Qxg5
+30.Nxg5 Bc8 31.Nxe6+ Bxe6 32.Rxe6 Kf7 33.Re4 Rd1+ 34.Kh2 Rd2 35.Re2 Rd3 36.Re3 Rd2
+37.Re2 Rd4 38.Ne4 h6 39.Kg3 Ne7 40.Kf3 Nf5 41.g3 Rd3+ 42.Kf4 Rxb3 43.g4 Nxh4
+44.Nd6+ Kf6 45.Ne8+ Kf7 46.Nd6+ Kf8 47.Ke5 Ke7 48.f4 Nf3+ 49.Kd5+ Kd7 50.Nf7 Nd4
+51.Rh2 Rd3 52.Ne5+  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.7"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2832"]
+[ECO "A06"]
+
+1.Nf3 d5 2.e3 Nf6 3.c4 c6 4.b3 Bf5 5.Bb2 e6 6.Nc3 h6 7.d4 Be7 8.Bd3 O-O 9.O-O Nbd7
+10.Qc2 Bg4 11.Ne5 Nxe5 12.dxe5 Nd7 13.h3 Bh5 14.g4 Bg6 15.Bxg6 fxg6 16.Qxg6 Rf7
+17.Ne2 Nf8 18.Qc2 Rc8 19.Rad1 Bc5 20.Kg2 Qh4 21.Bd4 Be7 22.f4 Bb4 23.cxd5 exd5
+24.f5 h5 25.Rf4 Nh7 26.Ng3 c5 27.gxh5 Qd8 28.Bb2 d4 29.e6 Rfc7 30.Qc4 b5
+31.e7+ bxc4 32.exd8=Q+ Rxd8 33.bxc4 d3 34.h6 gxh6 35.Rg4+ Kf8 36.Ne4 Ng5
+37.Nxg5 hxg5 38.Rxg5 d2 39.Kf3 Rh7 40.Rg3 Rdd7 41.Be5 Rh5 42.Kg4 Rdh7 43.Bf6 R5h6
+44.Bg5 Ra6 45.e4 Rxa2 46.Rd3 Rc2 47.Bxd2 Rxc4 48.Rd8+ Kf7 49.Bxb4 Rxe4+ 50.Kf3 Re7
+51.Bxc5 Rxh3+ 52.Kg4  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.8"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2832"]
+[BlackElo "2746"]
+[ECO "E71"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Be3 e5 7.d5 a5 8.g4 Na6 9.Nge2 Nd7
+10.Qd2 Ndc5 11.Ng3 c6 12.Be2 cxd5 13.cxd5 a4 14.h4 Bd7 15.h5 Rc8 16.Kf1 a3
+17.b3 Qa5 18.Rc1 f6 19.Kg2 Nb4 20.hxg6 hxg6 21.Bh6 Rf7 22.Rh2 Bxh6 23.Qxh6 Rg7
+24.Rch1 Rf8 25.Qc1 Nbd3 26.Qd2 Nf4+ 27.Kg1 Kf7 28.Rh7 Rc8 29.Bc4 b5 30.Nge2 g5
+31.Nxf4 gxf4 32.g5 Rg8 33.Be2 Kf8 34.Kf1 fxg5 35.f3 b4 36.Nd1 Nxb3 37.Qc2 Nd4
+38.Qc1 b3 39.axb3 a2  0-1
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.8"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2765"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Bd7 5.Nf3 Qb6 6.a3 Bb5 7.dxc5 Bxc5 8.Bxb5+ Qxb5
+9.b4 Bb6 10.a4 Qc4 11.a5 Qe4+ 12.Qe2 Qxe2+ 13.Kxe2 Bc7 14.c4 Ne7 15.Bg5 Nbc6
+16.Bxe7 Kxe7 17.cxd5 exd5 18.Nc3 Rhd8 19.Rhd1 d4 20.Nb5 Bxe5 21.Nxe5 Nxe5
+22.Nxd4 Rac8 23.a6 bxa6 24.Rxa6 Ke8 25.Ra5 f6 26.f4 Ng6 27.g3 Rd7 28.Nf5 Rc2+
+29.Ke1 Rdc7 30.Rd2 Rc1+ 31.Ke2 Ne7 32.Nd6+ Kf8 33.Nb5 Rc8 34.Rxa7 Nc6 35.Rb7 Re8+
+36.Kf3 Nd8 37.Rc7 Rf1+ 38.Kg2 Rb1 39.Nd6 Re7 40.Rxe7 Kxe7 41.Nf5+ Ke8 42.Nxg7+ Ke7
+43.Nf5+ Ke8 44.Re2+ Kf8 45.Nd6 Nc6 46.b5 Nd4 47.Re8+ Kg7 48.Re7+ Kg6 49.g4 Rb2+
+50.Kf1 h5 51.h3 Nf3 52.Nf5 hxg4 53.hxg4 Nh2+ 54.Ke1 Nxg4 55.Nd6 Nh2 56.Re2 Rb1+
+57.Kd2 Nf3+ 58.Kc3 Kh5 59.Rb2 Rxb2 60.Kxb2 Kg4 61.b6 Nd4 62.Kc3 Nc6 63.f5 Kf4
+64.Kc4 Ke5 65.Kc5 Nd8 66.Nf7+  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.6"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2832"]
+[BlackElo "2746"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 b6 7.Rc1 Ba6 8.Qa4 dxc4
+9.Bxc4 Bb7 10.O-O a6 11.Be2 Nbd7 12.Rfd1 b5 13.Qc2 Rc8 14.Ne5 c5 15.dxc5 Rxc5
+16.Qb1 Qe8 17.Nxd7 Nxd7 18.Ne4 Rxc1 19.Rxc1 Qa8 20.Bf3 Rc8 21.Rd1 Nf6 22.Ng5 h6
+23.Bxb7 Qxb7 24.Nf3 Qe4 25.Be5 Qxb1 26.Rxb1 Ne4 27.Ne1 f6 28.Bg3 Rd8 29.Nf3 Rc8
+30.Ne1 e5 31.f3 Nd2 32.Rd1 Nc4 33.Rd7 Bc5 34.b3 Nxe3 35.Bf2 Nf5 36.g4 Nd4
+37.Kf1 Ne6 38.h4 Bxf2 39.Kxf2 Nf4 40.Rd6 a5 41.Ra6 Rd8 42.Rxa5 Rd2+ 43.Kf1 Nh3
+44.Nd3 Rxd3 45.Rxb5 Rxf3+ 46.Ke1 Rf2 47.a4 Ra2 48.a5 Nf4 49.Kd1 e4 50.Kc1 e3  0-1
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.13"]
+[Round "1.7"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2781"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c3 Nf6 5.Bd3 Ne5 6.Be2 Nxf3+ 7.Bxf3 e5 8.d4 Be7
+9.dxe5 dxe5 10.Qxd8+ Bxd8 11.Nd2 Be6 12.Be2 Bc7 13.f3 Ke7 14.a4 h5 15.h4 Rhd8
+16.Nc4 Ne8 17.Be3 b6 18.Bf2 f6 19.O-O g6 20.Rfc1 Nd6 21.Ne3 f5 22.Nd5+ Bxd5
+23.exd5 c4 24.Be3 Kd7 25.Rab1 Rf8 26.b3 f4 27.Bf2 e4 28.fxe4 Rae8 29.bxc4 Nxe4
+30.c5 Nxc3 31.Rxc3 Rxe2 32.d6 Bd8 33.c6+ Kc8 34.a5 Rxf2 35.Kxf2 Rf5 36.c7 Bxh4+
+37.Kf3 Rd5 38.axb6  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.15"]
+[Round "2.1"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2832"]
+[BlackElo "2765"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.c3 d5 6.exd5 Qxd5 7.Bc4 Qd6 8.Nbd2 O-O
+9.b4 Bb6 10.a4 a5 11.b5 e4 12.Ba3 Bc5 13.dxe4 Ne5 14.Nxe5 Qxe5 15.Bxc5 Qxc5
+16.Qe2 Re8 17.f3 Be6 18.Bxe6 Rxe6 19.Rc1 Nd7 20.Nb3 Qa3 21.Rb1 Nc5 22.Nxc5 Qxc5
+23.Rd1 f5 24.Rd4 Qxc3+ 25.Qd2 Qa1+ 26.Qd1 Qc3+ 27.Qd2 Qa1+ 28.Qd1 Qc3+  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.15"]
+[Round "2.1"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2781"]
+[ECO "D86"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O b6 11.Rc1 Bb7 12.Qd2 e6 13.Rfd1 Rc8 14.f3 cxd4 15.cxd4 Qd6
+16.Bh6 Bxh6 17.Qxh6 Na5 18.Bd3 Rxc1 19.Qxc1 Rc8 20.Qd2 e5 21.d5 Nc4 22.Bxc4 Rxc4
+23.Qe3 Rc2 24.a3 Ba6 25.Ng3 Qc5 26.Qxc5 Rxc5 27.d6 Rc8 28.a4 Bc4 29.a5 bxa5
+30.d7 Rd8 31.Rc1 Be6 32.Ra1 Rxd7 33.Rxa5 f6 34.Nf1 Rd1 35.Kf2 a6 36.Ne3 Rd2+
+37.Kg1 Rd6 38.h4 Kf7 39.g4 Bd7 40.g5 Bb5 41.Kf2 Ke6 42.gxf6 Kxf6 43.Nd5+ Kf7
+44.Nc7 Rb6 45.Ke3 h6 46.Kf2 h5 47.Kg3 Be2 48.Kf2 Bb5 49.Kg3 Be2 50.Kf2 Bb5  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.16"]
+[Round "2.2"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2832"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nd7
+9.O-O-O c6 10.Kb1 d5 11.Bd3 Nc5 12.h4 Nxd3 13.Qxd3 Qd6 14.c4 Rd8 15.cxd5 Qxd5
+16.Qxd5 cxd5 17.Nd4 Bd7 18.Nb3 Bf5 19.Nd4 Bd7 20.Nb3 Bf5 21.Nd4  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.16"]
+[Round "2.2"]
+[White "Vachier Lagrave,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2746"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Ke8 10.Nc3 h5 11.Bf4 Be7 12.Rad1 Be6 13.Ng5 Rh6 14.Rfe1 Bb4 15.a3 Bxc3
+16.bxc3 h4 17.Ne4 Rg6 18.g4 hxg3 19.fxg3 Bd5 20.g4 Bxe4 21.Rxe4 Ne7 22.e6 f5
+23.Re5 Nd5 24.Rxf5 Nxf4 25.Rxf4 Rxe6 26.Rdf1 Kd7 27.Rf7+ Re7 28.h4 Rh8 29.h5 Ke8
+30.Rxe7+ Kxe7 31.Kg2 g6 32.hxg6 Rg8 33.Rf7+ Ke6 34.Rxc7 Rxg6 35.Kg3 Rg5 36.Kh4 Rc5
+37.g5 Rxc3 38.g6 Rxc2 39.Kg5 Rg2+ 40.Kh6 Rh2+ 41.Kg7 Ra2 42.Kf8 Rxa3 43.Rxb7 Rf3+
+44.Rf7 Rb3 45.Rc7 Rb8+ 46.Kg7 Kd5 47.Rxa7 c5 48.Kf7 c4 49.g7 c3 50.Rc7 Kd4
+51.Rxc3 Kxc3 52.g8=Q Rxg8 53.Kxg8  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.3"]
+[White "Vachier Lagrave,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2746"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Ke8 10.Nc3 h5 11.Ne2 b6 12.Bg5 c5 13.Nc3 Bb7 14.Rfd1 Bxf3 15.gxf3 c6
+16.Rd3 Be7 17.Ne4 Rd8 18.Rad1 Rxd3 19.Rxd3 Bxg5 20.Nxg5 Ke7 21.Kf1 h4 22.f4 f6
+23.Ne4 Ke6 24.Nd6 Ne7 25.f5+ Nxf5 26.Nxf5 Kxf5 27.exf6 gxf6 28.Rd7 Ra8 29.Rc7 Rd8
+30.Ke2 Re8+ 31.Kf1 Rd8 32.Ke2 Re8+ 33.Kf1  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.6"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2832"]
+[BlackElo "2765"]
+[ECO "C63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d3 fxe4 5.dxe4 Nf6 6.O-O d6 7.Bc4 Bg4 8.h3 Bh5
+9.Nc3 Nd4 10.g4 Nxf3+ 11.Qxf3 Bg6 12.Be6 c6 13.Be3 Qe7 14.Bb3 Bf7 15.Rfd1 a6
+16.Qg3 b5 17.f4 Bxb3 18.axb3 g6 19.b4 Qe6 20.Qf3 exf4 21.Bxf4 Nd7 22.e5 d5
+23.Rd4 Bg7 24.Bg3 Bxe5 25.Rd3 Bxg3 26.Qxg3 O-O 27.Re1 Qf6 28.Rd2 Rae8 29.Rxe8 Rxe8
+30.Rf2 Qe5 31.Qxe5 Rxe5 32.Ne2 c5 33.bxc5 Nxc5 34.Nd4 Kg7 35.Kg2 Ne6 36.Nxe6+ Rxe6
+37.Rd2 Rd6 38.Kf3 Kf6 39.c3 Ke5 40.Re2+ Kf6 41.Re8 d4 42.cxd4 Rxd4 43.Ra8 Rd6
+44.Ke4 Kg5 45.Rh8 Rd7 46.Ra8 Rd6 47.Rh8 h6 48.b4 Rc6 49.Kd5 Rc4 50.Ra8 Rxb4
+51.Rxa6 Rb3 52.h4+ Kxg4 53.Rxg6+ Kh5 54.Rb6 b4 55.Ke4 Rh3 56.Rb5+ Kg6 57.Rb6+ Kg7
+58.Rb7+ Kf8 59.Kf5 Rxh4 60.Kf6 Ke8 61.Ke6 Re4+ 62.Kf5 Rc4 63.Rb6 h5 64.Ke6 Kd8
+65.Kd6 Kc8 66.Kd5 Kc7 67.Rh6 Rh4 68.Kc5 Kd7 69.Kd5 b3 70.Rh7+ Kc8 71.Kc6 Rc4+
+72.Kd5 Rb4 73.Kc6 Rc4+ 74.Kd5 b2 75.Kxc4 b1=Q 76.Rxh5 Qc2+ 77.Kd4 Qd1+  0-1
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.7"]
+[White "Vachier Lagrave,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2746"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nf5 8.Nf3 d5
+9.d4 O-O 10.g3 Re8 11.Nc3 Be6 12.Ne2 g5 13.Bg2 h6 14.c3 Bf8 15.Nd2 Qd7 16.Nf1 Bg7
+17.Ne3 Nxe3 18.Bxe3 Ne7 19.Nc1 Nf5 20.Bd2 b6 21.Nd3 f6 22.Qb3 c6 23.a4 Nd6
+24.Qd1 Bg4 25.f3 Bf5 26.Nf2 Nc4 27.b3 Rxe1+ 28.Qxe1 Re8 29.Qc1 Nxd2 30.Qxd2 Qe7
+31.Bf1 Qd6 32.Bd3 Bd7 33.Re1 Rxe1+ 34.Qxe1 Qe6 35.Qxe6+ Bxe6 36.Nd1 Bf8 37.Kf2 f5
+38.f4 Kf7 39.Ne3 Kf6 40.Ng2 Ba3 41.Ke2 Bf7 42.Kd2 Bd6 43.Ke3 Bh5 44.Be2 Bf7
+45.Bd3 Bh5 46.Be2 Bf7 47.Bd3  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.5"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2832"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 c5 4.c3 Nc6 5.Nd2 Qb6 6.Qb3 Nh5 7.Qxb6 axb6 8.Bc7 cxd4
+9.exd4 e5 10.Bxe5 Nxe5 11.dxe5 Bc5 12.g3 O-O 13.Be2 g6 14.Bxh5 gxh5 15.Ngf3 f6
+16.b4 Be7 17.e6 Bxe6 18.Nd4 Bd7 19.N2b3 f5 20.f4 Bf6 21.Kd2 Rfe8 22.Rhe1 Re4
+23.h4 Kf7 24.Re3 Ra3 25.Nc2 Ra8 26.Nbd4 Kg6 27.Rd3 Rae8 28.Re1 Rxe1 29.Nxe1 Ra8
+30.Ndc2 Rxa2 31.Rxd5 Bc6 32.Rd6 Kf7 33.Rd3 Ke6 34.Kc1 Be4 35.Re3 Kd6 36.Kb1 Ra8
+37.Kb2 Kc6 38.Na3 Rd8 39.Kc1 b5 40.Nf3 h6 41.Nc2 Ra8 42.Nfd4+ Kb6 43.Kb2 Rd8
+44.Nb3 Be7 45.Ncd4 Bd6 46.Nc5 Bxc5 47.bxc5+ Ka7 48.Nxb5+ Kb8 49.Nd6 Rg8 50.Nxe4 fxe4
+51.c4 Kc7 52.Kc3 Kc6 53.Kd4 Rd8+ 54.Kxe4 Kxc5 55.Rb3 Rd7 56.Rc3 Rd2 57.Kf5 Kb4
+58.Rc1 Rg2 59.Kg6 Rxg3+ 60.Kxh5 Rf3 61.Kxh6 Rxf4 62.Kg5 Rf2 63.h5 Rg2+ 64.Kf6 Rf2+
+65.Kg6 Rg2+ 66.Kf6 Rf2+ 67.Kg7 Rg2+ 68.Kh7 Kc5 69.h6 b6 70.Kh8 Rg6 71.h7 Rg2
+72.Rb1 Rg4 73.Rb5+ Kc6 74.Rf5 Rxc4 75.Kg7 Rh4 76.Rf6+  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.6"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2781"]
+[ECO "A34"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.bxc3 g6 7.Bb5+ Bd7 8.Be2 Bg7
+9.O-O O-O 10.d4 Bc6 11.Ba3 cxd4 12.cxd4 Re8 13.Ne5 Qa5 14.Nxc6 Qxa3 15.Ne5 Bxe5
+16.dxe5 e6 17.Rb1 Nc6 18.Rxb7 Qxa2 19.f4 Red8 20.Qe1 Rab8 21.Rxb8 Rxb8 22.Bf3 Ne7
+23.Qc3 Rc8 24.Qd3 Nd5 25.Bxd5 exd5 26.Rd1 Rc5 27.Qd4 Qc4 28.Ra1 a5 29.h3 Qxd4
+30.exd4 Rc4 31.Rxa5 Rxd4 32.g3 h5 33.h4 Rd2 34.Ra7 d4 35.Ra8+ Kg7 36.Rd8 Rd1+
+37.Kf2 Rd2+ 38.Kf3 Rd3+ 39.Kf2 Rd2+ 40.Kf3 Rd3+ 41.Kf2 Rd2+  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.7"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2765"]
+[BlackElo "2832"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 c5 3.d5 b5 4.f3 e6 5.e4 c4 6.a4 exd5 7.exd5 Bb4+ 8.c3 Qe7+
+9.Qe2 Bc5 10.d6 Qxe2+ 11.Nxe2 b4 12.Nd2 Ba6 13.cxb4 Bxb4 14.Nc3 O-O 15.Rc1 Re8+
+16.Kd1 Bxc3 17.bxc3 Nd5 18.Bg3 Ne3+ 19.Ke2 Nc6 20.Ne4 Nxf1 21.Kxf1 Na5 22.Kf2 Nb3
+23.Rc2 Bb7 24.Nd2 Bd5 25.Rd1 Nc5 26.Kg1 Bc6 27.Rb2 Nxa4 28.Rc2 Nc5 29.Ra2 Re2
+30.Kf1 Re6 31.Rb1 h5 32.Ra5 Nb7 33.Rxh5 Nxd6 34.Ra5 Nb7 35.Ra3 d5 36.Bf2 a5
+37.Rb6 a4 38.Bd4 Na5 39.f4 Bd7 40.Rxe6 fxe6 41.Nf3 Rb8 42.Ne5 Be8 43.Ra2 Rb1+
+44.Ke2 Nb3 45.Be3 Kh7 46.h3 Bb5 47.Kf2 d4 48.Bxd4 Nxd4 49.cxd4 c3 50.Nf3 Rb2+  0-1
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.8"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2781"]
+[ECO "A34"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.bxc3 g6 7.Bb5+ Bd7 8.Be2 Bg7
+9.O-O O-O 10.d4 Bc6 11.Ba3 cxd4 12.cxd4 Re8 13.Rc1 Qa5 14.Qb3 Nd7 15.Bb4 Qf5
+16.Bd3 Qh5 17.e4 e6 18.h3 Rad8 19.Rfe1 a5 20.Bd2 a4 21.Qb1 Rc8 22.Be2 Bf6
+23.Rcd1 Red8 24.Ng5 Qh4 25.g3 Qh6 26.Nxf7 Qxh3 27.Bf1 Qh5 28.Be2 Qh3 29.Bg4  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.8"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2832"]
+[BlackElo "2765"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 c6 5.a4 d5 6.h3 dxe4 7.Nxe4 Bf5 8.Ng3 Be6
+9.Nf3 Nf6 10.Be2 Nd5 11.Bd2 Qc7 12.Qc1 h6 13.c4 Nf6 14.O-O Nbd7 15.a5 g5
+16.Bd3 g4 17.hxg4 Bxg4 18.Bf4 Qc8 19.Nh4 Nh5 20.Nxh5 Bxh5 21.Nf5 Bf6 22.Re1 Kd8
+23.Qe3 Nf8 24.Nxe7 Qd7 25.Nf5 Ng6 26.Bh2 Bg4 27.Nd6 Bg5 28.Qe4 Nh4 29.Nxf7+ Qxf7
+30.Qxg4 Rf8 31.Bg3 Nf5 32.Bxf5 Qxf5 33.Qxf5 Rxf5 34.a6 b5 35.Re6 bxc4 36.Rd6+ Ke8
+37.Re1+ Kf8 38.Rxc6 Rb5 39.Rxc4 Rxb2 40.d5 Ra2 41.Rc6 Rd8 42.d6 Ra4 43.Rb1 Rd7
+44.Rb7 Rxa6 45.Rc8+  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.4"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2832"]
+[BlackElo "2765"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.c3 d5 6.exd5 Qxd5 7.Bc4 Qd6 8.b4 Bb6
+9.Nbd2 O-O 10.a4 Bf5 11.Ba3 e4 12.dxe4 Nxe4 13.Nxe4 Bxe4 14.Qxd6 cxd6 15.O-O-O Rac8
+16.Bd5 Bxd5 17.Rxd5 Ne5 18.Nxe5 dxe5 19.Kb2 Bxf2 20.Rxe5 Bh4 21.Rd1 Bf6 22.Re3 Rc7
+23.b5 Rfc8 24.Bb4 h5 25.Kb3 b6 26.Rdd3 g6 27.Re4 Bg7 28.Rde3 f5 29.Re8+ Rxe8
+30.Rxe8+ Kf7 31.Ra8 g5 32.c4 Be5 33.h3 g4 34.a5 f4 35.hxg4 hxg4 36.Rf8+ Ke6
+37.Bd2 f3 38.gxf3 g3 39.axb6 axb6 40.Be3 Rd7 41.Re8+ Kf5 42.Bxb6 Rd3+ 43.Kb4 Rxf3
+44.Rf8+ Ke4 45.Rxf3 Kxf3 46.Bg1 Kg2 47.Bc5 Kf3 48.b6 Ke4 49.b7 g2 50.Kb5 Bf4
+51.Bg1 Bg3 52.Kc6 Be5 53.Kd7  1-0
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.3"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2832"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6
+9.Rd1 Qa5 10.a3 Rd8 11.Nd2 d4 12.Nb3 Qb6 13.Na4 Bb4+ 14.axb4 Qxb4+ 15.Nd2 Qa5
+16.Qb3 e5 17.Bg5 Nb4 18.Be2 Bd7 19.Bxf6 gxf6 20.Ra1 dxe3 21.fxe3 b5 22.O-O bxa4
+23.Qc3 f5 24.Nf3 f6 25.Nh4 Nc6 26.Qa3 e4 27.Bd1 Ne5 28.Bxa4 Qxa4 29.Qxa4 Bxa4
+30.Rxa4 f4 31.Rxf4 Rd1+ 32.Rf1 Rxf1+ 33.Kxf1 Rb8 34.b4 Nxc4 35.Nf5 Rb5 36.g4 h5
+37.h3 hxg4 38.hxg4 Ne5 39.Rxa7 Rxb4 40.Kg2 Rb1 41.Re7 Rb2+ 42.Kh3 Rf2 43.Re8+ Kh7
+44.Re7+ Kg8 45.Re8+ Kh7 46.Re7+ Kg8  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.4"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2781"]
+[ECO "A34"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.bxc3 g6 7.Bb5+ Bd7 8.Be2 Bg7
+9.O-O O-O 10.d4 Bc6 11.Ba3 cxd4 12.cxd4 Re8 13.Ne5 Qa5 14.Qb3 Bxe5 15.dxe5 Qxe5
+16.Bc4 Rf8 17.f4 Qe4 18.Rf2 Nd7 19.Rd1 b5 20.Be2 Qa4 21.Qxa4 bxa4 22.Rc1 Bd5
+23.Ba6 Rab8 24.Rd2 Be6 25.Bxe7 Rfe8 26.Bd6 Rb6 27.Bf1 Bf5 28.Bc7 Rb7 29.Ba6 Rb4
+30.Ba5 Rbb8 31.Bc7 Rb4 32.Ba5 Rbb8 33.h3 h5 34.Bc7 Rb4 35.Ba5 Rbb8 36.Bc7 Rb4
+37.Bd6 Rb6 38.Bc8 Nf6 39.Bxf5 gxf5 40.Be5 Ne4 41.Rd7 a6 42.Bd4 Rbb8 43.Rc6 Re6
+44.Rcc7 Rf8 45.Rd5 Ng3 46.Kf2 h4 47.Kf3 a3 48.Rdd7 Ne4 49.Rd5 Ng3 50.Rdd7 Ne4
+51.Ke2 Rg6 52.Kf1 Rb8 53.Rb7 Rc8 54.Rdc7 Rc6 55.Rxc6 Rxc6 56.Rb8+ Kh7 57.Rh8+ Kg6
+58.Rg8+ Kh6 59.Rh8+ Kg6 60.Rg8+ Kh6 61.Rh8+  1/2-1/2
+
+[Event "10th London Classic 2018"]
+[Site "London ENG"]
+[Date "2018.12.17"]
+[Round "2.5"]
+[White "Vachier Lagrave,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2746"]
+[ECO "A17"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.e3 Be7 5.Be2 O-O 6.O-O c5 7.cxd5 Nxd5 8.Qc2 Nc6
+9.b3 Nxc3 10.dxc3 b6 11.Rd1 Qc7 12.e4 Bb7 13.g3 Rad8 14.Bf4 Qc8 15.h4 Rxd1+
+16.Rxd1 Rd8 17.e5 Rxd1+ 18.Qxd1 Bd8 19.Bd3 h6 20.Be4 Bc7 21.Qd3 Ne7 22.h5 Bc6
+23.c4 Qa8 24.Bxc6 Qxc6 25.g4 Qa8 26.Kg2 g5 27.Qd7 Qd8 28.Qxd8+ Bxd8 29.Bd2 Nc6
+30.Bc3 Bc7 31.Kf1 f6 32.exf6 Kf7 33.Ke2 e5 34.Kd3 Kxf6 35.Ke4 Ke6 36.Nd2 Nb8
+37.Kd3 Nd7 38.Ne4 Nf6 39.Nxf6 Kxf6 40.Ke4 Ke6 41.b4 Bd6 42.b5 Bc7 43.a4 Bd6
+44.a5 Bc7 45.a6 Bd6 46.Bd2 Be7 47.Ba5 Bd8 48.Bc3 Bc7 49.f3 Bd6 50.Be1 Bb8
+51.Bd2 Bd6 52.Be3 Be7 53.Bc1 Bd6 54.Bd2 Be7 55.Ba5 Bd8 56.Be1 Be7 57.Bf2 Bd6
+58.Bg3 Bc7 59.Be1 Bd6 60.Bd2 Be7 61.Be3  1/2-1/2

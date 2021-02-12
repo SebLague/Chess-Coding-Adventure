@@ -1,0 +1,1884 @@
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.14"]
+[Round "1"]
+[White "Navara,D"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2770"]
+[EventDate "2012.01.14"]
+[ECO "A20"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nxd4 exd4 13. Ne4 Bd5 14. Bb2
+f5 15. Nd2 Bxg2 16. Kxg2 Kh8 17. Nf3 Bf6 18. Qc2 Qd7 19. Rfc1 c6 20. a4 f4
+21. b5 cxb5 22. axb5 Nd5 23. Nxd4 Rae8 24. Nf3 Bxb2 25. Qxb2 Qe6 26. Qd4
+fxg3 27. hxg3 Qxe2 28. Qxd5 Re3 29. Re1 Qxf3+ 30. Qxf3 Rexf3 31. Rb2 Rxd3
+1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.14"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteElo "2739"]
+[BlackElo "2714"]
+[EventDate "2012.01.14"]
+[ECO "D02"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Qb3 dxc4 5. Qxc4 Bg4 6. Nc3 Nbd7 7. Bf4 Nb6
+8. Qd3 Bxf3 9. gxf3 Nfd5 10. Be5 f6 11. Bg3 Nb4 12. Qb1 Qxd4 13. Bh3 e5 14.
+O-O Be7 15. Rd1 Qc4 16. e3 Qf7 17. f4 exf4 18. Bxf4 O-O 19. a3 N4d5 20.
+Nxd5 Nxd5 21. Bg3 f5 22. e4 fxe4 23. Qxe4 Nf6 24. Qe5 Kh8 25. Re1 Bd8 26.
+Be6 Qg6 27. Qf5 Qxf5 28. Bxf5 Nd5 29. Be4 Bf6 30. Re2 Nb6 31. Rc1 Rfe8 32.
+f3 a5 33. b4 axb4 34. axb4 Nd5 35. Be1 Nf4 36. Rec2 Nh3+ 37. Kg2 Ng5 38.
+Re2 Nxe4 39. fxe4 Rad8 40. b5 cxb5 41. Rb1 Rd5 42. Bg3 Rc5 43. Bd6 Rg5+ 44.
+Kf3 Re6 45. Bf4 Rc5 46. e5 g5 47. exf6 Rxf6 48. Re7 Rxf4+ 49. Kg2 Rg4+ 50.
+Kf3 Rh4 51. Rd1 Rc8 52. Kg3 b6 53. Rb7 Rb4 54. Rxb6 Rc7 55. h4 gxh4+ 56.
+Kh3 Kg7 57. Rd3 Kf7 58. Re3 Kg7 59. Rf3 Rf7 60. Rd3 Rf6 61. Rb8 Rc6 62. Rf3
+Kh6 63. Rb7 Kg6 64. Rb8 Rc5 65. Rg8+ Kh5 66. Rg7 h6 67. Rg1 Rd4 68. Kh2 b4
+69. Rg8 Rc2+ 70. Kh3 Rc3 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.14"]
+[Round "1"]
+[White "Radjabov,T"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2736"]
+[EventDate "2012.01.14"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5
+8. Rc1 Qa5 9. Qd2 cxd4 10. cxd4 Qxd2+ 11. Bxd2 O-O 12. Nf3 e6 13. h4 Nc6
+14. e5 Rd8 15. Bg5 Re8 16. Be3 h6 17. Bd3 Bd7 18. Rb1 Rab8 19. Nd2 Ne7 20.
+Ne4 Bc6 21. g4 Red8 22. Ke2 Nd5 23. Rhc1 Bf8 24. Bd2 Nb6 25. Be3 Nd5 26.
+Bd2 Nb6 27. Be3 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.14"]
+[Round "1"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2769"]
+[BlackElo "2805"]
+[EventDate "2012.01.14"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 O-O 8.
+a4 b4 9. Nbd2 Bc5 10. h3 d6 11. c3 Rb8 12. Re1 Re8 13. a5 Ba7 14. Nf1 Ne7
+15. Ng3 Ng6 16. d4 h6 17. Bc2 c5 18. dxe5 dxe5 19. Bd3 Be6 20. Bxa6 c4 21.
+Ra4 Qc7 22. cxb4 Bxf2+ 23. Kxf2 Qa7+ 24. Be3 Qxa6 25. Kg1 Red8 26. Qc1 Rd3
+27. Rd1 Rb3 28. Qd2 Kh7 29. Kh2 Rb7 30. Qf2 Bd7 31. Ra2 R7xb4 32. Nh5 Bc8
+33. Nxf6+ Qxf6 34. Kg1 Bb7 35. Nd2 Qxf2+ 36. Bxf2 Rd3 37. a6 Bxe4 38. Re1
+Ba8 39. Ne4 Nf4 40. a7 f6 41. h4 c3 42. Nc5 c2 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.14"]
+[Round "1"]
+[White "Nakamura,Hi"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2766"]
+[EventDate "2012.01.14"]
+[ECO "D31"]
+
+1. c4 c6 2. d4 d5 3. Nf3 e6 4. Nc3 dxc4 5. g3 b5 6. Bg2 Bb7 7. Ne5 Qc8 8.
+O-O Nd7 9. b3 b4 10. Ne4 Nxe5 11. dxe5 c3 12. Qd3 a5 13. Be3 f5 14. exf6
+Nxf6 15. Nxf6+ gxf6 16. Bf3 Kf7 17. Rfd1 h5 18. a4 Rb8 19. Ba7 Ra8 20. Be3
+Rb8 21. Ba7 Ra8 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.14"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Gashimov,V"]
+[Result "1-0"]
+[WhiteElo "2835"]
+[BlackElo "2761"]
+[EventDate "2012.01.14"]
+[ECO "A30"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8.
+Qxd4 d6 9. Bg5 a6 10. Bxf6 Bxf6 11. Qf4 O-O 12. Rfd1 Be7 13. Ne4 Bxe4 14.
+Qxe4 Ra7 15. Nd4 Rc7 16. Rd2 Rc5 17. Rad1 Qc7 18. b3 Kh8 19. Qb1 Nd7 20. e3
+Qc8 21. Rc2 Rc7 22. a4 Rd8 23. Qa2 Ne5 24. h3 Bf6 25. Rcd2 Rc5 26. f4 Ng6
+27. Rd3 h6 28. Qd2 e5 29. Nc2 b5 30. axb5 axb5 31. Na3 bxc4 32. Nxc4 d5 33.
+Bxd5 Qxh3 34. Qg2 Qxg2+ 35. Kxg2 exf4 36. exf4 Rc7 37. Ne3 Rcd7 38. Ng4 Bb2
+39. Nf2 f6 40. Be4 Nf8 41. b4 Rxd3 42. Nxd3 Bc3 43. Rc1 Bd4 44. Nc5 Be3 45.
+Rc3 Rd2+ 46. Kf3 Bd4 47. Rc4 g6 48. Nd3 Bg1 49. Rc8 Kg7 50. Rc7+ Kg8 51. f5
+g5 52. g4 Bh2 53. Rb7 Rc2 54. Nc5 Rc3+ 55. Ke2 h5 56. gxh5 g4 57. Ne6 Rc8
+58. b5 Rb8 59. Rxb8 Bxb8 60. Bd5 Ba7 61. Kf1 Be3 62. Kg2 Kf7 63. Nxf8+ Kxf8
+64. Kg3 Ke7 65. Kxg4 Kd6 66. Kf3 Bd2 67. b6 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.14"]
+[Round "1"]
+[White "Kamsky,G"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2692"]
+[EventDate "2012.01.14"]
+[ECO "D78"]
+
+1. c4 g6 2. g3 c6 3. Nf3 d5 4. Bg2 Bg7 5. d4 Nf6 6. O-O O-O 7. Qb3 Qb6 8.
+Nc3 Qxb3 9. axb3 Bf5 10. h3 h5 11. Bf4 Nbd7 12. cxd5 cxd5 13. Rfc1 Rfc8 14.
+Ne5 Nb6 15. Kh2 a6 16. Bg5 Bf8 17. Be3 Rd8 18. Bf3 Rac8 19. g4 hxg4 20.
+hxg4 Be4 21. Nxe4 Nxe4 22. Kg2 Bg7 23. Bf4 e6 24. e3 Bf6 25. Nd3 Nd7 26. b4
+Re8 27. Rxc8 Rxc8 28. b5 Rc2 29. bxa6 bxa6 30. Rc1 Rxc1 31. Nxc1 e5 32.
+dxe5 Nxe5 33. Bxe5 Bxe5 34. Nd3 Bd6 35. Bd1 Nc5 36. Nb4 Na4 37. Bxa4 Bxb4
+38. Bc6 g5 39. Bxd5 Kg7 40. Kf3 a5 41. b3 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.15"]
+[Round "2"]
+[White "Gashimov,V"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2732"]
+[EventDate "2012.01.14"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nxe5 Nxe5 12. Rxe5 Qd6 13. Re1 Rae8 14.
+Nd2 c5 15. c3 Bd8 16. Ne4 Qg6 17. Bd2 Nf6 18. Bc2 c4 19. Qf3 Kh8 20. Qg3
+cxd3 21. Qxg6 hxg6 22. Nxf6 Rxe1+ 23. Rxe1 dxc2 24. Nd7 Rg8 25. Rc1 Re8 26.
+Rxc2 Bc8 27. Nc5 Bf5 28. Rc1 Re2 29. Be3 Rxb2 30. Nxa6 Rxa2 31. Nb4 Rb2 32.
+Bd4 Be6 33. Re1 Bc7 34. Na6 Bf4 35. Nc5 Bc4 36. Nd7 Re2 37. Rxe2 Bxe2 38.
+f3 f6 39. Kf2 Bc4 40. Be3 Bd6 41. Bc5 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.15"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2759"]
+[EventDate "2012.01.14"]
+[ECO "A88"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8.
+Qb3 Kh8 9. Rd1 Na6 10. Qa3 Nc7 11. d5 c5 12. b4 cxb4 13. Qxb4 Na6 14. Qb1
+Bd7 15. Nb5 Rc8 16. Nd2 Qb6 17. e3 Nc5 18. a4 Qa5 19. Ba3 a6 20. Bb4 Qd8
+21. Nd4 Nxa4 22. Ne6 Bxe6 23. dxe6 Qe8 24. Bxb7 Rb8 25. Bxa6 Nc3 26. Bxc3
+Rxb1 27. Rdxb1 g5 28. Rb7 Ng8 29. Bxg7+ Kxg7 30. Rb5 Qg6 31. c5 dxc5 32.
+Rxc5 Qxe6 33. Nf3 Qd6 34. Nd4 Kh8 35. Rc6 Qd7 36. Rac1 f4 37. Bc8 Qa7 38.
+Ne6 Rf6 39. exf4 gxf4 40. Rc7 Qa4 41. Nxf4 Rd6 42. Be6 Rd1+ 43. Rxd1 Qxd1+
+44. Kg2 Nf6 45. Rxe7 Qe1 46. Rf7 Qe4+ 47. f3 Qd4 48. Kh3 Qe5 49. Kh4 Qd4
+50. Bg4 Qe5 51. Ne6 h6 52. Rf8+ Ng8 53. f4 Qb2 54. Kh3 Qa1 55. Bh5 Kh7 56.
+Rf7+ Kh8 57. Bg6 Nf6 58. Rf8+ Ng8 59. Bf7 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.15"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2835"]
+[EventDate "2012.01.14"]
+[ECO "D56"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Rc1 c6 10. Be2 Nxc3 11. Rxc3 dxc4 12. Bxc4 Nd7 13. O-O b6 14.
+Qc2 Bb7 15. Bd3 c5 16. Bh7+ Kh8 17. Be4 Bxe4 18. Qxe4 Rac8 19. Rfc1 Rc7 20.
+Qc2 Rfc8 21. h3 Nf6 22. Rc4 Ne8 23. dxc5 Rxc5 24. Qb3 Rxc4 25. Rxc4 Rxc4
+26. Qxc4 Nd6 27. Qc6 Kg8 28. Ne5 Qd8 29. Nd7 Ne4 30. b3 Nf6 31. Ne5 Nd5 32.
+g3 Qe7 33. h4 g6 34. Kg2 Kg7 35. Nd3 Qd8 36. Qc4 Nf6 37. e4 g5 38. hxg5
+hxg5 39. Qc3 Kg8 40. Kf3 Nd7 41. Ke3 Nf6 42. a4 Ng4+ 43. Kf3 Nf6 44. b4 Qd7
+45. b5 Qd8 46. Ke3 Ng4+ 47. Ke2 Nf6 48. Qc4 Qa8 49. Ke3 Qd8 50. Kf3 Kg7 51.
+Qc3 Qh8 52. Qd4 Qh1+ 53. Ke3 Qd1 54. Ne5 Qe1+ 55. Kf3 Qh1+ 56. Ke3 Qe1+ 57.
+Kf3 Qh1+ 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.15"]
+[Round "2"]
+[White "Giri,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2773"]
+[EventDate "2012.01.14"]
+[ECO "E81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 Nc6 8.
+d5 Ne5 9. Ng3 h5 10. Be2 a6 11. a4 e6 12. O-O exd5 13. cxd5 Bd7 14. h3 h4
+15. Nh1 b5 16. Bg5 b4 17. Nb1 c4 18. Bxh4 Re8 19. f4 Nd3 20. Bxd3 cxd3 21.
+Qxd3 Rxe4 22. Nd2 Re8 23. Ng3 Qb6+ 24. Kh2 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.15"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2770"]
+[BlackElo "2692"]
+[EventDate "2012.01.14"]
+[ECO "E81"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 d6 5. Nc3 O-O 6. Be3 c6 7. Bd3 a6 8. a4
+a5 9. Qd2 e5 10. Nge2 Na6 11. Rd1 exd4 12. Bxd4 Nc5 13. Bc2 Be6 14. b3 Qb6
+15. O-O Qb4 16. Rb1 Rad8 17. Kh1 Bc8 18. Qc1 Nh5 19. Na2 Qb6 20. Bg1 Qc7
+21. Nac3 Qe7 22. Qd2 f5 23. exf5 Bxf5 24. Bxf5 gxf5 25. g3 Be5 26. Nd4 Rde8
+27. Nce2 Qd8 28. Rbd1 Ng7 29. Qc2 Qc7 30. Nf4 Bxf4 31. gxf4 Rf6 32. Bf2 Qf7
+33. Rg1 Rg6 34. Qd2 Qc7 35. Rg3 Nce6 36. Rdg1 Nxd4 37. Bxd4 Ree6 38. Bb2 b6
+39. Qd4 Qb7 40. Qd3 Qf7 41. Bxg7 Kxg7 42. Qd4+ Qf6 43. Qxb6 Re2 44. Rg5 c5
+45. Qxa5 Qb2 46. Qc7+ Kh8 47. Qd8+ Kg7 48. Rxg6+ hxg6 49. Qh4 Qxb3 50. Qh3
+d5 51. Qg3 Re6 52. cxd5 Qxd5 53. Qf2 Qd3 54. Qb2+ Kf7 55. Qb7+ Re7 56. Qc6
+Re6 57. Qb7+ Re7 58. Qc6 Re6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.15"]
+[Round "2"]
+[White "Navara,D"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2739"]
+[EventDate "2012.01.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 Nf6 6. h3 Be7 7. O-O O-O
+8. c3 b6 9. Bc2 Bb7 10. d4 Nbd7 11. Nbd2 Re8 12. Nc4 Bf8 13. Bg5 h6 14. Bh4
+g6 15. Ne3 Bg7 16. Nh2 Qc8 17. Nhg4 Nxg4 18. Nxg4 f5 19. Ne3 Nf6 20. Re1
+Kh8 21. f3 Qd7 22. Qd2 Nd5 23. Bf2 Kh7 24. Bb3 Nxe3 25. Rxe3 Rxe3 26. Bxe3
+Re8 27. Re1 a5 28. Bc2 Bd5 29. b3 Bf7 30. a4 Bf6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.15"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2769"]
+[EventDate "2012.01.14"]
+[ECO "E46"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. cxd5 exd5
+8. b4 c6 9. Ng3 b5 10. Bd2 Nbd7 11. a4 Bxb4 12. axb5 c5 13. Qb3 Nb6 14. Be2
+Qe7 15. O-O Be6 16. Qb2 cxd4 17. exd4 Bd6 18. Rfe1 Rac8 19. Bd3 Qb7 20. Bg5
+Nfd7 21. Nce2 Nc4 22. Qb1 h6 23. Bf4 Be7 24. Nf5 Bf6 25. Neg3 Bxf5 26. Nxf5
+Ndb6 27. Qd1 Rfe8 28. Qg4 Kf8 29. Bd6+ Nxd6 30. Nxd6 Rxe1+ 31. Rxe1 Qc7 32.
+Qxc8+ Qxc8 33. Nxc8 Nxc8 34. Be2 Nd6 35. Ra1 Bxd4 36. Rd1 Bb6 37. Rxd5 Ke7
+38. g3 g6 39. Kg2 Ke6 40. Rd1 h5 41. Bd3 Ke7 42. Re1+ Kf6 43. f4 Kg7 44.
+Kf3 Kf6 45. Re5 Bg1 46. h3 Bb6 47. g4 hxg4+ 48. hxg4 Kg7 49. Rd5 Bc7 50.
+Rc5 Bb6 51. Rc6 Ne8 52. g5 Kf8 53. Ke4 Ke7 54. Rc2 Nc7 55. Bc4 Ne8 56. Kd5
+Kd7 57. Rh2 Be3 58. b6 Nd6 59. bxa7 Bxa7 60. Bd3 Be3 61. Ke5 Ke7 62. Rh7
+Bc1 63. Bxg6 Bb2+ 64. Kd5 Bc1 65. Bxf7 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2736"]
+[EventDate "2012.01.14"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Qd2 e5 13. Bh6 exd4 14.
+Bxg7 Kxg7 15. cxd4 cxd4 16. f4 f6 17. f5 Nc6 18. Bb5 Ne5 19. Nxd4 gxf5 20.
+Rad1 Qe7 21. Ba6 Bd7 22. exf5 Kh8 23. Qc3 Rae8 24. Rf4 Rg8 25. Bf1 Rc8 26.
+Qe1 Bc6 27. h3 Bd5 28. a4 Rg7 29. Qf2 Rcg8 30. Ne6 Bxe6 31. fxe6 Qxe6 32.
+Kh1 Rg6 33. Rd2 Qe7 34. Rfd4 Rc8 35. Rd1 Rgg8 36. Qd2 Qg7 37. Qf2 Qe7 38.
+Qd2 Rg3 39. Rf4 Rg6 40. a5 bxa5 41. Qxa5 Rgg8 42. Ra1 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2712"]
+[EventDate "2012.01.14"]
+[ECO "D73"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. Bg2 dxc4 6. Na3 Nc6 7. Nxc4 Be6
+8. b3 a5 9. Bb2 Bd5 10. Rc1 O-O 11. a3 Qc8 12. O-O Qe6 13. Ng5 Qg4 14. e4
+Qxd1 15. Rfxd1 Bxc4 16. Rxc4 e6 17. d5 Rfd8 18. Rcc1 exd5 19. exd5 Ne7 20.
+Bxf6 Bxf6 21. Ne4 Be5 22. f4 Bd6 23. Nxd6 cxd6 24. Rc7 Nf5 25. Rxb7 Rac8
+26. Bf1 Rc2 27. Bb5 Ne3 28. Re1 Nxd5 29. Bc4 Nc7 30. Rxc7 d5 31. Rd1 Re8
+32. Bb5 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Van Wely,L"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2692"]
+[BlackElo "2761"]
+[EventDate "2012.01.14"]
+[ECO "A33"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. a3 Bc5 7. Nb3 Be7
+8. e4 O-O 9. Be2 b6 10. O-O Bb7 11. Bf4 d6 12. Rc1 Rc8 13. Re1 Ne5 14. Nd2
+Nfd7 15. b4 Kh8 16. Bg3 g5 17. Nb3 a6 18. Bf1 Rg8 19. Na4 Bc6 20. Nd4 Bb7
+21. Nb3 Bc6 22. Nd4 Bb7 23. Nb3 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2766"]
+[EventDate "2012.01.14"]
+[ECO "D11"]
+
+1. d4 d5 2. Nf3 c6 3. e3 Nf6 4. c4 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O Qb6 8.
+cxd5 cxd5 9. Qb3 Rd8 10. Qxb6 axb6 11. Bd2 Nc6 12. Rfc1 Bg4 13. Be1 e6 14.
+h3 Bxf3 15. Bxf3 Bf8 16. Be2 Ne8 17. Nb5 Bb4 18. Bxb4 Nxb4 19. a3 Nc6 20.
+Rc3 Kf8 21. Rac1 Ke7 22. Rb3 Na5 23. Rbc3 Nc6 24. Kf1 Rd7 25. Ke1 Kd8 26.
+Rb3 Na5 27. Rbc3 Nc6 28. Rb3 Na5 29. Rbc3 Nc6 30. Rb3 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2835"]
+[BlackElo "2805"]
+[EventDate "2012.01.14"]
+[ECO "D31"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 Nf6 7. h3 g6 8.
+e3 Bf5 9. Qd2 h5 10. Bd3 Bxd3 11. Qxd3 Nbd7 12. Nge2 a5 13. O-O O-O 14. f3
+b5 15. e4 dxe4 16. fxe4 Nc5 17. Qf3 Ne6 18. Be3 b4 19. Nb1 Nh7 20. Nd2 Rc8
+21. Rad1 Bh4 22. g3 Bf6 23. Nc4 Bg7 24. b3 Qe7 25. Qg2 Nc7 26. Nxa5 Rfe8
+27. e5 Nd5 28. Bd2 Red8 29. Nf4 Qa7 30. Nxc6 Rxc6 31. Nxd5 Rc2 32. Kh1 Bf8
+33. e6 Qa8 34. exf7+ Kh8 35. Nf4 Qxg2+ 36. Kxg2 Rxd4 37. Rf2 Rd6 38. Bc1
+Rxf2+ 39. Kxf2 Rxd1 40. Bb2+ Nf6 41. Bxf6+ Kh7 42. Ne6 Bd6 43. Be5 Be7 44.
+f8=Q Bxf8 45. Nxf8+ Kh6 46. Ne6 g5 47. h4 gxh4 48. gxh4 Kg6 49. Nd4 Rd3 50.
+Nc6 Rd2+ 51. Ke3 Rxa2 52. Bd6 Ra1 53. Kd4 Rg1 54. Kc5 Kf5 55. Nxb4 Rc1+ 56.
+Kd4 Re1 57. Nc6 Re4+ 58. Kd5 Rxh4 59. b4 Rh1 60. b5 Rb1 61. Nd4+ Kg4 62.
+Kc6 Rc1+ 63. Kd7 Rb1 64. Kc7 h4 65. b6 Kh3 66. b7 Kg2 67. Nf5 h3 68. Nh4+
+1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Karjakin,Sergey"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2769"]
+[BlackElo "2714"]
+[EventDate "2012.01.14"]
+[ECO "C07"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. dxc5 Qxc5 6. Ne4 Qb4+ 7. Nc3
+Nf6 8. a3 Qa5 9. Bd3 a6 10. Bf4 Nbd7 11. Nf3 Nh5 12. b4 Qd8 13. Be3 Be7 14.
+O-O O-O 15. Ne4 a5 16. Rb1 axb4 17. axb4 Qc7 18. Nd4 g6 19. Nb5 Qb8 20. c4
+f5 21. Nec3 b6 22. Be2 Ndf6 23. Nd4 Bd7 24. Bf3 Qc7 25. Bxa8 Rxa8 26. Nf3
+Qxc4 27. Qd4 Qxd4 28. Bxd4 Rc8 29. g3 b5 30. Ne5 Be8 31. Rfc1 g5 32. Kg2
+Kf8 33. Ne2 Ra8 34. Bc5 Nd7 35. Bxe7+ Kxe7 36. Nc6+ Kd6 37. Ned4 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.16"]
+[Round "3"]
+[White "Gelfand,B"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2770"]
+[EventDate "2012.01.14"]
+[ECO "D45"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
+O-O dxc4 9. Bxc4 b5 10. Be2 Bb7 11. Rd1 Qc7 12. Bd2 a5 13. Rac1 Rac8 14.
+Ne4 Nxe4 15. Qxe4 c5 16. Qh4 b4 17. e4 Rfe8 18. Bb5 Be7 19. Qf4 Qxf4 20.
+Bxf4 Red8 21. d5 exd5 22. exd5 Bf6 23. b3 h6 24. d6 Bc6 25. Bxc6 Rxc6 26.
+Nd2 Be5 27. Bxe5 Nxe5 28. Ne4 f5 29. f4 Nd3 30. Nf6+ Kf7 31. Rxd3 Kxf6 32.
+d7 Rc7 33. Rcd1 Ke7 34. Re1+ Kf7 35. Red1 Ke7 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.17"]
+[Round "4"]
+[White "Gelfand,B"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2773"]
+[EventDate "2012.01.14"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8.
+Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 11. h3 exd4 12. Nxd4 Nc6 13. O-O Nxd4 14. Qxd4
+f5 15. Qd5+ Kh8 16. exf5 Nxf5 17. Bh2 Bd7 18. Bg4 Nd4 19. Bxd7 Qxd7 20.
+Rad1 Rae8 21. Nb5 Nxb5 22. cxb5 g4 23. h4 b6 24. b3 Qf7 25. Qb7 Re2 26. Bg3
+Be5 27. Rc1 Qf5 28. Qxc7 Bxg3 29. fxg3 Rxg2+ 30. Kxg2 Qe4+ 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.17"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2770"]
+[BlackElo "2761"]
+[EventDate "2012.01.14"]
+[ECO "D16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 cxd4 8.
+exd4 Nc6 9. O-O Be7 10. Qe2 O-O 11. Rd1 Nb4 12. Bg5 Bd7 13. d5 exd5 14.
+Nxd5 Nbxd5 15. Bxd5 Nxd5 16. Rxd5 Bxg5 17. Nxg5 h6 18. Qd2 hxg5 19. Rxd7
+Qf6 20. Rxb7 Rab8 21. Rxb8 Rxb8 22. Rb1 Qe6 23. Qxg5 Qa2 24. Rd1 Qxa4 25.
+Rd8+ Rxd8 26. Qxd8+ Kh7 27. Qd3+ g6 28. b3 Qa1+ 29. Qf1 Qd4 30. g3 Qd5 31.
+Qb1 a5 32. h4 Kg8 33. Qc2 Kh7 34. Kh2 Qf3 35. Kg1 Qd5 36. Kf1 Kg8 37. Ke2
+Qe5+ 38. Kf3 Qd5+ 39. Ke3 Qe5+ 40. Qe4 Qc3+ 41. Qd3 Qe5+ 42. Kf3 Qf6+ 43.
+Kg2 a4 44. bxa4 Qc6+ 45. f3 Qxa4 46. Qe4 Qa2+ 47. Kh3 Qa1 48. Qc4 Kg7 49.
+Qd5 Qh1+ 50. Kg4 Qa1 51. Qd6 Qc3 52. Qd5 Qc8+ 53. Kf4 Qc1+ 54. Ke5 Qe1+ 55.
+Kf4 Qc1+ 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.17"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2732"]
+[EventDate "2012.01.14"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. e4 O-O
+8. Be3 Bg4 9. Rd1 e6 10. Be2 Nc6 11. Ng1 Bxe2 12. Ngxe2 Qe7 13. O-O Rfd8
+14. e5 h6 15. a3 Na5 16. Qc2 c5 17. dxc5 Nbc4 18. Bc1 Nxe5 19. b4 Nac6 20.
+Ne4 a6 21. h3 f5 22. Nd6 Nf7 23. Nc4 e5 24. Rde1 Kh7 25. Bb2 Re8 26. Nd4
+Nxd4 27. Bxd4 Rad8 28. Bb2 e4 29. Bxg7 Kxg7 30. f3 Qf6 31. fxe4 Qd4+ 32.
+Kh2 Rxe4 33. Rxe4 Qxe4 34. Qxe4 fxe4 35. Kg3 Rd4 36. Na5 g5 37. Kf2 Rd3 38.
+Re1 Rxa3 39. Rxe4 Kf6 40. Nxb7 Ne5 41. Rd4 Ke7 42. Nd6 Rb3 43. Nc8+ Kf7 44.
+Nd6+ Ke6 45. Nc4 Nd3+ 46. Kg1 Nf4 47. Rd6+ Ke7 48. Ne5 Rb2 49. Rxa6 Rxg2+
+50. Kf1 Rb2 51. Rxh6 Nd5 52. Rd6 Ne3+ 53. Ke1 Nc2+ 54. Kd1 Nxb4 55. Rb6 Kf8
+56. Rb8+ Kg7 57. Nc4 Rb3 58. c6 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.17"]
+[Round "4"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2835"]
+[EventDate "2012.01.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Bb4 11. Ne2 Be6 12. Nf4 Bd5 13. Nxd5
+cxd5 14. g4 Ne7 15. Nd4 Bc5 16. Rd1 h5 17. Kg2 Bxd4 18. Rxd4 c5 19. Rd3 d4
+20. b4 cxb4 21. Rxd4 Nc6 22. Rd5 hxg4 23. hxg4 Rd8 24. Rxd8+ Kxd8 25. Bg5+
+Kc7 26. f4 b5 27. Rd1 a6 28. Rd5 Re8 29. Kf3 Rh8 30. Kg2 Re8 31. Bh4 Na5
+32. Bf2 Nc4 33. Kf3 g6 34. Bd4 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.17"]
+[Round "4"]
+[White "Navara,D"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteElo "2712"]
+[BlackElo "2769"]
+[EventDate "2012.01.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bg5 Be6 12. Rfd1 Be7 13. b3 h4
+14. Rd3 Rd8 15. Rxd8+ Bxd8 16. Rd1 Be7 17. Bf4 Rg8 18. Ng5 Bc8 19. Nce4 Rh8
+20. c4 b6 21. Nf3 Rh5 22. Kf1 Bd8 23. Nfg5 Be7 24. Nf3 Bd8 25. Nfg5 Be7 26.
+Rd3 c5 27. Nf3 Bb7 28. Nc3 Bxf3 29. Rxf3 Nd4 30. Rd3 Ne6 31. Bh2 a6 32. f4
+c6 33. Kf2 Nd4 34. Ke3 Rh6 35. Ne2 Rg6 36. Nxd4 cxd4+ 37. Kf3 c5 38. g4
+hxg3 39. Bxg3 f5 40. exf6 Rxf6 41. b4 Rh6 42. Kg4 Re6 43. Kf3 g6 44. Bf2
+Kd7 45. Ra3 cxb4 46. Rd3 Bf6 47. Bxd4 Rd6 48. Ke3 Bxd4+ 49. Rxd4 Rxd4 50.
+Kxd4 Kd6 51. Kd3 a5 52. a3 bxa3 53. Kc3 Kc5 54. h4 a2 55. Kb2 Kxc4 56. f5
+gxf5 57. h5 f4 58. h6 f3 59. h7 f2 60. h8=Q a1=Q+ 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.17"]
+[Round "4"]
+[White "Ivanchuk,V"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2692"]
+[EventDate "2012.01.14"]
+[ECO "E04"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Bd7 8.
+Qe2 b5 9. b3 cxb3 10. axb3 Be7 11. Bb2 O-O 12. Rc1 Nb4 13. Ne5 Rc8 14. Na3
+c5 15. dxc5 Rxc5 16. Rxc5 Bxc5 17. Nc2 Nxc2 18. Qxc2 Qb6 19. g4 Rd8 20. g5
+Nd5 21. Be4 f5 22. Bxd5 exd5 23. Nxd7 Rxd7 24. Qxf5 Rd8 25. h4 d4 26. Rd1
+a5 27. h5 dxe3 28. Rxd8+ Qxd8 29. Qxc5 exf2+ 30. Kg2 f1=Q+ 31. Kxf1 Qd1+
+32. Kg2 Qd2+ 33. Kf3 Qxb2 34. Qxb5 Kf8 35. Qc4 Ke7 36. Kg4 Qe5 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.17"]
+[Round "4"]
+[White "Giri,A"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2759"]
+[EventDate "2012.01.14"]
+[ECO "B77"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Nxd4 10. Bxd4 Be6 11. Bb3 Qa5 12. O-O-O Rfc8 13. Kb1 b5 14.
+Bxf6 Bxf6 15. Nd5 Qxd2 16. Nxf6+ Kg7 17. Nh5+ gxh5 18. Rxd2 Rc5 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.19"]
+[Round "5"]
+[White "Nakamura,Hi"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2759"]
+[BlackElo "2712"]
+[EventDate "2012.01.14"]
+[ECO "A22"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nb6 6. e3 c5 7. Nge2 Nc6
+8. O-O Be7 9. f4 exf4 10. Nxf4 O-O 11. b3 Bf5 12. Bb2 Qd7 13. Ne4 Rad8 14.
+Rf2 Nb4 15. Qf1 Bxe4 16. Bxe4 N6d5 17. Nh5 g6 18. a3 Na6 19. Bxd5 Qxd5 20.
+Bf6 Qd6 21. Bxe7 Qxe7 22. Nf6+ Kg7 23. Qc4 Qe5 24. Raf1 h5 25. Nxh5+ Qxh5
+26. Rxf7+ Rxf7 27. Rxf7+ Kh6 28. Qf4+ g5 29. Qf6+ Qg6 30. Qf1 Qh5 31. Rxb7
+c4 32. Qf6+ Qg6 33. Qxd8 Qb1+ 34. Kf2 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.19"]
+[Round "5"]
+[White "Karjakin,Sergey"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2769"]
+[BlackElo "2739"]
+[EventDate "2012.01.14"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Bg7 10. h3 Ne5 11. f3 Nbc6 12. Bf2 Be6 13. Qd2 Rc8 14. O-O-O
+Nxd4 15. Bxd4 Qa5 16. Qf2 Rc6 17. g3 O-O 18. f4 Nd7 19. h4 g4 20. Nd5 Bxd5
+21. exd5 Rc5 22. Bxg7 Kxg7 23. Kb1 Rxd5 24. Rxd5 Qxd5 25. Bg2 Qc5 26. Qe2
+Nf6 27. Qxe7 b5 28. Qb7 Re8 29. Rc1 Qf2 30. Bd5 Nxd5 31. Qxd5 Re1 32. Qxd6
+Qxg3 33. Qd4+ Kg8 34. b3 Rxc1+ 35. Kxc1 Qxh4 36. Kd2 g3 37. Ke3 Qg4 38.
+Qd8+ Kg7 39. Qd4+ Kg8 40. Qd8+ Kh7 41. Qd3+ Qg6 42. Kf3 g2 43. Qxg6+ Kxg6
+44. Kxg2 b4 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.19"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2835"]
+[BlackElo "2714"]
+[EventDate "2012.01.14"]
+[ECO "A15"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. d4 O-O 5. Bg5 d6 6. e3 h6 7. Bh4 g5 8.
+Bg3 Nh5 9. Nd2 Nxg3 10. hxg3 e6 11. Qc2 Qe7 12. Be2 a6 13. f4 f5 14. O-O-O
+c5 15. d5 e5 16. Rh5 exf4 17. gxf4 gxf4 18. exf4 Nd7 19. Bd3 Nf6 20. Rhh1
+Ng4 21. Rde1 Qf6 22. Re2 Qd4 23. Na4 Ne3 24. Rxe3 Qxe3 25. Nb6 Rb8 26. Rf1
+Re8 27. Kb1 Qd4 28. Nb3 Qf6 29. Nc1 Re7 30. Nxc8 Rxc8 31. Bxf5 Rce8 32.
+Be6+ Rxe6 33. dxe6 Qxe6 34. Rf2 Qe4 35. Re2 Qxc2+ 36. Kxc2 Rf8 37. Nd3 b5
+38. b3 Kf7 39. Nf2 Rd8 40. Ne4 d5 41. Nxc5 dxc4 42. Nxa6 Ra8 43. Nb4 Bf8
+44. Kc3 Bg7+ 45. Kc2 Bf8 46. Kc3 Bg7+ 47. Kd2 Bf8 48. Nc2 Rxa2 49. bxc4
+bxc4 50. Re4 Ra4 51. Ke2 Bc5 52. Kf3 Kf6 53. g4 Kf7 54. f5 Be7 55. Ne3 Ra3
+56. Rxc4 Bg5 57. Re4 Kf6 58. Re8 Rxe3+ 59. Rxe3 Bxe3 60. Kxe3 h5 61. gxh5
+Kxf5 62. h6 Kg6 63. h7 Kg7 64. Ke2 Kxh7 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.19"]
+[Round "5"]
+[White "Van Wely,L"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2692"]
+[BlackElo "2805"]
+[EventDate "2012.01.14"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8.
+Bd3 b6 9. b4 a5 10. a3 Ba6 11. O-O Qc8 12. h3 h6 13. Rb1 axb4 14. axb4 Bxd3
+15. Qxd3 Qb7 16. Rfc1 Ra3 17. Qc2 Rfa8 18. Nd2 bxc5 19. bxc5 Qc8 20. Rb3
+Rxb3 21. Nxb3 Bd8 22. Rb1 Bc7 23. Bxc7 Qxc7 24. Ra1 Rxa1+ 25. Nxa1 Qa5 26.
+Nb3 Qb4 27. Nc1 e5 28. Nd3 Qc4 29. Nb2 Qb4 30. Nd3 Qc4 31. Nb2 Qb4 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.19"]
+[Round "5"]
+[White "Kamsky,G"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2736"]
+[EventDate "2012.01.14"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8.
+Nxe5 Nxe5 9. d4 Bxd4 10. Qxd4 d6 11. Bf4 O-O 12. f3 c5 13. Qe3 c4 14. Ba2
+Ng6 15. Bg3 Nh5 16. Nc3 Nxg3 17. hxg3 Ne5 18. Rfd1 Be6 19. axb5 axb5 20.
+Bb1 Qc7 21. Ra7 Qc6 22. Ne2 Ra8 23. c3 h6 24. Nf4 Rxa7 25. Qxa7 Ra8 26. Qe7
+Qb6+ 27. Kh1 Nc6 28. Qh4 Bd7 29. e5 Nxe5 30. Nd5 Qd8 31. Qe4 Ng6 32. Nf4
+Nxf4 33. Qh7+ Kf8 34. gxf4 Qh4+ 35. Kg1 Re8 36. Qh8+ Ke7 37. Qxg7 Qxf4 38.
+Be4 Be6 39. Qd4 Qe5 40. Qa7+ Kf6 41. Qb6 Qc5+ 42. Qxc5 dxc5 43. Rd6 b4 44.
+f4 Ke7 45. Rc6 f5 46. Bf3 Rd8 47. Rxc5 bxc3 48. bxc3 Rd3 49. Kf2 Rxc3 50.
+Ke2 Ra3 51. Rc7+ Kd6 52. Rc6+ Kd7 53. Rc5 Rb3 54. Kd2 Rd3+ 55. Ke2 Ra3 56.
+Kd2 h5 57. Bxh5 Kd6 58. Re5 Ra2+ 59. Kc3 Rxg2 60. Be2 Rf2 61. Bxc4 Bxc4 62.
+Rxf5 Bd5 63. Kd4 Rd2+ 64. Ke3 Ra2 65. Rf8 Ra3+ 66. Kd4 Ra4+ 67. Ke3 Bc6 68.
+Rf5 Bd5 69. Rf8 Kc5 70. f5 Re4+ 71. Kf2 Kd6 72. Rd8+ Kc5 73. Kg3 Ra4 74. f6
+Ra6 75. Rf8 Kd4 76. Kf4 Ra1 77. Re8 Kc5 78. Rd8 Kc6 79. Kg5 Rg1+ 80. Kh6
+Be6 81. Ra8 Kd6 82. Ra7 Ke5 83. f7 Rf1 84. Kg7 Rxf7+ 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.19"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2770"]
+[EventDate "2012.01.14"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be5 Bf6 12. Be2 Bxe5 13. Nxe5 Qd6
+14. Nf3 Bd7 15. O-O Ba4 16. Qd4 Rac8 17. Qb4 b6 18. Rac1 Bd7 19. Rfd1 Ba4
+20. Re1 Bd7 21. Qh4 h6 22. Nd4 a5 23. Red1 Rfe8 24. Qg3 Qf6 25. Qf3 Qe5 26.
+Qg3 Qf6 27. Qf3 Qe5 28. Qg3 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.19"]
+[Round "5"]
+[White "Gashimov,V"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2766"]
+[EventDate "2012.01.14"]
+[ECO "B07"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Nf6 4. Bg5 Bg7 5. e5 Nfd7 6. f4 O-O 7. Nf3 Nb6 8.
+Be2 Nc6 9. O-O f6 10. exf6 exf6 11. Bh4 d5 12. Ne1 Ne7 13. g4 Nc4 14. Bxc4
+dxc4 15. Ng2 b5 16. Nxb5 Rb8 17. Nc3 Rxb2 18. Na4 Rb4 19. Nc5 c3 20. Qe2
+Nc6 21. a3 Re8 22. Qxe8+ Qxe8 23. axb4 Bxg4 24. Bf2 Qd8 25. Nb3 Nxb4 26.
+Rxa7 Nxc2 27. Rc1 Qb8 28. Ra2 Nb4 29. Ra4 Nd5 30. Nc5 Bf8 31. Rca1 c2 32.
+Nd3 Qb5 33. Nc1 Bh3 34. Ra5 Qc4 35. R1a4 Qc3 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.20"]
+[Round "6"]
+[White "Caruana,F"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2692"]
+[EventDate "2012.01.14"]
+[ECO "B01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bf5 7. Bd2 e6
+8. Nd5 Qd8 9. Nxf6+ gxf6 10. O-O Nd7 11. Nh4 Bg6 12. c3 Qc7 13. Qf3 O-O-O
+14. Bf4 Bd6 15. Bxd6 Qxd6 16. g3 c5 17. Rfd1 Bc2 18. Rd2 Ne5 19. Qxf6 Nxc4
+20. Rxc2 Rhf8 21. Rd1 Qd5 22. b3 Nd6 23. c4 Qh5 24. Qf3 Qxf3 25. Nxf3 b6
+26. dxc5 bxc5 27. Re2 Nb7 28. Rxd8+ Kxd8 29. Re5 Ke7 30. Rh5 Rh8 31. Ne5 a5
+32. f4 a4 33. bxa4 h6 34. g4 Ra8 35. g5 f6 36. gxf6+ Kxf6 37. Nd7+ Ke7 38.
+Ne5 Kf6 39. Kg2 Kg7 40. f5 exf5 41. Rxf5 Nd6 42. Rf2 Rxa4 43. Rc2 Ra3 44.
+Kf1 Nf5 45. Ke1 Ne3 46. Re2 Kf6 47. Nd7+ Kf5 48. Rf2+ Kg4 49. Ne5+ Kg5 50.
+Kd2 h5 51. Re2 Ng4 52. Kc1 Nxe5 53. Rxe5+ Kf4 54. Rxh5 Rxa2 55. h4 Ke3 56.
+Rd5 Rh2 57. h5 Rh4 58. Rxc5 Kd4 59. Ra5 Rh2 60. Kd1 Kxc4 61. Ke1 Kd4 62.
+Kf1 Ke4 63. Kg1 Rb2 64. h6 Kf4 65. Ra8 Rb7 66. Kg2 Kg5 67. Ra6 Rh7 68. Kg3
+Rxh6 69. Rxh6 Kxh6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.20"]
+[Round "6"]
+[White "Giri,A"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2714"]
+[BlackElo "2732"]
+[EventDate "2012.01.14"]
+[ECO "A04"]
+
+1. Nf3 c5 2. c4 Nf6 3. g3 Nc6 4. Bg2 d6 5. Nc3 g6 6. d4 cxd4 7. Nxd4 Bd7 8.
+O-O Bg7 9. Nc2 Rc8 10. Bd2 h5 11. h3 Be6 12. Ne3 Qd7 13. Kh2 Nd4 14. Ncd5
+Bxd5 15. cxd5 Qb5 16. Re1 Qxb2 17. Qa4+ b5 18. Qa5 Ng4+ 19. hxg4 hxg4+ 20.
+Kg1 Nxe2+ 21. Kf1 Nc3 22. Bxc3 Qxc3 23. Qxb5+ Kf8 24. Rad1 f5 25. Qb1 Qb2
+26. Qxb2 Bxb2 27. Rd3 Kf7 28. Rb1 Bf6 29. Ke2 Rc5 30. Ra3 Rh2 31. Rh1 Rxh1
+32. Bxh1 Rc1 33. Bg2 Bd4 34. Rd3 Bc5 35. Rd1 Rc3 36. Rd3 Rc1 37. Rd1 Rc3
+38. Rd2 Rc1 39. f3 gxf3+ 40. Bxf3 Kf6 41. g4 Kg5 42. gxf5 gxf5 43. Bg2 Kf4
+44. Nf1 a5 45. Kd3 a4 46. Rc2 Rd1+ 47. Ke2 Rb1 48. Rc4+ Kg5 49. Kd3 Rb2 50.
+Rc2 Rb4 51. Nd2 Rg4 52. Bh1 Rd4+ 53. Ke2 Rb4 54. Bf3 a3 55. Nb3 Bb6 56. Rc3
+Rh4 57. Bg2 Rg4 58. Kf1 Rb4 59. Bf3 Kf6 60. Ke2 Rh4 61. Bg2 Rg4 62. Kf1 Rb4
+63. Rc2 Rg4 64. Nd2 Rb4 65. Ke2 Bc5 66. Nf3 Re4+ 67. Kd3 Re3+ 68. Kd2 Re4
+69. Bf1 e6 70. dxe6 Rxe6 71. Rc4 Re8 72. Rh4 Be3+ 73. Kc2 Bc5 74. Bc4 Re3
+75. Bd5 Re2+ 76. Kd3 Rf2 77. Rh6+ Kg7 78. Re6 Rf1 79. Kc4 Rd1 80. Re1 Rxe1
+81. Nxe1 Kg6 82. Nd3 Ba7 83. Kb3 Kg5 84. Kxa3 f4 85. Kb3 Kg4 86. Ne1 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.20"]
+[Round "6"]
+[White "Gelfand,B"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2739"]
+[BlackElo "2759"]
+[EventDate "2012.01.14"]
+[ECO "A88"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c4 Bg7 5. Nc3 O-O 6. Nf3 d6 7. O-O c6 8. d5
+e5 9. dxe6 Bxe6 10. b3 Re8 11. Bb2 Na6 12. Ng5 Qe7 13. Nxe6 Qxe6 14. Qc2
+Nc5 15. Rad1 Rad8 16. e3 Nce4 17. Nxe4 fxe4 18. Rd2 d5 19. cxd5 cxd5 20.
+Qc5 b6 21. Qb5 Nh5 22. Ba3 Bf8 23. Bb2 Bg7 24. Ba3 Be5 25. Rc1 Nf6 26. Rdc2
+d4 27. Rc6 Qf5 28. exd4 Bxd4 29. Qxf5 gxf5 30. Bh3 e3 31. Bxf5 exf2+ 32.
+Kf1 Be3 33. Rb1 Ne4 34. Bxe4 Rxe4 35. Rc2 Red4 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.20"]
+[Round "6"]
+[White "Navara,D"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2835"]
+[EventDate "2012.01.14"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
+O-O dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. Rd1 b4 12. Na4 c5 13. dxc5 Rc8 14. Qe2
+Nxc5 15. Nxc5 Rxc5 16. e4 Nxe4 17. Bxe4 Bxe4 18. Rxd6 Bxf3 19. Qd2 Rd5 20.
+Rxd8 Rfxd8 21. Qe1 Rd1 22. Bg5 Rxe1+ 23. Rxe1 Rd5 24. Be7 Bg4 25. Bxb4 h5
+26. Bc3 f6 27. f3 Bf5 28. Re2 e5 29. Rd2 Rc5 30. Kf2 Kf7 31. h4 Be6 32. Rd6
+Bc8 33. Rd8 Rc4 34. Kg3 Be6 35. a3 Rc7 36. Ba5 Rc2 37. Ra8 Rxb2 38. Rxa7+
+Kg8 39. Bb4 Bc4 40. Rd7 Bf1 41. Rd2 Rb3 42. Kf2 Bd3 43. Ke3 Bb5+ 44. Kf2
+Kf7 45. Rd5 Bd3 46. Rd7+ Kg8 47. Rd8+ Kh7 48. Rd7 Bf5 49. Ra7 Kg8 50. Ra8+
+Kh7 51. Ra7 Rb2+ 52. Kg1 e4 53. Bf8 Kg8 54. Bxg7 e3 55. Bxf6 Rb1+ 56. Kh2
+e2 57. Bc3 e1=Q 58. Bxe1 Rxe1 59. Kg3 Bg6 60. a4 Re2 61. Ra5 Ra2 62. Kf4
+Kg7 63. g4 Bf7 64. Ra7 Rc2 65. gxh5 Rc6 66. Kg4 Rf6 67. Rc7 Ra6 68. h6+ Kf6
+69. h7 Rxa4+ 70. f4 Ra8 71. f5 Rh8 72. h5 Rxh7 73. Rc6+ Kg7 74. h6+ Kh8 75.
+Rc8+ Bg8 76. f6 Ra7 77. Re8 Kh7 78. Re7+ Rxe7 79. fxe7 Bf7 80. Kf5 Kxh6 81.
+e8=B Bxe8 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.20"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2770"]
+[BlackElo "2766"]
+[EventDate "2012.01.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Be6 10. Rd1+ Ke8 11. Ng5 Bc8 12. Ne2 a5 13. a4 b6
+14. b3 c5 15. Bb2 Be7 16. Ne4 Be6 17. Nf4 h5 18. g3 Rd8 19. Rxd8+ Kxd8 20.
+Rd1+ Kc8 21. Nxe6 fxe6 22. Kf1 Rd8 23. Rxd8+ Bxd8 24. Ke2 Kd7 25. Kd3 Ne7
+26. f4 Nd5 27. c3 Be7 28. Bc1 Bd8 29. Bd2 Kc6 30. c4 Ne7 31. Ng5 Kd7 32.
+Ke4 Nf5 33. Nf3 Ke8 34. Be1 Kf7 35. h3 Nh6 36. Bf2 Be7 37. Be3 g6 38. Nh2
+Ke8 39. Nf3 Kf7 40. Ng1 Bd8 41. Ne2 Ke8 42. Nc3 Kd7 43. Kf3 Nf5 44. Ne2 Ne7
+45. Ke4 Nf5 46. g4 hxg4 47. hxg4 Nh6 48. Kf3 Bh4 49. Nc3 Be1 50. Ne4 Nf7
+51. Ke2 Bh4 52. g5 Nd8 53. Nf6+ Ke7 54. Ng4 Nc6 55. Nh2 Kd7 56. Nf3 Bg3 57.
+Kd3 Ne7 58. Ke4 Nf5 59. Kd3 Kc6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.20"]
+[Round "6"]
+[White "Aronian,L"]
+[Black "Gashimov,V"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2761"]
+[EventDate "2012.01.14"]
+[ECO "A61"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Bf4 Bg7 8.
+Qa4+ Bd7 9. Qb3 b5 10. Bxd6 Qb6 11. Be5 O-O 12. e3 c4 13. Qd1 b4 14. Ne2
+Bb5 15. Ned4 Nbd7 16. Nxb5 Qxb5 17. Bd4 Qxd5 18. Be2 Nb6 19. O-O Rac8 20.
+Rc1 Rfd8 21. Qe1 c3 22. bxc3 bxc3 23. Ba6 Rc7 24. Rxc3 Rxc3 25. Qxc3 Ne4
+26. Qa3 Bxd4 27. Nxd4 Qc5 28. Qxc5 Nxc5 29. Bb5 Ne6 30. Nxe6 fxe6 31. Rc1
+Rd2 32. a4 Ra2 33. g3 a6 34. Bxa6 Rxa4 35. Bb5 Ra5 36. Be2 Nd7 37. Rc7 Nf8
+38. Bc4 Ra4 39. Kg2 Rb4 40. h4 h6 41. f4 h5 42. Kf3 Ra4 43. Ke4 Kh8 44. Ke5
+Kg8 45. Kf6 Ra5 46. e4 Ra4 47. e5 Ra3 48. Rc8 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.20"]
+[Round "6"]
+[White "Radjabov,T"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2773"]
+[BlackElo "2769"]
+[EventDate "2012.01.14"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 d5 6. Bg2 Be7 7. O-O O-O 8.
+b3 c5 9. dxc5 bxc5 10. Ne5 Bb7 11. Bb2 Nbd7 12. e3 Nxe5 13. Bxe5 Nd7 14.
+Bb2 Bf6 15. Qc2 Qb6 16. cxd5 exd5 17. Rac1 Rac8 18. Rfd1 Rfd8 19. Bxf6 Nxf6
+20. Qf5 g6 21. Qf4 Kg7 22. h4 a5 23. e4 dxe4 24. Nc4 Qe6 25. Rxd8 Rxd8 26.
+Qc7 Qd5 27. Ne3 Qd2 28. Rc2 Rd7 29. Qxc5 Qe1+ 30. Kh2 h5 31. Qe5 Qb4 32.
+Rc5 Qd2 33. Rc2 Qb4 34. Qg5 Nh7 35. Qf4 Qd4 36. Bh3 Re7 37. Rc7 Qf6 38. Rc5
+Qb6 39. Rc2 Qa6 40. Rd2 Qf6 41. Qb8 Nf8 42. Qd8 Ne6 43. Bxe6 Rxe6 44. Qxa5
+Ba6 45. Nd5 Qe5 46. Qc7 Bd3 47. Qxe5+ Rxe5 48. Nf4 Ba6 49. Nd5 Bd3 50. Nb4
+Bf1 51. Nc2 Rb5 52. Ne3 Bd3 53. Rb2 Kf6 54. a4 Ra5 55. Ra2 Ke5 56. b4 Ra7
+57. Ra3 Kd4 58. b5 Kc5 59. Rc3+ Kd4 60. b6 Rxa4 61. b7 Rb4 62. Rc4+ 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2769"]
+[BlackElo "2770"]
+[EventDate "2012.01.14"]
+[ECO "B23"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bc4 Nc6 7. O-O Na5 8.
+Be2 Nf6 9. d3 O-O 10. Qe1 Nc6 11. Qh4 Nd4 12. Bd1 Rc8 13. Kh1 b5 14. Nxd4
+cxd4 15. Nb1 Rc5 16. Nd2 Qc7 17. Nb3 Rxc2 18. Bxc2 Qxc2 19. Qg3 Rc8 20. f5
+Qe2 21. Bg5 Qxb2 22. Rab1 Qxa2 23. Nxd4 Qa4 24. Ne2 Rc2 25. Qf3 gxf5 26.
+Ng3 fxe4 27. Nxe4 Nxe4 28. dxe4 f6 29. Ra1 Ra2 30. Rac1 Rc2 31. Ra1 Qd4 32.
+Be3 Qe5 33. Bf4 Qe6 34. Qg3 Kf8 35. Rxa7 b4 36. Rb7 Re2 37. Qf3 Rc2 38.
+Rxb4 Qg4 39. Rb7 Qxf3 40. gxf3 Be8 41. Rc1 Rxc1+ 42. Bxc1 Bg6 43. Bf4 Bf7
+44. Kg2 Be6 45. Bd2 Ke8 46. Rb5 Kf7 47. f4 Bd7 48. Ra5 f5 49. exf5 Bf6 50.
+Kf3 h5 51. Ke4 Bc6+ 52. Kd3 Bg2 53. Be3 Bf1+ 54. Kd2 Bg2 55. Bb6 Be4 56.
+Ke3 Bc2 57. Bd4 Bxd4+ 58. Kxd4 Kf6 59. Ra8 Bxf5 60. Rf8+ Ke6 61. Ke3 Bg6
+62. Kf3 Bf7 63. f5+ Kf6 64. Kf4 Kg7 65. Rb8 Kf6 66. Rd8 e5+ 67. fxe6 Bxe6
+68. Rxd6 h4 69. Rb6 h3 70. Rc6 Kf7 71. Ke5 Bg4 72. Rc4 Bd7 73. Rc7 Ke8 74.
+Kd6 Bg4 75. Re7+ Kf8 76. Re4 Bc8 77. Kc7 Ba6 78. Re3 Kg7 79. Rxh3 Kg6 80.
+Kd6 Kg5 81. Ke5 Be2 82. Rg3+ Kh6 83. Kf5 Bd1 84. Rh3+ Kg7 85. Kg5 Be2 86.
+Re3 Bd1 87. Re7+ Kf8 88. Kf6 Kg8 89. Kg6 Bc2+ 90. Kh6 Kf8 91. Rg7 Bd3 92.
+Rg5 Kf7 93. Rg3 Bc2 94. Rg7+ Kf8 95. Rg2 Be4 96. Rg4 Bc2 97. Rg5 Kf7 98.
+Kh5 Kf6 99. Kg4 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2805"]
+[EventDate "2012.01.14"]
+[ECO "E06"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Be7 4. g3 Nf6 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Bxf6 Nxf6 12. Nbd2 Rc8 13. Nb3 c5 14.
+dxc5 Be4 15. Qc3 Bd5 16. Rfc1 Nd7 17. Qe3 h6 18. Rc2 Bxb3 19. Qxb3 Rxc5 20.
+Rac1 Qb6 21. Rxc5 Bxc5 22. e3 Rc8 23. Rc3 Rc7 24. Qc2 Bd6 25. Rxc7 Qxc7 26.
+Nd4 Qxc2 27. Nxc2 Nc5 28. b4 Nd7 29. a3 Be5 30. Bb7 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Gashimov,V"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2736"]
+[EventDate "2012.01.14"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8.
+c3 d6 9. d4 Bb6 10. a5 Ba7 11. h3 O-O 12. Re1 h6 13. Be3 Ra8 14. Nbd2 Re8
+15. Bc2 Bb7 16. Bb1 Nb8 17. c4 exd4 18. Bxd4 bxc4 19. Bxa7 Rxa7 20. Ra3
+Nbd7 21. Nd4 Ne5 22. Rg3 g6 23. f4 Nd3 24. Bxd3 cxd3 25. f5 g5 26. h4 g4
+27. Rxd3 Ra8 28. Rde3 h5 29. Qc1 Kh7 30. Ne2 Re5 31. Ng3 d5 32. Nb3 dxe4
+33. Nc5 Bc6 34. b4 Qd6 35. Qa1 Bd5 36. Nd3 exd3 37. Qxe5 Qxe5 38. Rxe5 c6
+39. Rd1 Rb8 40. Rxd3 Rxb4 41. Ra3 Kg7 42. Re2 Bc4 43. Rd2 Bd5 44. Ra1 Ne4
+45. Nxe4 Bxe4 46. Rf1 Kf6 47. Rd6+ Ke5 48. Rd8 Kf6 49. Rd6+ Ke5 50. Rd8 Kf6
+1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Van Wely,L"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2692"]
+[BlackElo "2714"]
+[EventDate "2012.01.14"]
+[ECO "A45"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 f5 6. g3 Bg7 7. c3 Qf6 8.
+e3 Na6 9. Ne2 Nc7 10. Nf4 Bh6 11. c4 d6 12. Nc3 Bd7 13. Be2 a6 14. a4 b6
+15. Nh5 Qg6 16. Bf3 Rb8 17. Ne2 Rf8 18. Qd2 a5 19. O-O Kd8 20. Rfe1 Ne8 21.
+Nef4 Qg8 22. e4 Qh8 23. Qe2 Rb7 24. e5 Qxe5 25. Qxe5 dxe5 26. Rxe5 Nd6 27.
+b3 Rg8 28. Rae1 Bf8 29. R5e3 Rb8 30. h4 Kc7 31. Bd1 Re8 32. Bc2 Kd8 33.
+R3e2 Rg4 34. Kh2 Rg8 35. f3 Kc7 36. Nd3 Rg6 37. Ne5 Rh6 38. Nxd7 Kxd7 39.
+g4 e6 40. Re5 Be7 41. Kh3 Bd8 42. R1e2 Rf8 43. Bd3 fxg4+ 44. fxg4 exd5 45.
+Rxd5 Kc7 46. Bf5 Rg8 47. Re3 Rf8 48. Ree5 Rg8 49. Bc2 Rf8 50. Bd1 Re8 51.
+Rxe8 Nxe8 52. g5 Rd6 53. Rxd6 Kxd6 54. Bc2 f6 55. g6 hxg6 56. Bxg6 Nc7 57.
+Bf5 Ne6 58. Bxe6 Kxe6 59. Ng7+ Ke5 60. Kg4 f5+ 61. Nxf5 Bxh4 62. Nxh4 Kd4
+63. Kf3 Kc3 64. Ke3 Kxb3 65. Kd3 Kxa4 66. Kc3 b5 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2835"]
+[BlackElo "2739"]
+[EventDate "2012.01.14"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+Bd3 Nbd7 9. O-O Bd6 10. h3 dxc4 11. Bxc4 O-O 12. Qc2 Qe7 13. Rd1 Rac8 14.
+Bd2 Nb6 15. Bf1 e5 16. dxe5 Bxe5 17. Rac1 Rcd8 18. Be1 Rxd1 19. Rxd1 Rd8
+20. Rxd8+ Qxd8 21. g3 Qe7 22. Bg2 Bd6 23. Bd2 Qe6 24. b3 Nbd5 25. Ne2 Nb4
+26. Qb1 Qf5 27. e4 Qc5 28. Nf4 g5 29. Ne2 g4 30. h4 Nd7 31. Be3 Qc2 32.
+Qxc2 Nxc2 33. Bxa7 Ba3 34. Nc3 Bb2 35. Nd1 Bc1 36. Bf1 Nb4 37. a4 Nf6 38.
+e5 Nd7 39. Bd4 Nc2 40. Bc3 Nc5 41. Be2 Ne4 42. Bxg4 Nxc3 43. Nxc3 Bb2 44.
+e6 fxe6 45. Bxe6+ Kf8 46. Ne4 Nd4 47. Ng5 Ke7 48. Bg8 Kf8 49. Bc4 Ke7 50.
+Kg2 b5 51. Bg8 Kf8 52. a5 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Nakamura,Hi"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2773"]
+[EventDate "2012.01.14"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. O-O O-O
+14. c4 f5 15. Qf3 Qb7 16. Qe2 b4 17. Nc2 f4 18. b3 Be6 19. Qd2 Rfb8 20. a3
+bxa3 21. Rxa3 Bf6 22. Kh1 Kh8 23. Rfa1 a5 24. Be2 Be7 25. Bf3 Bd7 26. Bh5
+Be6 27. Bf3 Bd7 28. Bh5 Be6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.21"]
+[Round "7"]
+[White "Kamsky,G"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2712"]
+[EventDate "2012.01.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be6 12. Rfd1 Be7 13. Ng5 Rh6
+14. Nxe6 Rxe6 15. Kf1 Rd8 16. Rxd8+ Bxd8 17. Ne4 Be7 18. Re1 c5 19. c4 Nd4
+20. Nc3 Ra6 21. Rd1 c6 22. Be3 b5 23. a3 b4 24. axb4 cxb4 25. Bxd4 bxc3 26.
+Bxc3 Ra4 27. Ke2 Rxc4 28. Ra1 Bc5 29. g3 Bb6 30. Kd3 Rc5 31. f4 Rb5 32. b4
+g6 33. g4 hxg4 34. hxg4 Kd7 35. f5 gxf5 36. gxf5 c5 37. Kc4 Kc6 38. Rd1 Bc7
+39. Rd5 a6 40. Rxc5+ Rxc5+ 41. bxc5 a5 42. f6 Kd7 43. Kd5 a4 44. c6+ Kd8
+45. Bb4 Bb8 46. e6 Ke8 47. Bd6 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.22"]
+[Round "8"]
+[White "Caruana,F"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2766"]
+[EventDate "2012.01.14"]
+[ECO "C11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+
+Nxf6 8. Bh4 c5 9. Bc4 cxd4 10. O-O Be7 11. Qe2 Nd7 12. Bxe7 Qxe7 13. Rad1
+O-O 14. Rxd4 Nf6 15. Rfd1 b6 16. Ne5 Qc7 17. h3 Bb7 18. Rd7 Qc8 19. Nxf7
+Nxd7 20. Nxh6+ Kh7 21. Qh5 Nf6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.22"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2835"]
+[EventDate "2012.01.14"]
+[ECO "A07"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 c6 5. O-O Nf6 6. Nbd2 O-O 7. c4 a5 8.
+b3 a4 9. Bb2 Bf5 10. Ne5 Nbd7 11. Nxd7 Bxd7 12. Bc3 axb3 13. axb3 Bg4 14.
+Rxa8 Qxa8 15. h3 Bf5 16. Qa1 h5 17. Qxa8 Rxa8 18. Ra1 Rxa1+ 19. Bxa1 Bc2
+20. e3 g5 21. Bf1 g4 22. hxg4 hxg4 23. Be2 Kh7 24. cxd5 cxd5 25. Bc3 Kg6
+26. Kf1 Kf5 27. Ke1 Nd7 28. b4 e6 29. Nf1 Kg5 30. Nh2 Nf6 31. Bd2 Kf5 32.
+b5 Bf8 33. Ba5 Be7 34. Bc7 Kg5 35. b6 Bb3 36. f4+ Kf5 37. Kf2 Bc4 38. Bd1
+Bb4 39. Bd8 Ba5 40. Kg2 Bd3 41. Kf2 Ne4+ 42. Kg2 Nf6 43. Kf2 Ne4+ 44. Kg2
+Nf6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.22"]
+[Round "8"]
+[White "Navara,D"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2692"]
+[EventDate "2012.01.14"]
+[ECO "B84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. a4 Nc6 8.
+O-O Be7 9. f4 O-O 10. Be3 Qc7 11. Kh1 Re8 12. Bf3 Rb8 13. Qe1 e5 14. Nde2
+Nb4 15. Qf2 b5 16. axb5 Nxc2 17. bxa6 Nxa1 18. a7 Nc2 19. fxe5 dxe5 20.
+axb8=R Qxb8 21. Bg5 Nb4 22. Ng3 Nd3 23. Qc2 Nb4 24. Qf2 Nd3 25. Qd2 Nf4 26.
+Nf5 Bxf5 27. exf5 Bb4 28. Bxf6 gxf6 29. Qe3 Bxc3 30. bxc3 Rd8 31. c4 Qb4
+32. c5 Rd3 33. Qf2 Rc3 34. c6 Qc4 35. h3 Nd3 36. Qd2 Kg7 37. Rb1 Qd4 38.
+Kh2 Rc5 39. Qe2 Qf4+ 40. g3 Qxf5 41. Be4 Qf2+ 42. Qxf2 Nxf2 43. Bf5 e4 44.
+Kg2 e3 45. Bd7 Ne4 46. Re1 Rc3 47. Kf3 Ng5+ 48. Kf4 Ne6+ 49. Ke4 Kf8 50.
+Rxe3 Rc5 51. Ra3 Ke7 52. Ra8 Kd6 53. Rh8 Rc3 54. Kf5 Rxg3 55. Rxh7 Nd8 56.
+h4 Rf3+ 57. Kg4 Rf1 58. Rh5 Nxc6 59. Bxc6 Kxc6 60. Rf5 Rg1+ 61. Kh5 Rg6 62.
+Rc5+ Kxc5 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.22"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2770"]
+[BlackElo "2805"]
+[EventDate "2012.01.14"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. a3 b6 7. Qc2 c5 8.
+Rd1 Nc6 9. cxd5 Nxd5 10. dxc5 bxc5 11. e3 Qa5 12. Ne5 Nxe5 13. Bxe5 Rd8 14.
+Bd3 Ba6 15. O-O Bxd3 16. Qxd3 Nxc3 17. Qxc3 Qxc3 18. Bxc3 Kf8 19. Rxd8+
+Rxd8 20. Rc1 g6 21. Kf1 Ke8 22. Ke2 a6 23. g4 Rd6 24. Be5 Rd5 25. f4 f6 26.
+Bc3 f5 27. h3 Kd7 28. a4 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.22"]
+[Round "8"]
+[White "Giri,A"]
+[Black "Gashimov,V"]
+[Result "0-1"]
+[WhiteElo "2714"]
+[BlackElo "2761"]
+[EventDate "2012.01.14"]
+[ECO "B94"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5
+8. Qd2 e6 9. O-O-O b5 10. Bd5 b4 11. Bxa8 bxc3 12. bxc3 Qxa2 13. Qe2 Be7
+14. Kd2 Nxe4+ 15. Qxe4 Bxg5+ 16. f4 d5 17. Ra1 Qxa1 18. Rxa1 dxe4 19. fxg5
+h6 20. g6 f5 21. Nxe6 Ke7 22. Nf4 Rd8 23. Bd5 Nb6 24. c4 Nxc4+ 25. Kc3 Ne3
+26. Bf7 Rd6 27. Ra5 Bd7 28. Re5+ Kf6 29. Rc5 Kg5 30. g3 Nf1 31. h4+ Kg4 32.
+Rd5 Rxd5 33. Nxd5 Kxg3 34. Nf6 e3 35. Bc4 Bb5 36. Nh5+ Kf2 37. Nxg7 Bxc4
+38. Kxc4 e2 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.22"]
+[Round "8"]
+[White "Gelfand,B"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2732"]
+[EventDate "2012.01.14"]
+[ECO "D15"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. Nc3 a6 5. e3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Qb3 e6 9. Rd1 Nbd7 10. Qc2 Qc7 11. b3 b6 12. e4 dxe4 13. Nxe4 c5 14. Nxf6+
+Bxf6 15. Bg5 cxd4 16. Bxf6 Nxf6 17. Rxd4 e5 18. Rd2 Re8 19. Qb2 Bb7 20.
+Rad1 Re7 21. b4 Ne4 22. Rc2 a5 23. a3 axb4 24. axb4 Nxf2 25. Kxf2 e4 26. h3
+exf3 27. Bxf3 Bxf3 28. Kxf3 Rae8 29. Qd4 Re6 30. c5 h5 31. Rcd2 bxc5 32.
+bxc5 h4 33. Qxh4 Qxc5 34. Kg3 Re4 35. Qf6 R4e6 36. Qd4 Qc7+ 37. Kf3 g5 38.
+g4 Re5 39. Kg2 Qc6+ 40. Kf2 R8e6 41. Qb2 Rf6+ 42. Kg1 Rb5 43. Qd4 Rf4 44.
+Qd6 Qxd6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.22"]
+[Round "8"]
+[White "Karjakin,Sergey"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2759"]
+[EventDate "2012.01.14"]
+[ECO "A97"]
+
+1. c4 f5 2. d4 Nf6 3. Nf3 e6 4. g3 Be7 5. Bg2 O-O 6. O-O d6 7. Nc3 Qe8 8.
+b4 Bd8 9. c5 e5 10. dxe5 dxe5 11. e4 c6 12. exf5 Bxf5 13. Ng5 Nbd7 14. Bb2
+Bc7 15. Qb3+ Kh8 16. Rad1 a5 17. a3 axb4 18. axb4 Qg6 19. Nge4 Rab8 20. Qc4
+Nxe4 21. Nxe4 b6 22. Nd6 Be6 23. Qc1 bxc5 24. bxc5 Bg4 25. Rd2 Bf3 26. Bxf3
+Rxf3 27. Qd1 Rff8 28. Nc4 Nxc5 29. Nxe5 Bxe5 30. Bxe5 Rbe8 31. Bd6 Rf5
+1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Van Wely,L"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2692"]
+[BlackElo "2739"]
+[EventDate "2012.01.14"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qb3 c5 6. Bg5 Bb7 7. a3 Bxc3+ 8.
+Qxc3 h6 9. Bh4 g5 10. Bg3 Ne4 11. Qd3 Nxg3 12. hxg3 Qf6 13. O-O-O Bxf3 14.
+gxf3 Qxd4 15. Qxd4 cxd4 16. Rxd4 Nc6 17. Rd3 Ne5 18. Rc3 Rc8 19. e4 Ke7
+1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2766"]
+[BlackElo "2714"]
+[EventDate "2012.01.14"]
+[ECO "D31"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Bf4 Nf6 5. e3 O-O 6. Rc1 c5 7. dxc5 Qa5 8.
+Nf3 Rd8 9. Qc2 Nc6 10. a3 h6 11. Be2 dxc4 12. Nd2 Qxc5 13. Nxc4 Qf5 14. Bf3
+Nd4 15. Qxf5 Nxf3+ 16. gxf3 exf5 17. Rg1 Kf8 18. Nb5 Ne8 19. Ke2 g5 20. Be5
+f6 21. Bc3 Bd7 22. Nd4 Rac8 23. Bb4 Bxb4 24. axb4 Ke7 25. Rgd1 f4 26. b3
+fxe3 27. fxe3 Be6 28. Ra1 a6 29. Ra5 Bxc4+ 30. bxc4 Nd6 31. c5 Nc4 32. Ra2
+Kf7 33. c6 Rc7 34. Ne6 Rxd1 35. Nxc7 Rb1 36. b5 Nd6 37. bxa6 bxa6 38. e4 f5
+39. e5 Nb5 40. Nxb5 Rxb5 41. Kd3 Ke6 42. Rc2 Rb8 43. Kd4 h5 44. c7 Rc8 45.
+Rc6+ Kd7 46. Rh6 Rxc7 47. Rxh5 Rb7 48. Rh7+ Kc8 49. Rh8+ Kd7 50. Rh7+ Kc8
+51. Rxb7 Kxb7 52. f4 gxf4 53. h4 a5 54. e6 Kc7 55. h5 a4 56. e7 Kd7 57. h6
+1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Nakamura,Hi"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2770"]
+[EventDate "2012.01.14"]
+[ECO "A23"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 e4 5. Nd4 Qb6 6. Nb3 a5 7. d3 a4 8. Nd2
+exd3 9. exd3 Bc5 10. Qe2+ Kd8 11. Nde4 Re8 12. Be3 Bxe3 13. fxe3 a3 14. Rb1
+d5 15. c5 Qb4 16. Nxf6 gxf6 17. Qd2 axb2 18. Nd1 Qxc5 19. d4 Qd6 20. Rxb2
+b5 21. Bd3 Bh3 22. Nc3 Nd7 23. Kf2 Nb6 24. a4 Nxa4 25. Ra1 Re7 26. Rba2
+Rea7 27. Qc2 h6 28. Nxa4 bxa4 29. Rxa4 Rxa4 30. Rxa4 Rxa4 31. Qxa4 Ke7 32.
+Qa7+ Kf8 33. Qc5 Qxc5 34. dxc5 Bg4 35. Bc2 Ke7 36. Ba4 Kd7 37. Ke1 Bf5
+1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Carlsen,M"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteElo "2835"]
+[BlackElo "2769"]
+[EventDate "2012.01.14"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 b6 3. Nc3 Bb7 4. d4 e6 5. a3 d5 6. Bg5 Be7 7. e3 O-O 8.
+Rc1 h6 9. Bxf6 Bxf6 10. cxd5 exd5 11. Bd3 c5 12. O-O Na6 13. Ne5 cxd4 14.
+exd4 Bxe5 15. dxe5 Nc5 16. Re1 Re8 17. f4 d4 18. Ne4 Bxe4 19. Bxe4 d3 20.
+Rc4 Rc8 21. Bf5 Qd5 22. Rc3 Rcd8 23. Qd2 Qd4+ 24. Kh1 a5 25. Rb1 a4 26. Rd1
+Rd5 27. h4 g6 28. Bxd3 Red8 29. Qe1 Qxf4 30. e6 Nxe6 31. Bc2 b5 32. Rxd5
+Rxd5 33. Re3 Nd4 34. Bd3 Kg7 35. Kg1 Qf6 36. Kh2 Rh5 37. Rh3 Ne6 38. Rf3
+Rxh4+ 39. Kg1 Qd4+ 40. Qf2 Qxf2+ 41. Kxf2 b4 42. Re3 Rd4 43. Bb5 Kf6 44.
+Rf3+ Ke7 45. Rd3 bxa3 46. bxa3 Rf4+ 47. Ke3 f5 48. Rd7+ Kf6 49. Rd6 Re4+
+50. Kf2 Kg5 51. Be8 Nf4 52. Bb5 Re5 53. Bc4 Nh5 54. Ra6 Nf6 55. Rxa4 Ng4+
+56. Kf1 Kh4 57. Be2 Kg3 58. Bxg4 fxg4 59. Rb4 h5 60. a4 Kh2 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Kamsky,G"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2773"]
+[EventDate "2012.01.14"]
+[ECO "C77"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Bd7 7. O-O g6 8.
+Re1 Bg7 9. d4 O-O 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Bg5 Bxa4 13. Qxa4 h6 14.
+Bh4 Qd6 15. Na3 b5 16. Qb3 Rfd8 17. f3 Bf8 18. Red1 Qb6+ 19. Kf1 Be7 20.
+Bf2 Bc5 21. Bg3 Re8 22. Nc2 Nh5 23. Be1 Rad8 24. Nb4 c6 25. Nd3 Be3 26. a4
+Nf4 27. Nxf4 exf4 28. c4 bxc4 29. Qxb6 Bxb6 30. Rxd8 Rxd8 31. Rc1 Be3 32.
+Rxc4 c5 33. Ke2 Kf8 34. h4 Ke7 35. g3 Rb8 36. b4 cxb4 37. Bxb4+ Kd7 38. Bc3
+Rb1 39. Be5 fxg3 40. Rc7+ Ke6 41. Bxg3 Bb6 42. Rc6+ Kd7 43. Rf6 Ke7 44. e5
+Rb2+ 45. Kd3 Bf2 46. Bxf2 Rxf2 47. h5 gxh5 48. Ke3 Ra2 49. Rxa6 h4 50. Kf4
+h3 51. Rxh6 Rxa4+ 52. Kf5 Ra2 53. Rxh3 Ra3 54. Kf4 f6 55. exf6+ 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2736"]
+[EventDate "2012.01.14"]
+[ECO "A04"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. d4 cxd4 6. exd4 e4 7. Ne5 Bb4 8.
+Be2 Qa5 9. O-O Nxe5 10. dxe5 Qxe5 11. Bd2 Bc5 12. Nb5 O-O 13. b4 Be7 14. f4
+Qe6 15. Be3 Bxb4 16. Nc7 Qc6 17. Nxa8 b6 18. Rb1 Bc5 19. Bxc5 bxc5 20. Rb8
+Bb7 21. Rxf8+ Kxf8 22. Qb3 g6 23. Rb1 Bxa8 24. Qb8+ Kg7 25. Qxa7 e3 26. Bf3
+d5 27. Re1 Qd6 28. Qxa8 d4 29. Qa3 Qxf4 30. Rf1 Qe5 31. Qd3 Qe8 32. g3 h5
+33. Bg2 Qa4 34. a3 Qa5 35. Bf3 Qa6 36. Be2 Qa5 37. Qb1 Qd2 38. Qe1 Qa2 39.
+g4 hxg4 40. Qg3 Qxe2 41. Qe5 d3 42. Rxf6 Kh6 43. Rxf7 Qe1+ 44. Kg2 Qe2+ 45.
+Kg3 Qe1+ 46. Kxg4 Qg1+ 47. Kh3 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.24"]
+[Round "9"]
+[White "Gashimov,V"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2712"]
+[EventDate "2012.01.14"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Nbd2 d6 7. h3 a6 8.
+Ba4 Ba7 9. Nf1 d5 10. Qe2 b5 11. Bb3 d4 12. Ng3 a5 13. Bg5 h6 14. Bd5 hxg5
+15. Bxc6 Rb8 16. cxd4 Bxd4 17. Rc1 Rb6 18. Qc2 g4 19. Nxd4 Qxd4 20. hxg4
+Nxg4 21. Qd2 Qd6 22. Bd5 a4 23. Nh5 Qe7 24. f3 Nh6 25. g4 Rg6 26. Ng3 Qd8
+27. Rh5 Be6 28. g5 Bxd5 29. gxh6 Rxg3 30. Qh2 Rg5 31. hxg7 Kxg7 32. Rh7+
+Kf6 33. exd5 Qxd5 34. Rh6+ Ke7 35. Rxc7+ Kd8 36. Rhc6 Qxf3 37. Rc8+ Ke7 38.
+R8c7+ Kd8 39. Rc8+ Ke7 40. R8c7+ 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.25"]
+[Round "10"]
+[White "Navara,D"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2712"]
+[BlackElo "2766"]
+[EventDate "2012.01.14"]
+[ECO "A70"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. e4 Bg7 8.
+h3 a6 9. a4 Nbd7 10. Bd3 Nh5 11. Bg5 Bf6 12. Be3 O-O 13. O-O Re8 14. a5 Rb8
+15. Qc2 Ne5 16. Be2 Nxf3+ 17. Bxf3 Ng7 18. Bf4 b5 19. axb6 Rxb6 20. Ra2 Bd4
+21. Ne2 Be5 22. Bxe5 Rxe5 23. Nf4 Bd7 24. Rfa1 Bb5 25. Be2 Qf6 26. Bxb5
+Qxf4 27. Bd3 f5 28. g3 Qf3 29. exf5 Nxf5 30. Bxf5 Re2 31. Be6+ Kf8 32. Qxe2
+Qxe2 33. b4 Qe4 34. Rxa6 Rxa6 35. Rxa6 c4 36. Rc6 c3 37. Rc8+ Kg7 38. Rc7+
+Kf6 39. Kh2 Qd4 40. f4 g5 41. fxg5+ Ke5 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.25"]
+[Round "10"]
+[White "Radjabov,T"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2692"]
+[EventDate "2012.01.14"]
+[ECO "A80"]
+
+1. d4 f5 2. Nf3 Nf6 3. Bg5 e6 4. Nbd2 d5 5. e3 Be7 6. c4 c6 7. Qc2 O-O 8.
+Bd3 Ne4 9. Bxe7 Qxe7 10. Ne5 Nd7 11. Ndf3 Qb4+ 12. Ke2 Ndf6 13. c5 Bd7 14.
+Rhb1 Be8 15. Kf1 h6 16. Kg1 Qa5 17. b4 Qc7 18. a4 a6 19. Ra3 Bh5 20. Rab3
+Bxf3 21. gxf3 Ng5 22. f4 Nf7 23. Ng6 Rfb8 24. b5 axb5 25. axb5 Nd7 26. f3
+Nh8 27. Ne5 Nxe5 28. fxe5 Ng6 29. Kh1 Qd8 30. Qg2 Nf8 31. Rg1 Qe7 32. Qb2
+Rc8 33. Qd2 Ra4 34. e4 dxe4 35. fxe4 Rd8 36. bxc6 bxc6 37. exf5 exf5 38.
+Qxh6 Rdxd4 39. Qxc6 Qxe5 40. Qf3 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.25"]
+[Round "10"]
+[White "Gelfand,B"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2761"]
+[EventDate "2012.01.14"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 c5 6. d5 exd5 7. Nh4 g6 8.
+Nc3 Bg7 9. Bg5 O-O 10. Qd2 Qe8 11. Bxf6 Bxf6 12. Nxd5 Bxd5 13. Bxd5 Nc6 14.
+Nf3 Rb8 15. Rc1 Nb4 16. b3 Nxd5 17. Qxd5 Qe6 18. Rd1 b5 19. cxb5 Rxb5 20.
+O-O Qxe2 21. Rd2 Qe6 22. Qxd7 Qxd7 23. Rxd7 Ra5 24. Rd2 c4 25. bxc4 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.25"]
+[Round "10"]
+[White "Giri,A"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2714"]
+[BlackElo "2805"]
+[EventDate "2012.01.14"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4
+8. O-O Nb6 9. Qc2 Nh5 10. Be5 f6 11. Ng5 fxg5 12. Bxh5 Bd7 13. Bf3 Rxf3 14.
+gxf3 Bd6 15. Qe4 Bc6 16. Qg4 Qe7 17. Bxd6 cxd6 18. Ne4 h6 19. Qg3 d5 20.
+Nc3 Rf8 21. Ne2 Rf5 22. Kg2 Nd7 23. Rh1 Nf8 24. h4 Ng6 25. f4 Nxh4+ 26. Kf1
+Qb4 27. Rb1 Be8 28. Nc3 Qe7 29. b4 Rf8 30. Rb2 Bg6 31. Ke1 Bd3 32. fxg5
+Nf3+ 33. Kd1 hxg5 34. Qh3 Qf6 35. Kc1 Bg6 36. a4 Rd8 37. Ne2 e5 38. Qg4
+exd4 39. exd4 Re8 40. Qd7 c3 41. Ra2 Ne1 42. Rxe1 Qf4+ 43. Kd1 Qe4 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.25"]
+[Round "10"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2835"]
+[EventDate "2012.01.14"]
+[ECO "D15"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. a4 e6 6. Bf4 Be7 7. e3 Nh5 8. Bd3
+Nxf4 9. exf4 a5 10. O-O Na6 11. Rc1 Nb4 12. b3 O-O 13. Bb1 Bf6 14. Re1 b6
+15. cxd5 cxd5 16. Na2 Nxa2 17. Bxa2 Ba6 18. Bb1 g6 19. Bd3 Bxd3 20. Qxd3
+Rc8 21. g3 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.25"]
+[Round "10"]
+[White "Karjakin,Sergey"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2769"]
+[BlackElo "2732"]
+[EventDate "2012.01.14"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8.
+a4 Bd7 9. c3 O-O 10. Nbd2 h6 11. Re1 Re8 12. Nh4 b4 13. Ng6 bxc3 14. bxc3
+Na5 15. Ba2 Nh7 16. Qh5 Nf6 17. Qf3 c5 18. d4 Qc7 19. Qg3 Bd8 20. dxe5 dxe5
+21. Nh4 c4 22. Nf5 Bxf5 23. exf5 Qc6 24. Ba3 Bc7 25. Qe3 Rad8 26. Ne4 Bb6
+27. Nxf6+ Qxf6 28. Qe4 Rd2 29. Rf1 Red8 30. Kh1 Nb3 31. Bxb3 cxb3 32. f4
+Qh4 33. Rab1 R8d3 34. Bc1 Rd1 35. Ba3 Rxb1 36. Rxb1 Re3 37. g3 Qh5 38. Qg2
+exf4 39. gxf4 Re2 40. Qg3 Qxf5 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.25"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2770"]
+[BlackElo "2736"]
+[EventDate "2012.01.14"]
+[ECO "B42"]
+
+1. Nf3 c5 2. e4 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O e5 7. Bg5 h6 8.
+Bxf6 Qxf6 9. Nf5 g6 10. Ne3 Bc5 11. Nc3 d6 12. Ncd5 Qd8 13. Kh1 Nc6 14. Ng4
+O-O 15. Ngf6+ Kg7 16. c3 Be6 17. f4 Bxd5 18. Nxd5 exf4 19. Rxf4 Qg5 20. Qf1
+Ne5 21. Rd1 Rae8 22. Bc2 h5 23. Bb3 Ng4 24. g3 Rxe4 25. Rxe4 Nf2+ 26. Qxf2
+Bxf2 27. Kg2 Bc5 28. h4 Qf5 29. Re2 Qg4 30. Rde1 g5 31. Re4 Qf5 32. R1e2
+gxh4 33. Nf4 Qg5 34. Kh1 d5 35. Bxd5 hxg3 36. c4 Qh4+ 37. Kg2 Qh2+ 38. Kf3
+Qh1+ 39. Kxg3 h4+ 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.27"]
+[Round "11"]
+[White "Caruana,F"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2714"]
+[EventDate "2012.01.14"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. c5 g6 7. Ne5 Bg7 8. f4
+a5 9. Be2 Qc7 10. O-O h5 11. h3 Bf5 12. Bd2 Nbd7 13. Bf3 h4 14. Qe1 Ne4 15.
+Nxe4 dxe4 16. Be2 f6 17. Bxa5 Rxa5 18. Nxc6 Ra8 19. Bxb5 Be6 20. a4 f5 21.
+Qd2 Bf6 22. d5 Bf7 23. Rac1 Kf8 24. b4 Qc8 25. d6 exd6 26. cxd6 Qe8 27. Ne7
+Be6 28. Rc7 Rh7 29. Nd5 Bd8 30. Rb7 Rc8 31. a5 Kg7 32. a6 Kh6 33. a7 Qf8
+34. Ne7 Nb6 35. Qf2 Rf7 36. Qxh4+ Kg7 37. Qg5 Bd5 38. Qxg6+ Kh8 39. Qh5+
+Kg7 40. Nxf5+ Kg8 41. Ne7+ 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.27"]
+[Round "11"]
+[White "Kamsky,G"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2759"]
+[EventDate "2012.01.14"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6
+14. Na4 Qc7 15. Bc4 Rb8 16. Rhe1 Rb4 17. b3 Qxh2 18. a3 Rb7 19. Nc5 Rc7 20.
+g4 Qf4+ 21. Qxf4 Nxf4 22. b4 Kg7 23. Ba6 Ne6 24. Nxe6+ Bxe6 25. Re5 Rh8 26.
+Rc5 h5 27. Be2 Rd7 28. Rh1 hxg4 29. Rxh8 Kxh8 30. fxg4 Bd5 31. b5 Rd6 32.
+c4 Bg2 33. a4 Kg7 34. a5 cxb5 35. cxb5 Rd7 36. Bc4 e6 37. Kc2 Kf6 38. g5+
+Ke7 39. Kc3 Kd6 40. Kb4 Re7 41. Rc8 Rb7 42. a6 Rd7 43. Bb3 Rc7 44. Rxc7
+Kxc7 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.27"]
+[Round "11"]
+[White "Aronian,L"]
+[Black "Navara,D"]
+[Result "0-1"]
+[WhiteElo "2805"]
+[BlackElo "2712"]
+[EventDate "2012.01.14"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. e4 Bg4
+8. Bb5+ c6 9. Ng5 O-O 10. Be2 Bxe2 11. Nxe2 Na6 12. Be3 Qd6 13. O-O Qb4 14.
+Qxb4 Nxb4 15. Rfc1 e5 16. Nf3 exd4 17. Bxd4 Rfe8 18. Bxg7 Kxg7 19. Ng3 Rad8
+20. Ne1 Rd2 21. a3 Nd3 22. Nxd3 Rxd3 23. Rab1 Re5 24. Rd1 Rxd1+ 25. Rxd1
+Rb5 26. b4 Nc4 27. Rd3 a5 28. bxa5 Rxa5 29. f4 Rxa3 30. Rd7 b5 31. e5 b4
+32. e6 b3 33. Rxf7+ Kh6 34. Rb7 b2 35. Kf2 Ra7 36. Rb8 Ra8 37. Rb7 Ra2 38.
+Ne2 Nd6 39. e7 Nxb7 40. e8=Q b1=Q 41. Qf8+ Kh5 42. Qe7 Qb6+ 43. Kf3 Qb3+
+44. Kf2 Rxe2+ 45. Qxe2+ Kh6 46. g4 Nd8 47. Qe7 Ne6 48. Qh4+ Kg7 49. Qe7+
+Kg8 50. Qe8+ Nf8 51. Qxc6 Qe6 52. Qf3 Nd7 53. h3 Kf7 54. Qc3 Qd5 55. Kg3
+Nc5 56. Kh4 h6 57. Qh8 g5+ 58. fxg5 hxg5+ 59. Kh5 Qe4 60. Kxg5 Ne6+ 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.27"]
+[Round "11"]
+[White "Gashimov,V"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2773"]
+[EventDate "2012.01.14"]
+[ECO "B45"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. e5 Nd5
+8. Ne4 Qc7 9. f4 Qa5+ 10. c3 Be7 11. Bd3 f5 12. Nf2 O-O 13. O-O Qc7 14. Be2
+d6 15. c4 Nb6 16. c5 dxc5 17. b3 a5 18. Bc4 a4 19. Be3 Nd5 20. Qe2 Qb6 21.
+Bd2 Ba6 22. Nd3 Bb5 23. Kh1 Qa6 24. Rac1 axb3 25. axb3 Bxc4 26. bxc4 Nb4
+27. Be3 Rfd8 28. Ne1 Qa2 29. Qxa2 Rxa2 30. Rf2 Ra3 31. Re2 Kf7 32. Kg1 h6
+33. Kf1 g5 34. g3 Rd7 35. Rd2 Rda7 36. Bf2 Rb3 37. Kg2 Ke8 38. Kf1 Raa3 39.
+Rcd1 gxf4 40. gxf4 Rc3 41. Bxc5 Bxc5 42. Rd8+ Kf7 43. R1d7+ Kg6 44. Rg8+
+Kh5 45. Rh7 Rf3+ 46. Nxf3 Rxf3+ 47. Kg2 Rxf4 48. Rgh8 Rg4+ 49. Kh3 Nd3 50.
+Rxh6+ Kg5 51. Rg8+ Kxh6 52. Rh8+ Kg5 53. Rh5+ Kf4 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.27"]
+[Round "11"]
+[White "Van Wely,L"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteElo "2692"]
+[BlackElo "2769"]
+[EventDate "2012.01.14"]
+[ECO "A28"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. e3 Be7 7. Be2 O-O
+8. O-O Be6 9. a3 a5 10. Qc2 f5 11. Na4 Qd6 12. Rd1 Rad8 13. d4 e4 14. Nd2
+Bf7 15. Nc3 Qh6 16. Nxd5 Bxd5 17. Bc4 Kh8 18. Bxd5 Rxd5 19. Nf1 Rd6 20. b4
+axb4 21. axb4 Rd7 22. Bd2 Bd6 23. b5 Ne7 24. Ra7 b6 25. Rda1 Qe6 26. Ra8
+Rdd8 27. Rxd8 Rxd8 28. Ng3 Bxg3 29. hxg3 Nd5 30. Ra7 h6 31. Qa2 Qe8 32. Qc4
+Qh5 33. Ra1 Kh7 34. Bb4 Qg6 35. Be1 h5 36. Rc1 h4 37. gxh4 f4 38. Qe2 f3
+39. Qf1 Qg4 40. g3 g5 41. Kh2 gxh4 42. Qh3 Qxh3+ 43. Kxh3 hxg3 44. Kxg3
+Rg8+ 45. Kh2 Rg2+ 46. Kh1 Rg6 47. Ra1 Rg8 48. Rc1 Kg6 49. Rc6+ Kf7 50. Rh6
+Ra8 51. Rh7+ Kg6 52. Rh4 Nf6 53. Bb4 Kg5 54. Rf4 Ra1+ 55. Kh2 Ng4+ 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.27"]
+[Round "11"]
+[White "Carlsen,M"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2835"]
+[BlackElo "2770"]
+[EventDate "2012.01.14"]
+[ECO "B51"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Ngf6 5. Qe2 a6 6. Ba4 Qc7 7. O-O e5 8.
+d4 b5 9. Bc2 cxd4 10. cxd4 Be7 11. Nc3 O-O 12. Bg5 h6 13. Bh4 Bb7 14. Rad1
+Rac8 15. Bb3 Rfe8 16. dxe5 dxe5 17. Bg3 Bf8 18. h3 Nb6 19. Nh4 Nc4 20. Nf5
+Nxb2 21. Bh4 Nxd1 22. Bxf6 Nxc3 23. Qg4 Bxe4 24. Nxh6+ Kh7 25. Bxf7 Qxf7
+26. Nxf7 gxf6 27. f4 Bg6 28. Qh4+ Kg7 29. fxe5 Ne4 30. Rxf6 Bc5+ 31. Kh2
+Nxf6 32. Qxf6+ Kh7 33. Ng5+ Kh6 34. Ne6 Rxe6 35. Qxe6 Re8 36. Qf6 Be7 37.
+Qxa6 b4 38. Qc4 Bf8 39. g4 Kh7 40. e6 Bd6+ 41. Kg2 Be7 42. Qc7 Kg8 43. Kg3
+Kf8 44. Qf4+ Kg7 45. Qd4+ Kg8 46. h4 Rd8 47. Qc4 Bd3 48. Qc6 Bb1 49. h5
+Bxa2 50. Qe4 Kh8 51. h6 Bf6 52. e7 Re8 53. Qf4 Bg7 54. hxg7+ Kxg7 55. g5
+Kg8 56. Qf6 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.27"]
+[Round "11"]
+[White "Ivanchuk,V"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2766"]
+[BlackElo "2739"]
+[EventDate "2012.01.14"]
+[ECO "E10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Qb3 Nbd7 9. Rc1 b6 10. cxd5 cxd5 11. Na3 Bb7 12. Bb4 Bxb4 13. Qxb4 a6 14.
+e3 Rc8 15. Bf1 Rxc1 16. Rxc1 Qb8 17. Nb1 Rc8 18. Rxc8+ Qxc8 19. Nc3 Qf8 20.
+Qb3 h6 21. Ne1 Qc8 22. Nc2 Ne4 23. Nxe4 dxe4 24. Qc3 Qxc3 25. bxc3 b5 26.
+a4 bxa4 27. Be2 Kf8 28. Kf1 Ke7 29. Ke1 f5 30. Kd2 g5 31. c4 e5 32. Kc3 f4
+33. h3 exd4+ 34. Nxd4 f3 35. Bf1 Nc5 36. Kb4 Nd3+ 37. Bxd3 exd3 38. Kc3 Be4
+39. c5 Kd7 40. g4 Kc7 41. Kd2 a3 42. Nb3 Bd5 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Karjakin,Sergey"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2761"]
+[EventDate "2012.01.14"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8.
+e4 d5 9. cxd5 Bxf1 10. Kxf1 exd5 11. e5 Ne4 12. Kg2 Qd7 13. Qc2 Nxd2 14.
+Qxd2 Nc6 15. h4 Rac8 16. Rae1 Nd8 17. Ng5 Ne6 18. f4 c5 19. dxc5 Rxc5 20.
+Qd3 Bxg5 21. hxg5 Nxf4+ 22. gxf4 Qg4+ 23. Kf2 Qxf4+ 24. Kg2 Qg4+ 25. Kf2
+Qf4+ 26. Kg2 Qg4+ 27. Kf2 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Topalov,V"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2714"]
+[EventDate "2012.01.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 Bf6 11. Bg5 Qe7 12. Bb5 a6 13. Bxc6+
+bxc6 14. Qf4 Bxg5 15. Nxg5 O-O 16. Rde1 Qd7 17. f3 h6 18. Nxe6 fxe6 19. Qg4
+Rf5 20. Re2 e5 21. Rd1 Qf7 22. Qb4 Qd7 23. Qa4 Kh8 24. c4 Qe8 25. Rd3 Rf4
+26. Qa5 Qe7 27. c5 Rf6 28. Qc3 Qe8 29. b3 Rb8 30. a4 Ra8 31. Re4 Qc8 32.
+Qd2 Qf8 33. Qa5 Qe7 34. Rde3 Qd7 35. Re1 Rf5 36. Qc3 Rd8 37. g3 Rf7 38.
+cxd6 cxd6 39. f4 exf4 40. gxf4 c5 41. Re6 Rxf4 42. Rxh6+ Kg8 43. Qd2 Rf7
+44. Rg1 c4 45. Qg5 Rdf8 46. Qh5 Rf1+ 47. Kb2 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Radjabov,T"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2773"]
+[BlackElo "2766"]
+[EventDate "2012.01.14"]
+[ECO "A57"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 d6 6. Nc3 Nbd7 7. e4 g6 8. Nf3
+Bg7 9. Be2 Nxb6 10. O-O O-O 11. a4 Bg4 12. a5 Bxf3 13. Bxf3 Nc4 14. Qa4 Ne5
+15. Be2 Ne8 16. Bg5 Nc7 17. f4 Nd7 18. e5 f6 19. exf6 Bxf6 20. Bxf6 Nxf6
+1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Gelfand,B"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2739"]
+[BlackElo "2805"]
+[EventDate "2012.01.14"]
+[ECO "D31"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Bf4 Nf6 5. e3 O-O 6. a3 Nbd7 7. Nb5 Ne8 8.
+Nf3 c6 9. Nc3 f5 10. h3 Nd6 11. cxd5 exd5 12. Bd3 Nf6 13. Ne5 Nfe4 14. O-O
+Nf7 15. Qc2 Bd6 16. Bh2 Nxe5 17. Bxe5 Bxe5 18. dxe5 a5 19. Na4 b5 20. Nc5
+Qe7 21. Rac1 Qxe5 22. f4 Qd6 23. Bxe4 fxe4 24. Nb3 Bd7 25. Qc5 Qg6 26. Kh2
+h5 27. Nd4 Rac8 28. b4 axb4 29. axb4 h4 30. Ne2 Rf6 31. Ra1 Rcf8 32. Qe7
+R8f7 33. Qd8+ Kh7 34. Rg1 Qh6 35. Ra7 Rf8 36. Qc7 R6f7 37. Qe5 Re8 38. Qc3
+g5 39. Rf1 Qd6 40. Kg1 Ref8 41. Qc5 Qh6 42. f5 Kg8 43. f6 g4 44. hxg4 h3
+45. Nf4 hxg2 46. Kxg2 Qxf6 47. Kg3 Rh7 48. g5 Qxg5+ 49. Kf2 Rxf4+ 50. exf4
+Rh2+ 51. Ke3 Qg3+ 52. Kd4 Qg7+ 53. Ke3 Rh3+ 0-1
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Navara,D"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2736"]
+[EventDate "2012.01.14"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8.
+d4 Bb6 9. Be3 O-O 10. Nbd2 h6 11. h3 Re8 12. Re1 Bd7 13. Bc2 Qb8 14. a3 a5
+15. Bd3 Qa7 16. Bxb5 exd4 17. cxd4 Nxd4 18. Bxd7 Nxd7 19. Nxd4 Bxd4 20. Rc1
+Bxe3 21. Rxe3 a4 22. Nf3 Rab8 23. Rc2 Nc5 24. Nd4 Qb7 25. Nf5 g6 26. Nxh6+
+Kg7 27. Ng4 Nb3 28. Rc4 Re6 29. Rxa4 c5 30. Rc4 Nd4 31. b4 Rxe4 32. bxc5
+dxc5 33. Rxc5 Rf4 34. Rd3 Rd8 35. Qa1 Kh7 36. Nf6+ Kg7 37. Ng4 Kh7 38. Qf1
+Ne2+ 39. Qxe2 Qb1+ 40. Kh2 Qxd3 41. Qe7 Qd6 42. Qh4+ Kg7 43. Rc6 Qxc6 44.
+Qxd8 Qc5 45. Qd2 Qd4 46. Qc1 Rf5 47. Kg1 Rc5 48. Qh6+ Kg8 49. Qe3 Qxe3 50.
+Nxe3 Rc3 51. h4 Rxa3 52. g3 Kg7 53. Kg2 Kf6 54. Nd5+ Ke5 55. Nf4 Kf5 56.
+Nh3 Ra2 57. Kf3 f6 58. Nf4 Ra3+ 59. Kg2 g5 60. hxg5 fxg5 61. Nd5 Ke5 62.
+Ne3 Ke4 63. Ng4 Ra2 64. Nf6+ Kf5 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Nakamura,Hi"]
+[Black "Van Wely,L"]
+[Result "1-0"]
+[WhiteElo "2759"]
+[BlackElo "2692"]
+[EventDate "2012.01.14"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 Rb8 13. b3 Bg5 14. g3
+O-O 15. Bg2 a5 16. O-O Ne7 17. h4 Bh6 18. Nxe7+ Qxe7 19. Qd5 Qc7 20. Rad1
+Rd8 21. Kh2 Bg4 22. Rde1 Bd7 23. Qd3 Qc5 24. Rd1 Bc6 25. Qe2 Ra8 26. Ne1
+Qb6 27. Nd3 Qb7 28. Rfe1 g6 29. f3 Bg7 30. Nf2 h5 31. Rd3 Bh6 32. Red1 Qe7
+33. Nh3 Rd7 34. Qf2 Rb8 35. Ng5 Bxg5 36. hxg5 Qxg5 37. Bh3 Rc7 38. Rxd6 Kg7
+39. f4 exf4 40. gxf4 Qe7 41. e5 a4 42. e6 axb3 43. axb3 Be8 44. f5 g5 45.
+Qd4+ f6 46. Bg2 h4 47. c5 Rbc8 48. c6 Rxc6 49. Bxc6 Rxc6 50. Rxc6 Bxc6 51.
+Qb6 Be8 52. Rc1 Kh6 53. Rc7 Qf8 54. Qd4 g4 55. Qf4+ 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.28"]
+[Round "12"]
+[White "Carlsen,M"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2835"]
+[BlackElo "2732"]
+[EventDate "2012.01.14"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. d4 dxe4 10. Nxe5 Bb7 11. Nxc6 Bxc6 12. Bg5 Nd5 13. Bxe7 Qxe7 14.
+Nd2 f5 15. f3 e3 16. c4 Nf4 17. cxb5+ Kh8 18. Nc4 e2 19. Qd2 Qg5 20. Rxe2
+Nxe2+ 21. Qxe2 Bxb5 22. Qe3 f4 23. Qe5 Qh4 24. Qe1 Qxe1+ 25. Rxe1 Bxc4 26.
+Bxc4 c6 27. Re6 Rf6 28. Re4 a5 29. h4 Rd8 30. Re5 a4 31. Ra5 Rfd6 32. Rxa4
+Rxd4 33. b3 g6 34. Kh2 Kg7 35. Ra6 Rd2 36. a4 Rf2 37. Ra7+ Kh8 38. Kh3 h5
+39. Rf7 Rdd2 40. Rxf4 Rxg2 41. Rf7 Rh2+ 42. Kg3 Rdg2+ 43. Kf4 Rxh4+ 44. Ke5
+Rg5+ 45. Kf6 Rf5+ 46. Kxg6 Rxf7 47. Bxf7 Rf4 48. Be6 Rxf3 49. Kxh5 Re3 50.
+Bc4 Kg7 51. Kg5 Re5+ 52. Kf4 Kf6 53. Bd3 Rh5 54. Be4 c5 55. Bd3 Rh4+ 56.
+Ke3 Ke5 57. a5 Rh3+ 58. Ke2 Kd4 59. Bc4 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.29"]
+[Round "13"]
+[White "Kamsky,G"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2770"]
+[EventDate "2012.01.14"]
+[ECO "A46"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 b5 5. c3 a5 6. O-O Nbd7 7. Bf4 Be7 8.
+Qc2 c5 9. Nbd2 Bb7 10. Ne5 O-O 11. a4 bxa4 12. Qxa4 Nxe5 13. dxe5 Nd7 14.
+h4 Qc7 15. e4 Nb6 16. Qc2 Rfd8 17. Rfc1 h6 18. Be3 Qd7 19. exd5 Nxd5 20.
+Nc4 a4 21. Re1 Qb5 22. Na3 Qa6 23. Rad1 Rab8 24. c4 Nxe3 25. Rxd8+ Rxd8 26.
+Rxe3 Bxg2 27. Kxg2 Qb7+ 28. Kg1 Qb4 29. Rc3 Qb8 30. Re3 Qb4 31. Rc3 Rd7 32.
+Nb5 Qa5 33. Qe2 Qd8 34. Ra3 Rd2 35. Qf3 Rd1+ 36. Kh2 Qd2 37. Rxa4 Qe1 38.
+Nc3 Qg1+ 39. Kh3 Re1 40. Ra7 Qf1+ 41. Qg2 Qxg2+ 42. Kxg2 Bf8 43. f4 g5 44.
+h5 gxf4 45. gxf4 Kg7 46. Rd7 Re3 47. Rb7 Re1 48. b3 Re3 49. Nd1 Re2+ 50.
+Nf2 Rc2 51. Kf3 Rc3+ 52. Ke2 Rg3 53. Ne4 Rh3 54. Nf6 Rh1 55. Rd7 Rh2+ 56.
+Kd3 Rh3+ 57. Kc2 Rh4 58. Ne8+ Kg8 59. f5 Rh2+ 60. Rd2 Rxd2+ 61. Kxd2 exf5
+62. Nf6+ Kg7 63. Ke3 Be7 64. Nd7 Bg5+ 65. Kf3 Bd2 66. Nxc5 f6 67. e6 Kf8
+68. Nd3 Ke7 69. Nf4 Kd6 70. c5+ Kc6 71. Nd5 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.29"]
+[Round "13"]
+[White "Gashimov,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2759"]
+[EventDate "2012.01.14"]
+[ECO "B43"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 b5 6. Bd3 Bb7 7. O-O Nc6 8.
+Nxc6 Bxc6 9. Re1 Qb8 10. Qe2 Bd6 11. e5 Bc7 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.29"]
+[Round "13"]
+[White "Van Wely,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2692"]
+[BlackElo "2835"]
+[EventDate "2012.01.14"]
+[ECO "A40"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6 7. b3 Qe7 8. Ne5
+b6 9. cxd5 cxd5 10. Nc4 Nc6 11. Nxd6+ Qxd6 12. a4 Qd7 13. Ba3 Kf7 14. Nc3
+Ba6 15. f3 Rhe8 16. Qd2 Kg8 17. Rfc1 Rac8 18. Ra2 h6 19. Rac2 Na5 20. Rb1
+Rc7 21. Na2 Rxc2 22. Qxc2 Nc6 23. Qd2 e5 24. dxe5 Rxe5 25. Re1 Qe6 26. f4
+Rxe2 27. Rxe2 Bxe2 28. Nc3 Bh5 29. Bxd5 Nxd5 30. Qxd5 Qxd5 31. Nxd5 Bf7 32.
+Ne7+ Nxe7 33. Bxe7 Bxb3 34. a5 bxa5 35. Kf2 a4 36. Ke3 Kf7 37. Ba3 g5 38.
+h4 Kg6 39. hxg5 hxg5 40. Kd2 Kh5 41. fxg5 Kxg5 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.29"]
+[Round "13"]
+[White "Ivanchuk,V"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2769"]
+[EventDate "2012.01.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Rd1 Be7 12. Bg5 Be6 13. b3 h4
+14. Kf1 a5 15. a4 Rh5 16. Bc1 Bb4 17. Ne2 Bd5 18. Ne1 Rd8 19. Bb2 Rh6 20.
+c4 Be6 21. Nf3 Be7 22. Rxd8+ 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.29"]
+[Round "13"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2773"]
+[EventDate "2012.01.14"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. d4 O-O 8.
+Ne5 e6 9. O-O Nfd7 10. Nf3 Nf6 11. Ne5 Nfd7 12. Nf3 Nf6 1/2-1/2
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.29"]
+[Round "13"]
+[White "Caruana,F"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2739"]
+[EventDate "2012.01.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+O-O 8. Qd2 Nd7 9. O-O-O Ne5 10. h4 c6 11. Bg5 f6 12. Bf4 Qa5 13. a3 Bg4 14.
+Be2 d5 15. Nxe5 fxe5 16. Bxe5 Rxf2 17. Rde1 Bxe2 18. Rxe2 Rf7 19. g3 Raf8
+20. Rhe1 Qd8 21. Qd4 b5 22. Kb1 Qd7 23. h5 Bg5 24. a4 Re8 25. axb5 cxb5 26.
+Qd3 Rfe7 27. Bd4 Rxe2 28. Rxe2 Rxe2 29. Qxe2 Bf6 30. Qf2 Bxd4 31. Qxd4 h6
+32. b3 Qf7 33. Qe5 a6 34. Kb2 Kh7 35. Qd6 Qxh5 36. Qxa6 Qe8 37. Qb7 Qe5 38.
+Qxb5 h5 39. Qd3+ Kh6 40. b4 g5 41. b5 h4 42. gxh4 gxh4 43. b6 Qb8 44. Qa6
+Qd6 45. Qb5 d4 46. b7 dxc3+ 47. Ka2 Qe6+ 48. Ka1 1-0
+
+[Event "74th Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2012.01.29"]
+[Round "13"]
+[White "Giri,A"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2712"]
+[EventDate "2012.01.14"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. Nd2 c6
+8. Ba4 d6 9. c3 Bb6 10. Bb3 Bg4 11. Qe1 O-O 12. Nc4 Bc5 13. Kh1 Nh5 14. Bd1
+Bxd1 15. Qxd1 g6 16. d4 exd4 17. cxd4 d5 18. dxc5 dxc4 19. f3 b5 20. cxb6
+axb6 21. Be3 b5 22. Qc2 Qf6 23. a4 Nf4 24. b3 cxb3 25. Qxb3 Rfd8 26. Qc2
+bxa4 27. Rxa4 Rxa4 28. Qxa4 Nd3 29. Qc2 1/2-1/2
+

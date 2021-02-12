@@ -1,0 +1,818 @@
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.21"]
+[Round "1"]
+[White "Giri,A"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2701"]
+[BlackElo "2770"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. Rc1 Nbd7 7. cxd5 exd5 8.
+e3 c6 9. h3 Re8 10. Bd3 Nf8 11. O-O Ng6 12. Bh2 Bd6 13. Bxd6 Qxd6 14. Qc2 Re7
+15. Rb1 Bd7 16. b4 b6 17. b5 cxb5 18. Bxb5 Bc8 19. Bd3 Bb7 20. Rfc1 Ne4 21. Qa4
+f5 22. Nb5 Qd8 23. g3 a6 24. Nc3 b5 25. Qb3 Rc8 26. Ne2 Rc4 27. h4 Rec7 28. Rc2
+Nf8 29. Nf4 h6 30. h5 Qe8 31. Rbc1 Nd7 32. a4 bxa4 33. Qb2 Rxc2 34. Rxc2 Qc8 35.
+Ne1 Ndf6 36. Qb6 Rc6 37. Qa5 Rxc2 38. Nxc2 Qe8 39. Be2 Kh7 40. Kg2 Qe7 41. Bd3
+Qd7 42. Qb4 Nd6 43. Ne1 Bc8 44. Nf3 a5 45. Qxa5 Nc4 46. Qc5 a3 47. Nh4 a2 48.
+Bxf5+ Qxf5 49. Nxf5 a1=Q 50. Qxc8 Nd2 51. Nh4 Qf1+ 52. Kh2 Qxf2+ 53. Kh3 Qf1+
+54. Kh2 Qf2+ 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.21"]
+[Round "1"]
+[White "Meier,Geo"]
+[Black "Le Quang Liem"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2715"]
+[ECO "D81"]
+[Opening "Gruenfeld"]
+[Variation "Russian variation"]
+[WhiteFideId "4675789"]
+[BlackFideId "12401137"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. e4 O-O 7. Be2 a6 8. Nf3
+b5 9. Qb3 c5 10. dxc5 Be6 11. Qc2 Nbd7 12. c6 Nb8 13. Ng5 Nxc6 14. Nxe6 fxe6 15.
+Nxb5 Rc8 16. Nc3 Nd4 17. Qd3 Nd7 18. O-O Nc5 19. Qd1 Nxe2+ 20. Qxe2 Qd3 21. Re1
+Qxe2 22. Rxe2 Nd3 23. Kf1 Nxb2 24. Bxb2 Bxc3 25. Rd1 Bxb2 26. Rxb2 Rb8 27. Rdb1
+Rxb2 28. Rxb2 Rc8 29. Rb6 Rc1+ 30. Ke2 Rc2+ 31. Ke3 Rxa2 32. Rxe6 Kf7 33. Rb6
+Ra3+ 34. Kf4 Ra2 35. Kg3 Ra3+ 36. Kf4 Ra2 37. Ke3 Ra3+ 38. Kf4 Ra2 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.21"]
+[Round "1"]
+[White "Kramnik,V"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2764"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "14103320"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 c6 10. Kh1 Nbd7 11. Be3 a6 12. Nc2 Ne5 13. f4 Neg4 14. Bg1 h5 15. Bf3
+Be6 16. b3 Qa5 17. Qe1 b5 18. c5 b4 19. Na4 Bc4 20. Qxb4 Qxb4 21. Nxb4 Bxf1 22.
+Rxf1 Nxe4 23. Nb6 Ra7 24. cxd6 Nxd6 25. Bxc6 Re2 26. N6d5 Nc8 27. h3 Nh6 28. Rc1
+Nf5 29. Bb5 Ng3+ 30. Kh2 Nf1+ 31. Rxf1 axb5 32. Bxa7 Nxa7 33. Kg3 Nc8 34. Rd1
+Bf8 35. Kf3 Rb2 36. g4 Kg7 37. gxh5 Nd6 38. hxg6 fxg6 39. Nc7 Kf7 40. Nd3 Rxa2
+41. Ne5+ Kf6 42. Nd7+ 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.22"]
+[Round "2"]
+[White "Le Quang Liem"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2770"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "12401137"]
+[BlackFideId "2016192"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Bd2 Re8 8. Nge2 a6
+9. a4 exd5 10. cxd5 Nh5 11. g3 f5 12. Bg2 fxe4 13. Nxe4 Nf6 14. Bxb4 cxb4 15.
+Qd2 Nxe4 16. fxe4 a5 17. Nd4 Na6 18. O-O Nc5 19. Qf4 Nd3 20. Qd2 Nc5 21. Qf4 Nd3
+22. Qd2 Nc5 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.22"]
+[Round "2"]
+[White "Meier,Geo"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2781"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "4675789"]
+[BlackFideId "4101588"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 O-O 8. Nc3
+d5 9. cxd5 exd5 10. O-O Re8 11. Rc1 Bb7 12. Ne5 Na6 13. Bf4 h6 14. Nb5 Bf8 15.
+Bh3 c5 16. a3 Ne4 17. Rc2 g6 18. Qc1 g5 19. Be3 Bg7 20. Nf3 Qe7 21. Rd1 Rad8 22.
+Nxa7 Nd6 23. a4 Nb4 24. dxc5 bxc5 25. Rxc5 Na2 26. Qc2 Nb4 27. Qc1 Nc4 28. bxc4
+d4 29. Bxg5 Qxc5 30. Bxd8 d3 31. Ne1 Rxe2 32. Qf4 Rxf2 0-1
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.22"]
+[Round "2"]
+[White "Ponomariov,R"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2701"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "24116068"]
+[EventDate "2011.07.21"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. d4 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. Rd1 b4 12. Na4 c5 13. dxc5 Rc8 14. Qe2 Nxc5 15.
+Nxc5 Rxc5 16. Bd2 a5 17. e4 Qb8 18. h3 Bf4 19. a3 Bxd2 20. Nxd2 Ba8 21. Qe3 Rc7
+22. a4 Bc6 23. Nb3 Qa7 24. Qxa7 Rxa7 25. f3 Rd8 26. Bb5 Rxd1+ 27. Rxd1 Bxb5 28.
+axb5 Kf8 29. Nc5 Ra8 30. b6 Ke7 31. b7 Rb8 32. e5 Nd5 33. Ra1 Kd8 34. Rxa5 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.23"]
+[Round "3"]
+[White "Giri,A"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2701"]
+[BlackElo "2656"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "4675789"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
+b6 9. Rd1 Nbd7 10. Bf4 Bb7 11. Ne5 Nh5 12. Bd2 Nhf6 13. cxd5 cxd5 14. Nc6 Bxc6
+15. Qxc6 a6 16. e3 b5 17. Qc2 Qc8 18. Qd3 Qc4 19. Bf1 Ne4 20. Be1 Rfc8 21. b3
+Qxd3 22. Bxd3 e5 23. a4 exd4 24. exd4 b4 25. a5 Ng5 26. Be2 Rc2 27. Kf1 Rb2 28.
+Rd2 Rxd2 29. Nxd2 g6 30. h4 Ne6 31. Nf3 Kf8 32. Rc1 Ke8 33. Bd2 Bd8 34. Ra1 Be7
+35. Ra4 Nb8 36. Bxb4 Bxb4 37. Rxb4 Nc6 38. Ra4 Ke7 39. Ke1 f6 40. Kd2 Nc7 41.
+Ne1 Nb5 42. Nc2 Kd6 43. Kd3 Re8 44. Bf3 Rc8 45. Kd2 f5 46. h5 Rc7 47. Be2 Ra7
+48. h6 Ra8 49. Bd3 Ra7 50. Bf1 Ra8 51. Be2 Ra7 52. Bd3 Ra8 53. f3 Ra7 54. Bf1
+Ra8 55. Be2 Ra7 56. Bd3 Ra8 57. Ke3 Re8+ 58. Kd2 Ra8 59. Ke3 Re8+ 60. Kf2 Ra8
+61. Kg2 Ke6 62. f4 Kd6 63. g4 fxg4 64. Kg3 Nc3 65. Ra1 Ne4+ 66. Bxe4 dxe4 67.
+Kxg4 Rb8 68. Rb1 Nxa5 69. Ra1 Nc6 70. Rxa6 Rxb3 71. d5 Kxd5 72. Rxc6 Kxc6 73.
+Nd4+ Kd5 74. Nxb3 e3 75. Nc1 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.23"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Le Quang Liem"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2715"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "12401137"]
+[EventDate "2011.07.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Nh4 Bg6 10. Nxg6 hxg6 11. h3 Qa5 12. Na2 Bd6 13. b4 Qg5 14. f4 Qh4 15.
+Qf3 g5 16. fxg5 Qxg5 17. b5 O-O 18. Nc3 Qh4 19. Bd3 Rac8 20. Bd2 c5 21. Ne4 Be7
+22. Nxf6+ Nxf6 23. Rac1 b6 24. a5 Rcd8 25. Be1 Qh6 26. Bf2 Nd5 27. axb6 axb6 28.
+Be4 cxd4 29. exd4 Bh4 30. Rc6 Nf6 31. Bd3 Bxf2+ 32. Qxf2 Rb8 33. Qg3 Rfd8 34.
+Kh1 Nd5 35. Be4 Nf6 36. Bb1 Nd5 37. Be4 Nf6 38. Bb1 Nd5 39. Ba2 Qe3 40. Qh4 Nf6
+41. Bxe6 fxe6 42. Rxf6 Rxd4 43. Qh5 gxf6 44. Qg6+ Kf8 45. Qxf6+ Kg8 46. Qg6+ Kf8
+47. Qf6+ Kg8 48. Qg6+ Kf8 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.23"]
+[Round "3"]
+[White "Nakamura,Hi"]
+[Black "Ponomariov,R"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2764"]
+[ECO "E58"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with 8...Bxc3"]
+[WhiteFideId "2016192"]
+[BlackFideId "14103320"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 Qc7 10. Bb2 Re8 11. h3 Na5 12. cxd5 exd5 13. Nd2 Be6 14. Rc1 b5 15.
+dxc5 Nc4 16. Rb1 Qxc5 17. Nb3 Qc7 18. Bc1 a6 19. Nd4 Bd7 20. Bc2 Rac8 21. Ne2
+Qe5 22. Ng3 Qxc3 23. Rb3 Qe5 24. Bb1 a5 25. Rd3 Qe7 26. Re1 b4 27. axb4 Qxb4 28.
+Bd2 Nxd2 29. Qxd2 g6 30. Ba2 Bb5 31. Rb1 Qxd2 32. Rxd2 Rc5 33. Rb3 a4 34. Ra3
+Ra8 35. f3 Rc1+ 36. Kf2 Rac8 37. e4 R8c2 38. Rxc2 Rxc2+ 39. Ke3 Rxg2 40. Kf4 Kg7
+41. h4 h6 0-1
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.24"]
+[Round "4"]
+[White "Ponomariov,R"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2656"]
+[ECO "E31"]
+[Opening "Nimzo-Indian"]
+[Variation "Leningrad, main line"]
+[WhiteFideId "14103320"]
+[BlackFideId "4675789"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 c5 6. d5 d6 7. e3 exd5 8. cxd5
+Nbd7 9. Bb5 Bxc3+ 10. bxc3 Qa5 11. Bxd7+ Nxd7 12. Ne2 Qa6 13. O-O O-O 14. Bg3
+Nf6 15. f3 Nxd5 16. Qxd5 Qxe2 17. Rfe1 Be6 18. Rxe2 Bxd5 19. Bxd6 Rfc8 20. e4
+Be6 21. a4 Rc6 22. e5 Rac8 23. Rb2 b6 24. a5 Bc4 25. axb6 Rxb6 26. Rxb6 axb6 27.
+Kf2 g5 28. h4 Kg7 29. h5 b5 30. Ke3 Be6 31. Ra5 b4 32. cxb4 cxb4 33. Bxb4 Kh7
+34. Be7 Rc3+ 35. Kd2 Rc8 36. Bf6 Rc4 37. g3 Rc8 38. Ra7 Kg8 39. f4 gxf4 40. gxf4
+Bg4 41. Ke3 Be6 42. Be7 Rc3+ 43. Kd2 Rc4 44. Ra8+ Rc8 45. Ra1 Kh7 46. Kd3 Bg4
+47. Rh1 Bf5+ 48. Kd4 Be6 49. Bc5 Rd8+ 50. Ke3 Rg8 51. Ke4 Rg3 52. Rf1 Rh3 53. f5
+Rh4+ 54. Ke3 Rxh5 55. fxe6 Rxe5+ 56. Kd4 Rxe6 57. Rxf7+ Kg6 58. Rf1 h5 59. Kd5
+Re2 60. Bf2 Kg5 61. Rg1+ Kf5 62. Be1 Ra2 63. Rh1 Kg4 64. Ke4 Re2+ 65. Kd3 Ra2
+66. Rh4+ Kg5 67. Rc4 Ra3+ 68. Ke2 Rh3 69. Bf2 Kf5 70. Kf1 Rb3 71. Kg2 Rd3 72.
+Bg3 Rd1 73. Kh3 Rh1+ 74. Bh2 Kg5 75. Rc5+ Kg6 76. Kg2 Rb1 77. Bf4 Rb4 78. Kf3
+Rb3+ 79. Be3 h4 80. Rg5+ Kf6 81. Rg4 h3 82. Rh4 Ke6 83. Rxh3 Kd5 84. Rh5+ Kc4
+85. Ke4 Rb5 86. Rh1 Kb3 87. Kd3 Rd5+ 88. Bd4 Rb5 89. Rb1+ Ka4 90. Rxb5 Kxb5 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.24"]
+[Round "4"]
+[White "Nakamura,Hi"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2781"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4101588"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. Qb3
+Bxc3+ 9. bxc3 Nc6 10. cxd5 Na5 11. Qc2 Nxd5 12. O-O Qc7 13. Re1 Bd7 14. e4 Nb6
+15. e5 Ba4 16. Qd3 Qc4 17. Qf3 Nc6 18. Re4 Nxd4 19. Rxd4 Bc6 20. Rxc4 Bxf3 21.
+Rc7 Bxg2 22. Kxg2 Rab8 23. Rb1 Rfc8 24. Rxc8+ Rxc8 25. Rb3 h5 26. Be3 Nd5 27.
+Bd4 b6 28. f4 Rc4 29. Kf1 Ra4 30. Rb2 Kh7 31. Kf2 Kg6 32. Rc2 Ra3 33. h3 b5 34.
+Rb2 a6 35. Rc2 Kf5 36. Kf3 b4 37. g4+ hxg4+ 38. hxg4+ Kg6 39. Ke4 bxc3 40. Rh2
+Ra4 41. Rf2 a5 42. Kd3 c2 43. f5+ Kg5 44. Bb2 Nb4+ 45. Kc3 Rxa2 46. Rf1 Kxg4 47.
+fxe6 fxe6 0-1
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.24"]
+[Round "4"]
+[White "Giri,A"]
+[Black "Le Quang Liem"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2701"]
+[BlackElo "2715"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "24116068"]
+[BlackFideId "12401137"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Nc3 O-O 8. Ne5
+e6 9. O-O Nfd7 10. Nf3 Nf6 11. Bf4 Nc6 12. Rc1 h6 13. Ne5 Nxe5 14. Bxe5 Bd7 15.
+Qb3 Bc6 16. Rfd1 Qe7 17. a3 Rfc8 18. h3 Qd7 19. Qa2 Ne8 20. Bxg7 Kxg7 21. e3 Nd6
+22. b3 Rc7 23. Qb2 Kg8 24. Rc2 Rac8 25. Rdc1 Qd8 26. Na2 Be8 27. Rxc7 Rxc7 28.
+Rxc7 Qxc7 29. Qc3 Qxc3 30. Nxc3 Nb5 31. Nxb5 Bxb5 32. f4 f5 33. Bf3 h5 34. Kf2
+Kf7 35. Ke1 Ke7 36. Kd2 Kd6 37. Kc3 a5 38. h4 b6 39. Bd1 Kc7 40. b4 a4 41. Bc2
+Kd6 42. Kd2 Kc7 43. Ke1 Kd6 44. Kf2 Kc7 45. Ke1 Kd6 46. Kd2 Kc7 47. Ke1 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.25"]
+[Round "5"]
+[White "Kramnik,V"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2701"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "24116068"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 Qa5 9. Rc1 cxd4 10. cxd4 Qxd2+ 11. Bxd2 O-O 12. Nf3 e6 13. h4 Nc6 14. e5 Bd7
+15. Rb1 b6 16. h5 Ne7 17. hxg6 fxg6 18. Bc4 Rac8 19. Bb3 Nd5 20. Ng5 h6 21. Ne4
+g5 22. Nd6 Rc7 23. Ke2 Rd8 24. Rh3 Bc6 25. Rbh1 Rf8 26. Rc1 Bd7 27. Rxc7 Nxc7
+28. Rc3 Na6 29. g3 Rd8 30. f4 Bf8 31. f5 Bxd6 32. exd6 Bb5+ 33. Ke3 Rxd6 34.
+fxe6 Kf8 35. Rc8+ Ke7 36. d5 Rd8 37. Rxd8 Kxd8 38. d6 Nc5 39. Bd5 Bd7 40. exd7
+Kxd7 41. Kd4 Kxd6 42. Bb4 a5 43. Bxc5+ bxc5+ 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.25"]
+[Round "5"]
+[White "Le Quang Liem"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2764"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, Saemisch variation"]
+[WhiteFideId "12401137"]
+[BlackFideId "14103320"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. Qc2 Nh5 8.
+Bd2 Nhf6 9. Bf4 Nh5 10. Bg5 Be7 11. Bxe7 Qxe7 12. e3 Nb6 13. Ne5 g6 14. O-O-O
+Bf5 15. Qe2 Nf6 16. g4 Be6 17. f3 O-O-O 18. h4 Nfd7 19. Nd3 Rhe8 20. Bg2 f6 21.
+Qf2 Qd6 22. Kb1 Kb8 23. Ka1 h6 24. Rhg1 Bf7 25. g5 hxg5 26. hxg5 f5 27. e4 dxe4
+28. fxe4 Ka8 29. Nc5 Nc4 30. Nb3 Qb4 31. d5 Qb6 32. Qxb6 Ndxb6 33. dxc6 Rxd1+
+34. Nxd1 fxe4 35. cxb7+ Kb8 36. Nc3 Re5 37. Bxe4 Nd6 38. Nd4 Rc5 39. Rf1 Nxe4
+40. Nxe4 Rc4 41. Rd1 Bd5 42. Nd6 Rc7 43. Rf1 Bxb7 44. Rf8+ Nc8 45. b4 Rd7 46.
+Nc6+ Kc7 47. Nxb7 Kxb7 48. Rf6 Rd6 49. Ne5 Rd5 50. Nf3 Rd3 51. Kb2 Nb6 52. Ne5
+Rd5 53. Nf7 a5 54. bxa5 Rb5+ 55. Ka1 Rxa5 56. Rxg6 Rc5 57. Kb2 Rb5+ 58. Kc3 Ra5
+59. Nd6+ Kc7 60. Kb3 Rd5 61. Ne8+ Kb7 62. Rg7+ Kc6 63. Rc7+ Kb5 64. g6 Rg5 65.
+Nd6+ Ka6 66. g7 Rg3+ 67. Kc2 Nd5 68. Rf7 Rg2+ 69. Kb3 Ne3 70. Ne8 Rg3 71. Rf3 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.25"]
+[Round "5"]
+[White "Meier,Geo"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2770"]
+[ECO "E98"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, 9.Ne1"]
+[WhiteFideId "4675789"]
+[BlackFideId "2016192"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. Nd3 Nf6 14. c5 Ng6 15. Rc1 Rf7
+16. a4 Bf8 17. a5 h5 18. cxd6 cxd6 19. Nb5 g4 20. Nxa7 Bd7 21. Qb3 g3 22. Bb6
+Qe7 23. Rc7 Ne8 24. Rxd7 gxh2+ 25. Kh1 Qxd7 26. Rc1 Rg7 27. Bf1 Nh4 28. Rc3 Qe7
+29. Qc2 Qg5 30. Ne1 Ng6 31. Nd3 Nh4 32. Ne1 Kh7 33. b4 Be7 34. Bf2 Bd8 35. Rc8
+Rxc8 36. Qxc8 Ng6 37. a6 Qe7 38. axb7 Qxb7 39. Qxd8 Qxb4 40. Qxe8 Qb2 41. Nd3
+Qb1 42. Be1 Rxa7 43. Qc6 Ra3 44. Qc1 Qb6 45. Kxh2 Ra2 46. Nb4 Ra4 47. Qc3 h4 48.
+Nc2 h3 49. gxh3 Qb1 50. Qd2 Ra2 51. Bd3 Kh6 52. h4 Nf8 53. Bf2 Qb3 54. Kg2 Ng6
+55. Qd1 Nf8 56. Kh3 Ng6 57. Qf1 Qc3 58. Be1 Qc8+ 59. Kh2 Kh5 60. Qf2 Rb2 61. Qa7
+Rxc2+ 62. Bxc2 Qxc2+ 63. Kg1 Kh6 64. Qf2 Qb1 65. Kh2 Nh8 66. Qg1 Nf7 67. Bf2 Qc2
+68. Qg2 Qb2 69. Bg1 Qc3 70. Kh3 Qc1 71. Bb6 Qc8+ 72. Qg4 Qa6 73. Bf2 Qf1+ 74.
+Qg2 Qc1 75. Kh2 Qc2 76. Bg1 Qd1 77. Qh3 Qd2+ 78. Kh1 Qe2 79. Bb6 Qb2 80. Qe6+
+Kg7 81. Qg4+ Kf8 82. Bg1 Qe2 83. Qg2 Qe1 84. Qf2 Qc1 85. Kh2 Kg7 86. Qe2 Kh6 87.
+Bf2 Qc3 88. Kg2 Qc8 89. Qb5 Qg8+ 90. Kh2 Qd8 91. Qb6 Qd7 92. Qa6 Qd8 93. Qf1 Qc8
+94. Qh3 Qf8 95. Qe6+ Kh5 96. Qf5+ Kh6 97. Qf6+ Kh5 98. Kg2 Qg8+ 99. Kf1 Qf8 100.
+Bb6 Qg8 101. Bc7 Qg6 102. Qxg6+ Kxg6 103. Kg2 Kf6 104. Kh3 Kg6 105. Ba5 Kf6 106.
+Kg4 Nh6+ 107. Kh5 Nf7 108. Be1 Kg7 109. Kg4 Kf6 110. Kh3 Nh6 111. Kg2 Kg6 112.
+Kf1 Kf7 113. Ke2 Ng8 114. Bb4 Ke7 115. Ke1 Nf6 116. Kf2 Kd7 117. Kg2 Ke7 118.
+Kh3 Kd7 119. Be1 Ke7 120. Bf2 Kf7 121. Ba7 Ke7 122. Bb6 Ke8 123. Bf2 Kf7 124.
+Be1 Ke7 125. h5 Nxh5 126. Kg4 Nf6+ 127. Kf5 Nd7 128. Bh4+ Kf7 129. Bd8 Nc5 130.
+Bg5 Nb3 131. Kg4 Nd4 132. Bh4 Nc2 133. Kg5 Ne3 134. Bf2 Ke7 135. Kh4 Kd7 136.
+Kh3 Kc7 137. Bh4 Kb6 138. Be7 Kc5 139. Kh2 Nc4 140. Kg2 Kd4 141. Kf2 Kd3 142.
+Bf8 Kd2 143. Be7 Kd1 144. Bf8 Kd2 145. Be7 Kd3 146. Bf8 Nd2 147. Bxd6 Nxe4+ 148.
+fxe4 Kxe4 149. Bxe5 Kxd5 150. Bxf4 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.27"]
+[Round "6"]
+[White "Nakamura,Hi"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2701"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[WhiteFideId "2016192"]
+[BlackFideId "24116068"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. Bg5 Bxc3 12. bxc3 Nbd7 13. Bd3 Qc7 14. c4 h6 15.
+Bd2 Ng4 16. Be4 Bxe4 17. Qxe4 Ngf6 18. Qe2 Qc6 19. a4 Rac8 20. Rfc1 Qe4 21. Be3
+Rc7 22. a5 Rfc8 23. Nd2 Qf5 24. axb6 axb6 25. f3 e5 26. Rcb1 exd4 27. Bxd4 Qf4
+28. Qf2 Rc6 29. Re1 Rd6 30. Be3 Qf5 31. Bxh6 Rdc6 32. Be3 Ne5 33. Red1 Nfd7 34.
+Ra7 Qc2 35. Rda1 Nf8 36. h3 Nxc4 37. Nxc4 Rxc4 38. Qxc2 Rxc2 39. Bxb6 Rb2 40.
+Bc7 Ne6 41. Ra8 Rxa8 42. Rxa8+ Kh7 43. Be5 Re2 44. Ra5 g5 45. Rb5 Kg6 46. Kf1
+Rc2 47. Rb2 Rxb2 48. Bxb2 f5 49. g3 g4 50. fxg4 fxg4 51. h4 Nc5 52. Ke2 Ne4 53.
+Be5 Kf5 54. Bc7 Nf6 55. Kd3 Ne4 56. Bb8 Nf6 57. Kd4 Ne4 58. Bf4 Nf6 59. Be5 Ne4
+60. Kd5 Nd2 61. Bf4 Nf1 62. h5 Nxg3 63. h6 Nh5 64. Bc7 Kg6 65. Ke4 Kxh6 66. Kf5
+g3 67. Bb6 g2 68. Bg1 Ng3+ 69. Kf4 Ne2+ 70. Kf3 Nxg1+ 71. Kf2 Nf3 72. Kxg2 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.27"]
+[Round "6"]
+[White "Ponomariov,R"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2781"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "14103320"]
+[BlackFideId "4101588"]
+[EventDate "2011.07.21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. Nd2 c6 8.
+Ba4 d6 9. c3 Bb6 10. Nc4 Bc7 11. Bb3 O-O 12. Bg5 h6 13. Bh4 g5 14. Bg3 Bg4 15.
+f3 Be6 16. Re1 Nh5 17. Bf2 Nf4 18. d4 exd4 19. cxd4 d5 20. exd5 Bxd5 21. Qc2 g4
+22. Nd2 Qg5 23. Ne4 Qg6 24. Bxd5 Nxd5 25. Qb3 Rae8 26. Ng3 h5 27. fxg4 hxg4 28.
+Rxe8 Rxe8 29. Qxb7 Rb8 30. Qxa7 Rxb2 31. Rf1 Qc2 32. Qc5 Rxa2 33. Qxc2 Rxc2 34.
+Nf5 Kh7 35. g3 Bb6 36. Re1 Bd8 37. Ne3 Nxe3 38. Rxe3 Kg6 39. Re4 Bg5 40. Kf1 f6
+41. d5 cxd5 42. Rxg4 Kf5 43. Rd4 Ke5 44. Rd1 Ke4 45. Rd4+ Kf3 46. Rd3+ Ke4 47.
+Rd4+ Ke5 48. Rd1 Ke4 49. Rd4+ Kf3 50. Rd3+ Ke4 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.27"]
+[Round "6"]
+[White "Le Quang Liem"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2656"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "12401137"]
+[BlackFideId "4675789"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qd3 a6 8. e4
+c5 9. e5 Nd5 10. Bg5 Qb6 11. Nxd5 exd5 12. dxc5 Bxc5 13. Qc2 Nc6 14. Rc1 Bb4+
+15. Bd2 Nd4 16. Nxd4 Qxd4 17. Bxb4 Qxb4+ 18. Qc3 Qe4+ 19. Be2 O-O 20. f3 Qh4+
+21. g3 Qh6 22. Kf2 Be6 23. Qd4 Rac8 24. Rc3 Rxc3 25. bxc3 Rc8 26. h4 f6 27. a4
+bxa4 28. Ra1 fxe5 29. Qxe5 Bf7 30. Qd4 Qc6 31. Rxa4 Qxc3 32. Qxc3 Rxc3 33. Rxa6
+Kf8 34. Ra8+ Ke7 35. Ra7+ Kf8 36. Ra8+ Ke7 37. Ra7+ Kf8 38. Ra8+ 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.28"]
+[Round "7"]
+[White "Nakamura,Hi"]
+[Black "Le Quang Liem"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2715"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "12401137"]
+[EventDate "2011.07.21"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 a6 10. Rd1 b5 11. Bd3 Qc7 12. Bd2 c5 13. dxc5 Qxc5 14. b4 Qc7 15.
+a4 bxa4 16. Qxa4 Bb7 17. Qa5 Qb8 18. Be2 Rc8 19. Rdc1 Ne5 20. Nxe5 Bxe5 21. f4
+Bc7 22. Qa3 g5 23. Rf1 Rd8 24. Rad1 Bc6 25. Kh1 Qb7 26. Bf3 g4 27. Bxc6 Qxc6 28.
+Qa2 Rd3 29. Rc1 Rad8 30. Be1 Rxe3 31. Qf2 Qc4 32. Bd2 Red3 33. Nb1 Qd5 34. Rxc7
+Ne4 35. Qh4 Nxd2 36. Qxg4+ Kh8 37. Qh4 Qf5 38. Nxd2 Rxd2 39. h3 Qg6 40. Rf2 Kg7
+41. Kh2 h6 42. Rc6 Rxf2 43. Qxf2 Qd3 44. f5 Qxf5 45. Qxf5 exf5 46. Rxa6 Rd3 47.
+Rc6 Rb3 48. Rc4 Kg6 49. g3 Rb2+ 50. Kg1 Kg5 51. Kf1 Kf6 52. Ke1 Ke5 53. Kf1 Rb3
+54. Kf2 Rb2+ 55. Kf1 Rb3 56. Kf2 Rb2+ 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.28"]
+[Round "7"]
+[White "Kramnik,V"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2656"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "4675789"]
+[EventDate "2011.07.21"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 a6 4. Nc3 d5 5. cxd5 exd5 6. Bg2 Be7 7. O-O O-O 8. d4
+c6 9. Ne5 a5 10. Bf4 Bf5 11. Qb3 Ra7 12. Rfd1 Nbd7 13. Rac1 h6 14. a3 Qb6 15.
+Qxb6 Nxb6 16. f3 Re8 17. e4 Bh7 18. Be3 Raa8 19. Bf2 Rad8 20. Re1 Bf8 21. h3
+dxe4 22. fxe4 Nfd7 23. Nd3 Nc4 24. Re2 Nb8 25. Na4 Nd6 26. Ndc5 Re7 27. Nb6 Nc8
+28. Nc4 b6 29. Nb3 a4 30. Nbd2 Rb7 31. e5 Na7 32. d5 Bc5 33. Bxc5 bxc5 34. e6
+Kf8 35. Na5 Rc7 36. Rxc5 fxe6 37. dxc6 Ke7 38. Ndc4 Rd1+ 39. Kh2 Bd3 40. Re3
+Bxc4 41. Rxc4 Rd2 42. Rce4 Nbxc6 43. Rxe6+ Kf7 44. Nc4 Rc2 45. Nd6+ Kg8 46. h4
+g5 47. Nf5 gxh4 48. Kh3 Rc5 49. Rg6+ 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.28"]
+[Round "7"]
+[White "Giri,A"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2701"]
+[BlackElo "2764"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "24116068"]
+[BlackFideId "14103320"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be5 Bg4 12. Be2 Bxf3 13. Bxf3 Bf6 14. Bxf6
+Qxf6 15. Qc2 Rac8 16. Bxd5 Rfd8 17. Rd1 Qe5 18. Qc4 b5 19. Qa2 Rd7 20. O-O Na4
+21. Bb3 Rdc7 22. Rd4 Nb6 23. Rfd1 g6 24. Qb1 Kg7 25. g3 Nc4 26. Kg2 Qf6 27. Bxc4
+bxc4 28. Qe4 Re7 29. Qd5 c3 30. bxc3 Rxc3 31. Rf4 Qc6 32. Qxc6 Rxc6 33. Rdd4 Rc2
+34. Rd5 h5 35. Ra5 Rb7 36. h3 Ra2 37. Rfa4 Rbb2 38. Rf4 Rb7 39. g4 hxg4 40. hxg4
+Rc7 41. Kg3 Rb2 42. g5 Rb1 43. Kg2 Rb2 44. Rfa4 Rcc2 45. Rf4 Rb7 46. Kg3 Rc1 47.
+Rd4 Rb2 48. Rf4 Rb7 49. Rd4 Rb2 50. f3 a6 51. Rxa6 Rb5 52. f4 Rb3 53. Re4 Rcc3
+54. a4 Rxe3+ 55. Rxe3 Rxe3+ 56. Kf2 Ra3 57. Ra7 Kf8 58. a5 Ke8 59. a6 Kf8 60.
+Ke2 Ke8 61. Ra8+ Kd7 62. a7 Kc6 63. Rc8+ Kb7 64. Rf8 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.29"]
+[Round "8"]
+[White "Meier,Geo"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2701"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "4675789"]
+[BlackFideId "24116068"]
+[EventDate "2011.07.21"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. e3 Rb8 8. Qe2 b5
+9. b3 cxb3 10. axb3 Nb4 11. Ne5 Nd7 12. Nc6 Nxc6 13. Bxc6 Rb6 14. Qf3 Bb4 15.
+Bd2 Bxd2 16. Nxd2 O-O 17. Bxd7 Qxd7 18. Ne4 Qd5 19. Qf4 f6 20. Nc5 e5 21. Qh4
+exd4 22. exd4 g5 23. Qe4 Qxe4 24. Nxe4 Re8 25. f3 h6 26. Rfe1 Kf7 27. Kf2 f5 28.
+Nc5 Rd8 29. Ke3 Rbd6 30. Red1 f4+ 31. gxf4 gxf4+ 32. Kxf4 Rxd4+ 33. Rxd4 Rxd4+
+34. Ke5 Rd6 35. b4 Ke7 36. Rg1 Kf7 37. Rc1 Ke7 38. Rg1 Kf7 39. Rc1 Rc6 40. f4
+Rf6 41. Ra1 Ke7 42. Rg1 Kf7 43. Ra1 Rd6 44. Rc1 Rd8 45. f5 c6 46. Ne6 Rd5+ 47.
+Ke4 Bxe6 48. fxe6+ Kxe6 49. Rxc6+ Rd6 50. Rc7 Kf6 51. h4 Kg6 52. Rc5 Rd1 53.
+Rc6+ Kh5 54. Rxa6 Rb1 55. Rb6 Rxb4+ 56. Kf3 Rb3+ 57. Ke2 Rb2+ 58. Ke3 Rb1 59.
+Ke2 b4 60. Kf2 b3 61. Kg3 Rb2 62. Kh3 Rb1 63. Kg3 b2 64. Rb5+ Kg6 65. h5+ Kf6
+66. Kg2 Ke6 67. Kh2 Kf6 68. Kg2 Ke6 69. Kh2 Kf6 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.29"]
+[Round "8"]
+[White "Le Quang Liem"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2781"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "12401137"]
+[BlackFideId "4101588"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 Be7 5. b3 O-O 6. Bb2 c5 7. Bd3 cxd4 8. exd4
+Nc6 9. O-O b6 10. Nbd2 Bb7 11. Rc1 Rc8 12. Qe2 Re8 13. Rfd1 Bf8 14. Nf1 g6 15.
+Ne3 Bg7 16. c5 Nd7 17. Bb5 a6 18. Bxc6 Bxc6 19. b4 Ba4 20. Re1 Nb8 21. Ne5 bxc5
+22. dxc5 f6 23. Nf3 Nc6 24. Qd3 Rb8 25. Qa3 Bb5 26. Qb3 a5 27. a4 Bc4 28. Nxc4
+Rxb4 29. Qa2 dxc4 30. Bc3 Rb3 31. Nd2 Nb4 32. Bxb4 Rxb4 33. Nxc4 Qd5 34. Red1
+Qc6 35. Nxa5 Qxa4 36. Qxa4 Rxa4 37. Nb7 Bh6 38. Rc2 Bf4 39. g3 Bc7 40. Rd7 Rc8
+41. Rcd2 e5 42. Re7 Rd4 43. Ra2 e4 44. Ra7 Bb8 45. Ra8 Rf8 46. Na5 Ra4 47. Kg2
+f5 48. c6 Bd6 49. Rxf8+ Kxf8 50. c7 Bxc7 51. Rxc7 Rxa5 52. Rxh7 Ra2 53. Kg1 Ra1+
+54. Kg2 Ra2 55. Kg1 Ra1+ 56. Kg2 Ra2 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.29"]
+[Round "8"]
+[White "Ponomariov,R"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2770"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[WhiteFideId "14103320"]
+[BlackFideId "2016192"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. dxe5
+dxe5 9. Bg5 Qxd1 10. Rfxd1 Bg4 11. h3 Bxf3 12. Bxf3 Nd4 13. Nd5 Nxd5 14. cxd5 f5
+15. Kf1 Rf7 16. Rac1 fxe4 17. Bxe4 Bf8 18. Rd3 Bd6 19. Be3 Nf5 20. Bd2 a5 21.
+Rf3 b6 22. g4 Ne7 23. Rfc3 Rd8 24. Bg5 Rd7 25. h4 Rf8 26. Bh6 Rf7 27. Ke2 Kh8
+28. Bg5 Rf8 29. f3 Ng8 30. Rh1 Nf6 31. Bxf6+ Rxf6 32. g5 Rf4 33. h5 Kg8 34. hxg6
+hxg6 35. Rh6 Rg7 36. Bxg6 Rb4 37. b3 a4 38. Rc1 axb3 39. axb3 Rxb3 40. Rch1 Kf8
+41. Rh8+ Rg8 42. Be4 Rb2+ 43. Kf1 Be7 44. g6 Bf6 45. R8h7 Bg7 46. R1h5 Ke7 47.
+Rxe5+ Kd6 48. Re6+ Kc5 49. Re7 Ra8 50. Rxc7+ Kd6 51. Rc1 Bd4 52. f4 Bc5 53. Rc2
+Rb1+ 54. Kg2 Rg1+ 55. Kh2 Rg4 56. Bf5 Rxf4 57. Be6 Rf6 58. g7 Rxe6 59. dxe6 Rg8
+60. Re2 Ke7 61. Re4 b5 62. Kh3 b4 63. Rh5 Bd6 64. Rb5 Kf6 65. e7 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.30"]
+[Round "9"]
+[White "Nakamura,Hi"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2656"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "4675789"]
+[EventDate "2011.07.21"]
+
+1. g3 d5 2. Bg2 e5 3. d3 Nf6 4. Nf3 Nc6 5. a3 Bd6 6. Bg5 Be6 7. Nfd2 Be7 8. c4
+dxc4 9. dxc4 Qd7 10. Nc3 Rd8 11. O-O h6 12. Bxf6 Bxf6 13. Nd5 Bg5 14. Ne4 Be7
+15. Qa4 O-O 16. e3 f5 17. Nec3 Bd6 18. Rad1 Qf7 19. Qb5 e4 20. c5 Be5 21. Qxb7
+Bxc3 22. Nxc3 Ne5 23. Rxd8 Rxd8 24. Nb5 Bc4 25. Ra1 Bxb5 26. Qxb5 Rd2 27. b4 Nd3
+28. Rf1 h5 29. c6 g6 30. h4 Kh7 31. Qb8 a6 32. a4 Ra2 33. b5 Rxa4 34. b6 1-0
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.30"]
+[Round "9"]
+[White "Giri,A"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2701"]
+[BlackElo "2781"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "24116068"]
+[BlackFideId "4101588"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2
+c6 9. Rd1 b6 10. Bf4 Bb7 11. Ne5 Nxe5 12. dxe5 Nd7 13. cxd5 cxd5 14. e4 dxe4 15.
+Bxe4 Bxe4 16. Qxe4 Nc5 17. Qf3 Qe8 18. Nc3 Na4 19. Nxa4 Qxa4 20. b3 Qa3 21. Rd7
+Bc5 22. Qe2 a5 23. Rad1 a4 24. Bc1 Qb4 25. Bd2 Qa3 26. Bc1 Qb4 27. Bd2 Qa3 28.
+Bc1 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.30"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "Le Quang Liem"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2715"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "12401137"]
+[EventDate "2011.07.21"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+O-O 9. a4 Qc7 10. Kh1 Nc6 11. Be3 Re8 12. Bf3 Na5 13. Bf2 Nd7 14. Bg3 Bf6 15.
+Re1 Rb8 16. Qd3 Nc5 17. Qd1 Nd7 18. Qd3 Nc6 19. Nb3 b6 20. Rad1 Be7 21. Qc4 Nc5
+22. f5 Ne5 23. Bxe5 dxe5 24. fxe6 Nxe6 25. Be2 Qb7 26. Nd5 Bg5 27. a5 b5 28. Qc3
+Nf4 29. Nc5 Qc6 30. Bf3 b4 31. Nxb4 Qb5 32. Nbd3 Nxd3 33. Nxd3 Be6 34. Nc5 Qxb2
+35. Qxb2 Rxb2 36. Nxe6 Rxe6 37. Rb1 Rxb1 38. Rxb1 g6 39. Be2 Bd2 40. Rb6 Bxa5
+41. Rxe6 fxe6 42. Bxa6 Bc3 43. g3 Kf7 44. Kg2 g5 45. Kf3 h5 46. g4 h4 47. Ke2
+Ke7 48. Kd3 Bd4 49. h3 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.31"]
+[Round "10"]
+[White "Le Quang Liem"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2701"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "12401137"]
+[BlackFideId "24116068"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 c6 7. Qc2 O-O 8. O-O
+Nbd7 9. Rd1 b6 10. b3 Ba6 11. a4 c5 12. Na3 Bb7 13. Qb2 Rc8 14. Rac1 Ne4 15. Be1
+Bf6 16. e3 Qc7 17. Nd2 Nxd2 18. Qxd2 Qb8 19. cxd5 cxd4 20. exd4 Bxd5 21. Bxd5
+exd5 22. Nb5 a6 23. Nc3 Qb7 24. Qe3 Nb8 25. Qf3 Rcd8 26. b4 Bg5 27. Bd2 Bxd2 28.
+Rxd2 b5 29. axb5 axb5 30. Ra2 Na6 31. Ra5 Nc7 32. Qd3 Ra8 33. Rca1 Rxa5 34. Rxa5
+Rb8 35. Ne2 Ne6 36. Nc3 Nc7 37. Ne2 Ne6 38. Nc3 Nc7 1/2-1/2
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.31"]
+[Round "10"]
+[White "Kramnik,V"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2781"]
+[BlackElo "2770"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, bayonet attack"]
+[WhiteFideId "4101588"]
+[BlackFideId "2016192"]
+[EventDate "2011.07.21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. b4 Nh5 10. c5 Nf4 11. a4 f5 12. Bc4 fxe4 13. Nxe4 h6 14. Re1 Bg4 15. Ra3 g5
+16. h3 Bh5 17. Bxf4 Rxf4 18. g3 Rf8 19. a5 Kh8 20. Kg2 Rb8 21. Qd2 b6 22. axb6
+axb6 23. Nfxg5 hxg5 24. Qxg5 Bg6 25. cxd6 cxd6 26. Ra7 Rc8 27. Rxe7 Rxc4 28. f3
+Rc2+ 29. Kg1 Rc8 30. Ra1 Rf7 31. Qxg6 Qxe7 32. Ng5 Kg8 33. Qh7+ Kf8 34. Ne6+ Ke8
+35. Qh5 Bf6 36. g4 Qb7 37. Rd1 Qa6 38. Qg6 Ke7 39. g5 Bh8 40. Re1 Qa3 41. Nd4
+Qxb4 42. Nf5+ Kf8 43. Rd1 Rc2 44. Nd4 exd4 45. Qxc2 Qc3 46. Qe4 Qe3+ 47. Qxe3
+dxe3 48. Kg2 Bc3 49. Kf1 Rxf3+ 50. Ke2 Rxh3 0-1
+
+[Event "39th GM"]
+[Site "Dortmund GER"]
+[Date "2011.07.31"]
+[Round "10"]
+[White "Meier,Geo"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2764"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[WhiteFideId "4675789"]
+[BlackFideId "14103320"]
+[EventDate "2011.07.21"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qb3 Bb7 8. O-O
+Nbd7 9. d4 a6 10. Ne5 Qb6 11. Nxd7 Nxd7 12. Be3 c5 13. d5 exd5 14. Bxd5 Bxd5 15.
+Qxd5 Rd8 16. a4 Be7 17. axb5 axb5 18. Nc3 O-O 19. b4 Qf6 20. Nxb5 cxb4 21. Ra7
+Nc5 22. Qf3 Qxf3 23. exf3 Rfe8 24. Nd4 Rd7 25. Rxd7 Nxd7 26. Nc6 Bf8 27. Rb1 Ne5
+28. Nxe5 Rxe5 29. Kf1 f6 30. Ke2 Rd5 31. Ra1 Kf7 32. Ra6 h5 33. h3 Rd7 34. Rb6
+Rc7 35. g4 Rc2+ 36. Kd3 Rc3+ 37. Ke4 Kg6 38. f4 hxg4 39. hxg4 Rc4+ 40. Kd5 Rc7
+41. Ke4 Rc4+ 42. Kd5 Rc7 43. Ke4 Rc4+ 44. Kd5 1/2-1/2

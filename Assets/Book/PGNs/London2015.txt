@@ -1,0 +1,1176 @@
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.04"]
+[Round "1.1"]
+[White "Topalov, Veselin"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2784"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "2900084"]
+[BlackFideId "24116068"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Qa4 Nfd7 6. cxd5 Nb6 7. Qd1 cxd5 8. Nc3
+Nc6 9. e3 Bg7 10. Nge2 O-O 11. O-O Re8 12. b3 e5 13. dxe5 Nxe5 14. h3 Bf5 15.
+Nd4 Bd3 16. Re1 Ba6 17. Qd2 Nd3 18. Rd1 Bxd4 19. exd4 Qf6 20. a4 Qxd4 21. a5 Nd7
+22. Ra4 Qe5 23. Nxd5 Nxc1 24. Rxc1 Nf6 25. Nc7 Rad8 26. Qf4 g5 27. Qb4 Qb2 28.
+Raa1 Re2 29. Qc5 h6 30. Nxa6 bxa6 31. Rab1 Qd2 32. Bf3 Ne4 33. Qxa7 Nxf2 34.
+Bxe2 Nxh3+ 35. Kf1 Qd5 36. Bh5 Qh1+ 37. Ke2 Qg2+ 38. Ke1 Re8+ 39. Kd1 Nf2+ 40.
+Kc2 Ne4+ 0-1
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.04"]
+[Round "1.2"]
+[White "Anand, Viswanathan"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2737"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "5000017"]
+[BlackFideId "400041"]
+[EventDate "2015.12.04"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8. d3
+O-O 9. Be3 Re8 10. Rc1 Bf8 11. Ne4 Nd4 12. Qd2 a5 13. Nc5 Nxf3+ 14. Bxf3 Nd5 15.
+a3 b6 16. Na4 Bb7 17. Rfe1 Rb8 18. Bg2 Qd7 19. Nc3 Nxe3 20. Qxe3 Bc5 21. Qg5 h6
+22. Qh5 Bxg2 23. Kxg2 Bd4 24. Rc2 Bxc3 25. Rxc3 c5 26. Rec1 Qb5 27. R1c2 Rbd8
+28. Qf3 g6 29. Qb7 Rb8 30. Qd5 Rbd8 31. Qb7 Rb8 32. Qd5 Rbd8 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.04"]
+[Round "1.3"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2788"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 O-O 8. Nc3
+d6 9. a3 Na5 10. Ba2 Be6 11. d4 Bxa2 12. Rxa2 Nc6 13. d5 Nb8 14. Be3 Qc8 15. Qe2
+Nbd7 16. Rd1 Qb7 17. Raa1 Rfc8 18. h3 Rab8 19. Nh2 h5 20. Nf3 Nb6 21. Bg5 g6 22.
+Na2 c6 23. dxc6 Rxc6 24. Bxf6 Bxf6 25. Nb4 Rc4 26. Nd5 Be7 27. Nxb6 Qxb6 28. c3
+a5 29. Rd5 Rc5 30. Rad1 b4 31. Rxc5 Qxc5 32. Rd5 Qa7 33. axb4 axb4 34. c4 Rc8
+35. b3 Rc5 36. Rxc5 Qxc5 37. g3 Bd8 38. Qd2 Bb6 39. Kg2 Kg7 40. Ne1 Qc7 41. Nc2
+Bc5 42. Ne3 Bxe3 43. Qxe3 Qc6 44. g4 hxg4 45. hxg4 Qc8 46. Kg3 Qc5 47. Qxc5 dxc5
+48. g5 Kf8 49. f4 Ke7 50. f5 Kd6 51. f6 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.04"]
+[Round "1.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2834"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "623539"]
+[BlackFideId "1503014"]
+[EventDate "2015.12.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. a4 bxa4 14. Ncb4 Nxb4 15.
+cxb4 Bb7 16. Rxa4 Qc8 17. Nxf6+ gxf6 18. Bd3 Bc6 19. Rxa6 Rxb4 20. O-O Rd4 21.
+Qf3 Bxe4 22. Bxe4 Qxa6 23. Qg4+ Kh8 24. Qf5 Rxe4 25. Qxf6+ Kg8 26. Qg5+ Kh8 27.
+Qf6+ Kg8 28. Qg5+ Kh8 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.04"]
+[Round "1.5"]
+[White "Grischuk, Alexander"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2793"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "2016192"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 Be6 11. g4 Ne7 12. Nd4 Bd7 13. Kh2 c5 14. Ndb5 Kd8
+15. Be3 a6 16. Na3 b6 17. Ne4 h5 18. Kg3 hxg4 19. hxg4 Bc6 20. Ng5 Ke8 21. f4 f5
+22. Rad1 g6 23. Ne6 fxg4 24. Nxc7+ Kf7 25. e6+ Kg8 26. Kxg4 Ra7 27. Rd7 Nf5 28.
+Bf2 Nh6+ 29. Kg3 Nf5+ 30. Kg4 Be7 31. Rfd1 Nh6+ 32. Kg3 Nf5+ 33. Kg4 Nh6+ 34.
+Kg3 Rh7 35. Nc4 Nf5+ 36. Kg4 Nh6+ 37. Kg3 Nf5+ 38. Kg4 Nh6+ 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.05"]
+[Round "2.1"]
+[White "Aronian, Levon"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2788"]
+[BlackElo "2796"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bd2 O-O 6. e3 c5 7. a3 Bxc3 8. Bxc3
+Ne4 9. Qc2 Nxc3 10. bxc3 Nd7 11. Bd3 h6 12. cxd5 exd5 13. Qb2 Qe7 14. O-O Nf6
+15. Rfb1 c4 16. Bc2 Ne4 17. a4 Re8 18. a5 Nd6 19. Qb4 Be6 20. Re1 Bf5 21. Bxf5
+Nxf5 22. Qxe7 Rxe7 23. h4 h5 24. g3 Nd6 25. Reb1 Rc8 26. Kg2 f6 27. Ng1 g5 28.
+Nf3 Ne4 29. Ra3 Rf8 30. Rb5 Rd7 31. Rb2 Rg7 32. Rb5 Rd7 33. Rb2 Rg7 34. Rb5 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.05"]
+[Round "2.2"]
+[White "Giri, Anish"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2737"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[WhiteFideId "24116068"]
+[BlackFideId "400041"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. Nf3 Qa5+ 10. Bd2 Qxc5 11. e3 Nxd2 12. Nxd2 dxc4 13. Bxc4 O-O 14. b4
+Qe7 15. Bd3 h6 16. Qc3 a6 17. O-O Bd7 18. Nc4 Rab8 19. Nb6 Rfd8 20. Rac1 Be8 21.
+Be4 Na7 22. a4 Qd6 23. Nc4 Qe7 24. Nb6 Qd6 25. Nc4 Qe7 26. Nb6 Qd6 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.05"]
+[Round "2.3"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2773"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[WhiteFideId "2016192"]
+[BlackFideId "623539"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. c4 O-O 5. Be2 c5 6. d5 d6 7. Nc3 e6 8. O-O exd5
+9. cxd5 Na6 10. Nd2 Rb8 11. e4 Re8 12. f3 Nh5 13. f4 Nf6 14. Kh1 Nc7 15. a4 a6
+16. a5 Bd7 17. Bf3 Nb5 18. e5 dxe5 19. fxe5 Rxe5 20. Nc4 Rf5 21. Ne2 Rxf3 22.
+gxf3 Bh3 23. Re1 Qxd5 24. Nf4 Qxd1 25. Rxd1 Bd7 26. Be3 Bc6 27. Kg2 Re8 28. Kf2
+g5 29. Nd3 g4 30. Nde5 Bd5 31. Rg1 h5 32. h3 Bxc4 33. Nxc4 Nd5 34. fxg4 Nxe3 35.
+Nxe3 Bxb2 36. Rae1 Bc3 37. Re2 Bd4 38. Kf3 Nc3 39. Ree1 Ne4 40. gxh5+ Kh7 41.
+Rg2 Nd6 42. Ree2 Re5 43. Nc2 Rxh5 44. Nxd4 cxd4 45. Rg4 Rxa5 46. Rxd4 Nf5 47.
+Rb4 b5 48. Kf4 Nh6 49. Ke5 Ra3 50. h4 Rg3 51. Ra2 Rg6 52. Rb1 Re6+ 53. Kf4 Rf6+
+54. Ke4 Re6+ 55. Kf4 Rf6+ 56. Ke4 Re6+ 57. Kf4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.05"]
+[Round "2.4"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2834"]
+[BlackElo "2787"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Be7 13. c4 Nc7 14. d4 d5 15.
+cxd5 Nxd5 16. Nxd5 cxd5 17. Bf4 Bf6 18. Be5 Bxe5 19. Rxe5 Re8 20. Rxe8+ Qxe8 21.
+Qb3 Qc6 22. Bb5 Qb6 23. Qxd5 a6 24. Bd3 Be6 25. Qe4 g6 26. d5 Bf5 27. Qe2 Bxd3
+28. Qxd3 Qxb2 29. Re1 Rd8 30. d6 Rd7 31. g3 Qf6 32. Rd1 Qe5 33. Qa3 a5 34. f4
+Qe2 35. Qc1 Qe6 36. Qc5 b5 37. Qxb5 Rxd6 38. Qb8+ Kg7 39. Qxd6 Qe3+ 40. Kg2 Qe2+
+41. Kg1 Qe3+ 42. Kg2 Qe2+ 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.05"]
+[Round "2.5"]
+[White "Topalov, Veselin"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2747"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2900084"]
+[BlackFideId "4126025"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Nbd2 d6 7. h3 a6 8. Bxc6
+bxc6 9. O-O Re8 10. Re1 h6 11. Nf1 Bb6 12. Ng3 Bd7 13. Be3 Qb8 14. Qd2 Bxe3 15.
+Rxe3 a5 16. d4 exd4 17. cxd4 Qb4 18. b3 Qxd2 19. Nxd2 a4 20. a3 axb3 21. Rxb3
+Ra4 22. Rb7 Rxd4 23. Nf3 Ra4 24. Rxc7 Rc8 25. Rxc8+ Bxc8 26. e5 dxe5 27. Nxe5 c5
+28. Rc1 Rxa3 29. Rxc5 Be6 30. Rc1 Ra8 31. Nf3 Rc8 32. Rxc8+ Bxc8 33. Nd4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.06"]
+[Round "3.1"]
+[White "Caruana, Fabiano"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2793"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Qe7 7. h3 O-O 8.
+Nc4 Nd7 9. Qe2 b5 10. Ne3 Nb6 11. Nf5 Bxf5 12. exf5 Nd7 13. Nd2 Bb4 14. c3 Ba5
+15. Ne4 b4 16. O-O Rfd8 17. cxb4 Bxb4 18. Be3 f6 19. Qc2 Nb6 20. a3 Bd6 21. Qxc6
+Qd7 22. Qxd7 Rxd7 23. Rfc1 Nd5 24. Bd2 Bf8 25. g3 a5 26. Kf1 a4 27. Ke2 Rb8 28.
+Rc2 Rb3 29. Rac1 Rd8 30. Nc3 Nxc3+ 31. Bxc3 Rd5 32. g4 c6 33. Rg1 h6 34. h4 Be7
+35. Rg3 Kf7 36. Kd2 Bd6 37. Ke2 Bc5 38. g5 Bd4 39. gxh6 gxh6 40. Rg6 Bxc3 41.
+bxc3 h5 42. Rh6 Kg7 43. Rg6+ Kf7 44. Rh6 Kg7 45. Rg6+ 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.06"]
+[Round "3.2"]
+[White "Grischuk, Alexander"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2784"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "24116068"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Ne2 b6 12. Bg5 c5 13. Nc3 Bb7 14. Rad1 Bxf3
+15. gxf3 c6 16. Ne4 Be7 17. f4 Bxg5 18. fxg5 Ke7 19. Nd6 Ke6 20. f4 Rad8 21.
+Rfe1 g6 22. Kf2 Nd4 23. c3 Nf5 24. Kf3 Ng7 25. Rd2 Ke7 26. Red1 Rhg8 27. a4 a6
+28. Nc4 Rxd2 29. Rxd2 b5 30. Na5 Rc8 31. Rd6 bxa4 32. Rxc6 Rd8 33. Nc4 a3 34.
+bxa3 Rd3+ 35. Ke4 Rxc3 36. Nd6 Rxa3 37. Rc7+ Ke6 38. Rxf7 Ne8 39. Rf8 Nxd6+ 40.
+exd6 Ra4+ 41. Ke3 Kxd6 42. Rf6+ Kd5 43. f5 Ra3+ 44. Kf4 Ra4+ 45. Ke3 Ra3+ 46.
+Kf4 Ra4+ 47. Ke3 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.06"]
+[Round "3.3"]
+[White "Adams, Michael"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2788"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "400041"]
+[BlackFideId "13300474"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Nbd2 Bd6 13. a5 h6 14. Bc4 Re8 15.
+Nb3 Be6 16. Bd3 Red8 17. Nfd2 Nd7 18. Nc4 Nc5 19. Nxc5 Bxc5 20. Be3 Bxe3 21.
+Nxe3 b3 22. Bf1 Nd4 23. cxb3 Nxb3 24. Ra3 Rd2 25. Re2 Rxe2 26. Bxe2 Nd4 27. Bf1
+Kf8 28. Rc3 Rb8 29. Rxc7 Rxb2 30. h4 Ra2 31. Bxa6 Rxa5 32. Bc8 Ra8 33. Bxe6 Nxe6
+34. Rc2 h5 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.06"]
+[Round "3.4"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2834"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be6 11. Rd1 Bc5 12. g4 Ne7 13. Ng5 Bd5 14. Nge4 Bb6
+15. Kg2 Rd8 16. Bf4 Ng6 17. Bg3 h5 18. f4 hxg4 19. hxg4 Ke7 20. Rh1 Bd4 21.
+Nxd5+ cxd5 22. Nc3 Bxc3 23. bxc3 Kd7 24. f5 Ne7 25. Rae1 Rde8 26. Kf3 Rxh1 27.
+Rxh1 Nc6 28. Re1 g5 29. a4 a6 30. Kg2 Kc8 31. Kf2 b6 32. Kf3 Kd7 33. Kf2 Kc8 34.
+Re3 Na5 35. Re1 Nc4 36. Kf3 Kd7 37. Kg2 a5 38. Kf2 c6 39. Kg2 b5 40. Rb1 Rh8 41.
+Bf2 Nxe5 42. axb5 Nxg4 43. bxc6+ Kxc6 44. Bd4 Re8 45. Kg3 Ne5 46. Rb6+ Kc7 47.
+Rf6 Kd7 48. Bxe5 Rxe5 49. Kg4 Ke7 50. Kxg5 Re1 51. Ra6 f6+ 52. Kg4 Rg1+ 53. Kf4
+Rf1+ 54. Kg4 Rg1+ 55. Kf4 Rf1+ 56. Kg4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.06"]
+[Round "3.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2803"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "623539"]
+[BlackFideId "2900084"]
+[EventDate "2015.12.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Nbd7 9. Bg2 b5 10. Nd5 Nxd5 11. Qxd5 Rb8 12. Be3 Be7 13. Qd2 Nf6 14. O-O O-O 15.
+Kh2 Bb7 16. Nc3 Rc8 17. a4 b4 18. Nd5 Nxd5 19. exd5 a5 20. Qe2 Bg5 21. Bxg5 Qxg5
+22. h4 Qf6 23. Qb5 Qe7 24. Qxa5 Rxc2 25. Rac1 Rxb2 26. Rb1 Ra2 27. Qxb4 Ba6 28.
+Qb3 Bxf1 29. Qxa2 Bxg2 30. Kxg2 Ra8 31. a5 e4 32. Rb3 f5 33. Qd2 Qc7 34. Qb2
+Rxa5 35. Rb7 Ra2 36. Qb5 Rxf2+ 37. Kxf2 Qc2+ 38. Qe2 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.07"]
+[Round "4.1"]
+[White "Nakamura, Hikaru"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2796"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2016192"]
+[BlackFideId "5000017"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 Be7 5. Bg2 O-O 6. Qc2 c5 7. O-O cxd4 8. Nxd4
+Qb6 9. Rd1 Nc6 10. Nxc6 Qxc6 11. Bg5 h6 12. Bxf6 Bxf6 13. Na3 Bd7 14. Rab1 Rac8
+15. Qd3 Rfd8 16. cxd5 Qa4 17. Rd2 b5 18. Rbd1 exd5 19. Bxd5 Bc6 20. e4 a6 21. h4
+Bxd5 22. exd5 Qb4 23. Rb1 Qa5 24. b4 Qa4 25. Rb3 Be7 26. Re2 Rc7 27. Kg2 Bf6 28.
+Qf3 Re7 29. Rd2 Red7 30. Qe2 g6 31. h5 g5 32. Qd1 Bg7 33. Nc2 Qxa2 34. Ne3 Qa1
+35. Qxa1 Bxa1 36. Ra2 Bd4 37. Nf5 Bg7 38. Rxa6 Bf8 39. d6 Bxd6 40. Nxh6+ Kh7 41.
+Ng4 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.07"]
+[Round "4.2"]
+[White "Giri, Anish"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2788"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[WhiteFideId "24116068"]
+[BlackFideId "13300474"]
+[EventDate "2015.12.04"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Bg2 O-O 5. e4 Bxc3 6. bxc3 Re8 7. d3 c6 8. Nf3
+d5 9. cxd5 cxd5 10. exd5 Nxd5 11. Qc2 Qc7 12. O-O Qxc3 13. Qxc3 Nxc3 14. Bb2 Na4
+15. Bxe5 Nc6 16. Rfe1 Nb6 17. Bc7 Rxe1+ 18. Rxe1 Be6 19. Ne5 Rc8 20. Bxb6 Nxe5
+21. Bxa7 Nxd3 22. Rd1 Nb2 23. Ra1 b5 24. a3 h6 25. Bd4 Nc4 26. h4 Bd7 27. Kh2
+Bc6 28. Bc3 Bxg2 29. Kxg2 Ne3+ 30. fxe3 Rxc3 31. Kf3 h5 32. Rb1 Rxa3 33. Rxb5 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.07"]
+[Round "4.3"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2773"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[WhiteFideId "4126025"]
+[BlackFideId "623539"]
+[EventDate "2015.12.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. a3 Be7 10. Bf2 Qc7 11. Qf3 b5 12. g4 Nc6 13. O-O-O Bb7 14. h4 d5 15. e5
+Ne4 16. Nxe4 dxe4 17. Qc3 Rc8 18. Rh3 b4 19. axb4 Nxb4 20. Qxc7 Rxc7 21. f5 O-O
+22. Be1 Bd5 23. g5 Rfc8 24. Bxb4 Bxb4 25. f6 Kh7 26. c3 gxf6 27. gxf6 Rg8 28.
+Bxa6 Bc5 29. Nb5 Rc6 30. Bb7 Rb6 31. Bxd5 exd5 32. Nd4 Bxd4 33. cxd4 Rg2 34. Rd2
+Rxd2 35. Kxd2 Kg6 36. b3 Kf5 37. Rg3 Kf4 38. Rg1 e3+ 39. Kd3 Rxb3+ 40. Kc2 Rb6
+41. Kd3 Rb3+ 42. Kc2 Rb6 43. Kd3 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.07"]
+[Round "4.4"]
+[White "Carlsen, Magnus"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2834"]
+[BlackElo "2737"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "1503014"]
+[BlackFideId "400041"]
+[EventDate "2015.12.04"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. O-O e6 5. d3 Bd6 6. c4 Ne7 7. cxd5 exd5 8. Nc3
+O-O 9. h3 Bh5 10. e4 Na6 11. exd5 cxd5 12. Re1 Nc6 13. d4 Nc7 14. a3 h6 15. b4
+Rc8 16. Bb2 a6 17. Na4 a5 18. Nc5 axb4 19. axb4 Rb8 20. Qa4 Bxf3 21. Bxf3 Qf6
+22. Qb3 Rfd8 23. Bg4 Nxd4 24. Bxd4 Qxd4 25. Red1 Qc4 26. Qxc4 dxc4 27. Nd7 Rxd7
+28. Bxd7 Bxb4 29. Ra4 Bc5 30. Rxc4 b6 31. Kg2 g6 32. Bc6 Ne8 33. Rd7 Nf6 34. Ra7
+Kg7 35. Ra8 Rxa8 36. Bxa8 h5 37. Ra4 Ng8 38. Bd5 Ne7 39. Ba2 Nc6 40. Ra8 Nb4 41.
+Bc4 Nc6 42. f4 Ne7 43. Kf3 Nf5 44. Ra7 Nd6 45. Bd5 Bd4 46. Rd7 Bc5 47. Ba2 Kf6
+48. g4 hxg4+ 49. hxg4 Kg7 50. Rd8 Nb7 51. Rd7 Nd6 52. Ke2 Kf8 53. Kd3 Kg7 54.
+Bd5 Kf8 55. Rd8+ Kg7 56. Bc6 Kh7 57. g5 Kg7 58. Bd5 Kh7 59. Rd7 Kg7 60. Ke2 Kf8
+61. Kf3 Ke8 62. Rc7 Bd4 63. Kg4 Be3 64. Bxf7+ Nxf7 65. Rc6 Bd4 66. Rxg6 b5 67.
+Rg8+ Kd7 68. f5 Be3 69. Rg7 Ke8 70. Rg8+ Kd7 71. Rg7 Ke8 72. g6 Nh6+ 73. Kf3
+Nxf5 74. Rf7 Nh4+ 75. Kxe3 Nxg6 76. Rb7 b4 77. Ke4 b3 78. Rxb3 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.07"]
+[Round "4.5"]
+[White "Topalov, Veselin"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2787"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2900084"]
+[BlackFideId "2020009"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Nbd2 d6 7. h3 Ne7 8. d4
+Bb6 9. dxe5 dxe5 10. Qe2 Ng6 11. g3 Qe7 12. Bd3 a5 13. Nc4 Bc5 14. Be3 Rd8 15.
+Bxc5 Qxc5 16. Ne3 h6 17. O-O-O Be6 18. Kb1 b5 19. c4 b4 20. Nd5 Nd7 21. Ne1 c6
+22. Nc7 Rac8 23. Nxe6 fxe6 24. h4 Rf8 25. Bc2 Qe7 26. Nd3 Nc5 27. Qe3 Nxd3 28.
+Rxd3 Rfd8 29. Rhd1 Rxd3 30. Qxd3 Nf8 31. Ba4 Qc5 32. Rd2 Kf7 33. Bd1 Ra8 34. Qd6
+Qxc4 35. Qxe5 Qb5 36. Qc7+ Kg8 37. Qd6 a4 38. Be2 Qb6 39. Bc4 Re8 40. Qd4 c5 41.
+Qd6 Qb7 42. f3 a3 43. Rd3 axb2 44. Kxb2 Kh7 45. Kc2 Rc8 46. Ba6 Qa7 47. Bxc8
+Qxa2+ 48. Kd1 c4 49. Rd2 Qa1+ 50. Ke2 c3 51. Qxf8 cxd2 52. Kxd2 Qb2+ 53. Ke3
+Qc1+ 54. Kf2 Qd2+ 55. Kf1 Qd1+ 56. Kg2 Qe2+ 57. Kh3 h5 58. g4 hxg4+ 59. Kxg4
+Qg2+ 60. Kf4 Qh2+ 61. Ke3 Qg1+ 62. Kd3 Qf1+ 63. Kd4 Qa1+ 64. Kc4 Qc3+ 65. Kb5 b3
+66. Bxe6 Qe5+ 67. Kb4 Qxe6 68. Kc3 Qb6 69. Qf5+ Kg8 70. Qd5+ Kf8 71. Qxb3 Qf6+
+72. Kc2 Qxh4 73. Qb8+ Kf7 74. Kd3 Qe1 75. Qf4+ Ke6 76. Qf5+ Ke7 77. Qc5+ Kf7 78.
+Qf5+ Ke7 79. Qg6 Qd1+ 80. Ke3 Qe1+ 81. Kf4 Qc1+ 82. Kf5 Qc5+ 83. Kf4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.08"]
+[Round "5.1"]
+[White "Caruana, Fabiano"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2747"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "4126025"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Be6 7. O-O Bd6 8.
+d4 Nd7 9. dxe5 Nxe5 10. Nxe5 Bxe5 11. f4 Bd4+ 12. Kh1 f5 13. Qh5+ g6 14. Qe2 O-O
+15. Nf3 Bf6 16. e5 Be7 17. Rd1 Qe8 18. Nd4 Qf7 19. Nxe6 Qxe6 20. Be3 Rfd8 21. c4
+a6 22. b3 Kf7 23. a4 Ke8 24. h3 Rxd1+ 25. Rxd1 Rd8 26. Rxd8+ Bxd8 27. Bc5 Kf7
+28. Qd2 Bh4 29. Kh2 h5 30. a5 Qe8 31. Ba3 Qd8 32. Qb4 b6 33. Qc3 c5 34. Bb2 Qd1
+35. e6+ Kxe6 36. Qe5+ Kd7 37. Qg7+ Be7 38. Qxg6 Qc2 39. Be5 h4 40. axb6 cxb6 41.
+Qxb6 Qd3 42. Qb7+ Ke8 43. Qa8+ Kd7 44. Qb7+ Ke8 45. Qc6+ Kf8 46. Qa8+ Bd8 47.
+Bc3 Qg3+ 48. Kh1 Qd3 49. Qb8 Kf7 50. Qb7+ Be7 51. Be5 a5 52. Bb8 Qb1+ 53. Kh2 a4
+54. Qd5+ Kf8 55. Bd6 axb3 56. Qa8+ Kf7 57. Qd5+ Kf8 58. Qa8+ Kf7 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.08"]
+[Round "5.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2784"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. g3 Bc4
+15. Rfe1 Rg6 16. Nce4 Rd8 17. Rxd8+ Bxd8 18. b3 Bd5 19. c4 Nd4 20. cxd5 cxd5 21.
+Nd6+ cxd6 22. exd6+ Ne6 23. Nf3 Bf6 24. Be3 Kd7 25. Bxa7 Rh6 26. Rd1 Kxd6 27.
+Bb8+ Kc6 28. Rc1+ Kd7 29. Rd1 Kc6 30. Rc1+ Kd7 31. Rd1 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.08"]
+[Round "5.3"]
+[White "Adams, Michael"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2793"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "400041"]
+[BlackFideId "2016192"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Nd7 7. Nc4 O-O 8.
+Bd2 Re8 9. Qe2 f6 10. h4 Nf8 11. h5 Be6 12. Ne3 Qd7 13. h6 g6 14. O-O Bg4 15.
+Nxg4 Qxg4 16. Nd4 Qxe2 17. Nxe2 Ne6 18. g3 g5 19. Be3 Bf8 20. Kg2 Bxh6 21. Rh1
+Bg7 22. Kf3 h6 23. Kg4 Re7 24. Raf1 Rf8 25. Rh3 Nd4 26. Nxd4 exd4 27. Bc1 Re5
+28. f4 Rc5 29. Rh2 f5+ 30. exf5 Rfxf5 31. Rhf2 gxf4 32. Bxf4 h5+ 33. Kh3 Be5 34.
+Re1 Ra5 35. a3 Rd5 36. Re4 a5 37. a4 Rf7 38. b3 Bd6 39. Rfe2 Rg7 40. Bxd6 cxd6
+41. Re8+ Kh7 42. Rf2 Rdg5 43. Rf3 R5g6 44. Re4 Rg4 45. Re6 h4 46. Rxd6 c5 47.
+Rd5 Rxg3+ 48. Rxg3 hxg3 49. Kg2 b6 50. Rd6 Rg6 51. Rxg6 Kxg6 52. Kxg3 Kg5 53.
+Kf3 Kf5 54. Kg3 Kg5 55. Kf3 Kf5 56. Kg3 Ke5 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.08"]
+[Round "5.4"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2788"]
+[BlackElo "2834"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch with e3"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2015.12.04"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. e3 d5 5. cxd5 Nxd5 6. d4 cxd4 7. exd4 Nxc3 8.
+bxc3 Qc7 9. Bd2 Nd7 10. Bd3 b6 11. Ng5 Nf6 12. Qf3 Rb8 13. O-O Bd6 14. Qh3 h6
+15. Rfe1 O-O 16. Nf3 Bf4 17. Bxf4 Qxf4 18. Ne5 Bb7 19. Rad1 Qg5 20. c4 Rbd8 21.
+Qg3 Qxg3 22. hxg3 Rfe8 23. f3 Nd7 24. Kf2 Kf8 25. Bc2 Nxe5 26. Rxe5 Re7 27. Bb3
+Red7 28. Ke3 g6 29. g4 Bc6 30. d5 exd5 31. cxd5 Bb7 32. f4 f6 33. Re6 Bxd5 34.
+Rxd5 Rxd5 35. Bxd5 Rxd5 36. Rxf6+ Kg7 37. Rc6 Ra5 38. Rc2 Kf6 39. Rc6+ Kg7 40.
+Rc2 Kf6 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.08"]
+[Round "5.5"]
+[White "Anand, Viswanathan"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2803"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "5000017"]
+[BlackFideId "2900084"]
+[EventDate "2015.12.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. Bg5
+Be6 9. Bxf6 Qxf6 10. Nd5 Qd8 11. Qd3 g6 12. O-O-O Nd7 13. Kb1 Rc8 14. Nec3 Rc5
+15. Be2 b5 16. a3 Nb6 17. g4 hxg4 18. Nxb6 Qxb6 19. hxg4 Rxh1 20. Rxh1 Bg7 21.
+Qe3 Qb7 22. Rd1 Qc7 23. g5 Qc6 24. Rg1 Qd7 25. Qg3 Rc8 26. Bg4 Bxg4 27. Qxg4
+Qxg4 28. Rxg4 Bf8 29. Nd5 Be7 30. c3 Rc6 31. Kc2 Kd7 32. Kb3 Bd8 33. a4 Rc5 34.
+axb5 Rxb5+ 35. Ka2 a5 36. b4 axb4 37. cxb4 Rb7 38. Kb3 Rb8 39. Rg1 Rb7 40. Rg3
+Rb8 41. Rg1 Rb7 42. Ra1 Bxg5 43. Kc4 Bd8 44. f3 f5 45. Rh1 fxe4 46. fxe4 g5 47.
+b5 Rb8 48. Rh7+ Ke6 49. Kb4 g4 50. Rg7 g3 51. Rxg3 Rb7 52. Rg6+ Kd7 53. Rg7+ Kc8
+54. Rg8 Kd7 55. Kc4 Rb8 56. Rg7+ Ke6 57. Kb4 Ba5+ 58. Kc4 Bd8 59. Rg8 Rc8+ 60.
+Kd3 Rb8 61. Rh8 Kd7 62. Rh7+ Ke6 63. Kc4 Rc8+ 64. Kb4 Rc1 65. b6 Rb1+ 66. Ka5
+Bxb6+ 67. Nxb6 Ra1+ 68. Kb5 Rb1+ 69. Kc6 Rc1+ 70. Kb7 Rb1 71. Kc7 Rc1+ 72. Kd8
+Re1 73. Rh4 Kf6 74. Rg4 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.10"]
+[Round "6.1"]
+[White "Grischuk, Alexander"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2796"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "4126025"]
+[BlackFideId "5000017"]
+[EventDate "2015.12.04"]
+
+1. c4 e5 2. d3 Nc6 3. Nf3 f5 4. g3 Nf6 5. Bg2 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 O-O 8.
+Nc3 d6 9. O-O Bd7 10. Nd5 Nxd5 11. cxd5 Ne7 12. Qb4 Nxd5 13. Qxb7 c6 14. Nd2 Nb6
+15. Qa6 d5 16. Rac1 f4 17. Nf3 Qf6 18. Qa5 Kh8 19. b3 Bg4 20. Qc3 e4 21. Qxf6
+Rxf6 22. Nd4 f3 23. exf3 exf3 24. Bh1 Rc8 25. Rfe1 h6 26. b4 Na4 27. Re3 Rcf8
+28. h3 Bxh3 29. Rxf3 Bd7 30. Bg2 g5 31. Rxf6 Rxf6 32. Nf3 Kg7 33. Ne5 Be8 34.
+Bh3 h5 35. d4 Nb6 36. Rc3 Nc4 37. Nxc4 dxc4 38. Rxc4 Rd6 39. a3 Bf7 40. Rc5 Rxd4
+41. Rxg5+ Kf6 42. Rf5+ Kg6 43. Rc5 Rd1+ 44. Kh2 Bd5 45. Bg2 Rd2 46. Bxd5 cxd5
+47. Kg2 Kf5 48. Ra5 Ke4 49. Rxa7 d4 50. b5 Rb2 51. a4 Kd3 52. Rb7 Ra2 53. b6
+Rxa4 54. Rb8 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.10"]
+[Round "6.2"]
+[White "Nakamura, Hikaru"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2788"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2015.12.04"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 a5 11. Nc3 Ra6 12. e3 Rb6 13. Qe2 Nbd7 14. Rfd1 Bxf3 15.
+Bxf3 c6 16. Qc2 Ne8 17. Bxe7 Qxe7 18. Na2 Nef6 19. Qc3 Ra8 20. Rd2 e5 21. dxe5
+Qxe5 22. Rad1 Qxc3 23. Nxc3 Nf8 24. Be4 Nxe4 25. Nxe4 Rb4 26. Nc5 g6 27. Rc2 b6
+28. Nd3 Rd8 29. Rxc6 Ne6 30. Kg2 Nc5 31. Nxb4 Rxd1 32. Rc8+ Kg7 33. Nc6 Nxa4 34.
+b3 Nb2 35. Ne5 Nd3 36. Nxd3 Rxd3 37. b4 axb4 38. Rc6 b5 39. Rc5 Kf6 40. Rxb5 Rb3
+41. g4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.10"]
+[Round "6.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2787"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2020009"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 b6 11. Rd1 Bb7 12. Bf4 Rc8 13. e6 Bd6 14. Bxd6 Nxd6
+15. exf7+ Kxf7 16. Ne5+ Kf6 17. Ng4+ Kf7 18. a4 a5 19. Ne5+ Kf6 20. Ng4+ Kf7 21.
+Ne5+ Kf6 22. f4 Rce8 23. Rd3 g6 24. Re1 Kg7 25. Ne4 Re6 26. Red1 Rd8 27. Ng5 Re7
+28. Ne4 Re6 29. Ng5 Re7 30. Ne4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.10"]
+[Round "6.4"]
+[White "Giri, Anish"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2834"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "1503014"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+d6 9. c3 Bg4 10. Be3 exd4 11. cxd4 Na5 12. Bc2 Nc4 13. Bc1 c5 14. b3 Nb6 15.
+Nbd2 Rc8 16. Bb2 Nfd7 17. Qb1 g6 18. h3 Bxf3 19. Nxf3 cxd4 20. Nxd4 Bf6 21. Qd1
+Ne5 22. Rc1 Bg5 23. Rb1 Nbd7 24. Rf1 Bf6 25. Rc1 Qb6 26. Bb1 Rxc1 27. Bxc1 Nd3
+28. Qxd3 Bxd4 29. Bh6 Rc8 30. Qe2 Nf8 31. g3 Ne6 32. Kg2 Bg7 33. Be3 Bd4 34. Bd2
+Qd8 35. Rc1 Rxc1 36. Bxc1 Qf6 37. a4 bxa4 38. bxa4 Nc5 39. a5 Bc3 40. Ba3 Bxa5
+41. Bxc5 dxc5 42. Bd3 Bc3 43. Bxa6 Bd4 44. Bc4 Kg7 45. h4 Qb6 46. h5 Qf6 47. Ba2
+gxh5 48. f4 Qg6 49. Kh3 f5 50. exf5 Qxf5+ 51. Kg2 Kh6 52. Qe6+ Qxe6 53. Bxe6 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.10"]
+[Round "6.5"]
+[White "Topalov, Veselin"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2737"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2900084"]
+[BlackFideId "400041"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. h3 b6
+9. b4 a5 10. a3 h6 11. Bd3 Ba6 12. Bxa6 Rxa6 13. O-O Qc8 14. Rb1 axb4 15. axb4
+Qb7 16. Ne1 Rfa8 17. Nc2 R6a7 18. f3 Qc8 19. Qd3 bxc5 20. bxc5 e5 21. dxe5 Nxc5
+22. Qd2 Nfd7 23. Nd4 Ne6 24. Rfc1 Nxf4 25. exf4 Bc5 26. Kh2 Bxd4 27. Qxd4 Nf8
+28. Qd2 Ng6 29. Rb2 Qd7 30. Ne2 Ra4 31. Rbc2 R8a6 32. Nd4 Ne7 33. Nb3 Qf5 34.
+Nc5 Ra8 35. Nxa4 Rxa4 36. g3 g5 37. fxg5 hxg5 38. Re1 Ng6 39. e6 fxe6 40. Rxc6
+Ne5 41. Rc8+ Kf7 42. Rf1 Nxf3+ 43. Rxf3 Qxf3 44. Qc2 Kg7 45. Qxa4 Qf2+ 46. Kh1
+Qf1+ 47. Kh2 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.11"]
+[Round "7.4"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2834"]
+[BlackElo "2793"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2015.12.04"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bh5 6. cxd5 cxd5 7. Nc3 e6 8. g4
+Bg6 9. Ne5 Nfd7 10. Nxg6 hxg6 11. Bg2 Nc6 12. e4 dxe4 13. Nxe4 Bb4+ 14. Nc3 Nb6
+15. O-O O-O 16. d5 exd5 17. Nxd5 Bc5 18. Nc3 Bd4 19. Qf3 Qf6 20. Qxf6 Bxf6 21.
+Bf4 Rad8 22. Rad1 Bxc3 23. bxc3 Na4 24. c4 Nc3 25. Rd2 Rxd2 26. Bxd2 Ne2+ 27.
+Kh2 Rd8 28. Be3 Nc3 29. a3 Rd3 30. Rc1 Nd1 31. Be4 Rd7 32. Bc5 Nb2 33. Rc2 Na4
+34. Be3 Nb6 35. c5 Nd5 36. Rd2 Nf6 37. Rxd7 Nxd7 38. Kg3 Kf8 39. f4 Nf6 40. Bf3
+Ke7 41. f5 gxf5 42. gxf5 Kd7 43. Kf4 Ne8 44. Kg5 Ke7 45. Bf4 a6 46. h4 Kf8 47.
+Bg3 Nf6 48. Bd6+ Ke8 49. Kf4 Nd7 50. Bg2 Kd8 51. Kg5 Ke8 52. h5 Nf6 53. h6 Nh7+
+54. Kh5 Nf6+ 55. Kg5 Nh7+ 56. Kh4 gxh6 57. Kh5 Nf6+ 58. Kxh6 Ng4+ 59. Kg7 Nd4
+60. Be4 Nf2 61. Bb1 Ng4 62. Bf4 f6 63. Be4 Nf2 64. Bb1 Ng4 65. Be4 Nf2 66. Bxb7
+Nd3 67. Kxf6 Nxf4 68. Ke5 Nfe2 69. f6 a5 70. a4 Kf7 71. Bd5+ Kf8 72. Ke4 Nc2 73.
+c6 Nc3+ 74. Ke5 Nxa4 75. Bb3 Nb6 76. Bxc2 a4 77. c7 Kf7 78. Bxa4 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.11"]
+[Round "7.1"]
+[White "Caruana, Fabiano"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2784"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "2020009"]
+[BlackFideId "24116068"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. Bxf6 gxf6 5. dxc5 Nc6 6. c3 e6 7. b4 a5 8. Qb3
+f5 9. Nf3 Bg7 10. b5 Nb8 11. Nbd2 O-O 12. Rc1 Nd7 13. c6 bxc6 14. bxc6 Nb8 15.
+Bb5 Qb6 16. Ba4 Qc5 17. O-O Nxc6 18. c4 Ne7 19. cxd5 Qxd5 20. Qa3 Qb7 21. Rc4
+Rd8 22. Rb1 Qa7 23. Qc1 Ba6 24. Rc7 Rdc8 25. Rxa7 Rxc1+ 26. Rxc1 Rxa7 27. Rc5
+Bb7 28. Nb3 Bd5 29. Nfd2 Be5 30. Rxa5 Rxa5 31. Nxa5 Bxa2 32. Bb3 Bc3 33. Bxa2
+Bxa5 34. Nf3 Bc7 35. Nd2 Ba5 36. Nf3 Bc7 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.11"]
+[Round "7.2"]
+[White "Adams, Michael"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2747"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "400041"]
+[BlackFideId "4126025"]
+[EventDate "2015.12.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 g6 7. Bg2 Bg7 8. O-O
+O-O 9. h3 Nc6 10. Be3 Bd7 11. Nd5 Rc8 12. c3 Ne5 13. a4 Nxd5 14. exd5 Nc4 15.
+Bc1 Qa5 16. Re1 Rfe8 17. Ra2 b5 18. Nc6 Bxc6 19. dxc6 e6 20. Qe2 Ne5 21. b4 Qc7
+22. axb5 axb5 23. Qxb5 Nxc6 24. Be3 d5 25. Bf4 Be5 26. Bd2 Bg7 27. Bf4 Be5 28.
+Bd2 Bg7 29. Bf4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.11"]
+[Round "7.3"]
+[White "Anand, Viswanathan"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2773"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "623539"]
+[EventDate "2015.12.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Nbd7 10. Qd3 O-O 11. c4 b5 12. Nd2 Nc5 13. Bxc5 dxc5 14. b3 Bxd5 15.
+cxd5 Ne8 16. O-O Nd6 17. a4 Bg5 18. Nf3 Bf4 19. axb5 f5 20. Nd2 Qg5 21. Rad1
+axb5 22. exf5 Ra3 23. Ne4 c4 24. Qc2 Qxf5 25. Qb2 Rxb3 26. Qxb3 cxb3 27. Nxd6
+Qg6 28. Nxb5 e4 29. d6 b2 30. Nd4 Qxd6 31. Bc4+ Kh8 32. Ne6 Bxh2+ 33. Kh1 Rxf2
+34. Ng5 Bg3 0-1
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.11"]
+[Round "7.5"]
+[White "Aronian, Levon"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2788"]
+[BlackElo "2803"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "13300474"]
+[BlackFideId "2900084"]
+[EventDate "2015.12.04"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Nd3+ 7. Ke2 Nf4+ 8.
+Kf1 Ne6 9. b4 cxb4 10. Nd5 g6 11. d4 Bg7 12. Be3 Nc6 13. Rc1 Bd7 14. Qd2 Qa5 15.
+h4 Rc8 16. Bb3 Qb5+ 17. Kg1 h6 18. Kh2 g5 19. Rhd1 Kf8 20. Kg1 Rd8 21. hxg5 hxg5
+22. Bxg5 Nxg5 23. Qxg5 Bh6 24. Qh4 Bg7 25. Qf4 Bh6 26. Ng5 Bxg5 27. Qxg5 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.12"]
+[Round "8.1"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2793"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2015.12.04"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1
+Qc7 9. Qe2 b5 10. a4 b4 11. exd5 exd5 12. Nb3 Re8 13. Bf4 Qb6 14. a5 Qb5 15. Qd2
+Be6 16. a6 Bf8 17. Ne5 Nxe5 18. Bxe5 Nd7 19. Bf4 Qb6 20. c3 Rac8 21. Qc2 d4 22.
+Nd2 h6 23. h4 dxc3 24. bxc3 bxc3 25. Qxc3 Nf6 26. Nc4 Qd8 27. Bb7 Nd5 28. Qd2
+Nxf4 29. Qxf4 Qxd3 30. Ne5 Qd6 31. Rad1 Qc7 32. Nc6 Qxc6 33. Bxc6 Rxc6 34. Qa4
+Rec8 35. Rd8 c4 36. Rxc8 Rxc8 37. Rxe6 fxe6 38. Qd7 Rc5 39. Qxe6+ Kh7 40. Qf7
+Bd6 41. h5 Rg5 42. Kg2 c3 43. f4 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.12"]
+[Round "8.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2737"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "623539"]
+[BlackFideId "400041"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+Bg5 h6 16. Bd2 Bg7 17. a4 c5 18. d5 c4 19. b4 cxb3 20. Bxb3 Nc5 21. c4 Qd7 22.
+cxb5 axb5 23. a5 Reb8 24. Bc2 Bc8 25. Rb1 Qd8 26. Qc1 Kh7 27. Qa3 Ne8 28. Ne2
+Nc7 29. Nc3 Bd7 30. Na2 N7a6 31. Nb4 Be8 32. Ra1 Nxb4 33. Qxb4 Na6 34. Qb3 Nc5
+35. Qb4 Na6 36. Qb3 Nc5 37. Qb4 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.12"]
+[Round "8.3"]
+[White "Grischuk, Alexander"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2788"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "4126025"]
+[BlackFideId "13300474"]
+[EventDate "2015.12.04"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 b6 7. Bb2 Bb7 8. cxd5
+Nxd5 9. d4 Nd7 10. Re1 N5f6 11. Nc3 c5 12. e4 cxd4 13. Nxd4 Bc5 14. Re2 Qb8 15.
+Rd2 a6 16. Qe2 Ra7 17. Re1 Ne5 18. Kh1 Qa8 19. f4 Ng6 20. Nc2 Rd8 21. Red1 Rxd2
+22. Rxd2 h5 23. Qd1 Ng4 24. Qe1 Bc6 25. h3 Nf6 26. b4 Bf8 27. Qe3 Rd7 28. Rxd7
+Nxd7 29. a3 h4 30. Nd4 Bb7 31. f5 exf5 32. Nxf5 Nde5 33. Nd5 Nc4 34. Qd4 Nxb2
+35. Qxb2 hxg3 36. Nh6+ gxh6 37. Nf6+ Kh8 38. Nh5+ Kg8 39. Nf6+ Kh8 40. Nh5+ Kg8 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.12"]
+[Round "8.4"]
+[White "Topalov, Veselin"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2834"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "2900084"]
+[BlackFideId "1503014"]
+[EventDate "2015.12.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. a4 Bb7 14. Rfe1
+Nf6 15. Bd3 h6 16. a5 a6 17. axb6 Qxb6 18. Rab1 Qc7 19. Rbc1 Qe7 20. Qa5 Rfc8
+21. Rxc8+ Rxc8 22. Nd2 Qd7 23. Qb6 Rc3 24. Bxa6 Bxa6 25. Qxa6 Qxd4 26. Nf3 Qc5
+27. e5 Nd5 28. Qa8+ Kh7 29. Qb7 Rc1 30. Qb2 Rc2 31. Qd4 g5 32. g3 Kg7 33. Qxc5
+Rxc5 34. Re4 Kg6 35. h3 Ne7 36. h4 Kf5 37. Ra4 Nc6 38. hxg5 hxg5 39. g4+ Kg6 40.
+Re4 Ne7 41. Kg2 Nd5 42. Kg3 Rc3 43. Re1 Ra3 44. Re4 Ra8 45. Rc4 Rh8 46. Re4 Nc3
+47. Re3 Rc8 48. Re1 Rc4 49. Re3 Ne4+ 50. Kg2 Ra4 51. Re1 Nc5 52. Kg3 Rf4 53. Nd2
+Nd3 54. Re2 Ra4 55. Nf3 Ra8 56. Re3 Rd8 57. Re4 Rh8 58. Rc4 Ra8 59. Rc3 Nf4 60.
+Rc4 Ne2+ 61. Kg2 Rh8 62. Re4 Nf4+ 63. Kg1 Ra8 64. Nh4+ Kh6 65. Ng2 Nd3 66. Ne1
+Ra1 67. Kf1 Kg6 68. Re3 Nf4 69. Re4 Kg7 70. Kg1 Nd3 71. Kf1 Kf8 72. Re3 Nf4 73.
+Kg1 Ra4 74. Kh2 Nd5 75. Rg3 Kg7 76. Nd3 Rd4 77. Kg1 Nb6 78. Kf1 Re4 79. Kg2 Nc4
+80. Kh3 Rd4 81. Kg2 Kf8 82. Kf1 Ke7 83. Ke2 Re4+ 84. Kd1 Nxe5 85. Nxe5 Rxe5 86.
+Kd2 Kf6 87. Ra3 Kg6 88. Ra6 f5 89. gxf5+ Kxf5 90. Ra3 Kf4 91. Rb3 g4 92. Ra3 Re4
+93. Rb3 e5 94. Ra3 Rb4 95. Ke2 Rb1 96. Ra4+ e4 97. Ra3 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.12"]
+[Round "8.5"]
+[White "Caruana, Fabiano"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2796"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2015.12.04"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Ng5 Bxg2 12. Kxg2 Nbd7 13. e4 e5 14. dxe5 Nxe5 15.
+f4 Nc4 16. Bc1 h6 17. Nf3 Ng4 18. Re1 Bc5 19. Nc3 Qd6 20. Nd1 Rad8 21. h3 Qxd1
+22. Qxd1 Rxd1 23. Rxd1 Nge3+ 24. Bxe3 Nxe3+ 25. Kh2 Nxd1 26. Rxd1 Re8 27. e5 f6
+28. Rd5 Bf8 29. Kg2 c5 30. Kf2 fxe5 31. Nxe5 c4 32. Ke3 Bb4 33. Ke4 Be1 34. g4
+c3 35. bxc3 Bxc3 36. h4 b4 37. h5 a5 38. Rxa5 b3 39. Ra7 b2 40. Rb7 Ra8 41. Kd3
+Bxe5 42. fxe5 Rxa2 43. Ke4 Ra1 44. Rxb2 Kf7 45. Rb7+ Ke6 46. Rb6+ Kf7 47. Rb7+
+Ke6 48. Rxg7 Ra4+ 49. Kf3 Kxe5 50. Re7+ Kf6 51. Rh7 Kg5 52. Rg7+ Kh4 53. Rg6 Rb4
+54. Rxh6 Rb3+ 55. Kf4 Rb4+ 56. Ke5 Kxg4 57. Rh8 Rb5+ 58. Ke4 Rxh5 59. Rxh5 Kxh5 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.13"]
+[Round "9.1"]
+[White "Adams, Michael"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2787"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "Moeller defence"]
+[WhiteFideId "400041"]
+[BlackFideId "2020009"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bb3 d6 8. a4 Bg4
+9. d3 O-O 10. Nbd2 Na5 11. Ba2 b4 12. h3 Bh5 13. Nc4 Nxc4 14. Bxc4 bxc3 15. bxc3
+c6 16. g4 Bg6 17. Bg5 d5 18. Ba2 dxe4 19. Nxe5 exd3 20. Nxg6 hxg6 21. Qf3 Qc7
+22. Rad1 Qe5 23. Bxf6 Qxf6 24. Rxd3 Rfd8 25. Qxf6 gxf6 26. Rfd1 Be7 27. Rxd8+
+Rxd8 28. Rxd8+ Bxd8 29. Kf1 a5 30. Ke2 g5 31. Bb1 Bc7 32. Be4 Be5 33. Kd3 c5 34.
+Kc4 Kg7 35. f3 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.13"]
+[Round "9.2"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2788"]
+[BlackElo "2773"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "13300474"]
+[BlackFideId "623539"]
+[EventDate "2015.12.04"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. d4 e4 6. d5 exf3 7. dxc6 dxc6 8.
+Qxd8+ Kxd8 9. gxf3 Kc7 10. b3 Be7 11. Bb2 Rd8 12. h4 g6 13. Bh3 Bxh3 14. Rxh3
+Kd7 15. Rd1+ Ke6 16. Rxd8 Bxd8 17. Ke2 Rb8 18. Nb1 b5 19. Nd2 Ba5 20. Bxf6 Bxd2
+21. Kxd2 Kxf6 22. Kc3 bxc4 23. Rh1 cxb3 24. axb3 h5 25. Ra1 g5 26. hxg5+ Kxg5
+27. Rxa7 Kg6 28. Ra1 h4 29. Kc4 Rb4+ 30. Kxc5 Rxb3 31. Kxc6 Rb2 32. Rh1 Rxf2 33.
+Rxh4 Rxf3 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.13"]
+[Round "9.3"]
+[White "Anand, Viswanathan"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2784"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "24116068"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. g3 Bxg5
+15. Bxg5 Rg6 16. h4 f6 17. exf6 gxf6 18. Bf4 Nxh4 19. f3 Rd8 20. Kf2 Rxd1 21.
+Nxd1 Nf5 22. Rh1 Bxa2 23. Rxh5 Be6 24. g4 Nd6 25. Rh7 Nf7 26. Ne3 b6 27. Ng2 Rg8
+28. Bxc7 Rh8 29. Rxh8+ Nxh8 30. Ne3 Nf7 31. Bg3 Nh6 32. Bf4 Nf7 33. Bg3 Nh6 1/2-1/2
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.13"]
+[Round "9.4"]
+[White "Carlsen, Magnus"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2834"]
+[BlackElo "2747"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "1503014"]
+[BlackFideId "4126025"]
+[EventDate "2015.12.04"]
+
+1. Nf3 c5 2. e4 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. Re1 b5 7. c4 g5 8. Nxg5
+Ne5 9. Be2 bxc4 10. Nc3 Rb8 11. Rf1 h6 12. Nf3 Nd3 13. Ne1 Nxb2 14. Bxb2 Rxb2
+15. Bxc4 Rb4 16. Qe2 Bg7 17. Nc2 Rb6 18. Rab1 O-O 19. Rxb6 Qxb6 20. Ne3 e6 21.
+f4 Kh8 22. f5 a5 23. a4 Qd8 24. h3 Qe7 25. Ba6 Bxa6 26. Qxa6 Nh5 27. Rf3 Rg8 28.
+Nb5 Be5 29. Ng4 Qh4 30. fxe6 fxe6 31. Nxe5 dxe5 32. Qxe6 Qe1+ 33. Kh2 Rxg2+ 34.
+Kxg2 Qxd2+ 35. Kg1 Qe1+ 36. Rf1 Qe3+ 37. Rf2 Qe1+ 38. Kg2 1-0
+
+[Event "7th London Classic 2015"]
+[Site "London ENG"]
+[Date "2015.12.13"]
+[Round "9.5"]
+[White "Nakamura, Hikaru"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2803"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "2900084"]
+[EventDate "2015.12.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Rd1+ Ke8 10. b3 Ne7 11. Nbd2 h6 12. Nd4 Ng6 13. Bb2 Be7 14. Nc4
+Nf4 15. Ne3 g6 16. g3 Ne6 17. Ne2 h5 18. a4 a5 19. Ba3 Bxa3 20. Rxa3 Ke7 21.
+Raa1 Nc5 22. Kg2 Re8 23. Nd4 Kf8 24. f4 Bd7 25. h3 Rad8 26. Nf3 Be6 27. g4 hxg4
+28. hxg4 Bd5 29. Rh1 Ke7 30. Nxd5+ cxd5 31. Rh7 Ne6 32. Kg3 Rg8 33. Rf1 Nf8 34.
+Rh2 Ne6 35. Rh7 Nf8 36. Rh2 Ne6 37. Rh7 1/2-1/2
+

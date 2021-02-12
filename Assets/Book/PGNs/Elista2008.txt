@@ -1,0 +1,1928 @@
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.14"]
+[Round "1"]
+[White "Bacrot,E"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2672"]
+[EventDate "2008.12.14"]
+[ECO "B70"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 g6 4. d4 cxd4 5. Nxd4 Nf6 6. g3 Nc6 7. Nde2 Bg7
+8. Bg2 O-O 9. O-O Bd7 10. Nd5 Ne5 11. Nd4 Nc6 12. Ne2 Ne5 13. Nd4 Nc6 14.
+Ne2 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.14"]
+[Round "1"]
+[White "Jakovenko,D"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2736"]
+[EventDate "2008.12.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Rd1
+Be7 14. Kg2 h5 15. f3 Be6 16. Ne2 Rd8 17. Be3 a6 18. Nf4 g6 19. Rxd8+ Kxd8
+20. Rd1+ Kc8 21. Nxe6 fxe6 22. f4 b5 23. b3 Rh7 24. Bf2 hxg4 25. hxg4 Rh8
+26. Rh1 Rxh1 27. Kxh1 Kd7 28. Kg2 Bb4 29. Kf3 Ke8 30. Ke4 Ke7 31. Bh4+ Ke8
+32. f5 gxf5+ 33. gxf5 exf5+ 34. Kxf5 Bc3 35. Bf2 Ke7 36. e6 Ke8 37. Bg3 Ba5
+38. Be5 Bb6 39. c3 c5 40. c4 Ba5 41. Kf6 c6 42. e7 Be1 43. Ke6 Bh4 44. Kd6
+Bxe7+ 45. Kxc6 bxc4 46. bxc4 Kd8 47. Bd6 Bh4 48. Bxc5 Kc8 49. Kb6 a5 50.
+Kxa5 Kb7 51. Kb5 Bg3 52. a4 Ka8 53. Be3 Bd6 54. Bd2 Kb7 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.14"]
+[Round "1"]
+[White "Leko,P"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2679"]
+[EventDate "2008.12.14"]
+[ECO "C99"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3
+a5 15. Be3 a4 16. Nbd2 Bd7 17. Rc1 Rac8 18. Nf1 Qb8 19. Ng3 Rfe8 20. Bb1
+Na5 21. b3 axb3 22. axb3 h6 23. Qd3 b4 24. Bd2 Bb5 25. Qe3 Bd7 26. Qd3 Bb5
+27. Qe3 Bd7 28. Qd3 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.14"]
+[Round "1"]
+[White "Inarkiev,E"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2715"]
+[EventDate "2008.12.14"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. a4 c5 16. d5 c4 17. Bg5 h6 18. Be3 Nc5 19. Qd2 h5 20. Bg5 Be7 21.
+Ra3 Nfd7 22. Rea1 Bxg5 23. Nxg5 Qf6 24. Rf1 Qf4 25. Qxf4 exf4 26. Ne2 Nxa4
+27. Bxa4 bxa4 28. Rxa4 Bxd5 29. exd5 Rxe2 30. Rxc4 Rxb2 31. Rxf4 Rf8 32.
+Ra1 Rb6 33. g4 h4 34. Kg2 Kg7 35. Ra3 Nc5 36. c4 Rb7 37. Ne4 Nxe4 38. Rxe4
+Ra8 39. Ra5 g5 40. c5 dxc5 41. Rxc5 Rd8 42. d6 Rb5 43. Ree5 Rxc5 44. Rxc5
+Rxd6 45. Rxg5+ Rg6 46. Rh5 Rh6 47. Rg5+ Rg6 48. Rh5 Rh6 49. Rg5+ Rg6
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.14"]
+[Round "1"]
+[White "Mamedyarov,S"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2719"]
+[EventDate "2008.12.14"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Bg5 h6
+14. Bh4 g5 15. Bg3 Nc6 16. d5 Rad8 17. Rxb7 f5 18. exf5 Rxd5 19. Qe1 Bxf5
+20. Bd1 Rd3 21. Rc7 Rc8 22. Rxc8+ Bxc8 23. Qe4 Rc3 24. Re1 Rc5 25. Qd3 Rc3
+26. Qe4 Rc5 27. Qd3 Rc3 28. Qe4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.14"]
+[Round "1"]
+[White "Gashimov,V"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2720"]
+[EventDate "2008.12.14"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. O-O Be7 6. e5 Ne4 7. Nxd4 O-O
+8. Nf5 d5 9. Nxe7+ Nxe7 10. f3 Nc5 11. Re1 c6 12. Bf1 Ng6 13. Be3 Ne6 14.
+Bf2 Re8 15. Nc3 Qg5 16. Qc1 Qxc1 17. Raxc1 Nef8 18. Bg3 h5 19. h4 Ne7 20.
+Bf2 Nfg6 21. g3 Nf5 22. f4 Nh6 23. Ne2 Ne7 24. b4 Ng4 25. Nd4 a5 26. a3 Nf5
+27. Bd3 Nxd4 28. Bxd4 Nh6 29. b5 Bf5 30. Bf1 Rec8 31. bxc6 bxc6 32. Bc5
+Rcb8 33. Re3 Rb2 34. Rc3 Be4 35. Bf2 Ra2 36. Be2 Ng4 37. Bb6 Rb2 38. Rxc6
+Rb8 39. Bxg4 hxg4 40. Bxa5 d4 41. Rc4 Bf5 42. Bb4 Rd8 43. Bd6 Ra2 44. Rd1
+Bxc2 45. Rdxd4 Bf5 46. Bb4 Ra8 47. Rc5 Be6 48. Rc1 Kh7 49. Rcd1 Rb2 50.
+R4d2 Rb3 51. Rd3 Rb2 52. R1d2 Rb1+ 53. Kf2 Rc8 54. Rc3 Rxc3 55. Bxc3 Rb3
+56. Bb4 Bf5 57. Rd4 Rf3+ 58. Kg2 Re3 59. Kf2 Rf3+ 60. Kg2 Re3 61. Rc4 Be6
+62. Rc3 Re2+ 63. Kf1 Rb2 64. Ke1 Kg6 65. Bf8 Rb8 66. Bb4 Kf5 67. Kd2 Ke4
+68. Re3+ Kd5 69. Rd3+ Ke4 70. Re3+ Kd5 71. Re1 Kd4 72. Bc3+ Kd5 73. Re3 g6
+74. Rd3+ Ke4 75. a4 Rb3 76. Re3+ Kd5 77. Rd3+ Ke4 78. Re3+ Kd5 79. Re1 Bf5
+80. a5 Kc4 81. Rc1 Kb5 82. Ra1 Ka6 83. Ra4 Rb5 84. Rd4 Rb8 85. Ke3 Rc8 86.
+Rd6+ Kb5 87. Rb6+ Kc4 88. Bd4 Rd8 89. a6 Ra8 90. Rd6 Rb8 91. Rc6+ Kd5 92.
+a7 Ra8 93. Rb6 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.14"]
+[Round "1"]
+[White "Radjabov,T"]
+[Black "Cheparinov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2696"]
+[EventDate "2008.12.14"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. Be3 Nc6 8.
+dxc5 a6 9. Nd4 Nge7 10. f4 Nxd4 11. Qxd4 Bxc2 12. Qd2 Be4 13. Nxe4 dxe4 14.
+Bg2 Nd5 15. Bxe4 Nxe3 16. Qxe3 Qa5+ 17. Qc3 Qxc3+ 18. bxc3 Bxc5 19. Bxb7
+Ra7 20. Rb1 Ke7 21. Ke2 h5 22. g5 Rb8 23. Bf3 Rd8 24. Rb7+ Rxb7 25. Bxb7
+Rb8 26. Rb1 h4 27. h3 a5 28. a4 Kd8 29. Rb5 Ba7 30. Kf3 g6 31. Kg4 Bf2 32.
+c4 Kc7 33. Be4 Rxb5 34. cxb5 Kd8 35. Kf3 Bb6 36. Bc6 Ke7 37. Kg4 Bf2 38. b6
+Bxb6 39. Kxh4 Be3 40. Kg4 Bc1 41. Bb5 Bd2 42. Be2 Kf8 43. h4 Ke7 44. Kf3
+Be1 45. Ke4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.15"]
+[Round "2"]
+[White "Grischuk,A"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2747"]
+[EventDate "2008.12.14"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8.
+Rc1 d5 9. cxd5 exd5 10. Bg2 Bb7 11. O-O Nbd7 12. Qc2 Re8 13. Rfd1 c6 14.
+Ne1 Nf8 15. Bg5 Ne6 16. Bxf6 Bxf6 17. e3 a5 18. Nd3 Be7 19. Rb1 Ba3 20. b4
+axb4 21. Nxb4 Qe7 22. Qb3 Ra7 23. Nc2 b5 24. Bxd5 cxd5 25. Nxb5 Ra6 26.
+Nbxa3 Bc8 27. Nb4 Ng5 28. Nxa6 Qe4 29. Qb5 Rf8 30. Nc5 Qf3 31. Kf1 Nh3 32.
+Rd2 Qh1+ 33. Ke2 Qxh2 34. Kd3 Nxf2+ 35. Kc3 Qxg3 36. Qe2 Ng4 37. Rf1 Qc7
+38. Kb2 Qa5 39. Nb3 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.15"]
+[Round "2"]
+[White "Wang Yue"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2669"]
+[EventDate "2008.12.14"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8.
+h3 Be7 9. g4 Bg6 10. Nxg6 hxg6 11. Bg2 g5 12. O-O Nbd7 13. Qxb6 axb6 14.
+cxd5 Nxd5 15. Ne2 O-O 16. a3 b5 17. Rb1 N5b6 18. Rd1 Nc4 19. Bf1 Ndb6 20.
+Kg2 Rfd8 21. Ng1 e5 22. Nf3 exd4 23. Rxd4 Rxd4 24. Nxd4 g6 25. Nf3 Kg7 26.
+Be2 Nd5 27. e4 Nf4+ 28. Bxf4 gxf4 29. Bxc4 bxc4 30. Ne5 Ra4 31. Rc1 c3 32.
+Rxc3 Rxe4 33. Nd3 g5 34. Rb3 b5 35. Rc3 Rd4 36. b4 Bf6 37. Kf3 Rd8 38. Rb3
+Rh8 39. Kg2 Bd4 40. Ne1 Re8 41. Nf3 Bf6 42. Rb1 Ra8 43. Rc1 Ra6 44. Rc2 Kh7
+45. Rd2 Kg7 46. Rd6 Be7 47. Rd7 Bf6 48. h4 gxh4 49. g5 Bb2 50. Nxh4 Kg8 51.
+Nf5 Rxa3 52. Ne7+ Kg7 53. Nxc6 Kg6 54. Rd5 Kh5 55. Nd8 Rb3 56. Rxb5 Kh4 57.
+Nxf7 f3+ 58. Kh2 Bd4 59. Rf5 Bxf2 60. Rf4+ Kh5 61. g6 Kxg6 62. Rxf3 Rxf3
+63. Ne5+ Kf5 64. Nxf3 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.15"]
+[Round "2"]
+[White "Akopian,Vl"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2737"]
+[EventDate "2008.12.14"]
+[ECO "D37"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Qc2 c5 6. cxd5 cxd4 7. Nxd4 O-O
+8. Bg5 h6 9. Bh4 Nxd5 10. Bxe7 Qxe7 11. Nxd5 exd5 12. e3 Nc6 13. Rd1 Bg4
+14. Nxc6 bxc6 15. Be2 Bxe2 16. Qxe2 f5 17. O-O f4 18. Qf3 fxe3 19. Qxe3
+Qxe3 20. fxe3 Rab8 21. b3 Rb6 22. Rxf8+ Kxf8 23. e4 Ra6 24. exd5 cxd5 25.
+Rxd5 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.15"]
+[Round "2"]
+[White "Bacrot,E"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2705"]
+[BlackElo "2751"]
+[EventDate "2008.12.14"]
+[ECO "A10"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nc6 4. Nc3 d6 5. Rb1 e5 6. b4 a6 7. a4 Nf6 8. b5
+axb5 9. axb5 Ne7 10. Nf3 O-O 11. O-O Be6 12. d3 h6 13. Qb3 c6 14. Ba3 Re8
+15. Ra1 Rc8 16. bxc6 bxc6 17. Rfb1 g5 18. Nd2 d5 19. Bc5 Nf5 20. Bb6 Qd6
+21. Qa3 dxc4 22. Nxc4 Bxc4 23. dxc4 Qe6 24. Rd1 e4 25. e3 Qxc4 26. Rac1 Qe6
+27. Bc5 Ra8 28. Qb4 Reb8 29. Ra1 Nd5 30. Nxd5 Bxa1 31. Nb6 Bg7 32. Qxe4 Ra1
+33. Rxa1 Bxa1 34. Qxe6 fxe6 35. Bxc6 Kf7 36. Bf3 Bf6 37. Kg2 Be7 38. Bxe7
+Nxe7 39. Nc4 Kf6 40. Nd6 Rd8 41. Ne4+ Ke5 42. Nc5 Nf5 43. Kf1 Rd2 44. Bg4
+Ng7 45. Nb3 Rb2 46. Nd4 Kf6 47. h3 e5 48. Ne2 Rc2 49. Bf3 h5 50. Ke1 Rc4
+51. Bd5 Rc5 52. Bf3 Rc4 53. Bd5 Rc2 54. Kd1 Rc8 55. Kd2 Nf5 56. Nc3 Nd6 57.
+Bf3 Rh8 58. Kd3 h4 59. gxh4 gxh4 60. Nd5+ Kg6 61. Bg2 Re8 62. Be4+ Kg7 63.
+Nc3 Rf8 64. f3 Rd8 65. f4 Nb5+ 66. Nd5 Nc7 67. Kc4 Nxd5 68. Bxd5 exf4 69.
+exf4 Kf6 70. Kc5 Kf5 71. Kc6 Kxf4 72. Be6 Rd2 73. Kc5 Ke5 0-1
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.15"]
+[Round "2"]
+[White "Alekseev,Evgeny"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2703"]
+[EventDate "2008.12.14"]
+[ECO "B52"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. Qe2 e6
+8. d4 cxd4 9. cxd4 d5 10. e5 Ne4 11. Be3 Be7 12. Ne1 f6 13. f3 Ng5 14. Nd3
+O-O 15. Nd2 Rac8 16. Rac1 b6 17. Bf2 Nf7 18. a3 f5 19. h4 Rc7 20. Rc3 Rfc8
+21. Rfc1 Na5 22. Rxc7 Rxc7 23. Rxc7 Qxc7 24. Qd1 Nd8 25. g4 fxg4 26. fxg4
+Qc6 27. Nf3 Qc4 28. h5 Qb3 29. Qxb3 Nxb3 30. Be3 Kf7 31. g5 Na5 32. Kf2
+Nac6 33. Nf4 g6 34. h6 Ke8 35. Ke2 Kd7 36. Kd3 Nf7 37. Nh3 a5 38. Bd2 Kc7
+39. Nf2 b5 40. Ng4 Kb6 41. Bf4 Kb7 42. Bd2 Kb6 43. Bf4 Kb7 44. Ke3 Kb6 45.
+Nf6 Bxf6 46. exf6 Ncd8 47. Ne1 Nb7 48. Nd3 Kc6 49. Kf3 Kd7 50. Kg4 Nbd8 51.
+Nc5+ Kc6 52. b4 axb4 53. axb4 Nh8 54. Be5 Nhf7 55. Kf4 Nh8 56. Na6 Kb7 57.
+Nc7 Kc6 58. Na6 Kb7 59. Nc7 Kc6 60. Na6 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.15"]
+[Round "2"]
+[White "Kasimdzhanov,R"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2720"]
+[EventDate "2008.12.14"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d6 6. a3 Bxc3+ 7. bxc3 Nbd7
+8. Bd3 c5 9. Ne2 Qc7 10. Ng3 b5 11. cxb5 a6 12. bxa6 Bxa6 13. Bxa6 Rxa6 14.
+Qd3 Rb6 15. O-O Rb3 16. Qc4 Qb7 17. a4 Rc8 18. a5 cxd4 19. Qxd4 Qa6 20. Bd2
+Rc4 21. Qe3 Rc6 22. Ra4 Rb8 23. Rfa1 Ne5 24. h3 Ra8 25. f4 Nc4 26. Qe2 d5
+27. e5 Nd7 28. Be3 Qc8 29. Bd4 g6 30. Kh2 Rca6 31. Qg4 Rxa5 32. Rxa5 Rxa5
+33. Rxa5 Nxa5 34. f5 Qe8 35. fxg6 fxg6 36. Nh5 Nc6 37. Nf4 Ndxe5 38. Bxe5
+Nxe5 39. Qxe6+ Qxe6 40. Nxe6 Nc6 41. Kg3 Kf7 42. Ng5+ Kg7 43. Kf2 h6 44.
+Nf3 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.15"]
+[Round "2"]
+[White "Cheparinov,I"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2731"]
+[EventDate "2008.12.14"]
+[ECO "B38"]
+
+1. Nf3 c5 2. c4 g6 3. d4 cxd4 4. Nxd4 Bg7 5. e4 Nc6 6. Be3 Nf6 7. Nc3 O-O
+8. Be2 d6 9. O-O a6 10. Qd2 Bd7 11. f3 Rc8 12. Rac1 h5 13. Rfd1 Kh7 14.
+Nxc6 Bxc6 15. b4 Bd7 16. c5 Be6 17. Nd5 dxc5 18. bxc5 Bxd5 19. exd5 e6 20.
+dxe6 Qxd2 21. Rxd2 fxe6 22. Bc4 e5 23. Rb1 Rc7 24. Bd5 Nxd5 25. Rxd5 Re8
+26. Kf2 Bf8 27. Rbd1 Kg7 28. Rd7+ Rxd7 29. Rxd7+ Re7 30. Rd5 Kf7 31. Ke2 e4
+32. f4 Ke6 33. Rd6+ Kf7 34. Bd4 Bg7 35. Bxg7 Kxg7 36. Ke3 Kf7 37. Rd4 Rc7
+38. Rd5 Rc6 39. Kxe4 b6 40. cxb6 Rxb6 41. Ra5 Re6+ 42. Kf3 Rc6 43. Kg3 Kg7
+44. Kh4 Kh6 45. h3 Rc4 46. g3 Rd4 47. Rxa6 Rc4 48. Rb6 Rd4 49. Rf6 Ra4 50.
+a3 Kh7 51. Rf7+ Kg8 52. Rf6 Kh7 53. Rf7+ Kg8 54. Rb7 Rxa3 55. Rb5 Rf3 56.
+g4 Rxf4 57. Rb8+ Rf8 58. Rxf8+ Kxf8 59. gxh5 gxh5 60. Kxh5 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.16"]
+[Round "3"]
+[White "Eljanov,P"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2715"]
+[EventDate "2008.12.14"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. f3 c5 8.
+dxc5 dxc5 9. Bg5 Nc6 10. e3 e5 11. Bd3 h6 12. Bxf6 Qxf6 13. Be4 Bf5 14. Bd5
+Ne7 15. Ne2 Nxd5 16. cxd5 Qd6 17. e4 Bd7 18. O-O Rfe8 19. a4 Qa6 20. Ng3 c4
+21. Kh1 Rac8 22. a5 Qd6 23. h3 Rc5 24. Rfc1 Rec8 25. Nf1 f5 26. Ne3 f4 27.
+Ng4 Bxg4 28. hxg4 Kf7 29. Qb4 Qc7 30. Ra4 Ke8 31. Qc3 Kd7 32. Rca1 Kd6 33.
+Qa3 Kd7 34. Qc3 Kd6 35. Qa3 Kd7 36. Rb4 Kd8 37. Qa4 Ke7 38. Qa3 Kd8 39. Qa4
+Ke7 40. Kh2 Kd6 41. Qa3 Kd7 42. Qc3 Kd6 43. b3 cxb3 44. Qxb3 Rc3 45. Qb1
+Rb8 46. Rb5 Kd7 47. Qb4 Rc4 48. Qb3 h5 49. g5 h4 50. Rd1 h3 51. d6 Qc6 52.
+Rb4 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.16"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Kasimdzhanov,R"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2672"]
+[EventDate "2008.12.14"]
+[ECO "B78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 h5 13. Kb1 Re8 14. g4
+hxg4 15. h5 Nxh5 16. Bh6 Kh7 17. Bxg7 Kxg7 18. fxg4 Bxg4 19. Nf5+ Bxf5 20.
+exf5 Rh8 21. fxg6 Nxg6 22. Ne4 Nf6 23. Rdf1 Rxh1 24. Rxh1 d5 25. Nxf6 Kxf6
+26. Qf2+ Kg7 27. Rf1 f6 28. Qf5 Rc6 29. Rg1 Qe8 30. Bxd5 Rc5 31. Qe6 Rb5
+32. c4 Rb6 33. Qh3 e6 34. Bf3 Qd8 35. Qg2 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.16"]
+[Round "3"]
+[White "Gashimov,V"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2736"]
+[EventDate "2008.12.14"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Qc7 5. Bxc6 dxc6 6. h3 e5 7. d3 h6 8.
+b3 Be6 9. Bb2 Rd8 10. Nd2 Bd6 11. Qe2 a5 12. a4 Nd7 13. Qe3 Nf8 14. Ne2 f6
+15. Qg3 Bg8 16. O-O Ne6 17. Nc4 g5 18. Qf3 Be7 19. Ng3 Nd4 20. Qd1 Bf7 21.
+Ne3 h5 22. Rb1 h4 23. Ngf5 Nxf5 24. Nxf5 Bf8 25. Ne3 Be6 26. Qf3 Kf7 27.
+Rfd1 Be7 28. Ba1 Kg6 29. c3 Rd7 30. Kf1 Rhd8 31. Ke2 Rh8 32. Nf5 Bxf5 33.
+Qxf5+ Kf7 34. d4 Rdd8 35. dxc5 Bxc5 36. Rxd8 Qxd8 37. Rd1 Qb6 38. Rb1 Rd8
+39. Qh7+ Ke6 40. Qf5+ Ke7 41. Qh7+ Ke6 42. Qf5+ Ke7 43. Qh7+ 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.16"]
+[Round "3"]
+[White "Mamedyarov,S"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2705"]
+[EventDate "2008.12.14"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8.
+e4 Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2
+Qd5+ 14. Kc2 Na6 15. Nxc4 O-O 16. Qe5 Rab8 17. Be2 f6 18. Qxd5 cxd5 19. Nd6
+Nb4+ 20. Kc3 a5 21. Rhc1 Rfd8 22. Nb5 f5 23. Nd4 Kf7 24. Kd2 Kf6 25. Rc7 e5
+26. Nb3 b6 27. Rac1 d4 28. Bc4 h5 29. Rf7+ Kg6 30. Re7 e4 31. Bf7+ Kg5 32.
+Re6 e3+ 33. Ke2 f4 34. Kf3 Kf5 35. Rc4 Rb7 36. Nxd4+ Rxd4 37. Rxd4 Rxf7 38.
+Rxb6 g5 39. Rb5+ Kf6 40. Rxa5 g4+ 41. Ke2 Kg7 42. Rxb4 f3+ 43. gxf3 gxf3+
+44. Kf1 Rc7 45. Ra7 Rxa7 46. Re4 Kf6 47. Rxe3 Rxa4 48. Rxf3+ Kg5 49. Ke2
+Ra2 50. Rb3 Kg4 51. Kd2 Ra1 52. Rg3+ Kh4 53. Rg2 Kh3 54. Re2 Rb1 55. Kc2
+Rh1 56. b4 Rxh2 57. Rxh2+ Kxh2 58. b5 h4 59. b6 h3 60. b7 Kg2 61. b8=Q h2
+62. Qg8+ Kh1 63. Qg3 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.16"]
+[Round "3"]
+[White "Jakovenko,D"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2719"]
+[EventDate "2008.12.14"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nxe5 Nd4 12. Bd2 Re8 13. Nc3 Nxb3 14.
+axb3 Bd6 15. d4 Nb4 16. Ne4 Bxe5 17. dxe5 Rxe5 18. Bxb4 Rxe4 19. Qxd8+ Rxd8
+20. Rxe4 Bxe4 21. Rxa6 Bxc2 22. Rc6 Bxb3 23. Rxc7 h6 24. Rc5 Bc4 25. Bc3
+Rd5 26. Rxd5 Bxd5 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.16"]
+[Round "3"]
+[White "Leko,P"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2747"]
+[BlackElo "2696"]
+[EventDate "2008.12.14"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8.
+c4 Nbc6 9. Qa4 a6 10. Nc3 dxc4 11. O-O-O Qa5 12. Qxa5 Nxa5 13. Nxf5 Nxf5
+14. Bb6 Nc6 15. f4 Rc8 16. Rd2 Be7 17. Bf3 g5 18. g3 gxf4 19. gxf4 Nb4 20.
+Kb1 Rg8 21. Rhd1 Nd3 22. Bxb7 Rb8 23. Bc6+ Kf8 24. Ba7 Rc8 25. Be4 Nxf4 26.
+Na4 c3 27. Nxc3 Ng6 28. Re2 Kg7 29. Rf1 Bc5 30. Bxc5 Rxc5 31. Bxf5 exf5 32.
+Rxf5 Re8 33. Ref2 Re7 34. Kc2 Rcxe5 35. b4 Rxf5 36. Rxf5 Re6 37. a4 Ne7 38.
+Rf2 f5 39. Kb3 Kf6 40. b5 axb5 41. axb5 Re3 42. Rd2 Re6 43. Na4 f4 44. b6
+Nc6 45. Nc5 Re3+ 46. Ka4 f3 47. b7 Kg5 48. Kb5 Nb8 49. Rd8 Re1 50. Rxb8 f2
+51. Rf8 f1=Q+ 52. Rxf1 Rxf1 53. Ka4 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.16"]
+[Round "3"]
+[White "Inarkiev,E"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2679"]
+[EventDate "2008.12.14"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 b4 9. d4 d6 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Nbd2 Bc5 13. h3 h6 14. Nc4
+Re8 15. a5 Bb7 16. Ba4 Re6 17. c3 Rd8 18. Bc2 Re7 19. Nfd2 Ba7 20. Nb3 Ne8
+21. Ne3 Red7 22. Ra4 bxc3 23. bxc3 Nd6 24. Ba3 Ne7 25. Nc5 Bxc5 26. Bxc5
+Bc6 27. Raa1 Bb5 28. Reb1 Kf8 29. f3 Ke8 30. Ba3 Ra8 31. Bb3 Bc6 32. c4 f5
+33. exf5 Nexf5 34. Nxf5 Nxf5 35. Re1 Nd4 36. Rxe5+ Kf7 37. Bd1 Rb8 38. f4
+Nb3 39. Rb1 Rd2 40. Re2 Rbd8 41. Rxb3 Rxd1+ 42. Kh2 R1d3 43. Re7+ Kg8 44.
+Rxd3 Rxd3 45. Rxc7 Bxg2 46. Bb2 Bxh3 47. Rxg7+ Kf8 48. Rg6 Bf1 49. Rxa6
+Rd2+ 50. Kg1 Bxc4 51. Rb6 Kf7 52. Bc3 Rc2 53. Bb4 h5 54. Rh6 h4 55. Rxh4
+Kg6 56. Bd6 Ba6 57. Rg4+ Kf5 58. Rg3 Ke4 59. Be5 Ra2 60. Bc7 Rc2 61. Bb8
+Rc5 62. Ra3 Rc2 63. Be5 Rd2 64. Bc7 Rc2 65. Be5 Rd2 66. Bc7 Rc2 67. Be5
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.17"]
+[Round "4"]
+[White "Radjabov,T"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2731"]
+[EventDate "2008.12.14"]
+[ECO "B08"]
+
+1. Nf3 g6 2. e4 d6 3. d4 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O c6 7. h3 Nbd7 8.
+e5 dxe5 9. dxe5 Nd5 10. Nxd5 cxd5 11. Qxd5 Nxe5 12. Qxd8 Rxd8 13. Nxe5 Bxe5
+14. c3 Be6 15. Be3 b6 16. Rfd1 Kg7 17. Bf3 Rxd1+ 18. Rxd1 Rc8 19. Bd4 Kf6
+20. Bxe5+ Kxe5 21. Re1+ Kf6 22. Rd1 Ke5 23. Re1+ Kf6 24. Rd1 Ke5 25. Re1+
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.17"]
+[Round "4"]
+[White "Kasimdzhanov,R"]
+[Black "Alekseev,Evgeny"]
+[Result "0-1"]
+[WhiteElo "2672"]
+[BlackElo "2715"]
+[EventDate "2008.12.14"]
+[ECO "E58"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nf3 Nf6 6. Bd3 O-O 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 Qc7 10. Bb2 dxc4 11. Bxc4 e5 12. h3 Bf5 13. Ba2 Rad8 14.
+Qe2 Rfe8 15. d5 Rxd5 16. Bxd5 Nxd5 17. Rfd1 Nb6 18. a4 a6 19. c4 a5 20. Bc3
+f6 21. Nd2 Nb4 22. Bxb4 cxb4 23. Rdc1 Rd8 24. c5 Bd3 25. Qe1 Nd5 26. Nb3 h6
+27. Ra2 e4 28. Raa1 Ra8 29. Nd4 Rc8 30. Qd2 Kh7 31. f4 Nc3 32. Nb3 Ne2+ 33.
+Kf2 Nxc1 34. Rxc1 Qd7 0-1
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.17"]
+[Round "4"]
+[White "Bacrot,E"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2705"]
+[BlackElo "2747"]
+[EventDate "2008.12.14"]
+[ECO "B19"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4
+Qc7 15. O-O-O Ngf6 16. Ne4 O-O 17. g4 Nxg4 18. Qe2 f5 19. Rdg1 Rae8 20. Ne1
+e5 21. Ng3 exd4 22. Nxf5 Rxf5 23. Qxg4 Rf7 24. Bxh6 Bf6 25. Bd2 Ne5 26. Qe2
+d3 27. Qe4 Qb6 28. b3 Qc5 29. h6 Qa3+ 30. Kd1 Qxa2 31. Qh7+ 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.17"]
+[Round "4"]
+[White "Wang Yue"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2720"]
+[EventDate "2008.12.14"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. cxd5 exd5 7. Rc1 c6
+8. e3 Qa5 9. Qb3 Ne4 10. Bd3 Nxg5 11. Nxg5 Nf6 12. O-O O-O 13. h3 Re8 14.
+Rfe1 h6 15. Nf3 Qb6 16. Na4 Qa5 17. Nc3 Qb6 18. Qc2 Bd6 19. a3 Qd8 20. Nd2
+Bd7 21. Na4 b6 22. Nc3 Rc8 23. Nf3 Qe7 24. Bf5 Bxf5 25. Qxf5 g6 26. Qd3 Ne4
+27. Qa6 Rc7 28. Nxe4 dxe4 29. Nd2 c5 30. dxc5 Rxc5 31. Rxc5 Bxc5 32. Qa4
+Bd6 33. Rd1 Be5 34. Nc4 Rc8 35. b3 Rc7 36. Qb5 Bf6 37. a4 Rc5 38. Qd7 Rc7
+39. Qxe7 Bxe7 40. g4 Kg7 41. Rd5 Bh4 42. Nd6 Rc2 43. Nxe4 Rb2 44. Rb5 Kf8
+45. Kg2 Kg7 46. Kf3 Kf8 47. a5 bxa5 48. Rxa5 Rxb3 49. Rxa7 Rb2 50. Rd7 Kg7
+51. Rd2 Rxd2 52. Nxd2 Kf6 53. Ke2 Ke6 54. Nf3 Bd8 55. Nd4+ Kd5 56. Kd3 Bb6
+57. f3 Ba5 58. e4+ Kd6 59. f4 Be1 60. Kc4 Bd2 61. e5+ Ke7 62. f5 gxf5 63.
+gxf5 Bg5 64. Kd5 Kf8 65. f6 Bd2 66. Ke4 Bc1 67. Kf5 Bd2 68. Nf3 Bc3 69. Ng1
+Bd4 70. Ne2 Bb2 71. Nf4 Bc1 72. e6 fxe6+ 73. Nxe6+ Kf7 74. Nd8+ Ke8 75. Nc6
+1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.17"]
+[Round "4"]
+[White "Grischuk,A"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2669"]
+[EventDate "2008.12.14"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7
+8. g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O
+14. Qc2 Nc5 15. O-O fxg3 16. hxg3 a5 17. Rfc1 Kb8 18. Rab1 Ne6 19. Qe4 Nc5
+20. Qc2 Ne6 21. Qe4 Nc5 22. Qc2 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.17"]
+[Round "4"]
+[White "Akopian,Vl"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2703"]
+[EventDate "2008.12.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Bf5 14.
+Re1 Rfe8 15. Bf4 Rac8 16. h3 h6 17. Bf1 Bd6 18. Rxe8+ Rxe8 19. c4 Qe4 20.
+Bxd6 cxd6 21. Qd2 Qc2 22. Qf4 Qb2 23. Rd1 Bg6 24. Qxd6 Be4 25. Qf4 Bxf3 26.
+Qxf3 Nxd4 27. Qd5 Nc6 28. Qf3 Re7 29. g3 g6 30. Bg2 Kg7 31. Qd3 Ne5 32. Qe3
+Nc6 33. Qd3 Ne5 34. Qe3 Nc6 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.17"]
+[Round "4"]
+[White "Cheparinov,I"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2737"]
+[EventDate "2008.12.14"]
+[ECO "E06"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Re1 Be4 12. Qc1 Bb7 13. a3 Nbd7 14. b4
+Qc8 15. Nc3 Ne4 16. Nxe4 Bxe4 17. Ng5 Bxg2 18. Qc2 f5 19. Kxg2 Nb6 20. e4
+h6 21. Nf3 Qb7 22. Re2 Nc4 23. Rae1 Rf7 24. Nh4 fxe4 25. Rxe4 Be7 26. Kg1
+Bxh4 27. Rxh4 Raf8 28. Bf4 Qd5 29. Rg4 Rf6 30. Rg6 Nxa3 31. Qd3 Qc4 32.
+Qxc4 bxc4 33. Rxf6 Rxf6 34. Rc1 g5 35. Be3 Rf7 36. Rc3 Nb5 37. Rxc4 Rd7 38.
+g4 Kf7 39. Kg2 Nd6 40. Rc5 Nb5 41. h4 gxh4 42. Rh5 Nxd4 43. Rxh6 Nc2 44.
+Rh7+ Ke8 45. Rh8+ Kf7 46. Bc5 Ne1+ 47. Kf1 Nd3 48. Rh7+ Ke8 49. Rh8+ Kf7
+50. Rh7+ Ke8 51. Rh8+ Kf7 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.18"]
+[Round "5"]
+[White "Jakovenko,D"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2705"]
+[EventDate "2008.12.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. b3 h6 12. Bb2 Nf4 13. Rad1+ Ke8
+14. Nd4 a5 15. Bc1 Ne6 16. Nde2 b6 17. f4 Bc5+ 18. Kh2 Ba6 19. Rf3 Rd8 20.
+Rxd8+ Kxd8 21. Be3 Bxe3 22. Rxe3 c5 23. Nd5 Re8 24. c4 b5 25. cxb5 Bxb5 26.
+Nec3 c6 27. Nxb5 cxb5 28. Rd3 Kc8 29. Kg3 Nd4 30. Kf2 Kb7 31. Nc3 Kc6 32.
+Ne2 Nxe2 33. Rd6+ Kc7 34. Kxe2 f6 35. Rd5 Kc6 36. Rd6+ Kc7 37. Rd5 Kc6 38.
+Rd6+ 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.18"]
+[Round "5"]
+[White "Alekseev,Evgeny"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2736"]
+[EventDate "2008.12.14"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Bg4 6. h3 Bxf3 7. Qxf3
+Nd7 8. O-O g6 9. Qe2 Bg7 10. c3 e5 11. Be3 O-O 12. Nd2 Qe7 13. a4 Rfd8 14.
+Nc4 b6 15. Rad1 Rac8 16. f3 b5 17. Na5 Nf8 18. Nb3 Ne6 19. Qf2 Bf8 20. Rd2
+a6 21. Rfd1 Rd7 22. Kh1 Rcd8 23. Na5 Rc8 24. Nb3 h6 25. g3 Rcd8 26. Na5 Qd6
+27. f4 Qc7 28. Nb3 bxa4 29. Nc1 exf4 30. gxf4 f5 31. Rg1 Kh7 32. Qf3 Rg7
+33. Ne2 Bd6 34. e5 Bf8 35. Ra1 Rgd7 36. Bg1 c4 37. d4 a3 38. bxa3 Rb8 39.
+a4 Rdd8 40. a5 Qb7 41. Rad1 Rd5 42. Ng3 Rxa5 43. h4 Qd7 44. d5 Rxd5 45.
+Rxd5 cxd5 46. h5 Qf7 47. Rxd5 Rd8 48. Rxd8 Nxd8 49. hxg6+ Qxg6 50. Kh2 Ne6
+51. Qb7+ Bg7 52. Be3 h5 53. Qb1 Bxe5 54. fxe5 f4 55. Qb7+ Kh6 56. Qf3 Qg4
+57. Qxg4 hxg4 58. Bc1 Kg6 59. Ne2 Kf5 60. Nxf4 Kxe5 61. Kg3 Nc5 62. Kxg4
+Ke4 63. Ba3 Nd3 64. Ne6 a5 65. Kg5 Nf2 66. Nc5+ Ke3 67. Kf5 Nd1 68. Ke5
+Nxc3 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.18"]
+[Round "5"]
+[White "Inarkiev,E"]
+[Black "Cheparinov,I"]
+[Result "0-1"]
+[WhiteElo "2669"]
+[BlackElo "2696"]
+[EventDate "2008.12.14"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. Be2 Nbd7
+8. f4 b5 9. f5 Ne5 10. fxe6 fxe6 11. O-O Bd7 12. a4 bxa4 13. Nxa4 Be7 14.
+Nb3 Rb8 15. Nc3 O-O 16. Rxa6 Qc8 17. Ra7 Rb4 18. Rf4 Qb8 19. Ra1 Ng6 20.
+Rf3 Nxe4 21. Nxe4 Rxe4 22. Nc5 dxc5 23. Qxd7 Nh4 24. Rxf8+ Bxf8 25. Bc4
+Rxe3 26. Bxe6+ Kh8 27. Qf7 Bd6 28. Bd5 Bxh2+ 29. Kf2 Re8 0-1
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.18"]
+[Round "5"]
+[White "Mamedyarov,S"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2672"]
+[EventDate "2008.12.14"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Bd2 Nxc3 10. bxc3 Be7 11. Rb1 Nd7 12. Rxb7 Bxb7 13. Bxb7 Bf6
+14. Bxa8 Qxa8 15. O-O Rc8 16. Be3 Nb6 17. Qd3 Rd8 18. Qc2 Nc4 19. Bc1 Bxd4
+20. cxd4 Rxd4 21. Rd1 Rxd1+ 22. Qxd1 Qc8 23. Qd4 a6 24. h4 h5 25. Bf4 f6
+26. Qd3 e5 27. Bc1 Kf7 28. Qf3 Kg6 29. Qd3+ Kf7 30. Qf3 Kg6 31. Qd3+
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.18"]
+[Round "5"]
+[White "Leko,P"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2751"]
+[EventDate "2008.12.14"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6
+14. Na4 Qa5 15. b3 Qc7 16. h4 h5 17. Re1 Nb6 18. Nc3 Rd8 19. Qe5 Qd6 20.
+Kb2 Bf5 21. Ba6 Qxe5 22. Rxe5 Rd2 23. Re2 Rad8 24. Rhe1 Kf8 25. Kc1 Rxe2
+26. Rxe2 e6 27. Ne4 Ke7 28. Nf2 g5 29. hxg5 Nd5 30. Ne4 Nb4 31. Bc4 Nxa2+
+32. Kb2 Nb4 33. g3 a5 34. Nf6 Bg6 35. Rh2 Rd1 36. Nxh5 Bxh5 37. Rxh5 Rd2
+38. g6 Rxc2+ 39. Kb1 fxg6 40. Rxa5 Rc3 41. Rg5 Rxf3 42. Rxg6 Nd5 43. Rg8
+Kf7 44. Rd8 Rxg3 45. Rd6 Rg1+ 46. Kb2 Rg2+ 47. Ka3 Ke7 48. Rxc6 Ra2+ 49.
+Kxa2 Nb4+ 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.18"]
+[Round "5"]
+[White "Gashimov,V"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2719"]
+[EventDate "2008.12.14"]
+[ECO "B97"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd3 Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 fxe6 12. Be2 Qa5 13. Bd2 Qc7 14.
+O-O O-O 15. Qc4 Qd7 16. Qb3 Kh8 17. Bc4 d5 18. exd5 b5 19. Be2 Bc5 20. Kh1
+exd5 21. Be3 Nc6 22. Ne6 Qxe6 23. Bxc5 Re8 24. Bf3 Bb7 25. a4 Na5 26. Qb4
+Nc4 27. Rbd1 Ne4 28. Nxe4 dxe4 29. Be2 e3 30. axb5 axb5 31. Qxb5 Ba6 32.
+Qb4 Rab8 33. Qa4 Ra8 34. Qb4 Nd2 35. Rfe1 Ne4 36. Kg1 Rab8 37. Qd4 Nf2 38.
+Ra1 Bxe2 39. Rxe2 Ng4 40. h3 Ne5 41. Rxe3 Rbd8 42. Qc3 Qc4 43. Qxc4 Nxc4
+44. Rxe8+ Rxe8 45. Ra7 h6 46. Bd4 Ne5 47. c4 Kh7 48. c5 h5 49. Ra6 Nd3 50.
+Ra3 Nf4 51. Be3 Nd5 52. Kf2 Re4 53. Rd3 Nxe3 54. Rxe3 Rc4 55. Re5 Rc2+ 56.
+Kf3 h4 57. Ke4 Kg6 58. Kd5 Rd2+ 59. Ke6 Rxg2 60. c6 Rc2 61. Kd6 Kf6 62. Rd5
+g5 63. c7 g4 64. Rc5 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.18"]
+[Round "5"]
+[White "Eljanov,P"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2679"]
+[EventDate "2008.12.14"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. h4 g4 11. Ne5 Rg8 12. Nxg4 Nbd7 13. Nxf6+ Qxf6 14.
+Qd2 b4 15. Na4 c5 16. Nxc5 Nxc5 17. dxc5 Bxc5 18. O-O-O Bxe4 19. Qd7+ Kf8
+20. Qc7 Be7 21. Bxc4 Bd8 22. Qc5+ Be7 23. Qc7 Bd8 24. Qc5+ Be7 25. Qc7
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Radjabov,T"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2737"]
+[EventDate "2008.12.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Bf5 14.
+c4 Qd6 15. d5 Ne5 16. Nd4 Bd7 17. a4 Rfe8 18. Nb5 Bxb5 19. axb5 Nd7 20. Ra2
+Nc5 21. g3 a5 22. bxa6 Rxa6 23. Qc2 Rxa2 24. Qxa2 Qa6 25. Qxa6 Nxa6 26. Bf3
+Bd6 27. Be3 Nc5 28. Bxc5 Bxc5 29. Rb1 b6 30. Kf1 g6 31. Re1 Rxe1+ 32. Kxe1
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2720"]
+[EventDate "2008.12.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Be7 10. Rd1+ Ke8 11. g4 Nh4 12. Nxh4 Bxh4 13. h3
+Be7 14. Kg2 h5 15. f3 hxg4 16. hxg4 f5 17. exf6 gxf6 18. Bf4 Be6 19. Bxc7
+f5 20. gxf5 Rg8+ 21. Kf2 Bc5+ 22. Ke2 Rg2+ 23. Kd3 Bxf5+ 24. Ne4 Ke7 25.
+Rd2 Rxd2+ 26. Kxd2 Bxe4 27. fxe4 Rg8 28. Rh1 Bd4 29. b3 Rg2+ 30. Kd3 Bg7
+31. Bf4 b5 32. Rh5 a6 33. a4 Rg4 34. Be3 Rg3 35. c4 Kd7 36. Ke2 bxa4 37.
+bxa4 Bc3 38. Rh7+ Ke6 39. Rc7 Ke5 40. Rxc6 Bd4 41. Bd2 Ra3 42. Bc1 Ra1 43.
+Kd2 a5 44. Rh6 Rb1 45. Rh4 Bf2 46. Rg4 Kd4 47. Kc2 Rb7 48. e5+ Kxe5 49.
+Bb2+ Kf5 50. Rg8 Bc5 51. Rd8 Bb4 52. Rd5+ Ke6 53. Bc3 Bxc3 54. Kxc3 Rb1 55.
+Kd4 Ra1 56. Rxa5 Kd6 57. Ra6+ Kc7 58. Kc5 Kb7 59. Rb6+ Kc7 60. Rb4 Rh1 61.
+Kb5 Rh5+ 62. c5 Rh1 63. a5 Kb7 64. a6+ Ka7 65. Rd4 Rb1+ 66. Kc6 Rh1 67. Rd8
+Rh5 68. Kb5 Rh7 69. Rd5 Rh1 70. Rd7+ Kb8 71. c6 Rb1+ 72. Kc5 Rc1+ 73. Kb6
+Rb1+ 74. Kc5 Rc1+ 75. Kd6 Rd1+ 76. Ke7 Rc1 77. Rd8+ Ka7 78. Kd7 Rd1+ 79.
+Kc8 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Akopian,Vl"]
+[Black "Alekseev,Evgeny"]
+[Result "0-1"]
+[WhiteElo "2679"]
+[BlackElo "2715"]
+[EventDate "2008.12.14"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. b3 Bg7 16. d5 Rc8 17. c4 c6 18. Bd2 Nc5 19. Rb1 Qc7 20. Be3 a5 21.
+Bxc5 dxc5 22. Bd3 bxc4 23. bxc4 Ba6 24. Qc2 cxd5 25. cxd5 c4 26. Bf1 Bf8
+27. Ne2 Nd7 28. Nc3 Bb4 29. Red1 Qd6 30. Nd2 Kg7 31. a3 Bxa3 32. Nb5 Bxb5
+33. Rxb5 Bb4 34. Nxc4 Qa6 35. Qa4 Nc5 36. Rxc5 Bxc5 37. d6 Rcd8 38. Nxe5
+Qb6 39. Nc4 Bxf2+ 40. Kh1 Qa7 41. e5 Bg3 42. Qa1 Kg8 43. Qxa5 Qf2 44. Qc3
+Bf4 45. Rb1 h5 46. Qe1 Qxe1 47. Rxe1 f6 48. Bd3 Kh7 49. g4 hxg4 50. hxg4
+Bxe5 51. g5 Kg7 52. gxf6+ Bxf6 53. Rg1 Rh8+ 54. Kg2 Rh4 55. Rb1 Rd4 56. Bf1
+Rc8 57. Rb7+ Kh6 58. Rc7 Ra8 59. Rf7 Kg5 60. Rb7 Ra2+ 61. Kg3 Rg4+ 0-1
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Cheparinov,I"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2703"]
+[EventDate "2008.12.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Bf5 14.
+Re1 Rfe8 15. Bf4 Rac8 16. h3 h6 17. Nd2 Qd7 18. Nc4 Bd6 19. Bxd6 cxd6 20.
+Ne3 Rcd8 21. Qa4 d5 22. Nxf5 Qxf5 23. Qb3 Qd7 24. Bg4 Rxe1+ 25. Rxe1 Qc7
+26. Bf3 Qd7 27. a4 g6 28. h4 h5 29. Re3 b6 30. Qb5 Qd6 31. Qe2 Kf8 32. g4
+hxg4 33. Bxg4 Kg7 34. h5 Rh8 35. Qf3 Rh6 36. Kf1 Ne7 37. Re5 gxh5 38. Bxh5
+Rf6 39. Qg2+ Kf8 40. Qg5 Re6 41. Qf4 Rf6 42. Qg5 Re6 43. f4 Rf6 44. f5 Qxe5
+45. dxe5 Rxf5+ 46. Qxf5 Nxf5 47. Kf2 Ke7 48. Kf3 Ng7 49. Bg4 f5 50. exf6+
+Kxf6 51. Kf4 a5 52. c4 dxc4 53. Ke4 c3 54. Kd3 Ke5 55. Kxc3 Kd5 56. Bf3+
+Kc5 57. Be4 Ne6 58. Bg2 Nd4 59. Bf1 Nf5 60. Bg2 Ne3 61. Bf3 Nd5+ 62. Bxd5
+Kxd5 63. Kd3 Kc5 64. Kc3 b5 65. axb5 a4 66. b6 Kxb6 67. Kb4 a3 68. Kxa3
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Mamedyarov,S"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2747"]
+[EventDate "2008.12.14"]
+[ECO "E12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8.
+Qc2 Bb7 9. Nd2 Bxc3 10. bxc3 Nxg3 11. hxg3 Qe7 12. e4 d6 13. Bd3 Nd7 14.
+Nf1 O-O-O 15. Ne3 h5 16. O-O-O Rdg8 17. Kb1 Kb8 18. Rh2 g4 19. Ka1 Rg5 20.
+Rhh1 Nf6 21. Rb1 Rhg8 22. Rhe1 Rh8 23. Rb5 Nd7 24. Qd2 h4 25. gxh4 Rxh4 26.
+g3 Rh8 27. Qe2 Rhg8 28. Rxg5 Qxg5 29. Rh1 Nf6 30. Rh4 Qa5 31. Nd1 Bc6 32.
+Kb2 Qg5 33. Ne3 Bb7 34. Nf1 Bc6 35. Ne3 Bb7 36. Nf1 Bc6 37. Nh2 e5 38. d5
+Bd7 39. Nf1 Qg7 40. Qe3 Kc8 41. Qh6 Kd8 42. Qxg7 Rxg7 43. Rh8+ Rg8 44. Rh6
+Ke7 45. Kc2 Rg7 46. Ne3 Rh7 47. Rxh7 Nxh7 48. Kd2 Kf6 49. Nc2 Kg5 50. Na3
+Nf6 51. Nb5 Bxb5 52. cxb5 Ng8 53. Ke3 Ne7 54. c4 Ng8 55. Bc2 Nf6 56. Kd2
+Nd7 57. Kc3 Nc5 58. Bb1 Kh5 59. Bc2 Nd7 60. Kd2 Nf6 61. Ke3 Kg6 62. Bd3 Kg7
+63. Be2 Kf8 64. Bd1 Ke7 65. Be2 Kd8 66. Bd1 Kc8 67. Be2 Kb7 68. Bf1 a6 69.
+Be2 axb5 70. cxb5 Kc8 71. Bd1 Kd8 72. Be2 Ke7 73. Bd1 Kf8 74. Be2 Kg7 75.
+Bd1 Kh6 76. Be2 Kg5 77. Bf1 Ng8 78. Be2 f5 79. exf5 Nf6 80. Bc4 Kxf5 81.
+Bb3 Kg5 82. Bc4 Ng8 83. Bd3 Nh6 84. Bc2 Kf6 85. Bd3 Nf7 86. Be2 Kg5 87. Bd3
+Nd8 88. Be4 Nb7 89. Bd3 Nc5 90. Bc2 Nd7 91. Bd3 Nf6 92. Be4 Kh6 93. Kd3 Kh5
+94. Ke3 Kg5 95. Kd3 Ng8 96. Ke3 Nh6 97. Kd3 Nf7 98. Ke3 Kf6 99. Kd3 Ng5
+100. Ke3 Nh3 101. Ke2 Ng5 102. Ke3 Nf7 103. Kd3 Nd8 104. Ke3 Nb7 105. Bd3
+Nc5 106. Be4 Na4 107. Kd2 Kg5 108. Bc2 Nc5 109. Ke3 Nd7 110. Ke4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Bacrot,E"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2669"]
+[EventDate "2008.12.14"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 Qh5 18. Qf1 Re7 19. Bxd5 Qxd5 20. f3
+Bf5 21. b3 Rfe8 22. Bf2 Bc2 23. Rxe7 Rxe7 24. Re1 Re6 25. Rxe6 Qxe6 26. Qe1
+Qxe1+ 27. Bxe1 f5 28. b4 Kf7 29. Kf2 g5 30. Nb3 Bb1 31. a3 Ba2 32. Nc5 Bxc5
+33. dxc5 Kf6 34. Ke3 Bd5 35. f4 g4 36. Bd2 Bc4 37. Be1 Bd5 38. Bd2 Bc4
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.20"]
+[Round "6"]
+[White "Kasimdzhanov,R"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2736"]
+[EventDate "2008.12.14"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+Bd2 Bb4 9. Bd3 O-O 10. a3 Ba5 11. b4 Bc7 12. cxd5 cxd5 13. O-O Rc8 14. Rac1
+Bb8 15. e4 dxe4 16. Nxe4 Qb6 17. Nc5 Qd6 18. g3 b6 19. Nb3 Qd5 20. Qxd5
+Nxd5 21. Ba6 Rxc1 22. Rxc1 Rd8 23. Kg2 N7f6 24. Kf3 Ne8 25. Bg5 f6 26. Bd2
+h5 27. h4 Kf7 28. Bd3 Nd6 29. b5 Rc8 30. a4 Rxc1 31. Nxc1 Nc8 32. Bc4 Nce7
+33. Ne2 Bd6 34. Bb3 Nc7 35. Ke4 Ncd5 36. Kf3 Nc7 37. Ke4 Ncd5 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.21"]
+[Round "7"]
+[White "Wang Yue"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2679"]
+[EventDate "2008.12.14"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 dxc4 6. Bxc4 Nbd7 7. O-O Bd6
+8. Re1 O-O 9. e4 e5 10. Bg5 Qc7 11. h3 exd4 12. Bxf6 gxf6 13. Qxd4 Ne5 14.
+Nbd2 Rd8 15. Qc3 a5 16. Nxe5 Bxe5 17. Qc2 b5 18. Bf1 a4 19. Nf3 a3 20. Nxe5
+axb2 21. Rad1 Rxd1 22. Rxd1 Qxe5 23. Qxc6 Rb8 24. Rd8+ Kg7 25. Qc2 Bb7 26.
+Rd2 Bxe4 27. Qxb2 b4 28. Qxe5 fxe5 29. Bc4 Bc6 30. f3 e4 31. fxe4 Bxe4 32.
+Bb3 Rb7 33. Rd6 Ra7 34. Kf2 Bb1 35. Rd2 Bf5 36. Ke3 Kf6 37. Kf4 Be6 38. Rd6
+Rb7 39. h4 Rb5 40. g4 h6 41. Rc6 Kg7 42. Rc7 Rb6 43. Rc5 Rd6 44. Bxe6 Rxe6
+45. Rb5 Ra6 46. Rxb4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.21"]
+[Round "7"]
+[White "Gashimov,V"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2705"]
+[EventDate "2008.12.14"]
+[ECO "B35"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 Qa5
+8. O-O O-O 9. Nb3 Qc7 10. Bg5 a6 11. Bxf6 Bxf6 12. Nd5 Qe5 13. Nxf6+ Qxf6
+14. c3 Ne5 15. Be2 g5 16. h4 h6 17. Qd2 Qf4 18. hxg5 hxg5 19. g3 Qxd2 20.
+Nxd2 g4 21. Nc4 d6 22. Nxe5 dxe5 23. Bc4 b5 24. Bb3 Bb7 25. Rfe1 Rad8 26.
+Rad1 Kg7 27. Rxd8 Rxd8 28. Rd1 Rh8 29. Bd5 Rd8 30. Bb3 Rh8 31. Bd5 Rd8
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.21"]
+[Round "7"]
+[White "Inarkiev,E"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2669"]
+[BlackElo "2751"]
+[EventDate "2008.12.14"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Bc4 Be6 14.
+Ne4 Qc7 15. Bc5 Rfd8 16. h4 h6 17. h5 f5 18. Nf2 Nf4 19. Bxe6+ Nxe6 20. Bb4
+g5 21. Bc3 Rxd1+ 22. Nxd1 Nf4 23. Ne3 Qf7 24. Kb1 Nd5 25. Nc4 Rb8 26. Bd2
+Qe7 27. c3 e4 28. fxe4 fxe4 29. Qg3 Rd8 30. Qg4 e3 31. Bc1 e2 32. Re1 Nf4
+33. Ne3 Qe4+ 34. Ka1 Re8 35. Qd7 Re7 36. Qd2 Nd3 37. Rxe2 Nxc1 38. Qxc1 Be5
+39. Qe1 Qd3 40. Rd2 Bxc3 41. Rxd3 Bxe1 42. Nf5 Re2 43. Re3 Rxe3 44. Nxe3
+Bb4 45. Kb1 Kf7 46. Kc2 Bf8 47. Kd3 Kf6 48. Ke4 g4 49. Nxg4+ Kg5 50. Ne5 c5
+51. b3 Bg7 52. Nc6 Kxh5 53. Nxa7 Kg4 54. a4 Kg3 55. a5 h5 56. a6 h4 57. Nb5
+Kxg2 58. a7 h3 59. a8=Q h2 60. Qa2+ Kg1 61. Qb1+ Kg2 62. Qc2+ 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.21"]
+[Round "7"]
+[White "Eljanov,P"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2696"]
+[EventDate "2008.12.14"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+Bd2 Nbd7 9. Rc1 a6 10. b3 Bb4 11. g3 Bxc3 12. Bxc3 Ne4 13. Bg2 Nxc3 14.
+Rxc3 Qe7 15. h4 g5 16. hxg5 Rxh1+ 17. Bxh1 Qxg5 18. Qc1 Nf6 19. cxd5 cxd5
+20. Rc8+ Rxc8 21. Qxc8+ Ke7 22. Qxb7+ Ke8 23. Qc8+ Ke7 24. Qb7+ Ke8 25.
+Qc8+ Ke7 26. Qxa6 Qf5 27. Qa3+ Ke8 28. Qb2 Ng4 29. Bg2 Nxf2 30. Qxf2 Qb1+
+31. Ke2 Qxa2+ 32. Kf3 Qxb3 33. Bf1 Qb1 34. Kg2 Kf8 35. Qe2 Qc1 36. Kf2 Qb1
+37. Qd3 Qb2+ 38. Be2 g6 39. Kg1 Kg7 40. Bd1 Qb4 41. Kg2 Qe7 42. Qe2 Qg5 43.
+Bc2 Qd8 44. Qf2 Qc7 45. g4 Kg8 46. Qe2 Kg7 47. Bd3 Qc3 48. Qc2 Qa3 49. Qd2
+Qb3 50. Bc2 Qa3 51. Qf2 Qc3 52. g5 Kg8 53. Bd1 Qd3 54. Bg4 Qc3 55. Kg3 Qc1
+56. Be2 Qc3 57. Kf3 Qc2 58. Qh4 Qb1 59. Kf2 Qb2 60. Qh2 Qc2 61. Qh3 Kg7 62.
+Qf3 Kg8 63. Kg3 Qb1 64. Qf1 Qe4 65. Qf2 Qb1 66. Bf1 Qb8+ 67. Kg2 Qb1 68.
+Kh3 Qd1 69. Qe2 Qb1 70. Qf3 Qb3 71. Ba6 Qb1 72. Kg2 Qc2+ 73. Qf2 Qb1 74.
+Kg3 Qb8+ 75. Qf4 Qb1 76. Qf1 Qb8+ 77. Kh3 Qb3 78. Bd3 Qc3 79. Qe2 Kg7 80.
+Kg4 Qc1 81. Bc2 Qb2 82. Qd1 Qc3 83. Bd3 Qb2 84. Qc2 Qa3 85. Qb1 Qc3 86. Kf3
+Qc7 87. Qc2 Qb8 88. Kg4 Kh7 89. Kh3 Kg7 90. Qf2 Kg8 91. Kg4 Qa8 92. Qc2 Qa1
+93. Bxg6 Qg1+ 94. Kf4 Qf1+ 95. Ke5 Qh3 96. Kf6 Qh8+ 97. Ke7 Kg7 98. Bd3 Qb8
+99. Qc6 Qa7+ 100. Kd8 Qb8+ 101. Kd7 Qa7+ 102. Qc7 Qa4+ 103. Qc6 Qa7+ 104.
+Kc8 Qa3 105. Qc2 Qa8+ 106. Kc7 Qa5+ 107. Kb7 Qe1 108. Qe2 Qb4+ 109. Ka6
+Qa4+ 110. Kb6 Qb4+ 111. Bb5 Kg6 112. Qd3+ Kxg5 113. Kc6 Kf6 114. e4 dxe4
+115. Qxe4 Qc3+ 116. Kd7 Qg3 117. Be2 Kg5 118. Ke8 Qf4 119. Qd3 Kf6 120. Qf3
+Kg5 121. Qh5+ Kf6 122. Qxf7+ Kg5 123. Qe7+ Kf5 124. Bd3+ Kg4 125. Qxe6+ 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.21"]
+[Round "7"]
+[White "Alekseev,Evgeny"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2715"]
+[BlackElo "2719"]
+[EventDate "2008.12.14"]
+[ECO "E60"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c5 4. d5 b5 5. cxb5 a6 6. bxa6 d6 7. Bg2 Bg7 8.
+Nc3 O-O 9. Nh3 Bxa6 10. O-O Nbd7 11. Bd2 Qb6 12. Qc2 Rfb8 13. Rab1 Ne5 14.
+b3 Bc8 15. Ng5 Bf5 16. e4 Bd7 17. Nf3 Nfg4 18. Ne1 f5 19. Nd3 Nxd3 20. Qxd3
+fxe4 21. Qe2 Qa6 22. Qxa6 Rxa6 23. Bxe4 Bxc3 24. Bxc3 Rxa2 25. f3 Nf6 26.
+Rf2 Ra3 27. Bxf6 exf6 28. Rfb2 Ra7 29. Kf2 Kf7 30. Bd3 Rab7 31. Ke3 Rb4 32.
+Kd2 Bb5 33. Bxb5 R8xb5 34. Kc3 Rb7 35. Rd1 g5 36. Rdd2 Re7 37. Re2 Re5 38.
+Rbd2 h5 39. Rxe5 fxe5 40. Ra2 Rd4 41. Ra7+ Kf6 42. Rh7 Kg6 43. Re7 Rxd5 44.
+Re6+ Kg7 45. b4 cxb4+ 46. Kxb4 g4 47. fxg4 hxg4 48. Kc4 Rd4+ 49. Kc3 Kf7
+50. Rh6 Ke7 0-1
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.21"]
+[Round "7"]
+[White "Leko,P"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2672"]
+[EventDate "2008.12.14"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8.
+Bc4 O-O 9. O-O Nc6 10. Bb3 Na5 11. Bg5 b5 12. Qd3 Nxb3 13. axb3 Bb7 14.
+Bxf6 Bxf6 15. Nd5 Rc8 16. Rfd1 Bxd5 17. Qxd5 Rxc2 18. Rxa6 Rxb2 19. Qxb5
+Qc8 20. Raxd6 Qc2 21. R6d2 Qxb3 22. Qe2 Rxd2 23. Rxd2 Rc8 24. g3 Qc4 25.
+Rd3 g6 26. Kg2 Kg7 27. Qe3 Ra8 28. Rc3 Qe6 29. Qd3 h5 30. h3 Ra2 31. Rc2
+Ra4 32. Rc7 Rb4 33. Qc2 Qb6 34. Rc6 Rb2 35. Rxb6 Rxc2 36. Rb5 Rc4 37. Nd2
+Rc2 38. Nf3 Rc4 39. Nd2 Rc2 40. Nf3 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.21"]
+[Round "7"]
+[White "Jakovenko,D"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2731"]
+[EventDate "2008.12.14"]
+[ECO "D81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. e4 O-O 7. Be2 Nfd7
+8. Be3 Nb6 9. Qd3 f5 10. Rd1 f4 11. Bc1 e5 12. d5 c6 13. Nf3 cxd5 14. Nxd5
+Nxd5 15. Qxd5+ Qxd5 16. exd5 Bf5 17. O-O Nd7 18. Rfe1 a6 19. Bd2 Rac8 20.
+Ng5 Rc2 21. Ne6 Rfc8 22. Nxg7 Kxg7 23. Bc3 Kf6 24. Bf3 b5 25. g4 fxg3 26.
+hxg3 b4 27. Bxb4 Rxb2 28. a3 Rcc2 29. g4 Rxf2 30. Rf1 Rxf1+ 31. Rxf1 Bc2
+32. Rf2 Kg7 33. Kg2 Ra2 34. d6 e4 35. Bd1 Bxd1 36. Bc3+ Kh6 37. Rxa2 Kg5
+38. Bd4 Kxg4 39. Rb2 Kf5 40. Be3 Ke6 41. Bf4 h5 42. Rd2 Bb3 43. Rf2 Nf6 44.
+Kg3 Bc4 45. Rd2 Bd3 46. Kh4 Nd5 47. Kg5 Nxf4 48. Kxf4 Kxd6 49. Rg2 Kc5 50.
+Ke3 Kb5 51. Rxg6 Ka4 52. Rh6 Kxa3 53. Rxh5 Kb4 54. Rh8 Ka3 55. Ra8 Kb4 56.
+Rxa6 Bxa6 57. Kxe4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.22"]
+[Round "8"]
+[White "Mamedyarov,S"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2669"]
+[EventDate "2008.12.14"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 Nbd7 7. Bd3 g6 8. b4
+Qc7 9. a4 Bb7 10. Bb2 Bg7 11. Ne2 O-O 12. O-O e5 13. Nxe5 Nxe5 14. dxe5 Ng4
+15. Nd4 Nxe5 16. Be2 Rae8 17. Bc3 Bc8 18. Ra2 Re7 19. axb5 axb5 20. Qa1 f5
+21. Ra8 Ng4 22. Bxg4 fxg4 23. Ne2 h5 24. Bxg7 Rxg7 25. Qa5 Qe7 26. Qb6 Bd7
+27. Rxf8+ Qxf8 28. Nd4 Qe8 29. Qc7 Rf7 30. Ra1 h4 31. Re1 g5 32. f3 Re7 33.
+Kf2 Rf7 34. Kg1 Re7 35. Kf2 Rf7 36. Qd6 Kg7 37. Kg1 Rf6 38. Qc7 Kh6 39. e4
+gxf3 40. gxf3 Rf4 41. Re2 Bh3 42. Nf5+ Rxf5 43. exf5 Qxe2 44. Qxc6+ Kg7 45.
+Qg6+ Kf8 46. Qf6+ Ke8 47. Qc6+ Kf7 48. Qg6+ Ke7 49. Qd6+ Kf7 50. Qg6+ Ke7
+51. Qd6+ Kf7 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.22"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2737"]
+[EventDate "2008.12.14"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. a4 Nd4 12. Nxd4 exd4 13. axb5 axb5 14.
+Rxa8 Bxa8 15. Na3 Bb4 16. Re5 Bd6 17. Re1 Bb4 18. Bd2 Bxd2 19. Qxd2 Bc6 20.
+Re5 b4 21. Nb5 Nf6 22. Qf4 Bd5 23. Bxd5 Nxd5 24. Qxd4 c6 25. Na7 Qc7 26.
+Nxc6 Qxc6 27. Rxd5 Qxc2 28. Qxb4 h6 29. Rd7 Qc6 30. Qd4 Re8 31. b4 Qc1+ 32.
+Kh2 Re1 33. h4 Qc6 34. Qd6 Qc1 35. Qb8+ Kh7 36. Rxf7 Rh1+ 37. Kg3 Qc6 38.
+Rf4 Qg6+ 39. Rg4 Qxd3+ 40. f3 Qe3 41. Qd6 Qe1+ 42. Kf4 Qc1+ 43. Kg3 Qe1+
+44. Kf4 Qc1+ 45. Ke5 Qc3+ 46. Qd4 Qc7+ 47. Qd6 Qc3+ 48. Qd4 Qc7+ 49. Qd6
+Qc3+ 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.22"]
+[Round "8"]
+[White "Bacrot,E"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2720"]
+[EventDate "2008.12.14"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. Ncb4 O-O 14.
+h4 Bh6 15. a4 bxa4 16. Qxa4 a5 17. Bb5 Nxd5 18. Nxd5 Be6 19. Bc6 Rb8 20. b4
+axb4 21. cxb4 Kh8 22. b5 Bxd5 23. Bxd5 Qb6 24. O-O Qxb5 25. Qxb5 Rxb5 26.
+Bxf7 g5 27. hxg5 Bxg5 28. Be6 Rb4 29. Bf5 d5 30. Ra5 dxe4 31. Rxe5 Bf4 32.
+Rxe4 Rxe4 33. Bxe4 Rc8 34. Bf3 Rc1 35. Bd1 Kg7 36. g3 Bd2 37. Kg2 Ra1 38.
+Rh1 Bc3 39. f4 h6 40. Kf3 Bf6 41. Re1 Ra3+ 42. Kg2 Ra1 43. Kh3 Rc1 44. Kg4
+Ra1 45. Rh1 Rc1 46. Kf5 Ra1 47. Ke4 Bd8 48. Ke3 Bb6+ 49. Ke4 Bd8 50. Kf3
+Bf6 51. Kf2 Bd8 52. Ke1 Ra3 53. Kf2 Bb6+ 54. Kg2 Ra2+ 55. Kh3 Ra1 56. Bf3
+Rxh1+ 57. Bxh1 Bd4 58. g4 Bc3 59. g5 hxg5 60. fxg5 Bd2 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.22"]
+[Round "8"]
+[White "Kasimdzhanov,R"]
+[Black "Akopian,Vl"]
+[Result "1-0"]
+[WhiteElo "2672"]
+[BlackElo "2679"]
+[EventDate "2008.12.14"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 Nxg4 8.
+Rg1 f5 9. h3 Ngf6 10. Rxg7 Ne4 11. Bd2 Qf6 12. Rg2 Nf8 13. Qb3 Ng6 14.
+O-O-O b6 15. Kb1 Bb7 16. Qa4 Nxd2+ 17. Rxd2 O-O 18. Qd1 Rae8 19. cxd5 exd5
+20. Bd3 Re7 21. h4 Kh8 22. Qh1 Rg7 23. Rd1 Rfg8 24. Rg5 Bc8 25. Ne2 f4 26.
+e4 dxe4 27. Bxe4 c5 28. Nc3 cxd4 29. Nxd4 Ne7 30. Bc2 Qh6 31. Ne4 Bb7 32.
+Qe1 Bb8 33. Rxg7 Rxg7 34. Ng5 Bd5 35. Nde6 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.22"]
+[Round "8"]
+[White "Grischuk,A"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2736"]
+[EventDate "2008.12.14"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. e3 g6 10. Bd3 Be6 11. Be2 Bg7 12. e4 Nfd7 13. Nf3 Bg4 14. O-O
+O-O 15. h3 Bxf3 16. Bxf3 e5 17. d5 Re8 18. g3 Qe7 19. b3 Rad8 20. Be3 cxd5
+21. Nxd5 Nxd5 22. Qxd5 b6 23. Qb5 Bf8 24. Rad1 Qb4 25. Be2 Nc5 26. Qxb4
+axb4 27. Bc4 Kg7 28. Kg2 f6 29. Bd5 Rb8 30. Rc1 Na6 31. Rc6 Bc5 32. a5 Bxe3
+33. fxe3 Nc5 34. axb6 Nd7 35. Rc7 Re7 36. Bc6 Rxb6 37. Rxd7 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.22"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2703"]
+[EventDate "2008.12.14"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 Ne4 7. Qc2 Qa5
+8. Bg2 Nxc3 9. O-O Nc6 10. bxc3 Bxc3 11. Nb3 Qe5 12. Bf4 Qf6 13. Rab1 Be5
+14. e3 Bxf4 15. exf4 O-O 16. Nc5 d5 17. Nxb7 Bxb7 18. Rxb7 Na5 19. Rc7 Nxc4
+20. Rxc4 dxc4 21. Bxa8 Rxa8 22. Qxc4 g6 23. Qc7 Qd4 24. Rb1 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.22"]
+[Round "8"]
+[White "Cheparinov,I"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2715"]
+[EventDate "2008.12.14"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6
+15. b3 Qc7 16. Bb2 g6 17. Qc2 Rac8 18. Bf1 Qb8 19. Rad1 Bg7 20. g3 Ba8 21.
+axb5 axb5 22. b4 Bf8 23. Qb3 h6 24. dxe5 Nxe5 25. c4 bxc4 26. Nxc4 Nfd7 27.
+Nfxe5 Nxe5 28. Nxe5 dxe5 29. Rd7 Re7 30. Red1 Rce8 31. Bc4 Kg7 32. Qf3 c5
+33. Qxf7+ Rxf7 34. Rxf7+ Kh8 35. Rdd7 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.23"]
+[Round "9"]
+[White "Jakovenko,D"]
+[Black "Kasimdzhanov,R"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2672"]
+[EventDate "2008.12.14"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8.
+Qd2 O-O 9. O-O-O Ng4 10. Kb1 Be6 11. g3 Nc6 12. f4 Nxe3 13. Qxe3 Rc8 14.
+Nd5 Bxd5 15. exd5 exf4 16. gxf4 Nb8 17. Bd3 Nd7 18. Qe4 g6 19. h4 Bf6 20.
+h5 Bg7 21. hxg6 hxg6 22. c3 Qf6 23. Nd4 Rfe8 24. Qf3 Nb6 25. f5 g5 26. Rdg1
+Re5 27. Qh5 Kf8 28. Nf3 Rxc3 29. Nxe5 Rc7 30. Qxg5 Qxg5 31. Ng6+ Qxg6 32.
+fxg6 Nxd5 33. gxf7 Nf4 34. Rxg7 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.23"]
+[Round "9"]
+[White "Eljanov,P"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2751"]
+[EventDate "2008.12.14"]
+[ECO "E99"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. f3 f5 11. g4 Kh8 12. h4 c6 13. Kg2 Nf6 14. Nd3 b5 15.
+b3 Rb8 16. Nf2 b4 17. Na4 Bb7 18. Bg5 Qd7 19. Qd2 cxd5 20. cxd5 Neg8 21.
+Rac1 Ba8 22. Qc2 Rf7 23. Qd3 Ne7 24. Kg1 h5 25. Bxf6 Rxf6 26. g5 fxe4 27.
+fxe4 Rf4 28. Rc4 Rxh4 29. Qg3 Rf4 30. Nd3 Bxd5 31. exd5 Rxc4 32. bxc4 Qxa4
+33. c5 Qxa2 34. cxd6 Nf5 35. Rxf5 Qxe2 36. Rf2 Qe4 37. d7 Qxd5 38. Kh2 Kh7
+39. Rf6 Qxd7 40. Nxe5 Qd2+ 0-1
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.23"]
+[Round "9"]
+[White "Inarkiev,E"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2747"]
+[EventDate "2008.12.14"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 Qh5 18. Qf1 Re7 19. a4 Rfe8 20. Bxd5
+Qxd5 21. axb5 axb5 22. Qg2 Qxg2+ 23. Kxg2 f6 24. b3 h5 25. c4 Bb4 26. Ra2
+Bf5 27. Rc1 g5 28. h3 Kf7 29. Nf1 Rd7 30. Kh2 Bd3 31. Ra6 Re6 32. Ra8 Re8
+33. Ra6 Re6 34. Ra8 Re8 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.23"]
+[Round "9"]
+[White "Wang Yue"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2736"]
+[BlackElo "2696"]
+[EventDate "2008.12.14"]
+[ECO "E95"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 7. O-O e5 8.
+Re1 Re8 9. Bf1 h6 10. Rb1 c6 11. d5 c5 12. Bd2 Nh7 13. Qc1 f5 14. exf5 gxf5
+15. Bxh6 e4 16. Bxg7 Kxg7 17. Nd2 Nhf6 18. Be2 Ne5 19. Nf1 Nfg4 20. Bxg4
+Nxg4 21. Ne2 Rh8 22. Qc3+ Qf6 23. f4 exf3 24. Qxf3 Bd7 25. Qc3 Ne5 26. Nf4
+Kf7 27. Re3 Rh4 28. g3 Rg8 29. Kh1 Qg7 30. Nd3 f4 31. Nxe5+ dxe5 32. Rxe5
+Qh6 33. gxh4 Qg6 34. Ng3 Qxb1+ 35. Re1 Qg6 36. Qe5 Qf6 37. Qc7 Rd8 38. Rf1
+f3 39. Ne4 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.23"]
+[Round "9"]
+[White "Gashimov,V"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2731"]
+[EventDate "2008.12.14"]
+[ECO "B63"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O a6 9. f4 Nxd4 10. Qxd4 b5 11. Bxf6 gxf6 12. Bd3 Qc7 13. Qe3 Bd7
+14. Kb1 Qc5 15. Qg3 O-O-O 16. Ne2 Kb8 17. f5 Rdg8 18. Qf3 h5 19. Nf4 h4 20.
+Rhe1 Bd8 21. c3 Bc7 22. Bc2 Qe5 23. g3 Qc5 24. g4 Bc8 25. h3 Qe5 26. Nh5
+Bb6 27. Qf1 Re8 28. Nf4 Rhg8 29. Re2 Bc7 30. Nd3 Qg3 31. Nf4 Bb6 32. Rde1
+1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.23"]
+[Round "9"]
+[White "Akopian,Vl"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2719"]
+[EventDate "2008.12.14"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Bg7 10. h3 Ne5 11. f3 Nbc6 12. Bf2 Ng6 13. Qd2 Qa5 14. Nd5
+Qxd2+ 15. Kxd2 Bxd4 16. Bxd4 Nxd4 17. Nc7+ Kd7 18. Nxa8 Kc6 19. a4 Be6 20.
+Ra3 Rxa8 21. Rd3 Nxf3+ 22. Rxf3 h5 23. Rc3+ Kd7 24. Bc4 Bxc4 25. Rxc4 h4
+26. Rb4 Rb8 27. Ke2 Ne5 28. Rb3 Nc6 29. Rd1 f6 30. Kf2 Na5 31. Rc3 Nc6 32.
+Rb3 Na5 33. Rc3 Nc6 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.23"]
+[Round "9"]
+[White "Alekseev,Evgeny"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2705"]
+[EventDate "2008.12.14"]
+[ECO "E10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. e3 d5 5. Nc3 Nc6 6. Bd3 dxc4 7. Bxc4 a6 8.
+dxc5 Qxd1+ 9. Kxd1 Bxc5 10. Ke2 b5 11. Bd3 Bb7 12. Bd2 Nb4 13. Bb1 Nbd5 14.
+Rc1 Bd6 15. Nxd5 Bxd5 16. a3 Ke7 17. Ba2 Bb7 18. h3 Rhc8 19. Rxc8 Rxc8 20.
+Rc1 Rxc1 21. Bxc1 Nd7 22. Ne1 Nf6 23. Nf3 Nd7 24. Ne1 Nf6 25. Nf3 Nd7
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.25"]
+[Round "10"]
+[White "Mamedyarov,S"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2731"]
+[BlackElo "2720"]
+[EventDate "2008.12.14"]
+[ECO "D30"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nbd2 dxc4 6. Qc2 b5 7. a4 c6 8.
+g3 Bb7 9. Bg2 Nbd7 10. O-O Qc8 11. b3 c3 12. Ne4 Nxe4 13. Qxe4 c5 14. Qg4
+h5 15. Qh4 f6 16. Be3 c4 17. axb5 Bd5 18. Ra4 Be7 19. bxc4 g5 20. Nxg5 Bxg2
+21. Kxg2 fxg5 22. Qe4 Nf6 23. Qg6+ Kd8 24. Rfa1 h4 25. d5 h3+ 26. Kg1 Rg8
+27. Qd3 exd5 28. cxd5 Ke8 29. d6 Bd8 30. Rxa7 Rxa7 31. Rxa7 c2 32. d7+ Nxd7
+33. Qe4+ Kf8 34. Qf5+ Bf6 35. Bc1 Qc3 36. Qxh3 Rg7 37. Kg2 Qd4 38. Ba3+ Kg8
+39. Ra8+ Kf7 40. Qf5 g4 41. Rd8 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.25"]
+[Round "10"]
+[White "Leko,P"]
+[Black "Gashimov,V"]
+[Result "1-0"]
+[WhiteElo "2747"]
+[BlackElo "2703"]
+[EventDate "2008.12.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. h4 O-O-O 11. Ng5 Bxg5 12. hxg5 a6 13. b3
+Kb8 14. c4 Rdf8 15. Bd3 Bf5 16. Be2 Bg4 17. f3 Be6 18. Qc3 f6 19. gxf6 Rxf6
+20. b4 Ne7 21. Kb2 Nc8 22. b5 axb5 23. cxb5 Re8 24. Bd3 Bf5 25. Bc4 Be6 26.
+Bf1 Bg8 27. Bd4 Rf4 28. a4 Qf7 29. Qb3 Qf8 30. Bc4 Bxc4 31. Qxc4 Nb6 32.
+Qb3 d5 33. Rxh7 Nc4+ 34. Ka2 g5 35. Rh8 Qf7 36. Rxe8+ Qxe8 37. Bc3 g4 38.
+Rxd5 gxf3 39. gxf3 Nb6 40. Re5 Qd8 41. a5 Ra4+ 42. Kb2 Nc4+ 43. Kc1 Qf8 44.
+Kb1 Na3+ 45. Ka1 Rf4 46. Ka2 Nc4 47. Rh5 Rxf3 48. b6 cxb6 49. axb6 Nxb6 50.
+Rb5 Nd7 51. Rxb7+ Kc8 52. Rxd7 Kxd7 53. Qb7+ Ke6 54. Qc6+ Qd6 55. Qxf3 Qa6+
+56. Kb1 Qb6+ 57. Bb2 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.25"]
+[Round "10"]
+[White "Bacrot,E"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2736"]
+[EventDate "2008.12.14"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 g6 7. Ne5 Bg7 8. f4
+a5 9. Bd3 Bf5 10. Bxf5 gxf5 11. Bd2 e6 12. Qe2 h5 13. O-O-O b4 14. Na4 Ne4
+15. Nb6 Ra7 16. Nd3 Nd7 17. Nxd7 Kxd7 18. Rdg1 Qb8 19. Nf2 Nxf2 20. Qxf2 a4
+21. Qe2 b3 22. a3 Bf6 23. g3 Qb7 24. h3 Raa8 25. Rg2 Qa7 26. Rhg1 Rag8 27.
+Bc3 Kc8 28. Be1 Kb7 29. Kd1 Qa6 30. Qxa6+ Kxa6 31. Ke2 Kb5 32. Kd3 Rg6 33.
+g4 hxg4 34. hxg4 fxg4 35. Rxg4 Rhh6 36. Rxg6 Rxg6 37. Rh1 Bg7 38. Rh2 f6
+39. Bc3 Rg4 40. Rf2 Rg3 41. Rh2 Rg1 42. Rf2 Rg4 43. Rh2 Rg3 44. Be1 Rg6 45.
+Bc3 Rg1 46. Rf2 Rd1+ 47. Ke2 Rg1 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.25"]
+[Round "10"]
+[White "Cheparinov,I"]
+[Black "Akopian,Vl"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2679"]
+[EventDate "2008.12.14"]
+[ECO "D18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Nbd7 8.
+O-O Bb4 9. Qe2 O-O 10. e4 Bg6 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3
+Be7 15. Ng5 Bxg5 16. Qxg5 Bg6 17. Be2 Qxg5 18. Bxg5 Nb8 19. a5 Nc6 20. Be3
+Rfc8 21. Ra3 Nd8 22. Re1 Rc2 23. b4 Nc6 24. b5 Nb4 25. Rb3 Na2 26. h4 h5
+27. Bf1 Rac8 28. b6 a6 29. Kh2 Kf8 30. Re2 Rxe2 31. Bxe2 Ke7 32. Bd2 Kd7
+33. Rb2 Nc3 34. Bxc3 Rxc3 35. Bxa6 Kc8 36. Be2 Kb8 37. Bb5 Kc8 38. Rb4 Ra3
+39. Ba4 f6 40. exf6 gxf6 41. a6 bxa6 42. Bd7+ Kb7 43. Bxe6 Ra5 44. Bd7 Bd3
+45. Bc6+ Kb8 46. Rb2 Bc4 47. f3 Ra1 48. g4 hxg4 49. fxg4 Re1 50. h5 Re6 51.
+Bd7 Re7 52. Bf5 Kb7 53. h6 a5 54. h7 Re8 55. g5 fxg5 56. Rg2 a4 57. Rxg5 a3
+58. Rg8 a2 59. Rxe8 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.25"]
+[Round "10"]
+[White "Kasimdzhanov,R"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2719"]
+[EventDate "2008.12.14"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 Nc6 7. Rc1 Bf5
+8. e3 Rc8 9. Be2 e6 10. O-O Nd7 11. Nd2 Be7 12. a3 O-O 13. Nb3 Qb6 14. Na4
+Qa7 15. Bg4 Bxg4 16. Qxg4 Nf6 17. Qe2 Nb8 18. Nac5 Nbd7 19. Nxd7 Nxd7 20.
+Na5 Qa8 21. Bc7 Bd8 22. Bxd8 Rfxd8 23. h3 h6 24. Nb3 Nb6 25. Nc5 Nc4 26.
+Rc3 b6 27. Nd3 Nd6 28. Rfc1 Rxc3 29. Rxc3 Rc8 30. Qc2 Rxc3 31. Qxc3 Qc8 32.
+Qxc8+ 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.25"]
+[Round "10"]
+[White "Radjabov,T"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2715"]
+[EventDate "2008.12.14"]
+[ECO "A13"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. b3 O-O 7. Bb2 d5 8.
+e3 Nbd7 9. Nc3 a6 10. Qe2 Bd6 11. d3 Qe7 12. Nh4 g6 13. f4 c6 14. e4 dxe4
+15. Nxe4 Nxe4 16. Bxe4 Nf6 17. Bg2 Rad8 18. Rad1 Rfe8 19. Ba1 Rd7 20. Kh1
+Nh5 21. Qb2 f6 22. d4 Qf8 23. Nf3 Qh6 24. Kg1 c5 25. Ne5 Bxg2 26. Nxd7 Bxf1
+27. Rxf1 Qg7 28. Nxb6 g5 29. Qe2 Nxg3 30. hxg3 gxf4 31. Qh5 Rb8 32. Na4
+cxd4 33. Bxd4 e5 34. Bf2 fxg3 35. Be3 Qf7 36. Qxf7+ Kxf7 37. Kg2 Rg8 38.
+Nc3 Ke6 39. Ne4 Be7 40. Bc5 Bd8 41. Nxg3 f5 42. Kh3 f4 43. Ne4 Kf5 44. Re1
+h5 45. b4 Rg4 46. Bf2 Be7 47. c5 f3 48. c6 Bd8 49. Rd1 Bc7 50. Ng3+ Ke6 51.
+Rd7 Bd6 52. Nxh5 Rc4 53. Ng7+ Kd5 54. Bc5 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.25"]
+[Round "10"]
+[White "Jakovenko,D"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2669"]
+[EventDate "2008.12.14"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+Bd2 Bb4 9. Bd3 O-O 10. O-O Re8 11. Qd1 dxc4 12. Bxc4 Nb6 13. Be2 Qe7 14.
+Qb3 Rad8 15. Bf3 e5 16. dxe5 Qxe5 17. Qxb4 Rxd2 18. Rad1 Red8 19. Rxd2 Rxd2
+20. Na4 Qd6 21. Qxd6 Rxd6 22. Nc5 Rd2 23. Rd1 Rxd1+ 24. Bxd1 Nc4 25. Nxb7
+Nxb2 26. Bf3 Nd5 27. Na5 Nc3 28. Nxc6 a6 29. Kf1 Nxa2 30. Be2 Nc3 31. Bxa6
+Ne4 32. Ke2 Nd6 33. Bd3 Na4 34. e4 Nc3+ 35. Ke3 Nd1+ 36. Kf3 f6 37. Bc2 Nc3
+38. Ke3 g5 39. Kd4 Ne2+ 40. Kd5 Nf7 41. Ke6 Kg7 42. g3 Ng1 43. Nd4 Nxh3 44.
+Nf5+ Kg6 45. Ne7+ Kg7 46. Nf5+ Kg6 47. f3 Nd8+ 48. Kd7 Nf7 49. Ke6 Nd8+ 50.
+Kd7 Nf7 51. Ke7 h5 52. Ba4 g4 53. f4 Nh6 54. Be8+ Kh7 55. Kxf6 Nxf4 56.
+gxf4 Nxf5 57. Bg6+ Kh6 58. Bxf5 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.26"]
+[Round "11"]
+[White "Alekseev,Evgeny"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2731"]
+[EventDate "2008.12.14"]
+[ECO "B31"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 b6 7. O-O e5 8.
+Nbd2 Nh6 9. Nc4 f6 10. Be3 Be6 11. a3 Nf7 12. b4 cxb4 13. axb4 f5 14. Qe2
+f4 15. Bc1 g5 16. Bb2 Bxc4 17. dxc4 h5 18. Ne1 Qc8 19. c5 bxc5 20. bxc5 g4
+21. h4 Qe6 22. Ra4 O-O 23. Qc4 Qe7 24. g3 Kh7 25. Nd3 Nh8 26. Ra6 fxg3 27.
+fxg3 Rxf1+ 28. Kxf1 Qf6+ 29. Nf2 Rb8 30. Bc3 Rb1+ 31. Be1 Ng6 32. Qd3 Nf8
+33. Rxa7 Qh6 34. Ke2 Ne6 35. Bc3 Rg1 36. Bxe5 Qc1 37. Nd1 Rg2+ 38. Ke1 Rg1+
+39. Ke2 Rg2+ 40. Ke1 Rg1+ 41. Ke2 Rg2+ 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.26"]
+[Round "11"]
+[White "Wang Yue"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2751"]
+[EventDate "2008.12.14"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8.
+Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 11. d5 Nd7 12. Nd2 f5 13. exf5 Nf6 14. Nde4
+Nxe4 15. Nxe4 Bxf5 16. Bd3 g4 17. O-O Kh8 18. Re1 Qe7 19. Rc1 b6 20. b4 a5
+21. a3 axb4 22. axb4 Ra3 23. c5 bxc5 24. bxc5 Bg6 25. Bb1 Ra1 26. Qe2 Rfa8
+27. Nc3 Bxb1 28. Rxb1 Rxb1 29. Rxb1 Qg5 30. Re1 Rb8 31. Ne4 Qe7 32. Rc1 Rd8
+33. f3 gxf3 34. Qxf3 Rf8 35. Qa3 Nf5 36. Bf2 Qf7 37. Qd3 Nd4 38. Bxd4 Qxd5
+39. Ng5 Qxd4+ 40. Qxd4 exd4 41. cxd6 cxd6 42. Nf3 Be5 43. Re1 Rf5 44. Re4
+Kg7 45. Nxd4 Bxd4+ 46. Rxd4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.26"]
+[Round "11"]
+[White "Grischuk,A"]
+[Black "Cheparinov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2696"]
+[EventDate "2008.12.14"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 Bb7 10. h4 g4 11. Nxg4 Nbd7 12. Nxf6+ Qxf6 13. Qd2 h5 14. Bf4
+Qg6 15. Qe3 O-O-O 16. g3 Bb4 17. a3 Ba5 18. Bg2 e5 19. dxe5 Bb6 20. Qe2 Nc5
+21. O-O Nd3 22. Be3 Qg4 23. Qxg4+ hxg4 24. Bxb6 axb6 25. f3 gxf3 26. Rxf3
+Nxe5 27. Rf5 Rde8 28. Bf1 Kc7 29. Be2 Bc8 30. Rg5 Rhg8 31. Rxg8 Rxg8 32.
+Kg2 Kd6 33. h5 Ke7 34. Rf1 Be6 35. Kf2 Bg4 36. Ke3 Ke6 37. Rh1 Kf6 38. Rf1+
+Ke6 39. Rh1 Rd8 40. Rd1 Rh8 41. Rh1 Kf6 42. Rf1+ Ke6 43. Rh1 Rd8 44. Rd1
+Rxd1 45. Nxd1 Kf6 46. Bxg4 Nxg4+ 47. Kf4 Ne5 48. Nf2 c5 49. g4 b4 50. axb4
+cxb4 51. g5+ Ke6 52. Ke3 b5 53. h6 f6 54. h7 Ng6 55. gxf6 Kxf6 56. Kd4 Kg7
+57. Kc5 c3 58. bxc3 bxc3 59. Nd3 Kxh7 60. Kxb5 c2 61. Kb4 Nf4 62. Nc1 Kg6
+63. Kb3 Kf6 64. Kxc2 Ke5 65. Nd3+ Kxe4 66. Nxf4 Kxf4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.26"]
+[Round "11"]
+[White "Akopian,Vl"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2705"]
+[EventDate "2008.12.14"]
+[ECO "B31"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Nh6 7. c3 O-O
+8. d4 Qb6 9. h3 d6 10. Nbd2 cxd4 11. cxd4 Ba6 12. Nb3 f6 13. Bd2 Nf7 14.
+Rc1 Rac8 15. Na5 c5 16. dxc5 dxc5 17. b3 Nd6 18. Nc4 Nxc4 19. bxc4 Rfd8 20.
+Qc2 Bb7 21. Rb1 Qc6 22. Bc3 e5 23. Nd2 Ba6 24. Ba5 Rd4 25. Bc3 Rd7 26. Red1
+Bf8 27. Ba5 Qe6 28. Rb2 Bh6 29. Rdb1 Bxd2 30. Bxd2 Qxc4 31. Qxc4+ Bxc4 32.
+Rb8 Rxb8 33. Rxb8+ Kf7 34. Be3 Rc7 35. a3 Bd3 36. f3 f5 37. Rh8 Kg7 38. Re8
+c4 39. Rxe5 c3 40. Rc5 Rxc5 41. Bxc5 c2 42. Be3 fxe4 43. fxe4 Kf6 44. Kf2
+Ke5 45. Ke1 Kxe4 46. Bg5 Kd4 47. Kd2 Kc4 48. g3 Bf5 49. g4 Kb3 50. Kc1 Bd7
+51. Be7 a6 52. Bb4 Be6 53. Be7 a5 54. Bd8 a4 55. Be7 Kc3 56. Bf6+ Kd3 57.
+Be7 Bd7 58. Bf6 Bc8 59. Be7 Kc3 60. Bf6+ Kb3 61. Be7 Be6 62. Bb4 Bd5 63. g5
+Bg2 64. h4 Bf3 65. Be7 Kc3 66. Bb4+ Kd3 67. Ba5 Be4 68. Bb4 Ke2 69. Bc3 Kf2
+70. Bb4 Kg3 71. Be1+ Kg4 72. Bf2 Kf4 73. Be1 Ke3 74. Bb4 Kf4 75. Bd2+ Kg4
+76. Be1 Kf4 77. Bd2+ Ke5 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.26"]
+[Round "11"]
+[White "Gashimov,V"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2737"]
+[EventDate "2008.12.14"]
+[ECO "B19"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Qe2 c5 14.
+Rhe1 O-O 15. Nf5 cxd4 16. N3xd4 Bc5 17. Nxh6+ gxh6 18. Bxh6 Re8 19. g4 Nd5
+20. g5 Qb6 21. Nf3 Qa6 22. Qxa6 bxa6 23. c4 N5b6 24. g6 f6 25. Re2 Rad8 26.
+b3 Nf8 27. Rxd8 Rxd8 28. Bxf8 Bxf8 29. Rxe6 Kg7 30. Kc2 Bb4 31. Rc6 Kh6 32.
+Rxf6 Kxh5 33. g7 Rg8 34. Rf7 Nc8 35. Rc7 Ne7 36. Rxa7 Rxg7 37. Ne5 Bc5 38.
+Rxa6 Bxf2 39. Nd3 Bg1 40. b4 Kg5 41. Kc3 Kf5 42. a4 Rg4 43. Rd6 Nc8 44. Rd8
+Nb6 45. c5 Nxa4+ 46. Kb3 Nxc5+ 47. Nxc5 Ke5 48. Rd1 Bxc5 49. bxc5 Ke6 50.
+c6 Ke7 51. Rd7+ Ke8 52. Rd3 Ke7 53. c7 Rg8 54. Rd8 Rxd8 55. cxd8=Q+ Kxd8
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.26"]
+[Round "11"]
+[White "Inarkiev,E"]
+[Black "Kasimdzhanov,R"]
+[Result "0-1"]
+[WhiteElo "2669"]
+[BlackElo "2672"]
+[EventDate "2008.12.14"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. Bc2 Nb8 13. b3 g6 14. a4 Nbd7
+15. Ba3 c6 16. Nf1 Qc7 17. Ng3 Rad8 18. Qd2 Bg7 19. Rad1 c5 20. d5 bxa4 21.
+bxa4 a5 22. Qe3 Ba6 23. Nd2 Rb8 24. Ngf1 Nb6 25. Bb3 Nh5 26. c4 Rb7 27. Qc3
+Nd7 28. Ne3 Nhf6 29. Rc1 Bh6 30. Qc2 Reb8 31. Ba2 Nb6 32. Bb3 Bf4 33. g3
+Bh6 34. Kg2 Qd7 35. Rb1 Ra7 36. Qc3 Bc8 37. Rh1 Rbb7 38. Ra1 Qe8 39. Ng4
+Bxg4 40. hxg4 Nbxd5 41. cxd5 Bxd2 42. Qd3 Bg5 43. f3 h5 44. gxh5 Nxh5 45.
+Bc4 Qxa4 46. Bxc5 Rb2+ 47. Bf2 Qd7 48. Ra2 Rab7 49. Qa3 Rxa2 50. Qxa2 Qc7
+51. Rd1 Qb8 52. Qxa5 Rb2 53. Qe1 Kg7 54. Kg1 Qc8 55. Bf1 Qc2 56. Bd3 Qa4
+57. Ra1 Qb3 58. Rb1 Bd8 59. Rxb2 Qxb2 60. Qe2 Qc1+ 61. Qe1 Qb2 62. Qe2 Qb4
+63. Qe3 Nxg3 64. f4 exf4 65. Qxf4 Nh5 66. Qe3 Kg8 67. Kg2 Qb2 68. Be2 Qxe2
+69. Qxe2 Nf4+ 70. Kf3 Nxe2 71. Kxe2 Bf6 72. Kf3 Be5 73. Kg4 f6 74. Be3 Kf7
+75. Kf3 Ke7 76. Ke2 Kd7 77. Kd3 Kc7 78. Kc4 Kb7 79. Kb5 g5 80. Bg1 g4 81.
+Bf2 g3 82. Be3 g2 83. Bg1 Bb2 84. Ka4 Ka6 85. Kb4 Be5 86. Kc4 Ka5 0-1
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.26"]
+[Round "11"]
+[White "Eljanov,P"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2747"]
+[EventDate "2008.12.14"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qb3 Nc6 6. Nbd2 Na5 7. Qa4 Bb7 8.
+Bg2 c5 9. dxc5 bxc5 10. O-O Qc7 11. Rd1 Be7 12. Nb3 Nxb3 13. Bf4 Qc8 14.
+axb3 Bc6 15. Qa6 Bb7 16. Qa5 O-O 17. Qc7 Qxc7 18. Bxc7 Rfc8 19. Be5 Rd8 20.
+Nd2 Bxg2 21. Kxg2 Ne8 22. Ra4 f6 23. Bc3 d5 24. cxd5 exd5 25. e3 Kf7 26.
+Nf3 Rab8 27. Rxa7 Rxb3 28. Ne1 Ke6 29. Nd3 Bd6 30. Ra6 Ke7 31. Ra5 d4 32.
+exd4 cxd4 33. Bxd4 Bc7 34. Ra4 Bb6 35. Re1+ Kf7 36. Bxb6 Rxb6 37. Ra7+ Kg6
+38. Nf4+ Kh6 39. Re2 Rdb8 40. Ra5 g5 41. Nd3 Nd6 42. Rd5 Kg6 43. h4 gxh4
+44. g4 Nf7 45. Kh3 Rd6 46. Nf4+ Kg7 47. Nh5+ Kg6 48. Nf4+ Kg7 49. Nh5+ Kg6
+50. Rxd6 Nxd6 51. Re6 Ne8 52. Kxh4 Kf7 53. Re2 Rb4 54. Rd2 f5 55. f3 fxg4
+56. fxg4 Nf6 57. Nxf6 Kxf6 58. Kh5 Rb3 59. Rf2+ Kg7 60. Kg5 Rb5+ 61. Kf4
+Kg6 62. Rg2 Rb4+ 63. Ke5 Kg5 64. Kd6 Rxg4 65. Rxg4+ Kxg4 66. b4 h5 67. b5
+h4 68. b6 h3 69. b7 h2 70. b8=Q h1=Q 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.27"]
+[Round "12"]
+[White "Leko,P"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2715"]
+[EventDate "2008.12.14"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bg5 Be6 12. Rad1 Be7 13. Rd2 Rd8
+14. Rfd1 Rxd2 15. Rxd2 h4 16. Bxe7 Nxe7 17. Ng5 Bc8 18. f4 Nf5 19. Kf2 Ke7
+20. Nd1 b6 21. Ne3 a5 22. Nxf5+ Bxf5 23. Ke3 Rh6 24. Nf3 c5 25. Ng5 Rh8 26.
+Nf3 Rh6 27. Ng5 Rh8 28. Nf3 Rh6 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.27"]
+[Round "12"]
+[White "Bacrot,E"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2719"]
+[EventDate "2008.12.14"]
+[ECO "D20"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Nbd2 Nc6 7. O-O
+Nf6 8. e5 Nd5 9. a3 Be7 10. Qb3 Na5 11. Qa4+ Nc6 12. Qb3 Na5 13. Qa4+ Nc6
+14. Qb3 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.27"]
+[Round "12"]
+[White "Jakovenko,D"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2720"]
+[EventDate "2008.12.14"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 Na5 9. Bc2 c5 10. d4 Qc7 11. a4 c4 12. Nbd2 O-O 13. Nf1 b4 14. cxb4 Nc6
+15. Be3 Nxb4 16. Rc1 Na2 17. Ra1 Nb4 18. Rc1 Na2 19. Ra1 Nb4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.27"]
+[Round "12"]
+[White "Mamedyarov,S"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2736"]
+[EventDate "2008.12.14"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. cxd5 exd5 8.
+Be2 Nc6 9. Ne5 Qc7 10. Nxc6 Qxc6 11. O-O cxd4 12. exd4 Bb4 13. Bf4 Bxc3 14.
+Qxc3 Qxc3 15. bxc3 Bd7 16. a4 O-O 17. a5 Ne4 18. Rfc1 Rfc8 19. Ra3 g5 20.
+Be3 f6 21. c4 dxc4 22. Bxc4+ Kg7 23. Rb3 Nd6 24. Bd5 Rxc1+ 25. Bxc1 Bc6 26.
+Bxc6 bxc6 27. Rb6 Nc4 28. Rxc6 Nxa5 29. Rc7+ Kg6 30. Be3 Rd8 31. Kf1 Nb3
+32. Rc4 Na5 33. Ra4 Nc6 34. Rxa6 Nxd4 35. Bxd4 Rxd4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.27"]
+[Round "12"]
+[White "Kasimdzhanov,R"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2672"]
+[BlackElo "2696"]
+[EventDate "2008.12.14"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 e5 7. Be3 Ng4 8.
+Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 11. d5 Nd7 12. O-O f5 13. exf5 Nc5 14. Qd2 g4
+15. Nh4 a5 16. f3 gxf3 17. Rxf3 Ng4 18. h3 Bh6 19. Qe1 e4 20. Rf1 Ne5 21.
+Bxe5 dxe5 22. g4 Be3+ 23. Kh1 Ra6 24. Ng2 Bd4 25. Qg3 Qg5 26. Rad1 Bxf5 27.
+Nb5 Qg7 28. Kh2 Bg6 29. Rxf8+ Kxf8 30. Nxc7 Rf6 31. Nb5 Bxb2 32. g5 Rf5 33.
+Bg4 Rf7 34. Rb1 Nd3 35. Rxb2 Nxb2 36. Qa3+ Kg8 37. Qxb2 Rf1 38. Nd6 Qe7 39.
+Be6+ Kf8 40. Qxe5 Qg7 41. Qxg7+ Kxg7 42. Nxb7 Rf2 43. c5 Rd2 44. c6 e3 45.
+Kg3 e2 46. c7 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.27"]
+[Round "12"]
+[White "Inarkiev,E"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2703"]
+[EventDate "2008.12.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 a6 11. Ng5 Bxg5 12. Bxg5 f6 13. Be3
+O-O-O 14. b3 Kb8 15. h3 Bf5 16. Be2 Be4 17. f3 Bg6 18. Rhe1 Rhe8 19. Bf2
+Re7 20. Kb2 Rde8 21. Bc4 Rxe1 22. Bxe1 Bf7 23. Bf1 Bg6 24. Bf2 Kc8 25. Re1
+Rxe1 26. Qxe1 Kd8 27. a3 Qf5 28. Bd3 Qg5 29. Bf1 Qf5 30. Bd3 Qg5 31. Bf1
+Qf5 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.27"]
+[Round "12"]
+[White "Radjabov,T"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2679"]
+[EventDate "2008.12.14"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nc3
+Qxf3 8. gxf3 Ne7 9. h4 h5 10. Be3 Bxe3 11. fxe3 d6 12. Be2 Ng6 13. f4 Bg4
+14. Bxg4 hxg4 15. h5 Ne7 16. Rh4 Ng6 17. Rh1 Ne7 18. Rh4 Ng6 19. Rh1
+1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.28"]
+[Round "13"]
+[White "Eljanov,P"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2669"]
+[EventDate "2008.12.14"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Nh4 e6 7. Nxf5 exf5
+8. e3 Bb4 9. Bxc4 O-O 10. Qc2 g6 11. O-O Nbd7 12. f3 Nb6 13. Bb3 a5 14. Na2
+Be7 15. Kh1 Nh5 16. Nc3 Rc8 17. Rd1 Bb4 18. Qf2 Nf6 19. e4 fxe4 20. Nxe4
+Nbd5 21. Nc5 Nd7 22. Nd3 Bd6 23. Bd2 Re8 24. Re1 Qb6 25. Bc4 Nb4 26. Bxb4
+Bxb4 27. Rf1 Kg7 28. Rad1 Rcd8 29. f4 Re4 30. Ne5 f6 31. Nf3 Qc7 32. f5
+Rde8 33. Bd3 R4e7 34. fxg6 hxg6 35. Nh4 Rh8 36. Bxg6 Rxh4 37. Qxh4 Kxg6 38.
+Rf4 Bd2 39. Qg4+ Kh7 40. Qh5+ Kg8 41. Qg6+ Rg7 42. Qe8+ Nf8 43. Rxf6 Qe7
+44. Qxf8+ Qxf8 45. Rxf8+ Kxf8 46. Rxd2 Ke7 47. g3 Kd6 48. Kg2 b5 49. h4 Kd5
+50. Kh3 bxa4 51. h5 Ke4 52. Kh4 Rd7 53. g4 c5 54. d5 c4 55. Rc2 Kd4 56. h6
+a3 57. bxa3 c3 58. g5 Kd3 59. Rxc3+ Kxc3 60. g6 Rd6 61. h7 1-0
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.28"]
+[Round "13"]
+[White "Grischuk,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2751"]
+[EventDate "2008.12.14"]
+[ECO "E97"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 Kh8 13. Ne6 Bxe6 14. dxe6
+Re8 15. Nd5 fxe4 16. Nxf6 Bxf6 17. fxe4 Nc6 18. Bg4 Nd4 19. Be3 c6 20. Bxd4
+exd4 21. Rf1 Rf8 22. Qd3 Qe7 23. Rf3 Bg7 24. Raf1 Rxf3 25. Rxf3 Rf8 26.
+Rxf8+ Qxf8 27. Qf3 h5 28. Qxf8+ Bxf8 29. Be2 Kg7 30. b5 Kf6 31. bxc6 bxc6
+32. Bd3 Kxe6 33. Kf2 Ke5 34. Kf3 Bh6 35. h3 a5 36. a4 Bg5 37. Kg3 Bf4+ 38.
+Kf2 g5 39. Kf3 Bd2 40. Kg3 Bb4 41. Kf3 Bc3 42. Kg3 Bd2 43. Kf3 Bf4 44. Kf2
+Ke6 45. Ke2 Kf6 46. Kf3 Bc1 47. Kf2 Ke5 48. Kf3 Be3 49. Kg3 Bg1 50. Kf3 Bh2
+51. g3 Bg1 52. Kg2 Be3 53. Kf3 Bd2 54. Ke2 Bb4 55. Kf2 Bc3 56. Ke2 Ke6 57.
+Kd1 Bb4 58. Ke2 Bc5 59. Kd2 Ke5 60. Ke2 Bb6 61. Kf3 Kf6 62. Ke2 Ke6 63. Bc2
+Kf6 64. Bd3 Bc7 65. Kf2 Ke5 66. Kf3 Bd8 67. Ke2 Bf6 68. Kf3 Ke6 69. Kf2 Ke5
+70. Kf3 Bg7 71. Kf2 Bh6 72. Kf3 Bf8 73. Kf2 Be7 74. Kf3 Bd8 75. Ke2 Bb6 76.
+Kf3 Ba7 77. Ke2 Bc5 78. Kf3 Bb4 79. Kf2 Bd2 80. Ke2 Bc3 81. Kf2 h4 82. gxh4
+gxh4 83. Kf3 Bd2 84. Kg4 Be1 85. Kf3 Bg3 86. Kg4 Ke6 87. Kf3 Kd7 88. Ke2
+Bf4 89. Bc2 Kc7 90. Kd3 Be5 91. Bd1 Kb6 92. Bh5 Kc5 93. Be8 d5 94. exd5
+cxd5 95. cxd5 Kxd5 96. Bf7+ Kc5 97. Ke4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.28"]
+[Round "13"]
+[White "Gashimov,V"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2672"]
+[EventDate "2008.12.14"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. Ng3
+Nc5 15. Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6 18. Bb3 h6 19. Nh4 Nb6 20. Ng6 d5
+21. Nxf8 Kxf8 22. Be3 Nc4 23. Bc5+ Kg8 24. Qe2 Re6 25. a4 Qe8 26. f3 Rd8
+27. Red1 Rd7 28. axb5 axb5 29. Bc2 Nb2 30. Rdb1 Nc4 31. Rd1 Nb2 32. Rdb1
+Nc4 33. Rd1 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.28"]
+[Round "13"]
+[White "Alekseev,Evgeny"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2737"]
+[EventDate "2008.12.14"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Bd6 8. c4 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 O-O 12. Qh5 g6 13. Qxd5 Qc7
+14. Qf3 Qxc3 15. Bh6 Rfe8 16. Qf6 Bf8 17. Bxf8 Rxf8 18. Be4 Bc6 19. Rac1
+Qb4 20. Bxc6 bxc6 21. Rxc6 Rad8 22. Ra6 Qxd4 23. Qxd4 Rxd4 24. Rxa7 Rc8 25.
+g3 Rc2 26. Kg2 Rdd2 27. a4 Ra2 28. a5 Kg7 29. a6 Rd6 30. Re1 Rdxa6 31. Rxa6
+Rxa6 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.28"]
+[Round "13"]
+[White "Cheparinov,I"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2705"]
+[EventDate "2008.12.14"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Bf5 6. Bf4 Nbd7 7. e3 g6 8.
+Be2 Nh5 9. Be5 f6 10. Bg3 Nxg3 11. hxg3 Bg7 12. Qb3 b6 13. e4 Bxe4 14. Nxe4
+dxe4 15. Qe6 exf3 16. Bc4 Qc8 17. Qf7+ Kd8 18. Qxg7 Kc7 19. gxf3 bxc5 20.
+O-O-O Qf8 21. Rxh7 Rxh7 22. Qxh7 cxd4 23. Rxd4 Rd8 24. Qxg6 Ne5 25. Qe4
+Qh6+ 26. f4 Rxd4 27. Qxd4 Qh1+ 28. Kc2 Nxc4 29. Qxc4 Qe1 30. Qd4 Qe2+ 31.
+Kc3 Qe1+ 32. Qd2 Qa1 33. a3 Qg1 34. Qe2 Kd7 35. Qd3+ Ke8 36. Qe3 Kf8 37.
+Kb4 Qd1 38. Kc3 a5 39. Qd3 Qc1+ 40. Qc2 Qf1 41. Kd4 a4 42. Qd2 Qb5 43. Ke3
+Qf1 44. Qc2 Qe1+ 45. Kf3 Qh1+ 46. Kg4 Qg2 47. f5 Qf1 48. Qd2 Qb5 49. Qd4
+Qe2+ 50. f3 Qg2 51. Qc3 c5 52. Kf4 Qh2 53. Kg4 Qg2 54. Qc1 Qh2 55. Qxc5
+Qxb2 56. Qe3 Qb3 57. Qc1 Qg8+ 58. Kh3 Qh7+ 59. Kg4 Qg8+ 60. Kh3 Qh7+ 61.
+Kg4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.28"]
+[Round "13"]
+[White "Wang Yue"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2747"]
+[EventDate "2008.12.14"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.
+cxd5 Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qa4 Nf6 12. e4 O-O 13. e5 Ne8 14. Nc3
+Nc7 15. Be3 Qe8 16. Rd2 Rd8 17. Re1 Ba8 18. Ne4 Ne6 19. a3 Kh8 20. Qc2 h6
+21. g4 Ncd4 22. Nxd4 cxd4 23. Bxd4 Nxd4 24. Rxd4 d6 25. Nxd6 Bxd6 26. Bxa8
+Bxe5 27. Rxd8 Qxd8 28. Rxe5 Qxa8 29. Qe4 1/2-1/2
+
+[Event "FIDE Grand Prix"]
+[Site "Elista RUS"]
+[Date "2008.12.28"]
+[Round "13"]
+[White "Akopian,Vl"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2731"]
+[EventDate "2008.12.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. Re1 Re8 9. c4 c6 10. Nc3 Nxc3 11. bxc3 Rxe1+ 12. Qxe1 h6 13. Rb1 b6 14.
+cxd5 cxd5 15. c4 Ba6 16. Qe2 Bxc4 17. Bxc4 dxc4 18. Qxc4 a6 19. a4 Qc7 20.
+Qxc7 Bxc7 21. d5 Nd7 22. Be3 Nf6 23. d6 Bxd6 24. Rxb6 Bc7 25. Rc6 1/2-1/2
+

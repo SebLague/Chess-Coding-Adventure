@@ -1,0 +1,800 @@
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.10"]
+[Round "1"]
+[White "Kamsky,G"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2736"]
+[ECO "A22"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 Bb4 4.Nf3 Bxc3 5.bxc3 e4 6.Nd4 O-O 7.Bg2 d5 8.cxd5 Qxd5
+9.f3 c5 10.fxe4 Nxe4 11.Qb3 Qh5 12.Bxe4 cxd4 13.cxd4 Nc6 14.Bb2 Bh3 15.Bf3 Qg5
+16.Rc1 Rad8 17.Rc5 Qf6 18.Rh5 Bc8 19.d5 Nd4 20.Bxd4 Qxd4 21.Rh4 Qe5 22.O-O b6
+23.d4 Qg5 24.e4 Ba6 25.Rd1 Rc8 26.Rf4 Qd8 27.e5 Bc4 28.Qb2 Bxd5 29.Qb5  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.10"]
+[Round "1"]
+[White "Leko,P"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2755"]
+[BlackElo "2739"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 d6 8.a4 Rb8
+9.d4 Bb6 10.Na3 O-O 11.axb5 axb5 12.Nxb5 Bg4 13.Bc2 Bxf3 14.gxf3 Nh5 15.f4 Nxf4
+16.Bxf4 exf4 17.Qg4 Qf6 18.b4 Ne7 19.Na3 Ng6 20.Nc4 Bxd4 21.cxd4 Qxd4 22.Na5 Qd2
+23.Bb3 Ne5 24.Nc4 Nxg4 25.Nxd2 Rxb4 26.Rfc1 Ne5 27.Rxc7 g5 28.Bd5 g4 29.Nc4 h5
+30.Nxe5 dxe5 31.Re7  1-0
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.10"]
+[Round "1"]
+[White "Kramnik,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2785"]
+[BlackElo "2714"]
+[ECO "E05"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.d4 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Bd6 11.Bg5 Nbd7 12.Nbd2 Rc8 13.Nb3 c5 14.Bxf6 Nxf6 15.Nxc5 Be4
+16.Qc3 e5 17.e3 Bxc5 18.dxc5 Qd5 19.Rad1 Qa8 20.Nh4 Bxg2 21.Nxg2 Ne4 22.Qxe5 Rxc5
+23.Qd4 Rc4 24.Qd3 Ng5 25.b3 Rc5 26.h4 Nf3+ 27.Kh1 Qc8 28.Nf4 Qg4 29.Qd7 Rf5
+30.Rd5 Rxf4 31.exf4 f5 32.Qe6+ Kh8 33.Qxf5 Qxf5 34.Rxf5 Rxf5 35.Rd1 g5 36.hxg5 Nxg5
+37.fxg5 Rxf2 38.a4 bxa4 39.bxa4 Ra2 40.Rd4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.10"]
+[Round "1"]
+[White "Alekseev,Evgeny"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2787"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Nf3 d5 5.Qb3 dxc4 6.Qxc4 Be6 7.Qc2 Bf5 8.Qa4 Nbd7
+9.Bg2 Nb6 10.Qd1 Bg7 11.O-O O-O 12.Nc3 Ne4 13.Nh4 Nxc3 14.bxc3 Be6 15.e4 Bc4
+16.Re1 c5 17.Nf3 Ba6 18.Bf4 Nc4 19.Qb3 Qb6 20.Bf1 Na5 21.Qa4 Bxf1 22.Rxf1 Qa6
+23.Rab1 cxd4 24.cxd4 b6 25.Kg2 Qc4 26.Rb4 Qd3 27.d5 Rac8 28.Rd1 Qc2 29.e5 Rfd8
+30.d6 Qxa4 31.Rxa4 Rd7 32.Rad4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.10"]
+[Round "1"]
+[White "Jakovenko,D"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2752"]
+[ECO "C76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 g6 7.d4 Bg7 8.Re1 b5 9.Bc2 exd4
+10.cxd4 Bg4 11.d5 Ne5 12.Nbd2 Bh6 13.h3 Bxd2 14.Bxd2 Bxf3 15.gxf3 g5 16.f4 gxf4
+17.Bxf4 Qf6 18.Bxe5 Qxe5 19.Qd2 Nf6 20.Qc3 Rg8+ 21.Kf1 Nh5 22.Qxe5+ dxe5
+23.Bd1 Nf4 24.Bg4 h5 25.Bf5 Rg2 26.Rac1 Rh2 27.Kg1 Rg2+ 28.Kf1 Rh2 29.Kg1 Rg2+  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.11"]
+[Round "2"]
+[White "Gelfand,B"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2785"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Nh4 Bg6 7.Be2 Nbd7 8.O-O Bd6
+9.g3 O-O 10.Nxg6 hxg6 11.b3 Qe7 12.Bf3 Rac8 13.Bg2 Rfd8 14.Bd2 Bb4 15.a3 Bxa3
+16.c5 Bb2 17.Rxa7 Nxc5 18.Nb1 Na6 19.Qc2 Ba3 20.Nxa3 Qxa3 21.b4 b5 22.Rb1 Ne4
+23.Bxe4 dxe4 24.h4 e5 25.Bc1 Nxb4 26.Qc5 Qd3 27.Rxb4 Rd5 28.Qe7 Rf8 29.Ba3 c5
+30.Rb2 b4 31.Bxb4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.11"]
+[Round "2"]
+[White "Shirov,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2752"]
+[ECO "C72"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.d4 exd4 7.Nxd4 b5 8.Nxc6 Bxc6
+9.Bb3 Nf6 10.c4 Be7 11.Nc3 O-O 12.Re1 Re8 13.Qf3 b4 14.Nd5 a5 15.a4 Nd7 16.Be3 Bf6
+17.Nxf6+ Nxf6 18.Bd4 Nxe4 19.Bc2 Qh4 20.g3 Qe7 21.Qf4 g5 22.Qe3 g4 23.Qf4 Qe6
+24.h3 h5 25.hxg4 hxg4 26.Rxe4 Bxe4 27.Re1 Bxc2 28.Rxe6 Rxe6 29.Qxg4+ Kf8
+30.Qh4 Ke8 31.f3 Kd7 32.Qh5 f5 33.g4 Rf8 34.c5 Kc6 35.cxd6 Rxd6 36.Bg7 Rfd8
+37.gxf5 Rd5 38.Qh6+ Kb7 39.f6 Bb3 40.Qe3 Rd1+ 41.Kf2 R8d3 42.Qc5 Rd5 43.Qe3 R5d3
+44.Qc5 Rd5 45.Qe3  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.11"]
+[Round "2"]
+[White "Carlsen,M"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2716"]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bf4 O-O 6.e3 Nbd7 7.cxd5 Nxd5 8.Nxd5 exd5
+9.Be2 Bb4+ 10.Nd2 Nf6 11.O-O Bd6 12.Bg5 h6 13.Bh4 c6 14.Qc2 Re8 15.Rab1 g6
+16.Bxf6 Qxf6 17.b4 a6 18.a4 h5 19.b5 Bf5 20.Bd3 Bxd3 21.Qxd3 cxb5 22.axb5 a5
+23.Qb3 Qf5 24.Qa4 Rec8 25.b6 Qc2 26.Nb3 Qc6 27.Qa1 Bb4 28.Nc5 Qxb6 29.Nd3 Qd6
+30.Qa2 Ra6 31.g3 Rc3 32.Rb3 Rxb3 33.Qxb3 Rc6 34.Qa4 Kg7 35.Rb1 Rc4 36.Ne5 Rc7
+37.Nd3 Qc6 38.Qa2 Qb5 39.Qb3 Rc6 40.Kg2 Qc4 41.Qd1 Qb5 42.Qb3 Rc4 43.Ne5 Rc7
+44.Nd3 Rc4 45.Ne5 Rc7  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.11"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2714"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.h3 d6 5.Be3 Nd7 6.Nf3 Qa5 7.Qd2 Ngf6 8.Bd3 O-O
+9.O-O e5 10.a4 exd4 11.Nxd4 Re8 12.Nb3 Qc7 13.Rad1 a6 14.Bh6 Bxh6 15.Qxh6 b5
+16.axb5 axb5 17.Nd2 b4 18.Ne2 Ne5 19.Ng3 Ra5 20.Rfe1 Qe7 21.Bf1 Be6 22.Qe3 Ra2
+23.Rb1 Qa7 24.Qxa7 Rxa7 25.f4 Ned7 26.Nf3 Nc5 27.Rbd1 d5 28.e5 Nfe4 29.Nxe4 Nxe4
+30.Nd4 Bd7 31.Nb3 g5 32.Bd3 gxf4 33.Bxe4 dxe4 34.Rxe4 Bf5 35.Rxb4 Bxc2 36.Rf1 Bxb3
+37.Rxb3 Rxe5 38.Rxf4 Re6 39.Rc4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.11"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2787"]
+[BlackElo "2710"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.d4 exd4 10.e5 Ne4 11.cxd4 Bg4 12.Nc3 Bxf3 13.gxf3 Nxc3 14.bxc3 f5 15.Kh1 Na5
+16.Bc2 Kh8 17.Rg1 Qd7 18.Bg5 Bxg5 19.Rxg5 Nc6 20.Qc1 Qe6 21.f4 Ne7 22.a4 c6
+23.Bd3 Rac8 24.Qe3 Rb8 25.Be2 Rb7 26.Rag1 Rg8 27.Bd3 a5 28.Ra1 b4 29.cxb4 Rxb4
+30.Rgg1 Qh6 31.Rgb1  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.12"]
+[Round "3"]
+[White "Jakovenko,D"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2710"]
+[BlackElo "2714"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 cxd4 6.Nxd4 O-O 7.Bg2 d5 8.cxd5 Nxd5
+9.Qb3 Qa5 10.Bd2 Nc6 11.Nxc6 bxc6 12.O-O Bxc3 13.bxc3 Ba6 14.Rfd1 Qc5 15.e4 Bc4
+16.Qa4 Nb6 17.Qb4 Qh5 18.Bf4 c5 19.Qb2 Rad8 20.Re1 Rd7 21.h3 h6 22.a4 Ba6
+23.Qa2 Rfd8 24.a5 Nc4 25.Bf1 e5 26.g4 Qg6 27.Bxc4 exf4 28.Bd5 f3 29.c4 h5
+30.Kh2 Qf6 31.Rg1 hxg4 32.Rab1 Bxc4 33.Qxc4 Qf4+ 34.Rg3 Rxd5 35.Qxd5 Rxd5
+36.exd5 c4 37.Rd1 c3 38.d6 c2 39.Rd3 Qc4 40.Re3 Qc6 41.Rd3 Qc5  0-1
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.12"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2755"]
+[ECO "E05"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Ra7 11.Rc1 Be4 12.Qb3 Nc6 13.e3 Qa8 14.Qd1 b4 15.Qf1 Bd5
+16.Be1 Rc8 17.Nbd2 Na5 18.Ne5 c5 19.dxc5 Bxc5 20.Nd3 Bf8 21.Bxd5 Nxd5 22.e4 Nb6
+23.Rxc8 Qxc8 24.Nf3 Qb7 25.Nxb4 Qxe4 26.Qd3 Qxd3 27.Nxd3 Nac4 28.b3 Nd6 29.Rc1 Nd5
+30.Rc6 Nf5 31.Ba5 Ra8 32.Nfe5 Nfe7 33.Rd6 Nf6 34.b4 Ned5 35.Rc6 Be7 36.a4 g6
+37.Nc4 Kf8 38.Nc5 Bxc5 39.bxc5 Ke8 40.f3 Ng8 41.Nb6 Nge7 42.Rd6 Rb8 43.Nxd5 Nxd5
+44.Rxa6 Rc8 45.Bb6 Nb4 46.Ra7 Nc6 47.Rb7 Ra8 48.Rc7 Nd4 49.a5 Nxf3+ 50.Kf2 Nxh2
+51.c6 Ng4+ 52.Kf3 Nf6 53.Rb7 Nd5 54.Ke4 Nb4 55.c7 Rc8 56.Kd4 Kd7 57.Kc5 Nc6
+58.a6 h5 59.a7 f5 60.a8=Q Rxa8 61.c8=Q+ Kxc8 62.Kxc6  1-0
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.12"]
+[Round "3"]
+[White "Kamsky,G"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2714"]
+[BlackElo "2739"]
+[ECO "D00"]
+
+1.d4 d5 2.Bg5 h6 3.Bh4 c5 4.dxc5 g5 5.Bg3 Bg7 6.c3 Na6 7.Qa4+ Bd7 8.Qa3 Qc8
+9.c6 Bxc6 10.Nd2 e5 11.e4 Ne7 12.Ngf3 f6 13.exd5 Bxd5 14.Bb5+ Kf7 15.c4 Bc6
+16.O-O Rd8 17.Rad1 Qd7 18.h4 g4 19.Nh2 Qd4 20.Rfe1 h5 21.Nhf1 Qc5 22.Qa4 Bxb5
+23.cxb5 Qb4 24.Qc2 Qxb5 25.Nc4 Qc6 26.Qb3 Kf8 27.Na5 Qc7 28.Qb5 Qc5 29.Qb3  0-1
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.12"]
+[Round "3"]
+[White "Mamedyarov,S"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2787"]
+[ECO "D43"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Bd3 dxc4
+9.Bxc4 g6 10.O-O Bg7 11.Qc2 O-O 12.Bb3 Qe7 13.Ne4 e5 14.Nc3 a5 15.a3 Kh7
+16.Rfe1 b6 17.Rad1 Bb7 18.d5 Rac8 19.d6 Qe8 20.h4 f5 21.e4 f4 22.Na4 Bf6
+23.g3 Bd8 24.Kg2 Rf6 25.g4 Ba6 26.g5 Rf8 27.gxh6 Kxh6 28.Rg1 c5 29.Bd5 b5
+30.Nc3 b4 31.Ne2 Nb6 32.Kh2 Rh8 33.Bf7 Qxf7 34.Nxe5 Qe8 35.Nxg6 Nd7 36.Nexf4 Ne5
+37.d7 Nxd7 38.e5 Qxe5 39.Nxe5  1-0
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.12"]
+[Round "3"]
+[White "Alekseev,Evgeny"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2736"]
+[ECO "D43"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.Qc2 dxc4 8.e3 b5
+9.a4 Bb7 10.axb5 cxb5 11.Nxb5 Bb4+ 12.Nc3 O-O 13.Be2 Nd7 14.O-O e5 15.Qa4 Qe7
+16.Qb5 exd4 17.Nxd4 Nb6 18.Bf3 Bxf3 19.Nxf3 Qc5 20.Ra6 Rfb8 21.Nd4 Qxb5 22.Ncxb5 Rb7
+23.g3 Nd7 24.Rc1  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.13"]
+[Round "4"]
+[White "Shirov,A"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2787"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8 13.a4 h6 14.Nbd2 exd4 15.cxd4 Nb4
+16.d5 Bf8 17.Nf1 c6 18.Bd2 Nd3 19.dxc6 Bxc6 20.Bxf7+ Kxf7 21.Qb3+ d5 22.Qxd3 dxe4
+23.Qc3 exf3 24.Qxc6 fxg2 25.Qxg2 Qd5 26.Rxe8 Rxe8 27.Qxd5+ Nxd5 28.axb5 axb5
+29.Ra5 Rb8 30.Ne3 Nxe3 31.Bxe3 Rb7 32.Kf1 Be7 33.Ke2 Bf6 34.b3 Ke6 35.Kd3 Kf5
+36.Ke2 Ke4 37.Ra8 Rd7 38.Re8+ Re7 39.Rxe7+ Bxe7 40.f3+ Kf5 41.Bd4 Bf6 42.Be3 h5
+43.Bd2 g6 44.Be3 Be5 45.Bd2 Bd6 46.Be3 Bc7  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.13"]
+[Round "4"]
+[White "Gelfand,B"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2710"]
+[ECO "D39"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4 cxd4 8.Nxd4 Bxc3+
+9.bxc3 Qa5 10.Bb5+ Bd7 11.Bxf6 gxf6 12.Bxd7+ Nxd7 13.O-O a6 14.Rb1 Qc7 15.Qh5 Nc5
+16.Rb4 Qe5 17.Qh4 Qg5 18.Qh3 Qe5 19.Qh4 Qg5 20.Qh3 Qe5 21.Re1 Rd8 22.Qe3 Rg8
+23.Nf3 Qc7 24.Rd4 Nd7 25.Red1 Ke7 26.g3 Ne5 27.Nxe5 Qxe5 28.Qc1 Qc5 29.Qd2 Qc7
+30.Qb2 Rxd4 31.cxd4 Rd8 32.d5 Rd7 33.Qa3+ Qd6 34.Qe3 Qe5 35.Qc5+ Qd6 36.Qc8 b5
+37.Rc1 Rd8 38.Qb7+ Rd7 39.Qa8 exd5 40.exd5 Rd8 41.Qb7+ Kf8 42.Rc8 Rxc8 43.Qxc8+ Ke7
+44.Qb7+ Qd7  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.13"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2716"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be7 8.f3 Be6
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 Qc7 12.Kb1 b5 13.g5 Nh5 14.Nd5 Bxd5 15.exd5 Nb6
+16.Rg1 g6 17.Na5 Nxd5 18.Qxd5 Qxa5 19.Rg4 Qc7 20.a3 Rab8 21.Rb4 Ng7 22.h4 Nf5
+23.Bf2 Rfc8 24.c4 Bf8 25.Rb3 Bg7 26.Ka2 bxc4 27.Bxc4 a5 28.Rd2 a4 29.Rxb8 Rxb8
+30.Rc2 Qd7 31.Kb1 Kf8  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.13"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2785"]
+[ECO "E48"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Ne2 d5 7.O-O cxd4 8.exd4 dxc4
+9.Bxc4 Nc6 10.Bg5 Be7 11.a3 a6 12.Rc1 b5 13.Bxf6 Bxf6 14.d5 Ne7 15.Ba2 exd5
+16.Nf4 Bb7 17.Re1 g6 18.b4 Bg5 19.Qg4 Nf5 20.Rcd1 d4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.13"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2752"]
+[ECO "B09"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 c5 6.Bb5+ Bd7 7.Bxd7+ Nbxd7 8.e5 Nh5
+9.exd6 O-O 10.O-O exd6 11.Be3 Re8 12.Qd2 Nhf6 13.Kh1 Nb6 14.b3 Nbd5 15.Nxd5 Nxd5
+16.Bg1 Nf6 17.Rae1 Qd7 18.dxc5 dxc5 19.Qxd7 Nxd7 20.Rxe8+ Rxe8 21.Rd1 Re7
+22.Bf2 b6  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.14"]
+[Round "5"]
+[White "Alekseev,Evgeny"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2714"]
+[ECO "D15"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 a6 5.c5 Bf5 6.Bf4 Nbd7 7.e3 g6 8.h3 Bg7 9.Be2 Be4
+10.Nh4 e5 11.dxe5 Nh5 12.Nf3 Bxf3 13.Bxf3 Nxf4 14.exf4 Nxc5 15.O-O O-O 16.Re1 Kh8
+17.g3 f6 18.Bg4 Qb6 19.Qd4 Rae8 20.Rad1 a5 21.a3 fxe5 22.fxe5 h5 23.b4 axb4
+24.axb4 Na4 25.Nxa4 Qxd4 26.Rxd4 Rxe5 27.Rxe5 Bxe5 28.Rd1 hxg4 29.hxg4 Ra8
+30.Nc5 Bc3 31.Rb1 b6 32.Nd3 Kg7 33.Kg2 g5 34.Kf3 Ra3 35.Ke3 Kf6 36.f4 Ra8
+37.Rh1 Re8+ 38.Kf3 Bd4 39.fxg5+ Kxg5  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.14"]
+[Round "5"]
+[White "Jakovenko,D"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2755"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 Re8 10.Nc3 h6 11.a4 b4 12.Nd5 Na5 13.Nxe7+ Rxe7 14.Ba2 d5 15.Nh4 dxe4
+16.Nf5 Rd7 17.Re3 b3 18.Rg3 g6 19.Nxh6+ Kg7 20.Nf5+ Kg8 21.Nh6+ Kg7 22.Nf5+ Kg8
+23.cxb3 Rxd3 24.Rxd3 Qxd3 25.Ne7+ Kg7 26.Qd2 Qxd2 27.Bxd2 Re8 28.Nxg6 Nc6
+29.Nh4 Nd4 30.Be3 Bc8 31.Rd1 Rh8 32.Bxd4 exd4 33.g3 Rd8 34.b4 Bxh3 35.Bc4 Bg4
+36.f3 exf3 37.Rd3 f2+ 38.Kxf2 c5 39.Nf3 Bf5 40.Rd1 Bc2 41.Rc1 Ne4+ 42.Ke2 d3+
+43.Ke3 cxb4 44.Bxd3 Bxd3 45.Ne1 Bf1 46.Kxe4 Rd2 47.Rb1 Bc4 48.b3 Be6 49.Ke3 Rd8
+50.Rb2 Rc8 51.a5 Bf5 52.g4 Re8+ 53.Kf4 Rxe1 54.gxf5 Ra1 55.Rg2+ Kf8 56.Rc2 Rxa5
+57.f6 Kg8 58.Rg2+ Kf8 59.Rc2 Ke8 60.Re2+ Kf8 61.Ke4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.14"]
+[Round "5"]
+[White "Kramnik,V"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2739"]
+[ECO "E05"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Be7 5.Bg2 O-O 6.Qc2 dxc4 7.Qxc4 a6 8.Bf4 Bd6
+9.O-O b5 10.Qc2 Bb7 11.Nbd2 Nbd7 12.Nb3 Be4 13.Qd2 Qe7 14.Rfc1 Rfc8 15.Bxd6 cxd6
+16.Qa5 Rcb8 17.Nbd2 Bd5 18.Rc2 Qd8 19.Qxd8+ Rxd8 20.Rac1 Nb6 21.Ne1 Rac8
+22.Nd3 Rxc2 23.Rxc2 Rc8 24.Rxc8+ Nxc8 25.Nb4 Bxg2 26.Kxg2 a5 27.Nc6 a4 28.e4 Ne8
+29.Kf3 Kf8 30.Ke3 Nc7 31.Kd3 Ke8 32.Kc3 Na6 33.Nb4 Nc7 34.Nf1 Kd7 35.Ne3 Ne7
+36.g4 g5 37.Nd3 f6 38.f4 gxf4 39.Nxf4 e5 40.dxe5 fxe5 41.Nfd5 Ncxd5+ 42.exd5 Kc7
+43.g5 Kb6 44.b4 axb3 45.axb3 Ka5 46.h4 Ng6 47.h5 Nf4 48.g6 hxg6 49.h6 g5
+50.h7 Ng6 51.Kd3  1-0
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.14"]
+[Round "5"]
+[White "Mamedyarov,S"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2736"]
+[ECO "D47"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.e4 b4 10.Na4 c5 11.e5 Nd5 12.O-O cxd4 13.Re1 g6 14.Bg5 Qa5 15.Nd2 Rc8 16.Nc4 Rxc4
+17.Bxc4 Bg7 18.Rc1 Nxe5 19.Bf1 Nd7 20.a3 O-O 21.Bd2 Rb8 22.Qb3 Ba8 23.Rc4 Ne5
+24.Rc5 Qd8 25.axb4 d3 26.Qd1 Nd7 27.Rc4 Ne5 28.Rc5 Nd7 29.Rc4 Ne5  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.14"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2787"]
+[BlackElo "2714"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 O-O 13.a4 bxa4 14.Rxa4 a5 15.Bc4 Kh8
+16.O-O Rb8 17.b3 f5 18.exf5 Bxf5 19.Qe2 Bg6 20.Rd1 e4 21.Nd4 Nxd4 22.Rxd4 Rb7
+23.Qe1 Rbf7 24.Ra2 h5 25.Ne3 Rf4 26.Rd5 Bh6 27.Rdxa5 Rxf2 28.Rxf2 Rxf2 29.Qxf2 Bxe3
+30.Rxh5+ Bxh5 31.Qxe3 d5 32.Bf1 Be8 33.b4 Qb8 34.Be2 Kg8 35.h3 Bb5 36.Bg4 Bc4
+37.Be6+ Kh7 38.Qf2 Qd8 39.Qf7 Kh6 40.Qf4+ Kh7 41.Qe5 g6 42.Bg4 Qb6+ 43.Qd4 Qd6
+44.Qa7+ Kh6 45.Qe3+ Kh7 46.h4 Kg7 47.h5 gxh5 48.Bxh5 Qe7 49.Bg4 Kg6 50.Bc8 Qc7
+51.Be6 Qd6 52.Bh3 Qc7 53.Kf2 Qf7+ 54.Ke1 Qf1+ 55.Kd2 Kh7 56.Qa7+ Kg6 57.Qb6+ Kh7
+58.Qe3 Bb3 59.Qg3 Bc4 60.Bg4 Qf6 61.Qe3 Qf1 62.Qh3+ Kg7 63.Qg3 Kf8 64.Bh5 Qf6
+65.Qe3 Qf1 66.Qh6+ Kg8 67.Qg6+ Kf8 68.Ke3 d4+ 69.cxd4 Qd3+ 70.Kf4 Qxd4 71.Qe8+ Kg7
+72.Qe7+ Kg8 73.Qg5+ Kh8 74.Qh6+ Kg8 75.Qg5+ Kh8 76.Qc5 Qd2+ 77.Kf5 Qh6 78.Qe5+ Kh7
+79.Kxe4 Qc1 80.Qd6 Qc2+ 81.Kd4 Bf1 82.Qe7+ Kh6 83.Qf8+ Kxh5 84.Qxf1 Qb2+
+85.Kc4 Qa2+ 86.Kc5 Qa7+ 87.Kb5 Qd7+ 88.Kc4 Qe6+ 89.Kc3 Qe5+ 90.Kc2 Qe4+ 91.Kb3 Qe3+
+92.Kb2 Qd2+ 93.Ka3  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.16"]
+[Round "6"]
+[White "Leko,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2752"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 b5 8.g5 Nfd7
+9.a3 Bb7 10.Bd3 Nc6 11.Nxc6 Bxc6 12.Qe2 g6 13.Bd4 e5 14.Be3 h6 15.Qd2 Nc5
+16.h4 hxg5 17.Bxg5 Be7 18.O-O-O Ne6 19.Bxe7 Qxe7 20.Be2 Nf4 21.Qxd6 Nxe2+
+22.Nxe2 Bxe4 23.Rhe1 Qxd6 24.Rxd6 Ke7 25.Rb6 Rxh4 26.Ng3 Bg2 27.Rxe5+ Kf8
+28.Rf6 Kg7 29.Rd6 Bh3 30.Kd2 Be6 31.Ke3 b4 32.Re4 Rxe4+ 33.Nxe4 bxa3 34.bxa3 Rc8
+35.Rxa6 Rxc2  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.16"]
+[Round "6"]
+[White "Gelfand,B"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2787"]
+[ECO "D11"]
+
+1.Nf3 d5 2.d4 c6 3.c4 e6 4.e3 f5 5.Be2 Nf6 6.O-O Bd6 7.Ne5 Nbd7 8.f4 Ne4
+9.Nd2 Ndf6 10.Nxe4 Nxe4 11.Bd2 O-O 12.Rc1 Bd7 13.Be1 a5 14.Bd3 Be8 15.Bxe4 dxe4
+16.Bc3 Qe7 17.Qd2 b6 18.Qc2 Bxe5 19.dxe5 Bh5 20.Qb3 Ra6 21.Rf2 Rd8 22.Rd2 Rxd2
+23.Bxd2 Be2 24.a4 h6 25.c5 b5 26.axb5 Bxb5 27.Bc3 a4 28.Qb4 Kh7 29.Rd1 Bd3
+30.Ra1 Bc2 31.Qc4 Ra7 32.Bd4 Bd3 33.Qb4 Bb5 34.b3 axb3 35.Rxa7 Qxa7 36.Qxb3 Qa4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.16"]
+[Round "6"]
+[White "Kramnik,V"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2716"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 b5 6.e4 Nxe4 7.Qe2 Qe7 8.Bg2 Nd6
+9.Be3 b4 10.Bxc5 Qxe2+ 11.Nxe2 Na6 12.Bxd6 Bxd6 13.Nd2 Rb8 14.Nc4 Be7 15.d6 Bf6
+16.Nf4 Nc5 17.O-O Ba6 18.Nd5 O-O 19.Nxf6+ gxf6 20.Bd5 Na4 21.Rfc1 Rfe8 22.Ne3 Rb6
+23.Rc7 Rxd6 24.Rd1 Kh8 25.Nf5 Rb6 26.Bxf7 Nxb2 27.Rdxd7 Re1+ 28.Kg2 Bf1+
+29.Kf3 Be2+ 30.Kf4 Rb8 31.Bc4  1-0
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.16"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2714"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Re1 Nc5 12.Nd4 Nxd4 13.cxd4 Nd3 14.Re3 Nxc1 15.Rxc1 c5
+16.dxc5 Rc8 17.Rec3 b4 18.R3c2 Bf5 19.c6 Bxc2 20.Rxc2 Qa5 21.Nf3 Rfd8 22.Nd4 g6
+23.e6 Bf6 24.exf7+ Kxf7 25.h4 Qb6 26.Rd2 Rd6 27.Nf5 Rdxc6 28.Bxd5+ Kf8 29.Bxc6 Rxc6
+30.Ne3 Bxh4 31.Qf3+ Rf6 32.Qa8+ Kg7 33.Qe4 b3 34.axb3  1-0
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.16"]
+[Round "6"]
+[White "Kamsky,G"]
+[Black "Jakovenko,D"]
+[Result "0-1"]
+[WhiteElo "2714"]
+[BlackElo "2710"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Re8 10.d4 Bb7 11.Nbd2 Bf8 12.a3 h6 13.Ba2 Nb8 14.Qb3 Qd7 15.Qc2 c5 16.d5 c4
+17.b3 cxb3 18.Bxb3 Qc7 19.c4 Rc8 20.a4 Nbd7 21.Ba3 Qa5 22.Nf1 bxc4 23.Bxc4 Nb6
+24.N1d2 Qxa4 25.Qxa4 Nxa4 26.Reb1 Rc7 27.Bxd6 Bxd6 28.Rxa4 a5 29.Rb6 Bc5
+30.Rb5 Bb4 31.Raxb4 axb4 32.d6 Rd7 33.Rxb4 Ra7 34.Rb6 Ne8 35.Bxf7+ Rxf7 36.Nxe5 Nxd6
+37.Rxd6 Ra1+ 38.Kh2 Rxf2 39.Kg3 Rf8 40.Rd7 Ra3+ 41.Nef3 Ba8 42.h4 Ra4 43.Nd4 Ra3+
+44.N4f3 Bc6 45.Rd6 Bb5 46.Kf2 Be8 47.Rd5 Rc3 48.Ra5 Bc6 49.Ra7 Rd3 50.Kg3 Rfd8
+51.Ra2 Be8 52.Nf1 Bg6 53.Re2 Re8 54.Kf4 Rf8+ 55.Kg3 Rc3 56.Re1 Ra3 57.Kg4 Ra2
+58.N1d2 Rd8 59.Re2 Be8 60.Rf2 Bc6 61.Kg3 Rd3 62.Re2 Be8 63.Rf2 Bg6 64.Kg4 Rc2
+65.Kg3 Ra3 66.Kf4 Raa2 67.g4 Be8 68.Rh2 Rc7 69.Ne5 Rcc2 70.Nef3 Ra6 71.g5 Bh5
+72.Nd4 Rc8 73.gxh6 Rf8+ 74.Kg5 Ra5+ 75.Nf5 g6 76.Rf2 gxf5 77.exf5 Bf7 78.Ne4 Ra2
+79.Rf1 Rg2+ 80.Kf4 Bg6 81.Ng3 Bh7 82.h5 Kh8 83.Rf3 Ra2 84.Ke5 Re8+ 85.Kf6 Ra6+
+86.Kg5 Rg8+ 87.Kf4 Rxh6 88.Ne4 Rxh5 89.Nd6 Rf8 90.Ke5 Rh1  0-1
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.17"]
+[Round "7"]
+[White "Alekseev,Evgeny"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2716"]
+[BlackElo "2739"]
+[ECO "D78"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Nf3 d5 5.Qb3 Bg7 6.Bg2 O-O 7.O-O Qb6 8.Nc3 Bf5
+9.Ne5 e6 10.Bf4 Nbd7 11.Qxb6 axb6 12.f3 Nxe5 13.Bxe5 g5 14.e4 Bg6 15.cxd5 exd5
+16.Rad1 Rfd8 17.a3 dxe4 18.fxe4 Ne8 19.Bxg7 Kxg7 20.Rfe1 Nd6 21.Bf1 f6 22.Kf2 b5
+23.Bd3 Nf7 24.Bb1 Rd7 25.Ba2 Bh5 26.Be6 Re7 27.g4 Rxe6 28.gxh5 Kh6 29.d5 Re7
+30.Ne2 Rxe4 31.dxc6 bxc6 32.Ng3 Rxe1 33.Kxe1 Rd8 34.Rxd8 Nxd8 35.b3 Nb7 36.a4 b4
+37.Kd2 Na5 38.Kd3 c5 39.Ne4 Nxb3 40.Nxf6 Na5 41.Kc2 c4 42.Nd5 Nc6 43.Ne3 c3
+44.Nd5 Kxh5 45.Nxb4 Nxb4+ 46.Kxc3 Na6 47.Kc4 Kh4  0-1
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.17"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2736"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Be7 7.d4 e4 8.Ne5 f5
+9.Nxc6 bxc6 10.Nc3 O-O 11.f3 exf3 12.exf3 Bf6 13.Re1 Rb8 14.f4 Rb4 15.Nxd5 cxd5
+16.Be3 Rxb2 17.Qa4 a6 18.Rab1 Rxb1 19.Rxb1 Qd6 20.Rc1 Bd7 21.Qa5 Bb5 22.Qxc7 Qxc7
+23.Rxc7 Bc4 24.Rc5 Bxa2 25.Bxd5+ Bxd5 26.Rxd5 Ra8 27.Rxf5 a5 28.Rc5 a4 29.Rc2 a3
+30.Ra2 Kf7 31.f5 g6 32.fxg6+ hxg6 33.Kg2 Ke6 34.Bc1 Be7 35.h4 Kd5 36.g4 Kc4
+37.g5 Kxd4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.17"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2787"]
+[BlackElo "2755"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 c5 14.exd5 exd5 15.dxc5 dxc4
+16.cxb6 Nxb6 17.Re1 cxb3 18.Qxb3 Nd7 19.Nf3 Bc4 20.Qa4 Be6 21.Bb4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.17"]
+[Round "7"]
+[White "Mamedyarov,S"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2714"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 a6 5.c5 Bf5 6.Bf4 Nbd7 7.e3 g6 8.h3 Bg7 9.Be2 Be4
+10.Nh4 e5 11.Bg3 exd4 12.exd4 O-O 13.f3 Bf5 14.Nxf5 gxf5 15.Qd2 Nh5 16.Bf2 f4
+17.O-O-O Re8 18.Rhe1 Nf8 19.Bd3 Qf6 20.Na4 Ne6 21.Bc2 Ng3 22.Qd3 Qh6 23.Nc3 Re7
+24.b4 Rae8 25.a4 a5 26.b5 Qg6 27.Qd2 Qf6 28.Ne2 Nxc5 29.Nxf4 Rxe1 30.Rxe1 Rxe1+
+31.Bxe1 Nf1 32.Nh5 Qe7 33.Qxa5 b6 34.Qa8+ Bf8 35.Bc3 Ne6 36.Qxc6 Qg5+ 37.Kb1 Qxh5
+38.a5 Qg5 39.a6 Nd2+ 40.Ka2 Nc4 41.Kb3  0-1
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.17"]
+[Round "7"]
+[White "Jakovenko,D"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2785"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.Re1 Re8 14.cxd5 Qxd5 15.Bf4 Rac8
+16.Bd3 Qd7 17.Rb1 b6 18.d5 Bxd3 19.Qxd3 Bxa3 20.Ng5 g6 21.Ne4 Be7 22.Rbd1 f5
+23.d6 cxd6 24.Qd5+ Kh8 25.Nxd6 Bxd6 26.Bxd6 Rxe1+ 27.Rxe1 Re8 28.Rxe8+ Qxe8
+29.h3 h6 30.c4 Kh7  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.18"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2714"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qf6 6.d4 exd4 7.Bg5 Qd6 8.Nxd4 Be7
+9.Bxe7 Nxe7 10.Nc3 Bd7 11.Nb3 Qxd1 12.Raxd1 b6 13.Rd2 O-O-O 14.Rfd1 c5 15.Nd5 Nxd5
+16.Rxd5 f5 17.exf5 Bxf5 18.Rxd8+ Rxd8 19.Rxd8+ Kxd8 20.c3 Be6 21.Kf1 a5 22.Nc1 Kd7
+23.Ke2 Kc6 24.Kd2 a4 25.a3 Kd5 26.Nd3 Kc4 27.Ne5+ Kd5 28.Nd3 Kc4 29.Ne5+ Kd5
+30.Nd3  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.18"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2785"]
+[BlackElo "2752"]
+[ECO "A40"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 e5 5.Nge2 exd4 6.Nxd4 Nc6 7.Be3 Nge7 8.h4 f5
+9.h5 fxe4 10.hxg6 hxg6 11.Rxh8+ Bxh8 12.Nxe4 d5 13.Nxc6 bxc6 14.Bd4 Bg4 15.Qxg4 Bxd4
+16.cxd5 Bxb2 17.Rd1 cxd5 18.Bb5+ Kf8 19.Qe6 Kg7 20.Bc6 Nxc6 21.Qxc6 d4 22.Kf1 Rb8
+23.Ng5 Qd6 24.Qc4 Qd7 25.Kg1 c6 26.Ne6+ Kf6 27.Nc5 Qe7 28.Rb1 Rb6 29.Nd3 Qe4
+30.Re1 Qd5 31.Qa4 Bc3 32.Qxa7 Bxe1 33.Qxb6 Bc3 34.a4 Qe4 35.Qd8+ Kf7 36.Qc7+ Kf6
+37.Qd6+ Qe6 38.Qf8+ Qf7 39.Qh8+ Ke7 40.a5 Qa2 41.Qg7+ Kd8 42.Ne5  1-0
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.18"]
+[Round "8"]
+[White "Alekseev,Evgeny"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2710"]
+[ECO "D56"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7
+9.Qc2 Nxc3 10.Qxc3 dxc4 11.Qxc4 b6 12.Rc1 c5 13.dxc5 Bb7 14.Qh4 Qxh4 15.Nxh4 Rc8
+16.Bb5 Na6 17.c6 Nb4 18.Ke2  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.18"]
+[Round "8"]
+[White "Kamsky,G"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2787"]
+[ECO "A34"]
+
+1.c4 c5 2.Nc3 e6 3.Nf3 Nf6 4.e3 d5 5.d4 Nc6 6.a3 dxc4 7.Bxc4 a6 8.O-O b5
+9.Bd3 Bb7 10.dxc5 Bxc5 11.b4 Bd6 12.Ne4 Nxe4 13.Bxe4 f5 14.Bxc6+ Bxc6 15.Bb2 O-O
+16.Be5 Bxf3 17.Qxd6 Qxd6 18.Bxd6 Rfd8 19.Bc5 Be2 20.Rfc1 Rd5 21.a4 Rad8 22.axb5 Bxb5
+23.h4 h6 24.Bb6 R8d7 25.Rc8+ Kh7 26.Rac1 Kg6 27.Kh2 e5 28.Rf8 R7d6 29.Bc7 Rf6
+30.Rd8 Rxd8 31.Bxd8 Rd6 32.Bc7 Rc6 33.Rxc6+ Bxc6 34.Bxe5 h5  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.18"]
+[Round "8"]
+[White "Shirov,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2736"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.Re1 Re8 14.cxd5 Qxd5 15.Bf4 Rac8
+16.h3 Be4 17.Qa4 Qf5 18.Bg3 Bc2 19.Qb5 Qxb5 20.Bxb5 a6 21.Bxc6 bxc6 22.Re5 c5
+23.Rae1 Kf8 24.dxc5 f6 25.Rd5 Bb3 26.Rd7 Ba4 27.Rd4 Bc6 28.Nd2 Bxc5 29.Rxe8+ Bxe8
+30.Rd5 Bxa3 31.Ra5 Bb2 32.Ne4 Bc6 33.Ra2 Bxe4 34.Rxb2 a5 35.Ra2 Ra8 36.Bxc7 a4
+37.Bd6+ Kf7 38.Re2 Ke6 39.Bf8 Kd5 40.c4+ Kd4 41.Bxg7 Ra6 42.Re3 a3 43.Bxf6+ Rxf6  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.19"]
+[Round "9"]
+[White "Jakovenko,D"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2739"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nc6
+9.O-O-O Ne5 10.h4 Bg4 11.Be2 Qc8 12.h5 Re8 13.Nxe5 dxe5 14.Bxg4 Qxg4 15.Qd5 Qa4
+16.Kb1 Bd6 17.c4 b6 18.g4 Qd7 19.Qe4 Qe6 20.Rd3 Rac8 21.Rhd1 Rf8 22.a4 f5
+23.gxf5 Qxf5 24.Qd5+ Rf7 25.Qc6 h6 26.a5 bxa5 27.c5 Bf8 28.Qa6 c6  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.19"]
+[Round "9"]
+[White "Mamedyarov,S"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2716"]
+[ECO "A04"]
+
+1.Nf3 c5 2.c3 d5 3.e3 Nf6 4.d4 e6 5.Nbd2 Bd6 6.dxc5 Bxc5 7.Bd3 O-O 8.O-O Bb6
+9.e4 Nc6 10.Qe2 Bc7 11.Nb3 dxe4 12.Bxe4 Nxe4 13.Qxe4 Qf6 14.Nbd4 Nxd4 15.Qxd4 Qxd4
+16.Nxd4  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.19"]
+[Round "9"]
+[White "Carlsen,M"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2714"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.Nbd2 Rb8 11.c3 Bg4 12.h3 Bh5 13.g4 Bg6 14.Nh4 Kh8 15.Bc4 d5 16.Nxg6+ fxg6
+17.exd5 Nxd5 18.Ne4 bxc3 19.bxc3 Na5 20.Ba2 c6 21.Be3 Nb7 22.Rb1 Nxe3 23.Rxe3 Nc5
+24.Rxb8 Qxb8 25.Nxc5 Bxc5 26.Rf3 a5 27.Kg2 Rf6 28.Qe2 Qf8 29.Qe4 Rxf3 30.Qxf3 Qf6
+31.Bf7 Ba3 32.Be8 Bb2 33.c4 c5 34.Bf7 e4 35.dxe4 Be5 36.Bd5 Qxf3+ 37.Kxf3 g5  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.19"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2787"]
+[BlackElo "2785"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.Re1 Re8 14.Qa4 a6 15.Be3 dxc4
+16.Qxc4 Bd6 17.Qa2 Qf6 18.Rad1 h6 19.c4 Be4 20.c5 Bf8 21.d5 Bxf3 22.Bxf3 Nd4
+23.Bxd4 Rxe1+ 24.Rxe1 Qxd4 25.d6 cxd6 26.Bxb7 Re8 27.Rf1 Qxc5 28.Bxa6 d5
+29.a4 Ra8 30.Qe2 Qe7 31.Qxe7 Bxe7 32.Bb5 Rc8 33.g3 Rc2 34.Re1 Kf8 35.Kf1 g6
+36.Re2 Rxe2 37.Kxe2 Bd8 38.Bc6 d4 39.Kd3 Ke7 40.f3 Bb6 41.Bd5 f5 42.Kc4 d3
+43.Kxd3 Bg1 44.Ke2 Kd6 45.Bf7 g5 46.Kf1 Bb6 47.Kg2 Ke5 48.Bg6 Kf6 49.Be8 Ke5
+50.Bd7 Bc7 51.Kf2 f4 52.Kg2 Kd4 53.Kh3 Ke3 54.Bc6 fxg3 55.hxg3 Kf2 56.Kg4 Bxg3
+57.a5 Bc7 58.a6 Bb6 59.Kh5  1/2-1/2
+
+[Event "Tal Mem"]
+[Site "Moscow RUS"]
+[Date "2007.11.19"]
+[Round "9"]
+[White "Gelfand,B"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2736"]
+[BlackElo "2755"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 O-O 8.Rc1 d5
+9.cxd5 Nxd5 10.Bg2 Bb7 11.Qc2 Nf6 12.O-O c5 13.dxc5 Bxc5 14.e4 Nbd7 15.Bf4 h6
+16.e5 Nd5 17.Nxd5 Bxd5 18.Qe2 Rc8 19.Rcd1 Qe7 20.h4 Rfd8 21.Nd2 Bxg2 22.Kxg2 Nf8
+23.h5 Qb7+ 24.Ne4 Be7 25.Qf3 Qa8 26.a4 Nd7 27.Rfe1  1/2-1/2

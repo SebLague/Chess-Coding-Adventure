@@ -1,0 +1,846 @@
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.03.31"]
+[Round "1.3"]
+[White "Meier,Geo"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2648"]
+[BlackElo "2794"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.Nc3 Ne8 10.Nd5 Bd6 11.Re2 c6 12.Ne3 Be7 13.Nf5 Bf6 14.Qe1 d5 15.Ne7+ Kh8
+16.Nxc8 Rxc8 17.d3 Nd6 18.Qb4 a5 19.Qg4 b5 20.c3 d4 21.cxd4 b4 22.d5 cxd5
+23.Bf4 g6 24.Be5 Bxe5 25.Rxe5 Qf6 26.Qd4 Rc2 27.Rb1 Rfc8 28.Rxd5 Qxd4 29.Rxd4 Nf5
+30.Rc4 R8xc4 31.dxc4 Nd4 32.Rd1 Ne6 33.Rd5 a4 34.Ra5 Rxb2 35.Rxa4 Kg7 36.Ra5 Kf6
+37.h4 Nd4 38.c5 Rc2 39.Ra6+ Ke5 40.Rb6 Rxa2 41.Rxb4 Ra1 42.g3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.03.31"]
+[Round "1.5"]
+[White "Bluebaum,M"]
+[Black "Vitiugov,N"]
+[Result "0-1"]
+[WhiteElo "2631"]
+[BlackElo "2735"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Nh4 Bg6 7.Bd2 Nbd7 8.Nxg6 hxg6
+9.c5 e5 10.b4 Be7 11.b5 O-O 12.Qa4 Re8 13.bxc6 bxc6 14.Be2 exd4 15.exd4 Nxc5
+16.dxc5 d4 17.O-O dxc3 18.Bxc3 Bxc5 19.Bf3 Rc8 20.Bxc6 Re2 21.Bf3 Rxf2 22.Rxf2 Bxf2+
+23.Kxf2 Rxc3 24.Qxa7 Ne4+ 25.Kg1 Ra3  0-1
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.03.31"]
+[Round "1.1"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2843"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.e3 O-O 5.Be2 d6 6.Nc3 Nc6 7.d5 Nb4 8.a3 Na6
+9.Nd4 e5 10.dxe6 fxe6 11.O-O e5 12.Nb3 c6 13.e4 Nc7 14.f4 Ne6 15.f5 Nd4 16.Be3 Nxe2+
+17.Qxe2 gxf5 18.exf5 d5 19.cxd5 cxd5 20.Rad1 d4 21.Bg5 Qb6 22.Qc4+ Rf7 23.Na4 Qc7
+24.Qxc7 Rxc7 25.Nac5 b6 26.Bxf6 bxc5 27.Bxg7 Kxg7 28.Nd2 Bb7 29.f6+ Kf8 30.Rde1 Re8
+31.Ne4 Bxe4 32.Rxe4 c4 33.g4 Rb8 34.Rxe5 Rxb2 35.Rd5 c3 36.Rd8+ Kf7 37.Rh8 Rbb7
+38.Rxh7+ Kg6 39.Rxc7 Rxc7 40.Kf2 c2 41.Rc1 d3 42.Ke3 Rd7 43.Kd2 Kxf6 44.h4 Ke5
+45.Rf1 Kd4 46.h5 Re7 47.Rf4+ Kd5 48.Rf1 Kc4 49.Rf4+ Kd5 50.Rf1 Kc4 51.Rf4+ Kb3
+52.Rb4+ Kxa3 53.Rc4 Kb3 54.Rc8 a5 55.h6 Re2+ 56.Kxd3 Rh2 57.g5 Rh3+ 58.Kd2 Rh2+
+59.Kd3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.03.31"]
+[Round "1.2"]
+[White "Anand,V"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2654"]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.e3 Bd6 5.b3 O-O 6.Bb2 c5 7.g4 d4 8.exd4 cxd4
+9.Nxd4 e5 10.Nf5 Bxf5 11.gxf5 Nc6 12.Bg2 Nb4 13.Qe2 Nc2+ 14.Kd1 Nxa1 15.Bxa1 Qd7
+16.Ne4 Qxf5 17.Nxf6+ Qxf6 18.Bxb7 Rad8 19.Kc2 Rfe8 20.Bc3 Bc5 21.f3 Bd4 22.Re1 g6
+23.Qe4 Kg7 24.Bd5 Qb6 25.b4 f5 26.Qd3 Bxc3 27.dxc3 Qd6 28.a4 a5 29.Kb3 Rb8
+30.b5 Qc5 31.h4 Rbd8 32.h5 Kf6 33.hxg6 hxg6 34.Qe3 Qxe3 35.Rxe3 Rd6 36.Re1 Rc8
+37.Rh1 Kg7 38.Kc2 g5 39.Rd1 Kf6 40.Kd3 Rb6 41.Rh1 Kg7 42.Rg1 Kf6 43.Ke3 Rd6
+44.Rb1 Rb6 45.Ke2 Kg6 46.Kf2 Kf6 47.Rh1 Kg7 48.Re1  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.03.31"]
+[Round "1.4"]
+[White "Naiditsch,A"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2701"]
+[BlackElo "2789"]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.c3 h6 5.Bh4 d6 6.Nbd2 g5 7.Bg3 Nh5 8.e4 e6
+9.Nc4 f5 10.Nfd2 Nxg3 11.hxg3 O-O 12.Ne3 d5 13.exf5 exf5 14.Nxd5 Re8+ 15.Ne3 f4
+16.Bc4+ Be6 17.Bxe6+ Rxe6 18.Qb3 Qe8 19.Ne4 Nd7 20.gxf4 gxf4 21.Ng4 Kh8 22.f3 Rxe4+
+23.fxe4 Qxe4+ 24.Kf2 f3 25.gxf3 Rf8 26.Nh2 Qh4+ 27.Kg2 Qg5+ 28.Kf1 Qh5 29.Qc2 c5
+30.Qg2 cxd4 31.Ng4 Qb5+ 32.Kg1 dxc3 33.bxc3 Qc5+ 34.Qf2 Qxc3 35.Kg2 Ne5 36.Nxe5 Bxe5
+37.Rxh6+ Kg7 38.Rhh1 Rf6 39.Rag1 Bd4 40.Kf1+ Kf7 41.Rh7+ Kf8 42.Rh8+ Kf7
+43.Rh7+ Kf8 44.Rh8+  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.01"]
+[Round "2.4"]
+[White "Aronian,L"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2794"]
+[BlackElo "2701"]
+[ECO "E70"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.Nge2 O-O 6.Ng3 e5 7.d5 a5 8.Be2 Na6
+9.h4 h5 10.Bg5 Qe8 11.Qd2 Kh7 12.f3 Ng8 13.Nb5 b6 14.a3 Bd7 15.b4 f6 16.Be3 f5
+17.exf5 gxf5 18.Bg5 e4 19.Rb1 exf3 20.gxf3 axb4 21.axb4 Bxb5 22.cxb5 Nb8
+23.O-O Nd7 24.Rbc1 Ra7 25.Bd3 Qe5 26.Nxh5 Qxd5 27.Nf4 Qb3 28.Bc4 Qb2 29.Rc2 Qd4+
+30.Qxd4 Bxd4+ 31.Kg2 Be5 32.Ne6 Rc8 33.Nd8 d5 34.Nc6 Ra3 35.Bxd5  1-0
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.01"]
+[Round "2.3"]
+[White "Caruana,F"]
+[Black "Bluebaum,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2631"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Be7 7.Be3 O-O 8.Qd2 a6
+9.Bd3 b5 10.Qf2 Nc6 11.dxc5 Qa5 12.O-O b4 13.Ne2 Nxc5 14.Nfd4 Nxd4 15.Nxd4 Qc7
+16.Nb3 Nxb3 17.axb3 a5 18.Bb6 Qc6 19.Bd4 Bd8 20.g4 Ba6 21.f5 Bxd3 22.cxd3 f6
+23.Rac1 Qd7 24.fxe6 Qxe6 25.Qf5 Qxf5 26.Rxf5 fxe5 27.Rxf8+ Kxf8 28.Bxe5 Kf7
+29.Kf2 Ra6 30.Kf3 Bf6 31.Rc7+ Kg6 32.d4 Re6 33.Kf4 Bg5+ 34.Kf3 Bf6 35.Kf4 Bg5+
+36.Kf3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.01"]
+[Round "2.5"]
+[White "Vitiugov,N"]
+[Black "Meier,Geo"]
+[Result "1-0"]
+[WhiteElo "2735"]
+[BlackElo "2648"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 Nh6 7.b4 cxd4 8.b5 Na5 9.Bxh6 gxh6
+10.cxd4 Bd7 11.Nbd2 Rc8 12.a4 Qc7 13.Bd3 Qc3 14.Ke2 Be7 15.Rc1 Qxc1 16.Qxc1 Rxc1
+17.Rxc1 Bd8 18.Nf1 Bb6 19.Rc3 Ke7 20.Ng3 a6 21.Ke3 axb5 22.axb5 Nc4+ 23.Bxc4 Rc8
+24.Nd2 Ba5 25.Rc2 dxc4 26.Nge4 c3 27.Nb1 Rg8 28.Nbxc3 Rxg2 29.Nd6 Rxh2 30.Nxb7 Bb6
+31.Nc5 h5 32.Nxd7 Kxd7 33.Ne4 h4 34.Rc6 Bd8 35.Nc5+ Ke8 36.b6 Rh1 37.b7 h3
+38.b8=Q h2 39.Rc8  1-0
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.01"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteElo "2843"]
+[BlackElo "2654"]
+[ECO "C24"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 c6 4.Qe2 Be7 5.Nf3 d6 6.c3 Nbd7 7.Bb3 O-O 8.O-O a5
+9.d4 a4 10.Bc2 Re8 11.Re1 Bf8 12.Qd1 b5 13.Nbd2 Qc7 14.Nf1 g6 15.Bg5 h6 16.Bd2 Bg7
+17.Ng3 Nb6 18.b3 axb3 19.axb3 Rxa1 20.Qxa1 Bg4 21.Qc1 Bxf3 22.gxf3 h5 23.Bh6 Qe7
+24.Bxg7 Kxg7 25.Qg5 Kh7 26.f4 Nfd7 27.Qxe7 Rxe7 28.fxe5 dxe5 29.Rd1 Re8 30.dxe5 Nxe5
+31.f4 Ng4 32.Rd6 Re6 33.Rd8 Kg7 34.Nf1 Rf6 35.h3 Nh6 36.f5 gxf5 37.Ng3 Rg6
+38.Kf2 fxe4 39.Nxh5+ Kh7 40.Bxe4 f5 41.Bg2 Nf7 42.Rf8 Ne5 43.Nf4 Rd6 44.Rxf5 Nbd7
+45.Ke2 Kg7 46.h4 Nf7 47.Be4 Nde5 48.Nh5+ Kh6 49.Ng3 Re6 50.Ke3 Kg7 51.Rf1 Kf8
+52.Nf5 Ng4+ 53.Kf4 Nf6 54.Bf3 Nd5+ 55.Bxd5 cxd5 56.Ra1 Kg8 57.Ra8+ Kh7 58.Ra7 Rf6
+59.h5 Kg8 60.Rd7 b4 61.cxb4  1-0
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.01"]
+[Round "2.2"]
+[White "Vachier Lagrave,M"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2789"]
+[BlackElo "2776"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qf3 Nf6 8.O-O-O Ne5
+9.Qg3 b5 10.a3 Bb7 11.Bxb5 Rc8 12.Ba4 Nxe4 13.Nxe4 Bxe4 14.Bf4 Qc4 15.Bxe5 Qxa4
+16.Rd2 f6 17.Bd6 Kf7 18.Re1 Bg6 19.Bxf8 Rhxf8 20.Qd6 Kg8 21.f4 Rfe8 22.Re3 Qc4
+23.b3 Qc7 24.Qxc7 Rxc7 25.Kb2 Rb8 26.g4 Bf7 27.a4 Rc5 28.Ne2 Rc7 29.Rd6 Ra7
+30.Red3 Be8 31.f5 exf5 32.gxf5 Rc8 33.Nc3 Rc5 34.R3d5 Rc6 35.Ne4 Kf7 36.Rd3 Rac7
+37.c4 g6 38.fxg6+  1-0
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.02"]
+[Round "3.1"]
+[White "Bluebaum,M"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2631"]
+[BlackElo "2843"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 exd4 8.Nxd4 Re8
+9.f3 c6 10.Bf2 d5 11.exd5 cxd5 12.O-O Nc6 13.c5 a6 14.Qd2 Qa5 15.Rfe1 Qxc5
+16.Ne6 Qa5 17.Nxg7 Kxg7 18.a3 d4 19.Bxd4 Nxd4 20.Qxd4 Rd8 21.Qe3 Bd7 22.Rad1 Be6
+23.Rxd8 Rxd8 24.Rd1 Rxd1+ 25.Bxd1 Qd8 26.Be2 Qd6 27.f4 Bd7 28.Bf3 Bc6 29.Bxc6 Ng4
+30.Qg3 Qc5+ 31.Kf1 Ne3+ 32.Ke2 Nf5 33.Qf2 Qxc6 34.g4 Qc4+ 35.Kd2 Nd4 36.Qe3 Nc6
+37.Ne2 h5 38.h3 hxg4 39.hxg4 g5 40.fxg5 Qxg4 41.Qc3+ Kg8 42.Qf6 Qg2 43.Ke3 Qh3+
+44.Kd2 Qd7+ 45.Kc2 Ne7 46.Nc3 Ng6 47.b4 Nf8 48.Qe5 Qe6 49.Qxe6 Nxe6 50.Ne4 Kg7
+51.a4 b6 52.Kc3 Kg6 53.Kc4 Nxg5 54.Nd6 f5 55.Nxf5 Kxf5 56.Kd5 Nf3 57.Kc6 b5
+58.axb5 Nd4+ 59.Kc5 Nxb5 60.Kb6  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.02"]
+[Round "3.3"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2794"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.c3 O-O 6.O-O Re8 7.Bg5 Be7 8.Re1 d6
+9.d4 Bd7 10.d5 Nb8 11.Bxf6 Bxf6 12.a4 Be7 13.Na3 Rf8 14.Bxd7 Nxd7 15.Nc4 Kh8
+16.b4 g6 17.a5 a6 18.Ncd2 f5 19.h3 Bg5 20.c4 Bh6 21.Nb1 fxe4 22.Rxe4 Nf6
+23.Re1 Qd7 24.Nc3 Rf7 25.Ne4 Nxe4 26.Rxe4 Raf8 27.Ra3 Rf4 28.Rae3 R4f6 29.Rc3 Rf4
+30.Rce3 R4f6 31.Rc3 Rf4  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.02"]
+[Round "3.5"]
+[White "Meier,Geo"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2648"]
+[BlackElo "2784"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qf6 6.d4 exd4 7.Bg5 Qd6 8.Nxd4 Be7
+9.Be3 Nh6 10.Qd2 g5 11.Nf3 Rg8 12.h4 Qg6 13.hxg5 Ng4 14.Nc3 h6 15.Bf4 Be6
+16.Bxc7 Rc8 17.Bb6 hxg5 18.Ne2 c5 19.Ng3 Rh8 20.Rfd1 Qh6 21.b4 cxb4 22.Bd4 f6
+23.c3 bxc3 24.Bxc3 Kf7 25.Rac1 Rc4 26.Bd4 b5 27.Qa5 Nh2 28.Qxa6 Nxf3+ 29.gxf3 g4
+30.f4 Qxf4 31.Rxc4 bxc4 32.Be3 Qf3 33.Rd6 Rh3 34.Rxe6 Rxg3+ 35.fxg3 Qxe3+
+36.Kh2 Qf2+ 37.Kh1 Qf1+  0-1
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.02"]
+[Round "3.2"]
+[White "Hou Yifan"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2654"]
+[BlackElo "2789"]
+[ECO "A04"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 g6 4.b3 Bg7 5.Bb2 b6 6.Bg2 Bb7 7.O-O O-O 8.d4 cxd4
+9.Qxd4 Nc6 10.Qc3 Qc7 11.Rd1 Rad8 12.Na3 a6 13.Rac1 Rfe8 14.Qe1 Qb8 15.Nc2 b5
+16.c5 d5 17.cxd6 Rxd6 18.Rxd6 Qxd6 19.Nfd4 Nd5 20.Ba3 Qd7 21.Nxc6 Bxc6 22.e4 Nc7
+23.Nb4 Bb7 24.Rd1 Qc8 25.Qe3 a5 26.Nd3 b4 27.Bb2 Bxb2 28.Nxb2 Nb5 29.Nc4 Nc3
+30.Rd2 Rd8 31.Nxa5 Rxd2 32.Qxd2 Ba6 33.Bf1 Bxf1 34.Kxf1 Qa8 35.Nc4 Qxe4 36.Kg1 Ne2+
+37.Kf1 Nd4 38.f3 Qxf3+ 39.Qf2 Qh1+ 40.Qg1 Qe4 41.Qf2 f6 42.Ne3 Kf7 43.h4 Qh1+
+44.Qg1 Qxg1+ 45.Kxg1 Ne2+ 46.Kf2 Nc3  0-1
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.02"]
+[Round "3.4"]
+[White "Naiditsch,A"]
+[Black "Vitiugov,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2701"]
+[BlackElo "2735"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.c3 d6 7.Bg5 Ba7 8.Nbd2 h6
+9.Bh4 Bd7 10.Nf1 g5 11.Bg3 Ne7 12.Ne3 Ng6 13.Nf5 Ne7 14.Ne3 Ng6 15.Bb3 Qe7
+16.Qc2 O-O-O 17.O-O-O Nf4 18.Rhe1 N4h5 19.Nd2 Nxg3 20.hxg3 Ng4 21.Ndf1 Nxe3
+22.Nxe3 Bxe3+ 23.Rxe3 h5 24.d4 h4 25.Ba4 Bxa4 26.Qxa4 hxg3 27.Rxg3 Rh4 28.Re3 Rdh8
+29.dxe5 Qxe5 30.Qd4 Qxd4 31.cxd4 Rf4 32.Rd2 Rh1+ 33.Kc2 Rf1 34.Ree2 Kd7 35.Kd3 c6
+36.Ke3 d5 37.exd5 cxd5 38.f3 Rf6 39.Kd3 Re6 40.Rc2 Rd1+ 41.Red2 Ree1 42.Rxd1 Rxd1+
+43.Rd2 Re1  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.04"]
+[Round "4.2"]
+[White "Caruana,F"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2784"]
+[BlackElo "2701"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O Bd7 6.Re1 Be7 7.c3 O-O 8.h3 Re8
+9.a4 Bf8 10.Bg5 h6 11.Bh4 g5 12.Bg3 Ne7 13.Bxd7 Qxd7 14.Nbd2 Ng6 15.Nc4 Rad8
+16.Ne3 d5 17.exd5 Bg7 18.d4 exd4 19.cxd4 Nxd5 20.Nxd5 Rxe1+ 21.Qxe1 Qxd5
+22.Bxc7 Rc8 23.Rc1 Bxd4 24.Qd2 Qd7 25.Nxd4 Rxc7 26.Rxc7 Qxc7 27.Nf5 Kh7 28.g3 Ne5
+29.Qe3 Nc4 30.Qc3 Qe5 31.Qd3 Nxb2 32.Qc2 Qe1+ 33.Kg2 Qd1 34.Qe4 Qxa4 35.Qxb7 Qa2
+36.Ne3 Kg7 37.Qb4 Qb1 38.g4 Kg8 39.Nf5 Qc2 40.Qb8+ Kh7 41.Qb7 Kh8 42.Qe7  1-0
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.04"]
+[Round "4.1"]
+[White "Vitiugov,N"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2735"]
+[BlackElo "2776"]
+[ECO "C02"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Nf3 Bxc5 6.Bd3 Ne7 7.O-O Ng6 8.a3 O-O
+9.Nbd2 Nc6 10.b4 Bb6 11.Bb2 Nf4 12.Nb3 a5 13.Qd2 Nxd3 14.cxd3 d4 15.bxa5 Bxa5
+16.Nxa5 Rxa5 17.Nxd4 Nxe5 18.Rfe1 Rd5 19.Rxe5 Rxe5 20.Nc6 bxc6 21.Bxe5 f6
+22.Bc3 c5 23.d4 cxd4 24.Qxd4 Qxd4 25.Bxd4 Rd8 26.Bb6 Rd6 27.Bc5 Rd5 28.Be3 Bd7
+29.h3 Ba4 30.Rc1 Rd1+ 31.Rxd1 Bxd1 32.f3 e5 33.h4 h5 34.Kf2 Kf7 35.Ke1 Ba4
+36.Kf2 Bd1 37.Ke1 Ba4 38.Kf2  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.04"]
+[Round "4.4"]
+[White "Aronian,L"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteElo "2794"]
+[BlackElo "2654"]
+[ECO "A14"]
+
+1.c4 e6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d4 dxc4 7.Qc2 a6 8.a4 c5
+9.dxc5 Bxc5 10.Qxc4 b6 11.Ne5 Ra7 12.Nd3 Be7 13.Bf4 Bb7 14.Bxb7 Rxb7 15.Rc1 Nd5
+16.Bxb8 b5 17.axb5 axb5 18.Qb3 Qxb8 19.Nd2 Rc8 20.Nf3 g6 21.Nd4 Rxc1+ 22.Rxc1 Bf6
+23.Nc6 Qa8 24.Ncb4 Nxb4 25.Qxb4 Kg7 26.Qe4 Qa7 27.Qc6 Rb6 28.Qc5 Be7 29.Qe3 Qb7
+30.Ne5 Ra6 31.h3 Bf6 32.Kh2 h5 33.Nd3 Ra8 34.Qc5 Ra4 35.b3 Ra2 36.Rc2 Ra1
+37.Rc1 Ra2 38.Rc2 Ra1 39.Rc1 Ra2  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.04"]
+[Round "4.5"]
+[White "Bluebaum,M"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteElo "2631"]
+[BlackElo "2648"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.Bg2 c6 7.Nf3 Nbd7 8.O-O b6
+9.Ne5 Bb7 10.Nc3 O-O 11.Rac1 Qe7 12.Nxd7 Qxd7 13.b3 Ba6 14.cxd5 cxd5 15.Qb2 Qe7
+16.Rc2 Rac8 17.Rfc1 h6 18.Nb1 Rfd8 19.Rxc8 Rxc8 20.Rxc8+ Bxc8 21.Bf1 Ba6
+22.e3 Bxf1 23.Kxf1 Ne4 24.Nd2 Nd6 25.Qc2 Qd7 26.a4 f6 27.Nf3 Kf7 28.Kg2 Qc8
+29.Qxc8 Nxc8 30.Nd2 Ne7 31.Kf3 Nc6 32.Ke2 e5 33.dxe5 fxe5 34.e4 Ke6 35.Kd3 g5
+36.exd5+ Kxd5 37.Nc4 h5 38.Ne3+ Ke6 39.Ke4 Nd4 40.b4 g4 41.Nd5 Nf3 42.Nc7+ Kd7
+43.Nd5 Ke6 44.Nc7+ Kd7  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.04"]
+[Round "4.3"]
+[White "Carlsen,M"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2843"]
+[BlackElo "2789"]
+[ECO "A04"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 e5 4.e3 Nf6 5.d4 e4 6.d5 exf3 7.dxc6 fxg2 8.cxd7+ Bxd7
+9.Bxg2 g6 10.b3 Bg7 11.Qd6 Qb6 12.Qxb6 axb6 13.Bb2 Bc6 14.O-O Ke7 15.Nd5+ Bxd5
+16.cxd5 Rhg8 17.d6+ Kxd6 18.Rad1+ Ke7 19.Be5 Rgd8 20.Bxb7 Rxd1 21.Rxd1 Rd8
+22.Rxd8 Kxd8 23.Kf1 Ne8 24.Bg3 Kd7 25.a4 f5 26.f3 Ke6 27.Bc8+ Kd5 28.Bb7+ Ke6
+29.Bc6 Nd6 30.Bf2 Be5 31.h4 f4 32.exf4 Bxf4 33.a5 bxa5 34.Bxc5 Nf5 35.Bb6 Bd2
+36.Bd8 Nd4 37.Ba4 Kd6 38.Kg2 Ne6 39.Bb6 Nc5 40.Bxc5+ Kxc5  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.05"]
+[Round "5.2"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2789"]
+[BlackElo "2794"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.a5 d6 10.d3 Be6 11.Bxe6 fxe6 12.h3 Qb8 13.c3 Qb5 14.c4 Qb7 15.Nbd2 Nd7
+16.Nb3 Nd8 17.d4 exd4 18.Nbxd4 c5 19.Nxe6 Nxe6 20.Qd5 Qxd5 21.exd5 Rxf3 22.gxf3 Ne5
+23.Rxe5 dxe5 24.dxe6 Rd8 25.Be3 g5 26.Kf1 Kg7 27.Ke2 Kf6 28.Rd1 Rxd1 29.Kxd1 Kxe6
+30.Kc2 Kf5 31.Kd3 Bd6 32.b3 Be7 33.Bc1 Bd6 34.Be3 Be7 35.Bc1 Bd6 36.Be3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.05"]
+[Round "5.1"]
+[White "Hou Yifan"]
+[Black "Vitiugov,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2735"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Re8 10.d4 Bb7 11.Nbd2 Bf8 12.d5 Nb8 13.Nf1 Nbd7 14.N3h2 c6 15.dxc6 Bxc6
+16.Bg5 Qc7 17.Ng3 a5 18.Bxf6 Nxf6 19.Ng4 Nxg4 20.hxg4 a4 21.Bd5 Bxd5 22.Qxd5 a3
+23.bxa3 Rxa3 24.Rab1 Qc4 25.Qxb5 Qxb5 26.Rxb5 Rxa2 27.Nf5 Rc2 28.Ne3 Rxc3
+29.Ra1 Rcc8 30.Rb7 Rb8 31.Raa7 Rxb7 32.Rxb7 h6 33.Nd5 Ra8 34.Kh2 g6 35.f3 Kg7
+36.Nc7 Rc8 37.Nd5 Ra8 38.Nc7 Rc8 39.Nd5  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.05"]
+[Round "5.3"]
+[White "Anand,V"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2784"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 c5 7.dxc5 a6 8.Be3 Ne7
+9.Be2 Be4 10.Ng5 Nxe5 11.Nxe4 dxe4 12.c3 Nf5 13.Bd4 Nc6 14.O-O Be7 15.Bc4 O-O
+16.Re1 b5 17.cxb6 Ncxd4 18.b7 Rb8 19.cxd4 a5 20.d5 e5 21.d6 Nxd6 22.Bd5 Nxb7
+23.Rxe4 Bf6 24.Rc1 Qd7 25.Bc6 Qxd1+ 26.Rxd1 Rfc8 27.Bxb7 Rxb7 28.Ra4 h6 29.Rxa5 Rc2
+30.Rb1 e4 31.Ra4 Re7 32.Re1 Rxb2 33.Kf1 Rc7 34.Raxe4 Rxa2 35.R4e2 Rxe2 36.Rxe2 Re7
+37.Rxe7 Bxe7 38.Nc1 h5 39.h3 g6 40.g4 hxg4 41.hxg4  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.05"]
+[Round "5.5"]
+[White "Naiditsch,A"]
+[Black "Bluebaum,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2701"]
+[BlackElo "2631"]
+[ECO "A13"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.b3 Be7 5.Bb2 O-O 6.Nc3 dxc4 7.bxc4 c5 8.Rg1 Nc6
+9.g4 e5 10.g5 Ne8 11.Qb1 f5 12.gxf6 Nxf6 13.Be2 Kh8 14.Ng5 h6 15.Nf3 Ne8
+16.Nd5 Bf5 17.d3 Bd6 18.Bc3 Rb8 19.Qb2 Bxd3 20.Bxd3 Rxf3 21.Qe2 Rf8 22.Qh5 Ne7
+23.Rxg7 Kxg7 24.O-O-O Rf7 25.Rg1+ Kf8 26.Qxh6+ Rg7 27.Rxg7 Nxg7 28.Qf6+ Kg8
+29.Bxe5 Nef5 30.Bxf5 Qxf6 31.Nxf6+ Kf7 32.Bxd6 Rd8 33.Bc7 Rh8 34.Be4 Kxf6
+35.Bxb7 Nf5 36.Bf4 Rg8 37.a4 Rg1+ 38.Kd2 Rb1 39.Bc6 Rb2+ 40.Ke1 Rb4 41.a5 Rxc4
+42.a6 Rb4 43.Bb7 Ke6 44.Bc8+ Kf6 45.Kd2 Rb2+ 46.Kd3 Rxf2 47.Ke4 Ra2 48.Be5+ Kg5
+49.Bb8 Ra4+ 50.Ke5 c4 51.Bxf5 Ra5+ 52.Kd4 Kxf5 53.Bxa7 Rxa6 54.Bc5 Ra4 55.e4+ Ke6
+56.Kc3 Ke5 57.Bb4 Ra2 58.Kxc4 Rxh2 59.Kd3 Rh3+ 60.Ke2 Kxe4 61.Kf2 Rb3 62.Bd6 Rb2+
+63.Kg3 Rc2 64.Bb8 Rc3+ 65.Kg2 Rb3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.05"]
+[Round "5.4"]
+[White "Meier,Geo"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2648"]
+[BlackElo "2843"]
+[ECO "E10"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Qc2 c6
+9.Bf4 Ne4 10.h4 Ndf6 11.Nbd2 Nxd2 12.Nxd2 Nh5 13.Be3 f5 14.Bf3 Qe8 15.Bg5 Nf6
+16.e3 b6 17.Rac1 Ba6 18.a3 Ne4 19.Bxe7 Qxe7 20.Be2 Bb7 21.b4 Rac8 22.c5 e5
+23.dxe5 Qxe5 24.Nxe4 fxe4 25.Qc3 Qf5 26.a4 g5 27.hxg5 Qxg5 28.Kg2 Rc7 29.Rh1 Rg7
+30.Rcg1 Qf5 31.Rf1 Ba6 32.b5 cxb5 33.Rh5 Qf7 34.Qe5 Bb7 35.cxb6 bxa4 36.bxa7 Ba8
+37.Rg5 Qxa7 38.Bg4 Kh8 39.Ra1 Qe7 40.Qxg7+ Qxg7 41.Rxg7 Kxg7 42.Rxa4 Bc6
+43.Rb4  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.06"]
+[Round "6.2"]
+[White "Caruana,F"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2654"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nd7
+9.O-O-O Nf6 10.h3 c5 11.Bf4 Be6 12.a3 d5 13.Ng5 Bd7 14.g4 Bc6 15.Bg2 Re8
+16.Qd3 Bd6 17.Qg3 Bxf4+ 18.Qxf4 h6 19.Nf3 Qb8 20.Qxb8 Raxb8 21.Nd2 Re2 22.Rhf1 b6
+23.Rde1 Rbe8 24.Rxe2 Rxe2 25.Kd1 Re6 26.f4 Kf8 27.Re1 Ke7 28.Rxe6+ Kxe6 29.Ke2 g5
+30.fxg5 hxg5 31.Nf3 Ne4 32.Ke3 f6 33.Bf1 Nd6 34.Nd2 f5 35.gxf5+ Nxf5+ 36.Kf2 Ke5
+37.Nf3+ Kf4 38.Ne1 c4 39.Ng2+ Ke5 40.Be2 Ba4 41.Bd1 Be8 42.Bg4 Bg6 43.Be2 Nd6
+44.Ne3 Ne4+ 45.Kf3 Nf6 46.Kf2 Bf7 47.Ng2 Be6 48.h4 Ne4+ 49.Kf3 Bh3 50.hxg5 Nxg5+
+51.Kg3 Bxg2 52.Kxg2 Ne6 53.Kf2 Nc5 54.Bh5 Na4 55.Be8 Nxb2 56.Ke2 a6 57.Kd2 b5
+58.Bh5 Na4 59.Bf7 Nc5 60.Kc1 Ne6 61.Kb2 Nf4 62.Be8 Ke4 63.Bc6 Ke3 64.Bb7 a5
+65.Kc1 Ne2+ 66.Kb2 Kd2 67.Bxd5 Nxc3 68.Bc6 Nd1+ 69.Kb1 Ne3 70.Be4 c3 71.Bh7 Nc4
+72.Ka2 Ne5 73.Be4 Ke3 74.Bh7 Nc6 75.Bg6 Kd2 76.Be4 Nd4 77.Kb1 Kd1 78.Bd5 Nf5
+79.Be4 Ne3 80.Bg6 Kd2 81.Bd3 Nc4 82.Ka2 Nb6 83.Kb1 Nc4 84.Ka2 a4 85.Bg6 Kc1
+86.Bd3 Nd6 87.Ka1 Nb7 88.Ka2 Nc5 89.Bf5 Na6 90.Bg6 Kd2 91.Bh7 Nb8 92.Bd3 Nc6
+93.Bxb5 Nd4 94.Bxa4 Nxc2 95.Kb3 Nd4+ 96.Kc4 Nc2 97.Kb3 Ne3 98.Kb4 c2  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.06"]
+[Round "6.4"]
+[White "Vitiugov,N"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2735"]
+[BlackElo "2789"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.Qa4 Bg7 6.cxd5 O-O 7.dxc6 Nxc6 8.Nf3 Nd5
+9.e3 Nb6 10.Qd1 e5 11.O-O Bg4 12.dxe5 Qxd1 13.Rxd1 Nxe5 14.Nbd2 Rfd8 15.Rf1 Nd3
+16.Nb3 Nxc1 17.Raxc1 Bxb2 18.Rc2 Bf6 19.Nfd4 Rac8 20.Rfc1 Rxc2 21.Rxc2 Nd5
+22.Rc5 Nb4 23.Bxb7 Nxa2 24.Ra5 Nc3 25.Rxa7 Ne2+ 26.Nxe2 Bxe2 27.Kg2 Bc4 28.Na5 Be6
+29.Bf3 Rd2 30.Nc6 Ra2 31.Rc7 Bg5 32.Nb4 Rd2 33.Rc3 Bf6 34.Rc2 Rxc2 35.Nxc2 Kf8
+36.Nb4 Bc3 37.Nc6 h6 38.Nd4 Ke7 39.Bb7 Kf6 40.f4 g5 41.Kf3 gxf4 42.gxf4 Bb2
+43.Ne2 Ke7 44.Ng3 f5 45.Ne2 Kf6 46.Nd4 Bc4 47.Bc8 Bd3 48.Kf2 Bc3 49.Bb7 Bb2
+50.Bg2 Ba6 51.Bf1 Bc8 52.Bh3 Bc3 53.Nb5 Bd2 54.Nd4 Bc3 55.Ne2 Bd2 56.Ng3 Bc1
+57.Ne4+ fxe4 58.Bxc8 h5 59.h4 Ba3 60.Bd7 Be7 61.Be8 Kf5 62.Kg3 Bc5 63.Kf2 Be7
+64.Bxh5 Bxh4+ 65.Ke2 Bg3 66.Bf3 Bxf4 67.Bxe4+ Kxe4 68.exf4 Kxf4  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.06"]
+[Round "6.5"]
+[White "Bluebaum,M"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2631"]
+[BlackElo "2776"]
+[ECO "D30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 dxc4 4.e3 b5 5.a4 b4 6.Bxc4 Nf6 7.a5 a6 8.Nbd2 Bb7
+9.O-O c5 10.Nb3 Nbd7 11.dxc5 Nxc5 12.Nxc5 Bxc5 13.Qa4+ Qd7 14.Qxd7+ Nxd7
+15.Bd2 Ke7 16.Rac1 Rhc8 17.Nd4 Ne5 18.Be2 Bd6 19.Rfd1 Bd5 20.Rxc8 Rxc8 21.Bxa6 Ra8
+22.Bf1 Rxa5 23.Nb5 Bc5 24.Rc1 Ra2 25.Rxc5 Rxb2 26.e4 Rxd2 27.exd5 exd5 28.Rc1 b3
+29.Rb1 b2 30.Nc3 Nc4 31.Nxd5+ Rxd5 32.Bxc4 Rc5 33.Re1+ Kf6 34.Bd3 Rd5 35.Bb1 h5
+36.g3 g5 37.Kg2 g4 38.Re2 Rb5 39.Re8 Rd5 40.Re2 Rb5 41.h4 Kg7 42.Re7 Rd5
+43.Rb7 Rd2 44.Ba2 Kh6 45.Bxf7  1-0
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.06"]
+[Round "6.3"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2843"]
+[BlackElo "2794"]
+[ECO "A18"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.e5 Ne4 6.Nf3 Bf5 7.d3 Nxc3 8.bxc3 c5
+9.d4 c4 10.g3 Be7 11.Bg2 Bd3 12.Ng1 Qa5 13.Bd2 Nc6 14.Ne2 Ba3 15.O-O O-O
+16.Re1 Rad8 17.Bg5 Bb2 18.Bxd8 Rxd8 19.Rc1 Bxe2 20.Qxe2 Bxc1 21.Rxc1 Qa3
+22.Qe3 b5 23.e6 f6 24.h4 Ne7 25.Rb1 a6 26.Qd2 Qd6 27.a4 bxa4 28.Qa2 a3 29.Rb4 h5
+30.Qxa3 Nc6 31.Ra4 Qxa3 32.Rxa3 a5 33.e7 Nxe7 34.Rxa5 Rb8 35.Bxd5+ Nxd5 36.Rxd5 Rb3
+37.Rxh5 Rxc3 38.Rc5 Rc1+ 39.Kg2 c3 40.Kf3 c2 41.Kf4 Rd1 42.Rxc2 Rxd4+ 43.Kf5 Kh7
+44.f4 Ra4 45.Rc5 Kh6 46.Rd5 Ra6 47.g4 g6+ 48.Ke4 Ra4+ 49.Rd4 Ra5 50.Rd5 Ra4+
+51.Ke3 Ra3+ 52.Rd3 Ra6  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.06"]
+[Round "6.1"]
+[White "Meier,Geo"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteElo "2648"]
+[BlackElo "2701"]
+[ECO "E10"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 b6
+9.Rd1 Bb7 10.b3 Nbd7 11.Nc3 Rc8 12.Bf4 c5 13.Nb5 cxd4 14.Nd6 Bxd6 15.Bxd6 Re8
+16.Nxd4 Nc5 17.Bxc5 Rxc5 18.Qb2 e5 19.Nb5 Qb8 20.e3 h5 21.Qe2 a6 22.Na3 d4
+23.Nc2 Bxg2 24.Kxg2 Ne4 25.Qf1 h4 26.f3 Nc3 27.Rd2 hxg3 28.hxg3 Re6 29.Qf2 Rf6
+30.exd4 Ne4 31.Qe3 Nxd2 32.dxc5 Nxf3 33.cxb6 Qb7  0-1
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.07"]
+[Round "7.1"]
+[White "Anand,V"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2648"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.g3 Be7 6.Nf3 Ngf6 7.Qe2 Nxe4 8.Qxe4 Rb8
+9.Bg2 b5 10.O-O O-O 11.Rd1 Bb7 12.Qe2 Nf6 13.c3 a6 14.a4 Bd5 15.Ne5 Bxg2
+16.Kxg2 Qd5+ 17.Qf3 Qxf3+ 18.Kxf3 Bd6 19.axb5 axb5 20.Bg5 Bxe5 21.dxe5 Nd5
+22.Ra6 c5 23.Be3 Rfc8 24.Rda1 h5 25.Ra7 c4 26.Rd7 b4 27.Bd4 bxc3 28.bxc3 Rb3
+29.Rxd5 exd5 30.Kf4 Rbb8 31.Kg5 Ra8 32.Re1 Rc6 33.f4 Ra2 34.h3 Rd2 35.f5 Rd3
+36.Kf4 h4 37.e6 Kf8 38.gxh4 fxe6 39.Ra1 exf5 40.Kxf5 Rxh3 41.Ra8+ Ke7 42.Ra7+ Ke8
+43.Ke5 Rxh4 44.Kxd5 Rg6 45.Bxg7  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.07"]
+[Round "7.2"]
+[White "Aronian,L"]
+[Black "Vitiugov,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2794"]
+[BlackElo "2735"]
+[ECO "A11"]
+
+1.c4 c6 2.g3 d5 3.Nf3 Nf6 4.Bg2 dxc4 5.O-O Nbd7 6.Na3 Nb6 7.Qc2 g6 8.Nxc4 Nxc4
+9.Qxc4 Bg7 10.d3 O-O 11.Bd2 Nd5 12.Qc1 a5 13.Bh6 Bg4 14.Bxg7 Kxg7 15.Ne5 Be6
+16.d4 Nf6 17.Rd1 Qb6 18.e4 Rfd8 19.Qc3 Kg8 20.Rd3 Rd6 21.Rad1 Rad8 22.b3 Qb4
+23.Qa1 a4 24.h3 axb3 25.axb3 Nd7 26.Nxd7 R6xd7 27.d5 cxd5 28.exd5 Bf5 29.Re3 Be6
+30.Rde1 Bxd5 31.Bxd5 Rxd5 32.Rxe7 Qxe7 33.Rxe7 Rd1+ 34.Qxd1 Rxd1+ 35.Kg2 b6
+36.Kf3 Rd3+ 37.Re3 Rd2 38.Re4 Rd3+ 39.Re3 Rd2 40.Re4 Rd3+  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.07"]
+[Round "7.3"]
+[White "Vachier Lagrave,M"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2789"]
+[BlackElo "2784"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ng5 Bxc3 8.bxc3 Re8
+9.Qc2 d5 10.cxd5 Qxd5 11.d3 Bf5 12.Bf4 h6 13.Nxe4 Nxe4 14.Qb2 b6 15.Rfd1 Qc5
+16.dxe4 Bxe4 17.Bf1 Re7 18.a4 Rae8 19.Rac1 g5 20.Bd2 Qf5 21.f3 Qc5+ 22.Kh1 Bd5
+23.Be1 Bc4 24.e4 Bxf1 25.Bf2 Qc4 26.Rxf1 Qxa4 27.c4 Ne5 28.Bd4 g4 29.fxg4 Qd7
+30.Qc3 c5 31.Bxe5 Rxe5 32.Qf3 Rxe4 33.Rcd1 Qe6 34.g5 hxg5 35.Rd5 g4 36.Qc3 Re5  0-1
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.07"]
+[Round "7.5"]
+[White "Hou Yifan"]
+[Black "Bluebaum,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2631"]
+[ECO "A13"]
+
+1.c4 e6 2.Nf3 d5 3.e3 Nf6 4.b3 Be7 5.Bb2 O-O 6.Nc3 c5 7.cxd5 Nxd5 8.Qc2 Nb4
+9.Qb1 b6 10.a3 Nd5 11.Nxd5 exd5 12.d4 Nc6 13.Bb5 Bd7 14.O-O Nxd4 15.Nxd4 cxd4
+16.Bxd7 Qxd7 17.Bxd4 Rfc8 18.Rd1 Rc6 19.Qb2 Qf5 20.Qe2 Rc2 21.Qf3 Qxf3 22.gxf3 Bh4
+23.e4 dxe4 24.fxe4 Bg5 25.a4 Bd2 26.Rab1 Rac8 27.Rb2 Rxb2 28.Bxb2 Rc2 29.Bd4 f6
+30.Kg2 Kf7 31.Kf3 Ke6 32.h3 h5 33.Ke2 Bf4+ 34.Kf3 Bd2 35.Ke2 Bf4+ 36.Kf3 g5
+37.Rd3 Bd2 38.Ke2 Bf4+ 39.Kf3 Be5 40.Be3 Rb2 41.a5 bxa5 42.Bxa7 f5 43.exf5+ Kxf5
+44.Kg2 g4 45.hxg4+ hxg4 46.Rd5 Rxb3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.07"]
+[Round "7.4"]
+[White "Naiditsch,A"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2701"]
+[BlackElo "2843"]
+[ECO "B91"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3 Be7 8.Bg2 O-O
+9.O-O Be6 10.Re1 Nbd7 11.Nd2 b5 12.Nf1 Bg4 13.f3 Be6 14.Ne3 Rc8 15.a3 Nb6
+16.f4 Re8 17.Kh1 Bf8 18.f5 Bd7 19.Qd3 h6 20.b3 Bc6 21.Bd2 Qc7 22.Rac1 Qb7
+23.Ned5 Bxd5 24.exd5 Nbd7 25.Nd1 e4 26.Qd4 Ne5 27.Nf2 Nf3 28.Bxf3 exf3 29.c4 bxc4
+30.bxc4 Re5 31.Re3 Rxe3 32.Qxe3 Qb2 33.Nd3 Qxa3 34.Qxf3 Qa2 35.Bc3 Rxc4 36.Ra1 Qb3
+37.Bxf6 gxf6 38.Kg2 Rc3 39.Rd1 h5 40.Kh3 Bh6 41.Re1 Rxd3 42.Qxh5 Re3  0-1
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.08"]
+[Round "8.3"]
+[White "Carlsen,M"]
+[Black "Vitiugov,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2843"]
+[BlackElo "2735"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Bc5 7.c3 O-O 8.O-O Re8
+9.Re1 h6 10.Nbd2 Bb6 11.Nf1 d6 12.Ng3 Be6 13.h3 Bxb3 14.axb3 d5 15.Qe2 Bc5
+16.b4 Bf8 17.Nd2 a5 18.bxa5 Rxa5 19.Rxa5 Nxa5 20.exd5 Qxd5 21.Nde4 Nxe4 22.dxe4 Qc4
+23.Qf3 Qe6 24.Nf5 Nc4 25.h4 Kh7 26.h5 g6 27.Ne3 Nxe3 28.hxg6+ fxg6 29.Bxe3 Bd6
+30.Qe2 Qc4 31.Qxc4 bxc4 32.Ra1 Rb8 33.Bc1 Rb6 34.Ra4 Rc6 35.Be3 h5 36.Kf1 Kg7
+37.Ke2 Kf6 38.Kd1 Ke6 39.Kc2 Be7 40.f3 Bh4 41.Ra5 Bg3 42.Bc5 g5 43.Bb4 g4
+44.fxg4 hxg4 45.Ra8 Kf7 46.Rc8 Bf4 47.Kd1 Kg7 48.Ke2 Kf7 49.Rf8+ Kg7 50.Rd8 Kf7
+51.Kf2 Kg7 52.Rd7+ Kf6 53.g3 Bc1 54.Rd1 Bg5 55.Ke2 Ke6 56.Rh1 Ra6 57.Ba3 Rb6
+58.Rh7 Rb7 59.Kd1 Rb8 60.Kc2 Rd8 61.Rg7 Rd2+ 62.Kc1 Bf6 63.Kxd2 Bxg7 64.Bc5 Kd7
+65.Be3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.08"]
+[Round "8.5"]
+[White "Meier,Geo"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteElo "2648"]
+[BlackElo "2654"]
+[ECO "E06"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bg5 Bd5 11.Qc2 Be4 12.Qd1 c5 13.dxc5 Bxc5 14.Qxd8 Rxd8 15.Nbd2 Bc6
+16.Rfc1 Bb4 17.Rc4 Be7 18.Ne5 Bxg2 19.Kxg2 Nbd7 20.Nd3 Rac8 21.Rac1 Nb6 22.Rxc8 Rxc8
+23.Rxc8+ Nxc8 24.e4 Nd7 25.Be3 Nd6 26.f4 f5 27.Kf3 Kf7 28.g4 g6 29.h3 Ke8
+30.Bd4 Kd8 31.Bc3 Ke8 32.Bd4 Kd8 33.Bc3 Ke8  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.08"]
+[Round "8.4"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2794"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Nf5 11.d5 Re8 12.Bd3 Rxe1+ 13.Qxe1 Qe7 14.Qxe7 Nxe7 15.d6 cxd6
+16.Na3 d5 17.Nb5 d6 18.Nxd6 Nc6 19.Bf4 Be6 20.Nxb7 Nb4 21.Nc5 Bxb2 22.Rb1 Nxd3
+23.cxd3 Bd4 24.Be3 Bxc5 25.Bxc5 d4 26.Bxa7 Bxa2 27.Rb8+ Rxb8 28.Bxb8 Bb1
+29.Ba7 Ba2 30.Bb8 Bb1 31.Ba7 Ba2 32.Bb8  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.08"]
+[Round "8.1"]
+[White "Naiditsch,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2701"]
+[BlackElo "2776"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6
+9.Nc3 O-O 10.Be3 Bg4 11.h3 Bh5 12.Qc2 Bxf3 13.gxf3 Ng5 14.O-O-O Nxf3 15.Bxc6 bxc6
+16.Qf5 Nh4 17.Qg4 Ng6 18.f4 Qh4 19.Rd3 Qxg4 20.hxg4 f5 21.g5 Kf7 22.Rxh7 Rh8
+23.Rxh8 Rxh8 24.a3 Nf8 25.Ne2 Ke7 26.Rc3 Kd7 27.Kd2 Ne6 28.Rc1 g6 29.b4 a5
+30.Kd3 axb4 31.axb4 Ba7 32.Ra1 Bb6 33.Ra6 Rb8 34.Ra2 Rh8 35.Ra1 Ke7 36.Ra2 Kd7
+37.Ra1 Ke7 38.Ra2  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.08"]
+[Round "8.2"]
+[White "Bluebaum,M"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2631"]
+[BlackElo "2789"]
+[ECO "A34"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.dxc3 Qc7 7.e4 Nc6 8.Qd2 e6
+9.Qg5 f6 10.Qh5+ Qf7 11.Qxf7+ Kxf7 12.Be3 e5 13.Bc4+ Be6 14.Bxe6+ Kxe6 15.O-O-O Be7
+16.Rd5 Rhd8 17.Rhd1 b6 18.g4 Na5 19.b3 Rxd5 20.exd5+ Kf7 21.c4 Nb7 22.Nd2 Rh8
+23.Rg1 Nd6 24.Kc2 Re8 25.Kd3 h5 26.g5 f5 27.f4 e4+ 28.Ke2 g6 29.Rc1 Rc8 30.a4 Nb7
+31.Nf1 Bf8 32.Bd2 Bg7 33.Ne3 a6 34.Bc3 Bd4 35.Kd2 Re8 36.Rc2 Nd6 37.Ra2 Nb7
+38.Rc2 Ke7 39.Ra2 Na5 40.Bxa5 bxa5 41.Rc2 Rb8 42.Rc3 h4 43.h3 Kd6 44.Kc2 Bxe3
+45.Rxe3  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.09"]
+[Round "9.5"]
+[White "Vachier Lagrave,M"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteElo "2789"]
+[BlackElo "2648"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d4 b5 6.Qd3 O-O 7.Bg5 c6 8.Nbd2 a5
+9.e4 Ba6 10.Rfe1 h6 11.Bxf6 Bxf6 12.c3 b4 13.c4 dxc4 14.Nxc4 Ra7 15.Qc2 Bxc4
+16.Qxc4 Rd7 17.Rad1 Qb6 18.Bf1 Rfd8 19.e5 Be7 20.Rc1 Qa7 21.Rc2 c5 22.Rec1 cxd4
+23.Qd3 a4 24.b3 axb3 25.axb3 Qa5 26.Rc8 g6 27.h4 Kg7 28.h5 gxh5 29.Be2 Rxc8
+30.Rxc8 Rd8 31.Rxd8 Bxd8 32.Qe4 Nd7 33.Bd3 Nf8 34.Nxd4 Qc5 35.Nf3 Bb6 36.Qe2 Nd7
+37.Kg2 Qd5 38.Bc4 Qc5 39.Bb5 Nf8 40.Bd3 Nd7 41.Bb5 Nf8 42.Bd3 Ng6 43.Qc2 Qc3
+44.Be4 Bc7 45.Bxg6 fxg6 46.Qe4 Qc5 47.Qh4 Bxe5 48.Nxe5 Qxe5 49.Qe7+ Kg8 50.Qe8+ Kg7
+51.Qe7+ Kg8 52.Qe8+  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.09"]
+[Round "9.4"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2843"]
+[ECO "B67"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f3 Nxd4 10.Qxd4 Be7 11.Kb1 b5 12.Bxf6 gxf6 13.Ne2 Rc8 14.Qd2 Qb6 15.Nf4 h5
+16.g3 Rc7 17.Bd3 Kd8 18.c3 Kc8 19.Bc2 Kb8 20.a3 a5 21.Bb3 Rb7 22.Nd3 Bc6
+23.Rhe1 Rd8 24.f4 d5 25.exd5 exd5 26.Ka1 Bf8 27.Rc1 Ka7 28.Ba2 Rc7 29.Red1 Bb7
+30.Ne1 d4 31.Nc2 d3 32.Nd4 Bc5 33.Qxd3 Bxd4 34.cxd4 Rxd4 35.Qe2 Rxc1+ 36.Rxc1 b4
+37.Bxf7 h4 38.Qe3 Rd7 39.Qxb6+ Kxb6 40.Be6 Rd2 41.gxh4  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.09"]
+[Round "9.3"]
+[White "Vitiugov,N"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2735"]
+[BlackElo "2784"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.dxe5 d5 5.Nbd2 Qd7 6.Bd3 Nc5 7.Be2 g6 8.Nb3 Ne6
+9.Be3 c5 10.Ng5 b6 11.Nxe6 fxe6 12.a4 Bb7 13.O-O Nc6 14.f4 Bh6 15.a5 Ne7
+16.Bg4 d4 17.Bc1 O-O 18.Qd3 Bd5 19.Qh3 Bg7 20.Nd2 Nf5 21.c4 dxc3 22.bxc3 Rad8
+23.axb6 axb6 24.Re1 b5 25.Ne4 Qe7 26.Ng5 h6 27.Nf3 Bc6 28.Bxf5 gxf5 29.Be3 Rd3
+30.Rac1 Ra8 31.Qh4 Qxh4 32.Nxh4 c4 33.Kf2 Bf8 34.Nf3 Bd5 35.Nd4 Bc5 36.Nxf5 Ba3
+37.Nxh6+ Kg7 38.f5 Bxc1 39.Bxc1 Rxc3 40.f6+ Kg6  0-1
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.09"]
+[Round "9.2"]
+[White "Aronian,L"]
+[Black "Bluebaum,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2794"]
+[BlackElo "2631"]
+[ECO "D39"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 dxc4 6.e4 c5 7.Bxc4 cxd4 8.Nxd4 Bxc3+
+9.bxc3 Qa5 10.Bb5+ Bd7 11.Bxf6 gxf6 12.Bxd7+ Nxd7 13.O-O Qxc3 14.Rc1 Qa5
+15.Rb1 Rd8 16.Rxb7 Ne5 17.f4 Nc6 18.Nxc6 Qc5+ 19.Kh1 Qxc6 20.Qb3 Qxe4 21.f5 O-O
+22.fxe6 fxe6 23.Rxa7 Rf7 24.Rxf7 Kxf7 25.Qc3 Qd4 26.Qf3 Rd5 27.h3 h5 28.a4 h4
+29.Qf4 Qxf4 30.Rxf4 Rd1+ 31.Kh2 e5 32.Rxh4 f5 33.Rb4 Ra1 34.h4 Kg6 35.g4 fxg4
+36.Rxg4+ Kf5 37.Rb4 e4 38.Kg2 Kf4 39.h5 Ra2+ 40.Kh3 Ra3+ 41.Kg2 Ra2+  1/2-1/2
+
+[Event "GRENKE Chess Classic 2018"]
+[Site "Karlsruhe/Baden Baden GER"]
+[Date "2018.04.09"]
+[Round "9.1"]
+[White "Hou Yifan"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2701"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O h6 7.Re1 a5 8.Nbd2 O-O
+9.Nf1 Be6 10.Bxe6 fxe6 11.Be3 Bxe3 12.Nxe3 d5 13.h3 a4 14.Qe2 a3 15.b4 d4
+16.cxd4 exd4 17.Nc2 Nh5 18.b5 Nf4 19.Qd1 Ne5 20.Nxe5 Qg5 21.Ng4 h5 22.Nxd4 hxg4
+23.Qxg4 Qxg4 24.hxg4 Rad8 25.Nb3 Nxd3 26.Re2 b6 27.f3 Rd7 28.Rc2 Rfd8 29.Kf1 g5
+30.Ke2 Rh7 31.Rd2 Nf4+ 32.Kf2 Rxd2+ 33.Nxd2 Rh2 34.Rg1 Nh3+ 35.Kg3 Nxg1 36.Kxh2 Ne2
+37.Nc4 Nc3 38.Nxa3 Nxa2 39.g3 Nb4 40.Kg2 c6 41.f4 cxb5 42.Nxb5 e5 43.Kf3 Nd3
+44.Ke3 Nc5 45.f5 Kf7 46.Nc7 Nb7 47.Ne6 Kf6 48.Nf8 Ke7 49.Nh7 b5 50.Nxg5 b4
+51.Nf3 b3 52.Nd2 Nc5 53.g5 b2 54.Nb1 Kf7 55.g6+ Kg7 56.g4 Kf6 57.Kf3 Kg7
+58.g5 Nd3 59.Ke2 Nc5 60.Ke3 Na4 61.Ke2 Nc5 62.Kf3 Nd3 63.Kg4 Nf4 64.Kf3  1/2-1/2

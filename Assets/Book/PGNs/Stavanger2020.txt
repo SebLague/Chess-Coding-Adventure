@@ -1,0 +1,1116 @@
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.05"]
+[Round "1.1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2863"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2020.10.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd2 b6 7. cxd5 exd5 8. Rc1
+Re8 9. Bd3 Ba6 10. Bxa6 Nxa6 11. O-O Bf8 12. Ne2 Qc8 13. Qa4 c5 14. Ng3 Qb7 15.
+dxc5 Nxc5 16. Qb5 Rac8 17. Rfd1 a6 18. Qf1 Nfe4 19. Be1 g6 20. Ne2 Na4 21. Rb1
+Bg7 22. Nfd4 Nac5 23. Nf3 Ne6 24. Ned4 Nxd4 25. Nxd4 Rc4 26. b3 Rc7 27. Qd3 Nc5
+28. Qd2 Ne4 29. Qd3 Nc5 30. Qd2 Ne4 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.05"]
+[Round "1.2"]
+[White "Tari,A"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2828"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[WhiteFideId "1510045"]
+[BlackFideId "2020009"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11. Qd2 h6 12. Rad1 e5 13. Be3 Bxe3 14. fxe3 Be6 15.
+Qxd6 Rc8 16. a4 h5 17. h3 Qxd6 18. Rxd6 Nd7 19. h4 Ke7 20. Rd2 Nb6 21. Nd5+ Bxd5
+22. exd5 Nc4 23. Re2 Nd6 24. e4 a5 25. Ra1 Rc4 26. c3 f6 27. Re3 Rhc8 28. Kf2 g5
+29. Bf3 g4 30. Bg2 R4c5 31. Bf1 f5 32. exf5 Rxd5 33. Rd3 Rcc5 34. Rad1 Rxd3 35.
+Bxd3 e4 36. Be2 Nxf5 37. Bb5 Nd6 38. Be2 Ke6 39. Rc1 Ke5 40. Rd1 Rc7 41. Kg2 b6
+42. Ba6 Rf7 43. Be2 Rf8 44. Rb1 Nf5 45. b4 Ne3+ 46. Kg1 Nd5 47. Rb3 Rc8 48. bxa5
+bxa5 49. c4 Nb4 50. Rb1 Kd4 51. Bf1 Nd3 52. Rb5 Rc5 53. Bxd3 exd3 54. Kf2 Kxc4
+55. Rb1 Re5 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.05"]
+[Round "1.3"]
+[White "Duda,J"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2728"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14. Ne4 c5
+15. Be3 Nxe4 16. Qxe4 Nf6 17. Qxb7 Nd5 18. Qa6 Rb8 19. Bd2 cxd4 20. Nxd4 Bf6 21.
+Nb3 Qc7 22. Rhe1 Rfc8 23. Rc1 Nb6 24. Re4 Nc4 25. Bf4 Qb6 26. Qxb6 Rxb6 27. Be3
+Rb4 28. f3 a5 29. Rxc4 Rcxc4 30. Bd2 Rb5 31. Bxa5 Rxh5 32. Rg1 Rb5 33. Bd2 h5
+34. c3 g5 35. Kc2 g4 36. Nc1 g3 37. b3 Rc8 38. a4 Rf5 39. Ne2 h4 40. c4 e5 41.
+Be3 Bg5 42. Bxg5 Rxg5 43. Rh1 Rh5 44. Kc3 f5 45. b4 f4 46. a5 h3 47. gxh3 e4 48.
+fxe4 g2 49. Rg1 Rxh3+ 50. Kd4 f3 51. c5 Kf7 52. Nf4 f2 0-1
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.05"]
+[Round "1.1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2863"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2020.10.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 a6 5. cxd5 exd5 6. Bg5 Be6 7. Bxf6 Qxf6 8.
+Qb3 b6 9. g3 Qd8 10. h4 Be7 11. Bh3 O-O 12. O-O-O Bxh3 13. Rxh3 c6 14. e4 dxe4
+15. Nxe4 Nd7 16. Qc2 Nf6 17. Ne5 Nxe4 18. Qxe4 Bf6 19. g4 Re8 20. g5 Bxe5 21.
+dxe5 Qe7 22. f4 Rad8 23. Rhd3 Rxd3 24. Qxd3 Qe6 25. b3 Qg4 26. Qe4 g6 27. Rd2 c5
+28. Qc6 Rf8 29. Qf6 Qxh4 30. Kc2 Qe1 31. Qc6 Qe3 32. Qf6 b5 33. Rd3 Qe2+ 34. Rd2
+Qe4+ 35. Kb2 c4 36. bxc4 bxc4 37. Ka3 Qe3+ 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.06"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Firouzja,Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2728"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[WhiteFideId "1503014"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 7. Bh4 Be7 8. Bd3
+O-O 9. Nge2 Re8 10. O-O Nbd7 11. f3 b5 12. Bf2 Bb7 13. Ng3 b4 14. Na4 c5 15. Nf5
+Bf8 16. Nxc5 Nxc5 17. dxc5 Bxc5 18. Rc1 Qb6 19. Qa4 Bc8 20. Nd4 Bd7 21. Qa6 Re7
+22. Rfd1 Ne8 23. Qxb6 axb6 24. Bb1 Ba4 25. b3 Bd7 26. Ne2 Nc7 27. Rd2 Bc6 28.
+Nd4 Bb7 29. g4 Ne6 30. Nf5 Rc7 31. h4 Rac8 32. Rcd1 Bf8 33. Bg3 Rc3 34. Kf2 Bc5
+35. Bd3 d4 36. e4 Ra8 37. Bc4 Rc2 38. Bd3 Rcxa2 39. Be5 Rxd2+ 40. Rxd2 Ra5 41.
+Kg3 Ba6 42. Bxa6 Rxa6 43. Nxd4 Bxd4 44. Bxd4 Ra3 45. Rd3 Nxd4 46. Rxd4 Rxb3 47.
+Rd8+ Kh7 48. h5 Ra3 49. Rd4 Ra4 50. e5 Ra5 51. Rxb4 Rxe5 52. Rxb6 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.06"]
+[Round "2.2"]
+[White "Caruana,F"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2757"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "1170546"]
+[EventDate "2020.10.05"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. e3 Nf6 6. Bb5 Bd7 7. Nc3 a6 8. Bd3
+Bg4 9. Nge2 e6 10. O-O Bxe2 11. Qxe2 Be7 12. a3 O-O 13. Na4 h6 14. Bg3 Nd7 15.
+h3 Qa5 16. Qd1 Rfc8 17. b4 Qd8 18. Rb1 Ra7 19. Nc5 Ncb8 20. Qe2 a5 21. Rfc1 axb4
+22. axb4 Nf6 23. b5 b6 24. Na6 Rxc1+ 25. Rxc1 Nbd7 26. Rc6 Qf8 27. Qc2 Ra8 28.
+Rc7 Bd6 29. Bxd6 Qxd6 30. Qc6 Qf8 31. Rxd7 Nxd7 32. Qxd7 Rc8 33. g3 Rc3 34. Bf1
+Qc8 35. Qxc8+ Rxc8 36. h4 g5 37. Nb4 Kf8 38. Nc6 Ra8 39. Be2 Ra2 40. Kf1 Ra1+
+41. Kg2 Ra2 42. Bd3 Rd2 43. Bf1 f6 44. hxg5 hxg5 45. g4 Ke8 46. Kg3 Rd1 47. Be2
+Rg1+ 48. Kh2 Re1 49. Bd3 Rd1 50. Nb4 Kd7 51. Kg2 Ra1 52. f4 Ra3 53. fxg5 fxg5
+54. Nc6 Kd6 55. Ne5 Ke7 56. Kf3 Ra2 57. e4 Ra1 58. Ke3 Re1+ 59. Be2 Rg1 60. Kf2
+Ra1 61. Nf3 Kf6 62. Ke3 Ra8 63. Bd3 Rg8 64. Bb1 Ke7 65. Ne5 Ra8 66. Bd3 Rc8 67.
+Nc6+ Kd6 68. Ne5 Rf8 69. exd5 exd5 70. Bf5 Re8 71. Kd3 Re7 72. Bg6 Ra7 73. Ke3
+Ke6 74. Bf5+ Kd6 75. Kd2 Ra2+ 76. Kc3 Ra3+ 77. Kb4 Ra7 78. Bc2 Ke6 79. Nc6 Ra2
+80. Kb3 Ra1 81. Kc3 Rc1 82. Ne5 Rg1 83. Bf5+ Ke7 84. Nd7 Rc1+ 85. Kb3 Rc4 86.
+Nxb6 Rxd4 87. Kc3 Rd1 88. Nc8+ Kd8 89. b6 d4+ 90. Kc2 Re1 91. Nd6 Re3 92. Nf7+
+Ke7 93. b7 d3+ 94. Kd1 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.06"]
+[Round "2.3"]
+[White "Aronian,L"]
+[Black "Tari,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2633"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "13300474"]
+[BlackFideId "1510045"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Re1 Bd6 13. g3 Bf5 14. d4 Qf6 15.
+Be3 Qg6 16. Nd2 Rae8 17. Qf3 Bg4 18. Qg2 Qh5 19. h4 Be2 20. Nf1 Re6 21. Bd2 Rfe8
+22. a4 Bf3 23. Rxe6 Rxe6 24. Qh3 Bg4 25. Qh2 h6 26. axb5 axb5 27. Ne3 Bf3 28.
+Qh3 Be4 29. Qg4 Qxg4 30. Nxg4 f5 31. Ne5 Bxe5 32. dxe5 Kf8 33. f4 Re7 34. Bxd5
+cxd5 35. Be3 Rc7 36. Ra5 Bd3 37. Bd4 Rc6 38. Kf2 h5 39. Ke3 Bc4 40. Ra3 Rg6 41.
+b3 Bf1 42. Bc5+ Ke8 43. Bb4 Bg2 44. Kd4 Rc6 45. Ra7 g6 46. Re7+ Kd8 47. e6 Rc7
+48. Rf7 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.07"]
+[Round "3.1"]
+[White "Tari,A"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2863"]
+[ECO "B69"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6"]
+[WhiteFideId "1510045"]
+[BlackFideId "1503014"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 a6 8.
+O-O-O e6 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 Qb6 13. f5 O-O-O 14. Bd3 Kb8
+15. Ne2 Bc8 16. Nf4 Ne5 17. Be2 d5 18. exd5 exf5 19. Nd4 Bc5 20. Rhf1 Rhe8 21.
+a3 Ka8 22. h3 Bd7 23. Nh5 Nc4 24. Bxc4 bxc4 25. Qc3 Rb8 26. Rf3 Re1 27. Rxe1
+Bxd4 28. Qb4 Qc7 29. d6 Qc6 30. Qa5 Bxb2 31. Ka2 Be5 32. Rb1 Rxb1 33. Kxb1 Qxd6
+34. Kc1 Qd4 35. Qxa6+ Kb8 36. c3 Qg1+ 37. Kd2 Qxg2+ 38. Ke3 f4+ 39. Nxf4 Bxf4+
+40. Rxf4 Qg3+ 41. Rf3 Qe1+ 42. Kd4 Qe5+ 43. Kxc4 Qe4+ 44. Kc5 Qxf3 45. Kd6 Bc8 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.07"]
+[Round "3.2"]
+[White "Duda,J"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2767"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Rubinstein counter-gambit, exchange variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "13300474"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Nxd4 exd4 6. e5 dxc3 7. exf6 Qxf6
+8. dxc3 Qe5+ 9. Qe2 Qxe2+ 10. Kxe2 c6 11. Bd3 d5 12. Re1 Bd6 13. Bf4 Ke7 14.
+Kf3+ Be6 15. c4 dxc4 16. Bxc4 Bxf4 17. Kxf4 Rad8 18. Bxe6 fxe6 19. Re2 Rd4+ 20.
+Kg3 Rhd8 21. Rae1 R8d6 22. f4 Kf6 23. Kf3 h5 24. Re3 Rd2 25. R1e2 Rd1 26. g3 g6
+27. Re5 b6 28. b3 c5 29. c4 a5 30. Kf2 R1d3 31. R5e3 Rxe3 32. Rxe3 Rd2+ 33. Re2
+Rd1 34. Kf3 a4 35. bxa4 Rc1 36. Re3 Rxc4 37. Ra3 Kf5 38. a5 bxa5 39. Rxa5 Rc3+
+40. Ke2 h4 41. gxh4 Kxf4 42. Kd2 Rh3 43. Rxc5 Rxh2+ 44. Ke1 e5 45. Rc4+ e4 46.
+Rc6 Kf3 47. Rf6+ Ke3 48. Kf1 Rh1+ 49. Kg2 Rxh4 50. Rxg6 Ke2 51. Kg3 Rh7 52. Rb6
+e3 53. Rb2+ Kd1 54. Rb1+ Kc2 55. Ra1 Rf7 56. a4 e2 57. Kg2 Rf5 58. Ra2+ Kd3 59.
+Ra1 Ke3 60. Ra3+ Ke4 61. Ra1 Rd5 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.07"]
+[Round "3.3"]
+[White "Firouzja,Alireza"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2828"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "12573981"]
+[BlackFideId "2020009"]
+[EventDate "2020.10.05"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O g6 5. d4 cxd4 6. Nxd4 Bg7 7. Nb3 Nc6 8. Nc3
+e6 9. e4 O-O 10. exd5 Nxd5 11. Ne4 Ne5 12. h4 h6 13. Qe2 Qc7 14. Rd1 a5 15. Nd4
+Bd7 16. a4 Rad8 17. Ra3 Nc4 18. Rad3 Ne5 19. Ra3 Rfe8 20. Nc3 Qc4 21. Nxd5 exd5
+22. Qd2 Bg4 23. f3 Bd7 24. Bf1 Qc5 25. Qf2 Nc4 26. Rad3 Re7 27. b3 Ne5 28. R3d2
+Rde8 29. Bb2 g5 30. hxg5 hxg5 31. Ba1 Qb6 32. Kg2 Qg6 33. Kg1 Qb6 34. Kg2 Qg6
+35. Kg1 Qb6 36. Kg2 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.08"]
+[Round "4.1"]
+[White "Carlsen,M"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2828"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[EventDate "2020.10.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 dxc4 8.
+Qxc4 b6 9. Rd1 Ba6 10. Qa4 h6 11. Bh4 Qd7 12. Qc2 Qc6 13. Qxc6 Nxc6 14. Bxf6
+gxf6 15. e3 Bxf1 16. Kxf1 Na5 17. Nf3 Nc4 18. Rb1 c5 19. Ke2 Rfc8 20. Rhc1 Nd6
+21. dxc5 bxc5 22. Rc2 Kf8 23. Nd2 c4 24. Rbc1 Rab8 25. Kf3 c3 26. bxc3 Rc5 27.
+c4 f5 28. Ke2 Ke7 29. Kd3 Kd7 30. Rc3 Rc6 31. c5 Ne8 32. Nf3 Ra6 33. Ne5+ Ke7
+34. Ke2 Nf6 35. R1c2 Nd5 36. Rd3 Rc8 37. Rb3 Rc7 38. Rc4 Ra5 39. Nd3 e5 40. Nxe5
+Raxc5 41. Rxc5 Rxc5 42. Rb7+ Ke6 43. Nxf7 Ra5 44. Nd8+ Kd6 45. Rb3 Ra6 46. Nf7+
+Kc5 47. Ne5 h5 48. Kd2 h4 49. Nd3+ Kc4 50. Kc2 Rd6 51. Nf4 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.08"]
+[Round "4.2"]
+[White "Aronian,L"]
+[Black "Firouzja,Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2728"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 e6 10. Bf4 Ngf6 11. O-O-O Be7 12. Nf1 Ng4 13. Qe2 Qa5 14. Kb1 Qb5
+15. Rd3 Nb6 16. N3d2 Nf6 17. Ne3 Nfd5 18. Nxd5 Nxd5 19. Qe4 Nxf4 20. Qxf4 Qd5
+21. Nf3 O-O 22. Ne5 f6 23. Ng4 Bd6 24. Qc1 Rad8 25. Qd1 Bc7 26. Re1 Bb6 27. f3
+Qf5 28. Re4 Rfe8 29. Qe2 Kh8 30. a3 Qd5 31. Ne3 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.08"]
+[Round "4.3"]
+[White "Tari,A"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2757"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "1510045"]
+[BlackFideId "1170546"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nc3 g6 3. f4 Bg7 4. Nf3 Nc6 5. Bb5 Nd4 6. O-O Nxb5 7. Nxb5 d6 8. d3
+a6 9. Nc3 b5 10. Qe1 Bb7 11. f5 Nf6 12. Qh4 Qd7 13. Bh6 Bxh6 14. Qxh6 O-O-O 15.
+Ng5 Ng4 16. Qh3 Ne5 17. Nd5 Kb8 18. fxg6 Qxh3 19. gxh3 e6 20. Nf6 hxg6 21. Ng4
+Nxg4 22. hxg4 Rh4 23. Nxf7 Rxg4+ 24. Kh1 Rd7 25. Rf6 c4 26. Raf1 Rh4 27. Rxe6 d5
+28. Nd6 cxd3 29. cxd3 dxe4 30. dxe4 g5 31. Nxb7 Kxb7 32. b4 Rhh7 33. Rff6 Rd2
+34. Rb6+ 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.10"]
+[Round "5.1"]
+[White "Duda,J"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2863"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (Nimzovich) variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "1503014"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 h5 10. Be3 Nd7 11. O-O-O b5 12. d5 c5 13. Bxb5 Rb8 14. c4 a6 15.
+Ba4 Re7 16. Ng3 Ne5 17. Ne4 Reb7 18. b3 Rb4 19. Bd2 Rxa4 20. bxa4 Bf5 21. Rde1
+h4 22. h3 Ng6 23. Re3 Nf4 24. g4 Bg6 25. Kd1 f5 26. Nxd6 Qxd6 27. gxf5 Bh5+ 28.
+f3 Qf6 29. Bc3 Qg5 30. Qe4 Qg2 31. Rhe1 Qxa2 32. Qc2 Qxc4 33. Re8+ Kh7 34. Rxb8
+Qxd5+ 35. Qd2 Bxf3+ 36. Kc1 Qxf5 37. Re3 Ne2+ 38. Kb2 Nxc3 39. Qxc3 Qf4 40. Qd3+
+f5 41. Rf8 Qb4+ 42. Kc1 Be4 43. Qb3 Qd4 44. Qc3 Qd6 45. Rf7 Qg6 46. Rd7 Qg1+ 47.
+Kb2 c4 48. Rxe4 fxe4 49. Rd4 Qf2+ 50. Qd2 c3+ 51. Kxc3 Qg3+ 52. Kb2 Qxh3 53.
+Rxe4 Qg3 54. Qd4 Qg2+ 55. Kc3 Qf3+ 56. Kb4 Qf8+ 57. Ka5 Qf5+ 58. Kxa6 g5 59. a5
+h3 60. Re7+ Kg6 61. Qg7+ Kh5 62. Qh7+ Kg4 63. Re4+ 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.10"]
+[Round "5.2"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2767"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2020.10.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 b5 6. e4 d6 7. Bd2 Bxc3 8. Bxc3 b4
+9. Bd2 O-O 10. Ne2 Nh5 11. Be3 f5 12. dxe6 Bxe6 13. exf5 Rxf5 14. Qd2 Nd7 15.
+O-O-O Qa5 16. Kb1 Bxc4 17. Nc1 Bf7 18. Qxd6 Nhf6 19. Qc6 Re8 20. Bf2 Nb8 21. Qb5
+c4 22. Qxa5 Rxa5 23. Rd4 Rc8 24. b3 Nc6 25. Rxc4 Bxc4 26. Bxc4+ Kh8 27. Rd1 Re5
+28. Rd6 Ne8 29. Rd2 Nc7 30. Ne2 Nb5 31. Kb2 Na3 32. Ba6 Rd8 33. Rxd8+ Nxd8 34.
+Kc1 Ne6 35. Bd3 Nc5 36. Kd2 Nxd3 37. Kxd3 Rd5+ 38. Nd4 Rd7 39. g4 a5 40. Bg3 Kg8
+41. Be5 g5 42. Ke4 Nb1 43. Kf5 Nc3 44. Nc6 Rd3 45. Ke6 Nxa2 46. Nxa5 Rxf3 47.
+Bd6 Rd3 48. Nc6 Re3+ 49. Kf6 Rxb3 50. Nd4 Rh3 51. Nf5 b3 52. Ba3 Rxh2 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.10"]
+[Round "5.3"]
+[White "Firouzja,Alireza"]
+[Black "Tari,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2633"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "12573981"]
+[BlackFideId "1510045"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. h3 a6
+9. a4 Re8 10. Nbd2 Be6 11. Bxe6 Rxe6 12. b4 Ba7 13. Qc2 Qd7 14. Rb1 Ne7 15. d4
+Ng6 16. b5 Nh5 17. Nf1 Rae8 18. bxa6 bxa6 19. a5 Qc8 20. Be3 exd4 21. cxd4 Rxe4
+22. Qc6 d5 23. N1d2 R4e6 24. Qxd5 Nf6 25. Qb7 Bb8 26. Qxc8 Rxc8 27. Rb7 Ree8 28.
+Nb3 Ne4 29. Nc5 Nxc5 30. dxc5 c6 31. Rb6 Ne5 32. Nxe5 Bxe5 33. Rxa6 Bd4 34. Kf1
+Re4 35. Bxd4 Rxd4 36. Ra1 Rc4 37. Rb6 Rxc5 38. a6 Rb5 39. Rxb5 cxb5 40. a7 Ra8
+41. Ke2 Kf8 42. Kd3 Ke7 43. Kc3 Kd6 44. Kb4 Kc6 45. Ra6+ Kb7 46. Kxb5 h5 47.
+Rb6+ Kxa7 48. Ra6+ Kb7 49. Rxa8 Kxa8 50. Kc6 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.11"]
+[Round "6.1"]
+[White "Carlsen,M"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2757"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "1170546"]
+[EventDate "2020.10.05"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nc3 e6 5. b3 b6 6. Bb2 Bb7 7. Bd3 Nbd7 8. Nge2
+Bd6 9. O-O O-O 10. Ng3 c5 11. cxd5 cxd4 12. Nce4 Bxg3 13. Nxg3 dxe3 14. dxe6
+exf2+ 15. Rxf2 fxe6 16. Qe2 Nc5 17. Bc2 Ba6 18. Qe1 Qe8 19. Rd1 Rc8 20. b4 Nb7
+21. Ne4 Nd5 22. Rxf8+ Qxf8 23. Bb1 Qxb4 24. Nf6+ Kh8 25. Qxe6 Ra8 26. Qxd5 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.11"]
+[Round "6.2"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2828"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "2020009"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Na3 Nc6 7. Be3 cxd4 8. Nb5
+Qd7 9. Nbxd4 a6 10. Bd3 Bd6 11. O-O Ne7 12. Qc2 O-O 13. Bg5 Ng6 14. Rad1 Qc7 15.
+Rfe1 Bd7 16. g3 Rfe8 17. Bxf6 gxf6 18. h4 Kh8 19. Qd2 Bf8 20. h5 Ne7 21. Bc2
+Red8 22. Qd3 f5 23. g4 f6 24. g5 Qf4 25. gxf6 Qg4+ 26. Kf1 Qh3+ 27. Ke2 Nd5 28.
+Qd2 Bb5+ 29. Nxb5 Qg4 30. Qg5 Nf4+ 31. Ke3 Ng2+ 32. Ke2 Qc4+ 33. Bd3 Rxd3 34.
+Rxd3 Nf4+ 35. Ke3 Qe4+ 36. Kd2 Qxd3+ 37. Kc1 Qxf3 38. f7 Qg4 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.11"]
+[Round "6.3"]
+[White "Tari,A"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2728"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[WhiteFideId "1510045"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Bg4 6. Qb3 Qc7 7. h3 Bd7 8. Nf3
+Nc6 9. O-O e6 10. Re1 Bd6 11. Bg5 O-O 12. Nbd2 Nh5 13. Qd1 f6 14. Be3 Nf4 15.
+Bf1 g5 16. c4 Kh8 17. Rc1 Rg8 18. Bxf4 Bxf4 19. b4 Qd6 20. b5 Ne7 21. c5 Qc7 22.
+g3 g4 23. hxg4 Rxg4 24. Bh3 Rg7 25. Kh1 e5 26. Bxd7 Qxd7 27. Nh2 Qh3 28. Rg1
+Rag8 29. Qe2 e4 30. Rc3 Nf5 31. Nxe4 dxe4 32. Qxe4 Bxg3 33. Rg2 Re7 34. Qb1 Rge8 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.12"]
+[Round "7.1"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2863"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d4 cxd4 7. cxd4 exd4 8. Bf4
+a6 9. Ba4 Nge7 10. Bd6 b5 11. Bb3 Bb7 12. Re1 Nc8 13. e5 Nxd6 14. exd6+ Kf8 15.
+h4 Bf6 16. Nbd2 Kg7 17. Bd5 Na5 18. Bxb7 Nxb7 19. Ne4 Re8 20. h5 Rc8 21. Rc1
+Rxc1 22. Qxc1 h6 23. hxg6 fxg6 24. Qd2 d3 25. b4 Re6 26. Qxd3 Qb6 27. Rd1 Qc6
+28. Nxf6 Rxf6 29. Ne5 Qc8 30. Qd5 Re6 31. Ng4 Kh7 32. Qd4 Qf8 33. Qa7 Rxd6 34.
+Re1 Nd8 35. Ne5 Qe7 36. Nf3 Re6 37. Rd1 Rd6 38. Re1 Re6 39. Rd1 Rd6 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.12"]
+[Round "7.2"]
+[White "Firouzja,Alireza"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2767"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "12573981"]
+[BlackFideId "13300474"]
+[EventDate "2020.10.05"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. c4 c6 7. Ne5 Ng4 8. cxd5
+cxd5 9. Bf4 Nxe5 10. Bxe5 Nc6 11. Bxg7 Kxg7 12. Nc3 e6 13. Qd2 b6 14. Rad1 Bb7
+15. e4 dxe4 16. Bxe4 Re8 17. d5 exd5 18. Bxd5 Rc8 19. f4 Ba6 20. Rf2 Qe7 21. f5
+f6 22. Be6 Rcd8 23. Nd5 Qf8 24. Qc3 Ne5 25. Rd4 Qc5 26. Qxc5 bxc5 27. Ra4 Rd6
+28. Rxa6 Rxa6 29. Nc7 Raxe6 30. Nxe6+ Kh6 31. Nxc5 Ng4 32. Rf4 Re1+ 33. Kg2 Rc1
+34. Rxg4 Rxc5 35. Rh4+ Kg5 36. Rxh7 Rc2+ 37. Kf3 Rxb2 38. h4+ Kxf5 39. Rxa7 Ke6
+40. g4 Rc2 41. Ra6+ Ke5 42. Ra5+ Ke6 43. g5 Rc3+ 44. Ke2 Rh3 45. Ra6+ Ke7 46.
+Rxf6 Rxh4 47. Ra6 Rf4 48. Ra5 Kd6 49. Ke3 Rg4 50. a4 Rh4 51. Kd3 Rg4 52. Ke3 Rh4
+53. Kf3 Ke6 54. Ke3 Kd6 55. Kd3 Rg4 56. Ra6+ Ke7 57. Ra5 Kd6 58. Ke2 Ke6 59. Kf3
+Rb4 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.12"]
+[Round "7.3"]
+[White "Duda,J"]
+[Black "Tari,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2633"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[WhiteFideId "1170546"]
+[BlackFideId "1510045"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 b5 7. Bb3 Bb7 8. O-O
+Na5 9. Nxd4 c5 10. Nxf5 c4 11. Nc3 Qb6 12. Nd5 Bxd5 13. Qxd5 Qc6 14. Qd4 Qe6 15.
+Nd6+ Bxd6 16. exd6 Nf6 17. Qc3 O-O 18. Qxa5 Ng4 19. Qc3 Rae8 20. Bg5 cxb3 21.
+Qxb3 Qxb3 22. axb3 Re2 23. f3 Nf6 24. Rfc1 h6 25. Kf1 Rfe8 26. Bxf6 gxf6 27. Re1 1-0
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.06"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Firouzja,Alireza"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2728"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[WhiteFideId "1503014"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 7. Bh4 Be7 8. Qc2
+O-O 9. Nf3 Re8 10. Bd3 Ne4 11. Bxe7 Qxe7 12. Bxe4 dxe4 13. Nd2 f5 14. O-O-O Nd7
+15. g4 fxg4 16. Ndxe4 Nb6 17. Ng3 Be6 18. Kb1 Rf8 19. e4 Rad8 20. Rhe1 Qf6 21.
+f4 gxf3 22. Qf2 Nc4 23. Rg1 Qh4 24. b3 Nd6 25. Kb2 Rf7 26. Rd2 Rdf8 27. Re1 Kh8
+28. Rd3 Rf4 29. e5 Nf5 30. Nce4 Bd5 31. Rxf3 Nxg3 32. hxg3 Rxf3 33. Qxf3 Rxf3
+34. gxh4 Bxe4 35. Rxe4 Kg8 36. Ka3 Kf7 37. Kb4 h5 38. a4 Ke6 39. a5 Rg3 40. a6
+b6 41. Kc4 Rg4 42. Kd3 Rg3+ 43. Re3 Rg4 44. Rf3 c5 45. dxc5 bxc5 46. Rf8 Kxe5
+47. Rf7 1-0
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.07"]
+[Round "3.3"]
+[White "Firouzja,Alireza"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2828"]
+[ECO "D04"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "12573981"]
+[BlackFideId "2020009"]
+[EventDate "2020.10.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. dxc5 e6 5. b4 a5 6. c3 axb4 7. cxb4 b6 8. Bb5+
+Bd7 9. Bxd7+ Qxd7 10. a4 bxc5 11. b5 Bd6 12. Bb2 O-O 13. Nbd2 c4 14. Qc2 Qc7 15.
+O-O Nbd7 16. Bc3 Nc5 17. a5 Nfe4 18. b6 Qb7 19. Bd4 Nxd2 20. Nxd2 Nd3 21. Rfb1
+Ra6 22. Rb5 Rc8 23. Rab1 h6 24. g3 Be7 25. e4 e5 26. Bc3 Bc5 27. Rxc5 Nxc5 28.
+exd5 Qxd5 29. Qf5 Rd8 30. Rb5 f6 31. b7 Qd6 32. Qc8 Nxb7 33. Qxb7 Qc6 34. Qxc6
+Rxc6 35. Rb6 Rc7 36. a6 Ra8 37. Ne4 Rca7 38. Nc5 Rc8 39. Rb5 h5 40. h4 Kh7 41.
+Kg2 Kg6 42. Kf3 Kf5 43. Ke3 Rc6 44. Bb4 c3 45. Bxc3 Kg6 46. Bb4 Raxa6 47. Nxa6
+Rxa6 48. Rb7 Ra8 49. Ke4 Rd8 50. Bc5 Ra8 51. Kd5 Ra5 52. Ra7 Rb5 53. Kc6 Rb2 54.
+Kd5 Rb5 55. Kc4 Rb8 56. Rc7 Ra8 57. Kd5 Ra2 58. Ke6 Ra6+ 59. Ke7 Kf5 60. Kf7 g5
+61. Be3 gxh4 62. gxh4 Kg4 63. Rc4+ Kf3 64. Kg6 e4 65. Kxh5 f5 66. Kg5 Ra5 67.
+Bf4 Kxf2 68. Rc2+ Kf3 69. Rc3+ Ke2 70. h5 Ra1 71. h6 Rh1 72. Kxf5 Kf2 73. Kxe4 1-0
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.08"]
+[Round "4.2"]
+[White "Aronian,L"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2728"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, 7...Nd7"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 e6 10. Bf4 Ngf6 11. O-O-O Be7 12. Nf1 Qa5 13. Kb1 Rd8 14. Bc1 Nc5
+15. Qe2 Na4 16. c4 O-O 17. Qc2 c5 18. Bd2 Qa6 19. b3 Nb6 20. Bc3 cxd4 21. Nxd4
+Nbd7 22. Ne3 Nc5 23. g4 Nfe4 24. Bb2 Nd6 25. g5 h5 26. Qe2 Nce4 27. Rhg1 Qa5 28.
+Rd3 Nc5 29. Rd2 Nce4 30. Rc2 Rfe8 31. Qxh5 Nd2+ 32. Kc1 N6e4 33. c5 g6 34. Qh8+
+Kxh8 35. Nc6+ Kg8 36. Nxa5 Nf3 37. Rd1 Nxc5 38. Rxd8 Rxd8 39. Bf6 Bxf6 40. gxf6
+b6 41. Nc6 Rd7 42. Rc4 Kh7 43. Kb2 Nd2 44. Rd4 Rxd4 45. Nxd4 Nde4 46. Ng4 Nd3+
+47. Kc2 Ndxf2 48. Nxf2 Nxf2 49. Nc6 Ne4 50. Nxa7 Nxf6 51. a4 Nd5 52. Nc6 f6 53.
+b4 g5 54. hxg5 fxg5 55. Kd3 g4 56. a5 Nxb4+ 0-1
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.08"]
+[Round "4.3"]
+[White "Tari,A"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2757"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "1510045"]
+[BlackFideId "1170546"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 g6 6. Re1 Bg7 7. c3 Ne5 8. Nxe5
+dxe5 9. Bc4 Nf6 10. a4 b6 11. d3 O-O 12. h3 e6 13. Nd2 Bb7 14. Nf3 Qc7 15. Be3
+Rfd8 16. Qc1 Ne8 17. Bh6 Bh8 18. Qg5 Bc6 19. Qh4 b5 20. axb5 axb5 21. Rxa8 Rxa8
+22. Bb3 Bf6 23. Bg5 Bg7 24. Bh6 Bf6 25. Qg3 b4 26. cxb4 Qb8 27. Bd2 cxb4 28. h4
+Ng7 29. Ng5 Qd6 30. Qf3 Nh5 31. g3 Bb5 32. Rc1 Qxd3 33. Qxd3 Bxd3 34. Bxb4 h6
+35. Nxf7 Kxf7 36. Rc7+ Kg8 37. Bxe6+ Kh8 38. Bd5 Rb8 39. Bc3 Rb6 40. b4 g5 41.
+hxg5 hxg5 42. Kg2 g4 43. Bd2 Be2 44. Rf7 Ra6 45. Bc3 Ra3 46. Rc7 Ng7 47. Rc6 Nh5
+48. Bf7 Bf3+ 49. Kf1 Kg7 50. Bxh5 Rb3 51. Ke1 Bxe4 52. Rc7+ Kh6 53. Bxg4 Bg5 54.
+Bxe5 Rb1+ 55. Ke2 Rxb4 56. f4 Bd8 57. Rc8 Bb6 58. f5 Kg5 59. Rg8+ Kh6 60. Rg6+
+Kh7 61. Rd6 Bc5 62. Rd7+ Kg8 63. f6 Ra4 64. Be6+ Kh8 65. f7+ 1-0
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.12"]
+[Round "7.1"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2863"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Be7 13. c4 Nc7 14. b3 Bf6 15.
+Ba3 Re8 16. Bd6 Re6 17. c5 Ne8 18. Bc4 Nxd6 19. cxd6 Bxa1 20. Qxa1 Rxd6 21. Qe5
+Re6 22. Bxe6 dxe6 23. d4 b6 24. h4 Ba6 25. Qf4 Qd7 26. Ng4 Rd8 27. Ne5 Qc7 28.
+Qg4 c5 29. Rc1 Qd6 30. Qh5 Qc7 31. Qg4 h6 32. b4 Rd5 33. Rc3 Qe7 34. bxc5 bxc5
+35. Rg3 f5 36. Qh5 cxd4 37. Nc6 Qf7 38. Qxh6 d3 39. Qd2 Qf6 40. Nb4 Rd6 41. Nxa6
+Rxa6 42. Qxd3 Rxa2 43. Qc4 Rd2 44. h5 Rd1+ 45. Kh2 Rd4 46. Qc8+ Kh7 47. Qc1 Rg4
+48. Rxg4 fxg4 49. Qc5 Qf5 50. Qxa7 Qe5+ 51. g3 Qxh5+ 52. Kg1 Qf5 0-1
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.12"]
+[Round "7.2"]
+[White "Firouzja,Alireza"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2767"]
+[ECO "C46"]
+[Opening "Four knights game"]
+[WhiteFideId "12573981"]
+[BlackFideId "13300474"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. h3 Be7 5. Bb5 d6 6. d4 exd4 7. Nxd4 Bd7 8.
+Nde2 O-O 9. O-O a6 10. Bd3 b5 11. a3 Ne5 12. Ng3 Nxd3 13. cxd3 c5 14. Qf3 Be6
+15. Nf5 Bxf5 16. Qxf5 Qd7 17. Qf3 Rfe8 18. Ne2 Rac8 19. Ng3 g6 20. Re1 Qe6 21.
+Bd2 Nd7 22. Bc3 Bf6 23. Ne2 Bxc3 24. bxc3 Qf6 25. Qg3 c4 26. dxc4 Rxc4 27. f3
+Qe5 28. Qf2 Qc5 29. Red1 Qxf2+ 30. Kxf2 Nc5 31. Rd4 Rxd4 32. cxd4 Nd3+ 33. Ke3
+Nb2 34. Ra2 Nc4+ 35. Kd3 Nb6 36. Nc3 Rc8 37. f4 f5 38. e5 Kf7 39. g4 Ke6 40.
+gxf5+ gxf5 41. Rg2 Nd5 42. Ne2 Rc2 43. Rg7 Ra2 44. Rxh7 Rxa3+ 45. Kd2 Ra2+ 46.
+Ke1 dxe5 47. Rh6+ Ke7 48. dxe5 Ra4 49. Kd2 Nxf4 50. Ng3 Ra2+ 51. Ke3 Nd5+ 52.
+Kd4 Rd2+ 53. Kc5 Ne3 54. Rxa6 Rd5+ 55. Kc6 Rxe5 56. Ra7+ Kf6 57. Ne2 Nc2 58. Nf4
+Nb4+ 59. Kd6 Re4 60. Nh5+ Kg5 61. Ng7 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.13"]
+[Round "8.1"]
+[White "Carlsen,M"]
+[Black "Tari,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2633"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "1510045"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4 Bd7
+9. c3 Na5 10. Ba2 c5 11. Bg5 O-O 12. Nbd2 Rb8 13. axb5 axb5 14. Re1 b4 15. Nc4
+Nxc4 16. Bxc4 bxc3 17. bxc3 Qc7 18. Qc2 Bb5 19. Bxb5 Rxb5 20. Bxf6 Bxf6 21. Nd2
+Qc6 22. Qa4 Rfb8 23. Nc4 Be7 24. g3 Qc8 25. Qd1 g6 26. Kg2 Bf8 27. Qf3 Rb3 28.
+Rec1 Qe6 29. Ra7 R8b7 30. Rxb7 Rxb7 31. Ra1 h5 32. Ra8 Kg7 33. Ne3 Rc7 34. Nd5
+Rc8 35. Ra7 Rb8 36. h3 Rd8 37. g4 hxg4 38. hxg4 Rd7 39. Ra8 f6 40. g5 f5 41. Qh3
+Rf7 42. Re8 Qxe8 43. Qh6+ Kg8 44. Qxg6+ Kh8 45. Nf6 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.13"]
+[Round "8.2"]
+[White "Caruana,F"]
+[Black "Firouzja,Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2728"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 Bg4 6. c3 Nd7 7. Bd3 Ngf6 8. O-O
+Bd6 9. Na3 b5 10. Nc2 Bh5 11. Ne3 O-O 12. Nf5 Qc7 13. Qc2 Bg6 14. Nxd6 Qxd6 15.
+Bg5 c5 16. dxe5 Nxe5 17. Nxe5 Qxe5 18. Bxf6 gxf6 19. Bxb5 Bxe4 20. Qf2 Rab8 21.
+Bd7 Rfd8 22. Rad1 Rb6 23. Rfe1 f5 24. Qh4 Qf6 25. Qxf6 Rxf6 26. Ba4 Rxd1 27.
+Rxd1 Rg6 28. Rd2 f4 29. Bd1 Kg7 30. Kf1 Rh6 31. Kg1 Rg6 32. Rf2 f5 33. Kf1 Kf6
+34. Bf3 Ke5 35. Rd2 Rh6 36. Kg1 a5 37. b3 Rb6 38. Kf2 Ra6 39. Rd8 a4 40. Re8+
+Kd5 41. Be2 Rg6 42. g3 axb3 43. axb3 fxg3+ 44. hxg3 Kd6 45. Bc4 Bc6 46. Rf8 Be4
+47. Rb8 Kc7 48. Re8 Kd6 49. Rb8 Kc7 50. Rh8 Rh6 51. Ke3 Rh2 52. g4 Kd6 53. Re8
+Rh3+ 54. Kf4 Rf3+ 55. Kg5 Bb1 56. Re6+ Kc7 57. Re5 fxg4 58. Rxc5+ Kb6 59. Rb5+
+Kc6 60. Kxg4 Rxc3 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.13"]
+[Round "8.3"]
+[White "Aronian,L"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2757"]
+[ECO "B36"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, Gurgenidze variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "1170546"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nf3 g6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
+Be3 Bg7 9. f3 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. b3 Rfc8 13. Be2 a6 14. Na4 Qxd2+
+15. Kxd2 Nd7 16. g4 Rcb8 17. Nc3 b5 18. Nd5 Bxd5 19. cxd5 Nc5 20. g5 Bb2 21. Rc2
+Ba3 22. Rb1 a5 23. Kd1 Na6 24. Bf1 Nb4 25. Rd2 Rb7 26. f4 Na6 27. Rc2 Nb4 28.
+Rd2 Na6 29. Rc2 Nb4 30. Rd2 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.15"]
+[Round "9.1"]
+[White "Firouzja,Alireza"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2863"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "12573981"]
+[BlackFideId "1503014"]
+[EventDate "2020.10.05"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. e4 d6 6. c3 g6 7. d4 cxd4 8. cxd4
+Bg4 9. dxe5 dxe5 10. Nc3 Bg7 11. h3 Bxf3 12. Qxd8+ Rxd8 13. Bxf3 O-O 14. Kg2 Nd4
+15. Bg5 h6 16. Bxf6 Bxf6 17. Nd5 Rd6 18. Rac1 Bd8 19. Rfd1 Kg7 20. Ne3 Ra6 21.
+a3 h5 22. Nc4 Bf6 23. h4 Rc8 24. Ne3 Rac6 25. Rxc6 Rxc6 26. Rd3 Bd8 27. Bd1 Rc1
+28. Bb3 b5 29. Rd1 Rc8 30. Ba2 a5 31. Rd3 a4 32. Kf1 Bb6 33. Rc3 Rxc3 34. bxc3
+Nb3 35. Ke1 Bc5 36. Nc2 Nc1 37. Bd5 Nd3+ 38. Ke2 Nxf2 39. Bc6 f6 40. Ne3 Nh1 41.
+Nf1 Bxa3 42. Bxb5 Bb2 43. Bxa4 Bxc3 44. Kf3 Bd4 45. g4 hxg4+ 46. Kxg4 Nf2+ 47.
+Kf3 Kh6 48. Ng3 Nd3 49. Be8 Nf4 50. Ne2 Ne6 51. Bf7 Nc5 52. Ng3 Bc3 53. h5 Be1
+54. Bxg6 Bxg3 55. Kxg3 Kg5 56. Kf3 Nb3 57. Bf7 Nd4+ 58. Kg3 Ne2+ 59. Kf3 Nf4 60.
+Kg3 Nxh5+ 61. Bxh5 Kxh5 62. Kh3 Kh6 63. Kh4 Kg7 64. Kg3 Kf8 65. Kf2 Ke7 66. Ke2
+Ke8 67. Ke3 Kd7 68. Kd3 Kd6 69. Kc3 Kc5 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.15"]
+[Round "9.2"]
+[White "Tari,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2767"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[WhiteFideId "1510045"]
+[BlackFideId "13300474"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 g6 6. Nf3 Bf5 7. Be2 Nbd7 8. O-O
+e6 9. Bf4 Qb6 10. b3 g5 11. Bxg5 Ne4 12. Bh4 Rg8 13. Kh1 e5 14. dxe5 Qg6 15. Rg1
+Bc5 16. Qe1 Rc8 17. Nbd2 Qb6 18. Nxe4 dxe4 19. Nh2 Nxe5 20. Rd1 Qh6 21. Bg3 Rxg3
+22. fxg3 Bxg1 23. Qxg1 Qb6 24. Qf1 Bg6 25. Qf4 f6 26. Ng4 Nxg4 27. Bxg4 Rd8 28.
+Rf1 Qd6 29. Qh6 Qe5 30. Qg7 Qe7 31. Qg8+ Qf8 32. Qc4 Qe7 33. Qg8+ Qf8 34. Qc4
+Qe7 35. Bf5 Kf8 36. Qc3 Kg7 37. Qe3 Rd5 38. g4 b5 39. Rf4 Re5 40. c4 bxc4 41.
+bxc4 a5 42. h4 Bxf5 43. gxf5 h5 44. Rf1 Kh7 45. Qe2 Qe8 46. Qe3 Qe7 47. Rf2 Qc5
+48. Qxc5 Rxc5 49. Rc2 e3 50. Kg1 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.15"]
+[Round "9.3"]
+[White "Duda,J"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2828"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "2020009"]
+[EventDate "2020.10.05"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8. f3
+b5 9. Nxc6 dxc6 10. Qf2 Be7 11. a4 O-O 12. Be2 Rb8 13. O-O e5 14. Rfd1 Be6 15.
+axb5 axb5 16. Ra7 Rb7 17. Ra6 Nd7 18. Bf1 Rc8 19. g3 Qd8 20. h4 Qf8 21. Kh2 h6
+22. Rda1 Nc5 23. Ra7 Rcb8 24. Nd1 Rd8 25. Rxb7 Nxb7 26. Qe1 Nd6 27. Bc5 Nc4 28.
+Bxe7 Qxe7 29. Bxc4 bxc4 30. Ne3 Qc5 31. Kg2 Kh7 32. Qc3 Rd4 33. Kf2 Qb6 34. Ke2
+c5 35. Ra8 Bd7 36. Qa3 Qg6 37. c3 Rxe4 38. fxe4 Qxe4 39. Qxc5 Qxa8 40. Qxc4 Be6
+41. Qd3+ Kg8 42. Qd6 Qa1 43. Qxe5 Qxb2+ 44. Kd3 Ba2 45. Qe8+ Kh7 46. Qe4+ g6 47.
+Qe5 h5 48. Kd4 Be6 49. Kc5 Qb7 50. c4 Qa7+ 51. Kb4 Qb6+ 52. Kc3 Qb1 53. Qf4 Qa1+
+54. Kb4 Qb2+ 55. Kc5 Qa3+ 56. Kd4 Qa7+ 57. Kd3 Qc5 58. Kc3 Qa3+ 59. Kd4 Qa7+ 60.
+Kd3 Qa5 61. Kd4 Qd2+ 62. Kc5 Qa5+ 63. Kd4 Qd2+ 1/2-1/2
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.16"]
+[Round "10.1"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2767"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2020.10.05"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 c6 7. Qc2 g6 8. e3
+Bf5 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. h4 a5 12. Kf1 a4 13. a3 Qb6 14. Qc2 h5 15. Bg5
+O-O 16. Ne5 Rfe8 17. Bxf6 Nxf6 18. Rh3 Qb3 19. Qb1 Ne4 20. Nxe4 dxe4 21. Qxe4
+Bd6 22. Rg3 Bxe5 23. dxe5 Qb5+ 24. Kg1 Rxe5 25. Qd4 Rd5 26. Qf6 Rf5 27. Qd4 Qe2
+28. e4 Rb5 29. Rb1 Qc2 30. Qd3 Rc5 31. Qxc2 Rxc2 32. b3 b5 33. Rd3 axb3 34.
+Rbxb3 Ra4 35. Rdc3 Rc4 36. Rxc2 Rxc2 37. f3 Kf8 38. Kh2 Ke7 39. Kh3 Ke6 40. Rd3
+Rc4 41. Kg3 Ke5 42. Rd7 Rc3 43. Ra7 f6 44. Ra8 Kd6 45. Kf4 Kc7 46. g4 Kb7 47.
+Rg8 hxg4 48. fxg4 Rxa3 49. Rxg6 b4 50. Rxf6 b3 51. Rf7+ Kb6 52. Rf8 Ra7 53. Rb8+
+Rb7 54. Rd8 c5 55. Ke3 c4 56. Rd1 c3 57. Rb1 Kc5 58. Kd3 0-1
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.16"]
+[Round "10.2"]
+[White "Firouzja,Alireza"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2757"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "12573981"]
+[BlackFideId "1170546"]
+[EventDate "2020.10.05"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 c6 7. b3 dxc4 8. bxc4
+c5 9. Bb2 cxd4 10. Nxd4 Qb6 11. Qc1 Bd7 12. Nd2 Nc6 13. Nc2 Rac8 14. Bc3 Qa6 15.
+Qb2 Nh5 16. Bxg7 Nxg7 17. Ne3 Be6 18. Nd5 Rfe8 19. Rfc1 Na5 20. e3 Nf5 21. e4
+Ng7 22. Qa3 Nc6 23. Qxa6 bxa6 24. f4 Kf8 25. Kf2 Red8 26. Rab1 Ne8 27. Ke3 f6
+28. a3 Bf7 29. Bh3 e6 30. Nb4 a5 31. Nxc6 Rxc6 32. c5 Nc7 33. Bf1 e5 34. fxe5
+fxe5 35. Nf3 Be8 36. Rb7 Ne6 37. Rxa7 Nxc5 38. Nxe5 Rf6 39. Ng4 1-0
+
+[Event "8th Norway Chess 2020"]
+[Site "Stavanger NOR"]
+[Date "2020.10.16"]
+[Round "10.3"]
+[White "Caruana,F"]
+[Black "Tari,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2633"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "2020009"]
+[BlackFideId "1510045"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. c3 Rb8 11. Bc4 d5 12. exd5 Nxd5 13. h3 h6 14. d4 bxc3 15. Nxc3
+Be6 16. Nxe5 Nxe5 17. Bxd5 Bxd5 18. Rxe5 Bb3 19. Qg4 Be6 20. Rxe6 fxe6 21. Bxh6
+Rf7 22. Be3 Rxb2 23. Qxe6 Bg5 24. Bxg5 Qxg5 25. Ne4 Qf5 26. d5 Qxe6 27. dxe6 Rf5
+28. Rd1 Rb8 29. h4 Re8 30. Ng5 Rxa5 31. Rd7 c6 32. f4 Rd5 33. Ra7 Rd4 34. f5
+Rxh4 35. Rxa6 Rh5 36. Ne4 Rxf5 37. Nd6 Rff8 38. Nxe8 Rxe8 39. Rxc6 Kh7 40. Kf2
+Kg6 41. Kf3 Kf6 42. Kf4 Rxe6 43. Rxe6+ Kxe6 44. Kg5 Kf7 45. g3 Kf8 46. Kg6 Kg8
+47. g4 Kh8 48. Kf7 Kh7 49. g5 Kh8 50. g6 1/2-1/2
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.13"]
+[Round "8.2"]
+[White "Caruana,F"]
+[Black "Firouzja,Alireza"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2728"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "Tartakower (fantasy) variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "12573981"]
+[EventDate "2020.10.05"]
+
+1. e4 c6 2. d4 d5 3. f3 g6 4. Nc3 Bg7 5. e5 c5 6. f4 cxd4 7. Qxd4 Be6 8. Nf3 Nc6
+9. Bb5 Nh6 10. Bxc6+ bxc6 11. Qc5 Bd7 12. Be3 e6 13. Na4 Nf5 14. Bf2 h5 15. Qc3
+c5 16. Nxc5 O-O 17. O-O Bb5 18. Rfe1 Qe7 19. a4 Bc6 20. b4 Rfc8 21. Qd2 Be8 22.
+c3 a5 23. h3 Bf8 24. Kh2 Qc7 25. g4 Ng7 26. Rg1 axb4 27. cxb4 d4 28. Bxd4 Rd8
+29. Ne4 Bc6 30. Rac1 Qb7 31. Nf6+ Kh8 32. f5 Ne8 33. fxg6 Bxf3 34. gxh5 fxg6 35.
+hxg6 Bg7 36. Qf4 Rxd4 37. Qxd4 Bh6 38. Qh4 Qg7 39. Rcf1 Be2 40. Rf2 Bd3 41. Ng4
+Bxg6 42. Nxh6 Qxe5+ 43. Rg3 Qh5 44. Qxh5 Bxh5 45. Rf8+ Kh7 46. Nf7 Bxf7 47.
+Rxf7+ Kh6 48. Rf8 Kh7 49. Rgg8 1-0
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.13"]
+[Round "8.3"]
+[White "Aronian,L"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2757"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "1170546"]
+[EventDate "2020.10.05"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Ng3 g6 9. b3 Bg7 10. Ba3 Bf8 11. Bxf8 Kxf8 12. Re1 Bxf3 13. Qxf3 c6 14. c3 Kg7
+15. Rad1 a5 16. Nf1 Qc7 17. Ne3 Rhe8 18. g4 Nd5 19. c4 Qf4 20. Qg3 Qxg3+ 21.
+hxg3 Nxe3 22. Rxe3 h6 23. Be2 Nf6 24. f4 Red8 25. Kf2 Rd6 26. Bf3 Rad8 27. Red3
+b6 28. Ke3 c5 29. a3 Kf8 30. b4 axb4 31. axb4 cxd4+ 32. Rxd4 Rxd4 33. Rxd4 Ke7
+34. Rxd8 Kxd8 35. Kd4 g5 36. Ke5 Ke7 37. f5 Nd7+ 38. Kd4 Kd6 39. fxe6 fxe6 40.
+Bd1 e5+ 41. Ke4 Ke6 42. Bc2 Nf6+ 43. Kf3 Kd6 44. Be4 Nd7 45. Bf5 Nf6 46. Ke3 Kc6
+47. Kd3 Kd6 48. Ke3 Kc6 49. Be4+ Kd6 50. Bf3 Nd7 51. Ke4 Ke6 52. Kd3 Kd6 53. Bb7
+Nf6 54. Bc8 Kc7 55. Bf5 Kd6 56. Kc3 Kc6 57. Kc2 h5 58. gxh5 Nxh5 59. g4 Nf6 60.
+Kb3 Kd6 61. Ka4 Kc6 62. Kb3 Kd6 63. Ka3 Kc6 64. Ka4 Kc7 65. Kb5 e4 66. Ka6 e3
+67. Bd3 Nxg4 68. Be2 Ne5 69. c5 bxc5 70. b5 Nd7 71. Bg4 Nb6 0-1
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.15"]
+[Round "9.2"]
+[White "Tari,A"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2767"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "1510045"]
+[BlackFideId "13300474"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+h4 Qe6 9. g3 Bc5 10. c4 Nb6 11. Nd2 O-O 12. Bh3 Qe7 13. O-O Ba6 14. Re1 Rae8 15.
+Ne4 Bd4 16. Nf6+ gxf6 17. Qg4+ Kh8 18. Qxd4 fxe5 19. Qc3 Bxc4 20. b3 Bd5 21. a4
+f6 22. a5 Nc8 23. Be3 Nd6 24. Bc5 Qf7 25. b4 Rg8 26. a6 Nb5 27. Qd2 d6 28. Be3
+f5 29. Bg5 f4 30. Kh2 Qg7 31. gxf4 h6 32. Rg1 hxg5 33. Rxg5 Qh7 34. Rag1 Nd4 0-1
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.15"]
+[Round "9.3"]
+[White "Duda,J"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2828"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "2020009"]
+[EventDate "2020.10.05"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. bxc5 Nc6 5. Ba3 e5 6. d3 Nf6 7. g3 e4 8. dxe4
+Nxe4 9. Bg2 Bxc5 10. Bxc5 Nxc5 11. O-O O-O 12. Nbd2 Re8 13. Re1 Bf5 14. Qc1 Qd6
+15. Qa3 Rad8 16. h3 h6 17. Nh4 Bh7 18. Rac1 b6 19. Bd5 Re7 20. Ndf3 Qf6 21. Rcd1
+Be4 22. Bxe4 Nxe4 23. Ng2 g5 24. Rd3 Nc5 25. Rd2 Ne4 26. Rc2 d3 27. Rb2 Nd4 28.
+Ne3 dxe2 29. Ng4 Nxf3+ 30. Kh1 Nxf2+ 0-1
+
+[Event "8th Norway Armageddon"]
+[Site "Stavanger NOR"]
+[Date "2020.10.16"]
+[Round "10.3"]
+[White "Caruana,F"]
+[Black "Tari,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2828"]
+[BlackElo "2633"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "1510045"]
+[EventDate "2020.10.05"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. Bd2
+O-O 9. h3 Rb8 10. Re1 h6 11. a3 Re8 12. Nc3 Bf8 13. Ne2 Be6 14. Ng3 d5 15. Qe2
+dxe4 16. dxe4 Bxb3 17. cxb3 Nd4 18. Nxd4 exd4 19. b4 Nd7 20. Bf4 Rc8 21. Rad1 c5
+22. bxc5 Nxc5 23. Qg4 Kh8 24. e5 Ne6 25. Nf5 Rc2 26. Nd6 Bxd6 27. exd6 Qf6 28.
+Bg3 Rd8 29. Bh4 g5 30. Bg3 Kh7 31. Qe4+ Qg6 32. Qb7 Rxb2 33. Qe7 Rg8 34. d7 Qh5
+35. Rxe6 Qxd1+ 36. Kh2 Rb1 37. Qxf7+ Rg7 38. Qf5+ 1-0

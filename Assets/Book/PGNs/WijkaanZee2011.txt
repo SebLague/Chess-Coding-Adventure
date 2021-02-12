@@ -1,0 +1,2324 @@
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "Ponomariov, Ruslan"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2810"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "5000017"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Nd5 Nbd7 11. Qd3 Bxd5 12. exd5 Nc5 13. Qd2 Nfe4 14. Qb4 a5
+15. Qb5 Qc7 16. Qc4 Rac8 17. Rfd1 f5 18. c3 Qd8 19. Qb5 b6 20. Nd2 Nxd2 21. Bxd2
+Bf6 22. Rab1 e4 23. b4 Nd7 24. Rb3 Be5 25. a3 Rf7 26. c4 axb4 27. axb4 Ra8 28.
+Bc3 Bxc3 29. Rxc3 Ra2 30. Re3 g6 31. Bf1 Qf6 32. Rde1 Kg7 33. R3e2 Ra3 34. Qc6
+h5 35. Re3 Ra7 36. h3 h4 37. Rb3 Ra2 38. Rbe3 g5 39. R3e2 Ra7 40. Qc8 Ne5 41.
+Rc2 Rf8 42. Qe6 Qd8 43. c5 bxc5 44. bxc5 Rf6 45. Qxe5 dxe5 46. d6 g4 47. hxg4
+fxg4 48. g3 hxg3 49. fxg3 Qa5 50. Rec1 Qa3 51. Rc3 Qb2 52. R1c2 Qb4 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "L'Ami, Erwin"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2686"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Soultanbeieff variation"]
+[WhiteFideId "1007998"]
+[BlackFideId "24116068"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
+cxd4 9. Nxd4 Bd7 10. e4 Be7 11. Be3 O-O 12. Nb3 Na5 13. Be2 Bc6 14. Qxd8 Bxd8
+15. Nd2 Be7 16. f3 Bb4 17. Rfc1 Nd7 18. Rab1 Nc5 19. b3 Rfc8 20. Rc2 Be8 21. Nb5
+Bxb5 22. axb5 Bxd2 23. Rxd2 Ncxb3 24. Rdb2 Nc5 25. Ra2 b6 26. Rc2 Nab7 27. e5
+Nd7 28. Rxc8+ Rxc8 29. f4 Ndc5 30. Rd1 Kf8 31. Bf3 Na5 32. g4 Ke8 33. Rc1 Rc7
+34. Kg2 Kd8 35. Rc2 Nd7 36. Rxc7 Kxc7 37. Be2 Nc5 38. h4 Kd7 39. h5 Ke7 40. Kf3
+Nab7 41. Bd4 Kf8 42. f5 exf5 43. gxf5 g6 44. Kf4 gxf5 45. Kxf5 h6 46. Bc4 Nd8
+47. Be3 Kg7 48. Bxc5 bxc5 49. Ke4 Kf8 50. Kd5 Ke7 51. Kxc5 Kd7 52. Kb4 Ne6 53.
+Bxe6+ Kxe6 54. Ka5 Kd5 55. Ka6 Kc5 56. Ka5 Kc4 57. Ka6 Kc5 58. Ka5 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "Smeets, Jan"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2662"]
+[BlackElo "2722"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "1007246"]
+[BlackFideId "2209390"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6
+9. d4 Bb6 10. axb5 axb5 11. Na3 O-O 12. Nxb5 Bg4 13. Re1 Bxf3 14. gxf3 Nh5 15.
+Kh1 Qf6 16. Rg1 exd4 17. Bg5 Qe5 18. Bd5 dxc3 19. Bxc6 cxb2 20. Rb1 Bxf2 21. Rg2
+Rb6 22. Bd7 Bc5 23. Na7 Ra8 24. Nc6 Rxc6 25. Bxc6 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2805"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. Nd2 g6 10. b3 Bg7 11. Bb2 Nb4 12. O-O-O Nxa2+ 13. Kb1 Nb4 14. Ne4 O-O
+15. Qf3 Rfe8 16. Nf6+ Bxf6 17. exf6 Qc5 18. h4 d5 19. Qf4 dxc4 20. bxc4 Rab8 21.
+Qh6 Qf8 22. Qxf8+ Kxf8 23. h5 Bc8 24. hxg6 fxg6 25. Rxh7 Bf5+ 26. Ka1 Nc2+ 27.
+Ka2 Nb4+ 28. Ka1 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "Nakamura, Hikaru"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2773"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4126025"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. cxd5 exd5 6. Bg5 Nbd7 7. e3 c5 8.
+dxc5 Qa5 9. Rc1 Bxc3+ 10. bxc3 O-O 11. Nd4 Qxc5 12. Bd3 Ne4 13. Bf4 Nb6 14. Qc2
+h6 15. f3 Nf6 16. g4 Re8 17. Kf2 Nc4 18. h4 Bxg4 19. Bxc4 dxc4 20. fxg4 Nxg4+
+21. Kf3 Ne5+ 22. Bxe5 Rxe5 23. Kf2 Rae8 24. Rh3 b5 25. Rg1 Re4 26. Qd1 b4 27.
+Qf3 Rxe3 28. Rxg7+ Kxg7 29. Qg4+ Kf8 30. Rxe3 Rxe3 31. Kxe3 bxc3 32. Ke2 Qe5+
+33. Kd1 Qh2 34. Ne2 Qd6+ 35. Qd4 Qxd4+ 36. Nxd4 Kg7 37. Nc6 a6 38. Nb8 a5 39. a4
+Kf6 40. Nc6 Ke6 41. Nxa5 Kd5 42. Kc2 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2731"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[WhiteFideId "623539"]
+[BlackFideId "8602883"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 O-O 10. e4 Bg6 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3 Be7 15.
+Bd2 Nb8 16. a5 a6 17. Rfc1 Nc6 18. Ne1 Qd7 19. Bc2 Qd8 20. Qh3 Bg6 21. Bxg6 hxg6
+22. Qg4 Rc8 23. Nf3 Qd7 24. Bg5 Bb4 25. Qh4 Ne7 26. g4 Rxc1+ 27. Rxc1 Rc8 28.
+Kg2 Nc6 29. Rd1 Bxa5 30. Rd3 Nb4 31. Rb3 Qb5 32. Be7 Nd3 33. Rxb5 Nf4+ 34. Kg3
+Ne2+ 35. Kh3 Nf4+ 36. Kg3 Ne2+ 37. Kg2 Nf4+ 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.15"]
+[Round "1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2784"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "4101588"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 Bb7 10. Bf4 g6 11. h4 Bg7 12. O-O-O O-O 13. h5 Rae8 14. Re1 Ba6
+15. Qe4 Qc5 16. Bg3 Bxc4 17. hxg6 fxg6 18. Na4 Nxa4 19. Qxc4+ Kh8 20. Rh4 d5 21.
+Qc2 Qxc2+ 22. Kxc2 Nc5 23. f3 g5 24. Rg4 Rf5 25. Bd3 Nxd3 26. Kxd3 h5 27. Rh1 h4
+28. f4 Kg8 29. Bh2 c5 30. b3 Kf7 31. Rxg5 Rxg5 32. fxg5 Kg6 33. Bf4 Rh8 34. e6
+Re8 35. Re1 Kf5 36. Bxc7 Rxe6 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.16"]
+[Round "2"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2715"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[WhiteFideId "4126025"]
+[BlackFideId "623539"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. Bb5 Bg7 5. O-O Nf6 6. Bxc6 dxc6 7. h3 Nd7 8. d3
+Nf8 9. Ne2 b6 10. Nh2 Ne6 11. Rb1 O-O 12. Be3 Nd4 13. Qd2 e5 14. Nxd4 cxd4 15.
+Bh6 Be6 16. b3 Qd6 17. Bxg7 Kxg7 18. f4 f6 19. Rf3 exf4 20. Rxf4 Rf7 21. Rbf1
+Raf8 22. Nf3 h6 23. Nh4 Kh7 24. R4f3 c5 25. Qe1 f5 26. exf5 Bxf5 27. Nxf5 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.16"]
+[Round "2"]
+[White "Wang, Hao"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2733"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "8602883"]
+[BlackFideId "4168119"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d6 4. Nc3 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Bg5 Be7 8.
+O-O-O+ Nbd7 9. Nh3 h6 10. Be3 c6 11. Nf2 Kc7 12. Nd3 b6 13. g3 Ba6 14. b3 Rae8
+15. Bh3 Bc8 16. Kc2 Bf8 17. f4 exf4 18. Bxf4+ Kb7 19. b4 g5 20. Bc1 Ne5 21.
+Bxc8+ Kxc8 22. Nxe5 Rxe5 23. Rhf1 Re6 24. Kb3 Be7 25. b5 Rd8 26. bxc6 Rxd1 27.
+Rxd1 Rxc6 28. Nb5 Re6 29. e3 a6 30. Nd4 Re5 31. Rf1 Kd7 32. Nf5 Ke6 33. Ng7+ Kd7
+34. Nf5 Ke6 35. Ng7+ Kd7 36. Kc2 Ne4 37. Nf5 Ra5 38. Bb2 Rxa2 39. Rd1+ Ke8 40.
+Kb3 Ra5 41. Nxh6 Nc5+ 42. Kc2 Ra4 43. Nf5 Rxc4+ 44. Kb1 g4 45. Rd5 Ne6 46. Be5
+Rc6 47. e4 f6 48. Bb2 Nc7 49. Rd3 Rc4 50. Rd4 Rxd4 51. Bxd4 b5 52. Nh6 Ne6 53.
+Be3 Nc5 54. Bxc5 Bxc5 55. Nxg4 Kf7 56. h4 Kg6 57. Kc2 a5 58. h5+ Kg5 59. h6 Bf8
+60. h7 Bg7 61. Ne3 Kg6 62. Nd5 Kxh7 63. Nc7 b4 64. Kb3 Bf8 65. Nd5 Kg6 66. Ka4
+Bd6 67. Kxa5 b3 68. Nc3 Be5 69. Kb4 b2 70. Nb1 Kg5 71. Kc4 Kg4 72. Kd3 Kxg3 73.
+Ke3 Bf4+ 74. Ke2 Bc1 75. Nc3 Kf4 76. Kd3 Kf3 77. Kc2 Bf4 78. Nb1 Kxe4 79. Kxb2
+Kd3 80. Kb3 Be5 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.16"]
+[Round "2"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2751"]
+[ECO "A89"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with Nc6"]
+[WhiteFideId "13300474"]
+[BlackFideId "2016192"]
+[EventDate "2011.01.14"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 8. d5 Na5
+9. Nd2 c5 10. Rb1 e5 11. dxe6 Bxe6 12. b3 d5 13. cxd5 Nxd5 14. Nxd5 Bxd5 15. Ba3
+Bxg2 16. Kxg2 Nc6 17. Nf3 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.16"]
+[Round "2"]
+[White "Giri, Anish"]
+[Black "Smeets, Jan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2662"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[WhiteFideId "24116068"]
+[BlackFideId "1007246"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2 O-O-O 15.
+O-O b4 16. Na4 Qb5 17. a3 exd5 18. axb4 cxb4 19. Bf4 Bh6 20. Bd6 Bf8 21. Be7
+Bxe7 22. fxe7 Rde8 23. Qd4 Rh6 24. b3 Rxe7 25. Rfc1 Ne5 26. Nc5 c3 27. Rxa7 Nc6
+28. Qg4+ Rhe6 29. Nxe6 fxe6 30. Ra4 Qc5 31. Qg8+ Kd7 32. Bf1 d4 33. Bc4 Na5 34.
+Qb8 Qc6 35. f3 Nxc4 36. Rxb4 Nb6 37. Rxd4+ Nd5 38. Qe5 Qc7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.16"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2784"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "4101588"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bg5 Bb7 10. Rc1 c5 11. dxc5 h6 12. Bf4 Bd5 13. Qc2 Nbd7 14. Bd6 Nxc5
+15. Bxf8 Qxf8 16. e3 Nb3 17. Bc4 Nxc1 18. Bxd5 Nxd5 19. Qxc1 Rc8 20. Qb1 Qc5 21.
+O-O Qc2 22. Qxc2 Rxc2 23. Rb1 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.16"]
+[Round "2"]
+[White "Shirov, Alexei"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2814"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "1503014"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. b3 g6 10. Ba3 Qg5 11. g3 Bxa3 12. Nxa3 O-O-O 13. Qe4 Qe7 14. Nc2 f5
+15. Qd4 Nb4 16. Nxb4 Qxb4+ 17. Qd2 Qc5 18. f4 d6 19. b4 Qb6 20. c5 Qb7 21. Bxa6
+Qxa6 22. cxd6 cxd6 23. exd6 Rhe8+ 24. Kf2 Rxd6 25. Qxd6 Qe2+ 26. Kg1 Qe3+ 27.
+Kg2 Qe2+ 28. Kg1 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.16"]
+[Round "2"]
+[White "Ponomariov, Ruslan"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2628"]
+[ECO "E59"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line"]
+[WhiteFideId "14103320"]
+[BlackFideId "1007998"]
+[EventDate "2011.01.14"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. Bb2 e5 12. h3 Bf5 13. Bb5 e4 14. Nd2 Rad8 15.
+Rc1 Bg6 16. Re1 Rd5 17. Be2 Re8 18. c4 Rdd8 19. d5 Ne5 20. a4 Re7 21. Nf1 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.17"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2731"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Keres variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "8602883"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Ne7 10. Be3 O-O 11. Qb3 Qc7 12. Bb5 Nec6 13. Ne2 Na5 14. Qa4 a6
+15. Bd3 Nd7 16. Bc2 Nxc5 17. Qb4 Nd7 18. O-O Nc6 19. Qb2 Nce5 20. Bf2 b5 21.
+Rfd1 Bb7 22. Qb4 Rfc8 23. Qe7 Nc5 24. Qxc7 Rxc7 25. Bg3 f6 26. a4 bxa4 27. Bxa4
+Kf7 28. Bc2 Rac8 29. Rdb1 Rd7 30. Bf2 g5 31. Bd4 Ncd3 32. Rb6 Rcc7 33. h4 h6 34.
+hxg5 hxg5 35. Rd1 Nf4 36. Nxf4 gxf4 37. Bb3 Rc6 38. Ra1 Rxb6 39. Bxb6 Rd2 40.
+Rb1 Bc6 41. c4 Nd3 42. Ba5 Rb2 43. Rxb2 Nxb2 44. c5 Nd3 45. Bc4 Nxc5 46. Bb4 Nd7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.17"]
+[Round "3"]
+[White "Nakamura, Hikaru"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2722"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "2016192"]
+[BlackFideId "2209390"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. a4 Rb8
+9. d4 Bb6 10. axb5 axb5 11. Na3 O-O 12. Nxb5 Bg4 13. d5 Ne7 14. Bc2 Qd7 15. Na3
+Nexd5 16. h3 Bh5 17. exd5 e4 18. Bg5 Bxf3 19. Qd2 e3 20. Bxe3 Bxe3 21. fxe3 Be4
+22. Rxf6 Bxc2 23. Rf4 Bg6 24. Nc4 Ra8 25. Na5 Rfe8 26. Ra3 Be4 27. c4 g5 28. Rf1
+g4 29. h4 Qe7 30. Qf2 Bg6 31. b4 h5 32. Rc3 Qe5 33. Rb3 Qe4 34. Rc3 Qe5 35. Rfc1
+Be4 36. Qf4 g3 37. Qxe5 Rxe5 38. Ra3 Kg7 39. Rf1 Ree8 40. Rfa1 Re5 41. Nb3 Rxa3
+42. Rxa3 Bxd5 43. Nd2 Be6 44. e4 Bg4 45. Rxg3 f5 46. Re3 Re8 47. Kf2 Ra8 48.
+exf5 Ra2 49. Rd3 Bxf5 50. Rd5 Be6 51. Rg5+ Kh6 52. Ke3 Ra3+ 53. Kd4 Ra1 54. g3
+Rd1 55. Kc3 Rg1 56. b5 Rc1+ 57. Kd3 Bf7 58. Nb3 Rd1+ 59. Ke2 Rb1 60. Nd4 Bxc4+
+61. Kd2 d5 62. Nf5+ Kh7 63. Rxh5+ Kg6 64. Rg5+ Kf6 65. Ne3 Rb2+ 66. Kd1 Be2+ 67.
+Kc1 Rxb5 68. Kd2 Rb2+ 69. Kc3 Rb5 70. Nxd5+ Kf7 71. Re5 Bg4 72. Re7+ Kf8 73. Re4
+Bf5 74. Nxc7 Rc5+ 75. Rc4 Re5 76. Rf4 Ke7 77. Kd4 Ra5 78. Nd5+ Ke6 79. Nc3 Ra8
+80. g4 Bh7 81. Ke3 Rc8 82. Ne2 Ke5 83. Ra4 Rb8 84. Nd4 Rb1 85. Ra5+ Kf6 86. Kf4
+Rf1+ 87. Nf3 Bc2 88. Kg3 Rb1 89. Ra6+ Kg7 90. Nd4 Bd3 91. Rd6 Kf7 92. Kf4 Ra1
+93. h5 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.17"]
+[Round "3"]
+[White "Carlsen, Magnus"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2686"]
+[ECO "D71"]
+[Opening "Neo-Gruenfeld, 5.cd"]
+[WhiteFideId "1503014"]
+[BlackFideId "24116068"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 Nb6 7. Nc3 Nc6 8. e3
+O-O 9. O-O Re8 10. Re1 a5 11. Qd2 e5 12. d5 Nb4 13. e4 c6 14. a3 cxd5 15. axb4
+axb4 16. Rxa8 bxc3 17. bxc3 Nxa8 18. exd5 Nb6 19. Rd1 e4 20. Ng5 e3 21. Qb2 Qxg5
+22. Bxe3 Qg4 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.17"]
+[Round "3"]
+[White "L'Ami, Erwin"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2810"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[WhiteFideId "1007998"]
+[BlackFideId "5000017"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. Nc3 b6 6. e3 Bb7 7. Bd3 O-O 8. O-O
+d5 9. cxd5 exd5 10. Ne5 Nbd7 11. f4 c5 12. a3 Bxc3 13. Bxc3 c4 14. Bc2 b5 15.
+Rf3 Ra6 16. Rg3 Qe7 17. Qe1 Rfa8 18. Rd1 Nb6 19. Ng4 Nxg4 20. Rxg4 Nd7 21. e4
+dxe4 22. d5 f6 23. Bxe4 Re8 24. Qg3 Nc5 25. Bf5 Nd3 26. Bxd3 cxd3 27. Qxd3 Rd6
+28. Re1 Qd7 29. Rxe8+ Qxe8 30. f5 Rxd5 31. Rd4 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.17"]
+[Round "3"]
+[White "Smeets, Jan"]
+[Black "Ponomariov, Ruslan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2662"]
+[BlackElo "2744"]
+[ECO "C18"]
+[Opening "French"]
+[Variation "Winawer, classical variation"]
+[WhiteFideId "1007246"]
+[BlackFideId "14103320"]
+[EventDate "2011.01.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8. Qg3
+Nc6 9. Nf3 cxd4 10. cxd4 Nge7 11. Bd2 O-O 12. Bd3 Bd7 13. O-O Be8 14. c4 dxc4
+15. Bxc4 Nxd4 16. Nxd4 Qxc4 17. Bb4 Rf7 18. Qc3 Qxc3 19. Bxc3 Nd5 20. Bd2 Bd7
+21. Rfc1 Rff8 22. a4 a5 23. Rcb1 b6 24. Ne2 Rfc8 25. Nf4 Nxf4 26. Bxf4 Rc4 27.
+Be3 Bxa4 28. Rxb6 Bc6 29. f3 a4 30. Rc1 Bd5 31. Rxc4 Bxc4 32. Rb7 a3 33. Ra7
+Rxa7 34. Bxa7 f4 35. g3 g5 36. Kg2 Bd5 37. Kf2 Kf7 38. gxf4 gxf4 39. Ke2 a2 40.
+Bd4 Ke8 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.17"]
+[Round "3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2773"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "4168119"]
+[BlackFideId "4126025"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Nbd7 9. Qd2 b5 10. O-O-O h5 11. Kb1 Rc8 12. g3 Nb6 13. Bxb6 Qxb6 14. Nd5 Bxd5
+15. exd5 g6 16. Bh3 Bh6 17. f4 Rc4 18. Qa5 Qxa5 19. Nxa5 Re4 20. fxe5 Rxe5 21.
+Rhe1 Rxe1 22. Rxe1+ Kf8 23. Nb7 Kg7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.17"]
+[Round "3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2805"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "623539"]
+[BlackFideId "13300474"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. dxc5 Qxd1+ 8.
+Rxd1 Nbd7 9. Rd4 h6 10. Bd2 Bxc5 11. Rxc4 e5 12. Nxe5 Bxf2+ 13. Kxf2 Nxe5 14.
+Rc5 O-O 15. h3 Rd8 16. Bf4 Ng6 17. Be3 Bd7 18. Be2 Bc6 19. Rc4 a6 20. Rd1 Rxd1
+21. Bxd1 Re8 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.18"]
+[Round "4"]
+[White "Aronian, Levon"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2733"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "4168119"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 Be6 7. Qb3 c5 8. Qxb7
+cxd4 9. exd4 Qb6 10. Qxa8 Nh5 11. c5 Qxb2 12. Bd2 Bxd4 13. Nf3 Nd7 14. Qxf8+
+Kxf8 15. Nxd4 Nxc5 16. Rb1 Qa3 17. Be2 Nf4 18. O-O Nxe2+ 19. Ncxe2 Nd7 20. Rb7
+Qa6 21. Nxe6+ Qxe6 22. Nd4 Qg4 23. Rc1 f6 24. Be3 Nb6 25. h3 Qe4 26. Rcc7 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.18"]
+[Round "4"]
+[White "Ponomariov, Ruslan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2814"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "14103320"]
+[BlackFideId "1503014"]
+[EventDate "2011.01.14"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O e6 6. Nc3 d6 7. d4 cxd4 8. Nxd4
+Bxg2 9. Kxg2 Qc7 10. Bg5 Nbd7 11. Qa4 Be7 12. Rfd1 O-O 13. Nc6 Bd8 14. b4 Rc8
+15. b5 Ne5 16. Bf4 Be7 17. c5 Nxc6 18. cxd6 Qb7 19. bxc6 Rxc6 20. dxe7 Rxc3+ 21.
+Kg1 Re8 22. Be5 b5 23. Rab1 Rc5 24. Bd4 Rd5 25. Qxa7 Qxe7 26. Qxe7 Rxe7 27. Bc3
+h6 28. Rxd5 Nxd5 29. Bd4 b4 30. e4 Nc3 31. Rxb4 Nxa2 32. Rc4 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.18"]
+[Round "4"]
+[White "Grischuk, Alexander"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2784"]
+[ECO "A09"]
+[Opening "Reti opening"]
+[WhiteFideId "4126025"]
+[BlackFideId "4101588"]
+[EventDate "2011.01.14"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 Nbd7 5. Qc2 e6 6. b3 Bd6 7. Bb2 O-O 8. Be2
+Re8 9. O-O e5 10. cxd5 Nxd5 11. Ne4 Bc7 12. Ng3 Nf8 13. a3 a5 14. d4 Ng6 15. Bd3
+exd4 16. Nxd4 Bg4 17. Bf5 Nf6 18. f3 Bh5 19. Rae1 Nf8 20. Nxh5 Nxh5 21. f4 Bb6
+22. Bg4 Nf6 23. Bf3 Nd5 24. Bxd5 Qxd5 25. Nf5 f6 26. Rd1 Qe4 27. Qxe4 Rxe4 28.
+Rf3 g6 29. Nh6+ Kg7 30. Ng4 Kf7 31. Nh6+ Kg7 32. Ng4 Kf7 33. Nh6+ Ke7 34. Ng8+
+Kf7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.18"]
+[Round "4"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2751"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Bb4+ 6. Nc3 Ne4 7. Qd3 Nxc3 8.
+bxc3 Be7 9. Nb5 Nc6 10. Bf4 e5 11. Bc1 O-O 12. Bg2 d6 13. Ba3 Qa5 14. O-O Rd8
+15. Bb4 Qb6 16. a4 Na5 17. Rfd1 Be6 18. Bxa5 Qxa5 19. Bxb7 Rab8 20. Bd5 Rbc8 21.
+Qf3 Bxd5 22. Rxd5 Qa6 23. Qe4 Rc6 24. c5 Rxc5 25. Rxc5 dxc5 26. Qxe5 Qb7 27. Rb1
+Bf6 28. Qf5 Qc6 29. Nxa7 Qxa4 30. Qxc5 Qa2 31. Re1 Qd2 32. Kf1 Bxc3 33. Rb1 Bd4
+34. Qe7 Bxa7 35. Qxa7 Qd5 36. Kg1 Qa8 37. Qxa8 Rxa8 38. Rb5 f6 39. h4 Re8 40.
+Kf1 g6 41. g4 Re4 42. f3 Ra4 43. Rb8+ Kg7 44. Rb7+ Kg8 45. Kf2 Ra5 46. Kg3 h6
+47. Rd7 h5 48. gxh5 Rxh5 49. e4 g5 50. hxg5 Rxg5+ 51. Kf4 Ra5 52. Rc7 Kf8 53.
+Rd7 Kg8 54. Rd5 Ra3 55. Kg4 Re3 56. Rd7 Kf8 57. Ra7 Kg8 58. f4 Rxe4 59. Kf5 Re8
+60. Kg6 f5 61. Rg7+ Kh8 62. Rh7+ Kg8 63. Rg7+ Kh8 64. Rf7 Kg8 65. Rxf5 Re7 66.
+Rg5 Rf7 67. Kh6+ Kf8 68. f5 Rf6+ 69. Kh5 Kf7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.18"]
+[Round "4"]
+[White "Shirov, Alexei"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2715"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "623539"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Qd2 e5 13. Bh6 cxd4 14. cxd4 exd4
+15. Rac1 Bb7 16. Bxg7 Kxg7 17. f4 Rc8 18. f5 Rxc1 19. Qxc1 Nc6 20. f6+ Kh8 21.
+Qg5 Qd6 22. Ng3 Rg8 23. Bc4 Ne5 24. Bb3 d3 25. h3 Ba6 26. Rf4 d2 27. Kh2 Qc5 28.
+h4 Nd3 29. e5 Nxf4 30. Ne4 Ne6 31. Bxe6 Qc6 32. Bxf7 d1=Q 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.18"]
+[Round "4"]
+[White "L'Ami, Erwin"]
+[Black "Smeets, Jan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2662"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "1007998"]
+[BlackFideId "1007246"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8. h3
+Qxb3 9. axb3 Na6 10. g4 Nb4 11. Ke2 Bg6 12. Nxg6 hxg6 13. Bg2 Be7 14. Bd2 a5 15.
+Rhc1 b6 16. Na4 Nd7 17. cxd5 cxd5 18. Bf1 Bd6 19. Kf3 Ke7 20. Kg2 Rhb8 21. Nc3
+Na6 22. Bxa6 Rxa6 23. Nb5 Raa8 24. Nxd6 Kxd6 25. b4 a4 26. b5 Nf6 27. Ra3 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.18"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2731"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Keres variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "8602883"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Ne7 10. Be3 O-O 11. Qb3 Qc7 12. Bb5 Nec6 13. Ne2 Na5 14. Qb4 e5
+15. O-O Be6 16. Nd4 exd4 17. cxd4 Nbc6 18. Qc3 Ne7 19. Rfd1 Rad8 20. Bf2 a6 21.
+Bg3 Qc8 22. Bf1 b6 23. Rab1 Nb3 24. Rxb3 Bxb3 25. Qxb3 bxc5 26. d5 Ng6 27. Qb6
+f5 28. Bxa6 Qd7 29. Bb5 Qf7 30. exf5 Qxf5 31. Qxc5 Rc8 32. Qd4 Rfd8 33. a4 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.20"]
+[Round "5"]
+[White "Wang, Hao"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2773"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "4126025"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O a6 8. b3 Rb8
+9. Nd5 Bg4 10. Bb2 Nxd5 11. cxd5 Nb4 12. e4 f5 13. h3 fxe4 14. hxg4 exf3 15.
+Bxf3 Qe8 16. g5 Rxf3 17. Qxf3 Qf7 18. Qe2 Rf8 19. f4 Nxd5 20. Rf2 h6 21. Raf1 c6
+22. g4 e6 23. Qe4 hxg5 24. fxg5 Qe8 25. Rxf8+ Bxf8 26. Re1 Kf7 27. Kg2 b5 28. a4
+b4 29. Bc1 a5 30. Bf4 Qd7 31. Bg3 Be7 32. Rf1+ Kg7 33. Be5+ dxe5 34. Qxe5+ Kg8
+35. Rh1 Nf4+ 36. Kf1 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.20"]
+[Round "5"]
+[White "Smeets, Jan"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2662"]
+[BlackElo "2810"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "1007246"]
+[BlackFideId "5000017"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Bg5 h6 15.
+Bh4 c5 16. dxe5 dxe5 17. a4 c4 18. N3h2 Re6 19. Qf3 Qb6 20. Ng4 Be7 21. Nxf6+
+Bxf6 22. Bg3 Bg5 23. Ne3 Bxe3 24. Qxe3 Qxe3 25. Rxe3 Nc5 26. f3 Rd8 27. Re2 Bc6
+28. axb5 Bxb5 29. Bf2 Nd3 30. Rd2 Rc8 31. Bb1 Rd6 32. Be3 Rcc6 33. Bxd3 cxd3 34.
+Kf2 Rd7 35. Rdd1 Rb7 36. Ra5 f6 37. Ke1 Bc4 38. b4 Bb5 39. Kd2 h5 40. Bc5 Kf7
+41. Rc1 Bc4 42. Be3 Bb5 43. Bc5 Rxc5 44. bxc5 Bc4 45. Rd1 Rb2+ 46. Kc1 Rc2+ 47.
+Kb1 Ke7 48. c6 Kd8 49. Ra4 Bb5 50. Ra2 Kc7 51. c4 Rxc4 52. Rc1 Rd4 53. Rd2 Ba4
+54. Rc5 Bc2+ 55. Kb2 Rd6 56. Kc3 h4 57. g3 hxg3 58. h4 g6 59. Rd5 Rxc6+ 60. Kb2
+Rb6+ 61. Kc3 Rb3+ 62. Kc4 Rb1 63. Rg2 Bb3+ 64. Kxd3 Bxd5 65. exd5 Rb3+ 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.20"]
+[Round "5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2686"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
+Qd2 Be6 9. Ng5 Bxg5 10. Bxg5 Qd7 11. Be2 O-O 12. O-O-O f6 13. Be3 Ne7 14. b3
+Rfd8 15. Rde1 Nd5 16. Bf3 c6 17. Bd4 Nc7 18. g4 Nb5 19. Rhg1 Nxd4 20. Qxd4 Re8
+21. Kb2 a6 22. h4 Rad8 23. h5 h6 24. Be4 c5 25. Qd1 d5 26. Bg6 Bf7 27. f4 Bxg6
+28. hxg6 d4 29. c4 Rxe1 30. Rxe1 Re8 31. g5 fxg5 32. fxg5 Rxe1 33. Qxe1 Qc6 34.
+gxh6 gxh6 35. Qe7 Qxg6 36. Qxb7 Qd6 37. Qc8+ Kg7 38. Qg4+ Kf7 39. Qf5+ 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.20"]
+[Round "5"]
+[White "Nakamura, Hikaru"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2744"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "14103320"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Nc6 6. Bg2 Ne4 7. Bd2 Nxd2 8. Qxd2
+cxd4 9. Nxd4 Qb6 10. Nc2 Be7 11. O-O O-O 12. Rab1 d6 13. b4 Rd8 14. Kh1 Bd7 15.
+Ne3 Bf8 16. b5 Na5 17. f4 Qc7 18. Rfc1 Rac8 19. Ne4 b6 20. Rc2 h6 21. Rf1 f5 22.
+Nf2 g6 23. Nd3 Bg7 24. Rfc1 Be8 25. Nd1 Qe7 26. Qb4 Rc7 27. e4 fxe4 28. Bxe4 Qf6
+29. Bf3 Bf7 30. N1f2 Qd4 31. Ne5 Bxe5 32. fxe5 Qxe5 33. Ng4 Qg7 34. Rd1 h5 35.
+Nf2 Qe5 36. Re1 Qd4 37. Rd1 Qe5 38. Re1 Qf5 39. Be4 Qc5 40. Qb2 Qg5 41. Bd3 e5
+42. Ne4 Qe7 43. Rf1 Kg7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.20"]
+[Round "5"]
+[White "Carlsen, Magnus"]
+[Black "L'Ami, Erwin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2628"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "1007998"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Re1 O-O
+9. Nbd2 Kh8 10. Nf1 Ng8 11. Bg5 f6 12. Bh4 Qe8 13. d4 Bd7 14. d5 Nd8 15. Bxd7
+Qxd7 16. N3d2 Nf7 17. f3 f5 18. c4 a5 19. Bf2 Nf6 20. c5 fxe4 21. Nxe4 dxc5 22.
+Nxc5 Qxd5 23. Qxd5 Nxd5 24. Rad1 c6 25. Ne3 Rfd8 26. a4 Nxe3 27. Bxe3 b5 28. b3
+bxa4 29. bxa4 Rd5 30. Ne6 Bf8 31. Nc7 Rxd1 32. Rxd1 Rd8 33. Rc1 Rd3 34. Bb6 Bb4
+35. Rxc6 Ra3 36. Ne6 h5 37. f4 Rxa4 38. fxe5 Ra1+ 39. Kf2 Re1 40. Bd4 Kg8 41.
+Rc8+ Kh7 42. Nf8+ Kh6 43. Nd7 Rd1 44. Be3+ Kg7 45. Rc7 a4 46. e6 Nd6 47. h4 a3
+48. Ra7 g5 49. hxg5 Kg6 50. e7 a2 51. Nf8+ Kf5 52. Rxa2 Ne4+ 53. Kf3 Rf1+ 54.
+Ke2 Ng3+ 55. Kd3 Bxe7 56. Ra5+ Kg4 57. Ra4+ Kf5 58. Ra5+ Kg4 59. Ne6 Rd1+ 60.
+Kc2 Rd7 61. g6 Nf1 62. Bc1 Bf6 63. g7 Bxg7 64. Rg5+ Kh4 65. Nxg7 Ne3+ 66. Bxe3
+Rd2+ 67. Kc1 Rd1+ 68. Kb2 Rd2+ 69. Kc3 Rd3+ 70. Kc4 Rxe3 71. Rxh5+ Kg4 72. Rh2
+Re7 73. Nh5 Re5 74. Nf6+ Kg3 75. Rh7 Kxg2 76. Kd4 Re1 77. Ng4 Kg3 78. Ne3 Ra1
+79. Rg7+ Kf4 80. Rf7+ Kg3 81. Nc2 Ra4+ 82. Ke3 Kg4 83. Nd4 Kg5 84. Ke4 Kg6 85.
+Rf1 Ra5 86. Nc6 Ra4+ 87. Ke5 Kg5 88. Rg1+ Rg4 89. Ra1 Rg3 90. Re1 Rg2 91. Ne7
+Kg4 92. Nf5 Ra2 93. Rg1+ Kf3 94. Nh4+ 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.20"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2805"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[WhiteFideId "4101588"]
+[BlackFideId "13300474"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 Bf5 7. Rc1 e6 8. Qb3
+Qb6 9. Qxb6 axb6 10. Bb5 Be7 11. f3 O-O 12. a3 Rfc8 13. Nge2 Na5 14. Na4 Rxc1+
+15. Nxc1 Nc4 16. Bxc4 dxc4 17. Nxb6 Ra6 18. Nxc4 Nd5 19. Ne5 Rb6 20. Ned3 Bxd3
+21. Nxd3 Bxa3 22. Bg3 Bxb2 23. Ke2 Rc6 24. Bf2 Rc2+ 25. Kd1 Rxf2 26. Nxf2 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.20"]
+[Round "5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2722"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "4168119"]
+[BlackFideId "2209390"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3 d6
+9. d4 Bb6 10. Na3 Bg4 11. axb5 axb5 12. Nxb5 O-O 13. Re1 Bxf3 14. gxf3 Nh5 15.
+Kh1 Qf6 16. Rg1 exd4 17. Bg5 Qe5 18. Bd5 dxc3 19. Bxc6 cxb2 20. Rb1 Bxf2 21. Rg2
+Rb6 22. Bd7 Bc5 23. Qc2 h6 24. Bxh6 Qf6 25. Bxg7 Nxg7 26. Nxc7 Qxf3 27. Nd5 Rb3
+28. Ba4 Rb7 29. Bc6 Rb3 30. Qd2 Be3 31. Nxe3 Qxe3 32. Qxd6 Rc3 33. Rbg1 Qxg1+
+34. Rxg1 Rc1 35. Qg3 Rxg1+ 36. Qxg1 Rc8 37. Qb6 Rxc6 38. Qxb2 Rg6 39. Qb8+ Kh7
+40. Qb7 f5 41. e5 Re6 42. Qd5 Rg6 43. Qf3 Re6 44. Qf4 Rg6 45. h3 Kg8 46. Kh2 Kh7
+47. Qc4 Re6 48. Qd5 Rg6 49. Qd4 Kg8 50. Qc4+ Kh7 51. Qc7 Kg8 52. h4 Kh7 53. Kh3
+Kh6 54. Qd7 Kh7 55. Qf7 Re6 56. Qc7 Rg6 57. Qb8 Nh5 58. Qa7+ Ng7 59. Qe3 Rh6 60.
+Kg3 Rg6+ 61. Kh3 Rh6 62. Qd3 Re6 63. Qd5 Rg6 64. Qb5 Kh6 65. Qb3 Kh7 66. Qd5 Ne6
+67. Kh2 Ng7 68. Qb5 Kh6 69. Qb3 Kh7 70. Qd5 Rg4 71. h5 Nxh5 72. Qf7+ Ng7 73. e6
+Re4 74. e7 Kh6 75. Kg2 Rg4+ 76. Kf2 Re4 77. Kf3 Kh7 78. Qf6 Kg8 79. Qf8+ 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "Shirov, Alexei"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2784"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "4101588"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 Bb7 10. Bd2 g6 11. Ne4 O-O-O 12. a4 Ba6 13. Qe3 Qxe5 14. Bc3 Bb4
+15. Bxb4 Rhe8 16. f3 d5 17. a5 Nxc4 18. Qxa7 Qxb2 19. Qxa6+ Kd7 20. Rd1 Qxb4+
+21. Kf2 Rxe4 22. fxe4 Qc5+ 23. Ke1 Qb4+ 24. Kf2 Qc5+ 25. Ke1 Nb2 26. exd5 Qc3+
+27. Rd2 Qc1+ 28. Ke2 Re8+ 29. Kf3 Qxd2 30. Qxc6+ Kd8 31. Qf6+ Re7 32. Kg4 Nd1
+33. Qh8+ Kd7 34. Bb5+ c6 35. Bxc6+ Kc7 36. d6+ Qxd6 37. Rxd1 Qxd1+ 38. Bf3 h5+
+39. Kg3 Qe1+ 40. Kh3 Qe6+ 41. Kh4 g5+ 42. Kxg5 Qg6+ 43. Kf4 f6 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "Ponomariov, Ruslan"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2715"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "14103320"]
+[BlackFideId "623539"]
+[EventDate "2011.01.14"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. e4 O-O 8. Be3
+Bg4 9. Rd1 e6 10. Be2 Nc6 11. Ng1 Bxe2 12. Ngxe2 Qe7 13. O-O Rfd8 14. e5 Qb4 15.
+Qc2 h6 16. a3 Qc4 17. Rc1 Nd5 18. Nxd5 Qxc2 19. Nf6+ Bxf6 20. Rxc2 Bg7 21. Rfc1
+Rd7 22. g4 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "L'Ami, Erwin"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2751"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Adorjan gambit"]
+[WhiteFideId "1007998"]
+[BlackFideId "2016192"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. cxb5 c6 8.
+Bg5 cxb5 9. e3 Bb7 10. Nf3 h6 11. Bh4 a6 12. Bd3 d6 13. O-O Nbd7 14. Rfc1 Qb6
+15. Qc7 Rfc8 16. Qxb6 Nxb6 17. Bg3 Rxc1+ 18. Rxc1 Rc8 19. Rxc8+ Nxc8 20. h3 Ne4
+21. Bh2 Kf8 22. Ne1 Nd2 23. f3 f5 24. Nc2 Ke7 25. Kf2 Nb6 26. Ke2 Nb3 27. Nb4
+Na5 28. Bc2 Nac4 29. Nd3 a5 30. Bg3 Nd5 31. Bf2 g5 32. g4 a4 33. e4 fxe4 34.
+fxe4 Ndb6 35. e5 Be4 36. exd6+ Kxd6 37. Bg3+ Ke7 38. Kd1 Bxd3 39. Bxd3 Nxb2+ 40.
+Ke2 Nd5 41. Be4 Nc3+ 42. Kf3 b4 43. Be1 Nbd1 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "Anand, Viswanathan"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2773"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "5000017"]
+[BlackFideId "4126025"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. gxf6 bxc3 14. Qxc3 Nxf6
+15. Na5 Rc8 16. Nc6 Qe8 17. Nxe7+ Qxe7 18. Qa5 Rc6 19. Rg1 Rfc8 20. Rg2 Bh3 21.
+Rgd2 Bxf1 22. Rxf1 Qe6 23. Rff2 h6 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "Aronian, Levon"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2731"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "8602883"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg4 10. h3 Bxf3 11. Qxf3 O-O 12. Rd1 Rc8 13. e4 e5 14. d5 cxd5 15.
+Bxd5 Bxc3 16. bxc3 Nxd5 17. Rxd5 Qc7 18. Qg3 Nb6 19. Rxe5 f6 20. Rb5 Qxg3 21.
+fxg3 Rf7 22. Bf4 g5 23. Be3 Rxc3 24. Bf2 Rc4 25. Ra5 Nc8 26. e5 b6 27. Rd5 fxe5
+28. Rxe5 h6 29. Re8+ Kh7 30. Rd1 Rcc7 31. h4 Ne7 32. Rdd8 Kg6 33. g4 Rc1+ 34.
+Kh2 Rxf2 35. h5+ Kg7 36. Rxe7+ Rf7 37. Re6 Rc4 38. Rg6+ Kh7 39. Rdd6 Rxg4 40.
+Rxh6+ Kg8 41. Rdg6+ Rg7 42. a5 Rxg6 43. Rxg6+ Kh7 44. g3 Rc4 45. axb6 axb6 46.
+Kh3 g4+ 47. Kh4 b5 48. Kg5 b4 49. Rh6+ Kg7 50. Rd6 Rc5+ 51. Kxg4 Rb5 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "Giri, Anish"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2733"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Be3 Bg4 9. Rc1 Bxf3 10. gxf3 cxd4 11. cxd4 O-O 12. f4 e6 13. Bg2 Nc6 14. e5 Qa5+
+15. Qd2 Qa6 16. Qe2 Qa5+ 17. Qd2 Qa6 18. Bf1 Qa4 19. Rc4 Qb5 20. Rc5 Qb1+ 21.
+Ke2 Qe4 22. f3 Qf5 23. h4 Qh5 24. Bf2 Rfd8 25. Bh3 Bf8 26. Bg4 Qh6 27. Rc4 Rd5
+28. h5 Rad8 29. Rh3 Bc5 30. hxg6 Qxg6 31. f5 exf5 32. Bh5 Nxd4+ 33. Kf1 Nxf3 34.
+Qxd5 Rxd5 35. Bxf3 Bxf2 36. Bxd5 Qg1+ 37. Ke2 Qe1+ 38. Kf3 Qf1 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.21"]
+[Round "6"]
+[White "Smeets, Jan"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2662"]
+[BlackElo "2814"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "1007246"]
+[BlackFideId "1503014"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Bd7 10. h3 b6 11. b3 Kc8 12. Bb2 h5 13. g3 Be7 14. Rad1 a5 15.
+a4 Re8 16. Rd3 c5 17. Nd5 c4 18. Rc3 Bc5 19. Kh2 Bc6 20. bxc4 Bxa4 21. Ra1 Bc6
+22. Rf1 a4 23. Ba3 Ra5 24. g4 hxg4 25. hxg4 Ne7 26. Nb4 Bb7 27. Kg3 Ng6 28. Re1
+Bxf3 29. Rxf3 Rxe5 30. Rd1 Re4 31. Rxf7 Rxg4+ 32. Kxg4 Ne5+ 33. Kg3 Nxf7 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.22"]
+[Round "7"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2628"]
+[ECO "A19"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Sicilian variation"]
+[WhiteFideId "623539"]
+[BlackFideId "1007998"]
+[EventDate "2011.01.14"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5 8.
+Ndb5 f6 9. Be3 a6 10. Nd6+ Bxd6 11. Qxd6 Ne7 12. Bb6 Nf5 13. Qb4 Nc6 14. Qc5 d6
+15. Bxd8 dxc5 16. Bb6 Bd7 17. O-O-O Ne5 18. Be2 Bc6 19. Bxc5 Bxg2 20. Rhe1 Nf3
+21. Bxf3 Bxf3 22. Rd3 Bc6 23. Rxe6+ Kf7 24. Re2 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.22"]
+[Round "7"]
+[White "Kramnik, Vladimir"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2686"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "24116068"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Qd7 8.
+Qb3 O-O 9. Be3 c5 10. d5 e6 11. Bc4 exd5 12. Bxd5 Qc7 13. Ne2 Nd7 14. Bf4 Ne5
+15. O-O c4 16. Qb4 Re8 17. Bg3 Rb8 18. Qxc4 Qxc4 19. Bxc4 Bd7 20. Rfd1 Nxc4 21.
+Bxb8 Ba4 22. Bxa7 Bxd1 23. Rxd1 Rxe4 24. Rd8+ Bf8 25. Bc5 Rxe2 26. g4 Rxa2 27.
+g5 Ne5 28. Bxf8 f6 29. Be7+ Kf7 30. Bxf6 Ra5 31. Kg2 Ng4 32. Rd7+ Ke6 33. Re7+
+Kf5 34. Bd4 Kxg5 35. Rxh7 Ne5 36. Rxb7 Nc4 37. Rc7 Nd6 38. Be3+ Kf5 39. Kf3 Ra4
+40. Bd4 Ke6 41. Rg7 Kf5 42. Ra7 Rxa7 43. Bxa7 Nc4 44. Bb8 Nb2 45. Bg3 Nc4 46. h3
+g5 47. Ke2 Ke4 48. f3+ Kd5 49. Bc7 Ke6 50. Kd3 Kd5 51. f4 gxf4 52. Bxf4 Nb2+ 53.
+Kc2 Nc4 54. h4 Ke4 55. Bc1 Ne5 56. h5 Nd7 57. h6 Nf6 58. c4 Nh7 59. Kb3 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.22"]
+[Round "7"]
+[White "Nepomniachtchi, Ian"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2744"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "14103320"]
+[EventDate "2011.01.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. Nf3 Qa5 8. a3
+cxd4 9. b4 Qc7 10. cxd4 b5 11. Nf4 Qb6 12. Rb1 h6 13. Be3 a5 14. Nd3 axb4 15.
+axb4 Ra4 16. Qd2 Qa7 17. Qc3 Bb7 18. Be2 Ra3 19. Qc1 Ra2 20. Bd1 Qa3 21. Qxa3
+Rxa3 22. Nc5 Bxc5 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.22"]
+[Round "7"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2810"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e6 7. Bg2 Be7 8. O-O
+O-O 9. Nce2 Qc7 10. b3 e5 11. Nf5 Bxf5 12. exf5 d5 13. Bxd5 Rd8 14. c4 Nxd5 15.
+cxd5 Qa5 16. Qd2 Qxd2 17. Bxd2 Rxd5 18. Be3 Nc6 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.22"]
+[Round "7"]
+[White "Nakamura, Hikaru"]
+[Black "Smeets, Jan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2662"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran, Lilienthal variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "1007246"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Bb7 12. Bg2 Qb6 13. exf6 c5 14. d5 O-O-O 15.
+O-O b4 16. Na4 Qb5 17. a3 exd5 18. axb4 cxb4 19. Bf4 Bh6 20. Qd2 Bxf4 21. Qxf4
+Bc6 22. Qd4 Kb8 23. Rfe1 Rhe8 24. Re7 Qa5 25. Rxf7 Bxa4 26. Bxd5 Qc5 27. Qf4+
+Ne5 28. Be4 Rd7 29. Rg7 Bb5 30. Rxd7 Bxd7 31. Bg6 Rf8 32. Re1 Qd6 33. Qxe5 Rxf6
+34. Qxd6+ Rxd6 35. Bf7 Rd2 36. Bxc4 Rxb2 37. h4 Bg4 38. Kg2 a5 39. Re5 Rc2 40.
+Rb5+ Kc7 41. Bd5 Rd2 42. Bf7 Bd7 43. Rxa5 Bc6+ 44. Kf1 Bf3 45. Ra1 Kd6 46. Bb3
+Rd3 47. Rb1 Kc5 48. Ke1 Kb5 49. Bd1 Bxd1 50. Rxd1 Rc3 51. h5 b3 52. Kd2 Rc8 53.
+Rc1 Rf8 54. f4 Kb4 55. Rh1 Ka3 56. Ke3 b2 57. g4 Rc8 58. Rb1 Ka2 59. Rxb2+ Kxb2
+60. h6 Kc3 61. g5 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.22"]
+[Round "7"]
+[White "Grischuk, Alexander"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2805"]
+[ECO "C85"]
+[Opening "Ruy Lopez"]
+[Variation "Exchange variation doubly deferred (DERLD)"]
+[WhiteFideId "4126025"]
+[BlackFideId "13300474"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Bxc6 dxc6 7. Nc3 Nd7 8.
+d4 exd4 9. Nxd4 O-O 10. Qe2 Bd6 11. Be3 Nf6 12. f4 Ng4 13. Rad1 Nxe3 14. Qxe3 f6
+15. Nce2 Qe7 16. Kh1 Re8 17. Ng3 Qf7 18. b3 Bg4 19. Rde1 Bd7 20. Nf3 Rad8 21. e5
+fxe5 22. fxe5 Qg6 23. Qa7 Bb4 24. Rd1 Bc8 25. Qf2 Rxd1 26. Rxd1 Rf8 27. Qe2 Be7
+28. Rf1 h6 29. Nd4 c5 30. Rxf8+ Bxf8 31. Nf3 Be6 32. Nf1 b5 33. c4 bxc4 34. bxc4
+Qb1 35. h3 Qc1 36. Nd2 Be7 37. Kh2 Bg5 38. g3 Qc2 39. a3 Qf5 40. g4 Bf4+ 41. Kg2
+Qxe5 42. Qxe5 Bxe5 43. Ne3 Bb2 44. Nb1 Kf7 45. Kf3 Kf6 46. Ke4 Kg5 47. Nd5 Bxd5+
+48. cxd5 Kh4 49. Nd2 Bxa3 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.22"]
+[Round "7"]
+[White "Wang, Hao"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2722"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "8602883"]
+[BlackFideId "2209390"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. b3 Nbd7 6. Bd3 Ne4 7. O-O f5 8. Ba3
+Bxa3 9. Nxa3 O-O 10. b4 a5 11. Nc2 axb4 12. Nxb4 g5 13. Nd2 Qe7 14. a3 Ndf6 15.
+f3 c5 16. dxc5 Qxc5 17. fxe4 dxe4 18. Be2 Qxe3+ 19. Kh1 Rd8 20. Ra2 Rxa3 21.
+Rxa3 Qxa3 22. Qb3 Qxb3 23. Nxb3 e3 24. Nc2 Ne4 25. Nxe3 Nc3 26. Re1 Nxe2 27.
+Rxe2 Rd3 28. Nc5 Ra3 29. Kg1 Kf7 30. Kf2 b6 31. Nc2 Rc3 32. Na4 Rxc4 33. Nxb6
+Rf4+ 34. Kg1 Ba6 35. Re1 Bd3 36. Rc1 Ke7 37. Ne3 Rd4 38. Rc7+ Kd6 39. Rd7+ Kc5
+40. Na4+ Rxa4 41. Rxd3 Ra1+ 42. Kf2 Ra2+ 43. Kf3 h5 44. h3 g4+ 45. Kf4 Ra4+ 46.
+Kg5 f4 47. Nd1 e5 48. Rd2 f3 49. gxf3 gxh3 50. Nb2 Ra3 51. Nd3+ Kd4 52. Ne1+ Ke3
+53. Rh2 Rc3 54. Nc2+ Kd3 55. Ne1+ Ke3 56. f4 exf4 57. Rxh3+ Kd4 58. Nf3+ Ke4 59.
+Nd2+ Kd4 60. Rh4 Ke3 61. Nf1+ Ke2 62. Rxf4 Rf3 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "Giri, Anish"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2731"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "accelerated Meran (Alekhine variation)"]
+[WhiteFideId "24116068"]
+[BlackFideId "8602883"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 e6 6. b3 Bb4 7. Bd2 Nbd7 8. Bd3 O-O
+9. O-O Bd6 10. Re1 dxc4 11. bxc4 b6 12. Rb1 Qc7 13. a4 a5 14. Ne4 Nxe4 15. Bxe4
+Bb7 16. Qc2 h6 17. Bc3 Rab8 18. Red1 Ba6 19. Bh7+ Kh8 20. Bd3 f5 21. g3 Bb4 22.
+Bxb4 axb4 23. Rxb4 c5 24. Rbb1 cxd4 25. exd4 Bb7 26. d5 Nc5 27. Bf1 Rbd8 28. Bg2
+Rf6 29. Nd4 exd5 30. Nb5 Qf7 31. cxd5 f4 32. a5 Rc8 33. Na7 Rf8 34. Rxb6 fxg3
+35. Rxf6 Qxf6 36. hxg3 Nd7 37. Nc6 Qd6 38. Re1 Ba6 39. Qc3 Nc5 40. Ne5 Kg8 41.
+Ng6 Rf6 42. Nf4 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "Shirov, Alexei"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2773"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "2209390"]
+[BlackFideId "4126025"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. Be2 h5 11. Bxg4 hxg4 12. Nd5 Nc6 13. Nf5 Bxf5 14. exf5 Bxb2
+15. Rb1 Qa5+ 16. Qd2 Bd4 17. Qxa5 Nxa5 18. c3 Bc5 19. Nc7+ Kd7 20. Nxa8 Rxa8 21.
+h4 gxh3 22. Rxh3 b5 23. Ke2 f6 24. Rbh1 Nc6 25. Rh8 Ra7 26. f4 gxf4 27. Bxf4 a5
+28. g4 b4 29. Bd2 bxc3 30. Bxc3 d5 31. g5 fxg5 32. f6 exf6 33. Bxf6 Nd4+ 34. Kd3
+Ne6 35. R1h6 Ra6 36. Bxg5 Bb4 37. R8h7+ Kc8 38. Be3 Rd6 39. Ra7 Nc5+ 40. Kd4
+Ne6+ 41. Ke5 d4 42. Bxd4 Nxd4 43. Rh8+ Rd8 44. Rxd8+ Kxd8 45. Kxd4 Kc8 46. Kd5
+Kb8 47. Rh7 Bd2 48. Kc6 Bb4 49. Rd7 Kc8 50. Rd3 Kb8 51. Kb6 Kc8 52. Rd1 Be7 53.
+Kxa5 Bh4 54. Rf1 Bg5 55. Rf3 Kb7 56. Kb5 Bd8 57. Rf7+ Bc7 58. Rd7 Kb8 59. Ka6
+Bh2 60. Rb7+ Ka8 61. a4 Bg3 62. a5 Bf2 63. Rf7 Bc5 64. Rf5 Bd6 65. Kb6 Bb8 66.
+Rf7 Bh2 67. Ra7+ Kb8 68. Rg7 Ka8 69. a6 Be5 70. Ra7+ Kb8 71. Rd7 Ka8 72. a7 Bd4+
+73. Ka6 Bb6 74. Re7 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2805"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall, main line, 14...Qh3"]
+[WhiteFideId "5000017"]
+[BlackFideId "13300474"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Be3 Bg4 16. Qd3 Rae8 17. Nd2 Qh5 18. Qf1 Re7 19. a4 Rfe8 20. axb5 axb5 21. Bxd5
+Qxd5 22. Qg2 Qxg2+ 23. Kxg2 h5 24. Rec1 f6 25. b3 g5 26. c4 bxc4 27. Nxc4 Bc7
+28. Na5 Bxa5 29. Rxa5 Bd7 30. b4 Rb8 31. Rc4 Kf7 32. Kf1 Kg6 33. Ke2 Bg4+ 34.
+Kd2 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2751"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+O-O 9. g4 Be6 10. g5 Nfd7 11. h4 Nb6 12. Qd2 N8d7 13. f4 exf4 14. Bxf4 Ne5 15.
+O-O-O Rc8 16. Kb1 Qc7 17. h5 Rfe8 18. Ka1 Bf8 19. Nd4 Qc5 20. g6 Nec4 21. Bxc4
+Nxc4 22. Qd3 fxg6 23. hxg6 h6 24. Qg3 Qb6 25. Bc1 Qa5 26. Rdf1 Ne5 27. Nd5 Bxd5
+28. exd5 Qxd5 29. Bxh6 gxh6 30. g7 Be7 31. Rxh6 Nf7 32. Qg6 Nxh6 33. Qxh6 Bf6
+34. Qh8+ Kf7 35. g8=Q+ Rxg8 36. Qxf6+ Ke8 37. Re1+ 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "Ponomariov, Ruslan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2784"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "4101588"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. Bd2 dxc4 8.
+Bxc4 Bd6 9. Nb5 Bd7 10. Qb3 Ne4 11. Nxd6 cxd6 12. Bd3 Nxd2 13. Nxd2 Qa5 14. a3
+Rab8 15. Qb5 Qxb5 16. Bxb5 Rfc8 17. Ne4 d5 18. Nc5 Be8 19. Bxc6 Rxc6 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "L'Ami, Erwin"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2733"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[WhiteFideId "1007998"]
+[BlackFideId "4168119"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8. Nc3
+Nc6 9. e3 Re8 10. Re1 a5 11. Qe2 e5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. e4 Be6 15.
+f4 Bxc3 16. bxc3 Bd5 17. Qf2 Bc6 18. Ba3 Na4 19. Rad1 Qf6 20. Rd4 Rad8 21. e5
+Qe6 22. f5 gxf5 23. Bxc6 Qxc6 24. Qxf5 Rxd4 25. cxd4 Qe6 26. Qg5+ Qg6 27. Qd2
+Nb6 28. Qxa5 Qd3 29. Qc5 Na4 30. Qc1 Qxd4+ 31. Qe3 Qxe3+ 32. Rxe3 Nb6 33. Rc3
+Nd5 34. Rb3 b6 35. Bb2 Kf8 36. Kf2 Ke7 37. a3 Ke6 38. g4 Rg8 39. Rg3 c5 40. Kf3
+c4 41. Ke4 Rg5 42. a4 h5 43. h3 hxg4 44. hxg4 Rg8 45. Kd4 Ra8 46. Kxc4 Rxa4+ 47.
+Kb3 Rb4+ 48. Ka3 Re4 49. g5 Kf5 50. Rd3 Ne3 51. Kb3 b5 52. Rd7 Kg6 53. Rb7 Nc4
+54. Rxb5 Nxb2 55. Kxb2 Kxg5 56. Rb7 Kg6 57. Rb6+ Kg7 58. Rb5 Kg6 59. Rb6+ Kf5
+60. Rf6+ Kxe5 61. Rxf7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.23"]
+[Round "8"]
+[White "Smeets, Jan"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2662"]
+[BlackElo "2715"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[WhiteFideId "1007246"]
+[BlackFideId "623539"]
+[EventDate "2011.01.14"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. e5 Nd7 8. Be3 c5
+9. Be4 Bxe4 10. Nxe4 Nh6 11. dxc5 Ng4 12. Bg1 dxe5 13. h3 Nh6 14. c6 Nf6 15.
+Qxd8+ Rxd8 16. c7 Rc8 17. Nxf6+ exf6 18. Bb6 Kd7 19. O-O-O+ Kc6 20. Ba5 Nf5 21.
+Rd8 Bh6 22. Rhd1 Bxf4+ 23. Kb1 e4 24. Nd4+ Nxd4 25. R1xd4 Bxc7 26. Bxc7 Kxc7 27.
+R8d7+ Kb6 28. Rxe4 f5 29. Red4 Rhe8 30. b4 Re1+ 31. Kb2 Re2 32. R4d6+ Rc6 33.
+Rxc6+ Kxc6 34. Rxf7 Rxg2 35. Rxh7 Re2 36. Ra7 Kb6 37. Rf7 Re6 38. Kb3 Kc6 39. h4
+Kd5 40. h5 Ke4 41. hxg6 Rxg6 42. a4 f4 43. axb5 axb5 44. Re7+ Kf5 45. Kc3 Rd6
+46. Rb7 Rd5 47. Kb2 f3 48. c4 bxc4 49. Kc3 Ke4 50. Rh7 Rf5 51. Rh1 f2 52. Rf1
+Kd5 53. b5 Kc5 54. b6 Rf3+ 55. Kd2 Kxb6 56. Ke2 Rf5 57. Rxf2 Rxf2+ 58. Kxf2 Kc5
+59. Ke3 Kb4 60. Kd2 Kb3 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.25"]
+[Round "9"]
+[White "Nepomniachtchi, Ian"]
+[Black "Smeets, Jan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2662"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "1007246"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 a6 10. Rd1 b5 11. e4 bxc4 12. e5 Qc7 13. exd6 Qxd6 14. Bg5 a5 15.
+Bxf6 Nxf6 16. Na4 Ba6 17. Nc5 Rfb8 18. Rac1 h6 19. a3 Nd7 20. Ne4 Qd5 21. Nc3
+Qf5 22. Qe2 Qf4 23. Rc2 Rd8 24. Rcd2 Rab8 25. g3 Qc7 26. Qe3 Bb7 27. Ne5 Nxe5
+28. Qxe5 Qxe5 29. dxe5 Rxd2 30. Rxd2 c5 31. f4 g5 32. Kf2 gxf4 33. gxf4 Bc6 34.
+Ke3 Kf8 35. Rd6 Be8 36. Rd2 Bc6 37. h4 Ke7 38. Rd6 Bh1 39. Na4 Rb3+ 40. Kd2 Rf3
+41. Nxc5 Rxf4 42. Ra6 Rxh4 43. Rxa5 h5 44. Ke3 Rh2 45. Ra7+ Kf8 46. Rc7 Rxb2 47.
+Nd7+ Kg7 48. Rxc4 Rb3+ 49. Kf2 Rxa3 50. Rh4 Bc6 51. Nf6 Rf3+ 52. Ke2 Rf5 53.
+Nxh5+ Kg6 54. Ng3 Rxe5+ 55. Kf2 Ra5 56. Rg4+ Kf6 57. Rg8 Ra2+ 58. Ke3 Ke5 59.
+Rc8 Ra3+ 60. Kf2 Bd5 61. Nf1 Ra2+ 62. Ke3 f5 63. Nd2 f4+ 64. Ke2 Kd4 65. Rf8 e5
+66. Ke1 e4 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.25"]
+[Round "9"]
+[White "Kramnik, Vladimir"]
+[Black "L'Ami, Erwin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2628"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "1007998"]
+[EventDate "2011.01.14"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. d3 Nxc3 6. bxc3 Bg7 7. Qc2 O-O 8.
+g3 c5 9. Bg2 Nc6 10. h4 Nb4 11. Qd2 Nd5 12. Bb2 Qa5 13. h5 Nb6 14. hxg6 hxg6 15.
+a4 Bd7 16. Kf1 Nxa4 17. Qg5 Qb6 18. Qh4 Rfe8 19. Bc1 e5 20. Qh7+ Kf8 21. Bh6
+Bxh6 22. Qxh6+ Ke7 23. Nxe5 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.25"]
+[Round "9"]
+[White "Aronian, Levon"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2722"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Yugoslav variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "2209390"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 Nxd5 8. Qd2
+Bb4 9. Rc1 h6 10. Bh4 c5 11. Bc4 cxd4 12. Qxd4 Bxc3+ 13. bxc3 O-O 14. O-O N5b6
+15. Bb3 Re8 16. Rfd1 Qh5 17. Bg3 e5 18. Qb4 e4 19. Ne1 a5 20. Qd4 Nc5 21. Rb1
+Nxb3 22. Qxb6 Nc5 23. c4 Be6 24. Rd5 Bxd5 25. Qxc5 Red8 26. cxd5 Qxd5 27. Qc2 b5
+28. Qb2 b4 29. Be5 Qd2 30. Qa1 Qe2 31. Bd4 Rab8 32. h3 f6 33. Rb2 Qb5 34. Qb1
+Qd5 35. Qd1 Rbc8 36. Rd2 Qe6 37. Kh2 Rd7 38. g3 Rdc7 39. Bb2 Qxa2 40. Be5 Qxd2
+41. Qxd2 fxe5 42. Qd5+ Rf7 43. Kg2 Rf8 44. h4 Kh8 45. Qxe4 Rxf2+ 46. Kh3 b3 47.
+Nd3 b2 48. Qb7 R8f7 49. Qb5 a4 50. Nxb2 a3 51. Nd3 Rf1 52. Qa4 Rh1+ 53. Kg4 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.25"]
+[Round "9"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2814"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "1503014"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Bd7 10. h3 b6 11. Bf4 Kc8 12. Rad1 h6 13. Bh2 a5 14. g4 Ne7
+15. Nd4 h5 16. e6 fxe6 17. Rfe1 hxg4 18. hxg4 Rh6 19. g5 Rh5 20. Nxe6 Bxe6 21.
+Rxe6 Rxg5+ 22. Kf1 Rf5 23. a4 Rb8 24. Rd3 Rf7 25. Kg2 b5 26. axb5 cxb5 27. Ra6
+b4 28. Nd5 Nxd5 29. Rxd5 b3 30. c3 Ba3 31. Re6 Re7 32. Rxe7 Bxe7 33. Rxa5 Kd7
+34. Be5 Bd6 35. Bd4 Bf4 36. Kf3 Bc1 37. c4 g5 38. Ke4 Rf8 39. Rd5+ Kc6 40. Rc5+
+Kd7 41. Rd5+ Kc6 42. Rc5+ Kd7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.25"]
+[Round "9"]
+[White "Nakamura, Hikaru"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2810"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "5000017"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
+Bb7 9. e3 d6 10. Bd3 Bxc3+ 11. bxc3 f5 12. d5 Na6 13. h4 Qf6 14. Bxe4 fxe4 15.
+Qxe4 Qxc3+ 16. Ke2 Nc5 17. Qg6+ Ke7 18. Rac1 Qf6 19. Qxf6+ Kxf6 20. Rhd1 exd5
+21. cxd5 Ba6+ 22. Ke1 Rae8 23. Rc3 Re4 24. Rd4 Rhe8 25. Ra3 Bc8 26. hxg5+ hxg5
+27. Rxa7 R8e7 28. Kf1 Bg4 29. Nd2 Rxd4 30. exd4 Nd3 31. f3 Bf5 32. a3 Nf4 33.
+Bxf4 gxf4 34. Ne4+ Bxe4 35. fxe4 Rxe4 36. Rxc7 Rxd4 37. Rc6 Ke5 38. Rxb6 Rd1+
+39. Ke2 Ra1 40. Rb3 Kxd5 41. g3 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.25"]
+[Round "9"]
+[White "Wang, Hao"]
+[Black "Ponomariov, Ruslan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2744"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "14103320"]
+[EventDate "2011.01.14"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Qe2 c5 14. Rhe1 O-O
+15. Nf5 cxd4 16. Nxe7+ Qxe7 17. Nxd4 Rfc8 18. g4 Nd5 19. Kb1 N7b6 20. f4 Qc5 21.
+c3 Nc4 22. Bc1 b5 23. Nxe6 Na3+ 24. Ka1 Nb4 25. bxa3 Qxc3+ 26. Bb2 Nc2+ 27. Kb1
+Nxa3+ 28. Bxa3 Qxa3 29. Nd4 Rc4 30. g5 Qc5 31. Qe5 hxg5 32. fxg5 Rd8 33. g6 Qxe5
+34. Rxe5 Rc7 35. Rde1 Kf8 36. Rxb5 a6 37. Rbe5 Rb7+ 38. Ka1 Rb6 39. Rf5 Rd7 40.
+Ne6+ 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.25"]
+[Round "9"]
+[White "Grischuk, Alexander"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2686"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "4126025"]
+[BlackFideId "24116068"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Nc6 4. d5 Ne5 5. e4 d6 6. Nc3 Bg7 7. f4 Ned7 8. Nh3 O-O
+9. Be2 Nc5 10. Nf2 e6 11. O-O exd5 12. cxd5 c6 13. dxc6 bxc6 14. Bf3 Qe7 15. Be3
+d5 16. e5 Nfd7 17. b4 Ne6 18. b5 Nb6 19. f5 gxf5 20. Bxb6 axb6 21. bxc6 Bxe5 22.
+Nxd5 Qh4 23. g3 Qg5 24. Bg2 Ba6 25. Re1 Bd4 26. Rc1 Bb5 27. c7 Rxa2 28. c8=Q
+Bxf2+ 29. Kh1 Rxc8 30. Rxc8+ Kg7 31. Rxe6 fxe6 32. Nf4 Kh6 33. Qb1 Ra5 34. Nxe6
+Qf6 35. Qc1+ f4 36. Rc3 Be3 37. Qe1 Bf2 38. Qc1 Be3 39. Qe1 Qxe6 40. gxf4 Qf6
+41. Qxe3 Ra1+ 42. Rc1 Bd7 43. h3 Rxc1+ 44. Qxc1 Qd4 45. Qc7 Bf5 46. Qe7 Qxf4 47.
+Qf6+ Kh5 48. Qxb6 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.26"]
+[Round "10"]
+[White "Ponomariov, Ruslan"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2773"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[WhiteFideId "14103320"]
+[BlackFideId "4126025"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 c5 7. Be3 Nc6 8. d5 Ne5
+9. Ng3 h5 10. Be2 h4 11. Nf1 e6 12. Nd2 exd5 13. cxd5 a6 14. a4 Bd7 15. a5 b5
+16. axb6 Qxb6 17. Ra2 Qb4 18. O-O Bb5 19. Kh1 Rfb8 20. f4 Nc4 21. Bxc4 Bxc4 22.
+Ra4 Bxf1 23. Rxb4 cxb4 24. Na4 Bd3 25. Nb6 Rxb6 26. Bxb6 Bxe4 27. Nxe4 Nxe4 28.
+Qe1 f5 29. Qxb4 Rc8 30. Bc7 Re8 31. Kg1 Kh7 32. Kf1 Rc8 33. Qb7 Re8 34. Ba5 Kh6
+35. Be1 h3 36. gxh3 Nc5 37. Qc6 Re3 38. Bf2 Rf3 39. Kg2 Rxf2+ 40. Kxf2 Bxb2 41.
+Kf3 Ne4 42. Qxa6 Bf6 43. Qb7 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.26"]
+[Round "10"]
+[White "Giri, Anish"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2805"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Carlsbad variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "13300474"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8. g3
+e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O 14. Qc2 fxg3
+15. hxg3 Kb8 16. O-O-O Bb4 17. Na2 Bc5 18. e3 a5 19. Kb1 Bb6 20. Nc3 Nc5 21. Nd4
+h6 22. Rh5 Na6 23. Na2 Nc5 24. Nc3 Na6 25. Na2 Nc5 26. Nc3 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.26"]
+[Round "10"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2715"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "623539"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Qd2 e5 13. Bg5 Qd7 14. Bh6 Bb7 15.
+Bxg7 Kxg7 16. d5 f5 17. f3 Rf7 18. exf5 c4 19. Bc2 gxf5 20. Rad1 f4 21. g3 Qd6
+22. gxf4 exf4 23. Kh1 Re8 24. Rg1+ Kf8 25. Be4 Bc8 26. Nd4 Qf6 27. Ne6+ Bxe6 28.
+dxe6 Qxe6 29. Bd5 Qh3 30. Bxf7 Qxf3+ 31. Rg2 Kxf7 32. Qd7+ Kf6 33. Qg7+ 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.26"]
+[Round "10"]
+[White "Smeets, Jan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2662"]
+[BlackElo "2784"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "1007246"]
+[BlackFideId "4101588"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bf4 c6 14. Nd2 d5
+15. Nf3 Nd6 16. Bd3 Bf5 17. Bxf5 Nxf5 18. Qe2 Qe7 19. Qd3 Nh4 20. Nxh4 Bxh4 21.
+g3 Bf6 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.26"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2733"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Kh1 Nc6 10. f4 b5 11. Be3 Bb7 12. a4 exf4 13. Rxf4 Ne5 14. Qd4 Nc6 15.
+Qd2 Ne5 16. Qd4 Nc6 17. Qd2 Ne5 18. axb5 axb5 19. Re1 Ng6 20. Rff1 b4 21. Nd5
+Nxe4 22. Nxe7+ Qxe7 23. Qxb4 Nh4 24. Bf3 Nxf3 25. gxf3 Qd7 26. Bf4 Ra4 27. Qb6
+Nf6 28. Qxd6 Qg4 29. Nd4 Rxd4 30. Qxd4 Bxf3+ 31. Rxf3 Qxf3+ 32. Kg1 Qg4+ 33. Kh1
+Qc8 34. Qf2 Qb7+ 35. Kg1 Ne4 36. Qd4 Re8 37. Re2 h6 38. h3 Re6 39. Kh2 f5 40. b4
+Kh7 41. Re3 Rg6 42. Re2 Qb5 43. Re1 Rc6 44. Rxe4 fxe4 45. Qxe4+ Rg6 46. Bg3 Qd7
+47. h4 h5 48. c4 Qd2+ 49. Kh3 Qc3 50. Qf4 Qxb4 51. Qf5 Qxc4 52. Qxh5+ Rh6 53.
+Qf3 Qe6+ 54. Kh2 Rf6 55. Qd3+ Rf5 56. Qc2 Qd5 57. Bf2 Kh6 58. Be3+ Kg6 59. Bf2
+Kf6 60. Bg3 Rf1 61. Bf2 Rd1 62. Qc3+ Qe5+ 63. Qxe5+ Kxe5 64. h5 Kf6 65. Bh4+ Kf5
+66. Be7 Rd7 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.26"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2722"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Yugoslav variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "2209390"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 Nxd5 8. Qd2
+Bb4 9. Rc1 h6 10. Bh4 c5 11. Bc4 Nxc3 12. bxc3 Ba3 13. Rb1 a6 14. Be2 O-O 15.
+O-O b5 16. c4 Bb4 17. Qc2 Bb7 18. Rfd1 bxc4 19. dxc5 Nxc5 20. Rd4 Rab8 21. Ne5
+Bd5 22. Be7 Rfe8 23. Bd6 Rbd8 24. Bh5 Rxd6 25. Bxf7+ Kf8 26. Bxe8 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.26"]
+[Round "10"]
+[White "L'Ami, Erwin"]
+[Black "Wang, Hao"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2731"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "1007998"]
+[BlackFideId "8602883"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Be7 8. cxd5
+exd5 9. O-O O-O 10. Nc3 Re8 11. Re1 Bb7 12. Qc2 Nbd7 13. Bf4 a6 14. Rad1 Bb4 15.
+Ne5 h6 16. Nd3 Be7 17. Bc1 Ne4 18. Bb2 Ndf6 19. e3 Rc8 20. a4 a5 21. Qc1 Bf8 22.
+Re2 c5 23. dxc5 bxc5 24. Nxe4 Nxe4 25. Nf4 Qb6 26. Qc2 c4 27. Bd4 Qxb3 28. Qxb3
+cxb3 29. Rb2 Bc6 30. Ra1 Rb8 31. Nd3 Rec8 32. Be5 Rb7 33. Bh3 Ra8 34. Bd4 Rab8
+35. Bg4 Nd6 36. Nc5 Rb6 37. Nd7 Bxd7 38. Bxd7 Rb4 39. Bc6 Nc4 40. Rbb1 Nd2 41.
+Rb2 Nf3+ 42. Kg2 Nxd4 43. exd4 Rxd4 44. Rab1 Rb6 45. Bb5 Rxb5 46. axb5 a4 47. b6
+Rb4 48. Ra1 Bd6 49. b7 Kh7 50. f4 Kg6 51. Kf3 Kf6 52. Ke3 Ke6 53. Kd3 Kd7 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Wang, Hao"]
+[Black "Smeets, Jan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2662"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "8602883"]
+[BlackFideId "1007246"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Qd3 dxc4 6. Qxc4 b5 7. Qd3 a6 8. Bg5
+c5 9. Bxf6 Qxf6 10. Ne4 Qf5 11. Nxc5 Bxc5 12. Qc3 b4 13. Qxc5 Qxc5 14. dxc5 Bb7
+15. Rc1 Ke7 16. e3 Rc8 17. Nd4 Bd5 18. Kd2 Nd7 19. Bc4 Rxc5 20. Bxd5 Rxd5 21.
+Ke2 a5 22. Rc7 Rc5 23. Rc1 Rxc1 24. Rxc1 Nb6 25. Rc7+ Kf6 26. f4 Nd5 27. Rb7 a4
+28. Nc6 g5 29. fxg5+ Kxg5 30. Nxb4 Nxb4 31. Rxb4 f5 32. h4+ Kf6 33. a3 Rc8 34.
+Kd3 Rd8+ 35. Kc3 Rc8+ 36. Rc4 Ra8 37. g4 fxg4 38. Rxg4 Ke5 39. Kd3 Rd8+ 40. Rd4
+Ra8 41. Rb4 Kf5 42. Rf4+ Ke5 43. Kc3 Rc8+ 44. Rc4 Rxc4+ 45. Kxc4 Ke4 46. Kb4
+Kxe3 47. Kxa4 e5 48. b4 e4 49. b5 Kf3 50. b6 e3 51. b7 e2 52. b8=Q e1=Q 53. Qb7+
+Kg3 54. Qb3+ Kh2 55. Qc4 h5 56. Kb5 Qe8+ 57. Ka5 Qe5+ 58. Kb4 Qb2+ 59. Ka4 Qe5
+60. Kb3 Qg3+ 61. Kb2 Qg7+ 62. Kc2 Qg2+ 63. Kb3 Qg3+ 64. Kb2 Qg7+ 65. Qc3 Qg4 66.
+Qb4 Qe2+ 67. Kc3 Qf3+ 68. Kd4 Qf2+ 69. Ke5 Qe3+ 70. Kf6 Qf3+ 71. Kg5 Kh3 72. Qe7
+Qg4+ 73. Kh6 Qf3 74. Kg6 Qd1 75. Qe5 Qg4+ 76. Kh6 Qd1 77. Qf5+ Kh2 78. Kg5 Kg3
+79. Qf4+ Kh3 80. Qe3+ Kh2 81. Kh6 Qg4 82. Qe7 Kh3 83. Qf6 Kg3 84. Qd6+ Kh3 85.
+Qe5 Qa4 86. Qe7 Qd1 87. Qe3+ Kg4 88. Qe5 Kh3 89. Kg6 Qg4+ 90. Qg5 Qa4 91. Qe7
+Qg4+ 92. Kh6 Qd1 93. Kg7 Qg4+ 94. Kh7 Qf5+ 95. Kh6 Qg4 96. Qf6 Kg3 97. Qg5 Kh3
+98. Kg6 Qa4 99. Kxh5 Qxa3 100. Qf5+ Kh2 101. Qe5+ Kh3 102. Qe6+ Kh2 103. Qe4 Kh3
+104. Qd5 Qc3 105. Qe6+ Kh2 106. Qe7 Kh3 107. Qd7+ Kg3 108. Qd8 Kh3 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2810"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "623539"]
+[BlackFideId "5000017"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8. Bg2
+Nfd7 9. Be3 Nc6 10. Qe2 Nxd4 11. Bxd4 O-O 12. O-O-O b5 13. e5 d5 14. f4 Bb7 15.
+Qe3 Rc8 16. Kb1 Qc7 17. Rc1 Bc5 18. Ne2 a5 19. c3 Ba6 20. Rc2 Qb6 21. Rhc1 b4
+22. cxb4 Bxd4 23. Nxd4 Rxc2 24. Rxc2 axb4 25. f5 Rc8 26. Rxc8+ Bxc8 27. g5 Nf8
+28. h4 exf5 29. Bxd5 g6 30. Bb3 Qb7 31. e6 Nxe6 32. Nxe6 Qh1+ 33. Kc2 Qh2+ 34.
+Kb1 Qh1+ 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Kramnik, Vladimir"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2814"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "1503014"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Bg2 Nbd7 7. Nf3 c6 8.
+O-O b6 9. Rc1 O-O 10. cxd5 cxd5 11. Na3 Bb7 12. Nb5 a6 13. Nd6 Qb8 14. Qb4 a5
+15. Qa3 Ba6 16. Ne5 b5 17. Qxa5 Qxd6 18. Rc6 Qb8 19. Rxa6 Rxa6 20. Qxa6 Nxe5 21.
+dxe5 Qxe5 22. Qxb5 Rb8 23. Qd3 Rxb2 24. Qe3 Qxe3 25. fxe3 Rxe2 26. a4 Rc2 27. a5
+Rc7 28. a6 Ra7 29. Bf1 Kf8 30. Rb1 Ke7 31. Rb7+ Rxb7 32. axb7 Nd7 33. Kf2 Kd6
+34. Bb5 Nb8 35. Be8 Ke7 36. Bb5 f6 37. Kf3 Kd6 38. Be8 Kc7 39. Bf7 Kxb7 40. Bxe6
+Kc6 41. Bg8 h6 42. Kg4 Nd7 43. Kf5 Ne5 44. h3 Kc5 45. g4 Kd6 46. Bh7 Ke7 47. Bg8
+g6+ 48. Kf4 Nf7 49. Bh7 g5+ 50. Kg3 Nd6 51. Bg8 Ne4+ 52. Kg2 Kd6 53. Kf3 Kc5 54.
+Bh7 Nc3 55. Bd3 Kb4 56. Ba6 Kb3 57. Bb7 Kc2 58. Ba6 Kd1 59. Bb7 Kd2 60. Bc6 Ke1
+61. Bb7 Kf1 62. Ba8 Kg1 63. Kg3 Ne4+ 64. Kf3 Nd2+ 65. Kg3 Nf1+ 66. Kf3 Nd2+ 67.
+Kg3 Nc4 68. Bxd5 Nxe3 69. Bb7 Nf1+ 70. Kf3 Kh2 71. Kf2 Nd2 72. Bg2 Nc4 73. Bf1
+Ne5 74. Ke3 Kg1 75. Be2 Kg2 76. Ke4 Kxh3 77. Kf5 Kh4 78. Bd1 Nc4 79. Ke4 Nd6+
+80. Kd5 f5 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2751"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2011.01.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. c4 e6 6. Nc3 Ne7 7. Nge2 Bg4 8. f3 Bf5
+9. Ng3 Bg6 10. Bg5 Qb6 11. Qd2 Nd7 12. a3 f6 13. Be3 Qb3 14. cxd5 Nxd5 15. Nxd5
+Qxd5 16. Rc1 Nb6 17. Ne2 fxe5 18. dxe5 Qxe5 19. Bd4 Qc7 20. Qg5 Bf5 21. g4 hxg4
+22. fxg4 Be4 23. Rh3 Be7 24. Qxg7 Rh7 25. Qe5 Qxe5 26. Bxe5 Bxh4+ 27. Ng3 Nd7
+28. Bd4 Bf3 29. g5 Bg4 30. g6 Rh6 31. Rxh4 Rxh4 32. Rc3 Bf3 33. Rxf3 Rxd4 34.
+Bh3 Ne5 35. Rf6 Nd3+ 36. Ke2 Nf4+ 37. Ke3 e5 38. Rf7 Rd3+ 39. Ke4 Rxg3 40. Bd7+
+Kd8 41. Bf5 Nxg6 42. Rg7 Rb8 43. b4 b5 44. Bxg6 Rg5 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Aronian, Levon"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2744"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "13300474"]
+[BlackFideId "14103320"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 c5 5. a3 Bxd2+ 6. Qxd2 Nc6 7. dxc5 Ne4 8.
+Qe3 Qa5+ 9. Bd2 Nxd2 10. Qxd2 Qxc5 11. Rc1 b6 12. Bg2 Bb7 13. Nh3 Qe7 14. O-O
+O-O 15. Rfd1 Rfd8 16. Qg5 Rab8 17. Rc3 Qxg5 18. Nxg5 h6 19. Ne4 d5 20. cxd5 exd5
+21. Nd2 Nd4 22. Rd3 Nxe2+ 23. Kf1 Ba6 24. Nb3 Nxg3+ 25. hxg3 Rbc8 26. Nd4 g6 27.
+Bf3 Bxd3+ 28. Rxd3 Kg7 29. Kg2 h5 30. Bd1 a5 31. Bb3 Rc5 32. f4 b5 33. Bd1 a4
+34. Kf2 Rb8 35. b4 axb3 36. Rxb3 Rc4 37. Nxb5 h4 38. Be2 Ra4 39. Bf1 hxg3+ 40.
+Kxg3 Rb6 41. Be2 Kf6 42. Rc3 g5 43. fxg5+ Kxg5 44. Rc5 Rxb5 45. Rxb5 Rxa3+ 46.
+Kf2 Ra7 47. Rxd5+ Kf6 48. Bc4 Rc7 49. Rd4 Kg7 50. Ke3 Re7+ 51. Kd3 Kf8 52. Rg4
+Rd7+ 53. Ke4 Re7+ 54. Kd5 Rd7+ 55. Kc6 Ra7 56. Rg1 Re7 57. Ra1 Re4 58. Bd5 Rf4
+59. Kd7 Rf2 60. Ra8+ Kg7 61. Ra3 Kf8 62. Rd3 Rf6 63. Bf3 Kg7 64. Bd1 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Grischuk, Alexander"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2628"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[WhiteFideId "4126025"]
+[BlackFideId "1007998"]
+[EventDate "2011.01.14"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Bd6 8. Bd2
+Re8 9. Rc1 c6 10. Qc2 Na6 11. a3 Nc7 12. f3 Ne6 13. O-O c5 14. dxc5 Bxc5 15. b4
+Bb6 16. Nb5 Bd7 17. Nbd4 Rc8 18. Qb2 Nxd4 19. Nxd4 Rxc1 20. Rxc1 a6 21. Re1 h5
+22. Bc3 h4 23. Qf2 Nh5 24. Kh1 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.28"]
+[Round "11"]
+[White "Shirov, Alexei"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2686"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "2209390"]
+[BlackFideId "24116068"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
+Qd2 Be6 9. O-O-O Qd7 10. h4 h6 11. Bb5 a6 12. Ba4 b5 13. Bb3 Bf6 14. Qe2 O-O-O
+15. c4 Na5 16. c5 Nxb3+ 17. axb3 Qc6 18. cxd6 Bxb3 19. Nd4 Bxd4 20. Rxd4 Rxd6
+21. Rxd6 cxd6 22. Rd1 Be6 23. Qd3 Rd8 24. f3 Rd7 25. Bf4 Kb7 26. Bxd6 g6 27. Qe4
+Bf5 28. Qxc6+ Kxc6 29. Bf4 Rxd1+ 30. Kxd1 h5 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[Round "12"]
+[White "Ponomariov, Ruslan"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2722"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Soultanbeieff variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "2209390"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
+Be7 9. Qe2 cxd4 10. exd4 O-O 11. Be3 b6 12. Rad1 Nb4 13. Ne5 Bb7 14. f4 Bd5 15.
+Nxd5 exd5 16. Bb3 Ne4 17. Qh5 Rc8 18. Rc1 Bf6 19. Qh3 Rxc1 20. Rxc1 Bxe5 21.
+fxe5 f5 22. Rf1 g6 23. g4 fxg4 24. Qxg4 Rxf1+ 25. Kxf1 Qf8+ 26. Ke2 Qf5 27. Qxf5
+gxf5 28. a5 bxa5 29. Ba4 Kf7 30. Bd7 Kg6 31. Be8+ Kg7 32. Bd7 Kg6 33. h4 Nc2 34.
+Ba4 Ng3+ 35. Kf3 Nxe3 36. Kxe3 Kf7 37. Bd1 Ke6 38. Kf4 Ne4 39. Bc2 h6 40. Bd3 a4
+41. Bc2 Nd2 42. Bxa4 Nc4 43. b3 Na3 44. b4 a6 45. Kf3 Nb1 46. Bc2 Nc3 47. Bd3
+Na2 48. Bxa6 Nxb4 49. Bc8+ Ke7 50. Bxf5 Na6 51. Ke3 Nc7 52. Bc8 Kd8 53. Bb7 Ke7
+54. Bc6 Kf8 55. Kd3 Ke7 56. Kc3 Kd8 57. h5 Ke7 58. Kc2 Ne6 59. Kd3 Nc7 60. Kc3
+Kf8 61. Kd2 Ke7 62. Ke3 Kf8 63. Bb7 Kf7 64. Bc8 Ke7 65. Kf4 Nb5 66. Kf5 Nxd4+
+67. Kg6 Nc6 68. Kxh6 Kf7 69. e6+ Kf6 70. Ba6 Nd4 71. e7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[Round "12"]
+[White "L'Ami, Erwin"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2805"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[WhiteFideId "1007998"]
+[BlackFideId "13300474"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Nbd7 6. Bd3 Be7 7. Nge2 g6 8. h3 h5
+9. Be3 h4 10. Qd2 a6 11. a4 b6 12. Kd1 Nh7 13. Kc2 Rb8 14. Rhf1 Bg5 15. Ng1 Rb7
+16. Nf3 Be7 17. g3 hxg3 18. fxg3 Ndf8 19. g4 g5 20. Ne2 Ng6 21. Ng3 Nf4 22. Nf5
+Bxf5 23. exf5 b5 24. axb5 axb5 25. cxb5 Nxd3 26. Qxd3 c4 27. Qe2 O-O 28. b6 Rxb6
+29. Bxb6 Qxb6 30. Qxc4 Rb8 31. Ra2 Nf6 32. Kb1 Qe3 33. Ka1 e4 34. Nd4 Qxh3 35.
+Qc1 e3 36. Ra3 Bf8 37. Rxe3 Qxg4 38. Rd3 Bg7 39. Rg1 Qe4 40. Qe3 Qxe3 41. Rxe3
+Nxd5 42. Rxg5 Nxe3 43. f6 Nd5 44. Rxg7+ Kf8 45. Rh7 Nxf6 46. Rh6 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[Round "12"]
+[White "Carlsen, Magnus"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2814"]
+[BlackElo "2731"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "8602883"]
+[EventDate "2011.01.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nd2 Nd7 6. Ngf3 Bg6 7. Be2 Ne7 8. Nh4
+c5 9. c3 Nc6 10. Nxg6 hxg6 11. Nf3 Rc8 12. O-O a6 13. g3 Be7 14. h4 b5 15. a4
+Qb6 16. axb5 axb5 17. Kg2 c4 18. Ng5 Qd8 19. Bg4 Bxg5 20. Bxg5 Qc7 21. Rh1 Nb6
+22. h5 gxh5 23. Bxh5 Na4 24. Bxf7+ Kxf7 25. Qf3+ Kg8 26. Rxh8+ Kxh8 27. Rh1+ Kg8
+28. Qh5 Rf8 29. Bf6 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[Round "12"]
+[White "Nakamura, Hikaru"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2784"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4101588"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bd3 d5 14. Bf4 c6
+15. Nd2 Nh4 16. Qe2 Bf5 17. Bxf5 Nxf5 18. Nf3 Qe7 19. Re1 Qxe2 20. Rxe2 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[Round "12"]
+[White "Anand, Viswanathan"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2686"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "5000017"]
+[BlackFideId "24116068"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 g6 8. Bd3
+Bg7 9. O-O O-O 10. Rc1 dxc4 11. Bxc4 Nd7 12. e4 c5 13. d5 Nb6 14. b3 exd5 15.
+Nxd5 Qd8 16. h3 Nxc4 17. bxc4 Re8 18. Re1 Bd7 19. Qd2 Rc8 20. Qf4 b5 21. e5 g5
+22. Qg3 bxc4 23. Red1 Rc6 24. Ne3 Qc7 25. Nxc4 Be6 26. h4 g4 27. Nfd2 Rd8 28.
+Re1 Rd4 29. Qe3 Qd8 30. g3 Qd5 31. Na5 Rc8 32. Ndc4 Rb8 33. Qe2 Bf8 34. Ne3 Qe4
+35. Nb3 Bxb3 36. axb3 Rxb3 37. Qa2 Qb7 38. Qc2 Rb2 39. Qf5 Qe4 40. Qxe4 Rxe4 41.
+Ra1 c4 42. Rxa7 Bc5 43. Ra8+ Kh7 44. Rf1 c3 45. Rc8 Bd4 46. Rc7 Rxe5 47. Rxf7+
+Kg6 48. Rd7 Bxe3 49. fxe3 Rd2 50. Rc7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[Round "12"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2715"]
+[BlackElo "2733"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[WhiteFideId "623539"]
+[BlackFideId "4168119"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nb6 8. Bb3
+c5 9. O-O cxd4 10. exd4 Nc6 11. d5 Na5 12. Re1 Bg4 13. h3 Bxf3 14. Qxf3 Re8 15.
+Be3 Bxc3 16. bxc3 Nxb3 17. Bxb6 Nd2 18. Qd3 Qxb6 19. Qxd2 Qc5 20. Re4 Rad8 21.
+c4 f5 22. Re5 Qxc4 23. Rc1 Qa6 24. Rce1 Qd6 25. h4 Rd7 26. h5 gxh5 27. Rxf5 e5
+28. Qg5+ Rg7 29. Qxh5 Rge7 30. Qf3 Rg7 31. Rf6 Qd8 32. d6 e4 33. Qf5 Rd7 34. Re3
+Rxd6 35. Rg3+ Kh8 36. Rg7 1-0
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.29"]
+[Round "12"]
+[White "Smeets, Jan"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2662"]
+[BlackElo "2773"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence deferred"]
+[WhiteFideId "1007246"]
+[BlackFideId "4126025"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. Nc3 d6 6. O-O Bd7 7. a3 g6 8. d4
+Bg7 9. dxe5 Nxe5 10. Nxe5 Bxe5 11. Bb3 Be6 12. Nd5 Nxd5 13. Bxd5 Bxd5 14. exd5
+O-O 15. Qd3 Re8 16. c3 Qh4 17. g3 Qa4 18. Qd1 Qc4 19. Bh6 Bg7 20. Bxg7 Kxg7 21.
+Qd4+ Qxd4 22. cxd4 Re2 23. b3 Rae8 24. Rac1 R8e7 25. Rc3 Ra2 26. b4 Kf8 27. Rfc1
+Ree2 28. Rf3 Rec2 29. Rxc2 Rxc2 30. Re3 b6 31. Kg2 a5 32. bxa5 bxa5 33. Rb3 Rc4
+34. Kf3 Rxd4 35. Rc3 Rxd5 36. Rxc7 Rd3+ 37. Ke2 Rxa3 38. Rd7 a4 39. Rxd6 Rb3 40.
+Ra6 a3 41. Kf1 Ke7 42. Kg2 Kd7 43. Rf6 a2 44. Rxf7+ Kc6 45. Ra7 Rb2 46. h4 Kc5
+47. g4 Kb4 0-1
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.30"]
+[Round "13"]
+[White "Kramnik, Vladimir"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2715"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "623539"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Rc1 O-O 9. Nf3 Bg4 10. Be2 Qa5 11. O-O Qxa2 12. Bg5 Qe6 13. Re1 Qd7 14. d5 e5
+15. Qb3 Bxf3 16. Bxf3 Na6 17. Be2 c4 18. Qxc4 Qd6 19. Bg4 f5 20. exf5 gxf5 21.
+Bh5 Nc5 22. Rcd1 Rac8 23. Qh4 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.30"]
+[Round "13"]
+[White "Shirov, Alexei"]
+[Black "L'Ami, Erwin"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2628"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "1007998"]
+[EventDate "2011.01.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Be7 10. c3 Nc5 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3 Bf5 15.
+b4 O-O 16. Re1 Bg6 17. h3 a5 18. bxa5 Rxa5 19. Rxa5 Nxa5 20. e6 fxe6 21. Rxe6 c5
+22. Qe1 Bf6 23. Bf4 c4 24. Bd6 Bf7 25. Bxf8 Bxe6 26. Bxg7 Bf7 27. Bxf6 Qxf6 28.
+Nd4 Nc6 29. Nxb5 Qg5 30. Nd6 Ne5 31. Qe4 Bg6 32. Qd5+ Kf8 33. Nxc4 Qc1+ 34. Kh2
+Qf4+ 35. Kg1 Qc1+ 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.30"]
+[Round "13"]
+[White "Grischuk, Alexander"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2814"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "1503014"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. bxc3 Nge7 10. c4 Qd6 11. d5 Nb8 12. Rb1 b6 13. Bb4 c5 14. dxc6 Qxc6
+15. Bd3 Qe6 16. c5 Nbc6 17. cxb6 Nxb4 18. Rxb4 axb6 19. Qb3 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.30"]
+[Round "13"]
+[White "Nepomniachtchi, Ian"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2810"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "5000017"]
+[EventDate "2011.01.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Qc7 10. Nd5 Nxd5 11. Bxd5 Nd7 12. c4 Nf6 13. Qb3 Nxd5 14. cxd5 b5 15.
+Rfc1 Qb8 16. Qc3 f5 17. Qc7 Rf7 18. Nd2 Qxc7 19. Rxc7 Bd8 20. Rc6 Bd7 21. Rxd6
+Bc7 22. Rxd7 Rxd7 23. f3 f4 24. Bc5 Bd6 25. Bxd6 Rxd6 26. Nb3 Rc8 27. Rf1 Kf7
+28. Na5 Rc2 29. Rf2 Rc1+ 30. Rf1 Rxf1+ 31. Kxf1 g5 32. Nc6 Kf6 33. b4 Rd7 34. h3
+h5 35. Kf2 Rg7 36. Kf1 g4 37. hxg4 hxg4 38. Kf2 g3+ 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.30"]
+[Round "13"]
+[White "Wang, Hao"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2751"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "8602883"]
+[BlackFideId "2016192"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 d6 6. Nc3 O-O 7. Nf3 e6 8. O-O exd5
+9. cxd5 Re8 10. a4 a6 11. Re1 Ne4 12. Ra3 Nxc3 13. bxc3 Nd7 14. c4 Rb8 15. a5 b5
+16. axb6 Rxb6 17. Bf4 Qc7 18. e4 Rb4 19. Bf1 a5 20. Bd2 Ne5 21. Nxe5 Bxe5 22.
+Bc3 Bd7 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.30"]
+[Round "13"]
+[White "Aronian, Levon"]
+[Black "Smeets, Jan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2662"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "13300474"]
+[BlackFideId "1007246"]
+[EventDate "2011.01.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Qd3 dxc4 6. Qxc4 b5 7. Qd3 Nbd7 8. e4
+b4 9. Na4 Qa5 10. b3 c5 11. e5 Nd5 12. Nd2 cxd4 13. Nc4 Qd8 14. Qxd4 Bb7 15. Bb2
+Be7 16. Bd3 O-O 17. O-O Bc6 18. Bc2 Rc8 19. Rac1 g6 20. g3 Bxa4 21. bxa4 Nc3 22.
+Bxc3 bxc3 23. Bb3 Rc5 24. Rfd1 c2 25. Bxc2 Nb6 26. Nd6 Qc7 27. Nb5 Qb8 28. Bb3
+Rfc8 29. Rxc5 Bxc5 30. Qf4 Rd8 31. Rc1 Nd5 32. Qg5 Be7 33. Qg4 a6 34. Nd4 Qxe5
+35. Nc6 Qc7 36. Qc4 Ra8 37. Qe4 Rd8 38. Qc4 Ra8 39. a5 Bf6 40. Qc5 Ne7 41. Nb4
+Qb7 42. Rc4 Rc8 43. Qb6 Qxb6 44. axb6 Rb8 45. Nxa6 Rxb6 46. Nc5 Nd5 47. Nd7 Rb7
+48. Nxf6+ Nxf6 49. Bc2 Rb2 50. a4 Ra2 51. Kf1 Nd5 52. Ke1 Nb6 53. Rb4 Rxc2 54.
+Rxb6 Ra2 55. Ra6 g5 56. a5 Kg7 57. h3 Kf6 58. Ra7 h5 59. a6 h4 60. gxh4 gxh4 61.
+Kf1 1/2-1/2
+
+[Event "73rd Tata Steel GMA"]
+[Site "Wijk aan Zee NED"]
+[Date "2011.01.30"]
+[Round "13"]
+[White "Giri, Anish"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2744"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "14103320"]
+[EventDate "2011.01.14"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 c6 7. Qc2 O-O 8. O-O
+Nbd7 9. Rd1 b6 10. b3 Ba6 11. Bf4 Rc8 12. Nc3 Nh5 13. Bc1 Nhf6 14. e4 dxc4 15.
+Bf4 Bb4 16. Nd2 Qe7 17. Nxc4 Bxc4 18. bxc4 e5 19. dxe5 Nxe5 20. a3 Bc5 21. Na4
+Rfe8 22. Nxc5 Qxc5 23. Rdc1 Rcd8 24. Be3 Qe7 25. h3 Ng6 26. Re1 Nxe4 27. h4 Nf6
+28. Bxc6 Ne5 29. Bg2 Qc7 30. Rec1 Neg4 31. Bf4 Qc5 32. Rab1 1/2-1/2
+

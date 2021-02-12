@@ -1,0 +1,1912 @@
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Mamedyarov,S"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2746"]
+[EventDate "2008.04.21"]
+[ECO "E76"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 e5 7. dxe5 dxe5 8.
+Nxe5 Qxd1+ 9. Kxd1 Na6 10. Be2 Rd8+ 11. Kc2 Nxe4 12. Nxe4 Bf5 13. Bf3 Nc5
+14. Re1 Bxe5 15. fxe5 Rd4 16. Kc3 Rd3+ 17. Kc2 Rd4 18. Kc3 Rd3+ 19. Kb4
+Na6+ 20. Ka5 b6+ 21. Kxa6 Bc8+ 22. Kb5 Bd7+ 23. Ka6 Bc8+ 24. Kb5 Bd7+ 25.
+Ka6 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2689"]
+[EventDate "2008.04.21"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 d6 6. Na4 Bb6 7. O-O Bd7 8.
+c3 Ne7 9. Nxb6 axb6 10. Bxd7+ Qxd7 11. Bg5 Ng6 12. Bxf6 gxf6 13. Nd2 f5 14.
+Nc4 f4 15. Qh5 O-O 16. d4 Rae8 17. Rfe1 f5 18. dxe5 b5 19. Nd2 Nxe5 20. Qh3
+fxe4 21. Qxd7 Nxd7 22. Nxe4 d5 23. Rad1 Re5 24. Nd2 Rfe8 25. Nf3 Rxe1+ 26.
+Nxe1 Nc5 27. Kf1 c6 28. Nd3 Nxd3 29. Rxd3 Re5 30. Rd4 Rh5 31. Rxf4 Rxh2 32.
+Kg1 Rh6 33. f3 Re6 34. Kf2 Kg7 35. Rh4 h6 36. a3 Rd6 37. g3 Rd8 38. Rh1 d4
+39. cxd4 Rxd4 40. Ke3 Rd7 41. Rh4 c5 42. Rh2 Re7+ 43. Kf4 Rd7 44. g4 b4 45.
+axb4 Rd4+ 46. Ke5 Rxb4 47. Rd2 c4 48. f4 Rb3 49. f5 Rd3 50. Re2 b5 51. Ke6
+c3 52. bxc3 Rxc3 53. Rb2 Rc6+ 54. Kd5 Rc4 55. Rxb5 Rxg4 56. Ke5 Ra4 57.
+Rb7+ Kf8 58. Rb8+ Kf7 59. Rb7+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Radjabov,T"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2729"]
+[EventDate "2008.04.21"]
+[ECO "C69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6
+8. Nxd4 Be7 9. Bxe7 Nxe7 10. Nc3 Bd7 11. Nde2 O-O-O 12. Qc1 Ng6 13. Qe3 Kb8
+14. Rad1 Qe7 15. Rd2 Ne5 16. b3 Bc8 17. Rfd1 Rxd2 18. Rxd2 f6 19. f3 h5 20.
+Rd1 g5 21. Nc1 Re8 22. Nd3 b6 23. Ne2 c5 24. Nc3 Bb7 25. Nd5 Bxd5 26. exd5
+Qd7 27. Nxe5 Rxe5 28. Qd3 Kb7 29. c4 Qd6 30. Qd2 h4 31. Re1 Rxe1+ 32. Qxe1
+Qf4 33. Qc3 c6 34. Qd3 Qc1+ 35. Kf2 Qb2+ 36. Kf1 Qa1+ 37. Kf2 Qb2+ 38. Kf1
+Qa1+ 39. Kf2 Qb2+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Karjakin,Sergey"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2672"]
+[EventDate "2008.04.21"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d6 10. a3 Qd7 11. Nc3 Rfe8 12. Ne2 d5 13. exd5 Nxd5 14. Ng3
+Bf8 15. c3 Kh8 16. Bd2 f6 17. Bc2 f5 18. a4 g6 19. axb5 axb5 20. Rxa8 Bxa8
+21. b4 Bg7 22. Bb3 h6 23. Nh4 Kh7 24. Nxg6 Kxg6 25. Bxd5 Qxd5 26. Qh5+ Kh7
+27. Qxe8 Nd4 28. f3 Nxf3+ 29. gxf3 Qxf3 30. Ne4 Bxe4 31. dxe4 Qg3+ 32. Kf1
+Qf3+ 33. Kg1 Qg3+ 34. Kf1 Qf3+ 35. Kg1 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Inarkiev,E"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2684"]
+[BlackElo "2726"]
+[EventDate "2008.04.21"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. a4 c5 16. d5 c4 17. Bg5 h6 18. Be3 Nc5 19. Qd2 h5 20. Bg5 Be7 21.
+Ra3 Rb8 22. Kh1 Nh7 23. Be3 Bf6 24. Rea1 Bg7 25. Qe2 Bc8 26. Nf1 f5 27.
+axb5 axb5 28. exf5 gxf5 29. Ng3 Nd3 30. Nxh5 f4 31. Nxg7 Kxg7 32. Ba7 Rb7
+33. Bxd3 cxd3 34. Qxd3 e4 35. Bd4+ Nf6 36. Qd1 exf3 37. Qxf3 Kg6 38. Qxf4
+Nh5 39. Qh2 Rbe7 40. Qg1 Re2 41. Ra8 Qh4 42. Rb8 Kh6 43. Rb6 Bxh3 44. Rxd6+
+Kh7 45. g3 Bg2+ 46. Kxg2 Qxg3+ 47. Kf1 Qh3+ 48. Qg2 Ng3+ 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Cheparinov,I"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2696"]
+[BlackElo "2716"]
+[EventDate "2008.04.21"]
+[ECO "C19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Nxc3 a6
+14. Rb1 Na5 15. h4 Nf5 16. Rh3 O-O-O 17. h5 Nc4 18. Rb4 Bc6 19. Ne2 Bb5 20.
+a4 Qc5 21. Qc3 d4 22. Qb3 Na5 23. Rxb5 Nxb3 24. Rxc5+ Nxc5 25. Ng1 Rg3 26.
+Ba3 d3 27. Rxg3 Nxg3 28. cxd3 Nxa4 29. Ne2 Nxh5 30. g4 Rxd3 31. gxh5 Rxa3
+32. h6 Ra1+ 33. Kf2 Rd1 34. h7 Rd8 35. Nd4 Nc5 36. Nf3 Kd7 37. f5 exf5 38.
+Bh3 Ke7 39. Bxf5 a5 40. Bb1 a4 41. Nd4 Rh8 42. Nf5+ Kf8 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.21"]
+[Round "1"]
+[White "Gashimov,V"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2705"]
+[EventDate "2008.04.21"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Bc8 14. Bg5 Be6
+15. Bxf6 Bxf6 16. Ne3 Bg5 17. Nd5 Bh6 18. b4 Rc8 19. bxc5 dxc5 20. a4 Qd6
+21. axb5 axb5 22. Nc3 b4 23. Nd5 Ne7 24. Bc4 Nxd5 25. exd5 Bxd5 26. Nxe5
+Bxc4 27. Nxc4 Qc6 28. Qh5 Bf4 29. Ra7 Bb8 30. Rae7 Bd6 31. R7e4 Rfd8 32.
+Qf3 Bf8 33. h4 Rb8 34. h5 Qc7 35. Nd2 h6 36. g3 Qd7 37. Kg2 Re8 38. Rxe8
+Rxe8 39. Rxe8 Qxe8 40. Qd5 Kh8 41. Nc4 Kg8 42. Ne5 Qe6 43. Qxe6 fxe6 44.
+Kf3 Bd6 45. Ke4 Kf8 46. f4 Ke7 47. g4 Kf8 48. g5 Ke8 49. gxh6 gxh6 50. Ng4
+Bf8 51. f5 Ke7 52. f6+ Ke8 53. Ke5 Kd7 54. Kf4 Kd8 55. Kf3 Kd7 56. Ke3 Kd8
+57. Kf4 Kc7 58. Ke4 Kd8 59. Ne5 Ke8 60. Nc4 Kd8 61. Ke5 Kd7 62. Nb6+ Kc7
+63. Nc4 Kd7 64. Nb6+ Kc7 65. Nc4 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Adams,Mi"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2696"]
+[EventDate "2008.04.21"]
+[ECO "B52"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4
+8. Nxd4 Bg7 9. h3 O-O 10. Be3 Nc6 11. O-O Rfd8 12. Rc1 Rac8 13. b3 e6 14.
+Qf3 Qe7 15. Rfd1 a6 16. Nxc6 Rxc6 17. Bd4 Rdc8 18. a4 Nd7 19. Bxg7 Kxg7 20.
+Qe3 Qd8 21. Ne2 Qa5 22. Nd4 Rb6 23. Rc3 Qc5 24. Qe1 Ne5 25. Re3 Nc6 26. Nc2
+a5 27. Qc3+ Kg8 28. g3 Nb4 29. Nxb4 Rxb4 30. Qf6 Rb6 31. e5 Re8 32. h4 d5
+33. Rf3 Qe7 34. Qxe7 Rxe7 35. cxd5 exd5 36. Rxd5 Rbe6 37. Rxa5 Rxe5 38.
+Rxe5 Rxe5 39. Re3 Rd5 40. Re8+ Kg7 41. Rb8 Rd7 42. Kg2 h5 43. b4 Kf6 44. a5
+Ke6 45. b5 Kd6 46. Rc8 Re7 47. b6 Re5 48. a6 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Bacrot,E"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2705"]
+[BlackElo "2751"]
+[EventDate "2008.04.21"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14.
+Ncb4 Nxb4 15. cxb4 O-O 16. Rxa4 a5 17. b5 Bd7 18. Nc3 Qb6 19. Be2 Rbc8 20.
+O-O Be6 21. Qd3 Bd8 22. Nd5 Bxd5 23. Qxd5 Rc2 24. Bc4 Rxb2 25. Ra2 Rb4 26.
+Rd1 Qb8 27. Bf1 Bb6 28. Qxd6 Rxe4 29. Qxb8 Rxb8 30. g3 Kf8 31. Rd6 Rd4 32.
+Rc6 Ke7 33. Kg2 Rd6 34. Rac2 Rbd8 35. Bc4 f5 36. Kf1 Rxc6 37. bxc6 Kd6 38.
+Ke2 g6 39. h3 Kc7 40. g4 e4 41. f3 Rd4 42. gxf5 gxf5 43. Bg8 Rd3 44. fxe4
+Rg3 45. Bd5 f4 46. e5 Re3+ 47. Kf1 f3 48. Rd2 Rc3 49. Rd1 Rc2 50. e6 Rg2
+51. Ke1 Rg1+ 52. Kd2 f2 53. Bc4 Kxc6 54. Ke2 Bc5 55. Bb3 Rg5 56. Kf1 Re5
+57. Ba4+ Kb6 58. Bb3 h6 59. Kg2 Re1 60. Ba4 f1=Q+ 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2672"]
+[EventDate "2008.04.21"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 a6 6. c5 b6 7. cxb6 Nbd7 8.
+Bd3 c5 9. b3 cxd4 10. exd4 Qxb6 11. O-O Bd6 12. Bb2 O-O 13. Qe2 a5 14. Na4
+Qa7 15. Rac1 Ba6 16. Bxa6 Qxa6 17. Qxa6 Rxa6 18. Rc2 Nb8 19. Ne5 Nfd7 20.
+Rfc1 f6 21. Nd3 Kf7 22. f4 h6 23. Nc3 Rc8 24. f5 exf5 25. Nxd5 Rxc2 26.
+Rxc2 Nc6 27. g3 Ne7 28. Nxe7 Kxe7 29. Rc4 Ke6 30. Bc3 Kd5 31. Ra4 Bc7 32.
+Kf2 g5 33. Bd2 Ra8 34. Kf3 Bb6 35. Nb4+ Kxd4 36. Be3+ Ke5 37. Bxb6 Nxb6 38.
+Rxa5+ Rxa5 39. Nc6+ Ke6 40. Nxa5 Nd5 41. Nc6 f4 42. g4 Kd6 43. Nd4 Ke5 44.
+Nc6+ Kd6 45. Nd8 Ke7 46. Nb7 f5 47. h3 fxg4+ 48. hxg4 Kd7 49. a4 Kc7 50.
+Nc5 Kb6 51. Nd7+ Ka5 52. Ne5 Kb4 53. Nf7 Kxb3 54. a5 Nc7 55. Nxh6 Kb4 56.
+Nf7 Kxa5 57. Nxg5 Kb5 58. Nh3 Ne6 59. Ke4 Kc6 60. Nxf4 Kd7 61. Nxe6 Kxe6
+62. g5 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2765"]
+[EventDate "2008.04.21"]
+[ECO "C80"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Be3 Bc5 10. Qd3 O-O 11. Nc3 Nb4 12. Qe2 Nxc3 13. bxc3 Bxe3 14.
+Qxe3 Nc6 15. a4 Qe7 16. Rfd1 Rfd8 17. h3 h6 18. Nd4 Nxd4 19. cxd4 c5 20.
+dxc5 Rac8 21. axb5 axb5 22. Rd4 Rxc5 23. Rad1 Rdc8 24. Bxd5 Rxc2 25. Bxe6
+Qxe6 26. Rd8+ Kh7 27. Rxc8 Qxc8 28. Qd3+ g6 29. Qxb5 Qc5 30. Qxc5 Rxc5 31.
+Re1 g5 32. e6 fxe6 33. Rxe6 Rc2 34. f3 Ra2 35. Kh2 Kg7 36. Re4 Kg6 37. h4
+Ra6 38. Kh3 Kh5 39. Rc4 Rb6 40. Rc5 Kg6 41. Rc4 Kh5 42. Rc8 Kg6 43. Rc4
+1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Grischuk,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2732"]
+[EventDate "2008.04.21"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 Bb7 10. h4 Rg8 11. hxg5 hxg5 12. Nxf7 Kxf7 13. e5 Nd5 14.
+Rh7+ Bg7 15. Qh5+ Kf8 16. Qf3+ Ke8 17. Qh5+ Kf8 18. Qf3+ Ke8 19. Qh5+
+1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Inarkiev,E"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2752"]
+[EventDate "2008.04.21"]
+[ECO "B08"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 Nbd7 8.
+h3 e5 9. Be3 exd4 10. Bxd4 Re8 11. Re1 Nxe4 12. Bxg7 Kxg7 13. Nxe4 Rxe4 14.
+Qxd6 Qf6 15. Qxf6+ Nxf6 16. Bd3 Rf4 17. c3 Bxh3 18. Ne5 Bf5 19. g3 Bxd3 20.
+gxf4 Bf5 21. a5 a6 22. Rad1 Nh5 23. Rd4 c5 24. Rc4 Rc8 25. b4 cxb4 26. cxb4
+Rf8 27. Rd4 Nf6 28. Rc1 Be6 29. f3 Rb8 30. Kf2 h5 31. Rc7 Nd5 32. Rd7 Nf6
+33. Rd8 Rxd8 34. Rxd8 Nd5 35. Nd3 h4 36. f5 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.22"]
+[Round "2"]
+[White "Wang Yue"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2679"]
+[EventDate "2008.04.21"]
+[ECO "A61"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8.
+Bg2 Na6 9. O-O Nc7 10. e4 O-O 11. h3 Nd7 12. Bg5 f6 13. Bf4 Ne5 14. a4 g5
+15. Bxe5 fxe5 16. Nd2 Ne8 17. Nc4 Rf7 18. Ne3 Nf6 19. Kh2 Bf8 20. Bf3 h5
+21. Kg2 Rh7 22. Rh1 Rb8 23. Qd3 b6 24. Be2 a6 25. Rab1 b5 26. b4 c4 27. Qd2
+Qe8 28. axb5 axb5 29. Ra1 Bd7 30. g4 hxg4 31. hxg4 Rxh1 32. Rxh1 Ra8 33.
+Nf5 Qg6 34. Bf3 Ra3 35. Qc1 Ra6 36. Rh3 Ra7 37. Rh1 Be8 38. Ne2 Nh7 39. Qe3
+Ra6 40. Nc3 Qf6 41. Qc1 Ra7 42. Qe3 Ra6 43. Ne2 Qd8 44. Neg3 Bg6 45. Ne2
+Be8 46. Neg3 Bg6 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Karjakin,Sergey"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2729"]
+[EventDate "2008.04.21"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8.
+a4 Rb8 9. d4 Bb6 10. axb5 axb5 11. Na3 O-O 12. Nxb5 Bg4 13. Bc2 exd4 14.
+Nbxd4 Nxd4 15. cxd4 Bxf3 16. gxf3 Nh5 17. Kh1 Qf6 18. Be3 Ra8 19. Rxa8 Rxa8
+20. Rg1 Nf4 21. Bb3 Ne6 22. Bxe6 fxe6 23. Rg3 Kh8 24. Kg2 e5 25. dxe5 dxe5
+26. Bxb6 cxb6 27. Qd7 Rd8 28. Qc7 Rf8 29. h4 g6 30. b4 h6 31. b5 Rf7 32.
+Qc8+ Kg7 33. h5 g5 34. Rh3 Qd6 35. Qc3 Rc7 36. Qe3 Rc5 37. Rh1 Rxb5 38. Ra1
+Ra5 39. Rxa5 bxa5 40. Qa7+ Kf8 41. Qxa5 Qf6 42. Qa3+ Kg8 43. Kf1 Qe6 44.
+Ke2 Kf7 45. Qa7+ Kf6 46. Kd2 g4 47. fxg4 Qxg4 48. Qb6+ Kg5 49. Qg6+ Kh4 50.
+Kc3 Qf3+ 51. Kc4 Qxf2 52. Kd5 Qd4+ 53. Ke6 Qb6+ 54. Kxe5 Qc5+ 55. Ke6 Qc6+
+56. Kf7 Qd7+ 57. Kf8 Qd8+ 58. Kg7 Qe7+ 59. Kxh6 Qf8+ 60. Kh7 Qe7+ 61. Kg8
+Qd8+ 62. Kf7 Qc7+ 63. Kf8 Qd8+ 64. Qe8 Qf6+ 65. Kg8 Kg5 66. e5 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Mamedyarov,S"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2726"]
+[EventDate "2008.04.21"]
+[ECO "D94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Bc4 Nb6
+8. Bb3 c5 9. O-O cxd4 10. exd4 Nc6 11. d5 Na5 12. Re1 Bg4 13. h3 Bxf3 14.
+Qxf3 Re8 15. Rd1 Nxb3 16. axb3 Nc8 17. h4 Nd6 18. h5 Qb6 19. h6 Bh8 20. Ne4
+Nxe4 21. Qxe4 Qxb3 22. Bf4 Rad8 23. Bc7 Rd7 24. Be5 Qb6 25. Bxh8 Kxh8 26.
+Qe5+ f6 27. Qe6 Red8 28. d6 Rxd6 29. Qf7 Rxd1+ 30. Rxd1 Rxd1+ 31. Kh2 Qc7+
+32. g3 Rh1+ 33. Kxh1 Qc1+ 34. Kg2 Qxh6 35. Qe8+ Kg7 36. Qxe7+ Kg8 37. Qxb7
+Qf8 38. Qxa7 Qb4 39. Qa3 Qb7+ 40. Kg1 h5 41. b4 Kg7 42. Qa5 h4 43. gxh4 Qd7
+44. b5 Qg4+ 45. Kf1 Qc4+ 46. Ke1 Qe4+ 47. Kd1 Qd3+ 48. Kc1 Qc4+ 49. Kb2
+Qe2+ 50. Kb3 Qd3+ 51. Kb2 Qe2+ 52. Kb3 Qd3+ 53. Kb2 Qe2+ 54. Kb3 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Navara,D"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2672"]
+[BlackElo "2716"]
+[EventDate "2008.04.21"]
+[ECO "D12"]
+
+1. c4 Nf6 2. d4 c6 3. Nf3 d5 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8.
+O-O Bd6 9. g3 O-O 10. Nxg6 hxg6 11. b3 Qe7 12. a3 Rfd8 13. Bf3 Rac8 14. Bb2
+Bb8 15. Rc1 Bd6 16. c5 Bb8 17. Bg2 e5 18. b4 e4 19. f4 exf3 20. Qxf3 Re8
+21. Rce1 Ne4 22. Nxe4 dxe4 23. Qf2 Nf6 24. d5 Nxd5 25. Bxe4 Nf6 26. Bf3 Be5
+27. Bd4 Rcd8 28. a4 a6 29. b5 axb5 30. axb5 cxb5 31. c6 bxc6 32. Bxc6 Rf8
+33. Bxb5 Bxd4 34. exd4 Qb4 35. Rb1 Qxd4 36. Qxd4 Rxd4 37. Rfd1 Rfd8 38.
+Rxd4 Rxd4 39. Bc6 Ng4 40. Rb2 Ne5 41. Bb5 g5 42. Be2 Rd7 43. Kf2 g6 44. Rb4
+f5 45. h4 g4 46. Rf4 Rh7 47. Ra4 Rb7 48. Rf4 Rb2 49. Ke1 Kg7 50. h5 Kf6 51.
+hxg6 Nxg6 52. Ra4 Kg5 53. Ra8 Ne7 54. Rd8 Ra2 55. Rd6 Ng8 56. Ra6 Rc2 57.
+Ra7 Nf6 58. Bd3 Rc3 59. Kd2 Rc5 60. Ke3 Nh5 61. Kf2 Rc3 62. Rd7 Rb3 63. Rd4
+Ra3 64. Rd8 Ra2+ 65. Ke3 Nxg3 66. Rg8+ Kf6 67. Rf8+ Ke7 68. Rh8 Kf6 69.
+Rf8+ Kg7 70. Rd8 Ra4 71. Rd6 f4+ 72. Kf2 Ne4+ 73. Bxe4 Rxe4 74. Ra6 Kf7 75.
+Rb6 Re6 76. Rb8 Kf6 77. Rg8 Kf5 78. Rf8+ Rf6 79. Rh8 Kg5 80. Rg8+ Rg6 81.
+Rf8 Rh6 82. Rg8+ Kh4 83. Rf8 Kh3 84. Rxf4 Ra6 85. Rf8 Ra2+ 86. Kg1 Ra1+ 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2689"]
+[EventDate "2008.04.21"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+cxd5 Qxd5 15. Bf4 Rac8 16. h3 Be4 17. a4 Bd6 18. Be3 Na5 19. Nd2 Bf5 20. c4
+Qe6 21. c5 Bf8 22. Rc1 b6 23. Nf3 Qb3 24. Qxb3 Nxb3 25. Rc3 Na5 26. d5 bxc5
+27. Bxc5 Bd7 28. Ba6 Rxe1+ 29. Nxe1 Rd8 30. Nd3 Be8 31. Bxf8 Kxf8 32. Rc5
+Nb3 33. Rxc7 Rxd5 34. Rxa7 Ra5 35. Ra8 Ke7 36. Bb7 Rxa8 37. Bxa8 Bxa4
+1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Cheparinov,I"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2696"]
+[BlackElo "2705"]
+[EventDate "2008.04.21"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 Ne4 7. Qd3 Qa5
+8. Nb3 Nxc3 9. Bd2 Ne4 10. Qxe4 Bxd2+ 11. Nxd2 O-O 12. Bg2 Nc6 13. Qe3 d5
+14. O-O d4 15. Qd3 Rd8 16. a3 Ne5 17. b4 Nxd3 18. bxa5 Nc5 19. Rab1 Rb8 20.
+Ne4 Na4 21. Rb4 Bd7 22. Rfb1 Bc6 23. Nc5 Nxc5 24. Bxc6 Rdc8 25. Bxb7 Rxb7
+26. Rxb7 Nxb7 27. Rxb7 g5 28. Rb4 a6 29. Kf1 Rc5 30. Ke1 Rxa5 31. a4 Kg7
+32. Kd2 Kf6 33. Kd3 Ke5 34. f4+ gxf4 35. gxf4+ Kxf4 36. Kxd4 e5+ 37. Kd3
+Kf5 38. Kc3 Ke4 39. Kb3 Ke3 40. Rb7 e4 41. Rxf7 Re5 42. Rxh7 Kxe2 43. Kc3
+e3 44. Rf7 Ke1 45. Rf4 e2 46. Kc2 Ra5 47. h4 Rxa4 48. h5 Ra2+ 49. Kc1 Ra3
+50. h6 Rc3+ 51. Kb2 Rh3 52. Rf6 Kd2 53. Rd6+ Ke3 54. Re6+ Kd3 55. Rd6+ Kxc4
+56. Re6 Kd3 57. Rd6+ Ke3 58. Re6+ Kd3 59. Rd6+ Kc4 60. Re6 Rh2 61. Kc1 Kd3
+62. Rd6+ Ke3 63. Re6+ Kf2 64. Rf6+ Ke1 65. Kc2 a5 66. Kb3 Rh4 67. Ka3 Rh1
+0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Gashimov,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2679"]
+[BlackElo "2746"]
+[EventDate "2008.04.21"]
+[ECO "B43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Be2 Bb7 7. Bf3 Qc7 8.
+O-O Bd6 9. a4 Bxh2+ 10. Kh1 Be5 11. axb5 Nf6 12. Be3 O-O 13. Qd3 d6 14.
+Rfd1 Nfd7 15. Qd2 Rc8 16. Be2 Nf6 17. f4 Bxd4 18. Qxd4 d5 19. bxa6 Nxa6 20.
+e5 Ne8 21. f5 Nc5 22. Bb5 Qd8 23. Rxa8 Bxa8 24. f6 Nd7 25. fxg7 Qc7 26. Bf4
+Qb7 27. Rd3 Nxg7 28. Bxd7 Rc4 29. Qf2 Qxd7 30. Rg3 Kh8 31. Bg5 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.23"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2684"]
+[EventDate "2008.04.21"]
+[ECO "A48"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. c3 h6 6. Bh4 d6 7. e4 c5 8.
+dxc5 dxc5 9. Bc4 Nc6 10. O-O Nh5 11. Qe2 Qc7 12. Rfe1 Na5 13. Bb5 a6 14.
+Ba4 b5 15. Bc2 e5 16. Nf1 Nf4 17. Qd1 Nc4 18. Qb1 Bg4 19. Bd1 g5 20. Bg3
+Rad8 21. h3 Bh5 22. Bxf4 exf4 23. Be2 Bxf3 24. Bxf3 Nd2 25. Nxd2 Rxd2 26.
+e5 Bxe5 27. Qf5 f6 28. Rad1 Rfd8 29. Qe6+ Kg7 30. Qxa6 b4 31. Rxd2 Rxd2 32.
+Rd1 bxc3 33. bxc3 Rxd1+ 34. Bxd1 c4 35. Be2 Bxc3 36. Bxc4 Be5 37. Qe6 Qd8
+38. Qf7+ Kh8 39. f3 Bd6 40. a4 Bb4 41. Kh2 Qf8 42. Qg6 Be1 43. Bd3 f5 44.
+a5 Bg3+ 45. Kh1 Qg7 46. Qe8+ Qg8 47. Qe5+ Qg7 48. Qb8+ Qg8 49. Qb6 Qd5 50.
+Qxh6+ Kg8 51. Qxg5+ Kf7 52. Qxf5+ Qxf5 53. Bxf5 Bf2 54. g4 fxg3 55. f4 Kf6
+56. Be4 Be3 57. a6 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.24"]
+[Round "4"]
+[White "Wang Yue"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2689"]
+[BlackElo "2696"]
+[EventDate "2008.04.21"]
+[ECO "A65"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8.
+h3 O-O 9. Nf3 a6 10. a4 Nbd7 11. O-O Re8 12. Re1 Nh5 13. Bg5 Bf6 14. Bh6
+Bg7 15. Bg5 Bf6 16. Be3 Ne5 17. Be2 Nxf3+ 18. Bxf3 Ng7 19. Qd2 Bd7 20. Be2
+Rc8 21. Bf4 Bd4 22. Bxd6 Bxh3 23. Bh2 Bd7 24. Bf3 f6 25. d6 Ne6 26. e5 Ng5
+27. Bxb7 Rb8 28. Bd5+ Kg7 29. Bf4 Bxe5 30. Rxe5 Rxe5 31. Bxe5 fxe5 32. Re1
+Bf5 33. f4 Nf7 34. Bxf7 Kxf7 35. Qd5+ Kg7 36. Rxe5 Qf6 37. Re7+ Kh6 38. Qe5
+Qxe5 39. fxe5 Rxb2 40. d7 Rd2 41. e6 Bxe6 42. Rxe6 Rxd7 43. Rc6 Kg5 44.
+Rxc5+ Kf4 45. Nd5+ Kg3 46. Rc3+ Kh4 47. Nf6 Rd4 48. Rh3+ Kg5 49. Nxh7+ Kg4
+50. Ra3 Rf4 51. Kh2 a5 52. Rg3+ Kh5 53. Ng5 Rxa4 54. Nf7 Rg4 55. Ra3 a4 56.
+Ne5 Rh4+ 57. Kg1 Re4 58. Nd7 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.24"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2716"]
+[EventDate "2008.04.21"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+a3 g6 9. Be2 Bg7 10. O-O O-O 11. Rd1 Re8 12. Bd2 e5 13. cxd5 exd4 14. exd4
+Nxd5 15. Nxd5 cxd5 16. Bb5 Re4 17. Be3 Nf8 18. Bd3 Re8 19. Bb5 Re4 20. Bd3
+Re8 21. Bb5 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.24"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2751"]
+[EventDate "2008.04.21"]
+[ECO "C63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Qd3 Nd4
+8. Nxd4 Bxd4 9. Nd2 a6 10. Bc4 Qe7 11. Nf3 Ba7 12. Nh4 d6 13. Bg5 Be6 14.
+Nf5 Bxf5 15. exf5 O-O-O 16. Be6+ Kb8 17. c4 h6 18. Be3 Bxe3 19. fxe3 Nh7
+20. Rad1 Ng5 21. Bd5 c6 22. Be4 Rd7 23. g3 Nxe4 24. Qxe4 Rhd8 25. Qf3 d5
+26. cxd5 Rxd5 27. Rxd5 cxd5 28. f6 gxf6 29. Qxf6 Qxf6 30. Rxf6 d4 31. exd4
+exd4 32. Kf1 d3 33. Ke1 Re8+ 34. Kd2 Re2+ 35. Kxd3 Rxh2 36. Kc3 h5 37. Rg6
+h4 38. gxh4 Rh3+ 39. Kc2 Rh2+ 40. Kc3 Rh3+ 41. Kc2 Rh2+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.24"]
+[Round "4"]
+[White "Inarkiev,E"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2679"]
+[EventDate "2008.04.21"]
+[ECO "A61"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Bf4 Bg7 8.
+Qa4+ Bd7 9. Qb3 Qc7 10. e4 O-O 11. Nd2 Nh5 12. Be3 f5 13. exf5 gxf5 14. Be2
+Be8 15. O-O a6 16. Qd1 Nf6 17. Nf3 b5 18. Ng5 Bf7 19. Bd3 Qc8 20. Qf3 Bg6
+21. Ne6 Nbd7 22. Bf4 b4 23. Nd1 Ne5 24. Bxe5 dxe5 25. Bc4 Ne4 26. Qe2 Re8
+27. Rc1 Nd6 28. Bb3 f4 29. Rxc5 Qb8 30. Rc6 Ra7 31. Re1 a5 32. Ba4 Ree7 33.
+Qd2 Be8 34. Nc5 Kh8 35. b3 Nf5 36. Nb2 Nd4 37. Nc4 Bxc6 38. dxc6 Qc7 39.
+Ne4 Nxc6 40. Qd5 Nd4 41. Ned6 Ra6 42. h3 h6 43. Kh1 Re6 44. Ne8 Qe7 45. Bd7
+Qh4 46. Nxe5 Qxf2 47. Nf7+ Kh7 48. Rxe6 Rxe6 49. Bxe6 Qe1+ 50. Kh2 Qg3+ 51.
+Kh1 Qe1+ 52. Kh2 Qg3+ 53. Kh1 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.24"]
+[Round "4"]
+[White "Mamedyarov,S"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2765"]
+[EventDate "2008.04.21"]
+[ECO "E17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Re1 Na6 8.
+Ne5 Bxg2 9. Kxg2 c6 10. e4 Qc7 11. Nc3 Qb7 12. Nd3 d5 13. e5 Nd7 14. cxd5
+cxd5 15. h4 Nb4 16. Bg5 Nxd3 17. Qxd3 Bb4 18. Rec1 a6 19. Ne2 Rfc8 20. h5
+h6 21. a3 Bf8 22. Bd2 Rxc1 23. Rxc1 Rc8 24. Rf1 b5 25. f4 Qc6 26. Rc1 Qb7
+27. Rf1 Qc6 28. Qf3 Qb6 29. f5 exf5 30. Bc3 a5 31. Bxa5 Qxa5 32. Qxf5 Qd2
+33. Qxf7+ Kh8 34. Rf2 Rd8 35. Qxd5 Qa5 36. Nf4 Qa8 37. Ng6+ 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.24"]
+[Round "4"]
+[White "Adams,Mi"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2672"]
+[EventDate "2008.04.21"]
+[ECO "C05"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ngf3 g6 8.
+h4 Qb6 9. dxc5 Qc7 10. Nb3 Ndxe5 11. Nxe5 Nxe5 12. O-O Nxd3 13. Qxd3 Bg7
+14. h5 O-O 15. Bg5 b6 16. h6 Bh8 17. cxb6 axb6 18. Rfe1 Bb7 19. Nd4 e5 20.
+Nb5 Qc6 21. a4 f6 22. Bd2 f5 23. f4 d4 24. Qf1 dxc3 25. Bxc3 exf4 26. Bxh8
+Kxh8 27. Rac1 Qf6 28. Qxf4 Qxb2 29. Qe5+ Qxe5 30. Rxe5 Rxa4 31. Nd6 Rd4 32.
+Rc7 Bd5 33. Rd7 Kg8 34. Re8 Rxe8 35. Nxe8 Rd1+ 36. Kh2 Bb3 37. Nf6+ Kf8 38.
+Nxh7+ Ke8 39. Nf6+ Kf8 40. h7 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.24"]
+[Round "4"]
+[White "Bacrot,E"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2732"]
+[EventDate "2008.04.21"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. c5 Nbd7 7. Bd3 e5 8.
+Nxe5 Nxe5 9. dxe5 Ng4 10. f4 Bxc5 11. Qf3 Qb6 12. Ke2 Nh6 13. h3 Nf5 14.
+Re1 h5 15. Kf1 Be6 16. a3 a5 17. Bxf5 Bxf5 18. e4 dxe4 19. Nxe4 O-O-O 20.
+Be3 Bxe4 21. Qxe4 Bxe3 22. Rxe3 Kb7 23. Rae1 Qd4 24. R1e2 Qxe4 25. Rxe4 Rd5
+26. Kf2 Kc7 27. Kg3 Kd7 28. e6+ fxe6 29. Rxe6 g5 30. Re7+ Kd6 31. R7e6+ Kd7
+32. Re7+ Kd6 33. R7e6+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.25"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2726"]
+[EventDate "2008.04.21"]
+[ECO "B19"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4
+Qc7 15. O-O-O Ngf6 16. Kb1 O-O 17. Ne4 Rad8 18. Nxf6+ Nxf6 19. g4 Nxg4 20.
+Rhg1 f5 21. Qe2 Bf6 22. Qxe6+ Kh8 23. Bb4 Rf7 24. Rd2 Qd7 25. Re1 Qxe6 26.
+Rxe6 Rfd7 27. Ba5 b6 28. Bc3 Rd6 29. Rxd6 Rxd6 30. Re2 Kg8 31. Kc2 Kf7 32.
+Ne5+ Nxe5 33. dxe5 Re6 34. f4 Be7 35. Rh2 g6 36. hxg6+ Rxg6 37. Kd2 Bf8 38.
+Bd4 Rg4 39. Be3 Kg6 40. Ke2 h5 41. Kf3 Be7 42. Bf2 h4 43. Rh1 Kf7 44. Rg1
+h3 45. Rh1 Bh4 46. Bxh4 Rxh4 47. Kg3 Rg4+ 48. Kf3 Rh4 49. Kg3 Rg4+ 50. Kf3
+Rh4 51. Kg3 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.25"]
+[Round "5"]
+[White "Navara,D"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2705"]
+[EventDate "2008.04.21"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Bg5 h6 8.
+Bd2 Nhf6 9. Qc2 Qc7 10. e4 e5 11. exd5 cxd5 12. b4 Be7 13. g3 O-O 14. Bg2
+a5 15. Nxe5 Nxe5 16. Bf4 axb4 17. Bxe5 Qc6 18. Ne2 Be6 19. O-O Nd7 20. Bf4
+b6 21. Bd2 bxc5 22. Bxb4 Qa4 23. Qxa4 Rxa4 24. Bxc5 Nxc5 25. dxc5 Bxc5 26.
+Nf4 Rfa8 27. Nxd5 R8a5 28. Rab1 Rxa2 29. Rb8+ Kh7 30. Be4+ f5 31. Nf4 Ba7
+32. Rf8 fxe4 33. Nxe6 e3 34. fxe3 Bxe3+ 35. Kh1 Ra1 36. Rxa1 Rxa1+ 37. Kg2
+Ra2+ 38. Kf3 Bg1 39. h4 Rf2+ 40. Kg4 Rxf8 41. Nxf8+ Kg8 42. Ne6 g6 43. h5
+Kf7 44. Nf4 gxh5+ 45. Kxh5 Bh2 46. Ne6 Kxe6 47. Kxh6 Bxg3 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.25"]
+[Round "5"]
+[White "Grischuk,A"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2729"]
+[EventDate "2008.04.21"]
+[ECO "A17"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3 6. Qxc3 b6 7. e3 c5 8.
+Be2 d6 9. O-O Bb7 10. b4 e5 11. bxc5 bxc5 12. d4 exd4 13. exd4 Re8 14. Re1
+cxd4 15. Nxd4 Nc6 16. Nxc6 Bxc6 17. Be3 Ne4 18. Qd4 Nc5 19. Rad1 Ba4 20.
+Rb1 Rc8 21. h3 Rc7 22. Qc3 Rce7 23. Bf3 h6 24. Bd5 Qc7 25. Bd4 Rxe1+ 26.
+Rxe1 Ne6 27. Bxe6 Rxe6 28. Rxe6 fxe6 29. c5 dxc5 30. Bxc5 a6 31. Qd4 Qd7
+32. Qxd7 Bxd7 33. Bd4 Kf7 34. Kh2 g5 35. g4 Kg6 36. Kg3 h5 37. gxh5+ Kxh5
+38. Bf6 Kg6 39. Bd8 Kf5 40. h4 gxh4+ 41. Bxh4 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.25"]
+[Round "5"]
+[White "Karjakin,Sergey"]
+[Black "Wang Yue"]
+[Result "0-1"]
+[WhiteElo "2732"]
+[BlackElo "2689"]
+[EventDate "2008.04.21"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Bf4
+Be6 14. Kg2 Be7 15. Rfd1 Rd8 16. f3 h5 17. b3 a5 18. Ne2 a4 19. Nd4 Ra8 20.
+Nxe6 fxe6 21. Bg3 g6 22. Be1 c5 23. c4 b6 24. Bc3 Kf7 25. Rd2 axb3 26. axb3
+Rxa1 27. Bxa1 Ra8 28. Bb2 Bg5 29. f4 Bxf4 30. Rf2 g5 31. Bc1 hxg4 32. hxg4
+Kg6 33. Bxf4 gxf4 34. Rxf4 Kg5 35. Rf6 Kxg4 36. Rxe6 Kf5 37. Re7 Ra3 38. e6
+Rxb3 39. Kf2 Rb4 40. Rxc7 Kxe6 41. Rh7 Rxc4 42. Rh6+ Kd5 43. Rxb6 Re4 44.
+Rb1 c4 45. Re1 c3 46. Rxe4 Kxe4 47. Ke1 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.25"]
+[Round "5"]
+[White "Gashimov,V"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2752"]
+[EventDate "2008.04.21"]
+[ECO "C10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 c5 7. O-O cxd4
+8. Nxf6+ Nxf6 9. Nxd4 Bc5 10. Nf3 O-O 11. Bg5 h6 12. Bh4 b6 13. Qe2 Bb7 14.
+Rad1 Qc7 15. Bxf6 gxf6 16. Be4 Rad8 17. Bxb7 Qxb7 18. Rd2 Rd5 19. Rfd1 Rfd8
+20. a3 a5 21. Kf1 Kg7 22. Rd3 Qc6 23. R1d2 Qb7 24. Rd1 Qc6 25. R1d2 Qb7 26.
+Rd1 Qc6 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.25"]
+[Round "5"]
+[White "Cheparinov,I"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2746"]
+[EventDate "2008.04.21"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nbd2 Bf5 6. Qb3 Qc7 7. Bd3 Bxd3 8.
+Qxd3 e6 9. O-O Be7 10. Re1 O-O 11. e4 dxe4 12. Nxe4 Nbd7 13. Bg5 Rfe8 14.
+Rad1 Nxe4 15. Qxe4 Bxg5 16. Nxg5 Nf6 17. Qe5 Re7 18. Nf3 Rd8 19. Qxc7 Rxc7
+20. Kf1 h6 21. Ke2 Ne4 22. Rd3 Nd6 23. Rc1 Nf5 24. Rcd1 f6 25. g4 Ne7 26.
+Nd2 Ng6 27. Ke3 Re7 28. Nf3 Red7 29. R1d2 Kf7 30. h3 h5 31. gxh5 Ne7 32.
+Kf4 b5 33. b3 Rh8 34. Kg4 Rdd8 35. Nh4 Rh6 36. Ng2 Rdh8 37. Nf4 g5 38.
+hxg6+ Nxg6 39. Nxg6 Kxg6 40. Rg3 Kf7 41. cxb5 cxb5 42. Rc2 f5+ 43. Kf3 Rxh3
+44. Rc7+ Kf6 45. Rc6 Rxg3+ 46. fxg3 Rd8 47. Ke3 a5 48. Rc5 Rd5 49. Rxd5
+exd5 50. Kf4 b4 51. g4 fxg4 52. Kxg4 Kg6 53. Kf4 Kf6 54. Kg4 Kg6 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.25"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2684"]
+[EventDate "2008.04.21"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Qg3
+h5 8. Nc3 h4 9. Qf3 h3 10. Na4 Bd6 11. Be3 Rh4 12. O-O-O Qxf3 13. gxf3 Ne7
+14. Nc3 f6 15. Rg1 g5 16. Rg4 Ng6 17. Rxh4 Nxh4 18. Bxh3 Nxf3 19. Ne2 Bxh2
+20. Bg4 Nh4 21. Rh1 Bd6 22. f4 Ng2 23. Bd4 Nxf4 24. Bxf6 Nxe2+ 25. Bxe2
+Bf4+ 26. Kb1 Kf7 27. e5 Ke6 28. Bg4+ Kd5 29. b3 a5 30. a4 Bxe5 31. Bxg5 Kc5
+32. Rh5 d5 33. Bd2 Bxg4 34. Rxe5 Bf3 35. Be3+ Kd6 36. Bf4 Kc5 37. Be3+ Kd6
+38. Bf4 Kc5 39. Be3+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Inarkiev,E"]
+[Black "Cheparinov,I"]
+[Result "0-1"]
+[WhiteElo "2684"]
+[BlackElo "2696"]
+[EventDate "2008.04.21"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. Re1
+Bf8 15. Bg3 Bg7 16. Bd6 Bf8 17. Bg3 Bg7 18. e5 O-O 19. Bf3 Qe7 20. Ne4 Nb6
+21. Qe2 Rad8 22. Rad1 Nd5 23. a3 Kh8 24. Qc2 a5 25. h4 Nf4 26. hxg5 hxg5
+27. Bxf4 gxf4 28. g4 f5 29. exf6 Bxf6 30. Kg2 Kg7 31. Nc5 Bc8 32. Qe4 Qd6
+33. Rh1 Rh8 34. g5 Bxg5 35. Rhg1 Kf7 36. Kf1 Rdg8 37. Ke2 Rg7 38. Rg4 e5
+39. Nb7 Qg6 40. Qxg6+ Kxg6 41. Rxg5+ Kxg5 42. Rg1+ Kf6 43. dxe5+ Kf7 44.
+Nd6+ Kf8 45. Rd1 Ke7 46. Bxc6 Be6 47. Bxb5 Rg5 48. Nxc4 Bg4+ 49. f3 Rh2+
+50. Kd3 Bxf3 51. Re1 Rg3 52. Kd4 Be2 53. e6 Rd3+ 54. Ke4 f3 55. Ne5 Rh4+
+56. Kf5 Rh5+ 57. Kg4 Rxe5 58. Bxd3 Bxd3 59. Rxe5 f2 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Mamedyarov,S"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2751"]
+[EventDate "2008.04.21"]
+[ECO "C63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Qd3 d6
+8. Qc4 Qe7 9. Nc3 Bd7 10. Nd5 Nxd5 11. exd5 Nd4 12. Bxd7+ Qxd7 13. Nxe5 Qf5
+14. Nd3 O-O-O 15. a4 Rhe8 16. Kh1 g5 17. Be3 Nf3 18. Nxc5 dxc5 19. Rfd1 Re4
+20. Qf1 Nd4 21. Qd3 Qe5 22. Bxg5 Re8 23. Bd2 Rh4 24. h3 Qxd5 25. c4 Qc6 26.
+Qg3 Nf5 27. Qd3 Nd4 28. Qg3 Nf5 29. Qd3 Nd4 30. Qg3 Nf5 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Kamsky,G"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2726"]
+[BlackElo "2729"]
+[EventDate "2008.04.21"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. N3h2
+Nc5 15. Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6 18. Bg5 h6 19. Bxf6 Nxf6 20. Ng4
+Nxg4 21. Qxg4 Rc8 22. Bb3 Bd7 23. Qf3 Be6 24. Red1 Qg5 25. Rd3 Qf4 26. Qe2
+Bxb3 27. axb3 d5 28. exd5 e4 29. Re3 Qe5 30. Rxa6 f5 31. Ng3 Qxd5 32. Qh5
+Re5 33. Qg6 Qf7 34. Qxf7+ Kxf7 35. Ra7+ Be7 36. Ne2 Ke8 37. Rb7 Rd5 38. Nd4
+Bg5 39. Rxb5 Rxb5 40. Nxb5 Rb8 41. Nc7+ Kd7 42. Na6 Ra8 43. Nc5+ Kc6 44.
+Re2 Ra1+ 45. Kh2 Kb5 46. Rc2 Bf6 47. g3 Rd1 48. Kg2 Be5 49. h4 g6 50. Ne6
+Rd6 51. Nf4 Bxf4 52. gxf4 Rd3 53. c4+ Kxb4 54. c5 Kxb3 55. Rc1 Kb2 56. Rc4
+Rd7 57. c6 Rc7 58. h5 Kb3 59. Rc1 gxh5 60. Kh3 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Bacrot,E"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2716"]
+[EventDate "2008.04.21"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Nxc3 13. Qxc3 Bh6+
+14. Be3 Bxe3+ 15. Qxe3 Qb6 16. Qxb6 axb6 17. a3 Be6 18. Bd3 Kg7 19. Rhe1
+Rfd8 20. Be4 Rxd1+ 21. Rxd1 Rc8 22. a4 f5 23. Bd3 Ra8 24. b3 Kf6 25. Kd2
+Bd5 26. c4 Bf7 27. Kc3 c5 28. Bc2 Be8 29. Ra1 Ke5 30. Re1+ Kd6 31. Rd1+ Kc7
+32. Re1 Kd6 33. Rd1+ Kc7 34. Re1 Kd6 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2679"]
+[EventDate "2008.04.21"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 d6 4. Bg2 Nc6 5. Nc3 g6 6. d4 cxd4 7. Nxd4 Bd7 8.
+Nxc6 Bxc6 9. e4 Bg7 10. O-O O-O 11. Bg5 h6 12. Be3 Qa5 13. a3 Rfc8 14. b4
+Qd8 15. Rc1 b6 16. Qe2 e6 17. Rfd1 Qe7 18. Nb5 Bxb5 19. cxb5 Rxc1 20. Rxc1
+Rd8 21. Rc6 Kh7 22. h3 Ne8 23. Bd2 Bd4 24. a4 e5 25. h4 Nf6 26. Bf3 Qe6 27.
+Kg2 Rd7 28. Qc4 Qxc4 29. Rxc4 Kg7 30. Bc1 h5 31. Bg5 Nh7 32. Bd2 Nf6 33.
+Rc6 Ng4 34. Be1 Nf6 35. a5 d5 36. exd5 Nxd5 37. Bd2 Ne7 38. Bg5 Nxc6 39.
+bxc6 Rc7 40. Bd8 Rc8 41. c7 e4 42. Bxe4 Be5 43. Bb7 Rxc7 44. Bxc7 Bxc7 45.
+a6 b5 46. Bc6 Bd6 47. Bxb5 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Svidler,P"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2732"]
+[EventDate "2008.04.21"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. O-O O-O 10. a3 Bb7 11. Qc2 a6 12. b4 a5 13. Rb1 axb4 14. axb4
+Qe7 15. e4 e5 16. Ne2 Bxb4 17. Ng3 g6 18. dxe5 Ng4 19. Bg5 Qc5 20. e6 Nde5
+21. Nxe5 Nxe5 22. Bf6 Qxc2 23. Bxc2 Bd6 24. Bb3 fxe6 25. Bxe6+ Nf7 26. f4
+Bc8 27. Bb3 Re8 28. f5 Bxg3 29. hxg3 Rxe4 30. Ra1 Rxa1 31. Rxa1 Kf8 32. Ra7
+Ne5 33. Rxh7 Nc4 34. fxg6 Be6 35. Bc2 Re2 36. Bd3 Re3 37. Bf5 Bd5 38. Kf2
+Re8 39. Bd7 Nd6 40. Bg7+ 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.27"]
+[Round "6"]
+[White "Wang Yue"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2672"]
+[EventDate "2008.04.21"]
+[ECO "D80"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. cxd5 Nxc3 7. bxc3 Qxd5
+8. e3 Nc6 9. Qf3 Qf5 10. Bb5 Bd7 11. Qxf5 gxf5 12. Nf3 e6 13. O-O Be7 14.
+Bxe7 Kxe7 15. dxc5 Rhc8 16. Rab1 a6 17. Ba4 Rc7 18. Rfd1 Ne5 19. Nxe5 Bxa4
+20. Rd4 Bb5 21. c6 bxc6 22. c4 Ba4 23. c5 Bc2 24. Rb6 Be4 25. f3 Bd5 26. e4
+Kf6 27. Nd3 fxe4 28. fxe4 Bxa2 29. Nb4 Bb3 30. Nxc6 a5 31. Nxa5 Rxa5 32.
+Rxb3 Ra1+ 33. Kf2 Ra2+ 34. Kg1 Rxc5 35. Rd1 Rg5 36. Rf1+ Kg6 37. Rf2 Ra1+
+38. Rf1 Rxf1+ 39. Kxf1 Rg4 40. Rb4 f5 41. exf5+ exf5 42. Rxg4+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.28"]
+[Round "7"]
+[White "Adams,Mi"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2705"]
+[EventDate "2008.04.21"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 f6 12. c4 bxc4 13. Nxc4 Bc5 14. Ne3
+Na5 15. d4 exd4 16. Nxd4 Nxb3 17. Qxb3 Bxd4 18. Qxb7 Bxe3 19. Bxe3 Qd7 20.
+Rad1 Rfd8 21. Qb3 Rab8 22. Qa3 Qb5 23. Ba7 Ra8 24. Bc5 c6 25. Rd4 Re8 26.
+Rde4 Kf7 27. f3 f5 28. Rxe8 Rxe8 29. Rxe8 Kxe8 30. Bf2 Qb7 31. Qd6 Kf7 32.
+Qe5 Qd7 33. Qd4 h6 34. b3 Qb7 35. Qd3 Qc8 36. Bg3 g5 37. Kh2 Kg6 38. Qe2 h5
+39. h4 g4 40. fxg4 hxg4 41. Qe5 Qd7 42. Qb8 Qf7 43. Qc8 Kh5 44. Qh8+ Kg6
+45. Qc8 Kh5 46. Qh8+ Kg6 47. Qc8 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.28"]
+[Round "7"]
+[White "Cheparinov,I"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2752"]
+[EventDate "2008.04.21"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Be7 6. e3 O-O 7. Qc2 Nbd7 8.
+a3 h6 9. Bh4 a6 10. Rd1 b6 11. Bd3 Bb7 12. O-O Rc8 13. Bg3 dxc4 14. Bxc4 b5
+15. Ba2 c5 16. d5 exd5 17. Nxd5 Nxd5 18. Bxd5 Bxd5 19. Rxd5 Qe8 20. Bd6 c4
+21. Rfd1 Bxd6 22. Rxd6 Nc5 23. Nd4 g6 24. h4 h5 25. Nf3 Qe7 26. Ng5 Rcd8
+27. Nxf7 Rxd6 28. Nxd6 Kh7 29. Rd4 Nd3 30. Ne4 Kh6 31. Qd2 Qxh4 32. f4 Rd8
+33. Rxd8 Qxd8 34. Qc3 Qe7 35. Qh8+ Qh7 36. Qd8 Qa7 37. Kh2 h4 38. Qxh4+ Kg7
+39. Qf6+ Kh6 40. Nd6 Kh7 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.28"]
+[Round "7"]
+[White "Gashimov,V"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2679"]
+[BlackElo "2726"]
+[EventDate "2008.04.21"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d6 10. a3 Qd7 11. Nbd2 Rfe8 12. Nf1 Nd8 13. Ng3 Ne6 14. Ba2 c5
+15. Bd2 Bf8 16. b4 h6 17. c4 Nf4 18. Re3 bxc4 19. dxc4 Ne6 20. Bb1 g6 21.
+Re1 Qc7 22. Bd3 Bg7 23. Rb1 Nd7 24. Ne2 Nd4 25. Nc3 Rec8 26. Rc1 Qd8 27.
+Nd5 Bc6 28. Bf1 Nf8 29. Nxd4 exd4 30. f4 Nd7 31. Qf3 Rcb8 32. Qg3 cxb4 33.
+axb4 a5 34. b5 Bxd5 35. cxd5 Nc5 36. e5 a4 37. Bb4 a3 38. Bxa3 d3 39. Bxc5
+d2 40. Bxd6 Rb7 41. Red1 dxc1=Q 42. Rxc1 Rba7 43. Qb3 Ra1 44. Bc7 Qh4 45.
+Rxa1 Rxa1 46. Qf3 Qe1 47. b6 Qb4 48. d6 Qd4+ 49. Kh2 Rb1 50. b7 Rxb7 51.
+Qxb7 Qxf4+ 52. g3 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.28"]
+[Round "7"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2751"]
+[BlackElo "2765"]
+[EventDate "2008.04.21"]
+[ECO "B77"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. h4 h5 12. O-O-O Ne5 13. Bg5 Rc5 14. Kb1
+Re8 15. g4 hxg4 16. h5 Nxh5 17. Rxh5 gxh5 18. Qh2 Ng6 19. Qxh5 Qa5 20. f4
+Rxg5 21. fxg5 e6 22. Nf5 exf5 23. Qxg6 Be6 24. Qh5 fxe4 25. Rf1 Qe5 26.
+Rxf7 Bxb3 27. axb3 g3 28. Ka2 Rf8 29. Rxf8+ Kxf8 30. Qg4 e3 31. g6 e2 32.
+Qf3+ Ke8 33. Qf7+ Kd8 34. Qg8+ Kd7 35. Qf7+ Qe7 36. Qf5+ Kd8 37. Qa5+ b6
+38. Qd5 e1=Q 39. Qa8+ Kd7 40. Qb7+ Ke8 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.28"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2684"]
+[EventDate "2008.04.21"]
+[ECO "C99"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3
+a5 15. Be3 a4 16. Nbd2 Bd7 17. Rc1 Qb7 18. Nf1 Rfe8 19. Ng3 Bd8 20. Qe2 h6
+21. Bd3 Rb8 22. dxe5 Nxe5 23. Nxe5 dxe5 24. b4 axb3 25. axb3 Bb6 26. b4
+Rec8 27. Kh2 Be6 28. Rxc8+ Qxc8 29. Rc1 Qd8 30. Bxb6 Rxb6 31. Qe3 Qb8 32.
+Qc5 Bd7 33. Ra1 Rc6 34. Qe3 Rd6 35. Ne2 Bc6 36. f3 Nd7 37. Ra5 Rd4 38. Qd2
+Rd6 39. Ng3 Nf8 40. Qc3 Qb6 41. Nf5 Rd7 42. Bxb5 Rd1 43. Ne3 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.28"]
+[Round "7"]
+[White "Grischuk,A"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2689"]
+[EventDate "2008.04.21"]
+[ECO "D15"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. g3 dxc4 6. Ne5 Nbd7 7. Nxc4 b5 8.
+Nd2 Bb7 9. Bg2 e6 10. O-O Be7 11. e4 O-O 12. e5 Nd5 13. Nxd5 cxd5 14. Re1
+Rc8 15. Bf1 b4 16. Nf3 a5 17. Bd3 Qb6 18. Bg5 Rfe8 19. Bxe7 Rxe7 20. Qe2 h6
+21. Rad1 Nf8 22. h4 Rec7 23. h5 Rc6 24. Qe3 Ba6 25. Bb1 Qd8 26. Kh1 Bb5 27.
+g4 Ba4 28. b3 Rc3 29. Qf4 Be8 30. Rg1 f6 31. Rg3 Qc7 32. Rdg1 Rc1 33. Kh2
+Rxg1 34. Rxg1 Bb5 35. Qe3 Qc3 36. exf6 Qxe3 37. f7+ Kxf7 38. fxe3 Rc3 39.
+Re1 g5 40. hxg6+ Nxg6 41. g5 hxg5 42. Nxg5+ Kf6 43. Nh7+ Kg7 44. Ng5 e5 45.
+dxe5 Nxe5 46. Ne6+ Kf6 47. Nd4 Bd3 48. Bxd3 Nxd3 49. Rf1+ Ke5 50. Rf8 Nc1
+51. Re8+ Kd6 52. Re6+ Kd7 53. Ra6 Rc5 54. Kg3 Nxa2 55. Kf4 Nc1 56. Ra7+ Kd6
+57. Ra6+ Kd7 58. Ra7+ Kd6 59. Ra6+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.28"]
+[Round "7"]
+[White "Navara,D"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2746"]
+[EventDate "2008.04.21"]
+[ECO "E94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8.
+Be3 Ng4 9. Bg5 f6 10. Bc1 c6 11. h3 Nh6 12. c5 exd4 13. Bxa6 dxc5 14. Na4
+Qe7 15. Qc2 bxa6 16. Bxh6 Bxh6 17. Nxc5 Rd8 18. Rad1 Bf8 19. b4 d3 20. Nxd3
+a5 21. bxa5 Qxe4 22. Rfe1 Qf5 23. Qxc6 Bd7 24. Qc4+ Kh8 25. Nd4 Qxa5 26.
+Ne6 Bxe6 27. Qxe6 Rd6 28. Qe2 Rad8 29. Nf4 Rxd1 30. Rxd1 Rxd1+ 31. Qxd1
+Qxa2 32. Qd8 Kg7 33. Qd7+ Qf7 34. Ne6+ Kg8 35. Qc8 a5 36. g4 a4 37. Nxf8
+Qxf8 38. Qc4+ Qf7 39. Qxa4 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.29"]
+[Round "8"]
+[White "Kamsky,G"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2705"]
+[EventDate "2008.04.21"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. a4 e6 6. Bg5 a5 7. e3 Be7 8. Bd3
+Na6 9. O-O Nb4 10. Re1 O-O 11. e4 dxe4 12. Bxe4 Nxe4 13. Nxe4 f6 14. Bd2
+Bd7 15. Bc3 Be8 16. Qe2 Bf7 17. Rad1 b6 18. Ng3 Re8 19. Qe4 Bf8 20. Qg4 Ra7
+21. Nh5 Bg6 22. Ng3 Bf7 23. h4 Rd7 24. h5 h6 25. Rd2 Na2 26. Rde2 Nxc3 27.
+bxc3 Bd6 28. Nf1 c5 29. Ne3 f5 30. Qh3 cxd4 31. cxd4 Qf6 32. Rb1 Bc7 33.
+Ree1 Red8 34. Nc2 Rd6 35. Ne3 Kh7 36. d5 exd5 37. cxd5 Bxd5 38. Qxf5+ Kh8
+39. Ne5 Qxf5 40. Nxf5 Rf6 41. Ne7 Bxe5 42. Rxe5 Bf7 43. f3 Kh7 44. Rb2 Rd4
+45. Nc8 Rxa4 46. Nxb6 Rb4 47. Rxb4 axb4 48. Rb5 b3 49. Nd7 Rd6 50. Nf8+ Kg8
+51. Rb8 Bxh5 52. Ne6+ Kh7 53. Nf8+ Kg8 54. Ne6+ Kh7 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.29"]
+[Round "8"]
+[White "Inarkiev,E"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2672"]
+[EventDate "2008.04.21"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 Re8 10. Nc3 h6 11. Bd2 Bc5 12. a4 Nd4 13. axb5 Nxb3 14. cxb3
+axb5 15. Rxa8 Bxa8 16. Nxb5 d5 17. Qc2 Bb6 18. Nc3 dxe4 19. dxe4 Bb7 20.
+Be3 Bd4 21. Nd2 c5 22. Na4 Nd7 23. Nc4 Qe7 24. Ra1 Nf6 25. f3 Ba6 26. Bf2
+Rd8 27. Ne3 Bc8 28. Rc1 Nh5 29. Nd5 Qg5 30. Nxc5 Bxh3 31. Bxd4 exd4 32. Rd1
+Be6 33. Rxd4 Bxd5 34. Qd2 Qxd2 35. Rxd2 Nf6 36. b4 Rb8 37. exd5 Kf8 38. d6
+Ke8 39. Re2+ Kd8 40. Re7 Rxb4 41. Nb7+ Kc8 42. Rc7+ Kb8 43. Na5 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.29"]
+[Round "8"]
+[White "Gashimov,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2751"]
+[EventDate "2008.04.21"]
+[ECO "C55"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Kh8 8.
+h3 h6 9. Nc3 Nh7 10. a5 a6 11. d4 Ng5 12. Bxg5 hxg5 13. dxe5 dxe5 14. Qxd8
+Bxd8 15. Bd5 f6 16. Bc4 Nb4 17. Bb3 Be7 18. Red1 Rb8 19. Rd2 g6 20. Nd1 Rd8
+21. Rxd8+ Bxd8 22. Ne3 Kg7 23. c3 Nc6 24. Nd2 Bd7 25. Ba4 Be6 26. Bb3 Bd7
+27. Ba4 Be6 28. Bb3 Bd7 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.29"]
+[Round "8"]
+[White "Wang Yue"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2729"]
+[EventDate "2008.04.21"]
+[ECO "E12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8.
+Qc2 Bb7 9. e3 d6 10. Bd3 Bxc3+ 11. bxc3 f5 12. d5 Na6 13. Bxe4 fxe4 14.
+Qxe4 Qf6 15. O-O O-O-O 16. Qxe6+ Qxe6 17. dxe6 Bxf3 18. gxf3 Nc5 19. h4
+Nxe6 20. hxg5 hxg5 21. Kg2 Rhf8 22. Rad1 Rf5 23. Rd5 Rdf8 24. Rxf5 Rxf5 25.
+Rh1 Kd7 26. Rh7+ Ke8 27. f4 gxf4 28. exf4 Rc5 29. Kf3 Nf8 30. Rg7 Ne6 31.
+Rh7 Nf8 32. Rg7 Ne6 33. Rh7 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.29"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Cheparinov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2696"]
+[EventDate "2008.04.21"]
+[ECO "A29"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. d3 f6 11. Rb1 Nd4 12. Nd2 c6 13. e3 Nb5 14. Qc2
+Nxc3 15. Qxc3 Qd7 16. Nb3 Rad8 17. Rd1 Bg4 18. Rd2 Kh8 19. Nc5 Qc8 20. Bb2
+Nd5 21. Qc2 Nc7 22. Rc1 Ne6 23. h4 Nxc5 24. bxc5 Qe6 25. d4 exd4 26. Bxd4
+Rd7 27. Qe4 Qxe4 28. Bxe4 Re8 29. Bg2 Bf8 30. Rb2 Kg8 31. Rcb1 Ree7 32. Rb4
+h5 33. R1b2 Kf7 34. f3 Be6 35. Kf2 g6 36. Bf1 Bg7 37. Ra4 a6 38. Rab4 f5
+39. Bxg7 Kxg7 40. e4 fxe4 41. Rxe4 Bf5 42. Rxe7+ Rxe7 43. Bc4 Kf6 44. Be2
+Bc8 45. Rd2 Re5 46. Rc2 a5 47. Rc3 Rd5 48. Ke3 Re5+ 49. Kf2 Rd5 50. Ke3
+Re5+ 51. Kf2 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.29"]
+[Round "8"]
+[White "Mamedyarov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2732"]
+[EventDate "2008.04.21"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 Bxc5 8.
+O-O O-O 9. Nc3 Be7 10. Rd1 d6 11. Bf4 a6 12. Qa3 Ne8 13. b4 Nd7 14. Qb3 Qb8
+15. Rd2 h6 16. Rad1 Qa7 17. Qa4 Ndf6 18. Nd4 Rc8 19. Nc6 Bxc6 20. Bxc6 Ng4
+21. Nb5 Qb8 22. Nxd6 Bxd6 23. Bxd6 Nxd6 24. Rxd6 Ne5 25. b5 axb5 26. cxb5
+Rfd8 27. Rxd8+ Rxd8 28. h3 g5 29. Rd4 Qc7 30. e3 Rc8 31. Kg2 Nxc6 32. Rc4
+Qa7 33. Qc2 Ne7 34. Rxc8+ Nxc8 35. Qxc8+ Kg7 36. Qc4 Qa8+ 37. Kg1 Qa5 38.
+a4 h5 39. Qd4+ Kg6 40. Qe4+ Kg7 41. h4 gxh4 42. Qxh4 f6 43. Qc4 e5 44. Kf1
+Qd2 45. Kg2 Qd8 46. Qc6 Kg6 47. e4 Qd1 48. Qxb6 h4 49. Qe6 hxg3 50. Qg8+
+Kh6 51. Qxg3 Qxa4 52. Qd3 Qb4 53. Qd5 Qb2 54. Qc6 Kg5 55. b6 Qe2 56. Qc1+
+Kg6 57. Qb1 Qg4+ 58. Kf1 Qf3 59. Qc2 Qa3 60. Kg2 Qb4 61. Qc6 Kg5 62. b7 Qb1
+63. Qd5 Kf4 64. Qd2+ Kxe4 65. f3+ Kf5 66. Qd7+ 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.29"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2716"]
+[EventDate "2008.04.21"]
+[ECO "C72"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. c3 Qf6 8. d3
+Bxf3 9. Qxf3 Qxf3 10. gxf3 Nge7 11. f4 exf4 12. Bxf4 O-O-O 13. Nd2 g5 14.
+Be3 Bh6 15. f4 g4 16. hxg4 hxg4 17. Kg2 d5 18. Rh1 d4 19. cxd4 Nxd4 20. Rh5
+Ne6 21. Rah1 Rxd3 22. Rxh6 Rxh6 23. Rxh6 Rxe3 24. Rh8+ Nd8 25. Bd1 Rd3 26.
+Bxg4+ Kb8 27. Nf3 Ng6 28. Re8 Nxf4+ 29. Kf2 Ka7 30. Ne5 Rd6 31. Ke3 Ng2+
+32. Kf3 Ne1+ 33. Ke2 Nc2 34. Rf8 Nd4+ 35. Ke3 Nc2+ 36. Ke2 Nd4+ 37. Ke3
+Nc2+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Navara,D"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2672"]
+[BlackElo "2752"]
+[EventDate "2008.04.21"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Na4 Qc7 12. Bf4 g5 13. Bg3 h5 14. h3
+c5 15. c4 d4 16. b3 Bb7 17. Nb2 O-O-O 18. Be4 Rdg8 19. Nd3 Rg7 20. a3 Rhg8
+21. Bxb7+ Qxb7 22. f3 g4 23. hxg4 hxg4 24. f4 Rh7 25. Nf2 Rgh8 26. Rb1 a5
+27. Qxg4 Kc7 28. f5 Qa8 29. Ne4 Rg8 30. Qf3 Bh4 31. fxe6 fxe6 32. Bxh4 Rxh4
+33. Nd2 Qd8 34. b4 Rf8 35. Qg3 Rg8 36. Qf3 Rhg4 37. Re2 Rg3 38. Qh5 d3 39.
+Ne4 dxe2 40. Nxg3 Rxg3 41. Qxe2 Qg5 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2765"]
+[EventDate "2008.04.21"]
+[ECO "B77"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. Bb3 Rc8 11. O-O-O Ne5 12. Kb1 Re8 13. h4 h5 14. Bh6
+Nc4 15. Bxc4 Rxc4 16. Bxg7 Kxg7 17. Nd5 e5 18. Nxf6 Qxf6 19. Ne2 Rc6 20.
+Nc3 Be6 21. Nd5 Bxd5 22. Qxd5 Qf4 23. Qd2 Qxd2 24. Rxd2 f5 25. Re1 Kf6 26.
+c3 Ke6 27. Kc2 fxe4 28. Rxe4 Rec8 29. Kd3 b5 30. a4 a6 31. axb5 axb5 32.
+Rb4 Rc5 33. Re2 Rd5+ 34. Kc2 Rc4 35. Kb3 Rxb4+ 36. Kxb4 Kd7 37. b3 Kc6 38.
+Ra2 Kb6 39. Re2 Rd1 40. f4 exf4 41. Re6 Kc6 42. Rxg6 Rh1 43. c4 bxc4 44.
+bxc4 Rxh4 45. Rg5 Rg4 46. Rxh5 Rxg2 47. Rf5 Rf2 48. Kc3 f3 49. Kd4 Rf1 50.
+Ke3 Ra1 51. Kxf3 Rf1+ 52. Ke4 Rxf5 53. Kxf5 Kc5 54. Ke6 Kxc4 55. Kxd6
+1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Cheparinov,I"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2679"]
+[EventDate "2008.04.21"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 Ne4 7. Bd2 Bxc3 8.
+bxc3 d5 9. O-O dxc4 10. Ne5 Nxd2 11. Qxd2 Qc7 12. Rfd1 Nd7 13. Nxc4 cxd4
+14. Qxd4 e5 15. Qh4 Nc5 16. Ne3 Be6 17. Nd5 Bxd5 18. Bxd5 Rac8 19. Rd2 Nd7
+20. Rad1 Nf6 21. Qa4 b6 22. Bg2 Qe7 23. Bc6 Rc7 24. Rd6 Rfc8 25. Qb5 h6 26.
+R1d2 Kh8 27. Rd1 Kg8 28. R1d2 Kh8 29. Rd1 Kg8 30. R1d2 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Grischuk,A"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2684"]
+[EventDate "2008.04.21"]
+[ECO "E62"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O Rb8 8.
+h3 e5 9. Be3 a6 10. Rc1 Bf5 11. g4 Bd7 12. Qd2 h5 13. dxe5 dxe5 14. g5 Nh7
+15. Rfd1 Bf5 16. Qxd8 Rfxd8 17. h4 Be6 18. Rxd8+ Rxd8 19. Nd5 Rd7 20. Nd2
+Nd4 21. Bxd4 exd4 22. Nf4 c6 23. Nxe6 fxe6 24. Be4 Nf8 25. Nb3 Rf7 26. Kg2
+d3 27. Bxd3 Bxb2 28. Rb1 Bc3 29. Nc5 Bd4 30. Ne4 Rc7 31. e3 Ba7 32. c5 Nd7
+33. Rc1 Kh7 34. f4 Rc8 35. Rc3 Rf8 36. Rb3 Rb8 37. Rc3 Rf8 38. Bc2 e5 39.
+Rb3 Nxc5 40. Nxc5 Bxc5 41. Rxb7+ Kh8 42. f5 Rd8 43. Bb3 Rd6 44. f6 e4 45.
+Rg7 Rd2+ 46. Kf1 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Bacrot,E"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2705"]
+[BlackElo "2689"]
+[EventDate "2008.04.21"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Nc6 6. O-O Bg4 7. Nc3 Nxc3
+8. bxc3 Bc5 9. Re1 O-O 10. h3 Bh5 11. Rb1 b6 12. Bf5 Kh8 13. g4 Bg6 14.
+Bxg6 fxg6 15. Be3 Be7 16. Rb5 Rxf3 17. Qxf3 Nxe5 18. Qg3 Nc4 19. Bf4 c6 20.
+Rbb1 Bh4 21. Qd3 Qf6 22. Qd4 Kg8 23. Rbd1 Qf7 24. Bg3 Bf6 25. Qf4 Bxc3 26.
+Re2 Qxf4 27. Bxf4 Rf8 28. Bg3 Kf7 29. h4 Re8 30. Kf1 Nb2 31. Rc1 Re6 32.
+Rxe6 Kxe6 33. Ke2 a5 34. f4 Na4 35. Rh1 h5 36. f5+ gxf5 37. gxh5 Bf6 38.
+Be1 Nc5 39. Rg1 a4 40. Bf2 Nd7 41. Be3 b5 42. h6 gxh6 43. h5 Ne5 44. Bxh6
+Ng4 45. Bf8 Bd4 46. Rf1 Kf6 47. h6 Kg6 48. Rh1 Kh7 49. Rh5 Kg6 50. Rh1 Kf7
+51. Bb4 Nf2 52. Rh2 Ne4 53. h7 Bh8 54. Rg2 c5 55. Bxc5 Nxc5 56. Rg8 Be5 57.
+h8=Q Bxh8 58. Rxh8 Ke6 59. Rb8 Ne4 60. Kd3 Nd6 61. Kd4 f4 62. Rb6 f3 63.
+Ke3 d4+ 64. Kxf3 Kd5 65. Ke2 Kc5 66. Rb8 Kc4 67. Rd8 Ne4 68. Rc8+ Kb4 69.
+Kd3 Nc3 70. Kxd4 Nxa2 71. c4 Nc3 72. cxb5 Nxb5+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Adams,Mi"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2746"]
+[EventDate "2008.04.21"]
+[ECO "B92"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Qc7 12. Rfd1 Rac8 13. a5 Rfe8 14. h3
+h6 15. Qe1 Qb8 16. Bf3 Rc4 17. Nd2 Rc6 18. Nf1 Rec8 19. Bd2 b6 20. Ne3 bxa5
+21. Ncd5 Bxd5 22. exd5 Rc5 23. Bxa5 e4 24. Be2 Qxb2 25. Bxa6 Rb8 26. c3
+Rxa5 27. Rxa5 Qb6 28. Rda1 Nc5 29. Bf1 Qd8 30. Rb5 Rc8 31. Ra7 Nfd7 32. Nf5
+Bf8 33. Qe3 Qf6 34. Ng3 Qe5 35. Nxe4 Nxe4 36. Rxd7 Rxc3 37. Qe2 Qd4 38. Rd8
+Rc1 39. Kh2 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.04.30"]
+[Round "9"]
+[White "Radjabov,T"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2726"]
+[EventDate "2008.04.21"]
+[ECO "B41"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. a3 b6 8.
+Be3 Bb7 9. f3 d6 10. Rc1 Nbd7 11. Be2 Be7 12. O-O O-O 13. b4 Rac8 14. Nb3
+Qb8 15. Kh1 Rfe8 16. Na4 Bd8 17. Bg1 h5 18. Bf2 Bc7 19. Nd4 Ne5 20. c5 dxc5
+21. bxc5 b5 22. c6 Nxc6 23. Nxc6 Bxc6 24. Rxc6 bxa4 25. Bg1 Be5 26. Qxa4
+Rxc6 27. Qxc6 Rc8 28. Qxa6 Rc2 29. Bd3 Rd2 30. Rc1 Qb2 31. Qc8+ Kh7 32. Rc2
+Rxc2 33. Qxc2 Qxa3 34. f4 Bxf4 35. e5+ g6 36. exf6 Qd6 37. Qc5 Qxc5 38.
+Bxc5 Be5 39. Be7 h4 40. Bc4 g5 41. Bxe6 Kg6 42. Bc8 Bxf6 43. Bxf6 Kxf6 44.
+g4 hxg3 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Inarkiev,E"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2729"]
+[EventDate "2008.04.21"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 a6 11. Ng5 Bxg5 12. Bxg5 f6 13. Be3
+O-O-O 14. b3 Rhe8 15. h3 Qf7 16. Be2 Kb8 17. Rhe1 Bc8 18. c4 b6 19. Qd5 Ne5
+20. Qxf7 Nxf7 21. Bh5 Rd7 22. Bd2 Re5 23. Be2 Rde7 24. Bd3 Rxe1 25. Bxe1 h6
+26. Kb2 c5 27. f3 Kc7 28. Bg3 Ne5 29. Bf1 Bf5 30. Kc3 Bg6 31. a3 a5 32. Be2
+Re6 33. Bf1 Nc6 34. Bf2 Re8 35. Kd2 Kd7 36. Rc1 Ra8 37. Be2 Re8 38. Re1 Kc7
+39. g4 Re7 40. f4 Be4 41. h4 f5 42. h5 fxg4 43. Bxg4 Bh7 44. Rg1 Nd4 45.
+Bxd4 cxd4 46. f5 d5 47. cxd5 Kd6 48. Kd3 Kxd5 49. Bf3+ Ke5 50. Re1+ Kf6 51.
+Rxe7 Kxe7 52. Be4 Kf6 53. Kxd4 Bxf5 54. Bxf5 Kxf5 55. c4 g5 56. hxg6 Kxg6
+57. b4 axb4 58. axb4 Kf7 59. Ke5 Ke7 60. Kf5 Kd6 61. Kg6 Ke5 62. Kxh6 Kd4
+63. c5 bxc5 64. bxc5 Kxc5 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Mamedyarov,S"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2716"]
+[EventDate "2008.04.21"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. cxd5 exd5 8.
+Be2 Nc6 9. O-O Be6 10. Rd1 Nb4 11. Qb1 Qc8 12. e4 dxe4 13. Nxe4 Bf5 14.
+Nfg5 Nxe4 15. Nxe4 cxd4 16. Rxd4 Be7 17. Bg5 f6 18. Bd2 Nc6 19. Rd5 Bg6 20.
+Bd3 O-O 21. Nc5 Bxc5 22. Rxc5 Bxd3 23. Qxd3 Qe8 24. Rd5 Qf7 25. Bc3 Rad8
+26. Rxd8 Rxd8 27. Qe3 Rd7 28. h3 h6 29. a3 Kh7 30. Re1 Re7 31. Qd3+ Qg6 32.
+Rd1 Qxd3 33. Rxd3 Kg6 34. g4 h5 35. Kg2 hxg4 36. hxg4 Ne5 37. Bxe5 Rxe5 38.
+Rd7 Rb5 39. b4 a5 40. bxa5 Rxa5 41. Rxb7 Rxa3 42. Rc7 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Gashimov,V"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2732"]
+[EventDate "2008.04.21"]
+[ECO "B53"]
+
+1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Bg5 h6
+8. Be3 Nf6 9. Nf3 e5 10. Qd3 Be7 11. Nh4 d5 12. exd5 Nxd5 13. Nf5 Bb4 14.
+O-O-O Bxc3 15. bxc3 O-O 16. c4 Nxe3 17. Qxd8 Raxd8 18. Nxe3 f6 19. Rd3 Kf7
+20. Rhd1 Rxd3 21. cxd3 Rd8 22. f3 b5 23. a3 Ke6 24. Rd2 f5 25. Kc2 f4 26.
+Ng4 bxc4 27. dxc4 Rxd2+ 28. Kxd2 e4 29. fxe4 Bxe4 30. g3 Kf5 31. Nf2 fxg3
+32. hxg3 Bb7 33. Ke3 h5 34. Kd4 g5 35. Ke3 a5 36. c5 Bc6 37. Nd3 h4 38.
+gxh4 gxh4 39. Nf4 Kg4 40. Nd3 Kf5 41. Nf4 Ba8 42. Nh3 Ke5 43. Nf4 Be4 44.
+c6 Bf5 45. Kf3 Kd6 46. Ng2 h3 47. Nf4 Bg4+ 48. Kf2 Kxc6 49. Nxh3 Bxh3 50.
+Ke3 Kb5 51. Kd2 Ka4 52. Kc1 Kxa3 53. Kb1 a4 54. Ka1 Kb3 55. Kb1 a3 56. Ka1
+Bf5 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Svidler,P"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2705"]
+[EventDate "2008.04.21"]
+[ECO "C69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. c3 Bd6 8.
+Be3 Ne7 9. Nbd2 O-O 10. Qb3+ Kh8 11. h3 Bh5 12. Rfe1 Qd7 13. Qd1 exd4 14.
+Bxd4 Ng6 15. Be3 Rad8 16. Ne5 Nxe5 17. Qxh5 Nd3 18. Reb1 Bf4 19. Qf3 Bxe3
+20. Qxe3 Rfe8 21. Nb3 f5 22. f3 Qe7 23. Rd1 fxe4 24. fxe4 Nxb2 25. Rxd8
+Rxd8 26. Na5 Nd1 27. Qf3 Qc5+ 28. Kh2 Nxc3 29. Nxb7 Qe5+ 30. Qg3 Qxg3+ 31.
+Kxg3 Nxe4+ 32. Kf3 Ng5+ 33. Kg4 Rd5 34. Rc1 Nf7 35. Kf4 g5+ 36. Ke3 Re5+
+37. Kd4 Rd5+ 38. Ke3 Re5+ 39. Kd4 Rb5 40. Nc5 a5 41. g4 Rb2 42. a4 Ra2 43.
+Re1 Rd2+ 44. Kc3 Rf2 45. Re7 Kg7 46. Rxc7 Rf3+ 47. Kd4 Rxh3 48. Rxc6 Rh4
+49. Ne6+ Kf6 50. Nc5+ Kg7 51. Ne6+ Kf6 52. Nc5+ Kg7 53. Ke4 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Carlsen,M"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2672"]
+[EventDate "2008.04.21"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. N3h2
+Nc5 15. Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6 18. Bg5 Qc7 19. Bxf6 Nxf6 20. Ng4
+Nxg4 21. hxg4 Bb7 22. Re3 Be7 23. Bb3 Bg5 24. Rf3 Rf8 25. Qe2 Bc8 26. Rd1
+Be6 27. Ne3 Bxe3 28. Rxe3 a5 29. Bxe6 fxe6 30. a3 axb4 31. cxb4 Qd7 32. g5
+Rac8 33. Red3 Rc6 34. R3d2 Ra6 35. a4 Rxa4 36. Rxd6 Qf7 37. Rd8 Rxb4 38.
+R1d7 Qf4 39. Qa2 Rb1+ 40. Qxb1 Qxf2+ 41. Kh2 Qh4+ 42. Kg1 Qf2+ 43. Kh2 Qh4+
+44. Kg1 Qf2+ 45. Kh2 Qh4+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Kamsky,G"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2689"]
+[EventDate "2008.04.21"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Qc7 5. O-O Nd4 6. Re1 a6 7. Bf1 e5 8.
+Bc4 d6 9. h3 Be7 10. d3 h6 11. a4 O-O 12. Nh2 Be6 13. Ng4 Nxg4 14. hxg4 Qd7
+15. Nd5 Rae8 16. c3 Nc6 17. f3 Bh4 18. Re2 Ne7 19. Nxe7+ Rxe7 20. Be3 b5
+21. axb5 axb5 22. Bxe6 Qxe6 23. Ra6 Rc7 24. Bf2 Bxf2+ 25. Rxf2 Rb8 26. Qa1
+Rd7 27. Rd2 Qe7 28. Qa2 Qg5 29. Rd1 Qe3+ 30. Kf1 b4 31. c4 g6 32. Qb1 Qg5
+33. Qc1 Qh4 34. Ke2 Qh2 35. Kf2 Qh4+ 36. Ke2 Qh2 37. Rg1 Kg7 38. Kf2 Qh4+
+39. g3 Qe7 40. Rh1 Rh8 41. Qa1 Qg5 42. Qc1 Qe7 43. Qa1 Qg5 44. Qc1 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.02"]
+[Round "10"]
+[White "Radjabov,T"]
+[Black "Cheparinov,I"]
+[Result "0-1"]
+[WhiteElo "2751"]
+[BlackElo "2696"]
+[EventDate "2008.04.21"]
+[ECO "B10"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8.
+b4 a5 9. bxa5 Qxa5 10. Bb2 d4 11. Nb3 Qc7 12. c3 dxc3 13. Bxc3 c5 14. Nfd2
+b5 15. Qc2 Na6 16. Rfc1 Be6 17. Nf1 Nc6 18. Ne3 c4 19. dxc4 bxc4 20. Nd5
+cxb3 21. Nxc7 bxc2 22. Nxa8 Nd4 23. Nb6 Rb8 24. Ba5 Bh6 25. Bf1 Bxc1 26.
+Rxc1 Nc6 27. Rxc2 Nxa5 28. Nd5 Nb4 29. Rc5 Nbc6 30. a4 Kg7 31. Kg2 Rb7 32.
+h4 Ra7 33. Nc3 Bd7 34. Bb5 Nb3 35. Rd5 Nbd4 36. f4 exf4 37. gxf4 Nxb5 38.
+axb5 Ne7 39. Rc5 Rb7 40. h5 Nc8 41. hxg6 hxg6 42. Kg3 Na7 43. f5 Nxb5 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Bacrot,E"]
+[Black "Inarkiev,E"]
+[Result "0-1"]
+[WhiteElo "2705"]
+[BlackElo "2684"]
+[EventDate "2008.04.21"]
+[ECO "C69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Be7 6. Nxe5 Qd4 7. Nf3
+Qxe4 8. d3 Qg4 9. Nc3 Be6 10. Re1 h6 11. h3 Qh5 12. Re5 g5 13. Ne2 Qg6 14.
+Ned4 Bd7 15. Qe2 f6 16. Ne6 Kf7 17. d4 Bd6 18. Nc5 fxe5 19. Nxd7 Qf5 20.
+Ndxe5+ Kg7 21. Nc4 Rf8 22. Nxd6 cxd6 23. Qe7+ 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Karjakin,Sergey"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2751"]
+[EventDate "2008.04.21"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14.
+Ncb4 Nxb4 15. Nxb4 Bd7 16. Bxa6 Qa5 17. Qxd6 Rb6 18. Qd3 Be7 19. Nd5 Rxb2
+20. O-O Qc5 21. Rad1 a3 22. c4 Bg4 23. Bb5+ Rxb5 24. cxb5 Bxd1 25. Rxd1 O-O
+26. b6 Bd6 27. h4 h6 28. Nf6+ gxf6 29. Qxd6 Qxd6 30. Rxd6 a2 31. Rd1 Rb8
+32. Ra1 Rxb6 33. Rxa2 Rb4 34. f3 Rc4 35. Kf2 Kg7 36. Kg3 Rb4 37. Ra6 Rb2
+38. Rc6 Ra2 39. Rd6 Rb2 40. Rc6 Ra2 41. Rd6 Rb2 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Wang Yue"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2689"]
+[BlackElo "2746"]
+[EventDate "2008.04.21"]
+[ECO "D80"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. Qa4+
+Qd7 8. Qxc4 b6 9. Bg3 Nc6 10. Nf3 Bg7 11. e3 O-O 12. Be2 Bb7 13. O-O Na5
+14. Qb4 Rac8 15. Ne5 Qd6 16. Rfd1 Rfd8 17. Qa4 c5 18. e4 Bxe5 19. Bxe5 Qc6
+20. Qxc6 Nxc6 21. Bg4 Ra8 22. Bc7 cxd4 23. Bxd8 Rxd8 24. Be2 e5 25. Rac1
+Kf8 26. f3 a6 27. Kf2 Ke7 28. Bc4 Rd7 29. Bd5 dxc3 30. Bxc6 Rxd1 31. Rxd1
+Bxc6 32. Rc1 Bd7 33. Rxc3 Kd6 34. Rd3+ Kc6 35. g4 Be6 36. a3 g5 37. Ke3 Kc7
+38. Rd1 b5 39. h4 h6 40. Rh1 Kd6 41. hxg5 hxg5 42. Rh5 f6 43. Rh6 Ke7 44.
+Rh7+ Bf7 45. Rh8 a5 46. Ra8 a4 47. Ra7+ Ke8 48. Rc7 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Adams,Mi"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2752"]
+[EventDate "2008.04.21"]
+[ECO "C10"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be3
+Nd5 8. Bd2 c5 9. Bb5+ Bd7 10. Qe2 cxd4 11. Ne5 Nf6 12. O-O-O a6 13. Bxd7+
+Nxd7 14. Rhe1 Nxe5 15. Qxe5 Qd6 16. Bf4 Rd8 17. Qxd6 Bxd6 18. Rxd4 Bxf4+
+19. Rxf4 Ke7 20. Rb4 b5 21. a4 Rd5 22. Rd1 Rhd8 23. Rxd5 Rxd5 24. axb5 axb5
+25. c4 bxc4 26. Rxc4 g5 27. f3 h5 28. b4 f5 29. Kc2 g4 30. f4 h4 31. Rc7+
+Kd6 32. Rc8 e5 33. fxe5+ Kxe5 34. Rh8 f4 35. Rh5+ Ke4 36. Rxh4 Rg5 37. Kd2
+g3 38. Ke2 gxh2 39. Rxh2 Rxg2+ 40. Rxg2 f3+ 41. Kf2 fxg2 42. b5 Kd5 43. b6
+Kc6 44. Kxg2 Kxb6 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Grischuk,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2765"]
+[EventDate "2008.04.21"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. Bg5 g6 10. e3 Bg7 11. Bd3 Be6 12. Be2 Nbd5 13. Bh4 O-O 14. O-O
+c5 15. Nb5 Ne4 16. Bf3 cxd4 17. Bxe4 Bxe5 18. Nxd4 Bxd4 19. Qxd4 Nf6 20.
+Bxb7 Qxd4 21. exd4 Rab8 22. Bc6 Rfd8 23. Bb5 Bd7 24. Rfe1 Kf8 25. Bg3 Rb7
+26. Re5 Bxb5 27. Rxb5 Rxb5 28. axb5 Rxd4 29. h3 a4 30. Be5 Rb4 31. Bc3 Rxb5
+32. Rxa4 Ne8 33. Kf1 f6 34. Rb4 Rd5 35. Ke2 Nd6 36. Rd4 Rb5 37. Rb4 Rd5 38.
+Rd4 Rb5 39. Rb4 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Cheparinov,I"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2726"]
+[EventDate "2008.04.21"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.
+cxd5 Nxd5 9. O-O Be7 10. Rd1 Qc8 11. Qf5 Nf6 12. Nc3 Nc6 13. Bg5 d5 14. Qf4
+d4 15. Bxf6 Bxf6 16. Nd5 Bd8 17. e3 O-O 18. exd4 Ne7 19. Nxe7+ Bxe7 20.
+dxc5 bxc5 21. Rac1 a5 22. b3 Ra6 23. Re1 Bf6 24. Ne5 Bxg2 25. Kxg2 a4 26.
+bxa4 Qa8+ 27. Qf3 Rxa4 28. Nd7 Qxf3+ 29. Kxf3 Rfa8 30. Nxf6+ gxf6 31. Rxc5
+Rxa2 32. Rf5 Kg7 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.03"]
+[Round "11"]
+[White "Navara,D"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2679"]
+[EventDate "2008.04.21"]
+[ECO "B36"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4
+8. Qxd4 Bg7 9. Bg5 O-O 10. Rc1 h6 11. Bd2 Nd7 12. Qe3 Nc5 13. O-O a5 14. b3
+Bd7 15. f4 f5 16. Bf3 Rc8 17. exf5 gxf5 18. Ne2 Bc6 19. Bc3 Bxc3 20. Rxc3
+Kh7 21. Nd4 Bxf3 22. Qxf3 Qd7 23. Re3 Rf6 24. Kh1 e6 25. Rfe1 e5 26. Qd5 e4
+27. Ne2 Rg8 28. Nc3 Rfg6 29. R1e2 b6 30. h3 h5 31. Qd1 Kh6 32. Rd2 Nd3 33.
+Nd5 Qg7 34. Qf1 Rg3 35. Rxg3 Qxg3 36. Qa1 Rf8 37. Kg1 h4 38. Re2 Qg7 39.
+Qxg7+ Kxg7 40. g4 fxg4 41. Rxe4 g3 42. f5 Rxf5 43. Rxh4 Nc1 44. Re4 Nxa2
+45. Kg2 Rf2+ 46. Kxg3 Rb2 47. Re3 Nc1 48. Nxb6 Rxb3 49. Rxb3 Nxb3 50. Kf4
+Kh6 51. Ke3 Kh5 52. Kd3 a4 53. Nxa4 Na5 54. c5 dxc5 55. Nxc5 Kh4 56. Kc3
+Kxh3 57. Nb3 Nxb3 58. Kxb3 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Carlsen,M"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2729"]
+[EventDate "2008.04.21"]
+[ECO "E37"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5
+8. dxc5 Nc6 9. cxd5 exd5 10. e3 Qa5+ 11. b4 Nxb4 12. axb4 Qxa1 13. Bb5+ Kf8
+14. Ne2 a6 15. Bd3 Bd7 16. f3 Ba4 17. Qb2 Qxb2 18. Bxb2 Ng5 19. Nd4 Bd7 20.
+Kf2 f6 21. Ra1 Ke7 22. Bc2 Rhd8 23. h4 Nf7 24. Bxh7 Rh8 25. Bc2 Rxh4 26.
+Bb3 Rh5 27. Ne2 Bc6 28. Nf4 Rg5 29. b5 Bxb5 30. Nxd5+ Kf8 31. Nc7 Rd8 32.
+Ne6+ Ke8 33. Bd4 Bd7 34. Nxd8 Nxd8 35. Rh1 Ke7 36. e4 Ne6 37. Be3 Re5 38.
+Rh7 Kf8 39. Bc2 Bc6 40. f4 Bxe4 41. Rh8+ Ke7 42. Rb8 Nd8 43. fxe5 Bxc2 44.
+exf6+ gxf6 45. Bd4 f5 46. Be3 Kd7 47. Bg5 Ne6 48. Rxb7+ Kc8 49. Rb2 Be4 50.
+Be7 Nf4 51. Ra2 Kd7 52. Bd6 Nxg2 53. Rxa6 f4 54. Ra4 Bc6 55. Ra7+ Ke6 56.
+Ra6 Kd5 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Radjabov,T"]
+[Black "Navara,D"]
+[Result "0-1"]
+[WhiteElo "2751"]
+[BlackElo "2672"]
+[EventDate "2008.04.21"]
+[ECO "B85"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 d6 7. O-O Nf6 8.
+Be3 Be7 9. f4 O-O 10. a4 Bd7 11. Nb3 Na5 12. Nd2 Be8 13. Bd3 d5 14. e5 d4
+15. exf6 Bxf6 16. Nde4 Be7 17. f5 exf5 18. Rxf5 dxe3 19. Nd5 Nc6 20. Nef6+
+Bxf6 21. Nxf6+ Kh8 22. Qh5 h6 23. Raf1 Nb4 24. Rg5 e2 25. Bxe2 Qd2 26. Rg3
+Nxc2 27. Bd3 Ne3 28. Qg5 Qxg2+ 29. Rxg2 hxg5 30. Rxg5 g6 31. Rf3 Kg7 32. h4
+Rd8 33. Nh5+ Kh6 34. Nf4 Nf5 35. Bxf5 gxf5 36. Rxf5 Rg8+ 37. Kf2 Rg4 38.
+Rh5+ Kg7 39. Rg5+ Rxg5 40. hxg5 Rd2+ 41. Kg3 Rxb2 42. a5 Rb5 43. Kh4 Rxa5
+44. Nh5+ Kg8 45. Nf6+ Kf8 46. Kh5 Ra1 47. Rh3 Bc6 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Gashimov,V"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2679"]
+[BlackElo "2716"]
+[EventDate "2008.04.21"]
+[ECO "C72"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bg4 6. h3 h5 7. d4 b5 8. Bb3
+Nxd4 9. hxg4 Nxb3 10. axb3 hxg4 11. Ng5 Qd7 12. Qd3 Rb8 13. Rxa6 f6 14. Nc3
+fxg5 15. Bxg5 Be7 16. f4 gxf3 17. Qxf3 Nf6 18. Nd5 Nxd5 19. Qf7+ Kd8 20.
+Qxg7 Kc8 21. Qxh8+ Kb7 22. Qh7 Qg4 23. exd5 Qd4+ 24. Kh1 Bxg5 25. Rfa1 Be3
+26. Ra7+ Qxa7 27. Rxa7+ Bxa7 28. g4 Rf8 29. g5 Rf2 30. Qe4 Rf1+ 31. Kh2 Rf4
+32. Qxf4 exf4 33. c3 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Cheparinov,I"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2732"]
+[EventDate "2008.04.21"]
+[ECO "E20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Qb3 Nc6 10. Nxc6 bxc6 11. O-O Qa5 12. Bd2 Bxc3 13. bxc3 Ba6
+14. Rfd1 Qc5 15. e4 Bc4 16. Qa4 Nb6 17. Qb4 Qh5 18. Bf4 c5 19. Qa5 Rfc8 20.
+h3 f6 21. Be3 e5 22. Kh2 Be6 23. Bxc5 Nc4 24. Qa6 Qe8 25. Ba3 Rcb8 26. Bc5
+Rb5 27. Be3 Ra5 28. Qb7 Rb8 29. Qc7 Rc8 30. Qb7 Rb8 31. Qc7 Rc8 32. Qb7
+Nxe3 33. fxe3 Rxc3 34. Rac1 Rac5 35. Rxc3 Rxc3 36. Qxa7 Rc2 37. Qb6 Kf7 38.
+Qb4 Rxa2 39. Rd2 Ra1 40. Rc2 Qd7 41. Qd2 Qxd2 42. Rxd2 Ra3 43. Re2 Bc4 44.
+Re1 Bd3 45. Rd1 Bb5 46. Re1 Bc6 47. Kg1 Ra4 48. Rc1 Bxe4 49. Bxe4 Rxe4 50.
+Rc7+ Kg6 51. Kf2 Ra4 52. Kf3 h5 53. h4 Ra2 54. e4 Ra3+ 55. Kf2 Ra6 56. Kf3
+Kh6 57. Re7 Ra5 58. Rf7 Ra8 59. Kf2 Kh7 60. Kf3 Kg8 61. Re7 Kf8 62. Rb7 Re8
+63. Ra7 Re7 64. Ra8+ Kf7 65. Rb8 g6 66. Rb6 Ra7 67. Rb5 Kg7 68. Rc5 Kh6 69.
+Rc6 Kg7 70. Rc5 Ra6 71. Rc7+ Kh6 72. Re7 g5 73. hxg5+ Kxg5 74. Rg7+ Kh6 75.
+Rg8 Kh7 76. Rb8 Ra3+ 77. Kf2 h4 78. gxh4 Rh3 79. Ke2 Rxh4 80. Kf3 Kg6 81.
+Rg8+ Kf7 82. Ra8 Rh3+ 83. Kf2 Rc3 84. Ke2 Kg6 85. Rg8+ Kh5 86. Kf2 Rc4 87.
+Kf3 f5 88. exf5 Rf4+ 89. Ke3 Rxf5 90. Ke4 Rg5 91. Rxg5+ Kxg5 92. Kxe5
+1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Mamedyarov,S"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2705"]
+[EventDate "2008.04.21"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Qd2 b6 8.
+e4 bxc5 9. exd5 cxd4 10. Qxd4 c5 11. Qd2 Nxf4 12. Qxf4 g6 13. Ne5 Nxe5 14.
+Qxe5 Rg8 15. Bc4 Bg7 16. Qe2 Bd4 17. O-O Kf8 18. Rfe1 Rb8 19. Rad1 Rb6 20.
+Rd3 Bf5 21. Rd2 Qd6 22. Qf3 Kg7 23. Rde2 Qf6 24. Nd1 Re8 25. b3 Bd7 26. Qg3
+Rd6 27. Re4 h6 28. h4 Kf8 29. Rf4 Qg7 30. Rfe4 Qf6 31. Ne3 h5 32. Nc2 Bf5
+33. Rf4 Bc3 34. Re2 Qg7 35. Ne3 Bd7 36. Re4 f5 37. Rxe7 Qxe7 38. Ng4 f4 39.
+Qxc3 Qg7 40. Ne5 Bg4 41. Re1 Kg8 42. a4 Qf6 43. a5 Kg7 44. g3 fxg3 45. Qxg3
+Bc8 46. Kh2 Rf8 47. Nd3 Bg4 48. Kg1 Rc8 49. Re5 Bf3 50. Kh2 Rcd8 51. Rg5
+Rf8 52. Nxc5 Qa1 53. Qe5+ Qxe5+ 54. Rxe5 Rf5 55. Rxf5 gxf5 56. b4 Rg6 57.
+Ne6+ Kf6 58. Ng5 Bd1 59. Bxa6 Ke5 60. Bb7 Be2 61. Nf7+ Kf6 62. Ng5 Ke5 63.
+Bc6 Bc4 64. f4+ Kxf4 65. b5 Ke5 66. b6 Bxd5 67. Bxd5 Kxd5 68. b7 Rg8 69. a6
+Kc6 70. Ne6 Kb6 71. Nc5 Rd8 72. Nd7+ Kc7 73. b8=Q+ 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Kamsky,G"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2726"]
+[BlackElo "2746"]
+[EventDate "2008.04.21"]
+[ECO "B96"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qc7 8.
+Bxf6 gxf6 9. Qh5 Qc5 10. Qxc5 dxc5 11. Nb3 Bd6 12. g3 Ke7 13. Bg2 Ra7 14.
+O-O-O Rd8 15. a4 b6 16. Nd2 Rad7 17. Nc4 Bc7 18. Rxd7+ Bxd7 19. Re1 Be8 20.
+Na3 Kf8 21. Bf1 Bc6 22. b3 Bb7 23. Rd1 Rd4 24. Bd3 Nc6 25. Ne2 Rd8 26. c3
+Ke7 27. Bc2 Rb8 28. Bd3 Na7 29. c4 Nc6 30. Nc2 h5 31. h4 Rg8 32. Kd2 Nd4
+33. Ncxd4 cxd4 34. b4 e5 35. c5 bxc5 36. Rc1 f5 37. exf5 e4 38. Bc4 d3 39.
+Nc3 Rxg3 40. Nxe4 Bxf4+ 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.04"]
+[Round "12"]
+[White "Inarkiev,E"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2689"]
+[EventDate "2008.04.21"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Bf5 6. Bf4 Nbd7 7. e3 e6 8.
+Nd2 Be7 9. Be2 b6 10. cxb6 Qxb6 11. Na4 Qa5 12. a3 O-O 13. O-O c5 14. Nxc5
+Bxc5 15. Nb3 Qb6 16. dxc5 Nxc5 17. Nxc5 Qxc5 18. Rc1 Qb6 19. b4 Ne4 20. Qa4
+Nd2 21. Rc6 Qb7 22. Rc7 Qb6 23. Rc6 Qb7 24. Rc7 Qb6 25. Rfc1 Nc4 26. Bxc4
+dxc4 27. R7xc4 Qb7 28. Qc6 Qxc6 29. Rxc6 f6 30. Bd6 Rfd8 31. Bc7 Rd3 32. a4
+e5 33. R6c5 Bd7 34. Ra5 Rc8 35. h3 Rb3 36. Rc4 Ra3 37. Rxa6 Rxa4 38. Ra5
+Kf7 39. f4 exf4 40. exf4 Be6 41. Rxa4 Bxc4 42. Ra7 h5 43. g4 hxg4 44. hxg4
+Re8 45. Bd6+ Ke6 46. Bc5 g5 47. fxg5 fxg5 48. Kf2 Kf6 49. Rc7 Re4 50. Kf3
+Rf4+ 51. Ke3 Ke6 52. Re7+ Kd5 53. Rg7 Rxg4 54. Kf3 Rf4+ 55. Kg3 Rf5 56. Kg4
+Re5 57. Rxg5 Rxg5+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.05"]
+[Round "13"]
+[White "Wang Yue"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2752"]
+[EventDate "2008.04.21"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. cxb5 c6
+8. Bg5 cxb5 9. e3 a6 10. Nf3 Bb7 11. Bd3 h6 12. Bh4 d6 13. O-O Nbd7 14.
+Rfc1 Qb6 15. Bg3 Nh5 16. Qc7 Nxg3 17. Qxd7 Nh5 18. Qc7 Qxc7 19. Rxc7 Rab8
+20. Rac1 Nf6 21. Nd2 Rfc8 22. Nb3 Kf8 23. Na5 Ne8 24. R7c3 Ke7 25. f3 Kd7
+26. Kf2 Rc7 27. e4 Ba8 28. Ke3 Rbc8 29. Rxc7+ Nxc7 30. Rg1 h5 31. h4 Rg8
+32. g3 Rc8 33. Ra1 Rg8 34. b3 Rc8 35. Rb1 Rb8 36. Rc1 Rg8 37. Rc2 Rb8 38.
+Rh2 Rh8 39. Rh1 Ke7 40. a4 Rb8 41. axb5 Nxb5 42. Ra1 Nc7 43. Ra2 Kd7 44. g4
+Rh8 45. g5 g6 46. f4 Rb8 47. Rc2 d5 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.05"]
+[Round "13"]
+[White "Bacrot,E"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2705"]
+[BlackElo "2765"]
+[EventDate "2008.04.21"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. Nd2 h6 7. Bh4 Nc6 8.
+a3 Bxc3 9. bxc3 Qe7 10. e3 g5 11. Bg3 d6 12. h4 O-O-O 13. Be2 Nd7 14. Nb3
+f5 15. Qc2 Rhf8 16. f3 e5 17. hxg5 hxg5 18. O-O-O Rde8 19. Bd3 Qf7 20. Rh6
+Ba6 21. Nd2 exd4 22. exd4 Na5 23. Rdh1 Re7 24. Qa4 Re3 25. Rh7 Qe8 26. Qc2
+Nf6 27. R7h6 Kb7 28. Bf2 Rxd3 29. Qxd3 Nd5 30. Re1 Qa4 31. Qc2 Qxa3+ 32.
+Qb2 Qxb2+ 33. Kxb2 Nxc4+ 34. Nxc4 Bxc4 35. Be3 g4 36. fxg4 fxg4 37. Rg6 a5
+38. Rxg4 a4 39. Rg3 a3+ 40. Kxa3 Ra8+ 41. Kb2 Ra2+ 42. Kc1 Nxc3 43. Bd2
+Ne2+ 44. Rxe2 Bxe2 45. Rg7 Ra4 46. Bc3 b5 47. g4 Bf3 48. g5 b4 49. Bb2 Ra5
+50. Kc2 Bd5 51. Re7 Bc4 52. Bc1 Rf5 53. Bd2 Rf2 54. g6 Rg2 55. g7 Kc6 56.
+Re8 Bf7 57. Rb8 b3+ 58. Kc3 Rxg7 59. Kb2 Bc4 60. Kc3 Kd5 61. Rb7 Rg3+ 62.
+Kb2 Kxd4 0-1
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.05"]
+[Round "13"]
+[White "Karjakin,Sergey"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2726"]
+[EventDate "2008.04.21"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. b3 Bg7 16. d5 Rc8 17. Be3 c6 18. c4 Nb6 19. Rb1 Qc7 20. Bd3 cxd5 21.
+cxd5 Nbxd5 22. exd5 e4 23. Rc1 Qd7 24. Rxc8 Qxc8 25. Nxe4 Nxe4 26. Bxe4
+Rxe4 27. Qd3 Re7 28. Bf4 Rxe1+ 29. Nxe1 Qa8 30. Nc2 Bxd5 31. Ne3 Be6 32.
+Qxd6 h5 33. Bg3 Kh7 34. Be5 Qf8 35. Qd4 Bxe5 36. Qxe5 Qd8 37. f4 Qd2 38.
+Kh2 Qf2 39. Qd4 Qxa2 40. Nd5 Bxd5 41. Qxd5 Kg8 42. Qd8+ Kg7 43. Qd4+ Kg8
+44. Qd8+ Kg7 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.05"]
+[Round "13"]
+[White "Svidler,P"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2684"]
+[EventDate "2008.04.21"]
+[ECO "E63"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8.
+Re1 Rb8 9. Rb1 Re8 10. d5 Na5 11. Qd3 c5 12. e4 Nd7 13. b3 e5 14. a3 Qc7
+15. Be3 b5 16. cxb5 Nxb3 17. a4 Nd4 18. Nd2 axb5 19. Nxb5 Nxb5 20. axb5 Nb6
+21. Bf1 Bd7 22. Ra1 Rb7 23. Reb1 Reb8 24. Ra6 Qd8 25. Qa3 Nc8 26. Ra8 Bf8
+27. Rxb8 Rxb8 28. Qa6 Nb6 29. Nc4 Nxc4 30. Bxc4 Ra8 31. Qb7 f6 32. b6 Rb8
+33. Qa7 Ra8 34. Qb7 Rb8 35. Qa7 Ra8 36. Bxc5 dxc5 37. d6+ Kh8 38. Qc7 Rb8
+39. b7 Be7 40. Qxc5 Bf8 41. Qc7 Bb5 42. Qxd8 Rxd8 43. Rxb5 Bxd6 44. Rd5 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.05"]
+[Round "13"]
+[White "Navara,D"]
+[Black "Cheparinov,I"]
+[Result "1-0"]
+[WhiteElo "2672"]
+[BlackElo "2696"]
+[EventDate "2008.04.21"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8.
+Qb3 Qc7 9. Bd2 Be7 10. Be2 Bh5 11. O-O-O dxc4 12. Qxc4 a6 13. g4 b5 14. Qd3
+Bg6 15. Nxg6 hxg6 16. f4 c5 17. dxc5 Qxc5 18. Kb1 Nc6 19. Ne4 Qb6 20. Nxf6+
+gxf6 21. h4 Rd8 22. Qc3 Bb4 23. Qxf6 Bxd2 24. h5 Qxe3 25. hxg6 Qe4+ 26. Ka1
+Rf8 27. gxf7+ Kd7 28. Rxd2+ Kc7 29. Rxd8 Qxh1+ 30. Rd1 Qe4 31. Bd3 Qf3 32.
+Rc1 Qxd3 33. Qe7+ 1-0
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.05"]
+[Round "13"]
+[White "Adams,Mi"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2679"]
+[EventDate "2008.04.21"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 a6 11. Nd4 Nxd4 12. cxd4 d5 13. Bd3 Bf5
+14. Rhe1 Bxd3 15. Qxd3 O-O 16. Bf4 Rfe8 17. Re3 Bd6 18. Bxd6 Rxe3 19. Qxe3
+Qxd6 20. Re1 Kf8 21. a3 a5 22. Qh3 Kg8 23. Re5 Rd8 24. f4 f6 25. Re3 b6 26.
+Qh5 Qd7 27. h4 g6 28. Qe2 Kf7 29. f5 Re8 30. fxg6+ hxg6 31. g3 Rxe3 32.
+Qxe3 Qf5 33. b3 c6 34. Qc3 Qe6 35. Kc1 f5 36. a4 Qe4 37. Qxc6 Qxd4 38. Qd7+
+Kf6 39. Qd6+ Kf7 40. Qd7+ Kf6 41. Qd8+ Kf7 42. Qd7+ 1/2-1/2
+
+[Event "FIDE GP"]
+[Site "Baku AZE"]
+[Date "2008.05.05"]
+[Round "13"]
+[White "Grischuk,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2751"]
+[EventDate "2008.04.21"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 c6 7. b3 e5 8.
+dxe5 dxe5 9. Ba3 Qxd1 10. Rxd1 Re8 11. Nc3 Na6 12. Bd6 Ng4 13. e4 f6 14. b4
+Bf8 15. b5 Nc5 16. Bxf8 Kxf8 17. Nd2 Rd8 18. Nb3 Rxd1+ 19. Rxd1 Nxb3 20.
+axb3 Ke7 21. c5 Rb8 22. Ra1 a6 23. bxc6 bxc6 24. Na4 Rxb3 25. Nb6 Be6 26.
+h3 Nh6 27. Rxa6 Rc3 28. Ra7+ Kf8 29. Ra8+ Kg7 30. Ra7+ Kf8 31. Ra8+ Kg7 32.
+Ra7+ Kf8 1/2-1/2
+

@@ -1,0 +1,820 @@
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.06"]
+[Round "1"]
+[White "Svidler,P"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2741"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 Re8 10.Nc3 h6 11.a4 b4 12.Ne2 Na5 13.Ba2 Bf8 14.Ng3 d5 15.Bd2 Rb8 16.Qe2 c5
+17.exd5 Bxd5 18.Bxd5 Nxd5 19.Qe4 Nc6 20.Nf5 Re6 21.Qg4 Kh8 22.Qc4 Na5 23.Qe4 Nc6
+24.Qc4 Na5 25.Qe4 Nc6  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.06"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2747"]
+[ECO "D27"]
+
+1.d4 d5 2.Nf3 e6 3.c4 dxc4 4.e3 a6 5.a4 Nf6 6.Bxc4 c5 7.O-O Nc6 8.Qe2 Be7
+9.Rd1 Qc7 10.dxc5 O-O 11.b3 e5 12.h3 e4 13.Nd4 Ne5 14.b4 b6 15.Nd2 bxc5 16.bxc5 Bxc5
+17.Ba3 Bxa3 18.Rxa3 Ng6 19.Nf1 Qc5 20.Rc3 Qg5 21.Ng3 h5 22.Kh1 Nh4 23.Qc2 Nxg2
+24.Kxg2 h4 25.Bxf7+ Kxf7 26.Rc5 Bxh3+ 27.Kxh3 Qg4+ 28.Kg2 hxg3 29.f3 exf3+
+30.Nxf3 Kg8 31.Qa2+ Kh8 32.Rc4 Qf5 33.Rf4 Qh7 34.Rh4 Nh5 35.Rd5 Rf5 36.e4 Nf4+
+37.Kxg3 Rh5 38.Rxf4 Rh3+ 39.Kg4 Re8 40.Rdf5 Rg8 41.Qxg8+ Qxg8 42.Rf8  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.06"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2698"]
+[BlackElo "2733"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.Nh4 Bg4 7.h3 Bh5 8.g4 Bg6
+9.Nxg6 hxg6 10.e3 e6 11.Bxc4 Bb4 12.Bf1 Qd5 13.f3 Qa5 14.Bg2 c5 15.dxc5 Nc6
+16.O-O O-O 17.f4 Qxc5 18.g5 Rfd8 19.Qe2 Bxc3 20.bxc3 Nd5 21.Qb5 Qxc3 22.Rb1 Ndb4
+23.Qe2 Rac8 24.Be4 Na5 25.Bb2 Qc4 26.Qg2 Nb3 27.Bxb7 Rd2 28.Qf3 Rcd8 29.Be5 Nc5
+30.Rbc1 Nc2 31.Bc6 a6 32.Rf2 Nb3 33.Rcf1 Nb4 34.Qe4 Qxc6 35.Qxb4 Rxf2 36.Rxf2 Qc1+
+37.Kg2 Qxe3 38.Qb7 Nd2  0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.06"]
+[Round "1"]
+[White "Ponomariov,R"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2710"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Nf3 b5 6.c5 g6 7.Bd3 Bg4 8.h3 Bxf3 9.gxf3 Nbd7
+10.f4 a5 11.f5 gxf5 12.Bxf5 e6 13.Bc2 e5 14.Qf3 Bh6 15.Bd2 exd4 16.exd4 Qe7+
+17.Be3 Bxe3 18.fxe3 O-O 19.O-O-O Rae8 20.Rhg1+ Kh8 21.Rg3 b4 22.Ne2 Ne4 23.Bxe4 Qxe4
+24.Qxe4 Rxe4 25.Rf1 Re7 26.Kc2 Rg8 27.Rxg8+ Kxg8 28.Rf3 a4 29.a3 bxa3 30.bxa3 Kg7
+31.Ng3 Kf8 32.Nf5 Re6 33.Kc3 Nf6 34.Nd6 Ne4+ 35.Nxe4 Rxe4 36.Kb4 Ke7 37.Kxa4 f5
+38.Ka5 f4 39.exf4 Rxd4 40.f5 Rc4 41.Kb6 d4 42.Rf4 Ra4 43.f6+ Kf7 44.h4 Rxa3
+45.Rxd4 Kxf6 46.Kxc6 h5 47.Kd6 Ra8 48.Rf4+  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.06"]
+[Round "1"]
+[White "Shirov,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2728"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.b3 d5
+16.Bg5 h6 17.Bh4 g5 18.Nxg5 hxg5 19.Bxg5 exd4 20.e5 Rxe5 21.Rxe5 Nxe5 22.cxd4 Nc6
+23.Nh5 Be7 24.Bxf6 Bxf6 25.Qd3 Kf8 26.Qh7 Bxd4 27.Qh6+ Ke8 28.Re1+ Ne5 29.Bf5 Qd6
+30.Qg5 c5 31.Nf6+ Kd8 32.Nxd5+ Ke8 33.Nf6+ Kd8 34.Nd5+  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.07"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2720"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Nc6 14.Nb3 a5 15.Be3 a4
+16.Nbd2 Bd7 17.Rc1 Rac8 18.Nf1 Qb8 19.Ng3 Rfe8 20.Bb1 Na5 21.Rxc8 Bxc8 22.Bd3 Be6
+23.Bd2 Bd8 24.Qe2 Bc4 25.Rc1 exd4 26.Bxa5 Bxa5 27.Bxc4 bxc4 28.Qxc4 Qxb2
+29.Rc2 Qb1+ 30.Rc1 Qb2 31.Rc2 Qb1+ 32.Rc1  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.07"]
+[Round "2"]
+[White "Morozevich,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2698"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Nxe7 Nxe7 11.Bd3 Nd7 12.c4 b4 13.Nc2 a5 14.Ne3 f6 15.Bh4 O-O
+16.O-O Nc5 17.f3 Be6 18.Re1 Qb8 19.Bf1 Kh8 20.Re2 Rc8 21.Rd2 Ra6 22.Rc1 Rac6
+23.Bf2 Bf7 24.Nd5 Nxd5 25.cxd5 R6c7 26.Rdc2 Be8 27.b3 Bd7 28.g4 Kg8 29.Qe2 Nb7
+30.Rxc7 Rxc7 31.Rxc7 Qxc7 32.Qa6 Nc5 33.Qa8+ Kf7 34.h4 h6 35.Bc4 Be8 36.Be3 Ke7
+37.g5 hxg5 38.hxg5 Kf7 39.Kg2 Ke7 40.Kg3 Kf7 41.Kg4 Ke7 42.Kh4 Kf7 43.Kh3 Ke7
+44.Kg2 Kf7 45.Bd2 Qb6 46.Be3 Qc7  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.07"]
+[Round "2"]
+[White "Mamedyarov,S"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2741"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 Nbd7 6.cxd5 exd5 7.e3 c5 8.Bd3 Qa5
+9.Qc2 c4 10.Bf5 O-O 11.O-O Re8 12.Nd2 g6 13.Bxd7 Nxd7 14.f3 Nb6 15.Bf4 Bxc3
+16.bxc3 Qa4 17.Qc1 Bf5 18.Re1 Qc6 19.Nf1 Bd3 20.Ng3 Re6 21.Nh1 f6 22.h4 Rae8
+23.Nf2 Qa4 24.Rd1 Kg7 25.Qb2 R8e7 26.Nxd3 cxd3 27.Rxd3 Nc4 28.Qf2 Rb6 29.Qg3 Rb2
+30.e4 dxe4 31.fxe4 Rxe4 32.Rf1 Qd7 33.Rdf3 Ree2 34.R3f2 Qe7 35.Rxe2 Rxe2
+36.a4 Ne3 37.Bxe3 Rxe3 38.Rf3 Rxf3 39.Qxf3 Qe1+ 40.Kh2 Qxh4+ 41.Kg1 Qe1+
+42.Kh2 Qe7 43.c4 h5 44.c5 h4 45.Kh3 g5 46.Kg4 a5 47.Kh5 Qe8+ 48.Kg4 Qc8+
+49.Kh5 Qe8+ 50.Kg4 Qf7 51.Qf5 Qe7 52.Qf3 Kh6 53.Qd5 Qc7 54.Kf5 Kg7 55.Kg4 Qc8+
+56.Kf3 h3 57.gxh3 Qxh3+ 58.Kf2 Qh2+ 59.Kf1 Qf4+ 60.Kg2 Qd2+ 61.Kg3 Qe3+ 62.Kg2 Qe2+
+63.Kg3 Qe7 64.Kg4 Qc7 65.Qe4 Kf8 66.Qf5 Qc6 67.d5 Qxc5 68.Qxf6+  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.07"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2710"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 b5 8.Qd2 b4
+9.Na4 Nbd7 10.Bc4 Ne5 11.Bb3 Rb8 12.O-O Bd7 13.a3 a5 14.axb4 axb4 15.f4 Nc6
+16.e5 dxe5 17.fxe5 Nxe5 18.Bf4 Nc6 19.Bxb8 Qxb8 20.Rad1 Be7 21.Qf4 O-O 22.Qxb8 Rxb8
+23.Nf3 Na5 24.Ne5 Bb5 25.Rfe1 h5 26.Nd3 Nxb3 27.cxb3 Nd5 28.Ne5 g5 29.Nf3 Nf4
+30.Nd4 Bf6 31.Nxb5 Rxb5 32.Re4 Nd5 33.Rc1 Kg7 34.Rc2 Be7 35.Re1 h4 36.Rc6 Bf6
+37.Re4 Be7 38.Re1 Nf4 39.Rc7 Bf6 40.g3 Nd5 41.Rc4 h3 42.Kf2 Be7 43.Re5 Kf6
+44.Ree4 Kg6 45.Red4 f5 46.Rc6 Kf7 47.Ke2 Nf6 48.Rc7 Re5+ 49.Kf1 Nd5 50.Rc1 Ne3+
+51.Kg1 Ng4 52.Rd2 Re3 53.Kf1 Rf3+ 54.Ke1 Re3+ 55.Kf1 Re5 56.Nb6 Rc5 57.Nc4 Kf6
+58.Ra1 f4 59.gxf4 Rf5 60.Ke2 Rxf4 61.Kd3 Bc5 62.Re2 Rf3+ 63.Ke4 Rf4+ 64.Kd3 Rf3+
+65.Ke4 Rf4+  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.07"]
+[Round "2"]
+[White "Gelfand,B"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2703"]
+[ECO "E36"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 c5 7.dxc5 d4 8.Qg3 O-O
+9.Bh6 Ne8 10.e3 Nc6 11.O-O-O Qc7 12.Qxc7 Nxc7 13.Bf4 e5 14.Bg3 dxe3 15.fxe3 a5
+16.Ne2 Ne6 17.Rd5 f6 18.Nc3 a4 19.Ne4 Ne7 20.Rd1 Nc6 21.Rd5 Ne7 22.Rd1 Nc6
+23.Rd5  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.08"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2741"]
+[BlackElo "2750"]
+[ECO "D80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 dxc4 7.e3 Be6 8.Qb1 Qd5
+9.Nf3 Nd7 10.Be2 Bf5 11.Qb2 Bg7 12.O-O Nb6 13.a4 a5 14.Nd2 Bd3 15.Bxd3 cxd3
+16.Rfb1 Qc6 17.Qa3 O-O 18.c4 Nxc4 19.Nxc4 Qxc4 20.Bxe7 Rfe8 21.Rd1 Rac8 22.Bg5 c5
+23.Qxd3 cxd4 24.exd4 Re1+  0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.08"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2698"]
+[BlackElo "2728"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6
+9.Re1 Be7 10.e5 Nd7 11.Qg4 g6 12.Na4 Qa5 13.Bh6 c5 14.b3 c4 15.Bf1 Bb7 16.Re3 Bc6
+17.Qf4 Bxa4 18.Rf3 O-O-O 19.Qxf7 Rhe8 20.bxa4 Bc5 21.Rb1 Qxa4 22.Bg5 Qc6
+23.Bxd8 Nxe5 24.Rb8+ Kxb8 25.Bc7+ Qxc7 26.Qxe8+ Qc8 27.Qxc8+ Kxc8 28.Rh3 Ng4
+29.Rf3 Ne5 30.Rh3 Ng4 31.Rf3  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.08"]
+[Round "3"]
+[White "Grischuk,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2733"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.Re1 Re8 14.cxd5 Qxd5 15.Bf4 Rac8
+16.Bd3 Qd7 17.Rb1 Bxd3 18.Qxd3 b6 19.Re3 Bxa3 20.Ng5 g6 21.Ne4 Be7 22.Rbe1 Red8
+23.Qe2 Kg7 24.Qd2 h5 25.Rf3 f5 26.Ng5  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.08"]
+[Round "3"]
+[White "Ponomariov,R"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2747"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 d5 8.g5 Nxe4
+9.Nxe4 dxe4 10.Qg4 Nd7 11.O-O-O Qa5 12.Nb3 Qf5 13.Qg3 Be7 14.h4 Qf3 15.Qh2 Qf5
+16.Bg2 O-O 17.Qc7 Bd8 18.Qc4 Bb6 19.Bxe4 Bxe3+ 20.fxe3 Qe5 21.Qd4 Rb8 22.h5 b6
+23.h6 g6 24.Nd2 b5 25.Nf3 Qxd4 26.exd4 Rb6 27.Rhf1 b4 28.Rde1 a5 29.Ne5 Nxe5
+30.dxe5 Rb5 31.Bd3 Rc5 32.Rf4 Bb7 33.Rc4 Rfc8 34.Rxc5 Rxc5 35.Kd2 Rd5 36.Re4 Kf8
+37.c4 Rc5 38.Re3 Ke7 39.b3 Kd8 40.Be4 Bc8 41.Bf3 Kc7 42.Kd3 Kb6 43.Ke4 Rc7
+44.Rd3 Rd7 45.Rd6+ Kc5 46.Kf4 Rxd6 47.exd6 Kxd6 48.c5+ Kxc5 49.Ke5 Ba6 50.Kf6 Kd6
+51.Be4 Be2 52.Kxf7 Bg4 53.Bxg6  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.08"]
+[Round "3"]
+[White "Shirov,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2741"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4 g5
+16.Qf1 Qh5 17.Nd2 Bf5 18.f3 Nf6 19.a4 Nxe4 20.Nxe4 Qg6 21.Nxd6 Qxd6 22.Bxg5 Rfe8
+23.Re1 Qg6 24.Be7 Ra7 25.Bc5 Raa8 26.Be7 Ra7 27.Bc5  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.10"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2733"]
+[ECO "D19"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qe2 Bg4 10.h3 Bxf3 11.Qxf3 O-O 12.Rd1 Rc8 13.e4 e5 14.Be3 Qa5 15.Qf5 exd4
+16.Qxa5 Bxa5 17.Bxd4 Rfe8 18.f3 a6 19.Kf2 Ne5 20.Be2 Rcd8 21.Be3 h5 22.g4 hxg4
+23.hxg4 Ng6 24.Rxd8 Rxd8 25.Kg3 Re8 26.Rd1 Bc7+ 27.Kf2 Re7 28.Bf1 Nf4 29.g5 Nh7
+30.Bxf4 Bxf4 31.Rd8+ Nf8 32.g6 b5 33.Bh3 fxg6 34.Ra8 bxa4 35.Bf1 Kf7 36.Bc4+ Ne6
+37.Ne2 Bd6 38.f4 Kf6 39.e5+ Bxe5 40.fxe5+ Kxe5 41.Bxe6 Kxe6 42.Rxa6 Rb7 43.Nf4+ Ke5
+44.Ke3 c5 45.Nd3+ Kd5 46.Ra5 Kd6 47.Rxa4 Kd5 48.Ra5 Kd6 49.Ra4 Kd5 50.Kd2 c4
+51.Nb4+ Ke4 52.Kc3 g5 53.Nc6 g4 54.Rxc4+ Kf5 55.Nd4+ Kf4 56.Nc6+ Kf5 57.Nb4 g3
+58.Nd5 Ke5 59.Ne3 Rf7 60.Rg4 Rc7+ 61.Nc4+ Kf5 62.Rxg3 g5 63.Rf3+ Ke4 64.Rf7 Rc8
+65.Rg7 Kf4 66.Kd3 Rd8+ 67.Ke2 Re8+ 68.Kf2 Rb8 69.Rf7+ Ke4 70.Rd7 g4 71.b3 Rb4
+72.Nd2+ Kf4 73.Rd3 Kf5 74.Kg3 Ke5 75.Nc4+ Ke4 76.Re3+ Kd4 77.Kxg4 Rb8 78.Kf3 Rh8
+79.Ke2  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.10"]
+[Round "4"]
+[White "Mamedyarov,S"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2703"]
+[ECO "E16"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb4+ 5.Nbd2 Bb7 6.Bg2 O-O 7.O-O Be7 8.b3 c5
+9.dxc5 bxc5 10.Bb2 d6 11.Qc2 Nbd7 12.Rad1 Qc7 13.e4 Bc6 14.Rfe1 Qb7 15.h3 a5
+16.a4 Rfb8 17.Nh2 Ne8 18.Ba1 Bf6 19.Bxf6 Ndxf6 20.f4 Ra6 21.Nhf3 Qe7 22.Kh2 e5
+23.f5 Rab6 24.Re3 h6 25.g4 Nc7 26.Rg1 g5 27.Bf1 Kg7 28.h4 Rh8 29.hxg5 hxg5+
+30.Bh3 Nfe8 31.Nf1 f6 32.Qd2 Ra6 33.Ng3 Kf8 34.Nh5 Rg8 35.Rd1 Ra7 36.Ne1 Na6
+37.Nc2 Qd8 38.Bg2 Nb4 39.Nxb4 axb4 40.Rd3 Rd7 41.Kg3 Rh8 42.Bf3 Rhh7 43.Rh1 Kg8
+44.Rd1 Kf8 45.Kf2 Kg8 46.Bg2 Kf8 47.Rh1 Kg8 48.Rdh3 Rdf7 49.R1h2 Qe7 50.Bf3 Qd8
+51.Qc1 Qe7 52.Qh1 Bb7 53.a5 Ba6 54.Qd1 Bb7 55.Qa1 Ba6 56.Qh1 Bb7 57.Ng3 Rxh3
+58.Rxh3 Rh7 59.Rxh7 Qxh7 60.Qa1 Ba6 61.Qa4 Kf8 62.Nf1 Qb7 63.Ne3 Ke7 64.Qa1 Kd8
+65.Qh1 Qg7 66.Nd5 Kd7 67.Qh5 Kd8 68.Be2 Kd7 69.Qg6 Qxg6 70.fxg6 Bc8 71.Kg3 Kc6
+72.Ne7+ Kc7 73.Nf5 Be6 74.g7 Kb7 75.Kf2 Ka6 76.Kg3 Kxa5 77.Kf2 Kb6 78.Kg3 Kc7
+79.Kf2 Kd7 80.Ke3  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.10"]
+[Round "4"]
+[White "Morozevich,A"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2747"]
+[BlackElo "2710"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 b5 8.Qd2 b4
+9.Na4 Nbd7 10.c4 bxc3 11.Nxc3 Bb7 12.Be2 d5 13.exd5 Nxd5 14.Nxd5 Bxd5 15.Rc1 Qb8
+16.a3 Bd6 17.Nf5 O-O 18.Nxd6 Qxd6 19.O-O a5 20.a4 Rfd8 21.Bb5 h6 22.Rc3 Nf8
+23.Rfc1 Ng6 24.Qf2 Rdb8 25.Rc7 Qb4 26.Qd2 Rxb5 27.axb5 Qxb5 28.Rc8+ Rxc8
+29.Rxc8+ Kh7 30.Rc5 Qb7 31.Rxa5 Ne5 32.Qc2+ Kg8 33.Rc5 Nc6 34.h3 f5 35.Qc3  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.10"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2698"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 Bf8 14.Bd3 c6 15.b3 Qc7
+16.Bb2 d5 17.dxe5 Nxe5 18.Nxe5 Qxe5 19.Nf3 Qf4 20.exd5 Nxd5 21.c4 Nb4 22.Be5 Qh6
+23.Be4 Rad8 24.Qb1 bxc4 25.bxc4 Ba8 26.Bc3 c5 27.Bxa8 Rxa8 28.Ne5 Qe6 29.Qb3  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.10"]
+[Round "4"]
+[White "Shirov,A"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2741"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4 g5
+16.Qf1 Qh5 17.Nd2 Bf5 18.f3 Nf6 19.a4 Nxe4 20.Nxe4 Qg6 21.Nxd6 Qxd6 22.Bxg5 Qg6
+23.Qc1 Bd3 24.axb5 axb5 25.Rxa8 Rxa8 26.Kf2 Bc4 27.Bxc4 bxc4 28.g4 Re8 29.Bf4 Qd3
+30.Kg3 Qe2 31.Qb1 Qe1+ 32.Qxe1 Rxe1 33.Bd6 Rg1+ 34.Kf2 Rb1 35.Ba3 Kg7 36.Kg3 Kg6
+37.h3 h5 38.Kh4 Rg1 39.Bc5 Rg2 40.Ba3 f6 41.gxh5+ Kf5 42.f4 Rg8 43.Bd6 Ke6
+44.h6 Kxd6 45.Kh5 f5 46.h7 Rh8 47.Kg6 Ke7 48.Kg7 Ke8 49.Kg6 Kf8 50.h4 Ke7
+51.Kg7 Ke8 52.Kg6 Kf8 53.h5 Ke7 54.Kg7 Ke8 55.Kg6 Kf8 56.h6 Ke8 57.Kf6 Rxh7
+58.Kg6 Rf7  0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.11"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2741"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 c5 6.d5 exd5 7.cxd5 Bb7 8.Bg2 Nxd5
+9.O-O Be7 10.Rd1 Nc6 11.Qf5 Nf6 12.e4 g6 13.Qf4 O-O 14.e5 Nh5 15.Qh6 Nd4
+16.Nxd4 Bxg2 17.Kxg2 cxd4 18.g4 Rc8 19.Rxd4 Ng7 20.Nc3 f5 21.Qd2 Bc5 22.Rxd7 Qh4
+23.Nd5 Qxg4+ 24.Kf1 Qh3+ 25.Kg1 Qg4+ 26.Kf1 Qh3+ 27.Kg1 Qg4+  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.11"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2698"]
+[BlackElo "2720"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.Re1 Bf5
+9.Nc3 Nxc3 10.bxc3 Bxd3 11.Qxd3 Nd7 12.Rb1 Nb6 13.Ng5 g6 14.Qh3 h5 15.g4 Qd7
+16.gxh5 Rae8 17.Be3 Qxh3 18.Nxh3 gxh5 19.Bf4 Kg7 20.Rxe8 Rxe8 21.Bxd6 cxd6
+22.Nf4 Kh6 23.Kg2 Kg5 24.Kf3 Rc8 25.Rb3 Rc4 26.Ra3 h4 27.h3 f5 28.Ne6+ Kf6
+29.Nf4 Kg5 30.Ne6+  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.11"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2747"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 e5
+9.cxd5 cxd5 10.Nb5 Bb4+ 11.Bd2 Bxd2+ 12.Nxd2 a6 13.dxe5 Nxe5 14.Nd4 Bg4 15.Bxg4 Nfxg4
+16.O-O Rc8 17.Qf5 g6 18.Qf4 Qe7 19.N2f3 Nxf3+ 20.Qxf3 Nf6 21.Rac1 Ne4 22.Qe2 Qa3
+23.Rc2 Nd6 24.f3 Rxc2 25.Qxc2 Qa5 26.Rd1 Re8 27.Kf2 h5 28.Rd3 Qd8 29.Qd2 Re5
+30.Nc2 Nf5 31.Nd4 Nd6 32.Kg1 Qe7 33.Rc3 Kg7 34.Qc1 Ne8 35.Ne2 Kh7 36.Qd2 Nd6
+37.Nd4 Kg7 38.a4 Kg8 39.Qc1 Qd8 40.Rc5 Qe7 41.Rc7 Qd8 42.Rc3 Qe7 43.Rc7  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.11"]
+[Round "5"]
+[White "Ponomariov,R"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2750"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bg5 c5 8.Rc1 cxd4
+9.cxd4 O-O 10.Nf3 Bg4 11.d5 Nd7 12.Be2 Nf6 13.h3 Bd7 14.Bd3 h6 15.Bf4 e6
+16.Bc7 Qe8 17.d6 Bc6 18.Qe2 Nh5 19.g3 e5 20.O-O Qd7 21.Kh2 Bf6 22.Rfd1 Ng7
+23.Bc4 Rac8 24.Bd5 Ne6 25.Bxc6 bxc6 26.Qa6 Nxc7 27.Qxa7 Kg7 28.Qb7 Qd8 29.dxc7 Qxc7
+30.Qxc7  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.11"]
+[Round "5"]
+[White "Grischuk,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2728"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.b3 d5
+16.Bg5 h6 17.Bh4 g5 18.Nxg5 hxg5 19.Bxg5 exd4 20.e5 Rxe5 21.Rxe5 Nxe5 22.cxd4 Nc6
+23.Qd3 Nb4 24.Qf3 Be7 25.Bb1 Bc8 26.Qf4 Ne4 27.Bxe7 Qxe7 28.a3 Nc6 29.Bxe4 dxe4
+30.Nh5 Qd6 31.Nf6+ Kf8 32.Qh6+ Ke7 33.Ng8+ Ke8 34.Nf6+ Ke7  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.12"]
+[Round "6"]
+[White "Svidler,P"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2750"]
+[BlackElo "2710"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bc1 Nf6 8.f3 Qb6
+9.g4 Nc6 10.Nb3 e6 11.Bf4 Qc7 12.Qd2 Ne5 13.Be2 Be7 14.Bg3 b5 15.g5 Nfd7
+16.h4 Nb6 17.Qd4 O-O 18.O-O-O Rd8 19.a3 Nec4 20.Bxc4 bxc4 21.Nd2 e5 22.Qe3 Be6
+23.Kb1 Rab8 24.Ka1 Qc6 25.Rb1 Na4 26.Rhd1 Rd7 27.f4 exf4 28.Bxf4 Rdb7 29.Nxa4 Qxa4
+30.Qc3 g6 31.h5 gxh5 32.Rh1 Bf8 33.Rxh5 Bg7 34.e5 d5 35.Be3 Bf5 36.Bd4 Bxc2
+37.e6 Bxb1 38.Nxb1 fxe6  0-1
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.12"]
+[Round "6"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2698"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 Nc6 6.Nbd2 d5 7.cxd5 Qxd5 8.e4 Nb4
+9.Qa4+ Qd7 10.Qxd7+ Nxd7 11.Bxa6 Nxa6 12.O-O Nf6 13.a3 c5 14.Re1 Be7 15.Ne5 Rc8
+16.b4 cxd4 17.Ndf3 Nb8 18.Nxd4 Nfd7 19.Nef3 O-O 20.Bf4 Nc6 21.Rac1 Nxd4 22.Nxd4 g5
+23.Nc6 Rxc6 24.Rxc6 gxf4 25.Rc7 Ne5 26.Rxe7 Nf3+ 27.Kf1 Nxe1 28.Kxe1 a5 29.Rb7 axb4
+30.axb4 Rd8 31.f3 Rd3 32.Ke2 Rb3 33.Rxb6 Rb2+ 34.Kd3 Rxh2 35.gxf4 h5 36.Rb5 h4
+37.Rh5 h3 38.Kd4 Kf8 39.Ke5 Ke7 40.f5 exf5 41.Kxf5 Rb2 42.Rxh3 Rxb4 43.f4 Rb5+
+44.e5 Kf8 45.Rd3 Rb4 46.Kg5 Kg7 47.Rd7 Rb5 48.Kg4 Kf8 49.Kf5 Kg7 50.Ke4 Rb4+
+51.Rd4 Rb1 52.Rd7 Re1+ 53.Kd5 Rd1+ 54.Kc6 Rf1 55.Rd4 Kf8 56.Kd7 Rf2 57.Kd6 Rf1
+58.Kd5 Ke7 59.Ra4 f6 60.Ra7+ Kf8 61.Kd6 fxe5 62.Ra8+ Kf7 63.Ra7+ Kf8 64.fxe5 Rd1+
+65.Ke6 Re1 66.Rf7+ Ke8 67.Rh7 Kf8 68.Rh8+ Kg7 69.Rd8 Ra1 70.Ke7 Ra5 71.e6 Ra7+
+72.Rd7 Ra8 73.Rd6 Ra7+ 74.Ke8  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.12"]
+[Round "6"]
+[White "Leko,P"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2747"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5
+9.Bg3 Bg7 10.h3 Ne5 11.f3 Nbc6 12.Bf2 Nxd4 13.Bxd4 Be6 14.Qd2 Bf6 15.O-O-O Rc8
+16.Kb1 Rg8 17.Be2 Nd7 18.Bxf6 Nxf6 19.h4 Qb6 20.hxg5 hxg5 21.a3 Kf8 22.Bd3 Qc5
+23.g3 b5 24.f4 Ng4 25.Rde1 b4 26.Na4 Qc6 27.Qxb4 Nf2 28.Rh2 Nxd3 29.cxd3 gxf4
+30.gxf4 f6 31.Nc3 Rg3 32.e5 dxe5 33.fxe5 f5 34.Rh8+ Bg8 35.Rf1 Qe6 36.Rh5 Kg7
+37.Rhxf5 Rg2 38.Qb7 Rg3 39.R5f3 Rg5 40.d4 Rd8 41.Qe4 Qg4 42.Rf4 Qg2 43.Ka1 Bc4
+44.Rc1 Qxe4 45.Rxe4 Kg6 46.Rf4 Bb3 47.Ne2 Ba4 48.Rf2 Rg4 49.d5 Rh8 50.Nf4+ Kf5
+51.Nd3+ Kg6 52.Nc5 Bb5 53.Nxa6 Rh5 54.Nc7 Ba4 55.e6 Bb3 56.Rf3 Bxd5 57.Nxd5 Rxd5
+58.Rc7 Rb5 59.Rf2  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.12"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2703"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7
+9.Qd2 b5 10.a4 b4 11.Nd5 Bxd5 12.exd5 Nb6 13.Bxb6 Qxb6 14.a5 Qb7 15.Bc4 Be7
+16.Ra4 Rb8 17.Qd3 Ra8 18.Qd2 Rb8 19.Nc1 Bd8 20.b3 O-O 21.Na2 e4 22.Kd1 exf3
+23.gxf3 Nd7 24.Rxb4 Qc7 25.Ra4 Qc8 26.Be2 Nc5 27.Rg4 Bf6 28.Nb4 Na4 29.Nc6 Nc3+
+30.Qxc3 Bxc3 31.Ne7+ Kh8 32.Nxc8 Rfxc8 33.Rc4  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.12"]
+[Round "6"]
+[White "Mamedyarov,S"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2733"]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.e4 b4 10.Na4 c5 11.e5 Nd5 12.Nxc5 Nxc5 13.dxc5 Bxc5 14.O-O h6 15.Nd2 Nc3
+16.Qc2 Qd5 17.Nf3 Rd8 18.Ne1 Bd4 19.Bd2 Nb5 20.Nf3 Bb6 21.Bc4 Qc5 22.Be3 Qc6
+23.Qe2 Nc7 24.Rac1 Bxe3 25.fxe3 O-O 26.Bd3 Qb6 27.Nd2 Ba6 28.Bxa6  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.14"]
+[Round "7"]
+[White "Gelfand,B"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2750"]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.Qa4+ Bd7 5.Qb3 dxc4 6.Qxc4 a6 7.d4 b5 8.Qb3 c5
+9.dxc5 Bg7 10.e4 O-O 11.Be2 Bc6 12.e5 Nfd7 13.Be3 Nxe5 14.Nxe5 Bxe5 15.O-O e6
+16.a4 bxa4 17.Nxa4 Qc7 18.f4 Bg7 19.Nb6 Ra7 20.Rfd1 Re8 21.Bc4 Bh6 22.Rf1 Qb7
+23.Rf2 Nd7 24.Nxd7 Qxd7 25.Rxa6 Rxa6 26.Bxa6 Bg7 27.Rd2 Qa7 28.Qb6 Qa8 29.Bb5 Bxb5
+30.Qxb5 Rb8 31.Qc4 Qa1+ 32.Kf2 Rxb2 33.c6 Rxd2+ 34.Bxd2 Qa7+ 35.Ke2 Qc7 36.Ba5 Qc8
+37.c7 Bf8 38.Qc6 f5 39.Bc3 Kf7 40.Be5 Be7 41.Kd3 g5 42.g3 gxf4 43.gxf4  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.14"]
+[Round "7"]
+[White "Morozevich,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2728"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.b3 exd4
+16.cxd4 c5 17.d5 Bg7 18.Rb1 a5 19.Bf4 Qc7 20.Bd3 Ba6 21.a4 c4 22.bxc4 bxc4
+23.Bc2 c3 24.Re3 Nb6 25.Nd4 Nfd7 26.Ndf5 Be5 27.Nh6+ Kf8 28.Bxe5 Nxe5 29.Qd4 Nbc4
+30.Rxc3 Qa7 31.Qxa7 Rxa7 32.Ng4 Nd7 33.f3 h5 34.Nf2 Rc8 35.Ne2 Na3 36.Rxc8+ Bxc8
+37.Rc1 Rc7 38.Bd1 Rxc1 39.Nxc1 Nb1 40.Nb3 Nc3 41.Nxa5 Nb6 42.h4 Bd7 43.Nc6 Nbxa4
+44.Bxa4 Nxa4 45.Nd3 Nb6 46.Kf2 Nc4 47.Nd4 Ke7 48.Nc2 Na5 49.Na3 Nb3 50.Ke3 Be8
+51.Nb4 Na5 52.Kd4 Nb3+ 53.Kc3 Nc5 54.Nd3 Nd7 55.Nc4 f6 56.f4 Nb8 57.e5 fxe5
+58.fxe5 dxe5 59.Ndxe5 Kf6 60.Nf3 Bb5 61.Nd6 Bf1 62.Ne4+ Ke7 63.Ne1 Nd7 64.Kd4 Kf7
+65.g3 Ke7 66.Nc2 Bg2 67.Nc5 Nxc5 68.Kxc5 Kf6 69.Ne3 Bh3 70.d6 Bd7 71.Kb6 Ke6
+72.Kc7 Ba4 73.Nc2 Ke5 74.Nb4 Be8 75.Kd8 Ba4 76.Ke7 g5 77.Nd3+ Kf5 78.Nc5 Bb5
+79.Ne6 gxh4 80.Nd4+ Kg4 81.Nxb5 h3 82.Nc3 Kxg3 83.Ne4+ Kg2 84.d7 h2 85.d8=Q h1=Q
+86.Qd5 Qh4+ 87.Kf7 Qf4+ 88.Kg6 Qg4+ 89.Kh6 Qf4+ 90.Kxh5 Qf3+ 91.Kg5 Qe3+
+92.Kf5 Qf3+ 93.Ke5 Qe3 94.Qa2+ Kg1 95.Qb1+ Kg2 96.Qc2+ Kg1 97.Qd1+ Kg2 98.Qg4+ Kh2
+99.Qh4+ Kg2 100.Qh5 Kg1 101.Kf5 Qh3+ 102.Qxh3  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.14"]
+[Round "7"]
+[White "Grischuk,A"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2720"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.d3 Ne7 6.Qe2 Qc7 7.Ng5 e5 8.f4 exf4
+9.O-O Ng6 10.Qh5 d6 11.Bxf4 h6 12.Nxf7 Qxf7 13.Bxd6 Qe6 14.Bxf8 Rxf8 15.Nd2 Bd7
+16.Qxc5 Qe7 17.Rxf8+ Kxf8 18.Rf1+ Kg8 19.Qxe7 Nxe7 20.Nb3 Rd8 21.Nc5 Bc8
+22.Kf2 Rf8+ 23.Ke2 Rxf1 24.Kxf1 Ng6 25.b4 Kf7 26.Ke2 Nf4+ 27.Kf3 Ne6 28.Nb3 Ke7
+29.Ke3 Kd6 30.d4 Nc7 31.c4 Be6 32.Kd3 Bg8 33.a4 Ne6 34.g3 Ng5 35.Nd2 a6 36.h4 Nh3
+37.Ke3 g5 38.d5 cxd5 39.exd5 gxh4 40.gxh4 Bh7 41.Ne4+ Ke5 42.Nc5 Nf4 43.d6 Ne6
+44.d7 Nd8 45.Nxa6 Kd6 46.Nc5 Bg8 47.Kd4 Nc6+ 48.Kc3 Ke7 49.b5 Ne5 50.b6 Nxd7
+51.b7  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.14"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2698"]
+[BlackElo "2741"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 c5 5.Nf3 cxd4 6.Nxd4 O-O 7.Bg2 d5 8.cxd5 Nxd5
+9.Qb3 Qa5 10.Bd2 Nc6 11.Nxc6 bxc6 12.O-O Bxc3 13.bxc3 Ba6 14.Rfd1 Qc5 15.e4 Bc4
+16.Qc2 Nb6 17.Bf4 e5 18.Be3 Qa3 19.Bh3 Rab8 20.Qc1 Qxc1 21.Rdxc1 Bd3 22.f3 Rb7
+23.Rd1 Bc2 24.Rdc1 Bd3 25.Rd1 Bc2 26.Re1 Nc4 27.Bc5 Rd8 28.Bf1 Nd2 29.Bg2 a5
+30.Re2 Bb1 31.Re1 Bc2 32.Re2 Bb1 33.Re1 h6 34.Ba3 Rd3 35.Rc1 Rd8 36.Re1 Bc2
+37.Bc1 Nb1 38.c4 Rd4 39.c5 a4 40.Bf1 a3 41.Re3 Ra7 42.Re2 Bd3 43.Re3 Bxf1
+44.Rxb1 Rd1 45.Kf2 Bd3 46.Rb8+ Kh7 47.Re1 Rxe1 48.Kxe1 Bc4 49.Rd8 Ra5 50.Rd2 f6
+51.Rc2 Be6 52.Kd2 g5 53.Rc3 Kg6 54.Rxa3 Rxa3 55.Bxa3 Bxa2  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.14"]
+[Round "7"]
+[White "Ponomariov,R"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2741"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.a5 d5 10.exd5 e4 11.dxc6 exf3 12.d3 fxg2 13.Qf3 Rb8 14.Bc4 Ne8 15.Bf4 Bf6
+16.Nd2 Bxb2 17.Rab1 Bc3 18.Bg5 Bf6 19.Rxe8 Rxe8 20.Ne4 Rxe4 21.Bxf6 Qxf6
+22.Qxf6 gxf6 23.dxe4 Kf8 24.Kxg2 Ke7 25.Rd1  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.15"]
+[Round "8"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2710"]
+[ECO "E17"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 O-O 7.Qc2 c5 8.dxc5 bxc5
+9.O-O d6 10.Rd1 Qb6 11.Be3 Nc6 12.Rab1 Rab8 13.a3 Na5 14.b3 h6 15.h3 Rfd8
+16.g4  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.15"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2728"]
+[ECO "C96"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.d5 Nb6 13.Nbd2 g6 14.b4 cxb4 15.cxb4 Nac4
+16.Nxc4 Nxc4 17.Bh6 Re8 18.Bb3 Bd7 19.Qe2 Nb6 20.Rac1 Rc8 21.Be3 Rxc1 22.Rxc1 Qb8
+23.Nd2 Rc8 24.Rxc8+ Nxc8 25.f4 Qc7 26.Nf3 Qc3 27.Qd2 Qxd2 28.Bxd2 f6 29.fxe5 fxe5
+30.Nxe5 dxe5 31.d6+ Kg7 32.dxe7 Nxe7 33.h4 Bc6 34.Bc2 Nc8 35.Bc3 Kf6 36.Kf2 Nd6
+37.Ke3 h6 38.Be1 Nc4+ 39.Kf3  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.15"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2698"]
+[BlackElo "2703"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Nc6 6.Qa4 Bb4+ 7.Bd2 Bd6 8.O-O O-O
+9.Bc3 Nd5 10.Qxc4 Nxc3 11.bxc3 Na5 12.Qd3 c5 13.Nbd2 cxd4 14.cxd4 Bd7 15.Ne4 Be7
+16.h4 h6 17.Rac1 Bc6 18.Ne5 Bd5 19.Nc3 Bxg2 20.Kxg2 Rc8 21.Rfd1 Ba3 22.Rb1 Bd6
+23.Nf3 Qe7 24.Ne4 Rfd8 25.Rb5 Nc6 26.g4 a6 27.Rb6 Bb8 28.e3 Ba7 29.Rbb1 Rc7
+30.g5 Nb4 31.Qa3 Nd5 32.Qxe7 Rxe7 33.Rdc1 f6 34.Nc5 Bxc5 35.Rxc5 Kf7 36.Kg3 Red7
+37.a4 Ne7 38.Kg4 Rc8 39.Rxc8 Nxc8 40.Ne1 b6 41.Rc1 Ne7 42.f4 Nd5 43.e4 Rc7
+44.Rxc7+ Nxc7 45.Nc2 Ne8 46.gxh6 gxh6 47.f5 exf5+ 48.Kxf5 Nd6+ 49.Kf4 b5
+50.a5 Nc4 51.Nb4 Nxa5 52.Nxa6 h5 53.e5 fxe5+ 54.dxe5 Nc6 55.Kg5 Nxe5 56.Kxh5 Kf6
+57.Nc7 b4 58.Nd5+ Kf5 59.Nxb4 Ng6 60.Nd5 Nxh4  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.15"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2750"]
+[BlackElo "2747"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Re8 10.Ng5 Rf8 11.Nf3 Bb7 12.d4 Re8 13.Nbd2 Bf8 14.d5 Nb8 15.Nf1 Nbd7
+16.N3h2 Nc5 17.Bc2 c6 18.b4 Ncd7 19.dxc6 Bxc6 20.Bg5 Qc8 21.Ng3 h6 22.Bxf6 Nxf6
+23.Bb3 a5 24.bxa5 Bd7 25.Qf3 Be6 26.Nf5 Kh7 27.Ng4 Nxg4 28.hxg4 Rxa5 29.Rad1 Ra6
+30.Rd3 g6 31.Ne3 Kg7 32.Rb1 Be7 33.Qe2 Ra5 34.Rd2 Bg5 35.Rxd6 Bxb3 36.axb3 Qxc3
+37.Nd5 Qc8 38.Rb6 Ra7 39.Rxb5 Qa6 40.Nb4 Qe6 41.Nd3 Qa6 42.Rd5 Rc7 43.b4 Qc4
+44.Qe1 Qc2 45.Nc5 Rc6 46.Qd1 Qa2 47.Qb3 Qe2 48.Qd3 Qa2 49.b5 Rf6 50.Rf1 Ra8
+51.Qb3 Qe2 52.Qd1 Qb2 53.Nd3 Qc3 54.Nxe5 Rxf2 55.Rxf2 Ra1 56.Rxf7+ Kg8 57.Rf1 Rxd1
+58.Rfxd1 Qg3 59.Nf3 Be3+ 60.Kh1 Qxg4 61.Rd8+ Kg7 62.R1d7+ Kf6 63.Rf8+ Ke6
+64.Rd5 Ke7 65.Rf7+ Ke8 66.Rh7 Qf4 67.Re5+ Kd8 68.Re6 Qg4 69.Rh8+ Kc7 70.b6+ Bxb6
+71.Rc6+ Kb7 72.Rh7+ Ka8 73.Rxh6 Be3 74.Rh8+ Kb7 75.Rh7+ Kb8 76.Rf6 Bc5 77.Rff7 Qc8
+78.Ne5 Bd6 79.Nc6+ Qxc6 80.Rh8+  1-0
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.15"]
+[Round "8"]
+[White "Shirov,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2733"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 c5 8.e4 Bg6 9.d5 exd5
+10.Nxg6 hxg6 11.e5 Nfd7 12.Qxd5 Nc6 13.e6 fxe6 14.Qxe6+ Qe7 15.Qxe7+ Bxe7
+16.Bxc4 Nde5 17.Bd5 Nd3+ 18.Ke2 Nxc1+ 19.Raxc1 Nd4+ 20.Kf2 O-O-O 21.Bf7 Bh4+
+22.g3 Rhf8 23.Bd5 Bf6 24.Rhd1  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.16"]
+[Round "9"]
+[White "Mamedyarov,S"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2750"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.O-O Nc6 8.Nc3 Ne4
+9.Ne5 Nxc3 10.bxc3 Nxe5 11.dxe5 O-O 12.Qxd5 Qxd5 13.Bxd5 Rd8 14.Bg2  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.16"]
+[Round "9"]
+[White "Grischuk,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2698"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 O-O 7.e3 c5 8.dxc5 Nbd7
+9.Rc1 Qa5 10.Nd2 b6 11.Be2 bxc5 12.O-O Bxc3 13.Rxc3 Qxa2 14.Qc2 Rb8 15.Rb1 Qa5
+16.Bxf6 Nxf6 17.Nb3  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.16"]
+[Round "9"]
+[White "Gelfand,B"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2741"]
+[ECO "E01"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Bf4 b6
+9.Nc3 Bb7 10.Nd2 Nh5 11.Be5 Nd7 12.e4 Nxe5 13.dxe5 dxc4 14.Bf3 g6 15.Bxh5 gxh5
+16.Nxc4  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.16"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2741"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 Be7
+9.e4 O-O 10.Bd3 c5 11.O-O Qc7 12.Qe2 Nd7 13.Bb2 Rfd8 14.d5 exd5 15.exd5 Bf6
+16.c4 b5 17.cxb5 Bxd5 18.Bxf6 Nxf6 19.Bc4 Re8  1/2-1/2
+
+[Event "Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2006.11.16"]
+[Round "9"]
+[White "Morozevich,A"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2720"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.d4 dxe4 10.Nxe5 Nxe5 11.dxe5 Qxd1 12.Bxd1 Nd7 13.Bc2 Nxe5 14.Bxe4 Rb8 15.Bf4 Bd6
+16.Bxe5 Bxe5 17.Bxh7+ Kxh7 18.Rxe5 Rd8 19.Kf1 f6 20.Re3 Rd1+ 21.Re1 Rxe1+
+22.Kxe1 Bf5 23.Na3 Re8+ 24.Kd2 Rd8+ 25.Ke3 Re8+ 26.Kd2 Rd8+  1/2-1/2

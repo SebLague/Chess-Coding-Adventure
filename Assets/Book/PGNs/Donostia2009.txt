@@ -1,0 +1,901 @@
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.07"]
+[Round "1"]
+[White "Nakamura,Hi"]
+[Black "Karpov,Ana"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2644"]
+[EventDate "2009.07.07"]
+[ECO "D37"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 6. Qc2 c5 7. dxc5 Na6 8.
+e3 Nxc5 9. Be2 dxc4 10. Bxc4 a6 11. a4 b6 12. O-O Bb7 13. Qe2 Qe8 14. Rfd1
+Rd8 15. Nd4 Rc8 16. Qf1 h6 17. Bg3 Kh8 18. h3 Bd8 19. b4 Ncd7 20. Rac1 Be7
+21. Na2 Ra8 22. f3 Nd5 23. Qe1 Bg5 24. Bf2 Qe7 25. h4 Bf6 26. e4 Nf4 27.
+Qd2 Bxd4 28. Bxd4 b5 29. Bf1 e5 30. Bf2 Bc8 31. Rc7 Qe6 32. axb5 axb5 33.
+Nc3 Qg6 34. Be3 Qg3 35. Bxf4 exf4 36. Rxd7 Bxd7 37. Qxd7 Qxh4 38. Qd2 Rad8
+39. Nd5 f5 40. e5 Rfe8 41. Qe2 Re6 42. Rd4 Qg3 43. Nc7 Rxd4 44. Nxe6 Rxb4
+45. Qc2 Ra4 46. Qd2 Ra1 47. Nxf4 Kh7 48. Nd3 Qh4 49. f4 Qe7 50. Qb4 Qxb4
+51. Nxb4 g5 52. Kf2 Kg7 53. Nc6 Ra2+ 54. Ke3 Ra3+ 55. Kf2 Ra4 56. fxg5 Rf4+
+57. Ke1 hxg5 58. Bxb5 Kf7 59. Ke2 Ke6 60. Kd3 Kd5 61. Ne7+ Kc5 62. Bc6 Rd4+
+63. Ke3 Rb4 64. Bd7 Re4+ 65. Kf3 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.07"]
+[Round "1"]
+[White "Svidler,P"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2716"]
+[EventDate "2009.07.07"]
+[ECO "C41"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 a6 8.
+a4 b6 9. b3 Bb7 10. Bb2 c6 11. Bd3 Re8 12. Ne2 Bf8 13. Ng3 g6 14. c4 exd4
+15. Bxd4 Bg7 16. Qd2 Ne5 17. Rad1 Nxf3+ 18. gxf3 d5 19. cxd5 cxd5 20. e5
+Nd7 21. f4 Qh4 22. Bf1 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.07"]
+[Round "1"]
+[White "San Segundo Carrillo,P"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2727"]
+[EventDate "2009.07.07"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 O-O 9. Be2 b6 10. O-O Bb7 11. Qd3 e6 12. Rfd1 Nd7 13. a4 Qc7 14. a5
+bxa5 15. Nd2 Rfc8 16. Qb5 Bf8 17. Qxa5 cxd4 18. cxd4 Qxa5 19. Rxa5 Nb6 20.
+Rb1 Rc3 21. Ba6 Bc6 22. g4 Ra3 23. Rxa3 Bxa3 24. f3 Rd8 25. Kf2 Kf8 26. Rb3
+Bd6 27. h4 Ke8 28. Rb1 f5 29. gxf5 gxf5 30. exf5 exf5 31. Bg5 Rb8 32. Re1+
+Kd7 33. Bd3 Rf8 34. Ra1 Bb8 35. Nc4 Nd5 36. Ne5+ Bxe5 37. dxe5 Ke6 38. Rxa7
+Kxe5 39. Rxh7 Ra8 40. Rf7 Ra2+ 41. Kg1 Ra1+ 42. Kh2 Ra2+ 43. Kg3 f4+ 44.
+Bxf4+ Nxf4 45. Rxf4 Rg2+ 46. Kxg2 Kxf4 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.07"]
+[Round "1"]
+[White "Vallejo Pons,F"]
+[Black "Granda Zuniga,J"]
+[Result "1-0"]
+[WhiteElo "2693"]
+[BlackElo "2647"]
+[EventDate "2009.07.07"]
+[ECO "B19"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. O-O-O O-O-O 13. Kb1 Ngf6 14.
+c4 Kb8 15. Bc3 Ka8 16. Qe2 Be7 17. Ne5 Nxe5 18. dxe5 Nd7 19. f4 f5 20. Qc2
+Nc5 21. b4 Na6 22. a3 Qc8 23. Ne2 Rxd1+ 24. Rxd1 Qe8 25. Rh1 g5 26. hxg6
+Qxg6 27. g3 h5 28. Qd3 Qg4 29. Qe3 Rd8 30. Be1 b6 31. Bf2 Nc5 32. Nd4 Ne4
+33. Nxc6 Rd2 34. Nxe7 Rxf2 35. c5 Qg7 36. Rxh5 Qxe7 37. Rh8+ Kb7 38. Qd3
+Qc7 39. Ka1 Rd2 40. Qc4 a6 41. g4 Qd7 42. c6+ Qxc6 43. Rb8+ 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.07"]
+[Round "1"]
+[White "Vachier Lagrave,M"]
+[Black "Kasimdzhanov,R"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2672"]
+[EventDate "2009.07.07"]
+[ECO "B77"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. Bb3 Rc8 11. O-O-O Ne5 12. Kb1 Re8 13. h4 h5 14. g4
+hxg4 15. h5 Nxh5 16. Bh6 e6 17. Rdg1 g3 18. Rxh5 gxh5 19. Rxg3 Ng6 20. Nf5
+Bf6 21. Nxd6 Rc6 22. Nxe8 Bxe8 23. Qh2 h4 24. Rg2 Bxc3 25. bxc3 Qd1+ 26.
+Bc1 Qxf3 27. Rg1 Kh7 28. Qb8 Bd7 29. Qd8 Bc8 30. Qg5 Kg8 31. Qxh4 b6 32.
+Qe7 Kg7 33. Qxa7 e5 34. Rg5 Rf6 35. Qc7 Be6 36. Qxe5 Kg8 37. Qd4 Bxb3 38.
+axb3 Re6 39. Qd8+ Kg7 40. c4 Rxe4 41. Qd5 Qe2 42. Bb2+ Kh6 43. Rg1 Qf3 44.
+Bd4 b5 45. Bf6 bxc4 46. Qxf7 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.08"]
+[Round "2"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2703"]
+[EventDate "2009.07.07"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6
+8. f3 e6 9. Be3 b5 10. Qd2 Nbd7 11. g4 h6 12. O-O-O Bb7 13. h4 b4 14. Na4
+Qa5 15. b3 Nc5 16. a3 Rc8 17. Qxb4 Qc7 18. Nxc5 dxc5 19. Qa4+ Nd7 20. Ne2
+Bc6 21. Qc4 Ne5 22. Qc3 Nxf3 23. Bf4 e5 24. Qxf3 exf4 25. Qxf4 c4 26. b4 a5
+27. Qxc7 Rxc7 28. c3 Bxe4 29. Rh3 Be7 30. Nd4 axb4 31. axb4 O-O 32. Nb5 Rb7
+33. Nd6 Bxd6 34. Rxd6 Rc7 35. Rd4 Bb7 36. Rxc4 Re7 37. Rd4 Re1+ 38. Rd1
+Rfe8 39. Bd3 Bc8 40. Rg3 g5 41. hxg5 hxg5 42. Rxe1 Rxe1+ 43. Kd2 Re5 44.
+Re3 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.08"]
+[Round "2"]
+[White "Karpov,Ana"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2727"]
+[EventDate "2009.07.07"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5
+8. Qd2 cxd4 9. cxd4 Nc6 10. Bb5 O-O 11. Nf3 Bg4 12. Bxc6 Bxf3 13. gxf3 bxc6
+14. O-O c5 15. Rad1 cxd4 16. Bxd4 Bxd4 17. Qxd4 Qa5 18. Qd5 Qa6 19. Qe5
+Qxa2 20. Qxe7 a5 21. Ra1 Qe2 22. Kg2 Rfe8 23. Qg5 a4 24. Rfe1 Qa6 25. Re3
+Rad8 26. h4 h5 27. Rea3 Rd4 28. Rc3 Rc8 29. Rxc8+ Qxc8 30. Rc1 Qd8 31. Rc5
+Qxg5+ 32. Rxg5 Kg7 33. Ra5 f5 34. Ra7+ Kf6 35. Ra6+ Kf7 36. Ra7+ Ke6 37.
+Ra6+ Kd7 38. e5 Rxh4 39. Rxg6 Rd4 40. Ra6 h4 41. Kh3 Rf4 42. Kg2 Ke7 43.
+Rb6 h3+ 44. Kxh3 Rxf3+ 45. Kg2 Rb3 46. Ra6 a3 47. f3 f4 48. Kh3 Rxf3+ 49.
+Kg4 Rf2 50. Rxa3 Ke6 51. Ra5 f3 52. Kf4 Re2 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.08"]
+[Round "2"]
+[White "Movsesian,S"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2693"]
+[EventDate "2009.07.07"]
+[ECO "C02"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nh6 8.
+Bd3 Nf5 9. Bxf5 exf5 10. O-O h6 11. Nc3 Be6 12. h4 Be7 13. Ne2 Rc8 14. b3
+g6 15. Bf4 Kf8 16. Qd2 Kg7 17. Rfc1 Qa5 18. Qe3 Qd8 19. g3 Ba3 20. Rc2 Nb4
+21. Rxc8 Qxc8 22. Qd2 Qc2 23. Qxc2 Nxc2 24. Rd1 Rc8 25. Bd2 Be7 26. Rc1 Ba3
+27. Rd1 Be7 28. Rc1 Ba3 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.08"]
+[Round "2"]
+[White "Kasimdzhanov,R"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2739"]
+[EventDate "2009.07.07"]
+[ECO "D82"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
+Bxc4 O-O 9. Nf3 Nc6 10. O-O Qxc5 11. Bb3 Qa5 12. h3 Bf5 13. Qe2 Ne4 14. g4
+Nxc3 15. bxc3 Bd7 16. Rfd1 Rad8 17. Rd5 Qb6 18. Rb1 Bc8 19. Rb5 Qa6 20. Bc4
+Qa3 21. R5b3 Qc5 22. Rb5 Qa3 23. R5b3 Qc5 24. Rb5 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.08"]
+[Round "2"]
+[White "Granda Zuniga,J"]
+[Black "San Segundo Carrillo,P"]
+[Result "1-0"]
+[WhiteElo "2647"]
+[BlackElo "2570"]
+[EventDate "2009.07.07"]
+[ECO "A01"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. Nf3 Nc6 5. Bb5 Bd7 6. O-O e6 7. c4 a6 8.
+Ba4 Rb8 9. Na3 Bd6 10. d4 cxd4 11. cxd5 exd5 12. Bxc6 bxc6 13. exd4 O-O 14.
+Ne5 Re8 15. Nc2 Bxe5 16. dxe5 Ng4 17. f4 Qb6+ 18. Qd4 c5 19. Qxd5 Bf5 20.
+h3 Red8 21. Qf3 Rd3 22. Qe2 c4+ 23. Kh1 Rbd8 24. e6 Bxe6 25. f5 Rxh3+ 26.
+gxh3 Bd5+ 27. Rf3 cxb3 28. Nd4 Nf6 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.09"]
+[Round "3"]
+[White "Svidler,P"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2710"]
+[EventDate "2009.07.07"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. Nbd2 h6 8.
+c3 Qc7 9. Nh4 Bh7 10. f4 c5 11. Ndf3 Nc6 12. Be3 Be7 13. Bd3 cxd4 14. cxd4
+Bxd3 15. Qxd3 Nb4 16. Qb1 Qc2 17. a3 Qxb1 18. Raxb1 Nc6 19. f5 Nf8 20. g4
+h5 21. g5 exf5 22. Nxf5 Ne6 23. Rbc1 Rd8 24. b4 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.09"]
+[Round "3"]
+[White "Vachier Lagrave,M"]
+[Black "Karpov,Ana"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2644"]
+[EventDate "2009.07.07"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nd6
+8. Ne5 O-O 9. Qf3 c6 10. Re1 Nd7 11. Bf4 Re8 12. Nd2 Nf8 13. c4 dxc4 14.
+Ndxc4 Be6 15. Ne3 f6 16. N5g4 Nf7 17. d5 cxd5 18. Bb5 Bd7 19. Bxd7 Qxd7 20.
+Nxd5 Bd8 21. Rxe8 Qxe8 22. Qb3 b6 23. Nge3 Rc8 24. Nf5 Rc6 25. Bd6 Ng6 26.
+Bb4 Re6 27. h4 a5 28. Bc3 a4 29. Qc4 h5 30. Rd1 Nf8 31. Nf4 b5 32. Qd5 Rb6
+33. Nxh5 Qc6 34. Qxc6 Rxc6 35. Nhxg7 Rc4 36. Nh5 Nh7 37. a3 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.09"]
+[Round "3"]
+[White "Ponomariov,R"]
+[Black "Granda Zuniga,J"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2647"]
+[EventDate "2009.07.07"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. g3 dxc4 6. Bg2 Nbd7 7. O-O Be7 8.
+e4 O-O 9. Bf4 Qa5 10. a4 b6 11. Qe2 Re8 12. Bd2 Bb4 13. e5 Nd5 14. Ng5 Nf8
+15. Nge4 Rd8 16. h4 Bb7 17. h5 c5 18. dxc5 Nd7 19. h6 Nxc5 20. Qg4 g6 21.
+Nxd5 exd5 22. Bxb4 Qxb4 23. Nd6 Qxb2 24. Qg5 Rxd6 25. exd6 f6 26. Bxd5+ Kh8
+27. Bxb7 fxg5 28. Bxa8 Kg8 29. Rad1 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.09"]
+[Round "3"]
+[White "San Segundo Carrillo,P"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2716"]
+[EventDate "2009.07.07"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 cxd5 6. Bf4 Nc6 7. Rc1 Bf5
+8. e3 Rc8 9. Be2 e6 10. O-O Nd7 11. a3 Be7 12. b4 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.09"]
+[Round "3"]
+[White "Vallejo Pons,F"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2672"]
+[EventDate "2009.07.07"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. cxd5 Nxd3 10. Qxd3 Qxd5 11. Re1 Bf5 12. Nc3 Nxc3 13. Qxc3 Be6
+14. Re5 Qc6 15. Qa5 Rd8 16. Bg5 Bxg5 17. Nxg5 O-O 18. Nxe6 fxe6 19. Qc3
+1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.11"]
+[Round "4"]
+[White "Nakamura,Hi"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2693"]
+[EventDate "2009.07.07"]
+[ECO "B01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. Bf4 Nd5
+8. Nxd5 Nxe5 9. Bxe5 Qxd5 10. c4 Qa5+ 11. Qd2 Qxd2+ 12. Kxd2 Bf5 13. Kc3 e6
+14. Be2 O-O-O 15. Rad1 f6 16. Bf4 g5 17. Be3 h5 18. h3 Bd6 19. b4 Bc7 20.
+a4 a6 21. Kb3 Bg6 22. Rhf1 e5 23. dxe5 Bxe5 24. b5 axb5 25. cxb5 cxb5 26.
+axb5 Kb8 27. Bc4 Rc8 28. Kb4 Rhe8 29. b6 g4 30. hxg4 hxg4 31. Rfe1 Rc6 32.
+Bc5 Kc8 33. Re3 Rd8 34. Rxd8+ Kxd8 35. Bd5 Kd7 36. Kb5 Rc8 37. Bxb7 Rh8 38.
+Bc6+ Ke6 39. b7 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.11"]
+[Round "4"]
+[White "Movsesian,S"]
+[Black "Ponomariov,R"]
+[Result "0-1"]
+[WhiteElo "2716"]
+[BlackElo "2727"]
+[EventDate "2009.07.07"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8.
+Bg2 Nfd7 9. Be3 Nc6 10. Qe2 Nxd4 11. Bxd4 O-O 12. O-O-O b5 13. e5 d5 14.
+Nxd5 exd5 15. Bxd5 Rb8 16. Ba7 Rb7 17. Bxb7 Bxb7 18. Rhe1 Qc7 19. Kb1 Nc5
+20. Bxc5 Qxc5 21. f4 Bd5 22. Qe3 Qc6 23. f5 Bh4 24. Re2 h6 25. b3 Bf3 26.
+Rd6 Qa8 27. Rh2 Re8 28. Qf4 Bg5 29. Qd4 Be7 30. Rd7 Qb8 31. Qc3 Ba3 32. e6
+Rc8 33. exf7+ Kf8 34. Qa5 Be7 35. Qe1 Bc5 36. f6 g5 37. Rhd2 Bc6 38. Re7
+Qf4 39. Qe6 Qf1+ 40. Kb2 Ba3+ 41. Kxa3 Qc1+ 42. Kb4 Qxd2+ 43. c3 a5+ 44.
+Kxa5 Qxc3+ 45. Ka6 Ra8+ 46. Kb6 Qd4+ 47. Kc7 Qd8+ 48. Kxc6 Ra6+ 49. Kc5
+Rxe6 50. Rxe6 Qa5 51. Re7 Qxa2 0-1
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.11"]
+[Round "4"]
+[White "Kasimdzhanov,R"]
+[Black "San Segundo Carrillo,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2570"]
+[EventDate "2009.07.07"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 g6 5. e5 Ng4 6. Bxc6 dxc6 7. h3 Nh6
+8. g4 Bg7 9. d3 O-O 10. Be3 f5 11. g5 Nf7 12. Bf4 Qb6 13. b3 Nd8 14. Ne2
+Be6 15. c4 Bf7 16. Qd2 Ne6 17. O-O Rfd8 18. Bg3 a5 19. Nf4 a4 20. Qc2 Rd7
+21. Rfd1 Qa7 22. Rab1 axb3 23. axb3 Qa2 24. Rb2 Qa5 25. Nxe6 Bxe6 26. Bf4
+Qd8 27. Qc3 Qa5 28. Qxa5 Rxa5 29. Kf1 Kf7 30. Ke2 Rd8 31. Kd2 Ra3 32. Kc3
+b6 33. Rbd2 Rc8 34. h4 Ra5 35. Rh1 Rca8 36. h5 gxh5 37. Rxh5 Kg6 38. Rh3 b5
+39. Rb2 Ra1 40. Nh4+ Kf7 41. Nf3 Kg6 42. Nh4+ Kf7 43. Nf3 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.11"]
+[Round "4"]
+[White "Vachier Lagrave,M"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2703"]
+[BlackElo "2739"]
+[EventDate "2009.07.07"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Re4 g5 16. Qf1 Qh5 17. Nd2 f5 18. Re1 f4 19. Bd1 f3 20. Ne4 Bh3 21.
+Qd3 Rae8 22. Bd2 Rxe4 23. Qxe4 Bxg3 24. Bxf3 Bxh2+ 25. Kxh2 Bg4+ 26. Kg1
+Bxf3 27. Qe6+ Kg7 28. Qe5+ Rf6 29. Qh2 Rh6 0-1
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.11"]
+[Round "4"]
+[White "Karpov,Ana"]
+[Black "Granda Zuniga,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2647"]
+[EventDate "2009.07.07"]
+[ECO "D20"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Nbd2 Nc6 7. O-O
+Nf6 8. e5 Nd5 9. Nb3 Nb6 10. Bb5 Qd5 11. Bxc6+ Qxc6 12. Qxd4 Qc4 13. Bg5
+Qxd4 14. Nfxd4 h6 15. Bd2 Bxd2 16. Nxd2 Bd7 17. Rac1 O-O-O 18. f4 Kb8 19.
+a3 a6 20. Rfe1 Nd5 21. g3 Bg4 22. N2f3 Ne7 23. Kg2 Bc8 24. h3 Rd5 25. g4
+Rhd8 26. e6 f6 27. Nc2 g6 28. Re2 R5d6 29. Rce1 a5 30. b4 axb4 31. axb4 b6
+32. Kg3 Ba6 33. Re3 Kb7 34. Rc3 Bb5 35. Rc1 Nd5 36. Ra3 Ne7 37. Rc3 c6 38.
+Na3 Bd3 39. Re1 b5 40. Nc2 Bc4 41. Ra3 Rd3 42. Rxd3 Rxd3 43. Ne3 Bd5 44.
+Nxd5 cxd5 45. Kg2 Kc7 46. Nh4 Kd6 47. f5 gxf5 48. Nxf5+ Nxf5 49. gxf5 Ke7
+50. Ra1 Re3 51. Ra7+ Kd6 52. Rf7 Ke5 53. Rd7 d4 54. e7 Kxf5 55. Rd5+ Kg6
+56. Rxb5 Rxe7 57. Rd5 Re4 58. b5 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.12"]
+[Round "5"]
+[White "Svidler,P"]
+[Black "Karpov,Ana"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2644"]
+[EventDate "2009.07.07"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Nc6 6. O-O Bg4 7. Nc3 Nxc3
+8. bxc3 Be7 9. Bf4 Qd7 10. Rb1 Nd8 11. h3 Bh5 12. g4 Bg6 13. Bg3 Bxd3 14.
+cxd3 h5 15. e6 Nxe6 16. Ne5 Qc8 17. f4 h4 18. Bh2 O-O 19. g5 g6 20. f5 Nxg5
+21. f6 Bd6 22. Qd2 Nxh3+ 23. Kh1 Bxe5 24. Bxe5 Kh7 25. Qg2 g5 26. Rf3 Rg8
+27. Rxh3 Rg6 28. Rf1 Qe6 29. d4 Rag8 30. Re3 c6 31. Qe2 g4 32. Bc7 Qc8 33.
+Re7 Rg5 34. Rxf7+ Kg6 35. Qd3+ 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.12"]
+[Round "5"]
+[White "Granda Zuniga,J"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2716"]
+[EventDate "2009.07.07"]
+[ECO "E70"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 a6 7. O-O c6 8.
+f3 b5 9. Be3 Nbd7 10. Qe1 e5 11. Rd1 Bb7 12. b3 Re8 13. d5 cxd5 14. cxd5
+Nc5 15. Bc2 Qa5 16. a3 Ncd7 17. b4 Qc7 18. Rc1 Rec8 19. Bd3 Qd8 20. Qf2 Nh5
+21. Nb1 Rxc1 22. Rxc1 Rc8 23. Rxc8 Qxc8 24. g4 Nhf6 25. Nd2 Ne8 26. Nb3 Bf6
+27. Na5 Bd8 28. Kg2 Ba8 29. Qg1 Bxa5 30. bxa5 Nc5 31. Qc1 Qc7 32. Bb1 Bb7
+33. Qc3 Nf6 34. Ng3 Nfd7 35. h4 Qd8 36. Bg5 f6 37. Bd2 Na4 38. Qc1 Nac5 39.
+Bc2 Bc8 40. Bd1 Nb7 41. Qc3 Ndc5 42. Bc2 Kg7 43. Be1 Kg8 44. Kf1 Bd7 45.
+Ke2 Na4 46. Qb4 Qc7 47. Kd1 Kf7 48. g5 fxg5 49. hxg5 Nac5 50. Nh1 Bh3 51.
+Ke2 Kg8 52. Qc3 Qd8 53. Nf2 Bd7 54. Bd2 Na4 55. Qb4 Nac5 56. Kf1 h5 57.
+gxh6 g5 58. Qc3 Qf6 59. Kg2 Kh7 60. Ng4 Bxg4 61. fxg4 Kxh6 62. Qh3+ Kg7 63.
+Qh5 Qg6 64. Kh3 Nd7 65. a4 bxa4 66. Bxa4 Nf6 67. Qxg6+ Kxg6 68. Bb4 Nc5 69.
+Bc2 Nfd7 70. Kg2 Kf7 71. Kf3 Ke7 72. Ke3 Kf6 73. Kf3 Ke7 74. Ke3 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.12"]
+[Round "5"]
+[White "Ponomariov,R"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2672"]
+[EventDate "2009.07.07"]
+[ECO "E04"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Ne5 Bd7 8.
+Na3 cxd4 9. Naxc4 Be7 10. Qb3 Qc7 11. Nxc6 Bxc6 12. Bf4 Qd8 13. Bxc6+ bxc6
+14. Ne5 c5 15. Qa4+ Kf8 16. Rac1 Qe8 17. Qb3 Nd5 18. Qb7 f6 19. Nd7+ Kf7
+20. Nxc5 Qc8 21. Qb5 a6 22. Qa5 Qc6 23. Bd2 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.12"]
+[Round "5"]
+[White "San Segundo Carrillo,P"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2710"]
+[EventDate "2009.07.07"]
+[ECO "D52"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bg5 Nbd7 6. e3 Qa5 7. cxd5 Nxd5
+8. Qd2 Bb4 9. Rc1 e5 10. a3 Bxc3 11. bxc3 h6 12. Bh4 Qxa3 13. Bd3 exd4 14.
+cxd4 Qb4 15. Bg3 O-O 16. O-O a5 17. Ra1 a4 18. Qc2 Qa5 19. Bd6 Rd8 20. Rfb1
+N7f6 21. Ba3 Qc3 22. Qxc3 Nxc3 23. Rc1 Nb5 24. Bxb5 cxb5 25. Rab1 Bd7 26.
+Ne5 Be8 27. f3 Nd5 28. Kf2 f6 29. Nd3 Nb6 30. Rc7 Nd5 31. Rc2 Rac8 32. Rbc1
+Rc4 33. Ke2 Nb6 34. Nb2 Rxc2+ 35. Rxc2 Bg6 36. e4 f5 37. Rc5 fxe4 38. Rxb5
+Nd5 39. Rxb7 Rc8 40. Bc5 Nf4+ 41. Ke3 Nd5+ 42. Ke2 Ra8 43. Nc4 Nf4+ 44. Kd2
+Nxg2 45. fxe4 Bxe4 46. Re7 Bc6 47. Bd6 Nh4 48. Kc3 Nf5 49. Re1 Nxd6 50.
+Nxd6 a3 51. Nc4 a2 52. Ra1 Bd5 53. Nb6 Ra3+ 54. Kd2 Bf7 0-1
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.12"]
+[Round "5"]
+[White "Vallejo Pons,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2703"]
+[EventDate "2009.07.07"]
+[ECO "B23"]
+
+1. e4 c5 2. Nc3 a6 3. g4 b5 4. Bg2 Bb7 5. d3 e6 6. Nh3 b4 7. Na4 d5 8. O-O
+dxe4 9. dxe4 Nd7 10. b3 Qc7 11. Qe2 Ne7 12. Bb2 Nc6 13. Rad1 Nd4 14. Bxd4
+cxd4 15. Rxd4 Be7 16. Rfd1 Rd8 17. Qd2 e5 18. Rd5 Bxd5 19. exd5 Nb6 20.
+Nxb6 Qxb6 21. Ng5 O-O 22. Ne4 Bc5 23. Kh1 Rd7 24. Qg5 Bd4 25. d6 Rxd6 26.
+Nxd6 Qxd6 27. Be4 Qd8 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.13"]
+[Round "6"]
+[White "Nakamura,Hi"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2727"]
+[EventDate "2009.07.07"]
+[ECO "B96"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8.
+Qf3 Qc7 9. O-O-O b5 10. e5 Bb7 11. Qh3 dxe5 12. Nxe6 fxe6 13. Qxe6+ Be7 14.
+Bxb5 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.13"]
+[Round "6"]
+[White "Svidler,P"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2693"]
+[EventDate "2009.07.07"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Nd7 7. Nbd2 f6
+8. Nc4 Nf8 9. a3 Be6 10. Qe2 Bxc4 11. dxc4 Ne6 12. O-O 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.13"]
+[Round "6"]
+[White "Karpov,Ana"]
+[Black "Movsesian,S"]
+[Result "0-1"]
+[WhiteElo "2644"]
+[BlackElo "2716"]
+[EventDate "2009.07.07"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+Bd3 Bd6 9. cxd5 exd5 10. g4 g6 11. Bd2 Qe7 12. O-O-O O-O-O 13. Qg2 Rhe8 14.
+f3 Nf8 15. Kb1 Ne6 16. h4 Nd7 17. Bc1 Nb6 18. f4 Bb4 19. Ne2 Nc7 20. f5 c5
+21. a3 c4 22. Bc2 Ba5 23. h5 g5 24. f6 Qxf6 25. Bxh7 Nb5 26. Ka2 Qc6 27.
+Bc2 Nd6 28. h6 Nd7 29. h7 b5 30. Rh6 f6 31. Rf1 b4 32. axb4 Bxb4 33. Rfxf6
+Nxf6 34. Rxf6 Rh8 35. Qh2 c3 36. bxc3 Bxc3 37. Ba3 Bb4 38. Bxb4 Qxc2+ 0-1
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.13"]
+[Round "6"]
+[White "Kasimdzhanov,R"]
+[Black "Granda Zuniga,J"]
+[Result "1-0"]
+[WhiteElo "2672"]
+[BlackElo "2647"]
+[EventDate "2009.07.07"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. g3 e6 10. Bg2 Bb4 11. O-O O-O 12. e3 h6 13. Qe2 Bh7 14. Rd1
+Qe7 15. e4 Rfd8 16. Nd3 Rxd4 17. Be3 e5 18. Bxd4 exd4 19. Na2 Bd6 20. Re1
+Nfd7 21. e5 Bc7 22. Nac1 Re8 23. Be4 g6 24. Nb3 c5 25. e6 fxe6 26. Nxa5 Nf6
+27. Bxb7 c4 28. Ne5 d3 29. Qd2 Qc5 30. Naxc4 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.13"]
+[Round "6"]
+[White "Vachier Lagrave,M"]
+[Black "San Segundo Carrillo,P"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2570"]
+[EventDate "2009.07.07"]
+[ECO "B31"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. d4 Nxe4 7. d5 Nd6 8. Bd3
+Ne5 9. Nxe5 Bxe5 10. Re1 Bg7 11. Qe2 e6 12. Bf4 Qe7 13. Na3 O-O 14. Rad1 e5 15.
+Bxe5 Qxe5 16. Qxe5 Bxe5 17. Rxe5 Rb8 18. f4 b5 19. b4 c4 20. Be4 f6 21. Re7 Rf7
+22. Rxf7 Kxf7 23. Bf3 a5 24. Nc2 Ra8 25. Kf2 axb4 26. Nxb4 Ra3 27. Ke3 Nf5+ 28.
+Kd2 h5 29. Be4 Nd6 30. Bc2 Bb7 31. Ke3 Ne8 32. Kd4 d6 33. Re1 Nc7 34. f5 g5 35.
+Bd1 h4 36. g3 h3 37. Re3 Kf8 38. Bg4 Na6 39. Nxa6 Rxa2 40. Nc7 Rxh2 41. Re8+
+1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.14"]
+[Round "7"]
+[White "Granda Zuniga,J"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2710"]
+[EventDate "2009.07.07"]
+[ECO "A81"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. b4 Nc6 6. b5 Na5 7. Qd3 Ne4 8.
+c4 c5 9. Bb2 b6 10. Nbd2 Bb7 11. Nb3 d5 12. Nxa5 bxa5 13. O-O Rc8 14. Ne5
+O-O 15. Rfd1 a6 16. dxc5 Rxc5 17. Nc6 Bxc6 18. Bxg7 Kxg7 19. bxc6 Rxc4 20.
+Qxc4 dxc4 21. Rxd8 Rxd8 22. Bxe4 fxe4 23. Rc1 Kf6 24. Rxc4 Rc8 25. c7 Ke5
+26. Rc6 Kd5 27. Rxa6 Rxc7 28. Rxa5+ Ke6 29. e3 h5 30. Kg2 Kf6 31. Ra8 Rc2
+32. a4 Ra2 33. a5 Ra1 34. a6 Kf7 35. a7 Kg7 36. g4 hxg4 37. Kg3 Ra2 38.
+Kxg4 Kf7 39. Kg5 Kg7 40. h4 Kf7 41. Kg4 Kg7 42. Kh3 Ra1 43. Kg3 Ra2 44. Kf4
+Rxf2+ 45. Ke5 Ra2 46. Ke6 Ra5 47. Kxe7 Ra6 48. Kd7 Ra1 49. Ke6 Ra5 50. Kd6
+Ra1 51. Ke5 Ra4 52. Kd5 Kh7 53. Kc5 Ra1 54. Kd6 Kg7 55. Ke5 Ra4 56. Kf4 Kh7
+57. Kg4 Ra5 58. Re8 Rxa7 59. Rxe4 Kg7 60. Rf4 Ra5 61. Kf3 Re5 62. e4 Ra5
+63. e5 Rxe5 64. Ra4 g5 65. Rg4 Kg6 66. Rxg5+ Rxg5 67. hxg5 Kxg5 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.14"]
+[Round "7"]
+[White "San Segundo Carrillo,P"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2739"]
+[EventDate "2009.07.07"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Be3 Qa5 9. Qd2 O-O 10. Rc1 Bg4 11. Ng5 cxd4 12. cxd4 Nc6 13. Qxa5 Nxa5
+14. h3 Bd7 15. Bd3 Rfc8 16. Kd2 b5 17. Nf3 a6 18. g4 h6 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.14"]
+[Round "7"]
+[White "Ponomariov,R"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2703"]
+[EventDate "2009.07.07"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Bd7 11. Rb1 Qc7 12. Bd3 Rad8 13. Qc1 Bc8 14.
+Rd1 b6 15. h3 Bb7 16. dxc5 bxc5 17. Qa3 Na5 18. f3 c4 19. Bc2 Rxd1+ 20.
+Rxd1 Be5 21. Qc5 Nc6 22. Qxc4 Rc8 23. Bb3 e6 24. Qc5 Ba6 25. Nd4 Nxd4 26.
+cxd4 Bf4 27. Bxf4 Qxf4 28. Qa5 Qe3+ 29. Kh2 Bc4 30. Bxc4 Rxc4 31. Qe5 Rb4
+32. d5 Qc5 33. Qf6 exd5 34. exd5 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.14"]
+[Round "7"]
+[White "Movsesian,S"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2672"]
+[EventDate "2009.07.07"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 Nf6 6. O-O Be7 7. h3 O-O
+8. c3 b6 9. Bc2 Bb7 10. d4 Nbd7 11. a4 a6 12. Re1 Re8 13. Bg5 h6 14. Bh4
+Nh5 15. Qd3 Nf8 16. Bxe7 Rxe7 17. Nbd2 Nf6 18. Bb3 Rxe1+ 19. Rxe1 Qd7 20.
+Re3 Re8 21. Qe2 Rxe3 22. Qxe3 a5 23. Bd1 Bc6 24. b3 Nd5 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.14"]
+[Round "7"]
+[White "Vallejo Pons,F"]
+[Black "Karpov,Ana"]
+[Result "1-0"]
+[WhiteElo "2693"]
+[BlackElo "2644"]
+[EventDate "2009.07.07"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. g4 Bg6 6. Ne2 c5 7. h4 h5 8. Nf4
+Bh7 9. Nxh5 cxd4 10. Nb3 Nc6 11. Nxd4 Nge7 12. c3 Nxe5 13. Bg5 N5c6 14. Bb5
+Rc8 15. Qe2 Qd6 16. Rh3 a6 17. Bxc6+ Nxc6 18. Rd1 Nxd4 19. Rxd4 Bb1 20. Qd1
+Rxh5 21. gxh5 Bf5 22. Re3 Qh2 23. Qf3 Be4 24. Rexe4 dxe4 25. Qxe4 Qc7 26.
+Kd1 Bc5 27. Rd2 Qc6 28. Qd3 Be7 29. Kc1 b5 30. a3 a5 31. Kb1 b4 32. cxb4
+axb4 33. axb4 f5 34. Bxe7 Kxe7 35. Rd1 Qb7 36. b5 Qc7 37. Qd2 Rb8 38. Qg5+
+Kf8 39. h6 Kg8 40. hxg7 Qc4 41. Rd8+ Rxd8 42. Qxd8+ Kxg7 43. Qd7+ Kf6 44.
+Qc6 Qa4 45. Qc3+ Kg6 46. Qd3 Kh5 47. b6 Qc6 48. Qd4 Qb5 49. b4 e5 50. Qc5
+Qf1+ 51. Qc1 Qd3+ 52. Ka2 f4 53. Qc5 Kxh4 54. Qxe5 Qc2+ 55. Ka3 Qxf2 56.
+Qe7+ Kg3 57. b7 Qa7+ 58. Kb3 Kf3 59. Qc7 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.15"]
+[Round "8"]
+[White "Nakamura,Hi"]
+[Black "Movsesian,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2716"]
+[EventDate "2009.07.07"]
+[ECO "C41"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 a6 8.
+Qe2 c6 9. Rd1 exd4 10. Nxd4 Re8 11. Nf3 Bf8 12. Be3 h6 13. Qd3 Qe7 14. Bd4
+a5 15. Nh4 Ne5 16. Bxe5 dxe5 17. Ng6 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.15"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2727"]
+[EventDate "2009.07.07"]
+[ECO "B31"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nh6 7. a3 f6 8.
+b4 Nf7 9. Bb2 e5 10. bxc5 Qa5+ 11. Nbd2 Qxc5 12. a4 Qa5 13. Ba3 Bf8 14. Qc1
+Be6 15. O-O Qc7 16. Bxf8 Kxf8 17. d4 Kg7 18. dxe5 fxe5 19. a5 b5 20. axb6
+axb6 21. Qb2 b5 22. Rfc1 Qd6 23. Nb3 Rhd8 24. Na5 Rab8 25. Nb3 Ra8 26. Na5
+Rab8 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.15"]
+[Round "8"]
+[White "Karpov,Ana"]
+[Black "Kasimdzhanov,R"]
+[Result "0-1"]
+[WhiteElo "2644"]
+[BlackElo "2672"]
+[EventDate "2009.07.07"]
+[ECO "D47"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Be2 Bb7 9. a3 a6 10. O-O c5 11. dxc5 Bxc5 12. b4 Be7 13. Qb3 O-O 14. Rd1
+Qc7 15. Bb2 Rac8 16. Rac1 Qb8 17. h3 Nb6 18. Ba1 Rfd8 19. Rxd8+ Rxd8 20.
+Qb1 h6 21. Rd1 Rc8 22. Nd2 Qa8 23. Bf1 Rc7 24. Bb2 Qc8 25. Rc1 Bd6 26. Ne2
+Na4 27. Ba1 Qd8 28. Bd4 Rd7 29. Bxf6 gxf6 30. Nd4 f5 31. g3 Bxg3 32. Bg2
+Rxd4 33. exd4 Bxf2+ 34. Kxf2 Qxd4+ 35. Ke2 Bxg2 36. Qd3 Qxd3+ 37. Kxd3 Bxh3
+38. Rc6 Bg2 39. Rxa6 h5 40. Ke3 h4 41. Nf3 h3 42. Kf2 Nc3 43. a4 Nxa4 44.
+Kg3 Bxf3 45. Kxf3 Nc3 46. Kg3 Nd5 47. Ra5 Nxb4 48. Rxb5 Nd5 49. Kxh3 Kg7
+50. Kg3 Kf6 51. Kf3 Ne7 52. Rb6 Ng6 53. Ra6 Kg5 54. Ra1 f4 55. Ra7 f5 56.
+Rg7 e5 57. Rg8 e4+ 58. Kf2 Kf6 59. Ke2 f3+ 60. Ke3 f4+ 61. Kf2 Ne5 62. Rf8+
+Ke7 0-1
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.15"]
+[Round "8"]
+[White "Vachier Lagrave,M"]
+[Black "Granda Zuniga,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2647"]
+[EventDate "2009.07.07"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. Re1 a6 7. Bxc6 Bxc6
+8. d4 Be7 9. Nc3 exd4 10. Nxd4 Bd7 11. Qf3 O-O 12. Nf5 Bxf5 13. Qxf5 Re8
+14. Bf4 Qc8 15. Qxc8 Raxc8 16. Rad1 Bf8 17. h3 h5 18. f3 g6 19. g4 Bg7 20.
+Bc1 hxg4 21. hxg4 Nd7 22. Nd5 f6 23. Kg2 Kf7 24. Be3 f5 25. exf5 gxf5 26.
+gxf5 Bxb2 27. Rb1 Nf6 28. Nxf6 Bxf6 29. Rxb7 Bc3 30. Re2 Re7 31. Kf1 Rce8
+32. Bg5 Rxe2 33. Rxc7+ Kg8 34. Rxc3 R2e5 35. Rc6 Rxf5 36. f4 Ra5 37. Rxd6
+Rc8 38. Ke2 Rxc2+ 39. Kf3 Kf7 40. Bf6 Raxa2 41. Ke4 Rd2 42. Rb6 Ke8 43. Be5
+Kd7 44. Kf5 Rd5 45. Rb7+ Kc6 46. Rc7+ Kb6 47. Rc8 Re2 48. Ke6 Rd3 49. Rb8+
+Ka7 50. Rc8 a5 51. f5 Rde3 52. Rc5 Kb6 53. Rd5 a4 54. f6 a3 55. f7 Rf3 56.
+Rd6+ Kb5 57. Rd3 Rxd3 58. f8=Q Rde3 59. Qb8+ Ka4 60. Qa8+ Kb4 61. Qb7+ Ka5
+62. Qa7+ Kb5 63. Qb7+ Ka5 64. Qd5+ Kb4 65. Qb7+ Ka5 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.15"]
+[Round "8"]
+[White "Vallejo Pons,F"]
+[Black "San Segundo Carrillo,P"]
+[Result "1-0"]
+[WhiteElo "2693"]
+[BlackElo "2570"]
+[EventDate "2009.07.07"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bxb5 axb5 12. Nxb5 Ra4 13. Nbc7+ Kd7
+14. O-O Rxe4 15. Qh5 Nd4 16. c3 Ne2+ 17. Kh1 Kc6 18. g3 Rg8 19. Qf3 Nf4 20.
+gxf4 Bb7 21. Qd3 Qxc7 22. Nxc7 Kxc7 23. f3 Rxf4 24. Rf2 e4 25. Qc4+ Kb6 26.
+a4 Rxf3 27. a5+ Ka7 28. a6 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.16"]
+[Round "9"]
+[White "Kasimdzhanov,R"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2710"]
+[EventDate "2009.07.07"]
+[ECO "E17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 O-O 8.
+d5 Nd6 9. b3 f5 10. Rc1 Bf6 11. Bf4 Qe7 12. Be5 Na6 13. O-O Nf7 14. Bxf6
+Qxf6 15. e4 f4 16. Qd2 g5 17. e5 Nxe5 18. Nxe5 Qxe5 19. Rfe1 Qf5 20. Be4
+Qh3 21. Bg2 Qf5 22. Be4 Qh3 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.16"]
+[Round "9"]
+[White "Granda Zuniga,J"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2739"]
+[EventDate "2009.07.07"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. Bf4 Be6
+8. Qa3 O-O 9. e3 N8d7 10. Rc1 c6 11. Ne4 Bf5 12. Bd3 Nd5 13. Bg3 Qb6 14.
+Rc4 Rfe8 15. O-O e5 16. dxe5 Nxe5 17. Nxe5 Bxe5 18. Bxe5 Rxe5 19. Nc5 Bxd3
+20. Nxd3 Ree8 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.16"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2693"]
+[EventDate "2009.07.07"]
+[ECO "D41"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4
+8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nc6 12. O-O b6 13. Rfe1 Bb7
+14. d5 Na5 15. Bd3 h6 16. Qf4 Rc8 17. Rad1 Rc5 18. Nd4 exd5 19. e5 Bc8 20.
+h4 Nc4 21. Bf5 Re8 22. Rd3 Nd6 23. Bxc8 Qxc8 24. Rg3 Re6 25. Nxe6 Qxe6 26.
+Qg4 Nf5 27. Rf3 g6 28. h5 Rc4 29. Rf4 Rxf4 30. Qxf4 gxh5 31. Rd1 d4 32. Rd3
+Qd7 33. Rf3 d3 34. Qd2 Qe6 35. Qxd3 Ne7 36. Qd6 1-0
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.16"]
+[Round "9"]
+[White "San Segundo Carrillo,P"]
+[Black "Karpov,Ana"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2644"]
+[EventDate "2009.07.07"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. Qc2 c5 8.
+dxc5 Nxc5 9. Be2 dxc4 10. Bxc4 a6 11. a4 b6 12. O-O Bb7 13. Qe2 Qe8 14. Nd4
+Nfe4 15. Nxe4 Nxe4 16. Rfd1 1/2-1/2
+
+[Event "City of Culture GM"]
+[Site "Donostia ESP"]
+[Date "2009.07.16"]
+[Round "9"]
+[White "Movsesian,S"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2703"]
+[EventDate "2009.07.07"]
+[ECO "B84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8.
+f4 O-O 9. a4 Nc6 10. Be3 Qc7 11. Kh1 Re8 12. Bf3 Rb8 13. Qd2 Bd7 14. Qf2
+Nxd4 15. Bxd4 e5 16. Bb6 Qc4 17. fxe5 dxe5 18. Nd5 Rbc8 19. Rad1 Nxd5 20.
+exd5 Qxc2 21. Rd2 Qxa4 22. d6 Bh4 23. g3 Bf6 1/2-1/2
+
+
+[Event "City of Culture GM Playoff"]
+[Site "Donostia ESP"]
+[Date "2009.07.16"]
+[Round "1"]
+[White "Nakamura,Hi"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2727"]
+[EventDate "2009.07.16"]
+[ECO "B81"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 h6 7. Bg2 Nc6 8.
+h3 a6 9. Be3 Ne5 10. Qe2 g5 11. f4 gxf4 12. Bxf4 Nfd7 13. O-O-O b5 14. Qf2
+Bb7 15. Kb1 Qb6 16. Rhf1 Be7 17. Be3 Qc7 18. Nf3 Rh7 19. Bd4 b4 20. Na4 Nc4
+21. Nd2 Rc8 22. Nxc4 Qxc4 23. b3 Qb5 24. Nb2 Ne5 25. Bxe5 dxe5 26. Nc4 Rxc4
+27. bxc4 Qxc4 28. Qb6 Qc6 29. Qa5 f6 30. h4 Rg7 31. Bf3 Rg8 32. g5 hxg5 33.
+Qxe5 Kf7 34. Qg3 g4 35. Bxg4 Qc5 36. Bxe6+ 1-0
+
+[Event "City of Culture GM Playoff"]
+[Site "Donostia ESP"]
+[Date "2009.07.16"]
+[Round "2"]
+[White "Ponomariov,R"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[ECO "D19"]
+[WhiteElo "2727"]
+[BlackElo "2710"]
+[EventDate "2009.07.16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Nbd7 8. O-O
+Bb4 9. Qe2 Bg6 10. e4 O-O 11. Bd3 Bh5 12. Bf4 c5 13. e5 Bxc3 14. bxc3 Nd5 15.
+Bd2 cxd4 16. cxd4 Nb8 17. h3 Nc6 18. g4 Bg6 19. Bb5 Rc8 20. Rfc1 Nde7 21. Kg2
+Nxd4 22. Nxd4 Qxd4 23. Qe3 Qxe3 24. Bxe3 a6 25. Bf1 Bc2 26. Kg3 Nd5 27. Bd2 Rc7
+28. a5 Rd8 29. Ra2 Rdc8 30. Rb2 h6 31. f4 Nc3 32. Kh2 Ne4 33. Be3 Ba4 34. Rxc7
+Rxc7 35. Bg2 Rc2 36. Rxb7 Re2 37. Bb6 Bc6 38. Rc7 Bd5 39. Kg1 Re1+ 40. Kh2 Re2
+41. Rc8+ Kh7 42. Rc1 Nd2 43. Rg1 Nf3+ 44. Kg3 Nxg1 0-1

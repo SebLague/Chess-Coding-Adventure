@@ -1,0 +1,773 @@
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.13"]
+[Round "1.1"]
+[White "Karjakin, Sergey"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2770"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "5202213"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. h3 Ne7 8. d4 Bb6
+9. Bd3 Ng6 10. Re1 Re8 11. Nbd2 c6 12. Nf1 d5 13. Bg5 dxe4 14. Rxe4 h6 15. Bxf6
+Qxf6 16. Re3 Bf5 17. Bxf5 Qxf5 18. Ng3 Qd7 19. Nxe5 Nxe5 20. Rxe5 Rxe5 21. dxe5
+Qe7 22. Qh5 g6 23. Qe2 Qg5 24. Kf1 Kf8 25. Re1 Re8 26. Qd3 Rxe5 27. Qd6+ Re7 28.
+Ne4 Qf5 29. Re2 Bc7 30. Qd4 Qe5 31. Qxa7 Qh2 32. Ng3 Bxg3 33. Rxe7 Qh1+ 34. Ke2
+Kxe7 35. Qe3+ Kf6 36. Qxg3 Qb1 37. Qf4+ Kg7 38. Qd4+ Kg8 39. Qb4 Qxa2 40. Qxb7
+Qc4+ 41. Ke3 Qc5+ 42. Kf3 Qd5+ 43. Kg3 Qg5+ 44. Kh2 Qf4+ 45. Kg1 Qc1+ 46. Kh2
+Qf4+ 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.13"]
+[Round "1.2"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2855"]
+[BlackElo "2787"]
+[ECO "B20"]
+[Opening "Sicilian"]
+[Variation "Keres variation (2.Ne2)"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2016.07.13"]
+
+1. e4 c5 2. Ne2 d6 3. Nbc3 a6 4. g3 g6 5. Bg2 Bg7 6. d4 cxd4 7. Nxd4 Nf6 8. O-O
+O-O 9. b3 Nc6 10. Nxc6 bxc6 11. Bb2 Qa5 12. Na4 Bg4 13. Qe1 Qh5 14. f3 Bh3 15.
+g4 Qh6 16. Rd1 g5 17. Bc1 Bxg2 18. Kxg2 Qg6 19. h4 gxh4 20. Qxh4 d5 21. g5 dxe4
+22. f4 e6 23. c4 Rfd8 24. Rde1 Ne8 25. Nc5 Nd6 26. Qf2 f5 27. Bb2 Nf7 28. Bxg7
+Kxg7 29. Qg3 Rd6 30. Rd1 Rad8 31. Rxd6 Rxd6 32. Qc3+ Kg8 33. Rf2 Qh5 34. Qh3 Qd1
+35. Qe3 e5 36. Qg3 Rg6 37. Kh2 exf4 38. Qxf4 Qh5+ 39. Kg1 Qd1+ 40. Kh2 Qh5+ 41.
+Kg1 Nxg5 42. Qb8+ Kg7 43. Qe5+ Kh6 44. Qf4 Qd1+ 45. Kh2 Qd4 46. b4 Kg7 47. Qc7+
+Kh8 48. Qc8+ Rg8 49. Qxf5 Nf3+ 50. Kh3 Qd6 0-1
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.13"]
+[Round "1.3"]
+[White "Giri, Anish"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2696"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "24116068"]
+[BlackFideId "8603405"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 h6 8. Nbd2 O-O
+9. Re1 Ne7 10. Nf1 Ng6 11. Bb3 c6 12. h3 d5 13. exd5 Nxd5 14. Nxe5 Bxf2+ 15.
+Kxf2 Nxe5 16. d4 Ng6 17. Kg1 Qh4 18. Bd2 Bd7 19. Qf3 Rae8 20. Ng3 Re6 21. Nh5
+Rfe8 22. Rf1 Qe7 23. Qg3 Re2 24. Rae1 Rxe1 25. Rxe1 Qh4 26. Rxe8+ Bxe8 27. Qxh4
+Nxh4 28. c4 Ne7 29. Kf2 Nhf5 30. d5 Nd4 31. Ba2 cxd5 32. cxd5 Bxa4 33. Bc3 Bb3
+34. d6 Nec6 35. Bxd4 Bxa2 36. Bxg7 Kh7 37. Bc3 Be6 38. Nf6+ Kg6 39. d7 a5 40. g4
+b5 41. h4 b4 42. Be5 a4 43. h5+ Kg7 44. Ne4+ Kh7 45. Bd6 f5 46. Nc5 a3 47. bxa3
+b3 48. Be5 Bxd7 49. Bc3 Bc8 50. Nxb3 fxg4 51. Kg3 Ne7 52. Nc5 Nf5+ 53. Kxg4 Nd4+
+54. Kh4 Nf5+ 55. Kh3 Ng7+ 56. Kh4 Nf5+ 57. Kh3 Ng7+ 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.14"]
+[Round "2.1"]
+[White "So, Wesley"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2787"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "2016192"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bg5 Ba6 10. Qa4 Qd7 11. Qc2 c5 12. dxc5 Rc8 13. Bxf6 gxf6 14. Rd1 Qe7
+15. Qe4 Qxc5 16. e3 Bxf1 17. Kxf1 Nc6 18. g3 Ne5 19. Kg2 Qc6 20. Qxc6 Rxc6 21.
+Nxe5 fxe5 22. Rd2 Rac8 23. Rhd1 Rc2 24. Kf3 Kg7 25. e4 a5 26. Ke3 R2c5 27. Rb1
+a4 28. b3 axb3 29. Rxb3 Ra5 30. Rdd3 b5 31. Kd2 Rc4 32. f3 Rca4 33. Rdc3 Rd4+
+34. Ke3 Rxa3 35. Rxa3 b4 36. f4 bxa3 37. Rxa3 Rb4 38. fxe5 Rb5 39. Kf4 Rb2 40.
+h4 h6 41. g4 Rh2 42. h5 Rh1 43. Rf3 Rg1 44. Rf2 Rh1 45. Rf3 Rg1 46. Rf2 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.14"]
+[Round "2.2"]
+[White "Wei, Yi"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2855"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[WhiteFideId "8603405"]
+[BlackFideId "1503014"]
+[EventDate "2016.07.13"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Be3 a6 5. f4 b5 6. Nf3 Nd7 7. e5 Bb7 8. Bd3 c5
+9. Be4 Bxe4 10. Nxe4 Nh6 11. dxc5 dxe5 12. c6 Nf6 13. Qxd8+ Rxd8 14. Nxf6+ exf6
+15. c7 Rc8 16. Bb6 Kd7 17. Ba5 Nf5 18. O-O-O+ Kc6 19. Rd8 Nd6 20. fxe5 fxe5 21.
+Rd1 Nc4 22. Bc3 Rxc7 23. b3 Ne3 24. Bxe5 Nxd1 25. Rd6+ Kb7 26. Bxg7 Rg8 27. Bd4
+Nc3 28. Rb6+ Kc8 29. Be5 Rd8 30. Kb2 Nd5 31. Bxc7 Kxc7 32. Rxa6 Kb7 33. Ra3 Ne3
+34. c4 bxc4 35. Ne5 Rd2+ 36. Kc3 Rc2+ 37. Kd4 Nf5+ 38. Kd5 c3 39. Kc5 Nd6 40.
+Nc6 Ne4+ 41. Kb5 Kc7 42. Ra7+ Kd6 43. Ra4 f5 44. Kb6 Rxg2 45. Rd4+ Ke6 46. a4
+Ra2 47. a5 Rb2 48. Kc7 Nc5 49. Rc4 Na6+ 50. Kb6 Rxb3+ 51. Kxa6 Kd5 52. Rb4 c2
+53. Ne7+ Kc5 54. Rxb3 c1=Q 55. Rb6 Qc4+ 56. Kb7 Qe4+ 57. Nc6 Qd5 58. Kc7 Qd6+
+59. Kb7 Qd7+ 60. Kb8 f4 0-1
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.14"]
+[Round "2.3"]
+[White "Karjakin, Sergey"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2785"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14109603"]
+[BlackFideId "24116068"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. c3 d5 7. exd5 Nxd5 8. a4
+a6 9. a5 b5 10. axb6 Nxb6 11. Bb3 Bg4 12. Qe2 Kh8 13. Be3 Bd6 14. h3 Bh5 15. g4
+Bg6 16. Nbd2 Be7 17. Ne4 f5 18. gxf5 Bxf5 19. Kh2 Qe8 20. Nfd2 Qd7 21. Rg1 Bxh3
+22. Qh5 Bf5 23. Rxg7 Kxg7 24. Rg1+ Kh8 25. Qh6 Bd6 26. Bxb6 Bxe4 27. Nxe4 cxb6
+28. Rg6 Na5 29. Rxd6 Qg7 30. Qxg7+ Kxg7 31. Rd7+ Kh8 32. Be6 h6 33. b4 Nc6 34.
+Bd5 Rac8 35. Rb7 b5 36. Kh3 Rf4 37. Kg2 Rg4+ 38. Kf1 Rg7 39. Rb6 Ne7 40. Rxh6+
+Rh7 41. Rd6 Nxd5 42. Rxd5 Re7 43. Rd6 Ra8 44. Kg2 Rf7 45. Kf1 Re7 46. Ke2 a5 47.
+bxa5 Rxa5 48. Rb6 Rc7 49. Ke3 Kg8 50. Re6 b4 51. cxb4 Rb5 52. Nc5 Ra7 53. Rxe5
+Rxb4 54. Ne4 Kf7 55. f4 Ra1 56. f5 Re1+ 57. Kd2 Rf1 58. Nd6+ Kf8 59. Re8+ Kg7
+60. Re6 Rbf4 61. f6+ Kg6 62. f7+ Kg7 63. Re8 Rf6 64. Rg8+ Kh7 65. Rd8 Kg7 66.
+Ke2 R6f2+ 67. Ke3 Rxf7 68. Nxf7 Kxf7 69. Rd4 Ke6 70. Rf4 Rxf4 71. Kxf4 Kd5 72.
+Ke3 Ke5 73. d4+ Kd5 74. Kd3 Kd6 75. Kc4 Kc6 76. d5+ Kd6 77. Kd4 Kd7 78. Ke5 Ke7
+79. d6+ Kd7 80. Kd5 Kd8 81. Ke6 Ke8 82. d7+ Kd8 83. Kd6 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.15"]
+[Round "3.1"]
+[White "Giri, Anish"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2770"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Re1 a6 7. a4 Ng4 8. Rf1
+h6 9. c3 d6 10. Nbd2 Ba7 11. h3 Nf6 12. Re1 Nh5 13. Nf1 Qf6 14. Ne3 Nf4 15. Ng4
+Qg6 16. Bxf4 exf4 17. d4 Bxg4 18. hxg4 Qxg4 19. Qd3 Ne7 20. Re2 Rad8 21. b4 Bb8
+22. b5 axb5 23. axb5 c6 24. Rb1 d5 25. Ba2 dxe4 26. Rxe4 Bd6 27. bxc6 bxc6 28.
+Rxe7 Bxe7 29. Ne5 Qg5 30. Qc4 Qf6 31. Rb7 c5 32. Nd7 Rxd7 33. Rxd7 cxd4 34. Rxd4
+Rd8 35. Rxd8+ Bxd8 36. Qe4 Be7 37. Qd4 Qxd4 38. cxd4 Bf6 39. d5 Be7 40. f3 Bc5+
+41. Kf1 Kf8 42. Bc4 Ke7 43. Bb5 Kd6 44. Be8 f6 45. Bf7 Ke5 46. Be6 f5 47. Bd7
+Kf6 48. Ke2 g6 49. Be8 g5 50. Bd7 Bb6 51. Kf1 Ba7 52. Ke2 Bc5 53. Kf1 h5 54. Be8
+h4 55. Bd7 Ke5 56. Ke2 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.15"]
+[Round "3.2"]
+[White "Carlsen, Magnus"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2855"]
+[BlackElo "2773"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[WhiteFideId "1503014"]
+[BlackFideId "14109603"]
+[EventDate "2016.07.13"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Bb5+ Nc6 7. d4 Qb6 8. Ba4
+cxd4 9. cxd4 O-O 10. d5 Nb8 11. Nc3 Bg4 12. h3 Bxf3 13. Qxf3 Nbd7 14. Rb1 Rfc8
+15. Bc2 Ne5 16. Qe2 Nfd7 17. Bg5 h6 18. Bh4 g5 19. Bg3 Qa6 20. Qd1 Rc4 21. Kh1
+Rac8 22. f4 gxf4 23. Bxf4 Qb6 24. Qh5 Nf6 25. Qf5 Qd8 26. Bb3 Rd4 27. Bxe5 dxe5
+28. Rbd1 Qd7 29. Qf3 Rb4 30. Rd2 Rf8 31. g4 a5 32. Rg2 Nh7 33. h4 Rb6 34. g5 Kh8
+35. Rfg1 f5 36. Qh3 Rb4 37. gxh6 Bxh6 38. Qg3 Nf6 39. Qg6 Ng4 40. Rxg4 1-0
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.15"]
+[Round "3.3"]
+[White "Nakamura, Hikaru"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2696"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "2016192"]
+[BlackFideId "8603405"]
+[EventDate "2016.07.13"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. Rfe1 Bb7 14. a4
+Rc8 15. Bd3 a5 16. Bb5 h6 17. Qb2 Bc6 18. Rad1 Bxb5 19. Qxb5 Qc7 20. d5 exd5 21.
+exd5 Qd6 22. Nd4 Rc5 23. Qf1 Rxd5 24. Nf5 Rxd1 25. Nxd6 Rxd6 26. Rd1 Rxd1 27.
+Qxd1 Nc5 28. h4 Re8 29. h5 Re6 30. f4 Kh7 31. Qd5 Rf6 32. Qe5 Re6 33. Qd5 Rf6
+34. Qe5 Re6 35. Qd5 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.16"]
+[Round "4.1"]
+[White "Wei, Yi"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2773"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "8603405"]
+[BlackFideId "14109603"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 c5 5. a3 Bxd2+ 6. Qxd2 cxd4 7. Nf3 b6 8.
+Bg2 Bb7 9. O-O Bxf3 10. exf3 Nc6 11. f4 O-O 12. b4 Rc8 13. Bb2 d6 14. Bxc6 Rxc6
+15. Qxd4 Qc7 16. Rfc1 Rc8 17. b5 Rc5 18. a4 Ne8 19. Qe3 Qb7 20. Qd3 Qc7 21. Qe3
+Qb7 22. Qd3 Qc7 23. Qe3 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.16"]
+[Round "4.2"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2855"]
+[BlackElo "2770"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Qe2 Qe7 7. Nbd2 Bg4 8.
+h3 Bh5 9. a3 Nd7 10. b4 Bd6 11. Nc4 f6 12. Ne3 a5 13. Nf5 Qf8 14. bxa5 Rxa5 15.
+O-O Qf7 16. a4 Nc5 17. Qe1 b6 18. Nd2 Rxa4 19. Nc4 Bf8 20. Be3 Kd7 21. Qc3 Nxe4
+22. Nxb6+ cxb6 23. dxe4 Qc4 24. Qd2+ Kc7 25. g4 Bg6 26. Rfd1 1-0
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.16"]
+[Round "4.3"]
+[White "Nakamura, Hikaru"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2785"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "24116068"]
+[EventDate "2016.07.13"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Be2 Bb7 11. a3 a5 12. e4 e5 13. Rd1 Qc7 14. g3 Rfe8 15. dxe5
+Nxe5 16. Bg5 Nxf3+ 17. Bxf3 Be5 18. Bxf6 gxf6 19. Bg4 Rad8 20. Bf5 Bc8 21. Bxc8
+Qxc8 22. Ne2 a4 23. f4 Bb8 24. Kg2 Ba7 25. h3 h5 26. f5 Qc7 27. h4 Qe5 28. Kf3
+Rd5 29. Nf4 Rc5 30. Qe2 Rc4 31. Re1 Rd4 32. Nxh5 Red8 33. Rad1 Rxd1 34. Rxd1
+Rxd1 35. Qxd1 Bd4 36. Qc1 Kh7 37. Qxc6 Bxb2 38. Qb7 Qc3+ 39. Kg2 Qc4 40. Nf4 Be5
+41. Ne6 Kh6 42. Qa8 Qe2+ 43. Kh3 Qf1+ 44. Kg4 Qd1+ 45. Kh3 Qh1+ 46. Kg4 Qd1+ 47.
+Kh3 Qh1+ 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.17"]
+[Round "5.1"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2787"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "14109603"]
+[BlackFideId "2016192"]
+[EventDate "2016.07.13"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. a3 Qa5 10. Rd1 Re8 11. Nd2 e5 12. Bg5 Nd4 13. Qa4 Qxa4 14. Nxa4 Nc2+ 15.
+Ke2 Nd4+ 16. Ke1 Nc2+ 17. Ke2 Nd4+ 18. Ke1 Nc2+ 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.17"]
+[Round "5.2"]
+[White "Giri, Anish"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2855"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Alekhine defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "1503014"]
+[EventDate "2016.07.13"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. h3 Bh5 7. Nc3 Nc6 8. O-O
+Nf6 9. b3 Bd6 10. Bb2 O-O 11. Be2 Qe7 12. Rc1 Rad8 13. Ne5 Nxe5 14. Bxh5 Ng6 15.
+Bxg6 hxg6 16. Qf3 c6 17. Rfd1 e5 18. dxe5 Bxe5 19. Rxd8 Rxd8 20. Rd1 b5 21. g3
+Rxd1+ 22. Qxd1 c5 23. Qd3 Kh7 24. Nd1 Bxb2 25. Nxb2 Qe6 26. g4 Qc6 27. Qe2 Ne4
+28. Qc2 Ng5 29. f4 Ne6 30. Qg2 Qd6 31. Qe2 Qd5 32. Qg2 Qd6 33. h4 Nc7 34. h5
+gxh5 35. gxh5 Qe7 36. Qf3 Qd7 37. Nd1 Qd5 38. Qe2 Qf5 39. Nf2 Nd5 40. Kg2 c4 41.
+bxc4 bxc4 42. Kg3 c3 43. Qxa6 c2 44. Qd3 Ne7 45. Qc4 Qxh5 46. Qxc2+ Nf5+ 47. Kg2
+Qg6+ 48. Kh2 Qg3+ 49. Kh1 g6 50. Qe2 Nxe3 51. Ne4 Qxf4 52. Qh2+ Qxh2+ 53. Kxh2
+Nc4 54. Kg3 Kg7 55. a4 f5 56. Ng5 Kf6 57. Kh4 Na5 58. Nh7+ Kg7 59. Ng5 Nc6 60.
+Ne6+ Kf6 61. Ng5 Ke5 62. Nh3 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.17"]
+[Round "5.3"]
+[White "So, Wesley"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2696"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "5202213"]
+[BlackFideId "8603405"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Bf4 Be7 8.
+Qd2 Be6 9. O-O-O Qd7 10. h3 Bf6 11. g4 h6 12. Bg2 O-O-O 13. b3 Rde8 14. Rhe1 Kb8
+15. Be3 a6 16. Ng1 g5 17. Ne2 h5 18. f3 Qe7 19. Ng3 d5 20. Kb2 Rd8 21. Ne2 Rhe8
+22. Nd4 Nxd4 23. cxd4 Rg8 24. Bf1 Qd6 25. f4 hxg4 26. fxg5 Be7 27. hxg4 Bxg4 28.
+Be2 Bxe2 29. Rxe2 f6 30. gxf6 Bxf6 31. Bf4 Qd7 32. Rde1 Qg7 33. Kb1 Bg5 34. Bxg5
+Qxg5 35. Qb4 Rg6 36. Re5 Qh4 37. Re8 Rd6 38. R1e7 Rxe8 39. Rxe8+ Rd8 40. Re6 b6
+41. a4 a5 42. Qc3 Rg8 43. Ka2 Qh7 44. Qc6 Rd8 45. b4 axb4 46. a5 Qd7 47. axb6
+Qxc6 48. Rxc6 cxb6 49. Rxb6+ Kc7 50. Rxb4 Rh8 51. Rb5 Kc6 52. Rc5+ Kd6 53. Kb3
+Rh4 54. c3 Rh8 55. Kb4 Rb8+ 56. Rb5 Rc8 57. Rb6+ Kd7 58. Kb3 Ke7 59. Rh6 Kd7 60.
+Kb4 Rc4+ 61. Kb3 Rc8 62. Kc2 Rg8 63. Rh3 Kd6 64. Kd3 Rc8 65. Ke2 Kd7 66. Re3 Kd6
+67. Kf3 Rf8+ 68. Kg4 Rg8+ 69. Kf5 Rf8+ 70. Kg4 Rg8+ 71. Kf4 Rf8+ 72. Kg4 Rg8+
+73. Kf4 Rb8 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.19"]
+[Round "6.1"]
+[White "Wei, Yi"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2785"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "8603405"]
+[BlackFideId "24116068"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 h5 10. Nc3 Be7 11. Bf4 Be6 12. Rad1+ Kc8 13. Ng5 Bxg5 14. Bxg5
+b6 15. g4 hxg4 16. hxg4 Nh4 17. Bxh4 Rxh4 18. f3 Kb7 19. Kg2 Rah8 20. Rh1 Rxh1
+21. Rxh1 Rxh1 22. Kxh1 c5 23. Kg2 Kc6 24. a4 a6 25. Kg3 b5 26. axb5+ axb5 27. f4
+b4 28. Ne4 Ba2 29. Nd2 Kd5 30. c3 bxc3 31. bxc3 g5 32. Kf3 Ke6 33. c4 gxf4 34.
+Kxf4 f6 35. exf6 Kxf6 36. g5+ Kg6 37. Kg4 Kh7 38. g6+ Kg7 39. Kg5 c6 40. Kh5 Kg8
+41. Kh6 1-0
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.19"]
+[Round "6.2"]
+[White "Nakamura, Hikaru"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2855"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2016192"]
+[BlackFideId "1503014"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. Qc2 c6 7. O-O b6 8. Rd1 Bb7
+9. b3 Nbd7 10. Nc3 Rc8 11. e4 c5 12. dxc5 dxc4 13. b4 a5 14. a3 axb4 15. axb4
+bxc5 16. b5 Qc7 17. Bf4 e5 18. Bg5 Nb6 19. Nd2 Rfd8 20. Bxf6 Bxf6 21. Nd5 Bxd5
+22. exd5 e4 23. Rab1 Rxd5 24. Nxc4 Rd4 25. Nxb6 Qxb6 26. Bxe4 Rxd1+ 27. Rxd1
+Qxb5 28. Bxh7+ Kf8 29. Bf5 Rd8 30. Rxd8+ Bxd8 31. Qd3 Qxd3 32. Bxd3 Bf6 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.19"]
+[Round "6.3"]
+[White "So, Wesley"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2773"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "14109603"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. Nf4
+Re8 9. Bd3 Bd6 10. O-O Bxf4 11. exf4 Nc6 12. Be3 Ne7 13. Qc2 g6 14. f3 h5 15.
+Qd2 Bf5 16. Be2 Qd7 17. Rfe1 Be6 18. Bf2 Nf5 19. Bd3 Nd6 20. Re5 c6 21. Rae1 Bf5
+22. Bh4 Nh7 23. Be7 Bxd3 24. Bxd6 Bf5 25. Bb4 b6 26. a4 a5 27. Ba3 Re6 28. h3
+Rae8 29. g4 Rxe5 30. fxe5 hxg4 31. hxg4 Bxg4 32. fxg4 Qxg4+ 33. Kf1 Ng5 34. Qg2
+Qf5+ 35. Qf2 Nf3 36. Ke2 Nxe1 37. Qxf5 gxf5 38. Kxe1 f6 39. Bd6 Kf7 40. Ne2 fxe5
+41. dxe5 Ke6 42. Kf2 Kd7 43. Nf4 Rg8 44. Ba3 Re8 45. Bd6 Rg8 46. Ba3 Re8 47. Bc5 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.20"]
+[Round "7.1"]
+[White "Giri, Anish"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2773"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 8. Qc2
+Nbd7 9. Bf4 b6 10. cxd5 cxd5 11. Rc1 Bb7 12. Qb3 Rc8 13. Rxc8 Qxc8 14. Nc3 Nh5
+15. Bg5 Bxg5 16. Nxg5 Qb8 17. e3 Nhf6 18. Bf1 Rc8 19. a4 h6 20. Nf3 Ne4 21. a5
+Bc6 22. Ba6 bxa5 23. Qc2 Bb7 24. Rxa5 Bxa6 25. Rxa6 Rc7 26. Kg2 Qb4 27. Ra4 Qb7
+28. Ra3 Nb6 29. Ne5 Nc4 30. Nxc4 Rxc4 31. Qe2 Nxc3 32. bxc3 Qe7 33. Qa2 Rc7 34.
+Ra5 g6 35. h4 h5 36. Qa3 Qxa3 37. Rxa3 a5 38. Rxa5 Rxc3 39. Ra8+ Kg7 40. Ra5 Kg8
+41. Ra8+ Kg7 42. Ra5 Kg8 43. Ra8+ 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.20"]
+[Round "7.2"]
+[White "Carlsen, Magnus"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2855"]
+[BlackElo "2696"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[WhiteFideId "1503014"]
+[BlackFideId "8603405"]
+[EventDate "2016.07.13"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O Nf6 5. c4 O-O 6. cxd5 Nxd5 7. d4 Nb6 8. Nc3
+Nc6 9. d5 Na5 10. e4 c6 11. Bf4 Nac4 12. Qe2 cxd5 13. exd5 Bg4 14. h3 Bxf3 15.
+Bxf3 Nd6 16. Rfe1 Re8 17. Rac1 a6 18. b3 Rc8 19. Qd2 Nd7 20. Na4 Rxc1 21. Qxc1
+Bd4 22. Qd2 Bg7 23. h4 h5 24. Nb2 Nb5 25. Re3 Nd4 26. Bg2 e5 27. dxe6 Nxe6 28.
+Nc4 Nxf4 29. Rxe8+ Qxe8 30. Qxf4 b5 31. Ne3 Qe5 32. Qxe5 Bxe5 33. b4 Bd6 34. Bb7
+Nb8 35. Nd5 Kf8 36. Kg2 Ke8 37. f3 f5 38. Kf2 Kd7 39. Nf4 Kc7 40. Bd5 Bxf4 41.
+gxf4 Kd6 42. Bf7 Nc6 43. a3 Ne7 44. Ke1 Kd7 45. Kd1 Kd6 46. Kd2 Kd7 47. Kd3 Kd6
+48. Kc2 Kd7 49. Kb3 Kd6 50. a4 Nc6 51. axb5 axb5 52. Kc3 Ne7 53. Kd2 Nd5 54.
+Bxg6 Nxb4 55. Bxh5 Nd5 56. Be8 Nxf4 57. Bxb5 Ke5 58. Bf1 Ng6 59. h5 Nh4 60. Ke2
+Nxf3 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.20"]
+[Round "7.3"]
+[White "Nakamura, Hikaru"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2770"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "2016192"]
+[BlackFideId "5202213"]
+[EventDate "2016.07.13"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
+b6 9. Rd1 Nbd7 10. b3 Ba6 11. a4 c5 12. Na3 Bb7 13. Qb2 Qc8 14. Rac1 Bc6 15.
+dxc5 bxc5 16. cxd5 exd5 17. Nh4 Re8 18. Nf5 Bf8 19. Bf4 Qb7 20. Nb5 Bxb5 21.
+axb5 Qxb5 22. Ne3 Rac8 23. Nxd5 Nxd5 24. Bxd5 Nb6 25. Bc4 Nxc4 26. Rxc4 Rcd8 27.
+Ra1 Re6 28. Be3 Rb8 29. Qc2 Qxb3 30. Qxb3 Rxb3 31. Rxa7 Re8 32. Rc7 Rb2 33. Bxc5
+Bxc5 34. R7xc5 Rbxe2 35. Rc8 Re1+ 36. Kg2 g6 37. h4 Rxc8 38. Rxc8+ Kg7 39. Rc7
+Rd1 40. Rc8 Re1 41. Rc7 Rd1 42. Rc8 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.21"]
+[Round "8.1"]
+[White "So, Wesley"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2785"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5202213"]
+[BlackFideId "24116068"]
+[EventDate "2016.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Re1 Ng4 7. Re2 Kh8 8. h3
+f5 9. Nc3 Nf6 10. Be3 Bxe3 11. fxe3 fxe4 12. dxe4 d6 13. a3 Qe8 14. Qd3 Nd8 15.
+Rf2 Be6 16. Raf1 a6 17. Nd2 b5 18. Bxe6 Nxe6 19. Nd5 Nd7 20. Rxf8+ Ndxf8 21. c4
+c6 22. Nc3 Qe7 23. b4 Nd7 24. Nb3 Nf6 25. Na5 Qc7 26. Rc1 Qd7 27. cxb5 axb5 28.
+a4 bxa4 29. Nxa4 Rf8 30. Nb6 Qf7 31. Nxc6 Ng5 32. Rf1 Qc7 33. Qb5 Ngxe4 34. Nd5
+Qd7 35. Nxf6 gxf6 36. Qd5 Nc3 37. Qc4 Na4 38. b5 Nb6 39. Qd3 Rg8 40. e4 Qe6 41.
+Rd1 Nd7 42. Kh2 Nc5 43. Qxd6 Qxd6 44. Rxd6 Nxe4 45. Re6 Nc5 46. Rxf6 e4 47. Rf5
+Nb7 48. Re5 Nd6 49. Nd4 Rb8 50. g4 Kg8 51. Kg3 Kf7 52. Nf5 Kf6 53. Kf4 Nxb5 54.
+g5+ Kg6 55. Re7 Rh8 56. Kg4 h5+ 57. Kf4 1-0
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.21"]
+[Round "8.2"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2855"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "1503014"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. Qc2 Re8 8. Bd2
+a6 9. a3 Bd6 10. h3 Bd7 11. cxd5 exd5 12. Bd3 Na7 13. Qb3 c6 14. Qxb7 Nb5 15.
+Nxb5 axb5 16. Ne5 Rb8 17. Qa6 Ra8 18. Qb7 Rb8 19. Qa6 Ra8 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.21"]
+[Round "8.3"]
+[White "Wei, Yi"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2787"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8603405"]
+[BlackFideId "2016192"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Nc3 dxc4 7. Ne5 Nc6 8. Bxc6
+bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qa4 c5 12. dxc5 Qxc5 13. Be3 Qc7 14. Rd1 Bd7
+15. Qa3 Nd5 16. Bd4 a5 17. Rd2 Nb4 18. O-O Qb7 19. Na4 Bxa4 20. Qxa4 Rfc8 21.
+Rc1 f6 22. f3 Qa6 23. Bf2 Nd5 24. Rdc2 Nb4 25. Rd2 Nd5 26. Rdc2 Nb4 27. Rc3 h6
+28. Kg2 Rab8 29. b3 cxb3 30. Rxc8+ Rxc8 31. Rxc8+ Qxc8 32. Qxb3 Kf7 33. Qa4 Qa6
+34. Qd7+ Kg8 35. Qd2 Qc4 36. Qd8+ Kh7 37. Qxa5 Nxa2 38. Qd2 Nb4 39. Qb2 Nc6 40.
+Qb1+ Kg8 41. Qb7 Ne5 42. Qb8+ Kh7 43. Qb1+ Kg8 44. Qb8+ Kh7 45. Qb1+ Kg8 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.22"]
+[Round "9.1"]
+[White "Nakamura, Hikaru"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2787"]
+[BlackElo "2773"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "2016192"]
+[BlackFideId "14109603"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 b5 7. Nxb5 Bb4+ 8.
+Nc3 Nd5 9. a3 Nxc3 10. Qd2 Nd5 11. axb4 Nxf4 12. exf4 Bb7 13. Be2 O-O 14. O-O
+Nb6 15. Ne5 Qd6 16. Rfd1 Rfb8 17. Rac1 a6 18. h4 Bd5 19. h5 h6 20. Re1 Rb7 21.
+Nxc4 Nxc4 22. Bxc4 Bxc4 23. Rxc4 Rab8 24. Ra1 Rxb4 25. Rxb4 Qxb4 26. Qxb4 Rxb4
+27. Rxa6 Rxd4 28. Ra8+ Kh7 29. g3 Rb4 30. Ra7 Rxb2 31. Rxc7 Kg8 32. Rc8+ Kh7 33.
+Rc7 Kg8 34. Rc8+ Kh7 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.22"]
+[Round "9.2"]
+[White "Carlsen, Magnus"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2855"]
+[BlackElo "2785"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "24116068"]
+[EventDate "2016.07.13"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Bd3 Bxd3 5. Qxd3 c6 6. Nd2 Nf6 7. Ngf3 Be7 8.
+O-O O-O 9. h3 Nbd7 10. a4 c5 11. a5 c4 12. Qe2 b5 13. axb6 axb6 14. Ne5 Nxe5 15.
+dxe5 Nd7 16. Qg4 Re8 17. h4 f5 18. Qh3 Rxa1 19. Rxa1 c3 20. bxc3 Qc7 21. c4 Nxe5
+22. Qg3 Bd6 23. cxd5 exd5 24. Nb3 Qxc2 25. Nd4 Qc8 26. h5 Qd7 27. Rb1 Bc7 28. f3
+Qf7 29. Ra1 Bd6 30. Ra6 Qxh5 31. Rxb6 Nc4 32. Rxd6 Nxd6 33. Bxd6 Rxe3 34. Be5
+Qg6 35. Qf4 Re1+ 36. Kf2 Ra1 37. Qd2 Ra8 38. Nxf5 Qe6 39. Qg5 g6 40. Nh6+ Kf8
+41. Ng4 Ke8 42. Nf6+ Kf7 43. Nxh7 Ra4 44. Qd8 Ra2+ 45. Kg1 1-0
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.22"]
+[Round "9.3"]
+[White "Wei, Yi"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2770"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8603405"]
+[BlackFideId "5202213"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Bxc6
+bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Na3 Rd8 12. Qc2 Ba6 13. Nxc4 c5 14. dxc5
+Qxc5 15. b3 Bxc4 16. Bb2 Rac8 17. Bxf6 gxf6 18. Rfc1 Qe5 19. bxc4 Rd4 20. Rab1
+Rdxc4 21. Qxc4 Rxc4 22. Rxc4 Qxe2 23. Ra4 a6 24. Kg2 Qe5 25. Rd1 h5 26. Rd3 Qb5
+27. Raa3 Qc6+ 28. Kg1 Qc1+ 29. Kg2 Qc6+ 30. Kg1 Qc1+ 31. Kg2 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.23"]
+[Round "10.1"]
+[White "Karjakin, Sergey"]
+[Black "Wei, Yi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2696"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[WhiteFideId "14109603"]
+[BlackFideId "8603405"]
+[EventDate "2016.07.13"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bf4 Bf5 4. e3 e6 5. c4 Bxb1 6. Rxb1 Bb4+ 7. Ke2 dxc4 8.
+Qa4+ Nc6 9. Ne5 Nd5 10. Nxc6 Qd7 11. Rc1 bxc6 12. Rxc4 Rb8 13. Qxc6 Nxf4+ 14.
+exf4 Bd6 15. b3 Bxf4 16. Qxd7+ Kxd7 17. d5 Bd6 18. dxe6+ Kxe6 19. Ra4 Kf6 20.
+Kf3 Rb4 21. Rxb4 Bxb4 22. Bd3 Rd8 23. Ke2 Re8+ 24. Kf3 Rd8 25. Ke2 Re8+ 26. Kf3
+Rd8 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.23"]
+[Round "10.2"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2855"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Bd7 12. Qb3 Nc6 13. Nxc6 Bxc3 14. Qxb7
+Bxc6 15. Qxc6 Bxb2 16. Rc2 Rac8 17. Qa4 Rc7 18. Bd3 Rxc2 19. Bxc2 Rc8 20. Rd1
+Qc3 21. Bb3 Qc5 22. g3 Bf6 23. Rd7 Rc7 24. Rxc7 Qxc7 25. Qe8+ Kh7 26. h4 g6 27.
+Qa8 Kg7 28. Kg2 h5 29. Qe4 a5 30. Ba4 Qc5 31. Qb7 Qb4 32. Qxb4 axb4 33. Kf3 Bc3
+34. Kg2 Be1 35. Kf1 Bc3 36. Kg2 Be1 37. Kf1 Bc3 38. Kg2 1/2-1/2
+
+[Event "9th Masters Final 2016"]
+[Site "Bilbao ESP"]
+[Date "2016.07.23"]
+[Round "10.3"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2787"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2016.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5
+exd5 9. Be2 Nc6 10. O-O a6 11. Rc1 Ba7 12. Ne5 Ne7 13. Bg5 d4 14. exd4 Qxd4 15.
+Qxd4 Bxd4 16. Nf3 Bxc3 17. Rxc3 Ned5 18. Rc4 h6 19. Bd2 b5 20. Rd4 Re8 21. Re1
+Ne7 22. Bd3 Be6 23. a4 Nf5 24. Rf4 Nd6 25. axb5 axb5 26. Rd4 Nc4 27. Bc3 Rac8
+28. Rb1 Bd5 29. Nd2 Nxd2 30. Bxd2 Be4 31. Bc3 Bxd3 32. Rxd3 Ne4 33. h3 Nxc3 34.
+bxc3 Rc5 35. Rd2 Rxc3 36. Rxb5 Rc7 37. Rb1 Rec8 38. Rbd1 Rc1 39. Rxc1 Rxc1+ 40.
+Kh2 g6 41. g4 g5 42. Kg2 Rc3 43. Rd6 Kg7 44. Rb6 Rd3 45. Rc6 Rb3 46. Ra6 Rd3 47.
+Rc6 Rb3 48. Ra6 1/2-1/2

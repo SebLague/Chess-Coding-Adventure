@@ -1,0 +1,1160 @@
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.19"]
+[Round "1"]
+[White "Anand,V"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2791"]
+[BlackElo "2761"]
+[EventDate "2009.02.19"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. O-O O-O
+14. c4 f5 15. Qf3 d5 16. cxd5 fxe4 17. Bxe4 Rb8 18. Rfd1 f5 19. d6 Qf6 20.
+Bc6 Be6 21. Bd5 Rbd8 22. Qb3 Bf7 23. Nc2 Rxd6 24. Bxf7+ Rxf7 25. Rxd6 Qxd6
+26. Ne3 f4 27. Rd1 Qg6 28. Nd5 Bf8 29. f3 Kh8 30. Nc3 Rg7 31. Rd2 Bc5+ 32.
+Kf1 Bd4 33. Ne4 Rc7 34. Rc2 Rc6 35. Qd3 Kg7 36. b3 h6 37. g4 fxg3 38. hxg3
+Qe6 39. Kg2 Qc8 40. Rxc6 Qxc6 41. Qd2 Qe6 42. g4 Qc6 43. Ng3 Kh7 44. Nf5
+Bb6 45. Qd3 Kh8 46. Qe2 Bc7 47. Qd2 Kh7 48. Ne7 Qc5 49. Qd3+ Kh8 50. Qd7 e4
+51. Qe8+ Kg7 52. Nf5+ Kf6 53. Qxe4 Bb6 54. Kh3 h5 55. g5+ Kxg5 56. Ne7 Kf6
+57. Nd5+ Kg7 58. Qe5+ Kh6 59. Qf6+ Kh7 60. Qf7+ Kh6 61. Ne7 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.19"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2776"]
+[EventDate "2009.02.19"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. a3 Qc8 13. b4 Nbd7 14. Bc3
+Ne4 15. Nbd2 Bd5 16. Qc2 Nxd2 17. Bxd2 Qb7 18. Rac1 Rac8 19. e4 Bxe4 20.
+Ng5 Bxc2 21. Bxb7 Bd3 22. Rfe1 Bc4 23. Bxc8 Bxg5 24. Bxg5 Rxc8 25. f3 f6
+26. Bf4 Nb6 27. h4 Kf7 28. Kf2 c6 29. Bd6 Bd5 30. Bc5 Na4 31. g4 Ra8 32.
+Re2 a5 33. Bd6 axb4 34. Bxb4 Nb6 35. Bc5 Na4 36. Bb4 Nb6 37. Bc5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.19"]
+[Round "1"]
+[White "Dominguez Perez,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2733"]
+[EventDate "2009.02.19"]
+[ECO "C19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rb1 d4 14.
+Rg1 O-O-O 15. g4 Nd5 16. Nxd4 Nxd4 17. Qxd4 Kb8 18. Rg3 Bc6 19. Qc5 f6 20.
+exf6 Nxf6 21. Qe5 Nxg4 22. Qxc7+ Kxc7 23. f5 exf5 24. Bf4+ Kc8 25. Rxc3 Nf6
+26. Rc4 Nd5 27. Rd1 Nxf4 28. Rxd8+ Kxd8 29. Rxf4 Be4 30. Bd3 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.19"]
+[Round "1"]
+[White "Wang Yue"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2779"]
+[EventDate "2009.02.19"]
+[ECO "E11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Nbd2 O-O 7. g3 d6
+8. Bg2 Nc6 9. O-O e5 10. d5 Nb8 11. a3 Na6 12. Ne1 Qb6 13. Nd3 Bf5 14. e4
+Bg4 15. Bf3 Bxf3 16. Qxf3 Nd7 17. Qe3 Ndc5 18. Nxc5 Nxc5 19. Nb3 Rfc8 20.
+Nxc5 Qxc5 21. Qxc5 Rxc5 22. b3 bxa3 23. Rxa3 a5 24. Rfa1 b6 25. b4 Rxc4 26.
+bxa5 Rxa5 27. Rxa5 bxa5 28. Rxa5 Kf8 29. f3 h5 30. Ra8+ Ke7 31. Ra7+
+1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.20"]
+[Round "2"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2791"]
+[BlackElo "2750"]
+[EventDate "2009.02.19"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. O-O O-O 10. Qc2 Bb7 11. a3 a6 12. Ng5 Bxh2+ 13. Kxh2 Ng4+ 14.
+Kg1 Qxg5 15. f3 Ngf6 16. e4 Qh4 17. Be3 e5 18. Ne2 Nh5 19. Qd2 h6 20. Rfd1
+Rae8 21. Bc2 Re6 22. Bf2 Qe7 23. g4 Rg6 24. Kf1 Nhf6 25. Ng3 Nxg4 26. fxg4
+Qh4 27. Nf5 Qxg4 28. Qc3 Re8 29. Qg3 Qh5 30. Qh4 Qf3 31. Rd3 Qg2+ 32. Ke2
+exd4 33. Rg3 Rxg3 34. Qxg3 Rxe4+ 35. Kd2 Rg4 36. Qxg2 Rxg2 37. Ke2 c5 38.
+Rg1 Ne5 39. Rxg2 Bxg2 40. Kd2 h5 41. b4 Nc4+ 42. Kc1 Nxa3 43. Bd1 cxb4 44.
+Bxh5 g6 45. Ne7+ Kf8 46. Nxg6+ fxg6 47. Bxg6 Ke7 48. Bxd4 Kd6 49. Bd3 Nc4
+50. Bg7 a5 51. Be2 Be4 52. Bf6 a4 53. Bg7 Kd5 0-1
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.20"]
+[Round "2"]
+[White "Carlsen,M"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2717"]
+[EventDate "2009.02.19"]
+[ECO "A33"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 Qb6 7. Ndb5 Ne5
+8. Bf4 Nfg4 9. Qa4 g5 10. Bxe5 Qxf2+ 11. Kd1 Nxe5 12. Nc7+ Kd8 13. Nxa8
+Qd4+ 14. Kc2 Nxc4 15. Kb3 Nd2+ 16. Kc2 Nc4 17. Kb3 Nd2+ 18. Kc2 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.20"]
+[Round "2"]
+[White "Grischuk,A"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2739"]
+[EventDate "2009.02.19"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. e3 g6 10. Bd3 Be6 11. O-O Bg7 12. f4 Nfd7 13. Nf3 c5 14. Ng5
+cxd4 15. Nxe6 fxe6 16. Ne4 O-O 17. Qg4 Rf5 18. Qh3 Nc5 19. Nxc5 Rxc5 20.
+Qxe6+ Kh8 21. e4 Rac8 22. e5 R8c6 23. Qf7 Nd5 24. Bd2 Qf8 25. Qxf8+ Bxf8
+26. Rac1 e6 27. Kf2 b6 28. Kf3 Kg7 29. g3 Rxc1 30. Rxc1 Rxc1 31. Bxc1 Kf7
+32. Bc4 Ne3 33. b3 Bc5 34. Ke2 h5 35. Bb2 g5 36. fxg5 Ng4 37. Bd3 Nxe5 38.
+Be4 Ng4 39. h3 Ne3 40. Bc1 e5 41. Bxe3 dxe3 42. h4 Kg7 43. Kf3 Kf7 44. Bd3
+Bd4 45. Be2 Kg7 46. Ke4 Kg6 47. Bd1 Bc3 48. Kxe3 Kf5 49. Bxh5 Be1 50. Kf3
+e4+ 51. Kg2 Bc3 52. Be2 Be1 53. Kh3 Bf2 54. Bb5 Be1 55. Bd7+ Ke5 56. Kg4 e3
+57. Bb5 Kd5 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.20"]
+[Round "2"]
+[White "Radjabov,T"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2779"]
+[EventDate "2009.02.19"]
+[ECO "E94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Na6 8.
+Re1 c6 9. Bf1 exd4 10. Nxd4 Qb6 11. h3 Ng4 12. hxg4 Qxd4 13. Qxd4 Bxd4 14.
+Rd1 Bxc3 15. bxc3 Bxg4 16. f3 Be6 17. Bf4 Rfd8 18. Bxd6 b6 19. a4 Nc5 20.
+Bxc5 bxc5 21. Rxd8+ Rxd8 22. Rb1 Kg7 23. a5 Rd2 24. Rb7 a6 25. Rb6 Ra2 26.
+Rxc6 Rxa5 27. f4 Kf8 28. Bd3 Ke7 29. f5 gxf5 30. exf5 Bd7 31. Rb6 f6 32. g4
+h6 33. Be4 Ra4 34. Bd5 a5 35. Kf2 Ra3 36. Be6 Bxe6 37. Rxe6+ Kf7 38. Rc6
+Rxc3 39. Rxc5 a4 40. Rc7+ Kg8 41. c5 a3 42. Ra7 h5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.21"]
+[Round "3"]
+[White "Dominguez Perez,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2791"]
+[EventDate "2009.02.19"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. f3 h5 10. O-O-O Be7 11. Kb1 b5 12. Nd5 Bxd5 13. exd5 Nb6 14.
+Bxb6 Qxb6 15. Na5 Rc8 16. Nc6 Nxd5 17. Nxe7 Nxe7 18. Qxd6 Qxd6 19. Rxd6 Nc6
+20. Rd2 Ke7 21. Bd3 Rhd8 22. Rhd1 g6 23. a4 Rb8 24. axb5 axb5 25. Be4 Rxd2
+26. Rxd2 Nd4 27. b4 f5 28. Bd3 h4 29. c3 Ne6 30. Bf1 Nf4 31. Kc2 Kf6 32. g3
+hxg3 33. hxg3 Nh5 34. Rd5 Nxg3 35. Bxb5 e4 36. fxe4 Nxe4 37. Bd3 g5 38.
+Bxe4 fxe4 39. Kd2 g4 40. Ke3 Rc8 41. Kxe4 Rxc3 42. Kf4 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.21"]
+[Round "3"]
+[White "Wang Yue"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2776"]
+[EventDate "2009.02.19"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. Qc2 dxc4
+8. e3 c5 9. dxc5 Qa5 10. Bxc4 Qxc5 11. Ne4 Qa5+ 12. Ke2 Be7 13. Rhc1 Bd7
+14. Qc3 Qxc3 15. Rxc3 Nc6 16. a3 f5 17. Ned2 Bf6 18. Rc2 Ke7 19. Nb3 Rhd8
+20. Nc5 Bc8 21. Rac1 Na5 22. Bb5 a6 23. Bd3 b6 24. b4 bxc5 25. bxa5 e5 26.
+Nd2 e4 27. Bc4 Bd7 28. f3 exf3+ 29. Nxf3 Bc6 30. Bd3 Rxd3 31. Kxd3 Be4+ 32.
+Kc4 Bxc2 33. Rxc2 Ke6 34. Ne1 Bd8 35. Nd3 Bxa5 36. Nxc5+ Ke5 37. Kd3 Ra7
+38. Na4 Rd7+ 39. Ke2 Rc7 40. Rc5+ Rxc5 41. Nxc5 Bc7 42. Nxa6 Bd6 43. Nb4
+Ke4 44. h3 Bc5 45. Nc2 g6 46. a4 Bb6 47. Nb4 g5 48. Nc6 Bxe3 49. a5 Bc5 50.
+a6 Kf4 51. Kd3 Kg3 52. Kc4 Bb6 53. Kb5 Be3 54. Kc4 Bb6 55. Kb5 Be3 56. Kc4
+Bb6 57. Kb5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.21"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2733"]
+[EventDate "2009.02.19"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Qb3 Qa5 10. Bd2 Nc6 11. Nxc6 bxc6 12. O-O Bxc3 13. bxc3 Ba6
+14. Rfd1 Qc5 15. e4 Bc4 16. Qa4 Nb6 17. Qb4 Qh5 18. Re1 c5 19. Qa5 Be2 20.
+Bf4 e5 21. Bxe5 Nc4 22. Qa6 Qxe5 23. Rxe2 Qxc3 24. Ree1 Nd2 25. Rac1 Qb4
+26. e5 Rad8 27. Qxa7 c4 28. Re3 Rfe8 29. e6 fxe6 30. Rec3 e5 31. Bc6 Re7
+32. Qe3 e4 33. Kg2 h6 34. Rd1 Rd6 35. Rxd2 Rxc6 36. Rd8+ Kh7 37. Rd4 Kh8
+38. a3 Qb5 39. Qe2 e3 40. Rxe3 Rxe3 41. Qxe3 Rc8 42. Qc3 Qb7+ 43. Kg1 Qb3
+44. Qxb3 cxb3 45. Rb4 Rc1+ 46. Kg2 Rb1 47. g4 g5 48. Rb7 b2 49. f3 Ra1 50.
+Rxb2 Rxa3 51. Rb5 Kg7 52. h4 gxh4 53. Rh5 Ra2+ 54. Kh3 Ra3 55. Rf5 Kg6 56.
+Kxh4 h5 57. Rg5+ Kf7 58. Kxh5 Rxf3 59. Kh6 Rh3+ 60. Rh5 Rg3 61. g5 Kg8 62.
+Rh1 Ra3 63. Rb1 Ra6+ 64. g6 Ra8 65. Rb7 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.21"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2761"]
+[EventDate "2009.02.19"]
+[ECO "E61"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 c6 6. e4 d5 7. cxd5 cxd5 8.
+e5 Ne4 9. Bg2 Nc6 10. O-O Bg4 11. h3 Bxf3 12. Bxf3 Rc8 13. h4 Qa5 14. Qd3
+Rfd8 15. Be3 Nb4 16. Qe2 Nxc3 17. bxc3 Nc6 18. Rfc1 e6 19. c4 Qb6 20. c5
+Qa5 21. Rab1 b6 22. h5 Qa4 23. Qb5 Qxb5 24. Rxb5 Bf8 25. cxb6 axb6 26. Rcb1
+Ne7 27. hxg6 hxg6 28. g4 Ra8 29. R1b2 Nc8 30. Bd1 Rd7 31. a4 Rc7 32. f4 Rc3
+33. Kf2 Ra7 34. Rc2 Rxc2+ 35. Bxc2 Rc7 36. Bd1 Rc4 37. Ke2 Rb4 38. Rxb4
+Bxb4 39. Bc2 Ne7 40. Bd3 Nc6 41. Bb5 Na7 42. Ba6 Nc6 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.22"]
+[Round "4"]
+[White "Anand,V"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2791"]
+[BlackElo "2739"]
+[EventDate "2009.02.19"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. g3 dxc4 7. Bg2 c5 8.
+dxc5 Qxd1+ 9. Nxd1 Bxc5 10. Ne5 Nd5 11. Ne3 Nxe3 12. Bxe3 Bxe3 13. fxe3 c3
+14. b4 Nd7 15. Nd3 Rb8 16. O-O b5 17. axb5 Rxb5 18. Rfc1 Ne5 19. Nxe5 Rxe5
+20. Rxc3 O-O 21. Bc6 Rd8 22. e4 Kf8 23. Kf2 Ke7 24. b5 axb5 25. Ra7+ Kf6
+26. Rf3+ Kg6 27. Rfxf7 Rg8 28. Rfc7 Rh5 29. h4 Kf6 30. Ra8 Rc5 31. Rcxc8
+Rxc8 32. Rxc8 b4 33. Bd7 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.22"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2779"]
+[EventDate "2009.02.19"]
+[ECO "D81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Be6 6. Qb5+ Bd7 7. Qb3 c5
+8. dxc5 Bg7 9. e4 Nc6 10. Nf3 Qa5 11. Bc4 O-O 12. O-O Qxc5 13. Be3 Qh5 14.
+Be2 Qa5 15. Rfd1 Rfd8 16. Nd5 Nxd5 17. exd5 Ne5 18. a4 Ng4 19. Bd4 Bxd4 20.
+Rxd4 Qb6 21. Qc3 Rac8 22. Bc4 e5 23. dxe6 Bxe6 24. a5 Qxd4 25. Nxd4 Rxc4
+26. Nxe6 Rxc3 27. Nxd8 Rb3 28. h3 Ne5 29. Re1 Nc6 30. Nxc6 bxc6 31. Re7
+Rxb2 32. Rxa7 Ra2 33. Rc7 Rxa5 34. Rxc6 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.22"]
+[Round "4"]
+[White "Radjabov,T"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2733"]
+[EventDate "2009.02.19"]
+[ECO "E17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. d5 exd5 7. Nh4 c6 8.
+cxd5 Nxd5 9. Nf5 O-O 10. e4 Nc7 11. Bf4 d5 12. Qg4 Ne6 13. Nc3 Kh8 14. Be5
+Bf6 15. Bxf6 Qxf6 16. O-O-O Nd7 17. f4 Ndc5 18. e5 Qg6 19. Qh3 f6 20. Nh4
+Qh6 21. Nf3 Qxh3 22. Bxh3 Nc7 23. b4 N5a6 24. b5 cxb5 25. Rhe1 b4 26. Ne2
+Bc8 27. Bg2 Bf5 28. Nfd4 fxe5 29. fxe5 Be4 30. Bxe4 dxe4 31. Nf4 Nc5 32. h4
+Rae8 33. e6 a5 34. Kb1 N7xe6 35. Ndxe6 Nxe6 36. Nd5 Nc5 37. Nxb6 h6 38. Nc4
+Rf2 39. Rd5 Na4 40. Rxa5 Nc3+ 41. Ka1 0-1
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.22"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Dominguez Perez,L"]
+[Result "1-0"]
+[WhiteElo "2750"]
+[BlackElo "2717"]
+[EventDate "2009.02.19"]
+[ECO "D27"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5
+8. Qxd8+ Kxd8 9. Nbd2 Ke7 10. b3 Nbd7 11. Be2 b6 12. Ne1 a5 13. Bb2 Rd8 14.
+a4 Ba6 15. Bxa6 Rxa6 16. Nd3 Ne5 17. Nxc5 bxc5 18. Bc3 Rd3 19. Rac1 Ned7
+20. e4 c4 21. b4 axb4 22. Bxb4+ Kd8 23. a5 Ne5 24. Nxc4 Nc6 25. Bc3 Nxe4
+26. Bxg7 Ke7 27. Rfd1 Rxd1+ 28. Rxd1 f6 29. Bh6 e5 30. Kf1 Nd4 31. Rb1 Rc6
+32. Rb4 Nf5 33. Nb6 Nc5 34. Bd2 Na6 35. Rb3 Ke6 36. g4 Nd4 37. Rh3 Rc2 38.
+Be3 Ra2 39. Rh6 Nc5 40. Nc4 Ra4 41. Nd2 Rxa5 42. Rxh7 Ra4 43. h4 Nd3 44.
+Rh6 Ra1+ 45. Kg2 Ne1+ 46. Kh3 Ke7 47. Ne4 Nef3 48. Ng3 Ne6 49. Rh7+ Kf8 50.
+Rh6 Ke7 51. Nf5+ Kf7 52. Rh7+ Kf8 53. Rb7 Ra3 54. Rb6 Kf7 55. Nh6+ Ke7 56.
+Rb7+ Kd8 57. Nf7+ Ke8 58. Nd6+ Kf8 59. Rf7+ Kg8 60. Rxf6 Nf4+ 61. Kg3 Nd2
+62. g5 Nf1+ 63. Kg4 Nxe3+ 64. fxe3 Rxe3 65. Nf7 Re1 66. Nxe5 Nd5 67. Rg6+
+Kh7 68. Rh6+ Kg7 69. Nf3 Re4+ 70. Kg3 Ne3 71. Rf6 Rg4+ 72. Kh3 Re4 73. Rc6
+Nf5 74. h5 Rf4 75. Kg2 Rg4+ 76. Kf2 Kg8 77. Rc8+ Kg7 78. Rc6 Kg8 79. Rb6
+Kh7 80. Ra6 Kg8 81. h6 Re4 82. Rf6 Ne3 83. Kg3 Nd5 84. Rf5 Ne7 85. Re5 Rxe5
+86. Nxe5 Kh7 87. Kg4 Nd5 88. Nd3 Ne7 89. Nf4 Ng8 90. Kh5 Kh8 91. Nd5 Kh7
+92. Nf6+ 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.24"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2791"]
+[EventDate "2009.02.19"]
+[ECO "D19"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O O-O 9. Qe2 Nbd7 10. e4 Bg6 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3
+Re8 15. Ne1 Bg6 16. Bxg6 hxg6 17. Nd3 Qb6 18. Nxb4 Qxb4 19. b3 Rac8 20. Ba3
+Qc3 21. Rac1 Qxe3 22. fxe3 f6 23. Bd6 a5 24. Bc7 fxe5 25. dxe5 b6 26. Rc3
+Rf8 27. Rfc1 Rf5 28. g4 Rf7 29. Bd6 Nc5 30. Bxc5 bxc5 31. Rxc5 Rcf8 32.
+Rxa5 Rf3 33. Ra7 g5 34. Re1 d4 35. exd4 Rxb3 36. Rf1 Rd3 37. Rxf8+ Kxf8 38.
+a5 Rxd4 39. h3 Kg8 40. a6 Ra4 41. Kf2 Ra5 42. Kf3 Rxe5 43. Re7 Kh7 44. Re8
+Ra5 45. Rxe6 Ra3+ 46. Ke4 Rxh3 47. Kd5 Rc3 48. Rb6 g6 49. Kd6 Kh6 50. Rb8
+Ra3 51. Ra8 Kg7 52. Kc5 Ra1 53. Kb6 Rb1+ 54. Ka7 Rb4 55. Rb8 Rxg4 56. Rb5
+Ra4 57. Rxg5 Rb4 58. Rc5 Kh6 59. Rc6 Kh5 60. Rb6 Rf4 61. Rb5+ g5 62. Kb6
+Rf6+ 63. Ka5 Rf7 64. Kb6 Rf6+ 65. Ka5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.24"]
+[Round "5"]
+[White "Wang Yue"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2750"]
+[EventDate "2009.02.19"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8.
+h3 Be7 9. g4 Bg6 10. Nxg6 hxg6 11. Bg2 g5 12. c5 Qxb3 13. axb3 Na6 14. Bd2
+Nc7 15. f4 gxf4 16. exf4 g6 17. Be3 a6 18. Ke2 Rh7 19. Bf2 O-O-O 20. Raf1
+Rdh8 21. Kd3 Bd8 22. Be1 Kd7 23. b4 Kc8 24. Bd2 Kd7 25. Be1 Kc8 26. Bd2 Kd7
+1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.24"]
+[Round "5"]
+[White "Dominguez Perez,L"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2761"]
+[EventDate "2009.02.19"]
+[ECO "B77"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. h4 Rc8 11. Bb3 h5 12. O-O-O Ne5 13. Bg5 Rc5 14. Kb1
+Re8 15. f4 Nc4 16. Qd3 Qc8 17. f5 gxf5 18. exf5 Ne5 19. Qe2 Neg4 20. Rhf1
+Rxc3 21. bxc3 Qxc3 22. Bc1 a5 23. Bb2 Qe3 24. Rde1 Qxe2 25. Rxe2 a4 26. Bc4
+Ne5 27. Bb5 Rc8 28. Bxd7 Nfxd7 29. Nf3 Rc4 30. Nxe5 Nxe5 31. g3 Rg4 32. Rg2
+Nc4 33. Bc1 Be5 34. Rf3 f6 35. c3 Kf7 36. Kc2 Ke8 37. Kd3 b5 38. Be3 Kd7
+39. Bf4 Kc6 40. Rf1 Kc5 41. Rf3 Kd5 42. Rf1 Kc6 43. Rf3 Nb6 44. Bd2 Nd7 45.
+Bf4 Nc5+ 46. Kc2 Ne4 47. Re2 d5 48. Ree3 Kd6 49. Rf1 Rg8 50. Rd1 Kc6 51.
+Rf1 Bxf4 52. Rxf4 Nxg3 53. Rxe7 Ne4 54. Kd3 Rg2 55. a3 Kc5 56. Rc7+ Kd6 57.
+Rc8 Ra2 58. Kd4 Rd2+ 59. Ke3 Ra2 60. Kd4 Rd2+ 61. Ke3 Ra2 62. Kd4 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.24"]
+[Round "5"]
+[White "Grischuk,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2776"]
+[EventDate "2009.02.19"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. h4 Bh6 14. a4
+bxa4 15. Ncb4 O-O 16. Qxa4 Nxd5 17. Nxd5 a5 18. Bb5 Be6 19. Bc6 Rb8 20. b4
+Bxd5 21. Bxd5 axb4 22. cxb4 Qb6 23. O-O Qxb4 24. Qd7 Kh8 25. Ra4 Qb5 26.
+Qxb5 Rxb5 27. Bxf7 Bd2 28. Rfa1 Bc3 29. Ra8 Rbb8 30. Rxb8 Rxb8 31. Ra6 g6
+32. Rxd6 Bd4 33. h5 gxh5 34. Bxh5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.25"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2776"]
+[BlackElo "2791"]
+[EventDate "2009.02.19"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 Nxg4 8.
+Rg1 Qf6 9. Rxg4 Qxf3 10. Rxg7 Nf6 11. h3 Qf5 12. Qxf5 exf5 13. cxd5 cxd5
+14. Nb5 Bb4+ 15. Bd2 Bxd2+ 16. Kxd2 Ke7 17. Bd3 Be6 18. Nc7 Rag8 19. Nxe6
+Kxe6 20. Rxg8 Nxg8 21. Ke2 Ne7 22. Kf3 Rc8 23. a4 Rc7 24. a5 h6 25. h4 Kf6
+26. h5 Nc8 27. Kf4 Nd6 28. Rg1 Rc8 29. f3 Ke6 30. Rg7 Rh8 31. Bc2 Rc8 32.
+Bb3 Rh8 33. Rg1 Rc8 34. Rg7 Rh8 35. Rg2 Rc8 36. Rg1 Ne8 37. e4 fxe4 38.
+fxe4 Nf6 39. e5 Ne4 40. Ke3 b6 41. axb6 axb6 42. Kd3 Nf2+ 43. Ke2 Ne4 44.
+Ke3 f6 45. Rg6 Rc1 46. Rxh6 Rh1 47. Bc2 Rh3+ 48. Kf4 Rh4+ 49. Kf3 Nd2+ 50.
+Ke2 Rh2+ 51. Kd1 Nc4 52. Rxf6+ Ke7 53. Bg6 Rd2+ 54. Kc1 Rxd4 55. b3 Nxe5
+56. Rxb6 Rh4 57. Bf5 Nf3 58. h6 Nd4 59. h7 Nxf5 60. Rb8 Nd4 61. Kb2 Kd6 62.
+h8=Q Rxh8 63. Rxh8 Kc5 64. Rh5 Nc6 65. Rh4 Nb4 66. Ka3 d4 67. Rh5+ Nd5 68.
+Kb2 Kc6 69. Ka3 Kc5 70. Rh4 Nb4 71. Rh8 Nc6 72. Rh5+ Kd6 73. b4 d3 74. Rh3
+Ne5 75. Kb3 d2 76. Kc2 Nc6 77. Rh4 Kd5 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.25"]
+[Round "6"]
+[White "Wang Yue"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2761"]
+[EventDate "2009.02.19"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8.
+Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 11. d5 Nd7 12. O-O f5 13. exf5 Nc5 14. b4 e4
+15. Nd4 Nd3 16. Nxe4 Bxd4 17. Rb1 Nxf2 18. Bxf2 Bxf2+ 19. Nxf2 Bxf5 20. Rb3
+Qe7 21. Qd2 Rae8 22. Bh5 Bg6 23. Rh3 Qg7 24. Bxg6 Qxg6 25. Re3 Rxe3 26.
+Qxe3 b6 27. Re1 Nf5 28. Qe4 Qg7 29. Nd3 a6 30. Rf1 Qd4+ 31. Qxd4 Nxd4 32.
+Rxf8+ Kxf8 33. Kf2 Ke7 34. Ke3 Nc2+ 35. Ke4 b5 36. c5 h6 37. c6 Kf6 38. g3
+Na3 39. g4 Nc2 40. h3 Na3 41. Kd4 Nc2+ 42. Ke4 Na3 43. Kd4 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.25"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2717"]
+[EventDate "2009.02.19"]
+[ECO "A04"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 Qb6 6. Nc2 e6 7. Bg2 d5 8.
+O-O Be7 9. cxd5 Nxd5 10. Nc3 Nxc3 11. bxc3 O-O 12. Be3 Qa5 13. Nd4 Ne5 14.
+Bf4 Nc4 15. Qd3 Qa4 16. Qe4 Re8 17. Rfd1 g5 18. Be5 Bd7 19. Bc7 e5 20. Nf5
+Qc6 21. Rab1 Qxe4 22. Bxe4 Bxf5 23. Bxf5 b6 24. Rd7 Rac8 25. Bd3 Na5 26.
+Bxe5 Nc6 27. Bd4 Red8 28. Rb7 Kf8 29. e3 h6 30. Bf5 Rb8 31. Rc7 Nxd4 32.
+cxd4 a5 33. Rb5 Rd6 34. Bd3 Bd8 35. Rc2 Rb7 36. Kg2 Rdd7 37. Be4 Rbc7 38.
+Rcb2 Rc3 39. Kf3 Ke7 40. Kg4 Rd6 41. Rf5 Kf8 42. Kh5 Kg7 43. Bd5 Bf6 44.
+Bf3 a4 45. Be4 a3 46. Re2 Re6 47. Bd5 Rd6 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.25"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2750"]
+[EventDate "2009.02.19"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 h5 10. h4 g4 11. Be2 Bb7 12. O-O Nbd7 13. Qc2 Nxe5 14. Bxe5
+Bg7 15. b3 O-O 16. bxc4 Nh7 17. Bxg7 Kxg7 18. Rad1 Qxh4 19. cxb5 cxb5 20.
+Nxb5 Rac8 21. Qd3 Rfd8 22. d5 exd5 23. Qd4+ Kg8 24. Qxa7 Qe7 25. e5 Qxe5
+26. Qxb7 Rb8 27. Qc7 Qxe2 28. Nd4 Qc4 29. Qe5 Re8 30. Qxh5 Rb6 31. Nf5 Rbe6
+32. Ne3 Qxa2 33. Nxg4 Qe2 34. Qh4 Qc4 35. f4 Rg6 36. Rf3 Qc5+ 37. Kh1 Qe7
+38. Qh3 Qd6 39. f5 Rg5 40. Nh6+ Kf8 41. Nxf7 Qf6 42. Nxg5 Nxg5 43. Qh4 Re7
+44. Rh3 Qxf5 45. Qh8+ Kf7 46. Rh5 Re8 47. Qh6 Rg8 48. Qd6 Rg6 49. Qxd5+
+Qxd5 50. Rxd5 Ne4 51. Rhf5+ Kg7 52. Rd7+ Kh6 53. Rf4 Ng3+ 54. Kh2 Nh5 55.
+Ra4 Nf6 56. Rdd4 Rg5 57. Rf4 Rg6 58. Rf3 Nh7 59. Rh3+ 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.26"]
+[Round "7"]
+[White "Anand,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2733"]
+[EventDate "2009.02.19"]
+[ECO "E84"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 d6 5. Nc3 O-O 6. Be3 a6 7. Nge2 Nc6 8.
+Qd2 Rb8 9. Rc1 e6 10. b3 Nd7 11. h4 h5 12. g3 Ne7 13. g4 hxg4 14. fxg4 Nf6
+15. g5 Nh5 16. Bg2 e5 17. Bf3 b5 18. dxe5 Bxe5 19. Nf4 Bxf4 20. Bxf4 bxc4
+21. bxc4 Be6 22. Nd5 Bxd5 23. cxd5 Qd7 24. O-O Nxf4 25. Qxf4 c6 26. h5 cxd5
+27. h6 Qe6 28. exd5 Nxd5 29. Bxd5 Qxd5 30. Qf6 Qe5 31. Qxe5 dxe5 32. Rc5
+Rb5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.26"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2750"]
+[BlackElo "2779"]
+[EventDate "2009.02.19"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 c6 8. d5
+Ng4 9. Bg5 f6 10. Bh4 c5 11. O-O h5 12. Ne1 Nh6 13. f3 Nf7 14. Rb1 Bh6 15.
+Bf2 Na6 16. a3 b6 17. b4 f5 18. exf5 gxf5 19. f4 Bxf4 20. Bxh5 Bd7 21. Rb3
+Qg5 22. b5 Nc7 23. Bxf7+ Rxf7 24. Ne2 Rg7 25. Nxf4 Qxf4 26. Bxc5 Qh6 27.
+Be3 f4 28. Bc1 Bg4 29. Qd2 Rf8 30. Nd3 Ne8 31. Nxf4 Rxf4 32. Rxf4 Qxf4 33.
+Qxf4 exf4 34. Bxf4 Rf7 35. g3 Re7 36. h3 Bxh3 37. Kf2 Nf6 38. g4 Bxg4 39.
+Re3 Ne4+ 40. Ke1 Kf7 41. a4 Nc5 42. Kd2 Rxe3 43. Kxe3 Ke7 44. Kd4 0-1
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.26"]
+[Round "7"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2776"]
+[EventDate "2009.02.19"]
+[ECO "C53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 O-O 7. O-O d6 8.
+h3 h6 9. Re1 Ba7 10. Nbd2 Be6 11. Bc2 Re8 12. Nh2 d5 13. Qf3 dxe4 14. dxe4
+Ne7 15. Ndf1 Ng6 16. Be3 Bxe3 17. Nxe3 c6 18. Nf5 Bxf5 19. exf5 Nf4 20.
+Rad1 Qc7 21. Ng4 N4h5 22. Re3 Nxg4 23. hxg4 Nf6 24. Qg3 Rad8 25. Rde1 Rd2
+26. Bb3 Qd8 27. g5 hxg5 28. Qxg5 Nd5 29. Qh5 Qf6 30. Rh3 Kf8 31. Qg4 Kg8
+32. Qh5 Kf8 33. Qg4 Kg8 34. Qh5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.26"]
+[Round "7"]
+[White "Dominguez Perez,L"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2739"]
+[EventDate "2009.02.19"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. h4 h6 11. Nd4 Nxd4 12. Bxd4 Rg8 13. c4
+O-O-O 14. Qc3 g6 15. g3 Qa4 16. Kb1 c5 17. Bf6 Bxf6 18. Qxf6 h5 19. Rg1
+Rge8 20. b3 Qb4 21. Kb2 Qb6 22. Bd3 d5 23. cxd5 Rxd5 24. Be4 Rdd8 25. Rge1
+Rxd1 26. Rxd1 c4 27. Rd2 cxb3 28. axb3 Kb8 29. Rd4 Qc7 30. Rb4 b6 31. Rd4
+Rc8 32. c4 Re8 33. Bf3 a5 34. Kc3 Ka7 35. Qf4 Qxf4 36. gxf4 Rc8 37. Bd5 Rc5
+38. Bxe6 fxe6 39. Re4 Rf5 40. Kd3 Kb7 41. Ke3 Rf6 42. Re5 Kc6 43. Ke4 Kd7
+44. Rb5 Kc6 45. Rg5 Kd6 46. Ke3 Kc6 47. Kf3 Kc7 48. Re5 Kd6 49. Rb5 Kc6 50.
+Rg5 Kc7 51. Ke3 Kc6 52. Ke4 Kd6 53. f3 Kd7 54. Ke5 Ke7 55. Ke4 Kd6 56. Rb5
+Kc6 57. Rg5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.28"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2791"]
+[EventDate "2009.02.19"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. d5 cxd5 12. exd5 Nxd5 13. Nxb5 a6 14.
+Nd6+ Bxd6 15. Bxd6 N7b6 16. Bc5 Qc7 17. Bxb6 Nxb6 18. Qd4 Ke7 19. Rac1 Rac8
+20. Rfe1 Qd6 21. Qg7 Rhg8 22. Qxh6 Qf4 23. Qh3 Na4 24. Ne5 Qxe5 25. Bf3 g4
+26. Qh4+ Qg5 27. Qxg5+ Rxg5 28. Bxb7 Rc7 29. Bxa6 Nxb2 30. Re2 Ra5 31. Rxb2
+Rxa6 32. Kf1 Ra4 33. Rd2 e5 34. Rc3 Rd7 35. Rdc2 Rd4 36. h3 gxh3 37. Rxh3
+Ke6 38. Ke2 Rg4 39. Rh6+ Rg6 40. Rxg6+ fxg6 41. Kd2 Kd5 42. Kc3 Ra3+ 43.
+Kb4 Rd3 44. Rxc4 Rd2 45. Rc5+ Kd4 46. Rc4+ Kd5 47. Rc5+ 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.28"]
+[Round "8"]
+[White "Grischuk,A"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2717"]
+[EventDate "2009.02.19"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Be3 Qa5 9. Qd2 Nc6 10. Rb1 b6 11. Rc1 e6 12. d5 exd5 13. exd5 Ne7 14.
+Bg5 h6 15. Bxe7 Kxe7 16. Bc4 Re8 17. O-O Kf8 18. d6 Qa4 19. Bb3 Qd7 20.
+Rfe1 Bb7 21. Bd5 Bxd5 22. Qxd5 Rad8 23. Rxe8+ Rxe8 24. c4 Qe6 25. Qb7 Qxd6
+26. Qxa7 Bb2 27. Rb1 Qd3 28. Rf1 Qxc4 29. Qxb6 Qb4 30. Qd6+ Kg7 31. h4 Re6
+32. Qd5 c4 33. h5 Bf6 34. hxg6 Kxg6 35. a3 Qa4 36. Nd4 Re5 37. Qf3 Qd7 38.
+Nc2 Qd5 39. Qxd5 Rxd5 40. Ne3 Rc5 41. Rc1 c3 42. a4 Be5 43. g3 Bc7 44. Kf1
+f5 45. Ke2 f4 46. gxf4 Bxf4 47. a5 Rxa5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.28"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2776"]
+[BlackElo "2750"]
+[EventDate "2009.02.19"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 h6 8.
+Bd2 dxc4 9. Bxc4 b5 10. Be2 Bb7 11. e4 Be7 12. g5 hxg5 13. Nxg5 b4 14. Na4
+c5 15. Nxc5 Nxc5 16. dxc5 Rc8 17. Qa4+ Bc6 18. Bb5 Bxb5 19. Qxb5+ Qd7 20.
+Qxd7+ Nxd7 21. Ke2 Rh4 22. Rac1 Rxc5 23. Rxc5 Bxc5 24. f4 e5 25. h3 exf4
+26. Nf3 Rh6 27. Bxf4 Re6 28. Nd2 Bd4 29. Rb1 Ra6 30. a3 bxa3 31. bxa3 Rxa3
+32. Nc4 Ra2+ 33. Kd3 Bf2 34. Bd6 Nb6 35. Bb4 Nxc4 36. Kxc4 Bb6 37. Kd5 Rg2
+38. Rb3 Rg5+ 39. e5 Bc7 40. Bd6 Bxd6 41. Kxd6 Rg6+ 42. Kd5 Rb6 43. Rc3 Kd7
+44. Rf3 Ke7 45. Rc3 Rb7 46. Rc6 g6 47. Ra6 Kf8 48. Ke4 Kg7 49. Kf4 Re7 50.
+Ra5 Kh6 51. Kg4 a6 52. Rxa6 Rxe5 53. Rb6 Re3 54. Ra6 f5+ 55. Kh4 Re4+ 56.
+Kg3 Kg5 57. Ra3 Re2 58. Kf3 Rh2 59. Kg3 Rb2 60. Ra8 Rb3+ 61. Kg2 Kf4 62.
+Ra4+ Ke3 63. h4 Rb6 64. Kg3 Rd6 65. Rf4 Rd1 66. Rf3+ Ke4 67. Rf4+ Ke5 68.
+Ra4 f4+ 69. Kg2 Rd2+ 70. Kf3 Rd3+ 71. Kg2 Rg3+ 72. Kh2 Kf5 73. Ra6 Re3 74.
+Ra5+ Re5 75. Ra2 Kg4 76. Rg2+ Kh5 77. Kh3 Ra5 78. Rg1 Ra3+ 79. Kh2 Ra6 80.
+Kh3 Ra5 81. Rg2 Rc5 82. Rg1 f3 83. Kg3 Rf5 84. Rf1 f2 85. Kh3 Rf3+ 86. Kg2
+Kg4 87. h5 Rg3+ 88. Kh2 Kf3 89. Ra1 Rg2+ 90. Kh1 Rg5 91. Ra3+ Kf4 92. Ra4+
+Kg3 93. Ra3+ Kh4 0-1
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.02.28"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2739"]
+[EventDate "2009.02.19"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+cxd5 Qxd5 15. Bf4 Rac8 16. a4 Bd6 17. Be3 Na5 18. Nd2 Qe6 19. g3 h6 20. Bf3
+c5 21. dxc5 Bxc5 22. Bxc5 Qxe1+ 23. Qxe1 Rxe1+ 24. Rxe1 Rxc5 25. Re8+ Kh7
+26. Ne4 Bxe4 27. Bxe4+ g6 28. Ra8 a6 29. Rd8 Rc7 30. Bd5 Kg7 31. Re8 Nc4
+32. Bxc4 Rxc4 33. Re7 Rxc3 34. Rxb7 Rc4 35. a5 Rc5 36. Ra7 Rxa5 37. g4 Kf6
+38. Kg2 Ra3 39. h4 Ke6 40. h5 gxh5 41. gxh5 Kf6 42. f3 Ra2+ 43. Kg3 Ra1 44.
+Kg4 Ra4+ 45. f4 Ra1 46. Ra8 Kg7 47. Ra7 a5 48. Kf5 a4 49. Ra6 a3 50. Ra7 a2
+51. Ra8 Kh7 52. Ra3 Kg8 53. Ra8+ Kg7 54. Ra7 Rh1 55. Rxa2 Rxh5+ 56. Kg4 Rb5
+57. Ra6 h5+ 58. Kh4 f6 59. Ra8 Kg6 60. Rh8 Rb1 61. Kg3 Rb3+ 62. Kg2 Ra3 63.
+Kf2 Ra7 64. Kg3 Rh7 65. Rxh7 Kxh7 66. f5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.01"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2791"]
+[EventDate "2009.02.19"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Bxf6 Nxf6 12. Nbd2 Rc8 13. Nb3 c5 14.
+dxc5 Bd5 15. Rfd1 Qc7 16. Rac1 Bxb3 17. Qxb3 Bxc5 18. e3 Qb6 19. Ne5 Rc7
+20. a4 Rfc8 21. axb5 axb5 22. Bf1 g6 23. Qxb5 Bxe3 24. Qxb6 Bxb6 25. Rc4
+Rxc4 26. Nxc4 Bc5 27. Kg2 Nd5 28. Be2 Be7 29. b3 Rb8 30. Bf3 Rxb3 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.01"]
+[Round "9"]
+[White "Wang Yue"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2733"]
+[EventDate "2009.02.19"]
+[ECO "D22"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. axb5 axb5 8.
+Rxa8 Bxa8 9. bxc4 bxc4 10. Bxc4 Nf6 11. Bb5+ Nbd7 12. O-O Be7 13. Qc2 Be4
+14. Bd3 Bxd3 15. Qxd3 O-O 16. Ba3 c5 17. dxc5 Bxc5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.01"]
+[Round "9"]
+[White "Dominguez Perez,L"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2776"]
+[EventDate "2009.02.19"]
+[ECO "B78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rb8 11. Bb3 Na5 12. Bh6 Bxh6 13. Qxh6 b5 14.
+g4 Nxb3+ 15. Nxb3 b4 16. Nd5 Nxd5 17. exd5 Rb6 18. Rhe1 e5 19. dxe6 fxe6
+20. Re3 Rf7 21. Nd2 d5 22. Nb3 Qc7 23. Kb1 Rb8 24. Rde1 Rc8 25. R1e2 Qb6
+26. h4 d4 27. Re5 d3 28. cxd3 Rxf3 29. d4 Bb5 30. R2e3 Bd3+ 31. Ka1 Qxd4
+32. Rxe6 Rf1+ 33. Re1 Qxg4 34. Rxf1 Qxe6 35. Nc5 Qe2 36. Rc1 Bf5 37. Qf4 a5
+38. h5 Qe7 39. Qc4+ Be6 40. Qc2 Qg5 41. hxg6 hxg6 42. a3 bxa3 43. Qc3 axb2+
+44. Kxb2 Qd5 45. Rc2 a4 46. Ka1 a3 47. Qe3 Bf7 48. Qc3 g5 49. Qe3 Re8 50.
+Qc3 Re2 51. Nb3 Rxc2 52. Qxc2 Qe5+ 53. Kb1 Kg7 54. Qd2 Bxb3 0-1
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.01"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2761"]
+[EventDate "2009.02.19"]
+[ECO "C63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Bg5 Bc5 7. Nc3 d6
+8. Bxf6 Qxf6 9. Nd5 Qd8 10. b4 Bb6 11. O-O Bg4 12. a4 O-O 13. Be2 Bxf3 14.
+Bxf3 a6 15. Nxb6 cxb6 16. c3 Kh8 17. Bg4 Rf6 18. Qd3 Ne7 19. g3 Qc7 20. a5
+Raf8 21. Qe3 bxa5 22. Rxa5 Qc4 23. h4 Qc6 24. Be2 Rc8 25. Ra3 Rcf8 26. Kg2
+d5 27. f3 Qc7 28. Bd3 Rd6 29. Rf2 d4 30. cxd4 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.02"]
+[Round "10"]
+[White "Grischuk,A"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2779"]
+[EventDate "2009.02.19"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+cxd5 Qxd5 15. Bf4 Rac8 16. h3 h6 17. g4 Bg6 18. Bf1 Bd6 19. Rxe8+ Rxe8 20.
+c4 Qe4 21. Be3 Rd8 22. Bg2 Qe7 23. g5 Bc5 24. Ra2 Bh5 25. Rd2 Bxa3 26. gxh6
+Bb4 27. Rd3 Rd6 28. c5 Rg6 29. Bf4 Qf6 30. Bg3 gxh6 31. Kh2 a5 32. Qa4 Bxf3
+33. Bxf3 Rxg3 34. fxg3 Nxd4 35. Bg2 c6 36. Qd1 Bxc5 37. Qg4+ Kf8 38. Qc8+
+Kg7 39. Qg4+ Kf8 40. Qc8+ Kg7 41. Qg4+ 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.02"]
+[Round "10"]
+[White "Anand,V"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2717"]
+[EventDate "2009.02.19"]
+[ECO "D97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8.
+Be2 b5 9. Qb3 c5 10. dxc5 Bb7 11. O-O Nbd7 12. e5 Ng4 13. e6 Qb8 14. exd7
+Bxf3 15. g3 Bxe2 16. Nxe2 Qc7 17. Bf4 Qxd7 18. Rac1 Rac8 19. Rfd1 Qf5 20.
+Rd5 Qe4 21. f3 Qxe2 22. Rd2 Bd4+ 23. Kh1 Qe6 24. Rxd4 Qc6 25. Qd5 e5 26.
+Qxc6 Rxc6 27. Rd6 Rxd6 28. cxd6 Nf2+ 29. Kg2 Nd3 30. Rc3 exf4 31. Rxd3 fxg3
+32. Kxg3 Kg7 33. Rc3 Rd8 34. Rc6 a5 35. Rb6 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.02"]
+[Round "10"]
+[White "Radjabov,T"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2761"]
+[BlackElo "2750"]
+[EventDate "2009.02.19"]
+[ECO "A07"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 e6 4. O-O Nd7 5. d4 c6 6. Nbd2 Ngf6 7. Re1 Be7
+8. e4 dxe4 9. Nxe4 O-O 10. c3 Re8 11. Nxf6+ Bxf6 12. h3 Bh5 13. Qb3 Qb6 14.
+Nd2 e5 15. d5 Qc7 16. d6 Qb8 17. Ne4 Bd8 18. Be3 Bb6 19. h4 h6 20. Bh3 Qd8
+21. Bxh6 Nc5 22. Nxc5 Qxd6 23. Nd7 Qxh6 24. Nxb6 axb6 25. Qxb6 Bf3 26. Qe3
+Qh5 27. Bg2 Bxg2 28. Kxg2 Ra4 29. Qg5 Qxg5 30. hxg5 Kh7 31. a3 Kg6 32. Rad1
+Re6 33. Rd7 b5 34. Red1 Rc4 35. Rc7 e4 36. Rdd7 e3 37. fxe3 Rxe3 38. Rxf7
+Rg4 39. Rxg7+ Kh5 40. Rh7+ Kg6 41. Rcg7+ Kf5 42. Rf7+ Kg6 43. Rhg7+ Kh5 44.
+Rf3 Re2+ 45. Kh3 Rxg5 46. g4+ Kh6 47. Rxg5 Kxg5 48. b3 Kg6 49. Kg3 Ra2 50.
+Kf4 Rxa3 51. b4 Kf7 52. Ke5+ Ke7 53. Rh3 Kd7 54. g5 Ra1 55. Rh7+ Ke8 56.
+Rc7 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.02"]
+[Round "10"]
+[White "Carlsen,M"]
+[Black "Wang Yue"]
+[Result "0-1"]
+[WhiteElo "2776"]
+[BlackElo "2739"]
+[EventDate "2009.02.19"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. b3 Bg4 7. Bd2 Nbd7 8. h3
+Bxf3 9. Qxf3 b4 10. Na4 e5 11. Rc1 Bd6 12. cxd5 cxd5 13. dxe5 Nxe5 14. Qd1
+O-O 15. Be2 a5 16. Rc2 Qe7 17. Bc1 Rad8 18. Bb2 Ng6 19. O-O Ne4 20. Bd4 Nh4
+21. Bd3 Nf5 22. Bb6 Rb8 23. Bxe4 Qxe4 24. Rd2 Rxb6 25. Nxb6 Qe5 26. Re1
+Qh2+ 27. Kf1 Qh1+ 28. Ke2 Qxg2 29. Rxd5 Ng3+ 30. Kd3 Bc7 31. fxg3 Bxb6 32.
+Kc4 Rb8 33. Kb5 Bd4+ 34. Kc4 Bf6 35. Qd3 Qxg3 36. Rd1 Qc7+ 37. Rc5 Qb7 38.
+Qd6 Qe4+ 39. Rd4 Qc2+ 40. Kd5 Qg2+ 41. e4 Rd8 42. Qxd8+ Bxd8 43. Rc8 g6 44.
+Rxd8+ Kg7 45. Rd3 Qc2 46. Kd4 a4 47. bxa4 Qxa2 48. Kc5 b3 49. Rb8 b2 50.
+Rdb3 Qxa4 51. Rxb2 Qxe4 52. R8b3 Kh6 53. Rc3 f5 54. Rbb3 Qe5+ 55. Kc4 Kh5
+56. Kd3 Kh4 57. Kd2 f4 58. Rf3 g5 59. Rfd3 Qc5 60. Rbc3 Qf2+ 61. Kd1 Qf1+
+62. Kd2 Qg2+ 63. Kd1 Qe4 64. Kd2 h5 0-1
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.03"]
+[Round "11"]
+[White "Grischuk,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2761"]
+[EventDate "2009.02.19"]
+[ECO "E97"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 Kh8 13. c5 h6 14. Ne6 Bxe6
+15. dxe6 d5 16. exd5 Nfxd5 17. Nxd5 Qxd5 18. Qb3 Qxb3 19. axb3 Nc6 20. Ra4
+Rfe8 21. Bc4 a6 22. b5 axb5 23. Rxa8 Rxa8 24. Bxb5 Re8 25. Rd1 Rxe6 26. Rd7
+Bf8 27. Rxc7 Bxc5+ 28. Kf1 Re7 29. Rxe7 Bxe7 30. Bb2 Nd4 31. Bxd4 exd4 32.
+g4 Kg7 33. gxf5 gxf5 34. Bd3 Kf6 35. h3 Kg5 36. Ke2 Kf4 37. Bc2 h5 38. Bd3
+Bf8 39. Kf2 Kg5 40. Kf1 Bc5 41. Ke2 h4 42. Bc2 f4 43. Kd3 b5 44. Ke4 b4
+1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.03"]
+[Round "11"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2776"]
+[EventDate "2009.02.19"]
+[ECO "D56"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Rc1 c6 10. Be2 Nxc3 11. Rxc3 dxc4 12. Rxc4 Nd7 13. O-O e5 14.
+Qc2 exd4 15. Nxd4 Nb6 16. Rc5 Nd7 17. Ra5 Nf6 18. Rc1 Bg4 19. Bf1 Bd7 20.
+Nf3 Bg4 21. Nd4 Bd7 22. Nf3 Bg4 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.03"]
+[Round "11"]
+[White "Dominguez Perez,L"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2750"]
+[EventDate "2009.02.19"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. a4 Nd4 12. Nbd2 c5 13. Nxd4 exd4 14. Qf3
+Bc6 15. Ne4 Qd7 16. Bg5 f6 17. Bd2 Kh8 18. axb5 axb5 19. Rxa8 Rxa8 20. Qh5
+Bf8 21. Ng3 Bb7 22. Qg4 Qxg4 23. hxg4 Rc8 24. Nf5 c4 25. Ba2 Nb4 26. Bb1
+Nc6 27. dxc4 bxc4 28. c3 d3 29. Ba2 Ne5 30. Ne3 g5 31. Rb1 Ba6 32. b3 Bc5
+33. bxc4 Bxe3 34. Bxe3 Bxc4 35. Bxc4 Nxc4 36. Bd4 Kg7 37. Rd1 d2 38. Kf1
+Re8 39. Be3 Nxe3+ 40. fxe3 Rxe3 41. Rxd2 Rxc3 42. Kf2 Kg6 43. Rd6 Rc1 44.
+Ra6 Rc4 45. Kg3 Rf4 46. Kh3 Rf1 47. g3 Rf2 48. Ra7 Rf3 49. Kg2 Re3 50. Ra6
+Kf7 51. Ra7+ Re7 52. Ra6 Re6 53. Ra7+ Kg6 54. Kh3 h6 55. Rb7 Re2 56. Rg7+
+Kxg7 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.03"]
+[Round "11"]
+[White "Wang Yue"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2791"]
+[EventDate "2009.02.19"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bb7 6. e3 h6 7. Bh4 Bxc3+ 8.
+bxc3 d6 9. Nd2 g5 10. Bg3 Nbd7 11. f3 Qe7 12. Qa4 Nh5 13. Bf2 f5 14. Bd3
+O-O 15. Qc2 c5 16. h3 Ng7 17. a4 e5 18. d5 Bc8 19. e4 f4 20. a5 Rb8 21.
+axb6 axb6 22. Nb1 Nf6 23. Na3 Bd7 24. Kd2 Ra8 25. Nb5 h5 26. Qb2 Bxb5 27.
+cxb5 Rxa1 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.05"]
+[Round "12"]
+[White "Carlsen,M"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2776"]
+[BlackElo "2733"]
+[EventDate "2009.02.19"]
+[ECO "B84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8.
+a4 Nc6 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Bf8 13. Qd2 Rb8 14. Qf2 e5
+15. fxe5 dxe5 16. Nb3 Nb4 17. Ba7 Ra8 18. Bb6 Qe7 19. Rad1 Be6 20. Nd5 Bxd5
+21. exd5 e4 22. d6 Qe6 23. Nc5 Qf5 24. Be2 Qxf2 25. Rxf2 Nbd5 26. a5 Nxb6
+27. axb6 Rab8 28. Rxf6 gxf6 29. Nd7 f5 30. c4 a5 31. c5 Bg7 32. Nxb8 Rxb8
+33. Ba6 Bf6 34. Bxb7 Rxb7 35. c6 Rxb6 36. Rc1 Bxb2 37. d7 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.05"]
+[Round "12"]
+[White "Anand,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2779"]
+[EventDate "2009.02.19"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 b6 11. Re1 Bb4 12. Bd2 Be6 13. g4 Ne7
+14. Kg2 Rd8 15. a3 Bxc3 16. Bxc3 c5 17. Rad1 Rxd1 18. Rxd1 a5 19. Kg3 h6
+20. Nh4 g5 21. Ng2 Ng6 22. f3 a4 23. Rh1 Kd7 24. h4 h5 25. hxg5 hxg4 26.
+Rxh8 Nxh8 27. f4 Ng6 28. Ne3 Ne7 29. Nxg4 Bf5 30. Ne3 Be4 31. b3 axb3 32.
+cxb3 Nf5+ 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.05"]
+[Round "12"]
+[White "Aronian,L"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2739"]
+[EventDate "2009.02.19"]
+[ECO "B13"]
+
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. Bxc4 h6
+8. Bf4 e6 9. Nf3 Bd6 10. Be5 O-O 11. Qe2 b6 12. a3 Bb7 13. Rd1 Re8 14. O-O
+Bf8 15. Rfe1 Nd5 16. Nxd5 exd5 17. Ba2 Na5 18. Bb1 Bc8 19. g3 Nc4 20. Nh4
+Qg5 21. Qc2 g6 22. Bf4 Rxe1+ 23. Rxe1 Qf6 24. Qc1 Bd7 25. Bxh6 Bxh6 26.
+Qxh6 Re8 27. Rxe8+ Bxe8 28. Nf5 Bd7 29. g4 Bxf5 30. gxf5 Qxd4 31. fxg6
+1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.05"]
+[Round "12"]
+[White "Radjabov,T"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2717"]
+[EventDate "2009.02.19"]
+[ECO "B22"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bc4 e6 6. d4 cxd4 7. cxd4 d6 8.
+O-O Be7 9. Qe2 O-O 10. Nc3 Nxc3 11. bxc3 dxe5 12. dxe5 Qa5 13. a4 Rd8 14.
+Bd2 Bd7 15. Bd3 Be8 16. Rfe1 Rd7 17. Qe4 g6 18. Bb5 Rc8 19. Bg5 Qd8 20. Qf4
+Rd5 21. h4 Na5 22. Bxe7 Qxe7 23. Bxe8 Rxe8 24. Rab1 Kg7 25. Ng5 Nc6 26. Rb5
+Red8 27. Qf6+ Qxf6 28. exf6+ Kxf6 29. Rxb7 R8d7 30. Nxh7+ Kg7 31. Rxd7 Rxd7
+32. Ng5 Ne7 33. c4 Rb7 34. c5 Rb4 35. Re4 Rb1+ 36. Kh2 Nc6 37. Rf4 Rb7 38.
+g3 e5 39. Rc4 Rb2 40. Kg2 f6 41. Ne6+ Kf7 42. Nd8+ Nxd8 43. c6 Nxc6 44.
+Rxc6 e4 45. Kf1 f5 46. Rc7+ Kf6 47. Rxa7 f4 48. gxf4 Kf5 49. Ra5+ Kxf4 50.
+Rg5 Ra2 51. Rxg6 Rxa4 52. Kg2 Ra5 53. Rg7 Rb5 54. Rg3 Ra5 55. Kh3 Ra1 56.
+Kg2 Ra5 57. Re3 Rb5 58. Re1 Ra5 59. Rh1 Kg4 60. Rh3 Rh5 61. Rg3+ Kxh4 62.
+Rh3+ Kg4 63. Rxh5 Kxh5 64. f3 exf3+ 65. Kxf3 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.06"]
+[Round "13"]
+[White "Grischuk,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2791"]
+[EventDate "2009.02.19"]
+[ECO "B97"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. f5 Nc6 11. fxe6 fxe6 12. Nxc6 bxc6 13. e5 dxe5 14.
+Bxf6 gxf6 15. Ne4 Qxa2 16. Rd1 Be7 17. Be2 O-O 18. O-O Ra7 19. Rf3 Rd7 20.
+Bd3 f5 21. Qh6 Kh8 22. Ng5 Bc5+ 23. Kh1 Qa5 24. Rh3 Qc7 25. Nxe6 Qd6 26.
+Nxf8 Qxf8 27. Rf1 Rf7 28. Qh5 Qe7 29. Rhf3 f4 30. Be4 Rg7 31. Rb3 Ba7 32.
+Rd3 Bg4 33. Qh6 Be2 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.06"]
+[Round "13"]
+[White "Carlsen,M"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2761"]
+[EventDate "2009.02.19"]
+[ECO "B30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8.
+Qe2 Ng6 9. d4 cxd4 10. cxd4 Rc8 11. a3 Be7 12. Nc3 O-O 13. Rd1 Na5 14. g3
+Nc4 15. h4 Nxa3 16. bxa3 Rxc3 17. h5 Qc7 18. Bd3 Nh8 19. Bb2 Rb3 20. Rac1
+Qa5 21. d5 Bxa3 22. Bxa3 Rxa3 23. Qe3 f5 24. exf5 Bxd5 25. Ne5 Qd8 26. fxe6
+dxe6 27. Bxh7+ Kxh7 28. Qxa3 Rf5 29. Qd3 Kg8 30. Qe2 Nf7 31. Ng6 Kh7 32.
+Nf4 Ng5 33. Qg4 Qa8 34. Nxd5 Rxd5 35. f4 Rxd1+ 36. Qxd1 Ne4 37. Qd3 Qd5 38.
+Qxd5 exd5 39. Kg2 a5 40. g4 b4 41. Rc8 b3 42. g5 g6 43. h6 Nd6 44. Rb8 a4
+45. Rb4 d4 46. Rxa4 d3 47. Kf3 Nb5 48. Rb4 Nc3 49. Rb7+ Kg8 50. Rb8+ Kh7
+51. Ke3 b2 52. Rb7+ Kg8 53. Rb8+ Kh7 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.06"]
+[Round "13"]
+[White "Wang Yue"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2717"]
+[EventDate "2009.02.19"]
+[ECO "D80"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6
+8. Be2 c6 9. Nf3 Bh6 10. O-O b5 11. a4 a6 12. e4 O-O 13. axb5 cxb5 14. d5
+Bc8 15. e5 Qc7 16. d6 exd6 17. exd6 Qb6 18. Be7 Re8 19. Ne5 Be6 20. Bg4 Nc6
+21. Nd7 Bxd7 22. Bxd7 Red8 23. Bxd8 Rxd8 24. Qe2 Bf8 25. Bxc6 Qxc6 26. Rfd1
+Rxd6 27. Rxd6 Qxd6 28. Qf3 Qe5 29. g3 b4 30. Rxa6 bxc3 31. Ra2 Bc5 32. Kg2
+Qd4 33. h4 h5 34. Qe2 Qd5+ 35. Kh2 Bd4 36. Ra4 Qf5 37. Kg2 Qd3 38. Ra2 Kg7
+39. Rc2 Bf6 40. Ra2 Bd4 41. Rc2 Bf6 42. Ra2 Kh7 43. Rc2 Bg7 44. Kh2 Kg8 45.
+Kg2 Bf6 46. Kh2 Bd4 47. Kg2 Kg7 48. Ra2 Bf6 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.06"]
+[Round "13"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2750"]
+[EventDate "2009.02.19"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8.
+Be2 b6 9. O-O Bb7 10. Bb2 Rc8 11. Rac1 c5 12. dxc5 bxc5 13. Rfd1 Qe7 14. g3
+Rfd8 15. cxd5 exd5 16. Nh4 Bb8 17. Bf1 Ne5 18. Bh3 Rc7 19. Bg2 d4 20. Nf5
+Qe8 21. exd4 cxd4 22. Nxd4 Bxg2 23. Kxg2 g6 24. Ne4 Qe7 25. Nxf6+ Qxf6 26.
+Qe2 Rxc1 27. Rxc1 Qd6 28. Qe4 Qb4 29. Rc2 f5 30. Qe2 Qb7+ 31. Nc6 Re8 32.
+Kg1 Nf3+ 33. Qxf3 Re1+ 34. Kg2 Qb5 35. Rc4 1-0
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.07"]
+[Round "14"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2733"]
+[EventDate "2009.02.19"]
+[ECO "E92"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. Be3 Ng4 8.
+Bg5 f6 9. Bc1 exd4 10. Nxd4 f5 11. h3 Nh6 12. exf5 Nxf5 13. Nxf5 Bxf5 14.
+Be3 Nc6 15. Qd2 a5 16. O-O Kh8 17. Rad1 Qf6 18. Nd5 Qf7 19. b3 b6 20. a3
+Rae8 21. Rfe1 Re6 22. Bf1 Rfe8 23. b4 axb4 24. axb4 h5 25. b5 Na5 26. Bd4
+Kh7 27. Rxe6 Bxe6 28. Bxg7 Qxg7 29. Re1 Qf7 30. Re4 Bxd5 31. Rf4 Qg8 32.
+cxd5 Nb3 33. Qc3 Nc5 34. Qf3 Kg7 35. g4 Re5 36. Bc4 Qe8 37. Bd3 hxg4 38.
+hxg4 Qe7 39. Kg2 Nd7 40. Bc2 Nf6 41. Rd4 Rg5 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.07"]
+[Round "14"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2776"]
+[EventDate "2009.02.19"]
+[ECO "E60"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Nc6 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 e5
+8. Bb5 Bd7 9. Ne2 Bg7 10. Be3 O-O 11. d5 Na5 12. Bd3 b6 13. O-O Nb7 14. c4
+c5 15. dxc6 Bxc6 16. Nc3 Bd7 17. Nd5 Be6 18. Qd2 Rc8 19. Rfc1 f6 20. Kh1
+Kh8 21. Rab1 Rf7 22. Qe2 Bf8 23. Bd2 Bd6 24. Bc3 Kg8 25. Qd2 Qf8 26. Be2
+Rd8 27. Rd1 Rc8 28. Rdc1 Rd8 29. Rd1 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.07"]
+[Round "14"]
+[White "Radjabov,T"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2739"]
+[EventDate "2009.02.19"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. c5 Bf5 6. Bf4 Nbd7 7. e3 Nh5 8.
+h3 Nxf4 9. exf4 e6 10. Bd3 Bxd3 11. Qxd3 g6 12. O-O Bg7 13. b4 O-O 14. Rfe1
+b6 15. cxb6 Qxb6 16. Rab1 Qc7 17. g3 Rfb8 18. Rec1 Qd6 19. Ne2 Rxb4 20.
+Rxb4 Qxb4 21. Rxc6 Nb6 22. Qb3 Qxb3 23. axb3 Rb8 24. Ne5 a5 25. Rc7 Bxe5
+26. fxe5 a4 27. bxa4 Nxa4 28. Kg2 Nb2 29. Rc3 Nc4 1/2-1/2
+
+[Event "XXVI SuperGM"]
+[Site "Linares ESP"]
+[Date "2009.03.07"]
+[Round "14"]
+[White "Dominguez Perez,L"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2779"]
+[EventDate "2009.02.19"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 Re8 10. Nc3 h6 11. Bd2 Rb8 12. Nd5 Bf8 13. a4 d6 14. Nxf6+
+Qxf6 15. c3 Bc8 16. axb5 axb5 17. Nh2 Be6 18. Ng4 Qg6 19. Bxe6 Qxe6 20. Ne3
+Ne7 21. Ra7 c6 22. Qg4 Qxg4 23. hxg4 d5 24. Kf1 Nc8 25. Rc7 dxe4 26. dxe4
+Nd6 27. f3 Rec8 28. Rxc8 Nxc8 29. Ra1 Nb6 30. Ra6 Bc5 31. b4 Bxe3 32. Bxe3
+Nc4 33. Ke2 Rc8 34. Ra7 g5 35. Bc5 1/2-1/2
+

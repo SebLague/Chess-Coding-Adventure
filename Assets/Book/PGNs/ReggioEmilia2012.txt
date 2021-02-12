@@ -1,0 +1,776 @@
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.27"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2714"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Petrosian variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "24116068"]
+[EventDate "2011.12.27"]
+
+1. c4 Nf6 2. Nf3 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8. Rc1
+c6 9. Be2 dxc4 10. Bxc4 Nd7 11. O-O e5 12. Ne4 exd4 13. Nxd4 Be5 14. f4 Bc7 15.
+Bxf7+ Rxf7 16. Ne6 Qe8 17. Nxc7 Qxe4 18. Nxa8 Qxe3+ 19. Rf2 Nf6 20. Qe1 Qxe1+
+21. Rxe1 Nd5 22. Re8+ Rf8 23. Rfe2 b5 24. R2e5 a6 25. f5 Bb7 26. Rxf8+ Kxf8 27.
+Rxd5 cxd5 28. Nc7 Kf7 29. Kf2 d4 30. g4 g5 31. fxg6+ Kxg6 32. Ne6 Bc8 33. Nxd4
+Bxg4 34. Kg3 Kg5 35. h4+ Kh5 36. a3 Bd7 37. Nf3 Bc8 38. Ne5 Bb7 39. b4 Bc8 40.
+Nc6 Bd7 41. Nb8 Bc8 42. Nc6 Bd7 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.27"]
+[Round "1"]
+[White "Vitiugov, Nikita"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2758"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4152956"]
+[BlackFideId "2016192"]
+[EventDate "2011.12.27"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. Be2 c5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. O-O c4 11. b3 Nb6 12. bxc4 dxc4 13. Qc2 Be6 14. Rab1 Rc8
+15. a4 a5 16. Ng5 Bxg5 17. Bxg5 f6 18. Bh4 c3 19. Bd3 h6 20. Bb5 Nd5 21. Qe4 Qd6
+22. Bg3 Qe7 23. Rbc1 Nb4 24. d5 Nxd5 25. Rfd1 Rfd8 26. Rd4 f5 27. Qe5 Qf6 28.
+Qxf6 gxf6 29. h3 Kf7 30. Bc4 Ke7 31. e4 Nf4 32. Rxd8 Rxc4 33. Bxf4 Kxd8 34. exf5
+Bxf5 35. Be3 c2 36. g4 Be4 37. Bb6+ Kd7 38. Bxa5 Rd4 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.27"]
+[Round "1"]
+[White "Caruana, Fabiano"]
+[Black "Morozevich, Alexander"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2762"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[WhiteFideId "2020009"]
+[BlackFideId "4116992"]
+[EventDate "2011.12.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4 Nb4 15.
+Bb1 c5 16. d5 Nd7 17. Ra3 c4 18. axb5 axb5 19. Nd4 Ne5 20. Rxa8 Qxa8 21. Nxb5
+Rc8 22. Re3 Ba6 23. Nc3 Ned3 24. Bxd3 Nxd3 25. Nf3 Qb7 26. Re2 Be7 27. Nd4 Bf6
+28. Nf5 Qb3 29. Rc2 Rd8 30. Be3 Nxb2 31. Qd2 Nd3 32. Bd4 Be5 33. Bxe5 dxe5 34.
+Ra2 Bb5 35. Ra1 Bd7 36. Ne3 Rc8 37. Ra7 Nc5 38. Qc1 Qb6 39. Qa3 Qb3 40. Qa1 Kh7
+41. Kh2 Qb6 42. Nxc4 Qf6 43. Qf1 Be8 44. d6 Qd8 45. Nd5 Bb5 46. Rxf7 Nxe4 47.
+Nc7 Bxc4 48. Qxc4 Nxd6 49. Ne6 Nxc4 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.28"]
+[Round "2"]
+[White "Giri, Anish"]
+[Black "Morozevich, Alexander"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2762"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "24116068"]
+[BlackFideId "4116992"]
+[EventDate "2011.12.27"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 Bg4 5. h3 Bh5 6. Nc3 e6 7. g4 Bg6 8. Ne5 Nbd7
+9. h4 dxc4 10. Nxg6 hxg6 11. g5 Nd5 12. Bxc4 Bb4 13. Bd2 Qe7 14. a3 Nxc3 15.
+bxc3 Ba5 16. f4 O-O-O 17. Qb3 Nb6 18. Bd3 Kb8 19. Ke2 Qd7 20. Be4 f6 21. gxf6
+gxf6 22. Rag1 e5 23. fxe5 fxe5 24. Rg5 exd4 25. Rxa5 Rhe8 26. Bg2 dxe3 27. Bc1
+Qd3+ 28. Ke1 e2 29. Bf4+ Ka8 30. Kf2 Rf8 31. Qb4 Nc4 32. Rxa7+ Kxa7 33. Qa4+ Kb6
+34. Qb4+ Ka6 35. Qa4+ Na5 36. Bf3 b5 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.28"]
+[Round "2"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2727"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2011.12.27"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Nf3 Qe7 5. Bg2 O-O 6. O-O c6 7. e4 d6 8. d3 a6
+9. Qb3 Bc5 10. Na4 Ba7 11. Nb6 Bxb6 12. Qxb6 c5 13. Ne1 Bg4 14. f3 Be6 15. Bg5
+Nbd7 16. Qa5 h6 17. Bd2 Nb8 18. Nc2 Nc6 19. Qc3 b5 20. Ne3 Nd4 21. Rae1 Rab8 22.
+Qc1 bxc4 23. dxc4 Qd7 24. Rf2 Rfe8 25. Bc3 a5 26. Qd1 a4 27. Bf1 Ra8 28. Bd3 Kh8
+29. Kh1 Qb7 30. h4 Rf8 31. Kh2 Qd7 32. Ref1 Rae8 33. a3 Ra8 34. Qd2 Nb3 35. Qd1
+Nd4 36. Rg1 Rae8 37. Qf1 Qd8 38. Qd1 Qd7 39. Nd5 Bxd5 40. cxd5 Rc8 41. Re1 Ra8
+42. Bf1 Qe7 43. Bd3 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.28"]
+[Round "2"]
+[White "Ivanchuk, Vassily"]
+[Black "Vitiugov, Nikita"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2729"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "14100010"]
+[BlackFideId "4152956"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg5 Bb7 5. Nbd2 c5 6. c3 Nc6 7. e3 cxd4 8. cxd4
+a6 9. Bg2 Be7 10. O-O d6 11. a4 O-O 12. axb5 axb5 13. Qb3 Ra5 14. Rfc1 h6 15.
+Bxf6 Bxf6 16. Ne4 Be7 17. d5 Qa8 18. Rab1 exd5 19. Nc3 d4 20. Nd5 dxe3 21. Rxc6
+exf2+ 22. Kxf2 Bxc6 23. Nxe7+ Kh8 24. Re1 Be4 25. Nh4 Qa7+ 26. Re3 Ra4 27. Nhf5
+Qc5 28. Bxe4 Rxe4 29. Qc3 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.29"]
+[Round "3"]
+[White "Vitiugov, Nikita"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2714"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld defence"]
+[WhiteFideId "4152956"]
+[BlackFideId "24116068"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Qd6 10. Nb5 Qd7 11. Kb1 Rd8 12. d5 a6 13. dxc6 Qxd2 14. Rxd2 Rxd2
+15. Bxd2 axb5 16. cxb7 Bxb7 17. Bxb5 f5 18. exf5 Bd5 19. Ne2 Bxa2+ 20. Kc2 gxf5
+21. Bc3 Bc4 22. Bxc4+ Nxc4 23. Nd4 Ne3+ 24. Kd3 Nxg2 25. Nxf5 Nf4+ 26. Kc4 Bxc3
+27. bxc3 Kf7 28. Re1 Ng6 29. Nd4 Ra2 30. h3 Rh2 31. Ne6 Kf6 32. Nxc7 Rxh3 33.
+Nd5+ Kf7 34. Rf1 Nh4 35. f4 Nf5 36. Kb4 h5 37. c4 Rd3 38. Nb6 h4 39. c5 Rd2 40.
+Kc3 Rg2 41. Rh1 Rg4 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.29"]
+[Round "3"]
+[White "Caruana, Fabiano"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2775"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "14100010"]
+[EventDate "2011.12.27"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 d6 7. Bf4 e5 8. Bg5
+a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 f5 12. g3 fxe4 13. Bg2 Bg7 14. Bxe4 Be6 15.
+O-O O-O 16. c3 f5 17. Bg2 Rb8 18. Nc2 a5 19. a3 Kh8 20. Qe2 Qd7 21. Rad1 e4 22.
+f3 Nd4 23. Nxd4 Bxd5 24. Qd2 b4 25. axb4 axb4 26. fxe4 bxc3 27. bxc3 fxe4 28.
+Rxf8+ Rxf8 29. Qe3 Qe7 30. Bh3 Qe5 31. Re1 Rf6 32. Bg2 Rf7 33. Rb1 Bb7 34. Ne2
+d5 35. Rb6 Qc7 36. Rb1 Be5 37. Nd4 Ba6 38. Bf1 Bc4 39. Bxc4 Qxc4 40. Ne6 Qa6 41.
+Nd4 h6 42. Ne2 Kh7 43. Rf1 Rxf1+ 44. Kxf1 Qa1+ 45. Kg2 Qe1 46. Qf2 Qxf2+ 47.
+Kxf2 Kg6 48. Ke3 Kf5 49. h3 Bf6 50. Nd4+ Ke5 51. Kd2 Bg5+ 52. Ke2 Bc1 53. Nb5
+Ke6 54. Nd4+ Kf6 55. Nb5 Ke5 56. Nd4 Ba3 57. Nc2 Bc5 58. Ne3 Ke6 59. Ng4 Bf8 60.
+Ne3 Bg7 61. Kd2 Be5 62. g4 Bf4 63. Ke2 Bg5 64. Nf5 Ke5 65. Ne3 Kd6 66. Nf5+ Kc5
+67. Ne3 Bf4 68. Ng2 Bc7 69. Ne3 Ba5 70. Nd1 Kd6 71. Ke3 Ke5 72. Ke2 Ke6 73. Ke3
+Bb6+ 74. Ke2 Kf6 75. Ne3 Bxe3 76. Kxe3 Kg5 77. Kf2 Kf4 78. Kg2 Ke3 79. h4 Kf4
+80. g5 hxg5 81. h5 Kf5 82. Kg3 Kf6 83. Kg4 Kg7 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.29"]
+[Round "3"]
+[White "Morozevich, Alexander"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2758"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "2016192"]
+[EventDate "2011.12.27"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. cxd5 exd5 6. Qc2 c6 7. h3 O-O 8. Bf4
+Bd6 9. Bxd6 Qxd6 10. e3 b6 11. Rc1 Bb7 12. Be2 Nbd7 13. O-O c5 14. dxc5 Nxc5 15.
+Rfd1 Rac8 16. Qf5 Rfd8 17. Qe5 Qxe5 18. Nxe5 a5 19. Bg4 Nxg4 20. hxg4 Ne6 21.
+Ne2 Rxc1 22. Rxc1 d4 23. Nxd4 Nxd4 24. exd4 f6 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.30"]
+[Round "4"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2758"]
+[ECO "E99"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, main line"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. Ne1 Nd7 10. f3 f5 11. Be3 f4 12. Bf2 g5 13. Rc1 Ng6 14. Nb5 b6 15. b4 a6 16.
+Nc3 Rf7 17. Nd3 h5 18. c5 Bf8 19. cxb6 cxb6 20. b5 a5 21. Na4 Nc5 22. Ndxc5 dxc5
+23. d6 Be6 24. Bxc5 bxc5 25. Nxc5 Bxa2 26. Qa4 Bxd6 27. Qxa2 Bxc5+ 28. Kh1 Bd4
+29. Bc4 Ra7 30. Bxf7+ Rxf7 31. Qd5 Qxd5 32. exd5 Ne7 33. d6 Nf5 34. Rc8+ Kg7 35.
+Rc6 a4 36. Rfc1 a3 37. Ra6 a2 38. Rxa2 Nxd6 39. b6 Bxb6 40. Rc6 Rc7 41. Rxc7+
+Bxc7 42. Ra7 Ne8 43. g3 Kg6 44. Kg2 Bd6 45. Ra6 Kf5 46. Rc6 g4 47. gxf4 exf4 48.
+fxg4+ hxg4 49. h3 g3 50. Kf3 Be5 51. Rh6 Ng7 52. h4 Ne6 53. Rh5+ Kf6 54. Kg2 Nd4
+55. Kh3 f3 56. Rh8 g2 57. Rg8 Ne2 58. Rg6+ Kxg6 59. h5+ Kg5 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.30"]
+[Round "4"]
+[White "Ivanchuk, Vassily"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2762"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "14100010"]
+[BlackFideId "4116992"]
+[EventDate "2011.12.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4 Bd7
+9. c3 O-O 10. Bc2 b4 11. Re1 Re8 12. h3 Bf8 13. Nbd2 g6 14. Nc4 bxc3 15. bxc3 d5
+16. Ne3 dxe4 17. dxe4 Na5 18. Qe2 Nh5 19. Rd1 Nf4 20. Qe1 Bd6 21. Rb1 f6 22. h4
+Rf8 23. g3 Ne6 24. Nd5 Qe8 25. Qe2 Bxa4 26. Bxa4 Qxa4 27. Bh6 Rf7 28. Nh2 Nb3
+29. Ng4 Nbc5 30. Ngxf6+ Kh8 31. h5 g5 32. Rb4 Qa3 33. Rdb1 c6 34. Ng4 cxd5 35.
+exd5 Qxc3 36. dxe6 Nxe6 37. Rc4 Qa5 38. Qe4 Rd8 39. Rc6 Qd2 40. Qc4 Re7 41. Rbb6
+e4 42. Kg2 e3 43. Nxe3 Bxg3 44. Kxg3 Nd4 45. Kg2 Nxc6 46. Rxc6 Qd7 47. Ng4 Qf5
+48. Qc3+ Kg8 49. Nf6+ Kf7 50. Qc4+ Re6 51. Rc7+ Kxf6 52. Bg7# 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.30"]
+[Round "4"]
+[White "Vitiugov, Nikita"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2727"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "4152956"]
+[BlackFideId "2020009"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 c5 5. e4 d5 6. e5 g5 7. Bg3 Nfd7 8. h4 g4
+9. dxc5 h5 10. Bb5 Nc6 11. Ne2 Nxc5 12. O-O a6 13. Bxc6+ bxc6 14. c4 a5 15. Nd4
+Qb6 16. Qc2 Nd7 17. Qd3 Ba6 18. Nxe6 fxe6 19. Qg6+ Kd8 20. Qxe6 Be7 21. Rfd1 d4
+22. c5 Nxc5 23. Qf7 Ra7 24. Rac1 Rd7 25. e6 Rd5 26. Nc4 Bxc4 27. Rxc4 Rf8 28.
+Qg6 Nb7 29. Qe4 Nd6 30. Bxd6 Rxd6 31. Rcxd4 Rxd4 32. Rxd4+ Kc8 33. g3 Qc5 34.
+Rd2 Kb7 35. Rd7+ Kb6 36. Qe2 Rd8 37. Rxd8 Bxd8 38. Qd2 Be7 39. a3 Qe5 40. Qd7
+Qd6 41. Qe8 Qxe6 42. b4 axb4 43. axb4 Qe5 44. Kf1 Bd6 45. Qd8+ Bc7 46. Qd2 Bd6 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.31"]
+[Round "5"]
+[White "Caruana, Fabiano"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2714"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "24116068"]
+[EventDate "2011.12.27"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. c4 Bb4+ 8.
+Nbd2 O-O 9. O-O Bf5 10. Nb3 dxc4 11. Bxc4 Nc6 12. Bd3 Bg6 13. a3 Bd6 14. Re1 f5
+15. Qc2 Kh8 16. Be3 Qf6 17. Nc5 Bxc5 18. dxc5 Rae8 19. Rad1 Bh5 20. Be2 f4 21.
+Bc1 a5 22. Qc4 Re7 23. h3 Rfe8 24. Kf1 h6 25. Qc2 Nxf2 26. Kxf2 Bxf3 27. gxf3
+Qh4+ 28. Kf1 Qxh3+ 29. Kf2 Qg3+ 30. Kf1 Re5 31. Bxf4 Qxf4 32. Qc4 Re4 33. Qb5
+Qg3 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.31"]
+[Round "5"]
+[White "Morozevich, Alexander"]
+[Black "Vitiugov, Nikita"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2729"]
+[ECO "E39"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Pirc variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "4152956"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 b6 8. e4
+Nc6 9. b4 Nd4 10. Qd2 Nxf3+ 11. gxf3 Be7 12. Rg1 Kh8 13. Bb2 a5 14. b5 d6 15.
+O-O-O Rg8 16. Kb1 Bb7 17. h4 Qc7 18. h5 h6 19. Na4 e5 20. Qe3 Bd8 21. Bd3 Nd7
+22. f4 Bf6 23. fxe5 Bxe5 24. Bxe5 Nxe5 25. Nxb6 Rae8 26. Nd5 Bxd5 27. exd5 Nxd3
+28. Qxd3 Re5 29. Rde1 Rxh5 30. Qd4 Qc8 31. Kb2 Kh7 32. Re7 Rf5 33. f4 g5 34.
+fxg5 Rgxg5 35. Rge1 Rg4 36. Qd3 Kg7 37. Qc3+ Kg6 38. b6 Qc5 39. b7 Rg2+ 40. Ka1
+Rf3 41. b8=Q 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2011.12.31"]
+[Round "5"]
+[White "Nakamura, Hikaru"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2775"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[WhiteFideId "2016192"]
+[BlackFideId "14100010"]
+[EventDate "2011.12.27"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Nf3 Bxc3 5. bxc3 d6 6. Bg2 O-O 7. O-O Re8 8.
+Ne1 c6 9. d3 h6 10. Rb1 d5 11. Qb3 b6 12. cxd5 cxd5 13. Nc2 Nc6 14. h3 Bb7 15.
+Nb4 Na5 16. Qb2 d4 17. c4 Rc8 18. Bxb7 Nxb7 19. e4 dxe3 20. Bxe3 Qd7 21. Kh2 Nd6
+22. Rbc1 Nf5 23. Rfd1 h5 24. Qe2 h4 25. Nc2 b5 26. Qf3 bxc4 27. dxc4 hxg3+ 28.
+fxg3 Qe6 29. c5 Red8 30. Bf2 e4 31. Qb3 Qe5 32. Ne3 Rxd1 33. Qxd1 Rxc5 34. Nc4
+Qc7 35. Bxc5 Qxg3+ 36. Kh1 Qxh3+ 37. Kg1 Qg3+ 38. Kf1 Ng4 39. Qd8+ Kh7 40. Qd5
+Qf3+ 41. Ke1 Ng3 42. Rc2 f5 43. Kd2 Nf6 44. Qd8 Ne2 45. Ke1 f4 46. Rxe2 Qc3+ 47.
+Kd1 Qxc4 48. Qd4 Qb5 49. Rh2+ Kg6 50. Kc2 a5 51. Be7 Qc6+ 52. Qc5 Qa4+ 53. Kc1
+f3 54. Bxf6 Kxf6 55. Rd2 g6 56. Rd6+ Kg7 57. Rd8 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.02"]
+[Round "6"]
+[White "Giri, Anish"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2775"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "14100010"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d6 6. Bg2 Nc6 7. O-O e5 8. Bg5
+exd4 9. Nxd4 Nxd4 10. Qxd4 h6 11. Bxf6 Qxf6 12. Qxf6 gxf6 13. a3 Bc5 14. Nc3 c6
+15. e3 Ke7 16. Na4 h5 17. h4 Rg8 18. Rfc1 Ra7 19. Bf3 Bg4 20. Bxg4 Rxg4 21. Kf1
+Ra8 22. b3 Ke6 23. Nc3 Ke7 24. Ne2 Rgg8 25. Nf4 Rh8 26. Nd3 Bb6 27. Rab1 Kd7 28.
+Rc2 Bc7 29. Nf4 Rae8 30. b4 axb4 31. axb4 Ra8 32. b5 Ra4 33. Rbb2 Ra5 34. Kg2
+Ra4 35. Kf3 Raa8 36. Ra2 Rxa2 37. Rxa2 d5 38. bxc6+ bxc6 39. cxd5 c5 40. Ra6
+Bxf4 41. Kxf4 Rc8 42. Rc6 Rxc6 43. dxc6+ Kxc6 44. g4 c4 45. e4 Kd6 46. f3 Ke6
+47. Ke3 Ke5 48. gxh5 f5 49. h6 f4+ 50. Kd2 Kf6 51. h5 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.02"]
+[Round "6"]
+[White "Nakamura, Hikaru"]
+[Black "Vitiugov, Nikita"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2729"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4152956"]
+[EventDate "2011.12.27"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+O-O 9. dxc5 Nxc5 10. O-O-O Qc7 11. Kb1 b6 12. Bb5 Bb7 13. h4 Na5 14. Bd4 Rac8
+15. Ng5 Nc4 16. Qe2 h6 17. Bxc4 dxc4 18. Bxc5 Bxc5 19. Nge4 Bb4 20. Nd6 Rcd8 21.
+Rh3 Bxd6 22. Nb5 Qc6 23. Nxd6 Qxg2 24. Qe3 Be4 25. Rc1 f5 26. Rg3 Qh2 27. Qg1
+Qxg1 28. Rcxg1 Rd7 29. Rg6 Re7 30. Rxh6 c3 31. bxc3 Bf3 32. Rhg6 Bg4 33. Rg5 Kh7
+34. h5 Kh6 35. Rh1 Rd8 36. c4 Bf3 37. Rh2 Bg4 38. Kb2 Rb8 39. Kc3 Rd8 40. Kd4
+Rb8 41. Ke3 Kh7 42. Kf2 Rh8 43. Kg3 Kg8 44. h6 Rh7 45. Rg6 Bd1 46. c3 Bg4 47.
+Kf2 Kf8 48. Ke3 gxh6 49. Rhxh6 Rxh6 50. Rxh6 Kg7 51. Rh2 Rd7 52. Kd4 Bf3 53. Rh3
+Bg4 54. Rh1 Bf3 55. Rg1+ Bg4 56. c5 bxc5+ 57. Kxc5 Rc7+ 58. Kb4 Rc6 59. Nb5 Kf8
+60. a4 a5+ 61. Kxa5 Rc4 62. Nd4 Rxc3 63. Rb1 Rc8 64. Rb6 Kf7 65. Nxe6 Rc4 66.
+Ng5+ 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.02"]
+[Round "6"]
+[White "Morozevich, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2727"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "2020009"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. h4 Bg7 6. e3 c5 7. cxd5 Nxc3 8. bxc3
+Qxd5 9. Qf3 Qxf3 10. Nxf3 Nc6 11. Rb1 Na5 12. Bb5+ Bd7 13. Ke2 Rc8 14. Bxd7+
+Kxd7 15. Rb5 b6 16. dxc5 Rxc5 17. Rxc5 bxc5 18. Rd1+ Ke6 19. e4 Bxc3 20. Be3 Bf6
+21. h5 Rc8 22. h6 Nc4 23. Bf4 Nb2 24. Rd5 c4 25. Ra5 Nd3 26. Be3 Rb8 27. Nd4+
+Kd7 28. Kd2 Rb7 29. g4 e6 30. f3 Bd8 31. Ra4 Nb2 32. Ra6 Bb6 33. Nc2 Nd3 34.
+Bxb6 axb6 35. g5 Nf4 36. Ne3 Kc6 37. Ng4 Kb5 38. Ra8 Rc7 39. Nf6 c3+ 40. Kc2 Ne2
+41. Rd8 Kc4 42. Nd7 Nd4+ 43. Kc1 c2 44. Nxb6+ Kd3 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.03"]
+[Round "7"]
+[White "Morozevich, Alexander"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2714"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "24116068"]
+[EventDate "2011.12.27"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4 Be6 8. h4
+Nd7 9. g5 h6 10. g6 Ngf6 11. gxf7+ Bxf7 12. Bd3 Nh5 13. Be5 O-O 14. Qg4 Nhf6 15.
+Qg3 Nh5 16. Qg4 Nhf6 17. Qg3 Nh5 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.03"]
+[Round "7"]
+[White "Caruana, Fabiano"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2758"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2011.12.27"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O e5 7. Bg5 h6 8. Bxf6
+Qxf6 9. Nf5 g6 10. Ne3 Bc5 11. Nd5 Qd8 12. b4 Ba7 13. a4 d6 14. a5 Be6 15. Bc4
+O-O 16. Qd3 Nc6 17. c3 Ne7 18. Nd2 Rc8 19. Rac1 Kg7 20. Kh1 Nxd5 21. Bxd5 Qe7 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.03"]
+[Round "7"]
+[White "Vitiugov, Nikita"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2775"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "4152956"]
+[BlackFideId "14100010"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 Nc6 6. Bg2 Ne4 7. Bd2 Nxd2 8. Qxd2
+cxd4 9. Nxd4 O-O 10. a3 Be7 11. O-O Ne5 12. b3 a6 13. Rfd1 Qc7 14. Ne4 f5 15.
+Nc3 Rb8 16. e4 fxe4 17. Nxe4 b6 18. Qe2 Bb7 19. f4 Nc6 20. Nf3 Na5 21. Rd3 Bxe4
+22. Qxe4 Nb7 23. b4 Nd6 24. Qe2 Nf7 25. Qd2 Rfd8 26. Re1 a5 27. Qc3 axb4 28.
+axb4 Rbc8 29. Nd2 Nd6 30. Rc1 Nxc4 31. Nxc4 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.04"]
+[Round "8"]
+[White "Giri, Anish"]
+[Black "Vitiugov, Nikita"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2729"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4152956"]
+[EventDate "2011.12.27"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nc3 Bb4 7. e5 Nd5 8. O-O
+Nxc3 9. bxc3 Bxc3 10. Ba3 Qa5 11. Bd6 Nc6 12. Nxc6 dxc6 13. f4 Bxa1 14. Qxa1 Qd2
+15. Bd3 Qe3+ 16. Kh1 Bd7 17. Qb2 b5 18. a4 Rc8 19. f5 exf5 20. e6 Qxe6 21. Qxg7
+Qxd6 22. Qxh8+ Qf8 23. Qxh7 Kd8 24. Bxf5 Bxf5 25. Qxf5 Kc7 26. c4 Kb6 27. Rb1 b4
+28. a5+ Kc7 29. c5 Rb8 30. Qe5+ Kc8 31. Qf5+ Kc7 32. Qf4+ Kc8 33. Rxb4 Rxb4 34.
+Qxb4 Qh6 35. Qc4 Kd8 36. h4 f5 37. Qd4+ Kc8 38. Qc4 Kd8 39. Kh2 Ke7 40. Qd4 Qh5
+41. Kh3 Qg6 42. Qe3+ Kd7 43. Qd2+ Ke8 44. Qf4 Qf6 45. Qd6 Qc3+ 46. Kh2 Qxa5 47.
+Qxc6+ Kf7 48. Qd5+ Kf6 49. Qd6+ Kf7 50. Qd7+ Kf6 51. Qc6+ Kf7 52. Qb7+ Kg8 53.
+Qc8+ Kg7 54. Qxf5 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.04"]
+[Round "8"]
+[White "Ivanchuk, Vassily"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2727"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[WhiteFideId "14100010"]
+[BlackFideId "2020009"]
+[EventDate "2011.12.27"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 d6 5. h3 O-O 6. Be2 b6 7. O-O Bb7 8. c3
+Nbd7 9. Bh2 Qe8 10. a4 a6 11. Na3 e5 12. Nc4 Ne4 13. Nfd2 Nxd2 14. Nxd2 Kh8 15.
+Qc2 f5 16. Rfe1 g5 17. Bd3 Qg6 18. f3 Rae8 19. Rf1 d5 20. a5 c5 21. g4 e4 22.
+fxe4 dxe4 23. Be2 f4 24. axb6 Qxb6 25. Qb3 Qa7 26. Bb5 cxd4 27. Bxd7 dxe3 28.
+Nc4 Rd8 29. Ba4 Rd2 30. Qxb7 Qxb7 31. Rxf4 gxf4 32. Nxd2 exd2 33. Bxf4 Rxf4 34.
+Bc6 Qb6+ 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.04"]
+[Round "8"]
+[White "Nakamura, Hikaru"]
+[Black "Morozevich, Alexander"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2762"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4116992"]
+[EventDate "2011.12.27"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Qb6 7. Be3 Nc6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 a6 11. fxe6 fxe6 12. Be2 Be7 13. O-O O-O 14. Kh1 cxd4 15.
+Nxd4 Ndxe5 16. Rb3 Rxf1+ 17. Bxf1 Qd6 18. Nxc6 Nxc6 19. Na4 b5 20. Nb6 Rb8 21.
+Bf4 e5 22. Nxc8 Rxc8 23. Bg3 Qe6 24. Rb1 e4 25. a4 bxa4 26. Bxa6 Rf8 27. c3 a3
+28. Be2 Bd6 29. Bh4 Rb8 30. Rxb8+ Bxb8 31. Qa2 Qd6 32. Bg3 Qc5 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.05"]
+[Round "9"]
+[White "Nakamura, Hikaru"]
+[Black "Giri, Anish"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2714"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "24116068"]
+[EventDate "2011.12.27"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nd7 8.
+Qd2 O-O 9. O-O-O c6 10. h4 Re8 11. Bd3 d5 12. Ng5 Nf8 13. h5 Bf6 14. Nf3 Bg4 15.
+Rde1 Bxf3 16. gxf3 Ne6 17. f4 h6 18. a3 Qa5 19. Qd1 Nc5 20. Bf5 Na4 21. Qd3 Nc5
+22. Qd1 Qb5 23. Qe2 Qa4 24. Qd1 Ne4 25. Bxe4 Rxe4 26. Rhg1 Rae8 27. Rg3 Kh8 28.
+Reg1 Qc4 29. Kb1 c5 30. Qd3 b6 31. Qxc4 Rxc4 32. Rd1 d4 33. cxd4 cxd4 34. b3
+dxe3 35. bxc4 exf2 36. Rf3 Re1 37. Kc1 Bd4 38. c3 Be3+ 39. Kc2 f5 40. a4 a5 41.
+c5 Bxc5 0-1
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.05"]
+[Round "9"]
+[White "Morozevich, Alexander"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2762"]
+[BlackElo "2775"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[WhiteFideId "4116992"]
+[BlackFideId "14100010"]
+[EventDate "2011.12.27"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. b3 Bg4 7. Bd2 Nbd7 8. h3 Bxf3
+9. Qxf3 b4 10. Ne2 e5 11. Ng3 g6 12. cxd5 cxd5 13. dxe5 Nxe5 14. Qf4 Bd6 15. Qh6
+Rg8 16. Rc1 Ned7 17. Qh4 a5 18. Bb5 Kf8 19. O-O Kg7 20. Bxd7 Nxd7 21. Qd4+ Nf6
+22. Rc6 Re8 23. f4 Bb8 24. Kh1 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.05"]
+[Round "9"]
+[White "Caruana, Fabiano"]
+[Black "Vitiugov, Nikita"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2729"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "4152956"]
+[EventDate "2011.12.27"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 Nf6 6. Nc3 Qc7 7. O-O Bb4 8. Qd3
+Nc6 9. Kh1 Nxd4 10. Qxd4 Bc5 11. Qd2 h6 12. f4 d6 13. Qe1 Bd7 14. Qg3 Bd4 15.
+Bf3 Qc4 16. Bd2 Bc6 17. Rae1 O-O-O 18. Be2 Qc5 19. Bd3 g5 20. Qf3 Rhg8 21. Na4
+g4 22. Qe2 Qh5 23. Bc3 Bxc3 24. Nxc3 Qc5 25. e5 Nd7 26. Ne4 Bxe4 27. Bxe4 d5 28.
+Bd3 Kb8 29. Rb1 Rc8 30. b4 Qd4 31. Qe1 Nb6 32. b5 axb5 33. Rxb5 Rc7 34. Qa5 Nd7
+35. Rfb1 Qa7 36. Qb4 Nc5 37. Bh7 Rgc8 38. Ra5 Na6 39. Qd6 Ka8 40. Rb6 Rc6 41.
+Raxa6 bxa6 42. Rxc6 Rb8 43. c3 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.06"]
+[Round "10"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2714"]
+[BlackElo "2727"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "2020009"]
+[EventDate "2011.12.27"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 Bc5 4. Nc3 d6 5. e3 Nge7 6. Nge2 O-O 7. O-O a6 8. h3
+Ba7 9. Kh2 Be6 10. Nd5 Bd7 11. b3 Nxd5 12. cxd5 Ne7 13. d4 Nf5 14. Bb2 Re8 15.
+Rc1 Rc8 16. a4 a5 17. Qd2 Bb6 18. Rc2 Qg5 19. Qd3 Qg6 20. Rd1 Rcd8 21. e4 Nxd4
+22. Nxd4 exd4 23. Bxd4 Bxd4 24. Qxd4 c5 25. dxc6 Bxc6 26. Rc4 Qh5 27. Qd2 h6 28.
+Rd4 1/2-1/2
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.06"]
+[Round "10"]
+[White "Vitiugov, Nikita"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2762"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[WhiteFideId "4152956"]
+[BlackFideId "4116992"]
+[EventDate "2011.12.27"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 Nxc3 5. bxc3 g6 6. Bg2 Bg7 7. Rb1 Nc6 8.
+h4 h6 9. Nf3 O-O 10. O-O e5 11. d3 Kh7 12. Nd2 f5 13. Ba3 Rf6 14. Qc2 Qe8 15. e3
+b6 16. d4 Ba6 17. Rfe1 e4 18. c4 Rc8 19. Qa4 Nb8 20. Qxe8 Rxe8 21. Rec1 Nd7 22.
+Nb3 Rf7 23. Bb4 c5 24. Bd2 g5 25. hxg5 hxg5 26. a4 cxd4 27. exd4 f4 28. a5 f3
+29. Bf1 Kg6 30. axb6 Bf6 31. Re1 Rh8 32. Rxe4 Rfh7 33. Rh4 gxh4 34. Bd3+ Kg7 35.
+Bxh7 Kxh7 36. Ra1 Bxc4 37. Rxa7 Bxb3 38. Rxd7+ Kg6 39. Bf4 hxg3 40. Bxg3 Ba4 41.
+Rd6 Rg8 42. b7 Kf5 43. Ra6 Bxd4 44. b8=Q Rxb8 45. Bxb8 Bc2 46. Kh2 Bd3 47. Ra4
+Be5+ 48. Bxe5 Kxe5 49. Kg3 Be2 50. Kg4 Kf6 51. Kf4 Bd1 52. Ra6+ Kf7 53. Ke5 Be2
+54. Rf6+ Kg7 55. Kf5 Bd3+ 56. Kg5 Be2 57. Rf4 Kg8 58. Kh6 Bd1 59. Rd4 Be2 60.
+Rd7 Kf8 61. Kg5 Ke8 62. Ra7 Kf8 63. Kf4 Kg8 64. Ra3 Kf7 65. Rxf3 Bxf3 66. Kxf3
+Kf6 67. Kf4 1-0
+
+[Event "54th Reggio Emilia"]
+[Site "Reggio Emilia ITA"]
+[Date "2012.01.06"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2758"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "2016192"]
+[EventDate "2011.12.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Rd1 Be7 12. Ne2 Bd7 13. Bg5 Rd8 14. Nf4 Bc8
+15. Rxd8+ Kxd8 16. Rd1+ Ke8 17. g3 Rh7 18. Bxe7 Nxe7 19. Ng5 Rh6 20. h4 c5 21.
+c3 a5 22. Rd2 Be6 23. Ngxe6 fxe6 24. Kg2 Nc6 25. Re2 Nd8 26. Kh3 Nf7 27. Re3 Kd7
+28. f3 b6 29. a3 Kc6 30. g4 hxg4+ 31. Kxg4 Kd7 32. h5 Rh8 33. Rd3+ Kc6 34. Ng6
+Re8 35. f4 b5 36. a4 Nh6+ 37. Kg5 Nf7+ 38. Kh4 b4 39. c4 Nh6 40. Kg5 Nf7+ 41.
+Kg4 Nh6+ 42. Kh4 Nf7 43. f5 exf5 44. Rd5 b3 45. Kg3 Ng5 46. Kf4 Ne6+ 47. Kxf5
+Nd4+ 48. Ke4 Ne6 49. Rd3 Ng5+ 50. Ke3 Ne6 51. Rxb3 Nd4 52. Rd3 Rb8 53. b3 Kd7
+54. Ke4 c6 55. Nh4 Ke6 56. Rg3 Kf7 57. Nf5 Ne6 58. Rd3 Ng5+ 59. Kf4 Ne6+ 60. Kg4
+Nd4 61. Nxd4 cxd4 62. Rxd4 Rxb3 63. Rd7+ Ke6 64. Rxg7 Rb4 65. h6 Rxc4+ 66. Kh5
+Rc1 67. Rg4 1-0
+

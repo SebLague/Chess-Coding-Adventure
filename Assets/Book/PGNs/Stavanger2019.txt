@@ -1,0 +1,826 @@
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.04"]
+[Round "1.4"]
+[White "Vachier Lagrave,M"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2738"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 Nc6 8.Qd2 Be6
+9.O-O-O Qd7 10.Kb1 Bf6 11.Ng5 Bxg5 12.Bxg5 f6 13.Bf4 O-O-O 14.b3 h5 15.h3 Rhe8
+16.Be2 Bf7 17.g4 hxg4 18.hxg4 Re7 19.g5 Rde8 20.Bf1 Be6 21.gxf6 gxf6 22.Be3 Rh7
+23.Rxh7 Qxh7 24.c4 Bf5 25.Kb2 Qe7 26.Qc3 Qe5 27.Be2 Nb4 28.Qxe5 fxe5 29.c3 Nc6
+30.Bf3 a6 31.c5 dxc5 32.Bxc5 Rd8 33.Rxd8+ Nxd8 34.c4 Ne6 35.Be3 c5 36.a3 a5
+37.Kc3 Kc7 38.Bd1 b6 39.b4 axb4+ 40.axb4 cxb4+ 41.Kxb4 Nd4 42.Bh6 Ne6 43.Be3  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.04"]
+[Round "1.1"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2875"]
+[BlackElo "2767"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4 cxd4 8.Nxd4 Bxc3+
+9.bxc3 Qa5 10.Nb5 Nxe4 11.Qd4 O-O 12.Qxe4 a6 13.O-O axb5 14.Bd3 f5 15.Qe2 Nc6
+16.Bd2 Qc7 17.Bxb5 f4 18.f3 e5 19.Rfe1 Bd7 20.a4 Kh8 21.Rad1 Rae8 22.Bc1 e4
+23.fxe4 Ne5 24.Bxd7 Nxd7 25.Rf1 Nc5 26.Ba3 Rxe4 27.Qb5 Re5 28.Rde1 Rc8 29.Rxe5 Qxe5
+30.Bxc5 Qxc5+ 31.Qxc5 Rxc5 32.Rxf4 h6 33.Rf3 Kg8 34.Rd3 Ra5 35.Rd7 Rxa4 36.Rxb7 Ra2
+37.h4 Kh7 38.Kh2 Rd2 39.Rc7 Kg6 40.Kg3 Kh5 41.Rc5+ g5 42.Kh3 Rd3+ 43.g3 Re3
+44.Kg2 Rd3 45.Rc4 Re3 46.hxg5 hxg5 47.Kh3 Rd3 48.Rc8 g4+ 49.Kg2 Rd2+ 50.Kf1 Rc2
+51.c4 Kg5 52.c5 Kf6 53.c6 Ke7 54.c7 Kd6 55.Rd8+ Kxc7 56.Rd4 Kc6 57.Kg1 Kc5
+58.Rxg4 Kd5  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.04"]
+[Round "1.2"]
+[White "Mamedyarov,S"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2819"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 d5 5.cxd5 Nxd5 6.Bb5 Nxc3 7.bxc3 Bd6 8.d4 Bd7
+9.O-O O-O 10.Nd2 Na5 11.Bd3 f5 12.e4 f4 13.Nf3 Bg4 14.Be2 Bxf3 15.Bxf3 b6
+16.Qe2 Qe7 17.Rd1 Rad8 18.Bd2 g6 19.Be1 Kg7 20.Rac1 h5 21.h3 c5 22.Kf1 Nc6
+23.Qb5 Rc8 24.dxc5 Bxc5 25.Rd5 Rfd8 26.Rcd1 Rd6 27.R1d3 Rcd8 28.Rxd6 Rxd6
+29.Bd1 Rxd3 30.Qxd3 Na5 31.Qd5 Qd6 32.Qxd6  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.04"]
+[Round "1.5"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2775"]
+[ECO "A36"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.d3 d6 6.Qd2 Qd7 7.b3 b6 8.Bb2 Bb7 9.Nd5 e5
+10.f4 Nge7 11.e4 Nxd5 12.cxd5 Nd4 13.Nf3 Nxf3+ 14.Bxf3 Qe7 15.h4 f5 16.h5 O-O-O
+17.O-O-O exf4 18.gxf4 Bxb2+ 19.Qxb2 Rhf8 20.Rde1 Qf7 21.Rh4 Qe7 22.Rhh1 Qf7
+23.Ref1 Kb8 24.Rhg1 fxe4 25.Bxe4 Bxd5 26.hxg6 hxg6 27.Bxg6 Qf6 28.f5 Rd7
+29.Qxf6 Rxf6 30.Bh5 Kc7 31.Rg6 Rdf7 32.Rxf6 Rxf6 33.Bg6 Kd7 34.Kd2 Rf8 35.d4  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.04"]
+[Round "1.3"]
+[White "Ding Liren"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2754"]
+[ECO "E04"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 dxc4 5.Bg2 c5 6.O-O Nc6 7.dxc5 Qxd1 8.Rxd1 Bxc5
+9.Nbd2 c3 10.bxc3 O-O 11.Nb3 Be7 12.Bb2 Bd7 13.c4 Rfd8 14.Nfd4 Rac8 15.Nb5 b6
+16.Nd6 Bxd6 17.Rxd6 Be8 18.Rxd8 Nxd8 19.Rc1 Bc6 20.c5 Bxg2 21.Kxg2 Nd7 22.cxb6 Rxc1
+23.Bxc1 axb6 24.Kf3 Nc6 25.Ke3 Kf8 26.Kd3 b5 27.Ba3+ Ke8 28.f4 f5 29.e4 fxe4+
+30.Kxe4 Nf6+ 31.Kf3 e5 32.f5 Kf7 33.Bb2 g6 34.fxg6+ Kxg6 35.h3 h5  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.05"]
+[Round "2.3"]
+[White "Yu Yangyi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2805"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.Nf3 cxd4 5.Nxd4 d5 6.Bg2 e5 7.Nf3 d4 8.O-O Nc6
+9.e3 Be7 10.exd4 exd4 11.Bf4 Be6 12.Nbd2 O-O 13.Re1 Qd7 14.a3 a5 15.Ne5 Nxe5
+16.Bxe5 Ng4 17.Nf3 Nxe5 18.Nxe5 Qd6 19.Rc1 Rac8 20.Bxb7 Rc5 21.Bd5 Bxd5 22.cxd5 Qxd5
+23.Rxc5 Bxc5 24.Qf3 Qxf3 25.Nxf3 f6 26.Rc1 Bb6 27.Ne1 Kf7 28.Nd3 Ke7 29.Rc6 Rb8
+30.Kg2 Kd7 31.Rc2 Ba7 32.b4 axb4 33.axb4 Bb6 34.Kf3 Ra8 35.Ke4 Ra3 36.Nc5+ Bxc5
+37.Rxc5 Ra2 38.Rh5 h6 39.f4 Rb2 40.Rd5+ Kc6 41.Rxd4 Rxh2 42.Kf5 Rg2 43.g4 g5
+44.fxg5  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.05"]
+[Round "2.4"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteElo "2819"]
+[BlackElo "2779"]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.f5 Be7 11.fxe6 Bxe6 12.Nxe6 fxe6 13.Bc4 Nbd7 14.Bxe6 Nc5 15.Bc4 Ncxe4
+16.Nxe4 Nxe4 17.Bf7+ Kxf7 18.Qd5+ Ke8 19.Qxe4 Qa5+ 20.Kd1 Qxg5 21.Rxb7 Rf8
+22.Re1 Rf7 23.Rxe7+ Rxe7 24.Qxa8+ Kf7 25.Rf1+ Kg6 26.Qxa6 Qe5 27.Qd3+ Kh6
+28.c3 Qxh2 29.Qd2+ Kg6 30.Rf4 Re6 31.Qc2+ Kh6 32.Qf2 Qh5+ 33.Kd2 Qd5+ 34.Kc1 g6
+35.a4 Qe5 36.Kc2 g5 37.Rd4 Kg6 38.Qf3 h5 39.Rd5 Qe2+ 40.Qxe2 Rxe2+ 41.Rd2 Re6
+42.a5 h4 43.Kb3 g4 44.Kb4 Re1 45.Ra2 Rb1+ 46.Kc4 h3 47.gxh3 gxh3 48.a6 Rb8
+49.Kd5 Ra8 50.Kxd6 h2 51.Rxh2 Rxa6+ 52.Kd5 Kf7 53.Re2 Ra8 54.c4 Rd8+ 55.Kc6 Rc8+
+56.Kb5 Rb8+ 57.Ka6 Rc8 58.Re4 Kf6 59.Kb7 Kf5 60.Rd4  1-0
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.05"]
+[Round "2.5"]
+[White "Grischuk,A"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2754"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.dxe5 Nxb5 7.a4 Nbd4 8.Nxd4 d5
+9.exd6 Nxd4 10.Qxd4 Qxd6 11.Qe4+ Qe6 12.Qd4 Qd6 13.Qe4+ Qe6 14.Qd4 Qd6 15.Qe4+ Qe6  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.05"]
+[Round "2.2"]
+[White "Anand,V"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2767"]
+[BlackElo "2774"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nh6 7.c3 O-O 8.h3 f5
+9.e5 Nf7 10.d3 Rb8 11.b3 d6 12.Bf4 h6 13.h4 e6 14.exd6 g5 15.Be5 Nxe5 16.Nxe5 Qxd6
+17.Qe2 Bxe5 18.Qxe5 Qxe5 19.Rxe5 Rd8 20.Rxc5 Rxd3 21.Na3 Bd7 22.Ra5 Rb7 23.hxg5 hxg5
+24.c4 Kg7 25.c5 Kf6 26.Nc4 e5 27.Nd6 Rc7 28.f3 Ke6 29.Re1 Rd5 30.b4 Rd4 31.a3 g4
+32.Ra6 Kd5 33.Nf7 e4 34.fxg4 Bc8  0-1
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.05"]
+[Round "2.1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2875"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Qc7 6.O-O e5 7.Be3 Nf6 8.Qe1 Bg4
+9.Nbd2 Nh5 10.a3 Be7 11.Qb1 Nf4 12.b4 Ne2+ 13.Kh1 Nd4 14.Ng1 g5 15.bxc5 Bxc5
+16.Bxg5 Rg8 17.Bh4 Be7 18.Bg3 O-O-O 19.Nc4 f6 20.a4 Ne6 21.f3 Bh5 22.Bf2 Bc5
+23.Bxc5 Nxc5 24.Ne2 Bf7 25.Ne3 Qa5 26.Qe1 Qxe1 27.Rfxe1 a5 28.Kg1 h5 29.h4 Kc7
+30.Kf2 Be6 31.Rg1 Rh8 32.Rh1 Rd7 33.Rhd1 Bf7 34.d4 exd4 35.Rxd4 Rxd4 36.Nxd4 Rd8
+37.Ne2 Rd2 38.Ke1 Rd8 39.Nf5 Ra8 40.Nc3 Be6 41.Ne3 Kd6 42.Rd1+ Ke7 43.Rd4 Ra6
+44.Kd2 Rb6 45.Nf5+ Bxf5 46.exf5 Rb2 47.Rc4 Kd6 48.Ne4+ Nxe4+ 49.Rxe4 Ra2
+50.g4 hxg4 51.fxg4 Kd5 52.Kd3 Ra3+ 53.c3 b5 54.h5 b4 55.Rd4+ Ke5 56.Rc4 Rxa4
+57.h6 Ra1 58.cxb4 axb4 59.Rxc6 Ra3+ 60.Kc4 Rc3+ 61.Kb5 Rh3 62.Kxb4 Rxh6 63.Kc5 Rh1
+64.Re6+ Kf4 65.Rxf6 Kxg4 66.Kd6 Kg5 67.Ke7 Ra1 68.Rf8 Ra7+  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.06"]
+[Round "3.1"]
+[White "Carlsen,M"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2875"]
+[BlackElo "2775"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Be3 c5 8.Rc1 Qa5
+9.Qd2 O-O 10.Nf3 Bg4 11.d5 b5 12.Be2 Nd7 13.O-O Bxf3 14.Bxf3 c4 15.Be2 Rfd8
+16.f4 Nb6 17.Bf3 Qa3 18.h4 e6 19.h5 Na4 20.hxg6 hxg6 21.f5 exf5 22.exf5 Qd6
+23.Bf4 Qb6+ 24.Kh1 gxf5 25.d6 Rab8 26.Bd5 Nc5 27.Bg3 Ne6 28.Rxf5 Rxd6 29.Bxd6 Qxd6
+30.Qe3 Qb6 31.Qf3 Rf8 32.Rf1 Nd8 33.Rh5 Qc7 34.Qe4  1-0
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.06"]
+[Round "3.2"]
+[White "So,W"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2738"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 Nc6 8.Qd2 Be6
+9.O-O-O Qd7 10.Kb1 Bf6 11.h4 O-O-O 12.Nd4 Nxd4 13.Bxd4 Be5 14.Qe3 Qa4 15.b3 Qa5
+16.Bxe5 dxe5 17.Be2 g6 18.c4 Rxd1+ 19.Rxd1 Rd8 20.Bd3 Qb6 21.Qxb6 axb6 22.Re1 f6
+23.f4 Re8 24.fxe5 Bg8 25.h5 gxh5 26.Bf5+ Kb8 27.e6 c5 28.Re3 Kc7 29.Rg3 Bxe6
+30.Rg7+ Kb8 31.Be4 Bc8 32.Bd5 Re2 33.Bf3 Rd2 34.Bxh5 Bf5 35.Bf3 Rd7 36.Rg8+ Ka7
+37.Kc1 Re7 38.Rf8 Be4 39.Rxf6 Bxf3 40.gxf3 Re2 41.Rh6 Rf2 42.Rh3 h5 43.Kb2 Ka6
+44.a4 h4 45.Kc3 Ka5 46.Kb2 Ka6 47.Kc1 Ka7 48.Kb1 Ka6 49.Kb2 Ka7 50.Kc3 Kb8
+51.Kd3 Kc7 52.Ke4 Re2+ 53.Kd3 Rf2 54.Ke4 Re2+ 55.Kf5 Rxc2 56.f4 Rf2 57.Rxh4 Rf3
+58.Kg5 Rxb3 59.f5 Rg3+ 60.Rg4 Ra3 61.f6 Rxa4 62.f7 Ra8 63.Kf6 b5 64.Rg8 Ra1
+65.f8=Q Rf1+ 66.Ke5  1-0
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.06"]
+[Round "3.3"]
+[White "Ding Liren"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2819"]
+[ECO "A45"]
+
+1.d4 Nf6 2.g3 e6 3.Bg2 c5 4.Nf3 cxd4 5.O-O Qc7 6.Nxd4 a6 7.b3 d5 8.c4 dxc4
+9.Bb2 cxb3 10.Qxb3 Nc6 11.Nxc6 bxc6 12.Bxf6 gxf6 13.Qc3 Bd7 14.Qxf6 Rg8 15.Nc3 Rg6
+16.Qf3 Be7 17.Rac1 Kf8 18.Ne4 Be8 19.Nc5 Qa5 20.Qe3 Qxa2 21.Be4 Rg7 22.Rc2 Qa5
+23.Rb1 Qc7 24.Qf3 Kg8 25.Rb7 Qd6 26.Bd3 Bd8 27.Ne4 Qe5 28.Rc5 Qd4 29.Rc4 Qe5
+30.Rc5 Qd4 31.Qf4 a5 32.Rb8 Rxb8 33.Qxb8 Kf8 34.Nd6 Ke7 35.Nxe8 Qxc5 36.Nxg7 a4
+37.g4 a3 38.Qb3 Bb6 39.e3 Qg5 40.Nh5 Qxg4+ 41.Ng3 Bc5 42.Kg2 h5 43.h3 Qg5
+44.Kf1 Qd5 45.Qxd5 cxd5 46.Bb1 h4 47.Ne2 f5 48.Nf4 Kf7 49.Ba2 Be7 50.Ke2 Bf6
+51.Kd3 Be5 52.Ng2 Bf6 53.Ne1 Be7 54.Kc2 Kf6 55.Nf3 f4 56.Nxh4 fxe3 57.fxe3 Kg5
+58.Nf3+ Kf5 59.Kd3 Bc5 60.Nd4+ Ke5 61.Nf3+ Kf5 62.Ke2 Kf6 63.Bb1 e5 64.Ba2 e4
+65.Nd4 Ke5 66.Nb5 Be7 67.Bb3 Bc5 68.h4 d4 69.exd4+ Bxd4 70.Nxa3 Kf5 71.h5 Kg5
+72.Bf7 Kf4 73.Nc4 Bg7 74.Bg6 Bd4 75.Nd6 e3 76.Nf7 Bg7 77.Bd3  1-0
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.06"]
+[Round "3.4"]
+[White "Mamedyarov,S"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2774"]
+[BlackElo "2752"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.d4 Ne4 8.Qd3 exd4
+9.Nxd4 O-O 10.Be2 Nxd4 11.Qxd4 b6 12.O-O Bb7 13.Rd1 d6 14.f3 Ng5 15.b4 Rae8
+16.a4 f5 17.c5 dxc5 18.bxc5 Ne6 19.Bc4 Rd8 20.Bxe6+ Qxe6 21.Qxd8 Rxd8 22.Rxd8+ Kf7
+23.Rd1 bxc5 24.Re1 c4 25.Bd2 g5 26.Bc3 g4 27.fxg4 Qe4 28.Ra2 Qd3 29.Ba1 c3
+30.Rf2 Be4 31.Rc1 c2  0-1
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.06"]
+[Round "3.5"]
+[White "Vachier Lagrave,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2767"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.d4 Bb6
+9.a4 Bb7 10.axb5 axb5 11.Rxa8 Bxa8 12.Na3 Nxe4 13.Nxb5 O-O 14.Qe2 Nf6 15.dxe5 Nxe5
+16.Nxe5 Qe8 17.Nd4 Qxe5 18.Qxe5 dxe5 19.Nf3 Re8 20.Ba4 c6 21.Nd2 Bb7 22.Nc4 Bc7
+23.Rd1 Nd5 24.Ne3 Rd8 25.c4 Nf4 26.Rxd8+ Bxd8 27.Bd2 c5 28.b4 cxb4 29.Bxb4 Nd3
+30.Bd6 Bb6 31.Kf1 Bc5 32.Bxc5  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.08"]
+[Round "4.1"]
+[White "Carlsen,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2875"]
+[BlackElo "2774"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Be3 c5 8.Rc1 O-O
+9.Nf3 Nd7 10.Be2 Qa5 11.O-O Qxa2 12.Nd2 Qa5 13.h4 b5 14.h5 Bb7 15.h6 Bh8
+16.e5 Qc7 17.Bxb5 Bxg2 18.Kxg2 Qb7+ 19.Qf3 Qxb5 20.Rb1 Qa6 21.Ne4 cxd4 22.cxd4 f6
+23.Ng5 e6 24.Ra1 Qb6 25.exf6 Bxf6 26.Qe4 Bxg5 27.Bxg5 Qd6 28.Rfe1 Qd5 29.Qxd5 exd5
+30.Ra5 Rf5 31.f4 Nf6 32.Re7 Ne4 33.Rg7+ Kh8 34.Raxa7 Rxa7 35.Rxa7 Kg8 36.Rg7+ Kf8
+37.Be7+ Ke8 38.Rxh7 Rf7 39.Rxf7 Kxf7 40.Kf3 Kg8 41.Kg4 Kh7 42.Bf8 Nf6+ 43.Kh4 Ne4
+44.Bg7 Nd6 45.Kg5 Ne4+ 46.Kg4 Nd6  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.08"]
+[Round "4.5"]
+[White "Grischuk,A"]
+[Black "Yu Yangyi"]
+[Result "0-1"]
+[WhiteElo "2775"]
+[BlackElo "2738"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bf5 7.O-O Be7 8.Ne5 Nd7
+9.Nc3 Nxc3 10.bxc3 Bxd3 11.cxd3 O-O 12.Qb3 Nxe5 13.dxe5 Qd7 14.f4 f5 15.a4 b6
+16.Be3 Rfd8 17.Rfd1 c6 18.c4 Qe6 19.Rac1 Kf7 20.Bf2 dxc4 21.dxc4 Rxd1+ 22.Qxd1 Rd8
+23.Qh5+ Kg8 24.h3 g6 25.Qf3 c5 26.Qc3 Qc6 27.a5 Qe4 28.Qe3 Rd4 29.Qxe4 Rxe4
+30.g3 g5 31.fxg5 Bxg5 32.Rb1 bxa5 33.Rb5 a4 34.Rxc5 Bd2 35.Rc8+ Kf7 36.Rc7+ Ke6
+37.Rc6+ Kxe5 38.Bxa7 a3 39.Rc5+ Ke6 40.Rc6+ Kd7 41.Ra6 Bb4 42.c5 Re2 43.c6+ Kc7
+44.Bd4 a2 45.Kf1 Rc2 46.g4 f4 47.g5 f3 48.h4 Bd6 49.h5 Bg3 50.Bb6+ Kd6 51.Be3 Rb2  0-1
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.08"]
+[Round "4.4"]
+[White "Anand,V"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2805"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O O-O 6.c3 d6 7.h3 a5 8.Re1 h6 9.Nbd2 Be6
+10.Bb5 Qb8 11.Nf1 Qa7 12.d4 exd4 13.Bxc6 dxc3 14.Ba4 Bxf2+ 15.Kh2 d5 16.e5 Ne4
+17.Be3 c5 18.Bxf2 Nxf2 19.Qc2 cxb2 20.Rab1 c4 21.Qxb2 Nd3 22.Qc3 Nxe1 23.Rxe1 Qc5
+24.Rb1 Bf5 25.Rb5 Qc7 26.Ne3 Be4 27.Nd2 Rae8 28.Nxe4 Qxe5+ 29.Qxe5 Rxe5 30.Bc2 f5
+31.Nxc4 Re7 32.Rxd5 fxe4 33.Ne3 b6 34.Rb5 Rb8 35.Nf5 Rc7 36.Bxe4 Rc5 37.Rb3 Re5
+38.Bd3 Rd8 39.Ng3 Rd4 40.Be2 Rb4 41.Rd3 b5 42.Bh5 Kh7 43.Rd6 Rg5 44.Be2 Kg8
+45.Bd3 Kf8 46.Nf5 Rb2 47.Be4 g6 48.Rf6+ Ke8 49.Bc6+ Kd8 50.Nd4 Ke7 51.Re6+ Kf7
+52.Rd6 Rxa2 53.Nxb5 Rb2 54.Rd7+ Kf6 55.Nc3 Ke6 56.Rd3 h5 57.Bd5+ Ke7 58.Bf3 Re5
+59.Rd4 Kf8 60.Rd8+ Kg7 61.Ra8 Rf5 62.Be4 Rg5 63.Ra7+ Kh6 64.Ra6 Rd2 65.Bf3 Rf5
+66.Be4 Rg5 67.h4 Rg4 68.Kh3 Rd4 69.Bf5 Rxh4+ 70.Kg3 Kg5 71.Bxg6 Rhg4+ 72.Kh2 a4
+73.Bh7 h4 74.Rg6+ Kh5 75.Re6 a3 76.Bf5 Rg5 77.Be4 Ra5 78.Bf3+ Kg5 79.Re2 Rd3
+80.Rc2 Rxc3 81.Rxc3 a2 82.Rc1 a1=Q 83.Rxa1 Rxa1 84.Bc6 Kf4 85.Bb7 Rc1 86.Bd5 Rc2
+87.Be6 Rc3 88.Bd7 Rg3 89.Bh3 Ke3 90.Kg1 Ke2 91.Bc8 Ra3 92.Bg4+ Ke3 93.Kh2 Kf2
+94.Bf3 Ra1 95.Bb7 Ra7 96.Bd5 Ke3 97.Bc6 Kf4 98.Bd5 Ra3 99.Be6 Rg3 100.Bh3 Ke3
+101.Kg1 Rg7 102.Be6 Re7 103.Bh3 Rc7 104.Be6 Rc6 105.Bd7 Rd6 106.Bc8 Rd8 107.Be6 Rd6  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.08"]
+[Round "4.3"]
+[White "Caruana,F"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2819"]
+[BlackElo "2754"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Be2 Ne4 8.cxd4 Bb4+
+9.Bd2 Nxd2 10.Nbxd2 O-O 11.O-O f6 12.Bb5 Ne7 13.a3 Ba5 14.Bd3 Nc6 15.Bb5 Bb6
+16.Bxc6 bxc6 17.Rc1 fxe5 18.Nxe5 Ba6 19.Nxc6 Qf6 20.Nf3 Bb5 21.Nce5 Bxf1
+22.Qxf1 Rad8 23.Qd3 Qf4 24.Rc2 Rde8 25.g3 Qe4 26.Rd2 c5 27.dxc5 Bxc5 28.Qxd5+ Qxd5
+29.Rxd5 Bb6 30.Kg2 Rc8 31.Nd7 Rfe8 32.Nxb6 axb6 33.Rb5 Rc2 34.Nd4 Rd2 35.Nf3 Rc2
+36.Nd4 Rd2 37.Nf3  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.08"]
+[Round "4.2"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2779"]
+[ECO "A36"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Nc6 5.d3 e6 6.h4 h6 7.h5 g5 8.f4 Qc7 9.e4 Nge7
+10.Nge2 gxf4 11.gxf4 d6 12.Be3 Bd7 13.Qd2 Nd4 14.Rc1 Rg8 15.b4 cxb4 16.Bxd4 Bxd4
+17.Nxd4 bxc3 18.Rxc3 e5 19.Nb3 O-O-O 20.c5 Kb8 21.cxd6 Qxd6 22.fxe5 Qxe5
+23.d4 Qg5 24.Bf3 f5 25.Qxg5 Rxg5 26.e5 Bc6 27.Kf2 Bxf3 28.Rxf3 Rdg8 29.Rh2 b6
+30.Nc1 Rc8 31.Ne2 Rc2 32.a3 Nd5 33.Ke1 Kc7 34.Rhf2 Rxh5 35.Ng3 Rxf2 36.Kxf2 Rh2+
+37.Kg1 Rd2  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.09"]
+[Round "5.5"]
+[White "Mamedyarov,S"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2775"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 d5 5.cxd5 Nxd5 6.Bb5 Nxc3 7.bxc3 Bd6 8.d4 Bd7
+9.O-O O-O 10.Nd2 Qh4 11.g3 Qh6 12.Bd3 Rae8 13.Ne4 Be7 14.f4 f5 15.Bc4+ Kh8
+16.dxe5 Rd8 17.Nf2 Na5 18.Bd3 Bb5 19.Qc2 Bxd3 20.Nxd3 Qc6 21.Nb2 Nc4 22.Qe2 Na3
+23.Nd1 Nc4 24.Nb2 Na3 25.Nd1 Nc4 26.Nb2  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.09"]
+[Round "5.1"]
+[White "Vachier Lagrave,M"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2875"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5 8.exd5 Nb8
+9.a4 Be7 10.Be2 O-O 11.O-O Nd7 12.Kh1 a6 13.Na3 Nc5 14.Nc4 a5 15.f4 exf4
+16.Bxf4 f5 17.Bd3 b6 18.Qe2 Ba6 19.Nxb6 Nxd3 20.cxd3 Qxb6 21.Qxe7 Bxd3 22.Qe6+ Kh8
+23.Qxd6 Qxd6 24.Bxd6 Bxf1 25.Bxf8 Bc4 26.Be7 Bxd5 27.Rd1 Bb3 28.Rd8+ Rxd8
+29.Bxd8 Bxa4 30.Bxa5 Kg8  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.09"]
+[Round "5.2"]
+[White "So,W"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2767"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bb3 d6 8.a4 Bb7
+9.d3 h6 10.Re1 O-O 11.Nbd2 Ne7 12.Nh4 Rb8 13.axb5 axb5 14.Nf1 Bc8 15.h3 Be6
+16.Bxe6 fxe6 17.Nf3 b4 18.Ng3 bxc3 19.bxc3 Ng6 20.d4 Bb6 21.Be3 Nd7 22.Nd2 exd4
+23.cxd4 e5 24.Nf3 Qf6 25.Nf5 Ne7 26.Nxe7+ Qxe7 27.Rc1 Rf7 28.d5 Bxe3 29.Rxe3 Nc5
+30.Qe2 Rff8 31.Rec3 Rb4 32.Rc4 Rfb8 33.g3 Rxc4 34.Rxc4 Qe8 35.Kg2 Rb7 36.Nh4 Qf7
+37.Nf5 Kh7 38.h4 Nd7 39.Qc2 Nc5 40.Qe2 Nd7 41.Qc2 Nc5 42.Ne3 Nb3 43.Qd1 Nd4
+44.Nc2 Rb2 45.Rc3 h5 46.Qd3  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.09"]
+[Round "5.3"]
+[White "Yu Yangyi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2819"]
+[ECO "E04"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.g3 dxc4 5.Bg2 c6 6.Ne5 Bb4+ 7.Bd2 Be7 8.e3 b5
+9.a4 b4 10.Nxc4 Nbd7 11.b3 Ba6 12.Bc1 Rc8 13.Bb2 c5 14.Nbd2 O-O 15.O-O cxd4
+16.Bxd4 Nc5 17.Rc1 Nd5 18.Ne4 Nc3 19.Qg4 Ne2+ 20.Qxe2 Nxb3 21.Bb2 Nxc1 22.Rxc1 e5
+23.Bxe5 Qd7 24.Bd4 Rfd8 25.Bf1 Bb7 26.Bg2 Ba6 27.Bf1 Bb7 28.Bg2 Ba6  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.09"]
+[Round "5.4"]
+[White "Ding Liren"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2752"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d4 O-O 6.Nbd2 b6 7.c4 Bb7 8.cxd5 exd5
+9.b3 a5 10.Ne5 a4 11.bxa4 Qe8 12.Qc2 Nc6 13.Bb2 Bd6 14.Rfc1 Nd8 15.a5 Rxa5
+16.a4 Ra7 17.e3 Ne6 18.h4 Qa8 19.Ndf3 Re8 20.Bf1 c5 21.Bb5 Re7 22.dxc5 bxc5
+23.Qd1 h6 24.a5 Nd8 25.a6 Bxa6 26.Bxa6 Rxa6 27.Nc4 dxc4 28.Qxd6 Rxa1 29.Rxa1 Qxf3
+30.Qxe7 Ne4 31.Qxd8+ Kh7 32.Rf1 Nxg3 33.fxg3  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.10"]
+[Round "6.2"]
+[White "Anand,V"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2738"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O O-O 8.Re1 Bf5
+9.Nbd2 Nd6 10.Bxf5 Nxf5 11.Nf1 c6 12.Qd3 Nd6 13.Bf4 Na6 14.Ne3 Nc7 15.Re2 Ne6
+16.Bxd6 Bxd6 17.g3 Qd7 18.Rae1 Rae8 19.b3 Nc7 20.c4 Bb4 21.Ra1 f6 22.a3 Be7
+23.Rae1 Bd8 24.Kg2 Re6 25.cxd5 cxd5 26.Rc1 Rc6 27.Rec2 Rxc2 28.Qxc2 Re8 29.Qc5 a6
+30.a4 Re6 31.Qb4  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.10"]
+[Round "6.1"]
+[White "Carlsen,M"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2875"]
+[BlackElo "2805"]
+[ECO "A15"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 c6 4.d4 e4 5.Qb3 d5 6.Nc3 dxc4 7.Qxc4 b5 8.Qb3 Qxd4
+9.Be3 Qb4 10.Bd2 Qxb3 11.axb3 Bf5 12.g4 Bxg4 13.Nxe4 Nxe4 14.Bxe4 g6 15.Bc3 Rg8
+16.b4 a6 17.e3 Bg7 18.Ne2 Bxe2 19.Kxe2 Ra7 20.Bxg7 Rxg7 21.Rhc1 Rc7 22.h4 Kd8
+23.h5 Kc8 24.hxg6 fxg6 25.Rd1 Rge7 26.f3 Re6 27.Rh1 Kb7 28.Rh6 Rf7 29.Rah1 Ree7
+30.Rc1 Kb6 31.Rh2 Re6 32.Rch1 Nd7 33.Rxh7 Rxh7 34.Rxh7 Nf6 35.Rh4 Nxe4 36.fxe4 c5
+37.bxc5+ Kxc5 38.Kd3 g5 39.Rg4 Rg6 40.Kc3 a5 41.b4+ axb4+ 42.Kc2 Kc4 43.e5+ Kd5
+44.Rxb4 g4 45.Rxb5+ Ke4 46.Rb4+ Kxe3 47.e6 Kf3 48.Rb3+ Kf2 49.Rb4 Kf3 50.Rb3+ Kf4
+51.Rb4+ Kf5 52.Rb5+ Kxe6 53.Kd3 g3 54.Rb6+ Kf5 55.Rxg6 Kxg6 56.Ke2 Kg5 57.Kf3 Kh4
+58.Kg2 Kg4 59.Kg1 Kh3 60.Kh1 g2+  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.10"]
+[Round "6.3"]
+[White "Aronian,L"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2754"]
+[ECO "A20"]
+
+1.c4 e5 2.d3 Nf6 3.Nf3 Nc6 4.a3 g6 5.Nc3 Bg7 6.e3 d5 7.cxd5 Nxd5 8.Bd2 O-O
+9.Be2 Nxc3 10.Bxc3 a5 11.O-O a4 12.Rc1 Be6 13.Nd2 Na5 14.f4 Nb3 15.Nxb3 Bxb3
+16.Qe1 Re8 17.Qg3 exf4 18.Qxf4 Bxc3 19.Rxc3 Qe7 20.Bd1 Bxd1 21.Rxc7 Qxe3+
+22.Qxe3 Rxe3 23.Rxd1 Rd8 24.Rxb7 Rexd3 25.Rxd3 Rxd3 26.Rb4 Rd2 27.h4 Kg7
+28.Kh2 h5 29.Kg3 f6 30.Kf3 g5 31.hxg5  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.10"]
+[Round "6.4"]
+[White "Mamedyarov,S"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2779"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.g3 Bg7 6.Bg2 Nxc3 7.bxc3 c5 8.Nf3 O-O
+9.O-O cxd4 10.cxd4 Nc6 11.Rb1 Nxd4 12.Nxd4 Qxd4 13.Qxd4 Bxd4 14.Bh6 Rd8 15.Bxb7 Rb8
+16.Bxc8 Rbxc8 17.Rfc1 f6 18.Rxc8 Rxc8 19.Rc1 Rxc1+ 20.Bxc1 Kf7 21.e4 Ke6
+22.Kf1 Kd6 23.Ke2 Kc6 24.f3 e6 25.Kd3 Bc5 26.Kc4 f5 27.g4 fxe4 28.fxe4 a6
+29.h3 Bb6 30.Bf4 Bc5 31.Bc1 Bb6  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.10"]
+[Round "6.5"]
+[White "Grischuk,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2819"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Rb8 12.Nc2 Bg5 13.a4 bxa4 14.Ncb4 Nxb4 15.Nxb4 Bd7
+16.Bxa6 Qa5 17.Qxd6 Rb6 18.Qd3 Be6 19.O-O Be7 20.Bc4 Bxb4 21.Bxe6 Rxe6 22.cxb4 Qxb4
+23.Qc2 O-O 24.Rxa4 Qb7 25.Qc3 Rb6 26.Qxe5 Rxb2 27.Rd4 h6 28.h4 Rb1 29.g4 Rxf1+
+30.Kxf1 Qc8 31.Qg3 Re8 32.Kg2 Qc6 33.Qd3 Qf6 34.h5 Qg5 35.Qf3 Qf6 36.Rd3 Qc6
+37.Rd4 Qf6 38.Rb4 Qd6 39.Qb3 Qd7 40.Qg3 Qe7 41.Qb3 Qd7 42.Kf3 Qd6 43.Kg2  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.12"]
+[Round "7.4"]
+[White "Caruana,F"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2819"]
+[BlackElo "2767"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Be3 Be7 10.c3 O-O 11.Nbd2 Bg4 12.Re1 Nxd2 13.Bxd2 Qd7 14.h3 Bh5 15.a4 b4
+16.a5 bxc3 17.Bxc3 Rfd8 18.Rc1 Bxf3 19.Qxf3 Na7 20.Bc2 g6 21.Qg3 Qe6 22.Bd1 d4
+23.Bd2 c5 24.Bg4 Qa2 25.e6 f6 26.Bf5 Qxb2 27.Rc2 Qb8 28.Bf4 Qb4 29.Bxg6 Qxe1+
+30.Kh2 Rd5 31.Rc1 Rg5 32.Qf3 Qxe6 33.Qxa8+ Kg7 34.Bd3 Qd5 35.Qxd5 Rxd5 36.Bxa6 c4
+37.Bxc4 Rxa5 38.Bd3 Nb5 39.Rc6 Nc3 40.g4 Nd5 41.Bd6 Ra7 42.Be4 Rd7 43.Bg3 Nb4
+44.Rc1 d3 45.Bf5 d2 46.Rd1 Rd4 47.f4 Na2 48.Bf2 Rd8 49.Be3 Bb4 50.Kg2 Nc1
+51.Kf3 Nb3 52.Bc2 Nd4+ 53.Bxd4 Rxd4 54.Ke3 Rc4 55.Bd3 Rc1 56.Ke2 h5 57.gxh5 Kh6
+58.Bg6 Ba5 59.Be8 Rc7 60.Bg6 Re7+ 61.Kd3 Re1 62.Kc2 Re3 63.h4 Re1 64.Bf7 Kg7
+65.Bg6 Bb4 66.Bd3 Re3 67.Rb1 Re1 68.Rd1  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.12"]
+[Round "7.1"]
+[White "So,W"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2875"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.h4 g6 14.g3 Bg7 15.h5 Ne7
+16.Nce3 Nxd5 17.Nxd5 Be6 18.Bh3 Bxd5 19.Qxd5 b4 20.c4 Qc7 21.O-O Rb6 22.b3 Rd8
+23.a4 bxa3 24.hxg6 hxg6 25.Rxa3 Qc5 26.Rfa1 Qxd5 27.cxd5 Bh6 28.Rxa6 Rxb3
+29.Ra8 Rxa8 30.Rxa8+ Bf8 31.Bd7 Rb4 32.Ra4 Rb2 33.Ra7 Be7 34.Bc6 Kf8 35.Rb7 Rxb7
+36.Bxb7  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.12"]
+[Round "7.2"]
+[White "Yu Yangyi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2752"]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 O-O
+9.O-O Bg4 10.f3 Bh5 11.dxc6 Qd4+ 12.Kh1 Bxc3 13.bxc3 Qxc3 14.Bf4 Qxc6 15.Qd2 Bg6
+16.Rac1 Rfd8 17.Rfe1 a5 18.Be5 Nd5 19.a3 Qa4 20.Bxg6 hxg6 21.Qd3 Rd7 22.h3 Rad8
+23.Qb3 Qxb3 24.cxb3 Rb8 25.Rc5 Rxb3 26.Rxa5 f6 27.Bg3 Ne3 28.Bf4 Nc2 29.Rc1 Rxa3
+30.Rxa3 Nxa3 31.Rxc7  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.12"]
+[Round "7.3"]
+[White "Ding Liren"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2774"]
+[ECO "D70"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3 O-O 8.Qd2 e5
+9.d5 c6 10.h4 cxd5 11.exd5 N8d7 12.h5 Nf6 13.hxg6 fxg6 14.O-O-O Bd7 15.Kb1 Rc8
+16.d6 e4 17.fxe4 Ng4 18.Bg5 Qe8 19.Nf3 Rf7 20.Qe1 Rc5 21.Bd2 Be6 22.e5 Bxe5
+23.Bd3 Na4 24.Nxe5 Rxe5 25.Qh4 Rh5 26.Qg3 Nxc3+ 27.Bxc3 Qa4 28.d7 Rd5 29.Bc2 Qxd7
+30.Bb3 Rxd1+ 31.Rxd1 Qc8 32.Qh4 Nf6 33.Rd6 Bxb3 34.Rxf6  1-0
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.12"]
+[Round "7.5"]
+[White "Vachier Lagrave,M"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2775"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.h3 e5 6.d3 f6 7.a3 Nh6 8.b4 Nf7
+9.c3 a5 10.bxc5 Bxc5 11.d4 Bd6 12.a4 Qe7 13.O-O O-O 14.Re1 b5 15.axb5 cxb5
+16.Ba3 b4 17.Bxb4 Bxb4 18.cxb4 Qxb4 19.Ra4 Qb6 20.Nc3 Bd7 21.Rc4 Be6 22.Na4 Qb5
+23.Rc3 Qb4 24.dxe5 Nxe5 25.Nxe5 fxe5 26.Qc2 Rfc8 27.Ree3 Rxc3 28.Rxc3 Rb8
+29.Nc5 Rc8 30.Qc1 Bf7 31.Kh2 Rc6 32.f3 Kg7 33.Rc2 Qd4 34.Nb7 Rxc2 35.Qxc2 Qb6
+36.Nc5 Qb4 37.Nd7 Qd6 38.Nc5 Qd4 39.Nb7 Qb6 40.Nc5 Qb4 41.Nd7 Qd6 42.Nc5 Qd4
+43.Nb7  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.13"]
+[Round "8.5"]
+[White "Grischuk,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2767"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 d4 11.Bxe6 Nxe6 12.cxd4 Ncxd4 13.a4 Bb4 14.axb5 Nxf3+ 15.Nxf3 axb5
+16.Rxa8 Qxa8 17.Ng5 Nxg5 18.Bxg5 h6 19.e6 fxe6 20.Qh5+ Kf8 21.Bf4 Qd5 22.Qe2 Bd6
+23.Rd1 Qc4 24.Qxc4 bxc4 25.Bxd6+ cxd6 26.Rxd6 Ke7 27.Rc6 Rb8 28.Rxc4 Rxb2
+29.g3 h5 30.h4 g6 31.Kg2  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.13"]
+[Round "8.4"]
+[White "Mamedyarov,S"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2754"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 d5 3.e3 c5 4.Bxf6 gxf6 5.dxc5 Nc6 6.Bb5 e6 7.c4 dxc4 8.Nd2 Bd7
+9.Ngf3 c3 10.bxc3 Bxc5 11.O-O O-O 12.Rb1 Qc7 13.Nd4 Be7 14.Qh5 f5 15.e4 Qf4
+16.Rfd1 Qg4 17.Qxg4+ fxg4 18.Nc4 Rfd8 19.Bxc6 bxc6 20.Ne5 c5 21.Ndc6 Bxc6
+22.Nxc6 Rxd1+ 23.Rxd1 Bf6 24.e5 Bg5 25.g3 a5 26.h4 Bh6 27.Kf1 Kf8 28.Rd7 Ke8
+29.Re7+ Kf8 30.Rc7 Bd2 31.c4 h5 32.Ke2 Bc3 33.Kd3 Be1 34.Ke2 Bc3 35.f3 gxf3+
+36.Kxf3 a4 37.g4 Kg7 38.gxh5 Rh8 39.Kg4 Rg8 40.Rd7 Kh6+ 41.Kf3 Rg1 42.Nd8 Kxh5
+43.Rxf7 Bxe5 44.Ra7 Rf1+ 45.Ke2 Rf4 46.Rxa4 Bd4  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.13"]
+[Round "8.3"]
+[White "Vachier Lagrave,M"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2805"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O 7.Re1 a6 8.a4 Ba7
+9.h3 Be6 10.Bxe6 fxe6 11.b4 Nh5 12.Ra2 Qf6 13.Na3 Ne7 14.Bg5 Qf7 15.Be3 Nf4
+16.Kh2 Qg6 17.Nh4 Qh6 18.Nf3 Qg6 19.Nh4 Qh6 20.Nf3 Qg6  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.13"]
+[Round "8.2"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2819"]
+[ECO "A22"]
+
+1.c4 e5 2.g3 Nf6 3.Nc3 Bb4 4.e4 Bxc3 5.dxc3 d6 6.Qc2 O-O 7.Nf3 Be6 8.Ng5 Bd7
+9.f3 a5 10.Nh3 a4 11.Nf2 Nc6 12.Be2 Na5 13.b4 axb3 14.axb3 Nc6 15.Rb1 Be6
+16.Nd1 Ne7 17.O-O c6 18.Bg5 Nd7 19.Qd2 h6 20.Be3 Nf6 21.Nf2 d5 22.Rfd1 Qc7
+23.Bc5 b6 24.Bxe7 Qxe7 25.cxd5 cxd5 26.exd5 Bxd5 27.c4 Bc6 28.Qe3 Ra2 29.Ra1 Rxa1
+30.Rxa1 Nd7 31.Bd3 f5 32.Bc2 e4 33.fxe4 Ne5 34.Bd1 fxe4 35.Be2 Nf3+ 36.Bxf3 Rxf3
+37.Qxb6 Qf6 38.Rd1 e3 39.Ng4 Qe6 40.Qb8+ Kh7 41.Ne5 Qh3  0-1
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.13"]
+[Round "8.1"]
+[White "Carlsen,M"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[WhiteElo "2875"]
+[BlackElo "2738"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4 b5 6.Be2 b4 7.e5 bxc3 8.exf6 exf6
+9.bxc3 Bd6 10.O-O O-O 11.Nd2 Re8 12.Re1 Nd7 13.Nxc4 Bc7 14.Bf3 Ba6 15.Ne3 Nb6
+16.Ba3 Nc4 17.Qd3 Rxe3 18.Rxe3 Nxe3 19.Qxa6 Nc2 20.Rd1 Nxa3 21.Qxa3 Qd6 22.Qxd6 Bxd6
+23.c4 Rc8 24.c5 Be7 25.Kf1 f5 26.Ke2 g5 27.h3 Kg7 28.Kd3 Kg6 29.Rb1 h5 30.Rb7 Bf6
+31.Rd7 g4 32.Bd1 Kg5 33.Ba4 f4 34.f3 Re8 35.fxg4 hxg4 36.hxg4 Re6 37.Bd1 Re3+
+38.Kc4 a5 39.Bf3 Ra3 40.Bxc6 Rxa2 41.Be4 a4 42.c6 Ra1 43.c7 a3 44.Kb3  1-0
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.14"]
+[Round "9.4"]
+[White "Yu Yangyi"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2774"]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 O-O
+9.O-O Bg4 10.f3 Bh5 11.Bg5 Qd6 12.Bxf6 Qxf6 13.Ne4 Qxb2 14.dxc6 Bg6 15.Kh1 Qd4
+16.Qe2 Rfe8 17.Rad1 Qe5 18.Bc4 Rad8 19.Rd7 Rxd7 20.cxd7 Rd8 21.Rd1 Kf8 22.c3 Ba3
+23.Rd5 Qe7 24.Bb5 Bd6 25.c4 a6 26.Ba4 Bxe4 27.Qxe4 Qxe4 28.fxe4 f6 29.Ra5 Rb8
+30.g3  1-0
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.14"]
+[Round "9.3"]
+[White "So,W"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2779"]
+[ECO "A34"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.dxc3 Qc7 7.e4 e6 8.Be3 Be7
+9.Nd2 O-O 10.Qf3 Rd8 11.Qg3 Bd6 12.f4 b6 13.Qf2 Bf8 14.Be2 Ba6 15.O-O Bxe2
+16.Qxe2 Nc6 17.f5 exf5 18.exf5 Re8 19.Rae1 Rad8 20.Nf3 f6 21.Qc4+ Qf7 22.Qxf7+ Kxf7
+23.Bf4 Ne7 24.g4 Nd5 25.Bd2 c4 26.Rxe8 Bc5+ 27.Kg2 Rxe8 28.Re1 Be3 29.a4 a6
+30.Bxe3 Nxe3+ 31.Kg3 h5 32.gxh5 Re7 33.Kf2 Nxf5 34.Rd1 Rb7 35.Rd5 Ke6 36.Rd8 b5
+37.Ra8 bxa4 38.Rxa6+ Kf7 39.Rxa4 Rxb2+ 40.Ke1 Ne3 41.Nd2 Rc2 42.Nxc4 Nf5
+43.Ra5 Rxc3 44.Rxf5 Rxc4 45.Kf2 Rc3 46.Ra5 Rh3 47.Kg2 Re3 48.Ra8 Re5 49.Rh8 Re8
+50.Rxe8 Kxe8 51.Kf3 Kf7 52.Ke4 Kg8 53.Kf5 Kh7 54.Kf4 Kh6 55.Kg4 f5+ 56.Kxf5 Kxh5
+57.h4 Kxh4 58.Kg6 Kg4 59.Kxg7  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.14"]
+[Round "9.2"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2752"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6
+9.Nc3 O-O 10.Be3 Bg4 11.h3 Bh5 12.Qc2 Nxc3 13.bxc3 f6 14.exf6 Qxf6 15.Be2 Na5
+16.O-O Bxf3 17.Bxf3 c6 18.Rae1 Nc4 19.Bc1 Rae8 20.Be2 Re6 21.Bd3 g6 22.Re2 Rxe2
+23.Qxe2 Nd6 24.Re1 Re8 25.Qd1 Rxe1+ 26.Qxe1 c5 27.dxc5 Bxc5 28.Bd2 b6 29.Qe2 Kf7
+30.Be1 Qf4 31.Kf1 Ne4 32.Qg4 Qxg4 33.hxg4 Be7 34.Ke2 Nc5 35.Bc2 Bf6 36.Bd2  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.14"]
+[Round "9.1"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2819"]
+[BlackElo "2875"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 e5 7.O-O Qc7 8.a3 Nf6
+9.Be3 c4 10.Nc3 cxd3 11.Qxd3 O-O 12.Rfd1 Re8 13.Bc5 Bf8 14.Bxf8 Kxf8 15.Rd2 Be6
+16.Rad1 Rad8 17.Qxd8 Rxd8 18.Rxd8+ Kg7 19.R8d3 h6 20.b4 a5 21.Re3 Nd7 22.Na4 b5
+23.Nb2 c5 24.c3 c4 25.Rd2 axb4 26.axb4 Nf6 27.Nd1 Bd7 28.Nh2 Qa7 29.h4 Bc6
+30.f3 Bd7 31.Nf1 Be6 32.Kh2 Nh5 33.g3 g5 34.hxg5 hxg5 35.Nf2 g4 36.Nxg4 Bxg4
+37.fxg4 Nf6 38.Kg2 Nxg4 39.Rf3 Qa8 40.Re2 Kg6 41.Rf5 f6 42.Nh2 Nh6 43.Rf1 Kg7
+44.Rd1 Qa3 45.Rd7+ Kg6 46.Nf3 Qxc3 47.Nh4+ Kh5 48.Rh7 Qd3 49.Re1 c3 50.Nf3 Qc2+
+51.Kh3 Kg6 52.Rc7 Nf7 53.Nh4+ Kg7 54.Nf5+ Kg6 55.Nh4+ Kg7 56.Nf5+  1/2-1/2
+
+[Event "7th Norway Chess 2019"]
+[Site "Stavanger NOR"]
+[Date "2019.06.14"]
+[Round "9.5"]
+[White "Ding Liren"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2775"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.Nd2 Bg7 6.b3 O-O 7.Bb2 Bf5 8.Ngf3 a5
+9.O-O a4 10.bxa4 Qa5 11.Qb3 Qxa4 12.Qxb7 Nbd7 13.Qb3 Rfb8 14.cxd5 cxd5 15.Qxa4 Rxa4
+16.Bc3 e6 17.h3 h5 18.Nh4 Rba8 19.Nxf5 gxf5 20.Rfb1 Rxa2 21.Rxa2 Rxa2 22.Rb2 Rxb2
+23.Bxb2 Ne4 24.Nxe4 fxe4 25.e3 Kh7 26.Bf1 Bf8 27.Bc3 Kg6 28.Ba5 Be7 29.Bc7 Nf6
+30.Bb5 Nh7 31.Kg2  1/2-1/2

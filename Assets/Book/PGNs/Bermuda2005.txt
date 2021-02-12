@@ -1,0 +1,533 @@
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Macieja,B"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2618"]
+[BlackElo "2696"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.Nf3 Bg7 5.Bb5+ Bd7 6.Bc4 Nc6 7.O-O Na5 8.Be2 Nf6
+9.d4 cxd4 10.Nxd4 O-O 11.Kh1 Rc8 12.Bf3 Nc4 13.b3 Qa5 14.Nb1 e5 15.Ne2 Nb6
+16.c3 d5 17.fxe5 Nxe4 18.Bf4 Rfe8 19.Qd4 g5 20.Bxe4 dxe4 21.Bxg5 Qxe5 22.Qxe5 Bxe5
+23.Bf6 Bxf6 24.Rxf6 Bg4 25.Nd4 Nd5 26.Rf1 Nxc3 27.Nxc3 Rxc3 28.Rae1 Rd3 29.Nc2 e3
+30.Kg1 Rc3 31.Nd4 Re4 32.Nf5 e2 33.Rf2 Rc1 34.Nh6+ Kg7 35.Rxf7+ Kxh6 36.Rxc1 e1=R+
+37.Rxe1 Rxe1+ 38.Kf2 Re2+ 39.Kg3 Be6 40.Re7 Bc4 41.Rxb7 Rxg2+ 42.Kf4 Rf2+
+43.Ke3 Rf7 44.Rb8 Bd5 45.Rd8 Bb7 46.Rd4 Kg5 47.Ra4 Bc8 48.b4 Bg4 49.b5 h5
+50.Ra6 Kh4 51.a4 Kh3 52.a5 Kxh2 53.b6 axb6 54.Rxb6 Kg3 55.a6 Rf3+  0-1
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Dominguez,L"]
+[Black "Volokitin,And"]
+[Result "1-0"]
+[WhiteElo "2661"]
+[BlackElo "2685"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Nf6 7.Qd2 Bb4 8.f3 d5
+9.a3 Ba5 10.O-O-O O-O 11.Nb3 dxe4 12.Qf2 Bd7 13.Nxe4 Nxe4 14.fxe4 Ne5 15.Qg3 Bc7
+16.Bf4 f6 17.Nc5 Rf7 18.Nxe6 Bxe6 19.Rxd8+ Rxd8 20.h4 Rd4 21.Bd3 Nxd3+ 22.cxd3 Bxf4+
+23.Qxf4 Rxd3 24.Rd1 Rxd1+ 25.Kxd1 h5 26.Kc2 Re7 27.Qd6 Kf7 28.Kc3 Bg4 29.Qd5+ Kg6
+30.a4 Rd7 31.Qc5 Be6 32.g3 Bg4 33.Kb4 Rd3 34.Qc2 Rxg3 35.Ka5 Be6 36.b4 Rg4
+37.Kb6 Rxh4 38.Kxb7 Rg4 39.b5 axb5 40.a5 Rg3 41.a6 Bc4 42.a7 Bd3 43.Qc6 Rg4
+44.a8=Q Bxe4 45.Qe8+ Kf5 46.Qxh5+  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.01.30"]
+[Round "1"]
+[White "Vescovi,G"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2632"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ne7 10.h3 h6 11.b3 Bf5 12.Rd1+ Kc8 13.Rd2 Nd5 14.Bb2 Nxc3 15.Bxc3 c5
+16.Nh4 Be6 17.f4 g6 18.Rf1 h5 19.f5 gxf5 20.Nxf5 b6 21.Ne3 Bh6 22.Rd3 Kb7
+23.Nd5 Rad8 24.Nf4 Bxf4 25.Rxf4 Rxd3 26.cxd3 Rd8 27.Rf3 b5 28.Kf2 b4 29.Bb2 a5
+30.Ke3 a4 31.bxa4 Bxa2 32.Rf5 Rg8 33.e6 Bxe6 34.Rxc5 c6 35.Rxh5 Rxg2 36.Be5 b3
+37.Rh8 c5 38.Rb8+ Kc6 39.a5 Ra2 40.Rb6+ Kd5 41.Bf4 c4 42.Rb5+ Kc6 43.Rb6+ Kd5  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.01.31"]
+[Round "2"]
+[White "Dominguez,L"]
+[Black "Macieja,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2661"]
+[BlackElo "2618"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.Qh5 Nf6
+9.Re1+ Be7 10.Qe2 Bg4 11.Qe3 Be6 12.Nd2 O-O 13.Nf3 Re8 14.Ne5 Qc8 15.Qf3 Bg4
+16.Qf4 Bd6 17.Bd2 Bh5 18.Qh4 Bg6 19.Nxg6 hxg6 20.Bg5 Nh7 21.Bf4 Bxf4 22.Qxf4 Qd7
+23.Re5 Rxe5 24.dxe5 Nf8 25.h4 Ne6 26.Qg4 Nc5 27.Qxd7 Nxd7 28.f4 Nc5 29.Rd1 Kf8
+30.c3 Nxd3  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.01.31"]
+[Round "2"]
+[White "Volokitin,And"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2632"]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.Bxc6+ bxc6 8.d4 exd4
+9.Nxd4 Bd7 10.Nc3 O-O 11.Qf3 Re8 12.b3 h6 13.e5 dxe5 14.Nxc6 Bxc6 15.Qxc6 Bb4
+16.Be3 Qd7 17.Qxd7 Nxd7 18.Bd2 Rad8 19.Ne4 Bxd2 20.Nxd2 Nb6 21.Ne4 Nd5 22.a3 a5
+23.Rad1 f5 24.c4 Ne7 25.Nc5 Nc6 26.Kf1 Kf7 27.Na6 Re7 28.Rxd8 Nxd8 29.Rd1 Ne6
+30.b4 axb4 31.axb4 c6 32.Rd6 Nd4 33.f4 Ra7 34.fxe5 Rxa6 35.Rxd4 Ke6 36.Rd6+ Kxe5
+37.Rg6 Ra4 38.Rxc6  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.01.31"]
+[Round "2"]
+[White "Gelfand,B"]
+[Black "Vescovi,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2645"]
+[ECO "E05"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.c4 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Ra7 11.Rc1 Be4 12.Qb3 Nbd7 13.Ba5 Qb8 14.Nbd2 Ba8 15.Bb4 c5
+16.Bxc5 Nxc5 17.dxc5 Rc8 18.Qa3 Rac7 19.b4 a5 20.Qxa5 Ra7 21.Qb6 Rb7 22.Qa5 Ra7  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.01"]
+[Round "3"]
+[White "Macieja,B"]
+[Black "Volokitin,And"]
+[Result "0-1"]
+[WhiteElo "2618"]
+[BlackElo "2685"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 h6 4.Nc3 Bb4 5.e4 Bxc3 6.bxc3 d6 7.Ne2 Be6 8.d3 Qd7
+9.h3 g5 10.f3 Na6 11.h4 O-O-O 12.hxg5 hxg5 13.Bxg5 Rxh1+ 14.Bxh1 Rh8 15.Kf2 Nh7
+16.Bh4 f5 17.exf5 Bxf5 18.d4 Qe6 19.c5 Nf6 20.Qb3 Nd5 21.Re1 Re8 22.Nc1 Qh6
+23.Qxd5 Qd2+ 24.Ne2 Nxc5  0-1
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.01"]
+[Round "3"]
+[White "Harikrishna,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2632"]
+[BlackElo "2696"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Nh4 Bg6 7.Qb3 Qc7 8.Nxg6 hxg6
+9.Bd2 Nbd7 10.h3 Nb6 11.cxd5 exd5 12.Bd3 Be7 13.O-O-O a5 14.Kb1 a4 15.Qc2 Nc4
+16.g4 b5 17.Ne2 Nd7 18.h4 Ndb6 19.Nf4 Bd6 20.Bc1 O-O-O 21.h5 gxh5 22.gxh5 Qe7
+23.Bf5+ Kc7 24.e4 dxe4 25.Bxe4 Bxf4 26.Bxf4+ Kb7 27.Bc1 Nd5 28.f3 Qf6 29.Qf2 a3
+30.Bxd5 Rxd5 31.b3 Nb6 32.h6 gxh6 33.Bxa3 Rf5 34.d5 Rxf3 35.Qb2 Re8 36.Qxf6 Rxf6
+37.dxc6+ Rxc6  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.01"]
+[Round "3"]
+[White "Vescovi,G"]
+[Black "Dominguez,L"]
+[Result "1-0"]
+[WhiteElo "2645"]
+[BlackElo "2661"]
+[ECO "D14"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Qb3 Bb4
+9.Bb5 O-O 10.O-O Qe7 11.Bxc6 bxc6 12.Na4 Nh5 13.a3 Ba5 14.Bg3 Nxg3 15.hxg3 Rab8
+16.Qd1 f6 17.Rc1 Rfc8 18.b4 Bd8 19.Rc5 Bb6 20.Rc3 g5 21.Qe2 e5 22.dxe5 fxe5
+23.Rfc1 Bg4 24.Nxb6 axb6 25.e4 d4 26.Rxc6 Rf8 27.Qa2+ Rf7 28.Rc7 Qe6 29.Qxe6 Bxe6
+30.Rxf7 Kxf7 31.Nxg5+ Ke7 32.Nxe6 Kxe6 33.a4 Kd6 34.Ra1 Kc6 35.a5 Kb5 36.axb6 Rxb6
+37.Kf1 Kc4 38.Ke2 Rxb4 39.Rc1+ Kb5 40.f4 Rb3 41.Kf2 h5 42.fxe5 Re3 43.Re1 Ra3
+44.Rh1 Re3 45.Rxh5 Rxe4 46.Rh4 Rxe5 47.Rxd4 Re8 48.g4 Kc5 49.Rf4 Kd5 50.Kg3 Rg8
+51.Kh4 Ke5 52.g3 Rh8+ 53.Kg5 Rb8 54.Kh6 Rb6+ 55.Kh5  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.02"]
+[Round "4"]
+[White "Harikrishna,P"]
+[Black "Macieja,B"]
+[Result "1-0"]
+[WhiteElo "2632"]
+[BlackElo "2618"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Nc6
+9.Rd1 Bb7 10.e4 Ne7 11.h3 Ng6 12.Bh2 Nh5 13.Qd2 f5 14.exf5 Bxf3 15.gxf3 Nh4
+16.Be2 Qf6 17.Qd3 Ng2+ 18.Kd2 Nhf4 19.Bxf4 Nxf4 20.Qe4 Qh6 21.Kc2 Rae8 22.Kb1 exf5
+23.Qc2 Bxf2 24.Bd3 Nxd3 25.Rxd3 Re1+ 26.Rxe1 Bxe1 27.Rxd7 Qxh3 28.Qd1 Qh4
+29.Qd5+ Kh8 30.Nb5 h5 31.Nd6 Qf4 32.Qe6 Bh4 33.Qg6 Bf6 34.Qxh5+ Kg8 35.Nxf5 Rc8
+36.Qg6 Qe5 37.Nh6+  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.02"]
+[Round "4"]
+[White "Vescovi,G"]
+[Black "Volokitin,And"]
+[Result "1-0"]
+[WhiteElo "2645"]
+[BlackElo "2685"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 Nge7 5.c3 g6 6.Bg2 Bg7 7.O-O O-O 8.d4 cxd4
+9.cxd4 d5 10.e5 f6 11.Re1 Nf5 12.Nc3 Kh8 13.g4 Nh4 14.Nxh4 fxe5 15.Nxg6+ hxg6
+16.dxe5 Nxe5 17.Be3 Qf6 18.Bc5 Rf7 19.Re3 Qxf2+ 20.Kh1 Kg8 21.Nxd5 exd5 22.Qxd5 Bd7
+23.Rxe5 Qxb2 24.Rf1 Qxg2+ 25.Kxg2 Bc6 26.Qxc6 bxc6 27.Rxf7 Bxe5 28.Re7 Bf4
+29.Rxa7 Rxa7 30.Bxa7 Kf7 31.Bb6 Ke6 32.a4 Kd7 33.a5 Kc8 34.a6 Bd6 35.h3 Kb8
+36.Kf3 Kc8 37.Be3 Kb8 38.Bf4 Bxf4 39.Kxf4 Ka7 40.h4 c5 41.h5 gxh5 42.gxh5 c4
+43.h6 c3 44.Ke3  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.02"]
+[Round "4"]
+[White "Gelfand,B"]
+[Black "Dominguez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2661"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 a6 10.Rd1 b5 11.Be2 Qc7 12.Bd2 c5 13.dxc5 Qxc5 14.b4 Qc7 15.Rac1 Bb7
+16.Qb1 Qb8 17.h3 Rc8 18.a4 bxa4 19.Nxa4 Bc6 20.Qb3  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.03"]
+[Round "5"]
+[White "Macieja,B"]
+[Black "Vescovi,G"]
+[Result "1-0"]
+[WhiteElo "2618"]
+[BlackElo "2645"]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.Bb2 Nc6 8.e3 d4 9.exd4 cxd4
+10.Re1 Ne8 11.d3 Nc7 12.Na3 f6 13.Nc2 e5 14.Nh4 g5 15.Nf3 Be6 16.Nfxd4 exd4
+17.Rxe6 Nxe6 18.Bd5 Kh8 19.Bxe6 Bc5 20.Bf5 Qc7 21.a3 a5 22.Rb1 Rad8 23.Ba1 Bd6
+24.b4 axb4 25.axb4 Be5 26.b5 Ne7 27.b6 Qd6 28.Be4 Rd7 29.Rb5 f5 30.Bxb7 f4
+31.Bg2 fxg3 32.fxg3 Nf5 33.b7 Re7 34.Qf3 Qh6 35.Qxf5 Rxf5 36.Rxe5 Rxb7 37.Rxf5 Rb1+
+38.Rf1 Rxf1+ 39.Bxf1 Kg8 40.Bxd4 Qh5 41.Ne3 Qg6 42.Nd5 Kf7 43.Nf6 Qf5 44.Ne4 Kg6
+45.Be3 h6 46.c5 Qf7 47.Bf2 Qb7 48.Nd6 Qf3 49.Nc4 Kf6 50.d4 Ke7 51.Ne3  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.03"]
+[Round "5"]
+[White "Volokitin,And"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2696"]
+[ECO "B93"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.Qe2 Be7
+9.Be3 b5 10.O-O-O Qc7 11.g4 Bb7 12.fxe5 dxe5 13.g5 Nxe4 14.Nd5 Bxd5 15.Rxd5 Qc6
+16.Rd1 Qe6 17.Kb1 O-O 18.Bg2 Rad8 19.Rhf1 Ndc5 20.Rxd8 Rxd8 21.Bxc5 Nxc5
+22.Qxe5 Qxe5 23.Nxe5 Rd2 24.Bc6 Bxg5 25.b4 Na4 26.Nf3 Rd6 27.Nxg5 Rxc6 28.Nxf7 Re6
+29.Ng5 Re2 30.Nf3 h6 31.Kc1 Nc3 32.a3 g5 33.h3 Kg7 34.Nd4 Re4 35.Kd2 Rxd4+
+36.Kxc3 Rh4 37.Rf3 Kg6 38.Kd3 Rc4 39.c3 Rc6 40.Ke4 Kh5 41.Kd5 Rc8 42.a4 Kg6
+43.Re3  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.03"]
+[Round "5"]
+[White "Dominguez,L"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2661"]
+[BlackElo "2632"]
+[ECO "C91"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.d4 Bg4 10.Be3 Bd7 11.Nbd2 Ng4 12.Nf1 Nxe3 13.Nxe3 Rb8 14.a3 Bf6 15.h3 g6
+16.Qd2 Na5 17.Ba2 exd4 18.cxd4 c5 19.dxc5 dxc5 20.e5 Bg7 21.Rad1 Be6 22.Qc3 Qb6
+23.Nd5 Bxd5 24.Bxd5 Nc6 25.Rc1 Rbc8 26.Qxc5 Qxc5 27.Rxc5 Nxe5 28.Rxc8 Nxf3+
+29.Bxf3 Rxc8 30.Bb7 Rb8 31.Bxa6 Bxb2 32.Rb1 Bxa3 33.Bxb5  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.05"]
+[Round "6"]
+[White "Gelfand,B"]
+[Black "Macieja,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2618"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 a5 5.a3 Bxd2+ 6.Bxd2 a4 7.Bg5 h6 8.Bxf6 Qxf6
+9.e3 d6 10.Bd3 O-O 11.Nd2 e5 12.Ne4 Qg6 13.O-O Bf5 14.f3 exd4 15.exd4 c5
+16.dxc5 dxc5  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.05"]
+[Round "6"]
+[White "Harikrishna,P"]
+[Black "Vescovi,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2632"]
+[BlackElo "2645"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Nf3 Bb7 8.e3 d5
+9.b4 Nbd7 10.Bb2 c5 11.dxc5 bxc5 12.cxd5 Bxd5 13.Be2 Qb6 14.O-O cxb4 15.Qxb4 Rfb8
+16.Qxb6 axb6 17.Ne5 Rc8 18.Rac1 Nxe5 19.Bxe5 Nd7 20.Bd6 f6 21.f3 Nc5 22.e4 Bb7
+23.Bxc5 Rxc5 24.Rxc5 bxc5 25.Ra1 Bc6 26.Kf2 Kf7 27.Ke3 Ke7 28.Bd1 Ba4 29.Bxa4 Rxa4
+30.Kd3 Kd6 31.Kc3 c4 32.h4 h5 33.Kd4 e5+ 34.Kc3 Kc5 35.Kb2 Ra7 36.Kc3 Ra4
+37.Ra2 g5 38.hxg5 fxg5 39.Ra1 h4 40.Ra2 Kb5 41.Ra1 Kc5 42.Ra2  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.05"]
+[Round "6"]
+[White "Volokitin,And"]
+[Black "Dominguez,L"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2661"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.Re1 Bg4
+9.c3 f5 10.Nbd2 O-O 11.Qb3 Na5 12.Qc2 Bd6 13.Ne5 Bxe5 14.dxe5 Qh4 15.Nf1 Nc6
+16.Bf4 Rae8 17.f3 Bxf3 18.Bg3 Nxg3 19.hxg3 Qh5 20.gxf3 Nxe5 21.Be2 f4 22.g4 Qg5
+23.Qd2 c6 24.Nh2 h5 25.Rf1 hxg4 26.Nxg4 Qh4 27.Nh2 Rf6 28.Rf2 Rg6+ 29.Rg2 Ree6
+30.Rf1 Rxg2+ 31.Kxg2 Rh6 32.Rh1 Qg3+ 33.Kf1 Rxh2 34.Rxh2 Qxh2 35.Qd4 Qh3+
+36.Ke1 Nxf3+ 37.Bxf3 Qxf3 38.Qxa7 Qe3+ 39.Qxe3 fxe3 40.Ke2 Kf7 41.Kxe3 g5
+42.a4 Kf6 43.a5 Ke5 44.Kf3 Kf5 45.Ke3 g4 46.Kd4 g3 47.Ke3 Kg4  0-1
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.06"]
+[Round "7"]
+[White "Harikrishna,P"]
+[Black "Volokitin,And"]
+[Result "1/2-1/2"]
+[WhiteElo "2632"]
+[BlackElo "2685"]
+[ECO "E94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Na6 8.Be3 Ng4
+9.Bg5 Qe8 10.dxe5 dxe5 11.Qc1 c6 12.Rd1 f6 13.Bd2 f5 14.h3 Nf6 15.exf5 gxf5
+16.Bh6 e4 17.Nh4 Bxh6 18.Qxh6 Qf7 19.Qf4 Qc7 20.Qxc7 Nxc7 21.f3 exf3 22.Bxf3 Be6
+23.Rd4 Rad8 24.Rad1 Rxd4 25.Rxd4 Nd7 26.b3 Ne5 27.Bd1 Kf7 28.Bc2 Kf6 29.Ne2 Ng6
+30.Nf3 Rf7 31.Ng3 c5 32.Rd6 Ke7 33.Rd1 h6 34.h4 Ne8 35.Kf2 Ng7 36.Rh1 Kf6
+37.Rd1 Rd7 38.Ne2 Rxd1 39.Bxd1 Bd7 40.g3 Ne6 41.Ne1 f4 42.Nd3 fxg3+ 43.Nxg3 Bc6
+44.Bf3 Bxf3  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.06"]
+[Round "7"]
+[White "Macieja,B"]
+[Black "Dominguez,L"]
+[Result "1-0"]
+[WhiteElo "2618"]
+[BlackElo "2661"]
+[ECO "A11"]
+
+1.c4 c6 2.e4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Qa4+ Nbd7 6.Nc3 g6 7.Nf3 Bg7 8.Bc4 O-O
+9.d3 a6 10.Qa3 b6 11.O-O Bb7 12.Re1 Re8 13.Ng5 b5 14.Bb3 Nb6 15.d6 e6 16.Nge4 Nxe4
+17.Nxe4 Bxe4 18.dxe4 Be5 19.Rd1 Qh4 20.g3 Qxe4 21.Be3 Nd7 22.Rd2 Red8 23.Rad1 Nf6
+24.d7 Qb7 25.Qe7 Qc6 26.Bg5 Qf3 27.Bxe6 Kh8 28.Rd3  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.06"]
+[Round "7"]
+[White "Vescovi,G"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2696"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 b5 8.Qd2 Nbd7
+9.g4 Nb6 10.a4 Nc4 11.Bxc4 bxc4 12.a5 Bb7 13.Na4 d5 14.e5 Nd7 15.f4 Qh4+
+16.Bf2 Qxg4 17.Rg1  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.07"]
+[Round "8"]
+[White "Volokitin,And"]
+[Black "Macieja,B"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2618"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2 Nf6 8.O-O-O Bb4
+9.f3 Ne5 10.Nb3 b5 11.Qe1 Be7 12.f4 Nc4 13.e5 Ng4 14.Bd4 Bb7 15.Bxc4 bxc4
+16.Nd2 Nh6 17.Qe2 Rc8 18.Nde4 Nf5 19.g4 Nxd4 20.Rxd4 f6 21.Rhd1 fxe5 22.Rxd7 Qxd7
+23.Rxd7 Kxd7 24.fxe5 Rhf8 25.a3 Bxe4 26.Nxe4 Rc6 27.Qd1+ Ke8 28.g5 c3 29.Nxc3 Bxg5+
+30.Kb1 Rf5 31.Ne4 Be7 32.Qd4 g5 33.Qa7 Rf1+ 34.Ka2 Rxc2 35.Qxa6 Rcc1 36.Qxe6 Ra1+
+37.Kb3 Rf3+ 38.Kc2 Re1 39.Nd6+ Kf8 40.Qh6+ Kg8 41.Qe6+ Kf8 42.Nf5 Rf2+ 43.Kb3 Bd8
+44.Qd7  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.07"]
+[Round "8"]
+[White "Dominguez,L"]
+[Black "Vescovi,G"]
+[Result "1-0"]
+[WhiteElo "2661"]
+[BlackElo "2645"]
+[ECO "C98"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.d5 Nd8 14.a4 Rb8 15.axb5 axb5
+16.b4 g6 17.bxc5 dxc5 18.c4 b4 19.Nb3 Nd7 20.Bh6 Re8 21.Bd3 Nb6 22.Re2 f6
+23.Be3 Bd7 24.Rea2 Nb7 25.Ra7 Ra8 26.Nxc5 Bxc5 27.Bxc5 Qxc5 28.Rxb7 Rxa1
+29.Qxa1 Ra8 30.Ra7 Rxa7 31.Qxa7 b3 32.Kf1 b2 33.Ke2 Qb4 34.Nd2 Nxc4 35.Nxc4 Bb5
+36.Qb8+ Kg7 37.Qa7+ Kg8 38.Qb8+ Kg7 39.Kf3 b1=Q 40.Bxb1 Qxc4 41.Qa7+ Kf8
+42.Qa3+ Ke8 43.Kg3 g5 44.Qa8+ Ke7 45.Qg8 Qb3+ 46.f3 Qxb1 47.Qe6+ Kd8 48.Qxf6+ Kc8
+49.Qh8+ Kb7 50.Qxh7+ Kb6 51.Qh6+ Kc5 52.Qxg5 Qb2 53.h4 Kd4 54.d6 Qb4 55.h5 Qxd6
+56.h6 Qc7 57.Qg6 Qa5 58.Qd6+ Ke3 59.Kh2 Qa7 60.Qxe5 Bc4 61.Kg3 Qf7 62.Qg5+ Kd4
+63.Kh4 Kd3 64.e5 Ke2 65.f4 Qc7 66.e6 Kf2 67.Qg3+ Kg1 68.f5 Qc5 69.Qf4 Bxe6
+70.fxe6 Qe7+ 71.Kg3 Qa3+ 72.Kg4 Kxg2 73.Qe4+ Kf2 74.e7  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.07"]
+[Round "8"]
+[White "Gelfand,B"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2632"]
+[ECO "E06"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Nbd7 11.Ba5 Ra7 12.Rc1 Be4 13.Qb3 Qb8 14.Qe3 b4 15.Nbd2 Ba8
+16.Nb3 Rc8 17.Rc2 Be4 18.Ne5 Bxg2 19.Nxd7 Nxd7 20.Kxg2 Qb5 21.Rac1 c6 22.Qf3 Nb8
+23.Rc4 Rd7 24.e3 h6 25.Qe2 Re8 26.Qe1 Qa4 27.Bxb4 Qxa2 28.Qc3 Bxb4 29.Rxb4 c5
+30.dxc5 a5 31.Nxa5 Qd5+ 32.e4 Qa8 33.c6 Rc7 34.Rc4 Na6 35.b4 Qb8 36.Nb7 Rxc6
+37.Rxc6 Qxb7 38.Rc8  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.08"]
+[Round "9"]
+[White "Harikrishna,P"]
+[Black "Dominguez,L"]
+[Result "1-0"]
+[WhiteElo "2632"]
+[BlackElo "2661"]
+[ECO "A11"]
+
+1.c4 c6 2.e4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Qa4+ Nbd7 6.Nc3 g6 7.Nf3 Bg7 8.Bc4 O-O
+9.d3 a6 10.Qa3 b6 11.O-O Bb7 12.Re1 Re8 13.Ng5 b5 14.Bb3 Nb6 15.d6 e6 16.Nge4 Nbd7
+17.Nxf6+ Nxf6 18.Qb4 Bc6 19.Bg5 h6 20.Bh4 g5 21.Bg3 Qb6 22.Ne4 Nh5 23.Rac1 Nxg3
+24.Nxg3 Red8 25.h4 Be8 26.hxg5 hxg5 27.Qg4 Rxd6 28.Qxg5 Qd8 29.Qg4 Kf8 30.Nh5 Bxb2
+31.Rc5 Qb6 32.Rg5 Qd4 33.Nf4 e5 34.Rg8+ Ke7 35.Bxf7 Bxf7 36.Rxa8 Rf6 37.Re4 Qb6
+38.Qg7 Kd7 39.Ra7+ Qxa7 40.Qxf6 Kc8 41.Ne6 Qd7 42.Nc5 Qd5 43.Qxa6+ Kd8 44.Qxb5 Bd4
+45.Qb8+ Ke7 46.Qc7+  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.08"]
+[Round "9"]
+[White "Vescovi,G"]
+[Black "Macieja,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2618"]
+[ECO "B27"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.Bb5+ Bd7 7.Bxd7+ Nxd7 8.e5 e6
+9.O-O Ne7 10.Bf4 Nc6 11.Qd2 O-O 12.Nc3 Qb6 13.Rac1 Rac8 14.h4 f6 15.exf6 Rxf6
+16.Ne2 Rcf8 17.b3 Rf5 18.Qe3 e5 19.dxe5 Ndxe5 20.Nxe5 Bxe5 21.Qxb6 axb6 22.Bxe5 Rxe5
+23.Rc2 d4 24.Rd2 Rd8 25.Rfd1 Red5 26.Nf4 R5d6 27.Re1 Kf7 28.Nd3 Re8 29.Red1  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.08"]
+[Round "9"]
+[White "Gelfand,B"]
+[Black "Volokitin,And"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2685"]
+[ECO "A30"]
+
+1.Nf3 c5 2.c4 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.g3 e6 6.Bg2 Qb6 7.Nb3 Ne5 8.Qc2 Qc7
+9.c5 d6 10.Nc3 dxc5 11.Bf4 a6 12.Na4 Nd5 13.Bxe5 Qxe5 14.Naxc5 Qc7 15.Rc1 b6
+16.Nd3 Qxc2 17.Rxc2 Bb7 18.O-O Rb8 19.Rfc1 g6 20.Nd4 Bh6 21.Rd1 O-O 22.Ne5 Rbc8
+23.Nec6 Rfe8 24.e4 Nf6 25.e5 Nd5 26.Bxd5 exd5 27.f4 Bf8 28.b4 Rc7 29.Rdc1 Kg7
+30.a3  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.09"]
+[Round "10"]
+[White "Volokitin,And"]
+[Black "Vescovi,G"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2645"]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Nf6 6.Nc3 d6 7.O-O Be7 8.f4 O-O
+9.a4 Qc7 10.Kh1 b6 11.e5 dxe5 12.fxe5 Nfd7 13.Bf4 Bb7 14.Bd3 Nc5 15.Qg4 Rd8
+16.Bg3 Bf8 17.Nf3 h6 18.Bf4 Kh8 19.Qh5 Nc6 20.Bxh6 gxh6 21.Ng5 Nxe5 22.Nxf7+ Nxf7
+23.Rxf7 Rd7 24.Raf1 Nxd3 25.Rxf8+  1-0
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.09"]
+[Round "10"]
+[White "Dominguez,L"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2661"]
+[BlackElo "2696"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.Nc3 Nxc3
+9.bxc3 O-O 10.Qh5 f5 11.Re1 c6 12.Bg5 Qc7 13.c4 Be8 14.Qh4 dxc4 15.Bxc4+ Bf7
+16.Bd3 Bg6 17.Re6 Rae8 18.Rae1 Qa5 19.R1e3 Rxe6 20.Rxe6 Qd5 21.Rxd6 Qxd6
+22.Be7 Qc7 23.Bxf8 Kxf8 24.Qg5 Qd6 25.h4 h6 26.Qe3 f4 27.Qh3 Bxd3 28.Qc8+ Ke7
+29.Qxb7+ Qd7 30.Qb4+ Qd6 31.Qb7+  1/2-1/2
+
+[Event "It"]
+[Site "Bermuda BER"]
+[Date "2005.02.09"]
+[Round "10"]
+[White "Macieja,B"]
+[Black "Harikrishna,P"]
+[Result "0-1"]
+[WhiteElo "2618"]
+[BlackElo "2632"]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.b4 Bb6 6.d3 d6 7.O-O O-O 8.a4 a5 9.b5 Ne7
+10.Bg5 Ng6 11.Nh4 Nxh4 12.Bxh4 h6 13.Na3 g5 14.Bg3 h5 15.Qd2 Nh7 16.h3 Qf6
+17.Kh1 Qg7 18.Ba2 Kh8 19.Nc4 Bc5 20.Rad1 f5 21.exf5 Bxf5 22.d4 exd4 23.cxd4 Bb4
+24.Qb2 Nf6 25.Ne3 Bg6 26.f3 c6 27.bxc6 bxc6 28.Bb1 Rae8 29.Nc4 Bxb1 30.Rxb1 Re6
+31.Be1 Nd5 32.Nxa5 Rxe1 33.Rfxe1 Bxa5 34.Rec1 g4 35.fxg4 hxg4 36.Qe2 Nc3
+37.Qe1 Nxb1 38.Qxa5 Qh7 39.Qe1 gxh3 40.g3 Qd3  0-1
+

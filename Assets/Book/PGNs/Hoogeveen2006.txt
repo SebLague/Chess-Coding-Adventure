@@ -1,0 +1,227 @@
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.22"]
+[Round "1"]
+[White "Mamedyarov,S"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2813"]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.e4 b4 10.Na4 c5 11.e5 Nd5 12.Nxc5 Nxc5 13.dxc5 Bxc5 14.O-O h6 15.Nd2 O-O
+16.Ne4 Bd4 17.Nd6 Bc6 18.Bh7+ Kxh7 19.Qxd4 f6 20.Bd2 Qd7 21.Rac1 a5 22.Qd3+ f5
+23.Rc5 Ne7 24.Rfc1 Ra7 25.Be3 Rfa8 26.Qe2 Ra6 27.h4 Qd8 28.Bg5 hxg5 29.Qh5+ Kg8
+30.Qf7+ Kh7 31.Qh5+ Kg8 32.Qf7+ Kh7 33.hxg5 Ng6 34.Rxc6 Qxg5 35.Rc8 Nf4 36.g3 Rxc8
+37.Rxc8 Qg4 38.Qg8+ Kg6 39.Qe8+ Kh7 40.Qh8+ Kg6 41.Rc7 Qd1+ 42.Kh2 Qh5+ 43.Qxh5+ Nxh5
+44.Re7 Rc6 45.Rxe6+ Kh7 46.Nf7 Rxe6 47.Ng5+  1-0
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.22"]
+[Round "1"]
+[White "Polgar,Ju"]
+[Black "Sokolov,Iv"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2670"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Bc2 f5 12.Nb3 Qd7 13.Nfd4 Nxd4 14.Nxd4 c5 15.Nxe6 Qxe6
+16.f3 Ng5 17.a4 Rad8 18.axb5 axb5 19.Ra7 Rd7 20.Rxd7 Qxd7 21.Kh1 f4 22.b4 c4
+23.Qd2 Ne6 24.Rd1 Nc7 25.Qf2 Qe6 26.Qd4 Qc6 27.Kg1 g6 28.Kf1 Bg5 29.Bb2 Ra8
+30.Qd2 Ne6 31.Bb1 Rd8 32.Qe1 Qc7 33.h4 Be7 34.Bc1 Qc6 35.Qf2 Rf8 36.Bc2 Bd8
+37.Qd2 Bxh4 38.Qxd5 Qb6 39.Qd2 Bg3 40.Qe2 Qa7 41.Be4 Kh8 42.Bd5 Ng7 43.e6 Qe7
+44.Qe5 Qh4 45.Ke2 h5 46.Be4 Rg8 47.Rd7 Qh1 48.Bd2  1-0
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.23"]
+[Round "2"]
+[White "Sokolov,Iv"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2728"]
+[ECO "B07"]
+
+1.d4 g6 2.e4 Bg7 3.Nf3 d6 4.c3 Nf6 5.Bd3 O-O 6.O-O Nbd7 7.Re1 e5 8.Bg5 h6
+9.Bh4 b6 10.a4 a6 11.Nbd2 Bb7 12.dxe5 dxe5 13.Nc4 Qe8 14.b4 Nh5 15.Ne3 Nf4
+16.Bb1 Rd8 17.Nc4 Nf6 18.Qc1 g5 19.Bg3 Nxe4 20.Bxe4 Bxe4 21.Rxe4 Qc6 22.Qc2 f5
+23.Bxf4 fxe4 24.Nfxe5 Qe6 25.Bg3 b5 26.axb5 axb5 27.Qxe4 bxc4 28.Qxc4 Qxc4
+29.Nxc4 Bxc3 30.Rc1 Rd4 31.Ne3 Bd2 32.Be5 Re4  0-1
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.23"]
+[Round "2"]
+[White "Polgar,Ju"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2813"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 h6 8.Bg2 g5
+9.Qe2 Nbd7 10.O-O-O Ne5 11.h3 Nfd7 12.f4 gxf4 13.Bxf4 b5 14.Rhf1 Bb7 15.Qf2 Rc8
+16.Nce2 Bg7 17.Ng3 Rh7 18.Nh5 Bh8 19.Kb1 Nc5 20.Bg3 Nxe4 21.Bxe4 Bxe4 22.Bh4 Qc7
+23.Bf6 Bg6 24.Bxh8 Rxh8 25.Nf6+ Kd8 26.h4 Qc5 27.h5 Bh7 28.Qh4 Bxc2+ 29.Nxc2 Qxc2+
+30.Ka1 Rc4 31.Ne4+ Kc7 32.Nxd6 Rf4 33.Qe7+ Kb6 34.Qb7+ Ka5 35.Qa7 b4 36.Rfe1 Nf3
+37.Rc1 Nxe1 38.Rxc2 Nxc2+ 39.Kb1  1-0
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.24"]
+[Round "3"]
+[White "Mamedyarov,S"]
+[Black "Polgar,Ju"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2710"]
+[ECO "E18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 O-O 7.O-O Ne4 8.Bd2 f5
+9.Qc2 Bf6 10.Rad1 Nxc3 11.Bxc3 Be4 12.Qc1 d6 13.Bh3 Qe8 14.Ne1 Nd7 15.f3 Bb7
+16.Nd3 Qh5 17.Nf4 Qh6 18.Bg2 Bg5 19.h4 Bxf4 20.Qxf4 Qxf4 21.gxf4 Nf6 22.Kf2 Nh5
+23.e3 a5 24.Bh3 d5 25.cxd5 exd5 26.Rc1 Rae8 27.Rc2 Ba6 28.Rfc1 Bd3 29.Rd2 Bb5
+30.Rdc2 Bd3 31.Rd2 Bb5 32.b3 Re6 33.Rdc2 Bd3 34.Rd2 Bb5 35.Rdc2 Bd3 36.Rb2 Rfe8
+37.Bd2 Rg6 38.Be1 Rge6 39.Bd2 Rg6 40.Be1 Rge6  1/2-1/2
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.24"]
+[Round "3"]
+[White "Topalov,V"]
+[Black "Sokolov,Iv"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2670"]
+[ECO "D18"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qe2 Bg4 10.Rd1 Qa5 11.e4 Qh5 12.Rd3 e5 13.h3 Bxf3 14.Rxf3 exd4 15.g4 Qc5
+16.Na2 O-O 17.Rf5 Qe7 18.e5 d3 19.Bxd3 Nd5 20.Bg5 Qe6 21.Nxb4 Nxb4 22.Bc4 Nd5
+23.Rd1 Rae8 24.Bxd5 cxd5 25.Qb5 Nxe5 26.Qxd5 Qxd5 27.Rxd5 f6 28.Be3 b6 29.g5 Kf7
+30.gxf6 gxf6 31.Rd6 Re6 32.Rd1 Nc4 33.Rd7+ Re7 34.Rxe7+ Kxe7 35.Rh5 Rg8+
+36.Kf1 Nxe3+ 37.fxe3 Rg7 38.Kf2 Ke6 39.Kf3 Rc7 40.h4 f5 41.Rh6+ Ke5 42.h5 Rf7
+43.b4 Kd5 44.Kf4 Kc4 45.b5 Kb4 46.Re6 Kxa4 47.Re5 a5 48.bxa6 b5 49.Rxf5 Ra7
+50.Rf6 b4 51.e4 b3 52.Rb6 Ka3 53.e5 b2 54.e6 Ka2 55.Ke5 b1=Q 56.Rxb1 Kxb1
+57.Kf6 Rxa6 58.Kf7 Ra2 59.e7 Rf2+ 60.Kg7 Re2 61.Kf7  1/2-1/2
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.26"]
+[Round "4"]
+[White "Sokolov,Iv"]
+[Black "Polgar,Ju"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2710"]
+[ECO "E49"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.a3 Bxc3+ 7.bxc3 dxc4 8.Bxc4 c5
+9.Ne2 Qc7 10.Ba2 b6 11.O-O Ba6 12.Re1 Nc6 13.Ng3 Rad8 14.Bb2 e5 15.Qc2 Rd7
+16.Rad1 Rfd8 17.h3 c4 18.a4 Re8 19.Ba3 e4 20.Bb1 Rd5 21.Ne2 Rg5 22.Nf4 Bc8
+23.Qe2 Qd7 24.Qxc4 Na5 25.Qb4 Nd5 26.Nxd5 Qxd5 27.h4 Rg4 28.Qb5 Qd8 29.g3 a6
+30.Qb4 Qxh4 31.Bxe4 Rxg3+ 32.fxg3 Qxe4 33.Rd2 Qf3 34.Kh2 Qh5+ 35.Kg1 Qf3
+36.Kh2 Bf5 37.e4 Bxe4 38.Rxe4 Qxe4 39.d5 Nc4  0-1
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.26"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2813"]
+[BlackElo "2728"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 Bf8 14.Bd3 c6 15.Rb1 Qc7
+16.Qc2 g6 17.axb5 axb5 18.dxe5 dxe5 19.Nb3 Reb8 20.c4 bxc4 21.Bxc4 Ba6 22.Nbd2 Nc5
+23.Bxa6 Rxa6 24.Nc4 Nfd7 25.Rd1 Ne6 26.Be3 Raa8 27.Qd2 Rd8 28.Qc3 c5 29.Nfxe5 Bg7
+30.f4 g5 31.g3 gxf4 32.gxf4 Nxe5 33.Nxe5 Bxe5 34.fxe5 Kh8 35.Bf2 Qe7 36.Qf3 Rg8+
+37.Kh1 Rg6 38.Rd5 Rag8 39.Rg1 Rxg1+ 40.Bxg1 Rg6 41.Kh2 Kg7 42.Be3 c4 43.Rd6 Qc7
+44.h4 Qa5 45.Rd5 Qe1 46.Kh3 Kf8 47.Rd7 Rg3+ 48.Qxg3 Qh1+ 49.Kg4 Qxe4+ 50.Kh5  1-0
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.27"]
+[Round "5"]
+[White "Polgar,Ju"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteElo "2710"]
+[BlackElo "2728"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.b3 d5
+16.Bg5 h6 17.Bh4 g5 18.Nxg5 hxg5 19.Bxg5 exd4 20.e5 Rxe5 21.Rxe5 Nxe5 22.cxd4 Nc6
+23.Nf5 Bc8 24.Rc1 Bxf5 25.Bxf5 Qd6 26.Bh4 Ne7 27.Bg3 Qb4 28.Bb1 c6 29.Be5 Bg7
+30.a3 Qxa3 31.Rc3 Nd7 32.Rg3 Nxe5 33.dxe5 Qb4 34.Rg4 Qc3 35.f4 d4 36.Kh2 Nd5
+37.f5 d3 38.Qxd3 Qxe5+ 39.Rg3 Nf6 40.Qf3 Rd8  0-1
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.27"]
+[Round "5"]
+[White "Sokolov,Iv"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2813"]
+[ECO "A43"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 g6 4.Nc3 Bg7 5.e4 d6 6.Bb5+ Nfd7 7.a4 Na6 8.O-O Nc7
+9.Re1 Nxb5 10.axb5 O-O 11.Bf4 Nb6 12.e5 Bf5 13.h3 h6 14.Qe2 g5 15.Bg3 Qd7
+16.h4 f6 17.e6 Qe8 18.Nh2 Bg6 19.f4 Bh5 20.Qd3 gxf4 21.Bxf4 Qg6 22.Nf1 f5
+23.Kh2 Qg4 24.Qg3 Qxg3+ 25.Nxg3 Be8 26.Nge2 Kh7 27.Bg3 Nc4 28.b3 Ne3 29.Rac1 Rg8
+30.Nd1 Nxd5 31.c4 Nb4 32.Ne3 a6 33.bxa6 Rxa6 34.Nxf5 Bf6 35.Nf4 Ra2 36.Nd5 Nxd5
+37.cxd5 Bh5 38.Rf1 Rd2 39.Ne3 Bd4 40.Nc4 Rd3 41.Bf4 Rxb3 42.Nd2 Rb2 43.Rb1 Bg6
+44.Rxb2 Bxb2 45.Rf3 Rf8 46.Nc4 Be4 47.Bxd6 Bxf3  0-1
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.28"]
+[Round "6"]
+[White "Mamedyarov,S"]
+[Black "Sokolov,Iv"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2670"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.e3 Bf5 4.Nc3 e6 5.Nf3 Nd7 6.Bd3 Bxd3 7.Qxd3 Ngf6 8.O-O Be7
+9.e4 O-O 10.cxd5 exd5 11.exd5 cxd5 12.Ne5 Bd6 13.Re1 Re8 14.Bf4 Bb4 15.Re2 Qa5
+16.Nd1 Nf8 17.Ne3 Ng6 18.Nxg6 hxg6 19.a3 Rac8 20.Be5 Nd7 21.Qb3 Qa6 22.Rc2 Rxc2
+23.Nxc2 Bf8 24.Bg3 Qb6 25.Qc3 Nf6 26.f3 Re6 27.Ne3 Rc6 28.Qd2 Qb3 29.Rc1 Rxc1+
+30.Qxc1 Qd3 31.Be5 Nd7 32.Qc3 Nxe5 33.dxe5 Qxc3 34.bxc3 Bc5 35.Kf2 d4 36.cxd4 Bxd4
+37.f4 b5 38.Ke2 Bc5 39.Nc2 Kf8 40.Kd3 a5 41.Ke4 Bg1 42.h3 Ke7 43.Kd5 Kd7
+44.g4 Bf2 45.Nd4 Bxd4 46.Kxd4 Kc6 47.h4 b4 48.axb4 axb4 49.Kc4 b3 50.Kxb3 Kd5
+51.g5 Ke6 52.Kc4 Ke7 53.Kb5 f6 54.gxf6+ gxf6 55.Kc5 Ke6 56.Kd4 Kd7 57.Kd5 Ke7
+58.e6 Kd8 59.Kd6 Ke8 60.e7  1-0
+
+[Event "10th Essent"]
+[Site "Hoogeveen NED"]
+[Date "2006.10.28"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Polgar,Ju"]
+[Result "0-1"]
+[WhiteElo "2813"]
+[BlackElo "2710"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Nf3 Bb7 8.e3 c5
+9.Be2 cxd4 10.exd4 d5 11.b3 Nbd7 12.O-O dxc4 13.bxc4 Qc7 14.a4 Rac8 15.Re1 Rfe8
+16.Bb2 Ng4 17.g3 Ndf6 18.Nd2 h5 19.h3 Nh6 20.Bf3 Red8 21.Re5 Nf5 22.Bxb7 Qxb7
+23.d5 h4 24.g4 Ne7 25.Ne4 Ne8 26.Re1 Nxd5 27.Qf3 Rxc4 28.Rg5 Qe7 29.Bxg7 Nxg7
+30.Rxd5 Rxd5 31.Nf6+ Kf8 32.Nxd5 Qd6 33.Nf6 Ne8 34.Qa8 Qe7 35.g5 Rd4 36.Rc1 Rd8
+37.Qf3 Rd5 38.Kf1 Nxf6 39.gxf6 Qd8 40.Rc4 Rf5 41.Qa3+ Kg8 42.Rg4+ Kh7 43.Rxh4+ Kg6
+44.Rg4+ Kxf6 45.Qc3+ Ke7 46.Rd4 Rd5 47.Rc4 Kd7 48.h4 Qb8 49.Qf6 Rf5 50.Rd4+ Kc6
+51.Rc4+ Kb7 52.Qe7+ Ka6 53.Rc7 Qa8 54.Kg1 Rf4 55.f3 Rxf3 56.Qg5 f5  0-1
+

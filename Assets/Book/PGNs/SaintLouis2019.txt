@@ -1,0 +1,1301 @@
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.20"]
+[Round "1.6"]
+[White "Liang,Awonder"]
+[Black "Lenderman,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2637"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Be7
+9.Qf3 O-O 10.Re1 a5 11.exd5 exd5 12.h3 Bd6 13.Ne2 Re8 14.Bg5 Be5 15.Rab1 h6
+16.Bf4 Qd6 17.Bxe5 Rxe5 18.c4 Be6 19.Red1 Re8 20.Qg3 Bd7 21.Nd4 Nh5 22.Qf3 Nf4
+23.Bf1 Qf6 24.g3 Rg5 25.Kh2 Re4 26.Nb3 Nxh3 27.Qxf6 gxf6 28.Nc5 Nxf2 29.Nxd7 Ng4+
+30.Kg1 Re7 31.Nb6 Ne3 32.Rd2 Rxg3+ 33.Kf2 Rg5 34.Bh3 Re4 35.cxd5 cxd5 36.Nd7 Kg7
+37.Nc5 Rh4 38.Kxe3 Rxh3+ 39.Kd4 Rh4+ 40.Ke3 d4+ 41.Rxd4 Rh3+ 42.Kf2 Rxc5
+43.Rg1+ Rg5 44.Rg2 Rh1 45.Ra4 Rc1 46.Kf3 Rc5 47.Rh2 h5 48.Rhh4 Kg6 49.b3 Rc3+
+50.Kf2 Rd5 51.Rhe4 Rf5+ 52.Kg2 Rc2+ 53.Kg3 Kg5 54.Rec4 Rcf2 55.Rc3 Rf1 56.Kh3 Rh1+
+57.Kg2 Rd1 58.Rg3+ Kh6 59.Rf3 Rd2+ 60.Kg3 Rg5+ 61.Kh3 Kg6 62.Rc3 Rd1 63.Kh2 Rdd5
+64.Rc8 Kg7 65.Kh3 Rd3+ 66.Kh2 Re5 67.Rc2 Rdd5 68.b4 axb4 69.Rxb4 Rd3 70.Rf2 f5
+71.Rg2+ Kf6 72.Rh4 Re4 73.Rxh5 Rg4 74.Rb2 Kg6 75.Rh8 Ra3 76.Rg8+ Kf6 77.Rh8 Rga4
+78.Kg2 Kg5 79.Rg8+ Kf4 80.Rf2+ Ke5 81.Re8+ Kf6 82.Rh8 Rg4+ 83.Kh2 f4 84.Rg2 Rg6
+85.Rb2 Kf5 86.Rhb8 Rh6+ 87.Kg1 Kg4 88.R8b3 Rxb3 89.Rxb3 Rc6 90.a3 Rc1+ 91.Kf2 Rc2+
+92.Kf1 Ra2 93.Rc3 f3 94.Rc8 Rxa3 95.Rg8+ Kf4 96.Rf8 Ra7 97.Kf2 Re7 98.Rb8 Re2+
+99.Kf1 Ra2 100.Rf8 Ra7 101.Kf2 f5 102.Rb8 Re7 103.Ra8 Re2+ 104.Kf1 Rb2 105.Rc8 Rd2
+106.Ra8 Rd4 107.Kf2 Re4 108.Rb8 Re2+ 109.Kf1 Rh2 110.Ra8 Rh4 111.Rb8 Kg3
+112.Rg8+ Rg4 113.Rb8 Rc4 114.Rg8+ Kf4 115.Kf2 Rc2+ 116.Kf1 f2 117.Rb8 Kg4
+118.Rb4+ f4 119.Rb3 f3 120.Rb4+ Kf5  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.20"]
+[Round "1.2"]
+[White "Nakamura,Hi"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2762"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Ne5 Nc6 8.Bxc6 bxc6
+9.Nxc6 Qe8 10.Nxe7+ Qxe7 11.Qa4 e5 12.dxe5 Qxe5 13.Re1 Be6 14.Nc3 Ne4 15.Qc2 Nxc3
+16.Qxc3 Qxc3 17.bxc3 Rab8 18.f3 Rfd8 19.Bf4 Rb2 20.Rad1 Rxd1 21.Rxd1 h5 22.Rd8+ Kh7
+23.Rd2 Rxd2 24.Bxd2 Kg6 25.Kf2 Bh3 26.Bf4 c6 27.a4 Kf5 28.a5 a6 29.Ke3 Bf1
+30.Kf2 Bh3 31.Ke3 Bf1 32.Kf2 Bh3  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.20"]
+[Round "1.1"]
+[White "Sevian,Samuel"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2828"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 a5 13.g3 O-O 14.Bg2 g6 15.O-O Bg7
+16.Qd3 Be6 17.a3 bxa3 18.Qxa3 Qb8 19.Rfd1 Ra7 20.b3 Rb7 21.Rab1 Nd4 22.Nxd4 exd4
+23.Bf1 h5 24.Bd3 h4 25.Qxa5 Rxb3 26.Qd2 Bxd5 27.exd5 Bf6 28.Qc2 Rxb1 29.Rxb1 Qa7
+30.Qd2 Kg7 31.Qf4 Qa3 32.Qe4 Rh8 33.Rb7 Qc1+ 34.Bf1 hxg3 35.hxg3 Rh5 36.Rb1 Qc3
+37.Rd1 Be5 38.Bd3 Qb2 39.Qe2 Qb8 40.Rb1 Qc8 41.Qf3 Bf6 42.Re1 Re5 43.Rxe5 Bxe5  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.20"]
+[Round "1.5"]
+[White "Gareev,T"]
+[Black "Xiong,Jeffery"]
+[Result "0-1"]
+[WhiteElo "2557"]
+[BlackElo "2663"]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 d4 3.b4 Bg4 4.Ne5 Bf5 5.e3 Nf6 6.g4 Be4 7.f3 Bg6 8.Bb2 dxe3
+9.dxe3 Nbd7 10.Nxg6 hxg6 11.Nc3 e6 12.c5 c6 13.g5 Nd5 14.Nxd5 exd5 15.f4 Qe7
+16.Qd2 Rh4 17.Qf2 Qe4 18.a3 Qxh1 19.Qxh4 a5 20.Qf2 axb4 21.axb4 Rxa1+ 22.Bxa1 Qe4
+23.Bc3 b6 24.Kd2 bxc5 25.b5 cxb5 26.Bxb5 c4 27.Qe2 Qb1 28.Bxd7+ Kxd7 29.Qg4+ Qf5
+30.h3 Kc6 31.Ke2 Kb5 32.Bd4 Qxg4+ 33.hxg4 Kb4 34.e4 dxe4 35.Kd2 Bc5 36.Bxg7 Kb3
+37.f5 e3+ 38.Ke2 c3  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.20"]
+[Round "1.4"]
+[White "Akobian,V"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2739"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Rb1 Be7 8.Nf3 O-O
+9.Bc4 a6 10.a4 Qc7 11.Bd3 Nc6 12.O-O cxd4 13.cxd4 Nb4 14.Ba3 Nxd3 15.Qxd3 Bxa3
+16.Qxa3 Bd7 17.Ne5 Rfc8 18.Rfc1 Qd8 19.Nxd7 Qxd7 20.Qb2 Qxa4 21.Rxc8+ Rxc8
+22.Qxb7 Qc4 23.h3 h6 24.d5 exd5 25.exd5 Rd8 26.Rd1 Qb5 27.Qxb5 axb5 28.d6 Kf8
+29.Rd5 Rb8 30.d7 Ke7 31.d8=Q+ Rxd8 32.Rxb5 Kf8 33.g3  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.20"]
+[Round "1.3"]
+[White "Shankland,S"]
+[Black "Robson,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2667"]
+[ECO "D11"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bg4 5.h3 Bh5 6.g4 Bg6 7.Ne5 e6 8.Nd2 Nbd7
+9.h4 dxc4 10.Bxc4 Nxe5 11.dxe5 Ne4 12.h5 Nxd2 13.Bxd2 Bd3 14.Qb3 Bxc4 15.Qxc4 Qd5
+16.Qxd5 cxd5 17.Ke2 Be7 18.e4 O-O-O 19.Be3 Kb8 20.Kd3 b6 21.Rac1 Rd7 22.Rc2 Rc8
+23.Rxc8+ Kxc8 24.f4 dxe4+ 25.Kxe4 Rc7 26.Rh2 Kd7 27.b3 Ke8 28.f5 Rc3 29.Kd4 Rc6
+30.Kd3 Rc7 31.Rf2 Bb4 32.f6 gxf6 33.exf6 Rc3+ 34.Ke4 Rxe3+ 35.Kxe3 Bc5+ 36.Ke2 Bxf2
+37.Kxf2 Kd7 38.Kf3 e5 39.Ke4 Kd6 40.Kf5 Kd5 41.g5 e4 42.g6 hxg6+ 43.hxg6 fxg6+
+44.Kxg6 e3 45.f7 e2 46.f8=Q e1=Q 47.Qa8+ Kd6 48.Qb8+ Kc6 49.Qc8+  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.21"]
+[Round "2.3"]
+[White "Lenderman,A"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2637"]
+[BlackElo "2746"]
+[ECO "D27"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.b3 cxd4 8.Nxd4 Be7
+9.Bb2 O-O 10.Nd2 b5 11.Be2 Bb7 12.Bf3 Ra7 13.Rc1 Qd7 14.Bxb7 Rxb7 15.N2f3 Rc7
+16.Rxc7 Qxc7 17.Qb1 Qb7 18.Rc1 Rc8 19.Ne5 Nfd7 20.Ndf3 Nxe5 21.Nxe5 Nd7 22.Nxd7 Rxc1+
+23.Qxc1 Qxd7 24.Qc2 f6 25.g3 e5 26.e4 Kf7 27.Bc1 Bd6 28.Be3 Qc7 29.Qxc7+ Bxc7
+30.Kf1 Ke6  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.21"]
+[Round "2.4"]
+[White "So,W"]
+[Black "Gareev,T"]
+[Result "1-0"]
+[WhiteElo "2762"]
+[BlackElo "2557"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 a5 5.Bg2 O-O 6.Nf3 b6 7.O-O Ba6 8.Ne5 Ra7
+9.Bxb4 axb4 10.Qa4 c5 11.a3 bxa3 12.Nxa3 Rc7 13.dxc5 bxc5 14.Rfd1 d5 15.e4 d4
+16.b4 Nfd7 17.Nxd7 Qxd7 18.Qxd7 Nxd7 19.bxc5 Nxc5 20.e5 Nb3 21.Rab1 Na5 22.Bf1 Bxc4
+23.Rdc1 d3 24.Bxd3 Bxd3 25.Rxc7 Bxb1 26.Nxb1 Nb3 27.Nc3 Nd4 28.Kg2 f6 29.exf6 Rxf6
+30.Rd7 Nf5 31.Ne4 Rf8 32.Nc5 Re8 33.g4 Nh4+ 34.Kg3 Ng6 35.f4 Nf8 36.Rc7 h6
+37.h4 Ra8 38.h5 Ra3+ 39.Kf2 Rh3 40.Re7 Rc3 41.Ne4 Rd3 42.g5 Rd7 43.Re8 Kf7
+44.Ra8 Ke7 45.Ke3 Rd1 46.g6 Rd5 47.Nf6 Kxf6 48.Rxf8+ Ke7 49.Rf7+ Kd6 50.Rxg7 Rxh5
+51.Rd7+ Kxd7 52.g7 Rh3+ 53.Kf2 Rh4 54.Kg3 Rh1 55.Kg2 Rh4 56.g8=Q Rxf4 57.Qg7+ Kd6
+58.Qxh6 Rf5 59.Qg7 Kd5 60.Kg3 Kd6 61.Kg4 Kd5 62.Qc7 Kd4 63.Qd6+ Rd5 64.Qxe6 Re5
+65.Qc6 Rc5 66.Qb6 Kd5 67.Kf5 Kd4+ 68.Ke6 Kc4 69.Kd6 Rd5+ 70.Kc6 Re5 71.Qa6+ Kd4
+72.Qa2 Rf5 73.Qb2+ Ke4 74.Kd6 Rg5 75.Qc2+ Kf4 76.Ke6 Re5+ 77.Kf6 Re3 78.Qf5+ Kg3
+79.Kg5 Kg2 80.Kh4 Kg1 81.Qf4 Re2 82.Kh3 Ra2 83.Qg4+ Kf1 84.Qc4+ Re2 85.Kg3 Ke1
+86.Qc1+  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.21"]
+[Round "2.5"]
+[White "Dominguez Perez,L"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2731"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2 Nf6 8.O-O-O Be7
+9.f3 b5 10.g4 Nxd4 11.Bxd4 Bb7 12.Kb1 O-O 13.Rg1 Rac8 14.h4 Rfd8 15.Bh3 Ne8
+16.g5 Bc5 17.h5 Bxd4 18.Qxd4 Qc5 19.Qd2 d5 20.e5 d4 21.g6 dxc3 22.gxf7+ Kxf7
+23.Qf4+ Ke7 24.Qg5+ Kf7 25.Qf4+ Ke7 26.Qg5+ Kf7 27.Qf4+ Ke7 28.Qg5+ Kf7 29.Qf4+ Ke7
+30.Qg5+  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.21"]
+[Round "2.6"]
+[White "Sevian,Samuel"]
+[Black "Liang,Awonder"]
+[Result "1-0"]
+[WhiteElo "2642"]
+[BlackElo "2590"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 e6 8.Ne5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Nd7 11.Bf4 Ngf6 12.O-O-O Be7 13.Qf3 Qa5 14.Kb1 Qd5 15.Qe2 b5
+16.f3 b4 17.Rhe1 O-O 18.Ne4 Rac8 19.g4 Qb5 20.Nxd7 Nxd7 21.Qg2 Kh8 22.Qd2 Rfd8
+23.Bd6 Bf8 24.Qf4 Kg8 25.g5 h5 26.Bc7 Re8 27.Be5 Red8 28.Bc7 Re8 29.Ng3 Nb6
+30.Bxb6 axb6 31.Nxh5 Red8 32.Re5 Rd5 33.Rg1 Rxe5 34.dxe5 Qe2 35.Qg4 g6 36.Nf6+ Kh8
+37.Qe4 Qxe4 38.Nxe4 Rd8 39.Kc1 Ra8 40.Kb1 Rd8 41.Re1 Kg7 42.b3 Be7 43.Kc1 Rh8
+44.Rh1 b5 45.Kb2 Rd8 46.Kc1 Rd5 47.f4 Rd4 48.Re1 c5 49.Kb2 c4 50.bxc4 bxc4
+51.Re3 Bf8 52.c3 Rd1 53.Nd6 Rd2+ 54.Kb1 b3 55.axb3 cxb3 56.Re4 Rc2 57.Rc4 Rd2
+58.Ne8+ Kg8 59.Rc8 f5 60.Nd6 Kg7 61.Rc7+ Kg8 62.Rd7 Rf2 63.c4 Rxf4 64.c5 Rf1+
+65.Kb2 f4 66.c6 f3 67.c7 f2 68.c8=Q Rb1+ 69.Kxb1 f1=Q+ 70.Kb2 Qe2+ 71.Kxb3 Qd1+
+72.Qc2 Qd5+ 73.Kb4 Qd4+ 74.Kb5 Qxe5+ 75.Ka6 Qa1+ 76.Kb7 Bg7 77.Ne4  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.21"]
+[Round "2.1"]
+[White "Xiong,Jeffery"]
+[Black "Akobian,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2663"]
+[BlackElo "2625"]
+[ECO "C14"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 a6 8.Qg4 g6
+9.Nf3 c5 10.dxc5 Nc6 11.Bd3 Nxc5 12.O-O Bd7 13.Qg3 Rc8 14.Kh1 Nxd3 15.cxd3 Qb4
+16.Rab1 Nd4 17.a3 Qc5 18.Nd2 Nf5 19.Qh3 Qe3 20.Qxe3 Nxe3 21.Rfc1 Ke7 22.Kg1 h5
+23.Nf3 Nf5 24.Kf2 d4 25.Ne4 Ba4 26.b3 Bc6 27.Nfd2 Bd5 28.Nc4 Rc6 29.Na5 Rcc8
+30.Nc4 Rc6 31.Na5 Rcc8 32.Ke2 h4 33.Kd2 b6 34.Nc4 Rc6 35.a4 Rb8 36.Nf6 Bxg2
+37.a5 bxa5 38.Nxa5 Rxc1 39.Rxc1 Kd8 40.Ne4 Rb5 41.Nc6+ Ke8 42.Nf6+ Kf8 43.Na7 Rxb3
+44.Rc8+ Kg7 45.Rg8+ Kh6 46.Nc8 Bc6 47.Nd6 Nxd6 48.Rh8+ Kg7 49.Rg8+  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.21"]
+[Round "2.2"]
+[White "Caruana,F"]
+[Black "Robson,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2828"]
+[BlackElo "2667"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.h4 Qe6
+9.Nd2 d6 10.exd6 Bxd6 11.Nc4 Bc5 12.a3 O-O 13.Qxe6 Bxe6 14.Bd3 Rfe8 15.O-O a5
+16.Ne5 Bc8 17.Nc4 Be6 18.Re1 Nb6 19.Ne5 Bd5 20.Be3 Bd6 21.Bd4 c5 22.Bc3 c4
+23.Bf1 Na4 24.Bd4 c5 25.Bxc4 Bxe5 26.Bxd5 Bxd4 27.Bc6 Rxe1+ 28.Rxe1 Rd8 29.Bxa4 Bxb2
+30.Re7 Kf8 31.Ra7 Rd1+ 32.Kh2 Rd4 33.Rxa5 Rxh4+ 34.Kg1 Bxa3 35.Ra8+ Ke7 36.Ra7+ Kf8
+37.Ra8+ Ke7 38.Ra7+ Kf8  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.22"]
+[Round "3.6"]
+[White "Gareev,T"]
+[Black "Lenderman,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2557"]
+[BlackElo "2637"]
+[ECO "E46"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 O-O 5.Bd2 c5 6.Bd3 cxd4 7.exd4 d5 8.cxd5 exd5
+9.Nge2 Nc6 10.O-O Bd6 11.h3 h6 12.Rc1 Re8 13.Be3 a6 14.a3 Bc7 15.Re1 Nh5
+16.Qd2 Qd6 17.Nf4 Nf6 18.g3 Bd7 19.Bf1 Bf5 20.Nd3 Bb6 21.Nc5 Bxc5 22.dxc5 Qd7
+23.Bd4 Ne4 24.Nxe4 dxe4 25.Bc3 Bxh3 26.Qxd7 Bxd7 27.Bg2 Bf5 28.Rcd1 Re7 29.Rd5 Bg6
+30.Bh3 f6 31.b4 Na7 32.a4 Be8 33.Ra1 e3 34.Rd3 exf2+ 35.Kxf2 Bc6 36.Bg4 Rf8
+37.Bf5 Kf7 38.Rd6 Rfe8 39.Bg4 Kg6 40.Bd2 Re5 41.Ra3 Nc8 42.Rd4 Ne7 43.Bd1 Nf5
+44.Rg4+ Kh7 45.Rd3 h5 46.Rc4 Nh6 47.Rcd4 Ng4+ 48.Bxg4 hxg4 49.Re3 Rf5+ 50.Ke1 Rxe3+
+51.Bxe3 Rf3 52.Bf2 f5 53.b5 axb5 54.axb5 Bxb5 55.Rf4 Rxf4 56.gxf4 Kg6 57.Bg3 Kf6
+58.Bh4+ Ke6 59.Kf2 Kd5 60.Be7 g5 61.Kg3 gxf4+ 62.Kxf4 Bd7 63.Bf8 Bc8 64.Be7 Ke6
+65.Bf8 Bd7 66.Bh6 Bc6 67.Bf8 Be4 68.Bh6 Kd5 69.Bf8 Kd4 70.Bd6 Kd3 71.Kg3 Bc6
+72.Bf8 Ke4 73.Bd6 Bd7 74.Bf4 Kd4 75.Bd6 Kd5 76.Bf8  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.22"]
+[Round "3.5"]
+[White "Robson,R"]
+[Black "Dominguez Perez,L"]
+[Result "0-1"]
+[WhiteElo "2667"]
+[BlackElo "2739"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Nbd2 Be6 7.O-O Bd6 8.Nb3 Qe7
+9.Na5 O-O-O 10.Bd2 Bg4 11.Rb1 Nd7 12.Nc4 Qf6 13.b4 Nf8 14.h3 Bxf3 15.Qxf3 Qxf3
+16.gxf3 Ne6 17.Be3 Rhf8 18.c3 f5 19.Rfd1 Rf6 20.d4 exd4 21.cxd4 fxe4 22.Nxd6+ cxd6
+23.fxe4 d5 24.e5 Rf5 25.b5 c5 26.dxc5 d4 27.Bd2 Nxc5 28.b6 axb6 29.Rxb6 Rxe5
+30.Rc1 Rdd5 31.Rb5 Kd7 32.Ba5 d3 33.Kf1 d2 34.Bxd2 Rxd2 35.Rcxc5 Rxc5 36.Rxc5 Rxa2
+37.Rh5 h6 38.Rf5 Kc6 39.Rf7 b5 40.Rxg7 b4 41.Rg3 Kb5 42.Kg2 Ra3 43.Rg8 Ra6
+44.Kf3 b3 45.Rg1 Kb4 46.Ke4 b2 47.Rb1 Kc3 48.f4 Ra1 49.Rxb2 Kxb2 50.f5 Rf1
+51.Ke5 Rh1  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.22"]
+[Round "3.4"]
+[White "Liang,Awonder"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2828"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 e6 5.d4 cxd4 6.cxd4 d6 7.Bc4 Nb6 8.Bd3 Nc6
+9.O-O Nb4 10.Bg5 Be7 11.Bxe7 Qxe7 12.Nc3 dxe5 13.dxe5 Nxd3 14.Qxd3 Bd7 15.Ne4 O-O
+16.Nd4 Rad8 17.Rad1 Bc6 18.Nxc6 bxc6 19.Nd6 Nd5 20.Qc2 f6 21.Qxc6 fxe5 22.Ne4 Rc8
+23.Qa4 Rb8 24.Nc3 Rxb2 25.Nxd5 exd5 26.Rxd5 Qf7 27.Rd7 Rxa2 28.Qb5 a6 29.Qb1 Qxd7
+30.Qxa2+ Qf7 31.Qxa6 h6 32.Qe2 Qf5 33.Qe3 Qf4 34.Qxf4 exf4  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.22"]
+[Round "3.3"]
+[White "Shankland,S"]
+[Black "Xiong,Jeffery"]
+[Result "0-1"]
+[WhiteElo "2731"]
+[BlackElo "2663"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qf6 5.Nb3 Qg6 6.f3 Nf6 7.Bf4 Bb4+ 8.Kf2 O-O
+9.a3 Be7 10.Bd3 Nh5 11.Bxc7 d6 12.e5 Bh4+ 13.Kf1 Qh6 14.exd6 Re8 15.Nc3 Ne5
+16.Nc5 Nxf3 17.N3e4 Bg4 18.d7 Re5 19.Bxe5 Nxe5 20.Qd2 Qc6 21.h3 Bxd7 22.Nxd7 Nxd7
+23.Qc3 Qh6 24.g4 f5 25.gxf5 Re8 26.Qc4+ Kh8 27.Rg1 Qe3 28.Rg2 Nf4 29.Rh2 Nxh3
+30.Kg2 Nf4+ 31.Kh1 Qf3+ 32.Kg1 Qg4+ 33.Kh1 Qf3+ 34.Kg1 Bd8 35.Rf1 Bb6+ 36.Nf2 Qg3+
+37.Kh1 Qf3+ 38.Kg1 Nh3+ 39.Rxh3 Qxh3 40.Qf4 Nf6 41.Bb5 Re4  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.22"]
+[Round "3.2"]
+[White "Nakamura,Hi"]
+[Black "Sevian,Samuel"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2642"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bb4 5.d3 d6 6.a3 Bc5 7.b4 Bb6 8.Na4 Bg4
+9.Be2 Nd7 10.Nxb6 axb6 11.Bb2 O-O 12.h3 Bxf3 13.Bxf3 Nd4 14.O-O Nxf3+ 15.Qxf3 Qg5
+16.Rae1 Nb8 17.d4 Nc6 18.dxe5 dxe5 19.Rd1 Rfd8 20.Rd5 Rxd5 21.cxd5 Nd4 22.Bxd4 exd4
+23.Qd3 c5 24.dxc6 bxc6 25.Qxd4 c5 26.Qd6 cxb4 27.axb4 Qb5 28.Rc1 h6 29.Qc6 Qa6
+30.b5 Qa5 31.Rd1 Rb8 32.Kh2 Qa2 33.Qc7 Qa8 34.Rd7 Rf8 35.Qxb6 Qxe4 36.Qd6 Qe6
+37.Qxe6 fxe6 38.b6 Kh7 39.b7 Kg6 40.Rc7 Rb8 41.Kg3 Kf5 42.Rxg7 Rd8 43.f3 e5
+44.Rc7 Rb8 45.Kf2 e4 46.fxe4+ Kxe4 47.Kg3 Kf5 48.Kh4 Kg6 49.Rc6+  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.22"]
+[Round "3.1"]
+[White "Akobian,V"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2762"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Be3 c5 8.Rc1 Qa5
+9.Qd2 O-O 10.Nf3 Rd8 11.d5 e6 12.Bg5 f6 13.Be3 Nc6 14.h4 exd5 15.exd5 Bg4
+16.Be2 c4 17.Bxc4 Bxf3 18.gxf3 Ne5 19.Be2 Qxd5 20.Qxd5+ Rxd5 21.Rd1 Rxd1+
+22.Bxd1 Rc8 23.h5 f5 24.Bb3+ Kf8 25.Ke2 b6 26.hxg6 hxg6 27.Rh7 Re8 28.Bc1 Nd7+
+29.Kd2 Nc5 30.Ba3 Re7 31.Bxc5 bxc5 32.Kd3 Re1 33.Rh4 Rf1 34.Ra4 Be5 35.Rxa7 Rc1
+36.Kc4 Rxc3+ 37.Kd5 c4 38.Bxc4 Bh2 39.a4 Bg1 40.a5 Bxf2  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.23"]
+[Round "4.1"]
+[White "Xiong,Jeffery"]
+[Black "Robson,R"]
+[Result "0-1"]
+[WhiteElo "2663"]
+[BlackElo "2667"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.dxe5 Nxb5 7.a4 Nbd4 8.Nxd4 Nxd4
+9.Qxd4 d5 10.Qd3 g6 11.Nc3 c6 12.Be3 Bf5 13.Qd2 Qa5 14.Rfe1 O-O-O 15.e6 Bxe6
+16.Bg5 Rd7 17.Bf6 Rg8 18.Qe3 Bb4 19.Red1 Bf5 20.Nb5 Bxc2 21.Rdc1 Bf5 22.Nxa7+ Kb8
+23.Nb5 Ka8 24.Bc3 Bxc3 25.bxc3 Be6 26.Re1 Re8 27.h3 h5 28.Kh2 Rde7 29.Qc5 Kb8
+30.Qd6+ Kc8 31.Qc5 Kd8 32.g3 cxb5 33.axb5 Qc7 34.Qd4 Kd7 35.Ra4 Rc8 36.c4 Qc5
+37.cxd5 Bf5 38.Rxe7+ Kxe7 39.Qe5+ Kd7 40.Rf4 Qd6 41.Qxd6+ Kxd6 42.g4 Ke5
+43.Rf3 hxg4 44.hxg4 Bxg4 45.Rxf7 Rb8  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.23"]
+[Round "4.6"]
+[White "Sevian,Samuel"]
+[Black "Gareev,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2557"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Be6 10.g4 Ne7 11.Ng5 Bd5 12.Nc3 Ke8 13.f4 f6 14.Nxd5 Nxd5 15.Ne6 Kf7
+16.f5 fxe5 17.c4 Nf6 18.Be3 Bd6 19.Rad1 b6 20.g5 Ne4 21.Kg2 Rae8 22.Kf3 Nc5
+23.Nxc5 bxc5 24.Ke4 Rb8 25.Rf2 a5 26.h4 h6 27.g6+ Ke7 28.h5 Rb4 29.Rc2 Rhb8
+30.Rdd2 Ra4 31.a3 Rb3 32.Rd3 Rxb2 33.f6+ Kxf6 34.Rxd6+ cxd6 35.Rxb2 d5+ 36.Kf3 Rxa3
+37.Ke2 d4 38.Bd2 e4 39.Rb7 e3 40.Be1 Ra2+ 41.Kf3 Rh2 42.Rf7+ Kg5 43.Rxg7 Kxh5
+44.Rg8 Rh1 45.Bxa5 Rg1 46.g7 Kg6 47.Rc8 Kxg7 48.Rc7+ Kg8 49.Rxc6 h5 50.Rxc5 h4
+51.Rh5 Rc1 52.c5 h3 53.Bc7 Rf1+ 54.Ke2 Rf2+ 55.Kd3 Rd2+ 56.Ke4 e2 57.Bg3 h2
+58.c6 Rc2 59.Kxd4 Rxc6 60.Rxh2 Re6 61.Rh1 Ra6 62.Re1 Ra4+ 63.Kc5 Ra2 64.Kc4 Ra4+
+65.Kb3 Rg4 66.Bf2 Rg2 67.Rxe2 Kf7 68.Kc4 Rh2 69.Kd5 Rg2 70.Ke4 Rg4+ 71.Kf5 Rb4
+72.Bc5 Rb7 73.Rh2 Rd7 74.Ke5 Rd1 75.Bd6 Rf1 76.Ra2 Rf6 77.Ra7+ Kg6 78.Be7 Rf2
+79.Ra6+ Kh5 80.Bc5 Rg2 81.Kf4 Rg6 82.Ra1 Rf6+ 83.Ke4 Rg6 84.Be3 Kg4 85.Bf4 Re6+
+86.Be5 Rg6 87.Rf1 Rg5 88.Bf6 Rg6 89.Rf4+ Kg3 90.Ke3 Kh3 91.Rf5 Rg3+ 92.Kf4 Rg4+
+93.Ke5 Rg2 94.Rh5+ Kg4 95.Rh4+ Kg3 96.Re4 Kf3 97.Rf4+ Ke3 98.Ra4 Kd3 99.Kd5 Ke2
+100.Ra3 Rg4 101.Be5 Kf2 102.Bd4+ Kg2 103.Ke5 Rg3 104.Ra2+ Kf3 105.Kf5 Rh3
+106.Rf2+ Kg3 107.Rf4 Rh2 108.Ke4 Rh3 109.Rf3+ Kg2 110.Rf8 Rh4+ 111.Ke3 Rh3+
+112.Ke2 Rh4 113.Rg8+ Kh3 114.Be5 Rg4 115.Rf8 Rg2+ 116.Kf3 Rg3+ 117.Bxg3  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.23"]
+[Round "4.5"]
+[White "Lenderman,A"]
+[Black "Akobian,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2637"]
+[BlackElo "2625"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.Be2 dxc4 8.O-O c5
+9.dxc5 Nxc5 10.Qc2 a6 11.Rfd1 Qe8 12.Bxc4 b5 13.Be2 Bb7 14.a3 Rc8 15.Rac1 Na4
+16.Qb3 Nxc3 17.bxc3 Nd5 18.Be5 Nb6 19.c4 Bxf3 20.gxf3 Nxc4 21.Bxc4 bxc4 22.Rxc4 Qb5
+23.Qxb5 axb5 24.Rxc8 Rxc8 25.Rb1 f6 26.Bg3 Rc5 27.e4 g5 28.Bb8 f5 29.Ba7 Rc7
+30.Be3 f4 31.Bd2 Rc2 32.Bb4 Bc5 33.Bxc5 Rxc5 34.Kg2 Kf7 35.Rb4 h5 36.a4 bxa4
+37.Rxa4 Kf6 38.h3  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.23"]
+[Round "4.4"]
+[White "Liang,Awonder"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2746"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6
+9.Nc3 O-O 10.Be3 Bg4 11.h3 Bh5 12.Qc2 Bg6 13.Qb3 Ne7 14.O-O c6 15.Bd3 Nd2
+16.Nxd2 Bxd3 17.Rfe1 Bg6 18.Nf3 Nf5 19.Na4 f6 20.Nxb6 Qxb6 21.Qc3 Rae8 22.Bf4 fxe5
+23.Bxe5 Qd8 24.Re2 Rf7 25.Rae1 Rfe7 26.Qd2 Nh6 27.Bf4 Nf7 28.Rxe7 Rxe7 29.Ne5 Nxe5
+30.Bxe5 Qd7 31.Re3 h6  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.23"]
+[Round "4.3"]
+[White "So,W"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2762"]
+[BlackElo "2731"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 cxd4 7.Nxd4 Ne7 8.Nd2 Nbc6
+9.N2f3 Bg4 10.O-O Bxf3 11.Nxf3 Qc7 12.c4 dxc4 13.Bxc4 Nf5 14.Bf4 Be7 15.Bd3 O-O
+16.Be4 Rfd8 17.Qc2 g6 18.Rfd1 Qb6 19.Bxc6 bxc6 20.Rac1 Rxd1+ 21.Rxd1 Rd8
+22.b3 Bc5 23.Rxd8+ Qxd8 24.h3 Qd5 25.Qe2 Nd4 26.Nxd4 Bxd4 27.Kh2 h5 28.Bg3 Kg7
+29.Bf4 Qc5 30.Bg3 Qd5 31.Bf4 Qc5  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.23"]
+[Round "4.2"]
+[White "Caruana,F"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2828"]
+[BlackElo "2739"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qa4 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Be4 11.Qc1 c6 12.a4 Nbd7 13.Nc3 Bg6 14.Nh4 Bh5 15.h3 Nd5
+16.axb5 axb5 17.Rxa8 Qxa8 18.e4 Nb4 19.Bg5 Qd8 20.Bxe7 Qxe7 21.Qe3 Rd8 22.Rc1 Nf8
+23.Bf3 Bxf3 24.Nxf3 Nd7 25.Kg2 h6 26.h4 Nb6 27.b3 Nd7 28.Rd1 Ra8 29.Qe2 Nf6
+30.Ne5 Nd7 31.Ng4 Nf6 32.Ne3 Ra3 33.e5 Nd7 34.Ne4 Nb6 35.Qh5 Rxb3 36.Ng4 N4d5
+37.Ra1 Ra3 38.Nxh6+ gxh6 39.Nf6+ Nxf6 40.exf6 Rxg3+ 41.fxg3 Qxf6 42.Qg4+ Kh8
+43.Ra6 Qd8 44.Ra7 Qf8 45.Qf3 Kg8 46.Qxc6 Qd8 47.Kh2 Qf6 48.Qe4 Qf2+ 49.Kh3 Qf1+
+50.Qg2 Qf5+ 51.g4 Qd3+ 52.Qg3 Qxd4 53.g5 h5 54.g6 Nd7 55.Ra8+ Kg7 56.gxf7+ Kxf7
+57.Qg8+ Ke7 58.Re8+ Kd6 59.Rxe6+ Kc5 60.Qg5+ Kb4 61.Qxh5 Nc5 62.Re7 Nd3 63.Qf3 Kc3
+64.h5 b4 65.h6 b3 66.h7 b2 67.Rb7 Kd2 68.Qg2+ Kc1 69.Rc7+ Kb1 70.Qh1+ Nc1
+71.Qa8 Qe3+ 72.Kg4 Qe6+ 73.Kf3 Qe2+ 74.Kg3 Qe5+ 75.Kh3 Qh5+ 76.Kg2 Qe2+ 77.Kh1 Qh5+
+78.Kg1 Qd1+ 79.Kh2 Qh5+ 80.Kg3 Qe5+ 81.Kg4 Qe6+ 82.Kh5 Qf5+ 83.Kh4 Qf4+ 84.Kh5 Qf5+
+85.Kh4 Qf4+  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.24"]
+[Round "5.6"]
+[White "Gareev,T"]
+[Black "Liang,Awonder"]
+[Result "1-0"]
+[WhiteElo "2557"]
+[BlackElo "2590"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.d3 d5 5.cxd5 Nxd5 6.Bd2 Be7 7.e3 Ndb4 8.Qb1 Bf5
+9.Ne4 O-O 10.a3 Nd5 11.Be2 a5 12.Qc2 Kh8 13.Rc1 Nb6 14.Bc3 Bd6 15.O-O a4
+16.Qb1 Bg6 17.Qa2 f5 18.Neg5 Qe7 19.e4 Rae8 20.exf5 Rxf5 21.Ne4 Bf7 22.Qb1 Nd5
+23.Bd2 Be6 24.Rfe1 Nf4 25.Bxf4 Rxf4 26.Bd1 Bg4 27.Nfd2 Bxd1 28.Rcxd1 Bc5
+29.Nxc5 Qxc5 30.Ne4 Qb6 31.Qc2 Ref8 32.Qxa4 Qxb2 33.Rb1 Qxf2+ 34.Nxf2 Rxa4
+35.Rxb7 Rxa3 36.Rxc7 Nd4 37.Ng4 Ra2 38.Nxe5 Kg8 39.h4 Ne2+ 40.Kh1 Nf4 41.Rf1 Ng6
+42.Rxf8+ Kxf8 43.Nxg6+ hxg6 44.Rc4 Rd2 45.Rf4+ Kg8 46.Rd4 Kh7 47.Kh2 Kh6
+48.Rd5 g5 49.hxg5+ Kg6 50.Kg3 Kh5 51.Kh3 Kg6 52.Rd7 Re2 53.g3 Rd2 54.Kg4 Rd1
+55.Rd6+ Kf7 56.Rd4 Kg6 57.Rd7 Ra1 58.Rd6+ Kf7 59.Rd4 Kg6 60.Re4 Ra5 61.Kf4 Rf5+
+62.Ke3 Rxg5 63.g4 Ra5 64.d4 Kf6 65.Kd3 g5 66.Kc4 Ra1 67.d5 Rc1+ 68.Kb5 Rb1+
+69.Kc6 Rc1+ 70.Kd7 Kf7 71.Re5 Kg6 72.Ke6  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.24"]
+[Round "5.4"]
+[White "Akobian,V"]
+[Black "Sevian,Samuel"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2642"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 d6 7.g3 e5 8.Nf3 Nc6
+9.Bg2 Ne4 10.Qe3 f5 11.b3 Qf6 12.Bb2 exd4 13.Nxd4 Bd7 14.Rb1 Qg6 15.O-O Rae8
+16.Qf4 a6 17.Rfe1 h6 18.Rbd1 Ne5 19.Nf3 Ng4 20.Rf1 Qf7 21.Nd4 Qh5 22.h3 Ngf6
+23.Qf3 Qg6 24.e3 Ng5 25.Qxb7 f4 26.exf4 Nxh3+ 27.Bxh3 Bxh3 28.Rfe1 Ne4 29.Qd5+ Kh7
+30.Ne2 Bf5 31.Kg2 Nc5 32.Nc3 Rxe1 33.Rxe1 Nd3 34.Re4 Bxe4+  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.24"]
+[Round "5.2"]
+[White "Dominguez Perez,L"]
+[Black "Xiong,Jeffery"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2663"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 cxd4 5.Qxd4 a6 6.Bxd7+ Bxd7 7.Nc3 e5 8.Qd3 Rc8
+9.O-O h6 10.Nd2 Qc7 11.Rd1 Bg4 12.f3 Be6 13.Nf1 Nf6 14.Ne3 Be7 15.Bd2 O-O
+16.Kh1 Qc5 17.Be1 b5 18.b4 Qb6 19.a4 Bc4 20.Qd2 Rfd8 21.axb5 axb5 22.Nf5 Kf8
+23.Bh4 Be6 24.Nxe7 Kxe7 25.Ra5 Qc6 26.Nxb5 Qxc2 27.Ra7+ Kf8 28.Qxc2 Rxc2
+29.Bxf6 gxf6 30.Nc7 Bb3 31.Rb1 Rc8 32.h3 Ba2 33.Ra1 R8xc7 34.Rxc7 Rxc7 35.Rxa2 Rc1+
+36.Kh2 Rb1 37.Ra8+ Ke7 38.Rb8 Rb2 39.h4 Ke6 40.Re8+ Kd7 41.Rh8 Rxb4 42.Rxh6 f5
+43.exf5 Rf4 44.Kg3 Rxf5 45.Kg4 Rf4+ 46.Kg5 Ke7 47.h5 Ra4 48.Rf6 e4 49.fxe4 Rxe4
+50.Rf4 d5 51.Rf5 d4 52.h6 Kf8 53.Rd5 Kg8 54.g4 Re6 55.Kh5 Kh7 56.g5 Re4 57.Rd7 Kg8
+58.Rd8+ Kh7 59.Rd5 Kg8 60.Rd7 Rf4 61.Re7 Kh8 62.Re8+ Kh7 63.Rf8 Rf1 64.Rd8 Rf4
+65.Rd7 Kg8  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.24"]
+[Round "5.5"]
+[White "Shankland,S"]
+[Black "Lenderman,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2637"]
+[ECO "D53"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 Be7 5.e3 h6 6.Bh4 O-O 7.Rc1 dxc4 8.Bxc4 c5
+9.Nf3 cxd4 10.Nxd4 Bd7 11.O-O Nc6 12.Nf3 a6 13.Be2 Nh5 14.Bxe7 Qxe7 15.Ne4 Rfd8
+16.Qd6 Qxd6 17.Nxd6 Rab8 18.Rfd1 Nf6 19.Rd2 Be8 20.b3 Kf8 21.Kf1 Ke7 22.Nxe8 Rxd2
+23.Nxd2 Nxe8 24.Ne4 Nd6 25.Nc5 Ne5 26.f4 Nd7 27.Nxd7 Kxd7 28.Bf3 Rc8 29.Rxc8 Kxc8
+30.Ke2 Kc7 31.Kd3 f6 32.g3  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.24"]
+[Round "5.1"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2828"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 a5 13.Qf3 Be6 14.Rd1 Bxd5 15.cxd5 Na7
+16.g3 Rc8 17.Ne3 O-O 18.h4 Rc5 19.Bd3 Nc8 20.O-O Qc7 21.Qe2 Nb6 22.Bb5 g6
+23.a3 Bg7 24.axb4 axb4 25.Bd3 Nd7 26.Nc4 Rc8 27.Nd2 Ra5 28.Nb3 Raa8 29.Rc1 Qb6
+30.Rxc8+ Rxc8 31.Ra1  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.24"]
+[Round "5.3"]
+[White "Robson,R"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2667"]
+[BlackElo "2762"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Ne8 10.d5 Bc5 11.Re1 d6 12.Nc3 Bf5 13.Bd3 Qh4 14.g3 Qh3 15.Ne4 Bxe4
+16.Rxe4 Bxf2+ 17.Kxf2 Qxh2+ 18.Kf3 Qh5+ 19.g4 Qh3+ 20.Ke2 Qg2+ 21.Ke1 Nf6
+22.Qe2 Qh1+ 23.Qf1 Qh4+ 24.Qf2 Qh1+ 25.Qf1 Qh4+ 26.Qf2 Qh1+ 27.Qf1  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.25"]
+[Round "6.1"]
+[White "So,W"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2762"]
+[BlackElo "2739"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Nbd2 Be6 7.O-O Bd6 8.b3 Nd7
+9.Nc4 Qe7 10.a4 Bxc4 11.bxc4 a5 12.g3 O-O-O 13.Bd2 b6 14.Qe2 Nc5 15.c3 Kb7
+16.Be3 Rhe8 17.Rfd1 f6 18.Nd2 Na6 19.Nb3 c5 20.f3 Nb8 21.d4 exd4 22.cxd4 cxd4
+23.Rxd4 Na6 24.Rb1 Bb4 25.c5 Rxd4 26.c6+ Kxc6 27.Qxa6 Rd6 28.Bf4 Kd7 29.Rc1 Rd8
+30.Kg2 Ke8 31.Bxd6 Qxd6 32.Qc4 Kf8 33.Qxc7 Qxc7 34.Rxc7 Rd3 35.Nc1 Rd1 36.Ne2 Rd2
+37.Kf1 Rd1+ 38.Kg2 Rd2 39.Kf1 Rd1+ 40.Kg2  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.25"]
+[Round "6.2"]
+[White "Caruana,F"]
+[Black "Xiong,Jeffery"]
+[Result "1-0"]
+[WhiteElo "2828"]
+[BlackElo "2663"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.O-O Qe7 7.Nbd2 Bg4 8.h3 Bh5
+9.a3 a5 10.Nc4 Nd7 11.g4 Bg6 12.b4 Bb6 13.bxa5 Bxa5 14.Bb2 f6 15.Nxa5 Rxa5
+16.Nh4 O-O 17.Nf5 Qe6 18.Kh2 c5 19.h4 c4 20.h5 Bf7 21.Rg1 cxd3 22.cxd3 Rb5
+23.Bc1 Kh8 24.Be3 Rb3 25.Rg3 c5 26.Qe2 g5 27.hxg6 Bxg6 28.a4 Qa6 29.Bh6 Rg8
+30.Rag1 Qxa4 31.Ne7 Qd4 32.Qd1 c4 33.Nxg8 Kxg8 34.dxc4 Rxg3 35.Qxd4 exd4
+36.Kxg3 Bxe4 37.Rd1 d3 38.f3 Bg6 39.Ra1 Kf7 40.Ra7 Nc5 41.Be3 Ke8 42.Bxc5 d2
+43.Ra8+ Kd7 44.Bb6 Kc6 45.Ba5  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.25"]
+[Round "6.6"]
+[White "Liang,Awonder"]
+[Black "Akobian,V"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2625"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 cxd4 8.Bd3 Qc7
+9.Ne2 dxc3 10.Qxg7 Rg8 11.Qxh7 Nbc6 12.Bf4 Bd7 13.Bg3 Nxe5 14.O-O O-O-O 15.Qh4 N5g6
+16.Bxc7 Nxh4 17.Bxd8 Rxg2+ 18.Kh1 Kxd8 19.Rab1 e5 20.Rxb7 Bc6 21.Rb8+ Kc7
+22.Rh8 d4 23.f3 Neg6 24.Bxg6 Nxg6 25.Kxg2 Nxh8 26.h4 f6 27.Kf2 Kd6 28.h5 Ba4
+29.Rg1 Nf7 30.Rb1 Bxc2 31.Rb7 Nh6 32.Rxa7 Bb3 33.a4 Bc4 34.a5 c2 35.Nc1 f5
+36.Rh7 Ng8 37.h6 e4 38.fxe4 fxe4 39.Rd7+ Kxd7 40.h7 e3+ 41.Kf3 e2 42.Kf2 Nf6
+43.h8=Q Ke7 44.Qh4 d3 45.Qxc4 d2 46.Qxe2+ Kf8 47.Qxd2 Ne4+ 48.Ke2 Nxd2 49.Kxd2 Ke7
+50.a6  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.25"]
+[Round "6.5"]
+[White "Lenderman,A"]
+[Black "Robson,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2637"]
+[BlackElo "2667"]
+[ECO "D14"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Qb3 Bb4
+9.Ne5 O-O 10.Nxc6 Bxc3+ 11.Qxc3 bxc6 12.Be2 Ne4 13.Qa3 g5 14.Bg3 Qb6 15.O-O a5
+16.Rfc1 Rfc8 17.Bd3 Nxg3 18.hxg3 Bxd3 19.Qxd3 c5 20.dxc5 Rxc5 21.Rc2 Qb5
+22.Qd1 Rac8 23.Rac1 Rxc2 24.Rxc2 Rxc2 25.Qxc2 h6 26.Qc8+ Kg7 27.Qc3+ Kg6
+28.Qc2+ Kg7 29.b3 Qb4 30.Qb2+ f6 31.a3 Qe1+ 32.Kh2 e5 33.b4 axb4 34.axb4 Qd1
+35.f3 d4 36.exd4 exd4 37.b5 d3 38.b6 d2 39.b7 Qc1 40.b8=Q Qxb2 41.Qxb2 d1=Q
+42.Qb7+ Kg6 43.Qe4+ Kg7 44.Qe7+ Kg6 45.Qe8+ Kg7 46.Qe7+ Kg6 47.Qe8+  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.25"]
+[Round "6.4"]
+[White "Sevian,Samuel"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2731"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Bd7 10.Rd1 Be7 11.g4 Nh4 12.Nxh4 Bxh4 13.Nc3 Kc8 14.Kg2 Re8 15.Bf4 Be7
+16.Bg3 h5 17.f3 a5 18.Ne2 a4 19.Rd2 Bb4 20.c3 Bc5 21.Nf4 hxg4 22.hxg4 Be3
+23.Rd3 Bxf4 24.Bxf4 Be6 25.a3 Ra5 26.Rad1 b6 27.Rd4 Kb7 28.R1d2 Rea8 29.Kg3 Rb5
+30.Re2 Raa5 31.Kh4 Ra8  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.25"]
+[Round "6.3"]
+[White "Nakamura,Hi"]
+[Black "Gareev,T"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2557"]
+[ECO "A04"]
+
+1.Nf3 c5 2.g3 g6 3.c3 d5 4.Bg2 Nf6 5.d4 Nbd7 6.Ne5 Qb6 7.dxc5 Qxc5 8.Nd3 Qc7
+9.Qa4 Bg7 10.Bf4 Qd8 11.O-O O-O 12.Nd2 Nb6 13.Qb3 Bg4 14.Rfe1 Qc8 15.Qb4 Re8
+16.a4 Nbd7 17.Ne5 a5 18.Qb5 Nxe5 19.Bxe5 Bd7 20.Qd3 Bc6 21.Qd4 Qf5 22.Nf1 Rad8
+23.b4 Qc8 24.Ne3 b6 25.Red1 Ba8 26.b5 h5 27.Rac1 Bf8 28.Bxf6 exf6 29.Qxb6 Re6
+30.Qxa5 Bc5 31.Nxd5 Rde8 32.e3 Kg7 33.Qc7  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.27"]
+[Round "7.1"]
+[White "Akobian,V"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2746"]
+[ECO "A41"]
+
+1.d4 d6 2.Nf3 g6 3.c4 Bg7 4.Nc3 Nc6 5.d5 Ne5 6.Nxe5 Bxe5 7.e4 Nf6 8.Bd3 O-O
+9.O-O e6 10.h3 exd5 11.cxd5 Nh5 12.f4 Bd4+ 13.Kh2 Qh4 14.Qe1 Qxe1 15.Rxe1 Bf2
+16.Rf1 Bg3+ 17.Kg1 f5 18.Rf3 Bxf4 19.Bxf4 fxe4 20.Bxe4 Nxf4 21.Raf1 g5 22.h4 Bg4
+23.Rg3 h5 24.hxg5 Rae8 25.Bf3 Re5 26.Bxg4 hxg4 27.Rxg4 Nxd5 28.Nxd5 Rxf1+
+29.Kxf1 Rxd5 30.Ke2 Kg7 31.Rc4 c6 32.Re4 Kg6 33.Re7 Rb5 34.b3 Kxg5 35.Rd7 d5
+36.Kd3 Kf6 37.Kc3 a5 38.Rc7 Ke6 39.a3 d4+ 40.Kc4 d3 41.Kc3 d2 42.Kxd2 Rxb3
+43.g4 a4 44.g5 Kd6 45.Rf7 b5 46.g6 Rxa3 47.g7 Rg3  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.27"]
+[Round "7.2"]
+[White "Xiong,Jeffery"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2663"]
+[BlackElo "2762"]
+[ECO "D92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.Rc1 dxc4 7.e3 Be6 8.Ng5 Bd5
+9.e4 h6 10.exd5 hxg5 11.Bxg5 Nxd5 12.Bxc4 Nb6 13.Bb3 Nc6 14.d5 Nd4 15.O-O Re8
+16.h4 Qd7 17.a4 Nxb3 18.Qxb3 Bxc3 19.Rxc3 Qxd5 20.Qc2 Rad8 21.Rxc7 Rc8 22.Re1 Rxc7
+23.Qxc7 e5 24.a5 Nd7 25.b4 Nf8 26.Bf6 Nd7 27.Be7 Kg7 28.Bg5 Nf8 29.Bf4 Nd7
+30.Bg5 Nf8 31.Qc3 f6 32.Be3 a6 33.Qc1 Qf7 34.Bh6+ Kh7 35.Bxf8 Qxf8 36.Qc7+ Re7
+37.Qb6 Rd7 38.Rc1 Qe7 39.g3 f5 40.Qc5  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.27"]
+[Round "7.3"]
+[White "Gareev,T"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2557"]
+[BlackElo "2828"]
+[ECO "D27"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.dxc5 Bxc5 8.Qxd8+ Kxd8
+9.Rd1+ Ke7 10.Be2 b6 11.Ne5 Bb7 12.Nd2 Rd8 13.Nd3 Bd6 14.Nc4 Bc7 15.b3 Nc6
+16.Ba3+ Ke8 17.Bf3 Nd5 18.Nf4 b5 19.Nxd5 exd5 20.Nd2 Be5 21.Rab1 b4 22.Bb2 Bc3
+23.Nf1 Bxb2 24.Rxb2 Ne5 25.Ng3 Rac8 26.Rbd2 Rc5 27.Nf5 g6 28.Nd4 a5 29.a3 bxa3
+30.Ra2 Nc6 31.h3 Nb4 32.Rxa3 Kd7 33.g4 Kc7 34.Kg2 Kb6 35.h4 Rc3 36.Rda1 Ra8
+37.g5 Bc6 38.Rd1 Rd8 39.Rda1 Rc5 40.Rd1 Bd7 41.Kg3 Rdc8 42.Raa1 Be6 43.h5 Rc3
+44.Rab1 Rg8 45.Rh1 Nc6 46.Nxc6 Rxc6 47.hxg6 Rxg6 48.Kf4 Rc2 49.Rbf1 Rb2 50.Bd1 a4
+51.bxa4 Rb4+ 52.Kf3 Rxg5 53.Ke2 d4 54.Rfg1 Rd5 55.exd4 Rbxd4 56.f3 h5 57.Kf2 Rd2+
+58.Ke3 R5d3+ 59.Kf4 h4 60.Re1 Rd4+ 61.Ke3 f5 62.Be2 f4+ 63.Kf2 h3 64.Rb1+ Ka7
+65.Ke1 Ra2 66.Bf1 Rd5 67.Bxh3 Rh5 68.Bg2 Rxh1+ 69.Bxh1 Rh2 70.Bg2 Rxg2 71.Rb4 Bd5
+72.Rxf4 Kb6 73.a5+ Kc5 74.a6 Ra2 75.a7 Rxa7 76.Kf2 Kd6 77.Kg3 Ke5 78.Rf8 Bf7
+79.Rb8 Ra3 80.Rb4 Bd5 81.Rf4 Ra8 82.Rg4 Rf8 83.f4+ Kd4 84.f5+ Ke5 85.Rg5 Be4
+86.f6+ Bf5 87.Kf2 Rxf6 88.Ke3 Ra6 89.Rg3 Ra2 90.Rf3 Be4 91.Rg3 Bf5 92.Rf3 Bg4
+93.Rg3 Ra4 94.Kd2 Kf4 95.Rb3 Be6 96.Rb6 Bd5 97.Rb2 Ke4 98.Kc3 Ke3 99.Rb4 Ra3+
+100.Kb2 Ra8 101.Kc3 Rc8+ 102.Kb2 Kd3 103.Ka3 Bc4 104.Rb2 Ra8+ 105.Kb4 Kd4
+106.Rd2+ Bd3 107.Rb2 Ra7 108.Rb3 Ra8 109.Rb2 Ra1 110.Rb3 Bc4 111.Rb2 Rd1
+112.Ka3 Kc5 113.Rb7 Rd2 114.Rc7+ Kd4 115.Kb4 Rb2+ 116.Ka5 Kd5 117.Rc8 Rb5+
+118.Ka4 Kd4 119.Rh8 Rb1 120.Rh3 Bd3 121.Ka5 Kc3 122.Rg3 Rb5+ 123.Ka4 Rh5
+124.Rf3 Rh1 125.Ka5 Rh6  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.27"]
+[Round "7.4"]
+[White "Dominguez Perez,L"]
+[Black "Lenderman,A"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2637"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5
+9.exd5 exd5 10.Bd3 O-O 11.O-O d4 12.Ne2 Bg4 13.Bg5 h6 14.Bh4 Bxe2 15.Qxe2 Re8
+16.Qf3 Ne5 17.Qxb7 Nxd3 18.cxd3 Qd5 19.Qxd5 Nxd5 20.Bg3 Re2 21.Rab1 f5 22.Bd6 Rc8
+23.Rfe1 Rxe1+ 24.Rxe1 Rc2 25.Rb1 Rd2 26.Be5 Rxd3 27.Kf1 Kf7 28.Ke2 Rxa3 29.bxa3 Nc3+
+30.Kd3 Nxb1 31.a4 Nc3 32.a5 Nb5 33.Bxd4 g5 34.Bb2 Ke6 35.Kc4 Nd6+ 36.Kc5 Nb7+
+37.Kb5 Kd5 38.Ka6 Nxa5 39.Kxa5 Ke4 40.Bc1 f4 41.h4 Kd3 42.hxg5 hxg5 43.g3 Ke4
+44.gxf4 gxf4 45.Ba3 Kd5 46.Ka6  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.27"]
+[Round "7.5"]
+[White "Robson,R"]
+[Black "Sevian,Samuel"]
+[Result "0-1"]
+[WhiteElo "2667"]
+[BlackElo "2642"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.O-O Nd7 7.c3 O-O 8.d4 Bd6
+9.Bg5 f6 10.Bh4 Qe8 11.Nbd2 Nb6 12.h3 exd4 13.cxd4 Qg6 14.Kh1 Be6 15.a3 Bf4
+16.Re1 f5 17.exf5 Bxf5 18.Qb3+ Nd5 19.Qxb7 Rab8 20.Qxa7 Rxb2 21.Nc4 Bxh3
+22.gxh3 Qd3 23.Kg2 Bd6 24.Ng1 Rfxf2+ 25.Bxf2 Qg3+  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.27"]
+[Round "7.6"]
+[White "Shankland,S"]
+[Black "Liang,Awonder"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2590"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.Nf3 Bd6 5.Be2 O-O 6.O-O b6 7.Bxd6 cxd6 8.c4 dxc4
+9.Bxc4 Bb7 10.Nc3 Nc6 11.Rc1 Ne7 12.Bd3 Ned5 13.Nxd5 Bxd5 14.Qa4 a6 15.Nd2 b5
+16.Qa3 Qb6 17.Rc2 e5 18.Qb4 exd4 19.Qxd4 Qxd4 20.exd4 Rfc8 21.Rfc1 Rxc2 22.Rxc2 Kf8
+23.a3 Ke8 24.f3 Kd7 25.Kf2 g6 26.Ne4 Nxe4+ 27.fxe4 Bb7 28.Kg3 Rc8 29.Rxc8 Bxc8
+30.Kf4 f6 31.e5 Ke7 32.h4 Bd7 33.b4 d5 34.exf6+ Kxf6 35.g4 Be8 36.g5+ Ke6
+37.Be2 Kd6 38.Bg4 Bf7 39.Bd1 Be6 40.Bc2 Bf7 41.h5 Be8 42.h6 Bf7 43.a4 Be8
+44.a5 Bf7 45.Bb1 Be8 46.Bd3 Bf7 47.Be2 Be6 48.Bd3 Bf7 49.Bc2 Be8 50.Bd1 Bf7
+51.Bg4 Be6 52.Bf3 Bf7 53.Bd1 Be6 54.Be2 Bf7 55.Bd3 Be8 56.Bf1 Bf7 57.Be2 Be6
+58.Bd3 Bf7  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.28"]
+[Round "8.3"]
+[White "Sevian,Samuel"]
+[Black "Dominguez Perez,L"]
+[Result "0-1"]
+[WhiteElo "2642"]
+[BlackElo "2739"]
+[ECO "D41"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 13.Rad1 Bb7 14.Rfe1 Rc8 15.Bb3 Re8
+16.d5 exd5 17.exd5 Nc5 18.d6 Bxf3 19.Rxe8+ Qxe8 20.gxf3 Qc6 21.Bd5 Qd7 22.Qf4 Rd8
+23.Be4 g6 24.h4 Qe6 25.h5 Nd7 26.Bd5 Qf6 27.Qe3 Nc5 28.Rd4 gxh5 29.Rf4 Qg6+
+30.Kh1 Ne6 31.Rc4 h6 32.Bxe6 Qxe6 33.Qxe6 fxe6 34.Rc7 a5 35.Rc6 b5 36.Rb6 a4
+37.Kg2 Kf7 38.a3 Rg8+ 39.Kf1 Rg5 40.d7 Ke7 41.Rxe6+ Kxd7 42.Rxh6 Rc5 43.f4 Kc7
+44.f5 Rxf5 45.Ke2 Kb7 46.f3 b4 47.axb4 a3 48.Rd6 Rf8 49.Kf2 Ra8 50.Rd1 Kb6
+51.Kg3 Kb5 52.Kh4 Rf8 53.Rf1 Rf5 54.f4 Kxb4 55.Rf2 Ra5 56.Ra2 Kb3 57.Ra1 a2
+58.Rf1 a1=Q 59.Rxa1 Rxa1 60.Kxh5 Rf1 61.Kg5 Kc4 62.f5 Kd5  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.28"]
+[Round "8.6"]
+[White "Gareev,T"]
+[Black "Akobian,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2557"]
+[BlackElo "2625"]
+[ECO "E21"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.Nf3 b6 5.Qb3 a5 6.Bg5 Bb7 7.e3 h6 8.Bh4 g5 9.Bg3 Ne4
+10.Bd3 d6 11.Bxe4 Bxe4 12.O-O-O Bxc3 13.Qxc3 Nd7 14.Rhg1 Bxf3 15.gxf3 Qf6
+16.f4 O-O-O 17.Qd3 gxf4 18.Bxf4 e5 19.Bg3 Qf3 20.c5 Qc6 21.Qf5 exd4 22.exd4 bxc5
+23.Kb1 Kb8 24.f3 Rde8 25.Qxf7 c4 26.Rge1 Ref8 27.Qh5 Nb6 28.Qxa5 Rxf3 29.d5 Qa4
+30.Qxa4 Nxa4 31.Re4 Nb6 32.Bf4 Rf8 33.Bxh6 R8f5 34.h4 Rh3 35.Bg7 Rxd5 36.Rxd5 Nxd5
+37.Kc1 c3 38.bxc3 Nxc3 39.Rb4+ Kc8 40.Kb2 Nd5 41.Re4 Kb7 42.Bh6 Nb6 43.Bg5 c5
+44.Bd8 Rh2+ 45.Kb3 Rh3+ 46.Kb2 Nd5 47.a4 Kc6 48.Bg5 Rh2+ 49.Kb3 Rh3+ 50.Kb2 Nc3
+51.Rg4 Nd1+ 52.Kc2 Ne3+ 53.Bxe3 Rxe3 54.h5 Rh3 55.Rg5 Rh4 56.Kb3 Rh3+ 57.Kc2 Kb6
+58.Rg6 Rxh5 59.Rxd6+ Ka5 60.Kc3 Kxa4 61.Kc4 Ka3 62.Rc6 Kb2 63.Rxc5 Rxc5+
+64.Kxc5  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.28"]
+[Round "8.5"]
+[White "Liang,Awonder"]
+[Black "Robson,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2667"]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 Ne4 6.Qe2 Nc5 7.O-O Be7 8.Rd1 d5
+9.Bb5 Bg4 10.Rxd4 Bxf3 11.Qxf3 O-O 12.Rd1 Nxe5 13.Qxd5 c6 14.Qxd8 Raxd8 15.Be2 Ne6
+16.Rf1 Rfe8 17.Nd2 Bg5 18.Nb3 Bxc1 19.Rfxc1 Nd4 20.Nxd4 Rxd4 21.Rd1 Red8
+22.Rxd4 Rxd4 23.Rd1 Rxd1+ 24.Bxd1 f5 25.h4 f4 26.b3 Kf7 27.g3 Ke6 28.c3 Kd5
+29.Kf1 h6 30.Ke2 g5 31.hxg5 hxg5 32.gxf4 gxf4 33.Bc2 a5 34.Bh7 c5 35.Bg8+ Kc6
+36.a3 b6 37.Kd2 Kd6 38.Ke2 Kd7 39.Bc4 Kc7 40.a4 Kd6 41.Kd2 Kd7 42.Ke2 Ke7
+43.Bg8 Kf6 44.Bd5 Kf5 45.Bg8 Kf6 46.Bd5 Ke7 47.Bc4 Kd6 48.Bg8 Ng4 49.Bc4 Ne5  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.28"]
+[Round "8.1"]
+[White "Nakamura,Hi"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2731"]
+[ECO "D16"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 e6 6.e3 c5 7.Bxc4 cxd4 8.exd4 Be7
+9.O-O O-O 10.d5 exd5 11.Nxd5 Nxd5 12.Bxd5 Nd7 13.h3 Nf6 14.Bc4 b6 15.Qb3 Bb7
+16.Bf4 Bd5 17.Rfe1 Re8 18.Re5 Bxc4 19.Qxc4 Qd7 20.Be3 Bd6 21.Rxe8+ Rxe8 22.Qb5 Bb8
+23.Qxd7 Nxd7 24.a5 bxa5 25.Rxa5 Ne5 26.Nxe5 Rxe5 27.Ra1 h5 28.Kf1 Rb5 29.Bxa7 Bxa7
+30.Rxa7 Rxb2  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.28"]
+[Round "8.4"]
+[White "Lenderman,A"]
+[Black "Xiong,Jeffery"]
+[Result "1/2-1/2"]
+[WhiteElo "2637"]
+[BlackElo "2663"]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 c5 3.b3 g6 4.Bb2 Bg7 5.g3 b6 6.Bg2 Bb7 7.O-O O-O 8.Nc3 d5
+9.Nxd5 Nxd5 10.Bxg7 Kxg7 11.cxd5 Qxd5 12.d4 Na6 13.e4 Qd6 14.d5 e6 15.Nd2 exd5
+16.exd5 Rad8 17.Nc4 Qf6 18.Ne3 Nc7 19.Qd2 h5 20.Rac1 Rd7 21.b4 Nxd5 22.bxc5 Rfd8
+23.cxb6 Nxe3 24.Qxe3 Rd3 25.Qf4 Qxf4 26.gxf4 Bxg2 27.Kxg2 axb6 28.Rc6 Ra8
+29.Rxb6 Rxa2 30.Rb4 Kf6 31.Rc4 h4 32.h3 Rg3+ 33.Kh2 Rf3 34.Kg2 Rg3+ 35.Kh2 Re2
+36.Ra4 Kf5 37.Rb4 Rf3 38.Kg2 Rxf4 39.Rxf4+ Kxf4 40.Ra1 f5 41.Ra6 g5 42.Rh6 Re5
+43.Rh5 Re8 44.Rh7 Ke4 45.Rg7 Kf4 46.Rh7 Ke5 47.Rh5 Kf6 48.Rh6+ Kg7 49.Ra6 Kf7
+50.Ra5 Kf6 51.Ra6+ Re6 52.Ra4 Rb6 53.Rc4 Rb3 54.Ra4 f4 55.f3 Rb2+ 56.Kg1 Ke5
+57.Re4+ Kd5 58.Re8 Kd4 59.Re7 Kd3 60.Re8 Re2 61.Ra8 Re5 62.Kf2 Re2+ 63.Kg1 Rc2
+64.Re8 Kd2 65.Re5 Rb2 66.Re8 Kd1 67.Re5 Kd2 68.Re8 Kd3 69.Re5 Re2 70.Ra5 Re8
+71.Kf2 Re2+  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.28"]
+[Round "8.2"]
+[White "Caruana,F"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2828"]
+[BlackElo "2762"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 c5 6.O-O Nc6 7.Ne5 Bd7 8.Nxc4 cxd4
+9.Bf4 Nd5 10.Nd6+ Bxd6 11.Bxd6 Nde7 12.Nd2 O-O 13.Qb3 b6 14.Nc4 Rc8 15.Qa3 b5
+16.Nd2 b4 17.Qa6 e5 18.Rac1 Be6 19.Bxe7 Nxe7 20.Qxa7 Nd5 21.Rc5 Qb6 22.Qxb6 Nxb6
+23.Rb5 Rc2 24.Nf3 Nd7 25.Rxb4 Bxa2 26.Re1 Be6 27.h3 f6 28.e3 d3 29.Rd1 Rb8
+30.Rxb8+ Nxb8 31.Ne1 Rxb2 32.Nxd3 Rb5 33.Nc5 Rxc5 34.Rd8+ Kf7 35.Rxb8 Rc1+  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.29"]
+[Round "9.5"]
+[White "Xiong,Jeffery"]
+[Black "Sevian,Samuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2663"]
+[BlackElo "2642"]
+[ECO "E04"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 dxc4 5.Bg2 c5 6.O-O Nc6 7.Ne5 Bd7 8.Nxc4 cxd4
+9.Bf4 Be7 10.Nd6+ Kf8 11.Nxb7 Qb6 12.Nd6 Qc5 13.b4 Qxb4 14.a3 Qc5 15.Nd2 e5
+16.N2e4 Nxe4 17.Nxe4 Qb6 18.Bg5 f6 19.Rb1 Qa6 20.f4 fxg5 21.fxe5+ Ke8 22.Qb3 Nd8
+23.Nd6+ Bxd6 24.exd6 Rc8 25.Qd5 Qxa3 26.e3 Ne6 27.exd4 Qe3+ 28.Kh1 Qxd4 29.Rfe1 Qxd5
+30.Bxd5 Kd8 31.Bxe6 Re8 32.Bxd7 Rxe1+ 33.Rxe1 Kxd7 34.Re7+ Kxd6 35.Rxa7 Rc7
+36.Ra5 h6 37.Kg2 g4 38.Ra2 Ke6 39.h3 gxh3+ 40.Kxh3 Rc5 41.Ra4 Kf6 42.Rf4+ Rf5
+43.Ra4 Rf1 44.Kg4 Kg6 45.Ra5 Rf6 46.Rb5 Re6 47.Ra5 Re4+ 48.Kf3 Rb4 49.Rc5 h5
+50.Rc6+ Kg5 51.Rc5+ Kh6 52.Rc6+ g6 53.Rc5 Rb3+ 54.Kf2 Rd3 55.Ra5 Kg7 56.Rb5 Ra3
+57.Rc5 Ra6 58.Rb5 Kf6 59.Kf3 Kg7 60.Kf2 Rf6+ 61.Kg2 Rf5 62.Rb4 Ra5 63.Kf3 Kf6
+64.Kf2 g5 65.Kf3 Kf5 66.Kf2 Ra3 67.Rc4 Ra2+ 68.Kf3 Ra5 69.Rb4 Rd5 70.Ra4 Rd3+
+71.Kf2 Ke5 72.Rb4 Rd5 73.Ra4 Rb5 74.Kf3 g4+ 75.Kf2 Rb2+ 76.Ke3 Rb3+ 77.Kf2 Rf3+
+78.Kg2 Rd3 79.Ra8 Rd2+ 80.Kg1 Ke4 81.Rf8 Rd5 82.Kg2 Kd3 83.Re8 Kd4 84.Re7 Re5
+85.Rd7+ Ke3 86.Ra7 Rd5 87.Re7+ Kd4 88.Re8 Ra5 89.Rd8+ Ke5 90.Re8+ Kf6 91.Rf8+ Kg7
+92.Rf2 Kg6 93.Rb2 Kf6 94.Rf2+ Ke5 95.Re2+ Kd4 96.Re8 Ra2+ 97.Kg1 Rd2 98.Re7 Kd3
+99.Re5 Re2 100.Rf5 Ke3 101.Rf8 Rd2 102.Rf7 Ke2 103.Rf2+ Ke3  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.29"]
+[Round "9.6"]
+[White "Shankland,S"]
+[Black "Gareev,T"]
+[Result "1-0"]
+[WhiteElo "2731"]
+[BlackElo "2557"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.e3 O-O 6.Bd3 d6 7.O-O Re8 8.Bc1 e5
+9.a3 Bc5 10.dxc5 e4 11.cxd6 exd3 12.dxc7 Qxc7 13.Qxd3 Na6 14.b3 Nc5 15.Qc2 a4
+16.Nbd2 axb3 17.Nxb3 Nxb3 18.Qxb3 Ra5 19.Bb2 Ne4 20.Rfd1 Be6 21.Rd4 Nc5 22.Qc2 Na4
+23.Rc1 f6 24.h3 Bf5 25.Qb3 Nc5 26.Qd1 Be4 27.Nd2 Bc6 28.Bc3 Raa8 29.Bb4 Ne6
+30.Rd6 Ng5 31.Qg4 Qf7 32.Rd1 h5 33.Qg3 Qg6 34.h4 Qc2 35.Re1 Ne6 36.e4 Rad8
+37.Qb3 Qxb3 38.Nxb3 Rxd6 39.Bxd6 Rd8 40.Bb4 Ba4 41.Nd2 Kf7 42.Nf1 Rd4 43.c5 Nf4
+44.f3 Nd3 45.Rb1 Bc2 46.Ra1 Ba4 47.Ne3 Nxb4 48.axb4 Rxb4 49.Nf5 Bc6 50.Ra8 g6
+51.Nd6+ Ke6 52.Rg8 b6 53.Rxg6 bxc5 54.Nf5 Bxe4 55.fxe4 Rxe4 56.Ng3 Rxh4 57.Ne2 Rb4
+58.Kf2 Kf5 59.Rg3 Rc4 60.Rf3+ Kg5 61.Ng1 Rc2+ 62.Kg3 h4+ 63.Kh2 Rc4 64.Nh3+ Kg6
+65.Nf4+ Kf5 66.Nd5+ Kg5 67.Nxf6 Rd4 68.Nh7+ Kh6 69.Nf8 Rd6 70.Rf7 Rc6 71.Nd7 c4
+72.Ne5 Rc5 73.Ng4+ Kg6 74.Rf2 c3 75.Ne3 Rg5 76.Rc2 Rc5 77.Nd1 Kg5 78.Rxc3  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.29"]
+[Round "9.4"]
+[White "So,W"]
+[Black "Lenderman,A"]
+[Result "1-0"]
+[WhiteElo "2762"]
+[BlackElo "2637"]
+[ECO "D35"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Nbd7 8.h3 Nf8
+9.Qc2 Ne6 10.Bh4 g6 11.Nge2 Ng7 12.f3 O-O 13.O-O-O b5 14.g4 a5 15.Nf4 a4
+16.Kb1 Ne6 17.Nce2 Nxf4 18.exf4 Bd7 19.f5 b4 20.Qc1 Ne8 21.Bg3 a3 22.b3 Bg5
+23.Qc2 Bh4 24.Be5 f6 25.Bf4 gxf5 26.gxf5 Kh8 27.Rdg1 Qe7 28.Rg4 Bg5 29.Rhg1 Rc8
+30.Qd2 Ng7 31.Bxg5 fxg5 32.Rxg5 Nxf5 33.Rh5 Rf6 34.Rgg5 Re8 35.Nc1 Ref8 36.Bc2 R8f7
+37.Qf4 Qe3 38.Qb8+ Rf8 39.Qxb4 R6f7 40.Qxa3 Qxd4 41.Rg4 Qc3 42.Rf4 Ne3 43.Bxh7 Rxf4
+44.Qd6 R8f7 45.Bd3+ Kg8 46.Rg5+ Rg7 47.Qxf4 Nd1 48.Rxg7+ Kxg7 49.Qh2 Qd4
+50.Qd2 Nf2 51.Qg5+ Kf7 52.Bg6+ Kf8 53.h4 Nd1 54.Qd8+ Kg7 55.Qxd7+ Kxg6 56.Qg4+ Qxg4
+57.fxg4 Ne3 58.g5 Nf5 59.a4 Nxh4 60.a5  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.29"]
+[Round "9.3"]
+[White "Akobian,V"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2828"]
+[ECO "A80"]
+
+1.d4 f5 2.Nc3 Nf6 3.Bg5 d5 4.e3 e6 5.Nf3 a6 6.Ne5 c5 7.g4 cxd4 8.exd4 Qb6
+9.Na4 Qa5+ 10.c3 fxg4 11.Bxf6 gxf6 12.Nxg4 Nd7 13.Ne3 h5 14.Bd3 f5 15.b4 Qc7
+16.Rc1 b6 17.Qe2 Kf7 18.Kd1 Nf6 19.Nb2 Bd7 20.c4 Rc8 21.Rc2 Qf4 22.cxd5 Bxb4
+23.Bc4 exd5 24.Nxd5 Nxd5 25.Bxd5+ Kf6 26.Qe3 Bd6 27.Qxf4 Bxf4 28.Nd3 Bb8
+29.Rxc8 Bxc8 30.Ke2 Re8+ 31.Kd2 Rd8 32.Rc1 Bxh2 33.Bf3 Be6 34.Rc6 Rd6 35.Rc1 Rxd4
+36.Ke3 Rd8 37.Bxh5 Bxa2 38.f4 Bd5 39.Ne5 Rh8 40.Bf3 Rh4 41.Nd3 Rh3 42.Ne5 Be4
+43.Rc8 Rh4 44.Nd3 Bg1+ 45.Ke2 Bxd3+ 46.Kxd3 Rxf4 47.Bb7 a5 48.Rf8+ Ke7 49.Rg8 Bc5  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.29"]
+[Round "9.2"]
+[White "Dominguez Perez,L"]
+[Black "Liang,Awonder"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2590"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 c6
+9.Qc2 Na6 10.a3 Bg4 11.Ne5 Bf5 12.b4 c5 13.cxd5 cxd4 14.Bxe4 Rc8 15.Nc6 Bxe4
+16.Qxe4 bxc6 17.dxc6 Re8 18.Qf3 Qb6 19.Nd2 Rxc6 20.Nb3 Rc3 21.Qd1 d3 22.Bd2 Rc2
+23.g3 Bf8 24.Qf3 Nc5 25.Be3 Qb7 26.Qxb7 Nxb7 27.Rfd1 Rc3 28.Nc1 a5 29.Rxd3 Rc2
+30.Rd7 Nd6 31.Nd3 Nc4 32.Bf4 f6 33.bxa5 Nxa5 34.a4 Ra8 35.h4 Rc4 36.Be3 Nc6
+37.Rc7 Bd6 38.Rd7 Bf8 39.Nb2 Rc2 40.Rb7 Nb4 41.Nd1 Rc6 42.Rb6 Rc7 43.Bf4 Rc2
+44.Ne3 Rd2 45.Rb5 Rd7 46.a5 Nc6 47.Nc4 Nd4 48.Rb8 Ra6 49.Bd6 Ne6 50.Re8 Rdxd6
+51.Nxd6 Rxd6 52.a6 Nc7 53.a7 Nxe8 54.a8=Q Nc7 55.Qc8 Ne6 56.Ra7 Nd8 57.h5 Rd4
+58.Kg2 Rd6 59.h6 gxh6 60.Qc7  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.29"]
+[Round "9.1"]
+[White "Robson,R"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2667"]
+[BlackElo "2746"]
+[ECO "B78"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6
+9.Bc4 Bd7 10.O-O-O Rb8 11.Bb3 Na5 12.Bh6 Bxh6 13.Qxh6 b5 14.Nd5 Nxb3+ 15.Nxb3 e5
+16.Nxf6+ Qxf6 17.h4 Rb6 18.h5 Qe7 19.hxg6 fxg6 20.Qe3 Be6 21.Rhf1 Rc6 22.f4 Qc7
+23.Rd2 a5 24.Kb1 a4 25.Nc1 b4 26.Rdf2 exf4 27.Rxf4 Rc8 28.Rf6 Rxc2 29.Rxe6 Qc4
+30.Ref6 a3 31.bxa3 bxa3 32.Qxa3 Rxc1+ 33.Rxc1 Qxe4+ 34.Kb2 Qe5+ 35.Rc3 Rb8+
+36.Kc2 Qxf6 37.Rf3 Qd4 38.Rb3 Qe4+ 39.Kc1 Qe1+ 40.Kc2 Qe2+ 41.Kb1 Qd1+ 42.Qc1 Rxb3+
+43.axb3 Qxb3+ 44.Ka1 Qa4+ 45.Kb2 Qb5+ 46.Ka1 Qc5 47.Qd2 h5 48.Kb1 Kg7 49.Qb2+ Qe5
+50.Qb7+ Kh6 51.Kc1 d5 52.Kd1 Qe4 53.Qb2 Kg5 54.Qd2+ Kg4 55.Qh6 g5  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.30"]
+[Round "10.4"]
+[White "Liang,Awonder"]
+[Black "Xiong,Jeffery"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2663"]
+[ECO "B10"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 g6 4.d4 Bg7 5.h3 dxe4 6.Nxe4 Nf6 7.Bd3 O-O 8.O-O Nxe4
+9.Bxe4 Nd7 10.c3 c5 11.Bc2 cxd4 12.Nxd4 a6 13.Bg5 Bf6 14.Bxf6 Nxf6 15.Re1 Re8
+16.Re5 Qb6 17.Bb3 Nd7 18.Re3 Nc5 19.Qe2 e6 20.Re1 Bd7 21.Qf3 Ba4 22.Bc4 Bd7
+23.Qf6 Qd8 24.Qf4 Rc8 25.Nf3 b5 26.b4 bxc4 27.bxc5 Rxc5 28.Ne5 Qe7 29.Ng4 f5
+30.Ne5 Bc6 31.Rg3 Qg7 32.Qd4 Rd5 33.Qf4 Rc5 34.Qd4 Rd5 35.Qf4  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.30"]
+[Round "10.5"]
+[White "Akobian,V"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2731"]
+[ECO "D48"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nf6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
+9.a4 Bb7 10.b3 b4 11.Ne4 c5 12.Nxf6+ gxf6 13.Bb2 cxd4 14.exd4 Qc7 15.Rc1 Qf4
+16.Be2 Bd6 17.g3 Qh6 18.O-O Ke7 19.Ne1 Rhc8 20.Bf3 Bxf3 21.Qxf3 Qg5 22.Nd3 h5
+23.Nc5 h4 24.Nxd7 Kxd7 25.Qb7+ Kd8 26.d5 hxg3 27.dxe6 gxf2+ 28.Kh1 fxe6 29.Rcd1 Qc5
+30.Rxf2 Qc6+ 31.Qxc6 Rxc6 32.Rxf6 Ke7 33.Re1 Bc7 34.Rg6 Rf8 35.Rg7+ Ke8 36.Be5 Bxe5
+37.Rxe5 Rf2 38.Rg2 Rf4 39.Rge2 Kd7 40.Kg2 Rd4  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.30"]
+[Round "10.6"]
+[White "Gareev,T"]
+[Black "Robson,R"]
+[Result "1-0"]
+[WhiteElo "2557"]
+[BlackElo "2667"]
+[ECO "D11"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nbd2 Bf5 5.Nh4 Be4 6.Qb3 Qb6 7.f3 Qxb3 8.Nxb3 Bc2
+9.Bd2 h6 10.g4 e6 11.Rc1 Bxb3 12.axb3 Be7 13.Ng2 Nbd7 14.e3 e5 15.dxe5 Nxe5
+16.Kf2 Ned7 17.Bc3 O-O 18.Nf4 Nc5 19.h4 Ne6 20.g5 hxg5 21.hxg5 Nxg5 22.Bd3 Ne6
+23.Bxf6 gxf6 24.Bh7+ Kg7 25.Nxe6+ fxe6 26.Rcg1+ Kf7 27.Bg6+  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.30"]
+[Round "10.1"]
+[White "Nakamura,Hi"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2739"]
+[ECO "D41"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Rc1 b6 12.Bd3 Bb7 13.Qe3 Nc6 14.O-O Rc8 15.Bb1 Qe7
+16.Rfd1 Na5 17.h4 Rxc1 18.Rxc1 Rc8 19.Rxc8+ Bxc8 20.Qf4 h6 21.Bd3 Qd8 22.h5 Nc6
+23.Qc1 Bb7 24.Qc3 Qd6 25.a3 Ne7 26.Ne5 Nc6 27.Nf3 Ne7 28.Ne5 Nc6 29.Nf3  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.30"]
+[Round "10.2"]
+[White "Caruana,F"]
+[Black "Lenderman,A"]
+[Result "1-0"]
+[WhiteElo "2828"]
+[BlackElo "2637"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nf6 6.d4 Be7 7.Bd3 O-O 8.O-O Nc6
+9.d5 Nb4 10.Be2 c6 11.dxc6 bxc6 12.a3 Nbd5 13.Nxd5 Nxd5 14.Nd4 Bd7 15.Bf3 Rc8
+16.Bxd5 cxd5 17.Be3 Bf6 18.Qd2 Qc7 19.h3 Rfe8 20.Rfe1 h6 21.c3 Qb7 22.Nf3 Re6
+23.Bd4 Be7 24.b4 a6 25.a4 Re8 26.Kh2 Re4 27.Reb1 Bd8 28.b5 a5 29.Rb2 Qa8
+30.Qd3 Qb7 31.Nd2 Rf4 32.Nb3 Bf5 33.Qg3 g5 34.b6 Qa6 35.Nd2 Bd7 36.Rab1 Qb7
+37.Nb3 Qa6 38.Nc1 Qb7 39.Nd3 Rxd4 40.cxd4 Re6 41.Nf4 Re4 42.Ne2 Bxa4 43.Nc3 Rxd4
+44.Qxd6 Be7 45.Qe5 Re4 46.Nxe4 dxe4 47.Rc1  1-0
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.30"]
+[Round "10.3"]
+[White "Sevian,Samuel"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteElo "2642"]
+[BlackElo "2762"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6
+9.Nc3 O-O 10.Be3 Bg4 11.h3 Bh5 12.Qc2 Bg6 13.Qb3 Ne7 14.O-O c6 15.Bd3 Nf5
+16.Rfe1 Ba5 17.Rad1 Bxc3 18.bxc3 c5 19.Bxe4 dxe4 20.Nd2 Bh5 21.Rc1 cxd4 22.cxd4 Nxd4
+23.Bxd4 Qxd4 24.Nxe4 Rae8 25.Ng3 Rxe5 26.Rxe5 Qxe5 27.Qxb7 a5 28.Qc7 Qxc7
+29.Rxc7 Bd1 30.Ra7 a4 31.Nf5 Rd8 32.Ne3 h6 33.Kf1 Rd4 34.f3 Rd3 35.Kf2 Bc2
+36.Nxc2 Rd2+ 37.Kg3 Rxc2 38.Rxa4 g5 39.h4 Kg7 40.h5 Rd2 41.Kh3 Rf2 42.Ra8 Rc2
+43.a4 Rc4 44.g3 Rb4 45.a5 Ra4 46.a6 Kf6 47.Kg2 Ra3 48.Kf2 Kf5 49.Ke2 g4 50.fxg4+ Kxg4
+51.a7 Kf5 52.g4+ Kf6 53.g5+ Kg7 54.gxh6+ Kh7  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.31"]
+[Round "11.6"]
+[White "Robson,R"]
+[Black "Akobian,V"]
+[Result "0-1"]
+[WhiteElo "2667"]
+[BlackElo "2625"]
+[ECO "D36"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 exd5 5.Bg5 c6 6.Qc2 Be7 7.e3 Nbd7 8.Bd3 Nh5
+9.Bxe7 Qxe7 10.Nge2 g6 11.O-O O-O 12.Rae1 Ndf6 13.Nc1 Bd7 14.f3 Rfe8 15.Nb3 b6
+16.e4 Nf4 17.Qd2 Nxd3 18.Qxd3 Rad8 19.Qe3 Be6 20.e5 Nd7 21.Ne2 c5 22.Ng3 c4
+23.Nd2 f6 24.f4 f5 25.Nf3 b5 26.h3 b4 27.Ne2 a5 28.Kh2 Rf8 29.Ng5 h6 30.Nxe6 Qxe6
+31.g4 Kh7 32.Qf3 Nb8 33.gxf5 gxf5 34.Ng3 Rg8 35.Rg1 Nd7 36.Re2 Rg6 37.Reg2 Rdg8
+38.b3 c3 39.Qd3 Nf8 40.Qb5 Qf7 41.Qxa5 Ne6 42.Qxd5 Rd8 43.Qc4 Rxd4 44.Qc8 Rg8
+45.Qc6 Nxf4 46.Rf2 Qe6 47.Qc5 Rd5 48.Qe3 Nxh3 49.Nh5 Rxg1 50.Nf6+ Kg6 51.Nxd5 Qxd5
+52.Kxh3 Rh1+ 53.Kg3 Rg1+ 54.Kh3 Rg4 55.Kh2 Qe4 56.Qb6+ Kh5  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.31"]
+[Round "11.5"]
+[White "Lenderman,A"]
+[Black "Sevian,Samuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2637"]
+[BlackElo "2642"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 d5 6.a3 Bxc3+ 7.Qxc3 dxc4 8.Qxc4 b6
+9.Bg5 Ba6 10.Qa4 c5 11.dxc5 bxc5 12.Rc1 Qb6 13.Bxf6 gxf6 14.Rc2 Rd8 15.e3 Bxf1
+16.Rxf1 Nc6 17.Ke2 Na5 18.Nd2 Rd5 19.Rfc1 f5 20.g4 Rad8 21.gxf5 exf5 22.h3 Kf8
+23.Ke1 Kg8 24.Ke2 Kf8 25.Ke1 Kg8 26.Ke2  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.31"]
+[Round "11.4"]
+[White "So,W"]
+[Black "Liang,Awonder"]
+[Result "0-1"]
+[WhiteElo "2762"]
+[BlackElo "2590"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.d4 e4 8.Ng1 d5
+9.b3 O-O 10.Ne2 a5 11.Nf4 Be6 12.Be2 g5 13.Nxe6 fxe6 14.a3 Qd7 15.O-O Ne7
+16.b4 a4 17.b5 Rf7 18.c5 Qe8 19.f4 exf3 20.Rxf3 g4 21.Rf4 Ng6 22.Qc2 e5 23.Rf5 e4
+24.Bd2 Nh4 25.Re5 Qf8 26.Be1 Nf3+ 27.Bxf3 gxf3 28.Bg3 Ng4 29.Rg5+ Rg7 30.Rxd5 Qf7
+31.Qa2 f2+ 32.Bxf2 Nxf2 33.Re5 Nh3+ 34.Kh1 Nf2+ 35.Kg1 Qxa2 36.Rxa2 Nd1 37.g3 Rf7
+38.Rxe4 Nc3 39.Rg4+ Kf8 40.Rd2 Nxb5 41.Rd3 c6 42.e4 Re8 43.d5 Nc7 44.Rd4 Re5
+45.Rxa4 cxd5 46.exd5 Nxd5 47.Rge4 Rxe4 48.Rxe4 Rc7 49.Rh4 Nf6 50.Kg2 Rxc5
+51.Rb4 Rc7 52.g4 Nd5 53.Rb5 Nc3 54.Rb6 Kf7 55.Kg3 Nd5 56.Rd6 Ne3 57.Rh6 Kg7
+58.Rb6 Nc4 59.Rb3 Kf6 60.Kf4 Ke6 61.h3 Nd6 62.Re3+ Kf7 63.Rd3 Rc6 64.Rb3 Ra6
+65.Kg5 Ra5+ 66.Kh4 b5 67.Rd3 Nc4 68.Rd7+ Kg6 69.Rb7 Nxa3 70.Rb6+ Kf7 71.Rb7+ Ke6
+72.g5 Nc4 73.Rxh7 Nd6 74.Rh6+ Ke5 75.Rh8 b4 76.Rf8 Rb5 77.g6 Rb7 78.Rf3 Rb8
+79.Rb3 Kf6 80.Kh5 Kg7 81.Kg5 Ne4+ 82.Kf5 Nd2 83.Rd3 Rb5+ 84.Kf4 b3  0-1
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.31"]
+[Round "11.3"]
+[White "Shankland,S"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2731"]
+[BlackElo "2828"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Be7 5.Nc3 O-O 6.e4 d5 7.cxd5 exd5 8.e5 Ne4
+9.Bd3 Nxd2 10.Qxd2 Nc6 11.O-O Bg4 12.Qf4 Bxf3 13.Qxf3 Nxd4 14.Qxd5 Qxd5 15.Nxd5 Bd8
+16.Rad1 c6 17.Nc3 Bb6 18.Rfe1 Rfe8 19.Kf1 Rad8 20.f4 Ba5 21.g3 g6 22.a3 Bxc3
+23.bxc3 Nb3 24.Kf2 Nc5 25.Bc2 Kf8 26.Kf3 a5 27.Rxd8 Rxd8 28.Rd1 Rxd1 29.Bxd1 h5
+30.Ke3 Ke7 31.Kd4 Ne6+ 32.Ke3 Nc7 33.Be2 b5 34.Kd4 Ne6+ 35.Ke3 Nc5 36.Bd1 Kd7
+37.Bc2 Ke7 38.Bd1 Kd7 39.Bc2  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.31"]
+[Round "11.2"]
+[White "Dominguez Perez,L"]
+[Black "Gareev,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2557"]
+[ECO "B56"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.f3 e5 7.Nb3 Be6 8.Nd5 Be7
+9.c4 O-O 10.Be3 a5 11.Qd2 a4 12.Nc1 Nd7 13.Ne2 f5 14.exf5 Bxf5 15.Nec3 Nc5
+16.Be2 Bh4+ 17.g3 Bf6 18.Rd1 Ne6 19.O-O Ncd4 20.Bd3 Bh3 21.Rf2 Bg5 22.Bf1 Bxf1
+23.Rdxf1 Bxe3 24.Qxe3 Rc8 25.f4 Rxc4 26.fxe5 Rxf2 27.Rxf2 Rc5 28.Kg2 h6 29.h4 Nc6
+30.exd6 Qxd6 31.Rd2 Ncd4 32.Rxd4 Nxd4 33.Qxd4 a3 34.Nf6+ Qxf6 35.Qxc5 axb2
+36.Qd5+ Kh8 37.Nb1 Qg6 38.Qd1 Qe4+ 39.Kf2 Qf5+ 40.Kg2 Qe4+ 41.Kh2 Qf5 42.h5 Qf2+
+43.Kh3 Qf5+ 44.g4 Qe4 45.Kg3 b5 46.a3 b4 47.axb4 Qxb4 48.Qd8+ Kh7 49.Qd3+ Kh8
+50.Qf5 Qd4 51.Kf3 Kg8 52.Ke2 Kh8 53.Kf3 Kg8 54.Qe6+ Kh8 55.Ke2 Kh7 56.Qf5+ Kh8
+57.Nd2 Qc3 58.Qf8+ Kh7 59.Qf5+ Kh8 60.Qe4 Kg8 61.Qd5+ Kh8 62.Qd8+ Kh7 63.Qd3+ Qxd3+
+64.Kxd3 g6 65.Kc2 Kg7 66.Ne4 gxh5 67.gxh5 Kf7 68.Kxb2 Ke6 69.Kc3 Kf5 70.Kd4 Kg4
+71.Nf6+ Kf5 72.Ne4 Kg4 73.Nf6+ Kf5 74.Ne8 Kg5 75.Ng7 Kf6 76.Ne8+ Kg5 77.Ng7 Kf6  1/2-1/2
+
+[Event "63rd ch-USA 2019"]
+[Site "Saint Louis USA"]
+[Date "2019.03.31"]
+[Round "11.1"]
+[White "Xiong,Jeffery"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2663"]
+[BlackElo "2746"]
+[ECO "A89"]
+
+1.d4 f5 2.Nf3 Nf6 3.c4 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O d6 7.Nc3 Nc6 8.d5 Na5
+9.b3 c5 10.Bb2 a6 11.Ng5 Rb8 12.Qd3 Qe8 13.Nd1 b5 14.Qd2 Nb7 15.Ne3 Nd8 16.Nh3 Bd7
+17.Rad1 b4 18.Qc2 a5 19.Nf4 a4 20.h4 Ra8 21.Qb1 Ra6 22.Bf3 Qf7 23.Neg2 Ng4
+24.Bxg4 fxg4 25.e4 Bxb2 26.Qxb2 Qg7 27.Qxg7+ Kxg7 28.e5 Bf5 29.exd6 exd6
+30.Rfe1 Nf7 31.Re7 Kf6 32.Rb7 axb3 33.axb3 Rfa8 34.Ne3 Ra1 35.Kf1 Ne5 36.Rxa1 Rxa1+
+37.Ke2 Nf3 38.Nxf5 Kxf5 39.Ke3 Re1+ 40.Kd3 Ne5+ 41.Kd2 Ra1 42.Ne6 h6 43.Rb6 Ra3
+44.Kc2 Ra2+ 45.Kd1 Nd3 46.Rxd6 Nxf2+ 47.Ke1 Nd3+ 48.Kd1 Ke4 49.Nc7 Nf2+ 50.Ke1 Kd3
+51.Rxg6 Ne4 52.Kf1 Nxg3+ 53.Kg1 Ne2+ 54.Kh1 Ke3 55.Rf6 Ra1+ 56.Kg2 Rg1+ 57.Kh2 g3+
+58.Kh3 Rh1+  0-1

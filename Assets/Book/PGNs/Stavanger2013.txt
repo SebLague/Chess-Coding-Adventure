@@ -1,0 +1,1181 @@
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "1.1"]
+[White "Nakamura,Hi"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2608"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "1503707"]
+[EventDate "2013.05.07"]
+
+1. c4 e5 2. a3 Nf6 3. e3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 cxd5 7. d3 Nc6 8. Nxc6
+bxc6 9. Qc2 Bd7 10. Nd2 exd3 11. Bxd3 Bd6 12. O-O O-O 13. b4 a5 14. bxa5 Rxa5
+15. Bb2 h6 16. Nb3 Ra8 17. Nc5 Bc8 18. Bd4 Re8 19. Qc3 Ng4 20. h3 Nh2 21. Bxg7
+Nxf1 22. Bf6 Qb6 23. Bd4 Qa5 24. Qc2 Nd2 25. Rd1 Ne4 26. Bxe4 dxe4 27. Nxe4 Rxe4
+28. Qxe4 Bf5 29. Qxc6 Rd8 30. Bb6 Qa6 31. Rxd6 Rxd6 32. Qxd6 Qc4 33. Qd8+ Kh7
+34. Bd4 Be6 35. Qh8+ Kg6 36. Qg7+ Kh5 37. g4+ 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "1.2"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2813"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Keres variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "13300474"]
+[EventDate "2013.05.07"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. O-O e6 5. d3 Bd6 6. h3 Bh5 7. Qe1 Ne7 8. e4
+O-O 9. Nbd2 c6 10. Nh4 Ng6 11. Nxg6 Bxg6 12. f4 Qb6+ 13. Kh1 Rae8 14. Nf3 f6 15.
+Nh4 Bh5 16. g4 Bf7 17. Qg3 Qc7 18. Qf2 g5 19. e5 fxe5 20. fxg5 e4 21. Qe2 Bg3
+22. g6 hxg6 23. Bg5 Qe5 24. Qe3 d4 25. Qc1 e3 26. Nf3 Qh8 27. Nxd4 Qxd4 28. Bxe3
+Qh8 29. c3 e5 30. Bh6 Bf4 31. Bxf4 exf4 32. Qxf4 Bd5 33. Bxd5+ cxd5 34. Qg3 Qe5
+35. Qg2 Rxf1+ 36. Rxf1 Nf6 37. Qf3 Kg7 38. Kg2 Qe2+ 39. Rf2 Qxf3+ 40. Kxf3 Nd7
+41. Rd2 Nc5 42. h4 Re1 43. Kf4 d4 44. cxd4 Ne6+ 45. Kg3 Nxd4 46. Kf4 Kf6 47. Rf2
+Ne6+ 48. Kg3+ Ke7 49. h5 gxh5 50. gxh5 Rh1 51. Kg4 Rg1+ 52. Kf3 Ng5+ 53. Ke3
+Rg3+ 54. Kd4 Rh3 55. Rf5 Rxh5 56. Kc3 Ke6 57. Rf8 Nf7 58. Ra8 a6 59. a4 Nd6 60.
+b4 Kd5 61. Rg8 Re5 62. Rg7 Kc6 63. Rg1 Re2 64. Rc1 Kd5 65. Rg1 Ra2 66. Kb3 Re2
+67. Kc3 Re7 68. Rg5+ Kc6 69. Rc5+ Kd7 70. Rh5 b5 71. a5 Rf7 72. Rh8 Nc8 73. Rh6
+Nd6 74. Rh8 Rf6 75. Kd4 Kc6 76. Rb8 Rf4+ 77. Ke5 Rf5+ 78. Ke6 Rh5 79. Rb6+ Kc7
+80. Rxa6 Nc8 81. Kf7 Rh7+ 82. Kg6 Rh4 83. Kf5 Rxb4 84. Ke5 Ra4 85. Kd5 Kb7 86.
+Rh6 Rxa5 87. Kc5 Na7 88. Rh7+ Kc8 89. d4 Ra2 90. d5 Rc2+ 91. Kb6 Ra2 92. Kc5 Ra4
+93. d6 Rc4+ 94. Kb6 b4 95. Rxa7 b3 96. Ra1 b2 97. Rb1 Rc2 98. Kb5 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "1.3"]
+[White "Svidler,P"]
+[Black "Wang Hao"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2743"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[WhiteFideId "4102142"]
+[BlackFideId "8602883"]
+[EventDate "2013.05.07"]
+
+1. g3 d5 2. Bg2 e5 3. d3 Nc6 4. Nd2 Nf6 5. a3 a5 6. e4 Be7 7. Ngf3 O-O 8. O-O
+Re8 9. exd5 Nxd5 10. Re1 Bf8 11. Nc4 f6 12. Nh4 Be6 13. Ne3 Qd7 14. Nhf5 Nxe3
+15. Nxe3 Rad8 16. a4 b6 17. Bd2 Nd4 18. Bc3 g6 19. Nc4 Bf7 20. Nd2 Bg7 21. Ne4
+h6 22. Nd2 f5 23. Nf3 c5 24. Nxd4 cxd4 25. Bd2 Bd5 26. b4 Bxg2 27. Kxg2 e4 28.
+bxa5 e3 29. fxe3 dxe3 30. Bxe3 Bxa1 31. Qxa1 bxa5 32. Bxh6 Rxe1 33. Qxe1 Re8 34.
+Qc3 Re2+ 35. Kg1 Qb7 36. Qb3+ Qxb3 37. cxb3 Rb2 38. Bf4 Rxb3 39. Bc7 Rxd3 40.
+Bxa5 Rd4 41. Bc7 Rxa4 42. h4 Ra2 43. Bb6 Kf7 44. Bf2 Ke6 45. Kg2 Ke5 46. Kf3
+Ra3+ 47. Be3 Rb3 48. Kf2 Ke4 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "1.4"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2868"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2013.05.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. c3 g6 7. Re1 a6 8. Ba4 Bg7
+9. Nbd2 O-O 10. Nf1 Re8 11. Bb3 Be6 12. h3 Bxb3 13. Qxb3 Qd7 14. Bg5 Nh5 15.
+Rad1 h6 16. Bc1 Nf6 17. Ng3 Na5 18. Qc2 c5 19. d4 cxd4 20. cxd4 Rac8 21. Qd3
+exd4 22. Nxd4 Nc4 23. b3 Ne5 24. Qb1 h5 25. Bb2 h4 26. Nf1 d5 27. exd5 Nxd5 28.
+Ne3 Nxe3 29. Rxe3 Rcd8 30. Rde1 Nc6 31. Rxe8+ Rxe8 32. Rxe8+ Qxe8 33. Nxc6 Qxc6
+34. Bxg7 Kxg7 35. Qb2+ f6 36. Qd2 g5 37. Qe2 Qc1+ 38. Kh2 Qc7+ 39. Kg1 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "1.5"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2793"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "13400924"]
+[BlackFideId "2900084"]
+[EventDate "2013.05.07"]
+
+1. Nf3 c6 2. g3 d6 3. Bg2 Nf6 4. c4 e5 5. O-O Be7 6. Nc3 O-O 7. e4 Bg4 8. d3
+Nbd7 9. h3 Bh5 10. Be3 Ne8 11. Qd2 Nc7 12. Nh2 f6 13. d4 Bf7 14. b3 b5 15. cxb5
+cxb5 16. Rfd1 b4 17. Na4 a5 18. Rac1 Nb5 19. Nf3 Rb8 20. dxe5 fxe5 21. Ng5 Bxg5
+22. Bxg5 Qe8 23. Be3 Be6 24. Qe2 h6 25. Kh2 Nf6 26. f4 exf4 27. Bxf4 Nd7 28.
+Rxd6 Nxd6 29. Bxd6 Rc8 30. Rxc8 Qxc8 31. Bxf8 Nxf8 32. Nb6 Qc7 33. Nd5 Qe5 34.
+Nf4 Bf7 35. Qa6 Ne6 36. Nd5 Ng5 37. Qc8+ Kh7 38. Qf5+ Qxf5 39. exf5 Be8 40. Ne3
+Nf7 41. Nc4 a4 42. Bd5 axb3 43. axb3 h5 44. Kg2 Kh6 45. h4 g5 46. fxg6 Kxg6 47.
+Bxf7+ 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2868"]
+[BlackElo "2745"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "1503014"]
+[BlackFideId "13400924"]
+[EventDate "2013.05.07"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 O-O 6. O-O c5 7. e3 Nc6 8. Ne5
+Nxe5 9. Bxe5 Bg4 10. Qc1 Qd7 11. d3 Qf5 12. Bb2 Bh3 13. Nd2 Bxg2 14. Kxg2 Rfd8
+15. Qd1 Rac8 16. Qe2 Qe6 17. Rfe1 b5 18. a4 c4 19. Bd4 a6 20. axb5 axb5 21. Nf3
+Nd7 22. Ra5 cxb3 23. cxb3 b4 24. Bxg7 Kxg7 25. Qb2+ Qf6 26. Qd4 Qxd4 27. exd4 e6
+28. Rea1 Rc3 29. Rb5 Rb8 30. Rxb8 Nxb8 31. Ne5 Nc6 32. Nxc6 Rxc6 33. Ra4 Rc3 34.
+Rxb4 Rxd3 35. Kf1 Rd2 36. Ke1 Rb2 37. Rb7 g5 38. h3 h5 39. Kf1 Rd2 40. Rb4 g4
+41. hxg4 hxg4 42. Ke1 Rb2 43. Rb8 Kg6 44. Rb7 f6 45. Rb6 Kf5 46. b4 e5 47. dxe5
+fxe5 48. b5 Ke4 49. Rb8 d4 50. b6 Kd3 51. Kf1 Kd2 52. b7 d3 53. Rg8 Rxb7 54.
+Rxg4 Kc3 55. Rg8 Rb1+ 56. Kg2 d2 57. Rc8+ Kb2 58. Rd8 d1=Q 59. Rxd1 Rxd1 60. Kf3
+Re1 61. g4 Kc3 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "2.2"]
+[White "Hammer,J"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2608"]
+[BlackElo "2793"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[WhiteFideId "1503707"]
+[BlackFideId "2900084"]
+[EventDate "2013.05.07"]
+
+1. d4 c6 2. c4 Nf6 3. Nc3 d6 4. Nf3 Nbd7 5. e4 e5 6. Be2 Be7 7. O-O O-O 8. d5
+Nc5 9. Nd2 a5 10. b3 Bd7 11. a4 Ne8 12. Ba3 Nc7 13. Bxc5 dxc5 14. Nf3 Bf6 15.
+Qd2 Na6 16. Rad1 Ra7 17. Qe3 Qb8 18. Kh1 h6 19. Rg1 Qc8 20. g4 g5 21. h3 Qd8 22.
+Nh2 Qb6 23. Rb1 Raa8 24. Nf1 Nb4 25. Ng3 Nc2 26. Qf3 Qd8 27. Nf5 Kh7 28. Bd3 Nd4
+29. Nxd4 cxd4 30. Ne2 Bg7 31. Ng3 Qf6 32. Nf5 Kh8 33. Kg2 Rfe8 34. Rh1 Rac8 35.
+Rh2 Bxf5 36. gxf5 Qd8 37. Qh5 Qf6 38. Re1 Bf8 39. h4 g4 40. Qxg4 Bb4 41. Kf1 Rg8
+42. Qh5 Bxe1 43. Kxe1 Rg1+ 44. Ke2 Rcg8 45. c5 cxd5 46. exd5 e4 47. Bxe4 d3+ 48.
+Bxd3 R8g4 49. Rh3 Rf4 50. Bc2 Kg7 51. Re3 Rxh4 52. Qf3 Rhh1 53. Qf4 Re1+ 54. Kd2
+Rxe3 55. Qxe3 Qa1 56. Qg3+ Kf6 57. Qd6+ Kg7 58. Qg3+ Kf6 59. Qd6+ Kg7 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "2.3"]
+[White "Wang Hao"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2743"]
+[BlackElo "2783"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "8602883"]
+[BlackFideId "5000017"]
+[EventDate "2013.05.07"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2
+c6 9. Bf4 a5 10. Rd1 Nh5 11. Bc1 f5 12. Nc3 Bd6 13. Ng5 Ndf6 14. c5 Bc7 15. f4
+Ne4 16. Nf3 Bd7 17. Rb1 Be8 18. Nxe4 dxe4 19. Ng5 Qc8 20. Qc4 Bf7 21. Bd2 Nf6
+22. a3 h6 23. Nxf7 Rxf7 24. b4 axb4 25. axb4 Nd5 26. b5 Ba5 27. b6 Rf8 28. Bf1
+Bxd2 29. Rxd2 Ra3 30. Ra2 Rxa2 31. Qxa2 Nc3 32. Qb3 Nxb1 33. Qxb1 Qd7 34. e3 Ra8
+35. Bc4 Kf8 36. Kg2 Ra3 37. Qc1 Ra8 38. Qc2 Qf7 39. Qe2 g5 40. Qb2 gxf4 41. exf4
+Qf6 42. Kf2 h5 43. h4 Rd8 44. Ke3 Qg7 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "2.4"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2769"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[WhiteFideId "13300474"]
+[BlackFideId "4102142"]
+[EventDate "2013.05.07"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Bd3 c5 7. dxc5 dxc5 8. e5
+Nd5 9. Nxd5 Qxd5 10. Qe2 Bf5 11. Bxf5 gxf5 12. O-O Nc6 13. Rd1 Qe6 14. Be3 b6
+15. Ng5 Qg6 16. h4 h5 17. Bf2 Rad8 18. Rxd8 Rxd8 19. Rd1 Rxd1+ 20. Qxd1 Bh6 21.
+c3 Kf8 22. Qd7 Bxg5 23. hxg5 Qe6 24. Qd1 Qxa2 25. Qxh5 Ke8 26. g6 Qb1+ 27. Kh2
+fxg6 28. Qxg6+ Kd7 29. g4 Qxb2 30. Qxf5+ e6 31. Qd3+ Ke8 32. Kg3 Ne7 33. Qc4 Nd5
+34. Qa4+ Kf8 35. Qxa7 Qxc3+ 36. Kh4 Nxf4 37. Qb8+ Kg7 38. Bg3 Ng6+ 39. Kh3 Qf3
+40. Qc7+ Kh6 41. g5+ Kxg5 42. Qd8+ Kh5 43. Kh2 Kg4 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "2.5"]
+[White "Nakamura,Hi"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2767"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "14109603"]
+[EventDate "2013.05.07"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. a3 Be7 7. g3 d5 8. Bg2
+O-O 9. cxd5 exd5 10. O-O Re8 11. h3 Na5 12. b3 Be6 13. Bb2 Rc8 14. e3 Bd6 15.
+Qd3 Qd7 16. Ncb5 Be5 17. g4 a6 18. f4 axb5 19. fxe5 Ne4 20. Nxb5 Nxb3 21. Rad1
+Nbc5 22. Qe2 Ng3 23. Qf2 Qxb5 24. Bd4 Nxf1 25. Bxf1 Qa4 26. Rb1 Ne4 27. Qb2 Qc2
+28. Qxc2 Rxc2 29. Rxb7 h5 30. a4 Ra2 31. gxh5 Rc8 32. Rb1 Nd2 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "3.1"]
+[White "Karjakin,Sergey"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2608"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "14109603"]
+[BlackFideId "1503707"]
+[EventDate "2013.05.07"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c6 6. b3 d5 7. Bb2 Bg4 8. d3
+Nbd7 9. Nbd2 Qb8 10. h3 Bxf3 11. Nxf3 e5 12. h4 Re8 13. Bh3 Qd6 14. cxd5 cxd5
+15. Rc1 Rad8 16. Qd2 Qa6 17. a3 e4 18. Nd4 Ne5 19. Rfd1 exd3 20. exd3 h5 21. Rc7
+Nfg4 22. Kg2 Rd7 23. Rxd7 Nxd7 24. Nf3 Qb6 25. Bxg7 Kxg7 26. Qc3+ Kg8 27. Bxg4
+hxg4 28. Nd4 Qf6 29. Qb4 b6 30. Rc1 Nc5 31. Qc3 Ne6 32. Re1 Kh7 33. Qa1 Nf4+ 34.
+gxf4 Rxe1 35. Qxe1 Qxd4 36. Qd2 f5 37. Qe2 Qxf4 38. Qe7+ Kh6 39. Qf8+ Kh5 40.
+Qh8+ Qh6 41. Qd8 Qf4 42. Qh8+ Qh6 43. Qd8 Qf4 44. Qh8+ Qh6 45. Qe5 Kxh4 46. Qxd5
+Qf4 47. Qd8+ Kh5 48. Qh8+ Qh6 49. Qe5 Qg5 50. d4 f4 51. Qh8+ Qh6 52. Qe5+ Kh4
+53. d5 f3+ 54. Kh2 Qd2 55. Qf6+ Kh5 56. Kg3 Qe1 57. Qh4# 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "3.2"]
+[White "Svidler,P"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2775"]
+[ECO "A10"]
+[Opening "English opening"]
+[WhiteFideId "4102142"]
+[BlackFideId "2016192"]
+[EventDate "2013.05.07"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 f5 4. Nc3 Nf6 5. d4 O-O 6. Nf3 d6 7. O-O Qe8 8. d5 Na6
+9. Nd4 Nc5 10. b3 Bd7 11. Bb2 c6 12. Rb1 a5 13. Ba3 Nfe4 14. Nxe4 Nxe4 15. Bb2
+cxd5 16. cxd5 a4 17. Ne6 Bxb2 18. Rxb2 Bxe6 19. dxe6 Qb5 20. Qd4 Qc5 21. Qxc5
+Nxc5 22. b4 Ne4 23. Rc1 a3 24. Rb3 b5 25. Rc7 Rfc8 26. Rxc8+ Rxc8 27. Bxe4 fxe4
+28. Rxa3 Kg7 29. Ra7 Kf6 30. Rb7 Rc2 31. e3 Rxa2 32. Rxb5 Kxe6 33. Rb7 Rb2 34.
+g4 h5 35. gxh5 gxh5 36. Kg2 Kf6 37. b5 d5 38. b6 e5 39. Rb8 d4 40. exd4 exd4 41.
+b7 Kg7 42. Rd8 Rxb7 43. Rxd4 Re7 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "3.3"]
+[White "Radjabov,T"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2743"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[WhiteFideId "13400924"]
+[BlackFideId "8602883"]
+[EventDate "2013.05.07"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. c3 Qb6 5. Qb3 Nc6 6. dxc5 Qxc5 7. e3 g6 8. Nbd2
+Bg7 9. h3 O-O 10. Be2 Re8 11. Ne5 Nh5 12. Nd3 Qa5 13. Bh2 e5 14. O-O Nf6 15. a4
+Qc7 16. Nf3 b6 17. Nb4 Nxb4 18. Qxb4 a5 19. Qb3 Bb7 20. Rfd1 Nd7 21. Bb5 Nc5 22.
+Qa2 Re7 23. Rac1 Rd8 24. c4 d4 25. Nxd4 Red7 26. Rf1 Rd6 27. Ne2 Rd2 28. Nc3 Qe7
+29. Nd5 Bxd5 30. cxd5 R8xd5 31. Qc4 h5 32. b4 axb4 33. Qxb4 Qf6 34. Bc4 Rd8 35.
+a5 Nd3 36. Bxd3 R2xd3 37. axb6 Rb8 38. b7 Qe6 39. Rfd1 Rb3 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "3.4"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2813"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "13300474"]
+[EventDate "2013.05.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. O-O Re8 8.
+Nc4 Nd7 9. a4 a5 10. b3 Bf8 11. Kh1 b6 12. g3 Ba6 13. Bb2 Bxc4 14. bxc4 g6 15.
+Nh4 Bh6 16. Ng2 Nc5 17. f4 exf4 18. gxf4 Bg7 19. Bxg7 Kxg7 20. f5 Qg5 21. Rf3
+Rad8 22. Qf1 Rd6 23. Qf2 Qf6 24. Rf1 g5 25. Rh3 Qd4 26. f6+ Qxf6 27. Rf3 Qe6 28.
+Rxf7+ Kg8 29. Ne3 Rd7 30. Rf8+ Kg7 31. Rxe8 Qxe8 32. Qf6+ Kg8 33. Nf5 h6 34.
+Nxh6+ Kh7 35. Nf7 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "3.5"]
+[White "Topalov,V"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2868"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[WhiteFideId "2900084"]
+[BlackFideId "1503014"]
+[EventDate "2013.05.07"]
+
+1. Nf3 d5 2. b3 c5 3. e3 g6 4. Bb2 Nf6 5. c4 dxc4 6. Bxc4 Bg7 7. O-O Nc6 8. d4
+cxd4 9. Nxd4 Nxd4 10. Bxd4 O-O 11. Nc3 Bd7 12. Nd5 Bc6 13. Nxf6+ Bxf6 14. Bxf6
+exf6 15. Qxd8 Rfxd8 16. Rfd1 f5 17. f3 Kg7 18. Kf2 Kf6 19. h4 h6 20. Be2 g5 21.
+hxg5+ hxg5 22. Rxd8 Rxd8 23. Rd1 Rxd1 24. Bxd1 f4 25. g3 Ke5 26. b4 Bd5 27. a3
+f5 28. gxf4+ gxf4 29. Be2 b6 30. Bd1 Bc4 31. exf4+ Kxf4 32. Bc2 Bd5 33. Bd1 Bc4
+34. Bc2 Ke5 35. Kg3 Be6 36. Bb1 f4+ 37. Kh4 Kd4 38. Kg5 Ke3 39. Be4 Bd7 40. Bd5
+Kd4 41. Be4 Kc3 42. Kxf4 Kb3 43. Bd3 Kxa3 44. b5 Kb4 45. Ke5 Bxb5 46. Bc2 a5 47.
+f4 a4 48. Kd4 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "4.1"]
+[White "Wang Hao"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2743"]
+[BlackElo "2793"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "8602883"]
+[BlackFideId "2900084"]
+[EventDate "2013.05.07"]
+
+1. Nf3 c6 2. g3 d6 3. d4 Nd7 4. c4 e5 5. Nc3 Ngf6 6. Qc2 Be7 7. Bg2 O-O 8. O-O
+Re8 9. Rd1 Qc7 10. h3 a6 11. a4 a5 12. e4 Bf8 13. Be3 exd4 14. Nxd4 Ne5 15. b3
+g6 16. Rd2 Ned7 17. Rad1 Nc5 18. Bg5 Bg7 19. Nde2 Qb6 20. Rxd6 Nfd7 21. Nd5 Qxb3
+22. Qxb3 Nxb3 23. Nc7 Re5 24. Nxa8 Rxg5 25. Rxd7 Bxd7 26. Rxd7 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "4.2"]
+[White "Hammer,J"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2608"]
+[BlackElo "2868"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3 Bb7"]
+[WhiteFideId "1503707"]
+[BlackFideId "1503014"]
+[EventDate "2013.05.07"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 g6 6. O-O Bg7 7. Nc3 Ne4 8. Nxe4
+Bxe4 9. Bg5 Qc8 10. Qd2 h6 11. Bf4 d6 12. Rac1 Nd7 13. Rfe1 Qb7 14. b3 g5 15.
+Be3 f5 16. Red1 O-O 17. Bf1 Rae8 18. Ne1 e5 19. dxe5 Nxe5 20. f3 Bc6 21. Bd4 f4
+22. gxf4 Rxf4 23. Be3 Rf7 24. Bf2 Qc8 25. Bg3 Qf5 26. Nc2 Qxf3 27. exf3 Nxf3+
+28. Kh1 Nxd2+ 29. Bg2 Bxg2+ 30. Kxg2 Re2+ 31. Kh1 Nf3 32. Nb4 a5 33. Rc2 Rfe7
+34. Nd5 Rxc2 35. Nxe7+ Kf7 36. Nd5 h5 37. Rf1 g4 38. Nxc7 Be5 39. Rf2 Rc1+ 40.
+Kg2 Rg1# 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "4.3"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2745"]
+[ECO "B34"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "13400924"]
+[EventDate "2013.05.07"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nb3 Nf6 7. Be2 d6 8. O-O
+O-O 9. Re1 Be6 10. Bf1 Rc8 11. Bg5 Re8 12. Qd2 Nd7 13. Rad1 Nb6 14. f4 Bc4 15.
+Be2 Bxe2 16. Qxe2 Qc7 17. Nb5 Qb8 18. c3 a6 19. N5d4 Nxd4 20. cxd4 e6 21. Rd3
+Qc7 22. Qf2 h6 23. Bh4 Qd7 24. Rf1 Nc4 25. Rh3 a5 26. e5 Qb5 27. Bf6 Bxf6 28.
+exf6 Qf5 29. Qh4 h5 30. Rg3 a4 31. Nc1 Nb6 32. Ne2 Nd5 33. Nc3 Qxf6 34. Qxh5
+Nxc3 35. bxc3 Rxc3 36. Qd1 Rxg3 37. hxg3 b5 38. d5 e5 39. f5 g5 40. Qd3 Rb8 41.
+Rb1 Kg7 42. g4 Qe7 43. Rxb5 Qa7+ 44. Kf1 Qa6 45. Rb3 axb3 46. Qxa6 b2 47. f6+
+Kg8 48. Qxd6 b1=Q+ 49. Kf2 Rb2+ 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "4.4"]
+[White "Nakamura,Hi"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2783"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "5000017"]
+[EventDate "2013.05.07"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. a3 Bc5 7. Nb3 Be7 8. g3
+b6 9. Bg2 Ba6 10. Nd2 Rc8 11. b4 Bb7 12. O-O O-O 13. Bb2 d6 14. Rc1 Qd7 15. Qa4
+Rfd8 16. Rfd1 a6 17. Nde4 Nxe4 18. Nxe4 Nb8 19. Qxd7 Rxd7 20. Bd4 f5 21. Nd2
+Bxg2 22. Kxg2 Rb7 23. e4 g6 24. exf5 gxf5 25. f4 Nd7 26. Re1 Kf7 27. Rc3 b5 28.
+Rce3 Nf8 29. cxb5 axb5 30. Nf3 Rc2+ 31. R1e2 Rxe2+ 32. Rxe2 Ng6 33. Rc2 Bf6 34.
+Be3 Ne7 35. h3 h5 36. Bd4 Bxd4 37. Nxd4 e5 38. fxe5 dxe5 39. Nf3 e4 40. Nd4 Kf6
+41. h4 Ke5 42. Ne2 Ra7 43. Rc5+ Kd6 44. Nd4 Rd7 45. Rxb5 Rc7 46. Nxf5+ Nxf5 47.
+Rxf5 Rc2+ 48. Rf2 Rc3 49. Ra2 Rb3 50. a4 Rxb4 51. a5 Kc7 52. a6 Kb8 53. Ra5 Rb2+
+54. Kh3 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "4.5"]
+[White "Karjakin,Sergey"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2769"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "4102142"]
+[EventDate "2013.05.07"]
+
+1. e4 c5 2. Nf3 a6 3. c3 e6 4. d4 d5 5. exd5 exd5 6. Be3 c4 7. b3 cxb3 8. axb3
+Bd6 9. Bd3 Ne7 10. O-O Bf5 11. Bxf5 Nxf5 12. Bg5 f6 13. Qd3 Qd7 14. Re1+ Kf7 15.
+c4 Nc6 16. Nc3 Nb4 17. Qb1 Rhe8 18. Bd2 Rxe1+ 19. Bxe1 Re8 20. Na4 Rxe1+ 21.
+Nxe1 Nxd4 22. Qd1 Be5 23. Rb1 Qf5 24. Nc3 dxc4 25. bxc4 a5 26. Nd5 Nxd5 27. cxd5
+b5 28. Rc1 Qf4 29. Qh5+ Ke7 30. Rd1 Ne2+ 31. Kf1 Nc3 32. d6+ Bxd6 33. Nd3 Qc4
+34. Re1+ Kd7 35. Qxh7 Kc6 36. Re8 a4 37. Kg1 a3 38. Nc1 Ne2+ 39. Nxe2 a2 40. g3
+a1=Q+ 41. Kg2 Qd5+ 42. Kh3 Kd7 43. Re3 f5 44. Nc3 Qf7 45. Nxb5 Qa5 46. Nxd6 Kxd6
+47. Qh4 Qf6 48. Qc4 Qh6+ 49. Kg2 Qd5+ 50. Qxd5+ Kxd5 51. Rf3 Ke5 52. h4 Qc6 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "5.1"]
+[White "Anand,V"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2767"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "14109603"]
+[EventDate "2013.05.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. a4 b4 8. O-O d6
+9. Be3 Bxe3 10. fxe3 O-O 11. Nbd2 Na5 12. Ba2 Be6 13. Qe1 c5 14. Nh4 g6 15. Nhf3
+Bxa2 16. Rxa2 Nd7 17. Ra1 Qe7 18. b3 Kh8 19. Qg3 Nf6 20. Rf2 Nh5 21. Qh3 Qe6 22.
+g4 Nf6 23. Rg2 Kg7 24. Rf1 h6 25. Qh4 Ng8 26. g5 h5 27. Rgf2 Qg4+ 28. Qxg4 hxg4
+29. Ne1 f6 30. Rg2 f5 31. exf5 gxf5 32. e4 Ne7 33. exf5 Nxf5 34. Rxg4 Nc6 35.
+Rf2 Ncd4 36. Ne4 Ne3 37. Rh4 Ne2+ 38. Kh1 Rxf2 39. Nxf2 Rf8 40. Re4 Rxf2 41.
+Rxe3 Rf1+ 42. Kg2 Rxe1 43. Kf2 Rh1 44. Kxe2 Rxh2+ 45. Kd1 Kg6 46. Rf3 Kxg5 47.
+Rf7 d5 48. Rd7 d4 49. Rd5 c4 50. bxc4 Kf4 51. Kc1 b3 52. cxb3 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "5.2"]
+[White "Radjabov,T"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2775"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[WhiteFideId "13400924"]
+[BlackFideId "2016192"]
+[EventDate "2013.05.07"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. a4 Nf6 6. f3 c6 7. Qd2 h5 8. Bd3 a5 9.
+Nge2 Na6 10. O-O O-O 11. Kh1 e5 12. Bc4 Nb4 13. Bb3 Qc7 14. Bh6 Kh7 15. Bxg7
+Kxg7 16. Rad1 Be6 17. Bxe6 fxe6 18. dxe5 dxe5 19. Nb1 Rad8 20. Qc3 Rxd1 21. Rxd1
+Rd8 22. Rxd8 Qxd8 23. Nd2 Na2 24. Qe3 Nb4 25. Qc3 Na2 26. Qe3 Nd7 27. Kg1 Qb6
+28. Qxb6 Nxb6 29. b3 Nb4 30. c3 Nd3 31. Kf1 Nd7 32. Nc4 b6 33. g3 Kf6 34. h4 Ke7
+35. Kg2 Kd8 36. f4 N3c5 37. fxe5 Nxb3 38. Nf4 Nbc5 39. Nxg6 Nxe4 40. g4 b5 41.
+gxh5 Ke8 42. h6 Nf8 43. Nd6+ Nxd6 44. Nxf8 Nf7 45. Nxe6 bxa4 46. h7 a3 47. Nd4
+a2 48. Nc2 Ke7 49. Kf2 Ke6 50. Ke2 Kxe5 51. Kd2 Ke4 52. Kc1 Kd3 53. Kb2 c5 54.
+h5 a4 55. Na3 a1=Q+ 56. Kxa1 Kxc3 57. Nb5+ Kd3 58. Kb2 c4 59. Ka3 c3 60. Nxc3
+Kxc3 61. Kxa4 Kc4 62. Ka3 Kd5 63. Kb4 Ke5 64. Kc5 Kf6 65. Kd5 Kg7 66. Ke6 Ng5+
+67. Kf5 Kxh7 68. Kxg5 Kg7 69. h6+ Kh7 70. Kf4 Kxh6 71. Ke4 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "5.3"]
+[White "Carlsen,M"]
+[Black "Wang Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2868"]
+[BlackElo "2743"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[WhiteFideId "1503014"]
+[BlackFideId "8602883"]
+[EventDate "2013.05.07"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Bb5+ Bd7 7. Bxd7+ Nfxd7 8.
+d4 O-O 9. Bg5 Nc6 10. d5 Nce5 11. Nfd2 b5 12. a4 h6 13. Be3 a6 14. Na3 Rb8 15.
+axb5 axb5 16. Qe2 c4 17. b3 b4 18. cxb4 c3 19. Ndb1 Rxb4 20. Nxc3 Rxb3 21. Nab5
+Rb4 22. Rfb1 Rxb1+ 23. Rxb1 Qc8 24. Rb4 Nc5 25. Na7 Qd7 26. Ncb5 Ncd3 27. Rb1 g5
+28. Nc6 Ra8 29. Nba7 e6 30. h3 exd5 31. exd5 Re8 32. Nb5 f5 33. Nbd4 f4 34. Bd2
+Nc5 35. Qh5 Ne4 36. Bb4 Nf6 37. Qd1 Nxd5 38. Qb3 Qf7 39. Bxd6 Nxc6 40. Nxc6 Qe6
+41. Rd1 Qxd6 42. Rxd5 Qe6 43. Nd8 Qe1+ 44. Kh2 Kh7 45. Qd3+ Qe4 46. Qxe4+ Rxe4
+47. Rd7 Kg6 48. f3 Re2 49. Nb7 Bc3 50. Nc5 Bf6 51. Rd6 Kg7 52. h4 gxh4 53. Kh3
+Bg5 54. Ne4 Kf7 55. Rc6 Kg7 56. Nd6 Kg6 57. Nb5+ Kg7 58. Nd4 Rd2 59. Nf5+ Kh7
+60. Rd6 Rxd6 61. Nxd6 Kg6 62. Kg4 h5+ 63. Kh3 Kf6 64. Ne4+ Kf5 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "5.4"]
+[White "Svidler,P"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2608"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[WhiteFideId "4102142"]
+[BlackFideId "1503707"]
+[EventDate "2013.05.07"]
+
+1. g3 Nf6 2. Bg2 g6 3. c4 c6 4. e4 d5 5. e5 Nfd7 6. d4 dxc4 7. e6 fxe6 8. Na3
+Bg7 9. Nf3 b5 10. O-O a6 11. b3 c3 12. Nb1 b4 13. a3 Nb6 14. axb4 Nd5 15. Qc2
+Nxb4 16. Qxc3 Nd5 17. Qc2 O-O 18. Nbd2 a5 19. Nc4 Na6 20. Bd2 Nab4 21. Qe4 c5
+22. dxc5 Bxa1 23. Rxa1 Bd7 24. Nfe5 Be8 25. Bh6 Rf6 26. Ng4 Rf5 27. Bc1 Kf8 28.
+Bb2 a4 29. Nh6 Rf6 30. Bxf6 exf6 31. Qxe6 Kg7 32. Qg8+ Kxh6 33. Qf8+ Kg5 34. h4+
+Kg4 35. Rd1 Qe7 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "5.5"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2813"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[WhiteFideId "2900084"]
+[BlackFideId "13300474"]
+[EventDate "2013.05.07"]
+
+1. Nf3 d5 2. b3 Bg4 3. e3 e6 4. Bb2 Nf6 5. d3 a5 6. a3 Nbd7 7. Nbd2 Bd6 8. h3
+Bxf3 9. Nxf3 O-O 10. Be2 c6 11. O-O Qe7 12. c4 Rfd8 13. Qc2 Nf8 14. e4 dxe4 15.
+dxe4 e5 16. c5 Bxc5 17. Nxe5 Bd4 18. Bxd4 Rxd4 19. Nf3 Rxe4 20. Bd3 Re6 21. Bc4
+Nd5 22. Rfd1 Rd8 23. Bxd5 cxd5 24. Qc3 Ra6 25. Nd4 Ne6 26. Nf5 Qg5 27. Qe5 g6
+28. Rxd5 Rxd5 29. Qxd5 Qxf5 30. Qxb7 Rd6 31. b4 axb4 32. axb4 Kg7 33. b5 Rd2 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "6.1"]
+[White "Hammer,J"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2608"]
+[BlackElo "2743"]
+[ECO "D19"]
+[Opening "QGD Slav"]
+[Variation "Dutch variation"]
+[WhiteFideId "1503707"]
+[BlackFideId "8602883"]
+[EventDate "2013.05.07"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg4 10. Rd1 Qa5 11. e4 Qh5 12. h3 Bxf3 13. Qxf3 Qxf3 14. gxf3 a5 15.
+Na2 Be7 16. Be3 O-O 17. Nc1 Rfc8 18. Nb3 Bb4 19. Be2 Kf8 20. Nc1 Ke8 21. Nd3 Be7
+22. Rdc1 g6 23. Rab1 Nb8 24. Rc4 Nfd7 25. b3 Rd8 26. f4 f5 27. exf5 exf5 28. d5
+Nf6 29. dxc6 Nxc6 30. Bf3 Rxd3 31. Rxc6 Ne4 32. Rb6 Rd7 33. Bxe4 fxe4 34. Re6
+Rad8 35. Rxe4 Rd1+ 36. Rxd1 Rxd1+ 37. Kg2 Kf7 38. Re5 Bb4 39. Rb5 Rd7 40. Bb6
+Rd3 41. Bc7 Ke6 42. Rxb7 Rd7 43. Rb6+ Kf5 44. Rb5+ Ke4 45. Bxa5 Bd6 46. Bd2 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "6.2"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2868"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2013.05.07"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 g6 4. Bd3 c5 5. O-O Bg7 6. Nbd2 O-O 7. dxc5 Qc7 8. Nb3
+b6 9. cxb6 axb6 10. Bd2 Bb7 11. h3 e5 12. Be2 d5 13. a4 Nbd7 14. a5 Rfc8 15. a6
+Bc6 16. Bb4 Bf8 17. Bxf8 Nxf8 18. Ne1 Rd8 19. c3 Ne6 20. Nc2 Rac8 21. f4 d4 22.
+fxe5 dxc3 23. Ncd4 cxb2 24. exf6 bxa1=Q 25. Qxa1 Qe5 26. Nf5 Qe4 27. Nh6+ Kf8
+28. Qa3+ Nc5 29. Rf3 Qb1+ 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "6.3"]
+[White "Karjakin,Sergey"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2745"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "13400924"]
+[EventDate "2013.05.07"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 e5 6. Nf5 Bxf5 7. exf5 Qd7 8.
+g3 Qxf5 9. Bg2 Nf6 10. O-O Be7 11. Nd5 Nxd5 12. Bxd5 O-O 13. c3 Qd7 14. a4 Bd8
+15. b4 Ne7 16. Bg2 d5 17. Qb3 Rc8 18. Rd1 Qc6 19. Bb2 e4 20. b5 Qe6 21. a5 Bc7
+22. Ba3 Bd6 23. Bxd6 Qxd6 24. Bxe4 Qe5 25. Bxd5 Nxd5 26. Rxd5 Rxc3 27. Rxe5 Rxb3
+28. Rd1 Ra3 29. b6 axb6 30. axb6 Rb3 31. Rd6 g6 32. Re7 Kg7 33. Rxb7 h5 34. h4
+Rb2 35. Kg2 Re8 36. Rdd7 Rf8 37. Kf3 Rb4 38. Ke3 Rb2 39. f3 Rb3+ 40. Ke4 Re8+
+41. Kd4 Rxf3 42. Rbc7 Re1 43. b7 Rb1 44. Kc5 Rc3+ 45. Kd6 Rd3+ 46. Ke7 Rxd7+ 47.
+Kxd7 g5 48. Kc8 Kg6 49. Rc5 f5 50. Rc6+ 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "6.4"]
+[White "Nakamura,Hi"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2793"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[WhiteFideId "2016192"]
+[BlackFideId "2900084"]
+[EventDate "2013.05.07"]
+
+1. c4 c6 2. e3 d6 3. b3 e5 4. Bb2 Nf6 5. d4 Nbd7 6. Nf3 e4 7. Nfd2 d5 8. f3 exf3
+9. Qxf3 Nb6 10. Bd3 Bg4 11. Qf2 Bh5 12. c5 Nbd7 13. O-O Be7 14. b4 Bg6 15. Bxg6
+hxg6 16. h3 Nf8 17. Nc3 Ne6 18. Nf3 O-O 19. a4 Qb8 20. b5 Bd8 21. Ba3 Bc7 22.
+Rab1 Bg3 23. Qc2 Qd8 24. Ne2 Bc7 25. bxc6 bxc6 26. Rb7 Ne4 27. Nc3 Ng3 28. Rfb1
+Re8 29. Qf2 Re7 30. a5 Nf5 31. a6 Bg3 32. Qd2 Qa5 33. Rxe7 Nxe7 34. Nxd5 Qd8 35.
+Nxe7+ Qxe7 36. e4 Nc7 37. Qd3 Rd8 38. Rb7 Qe6 39. Ng5 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "6.5"]
+[White "Svidler,P"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2783"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "5000017"]
+[EventDate "2013.05.07"]
+
+1. c4 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O e6 6. e3 Nge7 7. d4 cxd4 8. Nxd4
+O-O 9. Nxc6 bxc6 10. c5 f5 11. Qc2 Nd5 12. Na3 Ba6 13. Rd1 Rb8 14. e4 fxe4 15.
+Bxe4 Rb4 16. Kg2 Qf6 17. f3 Rxb2 18. Bxb2 Qxb2 19. Qxb2 Bxb2 20. Nc2 Bxa1 21.
+Rxa1 Rb8 22. Nd4 Rb2+ 23. Kh3 Rd2 24. Nb3 Rf2 25. g4 Bf1+ 26. Kg3 Rg2+ 27. Kh4
+Rxh2+ 28. Kg5 Bc4 29. Na5 Kg7 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "7.1"]
+[White "Radjabov,T"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2769"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "4102142"]
+[EventDate "2013.05.07"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 c5 4. g3 Nc6 5. Bg2 d6 6. a3 e6 7. b4 Nge7 8. Rb1 O-O
+9. O-O b6 10. Bb2 cxb4 11. axb4 Nxb4 12. Ne4 e5 13. d3 a5 14. Qd2 Bb7 15. Ba3 d5
+16. cxd5 Nexd5 17. Rfc1 Re8 18. h4 f5 19. Neg5 h6 20. e4 Nf6 21. Bxb4 axb4 22.
+Qxb4 hxg5 23. Nxg5 Qe7 24. Qxb6 Rac8 25. exf5 Rxc1+ 26. Rxc1 Bxg2 27. Kxg2 gxf5
+28. Qb3+ Kh8 29. Rc6 Qd7 30. Nf7+ Kh7 31. Ng5+ Kg6 32. Rb6 Rd8 33. Kg1 Qd5 34.
+Qxd5 Rxd5 35. Nf3 Kf7 36. Ng5+ Ke7 37. Rb7+ Nd7 38. Rb3 Bf6 39. Nf3 Nc5 40. Ra3
+Nxd3 41. h5 e4 42. Nh2 Bd4 43. h6 Kf7 44. Kg2 Rd6 45. g4 Rxh6 46. gxf5 Nf4+ 47.
+Kg3 Rh3+ 48. Kxf4 Rxa3 49. Kxe4 Bxf2 50. Ng4 Ra4+ 51. Kf3 Bd4 52. Ke4 Bb2+ 53.
+Kf3 Bc1 54. Kg3 Ra5 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "7.2"]
+[White "Topalov,V"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2767"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[WhiteFideId "2900084"]
+[BlackFideId "14109603"]
+[EventDate "2013.05.07"]
+
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 Nf6 5. Bb5 e6 6. c4 Bd6 7. cxd5 exd5 8. d4
+O-O 9. dxc5 Bxc5 10. O-O Bg4 11. Nc3 Rc8 12. Rc1 a6 13. Be2 Ba7 14. h3 Bh5 15.
+Nh4 Bg6 16. Nxg6 hxg6 17. Bf3 d4 18. exd4 Bxd4 19. Na4 Bxb2 20. Nxb2 Nd4 21.
+Rxc8 Nxf3+ 22. Qxf3 Qxc8 23. Nc4 b5 24. Ne3 Qc3 25. Qe2 Re8 26. Rd1 Qe5 27. Qc2
+Ne4 28. Rd5 Qf4 29. Rd3 Qf6 30. Nd5 Qe5 31. Ne3 Kh7 32. a4 bxa4 33. bxa4 Rb8 34.
+Rd5 Qa1+ 35. Rd1 Qe5 36. Rd5 Qf4 37. Rd4 f5 38. Rd7 Qe5 39. Nc4 Qc5 40. Ne3 Qxc2
+41. Nxc2 Rb1+ 42. Kh2 Nxf2 43. Nd4 Ne4 44. Ne6 g5 45. h4 g4 46. Ng5+ Nxg5 47.
+hxg5 Kg6 48. Kg3 Kh5 49. Rxg7 Rb4 50. a5 f4+ 51. Kh2 Ra4 52. g6 Rxa5 53. Rf7
+Kxg6 54. Rxf4 Kg5 55. Rc4 Kh4 56. Rb4 Ra2 57. Rc4 a5 58. Rd4 a4 59. Rc4 a3 60.
+Ra4 Ra1 61. Rb4 Rc1 62. g3+ Kg5 63. Rb5+ Kf6 64. Ra5 Rc2+ 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "7.3"]
+[White "Anand,V"]
+[Black "Hammer,J"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2608"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503707"]
+[EventDate "2013.05.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. O-O Nd7 8.
+Nc4 Re8 9. a4 Bf8 10. Kh1 f6 11. b3 Nc5 12. Ng1 Ne6 13. Ne2 b6 14. f4 exf4 15.
+Nxf4 Nxf4 16. Bxf4 Be6 17. Qf3 Bxc4 18. bxc4 Bd6 19. Qg3 Bxf4 20. Rxf4 Qd6 21.
+Qf3 Re5 22. h3 Rae8 23. Rf5 Rxf5 24. Qxf5 Qe5 25. Qf1 a5 26. Rb1 c5 27. Qf2 Rd8
+28. g3 Rd6 29. Kg2 Qc3 30. Qe2 Re6 31. Qd1 f5 32. exf5 Re3 33. f6 h5 34. f7+ Kf8
+35. Kh1 Qe5 36. Qf1 Qxg3 37. Qf5 Qxh3+ 38. Qxh3 Rxh3+ 39. Kg2 Re3 40. Kf2 Re5
+41. c3 Kxf7 42. d4 Rf5+ 43. Ke3 g5 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "7.4"]
+[White "Carlsen,M"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2868"]
+[BlackElo "2775"]
+[ECO "A00"]
+[Opening "Benko's opening"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2013.05.07"]
+
+1. g3 g6 2. Bg2 Bg7 3. Nf3 e5 4. O-O c5 5. c4 Nc6 6. Nc3 Nge7 7. a3 O-O 8. b4
+cxb4 9. axb4 e4 10. Ng5 f5 11. b5 Ne5 12. Qb3 h6 13. d4 exd3 14. Nf3 dxe2 15.
+Re1 d6 16. Rxe2 Be6 17. Nxe5 dxe5 18. Bxb7 Rb8 19. Rxa7 Qd4 20. Be3 Qxc4 21.
+Qxc4 Bxc4 22. Rd2 Nc8 23. Ra4 Rxb7 24. Rxc4 e4 25. Nd5 Nd6 26. Ne7+ Rxe7 27.
+Rxd6 g5 28. Bc5 Rb7 29. Rd5 Rxb5 30. Bxf8 Rxd5 31. Bxg7 Kxg7 32. g4 fxg4 33.
+Rxe4 h5 34. Re6 Rf5 35. Kg2 Rf6 36. Re5 Kg6 37. Ra5 h4 38. Ra1 h3+ 39. Kg1 Rb6
+40. Kf1 Rb5 41. Rc1 Kf5 42. Ra1 Rb4 43. Ra5+ Kf4 44. Ra1 Rb3 45. Ke2 Kf5 46. Kf1
+Rb2 47. Ra5+ Kg6 48. Ra6+ Kh5 49. Ra1 g3 50. hxg3 Rb3 51. Kg1 Kg4 52. Kh2 Kf3
+53. Ra5 Kxf2 54. Rxg5 Kf3 55. Kxh3 Rb8 56. Rf5+ Ke4 57. g4 Rh8+ 58. Kg3 Rh1 59.
+Ra5 Rh8 60. g5 Rh1 61. Kg4 Rh2 62. g6 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "7.5"]
+[White "Wang Hao"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[WhiteFideId "8602883"]
+[BlackFideId "13300474"]
+[EventDate "2013.05.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Bc5 6. Be3 Bb6 7. Nf5 g6 8.
+Bxb6 axb6 9. Ne3 Nf6 10. f3 Qe7 11. c4 Qb4+ 12. Qd2 Qxd2+ 13. Kxd2 d6 14. Nc3
+Kd8 15. f4 Re8 16. Bd3 Nb4 17. Bb1 Nd7 18. Ned5 Nxd5 19. cxd5 Nc5 20. Bc2 f5 21.
+exf5 Bxf5 22. Rae1 Rf8 23. g3 c6 24. b4 Na6 25. dxc6 bxc6 26. b5 cxb5 27. Bb3
+Nc5 28. Nxb5 Kd7 29. Nd4 Be4 30. Rhf1 d5 31. h4 Nxb3+ 32. axb3 Ra2+ 33. Kc3 Rc8+
+34. Kb4 Rc5 35. Rc1 Rd2 36. Rcd1 Rb2 37. Rc1 Kd6 38. Rfd1 Rg2 39. Nb5+ Kc6 40.
+Nd4+ Kd6 41. Nb5+ Kc6 42. Nd4+ 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "8.1"]
+[White "Svidler,P"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2793"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[WhiteFideId "4102142"]
+[BlackFideId "2900084"]
+[EventDate "2013.05.07"]
+
+1. c4 c6 2. e4 e5 3. Nf3 d6 4. d4 Nd7 5. Nc3 Ngf6 6. Be2 Be7 7. O-O O-O 8. Rb1
+a6 9. b4 Qc7 10. Qc2 Re8 11. Rd1 h6 12. h3 Nf8 13. Be3 Ng6 14. dxe5 dxe5 15. Na4
+Be6 16. Bb6 Qb8 17. Nc5 Nf4 18. Nxe6 Nxe6 19. c5 Bd8 20. Bc4 Bxb6 21. cxb6 Re7
+22. a4 a5 23. b5 c5 24. Bxe6 Rxe6 25. Qxc5 Qf8 26. Rbc1 Nxe4 27. Qd5 Nf6 28.
+Qxb7 Rb8 29. Qa7 e4 30. Nd4 Rexb6 31. Nc6 R6b7 32. Qxa5 Re8 33. Rd8 Kh7 34. Rxe8
+Qxe8 35. Qc3 Rd7 36. b6 Rd3 37. Qe5 Qd7 38. Qc7 Rd1+ 39. Rxd1 Qxd1+ 40. Kh2 e3
+41. fxe3 Nd5 42. Qd6 Qb3 43. Nd4 Qxe3 44. Qxd5 Qf4+ 45. Kg1 Qc1+ 46. Kf2 Qd2+
+47. Kg3 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "8.2"]
+[White "Nakamura,Hi"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2743"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "8602883"]
+[EventDate "2013.05.07"]
+
+1. c4 e5 2. a3 Nf6 3. e3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 cxd5 7. d3 Bc5 8. Nc3
+O-O 9. Be2 exd3 10. Qxd3 Nc6 11. O-O Nxd4 12. exd4 Be7 13. Bf4 a6 14. Rac1 Bd7
+15. Bf3 Bc6 16. Rfe1 Re8 17. Be5 Qd7 18. Re2 Ng4 19. Bf4 Bf8 20. Bg5 h6 21. Bh4
+g5 22. Bg3 Bg7 23. h3 Rxe2 24. Nxe2 Nf6 25. Be5 Ne4 26. Bxg7 Kxg7 27. Bxe4 dxe4
+28. Qc3 Bd5 29. g4 h5 30. Qc7 Qxc7 31. Rxc7 hxg4 32. hxg4 Be6 33. Ng3 Rd8 34.
+Nxe4 Rxd4 35. f3 Bxg4 36. Nxg5 Kf6 37. Ne4+ Ke5 38. Kf2 Be6 39. Ke3 Rd5 40. Rxb7
+Kf5 41. Rb6 a5 42. f4 a4 43. Nc3 Rc5 44. Nxa4 Rc4 45. Rb5+ Kg4 46. Rg5+ Kh4 47.
+Nc3 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "8.3"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2868"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "1503014"]
+[EventDate "2013.05.07"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 a6 8. a5 h6
+9. h3 Re8 10. Re1 exd4 11. Nxd4 Ne5 12. Bf1 c5 13. Nf5 Bf8 14. Ne3 Be6 15. Ned5
+Nc6 16. Nxf6+ Qxf6 17. Nd5 Bxd5 18. Qxd5 Re5 19. Qb3 Rb8 20. c3 d5 21. Rd1 c4
+22. Qc2 dxe4 23. Be3 Nxa5 24. Bd4 Nb3 25. Bxe5 Qxe5 26. Ra4 b5 27. Rxa6 e3 28.
+fxe3 Nc5 29. Rc6 Qe8 30. Rc7 Qe5 31. Rc6 Qe8 32. Rc7 Qe6 33. Qf2 Ne4 34. Qf4 Bd6
+35. Rxd6 Nxd6 36. Be2 Re8 37. Bf3 g5 38. Qd4 Nf5 39. Qc5 Nxe3 40. Bh5 Rf8 41.
+Re7 Qf5 42. Qxe3 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "8.4"]
+[White "Anand,V"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2745"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "5000017"]
+[BlackFideId "13400924"]
+[EventDate "2013.05.07"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 Nh6 7. O-O b6 8. a3
+O-O 9. Be3 f6 10. b4 cxb4 11. axb4 e5 12. Nbd2 Nf7 13. Nc4 Be6 14. Nfd2 f5 15.
+f3 f4 16. Bf2 g5 17. Ra6 h5 18. Qa1 g4 19. fxg4 hxg4 20. hxg4 Bxg4 21. Rxa7 Rxa7
+22. Qxa7 Qg5 23. Bxb6 Re8 24. Nf3 Qh5 25. Ncd2 Re6 26. Kf2 Rg6 27. Ke1 Ng5 28.
+Kd1 Ne6 29. Kc1 Bf8 30. Qb8 Bxf3 31. gxf3 Rg2 32. Qc8 Qg6 33. Nc4 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "8.5"]
+[White "Hammer,J"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2608"]
+[BlackElo "2813"]
+[ECO "A56"]
+[Opening "Czech Benoni defence"]
+[WhiteFideId "1503707"]
+[BlackFideId "13300474"]
+[EventDate "2013.05.07"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Nbd7 6. Be2 Be7 7. Nf3 O-O 8. O-O
+Nh5 9. Ne1 Nf4 10. Bxf4 exf4 11. Nd3 Bg5 12. Bg4 Re8 13. Bxd7 Bxd7 14. Qf3 a6
+15. a4 Qa5 16. Nxf4 Qb4 17. Nh5 Be7 18. Qg3 g6 19. e5 Qxc4 20. Nf6+ Bxf6 21.
+exf6 Re5 22. f4 Rf5 23. Rae1 Qd4+ 24. Kh1 Qxf6 25. Ne4 Qxb2 26. Nxd6 Rxd5 27. f5
+Rxd6 28. Qxd6 Bxf5 29. Qxc5 Rc8 30. Qd6 Qb3 31. a5 Qd3 32. Qf6 h5 33. h3 Qd8 34.
+Re7 Qf8 35. Rxb7 Rd8 36. Rb6 Rd5 37. Rxa6 Bd3 38. Rd1 Rf5 39. Qc6 Bxa6 40. Qxa6
+Qc5 41. Qa8+ Kg7 42. a6 Qa3 43. Qb7 Ra5 44. Rf1 Qa2 45. Kg1 Rxa6 46. Rxf7+ 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "9.1"]
+[White "Radjabov,T"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2608"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "13400924"]
+[BlackFideId "1503707"]
+[EventDate "2013.05.07"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. dxc3 Qxd1+ 7. Kxd1 f6
+8. h4 h5 9. e5 Bg4 10. exf6 exf6 11. Bd3 Kf7 12. Bf4 Bc5 13. Kc2 c6 14. Nd2 Nd7
+15. Ne4 Bf5 16. Rad1 Be7 17. f3 Ne5 18. Bxe5 fxe5 19. g3 Rad8 20. Rhe1 Bxe4 21.
+Bxe4 Rxd1 22. Rxd1 Rd8 23. Re1 Bc5 24. Re2 Be7 25. Bd3 Bf6 26. Re4 Rd7 27. a4
+Kg7 28. Re2 Kf7 29. Rg2 Rd6 30. Be4 Bd8 31. Re2 Bc7 32. Re1 Bd8 33. Bd3 Bf6 34.
+b4 Kg7 35. Be4 Kf7 36. Rb1 Rd7 37. b5 cxb5 38. Rxb5 b6 39. a5 Rd6 40. axb6 axb6
+41. Rb1 Be7 42. Rb5 Bf6 43. c4 Kg7 44. c5 bxc5 45. Rxc5 Rd7 46. Rc6 Kf7 47. Rb6
+Kg7 48. Ra6 Kf7 49. Kb3 Kg7 50. Kc4 Kf7 51. Rb6 Rc7+ 52. Bc6 e4 53. fxe4 Be5 54.
+Kd5 Bxg3 55. e5 Bxh4 56. Rb3 Be7 57. Rf3+ Kg7 58. Rb3 h4 59. Rb7 Rxb7 60. Bxb7
+h3 61. Ke4 h2 62. Kf4 Bc5 63. Kg4 Bd4 64. e6 Kf6 65. Bd5 h1=Q 66. Bxh1 Kxe6 67.
+Be4 Kf6 68. Bxg6 Ke5 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "9.2"]
+[White "Topalov,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2783"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2900084"]
+[BlackFideId "5000017"]
+[EventDate "2013.05.07"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. d3 Bg4 5. b3 Nbd7 6. Bb2 e6 7. Nbd2 Be7 8. e3
+a5 9. a3 O-O 10. h3 Bxf3 11. Nxf3 Ne8 12. O-O Bf6 13. d4 Nd6 14. Ne5 a4 15. Nd3
+axb3 16. cxb3 Re8 17. a4 e5 18. dxe5 Nxe5 19. Nxe5 Bxe5 20. Bxe5 Rxe5 21. Rc1
+Qb6 22. Rc3 Ne4 23. Rd3 g6 24. Qc2 Re7 25. Rd4 Ng5 26. Qc3 Ne6 27. Rd2 Qc5 28.
+Rc1 Qxc3 29. Rxc3 f5 30. h4 Kf7 31. Bf3 Kf6 32. Bd1 h6 33. b4 g5 34. b5 cxb5 35.
+axb5 Rd7 36. Bf3 Rad8 37. Kh2 d4 38. exd4 Nxd4 39. Rb2 Nxf3+ 40. Rxf3 Rd2 41.
+hxg5+ hxg5 42. Rfb3 R8d5 43. Rxd2 Rxd2 44. Kg2 g4 45. b6 Ke6 46. Kf1 Kd6 47. f3
+gxf3 48. Rxf3 Rd5 49. Rb3 Kc6 50. Ke2 Rb5 51. Rd3 Kxb6 52. Rd6+ Kc7 53. Rf6 Rd5
+54. Ke3 b5 55. Rg6 b4 56. g4 fxg4 57. Ke4 1/2-1/2
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "9.3"]
+[White "Wang Hao"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2743"]
+[BlackElo "2767"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "8602883"]
+[BlackFideId "14109603"]
+[EventDate "2013.05.07"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Be2 e6 8. O-O Nbd7
+9. h3 Bh5 10. Bb2 Qb8 11. c5 a5 12. Rc1 b4 13. Na4 Be7 14. Ne5 Bxe2 15. Qxe2
+Nxe5 16. dxe5 Nd7 17. f4 O-O 18. Qg4 Kh8 19. Bd4 g6 20. Qe2 Qc7 21. g4 Rae8 22.
+g5 h6 23. h4 hxg5 24. hxg5 Kg7 25. Kg2 Rh8 26. Rh1 Qb8 27. Qa6 Qa8 28. Qxa8 Rxa8
+29. Kf3 Rag8 30. Ke2 Kf8 31. Kd3 Ke8 32. a3 Kd8 33. axb4 axb4 34. Ke2 Kc7 35.
+Kf3 Kb7 36. Ke2 Ka6 37. Ra1 Kb5 38. Rac1 Rxh1 39. Rxh1 Bxc5 40. Rh7 Rf8 41. Bxc5
+Nxc5 42. Nxc5 Kxc5 43. Kd3 Kb5 44. e4 dxe4+ 45. Kxe4 c5 46. Kd3 Rd8+ 47. Kc2 Rd7
+48. f5 Kc6 49. fxg6 fxg6 50. Rh6 Rg7 51. Kd3 Kd5 0-1
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "9.4"]
+[White "Carlsen,M"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2868"]
+[BlackElo "2769"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[WhiteFideId "1503014"]
+[BlackFideId "4102142"]
+[EventDate "2013.05.07"]
+
+1. Nf3 g6 2. e4 d6 3. d4 Nf6 4. Nc3 Bg7 5. Be2 O-O 6. O-O a6 7. h3 Nc6 8. Be3 e5
+9. dxe5 Nxe5 10. Nxe5 dxe5 11. Qxd8 Rxd8 12. Bc4 b5 13. Bb3 Bb7 14. f3 Bf8 15.
+a4 b4 16. Nb1 Nd7 17. Nd2 Bc5 18. Kf2 a5 19. Rfd1 Kg7 20. Nc4 Bxe3+ 21. Kxe3 f6
+22. Rd2 Nb6 23. Nxb6 cxb6 24. Rad1 Rxd2 25. Rxd2 Bc6 26. Rd6 Rc8 27. Be6 Rc7 28.
+b3 Kf8 29. Bc4 Kg7 30. h4 h5 31. g4 Bxa4 32. Rxb6 Bd7 33. gxh5 gxh5 34. Bd3 Kf7
+35. f4 exf4+ 36. Kxf4 Rc5 37. Rb7 Ke6 38. Ra7 Kd6 39. Ke3 Bg4 40. Kd4 Re5 41.
+Bc4 Bf3 42. Bd5 Bd1 43. Rf7 Re8 44. Rxf6+ Kc7 45. Ra6 Bxc2 46. Rc6+ 1-0
+
+[Event "Norway Supreme Masters Blitz 2013"]
+[Site "Stavanger NOR"]
+[Date "2013.05.07"]
+[Round "9.5"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2775"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Yusupov-Rubinstein system"]
+[WhiteFideId "13300474"]
+[BlackFideId "2016192"]
+[EventDate "2013.05.07"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 g6 4. Bd3 Bg7 5. O-O O-O 6. Nbd2 d6 7. b3 Nfd7 8. Bb2
+f5 9. e4 f4 10. e5 Nb6 11. Re1 Nc6 12. Ne4 d5 13. Neg5 h6 14. Nh3 Qe8 15. Ba3 g5
+16. Bxf8 Bxf8 17. c3 Be7 18. g3 Qh5 19. Bf1 Bd7 20. Nd2 Qxd1 21. Raxd1 Rf8 22.
+f3 fxg3 23. hxg3 Be8 24. Nf2 Nb8 25. Nd3 Bg6 26. f4 N8d7 27. Re3 g4 28. Nf2 h5
+29. Bd3 Kg7 30. Bxg6 Kxg6 31. Nf1 Nc8 32. Re2 Bd8 33. Ne3 Ne7 34. Rf1 c5 35.
+dxc5 Nxc5 36. Kg2 Bb6 37. Rd1 Nd7 38. c4 Bxe3 39. Rxe3 Nb6 40. Nd3 Nf5 41. Re2
+dxc4 42. Nc5 Rc8 43. Nxe6 cxb3 44. Nd4 Nxd4 45. Rxd4 Rc2 46. f5+ Kxf5 47. Rf4+
+Ke6 48. Rf6+ Kd5 49. Rd6+ Kc5 50. Rdd2 Rxd2 51. Rxd2 Nc4 52. Re2 b2 53. Re1 Nxe5 0-1

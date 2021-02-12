@@ -1,0 +1,7 @@
+--- Games.txt ---
+Format is one game per line, moves separated by spaces. No move numbers.
+Result is indicated at end (1-0 or 0-1 or 1/2-1/2)
+
+This is populated with games from http://www.pgnmentor.com/files.html#events
+Currently contains games from Sofia2005 up to Stavanger2020.
+Use MultiPGNParser.cs for parsing.

@@ -1,0 +1,733 @@
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.13"]
+[Round "1.1"]
+[White "Fridman,D"]
+[Black "Kulaots,K"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2560"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[WhiteFideId "11600454"]
+[BlackFideId "4500261"]
+[EventDate "2019.07.13"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Na3 Nc6 7. Be3 cxd4 8. Nb5
+Qd8 9. Nbxd4 Nd5 10. Bg5 f6 11. Nxc6 bxc6 12. Bd2 e5 13. Qc2 Be6 14. Bd3 g6 15.
+h4 Qd7 16. O-O-O Bc5 17. c4 Bxf2 18. Kb1 Rb8 19. h5 Ne7 20. Bc3 Bf5 21. g4 Bxd3
+22. Rxd3 Qxg4 23. Qxf2 Qxc4 24. Rhd1 O-O 25. Qxa7 e4 26. Qxe7 exd3 27. Rc1 Rbe8
+28. Qc7 Qe4 29. Nd2 Qd5 30. hxg6 hxg6 31. Rg1 g5 32. Qh2 Kg7 33. Qh5 Qg2 34. Nf3
+d2 35. Bxd2 Qe2 36. Bc3 Qd3+ 37. Ka1 Kg8 38. Rxg5+ fxg5 39. Qxg5+ 1-0
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Dominguez Perez,L"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2672"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "1202758"]
+[EventDate "2019.07.13"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. Qf3 Bb4 8.
+Nxc6 bxc6 9. Bd3 e5 10. Qg3 d6 11. O-O Nh5 12. Qf3 Nf6 13. Qg3 Nh5 14. Qf3 Nf6
+15. Na4 Ba5 16. h3 O-O 17. Rad1 h6 18. Qg3 Nh5 19. Qf3 Nf6 20. Bc4 Bc7 21. Bc5
+Re8 22. Rfe1 Rb8 23. Qa3 d5 24. exd5 cxd5 25. Bxd5 Nxd5 26. c4 Ba5 27. Rxd5 Qh4
+28. Be7 Rxe7 29. Rxa5 Re6 30. Raxe5 Qxc4 31. Nc5 Rg6 32. Qf3 Qxa2 33. Re8+ Kh7
+34. b3 Qd2 35. Qxf7 Rf6 36. Qg8+ Kg6 37. R8e2 Qf4 38. Nd3 1-0
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.13"]
+[Round "1.3"]
+[White "Rapport,R"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2775"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "738590"]
+[BlackFideId "4168119"]
+[EventDate "2019.07.13"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 e5 6. Nb5 Bb4+ 7. Bd2 Bc5 8.
+N1c3 O-O 9. Bg2 a6 10. Na3 d6 11. O-O h6 12. Nc2 Be6 13. b3 d5 14. cxd5 Nxd5 15.
+Nxd5 Bxd5 16. Bg5 hxg5 17. Qxd5 Qe7 18. Rfd1 Rad8 19. Qc4 b5 20. Qe4 Nd4 21.
+Nxd4 Bxd4 22. Rac1 b4 23. e3 Bc3 24. Rd3 g6 25. Rcd1 Rxd3 26. Qxd3 Kg7 27. a4
+Qf6 28. Qd7 a5 29. Be4 Qe6 30. Qxe6 fxe6 31. g4 Kf6 32. Rd7 Rc8 33. Bd3 e4 34.
+Bxe4 Be5 35. Bd3 Rc7 36. Rd8 Rc1+ 37. Kg2 Rd1 38. Rd7 Rd2 39. h3 Bb8 40. Kf1 Bh2
+41. Ke1 Rb2 42. Bc4 Bg1 43. Rd6 Bxf2+ 44. Kd1 Bg1 45. Rxe6+ Kg7 46. e4 Rh2 47.
+e5 Rxh3 48. Re7+ Kf8 49. Rf7+ Ke8 50. e6 Re3 51. Kd2 Kd8 52. Rf1 Rg3 53. Rf8+
+Ke7 54. Rf7+ Kd6 55. Rd7+ Kc6 56. Bd5+ 1-0
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.13"]
+[Round "1.4"]
+[White "Radjabov,T"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2737"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[WhiteFideId "13400924"]
+[BlackFideId "1118358"]
+[EventDate "2019.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a3 h6 13. Bc2 d5 14. Nxe5 Nxe5 15.
+dxe5 Rxe5 16. Nf3 Re8 17. e5 Ne4 18. Qe2 c5 19. Nd2 Rxe5 20. f3 c4 21. fxe4 Bc5+
+22. Kh1 dxe4 23. Nf1 e3 24. Bxe3 Bxe3 25. Nxe3 Qh4 26. Qg4 Qe7 27. Qxg7+ Kxg7
+28. Nf5+ Rxf5 29. Rxe7 Rf2 30. Rxb7 Rxc2 31. Rf1 Rf8 32. Ra7 Rxb2 33. Rxa6 f5
+34. Rf3 Rf6 35. Rg3+ Kf7 36. Ra7+ Ke6 37. Ra6+ Kf7 38. Ra7+ Ke6 39. Ra6+ Kf7 40.
+Ra7+ 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.14"]
+[Round "2.1"]
+[White "Nisipeanu,LD"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2672"]
+[BlackElo "2759"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1202758"]
+[BlackFideId "13400924"]
+[EventDate "2019.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Bg5 O-O 7. Nbd2 Re8 8.
+Bh4 b5 9. O-O a5 10. a4 Qd6 11. Bg3 Bg4 12. h3 Bh5 13. Bh2 Nd7 14. g4 Bg6 15.
+Nb3 Bb6 16. Nh4 f6 17. Nxg6 hxg6 18. Kg2 g5 19. c3 Nf8 20. Qc2 Qe7 21. Bg3 Ne6
+22. Rfd1 Red8 23. c4 Qb4 24. axb5 cxb5 25. cxb5 Qxb5 26. Ra3 a4 27. Nd2 Bc5 28.
+Rc3 Bb4 29. Rc4 Nd4 30. Qb1 Bxd2 31. Rxd2 c5 32. Rc3 Rd7 33. h4 gxh4 34. Bxh4 g5
+35. Bg3 Kg7 36. Ra3 Nb3 37. Rd1 Rad8 38. Qa2 Rd4 39. Re1 Rb4 40. Qb1 Rxd3 0-1
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.14"]
+[Round "2.2"]
+[White "Nepomniachtchi,I"]
+[Black "Kulaots,K"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2560"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "4500261"]
+[EventDate "2019.07.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Be7 9. Bg2 Be6 10. a4 Nbd7 11. O-O O-O 12. Be3 Qc7 13. b3 Rfc8 14. a5 b5 15.
+axb6 Nxb6 16. Ra2 a5 17. Qa1 Nbd7 18. Nb5 Qb8 19. c4 Bd8 20. Rd1 Ne8 21. Nec3
+Bb6 22. Bxb6 Qxb6 23. Bf1 Nc5 24. Na4 Nxa4 25. Rxa4 h4 26. g4 Bd7 27. b4 Bxb5
+28. bxa5 Rxa5 29. Rxa5 Bxc4 30. Rb1 Qd8 31. Bxc4 Rxc4 32. Qa2 Rc7 33. Ra8 Rc8
+34. Ra7 Rc7 35. Rbb7 Rxb7 36. Rxb7 Qf6 37. Qa4 Qe6 38. Rb8 Kf8 39. g5 Qe7 40.
+Kh2 Qe6 41. Qa8 Qd7 42. Rb7 Qe6 43. Qd8 g6 44. Ra7 Kg7 45. Re7 Qa2 46. Kg2 Qc4
+47. Rxe8 Qxe4+ 48. Kh2 Qf4+ 49. Kg1 1-0
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.14"]
+[Round "2.3"]
+[White "Wojtaszek,R"]
+[Black "Fridman,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2638"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "accelerated Meran (Alekhine variation)"]
+[WhiteFideId "1118358"]
+[BlackFideId "11600454"]
+[EventDate "2019.07.13"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Nc3 e6 5. d4 a6 6. b3 Bb4 7. Bd2 Nbd7 8. Bd3 O-O
+9. O-O Bd6 10. Re1 h6 11. e4 dxc4 12. bxc4 e5 13. c5 Bc7 14. Qc2 exd4 15. Ne2
+Re8 16. Rad1 Qe7 17. Rc1 Rd8 18. Nexd4 Ne5 19. Nxe5 Qxe5 20. Nf3 Qe7 21. e5 Nd5
+22. Qc4 Be6 23. Qe4 f5 24. exf6 Nxf6 25. Qg6 Qf7 26. Rxe6 Qxe6 27. Bc4 Rd5 28.
+Bxh6 Qf7 29. Qxf7+ Kxf7 30. Be3 Rd8 31. Rb1 Rd7 32. Kf1 Bb8 33. Bd4 Ke8 34. Bxd5
+Nxd5 35. g3 Ba7 36. Ne5 Re7 37. f4 Kd8 38. Kf2 Nf6 39. Kf3 Kc7 40. h4 Nd7 41.
+Nxd7 Rxd7 42. Be5+ Kc8 43. Bd6 Bb8 44. Bxb8 Kxb8 45. g4 Rd5 46. Rc1 g6 47. Rh1
+Rxc5 48. h5 gxh5 49. gxh5 Rf5 50. h6 Rf8 51. h7 Rh8 52. Ke4 1-0
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.14"]
+[Round "2.4"]
+[White "Rapport,R"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2760"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "738590"]
+[BlackFideId "3503240"]
+[EventDate "2019.07.13"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 c5 7. cxd5 Nxd5 8. Bb2
+Nc6 9. d4 cxd4 10. Nxd4 Bd7 11. Na3 Bf6 12. Rc1 Nxd4 13. Bxd4 Bc6 14. Nc4 Nb4
+15. Bxf6 Qxf6 16. Qd2 Bxg2 17. Kxg2 Nc6 18. Rfd1 Rfd8 19. Qe3 Rxd1 20. Rxd1 Rd8
+21. Rd2 h6 22. h4 Qe7 23. f3 b5 24. Rxd8+ Qxd8 25. Ne5 Nxe5 26. Qxe5 a6 27. a4
+bxa4 28. bxa4 a5 29. h5 Qd2 30. Qb5 Kf8 31. Qc5+ Kg8 32. Kf2 Kh7 33. f4 g6 34.
+hxg6+ Kxg6 35. Kf3 Qe1 36. Qc2+ Kg7 37. Qb2+ Kg8 38. Kg2 Qb4 39. Qxb4 axb4 40.
+a5 b3 41. a6 b2 42. a7 b1=Q 43. a8=Q+ Kg7 44. Qf3 Qa1 45. Qg4+ Kh7 46. Qf3 Kg7
+47. Qg4+ 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.16"]
+[Round "3.1"]
+[White "Kulaots,K"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2560"]
+[BlackElo "2737"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[WhiteFideId "4500261"]
+[BlackFideId "1118358"]
+[EventDate "2019.07.13"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 Qb6 14. Rhe1 O-O
+15. Nf5 Bb4 16. Bxb4 Qxb4 17. c3 Qa5 18. Ng3 Rad8 19. Qc2 c5 20. dxc5 Qxc5 21.
+Rd4 Nb6 22. Qd3 Rxd4 23. Qxd4 Qxd4 24. Nxd4 Nbd5 25. Nb5 a6 26. Nd6 b5 27. Nde4
+Rd8 28. Kc2 Ng4 29. Ne2 Rc8 30. a3 f5 31. Nd6 Rc6 32. Nb7 Rc7 33. Nd8 e5 34. Ng3
+f4 35. Nf5 Rc8 36. Ne6 Rc6 37. Nexg7 Kf7 38. Rd1 Ngf6 39. Re1 Ng4 40. Rd1 Ngf6
+41. Re1 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.16"]
+[Round "3.2"]
+[White "Fridman,D"]
+[Black "Nisipeanu,LD"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2672"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[WhiteFideId "11600454"]
+[BlackFideId "1202758"]
+[EventDate "2019.07.13"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nc3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Re8 10. Re1 Nc5 11. Nb3 Ne6 12. Be3 a5 13. h3 Bd7 14. a4 Bc6 15.
+Nd4 Nxd4 16. Bxd4 Nd7 17. Bxg7 Kxg7 18. Nb5 Bxb5 19. axb5 Nc5 20. Qd4+ Kg8 21.
+Re3 Qe7 22. f4 a4 23. Rae1 Rad8 24. Qc3 Qf8 25. Kh2 Re6 26. Qa5 Qe7 27. e5 dxe5
+28. Rxe5 b6 29. Qc3 Rd3 30. Qc2 Rxe5 31. Rxe5 Qd6 32. Bd5 Rb3 33. Kh1 Rxg3 34.
+Qf2 Rxh3+ 35. Kg2 Qd7 36. Rg5 Rd3 37. f5 Rxd5 38. cxd5 Ne4 0-1
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.16"]
+[Round "3.3"]
+[White "Dominguez Perez,L"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2775"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "4168119"]
+[EventDate "2019.07.13"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Bd3 Bxc5 6. Qg4 Ne7 7. b4 h5 8. Qf4 Bb6
+9. Nf3 Nbc6 10. Nbd2 a5 11. b5 Nb4 12. Ba3 Nxd3+ 13. cxd3 Bd7 14. Qa4 Nf5 15.
+Rc1 g5 16. h3 Rc8 17. Rxc8 Qxc8 18. Ke2 Qb8 19. Nb3 Qa7 20. Rc1 g4 21. hxg4 hxg4
+22. Qxg4 Bxf2 23. Nc5 Bg3 24. Rh1 Rf8 25. Rh5 1-0
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.16"]
+[Round "3.4"]
+[White "Radjabov,T"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2735"]
+[ECO "E19"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 9.Qxc3"]
+[WhiteFideId "13400924"]
+[BlackFideId "738590"]
+[EventDate "2019.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Qc2 Nxc3 8. Qxc3
+O-O 9. O-O c5 10. Rd1 Bf6 11. Qb3 cxd4 12. Nxd4 Bxg2 13. Kxg2 Qe7 14. Nf3 d6 15.
+Bf4 e5 16. Be3 Nc6 17. Qa3 Rfd8 18. Nd2 e4 19. Rac1 Rac8 20. Nb3 Qe6 21. Nd4
+Bxd4 22. Bxd4 Ne7 23. Qxa7 Ra8 24. Qxb6 Rdb8 25. Qc7 Rc8 26. Qb6 Rcb8 27. Qc7
+Rc8 28. Qb6 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.17"]
+[Round "4.1"]
+[White "Rapport,R"]
+[Black "Fridman,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2638"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Maroczy system"]
+[WhiteFideId "738590"]
+[BlackFideId "11600454"]
+[EventDate "2019.07.13"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Ne2 Ne7 8. c3
+Ba5 9. Ng3 c6 10. Ba4 Ng6 11. d4 Re8 12. Bc2 d5 13. Bg5 exd4 14. Nxd4 h6 15.
+Bxf6 Qxf6 16. f4 dxe4 17. Nxe4 Qh4 18. Qd3 Bc7 19. Rae1 Bg4 20. h3 Bd7 21. Re2
+Qd8 22. Ref2 b6 23. b4 a5 24. b5 c5 25. Ne2 Bf5 26. N2g3 Qxd3 27. Bxd3 Rad8 28.
+Nf6+ gxf6 29. Bxf5 Re3 30. Nh5 Rxc3 31. Nxf6+ Kg7 32. Nh5+ Kf8 33. Re2 Rc4 34.
+g3 Rcd4 35. Nf6 Rd2 36. Rfe1 Rxe2 37. Rxe2 Ne7 38. Nh7+ Ke8 39. Nf6+ Kf8 40.
+Nh7+ Ke8 41. Bc2 Rd4 42. Nf6+ Kd8 43. Kg2 Bd6 44. h4 c4 45. Kf3 Bc5 46. h5 Nd5
+47. Ng4 Nc3 48. Rh2 Rd6 49. Ne5 Ke7 50. Nxc4 Re6 51. a4 Re1 52. Rd2 f6 53. Kg4
+Ne2 54. Kf5 Nxg3+ 55. Kg6 Rh1 56. Bf5 Nxh5 57. Rd7+ Kf8 58. Bg4 Nxf4+ 59. Kxf6
+Re1 60. Ne5 Be7+ 61. Kf5 Ng2 62. Nf3 Ra1 63. Bh3 Nh4+ 64. Nxh4 Bxh4 65. Rd6 Rxa4
+66. Rxb6 Rb4 67. Rxh6 Rxb5+ 68. Ke4 Be7 69. Ra6 a4 70. Rxa4 Rb4+ 71. Rxb4 Bxb4 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.17"]
+[Round "4.2"]
+[White "Nisipeanu,LD"]
+[Black "Kulaots,K"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2672"]
+[BlackElo "2560"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "1202758"]
+[BlackFideId "4500261"]
+[EventDate "2019.07.13"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. dxc3 Qxd1+ 7. Kxd1 f6
+8. h4 e5 9. h5 g5 10. Be3 Nd7 11. Nh2 Nc5 12. f3 Be6 13. Kc2 Bd6 14. Be2 Ke7 15.
+Rhd1 Bf7 16. g4 Ne6 17. Nf1 Nf4 18. Bb5 Be6 19. Ng3 Rhd8 20. Rd2 Kf7 21. Ba4 Be7
+22. Bb3 Rxd2+ 23. Bxd2 Bxb3+ 24. axb3 a6 25. b4 Rd8 26. Nf5 Rd7 27. c4 Ne6 28.
+b5 axb5 29. cxb5 Bc5 30. Ra8 Rd8 31. Rxd8 Nxd8 32. Kd3 Ne6 33. Kc4 Ke8 34. Kd5
+Kd7 35. b3 Bb6 36. Kc4 Nd4 37. Nxd4 Bxd4 38. Kd5 c6+ 39. Kc4 Bb6 40. Bb4 Bd8 41.
+Bc5 Bc7 42. Kb4 Bd8 43. Be3 Bc7 44. Kc5 Bd8 45. Bd2 Bc7 46. Kb4 Bd6+ 47. Ka4 Bc7
+48. bxc6+ bxc6 49. Ba5 Bd6 50. Bb6 Be7 51. Ka5 Ba3 52. Be3 Be7 53. Ka6 Bd6 54.
+Kb7 Be7 55. Kb6 Bd8+ 56. Ka6 Be7 57. Ka5 Bd8+ 58. Bb6 Be7 59. b4 Kc8 60. Be3 Kc7
+61. b5 cxb5 62. Kxb5 Kd7 63. Bc5 Bd8 64. Bb4 Bc7 65. Ka6 Bd8 66. Kb7 Ke6 67. Kc6
+Kf7 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.17"]
+[Round "4.3"]
+[White "Dominguez Perez,L"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2759"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "3503240"]
+[BlackFideId "13400924"]
+[EventDate "2019.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. Re1 g6 7. d4 Bg7 8. d5 Ne7
+9. Bxd7+ Nxd7 10. Be3 h6 11. Nfd2 f5 12. f3 Nf6 13. c4 c6 14. Nc3 O-O 15. Qb3
+cxd5 16. cxd5 Rf7 17. Rac1 fxe4 18. Ndxe4 Nf5 19. Bf2 Nxe4 20. Nxe4 Kh8 21. Rc4
+Qd7 22. a4 Nd4 23. Qb4 Rd8 24. Qa5 b6 25. Qb4 Kg8 26. Bxd4 exd4 27. Rc6 Be5 28.
+Nf2 Qf5 29. Re4 Qg5 30. h4 Qg3 31. Rg4 Qh2+ 32. Kf1 Kh7 33. Qc4 h5 34. Rc7 Rdd7
+35. Rxd7 Rxd7 36. Re4 Rf7 37. b3 Kg7 38. Qc8 Rf8 39. Qd7+ Rf7 40. Qc8 Rf8 41.
+Qc7+ Rf7 42. Qc8 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.17"]
+[Round "4.4"]
+[White "Nepomniachtchi,I"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2737"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "1118358"]
+[EventDate "2019.07.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8. Bg2 Be7
+9. Qd3 Nc6 10. Nxc6 bxc6 11. e5 Nd5 12. exd6 Bxd6 13. Ne4 Bc7 14. c4 Nf4 15.
+Qxd8+ Kxd8 16. Kf1 f5 17. Nc5 Nxg2 18. Kxg2 e5 19. gxf5 Bxf5 20. Re1 Re8 21. Bf4
+Re7 22. Bg3 Ke8 23. Rad1 Kf7 24. Ne4 Rb8 25. b3 Rd8 26. Rxd8 Bxd8 27. Nd6+ Kf6
+28. Nxf5 Kxf5 29. Rd1 Bb6 30. Rd6 Re6 31. Rd7 g5 32. b4 Bd4 33. a4 Bc3 34. Rb7
+Rd6 35. Rb6 Rd4 36. Rxc6 Bxb4 37. Rxa6 Rxc4 38. Rxh6 Ba5 39. h4 Rxa4 40. hxg5
+Bd2 41. Rf6+ Kxg5 42. Bxe5 Re4 43. f4+ Bxf4 44. Rxf4 Rxf4 45. Bxf4+ Kxf4 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.19"]
+[Round "5.1"]
+[White "Wojtaszek,R"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2672"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[WhiteFideId "1118358"]
+[BlackFideId "1202758"]
+[EventDate "2019.07.13"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c5 4. cxd5 exd5 5. Nf3 Nc6 6. dxc5 d4 7. Na4 Bxc5 8.
+Nxc5 Qa5+ 9. Bd2 Qxc5 10. Rc1 Qb6 11. e3 Nf6 12. Bc4 dxe3 13. Bxe3 Qb4+ 14. Bd2
+Qe7+ 15. Be2 O-O 16. O-O Be6 17. Re1 Rfe8 18. Qa4 Bd5 19. a3 Qd7 20. Bg5 Re4 21.
+Qb5 Rg4 22. h3 a6 23. Qc5 Re4 24. Bxf6 gxf6 25. Red1 Rxe2 26. Rxd5 Qe7 27. Qc4
+Re4 28. Qd3 Re8 29. Rd7 Ne5 30. Nxe5 Qxe5 31. Rxb7 Qf4 32. Rf1 Re1 33. Rb4 Qc1
+34. Rxe1 Qxe1+ 35. Qf1 a5 36. Rf4 Qd2 37. Qc4 Qe1+ 38. Kh2 Qe5 39. b4 axb4 40.
+axb4 Rd8 41. g3 h5 42. Qc2 Kg7 43. Rf5 Qe1 44. Qc6 Qe7 45. h4 Rd1 46. b5 Qe6 47.
+Qf3 Qe1 48. Rxh5 Qg1+ 49. Kh3 Qf1+ 50. Kh2 Qg1+ 51. Kh3 Qf1+ 52. Qg2 Qd3 53. b6
+Qb1 54. Kh2 Qxb6 55. Qf3 Qd4 56. Qf5 Rd2 57. Kg2 Re2 58. Rh7+ Kg8 59. Rh6 Re6
+60. Qh5 Qe4+ 61. Kh2 Kg7 62. Rh8 Qg6 63. Qxg6+ fxg6 64. Rc8 f5 65. Kg2 Kf6 66.
+Kf3 Re4 67. Rc6+ Kf7 68. h5 gxh5 69. Rh6 Ra4 70. Rxh5 Kg6 71. Rh4 Ra3+ 72. Kf4
+Ra4+ 73. Kf3 Ra3+ 74. Kf4 Ra4+ 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.19"]
+[Round "5.2"]
+[White "Kulaots,K"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2560"]
+[BlackElo "2735"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4500261"]
+[BlackFideId "738590"]
+[EventDate "2019.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 h6 10. Nc3 Bd7 11. b3 Be7 12. Bb2 h5 13. Rad1 Ke8 14. Ne4 Rd8
+15. Rfe1 Bc8 16. Rxd8+ Bxd8 17. Bc1 b6 18. c4 c5 19. Nc3 Bb7 20. Nd5 Nd4 21. Ng5
+Bc8 22. h4 Bf5 23. Bf4 Bxg5 24. Bxg5 Kd7 25. f3 a5 26. Nc3 Kc6 27. Kf2 Re8 28.
+Bf4 Bc2 29. g4 Ne6 30. Bc1 Bg6 31. Rd1 Bc2 32. Re1 hxg4 33. fxg4 Rd8 34. h5 Rd4
+35. Kg3 a4 36. Nxa4 Bd1 37. h6 gxh6 38. Bxh6 Rxg4+ 39. Kf2 Bc2 40. Nc3 Rh4 41.
+Bc1 Nd4 42. Rg1 Kd7 43. Bg5 Rh2+ 44. Rg2 Rh1 45. Bf4 Bg6 46. Rh2 Ra1 47. Rg2 Bb1
+48. Rg1 Rxa2+ 49. Nxa2 Bxa2 50. Ke3 Bxb3 51. Kd3 Bc2+ 52. Ke3 Kc6 53. Rg8 Bf5
+54. Rf8 Be6 55. Kd3 Nb3 56. Ra8 Kb7 57. Ra3 Nd4 58. Rc3 Nc6 59. Rc1 Kc8 60. Kc3
+Na5 61. Kd3 Bf5+ 62. Kc3 Be6 63. Kd3 Nb3 64. Rc3 Bf5+ 65. Ke3 Na5 66. Bg5 Kd7
+67. Bh4 Nc6 68. Bf6 Ke6 69. Kf4 Bb1 70. Rc1 Bd3 71. Ke3 Bg6 72. Rd1 Bc2 73. Rc1
+Bf5 74. Kf4 Nb4 75. Kg5 Nd3 76. Ra1 Be4 77. Ra7 Nxe5 78. Rxc7 Nxc4 79. Re7+ Kd5
+80. Rd7+ Kc6 81. Rxf7 b5 82. Kf4 b4 83. Rf8 Bc2 84. Rc8+ Kd6 85. Bg7 b3 86. Bf8+
+Ke6 87. Bxc5 b2 88. Rb8 Be4 89. Kxe4 b1=Q+ 90. Rxb1 Nd2+ 91. Kd4 Nxb1 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.19"]
+[Round "5.3"]
+[White "Radjabov,T"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2775"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "4168119"]
+[EventDate "2019.07.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
+Qxb2 9. Rb1 Qa3 10. f5 Be7 11. fxe6 Bxe6 12. Nxe6 fxe6 13. Bc4 Nbd7 14. Bxe6 Nc5
+15. Bc4 b5 16. O-O bxc4 17. Bxf6 Bxf6 18. Qxd6 Qxc3 19. e5 Qe3+ 20. Kh1 Ne4 21.
+Qc6+ Kf7 22. exf6 gxf6 23. Qd7+ Kf8 24. g3 Nf2+ 25. Kg2 Ne4 26. Rb7 Qd2+ 27.
+Qxd2 Nxd2 28. Rxf6+ Kg8 29. Rff7 h5 30. Rg7+ Kf8 31. Rgf7+ Kg8 32. Rg7+ Kf8 33.
+Rgf7+ 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.19"]
+[Round "5.4"]
+[White "Fridman,D"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2760"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "11600454"]
+[BlackFideId "3503240"]
+[EventDate "2019.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. Nc3 dxc4 7. Ne5 c5 8. dxc5
+Qxd1+ 9. Nxd1 Bxc5 10. Nxc4 Nc6 11. O-O Nd5 12. Be3 Be7 13. Nc3 Nxe3 14. Nxe3
+Bd7 15. Rfd1 Rfd8 16. Nc4 Rab8 17. Nd6 Kf8 18. Rd2 Bxd6 19. Rxd6 Ke7 20. Rad1
+Ne5 21. R6d4 b5 22. Ne4 Bc6 23. Nd6 g5 24. Ne4 Rxd4 25. Rxd4 h6 26. Nc3 b4 27.
+Nd1 b3 28. axb3 Rxb3 29. Bxc6 Nxc6 30. Ra4 Kd6 31. Kf1 Kc5 32. Ke1 Rb4 33. Ra3
+Rd4 34. Ne3 Rb4 35. Rc3+ Kd6 36. Nc4+ Ke7 37. f3 Nd4 38. Kd2 Nb5 39. Rc2 Nd4 40.
+Rc3 Nb5 41. Rc2 Nd4 42. Rc3 f5 43. Kd3 Nb5 44. Rc1 Rb3+ 45. Kd2 Nd6 46. Nxd6
+Kxd6 47. Kc2 Re3 48. Kd2 Rb3 49. Kc2 Rb5 50. Ra1 a5 51. Ra4 Kc6 52. h4 Rc5+ 53.
+Kd2 Kb5 54. b3 Rd5+ 55. Kc2 Re5 56. Kd2 Rc5 57. hxg5 hxg5 58. e4 f4 59. gxf4
+gxf4 60. e5 Rd5+ 61. Kc2 Rxe5 62. Rxf4 Re3 63. Kb2 Kc5 64. Ra4 Rxf3 65. Rxa5+
+Kd4 66. b4 e5 67. b5 Kc5 68. b6+ Kxb6 69. Rxe5 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.20"]
+[Round "6.1"]
+[White "Radjabov,T"]
+[Black "Fridman,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2638"]
+[ECO "D44"]
+[Opening "QGD semi-Slav"]
+[Variation "anti-Meran gambit"]
+[WhiteFideId "13400924"]
+[BlackFideId "11600454"]
+[EventDate "2019.07.13"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Be7 11. exf6 Bxf6 12. Bxf6 Qxf6 13. g3 Na6 14. Bg2 Bb7 15.
+Ne4 Qe7 16. O-O f5 17. Nc5 Nxc5 18. dxc5 Qxc5 19. Re1 Kf7 20. a4 a6 21. axb5
+axb5 22. Rxa8 Bxa8 23. Qe2 Qe7 24. Qe5 Qf6 25. Qc7+ Qe7 26. Qe5 Qf6 27. Qc7+ Qe7 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.20"]
+[Round "6.2"]
+[White "Nepomniachtchi,I"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2672"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "1202758"]
+[EventDate "2019.07.13"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
+Qd2 Qe8 9. h4 Qa4 10. h5 h6 11. Bd3 Re8 12. Kf1 Bf8 13. Nd4 Qd7 14. Rh3 Nc6 15.
+Rg3 Kh8 16. Nxc6 bxc6 17. Bd4 Re6 18. Qf4 Qe8 19. Re3 1-0
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.20"]
+[Round "6.3"]
+[White "Dominguez Perez,L"]
+[Black "Kulaots,K"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2560"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "3503240"]
+[BlackFideId "4500261"]
+[EventDate "2019.07.13"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2
+Nbd7 9. g4 h6 10. a3 Bb7 11. O-O-O Rc8 12. Kb1 d5 13. exd5 Nxd5 14. Nxd5 Bxd5
+15. a4 Bc5 16. axb5 O-O 17. Be2 axb5 18. Nxb5 Qb6 19. Bxc5 Rxc5 20. c4 Bxc4 21.
+Bxc4 Rxc4 22. Qxd7 Rb4 23. Rd6 Qxb5 24. Qxb5 Rxb5 25. Rhd1 g5 26. Rd8 Rb3 27.
+Kc2 Rxf3 28. b4 Ra3 29. b5 Ra5 30. Rxf8+ Kxf8 31. Rb1 Ke7 32. b6 Ra8 33. Kd3 Kd6
+34. Ke4 Rb8 35. b7 Kc6 36. Rc1+ Kxb7 37. Rf1 Kc6 38. Rxf7 Kd6 39. Rf6 Rb4+ 40.
+Kf3 Rb3+ 41. Kg2 Rb2+ 42. Kg3 Rb3+ 43. Kg2 Rb2+ 44. Kg3 Rb3+ 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.20"]
+[Round "6.4"]
+[White "Rapport,R"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2737"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "738590"]
+[BlackFideId "1118358"]
+[EventDate "2019.07.13"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. Nc3 c6 5. e3 O-O 6. Nge2 d5 7. cxd5 Nxd5 8. d4
+exd4 9. Nxd5 cxd5 10. Nxd4 Nc6 11. Nxc6 bxc6 12. Qc2 Qb6 13. O-O Be6 14. Bd2 d4
+15. exd4 Bxd4 16. Bc3 Rad8 17. Bxd4 Rxd4 18. Qxc6 Qxb2 19. a4 Bd7 20. Qa6 Qb6
+21. Qxb6 axb6 22. Rfb1 Rxa4 23. Rxa4 Bxa4 24. Rxb6 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.21"]
+[Round "7.1"]
+[White "Nisipeanu,LD"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2672"]
+[BlackElo "2735"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "1202758"]
+[BlackFideId "738590"]
+[EventDate "2019.07.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Be7 5. O-O Nf6 6. d3 b5 7. Bb3 d6 8. a3 a5
+9. Nc3 Rb8 10. a4 b4 11. Nd5 Nxd5 12. Bxd5 Bd7 13. Ng5 Bxg5 14. Qh5 Qf6 15. Bxg5
+Qg6 16. Qxg6 hxg6 17. c3 Ne7 18. Bc4 f6 19. Be3 g5 20. d4 Ng6 21. d5 bxc3 22. b3
+c5 23. dxc6 Bxc6 24. f3 Nf4 25. Rfd1 Ke7 26. Rac1 Rhc8 27. Rxc3 d5 28. exd5 Bxd5
+29. Bxf4 Bxc4 30. Bxe5 Rxb3 31. Bd4 Rb4 32. Rdc1 Ke6 33. Bf2 Rxa4 34. Bb6 Rb8
+35. Bc7 Rbb4 36. Bxa5 Rxa5 37. Rxc4 Rxc4 38. Rxc4 Ke5 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.21"]
+[Round "7.2"]
+[White "Kulaots,K"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2560"]
+[BlackElo "2759"]
+[ECO "C19"]
+[Opening "French"]
+[Variation "Winawer, advance, poisoned pawn, Konstantinopolsky variation"]
+[WhiteFideId "4500261"]
+[BlackFideId "13400924"]
+[EventDate "2019.07.13"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8. Qxg7
+Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. h4 Bd7 12. f4 dxc3 13. h5 O-O-O 14. Qd3 d4 15.
+h6 Rg6 16. h7 Rh8 17. Nxd4 Nxd4 18. Qxd4 Bc6 19. Bd3 Rxg2 20. Be3 Rg7 21. Rh3
+Nf5 22. Bxf5 exf5 23. Qxa7 Rgxh7 24. Rxh7 Rxh7 25. O-O-O b6 26. Qa6+ Bb7 27. Qb5
+Bc6 28. Qb3 Kb7 29. Qxc3 Rh1 30. Rxh1 Bxh1 31. Qb3 Be4 32. a4 Ka6 33. Qb5+ Kb7
+34. c4 Qc6 35. Kb2 Qxb5+ 36. axb5 Bd3 37. Kc3 Be2 38. Kb4 Bf1 39. c5 bxc5+ 40.
+Kxc5 Be2 1/2-1/2
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.21"]
+[Round "7.3"]
+[White "Fridman,D"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2775"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[WhiteFideId "11600454"]
+[BlackFideId "4168119"]
+[EventDate "2019.07.13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 Ne4 8. cxd5
+Nxc3 9. Qd2 Qxa2 10. bxc3 Qa5 11. Nf3 Nd7 12. Bc4 Nxc5 13. O-O O-O 14. Be5 Bxe5
+15. Nxe5 f6 16. Ra1 Qb6 17. Nf3 Kh8 18. Qd4 Qc7 19. e4 b5 20. d6 Qxd6 21. Bxb5
+Bb7 22. Qxd6 exd6 23. Nd2 Nxe4 24. Nxe4 Bxe4 25. Rfe1 Bf5 26. Ra6 Rfd8 27. Re7
+Rdb8 28. c4 Rb6 29. Rxb6 axb6 30. h3 Ra1+ 31. Kh2 Ra2 32. Kg1 Rb2 33. Re8+ Kg7
+34. Rd8 Rd2 35. Rb8 h5 36. Rxb6 h4 37. Rb7+ Kh6 38. Re7 Rd1+ 39. Kh2 Rd4 40. Re1
+Kg5 41. Rc1 Rd2 42. Bc6 Bc2 43. f3 f5 44. Be8 Kf6 45. Bc6 Ke5 46. Be8 g5 47.
+Re1+ Kf4 48. Bf7 Bd3 49. Bd5 Rc2 50. Ra1 Ke3 51. Ra6 Bf1 52. f4 g4 53. hxg4 fxg4
+54. Kg1 g3 55. Ra1 Bd3 56. Rd1 Kxf4 57. Re1 Re2 58. Rc1 Ke3 59. Bf3 Rb2 0-1
+
+[Event "47th GM 2019"]
+[Site "Dortmund GER"]
+[Date "2019.07.21"]
+[Round "7.4"]
+[White "Wojtaszek,R"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2760"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "1118358"]
+[BlackFideId "3503240"]
+[EventDate "2019.07.13"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 8.
+Nf3 O-O 9. Bc4 Qc7 10. Qe2 a6 11. Bd3 b5 12. O-O Nd7 13. a4 bxa4 14. d5 exd5 15.
+exd5 Nf6 16. c4 Bg4 17. h3 Bh5 18. g4 Bg6 19. Bxg6 hxg6 20. Re1 Bd6 21. Qc2 Qd7
+22. Ne5 Bxe5 23. Rxe5 Rab8 24. Rxb8 Rxb8 25. Re3 Qb7 26. Ba3 Qb1+ 27. Qxb1 Rxb1+
+28. Kg2 Nd7 29. Re7 Rb3 30. Rxd7 Rxa3 31. Rc7 Rc3 32. Rc8+ Kh7 33. Rxc5 a3 34.
+Ra5 Rxc4 35. Kf3 Rd4 36. Ke3 Rd1 37. Ke2 Rd4 38. Ke3 Rd1 39. Rxa3 Rxd5 40. Rxa6 1/2-1/2

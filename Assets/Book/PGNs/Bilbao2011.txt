@@ -1,0 +1,622 @@
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.26"]
+[Round "1"]
+[White "Nakamura,Hi"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2765"]
+[EventDate "2011.09.26"]
+[ECO "A40"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nd2 Nf6 4. a3 Be7 5. e4 d5 6. e5 Nfd7 7. Ngf3 a5 8.
+cxd5 exd5 9. Nb1 c5 10. dxc5 Nxc5 11. Nc3 Be6 12. Bb5+ Nc6 13. O-O O-O 14.
+Be3 Rc8 15. Rb1 Nd7 16. Nxd5 Ndxe5 17. Nxe7+ Qxe7 18. Nxe5 Nxe5 19. Re1 Nc4
+20. Qa4 Nxe3 21. Rxe3 b6 22. Bd3 Rfd8 23. Bf5 Qd7 24. Qxd7 Bxd7 25. Bxd7
+Rxd7 26. g3 g6 27. b4 axb4 28. Rxb4 Rc6 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.26"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2807"]
+[BlackElo "2716"]
+[EventDate "2011.09.26"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 b5 5. a4 b4 6. Nb1 Ba6 7. Qc2 Qxd4 8.
+Nf3 Qd7 9. Bxc4 e6 10. O-O Nf6 11. Bg5 Be7 12. Nbd2 h6 13. Bxf6 Bxf6 14.
+Rfd1 O-O 15. e5 Be7 16. Ne4 Qc8 17. Ba2 b3 18. Bxb3 Nd7 19. Nd6 Bxd6 20.
+Rxd6 c5 21. Rad1 c4 22. Ba2 Nc5 23. Bb1 g6 24. h4 h5 25. Qc1 Bb7 26. Nd4
+Ne4 27. Qh6 Nxd6 28. Bxg6 fxg6 29. Qxg6+ Kh8 30. Qh6+ Kg8 31. Nxe6 Nf5 32.
+Qg6+ Kh8 33. Qxh5+ Kg8 34. Qg6+ Kh8 35. Nxf8 Qxf8 36. Rd7 Qh6 37. Qxf5 Rf8
+38. Qg5 Qxg5 39. hxg5 Be4 40. Rxa7 Rb8 41. f3 Bf5 42. Rc7 Be6 43. Rc6 Bg8
+44. f4 Rxb2 45. e6 Re2 46. f5 Re5 47. g4 Re4 48. Kf2 Rxg4 49. e7 Bf7 50. g6
+Kg7 51. gxf7 Kxf7 52. Re6 Ke8 53. f6 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.26"]
+[Round "1"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2817"]
+[BlackElo "2823"]
+[EventDate "2011.09.26"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Ne7 11. Be3 Ke8 12. Rad1 Bd7 13. a3 Rd8
+14. Rfe1 a6 15. Ne4 Bf5 16. Nc5 Rxd1 17. Rxd1 Bc8 18. Nd3 Ng6 19. Nf4 Nxf4
+20. Bxf4 Be7 21. Nd4 Bc5 22. Be3 Bxd4 23. Rxd4 Ke7 24. f3 Rd8 25. Rxd8 Kxd8
+26. g4 h5 27. Kf2 g6 28. Bg5+ Ke8 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.27"]
+[Round "2"]
+[White "Nakamura,Hi"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2817"]
+[EventDate "2011.09.26"]
+[ECO "D43"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 Nbd7 10. Nxc6 Qb6 11. d5 Bb7 12. a4 a6 13. Be2 Bxc6 14. dxc6
+Qxc6 15. axb5 axb5 16. Rxa8+ Qxa8 17. O-O Qc6 18. e5 Nd5 19. Nxd5 Qxd5 20.
+Qa1 Bg7 21. Rd1 Qc5 22. Qa8+ Ke7 23. Qb7 Rd8 24. Bf3 Bxe5 25. Bxe5 Qxe5 26.
+Bc6 Kf6 27. Bxd7 Qxb2 28. Rf1 c3 29. Qc7 Ra8 30. Bxe6 fxe6 31. f4 Ra1 32.
+fxg5+ Kxg5 33. Qg7+ Kh5 34. Qf7+ Kg5 35. Qf6+ Kh5 36. Qf7+ Kg5 37. Qg7+ Kh5
+38. Qf7+ 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.27"]
+[Round "2"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2823"]
+[BlackElo "2807"]
+[EventDate "2011.09.26"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
+Nbd2 b5 9. Bc2 d5 10. Re1 dxe4 11. dxe4 Be6 12. h3 Nd7 13. Nf1 Nc5 14. Ne3
+Qxd1 15. Rxd1 f6 16. Nd5 Bd6 17. Be3 Nb7 18. b4 Ne7 19. a4 c6 20. Nb6 Rab8
+21. Nd2 c5 22. axb5 axb5 23. c4 cxb4 24. cxb5 Bc5 25. Bb3 Bxb3 26. Nxb3
+Bxe3 27. fxe3 Na5 28. Rxa5 Rxb6 29. Rd7 Nc8 30. Nc5 h5 31. Rd3 Re8 32. Na4
+Rb8 33. Rb3 Nb6 34. Rxb4 Rec8 35. Nxb6 Rxb6 36. Ra6 Rc1+ 37. Kf2 Rc2+ 38.
+Kg3 Rxa6 39. bxa6 Ra2 40. Rb6 Kf7 41. Rb7+ Kg6 42. a7 Kh6 43. Kh2 g6 44.
+Kg1 Kg5 45. Rh7 f5 46. g3 Kf6 47. Kf1 fxe4 48. Ke1 Ke6 49. Rg7 Kd5 50. g4
+hxg4 51. hxg4 Kc4 52. Rd7 g5 53. Kd1 Kc3 54. Ke1 Kc4 55. Kd1 Kc3 56. Ke1
+1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.27"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2716"]
+[EventDate "2011.09.26"]
+[ECO "A20"]
+
+1. c4 e5 2. g3 Nc6 3. Nc3 Bc5 4. e3 d6 5. Bg2 a6 6. d3 Ba7 7. Rb1 Bf5 8. b4
+Qc8 9. h3 Nge7 10. Nge2 O-O 11. Qd2 h6 12. a3 Nd8 13. Bb2 f6 14. Rc1 c6 15.
+d4 Nf7 16. e4 Bd7 17. Nd1 f5 18. dxe5 dxe5 19. c5 Bb8 20. Ne3 fxe4 21. h4
+Nd5 22. Nc3 Nxe3 23. Qxe3 a5 24. O-O axb4 25. axb4 Bh3 26. Bxh3 Qxh3 27.
+Nxe4 Bc7 28. Qb3 Bd8 29. Rc3 Qg4 30. f3 Qg6 31. Kh2 Kh7 32. Rd1 b6 33. Qc2
+bxc5 34. Rxc5 Kh8 35. Rxc6 Qh5 36. Kg2 Bxh4 37. g4 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.28"]
+[Round "3"]
+[White "Vallejo Pons,F"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2823"]
+[EventDate "2011.09.26"]
+[ECO "A04"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Bc4 Nf6 5. Qe2 O-O 6. O-O Bg4 7. Rd1 Nc6 8.
+Bb5 Nd7 9. c3 e5 10. Bxc6 bxc6 11. h3 Bxf3 12. Qxf3 exd4 13. cxd4 c5 14.
+Be3 Rb8 15. Qe2 Rb4 16. a3 Rb3 17. Ra2 Qb8 18. Qc2 a5 19. dxc5 Nxc5 20.
+Bxc5 dxc5 21. Qxc5 Rd8 22. Nc3 Rxd1+ 23. Nxd1 Qd8 24. Ra1 Qd2 25. Rc1 Qe1+
+26. Kh2 Qxe4 27. Qc2 Be5+ 28. g3 Rd3 29. Ne3 h5 30. Nc4 Qd5 31. Nxe5 Rd2
+32. Qc5 Qxc5 33. Rxc5 Rxf2+ 34. Kg1 Rxb2 35. Rxc7 Rb3 36. Kg2 Rxa3 37. Nxf7
+a4 38. Ra7 Ra1 39. Ne5 g5 40. g4 hxg4 41. hxg4 a3 42. Nf3 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.28"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2807"]
+[BlackElo "2753"]
+[EventDate "2011.09.26"]
+[ECO "D94"]
+
+1. Nf3 d5 2. c4 c6 3. e3 Nf6 4. Nc3 g6 5. d4 Bg7 6. Bd3 O-O 7. O-O Bg4 8.
+h3 Bxf3 9. Qxf3 e6 10. Rd1 Nbd7 11. b3 a5 12. Bf1 Qb8 13. Bd2 Rd8 14. Be1
+Ne8 15. Rab1 Nd6 16. Qe2 Re8 17. Qc2 h5 18. Be2 Qd8 19. Bf3 Rb8 20. Qd3 Qe7
+21. Qf1 Nf5 22. Be2 Ra8 23. Bd3 Nd6 24. Rbc1 Qd8 25. Bb1 Bh6 26. Na4 Bf8
+27. Nc5 Qc7 28. Nd3 a4 29. Nf4 axb3 30. axb3 Qd8 31. Bb4 Nc8 32. Bxf8 Nxf8
+33. Bd3 Ra3 34. b4 Nb6 35. b5 Qe7 36. bxc6 bxc6 37. cxd5 cxd5 38. Rc6 Nbd7
+39. Ra6 Rxa6 40. Bxa6 Rb8 41. Rb1 Rxb1 42. Qxb1 Qd6 43. Be2 Qb8 44. Qxb8
+Nxb8 45. Bb5 Nbd7 46. Bxd7 Nxd7 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.28"]
+[Round "3"]
+[White "Anand,V"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2817"]
+[BlackElo "2765"]
+[EventDate "2011.09.26"]
+[ECO "C63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Nc3 O-O
+8. Bg5 d6 9. Nd5 Kh8 10. c3 Ne7 11. Nxf6 gxf6 12. Be3 Bxe3 13. fxe3 Ng6 14.
+Nd2 c6 15. Bd3 Be6 16. Rf2 Qb6 17. Nf1 Rf7 18. Qh5 Rg8 19. Re1 d5 20. Ng3
+d4 21. exd4 exd4 22. e5 dxc3 23. Bxg6 Rxg6 24. bxc3 Bg4 25. Qh4 fxe5 26.
+Ne4 Be6 27. Kh1 Rxf2 28. Nxf2 Qb2 29. Rd1 Qe2 30. h3 h6 31. Kh2 Qe3 32.
+Rd8+ Kh7 33. Rb8 Rg7 34. Rf8 Qg5 35. Qe4+ Qg6 36. g4 Bxa2 37. Qxe5 Qe6 38.
+Qf4 Rf7 39. Rxf7+ Qxf7 40. Qe4+ Kg7 41. Nd3 Qc7+ 42. Ne5 Qd6 43. Kg3 a5 44.
+Qf4 a4 45. g5 hxg5 46. Qxg5+ Kf8 47. c4 c5 48. Qf5+ Ke7 49. Kg2 Bb3 50. Qe4
+b6 51. Ng4+ Qe6 52. Qb7+ Kf8 53. Qb8+ Kg7 54. Qc7+ Kg6 55. Qf4 Bc2 56. Qh6+
+Kf7 57. Qf4+ Kg7 58. Qc1 Be4+ 59. Kg3 Qd6+ 60. Kh4 Qe7+ 61. Kg3 Qd6+ 62.
+Kh4 Kf7 63. Qb2 Bf5 64. Qf2 Kg6 65. Qa2 Bxg4 66. hxg4 Qd8+ 67. Kg3 Qd3+ 68.
+Kh4 a3 69. Qa1 Kf7 0-1
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.30"]
+[Round "4"]
+[White "Vallejo Pons,F"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2716"]
+[BlackElo "2817"]
+[EventDate "2011.09.26"]
+[ECO "A04"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. cxd5 Nxd5
+8. Qb3 e6 9. Nxd5 exd5 10. Bb5 Bg7 11. Qa3 Qe7+ 12. Qxe7+ Kxe7 13. Bxc6
+bxc6 14. Bf4 f6 15. Rc1 g5 16. Be3 Bd7 17. h4 h6 18. hxg5 hxg5 19. Rxh8
+Rxh8 20. Kd2 Bf8 21. Ne1 Kf7 22. Nd3 Kg6 23. Nc5 Be8 24. g3 Kf5 25. Rc3 Bd6
+26. Ra3 Rh7 27. Ra6 Kg4 28. Nd3 Rc7 29. b4 Bd7 30. b5 Be7 31. bxc6 Bxc6 32.
+Ra5 Bd8 33. Nb4 Ba8 34. Rc5 Rd7 35. a3 Bb7 36. Nd3 Ba6 37. Nb4 Bc4 38. Rc8
+Be7 39. Ra8 Rb7 40. Nc6 Bxa3 41. Rxa7 Rxa7 42. Nxa7 Bb4+ 43. Kc2 Kf3 44.
+Nc8 Bb5 45. Kd1 Ba4+ 46. Kc1 Ke2 47. Kb2 Bd7 48. Nb6 Bc6 49. Nc8 g4 50. Kc1
+Bd7 51. Nb6 Be6 52. Na4 Be1 53. Nc5 Bf5 54. Na4 Bxf2 55. Bxf2 Kxf2 56. Nc3
+Be4 57. Kd2 Bf3 0-1
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.30"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2807"]
+[BlackElo "2765"]
+[EventDate "2011.09.26"]
+[ECO "D37"]
+
+1. Nf3 d5 2. c4 e6 3. d4 Nf6 4. Nc3 Nbd7 5. Bg5 Bb4 6. cxd5 exd5 7. Nd2 c6
+8. e3 Nf8 9. Bd3 Be7 10. Qc2 Ne6 11. Bh4 g6 12. h3 O-O 13. Nf3 a5 14. g4 b5
+15. Ne5 Bb7 16. f4 c5 17. f5 cxd4 18. fxe6 dxc3 19. O-O d4 20. Nxf7 Qd5 21.
+Bxf6 Qh1+ 22. Kf2 Qxh3 23. Ke1 cxb2 24. Qxb2 Bb4+ 25. Kd1 Bf3+ 26. Rxf3
+Qxf3+ 27. Be2 Qxf6 28. g5 Qg7 29. Qxd4 Rxf7 30. exf7+ Qxf7 31. Rc1 Rb8 32.
+a4 Qb3+ 33. Rc2 Qb1+ 34. Rc1 Qb3+ 35. Rc2 Rc8 36. Bc4+ bxc4 37. Qd5+ Kf8
+38. Qd7 Re8 0-1
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.09.30"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2823"]
+[BlackElo "2753"]
+[EventDate "2011.09.26"]
+[ECO "D55"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bxf6 Bxf6 7. e3 O-O 8.
+Rc1 c6 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. Bb3 exd4 13. exd4 Nb6 14. h3
+Re8 15. Re1 Rxe1+ 16. Qxe1 Bf5 17. Ne5 Nd5 18. Nxd5 cxd5 19. g4 Be6 20. f4
+Qb6 21. Rd1 Bxe5 22. Qxe5 Re8 23. f5 f6 24. Qf4 Bf7 25. Qf2 Qb4 26. Kg2 Re4
+27. Rd2 Qd6 28. Bd1 Kf8 29. Bf3 Re7 30. Re2 Rxe2 31. Qxe2 Be8 32. Qe3 Bc6
+33. a3 Qe7 34. Qc3 a6 35. b4 Ke8 36. a4 Qd7 37. a5 Qd6 38. Qc5 Qf4 39. Bxd5
+Qd2+ 40. Kf3 Qd3+ 41. Kf2 Qd2+ 42. Kf3 Qd3+ 43. Kf2 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.01"]
+[Round "5"]
+[White "Nakamura,Hi"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2753"]
+[BlackElo "2716"]
+[EventDate "2011.09.26"]
+[ECO "A25"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 a6 5. e3 d6 6. Nge2 Nge7 7. b3 Ba7 8.
+Bb2 Rb8 9. d3 Bf5 10. Qd2 Qd7 11. h3 O-O 12. f4 Be6 13. d4 Nf5 14. Bxc6
+bxc6 15. O-O-O exd4 16. exd4 Ne7 17. g4 f5 18. g5 Bf7 19. Ng3 a5 20. h4 a4
+21. Nxa4 Bxc4 22. bxc4 c5 23. Nc3 Rb4 24. Qd3 cxd4 25. Nb5 d5 26. Nxa7 c5
+27. cxd5 Qxa7 28. a3 Rb6 29. Qc4 Nc8 30. d6+ Kh8 31. d7 Qxd7 32. Rh2 Qb7
+33. Rc2 Rb5 34. Nxf5 Rxf5 35. Rxd4 Rf8 36. Rdd2 Ne7 37. h5 Nf5 38. h6 Rxb2
+39. hxg7+ Kxg7 40. Qc3+ Nd4 41. Rxb2 Qd5 42. Qh3 Re8 43. Rb6 Kg8 44. Kb2
+Qf7 45. Qh6 Qxf4 46. Rh2 Re7 47. g6 Qxh6 48. Rxh6 Re2+ 49. Kc3 hxg6 50.
+Rhxg6+ Kf7 51. Rbf6+ Ke7 52. Ra6 Ne6 53. a4 Kd7 54. a5 Nc7 55. Ra7 Re7 56.
+a6 Ke8 57. Rb7 Kf7 58. Rc6 Nd5+ 59. Kc4 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.01"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2765"]
+[BlackElo "2823"]
+[EventDate "2011.09.26"]
+[ECO "C11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8.
+a3 O-O 9. Qd2 b6 10. g3 Kh8 11. h4 f6 12. exf6 Nxf6 13. Bh3 Bd7 14. Rd1
+cxd4 15. Nxd4 e5 16. Nxc6 Bxc6 17. fxe5 d4 18. exf6 Bxf6 19. O-O dxc3 20.
+Qxd8 Raxd8 21. Rxd8 Rxd8 22. b3 Re8 23. Bf2 Be4 24. Re1 Re7 25. Rc1 h5 26.
+Bg2 Bf5 27. Bf3 g6 28. a4 Kh7 29. b4 g5 30. a5 g4 31. axb6 axb6 32. Bc6 Re2
+33. Bxb6 Be5 34. b5 Kg7 35. Ba5 Rxc2 36. Rxc2 Bxc2 37. Kf2 Bd3 38. Ke3 Bg6
+39. Be4 c2 40. Bd2 Bxg3 41. Bxg6 Kxg6 42. Kd3 Bf2 43. Kxc2 g3 44. Bf4 g2
+45. Bh2 Kf5 0-1
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.01"]
+[Round "5"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2817"]
+[BlackElo "2807"]
+[EventDate "2011.09.26"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8.
+a4 b4 9. Nbd2 Na5 10. Ba2 c5 11. c3 Rb8 12. Nc4 O-O 13. Nxa5 Qxa5 14. Bd2
+bxc3 15. Bxc3 Qd8 16. Nd2 Be6 17. Nc4 Qc8 18. Qf3 Bg4 19. Qe3 Be6 20. Qe2
+Rd8 21. a5 Qc6 22. Nb6 Rb7 23. Bxe6 fxe6 24. Rac1 Qe8 25. b4 cxb4 26. Bxb4
+d5 27. Bc3 Bd6 28. f4 dxe4 29. fxe5 exd3 30. Qe3 Nd5 31. Nxd5 exd5 32. Qxd3
+Bc5+ 33. Bd4 Qb5 34. Rc3 Qxd3 35. Rxd3 Bxd4+ 36. Rxd4 Rb5 37. Rc1 Rxa5 38.
+e6 Rb5 39. Rc6 a5 40. h3 h6 41. Ra6 Rb7 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.06"]
+[Round "6"]
+[White "Vallejo Pons,F"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2807"]
+[EventDate "2011.09.26"]
+[ECO "D02"]
+
+1. Nf3 d5 2. d4 c5 3. c4 dxc4 4. e4 cxd4 5. Qxd4 Bd7 6. Bxc4 Nc6 7. Qe3 e6
+8. O-O Qb8 9. b3 Ne5 10. Bb2 Bd6 11. Nbd2 Nf6 12. Qg5 Ng6 13. Bxf6 h6 14.
+Qa5 Bc7 15. Qc5 Bd6 16. Qa5 Bc7 17. Qh5 gxf6 18. Bb5 Bxb5 19. Qxb5+ Kf8 20.
+Rad1 Kg7 21. Nc4 h5 22. Rd7 a6 23. Qb4 b5 24. Nd6 Bxd6 25. Rxd6 Qc7 26.
+Rfd1 Rad8 27. g3 h4 28. Rxd8 Rxd8 29. Rxd8 Qxd8 30. Qd4 Qc8 31. Nxh4 Nxh4
+32. gxh4 Qc2 33. e5 fxe5 34. Qxe5+ Kh7 35. Qh5+ Kg7 36. Qg5+ Kh7 37. Qh5+
+Kg7 38. Qg5+ Kh7 39. Qh5+ 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.06"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2823"]
+[BlackElo "2817"]
+[EventDate "2011.09.26"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 O-O
+8. Bg5 d6 9. Nd2 Nbd7 10. f3 h6 11. Bh4 Rc8 12. e4 c5 13. Bd3 d5 14. exd5
+exd5 15. O-O dxc4 16. Bxc4 cxd4 17. Qxd4 Nc5 18. Bxf6 Qxf6 19. Qxf6 gxf6
+20. Rfd1 Na4 21. Rab1 Rfd8 22. Bb5 Bc6 23. Be2 Bd5 24. Nf1 Be6 25. Ne3 f5
+26. g3 Kg7 27. Kf2 Kf6 28. Ba6 Rb8 29. b4 Nc3 30. Rxd8 Rxd8 31. Rc1 Nd5 32.
+Ng2 Rd7 33. Rc2 Rc7 34. Ne3 Rxc2+ 35. Nxc2 f4 36. Nd4 Bd7 37. Ke2 fxg3 38.
+hxg3 Ne7 39. Ke3 Nf5+ 40. Nxf5 Kxf5 41. Kd4 Ke6 42. Bc4+ Ke7 43. f4 f6 44.
+Bd5 Kd6 45. Bf3 Be6 46. Ba8 Bf5 47. Bf3 Be6 48. Ba8 Bf5 49. Bf3 Be6 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.06"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2753"]
+[EventDate "2011.09.26"]
+[ECO "B43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. f4 Bb4 8.
+Nb3 Bxc3+ 9. bxc3 d6 10. Ba3 O-O 11. Qd2 Rd8 12. O-O Nc6 13. Rf3 b5 14. Rg3
+Kh8 15. Rf1 Bb7 16. f5 Rg8 17. Qg5 e5 18. Qh4 Ne7 19. Rh3 d5 20. Nc5 dxe4
+21. Bxe4 Bd5 22. g4 h6 23. g5 Nh7 24. f6 Ng6 25. fxg7+ Rxg7 26. Qxh6 Rd8
+27. Bxg6 fxg6 28. Rf6 Qc8 29. Rh4 Bf7 30. Nd3 Kg8 31. Bd6 e4 32. Be5 Rd5
+33. Rc6 Qf8 34. Bxg7 Qxg7 35. Rxe4 Rxg5+ 36. Qxg5 Nxg5 37. Rc8+ Be8 38.
+Rcxe8+ Kh7 39. Rh4+ 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.07"]
+[Round "7"]
+[White "Vallejo Pons,F"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2765"]
+[EventDate "2011.09.26"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. h4 Nxc3 6. bxc3 h6 7. e4 Bg7
+8. d4 c5 9. Bb5+ Nc6 10. d5 Qa5 11. Rb1 a6 12. Bxc6+ bxc6 13. O-O Bg4 14.
+d6 Rd8 15. Bf4 exd6 16. Bxd6 Bf8 17. e5 Bxd6 18. exd6 O-O 19. Qd2 Bxf3 20.
+gxf3 Rd7 21. Rfd1 Rfd8 22. Qxh6 Qxc3 23. Qf4 c4 24. h5 Qg7 25. Rb6 Rc8 26.
+h6 Qc3 27. Rd4 Qe1+ 28. Kg2 Qe6 29. Rxa6 c3 30. Ra3 Rcd8 31. Rxc3 Rxd6 32.
+Rxd6 Qxd6 33. Qxd6 Rxd6 34. a4 Kh7 35. a5 Kxh6 36. a6 c5 37. Ra3 Rd8 38. f4
+Kg7 39. Kf3 Kf6 40. a7 Ra8 41. Ke4 Ke6 42. Ra6+ Kd7 43. Kd5 Kc7 44. Kxc5
+Kb7 45. Kb5 Rxa7 46. Rxa7+ Kxa7 47. Kc6 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.07"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2807"]
+[BlackElo "2823"]
+[EventDate "2011.09.26"]
+[ECO "D55"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 h6 7. Bxf6 Bxf6 8.
+Rc1 c6 9. h4 c5 10. dxc5 Na6 11. cxd5 Nxc5 12. Bc4 exd5 13. Nxd5 Bxb2 14.
+Rc2 b5 15. Be2 Na4 16. Rc7 Be6 17. Ne7+ Kh8 18. Qc2 Bc3+ 19. Rxc3 Qa5 20.
+Ng5 Qxc3+ 21. Qxc3 Nxc3 22. Nxe6 fxe6 23. Ng6+ Kg8 24. Nxf8 Rxf8 25. Bg4 e5
+26. O-O b4 27. a3 Rb8 28. axb4 Rxb4 29. Rc1 Rb1 30. Rxb1 Nxb1 31. Kf1 Nc3
+32. Ke1 Kf7 33. Bf5 Nb5 34. Kd2 Nd6 35. Bc2 Ke6 36. Bb3+ Kf5 37. f3 Kf6 38.
+g4 g5 39. hxg5+ hxg5 40. Kc3 a5 41. Bc2 Ke6 42. Bb3+ Ke7 43. Bc2 Kd7 44.
+Bd1 Kc6 45. f4 Kc5 46. fxg5 Ne4+ 47. Kb3 Nxg5 48. Ka4 Kc4 49. Bc2 Kc3 50.
+Bf5 e4 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.07"]
+[Round "7"]
+[White "Anand,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2817"]
+[BlackElo "2753"]
+[EventDate "2011.09.26"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6
+14. g3 Bxg5 15. Bxg5 Rg6 16. h4 f6 17. exf6 gxf6 18. Bf4 Nxh4 19. f3 Rd8
+20. Rxd8+ Kxd8 21. Kf2 Nf5 22. Rh1 Ng7 23. Bd2 Bf5 24. Nd1 Bxc2 25. Ne3 Bd3
+26. Ng2 Ne6 27. Rxh5 Rg7 28. Bc3 Ke7 29. Rh6 Rf7 30. g4 Bb1 31. a3 f5 32.
+g5 Nxg5 33. Nf4 Ke8 34. Rg6 Nh7 35. Rg8+ Rf8 36. Rg7 Rf7 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.08"]
+[Round "8"]
+[White "Nakamura,Hi"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2753"]
+[BlackElo "2807"]
+[EventDate "2011.09.26"]
+[ECO "D31"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4 Be6 8.
+h4 Nd7 9. h5 Nh6 10. Be2 Nb6 11. Nh3 g5 12. hxg6 hxg6 13. Bg3 Qd7 14. Nf4
+O-O-O 15. Nxe6 Qxe6 16. Rg1 Bd6 17. Qc2 Bxg3 18. Rxg3 f5 19. O-O-O Nxg4 20.
+Bxg4 fxg4 21. Rdg1 Rh4 22. Qe2 Rf8 23. Nd1 Rf4 24. Kd2 Nc4+ 25. Ke1 Rf3 26.
+Rxf3 gxf3 27. Qxf3 Qf5 28. Qg3 Rh6 29. b3 Nb6 30. Qg4 Nd7 31. Qxf5 gxf5 32.
+Nc3 Nf6 33. Ne2 Ng4 34. Nf4 Rh2 35. Nd3 Kd8 36. b4 Ke7 37. a4 b6 38. Ke2
+Kd6 39. Kf3 a5 40. bxa5 bxa5 41. Kg3 Kc7 42. Rc1 Rh7 43. Kf4 Re7 44. Rc2
+Re4+ 45. Kg5 Re8 46. Rb2 Rf8 47. Nc5 Kc8 48. Kf4 Rh8 49. f3 Nh2 50. Rf2 Rh3
+51. Nb3 Kc7 52. Nxa5 Kb6 53. Nb3 Ka6 54. Nc1 Ka5 55. Ne2 Kxa4 56. Ng1 Rh6
+57. Kg3 Ng4 58. fxg4 fxg4 59. Rf5 Rh1 60. Kg2 Rh4 61. Ne2 Kb5 62. Nf4 Rh8
+63. Kg3 Rg8 64. Re5 Kc4 65. Re6 Kb5 66. Re7 Kb4 67. Nd3+ Kc3 68. Ne5 c5 69.
+dxc5 d4 70. exd4 Kxd4 71. Nd7 Rd8 72. c6 Rc8 73. Re6 Rc7 74. Rd6+ Kc4 75.
+Kxg4 Kb5 76. Ne5 Rh7 77. Rd7 Rh8 78. Kf5 Kb6 79. Ke6 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.08"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2823"]
+[BlackElo "2716"]
+[EventDate "2011.09.26"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8.
+Qb3 Qb6 9. Nxg6 hxg6 10. Bd2 Bd6 11. h3 Nbd7 12. O-O-O Qxb3 13. axb3 a6 14.
+Kc2 Nh5 15. Bd3 Ng3 16. Rhe1 O-O-O 17. e4 dxe4 18. fxe4 c5 19. d5 Rde8 20.
+Na2 exd5 21. exd5 Nf5 22. b4 Nd4+ 23. Kb1 Nb3 24. Bc3 cxb4 25. Nxb4 Be5 26.
+Na2 Bxc3 27. Nxc3 Ndc5 28. Rxe8+ Rxe8 29. Bc2 Re3 30. Ka2 Na5 31. Rd4 Rg3
+32. Ne4 Rxg2 33. Rd2 Rxd2 34. Nxd2 b5 35. b4 Nab7 36. bxc5 Nxc5 37. Ne4 Nb7
+38. c5 f5 39. c6 fxe4 40. cxb7+ Kxb7 41. Bxe4 Kc7 42. Kb3 a5 43. Kc3 a4 44.
+Bc2 g5 45. Kd4 Kd6 46. Bd1 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.08"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2817"]
+[EventDate "2011.09.26"]
+[ECO "E12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 Be7 7. Qc2 c5 8.
+dxc5 bxc5 9. e3 O-O 10. Be2 d6 11. O-O Nbd7 12. Rfd1 Qb6 13. Rd2 Rfd8 14.
+Rad1 a6 15. h3 Bc6 16. Ne1 Qc7 17. Bf3 Ne5 18. Bxc6 Qxc6 19. b3 Ra7 20. Bg3
+Qc8 21. Na4 Re8 22. Bh4 Ned7 23. Nc3 Ra8 24. f4 Qc7 25. Nf3 Rad8 26. e4 Nb8
+27. e5 dxe5 28. fxe5 Rxd2 29. Qxd2 Rd8 30. Qe1 Rxd1 31. Nxd1 Nh7 32. Bxe7
+Qxe7 33. Nf2 Qc7 34. Ne4 Nf8 35. h4 Nbd7 36. Nf2 Ng6 37. Nd3 Ne7 38. Qe4
+Qc6 39. Nf2 Qxe4 40. Nxe4 Nc6 41. Kf2 Kf8 42. g4 Ke7 43. g5 a5 44. Ke3
+Ncxe5 45. Nxe5 Nxe5 46. Nxc5 hxg5 47. hxg5 f5 48. gxf6+ gxf6 49. a3 f5 50.
+Kd4 Nc6+ 51. Kc3 Kd6 52. b4 axb4+ 53. axb4 e5 54. Nb3 e4 55. b5 Nd8 56. c5+
+Kd5 57. Nd4 Kxc5 58. Nxf5 Nb7 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.10"]
+[Round "9"]
+[White "Vallejo Pons,F"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2753"]
+[EventDate "2011.09.26"]
+[ECO "E91"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Nbd7 7. Be3 e5 8.
+O-O Re8 9. dxe5 dxe5 10. b4 c6 11. c5 Nh5 12. Nd2 Nf4 13. Nc4 Nxe2+ 14.
+Qxe2 Qe7 15. Rab1 Nf8 16. Nd6 Rd8 17. Na4 Ne6 18. Nb2 b5 19. a4 a6 20. Ra1
+Rb8 21. axb5 axb5 22. Ra3 Nf4 23. Qd2 Be6 24. g3 Nh5 25. Rfa1 Nf6 26. Bg5
+Qf8 27. Bxf6 Bxf6 28. Nd3 Be7 29. Nxe5 Bxd6 30. cxd6 Rxd6 31. Qc3 Rbd8 32.
+h4 Qe8 33. Ra6 f6 34. Nf3 Bg4 35. Qb3+ Kh8 36. Nh2 Qxe4 37. Nxg4 Qxg4 38.
+Qf7 Qf3 39. Rf1 Rd1 40. Ra1 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.10"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2807"]
+[BlackElo "2817"]
+[EventDate "2011.09.26"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O Nf6
+8. Qa4+ Nc6 9. Bg5 Be7 10. Bxf6 Bxf6 11. d5 exd5 12. Rfe1+ Be6 13. Bxd5 O-O
+14. Bxe6 fxe6 15. Rad1 Qe8 16. Ne4 Qe7 17. Qb3 Rab8 18. Nxf6+ Rxf6 19. Ng5
+Qb4 20. Qc2 Rg6 21. Re4 Qa5 22. h4 Re8 23. Rd7 h6 24. b4 Qf5 25. Rxe6 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.10"]
+[Round "9"]
+[White "Carlsen,M"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2823"]
+[BlackElo "2765"]
+[EventDate "2011.09.26"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 Ne4
+8. Qc2 f5 9. g3 Nf6 10. Bh3 O-O 11. O-O a5 12. Rd1 Qe8 13. d5 Na6 14. Bf4
+exd5 15. Bxf5 dxc4 16. Ng5 Qh5 17. Rxd7 Kh8 18. Re7 Nd5 19. Bg4 Qg6 20.
+Nf7+ Kg8 21. Bf5 Qxf5 22. Qxf5 Nxe7 23. Nh6+ gxh6 24. Qg4+ Ng6 25. Bxh6 Rf7
+26. Rd1 Re8 27. h4 Nc5 28. h5 Bc8 29. Qxc4 Ne5 30. Qh4 Nc6 31. Rd5 Ne6 32.
+Qc4 Ncd8 33. Qg4+ Ng7 34. Qxc8 1-0
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.11"]
+[Round "10"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2753"]
+[BlackElo "2823"]
+[EventDate "2011.09.26"]
+[ECO "D59"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8.
+cxd5 Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Qb3 Be6 12. Rc1 Rc8 13. Bd3 c5 14.
+Qa3 Kf8 15. dxc5 bxc5 16. Bb5 Nd7 17. Bxd7 Bxd7 18. O-O a5 19. Rfd1 Be6 20.
+Rc3 a4 21. h3 Rab8 22. Rd2 Rb4 23. Rdc2 c4 24. b3 axb3 25. axb3 Rbb8 26.
+Qxe7+ Kxe7 27. bxc4 Rxc4 28. Nd2 Rxc3 29. Rxc3 d4 30. exd4 Rb4 31. Rd3 Kd6
+32. Nf3 Bd5 33. Kh2 Be4 34. Ra3 f6 35. Ra6+ Ke7 36. Ra7+ Kf8 37. Rd7 Bc6
+38. Rd6 Bxf3 39. gxf3 Ke7 40. Rd5 Ke6 41. Rd8 Ke7 42. Rd5 Ke6 43. Rd8 Ke7
+1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.11"]
+[Round "10"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2807"]
+[EventDate "2011.09.26"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nf5 8. Nf3 O-O 9. d4 d5 10. g3 Re8 11. c3 Bf8 12. Rxe8 Qxe8 13. Bf4 Bd6 14.
+Bxd6 Nxd6 15. Nbd2 Be6 16. Qb3 Na5 17. Qa3 Nac4 18. Nxc4 Nxc4 19. Qb3 Qc6
+20. Bg2 Re8 21. Re1 Bc8 22. Qc2 Rxe1+ 23. Nxe1 Qe8 24. Nf3 c6 25. Bf1 h6
+26. Nd2 Nxd2 27. Qxd2 Bf5 28. f3 g5 29. Kf2 f6 30. Qe3 Qh5 31. Qe7 Qxh2+
+32. Bg2 Bh3 33. Qe8+ Kg7 34. Qe7+ Kg8 35. Qe8+ 1/2-1/2
+
+[Event "4th Final Masters"]
+[Site "Sao Paulo/Bilbao BRA/ESP"]
+[Date "2011.10.11"]
+[Round "10"]
+[White "Anand,V"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2817"]
+[BlackElo "2716"]
+[EventDate "2011.09.26"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e4 b5 5. a4 b4 6. Nce2 Ba6 7. Nf3 e6 8.
+Ng3 c5 9. d5 Be7 10. Bf4 exd5 11. Qxd5 Qxd5 12. exd5 Nh6 13. O-O-O O-O 14.
+Bxh6 gxh6 15. Nf5 Bf6 16. Nxh6+ Kg7 17. Nf5+ Kg6 18. g4 c3 19. bxc3 bxc3
+20. Bxa6 Nxa6 21. d6 h5 22. Ne7+ Kh7 23. Rd5 Nb4 24. Rxh5+ Kg7 25. Nf5+ Kg8
+26. g5 Bd4 27. Rg1 Rab8 28. g6 Nd3+ 29. Kc2 Nf4 30. N3xd4 cxd4 31. Rh8+
+Kxh8 32. g7+ Kg8 33. gxf8=Q+ Kxf8 34. Nxd4 Nd5 35. Nb5 Rc8 36. Rg4 a5 37.
+Nc7 Nxc7 38. Rc4 Ke8 39. dxc7 1-0
+

@@ -1,0 +1,2101 @@
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.2"]
+[White "Gelfand,B"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2800"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "2805677"]
+[BlackFideId "13401319"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 d5 2.d4 e6 3.c4 a6 4.cxd5 exd5 5.Nc3 Nf6 6.Qb3 b5 7.Bg5 Be6 8.Qc2 Nbd7
+9.e3 c5 10.dxc5 Bxc5 11.Bd3 h6 12.Bh4 Rc8 13.O-O O-O 14.Qb1 g5 15.Bg3 Nh5
+16.Ne2 Nxg3 17.hxg3 Qf6 18.a4 Ne5 19.Nxe5 Qxe5 20.axb5 axb5 21.b4 Bb6 22.Ra6 Rb8
+23.Qa1 Qxa1 24.Rfxa1 d4 25.Nxd4 Bxd4 26.exd4 Rfd8 27.Rd1 Kg7 28.Be4 Bd5 29.Bxd5 Rxd5
+30.Rc6 Rbd8 31.Rc5 Rxd4 32.Rxd4 Rxd4 33.Rxb5 Rd1+ 34.Kh2 g4 35.f3 Rb1 36.fxg4 Kg6
+37.Rb8 Kf6 38.b5 Kg6 39.b6 Kg7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.3"]
+[White "Giri,A"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2724"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "24116068"]
+[BlackFideId "13400924"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.c5 Nh5 8.Bd3 Nxf4
+9.exf4 c6 10.Qc2 h6 11.O-O Qc7 12.Ne5 Nxe5 13.fxe5 Bd7 14.a3 b6 15.b4 bxc5
+16.bxc5 f6 17.f4 Rab8 18.g3 Qa5 19.Ne2 Be8 20.Bg6 Bxg6 21.Qxg6 Qd2 22.Rf2 Qe3
+23.Qg4 Kh7 24.Qxe6 Rbe8 25.a4 fxe5 26.Qxe5 Qd3 27.Qh5 Bf6 28.Raf1 g6 29.Qg4 h5
+30.Qd7+ Re7 31.Qd6 Kg7 32.Nc1 Qf5 33.Rd1 Rfe8 34.Qxc6 Re1+ 35.Rf1 Bxd4+ 36.Rxd4 Rxf1+
+37.Kxf1 Qh3+ 38.Kf2 Qxh2+ 39.Kf1 Qh1+ 40.Kf2 Re1  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.1"]
+[White "Aronian,L"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2735"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "8604436"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 g6 3.f3 e6 4.Nc3 c5 5.d5 d6 6.e4 Bg7 7.Nge2 exd5 8.cxd5 Nbd7
+9.Ng3 h5 10.Be2 Nh7 11.Be3 h4 12.Nf1 O-O 13.Qd2 Re8 14.Bh6 Bd4 15.Ne3 a6
+16.Nc2 Be5 17.Bf4 b5 18.O-O Bxf4 19.Qxf4 Ne5 20.Qh6 g5 21.g3 hxg3 22.hxg3 Qf6
+23.Qh2 Ng6 24.Ne3 Bd7 25.Kg2 Kg7 26.Rh1 Rh8 27.Qg1 Qe5 28.Qf2 Nf6 29.Raf1 Nh5
+30.Rfg1 Nhf4+ 31.gxf4 Bh3+ 32.Rxh3 Nxf4+ 33.Kf1 Nxh3 34.Qg3 Nxg1 35.Qxe5+ dxe5
+36.Kxg1 c4 37.Nf5+ Kf6 38.d6 Ke6 39.a4 Kd7 40.axb5 axb5 41.Nxb5 Ra2 42.Bxc4 Rxb2
+43.Nc7 Rhh2 44.Bb5+ Kd8 45.Ne3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.4"]
+[White "Inarkiev,E"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2707"]
+[BlackElo "2761"]
+[ECO "A10"]
+[Opening "English"]
+[Variation "Anglo-Dutch defense"]
+[WhiteFideId "4162722"]
+[BlackFideId "4126025"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 d5 5.O-O Bd6 6.Nc3 O-O 7.d3 dxc4 8.dxc4 Nc6
+9.e4 e5 10.Bg5 fxe4 11.Nd2 Be7 12.Ndxe4 Nxe4 13.Qxd8 Bxd8 14.Nxe4 Nd4 15.Bxd8 Rxd8
+16.Nc5 c6 17.Rae1 Ne6 18.Nxe6 Bxe6 19.b3 Bf7 20.Rxe5 Kf8 21.Rfe1 Rd2 22.R5e2 Rad8
+23.Be4 a5 24.a4 Rxe2 25.Rxe2 Rd4 26.f3 b5 27.Bxc6 bxc4 28.bxc4 Rxc4 29.Bb5 Rb4
+30.Kf2 g5 31.Re5 h6 32.Bc6 Rc4 33.Bb5 Rb4 34.h3 Rb2+ 35.Re2 Rb4 36.g4 Rb3
+37.Re5 Rb4 38.Bc6 Rc4 39.Bb5 Rb4 40.Re2 Bd5 41.Rd2 Bb3 42.Rd6 Kg7 43.Rd7+ Kg8
+44.Kg3 Bxa4 45.Bxa4 Rxa4 46.h4 gxh4+ 47.Kxh4 Rf4 48.Kg3 Rf7 49.Rd8+ Rf8 50.Rd6 Ra8
+51.Rxh6 a4 52.Rh2 a3 53.Ra2 Kf7 54.Kf4 Kf6 55.Ke4 Kg5 56.Ke5 Ra4 57.Kd5 Kf4
+58.Kc5 Kxf3 59.Kb5 Rxg4 60.Rxa3+  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.5"]
+[White "Svidler,P"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2703"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "4122356"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.Bg2 d5 5.Qb3 dxc4 6.Qxc4 Be7 7.d3 O-O 8.Nf3 Nc6
+9.O-O e5 10.Ne4 b6 11.Bg5 Bb7 12.Bxf6 Bxf6 13.a3 Be7 14.Rac1 Rc8 15.Rfd1 Re8
+16.e3 Bf8 17.h4 Na5 18.Qc2 Bd5 19.Nfd2 Qd7 20.Nc3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.6"]
+[White "Rapport,R"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2742"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "738590"]
+[BlackFideId "4168119"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c3 e6 3.Bg5 h6 4.Bh4 b6 5.e3 Bb7 6.Nd2 Be7 7.Ngf3 c5 8.a3 Nc6
+9.Bd3 d5 10.b4 Rc8 11.Qb1 Ba8 12.Bg3 Bd6 13.Ne5 O-O 14.f4 cxd4 15.cxd4 Bxe5
+16.fxe5 Ng4 17.Bf4 g5 18.Qd1 f5 19.exf6 Nf2 20.Kxf2 Qxf6 21.Qg4 e5 22.Qd7 Qg7
+23.Bf5 Rce8 24.Be6+ Kh8 25.Qxg7+ Kxg7 26.Bd7 Re7 27.Bxc6 Bxc6 28.Rac1 exf4
+29.exf4 Rxf4+ 30.Nf3 Bb5 31.Rhe1 Rxe1 32.Kxe1 Bc4 33.h3 Re4+ 34.Kf2 Re2+
+35.Kg1 Ra2 36.Ne5 b5 37.Rc3 Kf6 38.Rf3+ Ke6 39.Kh2 Rd2 40.Re3 Kf5 41.Nf7 h5
+42.Re5+ Kg6 43.Nd6 Bf1 44.Re6+ Kg7 45.Re7+ Kg6 46.Re6+ Kg7 47.Re7+  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.7"]
+[White "Eljanov,P"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2666"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14102951"]
+[BlackFideId "8602980"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 O-O 6.h3 d6 7.c3 Ne7 8.Nbd2 Ng6
+9.Re1 Bb6 10.Bb3 c6 11.Bc2 Re8 12.d4 Bc7 13.dxe5 dxe5 14.Nc4 Be6 15.Qe2 h6
+16.Qf1 Nh7 17.Ne3 Nf4 18.Nf5 Bxf5 19.exf5 Nf6 20.Bxf4 exf4 21.Rad1 Qc8 22.Qc4 Rxe1+
+23.Rxe1 Qf8 24.Bb3 Re8 25.Rxe8 Qxe8 26.Qb4 b5 27.Qd4 Bb8 28.a4 Qe7 29.Qd3 a6
+30.Kf1 Qd7 31.Qxd7 Nxd7 32.Nd4 Ne5 33.axb5 axb5 34.Bc2 Ba7 35.b4 f3 36.g4 Bxd4
+37.cxd4 Nc4 38.Ke1 Nb6 39.Be4 Nd5 40.Bxd5 cxd5 41.Kd2 Kf8 42.Ke3 Ke7 43.Kxf3 Kd7
+44.Kg3 Ke7 45.Kh4 g6 46.g5 h5 47.f4 Kf8 48.fxg6 fxg6 49.f5  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.8"]
+[White "Riazantsev,A"]
+[Black "Harikrishna,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2737"]
+[ECO "E34"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation"]
+[WhiteFideId "4125029"]
+[BlackFideId "5007003"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.e3 c5 7.Bd2 Bxc3 8.bxc3 O-O
+9.Nf3 Nc6 10.c4 Qd6 11.Bc3 cxd4 12.exd4 b6 13.Be2 Bb7 14.O-O Rac8 15.Rfd1 Ne7
+16.Qb3 Rfd8 17.Ne5 Ng6 18.Bb2 Nd7 19.Nxg6 hxg6 20.a4 Nf6 21.a5 Qc7 22.axb6 axb6
+23.Rab1 Ne4 24.Rbc1 Qf4 25.f3 Nf6 26.Rc2 Qc7 27.Bc1 b5 28.c5 Bd5 29.Qb4 Bc6
+30.Bg5 Nd5 31.Qb2 Re8 32.Ra1 Ra8 33.Rcc1 Qb7 34.Bd2 Rxa1 35.Rxa1 Ra8 36.Ra5 Rxa5
+37.Bxa5 b4 38.Bc4 Ne3 39.Be2 b3 40.Bd2 Nf5 41.Bc3 Bd5 42.Qc1 Ne7 43.Bb2 Nc6
+44.Qc3 Kf8 45.Kf2 Ke7 46.Qd2 Qb8 47.h3 Kf8 48.Bd3 Kg8 49.Qe1 Qf4 50.Qe3 Qh4+
+51.Kg1 Qd8 52.Kf2 Qa5 53.Qe1 Nb4 54.Bb1 Qb5 55.Qc3 Qa4 56.Kg1 Kf8 57.Kf2 Nc6
+58.Kg1 Ke8 59.Kf2 Kd7 60.Qd2 Kc8 61.Qc3 Na5 62.Bd3 Bc4 63.Bb1 Nc6 64.d5 Bxd5
+65.Qxg7 Qh4+ 66.g3 Qxh3 67.Qf8+ Nd8 68.Qh8 Qxh8 69.Bxh8 Nb7 70.Ke3 Kd7 71.f4 Nxc5
+72.g4 f5 73.gxf5 exf5 74.Bd3 Kc6 75.Be2 Na4 76.Bd1 Kc5 77.Bd4+ Kb4 78.Bg7 Be4
+79.Bf8+ Kc4 80.Be2+ Kd5 81.Bd1 b2 82.Bb3+ Kc6 83.Bxa4+ Kb7  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.06"]
+[Round "1.9"]
+[White "Adams,Mi"]
+[Black "Salem,AR"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2638"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "400041"]
+[BlackFideId "9301348"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bc1 Nc6
+9.Nxc6 bxc6 10.Bc4 e5 11.b3 Be7 12.Bb2 O-O 13.Qe2 Qb6 14.O-O Nf6 15.Kh1 a5
+16.Na4 Qc7 17.Rae1 Nd7 18.Qd3 Bb7 19.Qg3 Bg5 20.Rd1 Nf6 21.f3 Rfe8 22.Rfe1 Rad8
+23.Bf1 Nh5 24.Qf2 Re6 25.g3 Ree8 26.Qb6 Qb8 27.Bc3 Rc8 28.Bh3 d5 29.Nc5 Ba8
+30.Qxb8 Rxb8 31.exd5 cxd5 32.Bxe5 d4 33.Bxb8 Rxb8 34.Rxd4 Bxf3+ 35.Bg2 Bxg2+
+36.Kxg2 Rc8 37.Rc4 Rd8 38.Nd3  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.5"]
+[White "Grischuk,A"]
+[Black "Rapport,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2694"]
+[ECO "C97"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Chigorin defence"]
+[WhiteFideId "4126025"]
+[BlackFideId "738590"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.d5 Nc4 13.b3 Nb6 14.a4 Bd7 15.a5 Nc8 16.c4 b4
+17.Nbd2 Bd8 18.Nf1 Kh8 19.Ra2 Qb8 20.Be3 Ne7 21.Ng3 Qc8 22.Nh4 Neg8 23.Rf1 Ne8
+24.Nf3 Bf6 25.Nh2 Ne7 26.Nh5 Ng6 27.Bb1 Qd8 28.Qc1 Kg8 29.Kh1 Bh4 30.f4 exf4
+31.Nxf4 Ne5 32.Nd3 Nxd3 33.Bxd3 Nf6 34.Bf4 Nh5 35.Bxd6 Ng3+ 36.Bxg3 Bxg3
+37.Nf3 Qc7 38.Re2 f6 39.e5 Bxe5 40.Qc2 h6 41.Bh7+ Kh8 42.Bf5 Be8 43.Nxe5 fxe5
+44.Rfe1 Qxa5 45.Rxe5 Qc7 46.Qd2 Qd6 47.Re6 Qg3 48.Rxh6+ Kg8 49.Bh7+ Kh8 50.Bf5+ Kg8
+51.Bh7+ Kh8 52.Be4+ Kg8 53.d6 Ra7 54.Re6 Raf7 55.Kg1 Rf2 56.Qd1 Bf7 57.Bd5 g6
+58.R6e3 Qg5 59.Bf3 Ra2 60.d7 Rd8 61.Re8+ Kg7 62.Rxd8 Qxd8 63.Qd6  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.7"]
+[White "Nepomniachtchi,I"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2728"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "4168119"]
+[BlackFideId "2805677"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nh6 7.h3 O-O 8.c3 f5
+9.e5 Nf7 10.d3 d6 11.Bf4 Ba6 12.e6 Ne5 13.Bxe5 dxe5 14.Nxe5 Qb8 15.d4 Bxe5
+16.Rxe5 cxd4 17.cxd4 Qxb2 18.Nd2  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.8"]
+[White "Salem,AR"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2775"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "9301348"]
+[BlackFideId "24116068"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Bg5 h6 7.Bh4 a6 8.a4 Ba7 9.Nbd2 Qe7
+10.b4 Bd7 11.Rb1 g5 12.Bg3 Nh5 13.b5 axb5 14.axb5 Na5 15.Bd5 Nxg3 16.hxg3 Qf6
+17.Qe2 O-O 18.Nh2 c6 19.bxc6 bxc6 20.Ba2 Kg7 21.Ndf1 Rfb8 22.Ne3 Bxe3 23.Qxe3 Be6
+24.Qe2 Bxa2 25.Rxb8 Rxb8 26.Qxa2 Qe6 27.Qa1 Nb3 28.Qd1 Nc5 29.O-O Rb3 30.Qc2 Ra3
+31.Rb1 Qa2 32.Qxa2 Rxa2 33.Ng4 Rd2 34.Ne3 Rxd3 35.Nf5+ Kf6 36.f3 g4 37.Kf2 gxf3
+38.gxf3 d5 39.Rb6 dxe4 40.Ne3 Rd2+ 41.Ke1 Rd6 42.fxe4 Nxe4 43.g4 Kg5  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.9"]
+[White "Hou Yifan"]
+[Black "Riazantsev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2654"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "4125029"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.cxd5 exd5 5.Bf4 c6 6.e3 Bd6 7.Bg3 Ne7 8.Bd3 Bf5
+9.Nge2 O-O 10.a3 a5 11.Rc1 Bxd3 12.Qxd3 Na6 13.Na4 Nc8 14.Nc5 Qe7 15.Qc3 Ra7
+16.O-O Nc7 17.Nf4 Bxf4 18.Bxf4 Ne6 19.Bb8 Ra8 20.Bg3 Nb6 21.a4 Rfe8 22.b3 Nxc5
+23.dxc5 Nd7 24.Rfe1 Nf8 25.h3 f6 26.Re2 Qf7 27.Rb2 Ng6 28.b4 axb4 29.Rxb4 Ne5
+30.Rcb1 Re7 31.e4 Rd8 32.Rd1 h6 33.Qb3 Red7 34.exd5 cxd5 35.Rb1 Nc4 36.Rxb7 Nd2
+37.Qb6 Nxb1 38.c6 Nc3 39.cxd7 Rxd7 40.Rxd7 Qxd7 41.a5 d4 42.a6 d3 43.Qb3+ Kh8
+44.a7 Ne2+ 45.Kh2 Qxa7 46.Qxd3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.6"]
+[White "Li Chao2"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2749"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[WhiteFideId "8604436"]
+[BlackFideId "4102142"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.h4 O-O 6.cxd5 Nxd5 7.h5 c5 8.hxg6 hxg6
+9.Bh6 Bxh6 10.Rxh6 Nxc3 11.bxc3 Kg7 12.Qd2 cxd4 13.Rd1 Qa5 14.Nxd4 Nc6 15.Nxc6 bxc6
+16.Rh4 g5 17.Ra4 Qe5 18.Qd4 Qxd4 19.cxd4 Be6 20.e4 f5 21.Bc4 Bxc4 22.Rxc4 Rac8
+23.Rc5 Kg6 24.Rdc1 Rcd8 25.Rxc6+ Kh5 26.Rd1 fxe4 27.Re6 Rd7 28.Ke2 Rf6 29.Rxe4 Ra6
+30.Rd2 e6 31.Kf3 Kg6 32.Re5 Kf6 33.Ke4 Rdd6 34.Rc5 Ra4 35.Rd3 Rxa2 36.Rf3+ Kg6
+37.Rg3 Rd5 38.f4 Ra5 39.Rc6 Rf5 40.fxg5 Rxg5 41.Rxg5+ Rxg5 42.Rxe6+ Kf7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.2"]
+[White "Harikrishna,P"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2736"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5007003"]
+[BlackFideId "400041"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.Bg5 h6 7.Bh4 Be7 8.a4 a5
+9.Nbd2 d6 10.Bg3 Nh7 11.Qb3 Ng5 12.Nxg5 Bxg5 13.Nf3 Bf6 14.h3 Rb8 15.Rd1 Bd7
+16.O-O Qe8 17.Bb5 Qe6 18.Qc2 Rfd8 19.Nh2 Bg5 20.Qe2 Ne7 21.Bxd7 Rxd7 22.h4 Bf6
+23.Ng4 Ng6 24.h5 Nf4 25.Bxf4 exf4 26.d4 Bg5 27.e5 Re8 28.Qf3 Qb3 29.Rde1 Rde7
+30.Rb1 Re6 31.g3 dxe5 32.dxe5 Qxa4 33.b4 Qc6 34.Qxc6 Rxc6 35.gxf4 Bxf4 36.bxa5 Bxe5
+37.Rfe1 Rce6 38.Re3 b6  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.3"]
+[White "Jakovenko,D"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2809"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4122356"]
+[BlackFideId "13300474"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 O-O 6.c3 a6 7.a4 Ba7 8.Re1 d6
+9.h3 b5 10.Bb3 b4 11.a5 Rb8 12.Nbd2 Be6 13.Bxe6 fxe6 14.Nc4 Qe8 15.Be3 Bxe3
+16.Rxe3 Qg6 17.Ncd2 Nh5 18.Qf1 Rb5 19.Kh2 Qh6 20.Kg1 Qg6 21.Kh2 Qh6 22.Kg1 Kh8
+23.d4 Nf4 24.h4 g5 25.hxg5 Qh5 26.Qc4 exd4 27.cxd4 Nxa5 28.Qf1 h6 29.e5 d5
+30.Rc1 c6 31.Ne1 hxg5 32.Nd3 g4 33.Nxf4 Rxf4 34.Rd3 g3 35.Rxg3 Rh4 36.f4 Rh1+
+37.Kf2 Rxf1+ 38.Rxf1 Nc4 39.Nb3 Qh4 40.Kf3 a5 41.Ra1 Qh5+ 42.Kf2 Nxb2 43.Rh3 Qxh3
+44.gxh3 a4 45.Nc5 b3 46.f5 exf5 47.e6 Nc4 48.e7 Nd6 49.Nxa4 Kg7 50.Nc3 Rb8
+51.Ra6 Kf7  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.4"]
+[White "Mamedyarov,S"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2707"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Vienna variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "4162722"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Bg5 Bb4+ 5.Nbd2 dxc4 6.e3 b5 7.a4 c6 8.Be2 Nbd7
+9.O-O Qb6 10.Qc2 Bb7 11.b3 c3 12.Nb1 c5 13.Nxc3 cxd4 14.Nxb5 Rc8 15.Qb2 a6
+16.a5 Qc5 17.exd4 Qf5 18.Bd2 Be7 19.Nc3 O-O 20.Nh4  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.07"]
+[Round "2.1"]
+[White "Radjabov,T"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2739"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "14102951"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Be7 7.Nc3 c6 8.e4 d5
+9.exd5 cxd5 10.Ne5 O-O 11.O-O Nc6 12.Bf4 Na5 13.Rc1 dxc4 14.Bxb7 Nxb7 15.Nxc4 Bb4
+16.Bg5 Nd6 17.Nxd6 Bxd6 18.d5 exd5 19.Nxd5 Be5 20.Bxf6 Bxf6 21.b4 Qd6 22.Qf3 Rac8
+23.Rcd1 Rfe8 24.b5 Be7 25.Rd4 Bf8 26.Rfd1 Rc5 27.a4 Qe6 28.Rg4 Kh8 29.Rf4 Kg8
+30.h4 Rc2 31.Kg2 h6 32.h5 Rcc8 33.Rdd4 Bc5 34.Rde4 Qd7 35.Rg4 Kf8 36.Ref4 Bd6
+37.Rd4 Qb7 38.Rxg7 Be5 39.Rg8+ Kxg8 40.Nf6+ Bxf6 41.Rg4+  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.4"]
+[White "Giri,A"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2735"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Soultanbeieff variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "8604436"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 c6 2.d4 d5 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 e6 6.e3 c5 7.Bxc4 Nc6 8.O-O Be7
+9.Qe2 O-O 10.Rd1 Qc7 11.b3 b6 12.Bb2 Bb7 13.d5 exd5 14.Nxd5 Nxd5 15.Bxd5 Nb4
+16.Bc4 Qc6 17.e4 Qxe4 18.Rd7 Qxe2 19.Bxe2 Bf6 20.Rxb7 Bxb2 21.Rd1 Nc6 22.Rdd7 Na5
+23.Rxa7 Rxa7 24.Rxa7 h6 25.Ra6 Rb8 26.Nd2 Bc3 27.Nc4 Nxc4 28.Bxc4 Rb7 29.h4 g6
+30.Bb5 Ba5 31.Ra8+ Kg7 32.Re8 h5 33.f3 Kf6 34.g4 hxg4 35.fxg4 Re7 36.g5+ Ke6
+37.Bc4+ Kd6 38.Rh8 Ke5 39.Rh7 Kf4 40.Rxf7+ Rxf7 41.Bxf7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.7"]
+[White "Inarkiev,E"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2707"]
+[BlackElo "2666"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "4162722"]
+[BlackFideId "8602980"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 e6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d4 dxc4 7.Ne5 Nc6 8.Nxc6 bxc6
+9.Na3 Bxa3 10.bxa3 Ba6 11.Qd2 Rb8 12.Rd1 Qc8 13.Qc2 h6 14.Bd2 Nd5 15.e4 Nb6
+16.Bb4 Rd8 17.a4 Nd5 18.exd5 Rxb4 19.dxc6 Qb8 20.Rd2 c3 21.Qxc3 Bc4 22.Re1 Bd5
+23.Bxd5 Rxd5 24.Re5 Rxa4 25.Rb2 Qe8 26.Rxd5 exd5 27.Qd3 g6 28.Rc2 Kg7 29.Kg2 Qe6
+30.h4 h5 31.Rc5 Rxa2 32.Qf3 Qe1 33.Qf4 Qe6 34.Qe5+ Qf6 35.Qxf6+ Kxf6 36.Rxd5 Ra6
+37.Rc5 Ke6 38.Kf3 Kd6 39.Ke4 Rxc6 40.Ra5 a6 41.f3 Ke7 42.g4 Re6+ 43.Kf4 Rd6
+44.Ke4 hxg4 45.fxg4 Rc6 46.Kf4 Rc4 47.Ke5 Rc1 48.Rxa6 Rh1 49.Ra7 Kd7 50.d5 Re1+
+51.Kf6 Rf1+ 52.Kg7 Kd6 53.Ra5 Rg1 54.Ra4 f5 55.g5 Rg4 56.Ra1 Rxh4 57.Kxg6 f4
+58.Kf5 Rh2 59.Kxf4 Kxd5 60.g6 Rg2 61.Kf5 c5 62.Rd1+ Kc4 63.Kf6 Rf2+ 64.Ke7 Rg2
+65.Kf7 Kb3 66.Rb1+ Ka3 67.Rb6 c4 68.g7 Rxg7+ 69.Kxg7 c3 70.Rc6 Kb2 71.Rxc3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.9"]
+[White "Riazantsev,A"]
+[Black "Salem,AR"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2638"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "4125029"]
+[BlackFideId "9301348"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Bd2 Nb6 6.e3 Bg7 7.f4 O-O 8.Nf3 N8d7
+9.Ne4 Nf6 10.Bd3 Nxe4 11.Bxe4 Nc4 12.Rc1 Nd6 13.Bd3 c6 14.Qc2 Be6 15.Ng5 Bd7
+16.O-O Rc8 17.Kh1 a5 18.a3 c5 19.dxc5 b6 20.b4 bxc5 21.bxc5 Nb7 22.Ne4 Bc6
+23.Rfd1 Qd5 24.Be1 Qe6 25.f5 Qd7 26.fxg6 hxg6 27.Qe2 Bh6 28.Nf2 Qe6 29.Ng4 Bg7
+30.Bc3 Nxc5 31.Bxg7 Nxd3 32.Rxc6 Rxc6 33.Bxf8 Qxg4 34.Qxg4 Nf2+ 35.Kg1 Nxg4
+36.Bxe7 Nxe3 37.Re1 Nd5  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.6"]
+[White "Eljanov,P"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2742"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "14102951"]
+[BlackFideId "4168119"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Be3 Be6
+9.Nd5 Nbd7 10.Qd3 O-O 11.a4 Bxd5 12.exd5 Nc5 13.Nxc5 dxc5 14.c4 Qc7 15.Qc2 Rae8
+16.g4 e4 17.O-O-O Bd6 18.g5 Nd7 19.Kb1 Ne5 20.h4 Nf3 21.Rh3 Qd7 22.Rhh1 Qe7
+23.Bxf3 exf3 24.h5 b5 25.cxb5 axb5 26.axb5 Qd7 27.Qd3 Rb8 28.h6 g6 29.Bd2 Rxb5
+30.Bc3 Rb3 31.Rhe1 Qg4 32.Re4 Qxg5 33.Qxf3 Be5 34.Rxe5 Qxe5 35.d6 f6 36.d7 Rxc3
+37.Qxc3 Qe7 38.Qb3+ Kh8 39.Qd5 Rd8 40.Rd3  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.1"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2724"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[WhiteFideId "13300474"]
+[BlackFideId "13400924"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Na3 Ne4
+9.Bf4 Nd7 10.Qc2 f5 11.Rad1 g5 12.Bc1 Nd6 13.Ne5 Qe8 14.Qb3 Nxe5 15.dxe5 Ne4
+16.Nc2 b6 17.Nd4 Bd7 18.Qc2 a5 19.Be3 Rc8 20.Nf3 b5 21.cxd5 cxd5 22.Qd3 b4
+23.Nd4 f4 24.Bc1 Nc5 25.Qf3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.2"]
+[White "Harikrishna,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2800"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5007003"]
+[BlackFideId "13401319"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.a4 Ba7 8.Re1 O-O
+9.h3 b5 10.Ba2 b4 11.Bg5 Rb8 12.Nbd2 h6 13.Bh4 Be6 14.Bc4 g5 15.Bg3 Na5 16.Bxe6 fxe6
+17.d4 bxc3 18.bxc3 Nh5 19.Bh2 exd4 20.cxd4 Nc6 21.Rc1 Qd7 22.Re3 Rb7 23.Nb3 e5
+24.Nxe5 dxe5 25.Qxh5 Kh7 26.Rec3 Nxd4 27.Bxe5 Rxf2 28.Kh2 Ne6 29.Rd1 Qe7
+30.Qg4 Qf7 31.Rc6 h5 32.Qg3 Rf1 33.Qd3 Rxd1 34.Qxd1  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.3"]
+[White "Adams,Mi"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2761"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[WhiteFideId "400041"]
+[BlackFideId "4126025"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Re1 e6 7.c3 Be7 8.d4 O-O
+9.e5 Ne8 10.exd6 Bxd6 11.Bg5 Nef6 12.Na3 Be7 13.Nc4 Rc8  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.5"]
+[White "Svidler,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2728"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "2805677"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.Nf3 d6 6.O-O e6 7.e3 Nge7 8.d4 O-O
+9.Re1 Re8 10.b3 Nf5 11.Bb2 cxd4 12.exd4 Nfxd4 13.Nxd4 Nxd4 14.Ne4 e5 15.Nxd6 Qxd6
+16.Bxd4 Qc7 17.Bc3 Bd7 18.Qd5 Bc6 19.Qc5 Qb6 20.Qxb6  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.08"]
+[Round "3.8"]
+[White "Rapport,R"]
+[Black "Jakovenko,D"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2703"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[WhiteFideId "738590"]
+[BlackFideId "4122356"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 O-O 5.Bg2 d5 6.cxd5 exd5 7.a3 Bxc3+ 8.bxc3 Ne4
+9.c4 c6 10.cxd5 cxd5 11.e3 Bd7 12.Ne2 Bb5 13.O-O Re8 14.Re1 Nc6 15.f3 Nf6
+16.g4 Bxe2 17.Rxe2 Rc8 18.Qd3 h6 19.Bd2 a6 20.Kh1 Na5 21.Rg1 Nc4 22.Bc1 Rc6
+23.h3 b5 24.e4 dxe4 25.fxe4 Rd6 26.Rd1 Rd7 27.g5 Nh5 28.Qf3 g6 29.gxh6 Rxd4
+30.Rf1 Ne5 31.Qf2 Rd1 32.Bb2 Rxf1+ 33.Bxf1 Qg5 34.h7+ Kxh7 35.Bxe5 Qxe5 36.Qxf7+ Kh6
+37.Rg2 Qe6 38.Qxe6 Rxe6 39.a4 bxa4 40.Kh2 Rxe4 41.Ra2 a5 42.Bb5 Nf4 43.Ra3 Kg5
+44.Bxa4 Kh4 45.Bb5 g5 46.Rxa5 Re5 47.Kh1 Rd5 48.Kh2 Rd2+ 49.Kh1 Kxh3 50.Bf1+ Kh4
+51.Ra4 Kg3 52.Ra3+ Kf2 53.Bc4 Rd4 54.Ra2+ Kg3 55.Ra3+ Kh4 56.Bf1 g4 57.Kg1 g3
+58.Ra1 Kg4 59.Re1 Rd2 60.Ra1 Rb2 61.Kh1 Nd5 62.Bg2 Nf4 63.Bf1 Kf3 64.Kg1 Nd5
+65.Bh3 Ne3 66.Re1 Rc2 67.Ra1 Re2 68.Bf1 Rb2 69.Bh3 Rc2 70.Re1 g2 71.Be6 Rc3
+72.Bh3 Kg3 73.Be6 Kf3 74.Bh3 Rc2 75.Be6 Rc6 76.Bh3 Rc3 77.Bd7 Nd5 78.Bh3 Nf4
+79.Bxg2+ Nxg2 80.Rf1+ Kg3 81.Rf8 Rc1+ 82.Rf1 Rc6 83.Ra1 Ne3 84.Rb1 Rc2 85.Re1 Ng2
+86.Rd1 Nh4  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.5"]
+[White "Gelfand,B"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2775"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "2805677"]
+[BlackFideId "24116068"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 g6 2.d4 Nf6 3.g3 c6 4.Bg2 d5 5.Nf3 Bg7 6.b3 O-O 7.Bb2 dxc4 8.bxc4 c5
+9.Qc1 cxd4 10.Nxd4 Nc6 11.Nxc6 bxc6 12.Nd2 Bg4 13.h3 Be6 14.O-O Qc8 15.h4 Bh3
+16.Qc2 Rd8 17.Nf3 Bxg2 18.Kxg2 Nh5 19.Bxg7 Nxg7 20.Rfd1 Qg4 21.Rab1 Ne6 22.e3 Nc5
+23.Rd4 Rxd4 24.Nxd4  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.9"]
+[White "Salem,AR"]
+[Black "Rapport,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2694"]
+[ECO "B28"]
+[Opening "Sicilian"]
+[Variation "O'Kelly variation"]
+[WhiteFideId "9301348"]
+[BlackFideId "738590"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 e5 6.Nf5 d6 7.Nc3 g6 8.Ne3 Bh6
+9.g3 Nf6 10.Bg2 O-O 11.O-O b5 12.f4 exf4 13.gxf4 Bb7 14.e5 dxe5 15.fxe5 Nd7
+16.Ng4 Bxc1 17.Rxc1 Ncxe5 18.Nxe5 Bxg2 19.Nxd7 Bxf1 20.Kxf1 Qh4 21.Nxf8 Qxh2
+22.Nd7 Qh3+ 23.Kf2 Qh2+ 24.Ke3 Re8+ 25.Kd3 Rd8 26.Nd5 Rxd7 27.Kc3 Rd6 28.b3 a5
+29.Rc2 Qg3+ 30.Qd3 Qe1+ 31.Kb2 bxc4 32.bxc4 Re6 33.Qc3 Qf1 34.Qxa5 Re1 35.Ka3 h5
+36.Qc3 Re6 37.Rb2 Ra6+ 38.Kb4 h4 39.Kc5 Qg1+ 40.Qe3 Ra5+  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.8"]
+[White "Riazantsev,A"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2707"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "4125029"]
+[BlackFideId "4162722"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 d5 7.Bg5 c5 8.dxc5 d4
+9.Qf3 Nbd7 10.e3 h6 11.Bxf6 Nxf6 12.O-O-O e5 13.Ne2 Bg4 14.Qg3 d3 15.f3 Be6
+16.Nc3 Qc7 17.Bxd3 Qxc5 18.Kb1 Rfe8 19.Qf2 Bxc4 20.Bxc4 Qxc4 21.e4 Rec8 22.Rd6 b5
+23.Rc1 a5 24.Qf1 Qxf1 25.Rxf1 b4 26.axb4 axb4 27.Na2 b3 28.Nc1 Rab8 29.Rfd1 Nh5
+30.g3 Kh7 31.R6d3 Rb4 32.Nxb3 Rcb8 33.Kc2 g5 34.Rb1 g4 35.Nc5 Nf6 36.Rc3 R8b5
+37.Nd3 Rd4 38.Nf2 Kg7 39.Re1 gxf3 40.Rxf3 Rbb4 41.Rfe3 Rbc4+ 42.Rc3 Nxe4
+43.Nxe4 Rxe4 44.Rxc4 Rxc4+ 45.Kd3 Rd4+ 46.Kc3 Kf6 47.b4 Ke6 48.b5 Kd5 49.Rf1 Rc4+
+50.Kb3 Kc5 51.Rxf7 Rb4+ 52.Kc3 Rxb5 53.Rf6 Rb6 54.Rxb6 Kxb6 55.Kd3 Kc5 56.Ke4 Kd6
+57.g4 Ke6 58.h4 Kf6 59.Kd5 h5 60.g5+ Kf5 61.Kc4 Ke6 62.Kd3 Kd6 63.Kc4 Ke6
+64.Kc5 e4 65.Kd4 Kf5 66.Ke3 Ke5 67.Kd2 Ke6 68.Ke2 Kd5 69.Kf2 Ke6 70.Ke3 Ke5
+71.Kd2 Ke6 72.Kc2 Ke5 73.Kc3 Kd5 74.Kb3 Ke6 75.Kc4 Ke5 76.Kc3 Kd5  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.7"]
+[White "Nepomniachtchi,I"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2666"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "8602980"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Nbd2 O-O 7.Qe2 Re8 8.Nc4 Nd7
+9.Bd2 Nb6 10.Na5 Qe7 11.a3 Bd6 12.h4 Na4 13.h5 Qf8 14.Nc4 b5 15.Nxd6 cxd6
+16.b3 Nc5 17.Nh4 Ne6 18.Nf5 c5 19.O-O Nf4 20.Qf3 g6 21.g3 Bxf5 22.gxf4 Bd7
+23.Kh2 f6 24.Rg1 Kf7 25.Rg3 Qe7 26.Rag1 Rg8 27.R1g2 Rh8 28.Kg1 Rag8 29.b4 c4
+30.Be3 Bc6 31.Rh2 a6 32.Kf1 Qe8 33.Rh4 Qe7 34.fxe5 dxe5 35.d4 exd4 36.Bg5 Rf8
+37.Rf4 Ke6 38.Qg4+ Kd6 39.e5+ Kc7 40.Bxf6 Rxf6 41.exf6 Qf7 42.Rxd4 Qxf6 43.Qf4+ Qxf4
+44.Rxf4 gxh5 45.Rg7+ Kb6 46.Rf6 h4 47.Rh6 Rd8 48.Rf7 h3 49.Rff6  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.6"]
+[White "Li Chao2"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2703"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Keres variation"]
+[WhiteFideId "8604436"]
+[BlackFideId "4122356"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 Nxd5 8.dxc5 Qa5
+9.e4 Ne7 10.Be3 O-O 11.Qb3 Qc7 12.Bb5 Nec6 13.Ne2 e5 14.O-O Na5 15.Qb4 Na6
+16.Bxa6 bxa6 17.Rad1 Be6 18.Rd5 Rfb8 19.Qa4 Bxd5 20.exd5 Rb5 21.Rd1 Rxc5
+22.Bxc5 Qxc5+ 23.Kh1 Qb5 24.Qe4 f5 25.Qc2 Nc4 26.a4 Qb6 27.Rb1 Qf2 28.Qd3 Ne3
+29.Rg1 e4 30.fxe4 fxe4 31.Qxa6 Nxd5 32.Ng3 Qb6 33.Qc4 Qe6 34.Rd1 Nf4 35.Qxe4 Qxe4
+36.Nxe4 Re8 37.Nd6 Re2 38.Rb1 h5 39.g3 Nh3 40.c4 Rc2 41.Rb8+ Kh7 42.Rb7 Ng5  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.4"]
+[White "Svidler,P"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2736"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4102142"]
+[BlackFideId "400041"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Nf3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.Qc2 c5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.Bd3 Qa5+ 11.Qc3 Qb6 12.a3 cxd4 13.Qxd4 Nc5 14.Bc2 Qb5 15.Be5 f6
+16.Bg3 Qc4 17.Rc1 Qxd4 18.Nxd4 a5 19.Nb5 Rd8 20.Nc7 Ra7 21.Rd1 Kf7 22.Nxd5 b5
+23.O-O Bf8 24.Bxh7 g5 25.h4 Be6 26.e4 gxh4 27.Bxh4 Bxd5 28.Rxd5 Rxd5 29.exd5 Na4
+30.Rc1 Rd7 31.Rc6 Rxd5 32.Rxf6+ Kg7 33.Bc2 Nxb2 34.Rg6+ Kf7 35.Rf6+ Kg7 36.Rb6 Bc5
+37.Rb7+ Kf8 38.Bg6 Bd4 39.Be7+ Kg8 40.Bf6  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.3"]
+[White "Mamedyarov,S"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2739"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "13401319"]
+[BlackFideId "14102951"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 c5
+9.e4 Nd7 10.Bd3 Qc7 11.Bb2 cxd4 12.cxd4 Qxc2 13.Bxc2 Rc8 14.Bd3 Bd6 15.Ke2 Ke7
+16.a4 Bb4 17.Rhb1 Rhd8 18.Bc1 a5 19.Bg5+ f6 20.Bd2 Bxd2 21.Nxd2 Rc3 22.Rc1  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.2"]
+[White "Grischuk,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2809"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4126025"]
+[BlackFideId "13300474"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a4 Bd7
+9.c3 Na5 10.Bc2 c5 11.d4 Qb8 12.Bg5 h6 13.Bh4 Be6 14.Nbd2 O-O 15.Re1 cxd4
+16.cxd4 Rc8 17.h3 Nc6 18.axb5 axb5 19.Rxa8 Qxa8 20.Bxf6 Bxf6 21.d5 Nb4 22.dxe6 Nxc2
+23.exf7+ Kxf7 24.Rf1 Qa2 25.Nb1 Nd4 26.Nxd4 exd4 27.Qh5+ Kg8 28.Qxb5 Rc2
+29.Na3 Rxb2 30.Qc4+ Kh7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.09"]
+[Round "4.1"]
+[White "Radjabov,T"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2737"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13400924"]
+[BlackFideId "5007003"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.a3 c5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.dxc5 Nxc5 11.Be5 Bf6 12.Bxf6 Qxf6 13.Qd4 Qxd4 14.Nxd4 Bd7
+15.f3 Rfc8 16.Kd2 Ne6 17.Bd3 Nxd4 18.exd4 Kf8 19.Rhe1 h6 20.Rac1 Rxc1 21.Rxc1 Rc8  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.9"]
+[White "Hou Yifan"]
+[Black "Rapport,R"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2694"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[WhiteFideId "8602980"]
+[BlackFideId "738590"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 Nc6 2.Nf3 e5 3.Bc4 Nf6 4.d3 h6 5.O-O d6 6.c3 g6 7.Re1 Bg7 8.h3 O-O 9.d4 Nd7
+10.Na3 Nb6 11.Bb5 Bd7 12.Be3 Kh7 13.dxe5 dxe5 14.Nc4 Qe7 15.a4 Rad8 16.Qe2 Nxc4
+17.Qxc4 Qf6 18.Bxc6 Qxc6 19.Qxc6 Bxc6 20.Bxa7 Rg8 21.a5 f5 22.exf5 gxf5 23.Red1 Ra8
+24.Be3 f4 25.Bd2 Bf6 26.Ne1 Rg7 27.c4 Rag8 28.Kf1 Bxg2+ 29.Nxg2 f3 30.Be3 e4
+31.Ra3 Be5 32.Rb3 c6 33.Bd4 fxg2+ 34.Kg1 Rd8 35.Rbd3 Rgd7 36.Bxe5 Rxd3 37.Re1 Rg8
+38.h4 Rh3 39.Bh2 Rxh4 40.Rd1 Rg7 41.b4 e3 42.fxe3 Rxc4 43.Be5 Rgg4 44.Bd6 h5  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.6"]
+[White "Jakovenko,D"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2728"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[WhiteFideId "4122356"]
+[BlackFideId "2805677"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 d6
+9.f3 Bd7 10.Qd2 Nxd4 11.Bxd4 b5 12.a4 bxa4 13.Nxa4 Bc6 14.Nc3 a5 15.O-O Qb8
+16.Nd5  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.7"]
+[White "Giri,A"]
+[Black "Riazantsev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2654"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4125029"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.h3 e6 7.Nf3 Bd6 8.O-O O-O
+9.Re1 Qc7 10.Qe2 b6 11.Ne5 Bb7 12.Nd2 Rfe8 13.f4 g6 14.g4 a6 15.h4 b5 16.a3 Na5
+17.h5 Nc4 18.hxg6 hxg6 19.g5 Nh5 20.Qg4 Ng7 21.Nxg6 fxg6 22.Bxg6 Nf5 23.Nf3 Qg7
+24.Bxe8 Rxe8 25.b3 Na5 26.b4 Nb3 27.Rb1 Nxc1 28.Rbxc1 Qg6 29.Re2 Bc8 30.Rce1 Rf8
+31.Rh2 Bd7 32.Ne5 Bxe5 33.Rxe5 Ng7 34.Re1 Qf5 35.Qxf5 Rxf5 36.Rf1 Be8 37.Rh6 Rf8
+38.Rf2 Bd7 39.g6 Rf6 40.Rfh2 Kf8 41.Rg2 Kg8 42.Rgh2 Kf8 43.Rh8+ Ke7 44.Ra8 Rxg6+
+45.Kf2  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.5"]
+[White "Adams,Mi"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2735"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[WhiteFideId "400041"]
+[BlackFideId "8604436"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Bf5 8.Re1 O-O
+9.Nbd2 Nd6 10.Nf1 Nd7 11.Bf4 Bxd3 12.Qxd3 Re8 13.Re2 Bf8 14.Ne3 c6 15.Rae1 Ne4
+16.Ng4 Bd6 17.Bxd6 Nxd6 18.Rxe8+ Nxe8 19.Qa3 Nf8 20.h4 Nd6 21.h5 h6 22.Qe3 Qd7
+23.Qf4 Re8 24.Rxe8  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.4"]
+[White "Harikrishna,P"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2742"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "5007003"]
+[BlackFideId "4168119"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 Be7 8.g5 Nfd7
+9.h4 b5 10.a3 Bb7 11.Be3 Nc6 12.Qd2 O-O 13.O-O-O Nc5 14.f3 Rb8 15.Kb1 Nxd4
+16.Bxd4 Bc6 17.Bh3 a5 18.b4 axb4 19.axb4 Nd7 20.g6 e5 21.gxf7+ Rxf7 22.Be3 Kh8
+23.Rhg1 Nb6 24.Be6 Nc4 25.Qe2 Rf6 26.Bxc4 bxc4 27.Qxc4 Qa5 28.Kc1 Qa3+ 29.Kd2 d5
+30.exd5 Bxb4 31.dxc6 Bxc3+ 32.Ke2 Bd4 33.Rd3 Qa8 34.Rxd4 exd4 35.Bxd4 Re8+
+36.Kf2 Qxc6 37.Qxc6 Rxc6 38.Rxg7 Rxc2+ 39.Kg3 Rc4 40.Rg4+ Rxd4 41.Rxd4 Kg7
+42.Kg4 Re1 43.Rd7+ Kh6 44.Rd6+ Kg7 45.f4 Rg1+ 46.Kf5 h5 47.Rd7+ Kg8 48.Ke6 Rg6+
+49.Ke5 Rg4 50.f5 Rxh4 51.Rd8+ Kf7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.1"]
+[White "Mamedyarov,S"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2724"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "13400924"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 O-O 8.Rc1 dxc4
+9.Bxc4 c5 10.Qb3 cxd4 11.Qxb4 Nc6 12.Qa3 dxc3 13.Qxc3 Qxc3+ 14.Rxc3 Bd7 15.Ke2 Rfd8
+16.Rd1 Be8 17.Rxd8  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.8"]
+[White "Inarkiev,E"]
+[Black "Salem,AR"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2707"]
+[BlackElo "2638"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "4162722"]
+[BlackFideId "9301348"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5
+9.Qd2 Nbd7 10.Nd5 Nxd5 11.exd5 Bf5 12.Be2 Rc8 13.c4 Qh4+ 14.g3 Qf6 15.Na5 Rc7
+16.O-O-O Be7 17.Rhf1 Qg6 18.b3 O-O 19.h4 Qxg3 20.Rg1 Qxh4 21.Rh1 Qf6 22.Rxh5 Bg6
+23.Rh2 Qf5 24.Kb2 Nf6 25.Rdh1 Nh7 26.Bd1 Bf6 27.Bc2 e4+ 28.Ka3 Qxf3 29.Bd1 Qg3
+30.Rh3 Qe5 31.Bf4 Qf5 32.Qh2 Rd8 33.Bh5 b6 34.Bxg6 fxg6 35.Rxh7 Kf7 36.Bh6 Rg8
+37.Qg2 bxa5 38.Rf1 Qe5 39.Bg5 Qf5 40.Bxf6 Kxf6 41.Rhh1 Re7 42.Rhg1 Ke5 43.Qg3+  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.3"]
+[White "Eljanov,P"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2761"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "14102951"]
+[BlackFideId "4126025"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Bc5 7.O-O O-O 8.d3 Bb6
+9.Na4 Re8 10.Bg5 Qd6 11.Nd2 Qg6 12.Ne4 Bg4 13.h3 Be6 14.Bd2 Rad8 15.Kh2 Kh8
+16.a3 f5 17.Nec5 Bc8 18.b4 e4 19.e3 Bxc5 20.Nxc5 b6 21.Nb3 Ba6 22.Nc1 Ne5
+23.Qa4 Bxd3 24.Nxd3 Nxd3 25.b5 h5 26.Qc2 Qd6 27.h4 Qe5 28.Kg1 Re6 29.a4 Kh7
+30.Ra3 Rdd6 31.a5 c5 32.bxc6 Rxc6 33.Qd1 Nf6 34.axb6 axb6 35.Qb1 Red6 36.Rb3 Ng4
+37.Bb4 Rd5 38.Be1 Rc1  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.10"]
+[Round "5.2"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2749"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "4102142"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3 O-O 8.Qd2 Nc6
+9.O-O-O Qd6 10.Kb1 Rd8 11.Nb5 Qd7 12.d5 a6 13.Nc3 Qe8 14.Qc1 Na5 15.h4 e6
+16.Bf4 Rd7 17.Bh6 Bxh6 18.Qxh6 exd5 19.h5 Qf8 20.Qxf8+ Kxf8 21.hxg6 hxg6
+22.exd5 c6 23.d6 Nd5 24.Nxd5 cxd5 25.Rxd5 b5 26.Nh3 Nb7 27.Bd3 Rxd6 28.Nf4 Rxd5
+29.Nxd5 Nc5 30.Bc2 Bb7 31.Rh8+ Kg7 32.Rxa8 Bxa8 33.Nc7 Bb7 34.b4 Nd7 35.a4  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.9"]
+[White "Salem,AR"]
+[Black "Hou Yifan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2666"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "9301348"]
+[BlackFideId "8602980"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.Bg5 Be7 7.a4 d6 8.Nbd2 h6
+9.Bxf6 Bxf6 10.Nf1 Ne7 11.Ne3 c6 12.Qb3 Rb8 13.Qa2 Ng6 14.Rd1 Bg5 15.O-O Bxe3
+16.fxe3 Qe7 17.d4 Kh8 18.Qa3 Bg4 19.Ba2 Rbd8 20.h3 Bxf3 21.Rxf3 f5 22.dxe5 Qxe5
+23.Qb4 f4 24.Qd4 Qg5 25.exf4 Nxf4 26.Qd2 Rf6 27.Kh2 Rdf8 28.Rg3 Qe5 29.Qd4 Qh5
+30.Qd2 Ne2 31.Rf3 Rxf3  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.2"]
+[White "Aronian,L"]
+[Black "Harikrishna,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2737"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "13300474"]
+[BlackFideId "5007003"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O
+9.Be3 Be6 10.Rc1 f5 11.a3 Kh8 12.b4 a6 13.Re1 Qe8 14.Qd2 Bd6 15.Bxb6 cxb6
+16.d4 exd4 17.Nxd4 Rd8 18.Nxe6 Qxe6 19.Qa2 Qh6 20.f4 a5 21.b5 Bc5+ 22.e3 Ne5
+23.Rcd1 Ng4 24.h3 Nxe3 25.Rxd8 Rxd8 26.Kh2 g5 27.fxg5 Qxg5 28.Qe6 f4 29.Ne4 Qg7
+30.g4 Nc2 31.Rf1 Nd4 32.Qf6 Qxf6 33.Nxf6 Bxa3 34.Bxb7 Bd6 35.h4 a4 36.g5 a3
+37.Kh3 Be5 38.Kg4 Nc2  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.3"]
+[White "Svidler,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2800"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "4102142"]
+[BlackFideId "13401319"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 b6 7.cxd5 Nxd5 8.d4 Bb7
+9.Re1 c5 10.e4 Nf6 11.Nc3 Nc6 12.d5 exd5 13.e5 Ne8 14.Nxd5 Nc7 15.Nxe7+ Qxe7
+16.Nh4 Qe6 17.Bg5 h6 18.Bf6 gxf6 19.Qh5 fxe5 20.Nf5 Qg6 21.Qxg6+ fxg6 22.Bxc6 gxf5
+23.Bxb7 Rae8 24.Rad1 Kg7 25.Bc6 Re7 26.h3 Kf6 27.Rd6+ Re6 28.Red1 e4 29.a4 Rf7
+30.f4 exf3 31.Bxf3 Re7 32.Kf2 Rxd6 33.Rxd6+ Kg7 34.Be2 Ne6 35.h4 f4 36.g4 Nd4
+37.Bc4 Re3 38.Rd7+ Kg6 39.Rd6+ Kg7 40.Rd7+ Kg6 41.Rd6+  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.4"]
+[White "Jakovenko,D"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2775"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "4122356"]
+[BlackFideId "24116068"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 Qe7 10.h3 e5 11.Bd2 e4 12.Ng5 Nb6 13.Bb3 Bf5 14.f3 Nbd5 15.Ngxe4 Nxe4
+16.Nxe4 Rae8 17.Qd1 Bxe4 18.fxe4 Qxe4 19.Bc2 Qh4 20.Qf3 Bb4 21.Bxb4 Nxb4
+22.Bb3 Nd5 23.Bxd5 cxd5 24.Rac1 Qe7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.5"]
+[White "Nepomniachtchi,I"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2707"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "4162722"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 d6 7.c3 O-O 8.h3 Re8
+9.Re1 Bf8 10.Nbd2 b5 11.Bc2 h6 12.a4 b4 13.a5 Rb8 14.Nc4 g6 15.Bd2 bxc3 16.bxc3 Bg7
+17.d4 exd4 18.cxd4 Nb4 19.Bb1 d5 20.Nce5 Re6 21.exd5 Nfxd5 22.Qc1 Qf8 23.Be4 Rb5
+24.Rb1 c6 25.Qc4 Qd6 26.Rb3 Bf8 27.h4 c5 28.h5 g5 29.Bf5 Ne7 30.dxc5 Rxc5
+31.Bxb4 Nxf5 32.Bxc5 Qxc5 33.Qxc5 Bxc5 34.Rc3  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.7"]
+[White "Gelfand,B"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2736"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "2805677"]
+[BlackFideId "400041"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Bc5 7.O-O O-O 8.d3 Bb6
+9.Na4 Re8 10.a3 Nd4 11.e3 Nxf3+ 12.Qxf3 c6 13.b4 Be6 14.Bb2 Qd7 15.Qe2 Bg4
+16.Qc2 Bh3 17.Bxh3 Qxh3 18.Nxb6 axb6 19.e4 Nf4 20.f3 Ng6 21.a4 h5 22.d4 Qe6
+23.Rad1 h4 24.dxe5  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.1"]
+[White "Grischuk,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2724"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "4126025"]
+[BlackFideId "13400924"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nh6 7.c3 O-O 8.h3 f5
+9.e5 Nf7 10.d3 d6 11.Bf4 Ba6 12.Nbd2 Qb8 13.exd6 exd6 14.Qc2 Qd8 15.h4 Qd7
+16.Nc4 Rfe8 17.Rad1 Bxc4 18.dxc4 Rxe1+ 19.Rxe1 Re8 20.Rd1 Re4 21.g3 Qe6 22.Qa4 Qd7
+23.Qc2 Qe6 24.Qa4 Qd7 25.Kg2 Bf8 26.Nd2 Re2 27.Qc2 Bh6 28.Qd3 Qe7 29.Kf1 Re6
+30.Bxh6 Nxh6 31.Nf3 Nf7 32.b4 Kg7 33.a4 Qf6 34.Kg2 f4 35.g4 h6 36.b5 cxb5
+37.cxb5 Re7 38.c4 Qe6 39.Nh2 Qf6 40.Nf3 Qe6 41.Nh2 Qf6  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.8"]
+[White "Rapport,R"]
+[Black "Riazantsev,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2654"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[WhiteFideId "738590"]
+[BlackFideId "4125029"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 Nf6 4.Bb5 Bd6 5.Ne2 a6 6.Bxc6 dxc6 7.d3 Qe7 8.Nd2 Be6
+9.a4 O-O-O 10.a5 h5 11.Ra4 h4 12.h3 Nd7 13.Qa1 Nc5 14.Ra2 Rh5 15.Bc3 Rg5
+16.Rg1 f6 17.Rb2 Qf7 18.b4 Nd7 19.Ne4 Rg6 20.Qa3 Qf8 21.Nc5 Nxc5 22.bxc5 Bxc5
+23.Bb4 Bxb4+ 24.Rxb4 c5 25.Rxh4 f5 26.Rh5 Kb8 27.g4 fxg4 28.Rxe5 Qf6 29.Qxc5 gxh3
+30.Rxg6 Qxg6 31.Qe7 Re8 32.Qh4 Bc8 33.Qh5 Qxh5 34.Rxh5 g6 35.Rg5 h2 36.Ng3 Rh8
+37.Nh1 Rh5 38.Rg2 Rxa5 39.Kd2 Rh5 40.Rxg6 a5 41.Kc1 Rh4 42.f3 Rh3 43.Rf6 c5
+44.Kb2 Kc7 45.e4 Bd7 46.Rf7 Kd8 47.f4 c4 48.d4 c3+ 49.Ka3 b5 50.f5 Re3 51.Rh7 Rxe4
+52.Rxh2 b4+ 53.Kb3 Rxd4 54.Ng3 Bc6 55.Ne2 a4+ 56.Ka2 Bd5+ 57.Kb1 Rd1+ 58.Nc1 a3  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.12"]
+[Round "6.6"]
+[White "Li Chao2"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2739"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "8604436"]
+[BlackFideId "14102951"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.Qc2 dxc4 7.e4 c5 8.Bf4 a6 9.Bxc4 b5
+10.Bb3 cxd4 11.Rd1 Qb6 12.Nxd4 Bc5 13.Nf3 Nbd7 14.O-O Rc8 15.Qe2 Qc6 16.Bd5 Qb6
+17.Bxb7 Qxb7 18.e5 Ng4 19.Ne4 Be7 20.Nd6+ Bxd6 21.Rxd6 Nc5 22.Nd2 h5 23.b4 Na4
+24.Ne4 O-O 25.h3 Rc4 26.Re1 f5 27.exf6 Nxf6 28.Nxf6+ Rxf6 29.Rd8+ Rf8 30.Qxe6+ Qf7
+31.Rxf8+ Kxf8 32.Qd6+ Kg8 33.g3 Nc3 34.Re7 Qf5 35.Be5  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.8"]
+[White "Eljanov,P"]
+[Black "Salem,AR"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2638"]
+[ECO "A78"]
+[Opening "Benoni"]
+[Variation "classical with ...Re8 and ...Na6"]
+[WhiteFideId "14102951"]
+[BlackFideId "9301348"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.d5 d6 5.Nc3 exd5 6.cxd5 g6 7.Nd2 Bg7 8.e4 O-O
+9.Be2 Re8 10.O-O Na6 11.Kh1 Nc7 12.f3 Nd7 13.a4 b6 14.Nc4 Ne5 15.Bf4 Nxc4
+16.Bxc4 a6 17.Qe1 h5 18.h4 Rb8 19.Qg3 Bf8 20.Rfe1 b5 21.e5 dxe5 22.Rxe5 Rb6
+23.Rg5 bxc4 24.Bxc7 Qf6 25.Ne4 Rxe4 26.fxe4 Rb3 27.Be5 Rxg3 28.Bxf6 Re3 29.Re5 Bd7
+30.d6 Rd3 31.Rd5 Rxd5 32.exd5 Bxd6 33.a5 Kf8 34.Rc1 Bb5 35.Re1 Ba4 36.Kg1 Bd7
+37.Kf2 Bc8 38.Be5 Ke7 39.Bxd6+ Kxd6 40.Re8 Bb7 41.Ke3 Kd7 42.Rf8 Bxd5 43.g3 c3
+44.bxc3 Bc4 45.Rb8 Kd6 46.Ke4  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.9"]
+[White "Inarkiev,E"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2707"]
+[BlackElo "2694"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Keres (...Nd7) defence"]
+[WhiteFideId "4162722"]
+[BlackFideId "738590"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.a4 Rb8 13.axb5 axb5 14.b3 Re8 15.d5 Nf8 16.Nbd2 Bd7
+17.Nf1 Ra8 18.Ne3 Qc7 19.Nf5 Bf6 20.Bd2 Ra7 21.Nh2 Rea8 22.Ng4 Qd8 23.Nxf6+ Qxf6
+24.Qg4 h6 25.Be3 Ra6 26.Qf3 Nh7 27.g3 c4 28.b4 Nb3 29.Rxa6 Rxa6 30.Bxb3 cxb3
+31.Rb1 Ra3 32.Kg2 Bxf5 33.exf5 Qd8 34.Bc1 Ra2 35.Rxb3 Nf6 36.Ra3 Rxa3 37.Bxa3 Qa8
+38.Bc1 Qxd5 39.Qxd5 Nxd5 40.Bd2 Nb6 41.Kf3 d5 42.g4 Nc4 43.Be3 Kh7 44.Ke2 Nd6
+45.f4 f6 46.Bb6 g6 47.Bc7 Nc4 48.fxg6+ Kxg6 49.Kd3 Kf7 50.Bb8 Ke6 51.Ke2 Na3
+52.Kd2 Nc4+ 53.Ke2 Nb6 54.Kd2 Nc8 55.Ke2 Ne7 56.Ba7 Kf7 57.Bg1 Nc6 58.Bh2 Ke6
+59.Bg3 Ne7 60.Bf2 Kf7 61.Bg3 Nc6 62.Bh2 h5 63.Ke3 hxg4 64.hxg4 Ke6 65.Bg3 Nd8
+66.Bf2 Nf7 67.Kf3 Nd6 68.Ke3 Nc4+ 69.Ke2 Kf7 70.Bg3 Ke6 71.Bf2 Nd6 72.Ke3 Nf7
+73.Kf3 Nd8 74.Ke3 Nc6 75.Bg3 Ne7 76.Bf2 Ng8 77.Kf3 Nh6 78.Be3 Nf7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.6"]
+[White "Adams,Mi"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2703"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "400041"]
+[BlackFideId "4122356"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 Ba7 8.Re1 O-O
+9.h3 Ne7 10.Nbd2 Ng6 11.d4 c6 12.Bd3 Nh5 13.Nc4 exd4 14.Nxd4 Nhf4 15.Bf1 d5
+16.exd5 Nxd5 17.g3 Qf6 18.Ne3 Bxd4  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.5"]
+[White "Giri,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2809"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Romanishin variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "13300474"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.Be2 d5 8.d4 exd4
+9.Nxd4 Nxd4 10.Qxd4 c5 11.Qh4 dxc4 12.Bxc4 Be6 13.Be2 Nd5 14.Bb5+ Kf8 15.Qe4 Bd7
+16.Qc4 Be6 17.Qe4 Bd7 18.Qc4 Be6  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.7"]
+[White "Hou Yifan"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2728"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[WhiteFideId "8602980"]
+[BlackFideId "2805677"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nc3 Nc6 3.Bb5 Nd4 4.Nf3 e6 5.O-O a6 6.Bd3 Nc6 7.b3 d6 8.Bb2 Nf6
+9.Re1 Nd7 10.Bf1 Nde5 11.d3 Nxf3+ 12.Qxf3 Be7 13.Ne2 e5 14.c3 O-O 15.d4 f5
+16.exf5 d5 17.Ng3 cxd4 18.c4 Be6 19.Qg4 Bf7 20.cxd5 Bxd5 21.f4 Bf6 22.Rad1 Qa5
+23.fxe5 Nxe5 24.Qf4 Rae8 25.Nh5 Nf3+ 26.gxf3 Rxe1 27.Nxf6+ Rxf6 28.Rxe1 Qxe1
+29.Bxd4 Qb4 30.a3 Qxa3 31.Bxf6 gxf6 32.Qg4+ Kf7 33.Qh5+ Kf8 34.Qh6+ Kg8 35.Qxf6 Qf8
+36.Qxf8+ Kxf8 37.b4 Bxf3 38.Kf2 Be4 39.Bh3 Ke7  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.1"]
+[White "Harikrishna,P"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2761"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "5007003"]
+[BlackFideId "4126025"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e6 7.g4 Nfd7 8.g5 b5
+9.a3 Be7 10.h4 Bb7 11.Be3 Nc6 12.Qd2 Rc8 13.Nxc6 Bxc6 14.h5 O-O 15.O-O-O Nc5
+16.f3 a5 17.Bxc5 dxc5 18.Qxd8 Rfxd8 19.Bxb5 Bxg5+ 20.Kb1 Ba8 21.Na4 Be7 22.b3 Rb8
+23.Rxd8+ Rxd8 24.Nb2 Bf6 25.Nd3 Bd4 26.Rd1 Rd6 27.Rc1 f5 28.c3 Be3 29.Re1 Bd2  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.3"]
+[White "Mamedyarov,S"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2742"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "4168119"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Nf3 Bg7 6.e4 Nxc3 7.bxc3 c5 8.Rb1 O-O
+9.Be2 b6 10.O-O Bb7 11.Qd3 Ba6 12.Qe3 Qd7 13.dxc5 Bxe2 14.Qxe2 bxc5 15.Rd1 Qe6
+16.h4 Nc6 17.Ng5 Qf6 18.Be3 Rad8 19.Bxc5 Qxc3 20.Rdc1 Qa5 21.Nf3 Rfe8 22.e5 Rd5
+23.e6 f5 24.Qc4 Red8 25.Rb7 Ne5 26.Qxd5 Rxd5 27.Bxe7 Nxf3+ 28.gxf3 Bc3 29.Bg5 f4
+30.Rb8+ Kg7 31.Rb7+ Kg8 32.Rb8+  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.4"]
+[White "Riazantsev,A"]
+[Black "Li Chao2"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2735"]
+[ECO "A50"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "4125029"]
+[BlackFideId "8604436"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.e3 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O dxc4 8.Bxc4 Bg4
+9.h3 Bxf3 10.Qxf3 Nbd7 11.Rd1 e5 12.d5 e4 13.Nxe4 Nxe4 14.Qxe4 Nb6 15.Rb1 Qd6
+16.Bb3 cxd5 17.Qd3 a5 18.a3 Qe6 19.Bd2 Rfc8 20.Be1 Rc5 21.Ba2 Nc4 22.b4 axb4
+23.Bxb4 Rcc8 24.Bb3 b5 25.Qxd5 Qxd5 26.Rxd5 Nxa3 27.Bxa3 Rxa3 28.Rd7 Rf8
+29.Rb7 Bc3 30.g4 b4 31.h4 h6 32.g5 hxg5 33.hxg5 Ra5 34.f4 Bd2 35.Kf2 Rc5
+36.Rd1 Rc3 37.Bxf7+ Rxf7 38.Rb8+ Kg7 39.Rxd2 Re7 40.Re2 b3 41.Rb4 Rd7 42.Kf3 Re7
+43.Re1 Rd7 44.Re2 Re7 45.Rb6 Kf7 46.Kf2 Kg7 47.e4 Rf7 48.Re3 Rxf4+ 49.Kg3 Rxe3+
+50.Kxf4 Rc3 51.Rb7+ Kg8 52.Rb5 Kf7 53.Ke5 Ke7 54.Rb7+ Kd8 55.Kd6 Kc8 56.Rb4 Rd3+
+57.Ke6 Kc7 58.e5 Rf3 59.Ke7 Kc6 60.e6 Kd5 61.Kd7 Rd3 62.Rb7 Ke5+ 63.Ke7 Kd5
+64.Rd7+ Ke4 65.Rxd3 Kxd3 66.Kf6 b2 67.e7 b1=Q 68.e8=Q Kd4 69.Qxg6 Qb8 70.Qg7 Ke4
+71.Qh7+ Kf3 72.Qf5+ Kg2 73.Qd5+ Kh3 74.g6 Qf8+ 75.Kg5 Qe7+ 76.Kh6 Qe3+ 77.Kh7 Qe7+
+78.g7 Qh4+ 79.Kg6 Qg3+ 80.Kf6 Qh4+ 81.Kf7 Qf4+ 82.Ke7 Qh4+ 83.Ke8 Qe1+ 84.Kd7  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.13"]
+[Round "7.2"]
+[White "Radjabov,T"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2749"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "13400924"]
+[BlackFideId "4102142"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 d5 4.cxd5 Nxd5 5.e3 Nxc3 6.dxc3 Qxd1+ 7.Kxd1 Bf5
+8.Nd2 Nc6 9.e4 Be6 10.Kc2 g6 11.Bc4 Bd7 12.Nb3 b6 13.a4 Ne5 14.Bb5 a6 15.Bxd7+ Nxd7
+16.Be3 e6 17.Rhd1 O-O-O 18.Nd2 Be7 19.Nc4 Kb7 20.a5 Rhf8 21.axb6 Nxb6 22.Na5+ Kc7
+23.Bf4+ Bd6 24.Bh6 Rfe8 25.Nb3 Ra8 26.Be3 Nd7 27.Ra5 Kc6 28.Rda1 Kb6 29.R5a4 Rec8
+30.Na5 Be7 31.Rb4+  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.6"]
+[White "Jakovenko,D"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2707"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "4122356"]
+[BlackFideId "4162722"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2 Nf6 8.O-O-O Be7
+9.f4 b5 10.e5 b4 11.exf6 bxc3 12.Qxc3 Bxf6 13.g4 h6 14.h4 Bb7 15.Rh2 Rc8
+16.Qd2 Nxd4 17.Bxd4 Bxd4 18.Qxd4 O-O 19.Bd3 Qc5 20.Qxc5 Rxc5 21.b4 Rc3 22.Kb2 Rfc8
+23.a4 Kf8 24.a5 Ke7 25.Re1 R3c4 26.Bxc4 Rxc4 27.b5 Rb4+ 28.Kc3 Rxb5 29.Ra1 Bd5
+30.Rf2 Rc5+ 31.Kd3 Rc4 32.h5 f6 33.c3 e5 34.fxe5 fxe5 35.Rg1 Be6 36.g5 Rh4
+37.gxh6 gxh6 38.Rgg2 e4+ 39.Ke3 Rxh5 40.Rh2 Rc5 41.Rxh6 Rxc3+ 42.Kxe4 Rc4+
+43.Kd3 Rc5 44.Rb2 Rxa5 45.Rb6 Ra1 46.Kc3 a5 47.Ra6 a4 48.Kb4 a3 49.Rxa3 Rxa3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.3"]
+[White "Li Chao2"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2735"]
+[BlackElo "2737"]
+[ECO "D30"]
+[Opening "QGD"]
+[Variation "Vienna variation"]
+[WhiteFideId "8604436"]
+[BlackFideId "5007003"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Bb4+ 5.Nc3 h6 6.Bxf6 Qxf6 7.e3 O-O 8.Qb3 c5
+9.cxd5 exd5 10.dxc5 Bxc3+ 11.Qxc3 Qxc3+ 12.bxc3 Nd7 13.Rd1 Nxc5 14.Rxd5 b6
+15.Rd4 Ne6 16.Rd6 Bb7 17.Nd4 Nxd4 18.Rxd4 Rac8 19.Kd2 Rc5 20.Rg1 Rfc8 21.Bd3 Kf8
+22.Rd7 Bd5 23.Rxa7 Rxc3 24.e4 Be6 25.Rb1 R3c7 26.Rxc7 Rxc7 27.a4 Bd7 28.Bc2 Rc6
+29.f4 Ke7 30.Rb4 h5 31.g3 Kd8 32.Bb3 f6 33.h4 Kc7 34.Kd3 f5 35.e5 Rg6 36.Kd4 Rxg3
+37.e6 Be8 38.Ke5 Rc3 39.Kxf5 Rc5+ 40.Ke4 Bc6+ 41.Kd3 Rc1 42.Bc2 g6 43.Kd2 Rg1
+44.e7 Be8 45.Re4 Rg2+ 46.Kc3 Rg3+ 47.Bd3 Kd6 48.Kd4 Bxa4 49.e8=Q Bxe8 50.Rxe8 Rg4
+51.Ke3 Rg3+ 52.Ke2 Kd5 53.Rg8 Rg4 54.Kf3 Rxh4 55.Be4+ Kd4 56.Rd8+ Kc3 57.Bxg6 Rh1
+58.f5 Rf1+ 59.Ke2 Rf4 60.Rd3+  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.4"]
+[White "Nepomniachtchi,I"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2809"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "4168119"]
+[BlackFideId "13300474"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3 a5
+9.d3 O-O 10.Be3 Be6 11.Rc1 a4 12.Nd2 f5 13.Bxb6 cxb6 14.Nxa4 Bg5 15.Nc3 e4
+16.Rb1 Ne5 17.Nb3 Ng4 18.Qc2 Be3 19.dxe4 Qg5 20.fxe3 Qxe3+ 21.Kh1 Qh6 22.h3 Ne3
+23.Qd2 f4 24.gxf4 Nxf1 25.Rxf1 Bxb3 26.e5 Rae8 27.Ne4 Kh8 28.Kh2 Bg8 29.e3 Re6
+30.Nd6 Qh4 31.Qd4 Rg6 32.Rf3 Qe1 33.f5 Rg5 34.h4 Rh5 35.Rg3 Be6 36.fxe6  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.5"]
+[White "Gelfand,B"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2728"]
+[BlackElo "2739"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "2805677"]
+[BlackFideId "14102951"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O Nbd7 8.a4 a5
+9.Qc2 c6 10.Na3 Bd6 11.Ne1 Qe7 12.Nd3 h6 13.Rfd1 Re8 14.Rac1 e5 15.dxe5 Nxe5
+16.Nxe5 Bxe5 17.cxd5 Nxd5 18.Nc4 Nb4 19.Qe4 Bc7 20.Qxe7 Rxe7 21.Be3 Bg4 22.Kf1 Rd8
+23.Rxd8+ Bxd8 24.Nd6 Rd7 25.Ne4 Nc2 26.Bf4 Nd4 27.Nc3 Bf6 28.Be4 g5 29.Be3 Nb3
+30.Rd1 Rxd1+ 31.Nxd1 Bd4 32.Bc2 Bxe3 33.Nxe3 Be6 34.Nf5 Bxf5 35.Bxf5 Kf8
+36.e3 Ke7 37.Ke2 Nc5 38.Bc2 Kd6 39.f4 gxf4  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.9"]
+[White "Salem,AR"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2638"]
+[BlackElo "2749"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "9301348"]
+[BlackFideId "4102142"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.e3 e6 5.d4 d5 6.a3 cxd4 7.exd4 Be7 8.Bd3 dxc4
+9.Bxc4 O-O 10.O-O Nd5 11.Re1 Nxc3 12.bxc3 Bf6 13.Bd3 Bd7 14.Rb1 b6 15.Rb5 g6
+16.Bh6 Re8 17.Qd2 Ne7 18.Rbe5 Bc6 19.Bg5 Bg7 20.R5e3 h6 21.Bh4 Bxf3 22.Rxf3 Qd6
+23.Bg3 Qxa3 24.Be5 Nd5 25.Bxg7 Kxg7 26.c4 Qb4 27.Qe2 Rad8 28.cxd5 Rxd5 29.Rc1 Qd6
+30.g3 Rxd4 31.Rc3 Re7 32.Qc2 Qd5 33.Re3 Rd7 34.Be4 Qb5 35.Bd3 Qd5 36.Qe2 a5
+37.h4 h5 38.Be4 Qd6 39.Kg2 Rc7 40.Rxc7 Qxc7 41.Qb2 Qc5 42.Bf3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.7"]
+[White "Hou Yifan"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2775"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "24116068"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O Be7 8.f4 O-O
+9.Kh1 Qc7 10.Qe1 Nc6 11.Be3 Nxd4 12.Bxd4 b5 13.Qg3 Bb7 14.a3 Rad8 15.Rae1 Bc6
+16.Bd3 Qd7 17.Rf3 e5 18.fxe5 Nh5 19.Qh3 Qxh3 20.Rxh3 Nf4 21.Rf3 Nxd3 22.cxd3 dxe5
+23.Bxe5 b4 24.axb4 Bxb4 25.Rc1 Rc8 26.h3 f6 27.Bg3 Rfd8 28.Bf2 Bb7 29.Kh2 f5
+30.Ra1 fxe4 31.dxe4 Rd2 32.Nd5 Bf8 33.b4 h6 34.Bc5 Bxc5 35.bxc5 Rxc5 36.Rb3 Bxd5
+37.exd5 a5 38.d6 Rxd6 39.Rb8+ Kf7 40.Ra8 Rdd5 41.Ra7+ Kg6 42.Ra3 Rh5 43.Ra4 Rb5
+44.h4 Rb4 45.R4xa5 Rhxh4+ 46.Kg3 Kh7 47.Ra3 h5 48.Rf7 Rh1 49.Re3 h4+ 50.Kf2 Rbb1
+51.Ree7 Rhf1+ 52.Ke2 Rbe1+ 53.Kd3 Rxf7 54.Rxf7 Kh6 55.Kd2 Re6 56.Rf4 Kh5
+57.Rf7 Rg6 58.Rf2 Kg4 59.Ke1 Re6+ 60.Kf1 Rf6 61.Rxf6 gxf6 62.Kf2 Kf4 63.Kg1 Kg3
+64.Kf1 h3 65.Kg1 Kg4 66.gxh3+ Kxh3 67.Kf2 Kg4 68.Kg2 Kf4  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.8"]
+[White "Rapport,R"]
+[Black "Adams,Mi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2694"]
+[BlackElo "2736"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "738590"]
+[BlackFideId "400041"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Nbd2 a5 7.e4 a4 8.c3 Nc6
+9.e5 Nd7 10.d4 f6 11.exf6 Bxf6 12.Ne1 Nb6 13.f4 a3 14.Ndf3 axb2 15.Bxb2 Na5
+16.Nd3 Nac4 17.Bc1 Na4 18.Qc2 Bd7 19.Rb1 b5 20.h4 Be8 21.Bh3 Qd7 22.Re1 Ra6
+23.f5 exf5 24.Nb4 Rd6 25.Qd3 g6 26.Bf4 Rb6 27.Bh6 Bg7 28.Bxg7 Kxg7 29.Ne5 Qd8
+30.Bg2 Rd6 31.Re2 f4 32.Rf1 c6 33.h5 Qg5 34.gxf4 Qxh5 35.Ref2 Rdf6 36.Qg3 Nd6
+37.Bf3 Nf5 38.Qg5 Qh4 39.Rh2 Qg3+ 40.Rg2 Qxg5 41.fxg5 Re6 42.Rc1 Nh4 43.Bg4 Rxe5
+44.dxe5 Nxg2 45.Kxg2 Rf4 46.Bc8 Re4 47.e6 Nb6 48.Bb7 Rxe6 49.Kf2 Na4 50.Re1 Rxe1
+51.Kxe1 Nxc3 52.Nxc6 Nxa2 53.Kd2 b4  0-1
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.2"]
+[White "Grischuk,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2800"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "13401319"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.a4 c6
+16.Bg5 h6 17.Be3 Qc7 18.Bd3 Bg7 19.Qc1 Kh7 20.b4 Rac8 21.Qd2 exd4 22.cxd4 Nb6
+23.axb5 cxb5 24.d5 Nfd7 25.Bd4 Ne5 26.Nxe5 dxe5 27.Rac1 Qd6 28.Bc5 Qf6 29.Nf1 Nd7
+30.Rc2 Rc7 31.Qe3 Rec8 32.Nd2 Qf4 33.d6 Nxc5 34.dxc7 Qxe3 35.Rxe3 Ne6 36.Nb3 Bf8
+37.Be2 Bxb4 38.Bg4 Rxc7 39.Rxc7 Nxc7 40.Rd3 Ne8 41.Rd7 Nd6 42.f4 Bc8 43.Rc7 Bxg4
+44.hxg4 Kg8 45.fxe5 Nxe4 46.Rc8+ Kg7 47.Ra8 Bc3 48.Kf1 Bxe5 49.Ke2 Kf6 50.Rxa6+ Kg5
+51.Kf3 Nf6 52.Ra7 Nxg4 53.Rxf7 Bc3 54.Rb7 Ne5+ 55.Ke4 b4 56.Nd4 Nc4 57.Kd3 Ne5+
+58.Ke4 Nc4 59.Kd3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.14"]
+[Round "8.1"]
+[White "Radjabov,T"]
+[Black "Riazantsev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2654"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "13400924"]
+[BlackFideId "4125029"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 b6 12.O-O  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.1"]
+[White "Nepomniachtchi,I"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2724"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "4168119"]
+[BlackFideId "13400924"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O d6 6.c3 a6 7.a4 O-O 8.h3 h6 9.Re1 Ba7
+10.Nbd2 Ne7 11.d4 Ng6 12.Bf1 Re8 13.Qc2 Nh7 14.dxe5 dxe5 15.Nc4 Qf6 16.Ne3 Ne7
+17.Ng4 Bxg4 18.hxg4 Ng6 19.Bc4 Rad8 20.a5 Nf4 21.Nh2 Rd7 22.Be3 Bxe3 23.fxe3 Ne6
+24.Rf1 Qe7 25.b4 Nhg5 26.Nf3 Nxf3+ 27.gxf3 Qg5 28.Rae1 Red8 29.Qh2 Rd2 30.Re2 Rd1
+31.Bd5 Rxf1+ 32.Kxf1 c6 33.Bxe6 Rd1+ 34.Kf2 fxe6 35.Qh5 Qxh5 36.gxh5 Kf7
+37.Rb2 Rc1 38.Rd2 Ke7 39.Rd3 Rh1 40.Kg2 Rxh5 41.c4 Rg5+ 42.Kh2 Rh5+ 43.Kg2 Rg5+
+44.Kh2 h5 45.b5 h4 46.Kh3 Rg3+ 47.Kxh4 Rxf3 48.bxa6 bxa6 49.c5 Rf1 50.Rd6 Ra1
+51.Rxc6 Rxa5 52.Kg5 Kd7 53.Rd6+ Ke7 54.Rc6 Kd7 55.Rd6+ Ke7 56.Rc6  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.3"]
+[White "Mamedyarov,S"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2735"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "13401319"]
+[BlackFideId "8604436"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.Ne5 Ne4 8.Nd2 Nf6
+9.Nb1 Ne4 10.Nc3 Nxc3 11.bxc3 O-O 12.O-O Nc6 13.Nxc6 bxc6 14.Qa4 Qb6 15.Ba3 Qa6
+16.Qxa6 Bxa6 17.Rfb1 Rfb8 18.Bxe7 Bxe2 19.Bd6 Rxb1+ 20.Rxb1 Bb5  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.2"]
+[White "Giri,A"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2761"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "4126025"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.O-O Bf5 5.c4 e6 6.Qb3 Qb6 7.d3 Nbd7 8.cxd5 exd5
+9.Qc2 Qc5 10.Qa4 Qb4 11.Qd1 Be7 12.a3 Qb6 13.Nc3 Bg4 14.b4 O-O 15.Be3 Qd8
+16.Nd4 Re8 17.h3 Bh5 18.g4 Bg6 19.Qd2 a5 20.Rab1 axb4 21.axb4 h6 22.f4 Bd6
+23.f5 Bh7 24.Bf4 Ne5 25.Kh1 Qe7 26.Nc2 Kh8 27.b5 Rad8 28.bxc6 bxc6 29.Qe1 d4
+30.Nxd4 Nxd3 31.exd3 Qxe1 32.Rbxe1 Rxe1 33.Rxe1 Bxf4 34.Nce2 c5 35.Nxf4 Rxd4
+36.Rf1 Bg8 37.Kh2 Kh7 38.Rf3 Nd7 39.Kg3 Ne5 40.Re3 f6 41.Be4 Bf7 42.h4 Kg8
+43.Re1 c4 44.dxc4  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.5"]
+[White "Harikrishna,P"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2703"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5007003"]
+[BlackFideId "4122356"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.a4 Ba7 8.Re1 O-O
+9.h3 Ne7 10.Nbd2 Ng6 11.d4 c6 12.b4 exd4 13.cxd4 d5 14.Bd3 dxe4 15.Nxe4 Nxe4
+16.Bxe4 Be6 17.b5 axb5 18.axb5 Bd5 19.Bxd5 Qxd5 20.bxc6 bxc6 21.Ra6 Qb5 22.Qe2 Rfb8
+23.Qxb5 cxb5 24.Bd2 Bb6 25.Rxa8 Rxa8 26.Rb1 Bc7 27.Rxb5 Ra1+ 28.Ne1 Rd1 29.Rb2 Nf4
+30.Kf1 Kf8 31.Rc2 Bd6 32.g3 Nd5 33.Ke2 Ra1 34.Rb2 Ke7 35.Nc2 Ra4 36.Kd3 Ke6
+37.Rb5 g6 38.Ne3 Ra3+ 39.Ke2 Nxe3 40.Bxe3 Ra2+ 41.Kf3 h5 42.Ke4 Ra4 43.g4 hxg4
+44.hxg4 Bc7 45.f4 Ra1 46.Bd2 Ra2 47.Be3 Ra1 48.g5 Kd7 49.Rb7 Kc6 50.Rb2 Ra4
+51.Rb1 Kd7 52.f5 gxf5+ 53.Kxf5 Ra5+ 54.Ke4 Ra4 55.Rf1 Ke7 56.Bd2 Ra2 57.Kd3 Bd6
+58.Bc3 Rg2 59.d5 Rg4 60.Bf6+ Kd7 61.Ra1 Bc5 62.Ra6 Rg1 63.Rc6 Ba3 64.Rb6 Bc1
+65.Rb1 Rg3+ 66.Ke4 Bxg5 67.Be5 Re3+ 68.Kd4 Rf3 69.Ke4 Re3+ 70.Kf5 Be7 71.Rb7+ Ke8
+72.d6 Bxd6 73.Bxd6 Re1 74.Bf4 Re7 75.Rb8+ Kd7 76.Kf6 Re1 77.Kxf7 Kc6 78.Kf6 Kd5
+79.Kf5 Re7 80.Rd8+ Kc6 81.Rd6+ Kc5 82.Be5 Rh7 83.Rd1 Rh6 84.Ke4 Rh4+ 85.Bf4 Kc4
+86.Rc1+ Kb4 87.Ke5 Kb3 88.Rc8 Rg4 89.Be3 Rc4 90.Rd8 Kc3 91.Bd4+ Kd3 92.Ra8 Rc6
+93.Kd5 Rg6 94.Ra3+ Ke2 95.Kc4 Rc6+ 96.Bc5 Re6 97.Kd4 Re8 98.Ra2+ Kf3 99.Kd3 Re5
+100.Bd4 Rf5 101.Ra1 Kf4 102.Re1 Kf3 103.Be5 Kf2 104.Re2+ Kf3 105.Re3+ Kf2
+106.Bg3+ Kg2 107.Ke4 Rf8 108.Be5 Kf2 109.Ra3 Re8 110.Ra2+ Ke1 111.Rb2 Re7
+112.Kd4 Kf1 113.Bf4 Re2 114.Rb3 Kf2 115.Be3+ Kf3  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.6"]
+[White "Inarkiev,E"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2707"]
+[BlackElo "2728"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "4162722"]
+[BlackFideId "2805677"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 g6 8.Be2 Bg7
+9.e4 O-O 10.e5 Qd8 11.O-O dxc4 12.Bxc4 c5 13.dxc5 Nd7 14.Qe2 Nxc5 15.Rfd1 Qe7
+16.Qe3 b6 17.b4 Na6 18.a3 Bb7 19.Rd6 Rac8 20.Bxa6 Bxa6 21.Rad1 Rfd8 22.Ne4 Rxd6
+23.Nxd6 Rd8 24.Rd2 Bb7 25.Nxb7 Rxd2 26.Qxd2 Qxb7 27.h4 Qc7 28.Qe3 a5 29.b5 a4
+30.Qd4 Bf8 31.Qxa4 Qc1+ 32.Kh2 Bxa3 33.Qd4 Bc5 34.Qd8+ Kh7 35.Qf6 Kg8 36.Qd8+ Kh7
+37.Qf6  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.7"]
+[White "Svidler,P"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2666"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "8602980"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Rb1 Be7 8.Nf3 O-O
+9.Bc4 Nc6 10.O-O b6 11.d5 Na5 12.Bd3 c4 13.Bc2 exd5 14.exd5 Bb7 15.Re1 Bf6
+16.d6 Re8 17.Rxe8+ Qxe8 18.Bf4 Rd8 19.Bf5 g6 20.d7 Qf8 21.Bh3 Be4 22.Rc1 Qc5
+23.Qe2 Bf5 24.Rd1 Bxh3 25.gxh3 Kg7 26.Rd6 Bxc3 27.Ng5 Qf5 28.Qe7 h6 29.Ne6+ Kh7
+30.Nxd8 Qxf4 31.Nxf7  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.8"]
+[White "Eljanov,P"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2694"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "14102951"]
+[BlackFideId "738590"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 Nf6 2.c4 c6 3.d4 b5 4.Nbd2 bxc4 5.Nxc4 d5 6.Nce5 e6 7.e3 Bd6 8.Bd3 O-O
+9.O-O Qb6 10.Qc2 Ba6 11.Bd2 Bxd3 12.Nxd3 Nbd7 13.Rfc1 Rac8 14.b4 Ne4 15.Be1 Qb8
+16.Rab1 Qa8 17.Rb3 f6 18.Nc5 Ndxc5 19.dxc5 Bb8 20.Nd4 e5 21.Nf5 Qb7 22.f3 Ng5
+23.e4 a6 24.a4 g6 25.Ne3 dxe4 26.fxe4 Rcd8 27.Rd3 Rd4 28.Rxd4 exd4 29.Qc4+ Kg7
+30.Qxd4 Qe7 31.Rd1 Nxe4 32.Nc4 Bc7 33.Qd7 Qxd7 34.Rxd7+ Rf7 35.Rd3 Re7 36.Kf1 f5
+37.g3 Kf6 38.Bd2 g5 39.Bc1 Ke6 40.Nd2 Nxd2+ 41.Bxd2 Kf6 42.Kf2 h6 43.h3 Kg6
+44.Kf3 h5 45.Kf2 g4 46.h4 Re4 47.Rd7 Be5 48.Ra7 f4 49.Bxf4  1/2-1/2
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.9"]
+[White "Aronian,L"]
+[Black "Salem,AR"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2638"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov variation (Yugoslav attack / Mar del Plata variation)"]
+[WhiteFideId "13300474"]
+[BlackFideId "9301348"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Bd2 Nd7 10.Rc1 h6 11.Ne1 f5 12.Nd3 fxe4 13.Nxe4 Nf5 14.f3 Nf6 15.Ndf2 Nd4
+16.Nxf6+ Qxf6 17.Bd3 Bf5 18.Ne4 Qe7 19.Be3 Rae8 20.Qd2 Rf7 21.Rce1 Qf8 22.Bxd4 exd4
+23.Ng3 Rxe1 24.Rxe1 Bxd3 25.Qxd3 Re7 26.Rxe7 Qxe7 27.Ne2 c6 28.dxc6 bxc6
+29.b3 Kf7 30.g3 Qe3+ 31.Qxe3 dxe3 32.Nf4 h5 33.Kf1 Bh6 34.Nd3 Ke6 35.Nb4 Kd7
+36.Ke2 a5 37.Nc2 Ke6 38.Nd4+ Kd7 39.f4 Bg7 40.Kxe3 d5 41.cxd5 cxd5 42.h3 Bf6
+43.g4 hxg4 44.hxg4 g5 45.f5 Kd6 46.Ne6 Be7 47.Kd4 Bf6+ 48.Kd3 Be7 49.Nd4 Bf6
+50.a3 Kc5 51.Ne6+ Kb5 52.Nf8 Be7 53.Nh7 Bxa3 54.Nxg5 Kb4 55.Ne6 Kxb3 56.f6 a4
+57.g5 Bf8 58.g6 a3 59.Nd4+ Kb2 60.Nc2  1-0
+
+[Event "Geneva Grand Prix 2017"]
+[Site "Geneva SUI"]
+[Date "2017.07.15"]
+[Round "9.4"]
+[White "Riazantsev,A"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2736"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[WhiteFideId "4125029"]
+[BlackFideId "400041"]
+[EventDate "2017.07.06"]
+[EventType "swiss"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 Be7 7.Bd3 Nbd7 8.Nf3 Ne4
+9.Bxe7 Qxe7 10.Qc2 Ndf6 11.O-O O-O 12.Ne5 Re8 13.Rac1 Bf5 14.Rfe1 g6  1/2-1/2

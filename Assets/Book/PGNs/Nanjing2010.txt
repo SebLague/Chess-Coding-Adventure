@@ -1,0 +1,611 @@
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.20"]
+[Round "1"]
+[White "Anand,V"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2732"]
+[EventDate "2010.10.20"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O b6 8. a4
+a5 9. cxd5 Nxd5 10. e4 Nb4 11. Be3 Bg4 12. h3 Bxf3 13. Bxf3 N8a6 14. d5 Nc5
+15. Qe2 Qe8 16. Rfd1 Rc8 17. dxc6 Qxc6 18. e5 Qc7 19. Bf4 Ne6 20. Bg3 Rfd8
+21. Bg4 Qc6 22. Nb5 Qc2 23. Qxc2 Rxc2 24. Bxe6 Rxd1+ 25. Rxd1 fxe6 26. Nd4
+Rxb2 27. Nxe6 Bh6 28. Rd8+ Kf7 29. Nd4 Nc2 30. Nc6 Nb4 31. Nd4 Nc2 32. Nc6
+Nb4 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.20"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2826"]
+[BlackElo "2716"]
+[EventDate "2010.10.20"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 Nf6 7. Qe2 O-O
+8. Bg5 h6 9. Bh4 a5 10. a4 Nd4 11. Qd3 Nxb3 12. cxb3 Re8 13. O-O-O d6 14.
+Qc2 Bd7 15. Bc4 Be6 16. Rhe1 Qe7 17. e5 dxe5 18. Rxe5 Qf8 19. Bxf6 gxf6 20.
+Re2 Qg7 21. Bxe6 Rxe6 22. Rxe6 fxe6 23. Rd3 Kh8 24. Rg3 Qh7 25. Qd2 Bc5 26.
+Ne4 Be7 27. Rh3 Kg7 28. Qd7 Kf7 29. Ng5+ fxg5 30. Rf3+ Kg8 31. Qxe6+ Kh8
+32. Rf7 Bd6 33. Rxh7+ Kxh7 34. Qf7+ Kh8 35. g3 Ra6 36. Kb1 Bb4 37. f4 gxf4
+38. gxf4 1-0
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.20"]
+[Round "1"]
+[White "Topalov,V"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2803"]
+[BlackElo "2719"]
+[EventDate "2010.10.20"]
+[ECO "D16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 cxd4 8.
+Qxd4 Qxd4 9. Nxd4 a6 10. e4 Bc5 11. Nb3 Bb4 12. f3 Nc6 13. Be3 Bd7 14. Kf2
+Rc8 15. Be2 Na5 16. Nxa5 Bxa5 17. g4 Bc6 18. Rhd1 Bc7 19. h4 Be5 20. Rac1
+O-O 21. b3 Rfd8 22. Rxd8+ Rxd8 23. Nb1 Be8 24. Rc2 Nd7 25. Nd2 Bd6 26. f4
+e5 27. f5 Kf8 28. g5 f6 29. h5 fxg5 30. Bxg5 Be7 31. Bxe7+ Kxe7 32. Ke3 h6
+33. Rc7 Rb8 34. a5 Kd8 35. Rc1 Ke7 36. Rg1 Kf8 37. Nc4 Bf7 38. b4 Rc8 39.
+Nd6 Rc7 40. Nxf7 Kxf7 41. Rb1 Ke7 42. Rg1 Kf7 43. Rd1 Rc3+ 44. Rd3 Rxd3+
+45. Kxd3 Ke7 46. Kc4 Kd6 47. b5 axb5+ 48. Kxb5 Kc7 49. Bf3 Kd6 50. Bd1 Kc7
+51. Bc2 Kd6 52. Bb1 Kc7 53. Bc2 Kd6 54. Bb1 Kc7 55. Bc2 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.21"]
+[Round "2"]
+[White "Wang Yue"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2719"]
+[EventDate "2010.10.20"]
+[ECO "E12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. e3 Ne4 6. Qc2 Bb7 7. Bd3 f5 8.
+O-O Bxc3 9. bxc3 O-O 10. Nd2 Qh4 11. f3 Ng5 12. f4 Nf7 13. e4 Nh6 14. Nf3
+Qh5 15. Ba3 Re8 16. Rae1 fxe4 17. Rxe4 Ng4 18. d5 Na6 19. h3 Nf6 20. Re5
+Qh6 21. Ng5 exd5 22. cxd5 Nc5 23. Bxc5 bxc5 24. Qb3 Rxe5 25. fxe5 Bxd5 26.
+Bc4 c6 27. exf6 Qxg5 28. Bxd5+ cxd5 29. f7+ Kf8 30. Qb7 Rd8 31. Qxa7 Qe7
+32. a4 Qd6 33. Kh1 Qc6 34. Rb1 Kxf7 35. Rb6 Ra8 36. Rxc6 Rxa7 37. Rxc5 Ke6
+38. a5 Kd6 39. Rb5 Kc6 40. Rb8 g6 41. Kg1 Rxa5 42. Rh8 Kb5 43. Rxh7 Kc4 44.
+Rxd7 Kxc3 45. h4 d4 46. Kf2 Ra2+ 47. Kf3 d3 48. g4 Rh2 49. Kf4 Rxh4 50. Kg5
+Rh3 51. Kxg6 d2 52. Rxd2 Kxd2 53. g5 Ke3 54. Kf6 Rf3+ 55. Ke6 Kf4 56. g6
+Kg5 57. g7 Rf6+ 58. Ke7 Rg6 59. Kf7 Rxg7+ 60. Kxg7 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.21"]
+[Round "2"]
+[White "Bacrot,E"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2803"]
+[EventDate "2010.10.20"]
+[ECO "E21"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8.
+Qc2 Bb7 9. e3 Bxc3+ 10. bxc3 d6 11. Bd3 f5 12. d5 Na6 13. Nd4 Nac5 14. O-O
+Qe7 15. f3 Nxd3 16. Qxd3 Nc5 17. Qc2 O-O 18. dxe6 Qh7 19. e4 f4 20. Bf2
+Rae8 21. a4 g4 22. fxg4 Bxe4 23. Qd2 Qg6 24. h3 h5 25. Bh4 Nxe6 26. Nxe6
+Qxe6 27. Rxf4 Rxf4 28. Qxf4 hxg4 29. Re1 Qg6 30. hxg4 Bc6 31. Rxe8+ Bxe8
+32. Bd8 Qb1+ 33. Qf1 Qxf1+ 34. Kxf1 Bxa4 35. Bxc7 Bb3 36. Bxd6 Bxc4+
+1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.21"]
+[Round "2"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2826"]
+[EventDate "2010.10.20"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6
+15. b4 Nb6 16. axb5 axb5 17. Rxa8 Qxa8 18. Nb3 Nc4 19. dxe5 Nxe5 20. Nxe5
+Rxe5 21. f3 Re8 22. Be3 Bc8 23. Bf2 Be6 24. Nd4 Bd7 25. Qd2 Qb8 26. Bf1 h6
+27. Ra1 Qb7 28. Ra5 d5 29. exd5 Nxd5 30. Nb3 Be6 31. Nc5 Bxc5 32. Bxc5 Rd8
+33. Ra1 Qb8 34. Rd1 Qg3 35. Bf2 Qe5 36. c4 bxc4 37. Bxc4 Rd7 38. Bxd5 Rxd5
+39. Qe1 Qxe1+ 40. Rxe1 Rd2 41. Bc5 Kh7 42. Rf1 Bc4 43. Rf2 Rxf2 44. Kxf2
+1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.22"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2826"]
+[BlackElo "2732"]
+[EventDate "2010.10.20"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Bd6 8. Qh5 Nf6 9. Re1+ Kf8 10. Qe2 Ng4 11. h3 Qh4 12. Qf3 Bh2+ 13. Kf1 Nxf2
+14. Qxf2 Bg3 15. Qd2 Qf6+ 16. Kg1 Bxe1 17. Qxe1 Qxd4+ 18. Kh2 Re8 19. Qg3
+Qe5 20. Qxe5 Rxe5 21. Bf4 Re1 22. Bxc7 a6 23. Ba5 Rd1 24. a4 Ke7 25. Bd2
+Rc8 26. c3 d4 27. c4 g6 28. Be2 Bxa4 29. Bb4+ Ke6 30. Bxd1 Bxd1 31. Nd2 Be2
+32. b3 f5 33. Kg3 Rd8 34. Kf2 d3 35. Bc3 Kf7 36. Nf3 f4 37. Ng5+ Kg8 38.
+Ne6 1-0
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.22"]
+[Round "3"]
+[White "Topalov,V"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2803"]
+[BlackElo "2800"]
+[EventDate "2010.10.20"]
+[ECO "D57"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. Qb3 Rd8 12. c4 Be6 13. c5 b6 14.
+Rc1 bxc5 15. Qa3 Nd7 16. Bb5 Bg4 17. Bxd7 Rxd7 18. Qxc5 Qe4 19. Rg1 Re8 20.
+Qb5 Rdd8 21. Qe2 Rb8 22. h3 Bxf3 23. gxf3 Qf5 24. f4 Rb1 25. Rxb1 Qxb1+ 26.
+Qd1 Rb8 27. Ke2 Qf5 28. Rh1 Rb2+ 29. Kf3 h5 30. a4 Qe4+ 31. Kg3 h4+ 32.
+Kxh4 Rxf2 33. Qg4 Rg2 0-1
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.22"]
+[Round "3"]
+[White "Gashimov,V"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2719"]
+[BlackElo "2716"]
+[EventDate "2010.10.20"]
+[ECO "A29"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 g6 5. d4 exd4 6. Nxd4 Bg7 7. Nxc6 dxc6
+8. Qxd8+ Kxd8 9. Bd2 Be6 10. Rd1 Kc8 11. b3 a5 12. Bg2 a4 13. Nxa4 Bxc4 14.
+Nb6+ cxb6 15. bxc4 Rxa2 16. O-O Ng4 17. Bh3 f5 18. e4 Bd4 19. exf5 gxf5 20.
+Bxg4 fxg4 21. Bf4 Bc5 22. Ra1 Bxf2+ 23. Kg2 Rxa1 24. Rxa1 Bd4 25. Ra8+ Kd7
+26. Ra7 Ke6 27. Rxb7 Kf5 28. h3 h5 29. hxg4+ hxg4 30. Rc7 c5 31. Rb7 Ra8
+32. Rxb6 Ra4 33. Rb8 Ra2+ 34. Kf1 Ke4 35. Bd6 Kd3 36. Rf8 Ra6 37. Be7 Re6
+38. Bh4 Kxc4 39. Rf4 Kd3 40. Rxg4 c4 41. Rg8 c3 42. Bg5 c2 43. Rc8 Be3 44.
+Bxe3 Rxe3 45. Kf2 Re4 0-1
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.23"]
+[Round "4"]
+[White "Gashimov,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2826"]
+[EventDate "2010.10.20"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Bg5
+h6 15. Bh4 Be7 16. Ng3 g6 17. Qd2 Kg7 18. Rad1 Nh7 19. Bxe7 Qxe7 20. dxe5
+Nxe5 21. Nd4 Qg5 22. Ngf5+ gxf5 23. f4 Nc4 24. fxg5 Nxd2 25. Nxf5+ Kf8 26.
+Rxd2 hxg5 27. e5 Nf6 28. Rf1 Rxe5 29. Nxd6 Rd8 30. Rxf6 cxd6 31. Bb3 Rd7
+32. Kf2 d5 33. Rf3 Kg7 34. Rfd3 Rd6 35. Bd1 Bc8 36. Bf3 Be6 37. Rd4 Kf6 38.
+a4 bxa4 39. Rxa4 Rb6 40. Be2 Bc8 41. Ra2 Bb7 42. Ra4 Re4 43. Ra3 Re5 44. b4
+Rc6 45. Rd4 Kg7 46. Bf3 Rf6 47. Rd3 Rf4 48. Ra5 Rc4 49. Rc5 Rxc5 50. bxc5
+Re6 51. Rd2 Re7 52. Rb2 Bc8 53. Bxd5 Re5 54. c4 Be6 55. c6 Bxd5 56. cxd5
+Rxd5 57. Rc2 Rd8 58. c7 Rc8 59. Ke3 Kf6 60. g3 a5 61. Kd4 Ke6 62. h4 gxh4
+63. gxh4 a4 64. h5 a3 65. h6 a2 66. Rxa2 Rxc7 67. Ra6+ Kf5 68. h7 Rc8 69.
+Rh6 Rh8 70. Rh1 Kg6 71. Ke5 Re8+ 72. Kf4 Kg7 73. Kf5 Rh8 74. Rg1+ Kf8 75.
+Rh1 Kg7 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.23"]
+[Round "4"]
+[White "Bacrot,E"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2800"]
+[EventDate "2010.10.20"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8.
+e4 Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2
+Qd5+ 14. Kc3 O-O 15. Qe3 b5 16. Be2 Nd7 17. Nxd7 Qxd7 18. Rhd1 Qe7 19. Kc2
+a5 20. Bf3 Rac8 21. Qe5 g6 22. axb5 cxb5 23. Qxb5 Rc5 24. Qd7 Qg5 25. Qd4
+Rfc8 26. Ra3 Rb5 27. Rd2 Rb4 28. Kd1 Rcb8 29. Ke2 Qb5 30. Ke1 Rxb2 31. Rxb2
+Qxb2 32. Qxb2 Rxb2 33. Rxa5 c3 34. Rc5 Rb1+ 35. Ke2 Rc1 36. Kd3 Kg7 37.
+Rxc3 Rxc3+ 38. Kxc3 f5 39. Kd4 Kf6 40. Bd1 h5 41. Bf3 h4 42. Be2 g5 43. Ba6
+g4 44. Bb7 e5+ 45. Kd5 f4 46. Ke4 1-0
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.23"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2803"]
+[BlackElo "2732"]
+[EventDate "2010.10.20"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. e3 Nbd7 10. Bd3 Bxd3 11. Nxd3 Qb6 12. Ra3 e6 13. Rb3 Bb4 14.
+O-O c5 15. dxc5 Nxc5 16. Nxc5 Qxc5 17. Na2 O-O 18. Rd3 Rac8 19. Nxb4 Qxb4
+20. b3 Qc5 21. Bb2 Qc2 22. Bxf6 Qxd1 23. Rfxd1 gxf6 24. Rd7 b5 25. Ra7 Rc3
+26. Rxa5 Rb8 27. Ra7 Rxb3 28. a5 Ra3 29. g4 b4 30. a6 b3 31. Rb7 Ra8 32.
+Rdd7 b2 33. Rxb2 R3xa6 34. Rbb7 Rf8 35. Kg2 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.24"]
+[Round "5"]
+[White "Anand,V"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2719"]
+[EventDate "2010.10.20"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O Bg4 8.
+cxd5 cxd5 9. Qb3 b6 10. h3 Bc8 11. Bd2 Nc6 12. Ne5 Bb7 13. Nxc6 Bxc6 14.
+Rfc1 Qd7 15. a4 Rfc8 16. a5 bxa5 17. Rxa5 e6 18. Rca1 Bf8 19. Qa2 Rcb8 20.
+Nd1 Ne4 21. Be1 Rb7 22. Ba6 Rb6 23. Bd3 Rb7 24. Ba6 Rb6 25. Bd3 Rb7 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.24"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2826"]
+[BlackElo "2803"]
+[EventDate "2010.10.20"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8.
+a4 Rb8 9. axb5 axb5 10. Nbd2 O-O 11. Re1 Bd7 12. c3 Ra8 13. Rxa8 Qxa8 14.
+d4 h6 15. Nf1 Re8 16. Ng3 Qc8 17. Nh4 Bf8 18. Ng6 Na5 19. Nxf8 Rxf8 20. Bc2
+Re8 21. f4 Bg4 22. Qd3 exf4 23. Bxf4 Nc4 24. Bc1 c5 25. Rf1 cxd4 26. cxd4
+Qd8 27. h3 Be6 28. b3 Qa5 29. Kh2 Nh7 30. e5 g6 31. d5 Nxe5 32. dxe6 1-0
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.24"]
+[Round "5"]
+[White "Wang Yue"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2732"]
+[BlackElo "2716"]
+[EventDate "2010.10.20"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 h6 14. Qb5
+Ne8 15. e4 g5 16. Be3 Nd7 17. h4 g4 18. Ne1 Kg7 19. Bf4 Bc6 20. Qxb6 axb6
+21. Nc2 Ne5 22. Ne3 Nf3+ 23. Bxf3 gxf3 24. h5 Bf6 25. Ng4 Bxc3 26. bxc3
+Bxe4 27. Bxh6+ Kh7 28. Bg5 Rd7 29. Bf4 f6 30. Kh2 e5 31. Nxe5 fxe5 32. Bxe5
+Bf5 33. Bxd6 Rad8 34. Bf4 Rxd2 35. Rxd2 Rxd2 36. Bxd2 Nd6 37. Bf4 Nxc4 38.
+g4 Bxg4 39. h6 Be6 40. Kg3 Bd5 41. Kg4 Nb2 42. a3 Nd1 43. c4 Nxf2+ 0-1
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Wang Yue"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2732"]
+[BlackElo "2800"]
+[EventDate "2010.10.20"]
+[ECO "E00"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Qc2 b6 9. Bf4 Ba6 10. Ne5 Nfd7 11. Nd2 Nxe5 12. Bxe5 c5 13. Qa4 Qd7 14.
+Qxd7 Nxd7 15. cxd5 exd5 16. Rfe1 Nxe5 17. dxe5 Rad8 18. e3 f6 19. f4 fxe5
+20. fxe5 Bd3 21. Rad1 Bc2 22. Rc1 Bg6 23. h4 Rfe8 24. Nf3 Be4 25. Rcd1 Bf8
+26. Re2 g6 27. b3 Bg7 28. Ng5 Bxg2 29. Kxg2 Rxe5 30. Nf3 Re7 31. Red2 Red7
+32. Rd3 h6 33. a4 Kf7 34. Ng1 Ke6 35. Ne2 g5 36. hxg5 hxg5 37. Kf3 Kf5 38.
+g4+ Ke6 39. Ng3 Rh8 40. Kg2 Rhd8 41. R3d2 Be5 42. Rf2 Bxg3 43. Kxg3 Rf7 44.
+Rxf7 Kxf7 45. Kf2 Ke6 46. Rh1 c4 47. Rh6+ Ke5 48. bxc4 dxc4 49. Ke2 c3 50.
+Rc6 Rd2+ 51. Ke1 Ra2 0-1
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Bacrot,E"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2826"]
+[EventDate "2010.10.20"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 d5 6. Bg2 Bd6 7. b3 O-O 8.
+O-O c5 9. e4 dxe4 10. Ng5 Nc6 11. dxc5 Bxc5 12. Ndxe4 Qxd1 13. Rxd1 Rad8
+14. Rxd8 Rxd8 15. Nxc5 Rd1+ 16. Bf1 bxc5 17. Bb2 Rxa1 18. Bxa1 Nd7 19. f4
+Bb7 20. Kf2 Nd8 21. Bd3 f5 22. Nf3 Nf7 23. a3 g6 24. Be2 Kf8 25. b4 Ke7 26.
+Ke3 Bxf3 27. Bxf3 Kd6 28. Bg7 Kc7 29. Kd2 Nd6 30. Kd3 Nc8 31. Kc3 Ncb6 32.
+Bd1 Nc8 33. Bf3 Nd6 34. Kd3 Nc8 35. h4 Nd6 36. Bc3 Nf7 37. h5 Kd6 38. Ke3
+Kc7 39. Bg7 Nd6 40. hxg6 hxg6 41. Kd3 Nf7 42. Bc3 Kd6 43. Ke3 g5 44. Bh5
+gxf4+ 45. gxf4 Nd8 46. Be2 Kc7 47. Kd3 Kd6 48. Ke3 Kc7 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Gashimov,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2803"]
+[EventDate "2010.10.20"]
+[ECO "B14"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 e6 7. cxd5 Nxd5
+8. Nf3 Nc6 9. Bg5 f6 10. Bd2 Bg7 11. Bd3 O-O 12. O-O Nce7 13. Rfe1 b6 14.
+Re2 Kh8 15. Rae1 a6 16. h4 Ra7 17. Bb1 Rc7 18. Nxd5 Nxd5 19. h5 gxh5 20.
+Qd3 f5 21. Ng5 Nf6 22. Qg3 Ng4 23. Bf4 Rc4 24. Nf3 Bb7 25. Bg5 Bf6 26.
+Bxf6+ Rxf6 27. Ng5 Bd5 28. f3 Qg8 29. Nxe6 Bxe6 30. fxg4 Qxg4 31. Qe5 Kg7
+32. Rd2 Bf7 33. Rf1 f4 34. d5 Rc8 35. Rdf2 Re8 36. Qxf6+ Kxf6 37. Rxf4+
+Qxf4 38. Rxf4+ Kg7 39. d6 Rd8 40. Rd4 Kf6 41. Rf4+ Kg7 42. Rd4 Kf6 43. Rf4+
+Kg7 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.27"]
+[Round "7"]
+[White "Gashimov,V"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2732"]
+[EventDate "2010.10.20"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+cxd5 Qxd5 15. Bf4 Rac8 16. g3 Bf6 17. Nd2 Qd7 18. Nc4 Bh3 19. Qd3 g5 20.
+Be3 Qd5 21. Bf1 Bxf1 22. Qxf1 Ne7 23. Rab1 Nf5 24. a4 a6 25. Qd3 b5 26. Na3
+c6 27. Nc2 Qf3 28. Qd1 Qxd1 29. Rexd1 Nd6 30. Bd2 Kg7 31. Nb4 bxa4 32. Nd3
+a3 33. Rb4 Ne4 34. Ra4 c5 35. Nxc5 Nxc5 36. dxc5 Red8 37. Rxa3 Rc6 38. Ra2
+Rxc5 39. Rxa6 Rcd5 40. Ra2 Kg6 41. c4 Rd4 42. Rc2 Be7 43. Kf1 Bc5 44. Ke2
+Re8+ 45. Be3 Rxd1 46. Kxd1 Bxe3 47. fxe3 Rxe3 48. c5 Kf6 49. Kd2 Ra3 50. c6
+Ra8 51. Ke3 Ke5 52. Kf3 h5 53. Rc5+ Kd6 54. Rxg5 h4 55. gxh4 Kxc6 56. Rf5
+Kd6 57. Rxf7 Ke6 58. Rf4 Ke7 59. Kg4 Rf8 60. Ra4 Kf6 61. h5 Kg7 62. Kg5 Rf7
+63. Rf4 Rxf4 64. Kxf4 Kh6 65. h4 Kxh5 66. Kf5 Kxh4 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.27"]
+[Round "7"]
+[White "Topalov,V"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2803"]
+[BlackElo "2716"]
+[EventDate "2010.10.20"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.
+cxd5 Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qf5 Nf6 12. e4 d6 13. e5 Qd7 14. Qf4
+Nh5 15. Qc4 O-O 16. Nc3 Rae8 17. Be3 Nb4 18. Rd2 Ba6 19. Qb3 Nd3 20. Qa3
+Qc8 21. exd6 Bxd6 22. Rad1 Be7 23. Nd5 Nb4 24. Ne5 Nxd5 25. Bxd5 Nf6 26.
+Bg2 c4 27. Qc3 Bb5 28. h3 Bc5 29. Bxc5 Qxc5 30. Rd5 Nxd5 31. Rxd5 Qc7 32.
+Rxb5 Rc8 33. Nc6 Rfe8 34. Rb4 Re2 35. Bf3 Re6 36. Rxc4 Rce8 37. Kg2 1-0
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.27"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2826"]
+[BlackElo "2800"]
+[EventDate "2010.10.20"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nf5 8. Nf3 O-O 9. d4 d5 10. c3 Bd6 11. Bd3 Nce7 12. Nbd2 c6 13. Nf1 Ng6 14.
+Qc2 Nfh4 15. Nxh4 Qxh4 16. g3 Qd8 17. Ne3 Re8 18. Bd2 Nf8 19. Nf5 Bc7 20.
+Rxe8 Qxe8 21. Re1 Be6 22. Qc1 f6 23. Qd1 Qd7 24. Qf3 Re8 25. h4 Bf7 26. Rf1
+Bg6 27. h5 Bxf5 28. Bxf5 Qf7 29. Kg2 g6 30. Bd3 f5 31. Rh1 Ne6 32. hxg6
+hxg6 33. g4 Bf4 34. Be3 fxg4 35. Qxg4 Kg7 36. Rh5 Bxe3 37. fxe3 Nf8 38. Rh3
+Kg8 39. Rf3 Qe6 40. Qf4 Kg7 41. b3 Qe7 42. c4 Rd8 43. Rh3 Rd6 44. Qh6+ Kg8
+45. cxd5 cxd5 46. e4 Qg7 47. Qe3 Qe7 48. e5 Rc6 49. Qh6 Qg7 50. Qh4 a6 51.
+Rf3 Qd7 52. b4 b5 53. a3 Qc7 54. Kg3 Kg7 55. Bb1 Nh7 56. Ba2 Qd7 57. Bb3
+Rc1 58. Kh2 Rb1 59. Bc2 Rb2 60. Rc3 Qf7 61. Kg3 Nf8 62. Rf3 Qe6 63. Qd8 Nd7
+64. Rf2 Ra2 65. Kh2 Qg4 66. Qe7+ Kh6 67. Qd8 Qh5+ 68. Kg2 Qg4+ 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.28"]
+[Round "8"]
+[White "Bacrot,E"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2719"]
+[EventDate "2010.10.20"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Nf3 Nc6 6. Bf4 a6 7. Rc1 Bf5
+8. e3 Rc8 9. Be2 e6 10. O-O Nd7 11. Qb3 Na5 12. Qa4 Nc6 13. Qb3 Na5 14. Qa4
+Nc6 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.28"]
+[Round "8"]
+[White "Anand,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2803"]
+[EventDate "2010.10.20"]
+[ECO "E10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Qc2 b6 9. Rd1 Nbd7 10. Bf4 Ba6 11. cxd5 cxd5 12. Ne5 Nxe5 13. dxe5 Rc8 14.
+Nc3 Ng4 15. h3 Nxf2 16. Kxf2 Bc5+ 17. Be3 Bxe3+ 18. Kxe3 b5 19. Qd3 Rc4 20.
+Nxd5 exd5 21. Bxd5 Qg5+ 22. Kf2 Qxe5 23. Bxc4 bxc4 24. Qd6 Qf5+ 25. Ke1
+Qxh3 26. Qxa6 Qxg3+ 27. Kd2 Qf4+ 28. Kc2 Qe4+ 29. Kc1 Qe3+ 30. Kb1 Qe4+ 31.
+Kc1 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.28"]
+[Round "8"]
+[White "Wang Yue"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2826"]
+[EventDate "2010.10.20"]
+[ECO "E00"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Bg2 c6 7. Nf3 Nbd7
+8. O-O b6 9. Rc1 O-O 10. cxd5 cxd5 11. Nc3 Ba6 12. a4 Rc8 13. Nb5 Ne4 14.
+Qf4 Qe7 15. Rc7 Bxb5 16. axb5 Nd6 17. Qc1 Rxc7 18. Qxc7 Rc8 19. Qxa7 Qd8
+20. Qa4 h6 21. Qb4 Qf8 22. b3 Ne4 23. Qxf8+ Kxf8 24. Ne5 Nxe5 25. Bxe4 dxe4
+26. dxe5 Rc5 27. Ra8+ Ke7 28. Ra7+ Kf8 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.29"]
+[Round "9"]
+[White "Bacrot,E"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2732"]
+[EventDate "2010.10.20"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Nc3 Nxc3 9. bxc3 Bg4 10. Re1 O-O 11. Bf4 Bh5 12. Rb1 Rb8 13. Qe2 Bd6 14.
+Qe3 Qd7 15. Ng5 h6 16. Nh3 Bg4 17. Qg3 Bxh3 18. Bxd6 cxd6 19. Qxh3 Qxh3 20.
+gxh3 Rfd8 21. Rb5 Kf8 22. Reb1 b6 23. Rxd5 Rbc8 24. c4 Ke7 25. Re1+ Kf8 26.
+Rb1 Ke7 27. Re1+ Kf8 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.29"]
+[Round "9"]
+[White "Gashimov,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2800"]
+[EventDate "2010.10.20"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nxe5 8. Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Bc7 13. c4 Nf6
+14. b3 d5 15. cxd5 cxd5 16. Qf3 Be6 17. Ba3 Re8 18. Bb5 Bd7 19. Bxd7 Qxd7
+20. Bb2 Be5 21. Bxe5 Rxe5 22. Nc2 Rae8 23. Rxe5 Rxe5 24. Qc3 Re8 25. Qd4 b6
+26. f3 Rd8 27. Ne3 Ne8 28. f4 Nc7 29. f5 Ne8 30. Re1 Nf6 31. Ng4 Nxg4 32.
+Qxg4 h6 33. Qf4 Re8 34. Rxe8+ Qxe8 35. Kf2 f6 36. g4 Qc6 37. Qe3 Kh7 38. a4
+Qd6 39. Kg2 a5 40. Qe8 Qb4 41. Qg6+ Kg8 42. Qe8+ 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.29"]
+[Round "9"]
+[White "Topalov,V"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2803"]
+[BlackElo "2826"]
+[EventDate "2010.10.20"]
+[ECO "E00"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Bg2 c6 7. Nf3 Nbd7
+8. O-O b6 9. Rc1 O-O 10. b4 Bb7 11. Qb2 Rb8 12. Nbd2 Qe7 13. e3 Rfc8 14.
+Rc2 c5 15. bxc5 bxc5 16. Qa3 Rc6 17. Rac1 Ra6 18. Qd3 h6 19. Qe2 dxc4 20.
+Qxc4 cxd4 21. Nxd4 Rb6 22. Bxb7 R8xb7 23. Kg2 Ne5 24. Qc5 Qxc5 25. Rxc5 Rb2
+26. R1c2 Nd3 27. Rc8+ Kh7 28. N4f3 a5 29. h3 a4 30. a3 g5 31. Rxb2 Rxb2 32.
+Rc3 Nxf2 33. Rc7 N2e4 0-1
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.30"]
+[Round "10"]
+[White "Wang Yue"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2732"]
+[BlackElo "2803"]
+[EventDate "2010.10.20"]
+[ECO "D82"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qa4+ Qxa4
+8. Nxa4 Bd7 9. Nc3 Ne4 10. Nxd5 Na6 11. f3 Nexc5 12. O-O-O Rc8 13. Bg5 f6
+14. Bh4 Kf7 15. Ne2 e6 16. Ndc3 Bh6 17. Bf2 e5 18. Kb1 Rhd8 19. e4 f5 20.
+Ng3 b6 21. Be2 f4 22. Nf1 Bf8 23. a3 Ne6 24. Nd2 Nac5 25. Nd5 a5 26. b4
+axb4 27. axb4 Ba4 28. Rc1 Rb8 29. Rc3 Nd4 30. Bxd4 exd4 31. Ra3 b5 32. bxc5
+Bxc5 33. Ra2 d3 34. Bxd3 bxc4+ 35. Kc1 cxd3 36. Rxa4 Be3 37. Nxe3 fxe3 38.
+Nc4 Rdc8 39. Rd1 Rb3 40. Ra7+ Kg8 41. Ra4 Rc3+ 0-1
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.30"]
+[Round "10"]
+[White "Carlsen,M"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2826"]
+[BlackElo "2719"]
+[EventDate "2010.10.20"]
+[ECO "C49"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 Bxc3 7. bxc3 d6
+8. Re1 Bd7 9. Rb1 a6 10. Bxc6 Bxc6 11. Bg5 h6 12. Bh4 b6 13. Nd2 g5 14. Bg3
+Ne8 15. d4 f6 16. c4 Ng7 17. c3 Qe8 18. f3 Qg6 19. Nf1 g4 20. fxg4 Bxe4 21.
+Rb2 Rae8 22. Rf2 exd4 23. cxd4 h5 24. gxh5 Nxh5 25. Re3 Bc6 26. Rc3 Re4 27.
+c5 bxc5 28. dxc5 d5 29. Bxc7 d4 30. Rd3 Rg4 31. Ng3 Re8 32. Rxd4 Rxd4 33.
+Qxd4 Nxg3 34. Bxg3 Re1+ 35. Rf1 Rxf1+ 36. Kxf1 Qb1+ 37. Be1 Bb5+ 38. Kf2
+Qxa2+ 39. Kg3 Kf7 40. Bc3 Qe6 41. Qf4 Bc6 42. h4 a5 43. Qc7+ Bd7 44. Qf4 a4
+45. h5 a3 46. Kh2 a2 47. Qh4 Qe7 48. Qf2 Qe6 49. Qc2 Qf5 50. Qxf5 Bxf5 51.
+c6 Be4 52. c7 Bf5 53. Kg3 Bc8 54. Kf4 Bb7 55. Ba1 Bc8 56. g3 Bb7 57. g4 Ba6
+58. Kg3 Bc8 59. Kh4 Ba6 60. Bb2 Bb7 61. h6 Kg6 62. h7 Kxh7 63. Kh5 Bc8 64.
+Bxf6 Kg8 65. Ba1 Kf7 66. g5 Ke8 67. g6 Be6 68. g7 Kd7 69. Be5 a1=B 70. Bxa1
+Kxc7 71. g8=Q Bxg8 1/2-1/2
+
+[Event "3rd Pearl Spring"]
+[Site "Nanjing CHN"]
+[Date "2010.10.30"]
+[Round "10"]
+[White "Anand,V"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2800"]
+[BlackElo "2716"]
+[EventDate "2010.10.20"]
+[ECO "E59"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. h3 e5 12. Ba2 e4 13. Nd2 b6 14. Bb2
+Bf5 15. Qe2 Bg6 16. Rfc1 Rad8 17. a4 Bh5 18. Qb5 Rfe8 19. Ba3 g5 20. Nf1
+Nd7 21. Ng3 Bg6 22. Rd1 Na5 23. Rd2 h5 24. Rad1 h4 25. dxc5 Nxc5 26. Bxc5
+bxc5 27. Nf1 Rb8 28. Rd7 Rxb5 29. Rxc7 Rb2 30. Bd5 Reb8 31. Rxa7 Nb3 32. a5
+Bh5 33. Re1 Be2 1-0
+

@@ -1,0 +1,585 @@
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.02"]
+[Round "1"]
+[White "Leko,P"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2756"]
+[BlackElo "2759"]
+[EventDate "2009.07.02"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. Qc2 Bxd2+
+8. Qxd2 c6 9. a4 b5 10. axb5 cxb5 11. Qg5 O-O 12. Qxb5 Ba6 13. Qa4 Qb6 14.
+Nbd2 Bb5 15. Qa3 Nc6 16. O-O Rab8 17. Rfc1 Nxd4 18. Nxd4 Qxd4 19. Nf3 Qb6
+20. Qxa5 Qxa5 21. Rxa5 Bc6 22. Rxc4 Bxf3 23. Bxf3 Rxb2 24. h4 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.02"]
+[Round "1"]
+[White "Naiditsch,A"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2697"]
+[BlackElo "2721"]
+[EventDate "2009.07.02"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3
+Qh4 15. g3 Qh3 16. Bxd5 cxd5 17. Qxd5 Rad8 18. Qg2 Qxg2+ 19. Kxg2 Bxd3 20.
+Be3 Be4+ 21. f3 Bc6 22. Nd2 Rfe8 23. Nb3 f6 24. Nd4 Bb7 25. g4 Bc5 26. b4
+Bxd4 27. Bxd4 Rxe1 28. Rxe1 Kf7 29. Bc5 Rd7 30. h4 Bd5 31. a3 Be6 32. Bd4
+Bc4 33. Kg3 Re7 34. Rd1 Bb3 35. Rd2 Re1 36. h5 Rd1 37. Re2 Rd3 38. Kf4 Bd5
+39. Re3 Rxe3 40. Kxe3 Bb3 41. Kf4 Bd1 42. Ke3 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.02"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2760"]
+[EventDate "2009.07.02"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Ne2 Be7 12. Bg5 Be6 13. Nf4 Bd5
+14. Bxe7 Kxe7 15. Ng5 Nd4 16. Rad1 Ne6 17. Ngxe6 Bxe6 18. h4 a5 19. a3 a4
+20. Rfe1 g6 21. f3 Ra5 22. c3 Rb5 23. Re2 Ra8 24. Rd4 Raa5 25. Kf2 Rxe5 26.
+Rxe5 Rxe5 27. Rxa4 Rb5 28. b4 c5 29. Ra7 cxb4 30. cxb4 Kd7 31. Ne2 Rb6 32.
+Ke3 Bc4 33. Nd4 Kd6 34. Ra5 Ra6 35. Rxa6+ bxa6 36. g4 hxg4 37. fxg4 Ke5 38.
+Nc6+ Kf6 39. Kf4 Ke6 40. h5 gxh5 41. gxh5 Bd3 42. Ke3 Bf1 43. h6 Kf6 44.
+Ne5 Bb5 45. Kd4 Ba4 46. h7 Kg7 47. Nxf7 Kxh7 48. Ng5+ Kg6 49. Ne6 1-0
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.03"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2756"]
+[BlackElo "2772"]
+[EventDate "2009.07.02"]
+[ECO "A32"]
+
+1. Nf3 Nf6 2. c4 c5 3. d4 cxd4 4. Nxd4 e6 5. g3 Bb4+ 6. Bd2 Be7 7. Bg2 Nc6
+8. Bf4 O-O 9. O-O Qb6 10. Nb5 a6 11. Bc7 Qc5 12. Bd6 Bxd6 13. Nxd6 Nd4 14.
+e3 Qxd6 15. Qxd4 Qxd4 16. exd4 Rb8 17. Nc3 b6 18. Ne4 Nxe4 19. Bxe4 Bb7 20.
+Bxb7 Rxb7 21. Rac1 Rc8 22. Rc3 d5 23. Rfc1 Rxc4 24. Rxc4 dxc4 25. Rxc4
+1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.03"]
+[Round "2"]
+[White "Kramnik,V"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2721"]
+[EventDate "2009.07.02"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rab1 h6 13. a3 a5 14. Qb5
+Qxb5 15. cxb5 d5 16. Ne5 g5 17. Be3 Nbd7 18. Nc6 Bxc6 19. bxc6 Ne5 20. Na4
+Nxc6 21. Bxc5 Bxc5 22. Nxc5 Rab8 23. e4 dxe4 24. Rxd8+ Rxd8 25. Nxe4 Nxe4
+26. Bxe4 Nd4 27. Kg2 Nb3 28. Bc2 Rb8 29. Bxb3 Rxb3 30. Rc1 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.03"]
+[Round "2"]
+[White "Jakovenko,D"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2697"]
+[EventDate "2009.07.02"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. f4 exf4 10. Bxf4 Ne5 11. O-O-O Be7 12. Nd4 O-O 13. Nf5 Bxf5 14.
+exf5 b5 15. Kb1 b4 16. Nd5 Nxd5 17. Qxd5 Qc7 18. g4 Rfc8 19. Bd3 Nxd3 20.
+Qxd3 Qc4 21. Rhf1 h6 22. h3 d5 23. Be5 Rc6 24. b3 Qxd3 25. Rxd3 Rac8 26.
+Rf2 Bh4 27. Rg2 f6 28. Bb2 Rc5 29. Re2 Bg5 30. a3 bxa3 31. Bxa3 Rc3 32. Bb2
+Rxd3 33. cxd3 Kf7 34. Re6 a5 35. Rd6 Re8 36. Rd7+ Kg8 37. Bc3 Re3 38. Rxd5
+Rxh3 39. Bxa5 Rh4 40. b4 Rxg4 41. b5 Be3 42. Kc2 Rg2+ 43. Kb3 Rg1 44. Ka2
+Rg2+ 45. Ka3 Bc1+ 46. Kb3 h5 47. b6 h4 48. Bc3 h3 49. b7 Bf4 50. Be5 h2 51.
+b8=Q+ Kh7 52. Bxf4 h1=Q 53. Rd8 Qd1+ 54. Kc4 Rc2+ 55. Kd4 Qa1+ 56. Kd5 Qa5+
+57. Ke4 Qe1+ 58. Be3 Qh1+ 59. Kd4 Qa1+ 60. Kd5 Qa5+ 61. Ke4 Qa4+ 62. d4 1-0
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.04"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2759"]
+[EventDate "2009.07.02"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4
+8. Qxc4 b6 9. Bg5 Ba6 10. Qa4 c5 11. dxc5 bxc5 12. Rd1 Qb6 13. Bxf6 gxf6
+14. Rd2 Nc6 15. Qg4+ Kh8 16. Qh4 Kg7 17. Qg4+ Kh8 18. Qh4 Kg7 19. Qg4+
+1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.04"]
+[Round "3"]
+[White "Bacrot,E"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2760"]
+[EventDate "2009.07.02"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Be7 12. Ne4 Nh4 13. Nxh4
+Bxh4 14. Ng5 Bf5 15. c3 Bxg5 16. Bxg5 Kd7 17. Rad1+ Kc8 18. Rd2 b6 19. Rfd1
+Kb7 20. Rd8 Raxd8 21. Rxd8 Rxd8 22. Bxd8 Bg6 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.04"]
+[Round "3"]
+[White "Naiditsch,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2697"]
+[BlackElo "2756"]
+[EventDate "2009.07.02"]
+[ECO "B13"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Nf3 Be7 8.
+c5 O-O 9. Bb5 Ne4 10. Bxe7 Nxe7 11. Rc1 b6 12. c6 Qd6 13. Qa4 a6 14. O-O
+Bd7 15. cxd7 axb5 16. Qxb5 Nxc3 17. Rxc3 Rxa2 18. Ne5 f6 19. Nc6 Qxd7 20.
+Nxe7+ Qxe7 21. Qxb6 Ra7 22. Rc6 Rb7 23. Rxe6 Rxb6 24. Rxe7 Rxb2 25. Rd7 Rd2
+26. Rxd5 Rb8 27. Re1 Rbb2 28. Rd7 h5 29. Rf1 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.05"]
+[Round "4"]
+[White "Bacrot,E"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2772"]
+[EventDate "2009.07.02"]
+[ECO "D44"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 b5 8. e5
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Bb7 12. Bg2 Qb6 13. exf6 c5 14. d5
+O-O-O 15. O-O b4 16. Na4 Qb5 17. a3 exd5 18. axb4 cxb4 19. Be3 Nc5 20. Qg4+
+Rd7 21. Qg7 Bxg7 22. fxg7 Rg8 23. Nxc5 Rxg7 24. Bd4 Rc7 25. Nxb7 Rg6 26.
+Ra5 Qxb7 27. Bxd5 Qb8 28. Be5 Qb6 29. Bxc7 Qxc7 30. Rfa1 a6 31. Rxa6 Rxa6
+32. Rxa6 c3 33. bxc3 bxc3 34. Be4 Qc4 35. Bf5+ Kd8 36. Ra1 Qe2 37. Kg2 Qe5
+38. Rd1+ Ke7 39. Bb1 f5 40. h3 Kf6 41. Rd3 Qe4+ 42. Kh2 Qe1 43. Rf3 Qxb1
+44. Rxc3 Qf1 45. Rf3 Ke5 46. Rf4 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.05"]
+[Round "4"]
+[White "Jakovenko,D"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2756"]
+[EventDate "2009.07.02"]
+[ECO "E49"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4
+8. Bxc4 c5 9. Nf3 Qc7 10. Ba2 b6 11. O-O Bb7 12. Bb2 Nbd7 13. Qe2 cxd4 14.
+cxd4 Bd5 15. Bxd5 exd5 16. Ne5 Rac8 17. Rac1 Qb7 18. Qb5 Nb8 19. f3 a6 20.
+Qd3 b5 21. Bc3 Nc6 22. Bb4 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.05"]
+[Round "4"]
+[White "Naiditsch,A"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteElo "2697"]
+[BlackElo "2759"]
+[EventDate "2009.07.02"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Re1 Bf5 10. c5 Bc7 11. Nc3 Nd7 12. Qc2 Re8 13. Be3 h6 14. b4
+Ndf6 15. h3 Qd7 16. Ne2 Bxh3 17. Ne5 Bxe5 18. dxe5 Rxe5 19. f3 Rae8 20. Bf4
+Rh5 21. fxe4 dxe4 22. Bc4 Bxg2 23. Ng3 Bf3 24. Qb3 Rh4 25. Bd6 Qh3 26.
+Bxf7+ Kh7 27. Qb2 Ng4 0-1
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.06"]
+[Round "5"]
+[White "Kramnik,V"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2760"]
+[EventDate "2009.07.02"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8.
+Be2 dxc4 9. O-O Bxc3 10. bxc3 b5 11. a4 c6 12. Ne5 Qe7 13. f4 a6 14. Bf3
+Bb7 15. Qb1 Qc7 16. f5 Nd7 17. Ng4 Rae8 18. fxe6 Rxe6 19. Qf5 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.06"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2697"]
+[EventDate "2009.07.02"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Ne7 11. Bf4 Ng6 12. Bg3 Ke8 13. Rad1 Bb4
+14. Ne2 h5 15. Ned4 h4 16. Bh2 Nf8 17. Bf4 Bd7 18. Bg5 Be7 19. Rfe1 c5 20.
+e6 fxe6 21. Bxe7 Kxe7 22. Nf5+ Kf6 23. Ne3 Be8 24. Ng4+ Ke7 25. Nge5 Bg6
+26. Rd5 b6 27. Rd2 Bf5 28. Ng5 Kf6 29. f4 Ng6 30. Nd7+ Ke7 31. Nxe6 Bxe6
+32. f5 Nf4 33. fxe6 Rhd8 34. Rf2 g5 35. Kh2 a5 36. a4 Rg8 37. Ne5 Rae8 38.
+Nf3 Nxe6 39. Re5 Kd6 40. Rd2+ Kc6 41. Rde2 Kd6 42. Nxg5 Ng7 43. Rxe8 Rxe8
+44. Rxe8 Nxe8 45. Nf3 c4 46. Nxh4 c3 47. b3 Kc5 48. Nf5 Kb4 49. g4 Ka3 50.
+Kg3 Kb2 51. Ne3 Kc1 52. Kf3 Kd2 53. h4 Ng7 54. h5 Ne6 55. h6 c6 56. Ke4 b5
+57. Ke5 Ng5 58. Kf5 Nf7 59. h7 Kxe3 60. g5 1-0
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.06"]
+[Round "5"]
+[White "Leko,P"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2756"]
+[BlackElo "2721"]
+[EventDate "2009.07.02"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.
+cxd5 Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qa4 Nf6 12. Nh4 Qc8 13. Nf5 Nd4 14.
+Bxb7 Qxb7 15. Nxd4 cxd4 16. Rxd4 Bc5 17. Rd3 b5 18. Qf4 O-O 19. b4 Bb6 20.
+Bb2 Rfe8 21. e3 Rac8 22. Nd2 Bd8 23. Rd1 Rc2 24. Bxf6 Bxf6 25. a3 Ra2 26.
+Nf3 Qa6 27. g4 h6 28. h4 Rxa3 29. Rd6 Qa4 30. g5 hxg5 31. hxg5 Ra1 32. Rxa1
+Bxa1 33. Rxd7 Rf8 34. Qd6 g6 35. Nh2 Bc3 36. Ng4 Bg7 37. Nf6+ Bxf6 38. gxf6
+Rc8 39. Rxf7 1-0
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.08"]
+[Round "6"]
+[White "Jakovenko,D"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2772"]
+[EventDate "2009.07.02"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. Ncb4 O-O 14.
+a4 bxa4 15. Qxa4 Nxd5 16. Nxd5 Bd7 17. Qc2 a5 18. Bc4 Rc8 19. Qe2 Kh8 20.
+O-O f5 21. exf5 Bxf5 22. Bd3 Be6 23. Be4 Rb8 24. Qc2 Bg8 25. b3 Rb5 26. c4
+Rb8 27. Nc3 Qb6 28. Rab1 h6 29. Bd5 Bh7 30. Be4 Bg8 31. g3 Qc5 32. Kg2 Bd8
+33. Rbd1 Qb4 34. Rb1 Bb6 35. Nd5 Bxd5 36. Bxd5 Bd4 37. Be4 Qc3 38. Qe2 Rf6
+39. Bd3 Qb4 40. h4 Qb7+ 41. Be4 Qf7 42. Bd5 Qg6 43. Be4 Qf7 44. Bd5 Qg6 45.
+Be4 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.08"]
+[Round "6"]
+[White "Kramnik,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2756"]
+[EventDate "2009.07.02"]
+[ECO "E55"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 b6 10. dxc5 Bxc3 11. c6 Bb4 12. cxd7 Qxd7 13. Rd1 Qb7 14.
+b3 Qe7 15. Bb2 Ba3 16. Be5 Bb7 17. Nd4 Bc5 18. Nb5 Bc6 19. Nd4 Bb7 20. Ba6
+Bd5 21. Nb5 Rad8 22. Nc3 Ba8 23. Rxd8 Rxd8 24. Rd1 Bd6 25. Bxd6 Rxd6
+1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.08"]
+[Round "6"]
+[White "Bacrot,E"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2697"]
+[EventDate "2009.07.02"]
+[ECO "E18"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
+Nxe4 Bxe4 9. Nh4 Bxg2 10. Nxg2 d5 11. Qa4 dxc4 12. Qxc4 c5 13. Be3 cxd4 14.
+Bxd4 Qc8 15. Rfc1 Qxc4 16. Rxc4 Na6 17. Rac1 Rfd8 18. a4 f6 19. Ne3 Kf7 20.
+Kg2 Nc5 21. Bxc5 Bxc5 22. b4 Bxe3 23. Rc7+ Ke8 24. fxe3 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.09"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2756"]
+[EventDate "2009.07.02"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 b4 9. d4 d6 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Nbd2 Bd6 13. a5 h6 14. Bc4
+Re8 15. Nb3 Be6 16. Bd3 Red8 17. Bf1 Kf8 18. Nfd2 Nd7 19. Nc4 Nc5 20. Nxc5
+Bxc5 21. c3 f6 22. Be3 Bxe3 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.09"]
+[Round "7"]
+[White "Bacrot,E"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2759"]
+[EventDate "2009.07.02"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Qc2 Na6 10. a3 Bg4 11. Ne5 Bxe5 12. dxe5 Nac5 13. f3 Nxd3 14.
+Qxd3 Nc5 15. Qd4 Nb3 16. Qxg4 Nxa1 17. Bh6 g6 18. Nc3 Qb6+ 19. Rf2 Rfe8 20.
+Qf4 Qc7 21. Re2 Re6 22. b4 Rd8 23. Bg5 Nb3 24. Bxd8 Qxd8 25. cxd5 cxd5 26.
+Rb2 Qb6+ 27. Kf1 Qa6+ 28. Kf2 Qxa3 29. Ra2 Qc1 30. Nxd5 Qxf4 31. Nxf4 Rxe5
+32. Rxa7 Rb5 33. Nd3 Nd4 34. Ra8+ Kg7 35. Re8 Rd5 36. Nf4 Rb5 37. Nd3 Rd5
+38. Nf4 Rb5 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.09"]
+[Round "7"]
+[White "Naiditsch,A"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2697"]
+[BlackElo "2760"]
+[EventDate "2009.07.02"]
+[ECO "B35"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 d6 9. f3 Bd7 10. Qd2 Nxd4 11. Bxd4 b5 12. Nd5 Nxd5 13. exd5 Bxd4 14.
+Qxd4 a5 15. a3 Qc7 16. O-O-O Rfc8 17. Rd2 Bf5 18. Qf2 a4 19. Ba2 b4 20. g4
+b3 21. Bxb3 Bxg4 22. fxg4 axb3 23. c3 Ra4 24. Rf1 f6 25. Qe3 Qd7 26. h3 Rf8
+27. Re2 Ra7 28. Rf4 Rb7 29. Re4 Rf7 30. Re6 Qb5 31. Qd4 f5 32. Kd2 Rc7 33.
+a4 Qa5 34. Ke1 Qa6 35. gxf5 Rxf5 36. R6e4 Qb7 37. Qb4 Qa7 38. R2e3 Kf7 39.
+Qxb3 Rb7 40. Qa2 Qa6 41. c4 Qa5+ 42. Ke2 Qa6 43. Kd1 Rf1+ 44. Kc2 Rh1 45.
+a5 Rh2+ 46. Re2 Rxh3 47. b4 Rxb4 48. Rxe7+ Kg8 49. Rc7 Kf8 50. Rc6 Qa8 51.
+Qa1 Kg8 52. Qf6 Rbb3 53. Re7 Rbc3+ 54. Qxc3 Rxc3+ 55. Kxc3 Qxa5+ 56. Kb3
+Qd8 57. Rb7 Qf8 58. Rcc7 g5 59. c5 g4 60. cxd6 Qf3+ 61. Kb4 Qe4+ 62. Kc5
+Qc2+ 63. Kb6 Qb3+ 64. Ka7 Qa3+ 65. Kb8 Qxd6 66. Ka8 Qa3+ 67. Kb8 Qd6 68.
+Ka8 Qa3+ 69. Ra7 Qf8+ 70. Kb7 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.10"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2759"]
+[BlackElo "2772"]
+[EventDate "2009.07.02"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+a3 Nc6 9. Qc2 Qa5 10. Rd1 Be7 11. Be2 dxc4 12. Bxc4 Nh5 13. O-O Nxf4 14.
+exf4 g6 15. g3 Rd8 16. Rxd8+ Qxd8 17. Rd1 Bd7 18. f5 gxf5 19. Qd2 Qb6 20.
+Qh6 Be8 21. Ng5 Bxg5 22. Qxg5+ Kf8 23. Qh6+ Kg8 24. Qg5+ Kf8 25. Rd6 Qc7
+26. Qh6+ Ke7 27. Qh4+ Kf8 28. Qh6+ Ke7 29. Nb5 Qa5 30. b4 Nxb4 31. Rxe6+
+fxe6 32. Qxe6+ Kd8 33. Qf6+ Kc8 34. Qxf5+ Kd8 35. Qf6+ Kc8 36. axb4 1-0
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.10"]
+[Round "8"]
+[White "Jakovenko,D"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2721"]
+[EventDate "2009.07.02"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Qe2 Bg4 16. Qf1 Qh5 17. Be3 Rae8 18. Nd2 Re6 19. f3 Nxe3 20. Qf2
+Nd5 21. fxg4 Qxg4 22. Qf3 Qg5 23. Rxe6 fxe6 24. Ne4 Qg6 25. Qd3 h5 26. Bc2
+Bf4 27. Re1 h4 28. Nf2 Qxd3 29. Nxd3 Be3+ 30. Kg2 Bd2 31. Re2 Ne3+ 32. Kh3
+hxg3 33. Kxg3 Nf1+ 34. Kh3 Rf6 35. Ne5 Bc1 36. Ng4 Rf3+ 37. Kg2 Rf4 38. Bb3
+Rxg4+ 39. Kxf1 Rg6 40. Bxe6+ Kf8 41. b4 Rf6+ 42. Kg2 Rg6+ 43. Kf3 Rf6+ 44.
+Kg3 Bf4+ 45. Kg4 Bc7 46. Bd7 Rd6 47. Bf5 a5 48. a3 Rf6 49. h4 g6 50. Be4
+axb4 51. axb4 Kg7 52. Bg2 Kh6 53. Re8 Bf4 54. Re2 Bc1 55. Bf3 Kg7 56. Kg3
+Kf7 57. Kg2 Bf4 58. Kf2 Re6 59. Be4 Rf6 60. Kg2 Bh6 61. Ra2 Ke7 62. Bf3 Kd7
+63. Ra6 Ke7 64. Ra7+ Kd8 65. Ra6 Ke7 66. Ra2 Kd7 67. Re2 Kd6 68. Bg4 Kd5
+69. Re5+ Kc4 70. Rc5+ Kd3 71. d5 Bf8 72. Rxc6 Rxc6 73. dxc6 Bd6 74. Kf3
+Kxc3 75. Ke4 Kxb4 76. Kd5 Bg3 77. Bf3 Ka5 78. Ke6 b4 79. Be4 Kb5 80. Kd7
+Kc5 81. Bxg6 1-0
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.10"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2756"]
+[BlackElo "2697"]
+[EventDate "2009.07.02"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4
+8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O
+a6 14. Rb1 Qc7 15. Qh5 Nc5 16. Rb4 Qe5 17. Qh6 Rc8 18. a4 Qxe4 19. Qxf6 Rg8
+20. Qf3 Rg4 21. Qh3 h5 22. Nb3 Qg6 23. Nxc5 Rxc5 24. Qf3 Rd5 25. g3 Rxb4
+26. cxb4 Qc2 27. Qf4 Qxa4 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.11"]
+[Round "9"]
+[White "Jakovenko,D"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2759"]
+[EventDate "2009.07.02"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
+8. c4 c6 9. Qc2 Na6 10. a3 Bg4 11. Ne5 Bxe5 12. dxe5 Nac5 13. f3 Nxd3 14.
+Qxd3 Nc5 15. Qd4 Nb3 16. Qxg4 Nxa1 17. Bh6 g6 18. Nc3 Qb6+ 19. Kh1 Qxb2 20.
+Qf4 f6 21. Na4 Qc2 22. Rxa1 Qxa4 23. e6 Qa5 24. Qd6 Rfc8 25. Qe7 Qc7 26.
+Qxf6 Re8 27. Re1 Qe7 28. Qe5 dxc4 29. Bg5 Qf8 30. Bf6 b5 31. f4 a5 32. f5
+Ra7 33. Re3 b4 34. fxg6 hxg6 35. Qg5 Rg7 36. h3 c3 37. Bxg7 Qxg7 38. Qc5
+Qf8 39. e7 Qf1+ 40. Kh2 Qf4+ 41. Kh1 Qf1+ 42. Kh2 Qb5 43. axb4 Qxc5 44.
+bxc5 c2 45. Rc3 Rxe7 46. Rxc2 a4 47. Kg3 Kf7 48. Kf4 Kf6 49. Ra2 g5+ 50.
+Kf3 Ra7 51. Ke4 a3 52. Kd4 Kf5 53. Rf2+ Kg6 54. Ra2 Kf5 55. Rf2+ Kg6 56.
+Ra2 Kf5 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.11"]
+[Round "9"]
+[White "Naiditsch,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2697"]
+[BlackElo "2772"]
+[EventDate "2009.07.02"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. a4 bxa4 14.
+Rxa4 a5 15. Bc4 Bd7 16. O-O Ne7 17. Ra2 Nxd5 18. Bxd5 Rc8 19. Qd3 Qb6 20.
+Rfa1 Kh8 21. Rxa5 f5 22. Qa6 Qxb2 23. R5a2 Qxc3 24. Qxd6 Bb5 25. Be6 Rfd8
+26. Qa3 Qxa3 27. Nxa3 Rc1+ 28. Rxc1 Bxc1 29. h4 Bd3 30. exf5 Ra8 31. Nb1
+Rxa2 32. Bxa2 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.11"]
+[Round "9"]
+[White "Bacrot,E"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2756"]
+[EventDate "2009.07.02"]
+[ECO "A30"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. g3 Qb6 6. Nc2 e6 7. Bg2 Be7
+8. O-O O-O 9. Nc3 d6 10. e4 a6 11. Kh1 Rb8 12. Bd2 Bd7 13. g4 h6 14. f4 Nh7
+15. Rc1 Rfc8 16. b3 Qd8 17. Ne2 b5 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.12"]
+[Round "10"]
+[White "Kramnik,V"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2759"]
+[BlackElo "2697"]
+[EventDate "2009.07.02"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4
+8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O
+a6 14. Rb1 Qc7 15. Qh5 Nc5 16. Rb4 Qe5 17. Qh6 Rc8 18. Nf3 Qxc3 19. Rd4 Ke7
+20. e5 Nd7 21. Qh4 Rhg8 22. Kh1 b5 23. h3 Rc4 24. Rxd7+ Kxd7 25. Qxf6 Qd3
+26. Qxf7+ Kc6 27. Qxe6+ Kb7 28. Re1 Rg6 29. Qf7+ Rc7 30. Qf4 Rc4 31. Qf8
+Rc8 32. Qe7+ Rc7 33. Qh4 Qc4 34. Nd4 Qxa2 35. Qe4+ Kb6 36. Qe3 Kb7 37. Qf3+
+Kb6 38. Nb3 Rc2 39. Qe3+ Kb7 40. e6 Rxf2 41. Qe4+ Kb6 42. Qd4+ 1-0
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.12"]
+[Round "10"]
+[White "Leko,P"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2756"]
+[BlackElo "2760"]
+[EventDate "2009.07.02"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Qe2 Bd7 16. Qf1 Rae8 17. Qxh3 Rxe1+ 18. Qf1 Rfe8 19. Bd2 Rxf1+ 20.
+Kxf1 Nb6 21. Be3 Nd5 22. Bd2 Nb6 23. Be3 Nd5 24. a4 Nxe3+ 25. fxe3 Rxe3 26.
+axb5 axb5 27. Ra6 Bf8 28. Kf2 Re8 29. Nd2 c5 30. Nf3 c4 31. Bd1 f6 32. Nd2
+Rd8 33. Bf3 Be8 34. Bc6 Rd6 35. Bxe8 Rxa6 36. Bxb5 Ra1 37. Bxc4+ Kh8 38.
+Ke2 g6 39. Bd5 Bh6 40. Nc4 Rc1 41. Kd3 Rd1+ 42. Ke2 Rc1 43. Kd3 Rd1+ 44.
+Ke4 1/2-1/2
+
+[Event "Sparkassen GM"]
+[Site "Dortmund GER"]
+[Date "2009.07.12"]
+[Round "10"]
+[White "Carlsen,M"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2721"]
+[EventDate "2009.07.02"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. e3 b6 8.
+Nf3 Bb7 9. b3 Nbd7 10. Be2 c5 11. O-O Rc8 12. a4 dxc4 13. bxc4 Qc7 14. Rd1
+Rfd8 15. Bb2 cxd4 16. exd4 Qf4 17. Qe3 Qxe3 18. fxe3 a5 19. Nd2 Ne4 20.
+Nxe4 Bxe4 21. Rdc1 Nc5 22. Ra3 Bc6 23. Bc3 Nxa4 24. Be1 Be8 25. Rb1 e5 26.
+Bh4 f6 27. dxe5 b5 28. cxb5 Nc3 29. Rb2 Nxe2+ 30. Rxe2 Rd1+ 31. Re1 Rcc1
+32. Rxd1 Rxd1+ 33. Kf2 g5 34. Bg3 Bxb5 35. e4 fxe5 36. Rxa5 Rb1 37. Bxe5
+Bc6 38. Bc3 Rb5 39. Rxb5 1/2-1/2
+

@@ -1,0 +1,1692 @@
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.22"]
+[Round "1.1"]
+[White "Fressinet, Laurent"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2708"]
+[BlackElo "2756"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "608742"]
+[BlackFideId "14103320"]
+[EventDate "2013.09.22"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. c4 Nf6 8.
+Bg5 e6 9. Nc3 Be7 10. Rd1 Bc6 11. O-O O-O 12. Qd3 Qc7 13. a4 Rfd8 14. Rfe1 Rac8
+15. Nd4 Be8 16. b3 Qc5 17. Be3 Qa5 18. Bd2 Qc5 19. h3 Nd7 20. Be3 Qa5 21. Qd2
+Kh8 22. Nc2 Ne5 23. Rc1 Nc6 24. Red1 Bf6 25. Nd4 Qb4 26. Rb1 Nxd4 27. Bxd4 Bxd4
+28. Qxd4 b5 29. axb5 axb5 30. Nxb5 Bxb5 31. cxb5 Qxb5 32. Rbc1 Qxb3 33. Rxc8
+Rxc8 34. Qxd6 h6 35. Qd3 Qxd3 36. Rxd3 g5 37. h4 Kg7 38. hxg5 hxg5 39. f3 Rc4
+40. Kf2 g4 41. Kg3 gxf3 42. gxf3 Kf6 43. Rd7 Ra4 44. Rb7 Rc4 45. Rd7 Ra4 46. Rb7
+Rc4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.22"]
+[Round "1.2"]
+[White "Grischuk, Alexander"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2736"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "8602883"]
+[EventDate "2013.09.22"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2 b6
+9. Bd3 Bb7 10. O-O O-O 11. Nd1 cxd4 12. Nxd4 Nxd4 13. Bxd4 f5 14. exf6 Bxf6 15.
+c3 Qc7 16. Qe3 Rae8 17. Qh3 g6 18. Ne3 Bxd4 19. cxd4 Rxf4 20. Bxg6 hxg6 21. Qh6
+Rf6 22. Ng4 Rxf1+ 23. Rxf1 Qc2 24. Qh4 Rf8 25. Nh6+ Kg7 26. Qe7+ Kxh6 27. Qh4+
+Kg7 28. Qe7+ Kh6 29. Qh4+ Kg7 30. Qe7+ Kh6 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.22"]
+[Round "1.3"]
+[White "Caruana, Fabiano"]
+[Black "Bacrot, Etienne"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2723"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "605506"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 Qe6 10. Qe4 Bb4 11. Bd2 Ba6 12. b3 Bxc3 13. Bxc3 d5 14. Qf3 dxc4
+15. Be2 O-O 16. O-O Rad8 17. Rac1 c5 18. Rfd1 h6 19. Ba1 Rfe8 20. Qg3 Qg6 21.
+Qxg6 fxg6 22. h4 Bc8 23. bxc4 Be6 24. Kf1 Kf7 25. Rxd8 Rxd8 26. Ke1 g5 27. h5 c6
+28. Rc3 Rd7 29. Bd3 Ke7 30. f3 Na4 31. Ra3 Nb6 32. Rc3 Na4 33. Rb3 Nb6 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.22"]
+[Round "1.4"]
+[White "Ivanchuk, Vassily"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2757"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "14100010"]
+[BlackFideId "3503240"]
+[EventDate "2013.09.22"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Nbd7 5. e3 Be7 6. b3 O-O 7. Bb2 b6 8. cxd5
+exd5 9. Bd3 Bb7 10. O-O Re8 11. Rc1 Bf8 12. Ne2 c6 13. Ng3 Bd6 14. Re1 g6 15.
+Nd2 Rc8 16. Rc2 Bf8 17. Nf3 Bd6 18. Nd2 Bf8 19. Nf3 Bd6 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.22"]
+[Round "1.5"]
+[White "Nakamura, Hikaru"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2703"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[WhiteFideId "2016192"]
+[BlackFideId "4147235"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+ 8.
+Be2 Na6 9. Bc3 f6 10. Qd6 Nh6 11. Bxf6 gxf6 12. O-O-O Qg6 13. Qd8+ Kf7 14. Qxh8
+Nb4 15. Bh5 Nxa2+ 16. Kd2 Qxh5 17. Qxh7+ Kf8 18. Qh8+ Kf7 19. Qh7+ Kf8 20. Nf3
+e5 21. Ke1 Bg4 22. h3 e4 23. Nd4 Re8 24. Qh8+ Kf7 25. Qh7+ Kf8 26. Ra1 e3 27.
+Qh8+ Kf7 28. Qh7+ Kf8 29. Qh8+ Kf7 30. Qh7+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.22"]
+[Round "1.6"]
+[White "Gelfand, Boris"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2737"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "2805677"]
+[BlackFideId "24116068"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3 Qc7
+9. Bd2 Be7 10. g3 O-O 11. Rc1 Qd7 12. Nxg6 hxg6 13. Bh3 dxc4 14. Qxc4 Rd8 15. b4
+a5 16. b5 Bb4 17. bxc6 bxc6 18. Na4 Qe7 19. Rc2 Nbd7 20. Kf2 Nd5 21. Bc1 Rab8
+22. e4 N5b6 23. Nxb6 Nxb6 24. Qa6 Rxd4 25. Be3 c5 26. Bxd4 cxd4 27. Rhc1 Bc3 28.
+Rb1 Qd8 29. Bf1 Nd7 30. Rxb8 Qxb8 31. Qb5 Qc7 32. Bd3 Ne5 33. Ke2 Kh7 34. Rc1
+Qd6 35. Rb1 Bb4 36. Rc1 Bc3 37. Rb1 Bb4 38. f4 Nd7 39. Rc1 Bc3 40. Rb1 Bb4 41.
+h4 e5 42. Qd5 exf4 43. Qxd6 Bxd6 44. gxf4 Bxf4 45. Rb5 Ne5 46. Rxa5 f6 47. a4 g5
+48. hxg5 fxg5 49. Rb5 g4 50. a5 g3 51. a6 Nxd3 52. Kxd3 g2 53. Rb1 Bb8 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.23"]
+[Round "2.1"]
+[White "Tomashevsky, Evgeny"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2764"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "5.e3"]
+[WhiteFideId "4147235"]
+[BlackFideId "2805677"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Be2 c5 7. dxc5 Qa5 8. cxd5
+Nxd5 9. Qxd5 Bxc3+ 10. Bd2 Rd8 11. Qxd8+ Qxd8 12. Bxc3 Nd7 13. Rd1 Qc7 14. O-O
+Nxc5 15. Be5 Qb6 16. Bd4 Qa5 17. Bc3 Qb6 18. Bd4 Qa5 19. Bc3 Qb6 20. Bd4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.23"]
+[Round "2.2"]
+[White "Ponomariov, Ruslan"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2737"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "14103320"]
+[BlackFideId "24116068"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
+Qd2 Be6 9. O-O-O Qd7 10. Kb1 Bf6 11. Bg5 Bxg5 12. Nxg5 O-O-O 13. Nxe6 Qxe6 14.
+g3 Kb8 15. Bg2 Rhe8 16. Bd5 Qd7 17. Qg5 f6 18. Qh4 h6 19. Rd2 Re7 20. b3 Rde8
+21. Kb2 Ne5 22. Qb4 Nc6 23. Qf4 Ne5 24. Qb4 Nc6 25. Qf4 Ne5 26. h3 c6 27. Bg2
+Qc7 28. c4 Nf7 29. Qf5 Qb6 30. Rhd1 Qc5 31. Qxc5 dxc5 32. h4 Kc7 33. Bh3 Rd8 34.
+Rxd8 Nxd8 35. a4 a5 36. Bf5 Nf7 37. Kc1 Ne5 38. c3 g6 39. Bc2 f5 40. h5 gxh5 41.
+Rh1 Ng4 42. Bxf5 Nxf2 43. Rxh5 Rg7 44. Rh2 Ng4 45. Bxg4 Rxg4 46. Rxh6 Rxg3 47.
+Kc2 Rg2+ 48. Kc1 Rg1+ 49. Kc2 Rg2+ 50. Kc1 Rg1+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.23"]
+[Round "2.3"]
+[White "Dominguez Perez, Leinier"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2772"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[WhiteFideId "3503240"]
+[BlackFideId "2016192"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 Nc5 11. Bc2 Nd7 12. Re1 Ndxe5 13. Nxe5 Nxe5 14. Bd4 Ng6
+15. Bxg7 Rg8 16. Bxg6 Rxg7 17. Rxe6 hxg6 18. Re2 Kf8 19. Nd2 Rh7 20. Nf3 Bf6 21.
+Qd3 Kg7 22. a4 c6 23. h3 Rh8 24. Ne5 Qd6 25. Ng4 Rhe8 26. axb5 axb5 27. Rxa8
+Rxa8 28. g3 Kg8 29. Nxf6+ Qxf6 30. Kg2 Kg7 31. b4 Ra3 32. Re3 Rxc3 33. Qxc3 d4
+34. Qc5 dxe3 35. fxe3 Qb2+ 36. Kf3 Qh2 37. Qd4+ Kg8 38. Qd8+ Kg7 39. Qd4+ f6 40.
+Qd7+ Kh6 41. Qe8 Qh1+ 42. Kf2 Qh2+ 43. Kf3 Qh1+ 44. Kf2 Qh2+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.23"]
+[Round "2.4"]
+[White "Bacrot, Etienne"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2731"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[WhiteFideId "605506"]
+[BlackFideId "14100010"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. e3 Bd6 5. Be2 Nf6 6. b3 O-O 7. Bb2 b6 8. Nc3 Nbd7
+9. Qc2 Bb7 10. O-O Qe7 11. e4 Nxe4 12. Nxe4 dxe4 13. Qxe4 Nf6 14. Qh4 Ba3 15.
+Bc3 Bb4 16. Bb2 Ba3 17. Bc3 Bb4 18. Bb2 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.23"]
+[Round "2.5"]
+[White "Wang, Hao"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2779"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "2020009"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. Na4 O-O 7. e4 Nb6 8. Be3
+Nxa4 9. Qxa4 c5 10. Rd1 Qb6 11. Rd2 Bd7 12. Qa3 cxd4 13. Nxd4 Qc7 14. Be2 Bc6
+15. O-O Bxe4 16. Nb5 Qc6 17. f3 Bd5 18. Qxe7 Re8 19. Qg5 Na6 20. Qxd5 Qxd5 21.
+Rxd5 Rxe3 22. Bc4 Re7 23. Rd2 Bh6 24. f4 Nc5 25. g3 a5 26. Rd5 Ne4 27. Rfd1 Bf8
+28. Rd8 Rxd8 29. Rxd8 Kg7 30. Kg2 Nf6 31. Kf3 Rd7 32. Rxd7 Nxd7 33. Nc7 Bc5 34.
+Bb5 Nf6 35. Ne8+ Nxe8 36. Bxe8 Kf8 37. Bb5 Kg7 38. Be8 Kf8 39. Bb5 Kg7 40. Ke4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.23"]
+[Round "2.6"]
+[White "Fressinet, Laurent"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2708"]
+[BlackElo "2785"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Miles variation"]
+[WhiteFideId "608742"]
+[BlackFideId "4126025"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb4+ 5. Nfd2 Bb7 6. a3 Be7 7. Nc3 Nh5 8. Bg3
+d6 9. e3 g6 10. d5 Nd7 11. Qc2 Nxg3 12. hxg3 Bf6 13. O-O-O Qe7 14. Be2 O-O-O 15.
+Nb3 Bxc3 16. Qxc3 Qf6 17. Qxf6 Nxf6 18. Bf3 exd5 19. cxd5 h5 20. Rd4 Rde8 21.
+Nd2 Ng4 22. Bxg4+ hxg4 23. Rg1 Rh5 24. e4 f5 25. f3 fxe4 26. fxe4 Ba6 27. Nb1
+Rf8 28. Nc3 Rh7 29. b4 Kd8 30. b5 Bb7 31. Kd2 a6 32. Ke3 Kd7 33. Rc1 Rh2 34. Rd2
+Rh7 35. Rdc2 Kd8 36. a4 g5 37. Ra1 Re7 38. Kd4 Bc8 39. a5 bxa5 40. bxa6 Bxa6 41.
+Rxa5 Bc8 42. Ra8 Rfe8 43. Kd3 Re5 44. Nb5 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.24"]
+[Round "3.1"]
+[White "Gelfand, Boris"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2757"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "2805677"]
+[BlackFideId "3503240"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 a6 7. a4 Bd6 8. Bg5
+h6 9. Bh4 c5 10. Bxc4 O-O 11. O-O cxd4 12. exd4 Qc7 13. Bb3 b6 14. Rc1 Qb8 15.
+d5 e5 16. Nd2 e4 17. Ncxe4 Nxe4 18. Nxe4 Bxh2+ 19. Kh1 Qf4 20. Be7 Qxe4 21. Re1
+Qf4 22. Rc4 Qxf2 23. Kxh2 Bb7 24. Bc2 b5 25. Re2 Qb6 26. a5 Qxa5 27. Qd3 f5 28.
+Rf4 Rf7 29. Rxf5 Qc7+ 30. d6 Qc4 31. Qe3 Bd5 32. b3 Qxc2 33. Rxc2 Rxf5 34. Qd3
+Rh5+ 35. Kg1 Re5 36. Re2 Rh5 37. Qg6 Bf7 38. Qg4 Ne5 39. Qe4 Rc8 40. Rc2 Rxc2
+41. Qxc2 Be6 42. Qe4 Kf7 43. Bh4 Nd7 44. Qf3+ Kg6 45. Be1 Rd5 46. Bc3 h5 47.
+Qe4+ Kf7 48. Bxg7 Nf6 49. Bxf6 Kxf6 50. Qf4+ Bf5 51. Qh4+ Ke5 52. Qxh5 Kxd6 53.
+b4 Be6 54. Qh8 Kc7 55. Qg7+ Rd7 56. Qe5+ Rd6 57. Kf2 Kc6 58. g4 Bc4 59. Qe8+ Kc7
+60. Qe7+ Rd7 61. Qe5+ Kb7 62. g5 a5 63. bxa5 Ka6 64. Qc3 Rd3 65. Qb4 Rb3 66. Qe1
+Ra3 67. g6 Rxa5 68. g7 Ra2+ 69. Kf3 Ra4 70. Qd2 Kb6 71. Ke4 Ra8 72. Qd6+ Kb7 73.
+Qd7+ Kb6 74. Kd4 Ra4 75. Qd6+ Kb7 76. Kc5 Ra6 77. Qe7+ Kb8 78. Qd7 Ka8 79. Qxb5
+Bxb5 80. g8=Q+ Kb7 81. Qf7+ Kc8 82. Kxb5 Rd6 83. Kc5 Ra6 84. Qe7 Kb8 85. Kb5 Ra7
+86. Qf8+ Kc7 87. Qf4+ Kc8 88. Kb6 Re7 89. Qf5+ Kd8 90. Kc5 Kc7 91. Qd5 Rd7 92.
+Qe5+ Kb7 93. Kb5 Rc7 94. Qd5+ Ka7 95. Ka5 Rb7 96. Qd4+ Kb8 97. Ka6 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.24"]
+[Round "3.2"]
+[White "Giri, Anish"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2703"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "24116068"]
+[BlackFideId "4147235"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 Nf4 12. Ne4 Na5 13. Bxf4 exf4 14. d4 Nxb3
+15. axb3 Qd7 16. Qd3 Rad8 17. c4 Bb4 18. Nc3 bxc4 19. bxc4 Bxf3 20. Qxf3 Qxd4
+21. Re4 Qd2 22. Re2 Qd4 23. Re4 Qd2 24. Re2 Qd4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.24"]
+[Round "3.3"]
+[White "Grischuk, Alexander"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2756"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "4126025"]
+[BlackFideId "14103320"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 a6 7. a4 Bd6 8. Bg3
+Bxg3 9. hxg3 c5 10. Bxc4 Nb6 11. Bb3 cxd4 12. exd4 Bd7 13. a5 Nbd5 14. Bxd5 Nxd5
+15. Nxd5 exd5 16. Qe2+ Be6 17. Qd3 h6 18. Qa3 f6 19. O-O Kf7 20. Nd2 Bd7 21. Nb3
+Re8 22. Nc5 Bc6 23. Qf3 Kg8 24. Qg4 Qe7 25. Qf3 Qe2 26. Qc3 Qb5 27. Rfe1 Kf7 28.
+b3 Rac8 29. Qd2 Bd7 30. Rac1 Kg8 31. f3 Rcd8 32. g4 Bc8 33. Qc3 Rxe1+ 34. Rxe1
+Re8 35. Rxe8+ Qxe8 36. Kf2 Kf7 37. Qb4 Qc6 38. Qe1 b6 39. axb6 Qxb6 40. Qc3 Qc7
+41. Qb4 a5 42. Qc3 Bd7 43. Qe1 Bc8 44. Qc3 Bd7 45. Qd2 Bb5 46. Qe1 Qb6 47. Qh1
+Kf8 48. Qh5 Qc6 49. Qf5 Kf7 50. Qh5+ Kf8 51. Qf5 Kf7 52. f4 g6 53. Qc2 Qc7 54.
+Qd2 g5 55. g3 gxf4 56. gxf4 f5 57. Qe3 Qe7 58. Qxe7+ Kxe7 59. g5 Kf7 60. Nb7 Kg6
+61. gxh6 a4 62. bxa4 Bxa4 63. Nd6 Bd7 64. Kg3 Kxh6 65. Nf7+ Kh5 66. Ne5 Bb5 67.
+Nf3 Bd3 68. Ng5 Bb5 69. Ne6 Bd7 70. Nc7 Bc6 71. Kh3 Bb7 72. Nb5 Bc6 73. Nc3 Bb7
+74. Nd1 Bc6 75. Ne3 Kg6 76. Kh4 Bb7 77. Nc2 Bc8 78. Nb4 Bb7 79. Nd3 Kh6 80. Ne5
+Ba8 81. Nf7+ Kg6 82. Nd6 Bc6 83. Nc8 Bb7 84. Na7 Kh6 85. Nb5 Kg6 86. Nc3 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.24"]
+[Round "3.4"]
+[White "Caruana, Fabiano"]
+[Black "Fressinet, Laurent"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2708"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "2020009"]
+[BlackFideId "608742"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 Nxe5 11. Nxe5 dxe5 12. Qe2 Bc5 13. Be3 Qe7 14. Nd2 Bg4 15.
+Bxc5 Qxc5 16. Qe3 Qxe3 17. Rxe3 Rad8 18. Nc4 Rfe8 19. Na5 Be6 20. f3 Rd2 21. Rc1
+Nd7 22. Bxe6 Rxe6 23. Nb3 Rdd6 24. c3 bxc3 25. Rexc3 Rb6 26. a5 Rb5 27. Rxc7
+Rxb3 28. Rxd7 h5 29. Rc8+ Kh7 30. Rxf7 Rxb2 31. Rf5 Rb1+ 32. Kf2 Rb2+ 33. Kg3
+Rg6+ 34. Kh3 Rgxg2 35. Rxh5+ Kg6 36. Rxe5 Rxh2+ 37. Kg3 Rhg2+ 38. Kf4 Rb5 39.
+Rc6+ 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.24"]
+[Round "3.5"]
+[White "Ivanchuk, Vassily"]
+[Black "Wang, Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2736"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "8602883"]
+[EventDate "2013.09.22"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. exd5 Qxd5 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. Re1 Qc7 12. Bf1 Bc5 13. c3 O-O 14. Bg5 Nd5
+15. Bc4 Nf4 16. Bb3 h6 17. Bxf4 Qxf4 18. Qf3 Qxf3 19. Nxf3 Rd8 20. Bc2 Kf8 21.
+Rad1 Bd7 22. Ne5 Be8 23. h4 Ke7 24. g3 Bd6 25. Nc4 Bc7 26. Be4 Rxd1 27. Rxd1 Rb8
+28. a3 b5 29. Ne3 a5 30. Nc2 f5 31. Bf3 Kf6 32. Kf1 Bb6 33. Ke1 Bc5 34. Rd2 Rc8
+35. Bb7 Rc7 36. Bf3 Rc8 37. Bb7 Rb8 38. Bf3 g6 39. Ke2 e5 40. Bd5 g5 41. hxg5+
+hxg5 42. b4 axb4 43. axb4 Bb6 44. Bc6 Bh5+ 45. Ke1 f4 46. Na3 Rc8 47. Rd6+ Ke7
+48. Nxb5 fxg3 49. fxg3 Rf8 50. Rd7+ Ke6 51. Rd2 Be3 52. Rd6+ Kf5 53. Bd7+ Ke4
+54. Bc6+ Kf5 55. Rh6 Kg4 56. Bd7+ Kf3 57. Rxh5 e4 58. g4 Bf2+ 59. Kf1 Kg3 60.
+Nd6 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.24"]
+[Round "3.6"]
+[White "Nakamura, Hikaru"]
+[Black "Bacrot, Etienne"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2723"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "605506"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4 Be6 8. h4
+Nd7 9. Bg3 Ngf6 10. f3 Nb6 11. Bd3 Nc4 12. Qe2 c5 13. Bxc4 dxc4 14. d5 Nxd5 15.
+O-O-O Qa5 16. Nxd5 Bxd5 17. Rxd5 Qxa2 18. Qc2 c3 19. b3 Qa1+ 20. Qb1 Qa6 21. Rh2
+O-O 22. Ra2 Qb5 23. Ne2 Rfd8 24. Rxd8+ Rxd8 25. Be1 c4 26. Nxc3 Qb6 27. Qe4 cxb3
+28. Rd2 Rxd2 29. Bxd2 Bf8 30. Qd5 Qb4 31. Qb5 Qa3+ 32. Kb1 a6 33. Qxb7 Qd6 34.
+Qd5 Qh2 35. h5 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.25"]
+[Round "4.1"]
+[White "Wang, Hao"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2772"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "8602883"]
+[BlackFideId "2016192"]
+[EventDate "2013.09.22"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. c4 e6 5. O-O Nd7 6. cxd5 exd5 7. d3 Ngf6 8. Nc3
+Bd6 9. h3 Bxf3 10. Bxf3 d4 11. Ne4 Nxe4 12. dxe4 Bc5 13. b4 Bb6 14. Bb2 Ne5 15.
+Bg2 Nc4 16. Bc1 Qe7 17. Qb3 Nd6 18. a4 a6 19. Bf4 Nxe4 20. b5 cxb5 21. axb5 a5
+22. Qd5 Nc3 23. Qxb7 Nxe2+ 24. Kh2 Qxb7 25. Bxb7 Rd8 26. Rae1 d3 27. Bf3 O-O 28.
+Bxe2 dxe2 29. Rxe2 Rd5 30. Rb1 g5 31. Be3 Bxe3 32. Rxe3 Rb8 33. b6 a4 34. b7 Rd7
+35. Ra3 Rbxb7 36. Rxb7 Rxb7 37. Rxa4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.25"]
+[Round "4.2"]
+[White "Fressinet, Laurent"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2708"]
+[BlackElo "2731"]
+[ECO "E14"]
+[Opening "Queen's Indian"]
+[Variation "4.e3"]
+[WhiteFideId "608742"]
+[BlackFideId "14100010"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. e3 Bb7 5. Nc3 d5 6. cxd5 exd5 7. Bb5+ c6 8. Bd3
+Nbd7 9. O-O Be7 10. b3 O-O 11. Bb2 Bd6 12. Ne2 Re8 13. Ng3 g6 14. Rc1 a5 15. Qc2
+Qe7 16. Rfe1 Ba3 17. Bxa3 Qxa3 18. h4 Qd6 19. h5 Nf8 20. e4 Qf4 21. e5 Ng4 22.
+hxg6 hxg6 23. Ne2 Qh6 24. g3 c5 25. Kg2 Rac8 26. Qb2 Qg7 27. Nf4 Ne6 28. Nxe6
+Rxe6 29. Qd2 Qh6 30. Qxh6 Nxh6 31. Ng5 Re7 32. Rh1 Kg7 33. Rh4 cxd4 34. Rch1 Rh8
+35. f4 Rc7 36. e6 f6 37. Nf3 Rc3 38. e7 Bc6 39. Nxd4 Bd7 40. Bb5 Bxb5 41. Nxb5
+Re3 42. Nc7 Rxe7 43. Nxd5 Re2+ 44. Kf3 Rxa2 45. Nc7 Rb2 46. Rd1 Rxb3+ 47. Kf2
+Nf7 48. Ne6+ Kg8 49. Rg4 Rh6 50. Kg1 0-1
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.25"]
+[Round "4.3"]
+[White "Grischuk, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2779"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "4126025"]
+[BlackFideId "2020009"]
+[EventDate "2013.09.22"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. e3 O-O 5. Be2 d6 6. Nc3 Nbd7 7. O-O e5 8. Qc2
+Re8 9. Rd1 e4 10. Nd2 Qe7 11. b4 Nf8 12. Bb2 h5 13. Rac1 Bf5 14. Nb3 N8h7 15. d5
+h4 16. Nd4 Bd7 17. c5 dxc5 18. bxc5 Qxc5 19. Qb3 Qb6 20. Ncb5 c5 21. dxc6 bxc6
+22. Nd6 Rf8 23. Ba3 Qxb3 24. axb3 Rfb8 25. Nxc6 Bxc6 26. Rxc6 Rxb3 27. Bc5 Ng5
+28. Bc4 Rbb8 29. Nxf7 Nxf7 30. Rc7 Rf8 31. Bxf8 Rxf8 32. Rxa7 Ng4 33. Bd5 Bh6
+34. Re7 Bg5 35. Rxe4 Nf6 36. Red4 Nxd5 37. Rxd5 h3 38. f4 Bd8 39. gxh3 Bb6 40.
+Kf2 Nh6 41. Kf3 Nf5 42. e4 Ne3 43. Rd6 Nxd1 44. Rxg6+ Kf7 45. Rxb6 Rh8 46. Rb7+
+Kf6 47. e5+ Kf5 48. Rf7+ Ke6 49. Rf6+ Ke7 50. Rd6 Nc3 51. f5 Rxh3+ 52. Kf4 Rxh2
+53. f6+ Ke8 54. e6 Rf2+ 55. Ke5 Re2+ 56. Kf5 Rf2+ 57. Ke5 Re2+ 58. Kf5 Rf2+ 59.
+Ke5 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.25"]
+[Round "4.4"]
+[White "Ponomariov, Ruslan"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2703"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[WhiteFideId "14103320"]
+[BlackFideId "4147235"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nbd2 f5 5. g3 Nf6 6. Bg2 Bd6 7. O-O Nbd7 8. b3
+O-O 9. Bb2 b6 10. Ne5 Bb7 11. Nd3 Qe7 12. e3 a5 13. Rc1 Rfd8 14. Rc2 a4 15. Qc1
+axb3 16. axb3 Ne4 17. f3 Nxd2 18. Qxd2 c5 19. f4 Nf6 20. dxc5 Bxc5 21. Nxc5 bxc5
+22. Bxf6 Qxf6 23. cxd5 Bxd5 24. Qc3 Qxc3 25. Rxc3 Ra2 26. Rf2 Ra1+ 27. Rf1 Ra2
+28. Rf2 Ra1+ 29. Rf1 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.25"]
+[Round "4.5"]
+[White "Dominguez Perez, Leinier"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2737"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "3503240"]
+[BlackFideId "24116068"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. Nc3 O-O 8. d3
+h6 9. Nd5 d6 10. c3 Rb8 11. d4 Ba7 12. Be3 Nxd5 13. Bxd5 Ne7 14. dxe5 Bxe3 15.
+fxe3 Nxd5 16. exd5 dxe5 17. Nxe5 Bb7 18. Qd4 Re8 19. Rad1 Qg5 20. Nc6 Bxc6 21.
+dxc6 Rb6 22. Rf3 Rxc6 23. Qd7 Rce6 24. Qxf7+ Kh7 25. Rg3 R8e7 26. Qxe6 Rxe6 27.
+Rxg5 hxg5 28. Kf2 Kg6 29. Rd5 Rf6+ 30. Ke2 c6 31. Rc5 Kh5 32. e4 Kg4 33. Ke3 Re6
+34. h3+ Kh4 35. g3+ Kxh3 36. Rxg5 g6 37. e5 Kg2 38. Ke4 Kf2 39. Rg4 Kg2 40. Rf4 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.25"]
+[Round "4.6"]
+[White "Bacrot, Etienne"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2764"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "605506"]
+[BlackFideId "2805677"]
+[EventDate "2013.09.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. exd5 Nxd5 8. d4
+Nf6 9. Be3 Be7 10. c4 O-O 11. Nc3 cxd4 12. Nxd4 Ne5 13. h3 Bd7 14. Qb3 Qc7 15.
+Rad1 Rfd8 16. Nc2 Bc5 17. Bxc5 Qxc5 18. Qb4 Qxb4 19. Nxb4 Nc6 20. Nd3 Be8 21.
+Nc5 Rxd1 22. Rxd1 b6 23. N5e4 Nxe4 24. Nxe4 Kf8 25. f4 Ke7 26. Kf2 a5 27. Ke3
+Nb4 28. Nc3 a4 29. Be2 Rc8 30. Rd2 Rc5 31. Ne4 Rc7 32. Nc3 Rc5 33. Ne4 Rc7 34.
+Nc3 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.27"]
+[Round "5.1"]
+[White "Nakamura, Hikaru"]
+[Black "Fressinet, Laurent"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2708"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2016192"]
+[BlackFideId "608742"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Be6 7. Qe2 Nd7 8.
+Be3 f6 9. Bxc5 Nxc5 10. Qe3 Qe7 11. Nc3 O-O-O 12. O-O-O Kb8 13. d4 exd4 14. Nxd4
+Nd7 15. f4 Nb6 16. Nxe6 Qxe6 17. Qc5 Rd6 18. b3 Rhd8 19. Qh5 h6 20. Qg4 Qe7 21.
+Rxd6 cxd6 22. Rd1 d5 23. exd5 Qa3+ 24. Kb1 Nc4 25. bxc4 Qb4+ 26. Kc1 Qxc3 27.
+Qxg7 Qa1+ 28. Kd2 Qd4+ 29. Kc1 Qa1+ 30. Kd2 Qd4+ 31. Kc1 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.27"]
+[Round "5.2"]
+[White "Gelfand, Boris"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2736"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "2805677"]
+[BlackFideId "8602883"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. a4 Bb7 14. Rfe1
+Rc8 15. Bd3 Nb8 16. a5 bxa5 17. d5 Nd7 18. Rxa5 exd5 19. e5 Nc5 20. Rxa7 Qb6 21.
+Ra3 Ne4 22. Qe3 Qxe3 23. fxe3 Ra8 24. Rxa8 Rxa8 25. Bxe4 dxe4 26. Nd4 Bc8 27.
+Rc1 g5 28. Rc6 Kg7 29. Rc7 Kg6 30. Rc6+ Kg7 31. Rc7 Kg6 32. Rc6+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.27"]
+[Round "5.3"]
+[White "Giri, Anish"]
+[Black "Bacrot, Etienne"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2723"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "605506"]
+[EventDate "2013.09.22"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. Nc3 O-O 6. d4 cxd4 7. Qxd4 Nc6 8. Qh4
+Qa5 9. O-O Qh5 10. Qxh5 Nxh5 11. Bd2 d6 12. Rac1 Be6 13. b3 Nf6 14. Rfd1 Rfc8
+15. Ne1 Bd7 16. Nd3 b6 17. h3 Rab8 18. f4 Be8 19. e3 a6 20. g4 h6 21. Rc2 g5 22.
+Ne2 e6 23. Bc3 b5 24. Nb2 d5 25. fxg5 hxg5 26. Rf1 bxc4 27. Bxf6 Bxf6 28. Rxf6
+Nb4 29. Rd2 c3 30. Nxc3 Rxc3 31. Nd1 Rc1 32. Kh2 Nxa2 33. Nf2 Nc3 34. h4 gxh4
+35. g5 Rxb3 36. g6 Kg7 37. gxf7 Bxf7 38. Rf4 Bg6 39. e4 h3 40. Nxh3 Nxe4 41. Ra2
+Bf5 42. Ng1 Rb8 43. Rh4 Ng5 44. Ra3 Rc4 0-1
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.27"]
+[Round "5.4"]
+[White "Tomashevsky, Evgeny"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2757"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[WhiteFideId "4147235"]
+[BlackFideId "3503240"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O
+Nc6 9. Bd3 h6 10. a3 Ba5 11. dxc5 Bxc3 12. bxc3 Qd5 13. Qc2 Rd8 14. Rd1 Qxc5 15.
+a4 e5 16. Ba3 Qa5 17. Bb5 Be6 18. h3 Qc7 19. Rxd8+ Rxd8 20. Rd1 Rxd1+ 21. Qxd1
+a6 22. Bxc6 Qxc6 23. Nxe5 Qxc3 24. Qd8+ Kh7 25. Qd3+ Qxd3 26. Nxd3 b6 27. Bd6
+Bb3 28. Bc7 Nd5 29. Bd8 Bxa4 30. e4 Nc3 31. Bxb6 Nxe4 32. Nc5 Nxc5 33. Bxc5 Bb5
+34. Bb4 Kg6 35. Bc3 f6 36. f3 Kf5 37. Kf2 Ke6 38. h4 h5 39. Bb4 Kd5 40. Bf8 g6
+41. Be7 f5 42. Bd8 Kc4 43. f4 Kb4 44. Ke3 a5 45. Kd2 a4 46. Kc2 Kc4 47. Kb2 Kd4
+48. g3 Ke3 49. Ka3 Kf3 50. Bg5 Kxg3 51. Kb4 Kg4 52. Ka3 Kg3 53. Kb4 Kg4 54. Ka3
+Kg3 55. Kb4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.27"]
+[Round "5.5"]
+[White "Caruana, Fabiano"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2756"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "14103320"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Bd7 12. Bf4 Rd8 13. e6 Bxe6 14. Bxc7
+Rxd1+ 15. Rxd1 Be7 16. g4 Nh4 17. Nd4 Bd7 18. Re1 Kf8 19. Bg3 g5 20. Bxh4 gxh4
+21. Ne4 Kg7 22. Kg2 Rd8 23. c3 h5 24. f3 Bc8 25. Nf5+ Bxf5 26. gxf5 Rd5 27. c4
+Rxf5 28. Rd1 Ra5 29. Rd7 Bf6 30. Nxf6 Kxf6 31. a3 Rc5 32. Rxb7 Rxc4 33. Rxa7
+Rc2+ 34. Kf1 Rxb2 35. a4 Rh2 36. Rc7 Rxh3 37. Rxc6+ Kg7 38. Rc3 Rh1+ 39. Kg2 Ra1
+40. Rc4 Kg6 41. Rxh4 Kg5 42. Rb4 f5 43. Kg3 Rg1+ 44. Kf2 Ra1 45. Kg3 Rg1+ 46.
+Kf2 Ra1 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.27"]
+[Round "5.6"]
+[White "Ivanchuk, Vassily"]
+[Black "Grischuk, Alexander"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2785"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "4126025"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 Be6 7. c5 c6 8. b4 Nbd7
+9. Bd3 Nh5 10. Nge2 f6 11. h4 Bf7 12. Bh2 f5 13. f4 Nhf6 14. Bg3 Ng4 15. Qd2
+Ndf6 16. Nd1 Ne4 17. Bxe4 dxe4 18. a4 b6 19. h5 gxh5 20. Bh4 Bf6 21. Bxf6 Nxf6
+22. Nf2 Kh8 23. O-O Rg8 24. b5 Rc8 25. cxb6 Qxb6 26. a5 Qb7 27. bxc6 Rxc6 28.
+Rxc6 Qxc6 29. Rc1 Qa6 30. Rc5 Bc4 31. Nc3 Bf1 0-1
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.28"]
+[Round "6.1"]
+[White "Bacrot, Etienne"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2703"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "605506"]
+[BlackFideId "4147235"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d3 d6 10. Nbd2 Be6 11. Bxe6 fxe6 12. c3 d5 13. Qe2 Bc5 14. Nb3 Ba7 15. Be3
+Bxe3 16. Qxe3 bxc3 17. bxc3 Qd6 18. Nbd2 h6 19. d4 exd4 20. cxd4 Nxe4 21. Nxe4
+dxe4 22. Qxe4 Rf4 23. Qxe6+ Qxe6 24. Rxe6 Nxd4 25. Nxd4 Rxd4 26. Rc6 Rad8 27. g3
+R8d6 28. Rxc7 Rd1+ 29. Rxd1 Rxd1+ 30. Kg2 Rd4 31. Rc8+ Kf7 32. Rc7+ Kg8 33. Rc8+
+Kf7 34. Rc7+ Kg8 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.28"]
+[Round "6.2"]
+[White "Wang, Hao"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2737"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "8602883"]
+[BlackFideId "24116068"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3 Qc7
+9. Bd2 Be7 10. Nxg6 hxg6 11. O-O-O dxc4 12. Bxc4 b5 13. Bd3 a6 14. Kb1 c5 15.
+dxc5 Nbd7 16. Ne4 Nxe4 17. Bxe4 Nxc5 18. Qc3 Bf6 19. Qc2 Rc8 20. Rc1 O-O 21. Bb4
+Qe5 22. Bc3 Qb8 23. Bxf6 Nxe4 24. Qxe4 gxf6 25. Qf4 Qb6 26. h4 e5 27. Qe4 Qd6
+28. Rcd1 Qc6 29. Qxc6 Rxc6 30. h5 gxh5 31. Rxh5 Rfc8 32. Rhh1 Kf8 33. Rd7 Kg7
+34. Ra7 f5 35. a3 R8c7 36. Rxc7 Rxc7 37. Rd1 Rc6 38. Rd5 Kf6 39. f4 exf4 40.
+exf4 Ke6 41. Re5+ Kf6 42. Rd5 Ke6 43. Re5+ Kf6 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.28"]
+[Round "6.3"]
+[White "Fressinet, Laurent"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2708"]
+[BlackElo "2764"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[WhiteFideId "608742"]
+[BlackFideId "2805677"]
+[EventDate "2013.09.22"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 Nf6 5. Nc3 Nc6 6. d4 cxd4 7. Nxd4 g6 8. h3
+Nxd4 9. Bxd7+ Qxd7 10. Qxd4 Bg7 11. O-O O-O 12. Qd3 Qc6 13. Re1 Rac8 14. b3 Nxe4
+15. Nd5 Rfe8 16. Rxe4 e6 17. Rb1 exd5 18. cxd5 Qd7 19. Be3 Rxe4 20. Qxe4 a6 21.
+Rc1 Rxc1+ 22. Bxc1 Be5 23. Be3 h5 24. a4 Qc8 25. Qc4 Qf5 26. Kf1 b5 27. axb5
+axb5 28. Qxb5 Qb1+ 29. Ke2 Qc2+ 30. Bd2 Qe4+ 31. Kf1 Qb1+ 32. Ke2 Qe4+ 33. Kf1
+Qb1+ 34. Ke2 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.28"]
+[Round "6.4"]
+[White "Grischuk, Alexander"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2772"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "4126025"]
+[BlackFideId "2016192"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. g3 O-O 6. Bg2 dxc4 7. Ne5 c5 8. dxc5
+Qxd1+ 9. Nxd1 Bxc5 10. Ne3 Nbd7 11. N5xc4 Rb8 12. Na5 Ne5 13. Nec4 Bb4+ 14. Bd2
+Bxd2+ 15. Kxd2 Rd8+ 16. Kc3 Nxc4 17. Kxc4 b6 18. Nc6 Bb7 19. Kb3 Bxc6 20. Bxc6
+Ng4 21. f3 Ne3 22. Be4 Nf5 23. Bxf5 exf5 24. Rad1 Re8 25. Rhe1 g6 26. e4 fxe4
+27. Rxe4 Rxe4 28. fxe4 Rb7 29. Rd4 Kf8 30. a4 Ke7 31. Kc3 h5 32. b4 Ke6 33. Kd3
+a5 34. Ke3 f6 35. h4 Ra7 36. Kf4 Ra8 37. Rc4 axb4 38. Rxb4 Ra6 39. Rd4 Ra5 40.
+Rb4 Ra6 41. Rd4 Ra5 42. Rb4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.28"]
+[Round "6.5"]
+[White "Caruana, Fabiano"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2731"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "14100010"]
+[EventDate "2013.09.22"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Na4
+Qa5+ 9. c3 c4 10. b4 Qc7 11. Be2 Be7 12. O-O O-O 13. Qc2 b5 14. Nc5 Nxc5 15.
+dxc5 a5 16. a3 Bd7 17. Nd4 Nxd4 18. Bxd4 axb4 19. axb4 Rxa1 20. Rxa1 Qb7 21. Qa2
+Bc6 22. Qb1 f5 23. exf6 Bxf6 24. Qd1 Ra8 25. Rxa8+ Qxa8 26. Bg4 Bd7 27. h3 Qe8
+28. Qd2 Qf7 29. Qe3 Bxd4 30. Qxd4 Qf6 31. Qxf6 gxf6 32. Kf2 Kf7 33. Ke3 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.28"]
+[Round "6.6"]
+[White "Ponomariov, Ruslan"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2757"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "3503240"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Bf4 dxc4 14. Bxc4 Bd6
+15. Bg5 Qd7 16. Nh4 Na5 17. Bd3 Bxd3 18. Qxd3 Qg4 19. Nf3 Qe6 20. Rfe1 Qd5 21.
+Be7 Rfe8 22. Ng5 f5 23. Bxd6 cxd6 24. Qh3 h6 25. Qh5 Rxe1+ 26. Rxe1 hxg5 27.
+Re8+ Rxe8 28. Qxe8+ Kh7 29. Qh5+ Kg8 30. Qe8+ Kh7 31. Qh5+ Kg8 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.29"]
+[Round "7.1"]
+[White "Ivanchuk, Vassily"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2756"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "14100010"]
+[BlackFideId "14103320"]
+[EventDate "2013.09.22"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 dxc4 7. Ne5 Nc6 8. Bxc6
+bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qc2 c5 12. Qxc4 cxd4 13. Qxd4 e5 14. Qh4 Ba6
+15. Bg5 Bxe2 16. Re1 Bd3 17. Nc3 Qe6 18. Bxf6 gxf6 19. Ne4 Bxe4 20. Qxe4 Rac8
+21. b3 Rfd8 22. Rad1 Kg7 23. Qe3 a6 24. Qe2 Rxd1 25. Rxd1 f5 26. Qd3 h6 27. Kg2
+Rc5 28. Qd6 Rc2 29. Qxe6 fxe6 30. Rd6 Rxa2 31. Rxe6 e4 32. g4 fxg4 33. Rxe4 h5
+34. Re6 a5 35. Ra6 Ra3 36. h3 gxh3+ 37. Kh2 Rxb3 38. Rxa5 Rf3 39. Rxh5 Rxf2+ 40.
+Kxh3 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.29"]
+[Round "7.2"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2779"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld defence"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Qd6 10. h4 Rd8 11. Nb5 Qd7 12. h5 a6 13. Nc3 Nxd4 14. hxg6 hxg6 15.
+Bxd4 Qxd4 16. Qe1 Qxd1+ 17. Nxd1 Na4 18. b3 Nc5 19. e5 Bf5 20. f4 a5 21. Nf3 a4
+22. b4 Nb3+ 23. axb3 a3 24. Qc3 e6 25. Ne3 a2 26. Qa1 Bf8 27. Nxf5 gxf5 28. b5
+c6 29. bxc6 Rdc8 30. Bc4 Rxc6 31. Nd4 Rcc8 32. Kc2 Bb4 33. g4 fxg4 34. f5 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.29"]
+[Round "7.3"]
+[White "Gelfand, Boris"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2785"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[WhiteFideId "2805677"]
+[BlackFideId "4126025"]
+[EventDate "2013.09.22"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nd2 b6 4. a3 Bxd2+ 5. Qxd2 Bb7 6. Nf3 f5 7. g3 Nf6 8. Bg2
+O-O 9. O-O Qe8 10. b4 d6 11. Bb2 Nbd7 12. Rac1 Be4 13. a4 a5 14. b5 Qh5 15. Ba3
+Bb7 16. Qc2 Be4 17. Qd2 Bb7 18. Qc2 f4 19. gxf4 Bxf3 20. Bxf3 Ng4 21. Bxg4 Qxg4+
+22. Kh1 Qxf4 23. Rcd1 Rf5 24. f3 Rh5 25. e3 Qh4 26. Qf2 Qf6 27. Rg1 Rf8 28. Rg3
+Rf7 29. Rdg1 Nf8 30. Qc2 Ng6 31. c5 Nh4 32. cxd6 Qd8 33. dxc7 Rxc7 34. Qe4 Qd5
+35. Qf4 Qd8 36. e4 Ng6 37. Qd6 Qc8 38. d5 Rc2 39. R3g2 Rxg2 40. Rxg2 exd5 41.
+Qc6 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.29"]
+[Round "7.4"]
+[White "Giri, Anish"]
+[Black "Fressinet, Laurent"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2708"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "608742"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 d5 8. cxd5
+exd5 9. O-O O-O 10. Rc1 Nd7 11. Bf4 c5 12. Nd2 Nxc3 13. bxc3 Rc8 14. Re1 Re8 15.
+e4 cxd4 16. cxd4 Rxc1 17. Qxc1 Nf8 18. e5 Qd7 19. Qb1 Rc8 20. Be3 g6 21. h4 Qc6
+22. Bh3 Ne6 23. Nf3 Qc2 24. Bxe6 fxe6 25. Qb5 Rc6 26. Rc1 a6 27. Qf1 Qxa2 28. h5
+Rxc1 29. Qxc1 Qc4 30. Qd1 a5 31. hxg6 hxg6 32. Qb1 Kf7 33. Qxb6 Ba6 34. Qxa5
+Qf1+ 35. Kh2 Be2 36. Nd2 Qe1 37. Qc7 Bg4 38. Qb7 Qe2 39. Kg2 Qe1 40. Qb8 Bh3+
+41. Kh2 Qd1 42. Qh8 Bf5 43. Kg2 Qh5 44. Qb8 Bh3+ 45. Kg1 Qd1+ 46. Kh2 Bf5 47.
+Qb7 Ke8 48. Qc8+ Kf7 49. Qb7 Ke8 50. Qb5+ Kf7 51. Qf1 Qxf1 52. Nxf1 g5 53. f3 g4
+54. Kg2 Kg6 55. fxg4 Bxg4 56. Nh2 Kf5 57. Nxg4 Kxg4 58. Bf2 Bf8 59. Be3 Be7 60.
+Bf2 Bf8 61. Be3 Be7 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.29"]
+[Round "7.5"]
+[White "Tomashevsky, Evgeny"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2736"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "4147235"]
+[BlackFideId "8602883"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
+b5 9. Qd3 c4 10. Qc2 Be7 11. Nc3 O-O 12. Bg5 b4 13. Bxf6 gxf6 14. d5 bxc3 15.
+dxc6 Bxc6 16. Qxc3 Rc8 17. Rfd1 Qb6 18. Rd4 f5 19. Rxc4 Bb7 20. Ne5 Bf6 21. Nd7
+Bxc3 22. Nxb6 Rxc4 23. Nxc4 Ba6 24. Rc1 Bxc4 25. Rxc3 Bxe2 26. Bf1 Bh5 27. f4
+Rd8 28. Rd3 Rc8 29. Rd2 Bf3 30. Bg2 Rc1+ 31. Kf2 Bxg2 32. Kxg2 Kf8 33. Kf3 Ke7
+34. Ke3 h5 35. Rd4 Rc2 36. Ra4 Rxb2 37. Rxa7+ Kf6 38. h4 Rg2 39. Kf3 Rc2 40. Ra8
+Rc3+ 41. Kf2 Rc2+ 42. Kf3 Rc3+ 43. Kf2 Rc2+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.29"]
+[Round "7.6"]
+[White "Dominguez Perez, Leinier"]
+[Black "Bacrot, Etienne"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2723"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "605506"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. Rfe1
+Bb4 15. g4 hxg4 16. hxg4 Ne7 17. Nxe6 Rxe6 18. Re3 Rg6 19. Rg3 Bxc3 20. bxc3 Rd8
+21. Rxd8+ Kxd8 22. Kg2 c5 23. Bc1 Ra6 24. a3 Ra4 25. f4 g6 26. Rd3+ Ke8 27. Kf3
+b6 28. Rd1 Rc4 29. Bd2 Ra4 30. Bc1 Rc4 31. Bd2 Ra4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.30"]
+[Round "8.1"]
+[White "Ivanchuk, Vassily"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2772"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "2016192"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Re1 O-O
+9. h3 b5 10. Bc2 Bb7 11. Nbd2 Re8 12. a4 Nb8 13. b4 c5 14. bxc5 dxc5 15. Rb1 Bc6
+16. Bb2 Nh5 17. g3 Bd7 18. h4 Nc6 19. Bb3 h6 20. Bd5 Rb8 21. Nb3 Qb6 22. axb5
+axb5 23. Ba3 b4 24. Bb2 Bg4 25. Nbd2 Ne7 26. Bc4 Nc6 27. Ra1 Qc7 28. Qc2 Nf6 29.
+Rec1 bxc3 30. Bxc3 Nd4 31. Nxd4 cxd4 32. Ba5 Qe7 33. Rcb1 Be6 34. Qa2 Bxc4 35.
+Nxc4 Ra8 36. Rb5 Nd7 37. Rab1 Reb8 38. Rd5 Rxb1+ 39. Qxb1 Rb8 40. Qa2 Qe6 41.
+Kg2 Qc6 42. Bd2 Ra8 43. Qb1 h5 44. Rd6 Qa4 45. Qb7 Ra7 46. Qd5 Kh7 47. Qxf7 Nf6
+48. Nb6 Qa3 49. Bc1 Rxf7 50. Bxa3 Ng4 51. f4 exf4 52. gxf4 Rxf4 53. Rd7 Rf2+ 54.
+Kg3 Kg8 55. Nc4 0-1
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.30"]
+[Round "8.2"]
+[White "Ponomariov, Ruslan"]
+[Black "Bacrot, Etienne"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2723"]
+[ECO "A64"]
+[Opening "Benoni"]
+[Variation "fianchetto, 11...Re8"]
+[WhiteFideId "14103320"]
+[BlackFideId "605506"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 O-O 6. Nc3 e6 7. Nf3 exd5 8. cxd5
+d6 9. O-O Re8 10. Nd2 a6 11. a4 Nbd7 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Nh5 15. e4
+Bd7 16. a5 b5 17. axb6 Bb5 18. Naxb5 axb5 19. Nxb5 Qxb6 20. Na3 Qb3 21. g4 Nf6
+22. Qxb3 Rxb3 23. Rd1 h6 24. Nc2 Nd3 25. Ra4 Nd7 26. Ra6 Nxc1 27. Rxc1 Bxb2 28.
+Rd1 Be5 29. Na3 Nb6 30. Bf1 Rb8 31. Kg2 Rb4 32. Bd3 c4 33. Be2 c3 34. Kf3 Rb3
+35. Bd3 Nd7 36. Nc2 Nc5 37. Raa1 Rb2 38. Ke3 g5 39. Ra3 Rxc2 40. Bxc2 Rb2 41.
+Bb1 c2 42. Bxc2 Rxc2 43. Kf3 Rb2 44. Re3 Bf4 45. Ra3 Kg7 46. h4 Nd7 47. hxg5
+hxg5 48. Rda1 Ne5+ 49. Kg2 Nxg4 50. R1a2 Rxa2 51. Rxa2 f5 52. f3 Nf6 53. Ra4 Kg6
+54. Kf2 fxe4 55. fxe4 g4 56. Rc4 Kg5 57. Ra4 Kh4 58. Kg2 Be5 0-1
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.30"]
+[Round "8.3"]
+[White "Wang, Hao"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2757"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "8602883"]
+[BlackFideId "3503240"]
+[EventDate "2013.09.22"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 Bd6 11. Bg5 Nbd7 12. Nc3 h6 13. Bxf6 Nxf6 14. Rfd1 Bd5
+15. Qd3 Bxf3 16. Qxf3 c6 17. e4 Bb4 18. Na2 Be7 19. Qb3 Qb8 20. a5 Qa7 21. Nc3
+Rad8 22. e5 Ne8 23. Ne2 Nc7 24. h4 Nb5 25. Qc4 Rd7 26. Rd3 Rfd8 27. Rad1 Nc7 28.
+h5 Nd5 29. Rb3 c5 30. Bxd5 Rxd5 31. Rb6 Qb8 32. Qb3 cxd4 33. Nf4 Rxe5 34. Rxb7
+Qd6 35. Rb6 Qc7 36. Rb7 Qd6 37. Rb6 Qc7 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.30"]
+[Round "8.4"]
+[White "Fressinet, Laurent"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2708"]
+[BlackElo "2703"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "608742"]
+[BlackFideId "4147235"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Bg4 10. Be3 Nd4 11. Bxd4 exd4 12. Nd5 Nd7 13. h3 Bxf3 14. Qxf3 c6 15. Nf4
+g6 16. g3 Bf6 17. h4 Ne5 18. Qe2 Kg7 19. a4 Qd7 20. Kg2 h5 21. f3 Qb7 22. Qf2
+Qb6 23. Rh1 Rh8 24. Ra2 Rac8 25. axb5 axb5 26. Qd2 Ra8 27. Rha1 Rxa2 28. Rxa2
+Rb8 29. Nh3 Rb7 30. Qa5 Qxa5 31. Rxa5 Nd7 32. Ra6 Rc7 33. Ra8 Nb6 34. Ra5 Nd7
+35. f4 Nc5 36. Ng1 Rb7 37. Nf3 Nxb3 38. cxb3 c5 39. Kf2 Be7 40. Ke2 f5 41. b4
+fxe4 42. dxe4 Bf6 43. e5 Be7 44. exd6 Bxd6 45. bxc5 Bxc5 46. Ra6 d3+ 47. Kxd3
+Bf2 48. Ne5 Rb6 49. Rxb6 Bxb6 50. Ke4 Bf2 51. Kf3 Bd4 52. Nd3 Kf6 53. Ke4 Bg1
+54. b3 Ke6 55. Ne5 Kf6 56. Nd3 Ke6 57. Nc1 Bf2 58. Ne2 Be1 59. Nd4+ Kf6 60. Kf3
+b4 61. Nc2 Bc3 62. Ke4 Ke6 63. Ne3 Be1 64. f5+ gxf5+ 65. Nxf5 Kf6 66. Kf4 Bc3
+67. Ne3 Be5+ 68. Kf3 Bd6 69. Nc4 Be7 70. Ke4 Bf8 71. Ne3 Bc5 72. Nd5+ Kg6 73.
+Nf4+ Kh6 74. Kf3 Bd6 75. g4 hxg4+ 76. Kxg4 Be5 77. Nd3 Bc3 78. Nc5 Bd2 79. Ne4
+Bc1 80. Ng3 Bd2 81. h5 Bc3 82. Nf5+ Kh7 83. Kg5 Bd2+ 84. Kf6 Bc3+ 85. Ke6 Bd2
+86. Kd5 Bc3 87. Kc4 Bd2 88. Kc5 Be1 89. Kb5 Bc3 90. Kc4 Bd2 91. Ne7 Kh6 92. Nd5
+Kxh5 93. Nxb4 Kg6 94. Nd5 Kf7 95. b4 Bxb4 96. Kxb4 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.30"]
+[Round "8.5"]
+[White "Grischuk, Alexander"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2737"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Stean variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "24116068"]
+[EventDate "2013.09.22"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 O-O 6. Nd5 Re8 7. Qf5 d6 8.
+Nxf6+ Qxf6 9. Qxf6 gxf6 10. a3 Bc5 11. b4 Bb6 12. Bb2 a5 13. b5 Ne7 14. d4 Ng6
+15. a4 Bg4 16. O-O-O exd4 17. Bxd4 Bxd4 18. Rxd4 Bxf3 19. gxf3 b6 20. f4 Ne7 21.
+Bg2 Rab8 22. Bd5 Rf8 23. Rg1+ Kh8 24. Rdd1 Nxd5 25. Rxd5 Rg8 26. Rg3 Rg6 27. Rh5
+Kg7 28. Kd2 Rh8 29. Kd3 Rxg3 30. hxg3 f5 31. Rxf5 h5 32. Ke4 h4 33. gxh4 Rxh4
+34. Kd5 Rh1 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.09.30"]
+[Round "8.6"]
+[White "Caruana, Fabiano"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2764"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "2020009"]
+[BlackFideId "2805677"]
+[EventDate "2013.09.22"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Qb6 7. Nxc6 bxc6 8.
+Bd3 Ng6 9. c4 Be7 10. Nc3 O-O 11. Rb1 Qc7 12. Be3 e5 13. g3 d6 14. b4 Be6 15.
+Qd2 Rac8 16. b5 Bd8 17. Rfc1 Qd7 18. bxc6 Rxc6 19. Nd5 Bb6 20. Nxb6 axb6 21.
+Bxb6 Ra8 22. Bf1 Qc8 23. Rb4 Nf8 24. a4 Nd7 25. a5 h6 26. h4 Kh7 27. Qe3 Nc5 28.
+f4 exf4 29. gxf4 f5 30. exf5 Bxf5 31. Re1 d5 32. cxd5 Rg6+ 33. Kf2 Nd7 34. h5
+Rg4 35. Bh3 Nf6 36. Qc1 Qf8 37. Rc4 Qf7 38. Bxg4 Nxg4+ 39. Kg1 Qxh5 40. Qd2 Qh4
+41. Re2 Rf8 42. Rc3 Qh5 43. d6 Rf6 44. d7 Rg6 45. Rg2 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.02"]
+[Round "9.1"]
+[White "Dominguez Perez, Leinier"]
+[Black "Fressinet, Laurent"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2708"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "608742"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Ke8 11. Nc3 h6 12. Bf4 Rd8 13. g4 Ne7 14. Nd4 Ng6
+15. Bg3 h5 16. f3 Bc5 17. Ne4 Bxd4+ 18. Rxd4 hxg4 19. hxg4 Ke7 20. Kf2 b6 21.
+Ra4 Ra8 22. e6 fxe6 23. Ng5 e5 24. Re1 Kf6 25. Ne4+ Kf7 26. Ng5+ Kf6 27. Ne4+
+Kf7 28. Ra3 c5 29. Ng5+ Kf6 30. Ne4+ Kf7 31. Rae3 Rae8 32. Ng5+ Kf6 33. Ne4+ Kf7
+34. Ng5+ Kf6 35. Ne4+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.02"]
+[Round "9.2"]
+[White "Bacrot, Etienne"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2736"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[WhiteFideId "605506"]
+[BlackFideId "8602883"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. g3 O-O 7. Bg2 Nbd7 8.
+O-O c6 9. Rc1 b6 10. b4 a5 11. b5 cxb5 12. cxb5 Bb7 13. Qb2 Qe7 14. Nbd2 Rfc8
+15. e3 h6 16. Rxc8+ Rxc8 17. Rc1 Qf8 18. Rc3 Ne4 19. Rxc8 Qxc8 20. Nb1 Ndf6 21.
+Nfd2 Nxd2 22. Nxd2 Ne4 23. Nb1 h5 24. Bf1 h4 25. Bd3 hxg3 26. hxg3 Qc7 27. Kg2
+Nd6 28. Qc3 Qd7 29. a4 e5 30. Kg1 e4 31. Be2 g6 32. Nd2 Kg7 33. Bd1 f6 34. f4
+exf3 35. Bxf3 Nf7 36. Bg2 Ng5 37. Qc2 Qe7 38. Kf2 Qd7 39. Kg1 Qe7 40. Kf2 Qd7 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.02"]
+[Round "9.3"]
+[White "Nakamura, Hikaru"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2756"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[WhiteFideId "2016192"]
+[BlackFideId "14103320"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. e3 Qa5+ 10. Bd2 Nxd2 11. Qxd2 dxc4 12. Qxa5 Nxa5 13. Rc1 b5 14. cxb6
+Bb7 15. Nf3 Ke7 16. Nd2 axb6 17. Bxc4 Rhd8 18. Bb5 Rac8 19. Rc3 Rxc3 20. bxc3
+Rc8 21. c4 Bxg2 22. Rg1 Bd5 23. Rg4 h5 24. Rh4 Bc6 25. Rxh5 Bxb5 26. Rxb5 Nxc4
+27. Nxc4 Rxc4 28. Rxb6 Rh4 29. Ke2 Rxh2 30. a4 Rh4 31. a5 Ra4 32. a6 Ra2+ 33.
+Kf3 f5 34. Rb7+ Kf6 35. a7 g5 36. Kg3 Ra3 37. f3 g4 38. fxg4 Rxe3+ 39. Kf4 Re4+
+40. Kf3 Ra4 41. gxf5 exf5 42. Rc7 Ke5 43. Re7+ Kd6 44. Re8 Rxa7 45. Kf4 Re7 46.
+Rxe7 Kxe7 47. Kxf5 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.02"]
+[Round "9.4"]
+[White "Gelfand, Boris"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2731"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "2805677"]
+[BlackFideId "14100010"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. c5 g6 7. Ne5 Bg7 8. f4 a5 9.
+Be2 h5 10. O-O Bf5 11. Bf3 Qc7 12. Nd3 Nbd7 13. Nf2 e6 14. Bd2 Ke7 15. Be1 a4
+16. Nd3 Ng4 17. Bxg4 Bxd3 18. Be2 Bxe2 19. Nxe2 Kf8 20. Bh4 Bf6 21. Bxf6 Nxf6
+22. Nc1 Kg7 23. Nd3 Ne4 24. Nf2 Nxf2 25. Rxf2 f5 26. h4 Qe7 27. g3 Ra6 28. Qe1
+Rha8 29. Rc1 Qd8 30. Kg2 Qa5 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.02"]
+[Round "9.5"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2779"]
+[ECO "A41"]
+[Opening "Queen's Pawn"]
+[WhiteFideId "24116068"]
+[BlackFideId "2020009"]
+[EventDate "2013.09.22"]
+
+1. d4 d6 2. e4 Nf6 3. f3 c5 4. d5 e6 5. c4 exd5 6. cxd5 Be7 7. Bd3 O-O 8. Ne2
+Nbd7 9. O-O Rb8 10. a4 a6 11. Nec3 Ne5 12. Be2 Ne8 13. f4 Ng6 14. Na3 f5 15.
+exf5 Bxf5 16. Nc4 Bf6 17. Kh1 Bd4 18. Ne3 Ne7 19. Bf3 g6 20. Ne2 Bg7 21. Ra2 b5
+22. axb5 axb5 23. b4 Qb6 24. Bb2 Bxb2 25. Rxb2 c4 26. Qd2 Ra8 27. Nc3 Nc7 28.
+Re1 Rae8 29. Be4 Bxe4 30. Nxe4 Nf5 31. Nxf5 Rxf5 32. g4 Rf7 33. Rbb1 Qb8 34. g5
+Qd8 35. Nf6+ Rxf6 36. gxf6 Qxf6 37. Rxe8+ Nxe8 38. Qe3 Nc7 39. Re1 Nxd5 40. Qa7
+Qf7 41. Qb8+ Kg7 42. Qxd6 Kh6 43. Qd8 Nxf4 44. Qh4+ Nh5 45. Qe4 Nf4 46. Rf1 g5
+47. Qf3 Qh5 48. Qa8 Ng6 49. Qc6 Qe2 50. Qg2 Qe6 51. Qf3 Qe7 52. Rg1 Nh4 53. Qd5
+Qf6 54. Re1 Ng6 55. Qe4 Qf2 56. Qe3 Qf5 57. Qe4 Qf6 58. Qg4 Qc6+ 59. Qg2 Qd7 60.
+Qf3 Qd2 61. Rd1 Qxb4 62. Qh3+ Nh4 63. Qe6+ Ng6 64. Qh3+ Nh4 65. Qe6+ Ng6 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.02"]
+[Round "9.6"]
+[White "Tomashevsky, Evgeny"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2785"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[WhiteFideId "4147235"]
+[BlackFideId "4126025"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 c5 7. d5 e6 8. Bd3 exd5
+9. cxd5 b5 10. Nf3 b4 11. Ne2 Qe8 12. Nd2 Nbd7 13. O-O Ne5 14. Bc2 Ba6 15. Re1
+Nd3 16. Bxd3 Bxd3 17. Nf4 Bb5 18. e5 dxe5 19. Bxf6 Bxf6 20. Ne4 Bg7 21. Nd3 Rd8
+22. Ndxc5 Bc6 23. d6 Kh8 24. Rc1 h6 25. Re2 f5 26. d7 Bxd7 27. Rd2 fxe4 28. Rxd7
+e3 29. fxe3 e4 30. Rxd8 Qxd8 31. Ne6 Qxd1+ 32. Rxd1 Rc8 33. Nxg7 Kxg7 34. Rd7+
+Kf6 35. Rxa7 Rc1+ 36. Kh2 Re1 37. Ra6+ Ke5 38. Ra5+ Ke6 39. Rb5 Rxe3 40. Rxb4
+Ke5 41. Rb8 Re1 42. b4 e3 43. b5 Kd4 44. b6 e2 45. Re8 Kd3 46. b7 Rb1 47. Rd8+
+Kc3 48. Re8 Kd2 49. Rd8+ Kc3 50. Re8 Kd2 51. Rd8+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.03"]
+[Round "10.1"]
+[White "Caruana, Fabiano"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2703"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "4147235"]
+[EventDate "2013.09.22"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Bg6 7. Nbd2 Nh6 8. Nb3
+Nf5 9. a4 Rc8 10. a5 h5 11. g3 Be7 12. Bf4 a6 13. c4 dxc4 14. Bxc4 O-O 15. Qe2
+b5 16. axb6 Nxb6 17. Bxa6 Rc7 18. Rfd1 Ra7 19. h4 Nd5 20. Bd2 Qb6 21. Bc4 Rfa8
+22. Bc3 Rxa1 23. Rxa1 Rxa1+ 24. Nxa1 c5 25. Nb3 cxd4 26. Nfxd4 Nxc3 27. bxc3 Bc5
+28. Nxc5 Qxc5 29. Nxe6 fxe6 30. Bxe6+ Kh8 31. Bxf5 Bxf5 32. Qxh5+ Bh7 33. Qe8+
+Bg8 34. e6 Kh7 35. e7 Qe5 36. Qf8 1-0
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.03"]
+[Round "10.2"]
+[White "Ivanchuk, Vassily"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2737"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "24116068"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14. cxd5 Qxd5
+15. Bf4 Rac8 16. Qc1 Qd7 17. Qb2 Bd6 18. Bxd6 cxd6 19. Bb5 d5 20. Ne5 Qc7 21.
+Qd2 f6 22. Nxc6 bxc6 23. Bd3 Bxd3 24. Qxd3 Qd7 25. h3 g6 26. Rab1 Rxe1+ 27. Rxe1
+Re8 28. Re2 Rxe2 29. Qxe2 Kf7 30. Qa6 g5 31. Qd3 Kg7 32. Qa6 Kf7 33. Qd3 Kg7 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.03"]
+[Round "10.3"]
+[White "Nakamura, Hikaru"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2764"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "2805677"]
+[EventDate "2013.09.22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8. Be3
+Ng4 9. Bg5 h6 10. Bh4 g5 11. Bg3 Bg7 12. h3 Ne5 13. f3 Nbc6 14. Bf2 Be6 15. Qd2
+Rc8 16. O-O-O Nxd4 17. Bxd4 Qa5 18. a3 O-O 19. h4 g4 20. Qf2 Rc6 21. f4 Rfc8 22.
+Qg3 Nd7 23. Bxg7 Kxg7 24. f5 Rxc3 25. bxc3 Qxa3+ 26. Kd2 Nf6 27. Qd3 Bc4 28. Qd4
+d5 29. exd5 Bxd5 30. Rg1 Be4 31. Bd3 Qa5 32. Qb4 Qc7 33. Bxe4 a5 34. Qxb7 Qf4+
+35. Ke2 Rc7 36. Qb6 Nxe4 37. Qd4+ Kh7 38. c4 Rd7 39. Qe3 Ng3+ 40. Qxg3 Qxg3 41.
+Rxd7 Qe5+ 0-1
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.03"]
+[Round "10.4"]
+[White "Ponomariov, Ruslan"]
+[Black "Wang, Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2736"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "14103320"]
+[BlackFideId "8602883"]
+[EventDate "2013.09.22"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. c3 Nd7 7. O-O h6 8. Na3 a6
+9. Nc2 Bh7 10. Nfe1 c5 11. Bd3 Bxd3 12. Nxd3 Rc8 13. g3 Qc7 14. Ne3 h5 15. a3
+Nc6 16. Nf4 cxd4 17. cxd4 Qb6 18. Ne2 Na5 19. b4 Nc4 20. Ng2 Nb8 21. Bg5 Nc6 22.
+Ne3 Nxe3 23. fxe3 Be7 24. Bxe7 Nxe7 25. Rc1 Rxc1 26. Qxc1 O-O 27. Qc5 Qd8 28.
+Nf4 g6 29. Rc1 Nf5 30. Kf2 Qg5 31. Rg1 b6 32. Qc3 Ne7 33. Rc1 h4 34. Kf3 hxg3
+35. hxg3 Nf5 36. Qe1 a5 37. b5 Qe7 38. Rc3 a4 39. g4 Nh6 40. Rc2 Kg7 41. Qc1 Qh4
+42. Rg2 Qe7 43. Rg1 Rh8 44. Rh1 Qg5 45. Rg1 Qe7 46. Rh1 Qg5 47. Rg1 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.03"]
+[Round "10.5"]
+[White "Fressinet, Laurent"]
+[Black "Bacrot, Etienne"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2708"]
+[BlackElo "2723"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, bayonet attack"]
+[WhiteFideId "608742"]
+[BlackFideId "605506"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5 Ne7
+9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. Bf3 h6 13. Ne6 Bxe6 14. dxe6 c6 15. exf5
+gxf5 16. Bb2 e4 17. Be2 Ng6 18. b5 Qe7 19. bxc6 bxc6 20. Rb1 Qxe6 21. Bf1 Rab8
+22. c5 Ng4 23. Qc2 Qe5 24. g3 Qxc5 0-1
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.03"]
+[Round "10.6"]
+[White "Grischuk, Alexander"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2757"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "3503240"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 d5 7. Bg5 Be7 8. Bd3
+O-O 9. O-O Bg4 10. Nbd2 Nbd7 11. c3 c6 12. Qc2 h6 13. Bf4 Nh5 14. Be5 Nxe5 15.
+dxe5 Nf4 16. Bh7+ Kh8 17. Bf5 Bxf5 18. Qxf5 Ne6 19. Nd4 Bc5 20. N2b3 Bxd4 21.
+Nxd4 Qb6 22. Qd3 Qxb2 23. Rfb1 Qa3 24. Nxe6 fxe6 25. Rxb7 Rab8 26. Rc7 Rbc8 27.
+Rb7 Rb8 28. Rc7 Rbc8 29. Rb7 Rb8 30. Rc7 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.04"]
+[Round "11.1"]
+[White "Tomashevsky, Evgeny"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2703"]
+[BlackElo "2731"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "4147235"]
+[BlackFideId "14100010"]
+[EventDate "2013.09.22"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Bd3 Bg4 6. Qb3 Bxf3 7. gxf3 Ra7 8. Nc3
+e6 9. Bd2 Be7 10. c5 e5 11. dxe5 Nfd7 12. f4 Nxc5 13. Qc2 Nxd3+ 14. Qxd3 Nd7 15.
+O-O-O O-O 16. Rhg1 f5 17. Nxd5 cxd5 18. Qxd5+ Kh8 19. Bc3 b5 20. Qg2 g6 21. e6+
+Bf6 22. Bxf6+ Rxf6 23. exd7 Rxd7 24. Qf3 Kg7 25. Rxd7+ Qxd7 26. Rd1 Rc6+ 27. Kb1
+Rd6 28. Rxd6 Qxd6 29. Qe2 a5 30. a3 Qd5 31. f3 a4 32. e4 Qb3 33. exf5 gxf5 34.
+Qe7+ Kg8 35. Qe8+ Kg7 36. Qe7+ Kg8 37. Qg5+ Kh8 38. Qf6+ Kg8 39. Qxf5 Qd1+ 40.
+Ka2 Qb3+ 41. Ka1 Qd1+ 42. Ka2 Qb3+ 43. Ka1 Qd1+ 44. Qb1 Qxf3 45. Qg1+ Kf7 46.
+Qa7+ Kg6 47. Qb6+ Kf7 48. Qc7+ Kg6 49. Qb6+ Kf7 50. Qc7+ Kg6 51. Qd6+ Kf7 52.
+Qd7+ Kf6 53. Qxh7 Qh1+ 54. Ka2 Qd5+ 55. Ka1 Qh1+ 56. Qb1 Qxh2 57. Qe4 Qh5 58.
+Qd4+ Ke6 59. Qe4+ Kf6 60. Qd4+ Ke6 61. Qe3+ Kf6 62. Qc3+ Ke6 63. Qc8+ Kf6 64.
+Kb1 Qd1+ 65. Qc1 Qd3+ 66. Qc2 Qf1+ 67. Ka2 Qxf4 68. Qc6+ Kf7 69. Qxb5 Qe4 70.
+Qb4 Qd5+ 71. Ka1 Qh1+ 72. Ka2 Qd5+ 73. Ka1 Qh1+ 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.04"]
+[Round "11.2"]
+[White "Dominguez Perez, Leinier"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2779"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "2020009"]
+[EventDate "2013.09.22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f3 b5 10. g4 Nxd4 11. Qxd4 Bb7 12. g5 Nh5 13. Rd2 Rc8 14. Bxb5 axb5
+15. Nxb5 Qc6 16. Na7 Qc7 17. Nb5 Qc6 18. Na7 Qc7 19. Nb5 Qc6 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.04"]
+[Round "11.3"]
+[White "Bacrot, Etienne"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2785"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[WhiteFideId "605506"]
+[BlackFideId "4126025"]
+[EventDate "2013.09.22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Bd7 12. Rb1 Qc7 13. Bf4 Qc8 14. Be3 Qc7
+15. Bf4 Qc8 16. Be3 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.04"]
+[Round "11.4"]
+[White "Wang, Hao"]
+[Black "Fressinet, Laurent"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2708"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "8602883"]
+[BlackFideId "608742"]
+[EventDate "2013.09.22"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Nc6 4. Nc3 Bb4 5. Nd5 Bc5 6. e3 d6 7. Ne2 a6 8. b3 O-O
+9. O-O Ba7 10. Bb2 Nxd5 11. cxd5 Ne7 12. d4 f6 13. Rc1 Bb6 14. dxe5 fxe5 15. Nc3
+Bd7 16. Ne4 Nf5 17. Qd2 Qe7 18. a4 a5 19. Rc4 Nh6 20. Rfc1 Bf5 21. h3 Nf7 22. h4
+Nh6 23. Ng5 Ng4 24. Qe2 Nf6 25. g4 Bd7 26. Ba3 e4 27. Bxe4 Rae8 28. Bf3 h6 29.
+Ne6 Bxe6 30. dxe6 Qxe6 31. Bxb7 Nd7 32. Bc6 Re7 33. Re4 Ne5 34. Bb2 Qxb3 35.
+Bxe5 Rxe5 36. Rxe5 dxe5 37. Rd1 Qb4 38. h5 Bc5 39. Rd7 Bd6 40. Kg2 Kh8 41. Bb5
+Qe4+ 42. Kg1 Qb1+ 43. Qf1 Qb4 44. Qd1 Qb2 45. Qe2 Qb1+ 46. Kg2 Qe4+ 47. f3 Qd5
+48. Bc4 Qc6 49. Bb5 Qd5 50. Bc4 Qc6 51. Rf7 Rxf7 52. Bxf7 e4 53. f4 Qc1 54. Bg6
+Bc5 55. Bxe4 Qxe3 56. Qxe3 Bxe3 57. Kf3 Bc1 58. Bc6 Bd2 59. Be4 Bc1 60. Bc6 Bd2 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.04"]
+[Round "11.5"]
+[White "Gelfand, Boris"]
+[Black "Ponomariov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2756"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "2805677"]
+[BlackFideId "14103320"]
+[EventDate "2013.09.22"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. b3 Na6
+9. Bb2 Qc7 10. d5 e5 11. dxe6 Bxe6 12. Ng5 Bd7 13. Qd2 Rad8 14. Rad1 Bc8 15.
+Rfe1 Nc5 16. Qc2 a5 17. Nf3 Rfe8 18. Nd4 Qf7 19. Bc1 h6 20. Bb2 Kh7 21. e3 Nfe4
+22. Rf1 Nf6 23. Rfe1 Nfe4 24. Rf1 Nf6 1/2-1/2
+
+[Event "FIDE GP Paris"]
+[Site "Elancourt FRA"]
+[Date "2013.10.04"]
+[Round "11.6"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2772"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2013.09.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Kc8 11. g4 Ne7 12. Ng5 Be8 13. f4 h5 14. Kf2 b6 15.
+f5 Kb7 16. c4 c5 17. Bf4 Nc6 18. Nc3 g6 19. e6 fxe6 20. Nxe6 hxg4 21. Nxc7 Bh6
+22. Bxh6 Kxc7 23. Bf4+ Kb7 24. hxg4 gxf5 25. g5 Rh4 26. Ne2 Bh5 27. Rh1 Rxh1 28.
+Rxh1 Bxe2 29. Kxe2 Nd4+ 30. Kd3 Ne6 31. Rf1 Rd8+ 32. Kc3 Rg8 33. Be3 f4 34. Bxf4
+Nxf4 35. Rxf4 Rxg5 36. Rf7+ Kb8 37. Rf8+ Kb7 38. Rf7+ Kb8 39. Rf8+ Kb7 1/2-1/2
+

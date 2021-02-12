@@ -1,0 +1,520 @@
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.22"]
+[Round "1"]
+[White "Korneev,O"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2657"]
+[BlackElo "2720"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Bg5 13.a4 bxa4 14.Rxa4 a5 15.Bb5 Ne7
+16.Ncb4 Bh3 17.Nxe7+ Qxe7 18.Bc6 Rac8 19.Rxa5 Bxg2 20.Rg1 Bh3 21.Qh5 Bh4
+22.Qh6 g6 23.Qe3 Be6 24.Ra7 Qf6 25.Bd5 Rb8 26.Ra6 Rfc8 27.Rc6 Rxc6 28.Bxc6 h5
+29.Bd5 Bg4 30.Kf1 Kg7 31.Ke1 Bg5 32.Qg3 Bf4 33.Qd3 Bxh2 34.Rh1 Qg5 35.Kf1 Bf4
+36.f3 Bd7 37.Qc2 Rxb4 38.cxb4 Qg3 39.Qe2 Be3 40.b3 Bh3+  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.22"]
+[Round "1"]
+[White "Illescas Cordoba,M"]
+[Black "Bauer,Ch"]
+[Result "1/2-1/2"]
+[WhiteElo "2620"]
+[BlackElo "2585"]
+[ECO "E59"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Nf3 d5 7.O-O dxc4 8.Bxc4 O-O
+9.a3 Bxc3 10.bxc3 Qc7 11.Ba2 b6 12.h3 h6 13.Bb2 Rd8 14.Qc2 Na5 15.Qe2 Bb7
+16.Rac1 Qc6 17.c4 cxd4 18.exd4 Qe4 19.Qxe4 Nxe4 20.Rfd1 Rac8 21.d5 exd5 22.cxd5 Rxc1
+23.Rxc1 Nc5 24.Rxc5 bxc5 25.Bc3 c4 26.Bxa5 Rxd5 27.Bd2 Rd6 28.Be3 Rd1+ 29.Kh2 Bxf3
+30.gxf3 c3 31.Bb3 Rb1 32.Bc2 Rb2 33.Be4 a5 34.Kg3 Ra2 35.Kf4 Rxa3 36.Ke5 Ra4
+37.Kd5 Rb4 38.Bd4 a4 39.Bxc3 Rb5+ 40.Kc4 Rh5 41.Kb4 Rh4 42.Be5 Rxh3 43.Kxa4 Rh1
+44.Kb4 h5 45.Kc3 h4 46.Kd2 f6 47.Bc7 Kf7 48.f4 Rf1 49.Ke2 Rc1 50.Bb8  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.22"]
+[Round "1"]
+[White "Wojtaszek,R"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2747"]
+[ECO "D15"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 a6 5.c5 Nbd7 6.Bf4 Nh5 7.Bd2 e5 8.Nxe5 Nxe5
+9.dxe5 Qe7 10.Be3 Qxe5 11.Bd4 Qg5 12.e3 Be7 13.h4 Qg6 14.Be2 Nf6 15.h5 Qxg2
+16.Bf3 Qg5 17.Qe2 Qh6 18.Rg1 Rg8 19.O-O-O Bf5 20.Be5 Nd7 21.Bf4 Qe6 22.Nxd5 cxd5
+23.Bxd5 Qf6 24.Bg5 Qe5 25.Bf4 Qf6 26.Bg5  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.22"]
+[Round "1"]
+[White "Jakovenko,D"]
+[Black "Laznicka,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2671"]
+[BlackElo "2596"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.a4 e6 6.Bg5 Nbd7 7.e3 Qa5 8.cxd5 exd5
+9.Nd2 Be7 10.Bd3 O-O 11.O-O Re8 12.Qc2 Qd8 13.a5 Nf8 14.Nb3 h6 15.Bxf6 Bxf6
+16.Nc5 Be7 17.b4 Bd6 18.Rfe1 Qc7 19.g3 Ne6 20.f4 Re7 21.N3a4 Nf8 22.Nb6 Rb8
+23.Kg2 Bg4 24.h3 Be6 25.Rac1 Rbe8 26.Qf2 Qb8 27.f5 Bc8 28.f6 gxf6 29.Re2 f5
+30.Nxc8 Qxc8 31.Bxf5 Qc7 32.Rf1 Nh7 33.Bxh7+ Kxh7 34.Qf5+ Kg8 35.Rf3 Bxc5
+36.bxc5 Re6 37.Ref2 R8e7 38.Rf4 Rg6 39.Rg4 Kh7 40.Rf3 Qd7 41.Rxg6 fxg6 42.Qxd7 Rxd7
+43.Rf4 Kg7 44.Kf3 g5 45.Rf5 Kg6 46.g4 Rf7 47.Rxf7  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.23"]
+[Round "2"]
+[White "Laznicka,V"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2596"]
+[BlackElo "2747"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Qc7 5.O-O Nd4 6.Re1 a6 7.Bf1 Ng4 8.g3 Nxf3+
+9.Qxf3 Ne5 10.Qe2 d6 11.Nd5 Qd8 12.Bg2 g6 13.d3 Bg7 14.c3 e6 15.Ne3 Nc6 16.Nc2 Qb6
+17.Bf4 e5 18.Bc1 O-O 19.b4 cxb4 20.Nxb4 Nxb4 21.Rb1 Qc6 22.cxb4 Be6 23.a3 Rac8
+24.Bb2 Qc2 25.Bf3 h5 26.h4 Kh7 27.Rbc1 Qb3 28.Rxc8 Rxc8 29.Rc1 Bh6 30.Rxc8 Bxc8
+31.Kh2 Bd7 32.Bg2 Bg4 33.f3 Bd7 34.Bf1 Ba4 35.Kg2 Qa2 36.Kh3 Qb1 37.Kg2 b5
+38.Bc3 Bc1 39.g4 Bf4 40.gxh5 gxh5 41.Bd2 Bd1 42.Qf2 Bxd2 43.Qxd2 Bxf3+ 44.Kf2 Bg4
+45.Qc3 Qd1 46.Qe1 Qf3+ 47.Kg1 Bh3 48.Bxh3 Qxh3 49.Qf2 Kg6 50.Qb6 Qg3+ 51.Kh1 Qxd3
+52.Qxa6 Qxe4+ 53.Kg1 Qg4+ 54.Kf1 Qf3+ 55.Kg1 Qg3+ 56.Kf1 Qd3+ 57.Kg1 Kf5
+58.a4 Qd1+ 59.Kg2 bxa4 60.b5 Qg4+ 61.Kf1 Qc4+ 62.Kg2 Ke6  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.23"]
+[Round "2"]
+[White "Jakovenko,D"]
+[Black "Illescas Cordoba,M"]
+[Result "1-0"]
+[WhiteElo "2671"]
+[BlackElo "2620"]
+[ECO "E90"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.e4 d6 6.h3 O-O 7.Nf3 e6 8.Bd3 Na6 9.O-O Nc7
+10.Re1 Re8 11.Bg5 h6 12.Bh4 a6 13.e5 dxe5 14.d6 Qxd6 15.Bxf6 Bxf6 16.Ne4 Qe7
+17.Nxf6+ Qxf6 18.Nxe5 Rd8 19.Qd2 b6 20.Qxh6 Bb7 21.Re3 Qg7 22.Qh4 Rd4 23.f4 Kf8
+24.Rae1 Ne8 25.Nxf7 Rxd3 26.Rxe6 Qd4+ 27.Kh2 Bxg2 28.Qe7+ Kg8 29.Nh6+ Kh8
+30.Qf8+ Kh7 31.Qg8+  1-0
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.23"]
+[Round "2"]
+[White "Bauer,Ch"]
+[Black "Korneev,O"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2657"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Nh4 Bg6 7.Be2 Nbd7 8.Bd2 Be7
+9.Nxg6 hxg6 10.O-O O-O 11.a3 dxc4 12.Bxc4 e5 13.dxe5 Nxe5 14.Be2 Qd7 15.Qc2 Rad8
+16.Rad1 Qe6 17.Ne4 Nxe4 18.Qxe4 Qf5 19.Qa4 Bc5 20.Bc3 Bb6 21.h3 Rfe8 22.Rxd8 Rxd8
+23.Rd1 Rxd1+ 24.Qxd1 Qe6 25.a4 Bc7 26.Qd4 b6 27.f4 c5 28.Qe4 Qc6 29.Bd3 f5
+30.Qxc6 Nxc6 31.g4 fxg4 32.hxg4 g5 33.Be4 Nd8 34.f5 Nf7 35.Bd5 Kf8 36.Bxf7 Kxf7
+37.Kf2 g6 38.Kf3 gxf5 39.gxf5 a6 40.e4 b5 41.axb5 axb5 42.e5 b4 43.e6+ Ke7
+44.Bd2 Be5 45.Bxg5+ Ke8 46.f6 Bxb2 47.f7+ Kf8 48.Ke4 b3 49.Kf5 Bg7 50.Kg6  1-0
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.23"]
+[Round "2"]
+[White "Shirov,A"]
+[Black "Wojtaszek,R"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2630"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7
+9.Qd2 O-O 10.O-O-O a5 11.Kb1 a4 12.Nc1 a3 13.b3 Ra5 14.Bc4 Bxc4 15.bxc4 Qc8
+16.Qd3 Nbd7 17.Nb3 Ra6 18.g4 Rc6 19.g5 Ne8 20.Nd5 Bd8 21.Nd2 Nc5 22.Qxa3 Ra6
+23.Qb2 Na4 24.Qb4 Nc7 25.Nb3 b5 26.c5 Nxd5 27.exd5 Bb6 28.cxb6 Nc3+ 29.Qxc3 Qxc3
+30.Rd3 Qc4 31.Rc1 Qa4  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.24"]
+[Round "3"]
+[White "Wojtaszek,R"]
+[Black "Bauer,Ch"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2585"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3 c5 8.cxd5 exd5
+9.e3 Nc6 10.Bb5 O-O 11.dxc5 d4 12.Bxc6 dxc3 13.Qxb4 cxb2 14.Rb1 bxc6 15.Rxb2 Ba6
+16.Nd4 Rfe8 17.Kd1 Rab8 18.Qxb8 Rxb8 19.Rxb8+ Kh7 20.Rb2 Qg5 21.Kc1 Qxg2
+22.Rd1 Qxh2 23.Rc2 Qe5 24.Rc3 h5 25.Kb2 Qd5 26.f3 h4 27.e4 Qd8 28.Kc2 Qa5
+29.a3 Qc7 30.Kb2 Bc8 31.Nf5 Qh2+ 32.Kb1 Bxf5 33.exf5 Qe5 34.Kb2 Qxf5 35.Rd6 h3
+36.Rd1 Qf4 37.Rh1 Qg3 38.Rc2 Qxf3 39.Rch2 Kg8 40.Rxh3 Qf2+ 41.Kb3 f5 42.Rh8+ Kf7
+43.Rc1 Qd2 44.Rc3 f4 45.Rb8 Qd5+ 46.Ka4 Qd4+ 47.Kb3 Qd5+ 48.Ka4 g5 49.Rb7+ Kg6
+50.Rbb3 g4 51.Rb4 Kg5 52.Rcc4 Qd1+ 53.Ka5 g3 54.Rd4 Qxd4  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.24"]
+[Round "3"]
+[White "Illescas Cordoba,M"]
+[Black "Laznicka,V"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2596"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.c3 c5 8.Be3 Qc7
+9.Ne5 a6 10.Qa4+ Bd7 11.Nxd7 Nxd7 12.g3 O-O-O 13.Bg2 Nb6 14.Qb3 Nd5 15.Bd2 c4
+16.Qc2 h5 17.O-O h4 18.b3 Kb8 19.Rfb1 hxg3 20.hxg3 Rc8 21.Qe4 Bd6 22.Qf3 Qe7
+23.Bf1 Nb6 24.a4 a5 25.bxc4 Nxc4 26.Bxc4 Rxc4 27.Rb5 Rhc8 28.Rxa5 Qd7 29.Rb1 R8c7
+30.Rb6 R7c6 31.Rxc6 Rxc6 32.Rh5 Ra6 33.Rh7 f5 34.Bf4 Rxa4 35.Bxd6+ Qxd6 36.Rxg7 Ra1+
+37.Kg2 Qa6 38.c4 Rb1 39.Qf4+ Ka7 40.d5 exd5 41.Qe3+ Qb6 42.Qa3+ Qa6 43.Qc5+ Qb6
+44.Qxd5 f4 45.gxf4 Rb2 46.c5 Qf6 47.Rg3 Re2 48.f5 Qb2 49.Qf3 Re7 50.f6 Rf7
+51.Qa3+ Qxa3 52.Rxa3+ Kb8 53.Rf3 Kc7 54.Kg3 Kd7 55.Kg4 Ke8 56.Kf5 Rc7 57.Re3+ Kf8
+58.Re5 Rd7 59.Kg6 Rd1 60.f7  1-0
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.24"]
+[Round "3"]
+[White "Morozevich,A"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2747"]
+[BlackElo "2720"]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Bd2 Nb6 6.Nf3 Bg7 7.Rc1 O-O 8.Bg5 h6
+9.Bh4 g5 10.Bg3 c5 11.d5 e6 12.d6 Nd5 13.h4 g4 14.Ne5 Qxd6 15.e4 f5 16.exf5 Bxe5
+17.Nb5 Qc6 18.Bxe5 exf5 19.Nd6 Nb6 20.f3 Be6 21.Bb5 Qd5 22.Qe2 N8d7 23.Bf4 gxf3
+24.gxf3 Kh7 25.Rd1 Qxa2 26.Kf2 Rf6 27.Rhg1 Raf8 28.Be5 Nxe5 29.Qxe5 Nd7 30.Bxd7 Bxd7
+31.Ne4 fxe4 32.Rxd7+ Kh8 33.Rg6  1-0
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.24"]
+[Round "3"]
+[White "Korneev,O"]
+[Black "Jakovenko,D"]
+[Result "0-1"]
+[WhiteElo "2657"]
+[BlackElo "2671"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 Ne7 13.Ncb4 O-O 14.a4 bxa4 15.Qxa4 Nxd5
+16.Nxd5 Bd7 17.Qc2 a5 18.Bc4 a4 19.O-O Qa5 20.Nb4 Qc5 21.Bd5 Ra7 22.Nd3 Qb6
+23.Rfd1 Kh8 24.c4 Qb8 25.Qc3 Rc8 26.c5 Bb5 27.c6 Bd8 28.Rac1 Bb6 29.Qa3 h6
+30.g3 Bd4 31.Rc2 Qc7 32.Kg2 Ra6 33.Rdc1 Rb6 34.Nb4 Rcb8 35.Ba2 Bc5 36.Nd5 Qxc6
+37.Nxb6 Qxe4+ 38.Qf3 Qxf3+ 39.Kxf3 Rxb6 40.Bxf7 Bc6+ 41.Ke2 g5 42.Rd1 Be4
+43.Rxc5 dxc5 44.Rd2 Rb4 45.Ke3 Bf5 46.f3 Kg7 47.Bd5 Kf6 48.g4 Bg6 49.h3 Rd4
+50.Bc6 Ke6 51.Ke2 Bb1 52.Ke3 Ba2 53.Rc2 Kd6 54.Be4 Bb1 55.Rf2 Bxe4 56.fxe4 c4
+57.Rf6+ Kc5 58.Rxh6 Rd3+ 59.Ke2 Rb3 60.Kd2 Rxb2+ 61.Kc3 Rb3+ 62.Kc2 Rg3 63.Rg6 a3
+64.Rxg5 Rg1 65.Rxe5+ Kb4 66.Re8 a2 67.Rb8+ Kc5  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.26"]
+[Round "4"]
+[White "Illescas Cordoba,M"]
+[Black "Korneev,O"]
+[Result "1/2-1/2"]
+[WhiteElo "2620"]
+[BlackElo "2657"]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bd6
+9.O-O O-O 10.a3 Bb7 11.Bd2 a5 12.Ng5 Qb8 13.h3 h6 14.Nge4 Nxe4 15.Nxe4 c5
+16.Rc1 c4 17.Bb1 Be7  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.26"]
+[Round "4"]
+[White "Jakovenko,D"]
+[Black "Wojtaszek,R"]
+[Result "1-0"]
+[WhiteElo "2671"]
+[BlackElo "2630"]
+[ECO "E12"]
+
+1.c4 b6 2.Nc3 Bb7 3.Nf3 Nf6 4.d4 e6 5.a3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 Be7
+9.e4 O-O 10.Bd3 c5 11.O-O Qc7 12.Qe2 Nd7 13.Bb2 Rac8 14.Nd2 Nf6 15.f4 b5
+16.Kh1 g6 17.Rae1 c4 18.Bc2 a5 19.Rf3 Nh5 20.Qe3 b4 21.g4 Nf6 22.Rg1 bxa3
+23.Ba1 Rfe8 24.h4 Bf8 25.h5 Bg7 26.Rf2 Kh8 27.hxg6 fxg6 28.Kh2 Rf8 29.e5 Nd5
+30.Qg3 Qe7 31.g5 Nb4 32.cxb4 axb4 33.Qh3 Kg8 34.Ne4 Bxe4 35.Bxe4 c3 36.Kg2 Rc4
+37.Qd3 Qc7 38.d5 Qc5 39.dxe6 Rd4 40.Qe3 Qc4 41.Re1 Re8 42.Bc2 Rd2 43.Rxd2 cxd2
+44.Qxd2 b3 45.Be4 b2 46.Bxb2 axb2 47.Qd7 Rxe6 48.Bd5 Qc2+ 49.Kg1  1-0
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.26"]
+[Round "4"]
+[White "Laznicka,V"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2596"]
+[BlackElo "2720"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.c4 c6
+9.cxd5 cxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Qh5 g6 13.Qxd5 Qc7 14.Qf3 Bxh2+ 15.Kh1 Bd6
+16.c4 Rfe8 17.c5 Bf8 18.Be4 Bc6 19.d5 Bb5 20.d6 Qxc5 21.Bd5 Bg7 22.Ba3 Qd4
+23.Bxf7+ Kh8 24.Bxe8 Rxe8 25.Rad1 Qh4+ 26.Kg1 Bxf1 27.d7 Rd8 28.Re1 Qa4 29.Qf7 Be2
+30.Rxe2 Qd1+ 31.Kh2 Qxe2 32.Be7 Qh5+ 33.Kg3 Qe5+ 34.f4 Qe3+ 35.Kh2 Rg8 36.Qxg8+ Kxg8
+37.d8=Q+ Kf7 38.Bd6 Bd4 39.Qd7+ Kf6 40.Qxh7 Qg1+ 41.Kg3 Qe1+ 42.Kh2 Bg1+
+43.Kh3 Qe6+ 44.g4 Qxd6  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.26"]
+[Round "4"]
+[White "Bauer,Ch"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2747"]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 Bg4 3.f3 Bh5 4.e3 e6 5.c4 Bb4+ 6.Nc3 Ne7 7.Rc1 c5 8.dxc5 O-O
+9.Ne2 Nd7 10.cxd5 Nxd5 11.Kf2 Nxc3 12.Nxc3 Bxc5 13.Ne4 Bb6 14.Bc4 h6 15.Qd6 e5
+16.Bxe5 Rc8 17.Bd4 Rc6 18.Bxb6 Rxb6 19.Qd4 Qh4+ 20.g3 Qe7 21.Be2 Ne5 22.Rc5 Re6
+23.Rd1 Nxf3 24.Bxf3 Bxf3 25.Kxf3 Rxe4 26.Qxe4 Qxc5 27.Kg2 Qb5 28.Rd2 Re8
+29.Qf3 b6 30.b3 Re7 31.Rd8+ Kh7 32.e4 Qc6 33.Qf5+ g6 34.Qd5 Qc2+ 35.Kh3 Qf2
+36.Qd4 Qf1+ 37.Kh4 g5+ 38.Kg4 f5+ 39.exf5 Qe2+ 40.Kh3 Qh5+ 41.Kg2 Re2+  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.27"]
+[Round "5"]
+[White "Shirov,A"]
+[Black "Bauer,Ch"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2585"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 c6 6.Bd2 Bf5 7.Bc4 e6 8.Nd5 Qd8
+9.Nxf6+ Qxf6 10.Qe2 Bg4 11.d5 Bxf3 12.gxf3 cxd5 13.Bxd5 Nd7 14.O-O-O O-O-O
+15.Be4 Qe5 16.Bc3 Qc7 17.Kb1 f6 18.f4 Bd6 19.f5 exf5 20.Bxf5 Kb8 21.h4 Nb6
+22.h5 Na4 23.Bd4 Bc5 24.c3 Qb6 25.Qc2 Bxd4 26.cxd4 Rxd4 27.Rxd4 Qxd4 28.Rc1 a6
+29.b3 Nb6 30.Qc7+ Ka7 31.Qxg7 Re8 32.Qg4 Qxf2 33.Bxh7 Re2 34.Bc2 Nd5 35.Qc4 Nb6
+36.Qg4 Nd5 37.Qc4 Nb6 38.Qd3 Rd2 39.Qf5 Qxf5 40.Bxf5 Rh2 41.Bg4 f5 42.Bf3 Rh3
+43.Rh1 Rxf3 44.h6 Re3 45.h7 Re8 46.h8=Q Rxh8 47.Rxh8 Nd5 48.Rf8 f4 49.Rf5 Nc3+
+50.Kb2 Ne2 51.Rf6 a5 52.Kc2 f3 53.Kd2 Ng1 54.Ke3 Ne2 55.Kd2 Ng1 56.Kd3 b6
+57.Kc4 Kb7 58.Kb5 Kc7 59.Rf7+ Kd6 60.Kxb6 Ke5 61.Kxa5 Ke4 62.b4 Nh3 63.b5 f2
+64.b6 Nf4 65.b7 f1=Q 66.b8=Q Kd5 67.Rf5+  1-0
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.27"]
+[Round "5"]
+[White "Morozevich,A"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2747"]
+[BlackElo "2671"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.e4 Nc6
+9.Bd3 Ng4 10.O-O Qc7 11.Nb5 Qb8 12.h3 Nge5 13.Nxe5 Nxe5 14.Be2 a6 15.Nc3 Qc7
+16.Kh1 Bb7 17.f4 Nc6 18.Bd3 Nd4 19.Qd1 f5 20.b4 Be7 21.Bb2 fxe4 22.Bxe4 Nf5
+23.Qd3 Bxe4 24.Nxe4 Rac8 25.Rac1 Qb7 26.Kh2 d5 27.cxd5 Qxd5 28.Qe2 Rxc1 29.Rxc1 Nd6
+30.Rc7 Rf7 31.Nc3 Qf5 32.Bc1 b5 33.Rc6 Bf8 34.Rxa6 Rc7 35.Bd2 Nc4 36.Be1 Rd7
+37.Nxb5 Nd6 38.Nc3 Qxf4+ 39.Bg3 Qc4 40.Ra8 Qxe2 41.Nxe2 Kf7 42.Nd4 Nc4 43.Nc6 Bd6
+44.Bxd6 Rxd6 45.b5 Rd5 46.a4 e5 47.Ra7+ Ke6 48.Rxg7 Kd6 49.Rxh7 e4 50.Rh4 Nd2
+51.Rh6+ Kc5 52.Re6 e3 53.g4 Rd3 54.Kg3 Ra3 55.Kf4 Nf1 56.Re4 Ra2 57.Nd4 Rf2+
+58.Ke5 Nd2 59.Ne6+ Kb6 60.Rxe3 Nc4+ 61.Kd4 Nxe3 62.Kxe3 Ra2 63.g5 Ra3+ 64.Kf4 Rxh3
+65.g6 Rh8 66.g7 Rg8 67.Ke5 Ka5 68.Kf6 Kxa4 69.Nd4 Rd8 70.Ke7 Rxd4 71.g8=Q Kxb5
+72.Qc8 Rd5 73.Ke6 Rd4 74.Ke5 Rd3 75.Qc2 Rd8 76.Qb3+ Kc5 77.Qc3+ Kb5 78.Ke6 Kb6
+79.Qc4 Rg8 80.Qd4+ Kc6 81.Qc3+ Kb5 82.Kd6 Rg6+ 83.Kc7 Rg4 84.Qc6+ Kb4 85.Qd6+ Kc3
+86.Kc6 Rd4 87.Qa3+ Kd2 88.Kc5 Re4 89.Kd5 Rg4 90.Qf3 Rb4 91.Kc5 Ra4 92.Qf6 Kd3
+93.Qd6+ Ke3 94.Qg3+ Ke2 95.Qc3 Rf4 96.Kd5 Rg4 97.Ke5 Rh4 98.Kf5 Kf2 99.Qd3 Rh7
+100.Qd4+ Kf3 101.Kg5 Rh2 102.Qf4+ Kg2 103.Kg4 Kg1 104.Qd4+ Kg2 105.Qd3 Kg1
+106.Qe3+ Kf1 107.Qc1+ Kf2 108.Qd2+ Kg1 109.Qe1+ Kg2 110.Qg3+ Kh1 111.Kf3 Rf2+
+112.Ke3 Re2+ 113.Kd3 Rd2+ 114.Kxd2  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.27"]
+[Round "5"]
+[White "Wojtaszek,R"]
+[Black "Illescas Cordoba,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2620"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.a3 c5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.dxc5 Nxc5 11.Be5 Bf6 12.Be2 Bxe5 13.Nxe5 Be6 14.Nf3 Qb6 15.b4 Ne4
+16.Qd4 Rfc8 17.Bd3 Qxd4 18.Nxd4  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.27"]
+[Round "5"]
+[White "Korneev,O"]
+[Black "Laznicka,V"]
+[Result "0-1"]
+[WhiteElo "2657"]
+[BlackElo "2596"]
+[ECO "B44"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.Bf4 e5 7.Be3 Nf6 8.Bg5 Be6
+9.Bxf6 gxf6 10.Nd2 a6 11.Nc3 f5 12.Bc4 Qg5 13.g3 h5 14.Nd5 O-O-O 15.c3 Bh6
+16.Ne3 fxe4 17.Nxe4 Qg6 18.Qa4 Bxc4 19.Qxc4 Bxe3  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.28"]
+[Round "6"]
+[White "Laznicka,V"]
+[Black "Bauer,Ch"]
+[Result "0-1"]
+[WhiteElo "2596"]
+[BlackElo "2585"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7 4.g4 h6 5.h3 e5 6.Bg2 c6 7.Nge2 b5 8.a3 Bb7 9.Be3 a5
+10.Ng3 g6 11.f4 Bg7 12.dxe5 dxe5 13.f5 Qc7 14.Qf3 Nb6 15.b3 Nfd7 16.O-O Bf6
+17.h4 O-O-O 18.g5 hxg5 19.hxg5 Be7 20.Qf2 Ba6 21.Rfc1 Kb7 22.a4 b4 23.Nd1 Rh4
+24.Ne2 Rg4 25.f6 Bc5 26.c3 Qd6 27.cxb4 Bxb4 28.Ndc3 Nc5 29.Rd1 Nd3 30.Qf3 Bc5
+31.Ra2 Rxg5 32.Rad2 Ne1 33.Rxd6 Nxf3+ 34.Kf2 Rxd6 35.Rxd6 Rxg2+ 36.Kxg2 Bxd6
+37.Kxf3 Nd7 38.Kg4 Nxf6+ 39.Kg5 Be7  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.28"]
+[Round "6"]
+[White "Jakovenko,D"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2671"]
+[BlackElo "2720"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Na5 11.Ba2 c5 12.Nc3 Nc6 13.Nd5 Nxd5 14.Bxd5 Qc7 15.c3 Na5
+16.Bxb7 Qxb7 17.b4 Nc6 18.Qb3 a5 19.Be3  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.28"]
+[Round "6"]
+[White "Illescas Cordoba,M"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2620"]
+[BlackElo "2747"]
+[ECO "E17"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Bd2 f5 8.d5 Bf6
+9.Qc2 Qe7 10.Rd1 Na6 11.a3 Bxc3 12.Bxc3 exd5 13.Nh4 O-O 14.cxd5 Rae8 15.Bd4 c5
+16.dxc6 dxc6 17.Bxe4 fxe4 18.Qb3+ Kh8 19.Qe3 Nc7 20.Bc3 c5 21.Ng2 Nd5 22.Rxd5 Bxd5
+23.Nf4 Bf7 24.h4 Kg8 25.b4 Rd8 26.O-O Rd7 27.Rc1 Rfd8 28.Kg2 Rd1 29.Rxd1 Rxd1
+30.Nd3 cxb4 31.axb4 h6 32.Ne5 Bd5 33.Ng6 Qf7 34.h5 Kh7 35.g4 Bb7 36.Be5 Bc8
+37.Kh3 Rg1 38.Bg3 Qd5 39.Kh2 Rd1 40.Ne7 Qe6 41.Nxc8 Qxg4 42.Kg2 Qxc8 43.Qxe4+ Kg8
+44.Be5 Qd8 45.f3 Qg5+ 46.Bg3 Qxh5 47.Qc4+ Qd5 48.Qc8+ Kh7 49.Qc2+ Kh8 50.Be5 Rd2
+51.Qc8+ Kh7 52.Qf5+ g6  0-1
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.28"]
+[Round "6"]
+[White "Korneev,O"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2657"]
+[BlackElo "2630"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.c3 Bg4 8.h3 Bxf3
+9.Qxf3 Qd5 10.Be2 Qxf3 11.Bxf3 e6  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.29"]
+[Round "7"]
+[White "Bauer,Ch"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2671"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.h3 e6 6.c5 b6 7.cxb6 Nbd7 8.Bf4 Nxb6
+9.e3 c5 10.Ne5 Bb7 11.Bd3 Be7 12.dxc5 Bxc5 13.Na4 Bd6 14.Qb3 Nxa4 15.Qxa4+ Ke7
+16.Rc1 Rc8 17.O-O Qb6 18.Rc3 Rxc3 19.bxc3 Qc7 20.Rb1 Ba8 21.Qd4 Rd8 22.Rb6 a5
+23.Ra6 Bb7 24.Ra7 Ne4 25.Bxe4 dxe4 26.Qc4 Rd7 27.Qb5 Bxe5 28.Bxe5 Qc6 29.Qxa5 f6
+30.Qb4+ Kf7 31.Bd4 Ba6 32.a4 Rxa7 33.Bxa7 Qc4 34.Qd6 Qxa4 35.Bc5 Qa1+ 36.Kh2 Qxc3
+37.Qd7+ Kg6 38.Bf8 Qe5+ 39.g3 f5 40.Qe8+ Kh6 41.Qe7 Kg6 42.Qe8+ Kh6 43.h4 Qf6
+44.Be7 Bb5 45.Bxf6 Bxe8  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.29"]
+[Round "7"]
+[White "Morozevich,A"]
+[Black "Korneev,O"]
+[Result "1-0"]
+[WhiteElo "2747"]
+[BlackElo "2657"]
+[ECO "D48"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
+9.e4 c5 10.d5 Qc7 11.O-O Bb7 12.Bc2 O-O-O 13.Ng5 Ne5 14.f4 Nc4 15.b3 Nb6
+16.f5 h6 17.Nxf7 Qxf7 18.fxe6 Qc7 19.Bf4 Bd6 20.Bxd6 Qxd6 21.Rf5 Qc7 22.a4 b4
+23.a5 bxc3 24.axb6 Qxb6 25.Kh1 Rhe8 26.Qf1 Kb8 27.Rd1 Ka7 28.h3 Qb4 29.Ra1 Nxe4
+30.Bxe4 Qxe4 31.Rf7 Qxd5 32.Rxa6+ Kb8 33.Qf4+ Rd6 34.Rxb7+ Kxb7 35.Rxd6 Qxb3
+36.Qf7+  1-0
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.29"]
+[Round "7"]
+[White "Wojtaszek,R"]
+[Black "Laznicka,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2596"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.c5 Nbd7 6.Bf4 Nh5 7.Bd2 Nhf6 8.Rc1 g6
+9.h3 Qc7 10.g3 Bg7 11.Bf4 Qd8 12.Bg2 Nh5 13.Bg5 O-O 14.e4 dxe4 15.Nxe4 h6
+16.Bd2 Nhf6 17.Nc3 Re8 18.O-O e5 19.dxe5 Nxe5 20.Nxe5 Rxe5 21.Na4 Bxh3 22.Bxh3 Rd5
+23.Rc2 Ne4 24.Nb6 Nxd2 25.Nxd5 Nxf1 26.Kxf1 Qxd5 27.Qxd5 cxd5 28.Bg2 Rd8
+29.b4 Kf8 30.Ke2 Ke7 31.Kd3 Rd7 32.Bh3 Rc7 33.a4 Kd8 34.b5 axb5 35.axb5 b6
+36.c6 Ra7 37.Bg2 d4 38.Bd5 f5 39.Bb3 Ra3 40.Kc4 Bf8 41.Re2 Bc5 42.Re6 Ra1
+43.Rxg6 Rc1+ 44.Kd5 Rc3 45.Bd1 d3 46.Rg8+ Kc7 47.Rg7+ Kc8 48.Ke5 Bxf2 49.Kxf5 d2
+50.Kf4 Be3+ 51.Ke4 Bf2 52.Rd7 Re3+ 53.Kf4 Rc3 54.Ke4 Re3+ 55.Kf4 Rc3 56.Bg4 Kb8
+57.Ke4 Re3+ 58.Kd5 Bxg3 59.Rd8+ Ka7 60.Kd4 Re1 61.Kc3 Bf4 62.Kb2 Rc1 63.Rd7+ Kb8
+64.Rd8+ Ka7 65.Rd7+ Kb8 66.Rd8+  1/2-1/2
+
+[Event "XVI Magistral A"]
+[Site "Pamplona ESP"]
+[Date "2006.12.29"]
+[Round "7"]
+[White "Shirov,A"]
+[Black "Illescas Cordoba,M"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2620"]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Qc7 7.O-O Nf6 8.Be3 d6
+9.f4 Bd7 10.g4 h5 11.g5 Ng4 12.Bxg4 hxg4 13.g6 O-O-O 14.gxf7 Rh3 15.f5 d5
+16.Bf4 Qb6 17.fxe6 Bxe6 18.Na4 Qa7 19.c3 dxe4 20.Kg2 Rxd4 21.cxd4 Rd3 22.d5 Rxd1
+23.Raxd1 e3 24.Rfe1 b5 25.dxe6 bxa4 26.Rd7 Qb6 27.Rxe3 Qxb2+ 28.Kg3 g5 29.Bxg5 Nd4
+30.Rd8+ Kb7 31.Rxd4 Qxd4 32.e7 Qh8 33.e8=Q Qh3+ 34.Kf4 Bd6+ 35.Kf5  1-0

@@ -1,0 +1,614 @@
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.29"]
+[Round "1"]
+[White "Adams,Mi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2761"]
+[ECO "C91"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d4 d6
+9.c3 Bg4 10.d5 Na5 11.Bc2 c6 12.h3 Bc8 13.dxc6 Qc7 14.Nbd2 Qxc6 15.Nf1 Nc4
+16.a4 Re8 17.Ng3 Be6 18.Ng5 Bd7 19.b3 Na5 20.Bd2 Bd8 21.Nh5 h6 22.Nxf6+ Bxf6
+23.Nf3 Qc7 24.axb5 axb5 25.Bd3 Be6 26.Ra3 Qb7 27.Nh2 Bg5 28.Bxg5 hxg5 29.b4 Nc4
+30.Rxa8 Qxa8 31.Bxc4 Bxc4 32.Qxd6 Qd8 33.Rd1 Qxd6 34.Rxd6 Ra8 35.Ng4 f6 36.Ne3 Ra3
+37.Nd5 Ra1+ 38.Kh2 Ra2 39.Kg3 Rc2 40.Rd7 Bxd5 41.Rxd5 Rxc3+ 42.f3 Rb3 43.Rxb5 Kf7
+44.Rb7+ Ke6 45.b5 Rb2 46.b6 Kd6 47.Rb8 Kc6 48.Rg8 Rxb6 49.Rxg7 Kd6 50.Kg4 Rb2
+51.Kf5 Rxg2 52.Rf7 Rg3 53.Rxf6+ Ke7 54.Re6+ Kf7 55.Rxe5 Rxf3+ 56.Kg4 Re3
+57.Rf5+ Ke6 58.Rxg5  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.29"]
+[Round "1"]
+[White "Leko,P"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2664"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 c5 5.Bxb4 cxb4 6.Bg2 O-O 7.Nf3 d6 8.O-O Nc6
+9.d5 exd5 10.cxd5 Ne7 11.Nh4 Qb6 12.e4 Bg4 13.Qb3 a5 14.h3 a4 15.Qd3 Bd7
+16.Re1 Rfc8 17.Nf3 Ng6 18.Nbd2 a3 19.Rab1 Ba4 20.Qd4 Qxd4 21.Nxd4 Bc2 22.Rbc1 Bd3
+23.Rxc8+ Rxc8 24.bxa3 bxa3 25.f4 h5 26.Re3 Ba6 27.Kf2 h4 28.Bf3 Rc1 29.e5 dxe5
+30.fxe5 Nd7 31.e6 fxe6 32.dxe6 Nde5 33.e7 Rc8 34.Bh5  1-0
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.29"]
+[Round "1"]
+[White "Jobava,Ba"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2651"]
+[BlackElo "2742"]
+[ECO "D80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 dxc4 7.e3 Qd5 8.Be2 Bg7
+9.Nf3 Nd7 10.O-O Nb6 11.a4 a5 12.Nd2 Qc6 13.Qc2 e5 14.Bf3 Qe6 15.Ne4 O-O
+16.Nc5 Qe8 17.Bxb7 Bxb7 18.Nxb7 Qc6 19.Nc5 Rfe8 20.Rab1 Nc8 21.Nb7 Nb6 22.Nc5 Nc8
+23.Rfd1 Nd6 24.Bg3 h5 25.Qb2 Bf6 26.h3 Re7 27.Qa3 Nf5 28.d5 Qd6 29.Bh2 Ree8
+30.e4 Ng7 31.Rd4 Rab8 32.Ra1 Be7 33.Rxc4 c6 34.Qa2 cxd5 35.Rd1 Qb6 36.Nd7 Qb7
+37.Bxe5 dxc4 38.Bxb8 Rxb8 39.Nxb8 Qxb8 40.Qxc4 Ne6 41.Qb5 Qf4 42.Qe8+ Bf8
+43.Rd7 h4 44.Ra7 Ng7 45.Qd8 Qxe4 46.Qd1 Qe5 47.Qd2 Nf5 48.Kf1 Kg7 49.Qd3 Qf4
+50.Qf3 Qc4+ 51.Ke1 Nd4 52.Qd1 Qxc3+ 53.Kf1 Bc5 54.Rc7 Ne6 55.Rb7 Nf4 56.Kg1 Bxf2+  0-1
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.29"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2743"]
+[ECO "D48"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.O-O a6 10.a4 b4 11.Nb1 c5 12.Nbd2 Bd6 13.Qe2 Qb8 14.Nc4 Bc7 15.h3 O-O 16.a5 Ne4
+17.Rd1 Rd8 18.Bd2 Bd5 19.Be1 Qb7  1/2-1/2
+
+[Event "Match"]
+[Site "Dortmund GER"]
+[Date "2006.07.29"]
+[Round "1"]
+[White "Paehtz,E"]
+[Black "Krush,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2456"]
+[BlackElo "2436"]
+[ECO "B57"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Na5 7.Be2 e6 8.g4 a6
+9.g5 Nd7 10.h4 Qc7 11.f4 b5 12.a3 Nc4 13.h5 Bb7 14.Rh3 Qc5 15.Bg4 e5 16.Bxd7+ Kxd7
+17.fxe5 Re8 18.Be3 Qxe5 19.Qg4+ Kc7 20.O-O-O Nxe3 21.Rxe3 Be7 22.Nf3 Qe6
+23.Qg1 Kb8 24.Nd5 Bd8 25.Nd4 Qe5 26.Nf3 Qe6 27.Nd4 Qe5 28.Nf3 Qe6  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.30"]
+[Round "2"]
+[White "Naiditsch,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2729"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Nbd7 8.Qf3 Qc7
+9.O-O-O b5 10.Bxb5 axb5 11.Ndxb5 Qb8 12.e5 Bb7 13.Qe2 dxe5 14.Qc4 Be7 15.Nc7+ Kf8
+16.Rxd7 Nxd7 17.Rd1 Bd5 18.N3xd5 exd5 19.Qxd5 Bxg5 20.fxg5 Rxa2 21.Qxa2 Qxc7
+22.Qa3+ Ke8 23.Rd3 Kd8 24.Qa8+ Qc8 25.Qa5+ Qc7 26.Qa8+ Qc8 27.Qa5+  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.30"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2738"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Nbd7
+9.g4 Nb6 10.g5 Nh5 11.Qd2 Be7 12.O-O-O O-O 13.Rg1 Rc8 14.Kb1 Qc7 15.Qf2 Nc4
+16.Bxc4 Qxc4 17.Nd2 Qc7 18.Nf1 f5 19.gxf6 Nxf6 20.Rd3 Rf7 21.Bg5 Nh5 22.Bxe7 Qxe7
+23.Ne3  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.30"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2743"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 Qf6
+8.O-O Ne7 9.e5 Qg6 10.Nxd4 Nbc6 11.Nxc6 Nxc6 12.f4 O-O 13.Nf3 Bg4 14.Bd3 Qh6
+15.Qa4 Rad8 16.Be4 Bxf3 17.Rxf3 Rd4 18.Qc2 Nb4 19.Qe2 Qb6 20.Kh1 Rfd8 21.Raf1 Rd2
+22.Qe1 Qd4 23.e6 Rd1 24.Qxd1 Qxd1 25.e7 Qxf1+ 26.Rxf1 Re8 27.Rd1 f5 28.Bxf5 Rxe7
+29.g3 g6 30.Bb1 c6 31.a3 Nd5 32.Bd3 Kg7 33.Kg1 Ne3 34.Re1 Kf6 35.h3 Nf5 36.Rxe7 Nxe7
+37.Kf2 h6 38.Ke3 b6 39.b4 Nf5+ 40.Bxf5 Kxf5 41.g4+ Ke6 42.Kd4 h5 43.a4  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.07.30"]
+[Round "2"]
+[White "Adams,Mi"]
+[Black "Jobava,Ba"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2651"]
+[ECO "B14"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6
+9.Be2 Nce7 10.O-O Bd7 11.Nxd5 Nxd5 12.Ne5 Bd6 13.Qb3 Qb6 14.Qf3 Bxe5 15.dxe5 O-O
+16.Qg4 Ne7 17.Be3 Qxb2 18.Rab1 Qxa2 19.Rxb7 Ng6 20.Rxd7 Nxe5 21.Rd2 Qxd2
+22.Bxd2 Nxg4 23.Bxg4 a5  1/2-1/2
+
+[Event "Match"]
+[Site "Dortmund GER"]
+[Date "2006.07.30"]
+[Round "2"]
+[White "Krush,I"]
+[Black "Paehtz,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2436"]
+[BlackElo "2456"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 b5 6.e4 bxc4 7.Bxc4 Nxd5 8.Bxd5 exd5
+9.Qxd5 Nc6 10.Ne2 Ba6 11.Kf2 O-O 12.Rd1 Re8 13.Bf4 Bxc3 14.bxc3 Qf6 15.Bd6 Rac8
+16.Bxc5 Re5 17.Qd6 Rxe4 18.Nd4 Qxd6  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.01"]
+[Round "3"]
+[White "Leko,P"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2732"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Nc6 6.Qa4 Bb4+ 7.Bd2 Nd5 8.Bxb4 Nxb4
+9.a3 b5 10.Qxb5 Nc2+ 11.Kd2 Bd7 12.Kxc2 Nxd4+ 13.Nxd4 Bxb5 14.Nxb5 Rb8 15.Rd1 Qg5
+16.Bc6+ Kf8 17.N1c3 Qc5 18.Bf3 g6 19.Nd4 Kg7 20.Rd2 Rhd8 21.Rad1 Qb6 22.Na4 Qa5
+23.Nc3 Qb6 24.Na4 Qa5 25.Nc3 Qb6  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.01"]
+[Round "3"]
+[White "Gelfand,B"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2742"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 b6 10.O-O Bb7 11.Qd3 e6 12.Bg5 Qc7 13.Qe3 Nd7 14.e5 Rae8 15.Nd2 f6
+16.exf6 cxd4 17.cxd4 Nxf6 18.Rbc1 Qd7 19.Nc4 Nd5 20.Qd2 h6 21.Be3 Nxe3 22.fxe3 e5
+23.Rxf8+ Rxf8 24.dxe5 Qxd2 25.Nxd2 Bxe5 26.Bf3 Rc8 27.Rd1 Ba6 28.Bd5+ Kg7
+29.Nf3 Be2  1/2-1/2
+
+[Event "Match"]
+[Site "Dortmund GER"]
+[Date "2006.08.01"]
+[Round "3"]
+[White "Paehtz,E"]
+[Black "Krush,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2456"]
+[BlackElo "2436"]
+[ECO "B57"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Na5 7.Bb5+ Bd7 8.Qe2 Rc8
+9.Nb3 a6 10.Bd3 e5 11.Bd2 Nxb3 12.axb3 Be6 13.O-O Be7 14.Nd1 O-O 15.c4 Nd7
+16.Ba5 Qe8 17.Ne3 Bd8 18.Bc3 Bb6 19.Nf5 Bxf5 20.exf5 Nf6 21.b4 Qc6 22.c5 dxc5
+23.bxc5 Bxc5 24.Qxe5 Qb6 25.Ra4 Rfe8 26.Qg3 Bd6 27.Qf3 Be5 28.Bxe5 Rxe5 29.Rb1 h6
+30.g3 Rd5 31.Rc4 Rxc4 32.Bxc4 Rd2 33.b3 Qd4 34.Re1 b5 35.Bf1 Qd5  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.01"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2664"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Nc6 6.Qa4 Nd7 7.Qxc4 Nb6 8.Qb5 Bd7
+9.Qb3 Na5 10.Qd3 c5 11.dxc5 Bxc5 12.Qc3 Rc8 13.Qxg7 Bf8 14.Qg5 Qxg5 15.Bxg5 Bg7
+16.Nbd2 h6 17.Bf4 Bxb2 18.Rb1 Nd5 19.Bd6 Bg7 20.Ne5 Nc3 21.Rc1 Nxa2 22.Rxc8+ Bxc8
+23.O-O Nc3 24.Ra1 Nb5 25.Rxa5 Nxd6 26.Nec4 Ke7 27.Rxa7 Bd4 28.Ra8 Nxc4 29.Nxc4 b5
+30.e3 Bd7 31.exd4 Rxa8 32.Bxa8 bxc4 33.Kf1 Kd6 34.Ke2 Bc6 35.Bxc6 Kxc6 36.Kd2 Kd5
+37.Kc3 Ke4 38.Kxc4 Kf3 39.d5 exd5+ 40.Kxd5 Kxf2 41.Ke5 Kg2 42.Kf6 Kxh2 43.Kxf7 Kxg3
+44.Kg6  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.01"]
+[Round "3"]
+[White "Jobava,Ba"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2651"]
+[BlackElo "2761"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bb4 7.d4 Bxc3+ 8.bxc3 e4
+9.Bg2 h6 10.Qc2 O-O 11.Bxe4 Nxe4 12.Qxe4 Re8 13.Qf3 Qe7 14.Be3 Rb8 15.a4 b6
+16.a5 Ba6 17.axb6 Rxb6 18.O-O Bxc4 19.Rxa7 Rf6 20.Qg4 Rg6 21.Qf3 Rf6  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.02"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2664"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 O-O 6.Bg2 cxd4 7.Nxd4 d5 8.cxd5 Nxd5
+9.Qb3 Qb6 10.Bxd5 exd5 11.Be3 Bh3 12.g4 Na6 13.a3 Qa5 14.Rc1 Bxc3+ 15.Rxc3 Nc5
+16.Qb4 Qxb4 17.axb4 Na4 18.Ra3 Nxb2 19.Bc1 Bg2 20.Rg1 Nc4 21.Rxg2 Nxa3 22.Bxa3 Rfc8
+23.Rg3 g6 24.g5 Rc4 25.Rd3 a6 26.Kd2 Rac8 27.e3 h6 28.gxh6 Kh7 29.Rb3 Kxh6
+30.Bb2 Kh5 31.Bc3 Kg4 32.Kd3 Kh3 33.Ne2 Kxh2 34.Rb1 g5 35.f4 g4 36.Be1 Kg2
+37.Bg3 Rc1 38.Nxc1 Kxg3 39.Ne2+ Kf2 40.Rb2 g3 41.f5 Re8 42.Nd4+ Kf1 43.Nf3 g2
+44.Nh2+ Kg1 45.Nf3+  1/2-1/2
+
+[Event "Match"]
+[Site "Dortmund GER"]
+[Date "2006.08.02"]
+[Round "4"]
+[White "Krush,I"]
+[Black "Paehtz,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2436"]
+[BlackElo "2456"]
+[ECO "E26"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.a3 Bxc3+ 6.bxc3 Nc6 7.Bd3 b6 8.e4 cxd4
+9.cxd4 e5 10.dxe5 Nxe5 11.Bb2 Qe7 12.f3 Ba6 13.Ne2 O-O 14.Rc1 Rfc8 15.Ng3 d5
+16.Nf5 Qe6 17.cxd5 Nxd3+ 18.Qxd3 Rxc1+ 19.Bxc1 Bxd3 20.dxe6 fxe6 21.Nd4 Kf7
+22.Kd2 Ba6 23.Nc6 Bb5 24.Ne5+ Ke7 25.Bb2 Rd8+  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.02"]
+[Round "4"]
+[White "Adams,Mi"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2729"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 g6 7.Be2 Bg7 8.O-O O-O
+9.Be3 Nc6 10.Qd2 Nxd4 11.Bxd4 Be6 12.a5 Rc8 13.Bd3 Bc4 14.Rfd1 Qc7 15.h3 Rfe8
+16.Bxc4 Qxc4 17.Ra4 Qc6 18.Rb4 Qc7 19.Rb6 Nd7 20.Nd5 Qb8 21.Rb4 Ne5 22.Ra4 Rc4
+23.Rxc4 Nxc4 24.Qc3 Bxd4 25.Rxd4 Ne5 26.Rb4 Nc6 27.Rb6 Qc8 28.b4 Qd7 29.b5 axb5
+30.a6 b4 31.Qa1 bxa6 32.Qxa6 Nd4 33.Rxb4 Ne6 34.Rb7 Qc8 35.Qb5 Kf8 36.Qb2 Ng7
+37.Nxe7 Qc4 38.Qf6 Qxe4 39.Nf5 Qe1+ 40.Kh2 Qe5+ 41.Qxe5 dxe5 42.Nd6 Rd8 43.Nxf7 Rc8
+44.Ng5 h5 45.Nh7+ Kg8 46.Nf6+ Kf8 47.Nh7+ Kg8 48.Nf6+ Kf8 49.Nd7+ Kg8 50.Rb2 Kf7
+51.Nxe5+ Kf6 52.Nf3 Ne6 53.Rb6 Ke7 54.Ne5 g5 55.c4 h4 56.Rb7+ Kf6 57.Ng4+ Kg6
+58.Rb6 Kf7 59.Rb7+ Kg6 60.Ne3 Ra8 61.Rb6 Kf7 62.g3 Ra2 63.Kg2 hxg3 64.Kxg3 Nc5
+65.Kf3 Nd3 66.Ng4 Ke7 67.Rb3 Nc5 68.Re3+ Kf7 69.Ne5+ Kf6 70.Ng4+ Kg6 71.Re5 Ra3+
+72.Ne3 Nd3 73.Rd5 Rc3 74.Rd4 Ra3 75.h4 gxh4 76.Rxh4 Ra2 77.Rh2 Kf6 78.Ke4 Nc5+
+79.Kd5 Nb3 80.f3 Ra5+ 81.Ke4 Nc5+ 82.Kf4 Ne6+ 83.Kg3 Ra3 84.Re2 Kg5 85.Nc2 Ra6
+86.Nb4 Rb6 87.Nd5 Rd6 88.Re5+ Kh6 89.Nf4 Nc7 90.c5 Rc6 91.Kg4 Kg7 92.Kf5 Kf7
+93.Ke4 Ra6 94.Rf5+ Ke8 95.Ke5 Rc6 96.Nd3 Ke7 97.Rh5 Re6+ 98.Kd4 Rf6 99.f4 Ra6
+100.Rh7+ Kd8 101.f5 Ne8 102.Nb4 Ra1 103.Nc6+ Kc8 104.Rh8 Kd7 105.Ne5+ Ke7
+106.Ng6+ Kd8 107.Kd5 Re1 108.c6 Rd1+ 109.Ke5 Kc7 110.Rxe8 Re1+ 111.Kd5 Rxe8
+112.f6 Rd8+ 113.Kc5 Rd1 114.f7 Rc1+ 115.Kd5 Rd1+ 116.Ke6 Rf1 117.Ne7  1-0
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.02"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2743"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.Re1 Re8 14.cxd5 Qxd5 15.Bf4 Rac8
+16.Bd3 Qd7 17.Rb1 Bxd3 18.Qxd3 b6 19.d5 Bf6 20.c4 Ne7 21.Ne5 Bxe5 22.Bxe5 f6
+23.Bf4 Nf5 24.c5 bxc5 25.Qc4 g5 26.Bd2 Nd6 27.Qxc5 Ne4 28.Qa5 c6 29.Be3 cxd5
+30.Qxa7 Qxa7 31.Bxa7 Nc3 32.Rxe8+ Rxe8 33.Rb8 Rxb8 34.Bxb8 d4 35.Kf1 Kf7
+36.Ba7 d3 37.Ke1 d2+ 38.Kxd2 Nb1+ 39.Kd3  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.02"]
+[Round "4"]
+[White "Jobava,Ba"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2651"]
+[BlackElo "2738"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Bd2 Nd7 8.Qc2 c5
+9.dxc5 Bxc5 10.Nxd5 Bxd5 11.e4 Bb7 12.Rd1 Qc8 13.Bd3 Be7 14.Qb1 O-O 15.O-O Qb8
+16.Bc3 Rd8 17.b4 Qf4 18.Bd2 Qc7 19.Rc1 Qd6 20.Bc3 Qf4 21.Bd2 Qd6 22.Bc3  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.04"]
+[Round "5"]
+[White "Leko,P"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2761"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Be7 6.d3 Bf6 7.Nbd2 Ne7 8.Nc4 Ng6
+9.b3 O-O 10.Bb2 Re8 11.h3 a5 12.a4 c5 13.Kh1 b6 14.Bc3 Be6 15.Nh2 Bxc4 16.bxc4 Qd7
+17.Qg4 Qc6 18.g3 Nf8 19.f4 exf4 20.Bxf6 Qxf6 21.gxf4 Qg6 22.f5 Qxg4 23.hxg4 f6
+24.Nf3 Rad8 25.Kg2 Rd6 26.Kg3 Nd7 27.Kf4 h6 28.Ke3 Kf7 29.Rad1 Rc6 30.Rg1 Re7
+31.Rd2 Rd6 32.Rdd1 Rc6 33.Rde1 Rd6 34.Rg2 Rc6 35.Rb1 Rd6 36.Ng1 Ne5 37.Ne2 Re8
+38.Nc3 Rd4 39.Kf4 Rd7 40.Nd5 Nc6 41.Ke3 Ne5 42.Nc3 Rd6 43.Ne2 Rd7 44.Kf4 Red8
+45.Ng1 Rd6 46.Nf3 Nd7 47.Re1 Re8 48.Rge2 Re7 49.Ke3 Re8 50.Rd1 Rd8 51.Red2 Ke7
+52.Kf4 Re8 53.Ke3 Rd8 54.c3 Ne5 55.Nxe5 fxe5 56.d4 Kf6 57.dxe5+ Kxe5 58.Rd5+ Rxd5
+59.cxd5 b5 60.axb5 a4 61.Kd3 Kd6 62.Ra1 Ra8 63.Ra3  1-0
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.04"]
+[Round "5"]
+[White "Kramnik,V"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2732"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 Nc6 8.Qd2 Be6
+9.O-O-O Qd7 10.Kb1 a6 11.Ng5 Bxg5 12.Bxg5 f6 13.Be3 O-O-O 14.b3 Rhe8 15.f3 h5
+16.Bf2 Bf5 17.Be2 Re7 18.Rhe1 Rde8 19.Bf1 Rxe1 20.Bxe1 Re7 21.Bf2 Qe8 22.c4 a5
+23.a3 b6 24.Qc3 Nb8 25.Kb2 Qc6 26.Qd2 Nd7 27.Qd5 Ne5 28.Re1 Be6 29.Qd2 Qe8
+30.f4 Nc6 31.Bd3 Bf7 32.Rxe7 Qxe7 33.Qd1 Kb8 34.Qf3 Nd8 35.Be4 f5 36.Bd3 g6
+37.g3 Be8 38.Qe3 Qxe3 39.Bxe3 Ne6 40.b4 axb4 41.axb4 c5  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.04"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Jobava,Ba"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2651"]
+[ECO "B39"]
+
+1.Nf3 c5 2.c4 Nc6 3.d4 cxd4 4.Nxd4 g6 5.e4 Bg7 6.Be3 Nf6 7.Nc3 Ng4 8.Qxg4 Nxd4
+9.Qd1 Ne6 10.Rc1 Qa5 11.Be2 b6 12.Qd5 Rb8 13.Qxa5 bxa5 14.b3 Bd4 15.Bd2 d6
+16.O-O Bc5 17.Na4 Ba3 18.Rb1 Bb7 19.f3 Bc6 20.Bxa5 Bxa4 21.bxa4 Kd7 22.Rfd1 Nc5
+23.Bc3 Rhc8 24.a5 Na4 25.Be1 Nb2 26.Rdc1 Bb4 27.Bf2 Bxa5 28.c5 dxc5 29.Rxc5 Rxc5
+30.Bxc5 Bc3 31.a4 Ke6 32.Bb5 Kf6 33.Rc1 a6 34.Rxc3 axb5 35.a5 Ke6 36.Rb3 Na4
+37.Be3 Kd7 38.a6 Ra8 39.Rxb5 Rxa6 40.Bd4 Rd6 41.Rb7+ Kd8 42.Rb4 Ra6 43.Kf2 Kc7
+44.Ke3 Nb6 45.Bxb6+ Rxb6 46.Rxb6 Kxb6 47.Kd4 Kc6 48.Ke5 Kd7 49.f4 Ke8 50.h4 h5
+51.f5 f6+ 52.Ke6 gxf5 53.e5 fxe5 54.Kxe5 Kd7 55.Kxf5 Kd6 56.Kg5 Ke5 57.Kxh5 Kf4
+58.Kg6 e5 59.h5 e4 60.h6 e3 61.h7 e2 62.h8=Q e1=Q 63.Qb8+ Kg4 64.Qc8+ Kg3
+65.Qh3+ Kf4 66.Qf5+ Kg3 67.Qh3+ Kf4 68.Qf3+ Ke5 69.g4 Kd4 70.g5 Qe8+ 71.Kg7 Qe7+
+72.Kh6 Kc4 73.Qf4+ Kb5 74.g6 Qe6 75.Kg5 Qe7+ 76.Kg4 Qg7 77.Qd6 Ka4 78.Kf5 Qc3
+79.Qe5 Qh3+ 80.Kg5 Qg2+ 81.Kf5 Qh3+ 82.Kf6 Qf3+ 83.Qf5 Qc3+ 84.Kg5 Ka3 85.Qf8+ Ka4
+86.Qa8+ Kb4 87.Qb7+ Ka5 88.g7 Qe5+ 89.Kg6 Qe6+ 90.Kh7 Qf5+ 91.Kg8 Ka4 92.Qh1 Qc8+
+93.Kh7 Qf5+ 94.Kh8 Qe5 95.Qh3 Qd4 96.Qe6 Qh4+ 97.Kg8 Qf4 98.Qd5 Ka3 99.Kh7 Qh4+
+100.Kg6 Qg3+ 101.Kf7 Qf4+ 102.Ke8 Qb8+ 103.Qd8 Qb5+ 104.Qd7 Qh5+ 105.Kf8 Qf3+
+106.Ke7 Qe4+ 107.Qe6 Qb7+ 108.Kf6 Qf3+ 109.Kg5 Qg3+ 110.Qg4 Qe5+ 111.Kh4 Qf6+
+112.Qg5 Qd4+ 113.Kh3  1-0
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.04"]
+[Round "5"]
+[White "Naiditsch,A"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2742"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.d5 Nb8 13.Nf1 Nbd7 14.N3h2 h6 15.Ng4 Nxg4
+16.hxg4 Be7 17.Ne3 Bg5 18.Bc2 Nf6 19.a4 g6 20.c4 c6 21.dxc6 Bxc6 22.axb5 axb5
+23.Rxa8 Qxa8 24.Qxd6 Nxe4 25.Bxe4 Bxe4 26.Nd5 Bxd5 27.cxd5 Rd8 28.Qc6 Qa5
+29.Rxe5 Qa1 30.Re1 Bxc1 31.Qc7 Qa8 32.Qxc1 Qxd5 33.Qxh6 Qb3 34.Qg5 Rd1 35.Rxd1 Qxd1+
+36.Kh2 Qd4 37.Qxb5 Qxf2 38.Qb8+ Kh7 39.Qb3 Kg8 40.Qb4 g5 41.Qb8+ Kh7 42.Qb3 Kg8
+43.Qb4 Qe3 44.Qb8+ Kg7 45.Qc7 Qf2 46.Qe5+ f6 47.Qe7+ Kh6 48.Qb4 Kg7 49.b3 Qe3
+50.Qb7+ Kg6 51.Qb8 Qe4 52.Qg3 Qd4 53.Kh3 Qd2 54.Qf3 Qe1 55.Qd3+ Kg7 56.Qg3 Qh1+
+57.Qh2 Qe1 58.Qc7+ Kh6 59.Qg3  1/2-1/2
+
+[Event "Match"]
+[Site "Dortmund GER"]
+[Date "2006.08.05"]
+[Round "5"]
+[White "Paehtz,E"]
+[Black "Krush,I"]
+[Result "0-1"]
+[WhiteElo "2456"]
+[BlackElo "2436"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.f3 d5 10.exd5 Nxd5 11.Bxe7 Ncxe7 12.Nxd5 Nxd5 13.c4 Nb6 14.Nb5 Bd7 15.Qf4 Qe7
+16.Nd6 Bc6 17.Bd3 Rfd8 18.Bc2 e5 19.Nf5 Qf6 20.Qg4 g6 21.Ng3 Kf8 22.Ne4 Qe7
+23.Ng5 h6 24.Nh3 Bd7 25.Qe4 Rac8 26.Kb1 Nxc4 27.g4 Be6 28.Bb3 Qc5 29.Bxc4 Qxc4
+30.Qxc4 Bxc4 31.Rxd8+ Rxd8 32.Re1 f6 33.b3 Bd5 34.Re3 Bc6 35.Kc2 Rd4 36.Ng1 Rf4
+37.Kd3 Kf7 38.a4 a5 39.Kd2 e4 40.fxe4 Rxg4  0-1
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.05"]
+[Round "6"]
+[White "Leko,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2729"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 b5 8.Qd2 b4
+9.Na4 Nbd7 10.Bc4 Qc7 11.Bb3 Bb7 12.c3 bxc3 13.Nxc3 Be7 14.O-O O-O 15.Rac1 Qb8
+16.Rc2 Rc8 17.Rfc1 Bd8 18.Kh1 Ba5 19.Qe2 Rc7 20.a3 Bxc3 21.Rxc3 Rxc3 22.Rxc3 d5
+23.exd5 Nxd5 24.Bxd5  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.05"]
+[Round "6"]
+[White "Adams,Mi"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2664"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Na5 8.Ba2 c5
+9.Nc3 Nc6 10.Nd5 Nxd5 11.Bxd5 Be6 12.c3 Qd7 13.Be3 Bxd5 14.exd5 Nd8 15.Qb3 Kh8
+16.Qb5 Qf5 17.Nd2 f6 18.d4 a6 19.Qb3 cxd4 20.cxd4 Rb8 21.Rac1 Qd7 22.Nc4 Nf7
+23.Nb6 Qe8 24.f3 f5 25.Qc2 Bh4 26.Re2 f4 27.Bd2 Bd8 28.Nc4 b5 29.axb5 axb5
+30.Na5 Bxa5 31.Bxa5 Qd7 32.Qc7  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.05"]
+[Round "6"]
+[White "Jobava,Ba"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteElo "2651"]
+[BlackElo "2743"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Bd2 Nf6 8.Qc2 c5
+9.dxc5 Bxc5 10.b4 Be7 11.e4 Nc6 12.Bf4 O-O 13.Rd1 Qc8 14.e5 Nxb4 15.axb4 Ne4  0-1
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.05"]
+[Round "6"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2742"]
+[ECO "D80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 dxc4 7.e3 Be6 8.Qb1 Qd5
+9.Nf3 Nd7 10.Be2 Bf5 11.Qb2 Bg7 12.O-O e5 13.Qb4 c5 14.Qxc4 Qxc4 15.Bxc4 Rc8
+16.Bd5 Bd3 17.Rfd1 Ba6 18.Rab1 b6 19.Bg3 cxd4 20.exd4 Nf6 21.Bb3 Ne4 22.Re1 Nxc3
+23.Rb2 e4 24.Ng5 Bc4 25.Nxe4 Nxe4 26.Rxe4+ Kd8 27.Bf4 Bxb3 28.Rxb3 Re8 29.Rxe8+ Kxe8
+30.d5 Rc4 31.g3 Ra4 32.Re3+ Kd7 33.Re2 Bf8 34.Kf1 Bd6 35.Be3 Bc5 36.Bf4 Rd4
+37.Rc2 Rxd5 38.Ke2 b5 39.g4 Kc6 40.Be3 Kb6 41.Rd2 Rxd2+ 42.Bxd2 b4 43.f3 Kb5
+44.Kd3 Bd6 45.h3 Be5 46.Be3 a5 47.Bd2 a4  0-1
+
+[Event "Match"]
+[Site "Dortmund GER"]
+[Date "2006.08.06"]
+[Round "6"]
+[White "Krush,I"]
+[Black "Paehtz,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2436"]
+[BlackElo "2456"]
+[ECO "A40"]
+
+1.d4 e6 2.c4 Bb4+ 3.Nc3 b6 4.e3 Bb7 5.Ne2 f5 6.a3 Bd6 7.d5 Nf6 8.g3 c6 9.Bg2 Qe7
+10.O-O Na6 11.dxe6 dxe6 12.b4 O-O 13.Bb2 Rfd8 14.Qc2 c5 15.Bxb7 Qxb7 16.b5 Nc7
+17.Nf4 Kf7 18.Rad1 Bxf4 19.exf4 Nce8 20.Qe2 Rd6 21.Rxd6 Nxd6 22.Rd1 Rd8 23.Nb1 Qe4
+24.Qxe4 Nfxe4 25.Be5 Ke7 26.f3 Nf6 27.Bxd6+ Rxd6 28.Rxd6 Kxd6 29.Kf2 h6 30.Nd2 Ne8
+31.Ke3 Ke7 32.g4 Nd6 33.h4 h5 34.g5 Nf7 35.Nf1 Nh8 36.Ng3 Ng6 37.Nxh5 Nxh4
+38.Kf2 Kf7 39.Ng3 Kf8 40.Nf1 Ke7 41.Nd2 Kd6 42.a4 e5 43.fxe5+ Kxe5 44.Nb3 f4
+45.a5 Nf5 46.a6 Nd4 47.Nd2 Nf5 48.Nb3 Nd6 49.Na5 Kd4 50.Nc6+ Kxc4 51.Nxa7 Kd3
+52.Nc6 Nxb5 53.Ne5+ Kd4 54.Nd7 Nc7 55.a7 b5 56.Ke2 b4 57.Kd2 c4 58.Kc2 Na8
+59.g6 c3 60.Kb3 Kd3 61.Nc5+ Ke3 62.Kxb4 c2 63.Nb3 Kxf3 64.Kc3 Ke3 65.Kxc2 f3
+66.Nd2 f2 67.Nf1+ Ke2 68.Ng3+ Kf3 69.Nf1 Ke2 70.Nh2 Nc7 71.Kb3 Ke3  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.06"]
+[Round "7"]
+[White "Svidler,P"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2732"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d4 d6 10.dxe5 dxe5 11.Qxd8 Rxd8 12.Bg5 Rb8 13.Nbd2 h6 14.Bxf6 Bxf6 15.Bd5 Na5
+16.Rad1 Rb6 17.Nb3  1/2-1/2
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.06"]
+[Round "7"]
+[White "Naiditsch,A"]
+[Black "Jobava,Ba"]
+[Result "1-0"]
+[WhiteElo "2664"]
+[BlackElo "2651"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Qe2 O-O 14.Rhe1 Qb6 15.Ne5 Rfe8
+16.Nc4 Qa6 17.Na5 b5 18.Kb1 c5 19.dxc5 Nxc5 20.Nb3 Nxb3 21.axb3 Qb6 22.Bc3 a5
+23.Ne4 Nxe4 24.Qxe4 a4 25.Rd7 Qa6 26.Qg4 Bg5 27.bxa4 bxa4 28.f4 Qb5 29.Rd3 a3
+30.fxg5 axb2 31.Bxb2 Ra4 32.Qe2 Qxg5 33.Qe5 Ra5 34.Qxg5 Rxg5 35.Red1 Rxg2
+36.Rd8 Rxd8 37.Rxd8+ Kh7 38.c4 Rg5 39.Bd4 e5 40.Bf2  1-0
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.06"]
+[Round "7"]
+[White "Gelfand,B"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2761"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 Bb7 6.Bg2 c5 7.d5 exd5 8.cxd5 Bxd5
+9.Nc3 Bc6 10.e4 Be7 11.Bf4 O-O 12.O-O-O Na6 13.Qe2 Nb4 14.a3 Qc8 15.Kb1 a5
+16.Ne5 Re8 17.Rhe1 Bf8 18.g4 g6 19.Bg3 Re6 20.f4 d6 21.Nxc6 Nxc6 22.Nb5 Ne8
+23.e5 dxe5 24.Bd5 a4 25.fxe5 Ng7 26.Qf3 Rb8 27.Nd6 Bxd6 28.exd6 Nd4 29.Rxd4 Rxe1+
+30.Bxe1 cxd4 31.Qxf7+ Kh8 32.d7 Qc5 33.Bb4  1-0
+
+[Event "Sparkassen"]
+[Site "Dortmund GER"]
+[Date "2006.08.06"]
+[Round "7"]
+[White "Kramnik,V"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2738"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.f3 h6
+9.Bh4 d5 10.e3 Nbd7 11.cxd5 Nxd5 12.Bxd8 Nxc3 13.Bh4 Nd5 14.Bf2 c5 15.e4 Ne7
+16.Ne2 Rac8 17.Nc3 cxd4 18.Bxd4 Nc5 19.Rd1 Rfd8 20.Be3 Rxd1+ 21.Kxd1 e5 22.b4 Ne6
+23.Kc2 Nc6 24.Kb2 Kf8 25.Bc4 Ncd4 26.Bxe6 Nxe6 27.Nb5 Ra8 28.a4 Ba6 29.Na3 Rc8
+30.b5 Bb7 31.Rc1 Rxc1 32.Kxc1 Ke7 33.a5 bxa5 34.Bxa7 f5 35.exf5 Nf4 36.g3 Nh3
+37.Nc4 Ng5 38.Nxa5 Bd5 39.b6 Nxf3 40.h3 Ng5 41.b7 Bxb7 42.Nxb7 Nxh3 43.Bb6 Kd7
+44.Be3 Ke7 45.Nc5 g6 46.fxg6 Kf6 47.Bxh6 Kxg6 48.Be3  1-0

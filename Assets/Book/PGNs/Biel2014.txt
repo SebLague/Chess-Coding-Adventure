@@ -1,0 +1,790 @@
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.14"]
+[Round "1.1"]
+[White "Vachier Lagrave,M"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2726"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "623539"]
+[BlackFideId "5007003"]
+[EventDate "2014.07.14"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 Bf5 5. g4 e5 6. Bxe5 Qh4 7. Qf3 Bxg4 8. Qg2
+Nd7 9. Bg3 Qe7 10. c3 c6 11. Nd2 Nxg3 12. Qxg3 Bf5 13. Bh3 Bxh3 14. Nxh3 g6 15.
+O-O-O O-O-O 16. Kb1 Nf6 17. Ng5 h6 18. Ngf3 Qe6 19. Qe5 Bd6 20. Qxe6+ fxe6 21.
+Rdg1 g5 22. Kc2 Rdf8 23. Kd1 Rf7 24. Ke2 Rhf8 25. Rg2 b6 26. h3 c5 27. dxc5 bxc5
+28. c4 Kb8 29. Ne1 Rb7 30. b3 a5 31. Nd3 a4 32. Rb1 axb3 33. Rxb3 Kc7 34. Rxb7+
+Kxb7 35. Rg1 Ra8 36. Rb1+ Kc6 37. Rb2 h5 38. Rc2 Ra4 39. f3 Nd7 40. cxd5+ exd5
+41. e4 Nb6 42. exd5+ Nxd5 43. Nc4 Rxa2 44. Rxa2 Nc3+ 45. Ke3 Nxa2 46. Nxd6 Kxd6
+47. Nxc5 Kxc5 48. Ke4 Nc3+ 49. Kf5 Ne2 50. Kxg5 Ng1 51. Kxh5 Nxf3 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.14"]
+[Round "1.2"]
+[White "Motylev,A"]
+[Black "Wojtaszek,R"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2733"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[WhiteFideId "4121830"]
+[BlackFideId "1118358"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. b3 Nc6 10. Bb2 Qg4 11. Qxg4 Nxg4 12. Nxc6 bxc6 13. h3 Ne5 14. O-O-O
+Nd7 15. f4 Rg8 16. g4 O-O-O 17. h4 h6 18. g5 Rh8 19. e5 dxe5 20. Ne4 Rhg8 21.
+Rhe1 hxg5 22. Nxg5 Nc5 23. Nxf7 Nd3+ 24. Kb1 Rd7 25. fxe5 Nxe1 26. Rxe1 Rd2 27.
+Ba3 Rf2 28. e6 Bf6 29. Rg1 Re2 30. h5 Rxe6 31. Bc5 Re2 32. hxg6 Rb2+ 33. Kc1
+Rxa2 34. Rg4 Kd7 35. Be3 Rb8 36. Bd4 Ke6 37. Bxf6 exf6 38. Nh6 f5 39. Rg3 f4 40.
+Rf3 Rg2 0-1
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.14"]
+[Round "1.3"]
+[White "Hou Yifan"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2629"]
+[BlackElo "2750"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "8602980"]
+[BlackFideId "24116068"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Be2 Ngf6 7. O-O e5 8.
+Qe3 d5 9. exd5 Bc5 10. Qd2 O-O 11. c4 e4 12. Nd4 Ne5 13. b4 Ba7 14. Nc3 Bg4 15.
+c5 a5 16. a3 Nxd5 17. Nxe4 Bb8 18. f3 Nf4 19. Nd6 Bxd6 20. cxd6 Nxe2+ 21. Qxe2
+Qxd6 22. Nb5 Qf6 23. fxg4 Nf3+ 24. Qxf3 Qxa1 25. Be3 Qf6 26. Qxf6 gxf6 27. Nc7
+Rac8 28. Nd5 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.15"]
+[Round "2.1"]
+[White "Wojtaszek,R"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2629"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "1118358"]
+[BlackFideId "8602980"]
+[EventDate "2014.07.14"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Qd6 7. Nd2 Bf5 8. e3
+Nbd7 9. Bf4 Qb6 10. Be2 c5 11. dxc5 Nxc5 12. Be5 O-O 13. O-O Rad8 14. Bd4 Bxc3
+15. bxc3 Qc6 16. Qc1 Nfe4 17. Nxe4 Nxe4 18. f3 Nd6 19. Qa3 a6 20. Qc5 Rc8 21.
+Qxc6 Rxc6 22. a4 h5 23. Ra2 Re8 24. Kf2 Re7 25. Rb2 Nc4 26. Bxc4 Rxc4 27. Ra1 f6
+28. h4 Bg6 29. Rb4 Rec7 30. Rxc4 Rxc4 31. a5 Be8 32. Ra2 Ra4 33. Rxa4 Bxa4 34.
+g4 hxg4 35. fxg4 Kf7 36. g5 fxg5 37. hxg5 Kg6 38. Kg3 Kxg5 39. Bxg7 Kf5 40. Kf3
+Bd1+ 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.15"]
+[Round "2.2"]
+[White "Harikrishna,P"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2750"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Canal variation"]
+[WhiteFideId "5007003"]
+[BlackFideId "24116068"]
+[EventDate "2014.07.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. Bg5 h6 7. Bxf6 Qxf6 8. Nd5
+Qd8 9. c3 a6 10. d4 exd4 11. cxd4 Ba7 12. Rc1 O-O 13. Bxa6 Re8 14. O-O Rxe4 15.
+Bd3 Re8 16. Bb5 Be6 17. Ne3 Bd7 18. Nd5 Be6 19. Ne3 Bd7 20. Bc4 Rf8 21. Re1 Ne7
+22. Qd3 c6 23. Bb3 b5 24. h3 Bb6 25. Bc2 f5 26. g4 g6 27. gxf5 Nxf5 28. Nxf5
+gxf5 29. Bb3+ Kh7 30. Be6 Rf6 31. d5 cxd5 32. Bxd5 Rg6+ 33. Kh1 Rc8 34. Rxc8
+Qxc8 35. Nd4 Qf8 36. Ne6 Qf6 37. Qf3 Rg8 38. Nf4 Rc8 39. Qh5 Bd8 40. Rg1 Be7 41.
+Rg6 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.15"]
+[Round "2.3"]
+[White "Vachier Lagrave,M"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2698"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[WhiteFideId "623539"]
+[BlackFideId "4121830"]
+[EventDate "2014.07.14"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 Bg4 7. Qb3 Na5 8.
+Qa4+ Bd7 9. Qc2 e6 10. Bd3 Be7 11. Nf3 Nc6 12. Qe2 Nh5 13. Be5 f6 14. Bg3 f5 15.
+Bb5 O-O 16. Bxc6 Bxc6 17. Ne5 Be8 18. Rc1 Rc8 19. O-O Bd6 20. Rc2 Qc7 21. Nd3
+Nxg3 22. hxg3 Ba4 23. Rcc1 Qa5 24. Nxa4 Qxa4 25. g4 Qxa2 26. gxf5 exf5 27. Ra1
+Qb3 28. Rxa7 Qb6 29. Rfa1 f4 30. exf4 Bxf4 31. Nxf4 Rxf4 32. Qe5 Rxd4 33. Rxb7
+Qxb7 34. Qxd4 Rc4 35. Qe5 Re4 36. Qh5 h6 37. Rd1 Qf7 38. Qxf7+ Kxf7 39. Rxd5
+Re1+ 40. Kh2 Re2 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.16"]
+[Round "3.1"]
+[White "Giri,A"]
+[Black "Wojtaszek,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2733"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "24116068"]
+[BlackFideId "1118358"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Be6 9. Bg2 b5 10. O-O Nbd7 11. Be3 Nb6 12. b3 Be7 13. Qd2 Qc7 14. a4 bxa4 15.
+Nxa4 Nxa4 16. Rxa4 O-O 17. Rfa1 Rfc8 18. c4 Rcb8 19. R4a3 Nd7 20. Nc3 Qc8 21.
+Qd1 Nf6 22. Kh2 h4 23. gxh4 Nd7 24. h5 Nc5 25. Na4 Nxa4 26. Rxa4 Rb7 27. Rc1
+Rab8 28. Rc3 Rb4 29. Rxb4 Rxb4 30. f4 Kh7 31. f5 Bd7 32. h6 g6 33. Qd5 Qe8 34.
+fxg6+ fxg6 35. Qd2 Be6 36. Rd3 Rb7 37. Qa5 Qc6 38. Qd2 Bf8 39. Bg5 Rf7 40. Qe1
+Qb6 41. Be3 Qc7 42. Qg3 a5 43. Bd2 a4 44. bxa4 Qxc4 45. a5 Qa2 46. Qe3 d5 47.
+exd5 Bf5 48. Rb3 e4 49. Qc3 Bd6+ 50. Kh1 e3 51. Qxe3 Re7 52. Qc3 Be5 53. Ra3
+Bxc3 54. Rxa2 Re2 55. a6 Bxd2 56. Bf3 Re1+ 57. Kg2 Be3 58. a7 Bxa7 59. Rxa7+
+Kxh6 60. h4 Re3 61. Kf2 Rd3 62. Rf7 Rd4 63. Kg3 Bc2 64. Rf4 Rd2 65. Rb4 Bd1 66.
+Be4 g5 67. Rb6+ Kh5 68. Bg6+ Kh6 69. Be4+ Kh5 70. hxg5 Kxg5 71. Rg6+ Kh5 72. Kf4
+Rf2+ 73. Ke5 Re2 74. Rc6 Ba4 75. Rc8 Kh6 76. Rc7 Be8 77. Rh7+ Kg5 78. Rg7+ Kh6
+79. Rg3 Re1 80. d6 Kh5 81. Kf4 Kh6 82. Rg8 Ba4 83. Rg6+ Kh5 84. Re6 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.16"]
+[Round "3.2"]
+[White "Hou Yifan"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2629"]
+[BlackElo "2766"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "8602980"]
+[BlackFideId "623539"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. c3 b5 7. Bc2 Bb7 8. Re1
+e6 9. d4 Be7 10. Nbd2 Qc7 11. Nf1 O-O 12. Ng3 Rfe8 13. h3 Rac8 14. Bd3 Bf8 15.
+Bd2 g6 16. Qe2 Bg7 17. a4 e5 18. d5 c4 19. Bc2 Nc5 20. Nh2 Rb8 21. Ra3 Bc8 22.
+axb5 axb5 23. Ng4 Bxg4 24. hxg4 Ra8 25. Rea1 Rxa3 26. Rxa3 Qb7 27. g5 Nfd7 28.
+Qd1 Ra8 29. Qa1 Rxa3 30. Qxa3 Bf8 31. Be3 Be7 32. Nf1 Bd8 33. Nd2 Bb6 34. Nb1
+Bc7 35. Nd2 Bb6 36. Nb1 Bc7 37. Nd2 Kg7 38. g3 Bb6 39. Nb1 Nd3 40. Bxb6 Qxb6 41.
+Bxd3 cxd3 42. Nd2 Qd8 43. c4 Qxg5 44. Qxd3 b4 45. Nb3 h5 46. Kg2 h4 47. Kh3 hxg3
+48. fxg3 Qd8 49. Kg2 Qa8 50. Qc2 Qa7 51. Qd2 Nf6 52. Qe2 Qa2 53. Nc1 Qb1 54. Nd3
+b3 55. Nf2 Qc1 56. Kf3 Nh7 57. Kg2 Ng5 58. g4 Kf6 59. Qd3 Qxb2 60. c5 dxc5 61.
+d6 Qd4 62. d7 Qxd3 63. Nxd3 Ke7 0-1
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.16"]
+[Round "3.3"]
+[White "Motylev,A"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2726"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4121830"]
+[BlackFideId "5007003"]
+[EventDate "2014.07.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Rd1 Be7 11. c4 Kc8 12. Nc3 Nh4 13. Nxh4 Bxh4 14. b3 b6
+15. Bb2 a5 16. a4 Bf5 17. Ne2 Kb7 18. g3 Be7 19. g4 Bc2 20. Rd7 Bc5 21. Ba3 Bxa3
+22. Rxa3 Rhe8 23. Rd2 Be4 24. f4 Rad8 25. Raa2 g5 26. Nc3 Bd3 27. Ra1 Rd7 28.
+Ne4 Red8 29. Nxg5 Kc8 30. Re1 b5 31. e6 fxe6 32. Nxe6 Re8 33. f5 bxc4 34. bxc4
+Rd6 35. Red1 Bxc4 36. Rxd6 cxd6 37. Rxd6 Bxe6 38. Rxc6+ Kd7 39. Rxe6 Rxe6 40.
+fxe6+ Kxe6 41. Kf2 Kd5 42. Ke3 Kc4 43. g5 Kd5 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.17"]
+[Round "4.1"]
+[White "Hou Yifan"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2629"]
+[BlackElo "2726"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "5007003"]
+[EventDate "2014.07.14"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Rde1 Qc7 14. Ne4
+O-O-O 15. g3 Nc5 16. Nxc5 Bxc5 17. Rh4 Bd6 18. Qe2 Kb8 19. Ne5 Ka8 20. a3 Rhf8
+21. Qf3 Be7 22. Rf4 Qb6 23. Rd1 Qc7 24. Nd3 Nh7 25. Rxf7 Ng5 26. Qf4 e5 27. Rxe7
+Qxe7 28. Qxe5 Qf7 29. Bxg5 Rd5 30. Qe7 Rxg5 31. Qxf7 Rxf7 32. Re1 Kb8 33. Re5
+Kc7 34. Kd2 Kd6 35. c4 Re7 36. c5+ Kd7 37. b4 Ke8 38. Rxe7+ Kxe7 39. Nf4 Kd7 40.
+Ke3 Rf5 41. g4 Rf8 42. Ng6 Ra8 43. Ne5+ Ke6 44. Nc4 b5 45. Ne5 Kd5 46. f4 a5 47.
+Nd7 axb4 48. Nb6+ Ke6 49. axb4 Ra1 50. d5+ cxd5 51. f5+ Ke7 52. Nxd5+ Kd7 53.
+Nf4 Re1+ 54. Kf3 Rf1+ 55. Ke3 Re1+ 56. Kd4 Rg1 57. Kd5 Rd1+ 58. Ke5 Re1+ 59. Kd4
+Rg1 60. Ne6 Rxg4+ 61. Kd5 Rxb4 62. c6+ Ke7 63. Nxg7 Rc4 64. Ne6 Rxc6 65. Kxc6
+Kf6 66. Nd4 b4 67. Kd5 b3 68. Nxb3 Kxf5 69. Nd4+ 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.17"]
+[Round "4.2"]
+[White "Giri,A"]
+[Black "Motylev,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2698"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "24116068"]
+[BlackFideId "4121830"]
+[EventDate "2014.07.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Qb3 Qc7 8. Nxg6
+hxg6 9. g3 Nbd7 10. Bg2 Be7 11. O-O O-O 12. cxd5 exd5 13. f3 b5 14. Ne2 Qb6 15.
+Kh1 c5 16. Qd1 Rfe8 17. g4 Rad8 18. Bd2 g5 19. a4 b4 20. a5 Qb8 21. dxc5 Bxc5
+22. Nd4 Ne5 23. b3 Rc8 24. Ra2 Nc6 25. Rc2 Nxa5 26. Qb1 Bb6 27. Rxc8 Rxc8 28.
+Nf5 Bc5 29. Qb2 Bf8 30. e4 dxe4 31. Bxg5 exf3 32. Bxf3 Qb5 33. Rd1 Rd8 34. Rg1
+Rd3 35. Qe2 Nh7 36. Nd4 Qd7 37. Qxd3 Nxg5 38. Rd1 Bc5 39. Nc6 Qxd3 40. Rxd3 Nxc6
+41. Bxc6 Ne6 42. Rd7 Bb6 43. Bd5 Nd8 44. Re7 Kf8 45. Re4 a5 46. Kg2 g5 47. Kf3
+f6 48. h3 Bc7 49. Rc4 Bb6 50. Re4 Bc7 51. Re2 Be5 52. Ra2 Bc7 53. Rc2 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.17"]
+[Round "4.3"]
+[White "Wojtaszek,R"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2766"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "1118358"]
+[BlackFideId "623539"]
+[EventDate "2014.07.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. Ne5 Ne4 8. Nc3
+Nxc3 9. bxc3 O-O 10. O-O Nc6 11. Nxc6 bxc6 12. Ba3 Bf5 13. Qa4 Qd7 14. c4 Bxd4
+15. Rad1 Bf6 16. cxd5 cxd5 17. Qxd7 Bxd7 18. Rxd5 Bc6 19. Ra5 Bxg2 20. Kxg2 Rfd8
+21. Bb4 Bd4 22. Bxe7 Re8 23. Bc5 Bxc5 24. Rxc5 Rxe2 25. Ra5 Rb8 26. Rxa7 Rbb2
+27. a4 Ra2 28. a5 Re5 29. a6 Rea5 30. Re1 Rxa6 31. Rxa6 Rxa6 32. Re2 Ra8 33. Re1
+Ra6 34. Re2 Ra8 35. Re1 Ra6 36. Re2 Ra8 37. Re1 Ra6 38. Re2 Ra8 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.18"]
+[Round "5.1"]
+[White "Harikrishna,P"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2733"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "5007003"]
+[BlackFideId "1118358"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qe2 Nc6 7. Nxc6 bxc6 8.
+e5 Nd5 9. Bd2 Nxc3 10. Bxc3 d5 11. h4 h5 12. Qd3 e6 13. Be2 Bb7 14. b4 c5 15.
+bxc5 Bxc5 16. Bd4 Bc6 17. Bxc5 Qa5+ 18. c3 Qxc5 19. a4 Rb8 20. O-O a5 21. Rfb1
+Rxb1+ 22. Rxb1 O-O 23. Qd4 Qxd4 24. cxd4 Bxa4 25. Ra1 Bc2 26. Rxa5 Bg6 27. f3
+Rb8 28. Ra2 Rb4 29. Rd2 Kh7 30. Kf2 Kh6 31. Ke3 Bb1 32. Bd1 f6 33. g3 Kg6 34.
+Kf4 Kh6 35. Ke3 Kg6 36. g4 Kh6 37. exf6 gxf6 38. Rg2 hxg4 39. fxg4 e5 40. Rd2
+Rxd4 41. Rxd4 exd4+ 42. Kxd4 Be4 43. Ke3 Bg6 44. Bf3 Bf7 45. Kd4 Be6 46. g5+
+fxg5 47. hxg5+ 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.18"]
+[Round "5.2"]
+[White "Vachier Lagrave,M"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2750"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2014.07.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re2 c6 12. Ne3 Bc7 13. Nf5 d5 14. Ne7+ Kh8
+15. Nxc8 Rxc8 16. d3 f5 17. g3 Qf6 18. Bd2 Nd6 19. Bc3 d4 20. Bd2 Nf7 21. f4
+Rce8 22. Bg2 Nd6 23. a3 Bb6 24. Rxe8 Rxe8 25. Qf1 Kg8 26. Re1 Re6 27. a4 a6 28.
+Bf3 g6 29. Kg2 Kf7 30. Rxe6 Qxe6 31. Qa1 Bc5 32. b4 Bb6 33. Be1 Nc8 34. Bf2 Qd7
+35. h3 h5 36. b5 axb5 37. axb5 cxb5 38. Qa8 Bc5 39. Bxb7 Nb6 40. Qa2+ Kg7 41.
+Qa6 b4 42. Bf3 Kf8 43. Qa5 Qe7 44. Kf1 Kf7 45. Kg2 Kf8 46. g4 hxg4 47. hxg4 fxg4
+48. Bxg4 Qc7 49. Bf3 Kg7 50. Qb5 Nc8 51. Qc4 Qb6 52. Qd5 Qd6 53. Qe5+ Qxe5 54.
+fxe5 Na7 55. Bd5 Nb5 56. Bh4 g5 57. Bxg5 Kg6 58. Bd8 Kf5 59. e6 Na3 60. Bb3 Nxc2
+61. Bxc2 Kxe6 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.18"]
+[Round "5.3"]
+[White "Motylev,A"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2629"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "4121830"]
+[BlackFideId "8602980"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f3 b5 10. g4 Nxd4 11. Bxd4 Bb7 12. g5 Nh5 13. Be5 Qxe5 14. Qxd7+
+Kf8 15. Qxb7 Bxg5+ 16. Kb1 Qb8 17. Rd7 Qxb7 18. Rxb7 Bf6 19. a4 Bxc3 20. bxc3
+bxa4 21. Bc4 g6 22. Rd1 Rc8 23. Ba2 Rg8 24. Rd6 g5 25. Rxa6 Rg6 26. Raa7 Rf6 27.
+e5 Rxf3 28. Bxe6 Rf1+ 29. Ka2 fxe6 30. Rxh7 Kg8 31. Rxh5 Rf5 32. Rxa4 Rxc3 33.
+Rg4 Rxc2+ 34. Kb3 Re2 35. Rgxg5+ Rxg5 36. Rxg5+ Kh7 37. h4 Re4 38. h5 Kh6 39.
+Rg6+ Kxh5 40. Rxe6 Kg5 41. Re8 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.19"]
+[Round "6.1"]
+[White "Harikrishna,P"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2766"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "5007003"]
+[BlackFideId "623539"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qd3 Nbd7 7. Bg5 e6 8.
+O-O-O Be7 9. f4 Qc7 10. Be2 b5 11. Bf3 b4 12. e5 dxe5 13. Bxa8 exd4 14. Ne2 h6
+15. Bh4 O-O 16. Kb1 e5 17. Qf3 exf4 18. Nxf4 Ne5 19. Qe2 g5 20. Bg3 gxf4 21.
+Bxf4 Bd6 22. Rxd4 Re8 23. Rhd1 Bg4 24. Qxa6 Bxd1 25. Rxd1 Nc4 26. Bxd6 Qxd6 27.
+Qxd6 Nxd6 28. Bf3 Nc4 29. b3 Ne5 30. Rd4 Nxf3 31. gxf3 Rb8 32. Kb2 Kf8 33. c3
+bxc3+ 34. Kxc3 Ke7 35. b4 Ke6 36. a4 Nd5+ 37. Kb3 Rc8 38. Rc4 Rxc4 39. Kxc4 Kd6
+40. a5 Ne3+ 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.19"]
+[Round "6.2"]
+[White "Wojtaszek,R"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2698"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "1118358"]
+[BlackFideId "4121830"]
+[EventDate "2014.07.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. Bd2
+Nbd7 9. Qc2 Be7 10. h3 a6 11. Be2 Rc8 12. O-O dxc4 13. Bxc4 b5 14. Be2 c5 15.
+dxc5 Rxc5 16. b4 Rc7 17. Qb3 Nb6 18. Rfd1 Nc4 19. Be1 Qb8 20. a4 O-O 21. axb5
+axb5 22. Ra6 Rfc8 23. Rda1 Kh7 24. Ra8 Qb6 25. R8a6 Qb8 26. Ra8 Qb6 27. R8a6 Qb8
+28. Ra8 Qb6 29. R8a6 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.19"]
+[Round "6.3"]
+[White "Giri,A"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2629"]
+[ECO "B85"]
+[Opening "Sicilian"]
+[Variation "Scheveningen, classical main line"]
+[WhiteFideId "24116068"]
+[BlackFideId "8602980"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8. Be3
+Be7 9. f4 d6 10. Qe1 O-O 11. Kh1 Nxd4 12. Bxd4 b5 13. Qg3 Bb7 14. a3 Rad8 15.
+Rae1 Rd7 16. Bd3 Re8 17. a4 b4 18. Na2 Qa5 19. Nc1 Qh5 20. Nb3 Qg6 21. Qh3 Qg4
+22. Qxg4 Nxg4 23. Na5 Ra8 24. Be2 Nf6 25. Bf3 Ne8 26. c3 bxc3 27. bxc3 Bd8 28.
+Nxb7 Rxb7 29. e5 d5 30. c4 Rb4 31. Rc1 Rxa4 32. g3 g5 33. Bg1 Nc7 34. Bb6 Ne8
+35. Be3 Nc7 36. fxg5 Rb8 37. Ba7 Rb7 38. Be3 Rb8 39. Ba7 Rb7 40. Bc5 Bxg5 41.
+Rc2 Rb3 42. cxd5 Nxd5 43. Bh5 f5 44. exf6 Bxf6 45. Bd6 Rc3 46. Rb2 Rc8 47. Rb7
+Rd8 48. Bc5 Rc4 49. Bg1 Rf8 50. Be2 Rc6 51. Bd3 Rc7 52. Bxa6 Rxb7 53. Bxb7 Kg7
+54. Bc6 Rf7 55. Re1 Re7 56. Re4 Kf7 57. Rc4 Be5 58. Rh4 Kg7 59. Rh5 Bf6 60. Bxd5
+exd5 61. Rxd5 Re2 62. h4 Kg6 63. Rd6 Kf5 64. g4+ Ke5 65. Rd7 Bxh4 66. Rxh7 Bg5
+67. Rf7 Ke6 68. Rg7 Bf6 69. Rg8 Kf7 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.21"]
+[Round "7.1"]
+[White "Hou Yifan"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2629"]
+[BlackElo "2733"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (with ...c5)"]
+[WhiteFideId "8602980"]
+[BlackFideId "1118358"]
+[EventDate "2014.07.14"]
+
+1. Nf3 d5 2. g3 c5 3. c4 d4 4. e3 Nc6 5. exd4 cxd4 6. Bg2 e5 7. O-O Nf6 8. d3
+Nd7 9. Na3 Be7 10. Nc2 O-O 11. Rb1 a5 12. b3 Rb8 13. Re1 Re8 14. a3 Qc7 15. b4
+axb4 16. axb4 b5 17. Nfxd4 exd4 18. Bf4 Nce5 19. Nxd4 bxc4 20. Nc6 c3 21. Qa4
+Rb6 22. Bxe5 Nxe5 23. Rxe5 Be6 24. Rbe1 Bf6 25. R5e3 Rf8 26. b5 Qd6 27. d4 c2
+28. Be4 Bd5 29. Qxc2 Bxe4 30. Rxe4 Rxb5 31. Re8 g6 32. Qc4 Qd5 33. Rxf8+ Kxf8
+34. Rc1 Qxc4 35. Rxc4 h5 36. Kg2 Rb3 37. Nb4 Kg7 38. Nc2 h4 39. Kf1 Rb1+ 40. Kg2
+Rd1 41. Kf3 Rd2 42. h3 Rd3+ 43. Kg4 Rd2 44. Kf3 Rd3+ 45. Kg2 hxg3 46. fxg3 Kg8
+47. h4 Kg7 48. Kh3 Be7 49. Ne1 Rb3 50. Rc6 Bf6 51. Rd6 Re3 52. Nc2 Rd3 53. Kg4 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.21"]
+[Round "7.2"]
+[White "Giri,A"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2726"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "24116068"]
+[BlackFideId "5007003"]
+[EventDate "2014.07.14"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Bd7 6. Ne5 Bc6 7. Nxc6 Nxc6 8. e3
+Qd7 9. O-O O-O-O 10. Nd2 e5 11. Nxc4 exd4 12. exd4 Qe6 13. Qa4 Rxd4 14. b3 Ne4
+15. Bb2 Nc5 16. Qxc6 bxc6 17. Bxd4 Ne4 18. Rae1 f5 19. f3 Qd5 20. fxe4 Qxd4+ 21.
+Kh1 Bb4 22. Rd1 Qc3 23. Rc1 Qd4 24. Rcd1 Qc3 25. Rc1 Qd4 26. Rcd1 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.21"]
+[Round "7.3"]
+[White "Motylev,A"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2766"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "4121830"]
+[BlackFideId "623539"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. Be2 h5 11. h4 Nc6 12. Nb3 gxh4 13. Bxh4 Be6 14. Qd2 Qb6 15.
+Nd5 Bxd5 16. exd5 Nd4 17. c3 Nf5 18. Bxg4 hxg4 19. Qg5 e6 20. Qxg4 Bf6 21. dxe6
+Nxh4 22. O-O-O Qxf2 23. Rxd6 Rd8 24. Rxd8+ Bxd8 25. Nd2 Qe3 26. exf7+ Kxf7 27.
+Rf1+ Bf6 28. Qd7+ Qe7 29. Qd3 Kg7 30. Ne4 Be5 31. Qe2 Ng6 32. g3 Re8 33. Qg4 Qe6
+34. Qh5 Qxa2 35. Nc5 Qa1+ 0-1
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.22"]
+[Round "8.1"]
+[White "Harikrishna,P"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2698"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, 6.h4"]
+[WhiteFideId "5007003"]
+[BlackFideId "4121830"]
+[EventDate "2014.07.14"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8. Ne5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nd7 11. f4 Bb4+ 12. Bd2 Bxd2+ 13. Qxd2 Ngf6 14. O-O-O
+O-O 15. f5 Re8 16. Rhf1 Qc7 17. Rde1 Nxe5 18. dxe5 exf5 19. Nxf5 Rxe5 20. Nxh6+
+gxh6 21. Rxf6 Rae8 22. Ref1 Re2 23. Qb4 Rxg2 24. Rxf7 Qxf7 25. Rxf7 Rg1+ 26. Kd2
+Rg2+ 27. Kc1 Rg1+ 28. Kd2 Rg2+ 29. Kc1 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.22"]
+[Round "8.2"]
+[White "Vachier Lagrave,M"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2629"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "623539"]
+[BlackFideId "8602980"]
+[EventDate "2014.07.14"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. exd4 Rd8 12. Qe2 Nc6 13. Ne4 Qe7 14. Rfd1 Ba5
+15. Nc3 Bd7 16. Bd3 Be8 17. Qe4 f5 18. Qe3 Bh5 19. Ne2 Bxf3 20. Qxf3 Nxd4 21.
+Nxd4 Rxd4 22. Bxf5 Rxd1+ 23. Qxd1 Rf8 24. Be4 Bb6 25. Bf3 Qf6 26. Qe2 Bd4 27. b3
+Kh8 28. h3 b6 29. Rc6 Be5 30. Qe4 Qf5 31. Kf1 Rd8 32. h4 Kg8 33. Qxf5 exf5 34.
+Bh5 Bf6 35. Rc7 Bxh4 36. Rxa7 Kh7 37. Ra6 Rd6 38. a4 Be7 39. Be2 Kg6 40. a5 bxa5
+41. Rxa5 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.22"]
+[Round "8.3"]
+[White "Wojtaszek,R"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2750"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[WhiteFideId "1118358"]
+[BlackFideId "24116068"]
+[EventDate "2014.07.14"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+ 8.
+Ne2 Na6 9. Bf8 Ne7 10. Bxg7 Nb4 11. Qd6 Nd3+ 12. Kd2 Nf5 13. Qxd3 Qxd3+ 14. Kxd3
+Nxg7 15. Kc3 b6 16. g4 Bb7 17. Bg2 O-O-O 18. Rad1 h5 19. g5 c5 20. Bxb7+ Kxb7
+21. Nf4 Nf5 22. Rxd8 Rxd8 23. Nxh5 Rg8 24. h4 Rh8 25. Ng3 Rxh4 26. Rxh4 Nxh4 27.
+Ne4 Kc6 28. Kd3 Ng6 29. Ke3 Ne5 30. b3 Kd7 31. Nf6+ Ke7 32. Ke4 Nc6 33. Ng4 Nd4
+34. b4 Ne2 35. bxc5 bxc5 36. a3 Nd4 37. Ne5 a6 38. f4 a5 39. a4 Ne2 40. Nc6+ Kd6
+41. Nd8 Ke7 42. Nb7 Nc3+ 43. Ke5 Nxa4 44. Nxa5 Nb6 45. Ke4 f6 46. Nc6+ Kf7 47.
+Nd8+ Kg6 48. Nxe6 fxg5 49. fxg5 Nxc4 50. Nxc5 Kxg5 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.23"]
+[Round "9.1"]
+[White "Giri,A"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2766"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "623539"]
+[EventDate "2014.07.14"]
+
+1. d4 Nf6 2. c4 g6 3. f3 e6 4. e4 d5 5. cxd5 exd5 6. Nc3 dxe4 7. fxe4 Bb4 8. Bd3
+Nxe4 9. Qe2 O-O 10. Bxe4 Re8 11. Nf3 Bf5 12. Bg5 Bxc3+ 13. bxc3 f6 14. Nd2 fxg5
+15. O-O Nd7 16. Qc4+ Be6 17. Bd5 Bxd5 18. Qxd5+ Kh8 19. Rae1 c6 20. Qb3 Nb6 21.
+Nf3 Rxe1 22. Rxe1 Qf6 23. Qe6 Qxe6 24. Rxe6 g4 25. Ne5 Nd5 26. c4 Nf4 27. Re7
+Ne2+ 28. Kf2 Nxd4 29. Rxb7 a5 30. Nd7 Ne6 31. Kg3 Rd8 32. Nf6 Ng5 33. Kxg4 h6
+34. Nd7 Nf7 35. Kf4 g5+ 36. Ke3 Nd6 37. Rb8 Rxb8 38. Nxb8 Nxc4+ 39. Kd4 Nb6 40.
+Nxc6 a4 41. Kc5 Nc8 42. Kb4 Nb6 43. Kc5 Nc8 44. Kb4 Nb6 45. Kb5 Nd5 46. Kxa4 Kg7
+47. Nb4 Ne3 48. Kb5 Kf7 49. a4 Ke6 50. a5 Kd7 51. a6 Kc8 52. Kc5 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.23"]
+[Round "9.2"]
+[White "Wojtaszek,R"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2726"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "1118358"]
+[BlackFideId "5007003"]
+[EventDate "2014.07.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ Nc6 8.
+Nf3 O-O 9. O-O Na5 10. Bf4 Bd7 11. Be2 c5 12. d5 Bg4 13. e5 Qd7 14. Re1 Rad8 15.
+h3 Bf5 16. c4 e6 17. Qd2 b6 18. d6 Be4 19. Ng5 Bb7 20. Rad1 Kh8 21. Qe3 Nc6 22.
+Nf3 Nb4 23. Rd2 Qa4 24. Bd1 Qa6 25. Bg5 Rd7 26. Bf6 Bxf6 27. exf6 Bxf3 28. Bxf3
+Qc8 29. Qe4 Rg8 30. a3 Na6 31. Bd1 Nb8 32. Ba4 Rdd8 33. g4 Qa6 34. Qc2 Qb7 35.
+Qc3 Nc6 36. Bxc6 Qxc6 37. Rxe6 Rgf8 38. Qe5 Qf3 39. Qe3 Qc6 40. Re7 Rd7 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.23"]
+[Round "9.3"]
+[White "Hou Yifan"]
+[Black "Motylev,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2629"]
+[BlackElo "2698"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "4121830"]
+[EventDate "2014.07.14"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. N1e2 Nf6 7. Nf4 e5 8.
+Nxg6 hxg6 9. dxe5 Qa5+ 10. Bd2 Qxe5+ 11. Qe2 Nbd7 12. O-O-O O-O-O 13. Qxe5 Nxe5
+14. h3 Bc5 15. f4 Ned7 16. Bc4 Bf2 17. Nf1 Rhf8 18. Bb4 Bc5 19. Bxc5 Nxc5 20.
+Ng3 b5 21. Rxd8+ Kxd8 22. Be2 Kc7 23. Rd1 Nd5 24. Rf1 f5 25. Bf3 Nxf4 26. Bxc6
+Nfd3+ 27. cxd3 Kxc6 28. Kc2 Re8 29. Kd2 Rd8 30. Rf3 Nb7 31. Ne2 Nd6 32. Nf4 Nc4+
+33. Kc2 Ne5 34. Re3 Kd6 35. Rg3 Rf8 36. d4 Rc8+ 37. Kd1 Nd7 38. Rxg6+ Nf6 39.
+Rxg7 Rc4 40. Ne2 Ra4 41. a3 b4 42. axb4 Rxb4 43. Kc2 Nd5 44. g3 Ne3+ 45. Kd3 Nd1
+46. b3 Nf2+ 47. Kc3 a5 48. Ra7 Nd1+ 49. Kd2 Nf2 50. Kc2 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.24"]
+[Round "10.1"]
+[White "Harikrishna,P"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2726"]
+[BlackElo "2629"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[WhiteFideId "5007003"]
+[BlackFideId "8602980"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Nc6 8. Nxc6
+bxc6 9. Qe2 d5 10. Bb3 Be7 11. Ba4 Bd7 12. e5 Ng8 13. Qg4 g6 14. Ne2 h5 15. Qf3
+Nh6 16. Bxh6 Rxh6 17. c4 Kf8 18. Nd4 Rc8 19. Rac1 c5 20. Bxd7 Qxd7 21. Ne2 d4
+22. b4 h4 23. bxc5 Rh5 24. Rfd1 Rxe5 25. Nxd4 Qe8 26. Qf4 Rcxc5 27. Nb3 Rf5 28.
+Qh6+ Kg8 29. Nxc5 Bxc5 30. Rc2 Be7 31. Qe3 Qc6 32. Kh1 Kh7 33. Rd4 Kg7 34. Qe4
+Qb6 35. Rd1 Bf6 36. Qe3 Qc6 37. c5 Kh7 38. h3 Be7 39. Rd4 Kg8 40. Rdc4 a5 41.
+Qc3 Rd5 42. Qf3 Qd7 43. Rc1 Rf5 44. c6 Rxf3 45. cxd7 Rd3 46. Rc7 Bd8 47. Rb7 Kf8
+48. Kg1 Ke7 49. Kf1 Rd2 50. Rc8 g5 51. Ke1 Rd5 52. Ke2 f5 53. Ke3 Rd1 54. Ke2
+Rd4 55. Rbb8 Rxd7 56. Rc3 Rd4 57. Rd3 Re4+ 58. Kd2 Rf4 59. f3 Bc7 60. Rb7 Rc4
+61. Rc3 Rxc3 62. Kxc3 Kd6 63. Kc4 Kc6 64. Ra7 Bb6 65. Ra8 Bc7 66. Ra7 Kb6 67.
+Ra8 Kc6 68. a4 Kd7 69. Ra6 Bd8 70. Kb5 Bc7 71. Kc5 Bd8 72. Ra7+ Bc7 73. Rb7 1-0
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.24"]
+[Round "10.2"]
+[White "Motylev,A"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2698"]
+[BlackElo "2750"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[WhiteFideId "4121830"]
+[BlackFideId "24116068"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Nxc6 Bxc6 12. Qe3 Be7 13. f5 Qa5 14. Kb1 b4
+15. Ne2 Qe5 16. Qb6 Qb5 17. Qf2 Qe5 18. Qb6 Qb5 19. Qf2 Qe5 1/2-1/2
+
+[Event "Hans Suri Mem 2014"]
+[Site "Biel SUI"]
+[Date "2014.07.24"]
+[Round "10.3"]
+[White "Vachier Lagrave,M"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2733"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "623539"]
+[BlackFideId "1118358"]
+[EventDate "2014.07.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Be7 11. Nd5 Nd7 12. Rd1 Bxd5 13. Qxd5 Qc7 14. Qc4 Qxc4
+15. Bxc4 Nf6 16. Bd5 Nxd5 17. Rxd5 Rc8 18. c3 g6 19. Ke2 Kd7 20. Rhd1 Ke6 21.
+Nd2 f5 22. a4 Rhd8 23. c4 Rc6 24. b3 Rf8 25. f4 exf4 26. Kf3 Rc5 27. Re1 Kd7 28.
+Rxc5 dxc5 29. exf5 Rxf5 30. Ne4 h5 31. Nc3 g5 32. h3 Bd6 33. Nd5 Be5 34. h4 gxh4
+35. Rh1 Rg5 36. Rxh4 Rg3+ 37. Ke4 Bd6 38. Rxh5 Rxb3 39. Rh6 Rb2 40. Nf6+ Kc6 41.
+Kf5 Bb8 42. a5 1/2-1/2

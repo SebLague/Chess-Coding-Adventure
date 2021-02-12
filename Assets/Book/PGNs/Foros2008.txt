@@ -1,0 +1,1279 @@
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "E97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. Re1 f5 11. Ng5 Nf6 12. f3 Kh8 13. b5 Ne8 14. Be3 Bf6
+15. Ne6 Bxe6 16. dxe6 Ng7 17. Bh6 Nxe6 18. Bxf8 Qxf8 19. c5 Nxc5 20. Bc4
+Bg5 21. Qe2 Qh6 22. Rad1 Rf8 23. a4 b6 24. g3 Qh3 25. Qg2 Qh6 26. Qe2 Qh3
+27. Kh1 Nd7 28. Ra1 Qh6 29. Ra2 Nf6 30. Kg2 Nh5 31. Nd5 Nxd5 32. Bxd5 Bf4
+33. Qf2 fxe4 34. Bxe4 Qg5 35. Rc2 d5 36. Bxd5 Bxg3 37. hxg3 Nf4+ 38. Kf1
+Nxd5 39. Rce2 Qf6 40. Rxe5 Qxf3 41. Qxf3 Rxf3+ 42. Ke2 Rf5 43. Rxf5 gxf5
+44. Kd3 c5 45. Re5 Nb4+ 46. Kd2 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Onischuk,Al"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. O-O O-O 10. a3 Bb7 11. Qc2 a5 12. Bd2 Rc8 13. Ng5 h6 14. Nge4
+Be7 15. Nxf6+ Nxf6 16. Ne4 c5 17. Nxf6+ Bxf6 18. dxc5 Bxb2 19. Bh7+ Kh8 20.
+Qxb2 Kxh7 21. Rac1 Bc6 22. f3 Qc7 23. Bc3 f6 24. Rfd1 Rfd8 25. Rd6 Rxd6 26.
+cxd6 Qxd6 27. Bxa5 Kg8 28. Bb4 Qd3 29. Qd2 Qxd2 30. Bxd2 Bd7 31. Rxc8+
+1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Eljanov,P"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2746"]
+[EventDate "2008.06.08"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qb3 Nb6 7. d4 Bg7
+8. Bf4 O-O 9. e3 Be6 10. Qa3 N8d7 11. Rd1 c6 12. Ng5 Bd5 13. e4 e5 14. dxe5
+Bxe5 15. Bxe5 Nxe5 16. h4 Qe8 17. h5 f6 18. Nf3 Nbc4 19. Bxc4 Nxc4 20. Qb3
+Nd2 21. Qxb7 Rf7 22. Qb4 Rb8 23. Qd4 Bxe4 24. Rxd2 Bxf3+ 25. Kf1 Bxh5 26.
+Ne4 Qe5 27. Qxe5 fxe5 28. Rh4 Rf4 29. Rxf4 exf4 30. f3 Kf8 31. Rd7 Rxb2 32.
+Rxa7 Rb1+ 33. Kf2 Rb2+ 34. Kf1 Rb1+ 35. Kf2 Rb2+ 36. Kg1 Rb1+ 37. Kh2 Rb2
+38. Kg1 Rb1+ 39. Kh2 Rb2 40. Kg1 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Alekseev,Evgeny"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2711"]
+[BlackElo "2732"]
+[EventDate "2008.06.08"]
+[ECO "B91"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Nbd7
+8. Bg2 b5 9. h3 Bb7 10. g4 b4 11. Nd5 Nxd5 12. exd5 Be7 13. Ng3 O-O 14. O-O
+Bg5 15. Bxg5 Qxg5 16. Nf5 Qf6 17. f4 a5 18. fxe5 Nxe5 19. b3 Qd8 20. Qd4
+Bc8 21. Ng3 Qc7 22. Rac1 Bd7 23. c3 bxc3 24. Rxc3 Qb8 25. g5 Qb4 26. Qxb4
+axb4 27. Rc2 Bb5 28. Rf4 Bd3 29. Rd2 Rfb8 30. Be4 Bxe4 31. Nxe4 Rb6 32. Kf2
+Kf8 33. Ke3 Ke7 34. Ng3 Rc8 35. Nf5+ Kd7 36. Nxg7 Rc3+ 37. Ke4 Rxh3 38. Nf5
+Rh1 39. Re2 Rb8 40. Nh6 Rd1 41. Ng4 Nxg4 42. Rxf7+ Kd8 43. Rxh7 Rb5 44. Kf5
+Rdxd5+ 45. Kxg4 Rxg5+ 46. Kf4 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Nisipeanu,LD"]
+[Black "Volokitin,And"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 O-O 9. O-O-O Ne5 10. Be2 Ng4 11. Bd3 Nxe3 12. Qxe3 Re8 13. Qf4
+d5 14. h4 h6 15. Ne5 Be6 16. Ng4 Bd6 17. Qf3 Qd7 18. Ne3 Qa4 19. Kb1 Qf4
+20. Qxf4 Bxf4 21. Rhe1 c6 22. g3 Bc7 23. c4 Ba5 24. Rg1 d4 25. Nf5 Rad8 26.
+g4 Bc7 27. a3 c5 28. Rde1 Kf8 29. h5 Bd7 30. Be4 Ba5 31. Re2 b5 32. Nd6
+Bxg4 33. Rxg4 Rxd6 34. cxb5 Re5 35. Bd3 Rdd5 36. Rxe5 Rxe5 37. Rh4 Be1 38.
+Rh2 Re6 39. f3 Re3 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.08"]
+[Round "1"]
+[White "Van Wely,L"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2677"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Rc1 e5 13. dxc5 Be6 14. c4
+bxc5 15. Bxc5 Bh6 16. Rc3 Re8 17. Ba3 Qc7 18. Qc2 Rab8 19. c5 Red8 20. c6
+Rb6 21. Rb1 Rxc6 22. Rxc6 Nxc6 23. Bc1 Bxc1 24. Rxc1 Qd6 25. Qxc6 Qxc6 26.
+Rxc6 Rxd3 27. f4 Bg4 28. Nc3 exf4 29. Nd5 Rd1+ 30. Kf2 Rd2+ 31. Kf1 Be2+
+32. Ke1 Rxa2 33. Nxf4 Bb5 34. Rc8+ Kg7 35. Rc7 Ra4 36. Ne6+ Kf6 37. Nc5 Ra2
+38. g4 Re2+ 39. Kd1 Rxh2 40. g5+ Ke5 41. Rxf7 a5 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Van Wely,L"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2687"]
+[EventDate "2008.06.08"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Rc1 e5 13. dxc5 Be6 14.
+cxb6 axb6 15. c4 Qb8 16. Rc3 Rc8 17. Qc2 Bf8 18. Rb1 Bc5 19. Bxc5 Rxc5 20.
+Nc1 Qc7 21. Nb3 Rc6 22. Nd2 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2765"]
+[EventDate "2008.06.08"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.
+cxd5 Nxd5 9. O-O Be7 10. Rd1 Qc8 11. Qf5 Nf6 12. Bg5 Nc6 13. Nc3 d5 14. Qf4
+d4 15. Bxf6 Bxf6 16. Nd5 Bd8 17. e3 Ne7 18. Nxe7 Bxe7 19. exd4 O-O 20. dxc5
+bxc5 21. Rac1 a5 22. b3 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Volokitin,And"]
+[Black "Onischuk,Al"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2664"]
+[EventDate "2008.06.08"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Re1 Be4 12. Qc1 Nbd7 13. Ba5 Qe7 14.
+Nbd2 Bxf3 15. Nxf3 Rac8 16. e4 e5 17. Nh4 g6 18. f4 exf4 19. e5 Nxe5 20.
+dxe5 Bc5+ 21. Kf1 Ng4 22. Qxf4 Nxh2+ 23. Ke2 f6 24. Bd5+ Kg7 25. Bc3 b4 26.
+Bd2 Qxe5+ 27. Qxe5 fxe5 28. Rac1 Bd6 29. Rh1 Ng4 30. Be6 Nf2 31. Nf5+ 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Karjakin,Sergey"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "B48"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6
+8. O-O-O Bb4 9. f3 Ne7 10. Nde2 b5 11. Bf4 e5 12. Bg5 h5 13. Kb1 Ba5 14.
+Nc1 b4 15. Na4 b3 16. Nc3 bxc2+ 17. Qxc2 Rb8 18. Nb3 Bb4 19. Rd3 d6 20. a3
+Bxa3 21. bxa3 Be6 22. Na2 Qa5 23. Bc1 Qa4 24. Nb4 O-O 25. Nd4 Qxc2+ 26.
+Ndxc2 a5 27. Rxd6 axb4 28. Nxb4 Nd7 29. Bb2 Ng6 30. g3 Nc5 31. Be2 Na4 32.
+Rc1 Nxb2 33. Kxb2 Kh7 34. Rc5 h4 35. Bb5 Bh3 36. a4 Bg2 37. Rc3 f5 38. Na6
+Rb7 39. Nc5 Ra7 40. Nd7 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "E04"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O O-O 8.
+Bg5 b5 9. a4 c6 10. Nc3 Qb6 11. Bxf6 gxf6 12. axb5 cxb5 13. d5 Rd8 14. Qd4
+Qxd4 15. Nxd4 Ra6 16. Ndxb5 Rb6 17. Rfd1 e5 18. Na3 Ba6 19. Na4 Rb7 20.
+Rdc1 Rc7 21. e4 f5 22. exf5 Nd7 23. Bf1 Rdc8 24. Nc2 Bf8 25. Ne3 e4 26. Nc3
+Nc5 27. Rd1 Nb3 28. Ra4 Bb4 29. d6 Rb7 30. Ncd5 Kf8 31. Nxb4 Bb5 32. Ra2
+axb4 33. Bxc4 Bxc4 34. Nxc4 Kg7 35. Ne3 Rd8 36. Rd5 Rb6 37. Ra4 Nc1 38. Nc4
+Rb7 39. Rc5 Nd3 40. Rc7 Rb5 41. g4 Rd5 42. Raa7 Rf8 43. h4 h5 44. g5 Ne1
+45. f6+ Kg6 46. Kh2 Rf5 47. Ra5 Rxf2+ 48. Kg1 e3 49. Ne5+ Kh7 50. Rxf7+
+Rxf7 51. g6+ Kh6 52. gxf7 Rxf6 53. d7 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.09"]
+[Round "2"]
+[White "Shirov,A"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 Bb7 8.
+Bg2 Nxd5 9. O-O Be7 10. Qe4 Bc6 11. Ne5 Nc7 12. Nxc6 dxc6 13. Nc3 O-O 14.
+Rd1 Qe8 15. Bf4 Ne6 16. Nb5 Qc8 17. Bxb8 Qxb8 18. Qxc6 Qe5 19. Qd7 Rae8 20.
+Nc3 Qb8 21. Nd5 Bd8 22. e3 Nc7 23. Rd2 Nxd5 24. Bxd5 Bf6 25. Rad1 g6 26.
+Bc4 Kg7 27. b3 Re7 28. Qb5 h5 29. a4 h4 30. Qc6 hxg3 31. hxg3 Rc8 32. Qf3
+Qe5 33. Rd5 Qc7 34. g4 Rh8 35. g5 Bb2 36. Kf1 Qb7 37. Ke2 Qc7 38. Qg4 Bd4
+39. Kd3 Be5 40. f4 Bd6 41. Qg2 a6 42. Qb2+ Kg8 43. Kc2 Rh2+ 44. R5d2 Rxd2+
+45. Rxd2 b5 46. Qf6 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Eljanov,P"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2687"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qb3 Nb6 7. d4 Bg7
+8. Bf4 O-O 9. e3 Be6 10. Qa3 N8d7 11. Rd1 Nd5 12. Nxd5 Bxd5 13. Be2 Re8 14.
+O-O c6 15. Bg3 Qb6 16. b3 e5 17. Nxe5 Nxe5 18. dxe5 Bxe5 19. Bc4 Bxc4 20.
+bxc4 Bxg3 21. hxg3 Re4 22. Rd7 Rae8 23. c5 Qb5 24. Qxa7 Ra4 25. Qb6 Qxb6
+26. cxb6 Rb8 27. Rb1 Rxa2 28. Rb4 c5 29. Re4 Rb2 30. Ree7 Rb1+ 31. Kh2 Rxb6
+32. Rxf7 Rc6 33. Rg7+ Kf8 34. Rxh7 Ke8 35. Rd5 Rcc8 36. Re5+ Kf8 37. Rxc5
+Rxc5 38. Rh8+ Ke7 39. Rxb8 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Onischuk,Al"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2732"]
+[EventDate "2008.06.08"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 Qc7 12. dxe6 fxe6 13. Bc2 c4 14. Qe2 Bd6
+15. Nd4 Nc5 16. f4 e5 17. Ndxb5 axb5 18. Nxb5 Qb6 19. Nxd6+ Qxd6 20. fxe5
+Qxe5 21. Rf5 Qe7 22. Qxc4 Ncd7 23. Bd2 Rc8 24. Qb3 Rxc2 25. Qxc2 Bxe4 26.
+Qc8+ Kf7 27. Qc4+ Qe6 28. Qxe6+ Kxe6 29. Rg5 g6 30. Re1 Rc8 31. Bc3 Kf7 32.
+Ra5 Bf5 33. h3 h5 34. Bb4 Ne4 35. g4 hxg4 36. hxg4 Rc4 37. gxf5 Rxb4 38.
+Ra7 Nef6 39. fxg6+ Kxg6 40. Re2 Nc5 41. Rg2+ Kf5 42. Ra5 Nfe4 43. Rc2 Kf4
+44. Raxc5 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Nisipeanu,LD"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "B40"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Qc7 6. Bd3 Nf6 7. O-O d6
+8. c4 Be7 9. Nc3 O-O 10. Be3 b6 11. a4 Nc6 12. a5 bxa5 13. Nb5 Qb8 14. Nxa5
+Nxa5 15. Rxa5 a6 16. Nd4 Qxb2 17. c5 dxc5 18. Nc6 Re8 19. e5 Nd5 20. Nxe7+
+Rxe7 21. Bxc5 Rc7 22. Bd6 Rc3 23. Ra4 h6 24. Rg4 Bd7 25. Rg3 Bb5 26. Qg4 g5
+27. Qh5 Bxd3 28. Qxh6 Bg6 29. Rxg5 Nf4 30. Rg4 Rc1 31. Qxf4 Rxf1+ 32. Kxf1
+Qb1+ 33. Ke2 Qd3+ 34. Ke1 Rc8 35. Bb4 Qb1+ 36. Ke2 Qd3+ 37. Ke1 a5 38. Bd2
+Rb8 39. Qc4 Rb1+ 40. Bc1 Qf5 41. f3 Qxe5+ 42. Kf2 Rb4 43. Qc8+ Kh7 44. h3
+1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Alekseev,Evgeny"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2711"]
+[BlackElo "2746"]
+[EventDate "2008.06.08"]
+[ECO "C53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. O-O O-O 8.
+h3 d6 9. Be3 d5 10. Bxa7 Rxa7 11. d4 dxe4 12. Nxe5 Qd6 13. Nxc6 Qxc6 14.
+Nd2 Ra8 15. Re1 Bf5 16. g4 Bg6 17. g5 Nh5 18. d5 Qd7 19. Qg4 f5 20. gxf6
+Qxg4+ 21. hxg4 Nxf6 22. g5 Nd7 23. Nxe4 Rf4 24. Ng3 Kf8 25. Rad1 Re8 26.
+Rxe8+ Kxe8 27. d6 Kd8 28. Rd4 Rf8 29. dxc7+ Kxc7 30. f4 h6 31. gxh6 gxh6
+32. Be6 Nc5 33. Bd5 h5 34. b4 Na4 35. Bb3 Nb6 36. f5 Be8 37. Be6 Nd7 38.
+Kf2 Nf6 39. Ke3 Rh8 40. Rh4 Kd6 41. Kd4 Rh7 42. c4 Rg7 43. Ne4+ Nxe4 44.
+Rxe4 Ke7 45. Bd5+ Kf8 46. f6 Rh7 47. Rh4 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Van Wely,L"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2677"]
+[EventDate "2008.06.08"]
+[ECO "D43"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Qc2 Qd8 9. Bd3 Be7 10. O-O O-O 11. Rad1 dxc4 12. Bxc4 b5 13. Be2 Bb7 14.
+Ne4 Qb6 15. Rc1 Rfd8 16. Rfd1 Rac8 17. Nc5 Nxc5 18. dxc5 Rxd1+ 19. Rxd1
+Qxc5 20. Qxc5 Bxc5 21. Rd7 Ba8 22. Ne5 Bb6 23. Nxf7 Rc7 24. Ne5 Rxd7 25.
+Nxd7 Bc7 26. Nc5 Kf7 27. Bg4 e5 28. Bf3 Ke7 29. Kf1 Bb6 30. b4 a5 31. a3
+Bxc5 32. bxc5 Bb7 33. Ke2 Ba6 34. Kd2 Kd7 35. Be4 g5 36. Kc3 Bc8 37. g3 Kc7
+38. f4 g4 39. f5 Bd7 40. f6 Kd8 41. Kd3 a4 42. Bg6 Be6 43. Kc3 Kd7 44. Be4
+Bf7 45. Bf5+ Ke8 46. Bxg4 Bd5 47. Bh5+ Kd7 48. Bg6 e4 49. g4 Ke6 50. f7 Ke7
+51. h4 Kf8 52. Kd4 Ke7 53. h5 Bxf7 54. Bxe4 Be8 55. Bf5 Kf6 56. e4 Kg5 57.
+Bc8 Kf4 58. e5 b4 59. axb4 a3 60. Kc3 Kxe5 61. Kb3 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.10"]
+[Round "3"]
+[White "Jakovenko,D"]
+[Black "Volokitin,And"]
+[Result "1-0"]
+[WhiteElo "2711"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "E94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O exd4 8.
+Nxd4 Re8 9. f3 Nc6 10. Be3 Nh5 11. Qd2 Nxd4 12. Bxd4 Nf4 13. Rfd1 Bxd4+ 14.
+Qxd4 Nxe2+ 15. Nxe2 b6 16. Nc3 Bb7 17. Nd5 Bxd5 18. cxd5 Qg5 19. Rac1 Re7
+20. Qd2 Qh5 21. g4 Qh4 22. Qf2 Qg5 23. Qd2 Qh4 24. Kh1 Rf8 25. Rg1 h5 26.
+Rc3 hxg4 27. Rxg4 Qh3 28. Rg3 Qf1+ 29. Rg1 Qh3 30. Rg3 Qf1+ 31. Rg1 Qh3 32.
+Qg5 Rfe8 33. f4 Qh8 34. f5 Qd4 35. Re3 Rxe4 36. fxg6 f5 37. Qxf5 R4e7 38.
+Rf3 Qe4 39. Qxe4 Rxe4 40. Rf7 R8e7 41. Rgf1 Rxf7 42. Rxf7 Re2 43. h4 Rxb2
+44. h5 Rb4 45. Kg2 Rh4 46. Rh7 Rd4 47. Kg3 Rxd5 48. Kg4 Ra5 49. Rxc7 Rxa2
+50. Kg5 Ra5+ 51. Kf6 Rc5 52. Rxc5 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.11"]
+[Round "4"]
+[White "Ivanchuk,V"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2664"]
+[EventDate "2008.06.08"]
+[ECO "D37"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. Qc2 c5 8.
+dxc5 Na6 9. cxd5 Nxd5 10. Bxe7 Nxe7 11. g3 Qa5 12. Bg2 Nb4 13. Qb3 Qxc5 14.
+O-O Nbc6 15. Rfd1 e5 16. Rac1 Be6 17. Qxb7 Rab8 18. Qa6 Rxb2 19. Nd5
+1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.11"]
+[Round "4"]
+[White "Shirov,A"]
+[Black "Volokitin,And"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "D56"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Ne4 8.
+Bxe7 Qxe7 9. Qc2 Nxc3 10. Qxc3 dxc4 11. Bxc4 b6 12. O-O Bb7 13. Rac1 Nd7
+14. Rfd1 c5 15. dxc5 Nxc5 16. Qe5 Rac8 17. Nd4 Nd7 18. Qg3 Nf6 19. f3
+1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.11"]
+[Round "4"]
+[White "Van Wely,L"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "D31"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Nc3 dxc4 5. e3 b5 6. a4 Bb4 7. Bd2 a5 8.
+axb5 Bxc3 9. Bxc3 cxb5 10. b3 Bb7 11. bxc4 b4 12. Bb2 Nf6 13. Bd3 Nbd7 14.
+O-O O-O 15. Re1 Ne4 16. Qc2 f5 17. c5 Bc6 18. Bc4 Re8 19. Bb3 Qc7 20. Red1
+Kh8 21. Ne1 Nef6 22. Nd3 Bd5 23. Ba4 Nb8 24. f3 Nc6 25. Nf2 e5 26. dxe5
+Nxe5 27. Bxe8 Rxe8 28. Qxf5 Bf7 29. Rd6 Bg6 30. Qf4 Nfd7 31. Rad1 Qxc5 32.
+Rxd7 Nxd7 33. Rxd7 Qxe3 34. Qxe3 Rxe3 35. Bxg7+ Kg8 36. Ng4 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.11"]
+[Round "4"]
+[White "Karjakin,Sergey"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4
+O-O 8. Qd2 Nd7 9. O-O-O Nc5 10. Be3 Re8 11. Bc4 Be6 12. Bxe6 Nxe6 13. h4
+Qd7 14. Qd3 Qc6 15. Qf5 Qc4 16. Kb1 g6 17. Qh3 h5 18. Nd2 Qe2 19. Rde1 Qg4
+20. Qh2 d5 21. f3 Qa4 22. g4 Bd6 23. Qg1 Ng7 24. Nb3 Qd7 25. Rd1 hxg4 26.
+fxg4 Re4 27. Rd4 Rae8 28. Bc1 Be5 29. Rxe4 dxe4 30. h5 gxh5 31. gxh5 Kh8
+32. Qg5 f6 33. Qh6+ Kg8 34. Rg1 Qf7 35. Nd4 f5 36. Bf4 Bxf4 37. Qxf4 Kh7
+38. Rg6 Re7 39. Qh6+ Kg8 40. Qg5 Kh7 41. Nxf5 Nxf5 42. Rf6 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.11"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "B10"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 Nxd5 6. Nf3 e6 7. Bc4
+Nxc3 8. bxc3 Bd6 9. O-O O-O 10. d4 Nd7 11. Bd3 b6 12. Ng5 Nf6 13. Qf3 Qc7
+14. Ne4 Nxe4 15. Bxe4 Rb8 16. h3 Bb7 17. Bxb7 Qxb7 18. Qxb7 Rxb7 19. a4
+1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.11"]
+[Round "4"]
+[White "Eljanov,P"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2687"]
+[BlackElo "2765"]
+[EventDate "2008.06.08"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Ng5 Bxg2 12. Kxg2 Nbd7 13. e4 e5 14.
+dxe5 Nxe5 15. f4 Nc4 16. b3 Nxd2 17. Nxd2 h6 18. Ngf3 Bb4 19. Rfd1 Qe7 20.
+e5 Nd5 21. Nf1 Rad8 22. a3 Bc5 23. b4 Bb6 24. Rd2 Qd7 25. f5 Rfe8 26. Rad1
+c6 27. Rc1 Be3 28. Rxd5 cxd5 29. Nxe3 d4 30. Nf1 Rc8 31. Qd1 Rxc1 32. Qxc1
+Qxf5 33. Qc6 Rc8 34. Qxa6 Rc2+ 35. N1d2 g5 36. Qxh6 g4 37. Nh4 Qxe5 38. Kf2
+Ra2 39. h3 d3 40. Qe3 Qxe3+ 41. Kxe3 gxh3 42. Nhf3 Rxa3 43. Kf2 Ra4 44. Kg1
+Rxb4 45. Kh2 Ra4 46. Kxh3 Ra8 47. Nd4 b4 48. Kg4 Re8 49. Kf5 Re2 50. N4b3
+Kf8 51. Ne4 Ke7 52. Ke5 Rg2 53. Kf4 Ke6 54. Kf3 Re2 55. Nec5+ Kd5 56. Nxd3
+Re8 57. Na5 Rb8 58. Nc1 Kc5 59. Nd3+ Kd5 60. Nc1 Rc8 61. Ncb3 Ke5 62. Ke2
+Rc2+ 63. Kf3 Rc3+ 64. Kg4 Ke4 65. Nb7 Kd3 66. N3a5 Kd4 67. Kf4 Kd5 68. Nd8
+Rc8 69. Ndb7 Rc3 70. Nd8 Ra3 71. Ndc6 b3 72. Nxb3 Rxb3 73. Ne5 Rb1 74. g4
+Rf1+ 75. Nf3 Ke6 76. Kg3 Ra1 77. Kf4 Ra4+ 78. Kg3 Kd5 79. Nh4 Ke4 80. g5
+Ke5 81. Kh3 Kf4 82. g6 Kg5 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.12"]
+[Round "5"]
+[White "Alekseev,Evgeny"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2711"]
+[BlackElo "2687"]
+[EventDate "2008.06.08"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. O-O Nd4 7. Nxe5 c6
+8. Ba4 d6 9. Nf3 Bg4 10. Be3 Qa5 11. Bb3 Nd7 12. Bxd4 Bxd4 13. h3 Bxf3 14.
+Qxf3 Bxc3 15. bxc3 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.12"]
+[Round "5"]
+[White "Volokitin,And"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2732"]
+[EventDate "2008.06.08"]
+[ECO "E37"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5
+8. dxc5 Nc6 9. e3 Qa5+ 10. Bd2 Nxd2 11. Qxd2 dxc4 12. Qxa5 Nxa5 13. Rc1 b5
+14. cxb6 Bb7 15. bxa7 Ke7 16. Ne2 Rxa7 17. Nc3 Bc6 18. Na2 Rd7 19. Nb4 Ba4
+20. Be2 Bb3 21. Bf3 f5 22. e4 f4 23. g3 Rf8 24. gxf4 Rxf4 25. Ke2 Kd6 26.
+h4 Rdf7 27. Rh3 g6 28. Ke3 Nb7 29. Bd1 Rxf2 30. e5+ Kd7 31. Bf3 Rxb2 32.
+Bxb7 Rf5 33. Bc6+ Kc7 34. Be4 Rxe5 35. Nd3 Rc2 36. Nxe5 Rxc1 37. Rh1 Rc3+
+38. Kd4 Rg3 39. Rf1 c3 40. Rf7+ Kc8 41. Kc5 c2 42. Kd6 Bd5 43. Bxd5 exd5
+44. Nc6 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.12"]
+[Round "5"]
+[White "Nisipeanu,LD"]
+[Black "Van Wely,L"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2677"]
+[EventDate "2008.06.08"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. O-O-O Be7 10. f4 Ng4 11. g3 Nxe3 12. Qxe3 b5 13. Kb1 Qb6 14.
+Qe1 b4 15. Nd5 Bxd5 16. exd5 O-O 17. Bh3 Nc5 18. fxe5 Nxb3 19. axb3 dxe5
+20. Qxe5 Bf6 21. Qf4 Ra7 22. d6 a5 23. d7 a4 24. Qd6 Qxd6 25. Rxd6 axb3 26.
+cxb3 Be7 27. Rd5 Rfa8 28. Kc2 Kf8 29. Re1 Rc7+ 30. Kd3 g6 31. Rde5 Bd8 32.
+Re8+ Kg7 33. R1e5 Rc1 34. Bg2 Rb8 35. Rd5 h5 36. Bf3 Rf1 37. Ke2 Rc1 38.
+Rb5 Rxb5 39. Rxd8 Rc2+ 40. Kd3 Rxb2 41. Rc8 Rxb3+ 42. Kc4 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.12"]
+[Round "5"]
+[White "Onischuk,Al"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2664"]
+[BlackElo "2746"]
+[EventDate "2008.06.08"]
+[ECO "D97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8.
+Be2 b5 9. Qb3 c5 10. dxc5 Be6 11. Qc2 Nbd7 12. Be3 Rc8 13. Rd1 b4 14. Na4
+Qa5 15. O-O Nxe4 16. c6 Nd6 17. b3 Bd5 18. Rxd5 Qxd5 19. Rc1 Nb8 20. c7 Nd7
+21. Bxa6 Ra8 22. Qd3 Qxd3 23. Bxd3 Rfc8 24. Nd4 Bxd4 25. Bxd4 Ne8 26. Nb6
+Nxb6 27. Bxb6 Rxa2 28. g3 Nd6 29. Rd1 Kf8 30. Bf1 Rc2 31. Rd4 Ra8 32. Rxb4
+Rc6 33. Bh3 f5 34. g4 Ra6 35. Bd4 Rxc7 36. gxf5 Nxf5 37. Bf1 Rc1 38. Bb2
+Rb1 39. Be5 Ra5 40. Bh8 Ng7 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.12"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Rc1 Bd6 9. Bd3 dxc4 10. Bxc4 Qe7 11. O-O O-O 12. Ne4 Bc7 13. Bb3 Rd8 14.
+Qc2 a5 15. a3 Rb8 16. Rfd1 Nf8 17. Ne5 Bd7 18. Nxd7 Nxd7 19. g3 Nf6 20. Qc5
+Qxc5 21. Nxf6+ gxf6 22. Rxc5 Ra8 23. Kg2 Bd6 24. Rc2 f5 25. Bc4 a4 26. Be2
+Be7 27. Bf3 Ra5 28. Rc4 Bf6 29. Rdc1 e5 30. dxe5 Bxe5 31. Rb4 Rd7 32. Rc2
+Kg7 33. Kf1 Bf6 34. Rcc4 Ra8 35. Rf4 Ra5 36. Ke2 Rc5 37. Rfc4 Rxc4 38. Rxc4
+Bxb2 39. Rxa4 c5 40. Kf1 b6 41. Be2 Bc3 42. Bb5 Rd1+ 43. Kg2 Ba5 44. Rf4
+Kg6 45. a4 Bc3 46. g4 fxg4 47. Be8 Be5 48. Bxf7+ Kg5 49. Re4 Kf5 50. Rc4
+Rd7 51. Bh5 Rg7 52. a5 bxa5 53. Rxc5 Ra7 54. Rc4 Rg7 55. Rc5 Ra7 56. Rc4
+Rg7 57. Rc6 Ra7 58. Bg6+ Kg5 59. Bc2 a4 60. Rg6+ Kh5 61. Re6 Bg7 62. Kg3
+Ra5 63. Bg6+ Kg5 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.12"]
+[Round "5"]
+[White "Jakovenko,D"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2711"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "B43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Bd3 Nf6 7. O-O Nbd7
+8. Kh1 b5 9. Qe2 Bb7 10. Bd2 Qb6 11. Nb3 h5 12. a4 b4 13. Nd1 h4 14. h3 d5
+15. exd5 Nxd5 16. Be4 N7f6 17. Bf3 Rc8 18. Rc1 Be7 19. Bg5 O-O 20. Ne3 Nxe3
+21. Bxe3 Bxf3 22. Qxf3 Qc6 23. Qxc6 Rxc6 24. Na5 Rc7 25. c4 bxc3 26. Rxc3
+Rxc3 27. bxc3 Rc8 28. Bd4 Ne4 29. Nb3 Rb8 30. Rb1 Bc5 31. Nd2 Nxf2+ 32. Kg1
+Rxb1+ 33. Nxb1 Ne4 34. Kf1 Kh7 35. Ke2 Bxd4 36. cxd4 Kg6 37. Ke3 Kf5 38.
+Na3 Nd6 39. Nc2 Nc4+ 40. Kf3 a5 41. Na1 Kf6 42. Nb3 Ke7 43. Kg4 Kd6 44.
+Kxh4 Kd5 45. g4 Ke4 46. Kg3 Kd3 47. h4 Kc3 48. Nc1 Kxd4 49. h5 Ke4 50. Nb3
+f5 51. g5 f4+ 52. Kf2 Kf5 53. Nd4+ Kxg5 54. Nxe6+ Kxh5 55. Nxg7+ Kg4 56.
+Ne6 Nd6 57. Nd4 Ne4+ 58. Kg2 Nc5 59. Kf2 Nxa4 60. Nb3 Nc3 61. Nxa5 Ne4+ 62.
+Kf1 f3 63. Nc4 Kf4 64. Nb2 Ke3 65. Nc4+ Kd4 66. Nb2 Nc3 67. Kf2 Ke4 68. Nd3
+Nd1+ 69. Kg3 Ke3 70. Ne5 f2 71. Ng4+ Ke2 72. Nxf2 Nxf2 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Eljanov,P"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "E00"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Bg2 O-O 7. e4 d6 8.
+Ne2 e5 9. Nd2 Nc6 10. O-O Qb6 11. Nb3 a5 12. Rc1 a4 13. c5 Qd8 14. Nd2 dxc5
+15. d5 Na5 16. Rxc5 Qb6 17. Rc1 Bd7 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "E17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 d5 8.
+cxd5 exd5 9. O-O O-O 10. Rc1 Nd7 11. Bf4 Nxc3 12. Rxc3 c5 13. dxc5 bxc5 14.
+b4 cxb4 15. Rc7 Nc5 16. Nd4 Rc8 17. Rxc8 Qxc8 18. Qb1 a5 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Svidler,P"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 Re6 18. a4 Qh5 19. axb5 axb5 20. Nf1
+Bf5 21. Qd2 Rfe8 22. Bc2 Bh3 23. Qd1 Bg4 24. Qd3 Qh3 25. Bd2 Re2 26. Rxe2
+Bxe2 27. Re1 Bxd3 28. Rxe8+ Bf8 29. Bxd3 Qd7 30. Re1 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Volokitin,And"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c6 8.
+h3 b6 9. cxd5 Nxd5 10. Nxd5 exd5 11. Be2 Bb7 12. Qa4 c5 13. O-O a6 14. dxc5
+Nxc5 15. Qc2 Bf6 16. Rac1 Rc8 17. Qb1 Qe7 18. Rfd1 g6 19. Bf1 Nb3 20. Rxc8
+Rxc8 21. Qa2 Nc1 22. Qb1 Nb3 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Van Wely,L"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2664"]
+[EventDate "2008.06.08"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Qf6 13. b4 h6 14. Bg3
+Bg4 15. h3 Bxf3 16. Qxf3 Qxf3 17. gxf3 Rfe8 18. Kg2 Rad8 19. Rfe1 d4 20.
+exd4 Bxd4 21. Rxe8+ Rxe8 22. Rd1 Bb2 23. b5 Ne5 24. Be4 Bxa3 25. Bxb7 g5
+26. f4 Ng6 27. fxg5 hxg5 28. Kf1 Kg7 29. Bc6 Re7 30. Rd5 Kf6 31. Bd7 Nf4
+32. Rd1 Kg6 33. h4 Nh5 34. hxg5 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.13"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2732"]
+[EventDate "2008.06.08"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxf7 Kxf7 13. e5 Nd5 14. Ne4
+Qb6 15. Nd6+ Ke7 16. Bg4 h5 17. Bxh5 Raf8 18. Qg4 Bh6 19. h4 Rhg8 20. hxg5
+Bxg5 21. Ne4 Ne3 22. Qxg5+ Rxg5 23. Bh4 Kd8 24. fxe3 Rh8 25. Bxg5+ Kc7 26.
+Bg4 c5 27. dxc5 Nxc5 28. Rf7+ Kb8 29. Nd6 Rg8 30. Raf1 Rxg5 31. Rf8+ Kc7
+32. R1f7+ Nd7 33. Rxd7+ Kxd7 34. Rf7+ Kd8 35. Rf8+ Kd7 36. Rf7+ 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.15"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Bf4
+Qf6 8. Qd2 Be7 9. O-O-O O-O 10. Re1 Qf5 11. a3 Bf6 12. Bd3 Qa5 13. h4 Bf5
+14. Ng5 Rae8 15. g4 Bxg5 16. Bxf5 Bxf4 17. Qxf4 Re5 18. Bd3 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.15"]
+[Round "7"]
+[White "Alekseev,Evgeny"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2711"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "C53"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d5 7. exd5 Nxd5
+8. h3 Nb6 9. Bb5 Bd6 10. Re1 Ne7 11. d4 exd4 12. cxd4 Bf5 13. Nc3 c6 14.
+Bf1 Nbd5 15. Ne4 Bb4 16. Re2 Ng6 17. Ng3 Be6 18. a3 Ba5 19. Qc2 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.15"]
+[Round "7"]
+[White "Volokitin,And"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2746"]
+[EventDate "2008.06.08"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Qe2 Bg4 16. Qf1 Rae8 17. Rxe8 Qxf1+ 18. Kxf1 Rxe8 19. Kg2 Bf5 20.
+Nd2 Re1 21. a4 b4 22. Nf3 Be4 23. Bc2 Ne3+ 24. Bxe3 Bxf3+ 25. Kxf3 Rxa1 26.
+c4 Ra2 27. c5 Bb8 28. Bc1 Ra1 29. Be3 Ra2 30. Bc1 Ra1 31. Be3 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.15"]
+[Round "7"]
+[White "Nisipeanu,LD"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2684"]
+[BlackElo "2765"]
+[EventDate "2008.06.08"]
+[ECO "B70"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O Nc6
+8. Nb3 O-O 9. Kh1 a6 10. f4 b5 11. Bf3 Bb7 12. a4 b4 13. Nd5 Nxd5 14. exd5
+Na5 15. c3 bxc3 16. bxc3 Rc8 17. Rb1 Ba8 18. Nd2 Nc4 19. Nxc4 Rxc4 20. Bd2
+Qa5 21. Qe1 Bxd5 22. Be2 Qxa4 23. Bxc4 Bxc4 24. Rf2 e6 25. Be3 Bd5 26. Rfb2
+Qe4 27. Qd2 h5 28. Bd4 Bh6 29. Be3 a5 30. Rb8 Kh7 31. h3 Rxb8 32. Rxb8 Bg7
+33. Bd4 Bxd4 34. cxd4 a4 35. Kh2 a3 36. Rb4 a2 37. Ra4 Qb1 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.15"]
+[Round "7"]
+[White "Onischuk,Al"]
+[Black "Eljanov,P"]
+[Result "0-1"]
+[WhiteElo "2664"]
+[BlackElo "2687"]
+[EventDate "2008.06.08"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Rd1 d6 11. Bf4 Qb6 12. Rd2 h6 13. Rad1 e5 14. Be3
+Nc6 15. Qb5 Qc7 16. Qb3 a6 17. Nh4 Rfb8 18. Bxc6 Qxc6 19. f3 e4 20. Qc2 Re8
+21. fxe4 Qc8 22. Nf3 Qh3 23. Kh1 Bf8 24. Rd5 Bxd5 25. cxd5 Ng4 26. Bg1 g6
+27. e5 Nxe5 28. Ne4 Ng4 29. Nh4 Rab8 30. Ng2 Rxe4 31. Qxe4 Qxh2+ 32. Bxh2
+Nf2+ 33. Kg1 Nxe4 34. b3 h5 35. Rc1 Bg7 36. Rc2 g5 37. Ne1 Re8 38. Kf1 Nc3
+39. Rd2 g4 40. Ng2 Bh6 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.15"]
+[Round "7"]
+[White "Jakovenko,D"]
+[Black "Van Wely,L"]
+[Result "1-0"]
+[WhiteElo "2711"]
+[BlackElo "2677"]
+[EventDate "2008.06.08"]
+[ECO "B84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. a4 Nc6 8.
+O-O Be7 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Bd7 13. Nb3 b6 14. g4 Bc8
+15. Bg2 Bb7 16. g5 Nd7 17. Rf3 Bf8 18. Rh3 g6 19. Qe1 Nb4 20. Qf2 Bg7 21.
+Rf1 Re7 22. Bd4 e5 23. fxe5 Bxe5 24. Bxe5 dxe5 25. Rf3 Nf8 26. a5 bxa5 27.
+Nxa5 Rb8 28. Nxb7 Qxb7 29. Rf6 Qa7 30. Nd5 Nxd5 31. Qxa7 Rxa7 32. exd5 Rxb2
+33. d6 Ne6 34. Bd5 Kg7 35. Rxe6 fxe6 36. Bxe6 Rb6 37. d7 Ra8 38. Rf7+ Kg8
+39. Re7+ Rxe6 40. Rxe6 Kf7 41. Rxa6 Rd8 42. Rd6 Ke7 43. Rd1 Rxd7 44. Rxd7+
+Kxd7 45. Kg2 Ke6 46. Kf3 Kf5 47. h4 e4+ 48. Ke3 Ke5 49. c4 Kf5 50. c5 Ke5
+51. c6 Kd6 52. Kxe4 Kxc6 53. Ke5 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2664"]
+[EventDate "2008.06.08"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Be3 Nbd7 12. Nbd2 Qe7 13. Nb3 Be4 14.
+Qc1 e5 15. dxe5 Nxe5 16. Nxe5 Bxg2 17. Nc6 Bxc6 18. Qxc6 Ng4 19. Bd4 Qxe2
+20. Rfe1 Qd3 21. h3 Nh6 22. Be5 Bxe5 23. Rxe5 Nf5 24. Rae1 g6 25. Rd5 Qc4
+26. Rc5 Qd3 27. Rd5 Qc4 28. Rc5 Qd3 29. Rd5 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Eljanov,P"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. cxd5 Nxd5
+8. Bxe7 Qxe7 9. Rc1 Nxc3 10. Rxc3 c6 11. g3 Nd7 12. Bg2 e5 13. O-O exd4 14.
+Nxd4 Nf6 15. Qa4 Rd8 16. e3 Bg4 17. b4 a6 18. Qa5 Qd7 19. Rfc1 Bh3 20. Bf3
+Bg4 21. Bg2 Bh3 22. Bf3 Bg4 23. Bh1 Be6 24. R3c2 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Shirov,A"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2740"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O
+8. Bb5 Qd6 9. Nge2 c6 10. Bd3 e5 11. dxe5 Qxe5 12. Bd4 Qe7 13. Bxg7 Kxg7
+14. Bc2 Rd8 15. Qc1 Na6 16. O-O Be6 17. Nf4 Bc4 18. Re1 Nb4 19. a3 Nxc2 20.
+Qxc2 Qf6 21. Nce2 Rd7 22. b3 Ba6 23. Rad1 Rad8 24. g3 Qe5 25. f3 Kg8 26. a4
+h5 27. Kf2 Rd6 28. Qc3 Nd7 29. Rxd6 Qxd6 30. Rc1 Ne5 31. h4 Qf6 32. b4 Rd3
+33. Nxd3 Qxf3+ 34. Kg1 Bxd3 35. Qxe5 Qe3+ 36. Kh2 Qxe2+ 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2732"]
+[EventDate "2008.06.08"]
+[ECO "E12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Nxc3
+8. bxc3 Be7 9. e4 Nd7 10. Bd3 c5 11. O-O Qc7 12. Qe2 O-O 13. Bb2 Rfd8 14.
+Rfd1 Rac8 15. Nd2 Nb8 16. Nc4 Ba6 17. d5 b5 18. Ne3 c4 19. Bc2 Nd7 20. a4
+b4 21. dxe6 fxe6 22. cxb4 Bxb4 23. Qg4 Nf8 24. Bf6 Rd2 25. Rab1 Ba5 26.
+Rxd2 Bxd2 27. h3 Qf7 28. Be5 Ng6 29. Bd6 Qf6 30. Qe2 Ba5 31. Ng4 Qc3 32. e5
+Bb6 33. Bb4 Qd4 34. a5 Bc5 35. Rd1 Nf4 36. Nh6+ Kh8 37. Nf7+ Kg8 38. Nh6+
+Kh8 39. Nf7+ Kg8 40. Nh6+ 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Van Wely,L"]
+[Black "Volokitin,And"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "D56"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Rc1 c6 10. Bd3 Nxc3 11. Rxc3 Nd7 12. Qc2 dxc4 13. Bxc4 b6 14.
+Bd3 c5 15. Bh7+ Kh8 16. Be4 Rb8 17. O-O a5 18. Rd1 Bb7 19. Bxb7 Rxb7 20. a3
+Rc8 21. b4 axb4 22. axb4 Rbc7 23. Rc1 c4 24. Qa4 Nf6 25. Ne5 Ra7 26. Qb5
+Qe8 27. Qxb6 Qa4 28. Rxc4 Rxc4 29. Nxc4 Nd5 30. Qb8+ Kh7 31. Ne5 Nc3 32.
+Re1 Qa2 33. h4 Ne4 34. Rf1 Nd2 35. Rc1 Ne4 36. Nd3 Ra3 37. Qb7 Nd6 38. Qc6
+Rxd3 39. Qxd6 Qd2 40. Rf1 h5 41. Qe7 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.16"]
+[Round "8"]
+[White "Alekseev,Evgeny"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteElo "2711"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "B82"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. f4 Be7 7. Be3 O-O 8.
+Be2 Nc6 9. Qd2 e5 10. Nb3 a5 11. a4 exf4 12. Bxf4 Be6 13. O-O-O Nb4 14.
+Bxd6 Rc8 15. Bf3 Nd7 16. Kb1 Bxd6 17. Qxd6 Bxb3 18. cxb3 Nc5 19. Qxd8 Rfxd8
+20. Nd5 Nxd5 21. exd5 Nxb3 22. d6 Nc5 23. Rhe1 Kf8 24. Be2 Ne4 25. d7 Rc5
+26. Bb5 Re5 27. g4 Re6 28. Kc2 Nf6 29. Rxe6 fxe6 30. Rd6 Ke7 31. Rb6 Rb8
+32. d8=Q+ Kxd8 33. g5 Rc8+ 34. Kd3 Kc7 35. Rxe6 Nd5 36. Ke4 Nb6 37. Re7+
+Kd6 38. Rxg7 Rc2 39. Rxh7 Rxb2 40. Rh6+ Kc5 41. g6 Nc8 42. Ke5 Rg2 43. h4
+Nd6 44. Kf6 Kd4 45. Rh5 Ne4+ 46. Kg7 Rc2 47. Kh6 Rh2 48. g7 Nf6 49. Rf5
+Ng8+ 50. Kh7 Ne7 51. Rh5 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Jakovenko,D"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2711"]
+[BlackElo "2765"]
+[EventDate "2008.06.08"]
+[ECO "A30"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. b3 O-O 8.
+Bb2 d6 9. e3 Nbd7 10. d4 Ne4 11. Nxe4 Bxe4 12. Qe2 Qc7 13. Rfd1 Qb7 14. Ne1
+Nf6 15. Rac1 cxd4 16. Bxd4 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Onischuk,Al"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2664"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "E17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Bd2 d5 8.
+cxd5 exd5 9. O-O O-O 10. Rc1 Nd7 11. Nxe4 dxe4 12. Ne5 Nxe5 13. dxe5 c5 14.
+Bc3 Qxd1 15. Rfxd1 Rad8 16. f3 exf3 17. exf3 f5 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2746"]
+[EventDate "2008.06.08"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nxe5 Nd4 12. Nd2 Re8 13. Ndf3 Nxb3 14.
+axb3 f6 15. Ng4 Qd7 16. Bd2 c5 17. Qe2 h5 18. Ngh2 Bd6 19. Qf1 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Nisipeanu,LD"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 a5 13. g3 O-O 14. h4
+Be6 15. Bh3 a4 16. Ncxb4 Nxb4 17. Bxe6 fxe6 18. Nxb4 Qb6 19. Qd2 Be7 20. a3
+Rf3 21. Rf1 Raf8 22. O-O-O Rb3 23. Qc2 d5 24. exd5 Bxb4 25. axb4 Qxb4 26.
+dxe6 Rb8 27. Rd2 a3 28. Rfd1 g6 29. Rd8+ Rxd8 30. Rxd8+ Kg7 31. Qe4 Kh6 32.
+Qg4 Qe1+ 33. Rd1 a2 34. Kc2 a1=N+ 35. Rxa1 Qxf2+ 36. Kxb3 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Karjakin,Sergey"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2677"]
+[EventDate "2008.06.08"]
+[ECO "D94"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4 c6 7. Bb2 Bg4 8.
+Be2 Nbd7 9. O-O dxc4 10. Bxc4 e5 11. dxe5 Bxf3 12. gxf3 Nxe5 13. Be2 Qc8
+14. f4 Rd8 15. Qc2 Qh3 16. fxe5 Ng4 17. Bxg4 Qxg4+ 18. Kh1 Qf3+ 19. Kg1
+Qg4+ 20. Kh1 Qf3+ 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.17"]
+[Round "9"]
+[White "Volokitin,And"]
+[Black "Eljanov,P"]
+[Result "0-1"]
+[WhiteElo "2684"]
+[BlackElo "2687"]
+[EventDate "2008.06.08"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Ne4 h6 12. b3 a5 13. a4 c5 14.
+Bb2 Be6 15. Nfd2 Nf4 16. Kh2 g6 17. Nc4 Kd7 18. g3 Nd5 19. f4 h5 20. Rad1
+Kc6 21. Ng5 Bg7 22. Nxe6 fxe6 23. Bc1 Bh6 24. Kg2 Rhf8 25. Na3 Rf7 26. c4
+Ne7 27. Rd3 Rg8 28. Rfd1 Nf5 29. Nb5 g5 30. g4 gxf4 31. Kf3 Nh4+ 32. Ke4 b6
+33. gxh5 Rg2 34. Nc3 Nf5 35. Rd8 Rg3 36. Nb5 Rxb3 37. R1d3 Rxd3 38. Rxd3 f3
+39. Bxh6 f2 40. Rd1 Ng3+ 41. Ke3 f1=Q 42. Rxf1 Nxf1+ 43. Kd3 Ng3 44. h4
+Rf3+ 45. Kd2 Rf5 46. Bg5 Ne4+ 47. Ke3 Nxg5 48. hxg5 Rxg5 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Nisipeanu,LD"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2664"]
+[EventDate "2008.06.08"]
+[ECO "C69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5
+8. Nb3 Qxd1 9. Rxd1 Bg4 10. f3 Be6 11. Nc3 Bd6 12. Be3 b6 13. a4 O-O-O 14.
+a5 Bxb3 15. cxb3 b5 16. Nd5 Ne7 17. Rac1 Nxd5 18. Rxd5 Be5 19. Rcxc5
+1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Van Wely,L"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2677"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "A04"]
+
+1. Nf3 g6 2. c4 Bg7 3. e4 e5 4. d4 exd4 5. Nxd4 Nc6 6. Be3 Qf6 7. Nxc6 dxc6
+8. Nc3 Qe7 9. Bd3 Nf6 10. h3 Nd7 11. O-O O-O 12. Qc2 Ne5 13. Be2 g5 14.
+Rad1 Be6 15. b3 Rfe8 16. Bh5 g4 17. Bxg4 Bxg4 18. hxg4 Nxg4 19. Bf4 Be5 20.
+Qe2 Qh4 21. Qf3 Nh2 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Eljanov,P"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2687"]
+[BlackElo "2732"]
+[EventDate "2008.06.08"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. cxd5 cxd5 7. Ne2 e6 8.
+Nf4 Bd6 9. Nd3 O-O 10. a3 Ne4 11. Be2 Nd7 12. O-O Qc7 13. b3 Nc3 14. Qd2 f6
+15. Bb2 Nxe2+ 16. Qxe2 Qd8 17. Bc3 Re8 18. Qd2 a5 19. b4 a4 20. Nc5 Qc7 21.
+Qd3 Bb7 22. h3 Bc6 23. Nh4 Nb6 24. f4 Nc4 25. Nf3 Qf7 26. Ne5 Qc7 27. Nf3
+Re7 28. Ra2 Be8 29. Qe2 Bh5 30. Qf2 g5 31. Nd2 gxf4 32. Nxc4 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Shirov,A"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2746"]
+[EventDate "2008.06.08"]
+[ECO "D16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8.
+O-O cxd4 9. exd4 Be7 10. Bg5 O-O 11. Re1 Bd7 12. Qd2 Rc8 13. Rad1 Nb4 14.
+Ne5 Nbd5 15. Bxf6 Nxf6 16. d5 Bb4 17. dxe6 Bxe6 18. Qc2 Qb6 19. Bxe6 fxe6
+20. Nd3 Bxc3 21. bxc3 Nd5 22. c4 Nb4 23. Nxb4 Qxb4 24. Re4 b5 25. Rh4 h6
+26. axb5 Qxb5 27. Rxh6 Qf5 28. Qxf5 exf5 29. Rh4 f4 30. Rd4 Rb8 31. h3 f3
+32. g4 Rb1+ 33. Kh2 Rf1 34. Rd2 Re8 35. Kg3 Re2 36. Rd8+ Kf7 37. Rd7+ Kg6
+38. Rh8 Rexf2 39. Rg8 Rg2+ 40. Kf4 f2 41. Rgxg7+ Kf6 42. Rh7 Ke6 43. Kg5
+1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Alekseev,Evgeny"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2711"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "E28"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. Ne2 b6 8.
+Ng3 Nc6 9. e4 Ne8 10. Be3 d6 11. Bd3 Ba6 12. O-O Na5 13. Qe2 Qd7 14. f4 f5
+15. d5 exd5 16. cxd5 Bxd3 17. Qxd3 fxe4 18. Nxe4 Qf5 19. Rad1 Nf6 20. Nxf6+
+Rxf6 21. Qxf5 Rxf5 22. g4 Rf7 23. f5 Nc4 24. Bf4 g6 25. Rfe1 gxf5 26. g5
+Rd8 27. Re6 Nxa3 28. Kf2 Nc4 29. h4 a5 30. h5 a4 31. g6 hxg6 32. hxg6 Rfd7
+33. Bg5 Ra8 34. Bf6 Ne5 35. Bxe5 dxe5 36. Rxb6 a3 37. c4 Ra4 38. Ra1 Kg7
+39. Rc6 Rb7 40. Rh1 Rb2+ 41. Ke3 Rb8 42. Rh7+ Kg8 43. Rcc7 a2 44. Rhg7+ Kh8
+45. Rh7+ Kg8 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.18"]
+[Round "10"]
+[White "Carlsen,M"]
+[Black "Volokitin,And"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "D56"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Rc1 c6 10. Bd3 Nxc3 11. Rxc3 Nd7 12. Qc2 dxc4 13. Bxc4 e5 14.
+Qe4 Re8 15. O-O exd4 16. Qxe7 Rxe7 17. Nxd4 g6 18. Rd1 a6 19. f3 c5 20. Ne2
+b5 21. Bd5 Ra7 22. Nf4 Kg7 23. b3 b4 24. Rcd3 a5 25. e4 a4 26. R3d2 axb3
+27. Bxb3 Nb6 28. Rc1 Rec7 29. Rdc2 g5 30. Nd5 Nxd5 31. exd5 Ra5 32. Rc4 Ba6
+33. d6 Rd7 34. Rxc5 Rxc5 35. Rxc5 Rxd6 36. Rc7 Rf6 37. Kf2 g4 38. Ke3 Bf1
+39. Rc2 gxf3 40. gxf3 Bh3 41. Rc7 Bg2 42. f4 Rf5 43. Rd7 Bc6 44. Rd6 Bh1
+45. Rd4 Rh5 46. Rd2 Rh3+ 47. Kd4 Rf3 48. Rd1 Bg2 49. Ke5 Re3+ 50. Kd6 Bh3
+51. Kc5 Re2 52. Kxb4 Rxh2 53. a4 Rf2 54. Rd4 h5 55. a5 Bf1 56. Bc4 h4 57.
+Bxf1 Rxf1 58. f5 h3 59. Rh4 Rh1 60. a6 h2 61. a7 Ra1 62. Rxh2 Rxa7 63. Kc5
+Rd7 64. Kc6 Rd3 65. Ra2 Kf6 66. Ra7 Rd8 67. Kc5 Rd1 68. Kc4 Rd2 69. Kc5 Rf2
+70. Kd4 Rxf5 71. Ke3 Rf1 72. Ra5 Kg6 73. Ra8 Kf5 74. Ke2 Rf4 75. Ke3 f6 76.
+Rb8 Ra4 77. Kf3 Ra3+ 78. Kf2 Kg5 79. Rb4 f5 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.19"]
+[Round "11"]
+[White "Jakovenko,D"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2711"]
+[BlackElo "2684"]
+[EventDate "2008.06.08"]
+[ECO "E11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 d5 5. Qa4+ Nc6 6. a3 Be7 7. e3 a5 8.
+b4 O-O 9. c5 Nb8 10. Bd3 c6 11. Bb2 b6 12. Ne5 Nfd7 13. Nxd7 Nxd7 14. O-O
+Qc7 15. Qc2 g6 16. e4 Ba6 17. e5 Bxd3 18. Qxd3 Qb7 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.19"]
+[Round "11"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2732"]
+[BlackElo "2765"]
+[EventDate "2008.06.08"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Qd2 e5 13. Bh6 exd4 14.
+Bxg7 Kxg7 15. cxd4 cxd4 16. Rac1 Bb7 17. f4 Rc8 18. Rxc8 Qxc8 19. f5 Nc6
+20. Rf3 Ne5 21. Rh3 Rh8 22. f6+ Kg8 23. Qh6 Qf8 24. Qxf8+ Kxf8 25. Nxd4 Ke8
+26. Bb5+ Kd8 27. Rc3 a6 28. Ba4 b5 29. Bb3 Re8 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.19"]
+[Round "11"]
+[White "Svidler,P"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2677"]
+[EventDate "2008.06.08"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+f3 Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Ne2 Ne8 14. f4 a5
+15. f5 a4 16. Nbd4 exd4 17. Nxd4 b3 18. Kb1 bxc2+ 19. Nxc2 Bb3 20. axb3
+axb3 21. Na3 Ne5 22. h4 Ra4 23. Qc3 Qa8 24. Rd4 Rxd4 25. Qxd4 Nc7 26. Rh3
+Rb8 27. Bf2 Nc6 28. Qd1 Qa4 29. Rc3 d5 30. Qc1 Bxa3 31. bxa3 b2 32. Qc2 Nb5
+33. Bxb5 Qxb5 34. Be1 Qf1 35. Qf2 Qb5 36. Qc2 Qf1 37. Qf2 Qb5 1/2-1/2
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.19"]
+[Round "11"]
+[White "Onischuk,Al"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2664"]
+[BlackElo "2740"]
+[EventDate "2008.06.08"]
+[ECO "D27"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Bb3 b5 8.
+a4 b4 9. e4 Bb7 10. Nbd2 Be7 11. e5 Nfd7 12. Nc4 O-O 13. Nd6 Bxd6 14. exd6
+cxd4 15. Nxd4 Nc5 16. Bf4 Qf6 17. Bg3 Nbd7 18. Bc2 Rfc8 19. Re1 g6 20. Qd2
+Bd5 21. Rac1 b3 22. Bb1 Nxa4 23. Rc7 Nab6 24. Rec1 e5 25. Nc6 Rxc7 26. Ne7+
+Kg7 27. Rxc7 Qxd6 28. Rxd7 Nxd7 29. Qxd5 Rc8 0-1
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.19"]
+[Round "11"]
+[White "Volokitin,And"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2711"]
+[EventDate "2008.06.08"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Ne4 Ke8 12. Re1 h6 13. Bd2 c5
+14. Rad1 Be6 15. a3 Rd8 16. Ng3 Bd5 17. Nh2 Nh4 18. f3 Be6 19. Ng4 Nf5 20.
+Nxf5 Bxf5 21. Ne3 Be6 22. f4 g6 23. g4 h5 24. f5 gxf5 25. gxf5 Bc8 26. Bc3
+Rxd1 27. Rxd1 c6 28. Kf2 Rg8 29. Kf3 Be7 30. Ke4 Rg3 31. e6 Bg5 32. Nc4
+fxe6 33. f6 b5 34. Nd6+ Kf8 35. Bd2 Bd7 36. Bf4 Bxf4 37. Kxf4 Rxh3 38. Ne4
+e5+ 39. Kxe5 Be8 40. Rd8 Re3 41. Kf4 Re1 42. Nd6 Rf1+ 43. Kg5 Rg1+ 44. Kh6
+Rg6+ 45. Kh7 1-0
+
+[Event "Aerosvit"]
+[Site "Foros UKR"]
+[Date "2008.06.19"]
+[Round "11"]
+[White "Ivanchuk,V"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2687"]
+[EventDate "2008.06.08"]
+[ECO "D37"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. Qc2 dxc4 6. e4 a6 7. e5 Nd5 8.
+Bxc4 Nxc3 9. Qxc3 Nb6 10. Bg5 Be7 11. Bxe7 Qxe7 12. Bb3 Nd5 13. Bxd5 exd5
+14. O-O O-O 15. b4 Bf5 16. a4 c6 17. a5 Bg4 18. Nd2 Be2 19. Rfe1 Bc4 20. h3
+Rfd8 21. f4 Rab8 22. Kh2 Qe6 23. Rac1 h6 24. Re3 Qf5 25. Rf3 b6 26. Nxc4
+dxc4 27. Qxc4 bxa5 28. bxa5 Rb5 29. Qxc6 Rxa5 30. g4 Qd7 31. Qxd7 Rxd7 32.
+Rd3 g5 33. Kg3 Rad5 34. Rc4 a5 35. Kf3 Kf8 36. fxg5 hxg5 37. Ke4 Ke7 38.
+Rc6 Rb5 39. d5 Ra7 40. Rdc3 Rbb7 41. R6c4 f6 42. Rc7+ Rxc7 43. d6+ Kd8 44.
+dxc7+ Rxc7 45. Rxc7 Kxc7 46. exf6 Kd7 47. Kf5 Ke8 48. Kxg5 a4 49. Kh6 a3
+50. Kg7 a2 51. f7+ Kd7 52. f8=Q a1=Q+ 53. Qf6 Qh1 54. h4 Qh3 55. Qd4+ Ke6
+56. g5 Qh1 57. Qf6+ Kd5 58. h5 Kc5 59. h6 Qb7+ 60. Kg6 1-0
+

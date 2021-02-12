@@ -1,0 +1,1736 @@
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "Karjakin,Sergey"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2779"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "24116068"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. Ba4 O-O 8.
+c3 Bb6 9. Bg5 h6 10. Bh4 d6 11. Nd2 Bg4 12. Qe1 Be6 13. Bb3 Bxb3 14. axb3 Qe7
+15. Nc4 Qe6 16. Bxf6 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "So,W"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2734"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5202213"]
+[BlackFideId "5007003"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. Re1 Ba7 8. a4 O-O
+9. h3 h6 10. Nbd2 Re8 11. b4 Be6 12. Bxe6 Rxe6 13. Qc2 Qd7 14. Nf1 d5 15. Be3
+Bxe3 16. Nxe3 Rd8 17. b5 Ne7 18. c4 d4 19. Nd5 Ng6 20. Rab1 axb5 21. Rxb5 c6 22.
+Nb6 Qe7 23. Rbb1 Nh5 24. g3 Rf6 25. Qd1 Ngf4 26. gxf4 Nxf4 27. Kh2 Rg6 28. Rg1
+Rxg1 29. Nxg1 Rd6 30. Nc8 Qh4 31. Qf3 Rg6 32. Rxb7 Rg2+ 33. Qxg2 Nxg2 34. Kxg2
+Qg5+ 35. Kh1 Qd2 36. a5 Qxa5 37. Ne7+ Kh7 38. Nxc6 Qa6 39. Nd8 Qa3 40. Nxf7 Qxd3
+41. Nd6 Qc2 42. Rd7 Qa4 43. Re7 d3 44. Nf3 d2 45. Nxd2 Qd1+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "Svidler,P"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2729"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[WhiteFideId "4102142"]
+[BlackFideId "1170546"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Qd6 8.
+Qg5 Nbd7 9. exd5 cxd5 10. d4 e4 11. Nh4 Nb6 12. Qxg7 Qf4 13. Qxh8+ Ke7 14. Nc3
+Qxh4 15. Qg7 Bg4 16. Bxd5 Nbxd5 17. Nxd5+ Nxd5 18. Qe5+ Be6 19. c4 f6 20. Qg3
+Nf4 21. d5 Nd3+ 22. Kd2 Qxg3 23. hxg3 Bf5 24. f3 exf3 25. gxf3 Nxb2 26. Rae1+
+Kd7 27. g4 Bg6 28. Kc3 Nd3 29. Re6 Rf8 30. g5 fxg5 31. Rxg6 hxg6 32. Rh7+ Kd6
+33. Kxd3 Rxf3+ 34. Ke2 Rc3 35. Rxb7 Rxc4 36. Rxa7 Kxd5 37. Ra5+ Rc5 38. Rxc5+
+Kxc5 39. Kf3 Kb4 40. Kg4 Ka3 41. Kxg5 Kxa2 42. Kxg6 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "Mamedyarov,S"]
+[Black "Dubov,Daniil"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2700"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "24126055"]
+[EventDate "2019.07.12"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 d5 5. cxd5 exd5 6. d4 Nc6 7. Bg2 cxd4 8.
+Nxd4 Bc5 9. Nb3 Bb6 10. Na4 O-O 11. Nxb6 axb6 12. Be3 h5 13. O-O h4 14. Bg5 h3
+15. Bh1 Re8 16. Re1 Bg4 17. a3 Qd6 18. Qd2 Qe5 19. f3 Be6 20. Rad1 d4 21. f4 Qb5
+22. Nxd4 Nxd4 23. Qxd4 Bb3 24. Rd3 Bc4 25. Rc3 Bxe2 26. Bxf6 gxf6 27. Qxf6 Bf3
+28. Re5 Rxe5 29. fxe5 Bxh1 30. e6 Qd5 31. Qxf7+ Kh8 32. Qf6+ Kg8 33. Qg6+ Kh8
+34. Qf6+ Kg8 35. Qf7+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "Vitiugov,N"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2766"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[WhiteFideId "4152956"]
+[BlackFideId "4126025"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Bd3 Ng4 9. Ne4 f5 10. Be2 h5 11. h3 fxe4 12. hxg4 Bc5 13. Nc3 Qd4 14. O-O Rf8
+15. Qe1 hxg4 16. g3 Bf5 17. d3 Rh8 18. Be3 Qd6 19. Kg2 O-O-O 20. Rh1 Bxe3 21.
+fxe3 Rxh1 22. Qxh1 exd3 23. cxd3 Bxd3 24. Bxg4+ Kb8 25. Qh4 Nc4 26. Re1 Rf8 27.
+Bf3 Bf1+ 28. Kg1 Rxf3 29. Rxf1 Rxf1+ 30. Kxf1 Qd3+ 31. Kg1 Qxe3+ 32. Kh2 Qh6 33.
+Qxh6 gxh6 34. Kh3 Nxb2 35. Kg4 Kc7 36. Kh5 Nc4 37. Kxh6 Ne3 38. Kh5 Kd6 39. g4
+Ke6 40. g5 Nf5 41. g6 c5 42. Kg5 c4 43. Ne4 Ne7 44. g7 Kf7 45. Nd6+ Kxg7 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "Aronian,L"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2736"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "8603820"]
+[EventDate "2019.07.12"]
+
+1. c4 c6 2. d4 d5 3. cxd5 cxd5 4. Bf4 Nc6 5. e3 Nf6 6. Nc3 Bf5 7. Qb3 Na5 8.
+Qa4+ Bd7 9. Qc2 e6 10. Nf3 Be7 11. Bd3 Nc6 12. Qe2 Nh5 13. Be5 f6 14. Bg3 f5 15.
+Nd2 g6 16. Nb3 Nxg3 17. hxg3 Nb4 18. Bb1 Qb6 19. g4 O-O-O 20. gxf5 gxf5 21. a3
+Nd3+ 22. Bxd3 Qxb3 23. Bb5 h5 24. Rc1 Kb8 25. Bxd7 Rxd7 26. Qc2 Qb6 27. Na4 Qd8
+28. Nc5 Bxc5 29. dxc5 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "Nakamura,Hi"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2740"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "2016192"]
+[BlackFideId "2900084"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nbd2 Nd7 11. c3 Nc5 12. axb5 axb5 13. Rxa8 Qxa8 14. Bc2 b4 15.
+d4 bxc3 16. bxc3 Nd7 17. Nf1 Bf6 18. d5 Ncb8 19. h4 Qa1 20. Re3 Nc5 21. c4 Qa6
+22. N1d2 Qb6 23. Ra3 Bc8 24. Nb3 Nba6 25. Nxc5 Nxc5 26. Qe1 Bg4 27. Nh2 Bd7 28.
+g3 Rb8 29. Nf3 h6 30. Be3 Qb2 31. Qc3 Qxc3 32. Rxc3 Ra8 33. Bxc5 dxc5 34. Rb3
+Bg4 35. Kg2 Bxf3+ 36. Kxf3 Be7 37. h5 Bd6 38. Bd1 g6 39. Kg2 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.12"]
+[Round "1.1"]
+[White "Vachier Lagrave,M"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2734"]
+[ECO "B11"]
+[Opening "Caro-Kann"]
+[Variation "two knights, 3...Bg4"]
+[WhiteFideId "623539"]
+[BlackFideId "309095"]
+[EventDate "2019.07.12"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. Be2 e6 7. O-O Bc5 8. Rd1
+Bd4 9. Qf4 e5 10. Qg3 dxe4 11. d3 exd3 12. Bxd3 Nbd7 13. Ne2 O-O 14. Bf5 Nc5 15.
+Bh6 Nh5 16. Qg4 Qd6 17. Qxh5 Qxh6 18. Qxh6 gxh6 19. c3 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2748"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. d4 Bb4+ 5. Nd2 O-O 6. Nf3 b6 7. O-O Bb7 8. b3 c5
+9. Bb2 Nc6 10. cxd5 exd5 11. a3 Bxd2 12. Nxd2 Nxd4 13. Bxd4 cxd4 14. Nf3 Qe7 15.
+Nxd4 Ne4 16. e3 Rac8 17. Qg4 Rc3 18. b4 g6 19. h4 a5 20. Bxe4 dxe4 21. bxa5 bxa5
+22. Rfc1 Rxc1+ 23. Rxc1 Qxa3 24. Rc7 Qa1+ 25. Kh2 h5 26. Qf4 Bc8 27. Nc6 Kg7 28.
+Qxe4 Bf5 29. Qf4 Rc8 30. Rxc8 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Harikrishna,P"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2763"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "5007003"]
+[BlackFideId "5202213"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 Bd6 11. Qc1 Nbd7 12. Nc3 Qe7 13. Re1 Bxf4 14. Qxf4 Bxf3
+15. Qxf3 c6 16. a5 Rfe8 17. Red1 e5 18. d5 e4 19. Qf5 g6 20. Qf4 cxd5 21. Nxd5
+Nxd5 22. Rxd5 Nf6 23. Rd6 Kg7 24. Rad1 Rad8 25. Rxd8 Rxd8 26. Rxd8 Qxd8 27. Bxe4
+Nxe4 28. Qxe4 Qxa5 29. Qxb7 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Duda,J"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2737"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "1170546"]
+[BlackFideId "4102142"]
+[EventDate "2019.07.12"]
+
+1. Nf3 Nf6 2. c4 g6 3. b3 Bg7 4. Bb2 O-O 5. g3 d6 6. d4 a6 7. Nc3 Nc6 8. Bg2 e5
+9. O-O e4 10. Ne1 Bf5 11. h3 h5 12. Nc2 Qd7 13. Kh2 Rfe8 14. Ne3 Ne7 15. Rc1 c6
+16. d5 cxd5 17. cxd5 b5 18. Rc2 Rac8 19. a3 a5 20. Rd2 Kh7 21. Qa1 Neg8 22. Nxf5
+gxf5 23. e3 h4 24. Ne2 Nh5 25. Bxg7 Nxg7 26. Rg1 hxg3+ 27. fxg3 Re5 28. Rc1 Nf6
+29. Nf4 Ngh5 30. Bf1 Rg8 31. Rg2 Qe7 32. Qb2 Nxf4 33. gxf4 Rxd5 34. b4 axb4 35.
+axb4 Rg6 36. Rc8 Rd1 37. Be2 Rxg2+ 38. Kxg2 Re1 39. Kf2 Rh1 40. Kg2 Re1 41. Kf2
+Rh1 42. Kg2 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Dubov,Daniil"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2700"]
+[BlackElo "2765"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "24126055"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. d4 Nxc3 6. bxc3 g6 7. e4 Bg7 8.
+Bb5+ Nc6 9. O-O O-O 10. Be3 Bg4 11. d5 Ne5 12. Be2 Nxf3+ 13. Bxf3 Bxf3 14. Qxf3
+Bxc3 15. Rab1 b6 16. Bxc5 Rc8 17. Be3 Qd7 18. Rfc1 f5 19. g3 Bf6 20. Bf4 fxe4
+21. Qxe4 Qf5 22. Qe6+ Qxe6 23. dxe6 g5 24. Be3 Kg7 25. g4 Rfd8 26. a4 h6 27. Kg2
+Rxc1 28. Rxc1 Rd5 29. Kf3 Ra5 30. Rc4 Be5 31. Ke4 Kf6 32. Bd2 b5 33. axb5 Rxb5
+34. Ra4 Bb8 35. Ra1 Kxe6 36. h4 gxh4 37. Rh1 Re5+ 38. Kd3 Rd5+ 39. Kc2 h5 40.
+Rxh4 hxg4 41. Rxg4 Bd6 42. Ra4 Bc5 43. f3 Bb6 44. Bc3 Kd7 45. Re4 Bc5 46. f4 Kc6
+47. Ra4 Rh5 48. Kb3 Rh3 49. Kc4 Re3 50. Ra6+ Bb6 51. Be5 Re1 52. Ra2 Re4+ 53.
+Kd3 Kd5 54. Ra6 Re3+ 55. Kd2 Kc4 56. Ra4+ Kb5 57. Ra1 Rh3 58. Rf1 e6 59. Bb8 Rh8
+60. Be5 Rh2+ 61. Kd3 Rh3+ 62. Kd2 Kc4 63. Rc1+ Kd5 64. Rc8 Ke4 65. Re8 Rh6 66.
+Kc3 Be3 67. Ra8 Rh1 68. Re8 Rc1+ 69. Kb3 Rc6 70. Rf8 Rb6+ 71. Kc4 Rc6+ 72. Kb3
+Rb6+ 73. Kc4 a5 74. Ra8 Rc6+ 75. Kb3 Bxf4 76. Bc3 Bc7 77. Rc8 a4+ 78. Kc2 Ke3 0-1
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Grischuk,A"]
+[Black "Vitiugov,N"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2727"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "4152956"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. e3 d5 6. a3 Be7 7. b3 b6 8. Bb2
+Bb7 9. Bd3 c5 10. O-O 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Yu Yangyi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2756"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8603820"]
+[BlackFideId "13300474"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Bxc6
+bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qc2 c5 12. dxc5 Qxc5 13. Be3 Qc6 14. f3 a5
+15. Nc3 e5 16. Qa4 Qe6 17. Rad1 e4 18. Bd4 exf3 19. exf3 Bb7 20. Qb5 Bc6 21. Qe5
+Rab8 22. Rd2 Rbd8 23. Qxe6 fxe6 24. Rff2 Nd5 25. a3 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Topalov,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2754"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "2900084"]
+[BlackFideId "2016192"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Nbd2 d5 7. exd5 Nxd5 8.
+Ne4 Be7 9. O-O Nb6 10. Bb3 Bf5 11. a4 a5 12. Re1 Qd7 13. Be3 Rad8 14. Bxb6 cxb6
+15. Bc4 Bg6 16. Qb3 Qc7 17. Re3 h6 18. Rae1 Kh8 19. Bd5 f6 20. Bxc6 bxc6 21. d4
+Bf7 22. Qc2 exd4 23. Nxd4 Rfe8 24. Ng3 Bd6 25. Rxe8+ Rxe8 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.13"]
+[Round "1.2"]
+[White "Navara,D"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2775"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "309095"]
+[BlackFideId "623539"]
+[EventDate "2019.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Nf6 5. Bd3 e6 6. Bc2 b5 7. d4 Bb7 8. Qe2 a6
+9. O-O Be7 10. Bf4 O-O 11. Nbd2 Rc8 12. Rac1 Re8 13. e5 Nd5 14. Bg3 dxe5 15.
+dxe5 c4 16. Ne4 Nc5 17. h4 Nd3 18. Bxd3 cxd3 19. Qxd3 Nf4 20. Qe3 Qd3 21. Rfe1
+Qxe3 22. Rxe3 Nd3 23. Rb1 Bxe4 24. Rxe4 Red8 25. h5 Rd5 26. Kf1 b4 27. cxb4 Nxb4
+28. a3 Nd3 29. Rd4 Rxd4 30. Nxd4 Rc4 31. Nf3 Rc2 32. Rd1 Nxb2 33. Rd7 Rc1+ 34.
+Ne1 Kf8 35. Bf4 Rc8 36. h6 g5 37. Be3 Nc4 38. Nf3 g4 39. Nh2 Nxe5 40. Ra7 Bc5
+41. Bxc5+ Rxc5 42. Rxa6 Rc1+ 43. Ke2 Rc2+ 44. Kf1 Rc1+ 45. Ke2 Rc2+ 46. Kf1 Rc1+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.3"]
+[White "Karjakin,Sergey"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2779"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "14109603"]
+[BlackFideId "24116068"]
+[EventDate "2019.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 Be7 8. O-O
+O-O 9. Ng3 Bg4 10. Be2 Be6 11. Be3 g6 12. a4 Nbd7 13. Qd2 Rc8 14. a5 Re8 15. Nd5
+Bxd5 16. exd5 Nc5 17. f3 h5 18. b4 Ncd7 19. c4 h4 20. Ne4 h3 21. g3 Nxe4 22.
+fxe4 Nf6 23. Qd3 Qd7 24. Rac1 Ng4 25. Bb6 Bg5 26. Rc3 Rf8 27. c5 dxc5 28. Bxc5
+Rxc5 29. bxc5 Be3+ 30. Kh1 Nf2+ 31. Rxf2 Bxf2 32. c6 bxc6 33. dxc6 Qc7 34. Rc1
+Bd4 35. Qxa6 Rb8 36. Bg4 Bc3 37. Bxh3 Bxa5 38. Bd7 Kg7 39. Rf1 Rf8 40. Rb1 Qd8
+41. Kg2 Bc7 42. Rb7 Bd6 43. Qd3 Bb8 44. Qd5 Bc7 45. h4 Rh8 46. Be6 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.4"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2748"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 c5 8.
+Nc3 Qc7 9. O-O b6 10. d4 Bb7 11. Bf4 Bd6 12. Bxd6 Qxd6 13. Rfd1 O-O 14. e4 cxd4
+15. Nxd4 Qc7 16. Rac1 Rad8 17. f4 e5 18. Nd5 Qxc2 19. Nxc2 exf4 20. gxf4 Nc5 21.
+Nce3 Bxd5 22. exd5 Rfe8 23. Nc4 Ncd7 24. Bf3 Ne4 25. d6 f5 26. b4 Re6 27. a4 Kf8
+28. a5 b5 29. Nb6 Ndf6 30. d7 g5 31. fxg5 Nxg5 32. Bb7 Ke7 33. Bxa6 Re2 34. Bb7
+Nfe4 35. Rd3 Rg8 36. d8=Q+ Rxd8 37. Rc7+ Kf6 38. Bxe4 Rg8 39. Nd7+ Ke7 40. Nc5+
+Kf6 41. Rc6+ Ke5 42. Rd5+ Kf4 43. Kf1 Ra2 44. Bc2 Rxc2 45. Ne6+ Nxe6 46. Rxc2
+Ke4 47. Rxb5 Nd4 48. Rc4 f4 49. a6 Kd3 50. Rxd4+ Kxd4 51. a7 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.5"]
+[White "Karjakin,Sergey"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2779"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "24116068"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. a4 d5 14. a5 c6 15.
+Nd2 Nd6 16. Nb3 Bf5 17. Bf4 Rc8 18. Nc5 b6 19. axb6 axb6 20. Nd3 h6 21. Be5 Be7
+22. b3 Bf8 23. Bf4 c5 24. dxc5 bxc5 25. h3 c4 26. bxc4 Nxc4 27. Ne5 Nxe5 28.
+Bxe5 Ra8 29. Rxa8 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.6"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2748"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8. d3
+O-O 9. a3 Be6 10. Be3 Nd5 11. Nxd5 Bxd5 12. Qa4 a6 13. Rac1 Re8 14. Rfe1 h6 15.
+Nd2 Bxg2 16. Kxg2 Qd5+ 17. Qe4 Rad8 18. Rc2 f5 19. Qxd5+ Rxd5 20. Rec1 Bd6 21.
+Nc4 Kf7 22. f3 h5 23. Bf2 g6 24. Rc3 Be7 25. e4 Rd7 26. Kf1 Bg5 27. R1c2 Red8
+28. Ke2 fxe4 29. fxe4 Ke6 30. b4 Rf7 31. Nb2 Rdf8 32. Nd1 Rxf2+ 33. Nxf2 Nd4+
+34. Ke1 Nxc2+ 35. Rxc2 c6 36. Nd1 Ra8 37. Nc3 b5 38. Ne2 Kd6 39. d4 Re8 40.
+dxe5+ Rxe5 41. Nc3 c5 42. Ke2 c4 43. a4 bxa4 44. h4 Bh6 45. Ra2 a5 46. Rxa4 axb4
+47. Rxb4 Kc5 48. Rb7 Kd4 49. Nb5+ Kxe4 50. Rb8 Kd5+ 51. Kf2 Kc5 52. Na3 c3 53.
+Rc8+ Kb4 54. Nc2+ Kb3 55. Nd4+ Kb2 56. Rb8+ Kc1 57. Ne2+ Kc2 58. Rc8 Bd2 59. Rc6
+g5 60. hxg5 Rxg5 61. Kf3 Kb2 62. Rb6+ Ka3 63. Nd4 Re5 64. Nc2+ Ka4 65. Rb4+ Ka5
+66. Rh4 Rf5+ 67. Ke4 Rg5 68. Kf3 Kb5 69. g4 hxg4+ 70. Rxg4 Rh5 71. Ke2 Rh2+ 72.
+Kd3 Rh3+ 73. Ke2 Kc5 74. Nb4 Kd6 75. Kd1 Rh2 76. Rc4 Ke5 77. Kc2 Rg2 78. Rxc3
+Bxc3+ 79. Kxc3 Ke4 80. Nc2 Rg3+ 81. Kc4 Rg8 82. Nb4 Rc8+ 83. Kb5 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.7"]
+[White "Karjakin,Sergey"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2779"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "24116068"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. a4 d6 14. a5 a6 15.
+Nd2 Nh4 16. Ne4 Be7 17. Ng3 Nf5 18. Bd3 Nxg3 19. hxg3 d5 20. Bf4 Be6 21. Qe3 Qd7
+22. Re1 Re8 23. Bc2 c6 24. f3 Qd8 25. b4 Bd7 26. Qd2 Bf8 27. Kf2 g6 28. Rxe8
+Qxe8 29. Be5 Qe7 30. Qf4 g5 31. Qf6 Qxf6 32. Bxf6 g4 33. Bg5 h5 34. Ke3 Bd6 35.
+Bf4 Be7 36. Bh6 Bd6 37. Bf4 Be7 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.8"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2748"]
+[ECO "D77"]
+[Opening "Neo-Gruenfeld, 6.O-O"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 dxc4 7. Na3 c5 8. dxc5
+c3 9. Nb5 Na6 10. Nxc3 Nxc5 11. Be3 Nce4 12. Nxe4 Nxe4 13. Bd4 Bxd4 14. Qxd4
+Qxd4 15. Nxd4 Nd6 16. Rfc1 Rd8 17. f4 Kf8 18. Kf2 Bg4 19. h3 Bd7 20. Rc7 Rab8
+21. Rac1 Ne8 22. Rxb7 Rxb7 23. Bxb7 Rb8 24. Bc6 Bxc6 25. Rxc6 Rxb2 26. Ra6 Nd6
+27. Rxa7 Rb1 28. a4 Ra1 29. a5 Ra3 30. e3 h5 31. g4 hxg4 32. hxg4 Nc4 33. a6
+Nxe3 34. Ra8+ Kg7 35. a7 Nxg4+ 36. Ke2 e5 37. Nb5 Ra2+ 38. Kf3 f5 39. fxe5 Nxe5+
+40. Kf4 Nc6 41. Rc8 Nxa7 42. Rc7+ Kf6 43. Rxa7 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.9"]
+[White "Karjakin,Sergey"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2779"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "14109603"]
+[BlackFideId "24116068"]
+[EventDate "2019.07.12"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 c6 4. d4 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3 Qc7
+9. Bd2 Be7 10. g3 Nbd7 11. Rc1 dxc4 12. Bxc4 O-O 13. O-O e5 14. Nxg6 hxg6 15.
+Qc2 exd4 16. exd4 Nb6 17. Bb3 Qd7 18. Be3 Nbd5 19. Bg5 Rfe8 20. Rcd1 Nxc3 21.
+bxc3 Nd5 22. Bd2 b5 23. Rfe1 Bd6 24. Re4 f5 25. Rxe8+ Rxe8 26. c4 bxc4 27. Qxc4
+Kh7 28. Ba4 Ne7 29. d5 Rc8 30. dxc6 Nxc6 31. Qh4+ Kg8 32. Bb3+ Kf8 33. Qh8+ Ke7
+34. Bg5# 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.3"]
+[White "So,W"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2734"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5202213"]
+[BlackFideId "5007003"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. Re1 Ba7 8. Bb3 h6
+9. Nbd2 O-O 10. h3 Re8 11. Nf1 Be6 12. Bc2 d5 13. Qe2 b5 14. Rd1 Qe7 15. Ng3
+Rad8 16. exd5 Nxd5 17. Qe4 Nf6 18. Qxc6 Bb6 19. d4 e4 20. Ne5 Rd6 21. Qb7 Bc8
+22. Qa8 Bd7 23. Qb7 Bc8 24. Qa8 Bd7 25. Qxa6 Bxd4 26. Qxd6 Bxf2+ 27. Kxf2 cxd6
+28. Nxd7 e3+ 29. Kg1 Qxd7 30. Re1 Qa7 31. Nf5 Nd5 32. Bb3 e2+ 33. Nd4 Nb4 34.
+Bf4 Nd3 35. Bg3 Qc5 36. Kh2 Qh5 37. Bc2 Nxe1 38. Rxe1 b4 39. Bf5 bxc3 40. bxc3
+Re3 41. Bg4 Qa5 42. Rxe2 Rxg3 43. Kxg3 Qxc3+ 44. Nf3 d5 45. Bf5 g6 46. Bc2 Qc7+
+47. Kf2 Qa7+ 48. Kf1 Qxa2 49. Rd2 Qa6+ 50. Bd3 Qa1+ 51. Ke2 Kg7 52. Rd1 Qb2+ 53.
+Kf1 Qb3 54. Be2 h5 55. Nd4 Qa4 56. h4 Kf6 57. g3 Kg7 58. Rd3 Qa1+ 59. Kg2 Qb2
+60. Kf2 Qb6 61. Bf3 Qc5 62. Kg2 Qc4 63. Rd2 Qb4 64. Rd3 Qc4 65. Be2 Qa2 66. Kf2
+Qa7 67. Bf3 Qc5 68. Rd1 Qa5 69. Ne2 Qb6+ 70. Kg2 Qb2 71. Rxd5 Qc2 72. Rd7 Qb2
+73. Rc7 Qa2 74. Rb7 Qc2 75. Re7 Kf8 76. Re4 Kg7 77. Kh2 Qb2 78. Bg2 Qd2 79. Nf4
+Kf8 80. Ra4 Qc2 81. Ra7 Ke8 82. Ra8+ Ke7 83. Nd5+ Kd6 84. Ra7 Qf2 85. Ra6+ Ke5
+86. Nf4 Kf5 87. Nh3 Qd2 88. Ng5 f6 89. Rxf6+ 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.4"]
+[White "Harikrishna,P"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2763"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "5007003"]
+[BlackFideId "5202213"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 b6 8. Bg5
+Nd5 9. Bxe7 Qxe7 10. Ne5 Bb7 11. Qxc4 c5 12. Nc3 Nxc3 13. Qxc3 cxd4 14. Qxd4
+Bxg2 15. Kxg2 Qb7+ 16. Kg1 Nc6 17. Qe4 Rfc8 18. Rfd1 Rc7 19. Nf3 h6 20. Rac1 Rd8
+21. Ne5 Rxd1+ 22. Rxd1 f5 23. Qe3 Nxe5 24. Qxe5 Kf7 25. f3 Rd7 26. Rc1 Qd5 27.
+Qxd5 Rxd5 28. Rc7+ Kf6 29. Rxa7 Rd2 30. b4 Rxe2 31. a4 Ra2 32. h4 Ra1+ 33. Kg2
+b5 34. a5 Ra4 35. Rb7 Rxb4 36. Kf2 Rb2+ 37. Ke3 Rb3+ 38. Ke2 Rb2+ 39. Kd3 Rb3+
+40. Ke2 Rb2+ 41. Kd3 Rb3+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.3"]
+[White "Svidler,P"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2729"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "4102142"]
+[BlackFideId "1170546"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
+Qd2 Nd7 9. O-O-O Nf6 10. Bd3 c5 11. Bg5 Be6 12. Qf4 d5 13. c4 Re8 14. Bxf6 Bxf6
+15. cxd5 Bxd5 16. Bxh7+ Kxh7 17. Qf5+ Kg8 18. Qxd5 Qb6 19. c3 Re2 20. Rd2 Rxd2
+21. Qxd2 Qe6 22. Kb1 Qg4 23. Rg1 Re8 24. Qc2 b5 25. h3 Qc4 26. Rd1 Re2 27. Rd2
+Rxd2 28. Qxd2 Qf1+ 29. Ne1 a5 30. Kc2 b4 31. cxb4 axb4 32. Kb3 Be7 33. Qe3 c4+
+34. Kc2 Bf6 35. b3 g6 36. bxc4 Qxc4+ 37. Kb1 Qf1 38. Kc2 Bc3 39. Nd3 Qxg2 40.
+Qe8+ Kg7 41. a3 Qd5 42. Nxb4 Qd2+ 43. Kb3 Qb2+ 44. Ka4 Qxf2 45. Qe4 Qa7+ 46. Kb3
+Bf6 47. Qd3 Qc5 48. Nd5 Be5 49. a4 f5 50. Qc4 Qf2 51. a5 f4 52. a6 f3 53. Qd3
+Qb2+ 54. Kc4 f2 55. Ne3 Qb6 56. Kd5 Bf4 57. Nf1 Kh6 58. Ke4 Bb8 59. Qe3+ Qxe3+
+60. Kxe3 Ba7+ 61. Kf3 Kg5 62. Nd2 Kh4 63. Kg2 g5 64. Nf3+ Kh5 65. Ne5 Kh4 66.
+Ng6+ Kh5 67. Ne7 g4 68. hxg4+ Kxg4 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.4"]
+[White "Duda,J"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2737"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "1170546"]
+[BlackFideId "4102142"]
+[EventDate "2019.07.12"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. Bf4 Be6 8.
+Qa3 O-O 9. e4 c6 10. Rd1 N8d7 11. h4 Bg4 12. Be2 Bxf3 13. Bxf3 e5 14. dxe5 Qe8
+15. Be2 Nxe5 16. Qb3 Nec4 17. Bc1 Qe6 18. O-O Rfd8 19. h5 Bd4 20. Rd3 Bf6 21.
+Rg3 Nd2 22. Qxe6 fxe6 23. Re1 Be5 24. Rg4 Kf7 25. g3 a5 26. Kg2 Nbc4 27. Rh1 Rh8
+28. Na4 b5 29. b3 bxa4 30. bxc4 Rad8 31. c5 Bc3 32. Rf4+ Ke7 33. e5 Bxe5 34.
+Rxa4 Bc3 35. Rg4 Kf7 36. Rf4+ Ke7 37. Rg4 Kf7 38. Bd1 Rd5 39. hxg6+ hxg6 40.
+Rxh8 Bxh8 41. Bc2 g5 42. Ba4 Bf6 43. Bxc6 Rxc5 44. Bxd2 Rxc6 45. Bxg5 Bc3 46.
+Rf4+ Kg6 47. Be7 Rb6 48. Rc4 Bb4 49. Bc5 Rb5 50. Be3 Rd5 51. Kf3 Rd3 52. Ke4 Ra3
+53. Rc2 Bd6 54. Rc6 Ra4+ 55. Kf3 Be7 56. Rxe6+ Kf7 57. Ra6 Rxa2 58. Ke4 a4 59.
+g4 a3 60. Kf5 Rb2 61. Bd4 Rd2 62. Be3 Rd5+ 63. Ke4 Rb5 64. Bd4 Bb4 65. Ra7+ Kg6
+66. f4 Ra5 67. f5+ Kg5 68. Rg7+ Kh4 69. Kf3 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.3"]
+[White "Grischuk,A"]
+[Black "Vitiugov,N"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2727"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "4126025"]
+[BlackFideId "4152956"]
+[EventDate "2019.07.12"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. Bf4 dxc4 6. e3 Nb6 7. Bxc4 Nxc4 8.
+Qa4+ c6 9. Qxc4 Nd5 10. Bg3 Qb6 11. Qe2 Bb4 12. O-O Nxc3 13. bxc3 Bxc3 14. Rab1
+Qd8 15. Rb3 Ba5 16. e4 Bc7 17. Bh4 Qd7 18. Rd1 O-O 19. Ne5 Qe8 20. Bf6 Bd8 21.
+Bxg7 Kxg7 22. Rg3+ Kh8 23. Qh5 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.4"]
+[White "Vitiugov,N"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2766"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[WhiteFideId "4152956"]
+[BlackFideId "4126025"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. e3 Nc6 6. cxd5 exd5 7. Bb5 cxd4 8.
+Nxd4 Bd7 9. O-O Bd6 10. Nf3 Bg4 11. Be2 O-O 12. h3 Bh5 13. b3 Qa5 14. Bb2 Rad8
+15. Nd4 Nxd4 16. Bxh5 Nc6 17. Be2 Be5 18. Rc1 Ne4 19. Qe1 Bxc3 20. Bxc3 Qxa2 21.
+Bb5 Nxc3 22. Qxc3 d4 23. exd4 Nxd4 24. Bc4 b5 0-1
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.3"]
+[White "Yu Yangyi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2756"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "8603820"]
+[BlackFideId "13300474"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Bg5 h6 6. Bh4 d6 7. c3 a6 8. Nbd2
+Ba7 9. a4 Qe7 10. Qe2 Be6 11. b4 Bxc4 12. Nxc4 Qe6 13. Bxf6 Qxf6 14. O-O O-O 15.
+b5 Nd8 16. Rfb1 axb5 17. axb5 Ne6 18. g3 Bc5 19. Ne3 c6 20. bxc6 bxc6 21. Nf5
+Rxa1 22. Rxa1 h5 23. Ra6 g6 24. Ne3 Qe7 25. Nc2 Qb7 26. d4 exd4 27. cxd4 Bb6 28.
+Ra1 Ra8 29. Rb1 Qa6 30. Qxa6 Rxa6 31. Nb4 Ra4 32. Nxc6 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.4"]
+[White "Aronian,L"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2736"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "13300474"]
+[BlackFideId "8603820"]
+[EventDate "2019.07.12"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. d4 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O dxc4 8. Bxc4
+Bg4 9. Be2 Nbd7 10. h3 Bxf3 11. Bxf3 e5 12. d5 cxd5 13. Bxd5 Nc5 14. Bc4 e4 15.
+Qe2 Qe7 16. b3 Nd3 17. a4 Nxc1 18. Raxc1 Rad8 19. Rfd1 Qe5 20. Rc2 Rfe8 21. Rxd8
+Rxd8 22. Rd2 Rxd2 23. Qxd2 Bf8 24. Nd5 Nxd5 25. Bxd5 b6 26. g3 Kg7 27. Kg2 Bb4
+28. Qd1 Bc5 29. Bc4 a5 30. h4 h5 31. Qc2 Bb4 32. Bb5 Bc5 33. Bc6 f5 34. Bb5 Kf6
+35. Be2 Qd5 36. Kg1 Qd6 37. Qc1 Qd5 38. Bc4 Qd6 39. Kf1 Bb4 40. Be2 Qc5 41. Qd1
+Qd6 42. Qc2 Qc5 43. Bc4 Qe5 44. Qd1 Qd6 45. Qa1+ Qe5 46. Qxe5+ Kxe5 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.5"]
+[White "Aronian,L"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2736"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "13300474"]
+[BlackFideId "8603820"]
+[EventDate "2019.07.12"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. d4 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O a6 8. h3 e6
+9. b3 Nbd7 10. Ba3 Re8 11. Rc1 b6 12. Nd2 Bb7 13. Bf3 e5 14. Re1 e4 15. Be2 Nf8
+16. Bb2 Ne6 17. a4 h5 18. b4 Rc8 19. b5 axb5 20. axb5 c5 21. dxc5 Nxc5 22. Na4
+Nfd7 23. Bxg7 Kxg7 24. Nxc5 Nxc5 25. Nb3 dxc4 26. Nxc5 Rxc5 27. Rxc4 Rxc4 28.
+Bxc4 Qf6 29. Qd7 Re7 30. Qd8 Re5 31. Rd1 Qxd8 32. Rxd8 Rc5 33. Rd7 Rxc4 34. Rxb7
+Rc1+ 35. Kh2 Rc2 36. Kg3 h4+ 37. Kxh4 Rxf2 38. Kg3 Rf6 39. h4 Kh7 40. Kh2 Kg7
+41. Kh3 Kg8 42. Kh2 Kg7 43. Kg3 Kh7 44. Kh3 Kg7 45. Kh2 Kg8 46. Kg1 Kg7 47. Kh1
+Kg8 48. Kh2 Kf8 49. Kh3 Kg7 50. g3 Rf3 51. Rxb6 Rxe3 52. Rc6 Rb3 53. b6 f5 54.
+h5 gxh5 55. Kh4 e3 56. Kg5 Kf7 57. Kxf5 Rb5+ 58. Kf4 e2 59. Rc1 Rxb6 60. Re1 Re6
+61. Kf3 Kf6 62. Rxe2 Rxe2 63. Kxe2 Kg5 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.6"]
+[White "Yu Yangyi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2756"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8603820"]
+[BlackFideId "13300474"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Bxc6
+bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Nc3 Rd8 12. Qa4 a5 13. Qxc4 Ba6 14. Qc6 Qb4
+15. Bg5 Bb7 16. Qb5 Rxd4 17. a3 Qxb5 18. Nxb5 Rd7 19. Rfd1 Rad8 20. Rxd7 Rxd7
+21. Rc1 Ba6 22. Nxc7 Bxe2 23. Nd5 h5 24. Nxf6+ gxf6 25. Bxf6 Rd1+ 26. Rxd1 Bxd1
+27. b4 axb4 28. axb4 Ba4 29. f3 Kh7 30. Kf2 Kg6 31. Bd8 Kf5 32. Ke3 e5 33. h3
+Bc6 34. g4+ Kg6 35. h4 f5 36. gxh5+ Kxh5 37. Bf6 f4+ 38. Kf2 e4 39. fxe4 Bxe4
+40. b5 Kg4 41. b6 Bb7 42. Bg5 f3 43. Bd8 Bc6 44. Be7 Bb7 45. Bd8 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.7"]
+[White "Aronian,L"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2736"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "13300474"]
+[BlackFideId "8603820"]
+[EventDate "2019.07.12"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. d4 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O a6 8. a4 a5
+9. cxd5 cxd5 10. Bd2 Nc6 11. Qb3 Bf5 12. Rfc1 Qd7 13. Ne5 Nxe5 14. dxe5 Ne4 15.
+Nxe4 dxe4 16. Bc3 Be6 17. Bc4 Bxc4 18. Qxc4 Qf5 19. Qb5 Rfc8 20. Rd1 Rc7 21. Rd5
+h5 22. Rad1 Rac8 23. Qxa5 Kh7 24. h3 Qe6 25. Qb4 Rc4 26. Qxb7 Rxa4 27. Rd7 Re8
+28. R7d4 Ra2 29. Rxe4 Rea8 30. Qd7 Ra1 31. Rd4 Qxe5 32. Rd2 Qc5 33. Bxg7 Kxg7
+34. Qd4+ Qxd4 35. exd4 R1a4 36. b3 Rb4 37. Rb1 Rd8 38. Kf1 Rd5 39. Ke2 h4 40.
+Kd1 Rdxd4 41. Rxd4 Rxd4+ 42. Kc2 Rf4 43. f3 Rb4 44. Kc3 Rb8 45. b4 Kf6 46. b5
+Ke5 47. Kb4 Kf4 48. Rb2 e5 49. Kc5 f5 50. b6 e4 51. fxe4 Kxe4 52. b7 g5 53. Kc6
+Kf4 54. Rb3 g4 55. Kc7 Rh8 56. b8=Q Rxb8 57. Kxb8 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.8"]
+[White "Yu Yangyi"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2756"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "8603820"]
+[BlackFideId "13300474"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. a3 Bxc3+ 8. bxc3
+c5 9. Bb2 Nc6 10. Bd3 f5 11. Ne2 dxc4 12. Bxe4 fxe4 13. O-O b5 14. Qxe4 Bb7 15.
+Qg4 Qd5 16. f3 a5 17. Nf4 Rxf4 18. Qxf4 cxd4 19. cxd4 b4 20. axb4 axb4 21. Rxa8+
+Bxa8 22. Rc1 Bb7 23. Kf2 c3 24. Bxc3 bxc3 25. Rxc3 h6 26. h4 Ba6 27. Ra3 Qb5 28.
+Kg3 Ne7 29. Kh2 Qb6 30. h5 Bb7 31. Rd3 Bd5 32. Rc3 Nf5 33. Rc8+ Kh7 34. Qg4 Ne7
+35. Re8 Qc7 36. Rf8 Qc1 37. Re8 Qc7 38. Qg3 Bb3 39. Rf8 Qc1 40. Rf7 Nf5 41. Qg6+
+Kg8 42. Rb7 Qf4+ 43. g3 Qd2+ 44. Kh3 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.9"]
+[White "Aronian,L"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2736"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "13300474"]
+[BlackFideId "8603820"]
+[EventDate "2019.07.12"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. d4 g6 5. Nc3 Bg7 6. Be2 O-O 7. O-O dxc4 8. Bxc4
+Bg4 9. Be2 Nbd7 10. e4 Bxf3 11. Bxf3 e5 12. d5 cxd5 13. exd5 Re8 14. Bg5 h6 15.
+Be3 e4 16. Be2 Nb6 17. Qb3 Nfxd5 18. Rad1 Nxc3 19. bxc3 Qc7 20. Bb5 Red8 21. c4
+Nd7 22. Bxd7 Rxd7 23. Bf4 Qc6 24. Rxd7 Qxd7 25. Rd1 Qg4 26. Be3 Rc8 27. h3 Qe6
+28. Qxb7 Qxc4 29. Qxa7 Qe2 30. Rb1 Qd3 31. Re1 Qd5 32. Qa4 Ra8 33. Qb3 Qxb3 34.
+axb3 Rb8 35. Rb1 f5 36. Kf1 Kf7 37. b4 Rb5 38. Bc5 f4 39. Re1 e3 40. fxe3 Bc3
+41. Rb1 fxe3 42. Ke2 Bd2 43. Kd3 Ke6 44. Bxe3 Rxb4 45. Rxb4 Bxb4 46. Bxh6 Kf7
+47. g4 Ke6 48. Ke4 Kf7 49. Kd5 Be7 50. Bf4 Bf6 51. Be5 Be7 52. Ke4 Bf8 53. h4 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2740"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "2900084"]
+[EventDate "2019.07.12"]
+
+1. Nf3 Nf6 2. e3 g6 3. b4 Bg7 4. Bb2 O-O 5. c4 b6 6. Be2 c5 7. a3 Bb7 8. O-O d6
+9. d3 Nbd7 10. Nc3 e6 11. Qb3 Qe7 12. d4 Rab8 13. a4 d5 14. bxc5 bxc5 15. Ba3
+Rfc8 16. cxd5 Nxd5 17. Nxd5 Bxd5 18. Qd1 Qd8 19. Ba6 Rc7 20. Bb5 cxd4 21. Nxd4
+Nb6 22. Rc1 Rxc1 23. Bxc1 Rc8 24. Ba6 Rb8 25. Re1 Nd7 26. Bb5 Nc5 27. Ba3 Bf8
+28. Qc2 Rc8 29. Rc1 Bb7 30. Qb1 Be4 31. Qa2 Bd5 32. Qc2 Qg5 33. Bf1 Qd8 34. Qd1
+h5 35. Nb5 a6 36. Nd4 Bb7 37. Rb1 Be4 38. Rc1 e5 39. Nf3 Qxd1 40. Rxd1 Bxf3 41.
+gxf3 Nxa4 42. Bxa6 Ra8 43. Bb7 Rb8 44. Bxf8 Kxf8 45. Bc6 Nb6 46. Ra1 Rc8 47. Be4
+Nd7 48. Ra7 Nf6 49. Ra5 Nxe4 50. fxe4 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.14"]
+[Round "1.4"]
+[White "Topalov,V"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2754"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2900084"]
+[BlackFideId "2016192"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bg5 h6 7. Bh4 Be7 8. O-O
+d6 9. Bg3 a6 10. Ba4 b5 11. Bc2 Re8 12. Nbd2 Bf8 13. Re1 Nh5 14. Nf1 Nxg3 15.
+hxg3 g6 16. Ne3 Bg7 17. a4 Rb8 18. axb5 axb5 19. Bb3 Rf8 20. d4 b4 21. Bd5 Bd7
+22. Ra6 Ne7 23. dxe5 dxe5 24. Bc4 bxc3 25. bxc3 Bc6 26. Qc2 Ra8 27. Rea1 Rxa6
+28. Rxa6 Kh7 29. Ra5 f6 30. Nd2 Qd7 31. Nb3 Ra8 32. Nc5 Qd6 33. Rxa8 Bxa8 34.
+Ne6 h5 35. Qb1 Qb6 36. Qxb6 cxb6 37. Bd5 Bc6 38. Bxc6 Nxc6 39. Nd5 b5 40. Kf1 f5
+41. Ke2 Bh6 42. Nec7 Na7 43. exf5 gxf5 44. Ne7 f4 45. gxf4 exf4 46. Kf3 Nc6 47.
+Nxc6 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.15"]
+[Round "2.1"]
+[White "Karjakin,Sergey"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2763"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "14109603"]
+[BlackFideId "5202213"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
+Qd2 Nd7 9. O-O-O Nf6 10. Bd3 c5 11. Bg5 Be6 12. Rhe1 d5 13. Qf4 Re8 14. Bb5 Rf8
+15. Bd3 Re8 16. Bb5 Rf8 17. Bd3 Re8 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.15"]
+[Round "2.1"]
+[White "Duda,J"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2765"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "1170546"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 c6 7. Nbd2 Bf5 8. b3 a5
+9. Re1 Nbd7 10. Bb2 a4 11. Nh4 Be6 12. Qc2 b5 13. c5 Ne8 14. b4 f5 15. Ndf3 Kh8
+16. Ne5 Nxe5 17. dxe5 f4 18. Nf3 Nc7 19. Nd4 Qd7 20. e3 g5 21. exf4 gxf4 22. Qe2
+Rf7 23. Qh5 Raf8 24. Nxe6 Qxe6 25. Bh3 Qg6 26. Qxg6 hxg6 27. Bd4 e6 28. Bg4 Bh6
+29. Rad1 Rh7 30. Kg2 Kg7 31. Rd3 Kf7 32. a3 Na6 33. h4 Nb8 34. Bb2 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.15"]
+[Round "2.1"]
+[White "Grischuk,A"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2736"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Soultanbeieff variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "8603820"]
+[EventDate "2019.07.12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 cxd4 8. exd4
+Be7 9. Bg5 Nc6 10. Qe2 O-O 11. Rd1 Nd5 12. h4 Bd7 13. O-O h6 14. Bc1 Ncb4 15.
+Ne5 Bxh4 16. Qg4 f5 17. Qg6 Qe7 18. Nxd7 Qxd7 19. Rfe1 Rae8 20. Bxh6 Qf7 21.
+Qxf7+ Kxf7 22. Bd2 Rd8 23. Nxd5 Nxd5 24. Rc1 Rfe8 25. g3 Bf6 26. Be3 Re7 27. Bb3
+Rd6 28. a5 b6 29. Bxd5 Rxd5 30. axb6 axb6 31. Rc6 Rb5 32. Re2 Rd7 33. Kg2 Rb3
+34. Rc3 Rb4 35. Rc6 b5 36. Rb6 Rb3 37. Rd2 Rb4 38. Re2 Rb3 39. Rd2 Rb4 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.15"]
+[Round "2.1"]
+[White "Topalov,V"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2775"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "2900084"]
+[BlackFideId "623539"]
+[EventDate "2019.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2
+Nbd7 9. g4 b4 10. Nce2 h6 11. Nf4 Bb7 12. Qxb4 Qc8 13. Qd2 e5 14. Nf5 exf4 15.
+Bxf4 Ne5 16. Be2 Qc7 17. O-O-O O-O-O 18. Kb1 g6 19. Ne3 Be7 20. c4 Kb8 21. Rc1
+Nxe4 22. fxe4 Bxe4+ 23. Ka1 Bxh1 24. Rxh1 Bg5 25. Nd5 Bxf4 26. Qxf4 Qa7 27. Rc1
+Rhe8 28. a3 Nc6 29. Bf3 g5 30. Qg3 Qc5 31. Bh1 Re2 32. Nc3 Re3 33. Qg2 Rc8 34.
+Nd5 Rb3 35. Ka2 Rb7 36. b3 a5 37. Nc3 Qe3 38. Rc2 Qd3 39. Qd2 Qxd2 40. Rxd2 Re7
+41. Rxd6 Rd8 42. Rxd8+ Nxd8 43. Be4 h5 44. gxh5 f5 45. Bxf5 Rf7 46. Bg6 Rf2+ 47.
+Kb1 Rxh2 48. Ne4 g4 49. Kc1 Nc6 50. Kd1 Nd4 51. Ke1 Nxb3 52. Kf1 Nd4 53. Ng3 Kc7
+54. Be4 Nf3 55. c5 Nd2+ 56. Kg1 Rh3 57. Kg2 Nxe4 0-1
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.16"]
+[Round "2.2"]
+[White "So,W"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2748"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5 O-O
+9. Bd3 Bd6 10. Bg5 Nbd7 11. Nf3 exd5 12. Nxd5 h6 13. Bh4 Qa5+ 14. Qd2 Qxd2+ 15.
+Kxd2 Ng4 16. Be7 Bxe7 17. Nxe7+ Kh8 18. Rhe1 Nge5 19. Rad1 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.16"]
+[Round "2.2"]
+[White "Mamedyarov,S"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2729"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "13401319"]
+[BlackFideId "1170546"]
+[EventDate "2019.07.12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. Qb3 Qb6 8. Nc3
+Rd8 9. Rd1 Bf5 10. Ne1 Qxb3 11. axb3 Na6 12. cxd5 cxd5 13. Ra5 Nc7 14. Bf4 b6
+15. Raa1 Nfe8 16. Nd3 Bc8 17. e4 Bb7 18. e5 Ne6 19. Be3 f5 20. b4 Bf8 21. b5
+N6c7 22. Nb4 e6 23. Nc6 Bxc6 24. bxc6 b5 25. Rdc1 Rdb8 26. Ne2 a5 27. Nf4 Kf7
+28. Nd3 a4 29. Nc5 Be7 30. Nd7 Rd8 31. Bf1 Ra6 32. Nc5 Rb6 33. Nd7 Ra6 34. Nc5
+Rb6 35. b3 axb3 36. Nxb3 Ra8 37. Rxa8 Nxa8 38. Bd2 Nec7 39. Ba5 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.16"]
+[Round "2.2"]
+[White "Yu Yangyi"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2766"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8603820"]
+[BlackFideId "4126025"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b5 8. a4 b4
+9. Nbd2 Bb7 10. Nxc4 c5 11. Rd1 Be4 12. Qb3 Nc6 13. dxc5 Na5 14. Nxa5 Qxa5 15.
+Ne5 Rac8 16. Bf4 Bxc5 17. Rac1 Bxg2 18. Kxg2 Qa6 19. Rc2 Bd6 20. Nd7 Rxc2 21.
+Qxc2 Rc8 22. Nxf6+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.16"]
+[Round "2.2"]
+[White "Vachier Lagrave,M"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2740"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "623539"]
+[BlackFideId "2900084"]
+[EventDate "2019.07.12"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. Ba4 Nf6 5. O-O e5 6. c3 Be7 7. Re1 O-O 8. d4
+Qc7 9. dxe5 Nxe5 10. Nxe5 dxe5 11. c4 Be6 12. Qe2 h6 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.3"]
+[White "Karjakin,Sergey"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2763"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "5202213"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d5 7. Nbd2 dxe4 8.
+dxe4 a5 9. Bxc6 bxc6 10. Nxe5 Re8 11. Nb3 Qxd1 12. Rxd1 Bb6 13. Nc4 Nxe4 14.
+Nxb6 cxb6 15. f3 Nc5 16. Nxc5 bxc5 17. Rd6 Bf5 18. Bf4 Re6 19. Rad1 h5 20. Kf2
+a4 21. Rd8+ Re8 22. Rxe8+ Rxe8 23. Rd6 Rb8 24. Bc1 Rc8 25. b3 axb3 26. axb3 Bc2
+27. b4 cxb4 28. cxb4 Ba4 29. Be3 Re8 30. Bb6 Re6 31. Rxe6 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.4"]
+[White "So,W"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2748"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5202213"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Ba4 O-O 6. O-O d6 7. c3 Ne7 8. Re1
+Ng6 9. Nbd2 Bg4 10. h3 Bh5 11. g3 c6 12. Nf1 Qc8 13. Kg2 Re8 14. N1h2 Nf8 15.
+Bg5 N6d7 16. Bb3 a5 17. a4 Ne6 18. Bd2 Ba7 19. g4 Bg6 20. Nh4 Qd8 21. N2f3 Ndc5
+22. Bc2 Qc7 23. Rc1 Nd7 24. Bb3 Ndc5 25. Bc2 Nd7 26. Bb3 Ndc5 27. Bc2 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.5"]
+[White "Karjakin,Sergey"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2763"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14109603"]
+[BlackFideId "5202213"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Re1 d6 7. c3 a6 8. a4 Ba7
+9. h3 Kh8 10. b4 Ng8 11. Bg5 f6 12. Be3 Bxe3 13. Rxe3 f5 14. Nbd2 Nf6 15. b5
+axb5 16. axb5 Rxa1 17. Qxa1 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.6"]
+[White "So,W"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2748"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5202213"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Ba4 O-O 6. O-O d5 7. exd5 Qxd5 8.
+Nc3 Qd6 9. Bg5 Bg4 10. h3 Bh5 11. Bxf6 Qxf6 12. Ne4 Qe7 13. Bxc6 bxc6 14. Re1 f6
+15. Ng3 Bg6 16. Nh4 Qd7 17. Nxg6 hxg6 18. Qg4 Qxg4 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.7"]
+[White "So,W"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2748"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "5202213"]
+[BlackFideId "14109603"]
+[EventDate "2019.07.12"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. Nd5 Bc5 7. O-O d6 8. e3
+Re8 9. d4 Bg4 10. dxc5 e4 11. Nc3 Ne5 12. Nxe5 Bxd1 13. Nxf7 Qe7 14. Nxd6 cxd6
+15. cxd6 Qxd6 16. Rxd1 Qe5 17. Bd2 Rad8 18. Be1 b6 19. b3 Rd3 20. Rxd3 exd3 21.
+Rd1 Rd8 22. Bf1 Qf5 23. Nd5 Nxd5 24. Rxd3 Kf8 25. cxd5 a5 26. Rd4 Qb1 27. Bc3
+Qxa2 28. Bc4 Qc2 29. Rf4+ Ke7 30. Bxg7 Rd6 31. Bf8+ Kd7 32. Bb5+ Kc7 33. Rc4+ 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.8"]
+[White "Karjakin,Sergey"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2763"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Wimpey system"]
+[WhiteFideId "14109603"]
+[BlackFideId "5202213"]
+[EventDate "2019.07.12"]
+
+1. b3 d5 2. Bb2 Nf6 3. Nf3 e6 4. e3 c5 5. c4 Nc6 6. cxd5 exd5 7. Bb5 Bd6 8. O-O
+O-O 9. h3 Re8 10. d4 cxd4 11. Nxd4 Bc7 12. Nd2 Qd6 13. N2f3 Bd7 14. Be2 a6 15.
+Nc2 Ne4 16. Bd3 Rad8 17. Rc1 Ng5 18. Nce1 d4 19. exd4 Bxh3 20. Ba3 Qf4 21. g3
+Qf6 22. d5 Bxf1 23. Kxf1 Nxf3 24. Nxf3 Ne5 25. Rxc7 Nxf3 26. Be2 Ne5 27. d6 Qf5
+28. Qd5 h6 29. Kg2 Qe6 30. Qxb7 Ng6 31. Bc4 Nf4+ 32. Kf3 Qh3 33. Rxf7 Qh5+ 34.
+g4 Qh3+ 35. Kxf4 Qh2+ 36. Kf3 Qh3+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.3"]
+[White "Mamedyarov,S"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2729"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "1170546"]
+[EventDate "2019.07.12"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+b6 9. e4 dxe4 10. Nxe4 Nxe4 11. Qxe4 Bb7 12. Rd1 Qc7 13. Bd3 g6 14. Qh4 c5 15.
+Ng5 Nf6 16. Be3 cxd4 17. Bxd4 Be5 18. Bf1 Rad8 19. Bxe5 Qxe5 20. Nxh7 Rxd1 21.
+Nxf6+ Qxf6 22. Qxf6 Rxa1 23. h4 Be4 24. Qd4 Bf5 25. b3 Rb1 26. f3 e5 27. Qd5 Re8
+28. g4 Bc8 29. h5 gxh5 30. Kf2 hxg4 31. Bd3 Rb2+ 32. Ke3 Be6 33. Qc6 Rc8 34. Qe4
+Rh2 35. Qxe5 Rh3 36. Be4 gxf3 37. Kf2 Rc5 38. Bd5 Bxd5 39. Qg5+ Kf8 40. Qd8+ Kg7
+41. Qg5+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.4"]
+[White "Duda,J"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2729"]
+[BlackElo "2765"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. Nf3 d5 2. c4 e6 3. b3 Nf6 4. Bb2 Be7 5. e3 O-O 6. Nc3 dxc4 7. Bxc4 c5 8. Rg1
+a6 9. g4 b5 10. Be2 Bb7 11. g5 Nd5 12. Qb1 Nd7 13. Ne4 Qc7 14. Rg4 e5 15. a3
+Rfe8 16. Qc2 Bf8 17. h4 Qc6 18. d3 a5 19. a4 Nb4 20. Qc3 Qe6 21. Nfd2 bxa4 22.
+bxa4 Nb6 23. Nc4 Nxc4 24. dxc4 Rad8 25. Kf1 Bc8 26. Rg3 Bb7 27. f3 Qg6 28. Nf2
+h5 29. Rg1 Qc2 30. Bd1 Qf5 31. Kg2 Nd3 32. Be2 e4 33. f4 Nxf4+ 34. exf4 e3+ 35.
+Bf3 Bxf3+ 36. Kxf3 exf2 0-1
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.3"]
+[White "Grischuk,A"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2736"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4126025"]
+[BlackFideId "8603820"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O
+a6 9. a4 c5 10. d5 exd5 11. Nxd5 Nxd5 12. Qxd5 Nf6 13. Qxd8 Rxd8 14. Bc7 Re8 15.
+Bxc4 Bg4 16. h3 Rac8 17. Bf4 Be6 18. Bxe6 fxe6 19. a5 Nd5 20. Be5 Red8 21. Rfc1
+Nb4 22. Kf1 Nd3 23. Rc2 c4 24. Ke2 Nb4 25. Rd2 Rd5 26. Bc3 Nd3 27. b3 Bb4 28.
+Bxb4 Nxb4 29. bxc4 Rxc4 30. Ra4 Rdc5 31. Rd8+ Kf7 32. Nd2 Nc6 33. Rxc4 Rxc4 34.
+Rd7+ Ke8 35. Rxb7 Ra4 36. Rxg7 h5 37. Rg5 Rxa5 38. Rxa5 Nxa5 39. Ne4 Nb7 40.
+Nf6+ Ke7 41. Nxh5 a5 42. Nf4 a4 43. Kd2 a3 44. Kc2 Nc5 45. f3 Kf7 46. Kb1 e5 47.
+Ne2 Nd3 48. g3 Nb4 49. Nc3 Kg6 50. h4 Kh5 51. e4 Nc6 52. Nd5 Nd4 53. f4 exf4 54.
+Nxf4+ Kg4 55. h5 Kg5 56. e5 Nf5 57. e6 Ng7 58. Ka2 Nf5 59. Kxa3 Kf6 60. g4 Ne3
+61. h6 Nxg4 62. e7 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.17"]
+[Round "2.4"]
+[White "Yu Yangyi"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2766"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Simagin variation"]
+[WhiteFideId "8603820"]
+[BlackFideId "4126025"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Bd6 7. c5 Be7 8. Ng3 c6
+9. Bd2 b6 10. b4 Nbd7 11. Be2 a5 12. O-O Ba6 13. Qc2 Qc7 14. h3 Ra7 15. Rab1
+axb4 16. axb4 Rfa8 17. Rfc1 Bxe2 18. Ngxe2 Qb7 19. f3 Ra3 20. Be1 h6 21. Bf2 e5
+22. Re1 bxc5 23. bxc5 Qa6 24. Rb4 Bd8 25. Reb1 Ba5 26. Ra4 Rxa4 27. Qxa4 Qc8 28.
+Ra1 Ra7 29. Ra2 Qa8 30. Bg3 Bb6 31. Qb3 Bc7 32. Be1 Nf8 33. Bg3 N6d7 34. Kh2 Ne6
+35. Rxa7 Qxa7 36. Qa4 Qxa4 37. Nxa4 f5 38. dxe5 Bxe5 39. Bxe5 Nxe5 40. Nd4 Nxd4
+41. exd4 Nd3 42. Nc3 Nf4 43. Kg1 Ne6 44. Ne2 f4 45. Kf2 g5 46. Ke1 Ng7 47. Kd2
+Kf7 48. Nc1 Nf5 49. Kc3 Ke7 50. Nd3 Kd7 51. Ne5+ Kc7 52. Kd3 Nh4 53. Nf7 Nf5 54.
+Kc3 Kd7 55. Kd3 Kc7 56. Ne5 Nh4 57. Nf7 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.18"]
+[Round "3.1"]
+[White "Mamedyarov,S"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2763"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "13401319"]
+[BlackFideId "5202213"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Nxc6
+bxc6 9. Na3 Bxa3 10. bxa3 Ba6 11. Qd2 Rb8 12. Qa5 Rb6 13. a4 Qd6 14. a3 Rfb8 15.
+e4 c3 16. e5 Qd8 17. exf6 Bxf1 18. Bxf1 c2 19. Ra2 Qd5 20. Qxd5 cxd5 21. Rxc2
+gxf6 22. Rxc7 R8b7 23. Rc5 Kg7 24. Kg2 Rb1 25. Bb5 Ra1 26. Rc3 Rb6 27. Bf4 Rb7
+28. Kf3 Rd1 29. Be3 Rb1 30. Kg4 Rh1 31. h4 Kg6 32. Bd3+ f5+ 33. Kf3 Rd1 34. g4 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.18"]
+[Round "3.1"]
+[White "Vachier Lagrave,M"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2766"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4126025"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Be7 10. Nc3 Nh4 11. Nxh4 Bxh4 12. Re1 a5 13. Ne2 Bd7 14. Bd2
+Kc8 15. Bc3 Re8 16. Rad1 g6 17. Nf4 Bg5 18. e6 Bxe6 19. Nxe6 Rxe6 20. Rxe6 fxe6
+21. Rd3 b5 22. Rf3 b4 23. Be5 a4 24. Rf8+ Bd8 25. Bf6 Kd7 26. Rh8 b3 27. cxb3
+axb3 28. a4 c5 29. a5 c4 30. a6 c3 31. Rxh7+ Kd6 32. Bxc3 Rxa6 33. Kf1 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.19"]
+[Round "3.2"]
+[White "So,W"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2765"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "5202213"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. b3 cxd4 8. Nxd4
+Be7 9. Bb2 O-O 10. Nd2 b5 11. Be2 Bb7 12. a4 Nc6 13. Bf3 Nd5 14. axb5 Nxd4 15.
+Bxd4 axb5 16. Ne4 b4 17. Qd2 Qb8 18. Bc5 Rxa1 19. Rxa1 Qc7 20. Bxe7 Qxe7 21. Ra7
+Rc8 22. Rxb7 Qxb7 23. Nd6 Qc7 24. Nxc8 Qxc8 25. Bxd5 exd5 26. h4 Qc5 27. h5 Kf8
+28. g3 Ke7 29. Qd1 f5 30. Qd3 Kf6 31. Kg2 Kg5 32. f4+ Kf6 33. g4 fxg4 34. Qxh7
+Qc3 35. Qg6+ Ke7 36. Qxg4 Kd6 37. Kf3 Qxb3 38. Qxg7 Qd1+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.19"]
+[Round "3.2"]
+[White "Grischuk,A"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2775"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "4126025"]
+[BlackFideId "623539"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. h4 c5 4. d5 b5 5. cxb5 a6 6. e3 Bg7 7. Nc3 O-O 8. Nf3 d6
+9. a4 Bg4 10. Ra3 axb5 11. Bxb5 Na6 12. e4 Nb4 13. Be2 Nd7 14. O-O Qb6 15. Re1
+Qb7 16. Bg5 Bxf3 17. gxf3 Ne5 18. Rf1 c4 19. b3 Rfc8 20. Bd2 Nbd3 21. f4 Qb4 22.
+Nb1 c3 23. fxe5 Nb2 24. Qc2 cxd2 25. Qxb2 Qxe4 26. Qxd2 Rc2 27. Qd3 Rxe2 28.
+Qxe4 Rxe4 29. exd6 exd6 30. Nd2 Rg4+ 31. Kh1 Rxh4+ 32. Kg2 Rd4 33. Nf3 Rg4+ 34.
+Kh3 Rb4 35. Rb1 Rc8 36. Kg2 Rc3 37. Ng1 Rc2 38. Nf3 Rg4+ 39. Kf1 Rf4 40. Kg2
+Rg4+ 41. Kf1 Rf4 42. Kg2 g5 43. Rf1 Rg4+ 44. Kh1 Rc3 45. Rg1 Rf4 46. Nh2 Rxf2
+47. Rxg5 Rcc2 0-1
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.22"]
+[Round "4.1"]
+[White "Mamedyarov,S"]
+[Black "Vachier Lagrave,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "623539"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Qd7 8.
+Qa3 b6 9. Nf3 Bb7 10. Bd3 O-O 11. O-O c5 12. Bf4 cxd4 13. cxd4 Nc6 14. d5 Na5
+15. Rac1 Rfc8 16. h3 e6 17. d6 f6 18. e5 Bxf3 19. exf6 Bxf6 20. gxf3 e5 21. Bd2
+Rxc1 22. Rxc1 Rc8 23. Rxc8+ Qxc8 24. Kg2 Bd8 25. Be4 Qe6 26. Qd3 Kg7 27. Bc3 Qf6
+28. Kf1 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.23"]
+[Round "4.2"]
+[White "Vachier Lagrave,M"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. h3 a5
+9. Nbd2 Be6 10. Bb5 Qb8 11. Nf1 Qa7 12. Be3 Bxe3 13. Nxe3 Ne7 14. a4 Rad8 15.
+Bc4 Bxc4 16. Nxc4 Nd7 17. d4 Qa6 18. Ne3 Rfe8 19. Qc2 exd4 20. Nxd4 c6 21. Ndf5
+Nf6 22. Rad1 Nc8 23. f3 d5 24. Qf2 Re6 25. Qg3 Ne8 26. exd5 cxd5 27. Nxd5 Kf8
+28. Qh4 Rd7 29. Nde3 Ncd6 30. Nd4 Re5 31. Ng4 Rd5 32. Ne5 1-0
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.24"]
+[Round "4.3"]
+[White "Mamedyarov,S"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "623539"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Qd7 8.
+Qa3 b6 9. Nf3 c5 10. Bd3 Nc6 11. Bb5 a6 12. O-O Bb7 13. Bxc6 Bxc6 14. d5 Bb5 15.
+Re1 O-O 16. Bb2 c4 17. Bc1 e6 18. Be3 exd5 19. Rad1 Rfe8 20. exd5 Ba4 21. Rc1
+Bf8 22. Qb2 b5 23. Qd2 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.24"]
+[Round "4.4"]
+[White "Vachier Lagrave,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
+Ne7 9. Nf1 Ng6 10. Ng3 c6 11. d4 exd4 12. Nxd4 Re8 13. h3 d5 14. exd5 Rxe1+ 15.
+Qxe1 Bxd4 16. cxd4 Nxd5 17. Bd3 Ndf4 18. Bc2 Be6 19. Bxf4 Nxf4 20. Qe4 Ng6 21.
+Qe3 Nf8 22. Re1 Qa5 23. Qe5 Qxe5 24. dxe5 Rd8 25. b3 g5 26. Ne4 Rd4 27. h4 gxh4
+28. f4 Bd5 29. Nf6+ Kh8 30. f5 Nd7 31. Nxd7 Rd2 32. e6 fxe6 33. f6 Kg8 34. Bd3
+Rxg2+ 35. Kf1 h3 36. Be4 Bxe4 37. Rxe4 Kf7 38. Rh4 Rd2 39. Nc5 h2 40. Ne4 Rxa2
+41. Rxh6 h1=Q+ 42. Rxh1 Ra1+ 43. Kg2 Rxh1 44. Kxh1 a5 45. Nd6+ Kxf6 46. Nxb7 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.24"]
+[Round "4.5"]
+[White "Mamedyarov,S"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "623539"]
+[EventDate "2019.07.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Qd7 8.
+Qa3 b6 9. Nf3 c5 10. Bd3 Nc6 11. Bb5 a6 12. O-O Bb7 13. Bxc6 Bxc6 14. Re1 f5 15.
+dxc5 fxe4 16. Nd4 bxc5 17. Qxc5 Bd5 18. Ba3 Rc8 19. Qa5 O-O 20. Bxe7 Rfe8 21.
+Bg5 Bc4 22. Be3 Bd3 23. Rac1 Rc4 24. Nb3 Qb5 25. Qxb5 axb5 26. Bd4 Bh6 27. Ra1
+Rec8 28. h3 Bg7 29. Rac1 Bh6 30. Ra1 Bg7 31. a3 Bxd4 32. cxd4 b4 33. axb4 Rxb4
+34. Ra3 Rcb8 35. Nc5 Rxd4 36. Ra7 Rc8 37. Ne6 Rd5 38. Rea1 Re5 39. Nd4 Rd5 40.
+R1a4 Rd6 41. Re7 Rcd8 42. Ne6 R6d7 43. Rxd7 Rxd7 44. Ra8+ Kf7 45. Nf8 Re7 46.
+Nxh7 e3 47. fxe3 Rxe3 48. Ng5+ Kf6 49. Nf3 Re2 50. Rf8+ Kg7 51. Rf4 Re4 52. Rxe4
+Bxe4 53. Kf2 Kf6 54. Ke3 Bd5 55. Kf4 g5+ 56. Kg4 Kg6 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.24"]
+[Round "4.6"]
+[White "Vachier Lagrave,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
+Ne7 9. Bb3 Ng6 10. d4 Bb6 11. Nc4 Be6 12. d5 Bd7 13. Nxb6 axb6 14. h3 Nh7 15.
+Bc2 Qc8 16. g4 Qd8 17. Be3 Ng5 18. Kh2 Qf6 19. Kg3 Nf4 20. Rh1 Bb5 21. Ng1 Ne2+
+22. Kg2 Nf4+ 23. Kg3 Ne2+ 24. Kg2 Nf4+ 1/2-1/2
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.24"]
+[Round "4.7"]
+[White "Vachier Lagrave,M"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. h3 a5
+9. Nbd2 Be6 10. Bb5 Qb8 11. Nf1 Qa7 12. Be3 Bxe3 13. Nxe3 a4 14. d4 Qa5 15. Bd3
+Ne7 16. Nf5 Bxf5 17. exf5 Nc6 18. dxe5 Nxe5 19. Nxe5 dxe5 20. Qe2 Rfe8 21. Be4
+c6 22. Rad1 Qc5 23. a3 Rad8 24. Rxd8 Rxd8 25. Bc2 b5 26. Kf1 Rd5 27. Be4 Nxe4
+28. Qxe4 Qd6 29. g3 f6 30. Re2 Rd1+ 31. Re1 Rd2 32. Re2 Rd1+ 33. Re1 Rd5 34. Re2
+Kf7 35. Re3 Qd7 36. h4 Ke7 37. Qg4 Kd8 38. Re4 Kc7 39. c4 Rd1+ 40. Kg2 Qd3 41.
+Qxg7+ Kb6 42. c5+ Ka6 43. Rb4 Qd5+ 44. f3 Qd2+ 45. Kh3 h5 0-1
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.24"]
+[Round "4.8"]
+[White "Mamedyarov,S"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2765"]
+[BlackElo "2775"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Keres defence"]
+[WhiteFideId "13401319"]
+[BlackFideId "623539"]
+[EventDate "2019.07.12"]
+
+1. d4 e6 2. c4 b6 3. Nf3 Bb7 4. Nc3 Nf6 5. a3 g6 6. d5 exd5 7. cxd5 Bg7 8. g3
+O-O 9. Bg2 Re8 10. O-O Na6 11. Bf4 c6 12. dxc6 dxc6 13. Qxd8 Raxd8 14. Rfd1 Nd5
+15. Nxd5 cxd5 16. Nd4 Nc5 17. Be3 Bxd4 18. Bxd4 Nb3 19. Rab1 Nxd4 20. Rxd4 Rxe2
+21. Bf3 Rc2 22. Be4 Rc5 23. Rbd1 Kg7 24. R4d3 a5 25. Rd4 Bc6 26. b4 Rc3 27. Bxd5
+Ba4 28. R1d2 Rxa3 29. bxa5 bxa5 30. h4 Bb5 31. Rb2 Bc6 32. Rbd2 Ra4 33. Rxa4
+Bxa4 34. Ra2 Bb5 35. Bb3 Ra8 36. Ba4 Bxa4 37. Rxa4 Kf6 38. Kf1 Ke6 39. Ke2 Kd5
+40. Kd3 Ra7 41. g4 Kc5 42. Kc3 Kb5 43. Re4 a4 44. Re5+ Kc6 45. Kb2 a3+ 46. Ka2
+Kd6 47. Re4 Kd5 48. f3 Rc7 49. Re3 Ra7 50. Re4 f5 51. Re8 Kd4 52. gxf5 gxf5 53.
+f4 Ra6 54. Re5 Rh6 55. Rxf5 Rxh4 56. Kxa3 Ke4 57. Rf7 h5 58. f5 Rf4 59. f6 Kf5
+60. Kb3 Kg6 61. Ra7 Rxf6 62. Kc3 Rd6 63. Ra8 h4 64. Rg8+ Kf5 65. Rh8 Kg4 66.
+Rg8+ Kf3 67. Rh8 Kg3 68. Rg8+ Kh2 69. Rg4 h3 70. Rg8 Kh1 71. Rg7 h2 72. Rg8 Rd1
+73. Kc2 Rg1 0-1
+
+[Event "Riga FIDE Grand Prix 2019"]
+[Site "Riga LAT"]
+[Date "2019.07.24"]
+[Round "4.9"]
+[White "Vachier Lagrave,M"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+[EventDate "2019.07.12"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. d4 d6 6. O-O Nbd7 7. Nc3 e5 8. Qc2
+exd4 9. Nxd4 Re8 10. Rd1 a6 11. b3 Rb8 12. Bb2 Ne5 13. c5 d5 14. h3 Nc6 15. Nxc6
+bxc6 16. e4 Be6 17. exd5 cxd5 18. Qd2 Qe7 19. Rac1 Rbd8 20. Re1 Qd7 21. Kh2 h5
+22. Ne2 Bf5 23. c6 Qd6 24. Qf4 Qxf4 25. Nxf4 d4 26. Rxe8+ Nxe8 27. Rd1 h4 28.
+Bf1 hxg3+ 29. fxg3 a5 30. Bc4 Nd6 31. Bd5 Nb5 32. Bf3 Rd6 33. Rd2 Be5 34. Nd3
+Bxd3 35. Rxd3 Nc3 36. a4 Nd5 37. Ba3 Rd8 38. Bc5 Ne3 39. Kg1 f5 40. Kf2 Kf7 41.
+b4 axb4 42. Bxb4 Rb8 43. Be1 Rb1 44. a5 Ra1 45. Rb3 Ra2+ 46. Be2 Nd5 47. Kf3 Kf6
+48. g4 fxg4+ 49. hxg4 Ra1 50. Bh4+ g5 51. Bf2 Rxa5 52. Rb8 Ra3+ 53. Ke4 Nc3+ 54.
+Kd3 Nd5+ 55. Kc4 Nb6+ 56. Kb5 d3 57. Bd1 Ra1 58. Bxb6 cxb6 59. Rf8+ Ke7 60. Rf1
+Kd6 61. Kc4 d2 62. Kd3 Bf4 63. Rh1 Ra3+ 64. Ke4 Re3+ 0-1

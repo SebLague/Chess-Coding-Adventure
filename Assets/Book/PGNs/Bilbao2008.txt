@@ -1,0 +1,622 @@
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.02"]
+[Round "1"]
+[White "Anand,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2798"]
+[BlackElo "2781"]
+[EventDate "2008.09.02"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 Re6 18. Qf1 Qh5 19. f3 Rf6 20. Qe2
+Bxf3 21. Nxf3 Rxf3 22. Bxd5 Qxd5 23. Bf2 Rf6 24. b3 Qf5 25. Rad1 h5 26. Rd3
+h4 27. Re3 Rg6 28. c4 hxg3 29. hxg3 bxc4 30. bxc4 c5 31. Qf3 Qh3 32. Qg2
+Qd7 33. dxc5 Bxc5 34. Re4 Qc7 35. Kh2 Rh6+ 36. Kg1 Rf6 37. Be3 Rd8 38. Kh2
+Bxe3 39. R4xe3 Rh6+ 40. Kg1 Qc5 41. Qf2 Qh5 42. Qg2 Rd2 43. Re8+ Kh7 44.
+R8e2 Qc5+ 45. Qf2 Rxe2 46. Rxe2 Qxc4 47. Qf5+ g6 48. Qe4 Qc5+ 49. Kg2 Rh5
+50. Rc2 Qb6 51. Rd2 Rb5 52. a4 Rb4 53. Qe7 Qc6+ 54. Kh2 Rb7 55. Qh4+ Kg7
+56. Qd4+ f6 57. a5 g5 58. Qd5 Qb5 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.02"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2737"]
+[BlackElo "2775"]
+[EventDate "2008.09.02"]
+[ECO "A32"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. g3 Bb4+ 6. Nd2 Nc6 7. Nc2 Be7
+8. Bg2 O-O 9. O-O Rb8 10. Ne4 b5 11. cxb5 Rxb5 12. Nd6 Bxd6 13. Qxd6 Bb7
+14. Na3 Rb6 15. Be3 Rxb2 16. Bc5 Re8 17. Rab1 Rxb1 18. Rxb1 Ba6 19. Nb5
+Bxb5 20. Rxb5 Qc8 21. a4 h6 22. Ba3 Qa6 23. Bb2 Qxa4 24. Bxc6 dxc6 25. Rb4
+Qa5 26. Bxf6 gxf6 27. Rg4+ Kh7 28. Qxc6 Rd8 29. Qc2+ f5 30. Ra4 Qe1+ 31.
+Kg2 Rd1 32. Qc7 Kg6 33. Kf3 Qh1+ 34. Ke3 Ra1 35. Qc2 Rxa4 36. Qxa4 Qc1+ 37.
+Kf3 Qc3+ 38. Kg2 a5 39. g4 Qe5 40. gxf5+ Kxf5 41. Qe8 Kg6 42. Qf8 a4 43. e3
+Qe4+ 44. Kg3 Qd3 45. h4 a3 46. Kh2 Qf5 47. Qxa3 Qxf2+ 48. Kh3 Qf3+ 49. Kh2
+Kh5 50. Qf8 Qf2+ 51. Kh1 Kg4 0-1
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.02"]
+[Round "1"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2777"]
+[EventDate "2008.09.02"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. Nd2 a5 9. c4 Nb6 10. Qe4 d5 11. exd6 cxd6 12. Be2 Qxe4 13. Nxe4 Be6
+14. c5 dxc5 15. Be3 Nd5 16. Bxc5 Nf4 17. Bxf8 Kxf8 18. g3 Nxe2 19. Kxe2 Re8
+20. f3 Bd5 21. Kf2 Bxe4 22. fxe4 Rxe4 23. Rac1 Ke7 24. Rxc6 Rd8 25. Rc2 Rd5
+26. Rhc1 Rf5+ 27. Kg2 h5 28. Rc7+ Kf6 29. R1c6+ Re6 30. b3 g5 31. Rxe6+
+fxe6 32. Rc2 Ke7 33. Rd2 g4 34. h3 gxh3+ 35. Kxh3 Kf6 36. g4 hxg4+ 37. Kxg4
+Rb5 38. Kf4 a4 39. bxa4 Ra5 40. Ke3 Rxa4 41. Rb2 Kf5 42. Rf2+ Ke5 43. Kd3
+Kd5 44. Rb2 Ra3+ 45. Rb3 Rxb3+ 46. axb3 Kc5 47. Ke4 Kb4 48. Ke5 Kxb3 49.
+Kxe6 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2775"]
+[EventDate "2008.09.02"]
+[ECO "B78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 a6 13. Rhe1 b5 14. Bh6
+Bxh6 15. Qxh6 Rxc3 16. bxc3 a5 17. f4 Neg4 18. Qh4 a4 19. Bxf7+ Rxf7 20. e5
+Nd5 21. e6 Nxc3+ 22. Kc1 Bxe6 23. Nxe6 Qa5 24. Qxg4 Nxa2+ 25. Kb2 Qc3+ 26.
+Kxa2 Qxc2+ 27. Ka1 Qc3+ 28. Kb1 Qb3+ 29. Ka1 Qc3+ 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Anand,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2798"]
+[BlackElo "2744"]
+[EventDate "2008.09.02"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 O-O 13. Ncxb4 Nxb4 14.
+Nxb4 Qb6 15. Nd5 Qxb2 16. Bd3 Bd8 17. O-O Be6 18. Qb3 Qxb3 19. axb3 Rb8 20.
+Rfb1 Bxd5 21. cxd5 a5 22. Ra4 Bb6 23. b4 axb4 24. Raxb4 Ba7 25. Rxb8 Rxb8
+26. Rxb8+ Bxb8 27. Kf1 Kf8 28. Ke2 Ke7 29. g3 Ba7 30. h4 Bd4 31. Kf3 Ba7
+32. Ke2 Bd4 33. Kf3 Ba7 34. Ke2 Bd4 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.03"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2777"]
+[BlackElo "2737"]
+[EventDate "2008.09.02"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8.
+h3 Bg6 9. Nxg6 hxg6 10. Bd2 Nbd7 11. Bd3 Be7 12. O-O-O a5 13. Kb1 Qa6 14.
+Ne2 a4 15. Qc2 dxc4 16. Bxc4 b5 17. Bd3 c5 18. dxc5 Nxc5 19. Nd4 Nxd3 20.
+Qxd3 Rh5 21. Rc1 Rd5 22. e4 Rd7 23. e5 Rad8 24. Be3 Nd5 25. Nc6 Nb4 26.
+Nxb4 Bxb4 27. Qe4 Bd2 28. Qh4 Bxe3 29. fxe3 b4 30. Qh8+ Ke7 31. Qxg7 a3 32.
+Qf6+ Kf8 33. Qh8+ Ke7 34. Qh4+ Ke8 35. Qh8+ Ke7 36. Qh4+ Ke8 37. Qh8+
+1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.04"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2781"]
+[EventDate "2008.09.02"]
+[ECO "D20"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Bb4+ 6. Nbd2 Nc6 7. O-O
+Nf6 8. e5 Nd5 9. a3 Be7 10. Qb3 Na5 11. Qa4+ Nc6 12. Nxd4 Nb6 13. Nxc6 Nxa4
+14. Nxd8 Bxd8 15. f4 Nb6 16. Ba2 Be6 17. Ne4 Bxa2 18. Rxa2 f5 19. Nc5 Rb8
+20. b4 c6 21. g4 Nd5 22. Ne6 Rg8 23. Rg2 Bb6+ 24. Kh1 Ne7 25. Bb2 g6 26. h3
+h6 27. Re1 Nd5 28. gxf5 Kf7 29. Nd4 Bxd4 30. Bxd4 gxf5 31. e6+ Ke7 32. Bc5+
+Kf6 33. Bd4+ Ke7 34. Bc5+ Kf6 35. Bd4+ 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.04"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2775"]
+[BlackElo "2777"]
+[EventDate "2008.09.02"]
+[ECO "D58"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8.
+Bd3 Bb7 9. O-O Nbd7 10. Bg3 c5 11. cxd5 Nxd5 12. Nxd5 Bxd5 13. e4 Bb7 14.
+Rc1 a6 15. b4 cxb4 16. Bc7 Qe8 17. Qe2 b5 18. Ba5 Rc8 19. Qb2 Nf6 20. Rxc8
+Qxc8 21. Nd2 Qc3 22. Qxc3 bxc3 23. Bxc3 Rc8 24. Ba5 Bd8 25. Bxd8 Rxd8 26.
+Rd1 Rxd4 27. Nb3 Rd8 28. f3 Kf8 29. Kf2 Nd7 30. Be2 Ke7 31. Na5 Ba8 32. Rc1
+Kd6 33. Ke3 Nb6 34. f4 Rc8 35. Rxc8 Nxc8 36. Kd4 Ne7 37. Bf3 Kc7 38. Nb3
+Kb6 39. Ke5 Ng6+ 40. Kd6 Nxf4 41. Nc5 b4 42. h4 a5 43. g3 Nh3 44. Nd7+ Ka7
+45. Kc5 f5 46. Kb5 fxe4 47. Bh5 e3 48. Kxa5 g6 49. Bg4 h5 50. Be2 Ng1 51.
+Bf1 e2 52. Bxe2 Nxe2 53. Nf8 Be4 54. Nxe6 Nxg3 55. Nf4 Kb7 56. Kxb4 Kc6 0-1
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.04"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2737"]
+[BlackElo "2798"]
+[EventDate "2008.09.02"]
+[ECO "D16"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8.
+O-O cxd4 9. exd4 Be7 10. Be3 O-O 11. Ne5 Nd5 12. Nxd5 exd5 13. Bd3 g6 14.
+a5 Bf6 15. Nxc6 bxc6 16. Qc1 Bd7 17. Qc3 Qb8 18. g3 Be7 19. Bf4 Bb4 20.
+Bxb8 Bxc3 21. Bxa7 Bxb2 22. Bc5 Bxa1 23. Rxa1 Rfb8 24. h4 Bf5 25. Bxf5 gxf5
+26. a6 h5 27. a7 Rb7 28. Kg2 Kg7 29. Kf3 f6 30. Ra6 Rc7 31. Kf4 Kg6 32. f3
+Rcc8 33. g4 fxg4 34. fxg4 hxg4 35. Kxg4 Rh8 36. Rxc6 Rae8 37. Bd6 Re4+ 38.
+Bf4 Rxd4 39. Ra6 Ra8 40. h5+ Kh7 41. Kf5 Rb4 42. Bb8 Rbxb8 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.05"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2781"]
+[EventDate "2008.09.02"]
+[ECO "D27"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8.
+Qe2 Qc7 9. Rd1 Be7 10. dxc5 O-O 11. b3 Ne4 12. Ba3 Rd8 13. Rxd8+ Qxd8 14.
+Qc2 Nxc5 15. Nbd2 Nd7 16. Bxe7 Qxe7 17. Rd1 Nf6 18. Ne4 Nd5 19. Bxd5 exd5
+20. Nc3 Be6 21. h3 h6 22. Qb1 Nb4 23. Ne2 Rc8 24. Nf4 Qc5 25. Nd4 Bd7 26.
+g4 a5 27. Kg2 b6 28. Kg1 Qd6 29. Qb2 Rc5 30. Nf3 Qe7 31. Nd4 Qe5 32. Qe2
+Qe7 33. Qf3 Qe5 34. Nfe2 Kf8 35. Nf4 Kg8 36. Nfe2 Kf8 37. Kg2 Kg8 38. Nf4
+Rc3 39. Qg3 Rc5 40. h4 g6 41. Kh2 Qc7 42. g5 h5 43. Nfe2 Kf8 44. Qxc7 Rxc7
+45. Kg2 Ke7 46. Kf1 Bg4 47. f3 Bd7 48. Ke1 Rc8 49. Kd2 Rc7 50. Nc3 Rc5 51.
+Rf1 Bc8 52. f4 Ba6 53. Rf3 Nd3 54. Ncb5 Nb4 55. f5 Nc6 56. fxg6 fxg6 57.
+Rf6 Bxb5 58. Nxb5 Ne5 59. Nd4 Kd7 60. Rxb6 Rc8 61. Rb5 Kd6 62. Rxa5 Rf8 63.
+Ra6+ Kd7 64. Rf6 Rxf6 65. gxf6 Ke8 66. a5 Kf7 67. a6 Nd7 68. a7 Nb6 69. Kc3
+Kxf6 70. Kb4 1-0
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.05"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2744"]
+[EventDate "2008.09.02"]
+[ECO "B78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rb8 11. Bb3 Na5 12. Kb1 b5 13. h4 Nc4 14. Bxc4
+bxc4 15. Ka1 h5 16. Rb1 Qa5 17. Bh6 Bxh6 18. Qxh6 Rb6 19. g4 hxg4 20. Qe3
+Rfb8 21. h5 g5 22. fxg4 Nxg4 23. Qd2 f6 24. Nf3 Ra6 25. Rhg1 Rb4 26. a3 Be6
+27. e5 dxe5 28. Nxg5 Bf5 29. Nge4 Kh7 30. Qe2 Nh6 31. Rg3 Be6 32. Rg6 Nf5
+33. Qg4 Nh4 34. Ng5+ fxg5 35. Qxg5 Nxg6 36. Qxg6+ Kh8 37. Rg1 1-0
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.05"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2777"]
+[BlackElo "2798"]
+[EventDate "2008.09.02"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.
+cxd5 Nxd5 9. O-O Be7 10. Rd1 Qc8 11. a3 Nf6 12. Bg5 d5 13. Bxf6 Bxf6 14.
+Nc3 Bxc3 15. bxc3 Na6 16. Nh4 g6 17. Bxd5 Bxd5 18. Rxd5 O-O 19. Rad1 Nc7
+20. Rd7 Ne6 21. Qe4 Qe8 22. Nf3 c4 23. Qh4 Nc5 24. Re7 Rd8 25. Rf1 1-0
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.06"]
+[Round "5"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2798"]
+[BlackElo "2775"]
+[EventDate "2008.09.02"]
+[ECO "C63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Bxc6
+bxc6 8. Nxe5 O-O 9. Nc3 d6 10. Nd3 Bd4 11. Ne2 Bb6 12. Bg5 Qe8 13. Bxf6
+Rxf6 14. Ng3 Qf7 15. b3 Be6 16. Qd2 Rf8 17. Rae1 Rh6 18. Qc3 Rf6 19. Re2
+Bg4 20. Rd2 Be3 21. h3 Bxd2 22. Qxd2 Bc8 23. f4 h5 24. f5 h4 25. Ne2 Re8
+26. Nf2 d5 27. Ng4 Rxe4 28. Nxf6+ Qxf6 29. Nc1 Bxf5 30. Qf2 Bg6 31. Qxa7
+Rf4 32. Rxf4 Qxf4 33. Nd3 Bxd3 34. cxd3 Qc1+ 35. Kh2 Qf4+ 36. Kg1 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.06"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2737"]
+[EventDate "2008.09.02"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nd2
+d6 8. Nb3 Bb6 9. a4 a5 10. Bd2 Qxf3 11. gxf3 Ne7 12. Rg1 Ng6 13. Be3 Bxe3
+14. fxe3 Ne5 15. Be2 g6 16. f4 Nd7 17. Bf3 c5 18. e5 Ra7 19. exd6 cxd6 20.
+Nd2 Nb6 21. Ne4 Ke7 22. Nc3 Bd7 23. Kf2 Rb8 24. Rgd1 Na8 25. Nd5+ Ke6 26.
+b3 Nc7 27. Nc3 Ke7 28. Rd2 Be6 29. Rad1 Ra6 30. e4 Rb4 31. Na2 Rb8 32. Nc3
+Rb4 33. Na2 Rb8 34. Nc3 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.06"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2777"]
+[EventDate "2008.09.02"]
+[ECO "E34"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 Qxd5 6. Nf3 Qf5 7. Qxf5
+exf5 8. a3 Be7 9. Bg5 c6 10. e3 Be6 11. Nd2 Nbd7 12. Bc4 Nd5 13. Bxe7 Kxe7
+14. Bxd5 cxd5 15. f3 Rhc8 16. Kf2 Rc6 17. a4 Rb6 18. Ra2 a5 19. b3 Rc8 20.
+Ne2 Nb8 21. Rc1 Rbc6 22. Rxc6 Rxc6 23. Nb1 Na6 24. Na3 Nb4 25. Rd2 b6 26.
+Nb5 Bd7 27. h3 h6 28. h4 g6 29. f4 Rc8 30. Nbc3 Kd6 31. Na2 Na6 32. Nec3
+Nc7 33. Rc2 Ne8 34. Nb5+ Ke7 35. Rxc8 Bxc8 36. Nbc3 Nf6 37. b4 Ba6 38. b5
+Bc8 39. Nc1 h5 40. N1e2 Kd6 41. g3 Ne4+ 42. Ke1 Be6 43. Kf1 Bc8 44. Ke1 Be6
+1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.08"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2777"]
+[BlackElo "2744"]
+[EventDate "2008.09.02"]
+[ECO "E74"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 O-O 6. Be2 c5 7. d5 a6 8. a4
+h6 9. Be3 e6 10. Nf3 exd5 11. cxd5 Bg4 12. Nd2 Bxe2 13. Qxe2 Re8 14. O-O
+Nbd7 15. h3 Nh5 16. a5 Rb8 17. Ra4 Ne5 18. Kh2 Qe7 19. g3 Nd7 20. Kg2 Kh7
+21. Qd1 Kg8 22. Qc2 Rbc8 23. Re1 Kh7 24. f4 Qd8 25. Nf3 Rb8 26. g4 Nhf6 27.
+Bf2 Ng8 28. g5 b5 29. axb6 Rxb6 30. Re2 h5 31. e5 Ne7 32. Rae4 dxe5 33.
+fxe5 Nf5 34. Na4 Rb4 35. e6 fxe6 36. dxe6 Nf8 37. Nxc5 Rxb2 38. Qc4 Rxe2
+39. Rxe2 a5 40. Qb5 Qc8 41. Qxa5 Nxe6 42. Nxe6 Rxe6 43. Rxe6 Qxe6 44. Qc7
+Ne7 45. Qb6 Qf5 46. Bg3 Qe4 47. Qa7 Qc2+ 48. Qf2 Qc6 49. Qe2 Nf5 50. Bf2
+Qd5 51. Qd2 Qb7 52. Qd3 Be5 53. Qd2 Bd6 54. Qc1 Be7 55. Qd2 Qc6 56. Qf4 Qd5
+57. Qc7 Qe4 58. Qd7 Nd6 59. Qa7 Nf5 60. Qd7 Qe2 61. Qa7 Kg7 62. Qa1+ Kg8
+63. Qa8+ Kf7 64. Qd5+ Kg7 65. Kg1 Bd6 66. Bd4+ Nxd4 67. Qxd4+ Kh7 68. Qxd6
+Qxf3 69. Qe7+ Kg8 70. Qe8+ Kg7 71. Qe7+ Kg8 72. Qe8+ Kg7 73. Qe7+ 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.08"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2737"]
+[EventDate "2008.09.02"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. a3 b4 10. Ne4 Nxe4 11. Bxe4 bxa3 12. O-O Nf6 13. Bd3 axb2 14.
+Bxb2 a5 15. d5 Nxd5 16. Ne5 Nf6 17. Qa4 Bb4 18. Nxc6 Bxc6 19. Qxc6+ Ke7 20.
+Rfd1 Rc8 21. Qf3 Qb6 22. Bd4 Qb8 23. Ba6 Rcd8 24. Bb7 h5 25. h3 h4 26. Rab1
+e5 27. Rxb4 axb4 28. Bc5+ Ke6 29. Ra1 Rd6 30. Bxd6 Kxd6 31. Qc6+ Ke7 32.
+Ra8 Qd6 33. Qxd6+ Kxd6 34. Rxh8 b3 35. Ba6 Nd7 36. Rxh4 Nc5 1-0
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.08"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2798"]
+[EventDate "2008.09.02"]
+[ECO "D19"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O Nbd7 9. Qb3 a5 10. Na2 Be7 11. Nh4 Be4 12. Nc3 Bd5 13. Bxd5 Nxd5 14.
+Nxd5 cxd5 15. Nf3 Qb6 16. Qxb6 Nxb6 17. b3 f6 18. Bd2 Kd7 19. Rfc1 Rhc8 20.
+Ne1 Rxc1 21. Rxc1 Ba3 22. Rc2 Nc8 23. Nd3 Ne7 24. Nc5+ Bxc5 25. Rxc5 b6 26.
+Rc2 h5 27. f3 Nc6 28. Kf2 Rb8 29. Ke2 b5 30. axb5 Rxb5 31. Ra2 Rxb3 32.
+Bxa5 Nxa5 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.09"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2737"]
+[BlackElo "2777"]
+[EventDate "2008.09.02"]
+[ECO "E36"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Nf3 dxc4
+8. Qxc4 b6 9. g3 Ba6 10. Qc2 Nbd7 11. Bg2 c5 12. b4 Rc8 13. Qa4 Bb7 14.
+dxc5 bxc5 15. O-O a6 16. Rd1 Nd5 17. Bg5 Qe8 18. Bd2 N5b6 19. Qc2 Nf6 20.
+bxc5 Be4 21. Qb3 Na4 22. Bb4 a5 23. Bxa5 Nxc5 24. Qb2 Na4 25. Qd4 Qb5 26.
+Bb4 Rfe8 27. Qe5 Qb7 28. Rac1 h6 29. h3 Bd5 30. Qa1 Ne4 31. Rxc8 Rxc8 32.
+Rc1 Rxc1+ 33. Qxc1 Qa7 34. Qc8+ Kh7 35. e3 Nxg3 36. Nd4 Ne4 37. Qc2 f5 38.
+Nxe6 Bxe6 39. Bxe4 Qf7 40. Bg2 Nb6 41. Qc5 Nd5 42. Qf8 Qh5 43. Qd6 Bf7 44.
+Qe5 Nf6 45. f3 Qg6 46. a4 f4 47. exf4 Qb1+ 48. Qe1 Qa2 49. a5 Bg6 50. Bf1
+Nd5 51. Bd2 Qa4 52. a6 Nxf4 53. Bxf4 Qxf4 54. a7 Qa4 55. Qf2 Qa1 56. Kh2
+Qa4 57. Bc4 Qa5 58. Qa2 1-0
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.09"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2775"]
+[BlackElo "2781"]
+[EventDate "2008.09.02"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+Qc2 Nc6 9. a3 Qa5 10. O-O-O Be7 11. h4 Rd8 12. Nd2 a6 13. Be2 b5 14. cxd5
+exd5 15. g4 Be6 16. Nb3 Qb6 17. g5 Ne4 18. Nxe4 dxe4 19. Rxd8+ Nxd8 20. Kb1
+Rc8 21. Qd1 Nc6 22. h5 a5 23. g6 a4 24. Nd2 b4 25. gxf7+ Bxf7 26. Nc4 Qb7
+27. Qxa4 bxa3 28. Nxa3 Bxa3 29. Qxa3 Nb4 30. b3 Nd3 31. Bxd3 exd3 32. Rc1
+d2 0-1
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.09"]
+[Round "7"]
+[White "Radjabov,T"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2798"]
+[EventDate "2008.09.02"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. f4 Bb4 8.
+Bd3 e5 9. fxe5 Nxe5 10. O-O d6 11. h3 Bxc3 12. bxc3 h6 13. Bf2 Nh7 14. Nf5
+O-O 15. Kh1 Bxf5 16. exf5 Rc8 17. Rb1 Qe7 18. Qd2 Nf6 19. Bd4 Rfe8 20. a4
+Qd7 21. a5 Re7 22. Qf2 Qa4 23. Ra1 Qc6 24. Qg3 Qd5 25. Qh4 Rce8 26. Qg3 Kf8
+27. Qh4 Kg8 28. Qg3 Kf8 29. Qh4 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.10"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2777"]
+[BlackElo "2775"]
+[EventDate "2008.09.02"]
+[ECO "B78"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 a6 13. h4 h5 14. g4
+hxg4 15. h5 Nxh5 16. Rdg1 Rc5 17. Bh6 Kh7 18. Bxg7 Kxg7 19. f4 Nc4 20. Bxc4
+Rxc4 21. f5 e5 22. Nde2 Rh8 23. b3 Rc6 24. Rxg4 Nf6 25. Rgg1 Rxh1 26. Rxh1
+Ng4 27. Ng3 Kg8 28. Nd5 Rc5 29. Ne3 Nxe3 30. Qxe3 Qf6 31. Qh6 Qg7 32. Qg5
+f6 33. Qd2 Rc6 34. Kb2 gxf5 35. Qa5 Qe7 36. Qd5+ Be6 37. Qd1 Qg7 38. exf5
+Bf7 39. Ne4 Kf8 40. Nxd6 Ke7 41. Nxb7 Qg8 42. Qd2 Rb6 43. Rd1 Qc8 44. Nd6
+Qd7 45. Nxf7 Qxd2 46. Rxd2 Kxf7 47. c4 Ke7 48. Kc3 1-0
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.10"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2781"]
+[BlackElo "2744"]
+[EventDate "2008.09.02"]
+[ECO "B45"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. a3 d6 7. Be2 Be7 8.
+Be3 Bd7 9. f4 O-O 10. O-O a6 11. Qe1 Rc8 12. Rd1 Nxd4 13. Bxd4 Bc6 14. Qg3
+Qc7 15. Kh1 Rfd8 16. Bd3 b5 17. Rde1 Qb7 18. b4 Rc7 19. Re3 g6 20. Qh3 Rdc8
+21. Nd1 Nh5 22. c3 Bd7 23. e5 Bc6 24. f5 dxe5 25. Bxe5 exf5 26. Bxf5 Bg5
+27. Bxc8 Rxc8 28. Ree1 Rd8 29. Qg4 Bh6 30. Bd4 Bg7 31. Ne3 Bd7 32. Qh4 Rc8
+33. Bxg7 Nxg7 34. Qe7 f5 35. Ng4 Bc6 36. Nh6+ Kh8 37. Nf7+ Kg8 38. Qxb7
+Bxb7 39. Nd6 Rc7 40. Nxb7 Rxb7 41. Rf3 Kf7 42. Rd1 Ne6 43. Re3 Ng5 44. Rd6
+Ra7 45. Red3 Ke7 46. Kg1 Ne4 47. Rc6 a5 48. h3 axb4 49. cxb4 1-0
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.10"]
+[Round "8"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2798"]
+[BlackElo "2737"]
+[EventDate "2008.09.02"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nd2
+d6 8. Nb3 Bb6 9. a4 a5 10. Bd2 Qxf3 11. gxf3 Ne7 12. Rg1 O-O 13. Be3 Bxe3
+14. fxe3 c5 15. O-O-O Bb7 16. Bb5 Bc6 17. e5 Rfd8 18. exd6 cxd6 19. Bxc6
+Nxc6 20. Nd2 d5 21. Nb3 c4 22. Nd4 Nb4 23. Nb5 g6 24. Rg4 Rdc8 25. e4 h5
+26. Rf4 dxe4 27. Rxe4 Rc5 28. f4 Ra6 29. Rd8+ Kg7 30. Rd7 Rd5 31. Rc7 Na2+
+32. Kb1 Nb4 33. Nd4 Rf6 34. Rxc4 Rg5 35. b3 Rg4 36. Ne2 Rh4 37. Rc5 Rxh2
+38. Rxa5 h4 39. Rg5 Rf2 40. Rxb4 Rxe2 41. f5 h3 42. Rh4 h2 43. Kb2 Rc6 44.
+fxg6 fxg6 45. Ka3 Rcxc2 46. Rg3 Ra2+ 47. Kb4 Re4+ 48. Rxe4 h1=Q 49. Reg4
+Qb7+ 50. Ka5 Qd5+ 51. Kb4 Qd6+ 52. Kb5 Qb8+ 53. Ka5 Rf2 54. Rxg6+ Kf7 55.
+Rg7+ Ke6 56. R7g6+ Kd5 57. R6g5+ Kd4 58. b4 Rf4 59. Rg1 Rf3 60. Rc5 Qa8+
+61. Kb5 Rf6 62. Rd1+ Ke3 63. a5 Qe8+ 64. Kc4 Qa4 65. Rd3+ Ke2 66. Re5+ Kf1
+67. Red5 Qc2+ 68. Rc3 Rf4+ 69. Rd4 Qa2+ 70. Kc5 Rf5+ 71. Kb6 Qe6+ 72. Kb7
+Rb5+ 73. Kc7 Qe7+ 74. Kc6 Qb7+ 75. Kd6 Rh5 0-1
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.12"]
+[Round "9"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2775"]
+[EventDate "2008.09.02"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. Nf3 cxd4 5. Nxd4 e6 6. Nd2 Nc6 7. N2f3 Nge7
+8. Bd3 Bd7 9. O-O Ng6 10. Nxc6 bxc6 11. c4 Be7 12. Be3 Qb8 13. Bxg6 hxg6
+14. Qc2 a5 15. Rfc1 O-O 16. Qe2 Rc8 17. Rc3 Qc7 18. Rac1 Qd8 19. a3 dxc4
+20. Rd1 c5 21. Qxc4 Rab8 22. Rcd3 Rc7 23. R3d2 Qe8 24. Ng5 Ba4 25. Rc1 Bxg5
+26. Bxg5 Qb5 27. Be3 Qxc4 28. Rxc4 Bb3 29. Rc3 a4 30. Bxc5 g5 31. f3 Kh7
+32. Kf2 Rb5 33. Bd6 Rd7 34. Rcd3 Kg6 35. Rd4 f6 36. h3 Rd8 37. Kg3 Rd7 38.
+Kf2 Rd8 39. Re2 Rc8 40. Bb4 Rd5 41. Rxd5 Bxd5 42. Bc3 f5 43. Rd2 Rc4 44.
+Ke3 g4 45. hxg4 fxg4 46. Rd4 Rxd4 47. Bxd4 Kf5 48. Bc3 gxf3 49. gxf3 g5 50.
+Bd4 Bb3 51. Bc3 Bd5 52. Bd4 Bb3 53. Bc3 Bd5 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.12"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2781"]
+[BlackElo "2737"]
+[EventDate "2008.09.02"]
+[ECO "C69"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8.
+Nbd2 Ne7 9. Re1 Ng6 10. d4 Nf4 11. hxg4 hxg4 12. g3 gxf3 13. Qxf3 Ne6 14.
+dxe5 Qxe5 15. Qf5 Qb5 16. Nf3 g6 17. Qxb5 axb5 18. c3 b4 19. cxb4 Bxb4 20.
+Re2 O-O 21. Be3 Rfd8 22. Ng5 Nd4 23. Bxd4 Rxd4 24. Nf3 Rdd8 25. Kg2 Be7 26.
+b3 c5 27. Rc1 Ra6 28. Ne5 Re6 29. f4 Rd4 30. Kf3 b5 31. Rcc2 f5 32. exf5
+gxf5 33. Re3 Kg7 34. Rh2 Bf6 35. Rh5 Rd2 36. Rxf5 Rxa2 37. g4 Ra3 38. g5
+Be7 39. Kg4 c4 40. Nxc4 Rxe3 41. Nxe3 Rxb3 42. Re5 Bf8 43. Nf5+ Kf7 44. Nd4
+Rb4 45. Nxb5 Rc4 46. Rd5 Ke6 47. Re5+ Kf7 48. Kf5 Kg8 49. Na7 Kf7 50. Re4
+Rc1 51. Rd4 Rc5+ 52. Kg4 Ke6 53. Nc8 Ra5 54. Rd8 Ba3 55. Re8+ Kd7 56. Rh8
+Bb2 57. Rf8 Ba3 58. Rg8 Ra4 59. g6 Bb2 60. Kg5 Ra1 61. Rf8 Rg1+ 62. Kf5 Bc1
+63. Na7 Bxf4 64. Rf7+ Ke8 65. Kxf4 Rf1+ 66. Ke5 Rxf7 67. gxf7+ Kxf7 68. Kd5
+c6+ 69. Kxc6 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.12"]
+[Round "9"]
+[White "Anand,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2798"]
+[BlackElo "2777"]
+[EventDate "2008.09.02"]
+[ECO "B18"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bd3 Ngf6
+8. O-O e6 9. b3 Be7 10. Bb2 Qa5 11. c4 O-O 12. Bxg6 hxg6 13. Qc2 Ba3 14.
+Rfd1 Bxb2 15. Qxb2 Rfe8 16. Qd2 Qxd2 17. Rxd2 e5 18. dxe5 Nxe5 19. Nxe5
+Rxe5 20. f3 Kf8 21. Kf2 a5 22. Rad1 Ke7 23. Re2 Rxe2+ 24. Nxe2 Rh8 25. h3
+Nd7 26. Nc3 Nc5 27. f4 Ne6 28. Ke3 g5 29. fxg5 Nxg5 30. Ne2 Ne6 31. Nd4 g6
+32. Nxe6 Kxe6 33. Rd4 c5 34. Re4+ Kd6 35. Kf3 a4 36. Re3 axb3 37. axb3 Rh4
+38. Rd3+ Ke7 39. Re3+ Kd6 40. Rd3+ Ke7 41. Re3+ 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.13"]
+[Round "10"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2737"]
+[BlackElo "2744"]
+[EventDate "2008.09.02"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 c6 6. e4 d6 7. h3 e5 8. O-O
+Nbd7 9. d3 Re8 10. Rb1 h6 11. Be3 a5 12. d4 exd4 13. Nxd4 Nc5 14. Qc2 a4
+15. Rfe1 Nfd7 16. f4 Qa5 17. Bf2 Qb4 18. Bf1 Nb6 19. Red1 Nbd7 20. Re1 Nb6
+21. Red1 Nbd7 22. Kh2 Nf6 23. Re1 Bd7 24. b3 axb3 25. axb3 Nh5 26. Red1 f5
+27. Bg2 Bf6 28. Nde2 fxe4 29. Be1 Nd3 30. Nxe4 Nxe1 31. Rxe1 Bf5 32. g4
+Bxe4 33. Bxe4 Ng7 34. Bxg6 Re3 35. Rg1 Ra3 36. Rg3 Re7 37. Rg2 Re3 38. Bh7+
+Kf7 39. Qg6+ Ke7 40. Bg8 Ne8 41. Ng3 Kd8 42. Qxh6 Qc3 43. Nf5 Rf3 44. Re2
+Qd3 45. Reb2 Bxb2 46. Rxb2 Ra1 47. Qh4+ Kc8 48. Rg2 Qd1 49. Ng3 Rf2 0-1
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.13"]
+[Round "10"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2798"]
+[EventDate "2008.09.02"]
+[ECO "D13"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 a6 7. Rc1 Bf5
+8. Ne5 Rc8 9. f3 g6 10. g4 Be6 11. e3 Bg7 12. h4 h5 13. g5 Nd7 14. Nxc6
+Rxc6 15. Bd3 O-O 16. Kf2 Nb6 17. b3 Qd7 18. Qd2 Bf5 19. Bxf5 Qxf5 20. Ne2
+Rfc8 21. Rxc6 Rxc6 22. Rc1 Nd7 23. Kg2 e5 24. Rxc6 bxc6 25. dxe5 Nxe5 26.
+Nd4 Qc8 27. Ne2 Qf5 28. Nd4 Qc8 29. Ne2 1/2-1/2
+
+[Event "Grand Slam Final"]
+[Site "Bilbao ESP"]
+[Date "2008.09.13"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2777"]
+[BlackElo "2781"]
+[EventDate "2008.09.02"]
+[ECO "D47"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. a3 Bd6 10. O-O O-O 11. Qc2 h6 12. e4 e5 13. dxe5 Nxe5 14. Nxe5
+Bxe5 15. h3 a6 16. Be3 c5 17. Bxc5 Re8 18. Rad1 Qc7 19. Nd5 Nxd5 20. exd5
+Bxb2 21. d6 Qc6 22. f3 Rec8 23. Bh7+ Kh8 24. Be4 Qxc5+ 25. Qxc5 Rxc5 26.
+Bxb7 Rd8 27. Rfe1 Be5 28. d7 a5 29. f4 Bc7 30. Bd5 Kh7 31. Bxf7 Rf5 32. Ba2
+Rxf4 33. Bb1+ Kg8 34. Bg6 Bb6+ 35. Kh1 Bc5 36. Rc1 Bf8 37. Red1 Bxa3 38.
+Rc8 Rff8 39. Be8 Be7 40. Re1 Bg5 41. g3 a4 42. h4 Bf6 43. Re6 1-0
+

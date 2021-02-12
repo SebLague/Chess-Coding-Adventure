@@ -1,0 +1,876 @@
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.02"]
+[Round "1.1"]
+[White "Caruana,F"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2797"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. b4 Bb6 7. a4 a5 8. b5 Ne7
+9. O-O O-O 10. h3 c6 11. Bb3 Ng6 12. Re1 Re8 13. Nbd2 d5 14. Nf1 dxe4 15. Ng5
+Re7 16. Nxe4 Nxe4 17. dxe4 Be6 18. Rb1 Rd7 19. Qc2 Nf8 20. Ne3 Bxe3 21. Bxe3 h6
+22. Red1 Rc8 23. Rxd7 Qxd7 24. Rd1 Qe8 25. bxc6 Qxc6 26. Bd5 Qxc3 27. Qxc3 Rxc3
+28. Bxb7 Nd7 29. Ba6 Nc5 30. Bxc5 Rxc5 31. Bb5 Kh7 32. Rd6 Bc4 33. Rb6 Bxb5 34.
+Rxb5 Rxb5 35. axb5 a4 36. b6 a3 37. b7 a2 38. b8=Q a1=Q+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.02"]
+[Round "1.2"]
+[White "Bacrot,E"]
+[Black "Baramidze,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2594"]
+[ECO "D70"]
+[Opening "Neo-Gruenfeld defence"]
+[WhiteFideId "605506"]
+[BlackFideId "4667719"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O Qd6 10. Nb5 Qd7 11. Kb1 Rd8 12. d5 a6 13. Nc3 Na5 14. Qc1 Qe8 15.
+h4 e6 16. Bf4 Rd7 17. Bh6 Bxh6 18. Qxh6 Qf8 19. Qxf8+ Kxf8 20. h5 exd5 21. exd5
+Nac4 22. hxg6 fxg6 23. Bxc4 Nxc4 24. Nh3 Re7 25. Ng5 h5 26. g4 hxg4 27. Nce4
+gxf3 28. Rh8+ Kg7 29. Rh7+ Kf8 30. Rh8+ Kg7 31. Rh7+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.02"]
+[Round "1.3"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2865"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2015.02.02"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 Nbd7 8. Bd3
+h6 9. Bh4 Nh5 10. Bxe7 Qxe7 11. O-O-O Nb6 12. Nf3 Bg4 13. Kb1 Nf6 14. Rc1 Nfd7
+15. Ka1 O-O-O 16. Nd2 Kb8 17. Na4 Nxa4 18. Qxa4 Qh4 19. Rcf1 Qf6 20. Qc2 Rc8 21.
+Nb3 Rc7 22. Rc1 Rhc8 23. h3 Be6 24. Rhf1 h5 25. f4 g6 26. f5 gxf5 27. g4 hxg4
+28. hxg4 Nb6 29. gxf5 Bd7 30. Nc5 Re8 31. Rce1 Qd6 32. a3 Bc8 33. Qf2 Nd7 34. e4
+dxe4 35. Nxe4 Qf8 36. Rg1 Rd8 37. Qh2 Qh8 38. Qxh8 Rxh8 39. Rg7 Nb6 40. Nf6 Rd8
+41. Rg4 c5 42. Ne8 Rcd7 43. dxc5 Rxd3 44. cxb6 axb6 45. Rf4 R8d5 46. Ref1 Rd1+
+47. Rxd1 Rxd1+ 48. Ka2 Rd5 49. Ng7 Bd7 50. Kb3 Kc7 51. Re4 Kd6 52. Ne8+ Kc6 53.
+Ng7 Rd3+ 54. Kb4 Rg3 55. Rc4+ Kd6 56. Rd4+ Kc7 57. Nh5 Rg2 58. Nf6 Bc6 59. b3 b5
+60. Ng4 Re2 61. Nh6 Be8 62. Ng4 Bd7 63. Nh6 Be8 64. Ng4 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.02"]
+[Round "1.4"]
+[White "Adams,Mi"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2706"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[WhiteFideId "400041"]
+[BlackFideId "4650891"]
+[EventDate "2015.02.02"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. exd5 Qxd5 7. Nb5 Na6 8.
+Nc3 Qd6 9. Bc4 Be7 10. O-O O-O 11. Qe2 Rd8 12. Nde4 Nxe4 13. Nxe4 Qe5 14. g3 Nb4
+15. c3 Nd5 16. Re1 b6 17. Nd2 Qc7 18. Nf3 Bb7 19. Ba6 Bxa6 20. Qxa6 Bf6 21. Bg5
+Bxg5 22. Nxg5 Rd7 23. Rad1 Rad8 24. Nf3 Ne7 25. Rxd7 Qxd7 26. a4 Nc6 27. Kg2 h6
+28. h4 Kf8 29. Re3 Qd5 30. b4 Qd7 31. a5 Qc8 32. Qxc8 Rxc8 33. axb6 axb6 34. Rd3
+Ke7 35. Kf1 b5 36. Ke2 f5 37. Ke3 g5 38. hxg5 hxg5 39. Nxg5 Ne5 40. Rd1 Kf6 41.
+f4 Rxc3+ 42. Ke2 Nc4 43. Rd7 Rc2+ 44. Kf3 Nd2+ 45. Ke3 Nf1+ 46. Kf3 Rc3+ 47. Kf2
+Nxg3 48. Nh7+ Kg6 49. Nf8+ Kh5 50. Nxe6 Ne4+ 51. Ke2 Rb3 52. Nd4 Ng3+ 53. Kd2
+Rxb4 54. Rd5 Kg4 55. Kc3 Ra4 56. Rxb5 Ne4+ 57. Kd3 Ra3+ 58. Kc2 Rc3+ 59. Kb2 Rc5
+60. Rxc5 Nxc5 61. Nxf5 Kxf5 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.03"]
+[Round "2.1"]
+[White "Baramidze,D"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2594"]
+[BlackElo "2777"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "4667719"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 O-O 7. O-O Re8 8.
+Nc4 Nd7 9. a4 Bd6 10. d4 exd4 11. Nxd6 cxd6 12. Qxd4 Qf6 13. Rd1 Qxd4 14. Rxd4
+Nf6 15. Rxd6 Nxe4 16. Rd3 Bf5 17. Be3 Nf6 18. Rb3 b6 19. c4 Ne4 20. a5 Be6 21.
+Rba3 Rab8 22. Nd4 Bd7 23. axb6 axb6 24. Ra7 Nf6 25. b4 c5 26. bxc5 bxc5 27. Nf3
+Rbc8 28. R1a5 Be6 29. Ne5 Ng4 30. Nxg4 Bxg4 31. h3 Be2 32. Rxc5 Rxc5 33. Bxc5
+Bxc4 34. Re7 Rxe7 35. Bxe7 Be2 36. Bc5 h6 37. Be7 Bc4 38. Bc5 f6 39. f3 Kf7 40.
+Kf2 g5 41. Bd4 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.03"]
+[Round "2.2"]
+[White "Carlsen,M"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2865"]
+[BlackElo "2738"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "1503014"]
+[BlackFideId "400041"]
+[EventDate "2015.02.02"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Nd5 Bc5 6. Bg2 d6 7. O-O O-O 8. d3
+Nxd5 9. cxd5 Nd4 10. Nxd4 exd4 11. Bd2 a5 12. e4 dxe3 13. fxe3 Qg5 14. Rf4 Bd7
+15. a4 Rae8 16. d4 Bb6 17. Qb3 Qd8 18. Qc4 Re7 19. b4 axb4 20. a5 Ba7 21. Qxb4
+c5 22. dxc6 Bxc6 23. Qb3 Bxg2 24. Kxg2 Qd7 25. Raf1 Rc8 26. Rf5 h6 27. R1f2 Bb8
+28. Bb4 Qc6+ 29. R2f3 Rcc7 30. Be1 Qe8 31. g4 Re4 32. h3 Rce7 33. Bf2 R4e6 34.
+Rb5 Bc7 35. Rxb7 Qa8 36. Rb5 Re8 37. Qd5 Qxd5 38. Rxd5 Rb8 39. Bg3 g6 40. h4 Ra8
+41. Be1 Re4 42. g5 h5 43. Rb5 Ra7 44. Kf1 Re8 45. Ke2 Rea8 46. Rf6 Ra6 47. Bb4
+Bxa5 48. Rxa5 Rxa5 49. Bxa5 Rxa5 50. Rxd6 Kf8 51. Rf6 Ra3 52. Kf3 Ke7 53. Ke4
+Ra5 54. Rf4 Rb5 55. d5 Rb3 56. Kd4 Ra3 57. e4 Rb3 58. Ke5 Rd3 59. Rf1 Rh3 60.
+Ra1 Rxh4 61. d6+ Kd7 62. Ra7+ Ke8 63. Ra8+ Kd7 64. Rf8 1-0
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.03"]
+[Round "2.3"]
+[White "Anand,V"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2706"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "5000017"]
+[BlackFideId "4650891"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Rc1 Nc6 12. Bc4 Qa5 13. d5 exd5 14. Qxa5
+Nxa5 15. Bxd5 Be6 16. Bxe6 fxe6 17. Ne5 Rfd8 18. Ke2 Rd4 19. Ke3 Ra4 20. Rhd1
+Nc6 21. Nxc6 bxc6 22. Rd2 Rc8 23. Rc5 Kf8 24. h4 h6 25. Kf4 Ke7 26. Ke5 Rb8 27.
+Rxc6 Rb5+ 28. Kf4 Rba5 29. f3 g5+ 30. hxg5 hxg5+ 31. Kg3 Rxa2 32. Rc7+ Kf6 33.
+Rdd7 Ke5 34. Rg7 Kd6 35. Rcd7+ Kc6 36. Rd1 a6 37. Rgd7 Re5 38. Rd8 a5 39. Rc1+
+Kb7 40. Rdc8 Rb2 41. R1c6 a4 42. R6c7+ Kb6 43. Rc4 Kb5 44. Rd4 a3 45. Ra8 Rc5
+46. Rxa3 Rcc2 47. Kg4 Rxg2+ 48. Kh5 Rg3 49. Rdd3 Rh2+ 50. Kg6 Rhh3 51. Rab3+ Kc4
+52. Rbc3+ Kb4 53. Rb3+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.03"]
+[Round "2.4"]
+[White "Caruana,F"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2711"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "605506"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d6 4. e4 Bg7 5. Ne2 O-O 6. Be3 c5 7. Qd2 Nc6 8. d5 Ne5
+9. Nec3 Nh5 10. Be2 f5 11. Na3 f4 12. Bf2 Bd7 13. Nc2 a6 14. a4 g5 15. a5 Qe8
+16. Rb1 b5 17. axb6 a5 18. Na3 Qb8 19. Nab5 Qxb6 20. Ra1 Rfb8 21. Ra3 Qd8 22.
+Kd1 h6 23. Kc2 Nf6 24. h4 Be8 25. hxg5 hxg5 26. g3 Nh5 27. Rg1 Rb7 28. gxf4 gxf4
+29. Bh4 a4 30. Bg5 Ng6 31. Rga1 Qc8 32. Bf1 Ng3 33. Bd3 Bxb5 34. Nxb5 Qh3 35.
+Bxf4 Nxf4 36. Qxf4 Rf8 37. Qd2 Rxf3 38. Rxa4 Bh6 39. Ra8+ Kf7 40. Rh8 Bxd2 41.
+Rxh3 Bf4 42. Rh7+ Kg6 43. Rh2 Be5 44. Ra8 Kg5 45. Be2 Rf7 46. Rg8+ Rg7 47. Rf8
+Rg6 48. Bd3 Rf6 49. Rf2 Rxf2+ 50. Rxf2 Rb8 51. Kb3 Bd4 52. Rf3 Kg4 53. Rf7 Bf6
+54. Kc2 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.04"]
+[Round "3.1"]
+[White "Adams,Mi"]
+[Black "Baramidze,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2594"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "400041"]
+[BlackFideId "4667719"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1 b5
+9. Bc2 d5 10. Nbd2 dxe4 11. dxe4 Be6 12. a4 Bc5 13. Qe2 Ba7 14. h3 Nh5 15. Nf1
+Qf6 16. Bd3 Ne7 17. axb5 axb5 18. Rxa7 Rxa7 19. Bg5 Qg6 20. Qe3 f6 21. Qxa7 fxg5
+22. Nxe5 Qf6 23. Ng4 Bxg4 24. hxg4 Nf4 25. Bxb5 Nxg2 26. Kxg2 Ng6 27. Nh2 Nf4+
+28. Kh1 Nh3 29. Qe3 Nxf2+ 30. Kg2 Qe5 31. Bc4+ 1-0
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.04"]
+[Round "3.2"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2811"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Bg5 c5 6. dxc5 Qa5 7. Bd2 Qxc5 8. e3
+Qc7 9. Nf3 Be7 10. Bd3 Nc6 11. a3 b6 12. Nb5 Qb8 13. Bc3 h6 14. Rd1 a6 15. Nbd4
+Nxd4 16. Bxd4 d6 17. O-O Bd7 18. e4 e5 19. Bc3 Rc8 20. Qe2 Be6 21. Nh4 g6 22. g3
+Qc7 23. Ng2 Bxc4 24. Ne3 Bxd3 25. Rxd3 Nxe4 26. Bxe5 dxe5 27. Nd5 Qd6 28. Qxe4
+Bf8 29. Rfd1 b5 30. Qf3 Kg7 31. Nc3 Qe6 32. Rd7 Bc5 33. Qe4 Ra7 34. Rd8 Rxd8 35.
+Rxd8 Bxf2+ 36. Kg2 Bb6 37. Rd2 Rc7 38. Qa8 Bd4 39. Ne2 Rd7 40. b4 h5 0-1
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.04"]
+[Round "3.3"]
+[White "Naiditsch,A"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2706"]
+[BlackElo "2865"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[WhiteFideId "4650891"]
+[BlackFideId "1503014"]
+[EventDate "2015.02.02"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. a4 Nf6 6. h3 O-O 7. g4 e5 8. d5 c6 9.
+Nge2 cxd5 10. exd5 Bxg4 11. hxg4 Nxg4 12. Qd2 Nd7 13. Ne4 f5 14. Bg5 Qb6 15. Bh3
+Ndf6 16. Nxf6+ Nxf6 17. Nc3 Qxb2 18. Rb1 Qa3 19. Rxb7 Rf7 20. Rb3 Qc5 21. Qe3
+Qc7 22. Qb6 e4 23. Qc6 Rc8 24. O-O Qxc6 25. dxc6 Rxc6 26. Rfb1 h6 27. Bxf6 Bxf6
+28. Nxe4 Be5 29. Nd2 Rxc2 30. Nf3 Ra2 31. Bg2 Bf6 32. Nh2 Kg7 33. Bd5 Re7 34.
+Rb4 Rd2 35. Bc4 a5 36. Rb7 Rd4 37. Rxe7+ Bxe7 38. Bb5 h5 39. Nf3 Rf4 40. Kg2 h4
+41. Rd1 Rg4+ 42. Kf1 h3 43. Rd3 Bf6 44. Nh2 Rh4 45. Kg1 Bd4 46. Rf3 Kf6 47. Nf1
+Be5 48. Ne3 Kg5 49. Kh1 Kf6 50. Nc4 g5 51. Nxa5 g4 52. Rd3 f4 53. Nc4 Rh7 54.
+Nxe5 dxe5 55. a5 Rc7 56. Ra3 Rc1+ 57. Kh2 Rc2 58. a6 Rxf2+ 59. Kh1 g3 60. a7 Rd2
+61. Ra1 1-0
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.04"]
+[Round "3.4"]
+[White "Bacrot,E"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2797"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "605506"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. g3 Bxg5
+15. Bxg5 Rg6 16. h4 f6 17. exf6 gxf6 18. Bf4 Nxh4 19. f3 Rd8 20. Rde1 Kf7 21.
+Kf2 Nf5 22. Rh1 Ng7 23. Ne4 Rc8 24. Nc5 Bf5 25. c4 b6 26. Ne4 Re8 27. Bxc7 Bxe4
+28. Rxe4 Rxe4 29. fxe4 Ne6 30. Bb8 Rg8 31. Bxa7 Ra8 32. Bxb6 Rxa2 33. Be3 Rxb2+
+34. Kf3 Rb3 35. Kf2 Rb2+ 36. Kf3 Rb3 37. Kf2 Rb2+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.06"]
+[Round "4.1"]
+[White "Baramidze,D"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2594"]
+[BlackElo "2706"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4667719"]
+[BlackFideId "4650891"]
+[EventDate "2015.02.02"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. O-O d6 6. Nc3 f5 7. a3 a5 8. Rb1 Bd7
+9. b3 e5 10. Nb5 Qb8 11. d4 cxd4 12. e3 Nce7 13. exd4 e4 14. Ng5 h6 15. Nh3 Bxb5
+16. cxb5 Nd5 17. Nf4 Nge7 18. f3 Nc3 19. Qc2 Bxd4+ 20. Kh1 Nxb1 21. fxe4 Nc3 22.
+exf5 gxf5 23. Ng6 Nxg6 24. Qxf5 Ne7 25. Qf7+ Kd8 26. b6 Qc8 27. Bxh6 Ne2 0-1
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.06"]
+[Round "4.2"]
+[White "Caruana,F"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2738"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "400041"]
+[EventDate "2015.02.02"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qb3 dxc4 5. Qxc4 Bg4 6. Nbd2 e6 7. g3 Be7 8. Bg2
+O-O 9. O-O a5 10. Ne5 Bh5 11. h3 Nbd7 12. g4 Bg6 13. e4 Qb6 14. Kh1 Qb4 15. Nxd7
+Nxd7 16. f4 Qxc4 17. Nxc4 f5 18. gxf5 exf5 19. e5 Bf7 20. Ne3 g6 21. d5 cxd5 22.
+Nxd5 Bxd5 23. Bxd5+ Kg7 24. Bxb7 Rab8 25. Bf3 Nc5 26. b3 Rfd8 27. Ba3 Kf8 28.
+Rad1 Nd3 29. Bxe7+ Kxe7 30. Be2 Nc5 31. Kg2 h6 32. Bc4 Ne4 33. Rd5 Rxd5 34. Bxd5
+Rd8 35. Bxe4 fxe4 36. Rc1 Rd2+ 37. Kg3 Rd3+ 38. Kf2 Rxh3 39. Rc7+ Ke6 40. Rc6+
+Kf7 41. Rc7+ Ke6 42. Rc6+ Kf7 43. Rc7+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.06"]
+[Round "4.3"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2865"]
+[ECO "A90"]
+[Opening "Dutch defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2015.02.02"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 c6 5. Nf3 d5 6. O-O Bd6 7. b3 Qe7 8. Ne5 O-O
+9. Nd2 a5 10. Bb2 Nbd7 11. Qc2 a4 12. Ndf3 Ne4 13. e3 a3 14. Bc3 Nxe5 15. Nxe5
+Bd7 16. Nxd7 Qxd7 17. c5 Bc7 18. b4 h5 19. Be1 e5 20. dxe5 Bxe5 21. Rd1 Qe6 22.
+f3 Nf6 23. Bh3 g6 24. e4 dxe4 25. fxe4 Bb2 26. exf5 Qxa2 27. Bf2 g5 28. Rfe1 Qf7
+29. Re6 Ng4 30. Bxg4 hxg4 31. Rg6+ Kh7 32. Rd7 Qxd7 33. f6 Qd1+ 34. Qxd1 Kxg6
+35. Qd3+ Kh6 36. h4 gxh3 0-1
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.06"]
+[Round "4.4"]
+[White "Bacrot,E"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2777"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "605506"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. Qc2 Bd6 8. c5
+Be7 9. Bb5 Nb8 10. a3 b6 11. b4 a5 12. Rb1 c6 13. Bd3 axb4 14. axb4 Nbd7 15. O-O
+Qc7 16. Ne2 Ba6 17. Nf4 Rfb8 18. Bb2 bxc5 19. bxc5 Qc8 20. Bc3 Bd8 21. Rxb8 Rxb8
+22. Ra1 Ra8 23. Bxa6 Rxa6 24. Rb1 Qa8 25. Nd3 h6 26. Nd2 Ra2 27. Rb2 Ra1+ 28.
+Rb1 Ra2 29. Rb2 Ra1+ 30. Rb1 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.07"]
+[Round "5.1"]
+[White "Carlsen,M"]
+[Black "Baramidze,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2865"]
+[BlackElo "2594"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4667719"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4
+Bg7 16. Bd3 c6 17. Bg5 Nf8 18. Qd2 Ne6 19. Bh6 Nd7 20. Bc2 Bxh6 21. Qxh6 Qf6 22.
+Rad1 Rad8 23. d5 cxd5 24. exd5 Qf4 25. Qxf4 Nxf4 26. Ne4 Bxd5 27. axb5 axb5 28.
+Nxd6 Re6 29. Ne4 f5 30. Nfg5 Re7 31. g3 Bxe4 32. Bxe4 fxe4 33. gxf4 Rf8 34. Nxe4
+Rxf4 35. b4 Nf6 36. Nd6 Rf3 37. Nxb5 Rxh3 38. c4 Rh4 39. Nd6 Nh5 40. b5 Nf4 41.
+b6 Rg4+ 42. Kf1 Rh4 43. f3 Rh1+ 44. Kf2 Rh2+ 45. Kg1 Rc2 46. Kh1 Nh3 47. Ne4
+Rxc4 48. Rd8+ Kg7 49. Rb1 1-0
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.07"]
+[Round "5.2"]
+[White "Adams,Mi"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2711"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[WhiteFideId "400041"]
+[BlackFideId "605506"]
+[EventDate "2015.02.02"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 c5 4. Nc3 Bg7 5. Nf3 O-O 6. d4 cxd4 7. Nxd4 Nc6 8. O-O
+Qa5 9. Nb3 Qh5 10. Nd5 d6 11. Nf4 Qe5 12. e4 Bg4 13. f3 Bd7 14. Rf2 b5 15. Nd3
+Qh5 16. Nf4 Qe5 17. c5 dxc5 18. Nd3 Qc7 19. Nbxc5 Rfd8 20. Qe1 Be8 21. Bf4 e5
+22. Be3 a5 23. Rc1 Qe7 24. Rd2 Nd4 25. Nb3 Nd7 26. Nxd4 exd4 27. Bf4 Rdc8 28.
+Bh3 Rc4 29. Rdd1 a4 30. Bd2 Ne5 31. Nxe5 Qxe5 32. Bf1 Rxc1 33. Bxc1 Qe6 34. a3
+Rc8 35. Bd3 Qb3 36. Qe2 Bd7 37. Bf4 Be6 38. h4 Bc4 39. e5 Bxd3 40. Rxd3 Qd5 41.
+Kg2 h5 42. Qd2 Rc4 43. Qe2 b4 44. axb4 Rxb4 45. Kf2 Qb5 46. Rd2 Qd5 47. Qe4 Qa2
+48. Qc2 Kh7 49. Kg2 Qa1 50. Rf2 a3 51. bxa3 Rb1 52. Qd3 Rd1 53. Bd2 Rg1+ 54. Kh3
+Rh1+ 55. Rh2 Qg1 56. Qe2 Bxe5 57. f4 Bd6 58. a4 d3 59. Qg2 Rxh2+ 60. Qxh2 Qd1
+61. Qg2 Ba3 62. a5 Bc1 63. Qd5 Qf1+ 64. Kh2 Qe2+ 65. Kh3 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.07"]
+[Round "5.3"]
+[White "Naiditsch,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2706"]
+[BlackElo "2811"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "4650891"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 15.
+g3 Qh3 16. Be3 Bxd3 17. Nd2 Qf5 18. Bd4 Rfe8 19. a4 h6 20. Kg2 Rxe1 21. Rxe1 Kf8
+22. Qxf5 Bxf5 23. Ne4 Bxe4+ 24. Rxe4 Rb8 25. axb5 axb5 26. Re1 Nb6 27. Rd1 Be7
+28. Bc2 Nc4 29. b4 Rd8 30. Be4 Nd6 31. Bb6 Rc8 32. Bd3 Ne8 33. Bf5 Rb8 34. Be3
+Nf6 35. Bd4 Nd5 36. Be4 Rd8 37. Ra1 Bf6 38. Bxf6 gxf6 39. Bxd5 Rxd5 40. Ra6 Rd6
+41. Kf1 Re6 42. f4 f5 43. Ra8+ Kg7 44. Rc8 Kf6 45. Kg2 Kg6 46. Kh3 Kg7 47. Kg2
+Kg6 48. Kf3 Kg7 49. Rc7 Kf6 50. h3 h5 51. Rc8 Kg7 52. Kf2 Kh7 53. Kg2 Rd6 54.
+Kf2 Re6 55. Kf3 Kg7 56. Rc7 Kf6 57. Rd7 Re4 58. Rd6+ Re6 59. Rd4 Re1 60. Kf2 Re6
+61. c4 bxc4 62. Rxc4 Kg6 63. Rc2 f6 64. Rc4 Re4 65. Rxc6 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.07"]
+[Round "5.4"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2797"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.02"]
+
+1. c4 e6 2. Nc3 Nf6 3. Nf3 d5 4. d4 Bb4 5. cxd5 exd5 6. Qa4+ Nc6 7. Bg5 h6 8.
+Bxf6 Qxf6 9. e3 O-O 10. Be2 a6 11. O-O Be6 12. Rfc1 Bd6 13. a3 Ne7 14. b4 c6 15.
+Qb3 g5 16. Qb2 Qg7 17. Na4 Rae8 18. Nc5 Bc8 19. g3 Nf5 20. Bd3 Qf6 21. Rf1 h5
+22. Rac1 h4 23. Qd2 Nh6 24. e4 Bxc5 25. e5 Qg7 26. bxc5 f6 27. exf6 Rxf6 28.
+Nxg5 Bf5 29. Rce1 Rff8 30. Rxe8 Rxe8 31. Nf3 Bxd3 32. Qxd3 Re4 33. Re1 hxg3 34.
+hxg3 1-0
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.08"]
+[Round "6.1"]
+[White "Aronian,L"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2738"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "13300474"]
+[BlackFideId "400041"]
+[EventDate "2015.02.02"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8.
+bxc3 Re8 9. f3 exf3 10. Nxf3 d5 11. d4 h6 12. cxd5 Qxd5 13. e3 Bf5 14. Nd2 Qd7
+15. Nb3 Ne4 16. c4 b6 17. Rf4 Rad8 18. Qf1 Bg6 19. Ba3 Na5 20. Bb4 Nxb3 21. axb3
+c5 22. Bxe4 Rxe4 23. Rxe4 Bxe4 24. Bc3 Bc2 25. b4 cxb4 26. Bxb4 a5 27. Bc3 Rc8
+28. Rc1 Bb3 29. c5 Qe6 30. Qf4 a4 31. e4 bxc5 32. d5 Qd7 33. h4 f6 34. g4 Re8
+35. Re1 Bc2 36. g5 hxg5 37. hxg5 fxg5 38. Qxg5 Rxe4 39. Rxe4 Bxe4 40. d6 a3 41.
+Qxc5 Qg4+ 42. Kf2 Qf3+ 43. Ke1 Qg3+ 44. Kd2 Qd3+ 45. Ke1 a2 46. Qd4 Qg3+ 47. Kd2
+Qg2+ 48. Ke3 Qf3+ 49. Kd2 Qg2+ 50. Ke3 Bf5 51. d7 Qg3+ 52. Ke2 Bg4+ 53. Kf1 Bh3+
+54. Ke2 Qg2+ 55. Ke1 Qg3+ 56. Ke2 Qg2+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.08"]
+[Round "6.2"]
+[White "Bacrot,E"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2706"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[WhiteFideId "605506"]
+[BlackFideId "4650891"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. g3 Bb7 6. Bg2 O-O 7. O-O a5 8. Qc2
+Bxd2 9. Bxd2 Be4 10. Qc1 d6 11. Rd1 Nbd7 12. Bc3 Qe7 13. b3 a4 14. Bf1 Rfb8 15.
+Nd2 Bg6 16. Bg2 d5 17. Nf3 c6 18. Nh4 Bh5 19. Qc2 b5 20. h3 axb3 21. axb3 bxc4
+22. bxc4 Nb6 23. cxd5 cxd5 24. Rxa8 Rxa8 25. Ra1 Rxa1+ 26. Bxa1 Nc4 27. Qa2 g5
+28. Nf3 Ne4 29. Ne5 Nxe5 30. Bxe4 dxe4 31. dxe5 e3 32. fxe3 Qb7 33. Qd2 Qb1+ 34.
+Kh2 Qxa1 35. Qd8+ Kg7 36. Qf6+ Kg8 37. Qd8+ Kg7 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.08"]
+[Round "6.3"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2865"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. Bf4 Ng6 13. Bh2 Bb4 14. Ne2 Be7
+15. Nfd4 Nf8 16. g4 h5 17. Nf5 Ne6 18. Kg2 b6 19. f3 c5 20. Bg3 Bg5 21. h4 hxg4
+22. hxg5 gxf3+ 23. Kxf3 Nxg5+ 24. Kf4 Nh3+ 25. Ke4 Ng5+ 26. Kf4 Nh3+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.08"]
+[Round "6.4"]
+[White "Anand,V"]
+[Black "Baramidze,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2594"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "4667719"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. a4
+Bg7 16. Bd3 c6 17. Be3 Qc7 18. Qd2 exd4 19. cxd4 c5 20. d5 c4 21. Bc2 Rec8 22.
+axb5 c3 23. bxc3 Nxd5 24. exd5 Bxc3 25. Qd1 Bxa1 26. Qxa1 axb5 27. Qd4 Qc3 28.
+Ne4 Qxd4 29. Nxd4 Bxd5 30. Nxd6 Rc5 31. N6xb5 Ra2 32. Bh6 Ra8 33. Bd3 Rd8 34.
+Bg5 Ra8 35. Be7 Rcc8 36. Nd6 Rc7 37. N4b5 Rc6 38. Bf1 Kg7 39. g4 f6 40. g5 Rb8
+41. h4 h5 42. Bh3 f5 43. Bf1 Kg8 44. Rd1 Bf3 45. Ra1 Bd5 46. f4 Nc5 47. Rd1 Bf3
+48. Bc4+ Kh7 49. Rf1 Be4 50. Ra1 Nd3 51. Nd4 Rc7 52. Nxe4 fxe4 53. Bf6 Rcb7 54.
+Ne6 Rb1+ 55. Rxb1 Rxb1+ 56. Kg2 Rb8 57. Kf1 Rc8 58. Bd5 Re8 59. Be5 Rc8 60. Ke2
+Nc5 61. Nxc5 Rxc5 62. Bxe4 Ra5 63. Ke3 Ra3+ 64. Kd4 Ra5 65. f5 1-0
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "7.1"]
+[White "Adams,Mi"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2797"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "400041"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 Bd6 11. Bg5 Nbd7 12. Nc3 h6 13. Bxf6 Nxf6 14. a5 Qe7 15.
+Nh4 Bxg2 16. Kxg2 Rfd8 17. e4 Bb4 18. e5 Nd5 19. Nf5 Qd7 20. Ne3 Bxc3 21. bxc3
+Qb5 22. Qxb5 axb5 23. Rfc1 c5 24. Nxd5 Rxd5 25. Rcb1 cxd4 26. cxd4 Rc8 27. Rb4
+Rc4 28. Rab1 Rcxd4 29. Rxd4 Rxd4 30. Rxb5 Rd7 31. Kf3 g5 32. h4 Kg7 33. h5 f6
+34. exf6+ Kxf6 35. g4 Ke7 36. Ke4 Kf6 37. Rb3 Ke7 38. f3 Kf6 39. Rb6 Ke7 40. Rb5
+Kf6 41. Rb3 Ke7 42. Rd3 Rc7 43. Kd4 Kf6 44. Rb3 Rf7 45. Rb5 Rc7 46. Rb4 Ke7 47.
+Rc4 Rd7+ 48. Kc5 Rd6 49. Rb4 Rc6+ 50. Kb5 Rd6 51. Rb3 Kf6 52. Kc5 Rc6+ 53. Kd4
+Rd6+ 54. Ke4 Rd7 55. Rb6 Rd5 56. Rxb7 Rxa5 57. Rh7 Ra4+ 58. Ke3 Ra3+ 59. Kf2
+Ra2+ 60. Kg3 Ra3 61. Rxh6+ Kf7 62. Rh7+ Kf6 63. Rd7 Ra2 64. Rd3 Rb2 65. Re3 Rb4
+66. Re2 Ra4 67. Kf2 Ra3 68. Rd2 Ra4 69. Ke3 Ra3+ 70. Ke4 Ra4+ 71. Rd4 Ra1 72.
+Ke3 Ra3+ 73. Rd3 Ra4 74. Rb3 Ra1 75. Rb7 Ra3+ 76. Kf2 Ra2+ 77. Kg3 Ra3 78. Rb8
+Kf7 79. Rb1 Kf6 80. Re1 Ra4 81. Kf2 Ra2+ 82. Kg3 Ra4 83. Rh1 Ra7 84. Kf2 Ke5 85.
+h6 Ra2+ 86. Kg3 Ra8 87. h7 Rh8 88. Rh6 Kd6 89. Kf2 1-0
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "7.2"]
+[White "Carlsen,M"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2865"]
+[BlackElo "2711"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[WhiteFideId "1503014"]
+[BlackFideId "605506"]
+[EventDate "2015.02.02"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. e3 d6 6. Bc4 Nbd7 7. O-O Qe8 8. a4
+e5 9. a5 e4 10. Ne1 h6 11. Bh4 c6 12. Bb3 Nh5 13. f3 exf3 14. Qxf3 Ndf6 15. Nd3
+Bg4 16. Qf2 Be6 17. Bxe6 Qxe6 18. Qf3 g5 19. Bf2 g4 20. Qe2 Rae8 21. a6 b6 22.
+Rae1 Nd5 23. e4 f5 24. Qd1 fxe4 25. Rxe4 Qf5 26. Qxg4 Qxg4 27. Rxg4 Re2 28. Rd1
+Nhf6 29. Rg3 Nh5 30. Rf3 Rxf3 31. gxf3 Ne3 32. Bxe3 Rxe3 33. Nc4 Rxf3 34. Nb4 b5
+35. Na5 c5 36. Nbc6 Rf7 37. Nb7 Nf4 38. dxc5 dxc5 39. Nxa7 Bd4+ 40. Kh1 Nh3 41.
+Kg2 Nf4+ 42. Kg3 Ne2+ 43. Kg4 Rf4+ 44. Kh3 Rf3+ 45. Kg4 Rf4+ 46. Kh3 Rf3+ 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "7.3"]
+[White "Naiditsch,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2706"]
+[BlackElo "2777"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "4650891"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O 8.
+O-O Re8 9. Qf3 Bd6 10. Bf4 Bxf4 11. Qxf4 d6 12. Rae1 Nd7 13. Qd2 Nc5 14. f4 a5
+15. b3 Qf6 16. e5 Qd8 17. Rf3 Nxd3 18. Qxd3 Qh4 19. g3 Qd8 20. Rfe3 Bg4 21. Ne4
+dxe5 22. Nf2 Qxd3 23. Nxd3 Bf5 24. Rxe5 Rxe5 25. Rxe5 g6 26. Kf2 Bxd3 27. cxd3
+a4 28. b4 a3 29. Ke3 Rb8 30. Re4 Kf8 31. Rc4 c5 32. bxc5 Rb2 33. Kd4 Rxa2 34.
+Ra4 Rxh2 35. Rxa3 Ke7 36. Kd5 Kd7 37. g4 Rh3 38. c6+ Ke7 39. Ra7 Rxd3+ 40. Ke4
+Rc3 41. Rxc7+ Ke6 42. Rc8 Kd6 43. Rd8+ Ke6 44. Re8+ Kd6 45. Rd8+ Ke6 46. f5+
+gxf5+ 47. gxf5+ Ke7 48. Rd7+ Ke8 49. Rd6 Ke7 50. Rh6 Rc5 51. Kf4 Rd5 52. Rxh7
+Rd6 53. Kg5 Rxc6 54. Rh8 Rc1 55. Ra8 1/2-1/2
+
+[Event "3rd GRENKE Chess Classic"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "7.4"]
+[White "Baramidze,D"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2594"]
+[BlackElo "2811"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4667719"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.02"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c5 6. d4 cxd4 7. Nxd4 Nc6 8. Nc3
+Qa5 9. Nb3 Qh5 10. e4 d6 11. Qxh5 Nxh5 12. c5 a5 13. a4 dxc5 14. Nxc5 Rb8 15.
+Rd1 b6 16. Nd7 Bxd7 17. Rxd7 Rfd8 18. Rxd8+ Rxd8 19. Be3 Bd4 20. e5 Bxe3 21.
+Bxc6 Bc5 22. Re1 Ng7 23. Kg2 Bd4 24. Nd5 Kf8 25. Re2 Bc5 26. b4 axb4 27. Rb2 Ne6
+28. Nxb4 Nc7 29. Rb3 Rd2 30. Nd3 Bd4 31. Bb5 Nd5 32. Kf3 Nc3 33. Ba6 Nxa4 34.
+Rb4 Nc5 35. Rxd4 Nxa6 36. Ke3 Ra2 37. Rd8+ Kg7 38. Rd7 Ra3 39. Kd2 e6 40. Ra7
+Ra5 41. f4 h5 42. h4 Ra2+ 43. Kc3 Ra4 44. Ra8 b5 45. Kd2 Ra2+ 46. Kc1 Ra4 47.
+Kd2 Nc5 48. Rxa4 Nxa4 49. Kc2 Nb6 50. Nc5 Kf8 51. Kc3 Nd5+ 52. Kd4 Ke7 53. Ne4
+f6 54. Kc5 f5 55. Nd2 b4 56. Kc4 Kd7 57. Kb5 Kd8 58. Kc4 Kc8 59. Nb3 Kd7 60. Nd2
+Kc6 61. Nf3 Ne3+ 62. Kxb4 Kd5 63. Nd2 Nd1 64. Kb5 Nc3+ 65. Kb6 Ne2 66. Nf1 Ke4
+67. Kc6 Nxg3 68. Nxg3+ Kxf4 69. Nf1 Kxe5 70. Kd7 f4 71. Nd2 Kf6 72. Kc6 g5 73.
+Ne4+ Kf5 74. Nxg5 Kg4 75. Kd6 Kxh4 76. Ne4 Kg4 77. Kxe6 h4 78. Ke5 f3 79. Kd4 h3
+80. Ke3 h2 81. Nf2+ Kg3 82. Nh1+ Kg2 83. Nf2 h1=Q 84. Nxh1 Kxh1 85. Kxf3 1/2-1/2
+
+[Event "3rd GRENKE Classic TB"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2865"]
+[BlackElo "2706"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4650891"]
+[EventDate "2015.02.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2 O-O 7. e3 Bb7 8.
+b4 a5 9. Bb2 axb4 10. axb4 Ne4 11. Qc2 Rxa1+ 12. Bxa1 Qe7 13. c5 f5 14. Be2 Nc6
+15. Bc3 bxc5 16. dxc5 Ra8 17. O-O Nxc3 18. Qxc3 Qf6 19. Qd2 Rd8 20. b5 Ne5 21.
+Nxe5 Qxe5 22. c6 Bc8 23. Rd1 d5 24. Qd4 Qxd4 25. exd4 Kf8 26. f4 Ke7 27. Ra1 g6
+28. Kf2 Kd6 29. Ra3 Rf8 30. h4 Ke7 31. h5 Rg8 32. hxg6 hxg6 33. Rh3 g5 34. fxg5
+Kd6 35. Rh6 Ke7 36. Bf3 e5 37. Rh7+ Kd6 38. dxe5+ Kc5 39. Rxc7 Kxb5 40. Bxd5 1-0
+
+[Event "3rd GRENKE Classic TB"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "2"]
+[White "Naiditsch,A"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2706"]
+[BlackElo "2865"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Pillsbury variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "1503014"]
+[EventDate "2015.02.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8. Re1
+c6 9. Ba4 Ng6 10. Bb3 h6 11. Bd2 Bg4 12. h3 Bh5 13. g3 d5 14. Kg2 d4 15. Ne2
+Bxf3+ 16. Kxf3 Bxd2 17. Qxd2 Nd7 18. a3 Kh8 19. Kg2 Nc5 20. Ba2 f5 21. exf5 Rxf5
+22. Rf1 Qf6 23. f4 Rf8 24. Rae1 h5 25. Rf3 h4 26. g4 Nxf4+ 27. Kh2 Rg5 28. Nxf4
+exf4 29. b4 Nd7 30. Re6 Qd8 31. Qe1 Rb5 32. a4 Rb6 33. Re7 Nf6 34. Qxh4+ Nh7 35.
+Be6 Rf6 36. Bf5 Rh6 37. Qe1 Qd6 38. Re8+ Nf8 39. Qe7 Qxe7 40. Rxe7 Rxb4 41. Re8
+Rf6 42. Rxf4 g6 43. g5 Rf7 44. Rh4+ Kg7 45. Be4 Rb2 46. Kg3 Rxc2 47. Rf4 Rc5 48.
+h4 Ra5 49. Rxf7+ Kxf7 50. Rb8 b5 51. Rb7+ Ke6 52. axb5 cxb5 53. Kf4 Ra2 54. Rxb5
+Rf2+ 55. Kg3 Re2 56. Ra5 Nd7 57. Ra6+ Ke7 58. Bxg6 Ne5 59. Be4 Nxd3 60. Bxd3
+Re3+ 61. Kf4 Rxd3 62. h5 Rh3 63. h6 d3 64. Rxa7+ Ke6 65. Ra6+ Kf7 66. g6+ Ke7
+67. g7 d2 68. g8=Q 1-0
+
+[Event "3rd GRENKE Classic TB"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2865"]
+[BlackElo "2706"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4650891"]
+[EventDate "2015.02.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. e3 Bb7 6. Bd3 c5 7. O-O cxd4 8.
+exd4 O-O 9. a3 Be7 10. b4 a5 11. b5 d5 12. Bb2 Nbd7 13. a4 Rc8 14. Rc1 dxc4 15.
+Nxc4 Nd5 16. g3 Nb4 17. Be2 Na2 18. Ra1 Bxf3 19. Bxf3 Rxc4 20. Rxa2 Nf6 21. Bc6
+Nd5 22. Qe2 Rb4 23. Rd1 Rb3 24. Kg2 Qd6 25. Qc2 Qb4 26. Rda1 Rc8 27. Ba3 Qc3 28.
+Qxc3 Rxc3 29. Bxd5 Rxa3 30. Rxa3 Bxa3 31. Bxe6 fxe6 32. Rxa3 Rc4 33. Kf3 Rxd4
+34. Rc3 Rxa4 35. Rc6 Kf7 36. Rxb6 Rb4 1/2-1/2
+
+[Event "3rd GRENKE Classic TB"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "4"]
+[White "Naiditsch,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2706"]
+[BlackElo "2865"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "1503014"]
+[EventDate "2015.02.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. c4 Ke8 10. Nc3 Be6 11. b3 Be7 12. Ne4 Rd8 13. Bb2 h5 14. Rad1 b5
+15. Nfg5 Bxg5 16. Nxg5 a6 17. Bc3 c5 18. Rxd8+ Kxd8 19. Rd1+ Ke7 20. Ne4 bxc4
+21. Nxc5 cxb3 22. axb3 Rb8 23. b4 Rb6 24. Kf1 Bc4+ 25. Ke1 Bb5 26. f3 h4 27. Kf2
+Rc6 28. Bb2 Ke8 29. Rc1 Ne7 30. Nb3 Nd5 31. Rxc6 Bxc6 32. Ba3 Nf4 33. g3 Nd3+
+34. Ke3 hxg3 35. hxg3 Nxe5 36. Kf4 Nxf3 37. Bb2 f6 38. Nd4 Ne1 39. Ke3 Bd5 40.
+Ke2 Ng2 41. Kf2 Kd7 42. Bc3 g6 43. Nf3 g5 44. Bxf6 Bxf3 45. Kxf3 Ne1+ 46. Ke2
+Nc2 47. Bxg5 Nxb4 48. Bf4 Nd5 49. Bd2 Ke6 50. Kd3 Nf6 51. Bc1 Kd5 52. Bg5 Ng4
+53. Kc3 c5 54. Kb3 Kc6 55. Ka4 Ne5 56. Ka5 Kb7 57. Bh6 Nc6+ 58. Ka4 c4 59. g4
+Kc8 60. Bg7 Kd7 61. Bf6 Ke6 62. g5 Kf5 63. Ka3 Ne5 64. Kb4 a5+ 65. Kc3 a4 66.
+Bxe5 Kxe5 67. Kxc4 Kf5 68. Kb4 Kxg5 1/2-1/2
+
+[Event "3rd GRENKE Classic TB"]
+[Site "Baden Baden GER"]
+[Date "2015.02.09"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2865"]
+[BlackElo "2706"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4650891"]
+[EventDate "2015.02.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+O-O 9. O-O Nbd7 10. a4 b6 11. Nd5 Nxd5 12. Qxd5 Rb8 13. Nc3 Nf6 14. Qd3 Be6 15.
+Qxa6 Qc7 16. Qe2 Bc4 17. Qf3 Bxf1 18. Bxf1 d5 19. exd5 e4 20. Qf5 Rbd8 21. Bf4
+Qc5 22. Rd1 Qb4 23. Be5 Bc5 24. Bxf6 gxf6 25. Nxe4 Qxb2 26. Bd3 Rfe8 27. Nxf6+
+Kf8 28. Nxh7+ Ke7 29. Re1+ Kd6 30. Qf4+ Kxd5 31. Nf6+ Kc6 32. Nxe8 1-0

@@ -1,0 +1,2088 @@
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.9"]
+[White "Harikrishna,P"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2621"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[WhiteFideId "5007003"]
+[BlackFideId "1503707"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Bd6 8.Nb5 Be7
+9.Bd2 a6 10.Nbc3 c5 11.dxc5 Bxc5 12.Nd4 Bxd4 13.exd4 Qb6 14.O-O Qxd4 15.Bg5 Nc6
+16.Bxf6 Qxf6 17.Nxd5 Qxb2 18.Rb1 Qxa2 19.Nb6 Rb8 20.Nc4 Bf5 21.Ra1 Qxa1 22.Qxa1 Bxd3
+23.Rc1 Rbd8 24.Ne3 Nd4 25.Rd1 Nc2 26.Nxc2 Bxc2 27.Rc1 Be4 28.h4 Bc6 29.Rc5 Rd6
+30.Rg5 f6 31.Rg4 Rfd8 32.Kh2 h5 33.Rf4 Rd2 34.Qc3 R8d5 35.Qe3 a5 36.Qe6+ Kf8
+37.Qc8+ Rd8 38.Qe6 R8d4 39.Qc8+ Kf7 40.Qc7+ Kg6 41.Qxa5 Rxf4 42.Qxd2 Rxh4+
+43.Kg1 Rg4 44.g3 Ra4 45.Qc2+ Kh6 46.f3 h4 47.Qd2+ g5 48.Qd8 Kg7 49.Qe7+ Kg6
+50.g4 Ra1+ 51.Kf2 Ra2+ 52.Ke3 Ra8 53.Kf2 h3 54.Kg3 Rh8 55.Kh2 Bxf3 56.Qe6 Bc6
+57.Qf5+ Kg7 58.Qc5 Re8 59.Kxh3 Re5 60.Qd6 Kf7 61.Kg3 Re6 62.Qc7+ Re7 63.Qb6 Bd5
+64.Qd4 Be4 65.Qc4+ Kg7 66.Qb4 Re8 67.Qd6 Kg6 68.Qb4 Bc6 69.Qd6 Re3+ 70.Kh2 Re4
+71.Kg3 Kf7 72.Qc7+ Ke6 73.Qc8+ Ke7 74.Kf2 Kd6 75.Qf8+ Kd5 76.Kg3 Re3+ 77.Kf2 Re6
+78.Qd8+ Kc4 79.Qb6 Re4 80.Kg3 Rf4 81.Kh3 Rf3+ 82.Kh2 f5 83.gxf5 g4 84.Kg1 Rh3
+85.Qc7 g3 86.Qf4+ Kc5 87.Qe3+ Kd6 88.Qe6+ Kc7 89.Qe7+ Kb6 90.Qb4+ Kc7 91.Qe7+ Kb6
+92.Qb4+ Kc7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.2"]
+[White "Inarkiev,E"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2786"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4162722"]
+[BlackFideId "2016192"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.a3 Nc6 11.Bd3 Bb6 12.O-O Bg4 13.h3 Bh5 14.b4 a6 15.Rb1 d4
+16.b5 axb5 17.Rxb5 Bxf3 18.Qb1 Bc7 19.Bxh7+ Kh8 20.gxf3 Bxf4 21.exf4 Ne7
+22.Rh5 Ra5 23.Bf5+ Kg8 24.Bh7+ Kh8 25.Bf5+ Kg8 26.Bh7+  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.1"]
+[White "Vachier Lagrave,M"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2795"]
+[BlackElo "2747"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "623539"]
+[BlackFideId "400041"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6 13.Re1 Bf5 14.Qf3 Bg6 15.Be3 Nxe3
+16.Rxe3 Qg5 17.Na3 a5 18.Rae1 a4 19.Bd1 Bf4 20.h4 Qf6 21.Re7 Bd2 22.Qxf6 gxf6
+23.R1e2 Bc1 24.Rc2 Bh6 25.Be2 Rfe8 26.Rxe8+ Rxe8 27.g4  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.8"]
+[White "Salem,AR"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2750"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "9301348"]
+[BlackFideId "4126025"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nf3 Bg7 7.Ne5 Ne4 8.Nd2 Nf6
+9.Nb1 Ne4 10.Nd2 Nf6 11.Nb1  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.7"]
+[White "Nepomniachtchi,I"]
+[Black "Hou Yifan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2652"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "8602980"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Rb1 Be7 8.Bb5+ Bd7
+9.Bxd7+ Nxd7 10.Rxb7 cxd4 11.cxd4 Nb6 12.Qd2 Qc8 13.Rxe7+ Kxe7 14.Nf3 f6
+15.O-O Kf7 16.e5 f5 17.g4 Rd8 18.Qg5 Kg8 19.Qh5 Rf8 20.Ba3 Qc6 21.Ng5 h6
+22.Rc1 Qd7 23.Bxf8 Rxf8 24.Nh3 Qxd4 25.gxf5 Qxe5 26.Qg6 Rf6 27.Qg4 Rxf5 28.Qg3 Qd4
+29.Re1 Rf6 30.Qg2 Nd5 31.Kh1 Qd3 32.Rg1 Qf3 33.Rb1 Qf5 34.Rg1 Rf7 35.Re1 Rf6
+36.Rg1 Qf3 37.Rb1 Qh5 38.Rg1 Rf7 39.Re1 Qf5 40.Qg3 Rc7 41.Ng1 Nf4 42.Rd1 Kh7
+43.Qf3 Rc2 44.a3 e5 45.Re1 Qg6 46.h3 Nd3 47.Rf1 Rc3 48.Qg4 Qxg4 49.hxg4 Rxa3
+50.Nf3 Ra4 51.g5 h5 52.Kg2 Rg4+ 53.Kh2 a5 54.Ra1 a4 55.Ra2 e4 56.Nd4 Rxg5
+57.Rxa4 Nxf2 58.Ra7 Ng4+ 59.Kh3 Re5 60.Nc6 Rd5  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.6"]
+[White "Tomashevsky,E"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2755"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[WhiteFideId "4147235"]
+[BlackFideId "4102142"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.h4 c6 6.Bg5 h6 7.Bxf6 Bxf6 8.e3 e6
+9.Qc2 Nd7 10.O-O-O O-O 11.Kb1 Bg7 12.g4 Qe7 13.cxd5 exd5 14.Bd3 Nb6 15.Rhg1 Bd7
+16.Ne5 Bxe5 17.dxe5 Qxe5 18.f4 Qxe3 19.Bxg6 Qxf4 20.g5 fxg6 21.Qxg6+ Kh8
+22.Qxh6+ Kg8 23.Qg6+ Kh8 24.Qh6+ Kg8 25.Qg6+  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.5"]
+[White "Mamedyarov,S"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2710"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Janowski variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "2205530"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 d5 2.c4 e6 3.Nc3 a6 4.cxd5 exd5 5.Nf3 c6 6.e4 dxe4 7.Ng5 Be7 8.Bc4 Nh6
+9.Ngxe4 Nf5 10.d5 O-O 11.Bf4 cxd5 12.Nxd5 Nc6 13.O-O Be6 14.Re1 Bxd5 15.Bxd5 Bb4
+16.Nc3 Nfd4 17.Be4 Re8 18.Re3 g6 19.h4 Ne6 20.Qxd8 Raxd8 21.Bxc6 bxc6 22.Rae1 Be7
+23.g3 Nxf4 24.Rxe7 Rxe7 25.Rxe7 Nd5 26.Re4 Nxc3 27.bxc3 Rd5 28.Rc4 Kf8 29.Kf1 Ke7
+30.Rxc6  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.4"]
+[White "Radjabov,T"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2773"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "13400924"]
+[BlackFideId "8603677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Bd3 Nbd7 6.b3 Bd6 7.Bb2 O-O 8.Nbd2 b6
+9.O-O Bb7 10.Qe2 c5 11.Rad1 Ne4 12.cxd5 exd5 13.Ba6 Bxa6 14.Qxa6 Re8 15.dxc5 Ndxc5
+16.Qe2 Rc8 17.Rc1 Bf8 18.Rfd1 Qe7 19.Nb1 Qb7 20.Nc3 Red8 21.Rc2 a6 22.h3 b5
+23.Rdc1 Ne6 24.Qd3 Rc5 25.Ne2 Rdc8 26.Nfd4 Rxc2 27.Rxc2 N4c5 28.Qd1 Nxd4
+29.Bxd4 Ne6 30.Rd2 a5 31.Bb2 Rc5 32.Nd4 Nxd4 33.Bxd4 Rc6 34.Bb2 Rc5 35.Bd4 Rc6
+36.Bb2 Rc5 37.a3 Qc6 38.Kh2 h6 39.g3 b4 40.a4 Be7 41.Bd4 Rc1 42.Qg4 Bf6 43.Bxf6 Qxf6
+44.Kg2 Rc5 45.Qf3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.12"]
+[Round "1.3"]
+[White "Giri,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2724"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[WhiteFideId "24116068"]
+[BlackFideId "2805677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 d5
+9.exd5 Na5 10.Qd2 Nxb3 11.Nxb3 b5 12.Nxb5 Qxd5 13.Qxd5 Nxd5 14.Bd4 Nb4 15.O-O-O Nxa2+
+16.Kb1 Nb4 17.Bxg7 Kxg7 18.Rhe1 Bf5 19.N3d4 Kf6 20.Nxf5 gxf5 21.Rd4 a5 22.g4 Rg8
+23.h3 h5 24.gxf5 Rad8 25.Rf4 Rd5 26.Nc3 Rxf5 27.Ne4+ Kg6 28.Rxf5 Kxf5 29.Ng3+ Kg6
+30.Rxe7 Rd8 31.Kc1 Na2+ 32.Kb1 Nb4 33.Kc1 Na2+ 34.Kb1  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.2"]
+[White "Nakamura,Hi"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2710"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[WhiteFideId "2016192"]
+[BlackFideId "13400924"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 c6 7.Qc2 b6 8.Ne5 Bb7
+9.O-O Nbd7 10.Bc3 O-O 11.Nd2 Nxe5 12.dxe5 Nd7 13.cxd5 cxd5 14.e4 Nc5 15.exd5 Bxd5
+16.Ne4 Nxe4 17.Bxe4 Bxe4 18.Qxe4 Qc7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.1"]
+[White "Hou Yifan"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2652"]
+[BlackElo "2795"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "8602980"]
+[BlackFideId "623539"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 e5 4.e3 Nf6 5.d4 e4 6.d5 exf3 7.dxc6 bxc6 8.Qxf3 d5
+9.cxd5 Bg4 10.Qf4 cxd5 11.Bb5+ Bd7 12.O-O Be7 13.Qa4 Rb8 14.Bxd7+ Qxd7 15.Qxd7+ Kxd7
+16.b3 Rhc8 17.Ba3 c4 18.Bxe7 Kxe7 19.Rfc1 a5 20.Kf1 cxb3 21.axb3 Rc5 22.Ne2 Rxc1+
+23.Nxc1 Rb5 24.Ne2 Rxb3 25.Nd4 Rb2  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.8"]
+[White "Vallejo Pons,F"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2750"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2205530"]
+[BlackFideId "5007003"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.d4 Be7 5.Bg2 O-O 6.O-O dxc4 7.Ne5 Nc6 8.Bxc6 bxc6
+9.Nxc6 Qe8 10.Nxe7+ Qxe7 11.b3 Rd8 12.bxc4 c5 13.Ba3 Qc7 14.Bxc5 Ne4 15.Qb3 Bb7
+16.Qa3 Rdc8 17.Rd1 e5 18.Nc3 Nxc3 19.Qxc3 exd4 20.Bxd4 Qc6 21.f3 Qxc4 22.Qxc4 Rxc4
+23.Rac1 Ba6 24.Kf2 h5 25.a3 f6 26.Rxc4 Bxc4 27.Rc1 Bf7 28.h3 a5 29.Rc5 a4
+30.Bc3 Be8 31.g4 hxg4 32.hxg4 Ra7 33.g5 Kf7 34.e4 Bd7 35.Ke3 Rb7 36.Bb4 Ra7
+37.f4 fxg5 38.Rxg5 g6 39.Rc5 Ra6 40.Rc7 Ke8 41.Kd4 Kd8 42.Rc1 Rc6 43.Bc5 Be6
+44.Rh1 Bb3 45.Rh7 Ke8 46.Re7+ Kd8 47.Rh7 Ke8 48.Re7+ Kd8 49.Rg7 Ke8 50.e5 Bf7
+51.Rh7 Bb3 52.Re7+ Kd8 53.Rg7 Ke8 54.Bd6 Bf7 55.Bb4 Bb3 56.Ke4 Kd8 57.Kf3 Be6
+58.Be7+ Kc8 59.Bb4 Bf5 60.Ra7 Rc4 61.Rxa4 Kb7 62.Ra5 Kb6 63.Kg3 Be6 64.Ra8 g5
+65.fxg5 Rg4+ 66.Kf2 Rxg5 67.Rb8+ Kc6 68.Bd6 Rg4 69.Re8 Kd5 70.Kf3 Rh4 71.Rb8 Bd7
+72.Rb1 Bc6 73.Ke3 Re4+ 74.Kd3 Rd4+ 75.Kc3 Rc4+ 76.Kb2 Ba4 77.Re1 Rc2+ 78.Kb1 Rd2
+79.Kc1 Rc2+ 80.Kb1 Rd2 81.Kc1 Rc2+ 82.Kb1  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.5"]
+[White "Gelfand,B"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2772"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "2805677"]
+[BlackFideId "13401319"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 d5 2.d4 Bf5 3.c4 e6 4.Nc3 Nf6 5.Nh4 Bb4 6.cxd5 Qxd5 7.e3 c5 8.Bb5+ Nc6
+9.O-O Qd7 10.Nxf5 exf5 11.Ne2 cxd4 12.Nxd4 Bc5 13.Nxc6 bxc6 14.Qxd7+ Kxd7
+15.Rd1+ Kc7 16.Bc4 Rhd8 17.Bd2 Nd5 18.Ba5+ Bb6 19.Bxd5 Rxd5 20.Rxd5 cxd5
+21.Bc3 g5 22.Rd1  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.4"]
+[White "Ding Liren"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2727"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "8603677"]
+[BlackFideId "4162722"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.Nf3 e4 5.Nd4 d5 6.d3 exd3 7.cxd5 Bb4+ 8.Nc3 c5
+9.Nb3 c4 10.Nd2 O-O 11.O-O Bxc3 12.bxc3 Bg4 13.f3 dxe2 14.Qxe2 Bf5 15.Nxc4 Qxd5
+16.Rd1 Qb5 17.a4 Qa6 18.Bf1 Be6 19.Nd6 Qxe2 20.Bxe2 b6 21.Nb5 Bb3 22.Rd6 Nbd7
+23.a5 Rfc8 24.Kf2 h6 25.Be3 Ne5 26.Bd4 Nc4 27.Rxf6 gxf6 28.Bxc4 Bxc4 29.Nd6 bxa5
+30.Nxc8 Rxc8 31.Rxa5 Re8 32.g4 a6 33.Rc5 Bd3 34.Bxf6 Re6 35.Bd4 Kf8 36.h4 Ke8
+37.Rc8+ Kd7 38.Rf8 Ke7 39.Bc5+ Kf6 40.Rh8 Kg7 41.Bd4+ f6 42.Rd8 Bc4 43.Rd7+ Kg8
+44.Ra7 Bd3 45.Kg3 Rc6 46.h5 Bc2 47.f4 Bd1 48.Kh4 Rd6 49.Ra8+ Kf7 50.Rh8 Kg7
+51.Rc8 Kf7 52.Rc7+ Kg8 53.Rc5 Kf7 54.g5 fxg5+ 55.fxg5 hxg5+ 56.Kxg5 Bc2 57.Rc7+ Ke6
+58.h6 Rd5+ 59.Kg4 Rd7 60.Rc6+ Rd6 61.Rc7 Rd7 62.Rc5 Rd5 63.Rc8 a5 64.Re8+ Kd7
+65.Ra8 a4 66.h7 Bxh7 67.Ra7+ Kc6 68.Rxh7 Ra5 69.Rh6+ Kd7 70.Kf4 a3 71.Rh1 a2
+72.Ra1 Kc6 73.Ke4 Kb5 74.Kd3 Ra8 75.Kc2 Kc4 76.Kb2 Rb8+ 77.Kxa2 Kd3 78.Rh1 Kc2
+79.Ka3 Kd3 80.Rh5 Rb1 81.Ka4 Rb8 82.Rb5 Ra8+ 83.Kb4 Rc8 84.Rb7 Rc4+ 85.Kb5 Rc8
+86.Bg7 Rd8 87.c4  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.9"]
+[White "Hammer,J"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2621"]
+[BlackElo "2751"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Variation "150 attack"]
+[WhiteFideId "1503707"]
+[BlackFideId "4168119"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 c6 5.Qd2 b5 6.e5 Ng4 7.exd6 Nxe3 8.Qxe3 Qxd6
+9.O-O-O Bg7 10.g3 Nd7 11.Bg2 Nb6 12.Qf3 Bd7 13.Ne4 Qc7 14.Nc5 Rc8 15.h4 Na4
+16.Nxd7 Qxd7 17.h5 O-O 18.hxg6 hxg6 19.Ne2 Qd6 20.c3 b4 21.c4 c5 22.b3 Nc3
+23.Nxc3 bxc3 24.Qxc3 Bxd4 25.Qd2 Qa6 26.Kb1 Rb8 27.g4 Bg7 28.g5 Qxc4 29.Bd5 Qg4
+30.Rhe1 e6 31.Be4 c4 32.Qe3 cxb3 33.axb3 Rb4 34.Rd3 Rfb8 35.f3 Qg2 36.Re2 Qh1+
+37.Re1 Qh2 38.Re2 Qe5 39.Ra2 a5 40.Kc2 a4 41.Rxa4 Rxa4 42.bxa4 Qa1 43.Rd2 Qb1+  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.3"]
+[White "Adams,Mi"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2785"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "400041"]
+[BlackFideId "24116068"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nh6 7.c3 O-O 8.h3 f5
+9.e5 Nf7 10.d4 cxd4 11.cxd4 c5 12.dxc5 Bb7 13.Nc3 e6 14.Be3 Rb8 15.Bd4 h5
+16.h4 Bxf3 17.Qxf3 Qxh4 18.Rad1 g5 19.g3 Qh3 20.b3 g4 21.Qg2 Ng5 22.Qxh3 Nxh3+
+23.Kg2 Ng5 24.Rh1 Nf3 25.Rxh5 Nxd4 26.Rxd4 Bxe5 27.Rxd7 Bxc3 28.Rg5+ Kh8
+29.Rh5+ Kg8  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.7"]
+[White "Grischuk,A"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2696"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "4147235"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.c3 d6 7.O-O Ba7 8.Re1 O-O
+9.h3 Ne7 10.Nbd2 Ng6 11.Nf1 c6 12.Ng3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.13"]
+[Round "2.6"]
+[White "Svidler,P"]
+[Black "Salem,AR"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2633"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "4102142"]
+[BlackFideId "9301348"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.g3 d6 3.Bg2 f5 4.d4 Be7 5.Nc3 Nf6 6.Nf3 e4 7.Ng5 c6 8.O-O O-O 9.f3 d5
+10.cxd5 Nxd5 11.Nh3 exf3 12.Bxf3 Be6 13.Nf4 Nxf4 14.Bxf4 Na6 15.e4 Nb4 16.a3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.3"]
+[White "Tomashevsky,E"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2786"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[WhiteFideId "4147235"]
+[BlackFideId "2016192"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O cxd4 8.exd4 dxc4
+9.Bxc4 b6 10.Bg5 Bb7 11.Qe2 Bxc3 12.bxc3 Nbd7 13.Ne5 Rc8 14.Bb3 Rxc3 15.Rac1 Rxc1
+16.Rxc1 Nxe5 17.dxe5 h6 18.Rd1 Qc7 19.Bxf6 gxf6 20.exf6 Qf4 21.Rd7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.5"]
+[White "Mamedyarov,S"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2747"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "400041"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.e3 Bb7 6.Bd3 O-O 7.O-O d5 8.cxd5 exd5
+9.a3 Bd6 10.b4 Nbd7 11.Qb3 a6 12.a4 Qe7 13.Rb1 c6 14.a5 Rfb8 15.axb6 Bc8
+16.Qc2 Nxb6 17.e4 dxe4 18.Nxe4 Nxe4 19.Bxe4 h6 20.Re1 Qc7 21.Bh7+ Kf8 22.Ne5 Nd5
+23.Nxf7 Qxf7 24.Bg6 Bf5 25.Bxf5 Nxb4 26.Qe4 Nd5 27.Be6 Qf6 28.Rxb8+ Rxb8
+29.Qh7 g5 30.Qg8+  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.6"]
+[White "Harikrishna,P"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2755"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "5007003"]
+[BlackFideId "4102142"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Be3 c5 8.Rc1 O-O
+9.Nf3 Qa5 10.Qd2 Rd8 11.d5 e6 12.d6 Qa4 13.h4 Qxe4 14.h5 Qd5 15.Qc2 Rxd6
+16.hxg6 hxg6 17.Ng5 Nc6 18.Ne4 Rd7 19.Bg5 Bxc3+ 20.Qxc3 Qxe4+ 21.Be3 e5 22.Qxc5 Nd4
+23.Bb5 Qxg2 24.Rh8+ Kxh8 25.Qf8+ Kh7 26.Bxd7 Qf3 27.Qh6+ Kg8 28.Bxd4 Bxd7
+29.Bxe5 Qe4+ 30.Qe3 Qh1+ 31.Kd2 Qd5+ 32.Qd4 Qxa2+ 33.Rc2 Qa5+ 34.Kc1 Re8
+35.f4 Bf5 36.Rc7 f6 37.Qc4+ Be6 38.Qc3 Qa4 39.Bd6 Bf5 40.Kd2 Qa2+  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.7"]
+[White "Nepomniachtchi,I"]
+[Black "Salem,AR"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2633"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "4168119"]
+[BlackFideId "9301348"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.c4 e6 5.O-O Nf6 6.b3 Nbd7 7.Bb2 Bd6 8.d3 O-O
+9.Nbd2 Qe7 10.h3 Bh5 11.a3 a5 12.Qc2 Rfc8 13.e4 dxe4 14.dxe4 e5 15.Nh4 Bc5
+16.Kh1 Bg6 17.Nxg6 hxg6 18.Nf3 Rd8 19.Rfe1 Nh7 20.h4 g5 21.Qe2 Qf6 22.Rf1 gxh4
+23.Nxh4 Ndf8 24.Nf5 Ne6 25.Rad1 Nd4 26.Bxd4 exd4 27.f4 d3 28.Rxd3 Rxd3 29.Qxd3 Rd8
+30.Qe2 g6 31.Nh6+ Kg7 32.e5 Qe7 33.Ng4 f5 34.Nh2 Nf8 35.g4 Qh4 36.b4 axb4
+37.axb4 Bd4 38.e6 Re8 39.gxf5 gxf5 40.e7 Rxe7 41.Qd3 Be3 42.Rf3 Bf2 43.Bf1 Ng6
+44.Qc2 Bd4 45.Qxf5 Rf7 46.Qe6 Ne5 47.Rh3 Qxf4 48.Qe8 Qe4+ 49.Nf3 Rxf3 50.Qh8+ Kf7
+51.Rh7+ Ke6 52.Qc8+ Kf6 53.Qf8+ Kg5 54.Qh6+ Kf5 55.Qf8+ Kg4  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.8"]
+[White "Radjabov,T"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2750"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Poisoned pawn variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "4126025"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.f5 Nc6 11.fxe6 fxe6 12.Nxc6 bxc6 13.e5 dxe5 14.Bxf6 gxf6 15.Ne4 Qxa2
+16.Rd1 Be7 17.Be2 O-O 18.O-O f5 19.Qh6 Qxc2 20.Rf3 f4 21.Rh3 Rf7 22.Rhd3 Qxe2
+23.Rd8+ Rf8 24.Nf6+ Kf7 25.Qxh7+ Kxf6 26.Qh6+ Kf7 27.Qh7+ Kf6 28.Qh6+ Kf7
+29.Qh7+  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.2"]
+[White "Vachier Lagrave,M"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2795"]
+[BlackElo "2724"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[WhiteFideId "623539"]
+[BlackFideId "2805677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 d5
+9.exd5 Na5 10.Qd2 Nxb3 11.Nxb3 b5 12.Nxb5 Qxd5 13.Qxd5 Nxd5 14.Bd4 Rb8 15.Bxg7 Kxg7
+16.Na3 Nb4 17.O-O-O Nxa2+ 18.Kb1 Nb4 19.Rhe1 Re8 20.Rd2 Bb7 21.c3 Nd5 22.Kc2 Rec8
+23.Rd4 Ba8 24.Nc4 Rc7 25.g3 f6 26.f4 Kf7 27.Nbd2 Rd8 28.Kc1 Rdc8 29.g4 Nb6
+30.Nxb6 axb6 31.Rb4 Rb8 32.Kc2 Bc6 33.Nb3 Bd7 34.g5 b5 35.Nd4 Rc5 36.h4 Ra8
+37.Nb3 Rc4 38.Rxc4 bxc4 39.Nd4 h6 40.gxf6 exf6 41.b4 cxb3+ 42.Kxb3 Ra5 43.Kc4 g5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.4"]
+[White "Giri,A"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2710"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "2205530"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 e5
+9.cxd5 cxd5 10.Nb5 Bb4+ 11.Bd2 Bxd2+ 12.Nxd2 a6 13.dxe5 Nxe5 14.Nd4 Bg4 15.Bxg4 Nfxg4
+16.O-O Rc8 17.Qf5 g6 18.Qf4 Re8 19.Rad1 Nf6 20.Qg5 Ne4 21.Qxd8 Rexd8 22.N2f3 Nxf3+
+23.gxf3 Nf6 24.Kg2 Kf8 25.Rd2 Rd7 26.b4 Rc4 27.Rb1 Rd6 28.Rdb2 b6 29.Rd1 Ne8
+30.b5 a5 31.Rc2 Rd7 32.Rdc1 Nd6 33.Rxc4 Nxc4 34.Nc6 Na3 35.Ne5 Rb7 36.Rc6 Ke7
+37.Ng4 Nxb5 38.Nf6 Nc7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.9"]
+[White "Inarkiev,E"]
+[Black "Hammer,J"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2621"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "4162722"]
+[BlackFideId "1503707"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O c5 7.c3 Nec6 8.a3 Be7 9.b4 cxd4
+10.cxd4 a6 11.Be3 O-O 12.Nbd2 Nd7 13.Ne1 b5 14.f4 Bg6 15.g4 f5 16.Rc1 Rc8
+17.Nb3 Nb6 18.Nd3 Nc4 19.Bf2 fxg4 20.Bxg4 Bf5 21.Ndc5 Qe8 22.Bh5 Bg6 23.Bg4 Bf5
+24.Bh5 g6 25.Bg4 Bxc5 26.Nxc5 Bxg4 27.Qxg4 Rf5 28.Rc3 Qf7 29.Rd3 Kh8 30.Bh4 g5
+31.Bxg5 Rg8 32.Qg2 Nxd4 33.Rg3 Rg6 34.h4 h6 35.h5 Rg8 36.Bf6+ Kh7 37.Rxg8 Qxg8
+38.Qxg8+ Kxg8 39.Kh2 Rxh5+ 40.Kg3 Nf5+ 41.Kf2 Kf7 42.Nb7 Rh2+ 43.Kg1 Ra2
+44.Rf2 Ra1+ 45.Rf1 Rxf1+ 46.Kxf1 Nd4 47.Kf2 Kg6 48.Bh4 Nxa3  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.14"]
+[Round "3.1"]
+[White "Hou Yifan"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2652"]
+[BlackElo "2773"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "8602980"]
+[BlackFideId "8603677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.O-O O-O 6.a4 d6 7.c3 a5 8.Bg5 h6 9.Bh4 g5
+10.Bg3 Kg7 11.Re1 g4 12.Bh4 Ne7 13.Bxf6+ Kxf6 14.d4 Bb6 15.Nh4 Kg7 16.Na3 exd4
+17.cxd4 Nc6 18.Nf5+ Bxf5 19.exf5 h5 20.Nc2 Qf6 21.Re4 Qxf5 22.Bd3 Qg5 23.g3 f5
+24.Rf4 Rae8 25.h4 gxh3 26.Qf3 d5 27.Rd1 Re4 28.Bxe4 fxe4 29.Qe3 Rxf4 30.Qxf4 Qxf4
+31.gxf4 Ne7 32.Kh2 Ng6 33.f5 Nf4 34.f3 c6 35.fxe4 dxe4 36.Re1 Bc7 37.Rg1+ Kf7
+38.Rf1 Kf6 39.Kg3 Kxf5 40.Ne3+ Kg5 41.Nc4 h4+ 42.Kf2 Nd3+ 43.Ke2 Bf4 44.Nxa5 h2
+45.Nxb7 Nc1+ 46.Kf2 e3+ 47.Kg2 e2 48.Re1 Bd2 49.Rh1 Nb3 50.Kxh2 e1=Q 51.Rxe1 Bxe1  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.1"]
+[White "Ding Liren"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2755"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "8603677"]
+[BlackFideId "4102142"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 g6 2.Nc3 c5 3.g3 Bg7 4.Bg2 Nc6 5.a3 e6 6.Rb1 Nge7 7.b4 d6 8.Nf3 O-O
+9.O-O b6 10.e3 d5 11.bxc5 bxc5 12.Na4 Qd6 13.d3 Ba6 14.Qc2 Rab8 15.Rxb8 Rxb8
+16.cxd5 Nxd5 17.e4 Nde7 18.Nxc5 Nd4 19.Nxd4 Bxd4 20.Be3 Rb2 21.Qc1 Bb5 22.a4 Be8
+23.Bxd4 Qxd4 24.Qe3 Qxe3 25.fxe3 Rc2 26.d4 e5 27.Rd1 exd4 28.exd4 Nc6 29.Bf1 Nxd4
+30.Rxd4 Rxc5 31.Rd8 Re5 32.Bb5 Kf8 33.Ra8 Rxe4  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.8"]
+[White "Adams,Mi"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2751"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "400041"]
+[BlackFideId "4168119"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Be7 8.Bg2 O-O
+9.O-O b5 10.Nd5 Nxd5 11.Qxd5 Ra7 12.Be3 Be6 13.Qd3 Rb7 14.b3 Nd7 15.Nc3 Nf6
+16.a4 Qd7 17.axb5 axb5 18.Ra6 Rc8 19.Rfa1 b4 20.Na4 Qc7 21.Ra2 Nd7 22.Qf1 Rcb8
+23.Qd1 h6 24.h4 Bf8 25.Bf3 Nf6 26.Bg2 Bd7 27.Nb2 Bc6 28.Nc4 Bxe4 29.Ba7 Re8
+30.Bb6 Qd7 31.Na5 Bxg2 32.Kxg2 Rbb8 33.Ra7 Qb5 34.Bc7 Ra8 35.Nc4 Rxa7 36.Rxa7 Qc5
+37.Qa1 Ng4 38.Bb6 Qc6+ 39.f3 e4 40.fxg4 e3+ 41.Kh2 e2 42.Qe1 d5 43.Be3 dxc4
+44.Qxe2 Qe6 45.Qf2 Qxe3 46.Qxf7+ Kh8 47.bxc4 Qe2+ 48.Kh3 Qd1 49.g5 h5  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.7"]
+[White "Vallejo Pons,F"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2710"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "2205530"]
+[BlackFideId "13400924"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 O-O 8.Bf4 Nh5
+9.Be3 Qd6 10.Qd2 e5 11.O-O-O b5 12.Ne2 b4 13.g4 Nf6 14.Ng3 a5 15.c4 a4 16.Rhg1 Kh8
+17.Bh6 Ne8 18.Bxg7+ Kxg7 19.Nf5+ gxf5 20.gxf5+ Kh8 21.Qg5 Ra7 22.Rg4 f6 23.Qh6 Rff7
+24.Rdg1 Rg7 25.Rxg7 Nxg7 26.Ng5 Ne8 27.Nf3 Ba6 28.Rg6 Rf7 29.Ng5 Bxc4 30.f4 exf4
+31.e5 Qe7 32.Nxf7+ Bxf7 33.Rg1 Bxa2 34.e6 f3 35.Qf4 Bd5 36.Qb8 c4 37.Kd2 c3+
+38.bxc3 bxc3+ 39.Kc2 a3 40.Rg4 a2 41.Qg3 a1=N+ 42.Kd1 c2+ 43.Kd2 c1=Q+ 44.Kxc1 Qc5+
+45.Kd2 Nb3+  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.6"]
+[White "Gelfand,B"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2696"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "2805677"]
+[BlackFideId "4147235"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O Nbd7 8.a4 a5
+9.Qc2 c6 10.Na3 Bd6 11.Ne1 Qe7 12.Nd3 e5 13.cxd5 Nxd5 14.Bxd5 cxd5 15.Nb5 e4
+16.Nf4 Nf6 17.Rfc1 Bg4 18.Nxd6 Qxd6 19.Qb3 h6 20.Qb5 Bd7 21.Qc5 Qa6 22.Nxd5 Nxd5
+23.Qxd5 Bg4 24.Qxe4 Bxe2 25.Rc5 Rfe8 26.Re5 Rxe5 27.Qxe5 Bf3 28.Ra3 Qc6 29.Rc3 Qd5
+30.Qxd5 Bxd5 31.Rc5 Bf3 32.Rf5 Be4 33.Re5 Bf3 34.Bxa5 b6 35.Re3 Bd5 36.Bxb6  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.5"]
+[White "Hammer,J"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2621"]
+[BlackElo "2785"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "1503707"]
+[BlackFideId "24116068"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.g3 c6 3.Nf3 e4 4.Nd4 d5 5.cxd5 Qxd5 6.Nc2 Nf6 7.Nc3 Qe5 8.Bg2 Na6
+9.O-O Be7 10.d4 exd3 11.Qxd3 O-O 12.Qe3 Bd6 13.Rd1 Re8 14.Qd4 Bc7 15.Bf4 Qh5
+16.Bxc7 Nxc7 17.f3 Ne6 18.Qf2 Ng5 19.g4 Qg6 20.Ne3 h5 21.h4 Ne6 22.g5 Nf4
+23.Rd4 N6d5 24.Ncxd5 Nxd5 25.Nxd5 cxd5 26.Rxd5 Be6 27.Rd2 Rad8 28.e4 f5 29.Rxd8 Rxd8
+30.Qxa7 Qf7 31.Qa5 Qd7 32.Qe5 fxe4 33.fxe4 Bh3 34.Qd5+ Qxd5 35.exd5 Bxg2
+36.Kxg2 Rxd5 37.Rf1 Rd4 38.Kg3 Rg4+ 39.Kh3 Kh7 40.Rf7 Rb4 41.b3 Kg6 42.Rc7 Rd4
+43.Rxb7 Rd3+ 44.Kg2 Rd2+ 45.Kf3 Rxa2 46.Rb4 Kf5 47.Ke3 Rg2 48.Kd3 Rg3+ 49.Kc2 Ke5
+50.Rc4 Kd5 51.Kb2 Rh3 52.Ka3 Rg3 53.Ka4 Rh3 54.Rb4 Ke6 55.Kb5 Kd5 56.Ka5 Kd6
+57.Rb7 Rxh4 58.Rxg7 Rh1 59.g6 h4 60.Rh7 Ke6 61.Rc7 h3 62.g7 Rg1 63.Rc3 h2
+64.Rh3 Rxg7 65.Rxh2 Kd7 66.Rc2 Rg8 67.b4 Ra8+ 68.Kb5 Rb8+ 69.Ka4 Ra8+ 70.Kb3 Rc8
+71.Rxc8 Kxc8 72.Kc4 Kb8 73.Kd5 Kb7 74.Kc5 Kc7 75.b5 Kb7 76.b6 Kb8 77.Kc6 Kc8
+78.b7+ Kb8 79.Kb6  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.4"]
+[White "Nakamura,Hi"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2652"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "8602980"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.d3 c5 6.Nbd2 Nc6 7.e4 O-O 8.Re1 b5
+9.e5 Nd7 10.Nf1 Bb7 11.h4 b4 12.Bf4 a5 13.N1h2 Ra6 14.c3 a4 15.a3 bxc3 16.bxc3 Qa5
+17.c4 Nd4 18.Nxd4 cxd4 19.h5 h6 20.Ng4 Kh7 21.Bd2 Qd8 22.Bb4 Nc5 23.cxd5 Bxd5
+24.Bxd5 Qxd5 25.Rc1 Re8 26.Rc4 Raa8 27.Bxc5 Bxc5 28.Re4 Red8 29.Qc1 Bf8 30.Qf4 Qb7
+31.Rexd4 Bxa3 32.Rxd8 Rxd8 33.Rxa4 Rxd3 34.Qe4+ Qxe4 35.Rxe4 Bc5 36.Kg2 Rd4
+37.Kf3 Rd2 38.Rc4 Bb6 39.Rc6 Rb2 40.Rc8 Rb3+ 41.Kg2 Bd4 42.Rf8 Rb7 43.f4 f5
+44.Nh2 Rb2+ 45.Kh3 Rb3 46.Rc8 Be3 47.Rc4 Bg1 48.Rc6 Be3 49.Rc4 Bg1 50.Rc6 Be3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.3"]
+[White "Grischuk,A"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2795"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "4126025"]
+[BlackFideId "623539"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bc1 Nf6 8.Be3 Ng4
+9.Bg5 h6 10.Bc1 Nf6 11.Bd3 e5 12.Nde2 Be7 13.O-O O-O 14.Ng3 Nbd7 15.a4 Nc5
+16.Be2 Be6 17.Bf3 Rc8 18.Re1 Qd7 19.a5 Rfd8 20.Nd5 Bxd5 21.exd5 Re8 22.c4 Bd8
+23.Be3 e4 24.Be2 h5 25.b4 Nd3 26.Bxd3 exd3 27.Qxd3 h4 28.Nf1 h3 29.Bd4 hxg2
+30.Ng3 Rxe1+ 31.Rxe1 Qh3 32.Qf3 Kf8 33.c5 dxc5 34.Bxc5+ Kg8 35.Qf5 Qxf5 36.Nxf5 g6
+37.Nd6 Rc7 38.Ne8 Rd7 39.Nxf6+ Bxf6 40.Re8+ Kg7 41.Bf8+ Kh7 42.d6 Bg7 43.Re7 Rd8
+44.Bxg7 Kxg7 45.Rxb7 Rxd6 46.Kxg2 Rd4 47.Kf3 g5 48.Ke3 Rf4 49.Rb6 f5 50.Rxa6 Rxb4
+51.Ra7+ Kg6 52.a6 Ra4 53.Ra8 g4 54.f4 gxf3 55.Kxf3 Kg7 56.Kg3 Rg4+ 57.Kf3 Ra4
+58.h3 Kh7 59.Kg3 Kg7 60.h4 Rg4+ 61.Kh3 Ra4 62.h5 Kh7 63.Kg3 Kg7 64.Kf3 Kh7
+65.Ke3 Kg7 66.Kd3 f4  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.2"]
+[White "Salem,AR"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2772"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "9301348"]
+[BlackFideId "13401319"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.Qa4 dxc4 6.Qxc4 Bg7 7.Nf3 O-O 8.O-O Bf5
+9.Nc3 Nbd7 10.e3 Qc7 11.Nh4 Nb6 12.Qc5 Be6 13.b3 a5 14.Ba3 Nfd7 15.Qxe7 Rfe8
+16.Qg5 a4 17.Rfc1 axb3 18.axb3 h6 19.Qf4 Qd8 20.Nf3 Nf6 21.Ne5 Bxb3 22.g4 Nbd5
+23.Nxd5 Bxd5 24.h3 Nh7 25.e4 Be6 26.Bb2 Rxa1 27.Bxa1 Nf6 28.Rd1 Qa5 29.Bf3 Qa4
+30.Kg2 Rd8 31.h4 Nxe4 32.Re1 Nf6 33.Nxg6 fxg6 34.Rxe6 Qxa1 35.g5 hxg5 36.hxg5 Nh5
+37.Bxh5 gxh5 38.Re7 Rf8 39.Rxg7+ Kxg7 40.Qe5+ Kg6 41.Qd6+ Kxg5 42.Qg3+ Kh6
+43.Qd6+ Kg7 44.Qg3+ Kf7 45.Qf4+ Ke6 46.Qe5+ Kd7 47.Qg7+ Kc8 48.Qxf8+ Kc7
+49.Qe7+ Kb6 50.Qc5+ Ka6 51.f4 Qa2+ 52.Kg3 Qe2 53.f5 Qg4+ 54.Kh2 Qf4+ 55.Kg2 Qe4+
+56.Kh2 Qf3 57.Qe5 h4 58.f6 b5 59.Qg5 b4 60.Qg7 Qf2+ 61.Kh3 Qe3+ 62.Kg2 Qe4+
+63.Kh2 Qxd4 64.Kh3 b3 65.Qf7 b2 66.Qa2+ Kb6 67.Qb3+ Kc7 68.f7 Qf4 69.f8=R Qxf8
+70.Qxb2 Qf4 71.Kg2 c5  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.15"]
+[Round "4.9"]
+[White "Inarkiev,E"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2750"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[WhiteFideId "4162722"]
+[BlackFideId "5007003"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 g6 6.Bg2 d6 7.Nf3 Bg7 8.Nc3 O-O
+9.O-O Re8 10.Bf4 Bf5 11.Nh4 Bc8 12.Qd2 a6 13.a4 Qe7 14.h3 Nbd7 15.e4 Rb8
+16.Nf3 b5 17.axb5 axb5 18.Rfe1 b4 19.Na4 Bb7 20.e5 Nxd5 21.exd6 Qf8 22.Ne5 Rxe5
+23.Bxe5 Nxe5 24.Nxc5 Bc6 25.Ra6 Qxd6 26.Rxc6 Qxc6 27.Qxd5 Qxd5 28.Bxd5 Rd8
+29.Rd1 Bf8 30.Ne4 Be7 31.Bb3 Rxd1+ 32.Bxd1 Nd3 33.Bb3 Nxb2 34.Kf1 Nd3 35.Bd5 Kg7
+36.Ke2 Ne5 37.f4 Nd7 38.g4 f5 39.gxf5 gxf5 40.Ng3 Kf6 41.Nh5+ Kg6 42.Bc6 b3
+43.Bxd7 b2 44.Ng3 b1=Q 45.Bxf5+ Qxf5 46.Nxf5 Kxf5 47.Kf3 Bc5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.6"]
+[White "Hou Yifan"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2652"]
+[BlackElo "2750"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "4126025"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3 Be7 8.Bg2 O-O
+9.O-O b5 10.a4 b4 11.Nd5 Nxd5 12.Qxd5 Ra7 13.Be3 Be6 14.Qd3 Ra8 15.f4 Qc7
+16.Nd2 a5 17.Rf2 f6 18.f5 Bf7 19.Rc1 Na6 20.c4 bxc3 21.Qxc3 Qb8 22.Rff1 Nb4
+23.Qc7 Qe8 24.Qb7 Rb8 25.Qa7 Ra8 26.Qb7 Rb8 27.Qa7 d5 28.exd5 Nxd5 29.Bc5 Ra8
+30.Qb7 Rb8 31.Qa7 Ra8 32.Qb7 Bxc5+ 33.Rxc5 Rb8 34.Qxf7+ Rxf7 35.Bxd5 Kh8
+36.Rfc1 Rd7 37.Bc6 Qd8 38.Bxd7 Qxd7 39.Ne4 h5  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.1"]
+[White "Mamedyarov,S"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2773"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "8603677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 O-O 5.Qc2 d5 6.Bg5 h6 7.Bxf6 Qxf6 8.a3 Bxc3+
+9.Qxc3 c6 10.e3 Nd7 11.Rd1 dxc4 12.Bxc4 b6 13.O-O Bb7 14.e4 Rfd8 15.e5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.3"]
+[White "Vachier Lagrave,M"]
+[Black "Salem,AR"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2795"]
+[BlackElo "2633"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "two knights variation"]
+[WhiteFideId "623539"]
+[BlackFideId "9301348"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Qe2 Nxe4 6.Qxe4 Qd5 7.Qh4 Qe6+ 8.Be2 Qg4
+9.Qg3 Qxg3 10.hxg3 Bf5 11.b3 a5 12.Bb2 h6 13.O-O-O a4 14.Nd4 Bc8 15.Rde1 axb3
+16.axb3 Nd7 17.Nf5 Nf6 18.g4 Be6 19.f4 Rg8 20.Ne3 g6 21.f5 gxf5 22.gxf5 Bd7
+23.Bf3 Kd8 24.Bd4 Bg7 25.Kb2 Ne8 26.Bxg7 Nxg7 27.f6 exf6 28.Rxh6 Ne8 29.d4 Kc7
+30.d5 Rg5 31.Rd1 Ra6 32.b4 Nd6 33.Rxf6 cxd5 34.Rxd5 Rxd5 35.Bxd5 Nc4+ 36.Bxc4  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.4"]
+[White "Giri,A"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2786"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.Re1 O-O 8.h3 Ba7
+9.Bb3 Re8 10.Nbd2 Be6 11.Bc2 h6 12.Nf1 d5 13.exd5 Bxd5 14.Ng3 Qd7 15.Be3 Bxe3
+16.Rxe3 Re7 17.Nh4 g6 18.c4 Be6 19.Qf3 Kg7 20.Ba4 Qd4 21.Bxc6 bxc6 22.Qxc6 Rae8
+23.Nf3 Qxb2 24.Rae1 Qxa2 25.Nxe5 Bd5 26.cxd5 Rxe5 27.Rxe5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.5"]
+[White "Nepomniachtchi,I"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2724"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "4168119"]
+[BlackFideId "2805677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Nc3 d6 6.e5 dxe5 7.Bxc6+ bxc6 8.Re1 Qc7
+9.d3 c4 10.h3 Be6 11.Qe2 cxd3 12.cxd3 Nf6 13.Nxe5 Nd5 14.Na4 Bxe5 15.Qxe5 Qxe5
+16.Rxe5 Bf5 17.Nc5 f6 18.Re2 Kf7 19.d4 g5 20.Bd2 Rab8 21.b3 h5 22.Rc1 Rhd8
+23.Rce1 Re8 24.Kh2 Rg8 25.Rc1 Rgd8 26.Ba5 Rg8 27.Rc4 Nb6 28.Rb4 Nd7 29.Nxd7 Bxd7
+30.Rc4 Rgc8 31.Bc3 Rb7 32.Bb2 Be6 33.Rc5 Rb5 34.Rec2 Bf5 35.R2c4 Rxc5 36.Rxc5 Bb1
+37.Ra5 Rc7 38.h4 gxh4 39.Kh3 Kg6 40.Kxh4 Rd7 41.Bc3 Be4 42.Kh3 Bd3 43.f3 a6
+44.Rc5 Rd6 45.Kh4 Re6 46.d5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.7"]
+[White "Tomashevsky,E"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2621"]
+[ECO "A21"]
+[Opening "English, Kramnik-Shirov counterattack"]
+[WhiteFideId "4147235"]
+[BlackFideId "1503707"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Bc5 4.Nf3 c6 5.Nc3 d6 6.e3 Bb4 7.Qb3 Ba5 8.Be2 Nf6
+9.d3 e4 10.dxe4 Nxe4 11.Bd2 Nxd2 12.Nxd2 Na6 13.Rc1 Bf5 14.Qd1 Nc5 15.O-O Qb6
+16.Nb3 Nxb3 17.axb3 Rd8 18.Ra1 O-O 19.Nd5 cxd5 20.Qxd5 Qxb3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.8"]
+[White "Harikrishna,P"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2747"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[WhiteFideId "5007003"]
+[BlackFideId "400041"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 h6 7.Bh4 Be7 8.Bd3 Nbd7
+9.f3 O-O 10.Nge2 b5 11.O-O Nb6 12.Bf2 a5 13.Ng3 b4 14.Nce2 c5 15.dxc5 Bxc5
+16.Rc1 Nbd7 17.Nd4 Qb6 18.Re1 Re8 19.Bb1 a4 20.Qc2 Ra5 21.Nge2 Nf8 22.Nf4 Bd7
+23.Nd3 Bd6 24.Bg3 Bxg3 25.hxg3 Rc8 26.Qd2 Rb8 27.g4 Ne6 28.Ne5 Rc5 29.Nxe6 Rxc1
+30.Rxc1 Qxe6 31.Qd4 Qd6 32.Nd3 Ne8 33.Rc5 Rb5 34.Rxb5 Bxb5 35.Qxb4 Qa6 36.Nc5 Qc6
+37.Bf5 Nf6 38.b3 axb3 39.Nxb3 g6 40.Bb1 Nd7 41.Kf2 Bc4 42.Na5 Qc7 43.Nxc4 dxc4
+44.a4 Nb6 45.Bc2 Nd5 46.Qd2 Qc6 47.Be4 c3 48.Qd1 Qb7 49.Kg1 c2 50.Qxc2 Qb4
+51.Qb1  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.2"]
+[White "Svidler,P"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2710"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "13400924"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Rb1 Be7 8.Nf3 O-O
+9.Bc4 Nc6 10.O-O b6 11.Bf4 Bb7 12.Re1 cxd4 13.cxd4 Nb4 14.Qd2 Nc6 15.d5 Na5
+16.Bb5 exd5 17.exd5 Bc5 18.Rbd1 Bd6 19.Ne5 a6 20.Bf1 Rc8 21.Nc6 Bxf4 22.Qxf4 Bxc6
+23.dxc6 Qc7 24.Rd6 Nxc6 25.Rc1 Qb8 26.Bxa6 Ne5 27.Rcd1 Rc5 28.Qb4 Nc6 29.Qb2 Rd8
+30.Rxd8+ Nxd8 31.Rb1  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.16"]
+[Round "5.9"]
+[White "Vallejo Pons,F"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2727"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2205530"]
+[BlackFideId "4162722"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 exd4 5.Qxd4 d5 6.Nf3 Be6 7.cxd5 cxd5 8.Be3 Nc6
+9.Qa4 Bb4+ 10.Nbd2 O-O 11.O-O d4 12.Bg5 h6 13.Bxf6 Qxf6 14.Ne4 Qf5 15.a3 Qxe4
+16.axb4 d3 17.b5 Qxa4 18.Rxa4 dxe2 19.Re1 Ne7 20.Nd4 Bd5 21.Rxe2 Bxg2 22.Kxg2 Rfe8
+23.Nf3 Kf8 24.Ne5 Red8 25.Rc4 f6 26.Nf3 Rd7 27.b3 Rad8 28.Ra2 Nc8 29.h4 h5
+30.Rac2 Nb6 31.Rc5 Nd5 32.Ra2 b6 33.Rc4 Ne7 34.Rf4 Kg8 35.Raa4 Nd5 36.Rfc4 a5
+37.Rc6 Kf7 38.Rd4 Ke8 39.Rdc4 Rd6 40.Nd4 Ne7 41.Rxd6 Rxd6 42.Kf3 Kd7 43.Ke4 g6
+44.f4 Rd5 45.b4 axb4 46.Rxb4 Rc5 47.Kd3 Rc1 48.Ra4 Rg1 49.Ne2 Rd1+ 50.Kc2 Re1
+51.Kd2 Rb1 52.Ra7+ Ke6 53.Nd4+ Kd6 54.Rb7 Nd5 55.f5 gxf5 56.Nxf5+ Ke5 57.Ng7 Rxb5
+58.Nxh5 Ke4 59.Kc1 Rc5+ 60.Kb2 f5 61.Rf7 Rb5+ 62.Kc1 Rb3 63.Ng7 Rxg3 64.Nxf5 Rh3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.9"]
+[White "Adams,Mi"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2727"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "400041"]
+[BlackFideId "4162722"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a3 O-O
+9.Nc3 Nb8 10.a4 b4 11.Nd5 Nxd5 12.Bxd5 c6 13.Bb3 Nd7 14.Be3 Bb7 15.a5 d5
+16.d4 dxe4 17.Nxe5 Nf6 18.Qe2 Qc7 19.Bf4 Bd6 20.Bg3 c5 21.c3 Rac8 22.Rfd1 g6
+23.Qe3 cxd4 24.cxd4 Nd5 25.Qh6 Qe7 26.Re1 f5 27.f3 Bxe5 28.Bxe5 exf3 29.gxf3 Rfe8
+30.Rac1 Qf8 31.Qg5 Qf7 32.Kf2 h5 33.Bd6 Rxe1 34.Rxe1 Re8 35.Rc1 Re6 36.Bxd5 Bxd5
+37.Rc8+ Re8 38.Rc7 Qe6 39.Be5 Rc8 40.Rg7+ Kf8 41.Qh6 Rc2+ 42.Kg1  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.8"]
+[White "Salem,AR"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2652"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "9301348"]
+[BlackFideId "8602980"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 13.a4 Bb7 14.Rfe1 Nf6 15.Bd3 h6
+16.a5 bxa5 17.Rxa5 Qc7 18.Ne5 Rfc8 19.f3 Qd8 20.Bf1 Nd7 21.Nc4 Nb6 22.Ne3 Rc7
+23.Rea1 Rd7 24.Nc2 Nc8 25.Bb5 Rd6 26.Qb4 Rb8 27.Bd3 Ne7 28.Rb5 a6 29.e5 Rc6
+30.Rxb7 Rxb7 31.Qxb7 Rxc2 32.Qe4 Rc8 33.Rxa6 Nf5 34.Kf2 Qxd4+ 35.Qxd4 Nxd4
+36.Be4 g6  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.7"]
+[White "Hammer,J"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2621"]
+[BlackElo "2710"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[WhiteFideId "1503707"]
+[BlackFideId "2205530"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 Nf6 2.g3 e5 3.Bg2 h6 4.Nf3 e4 5.Nd4 Nc6 6.Nc2 d5 7.cxd5 Qxd5 8.Nc3 Qe6
+9.d4 exd3 10.Qxd3 Bd6 11.Nb5 O-O 12.Nxd6 Rd8 13.Bf4 Nh5 14.Be3 Rxd6 15.Qb5 Qg6
+16.Nb4 Nd4 17.Bxd4 Rxd4 18.Nd5 Qd6 19.Qe8+ Kh7 20.Qxf7 Be6 21.Qxh5 Bxd5 22.Bxd5 Rxd5
+23.Qf3 Qb4+ 24.Kf1 Rd2 25.Rc1 c6 26.Rc2 Rxc2 27.Qd3+ Kh8 28.Qxc2 Rd8 29.b3 Rd2
+30.Qf5 Rxa2 31.Qc8+ Kh7 32.Qf5+ Kh8 33.Qc8+ Kh7 34.Qf5+ Kh8  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.6"]
+[White "Gelfand,B"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2750"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2805677"]
+[BlackFideId "5007003"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Bg5 Bc6 10.Rd1 Nbd7 11.Nbd2 h6 12.Bxf6 Nxf6 13.Nxc4 Be4 14.Qc1 a5 15.Nfe5 Bxg2
+16.Kxg2 c6 17.Qc2 Qc7 18.Rac1 Rfd8 19.Qb3 Bf8 20.Qf3 Rac8 21.e4 b5 22.Ne3 Qb7
+23.b3 c5 24.d5 exd5 25.Nxd5 Rd6 26.axb5 Qxb5 27.Nxf7 Kxf7 28.e5 Re6 29.exf6 g6
+30.Re1 Qc6 31.Rxe6 Qxe6 32.Ra1 Qf5 33.Rxa5 Qxf3+ 34.Kxf3 Rb8 35.Ke4 Rxb3
+36.Ra7+ Ke6 37.Nf4+ Kxf6 38.Ra6+ Kf7 39.Ra7+ Kf6 40.Ra6+ Kf7 41.Nxg6 Bg7
+42.f4 Rb2 43.h4 Rg2 44.Kf3 Rg1 45.h5 c4 46.Ra7+ Kg8 47.Ne7+ Kf8 48.Ng6+ Kg8
+49.Rc7 Rc1 50.Ne7+ Kf8 51.Nf5 Bb2 52.Rc8+  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.1"]
+[White "Ding Liren"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2795"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "8603677"]
+[BlackFideId "623539"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Nb6 7.Nc3 Be7 8.a3 O-O
+9.b4 Re8 10.e3 a6 11.Qc2 Bg4 12.Ne4 f5 13.Nc5 e4 14.Ne1 Be2 15.d3 Bxf1 16.Kxf1 Bxc5
+17.bxc5 Nd7 18.dxe4 fxe4 19.Bxe4 Qe7 20.Bxh7+ Kh8 21.Bg6 Rf8 22.Rb1 Nxc5
+23.Ng2 Rad8 24.Nf4 Ne6 25.Rxb7 Ne5 26.Bb2 Nf3 27.Bh5 Nxf4 28.gxf4 Rd2 29.Qc3 Nxh2+
+30.Kg1 Rxf4 31.Qxg7+ Qxg7+ 32.Bxg7+ Kxg7 33.exf4 Kh6 34.Kxh2 Kxh5 35.Rxc7 Kg4
+36.Kg2 Rd3 37.f3+ Kh5 38.a4 Rd4 39.Rc5+ Kh4 40.Kf2 Rxa4 41.Ke3 a5 42.Rg5 Ra3+
+43.Ke4 Ra4+ 44.Ke5 Rb4 45.Rg4+ Kh5 46.f5 Rb5+ 47.Ke6 Rb6+ 48.Ke7 Rb7+ 49.Ke6 Rb6+
+50.Kf7 Rb7+ 51.Kg8 Rb8+ 52.Kg7 Rb7+  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.5"]
+[White "Tomashevsky,E"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2785"]
+[ECO "A62"]
+[Opening "Benoni"]
+[Variation "fianchetto variation"]
+[WhiteFideId "4147235"]
+[BlackFideId "24116068"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Bg2 Bg7 8.Nf3 O-O
+9.O-O Re8 10.Bf4 Bf5 11.Bg5 h6 12.Bxf6 Qxf6 13.Nd2 Qe7 14.e4 Bd7 15.a4 Na6
+16.Nc4 Nc7 17.f4 b5 18.axb5 Bd4+ 19.Kh1 Nxb5 20.e5 dxe5 21.fxe5 Nxc3 22.bxc3 Bxc3
+23.d6 Qe6 24.Bd5 Bxa1 25.Bxe6 Bxe6 26.Qxa1 Bxc4 27.Rc1 Bd5+ 28.Kg1 c4 29.Qa5 Be6
+30.Rb1 Rec8 31.Rb7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.4"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2751"]
+[ECO "B97"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7...Qb6"]
+[WhiteFideId "2016192"]
+[BlackFideId "4168119"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.a3 Nc6
+9.Nb3 Be7 10.Qd2 O-O 11.O-O-O Rd8 12.Bd3 h6 13.h4 Bd7 14.Qe2 Kf8 15.e5 dxe5
+16.fxe5 hxg5 17.exf6 Bxf6 18.hxg5 Bxg5+ 19.Kb1 Qe3 20.Qh5 Bh6 21.Rhf1 Be8
+22.Rde1 Qg5 23.Qh3 Ne5 24.Nc5 Kg8 25.Nxe6 fxe6 26.Qxe6+ Nf7 27.Bg6 Kh8 28.Bxf7 Bxf7
+29.Qxf7 Qxg2 30.Rg1 Qd2 31.Rd1 Qf4 32.Qxb7 Rdb8 33.Qe4 Qf8 34.Rg6 Ra7 35.Qd4  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.2"]
+[White "Radjabov,T"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2772"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "13401319"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O e5
+9.cxd5 cxd5 10.e4 exd4 11.Nxd5 Nxd5 12.exd5 h6 13.b3 Nb6 14.Bb2 Nxd5 15.Qc4 Nb4
+16.Rfd1 Nxd3 17.Qxd3 Bc5 18.Bxd4 Bxd4 19.Qxd4 Qxd4 20.Nxd4 Bd7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.18"]
+[Round "6.3"]
+[White "Grischuk,A"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2755"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "4102142"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 Nf6 2.c4 c5 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 e6 6.g3 Qb6 7.Ndb5 Ne5 8.Bg2 a6
+9.Na3 Bxa3 10.bxa3 Nxc4 11.O-O Qc5 12.Na4 Qb5 13.Nc3 Qc5 14.Na4 Qb5 15.Nc3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.1"]
+[White "Nakamura,Hi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2773"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "2016192"]
+[BlackFideId "8603677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Be2 b6 12.O-O Bb7 13.Qe3 Nc6 14.Rfd1 Rc8 15.Rac1 Qd6
+16.h4 Rfd8 17.a3 h6 18.h5 Ne7 19.Rxc8 Rxc8 20.Ne5 Rc7 21.Bf3 b5 22.Qb3 a6
+23.Qb4 Nc8 24.Nd3 Rc4 25.Qxd6 Nxd6 26.Nc5 Bc8 27.Be2 Rc3 28.a4 bxa4 29.Nxa4 Rc7
+30.Nc5 Nb5 31.Bxb5 axb5 32.f4 Ra7 33.Rb1 Bd7 34.d5 exd5 35.exd5 Bg4 36.d6 Ra2
+37.Rxb5 Rd2 38.Rb8+ Kh7 39.Rd8 Bxh5 40.Nd7 Rxd6 41.Nf8+ Kg8 42.Nd7+ Kh7 43.Nf8+ Kg8
+44.Rxd6 Kxf8 45.f5 Bg4 46.f6 gxf6 47.Rxf6 h5 48.Kf2 Kg7 49.Rb6 f6 50.Ke3 Kf7
+51.g3 Ke7 52.Kd4 Kf7 53.Kd5 Bf3+ 54.Kd6 Bg4 55.Rb7+ Kf8 56.Ra7 Ke8 57.Re7+ Kf8
+58.Ra7 Ke8 59.Re7+ Kf8 60.Ra7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.2"]
+[White "Mamedyarov,S"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2750"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Riumin variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "4126025"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Be7 7.Nc3 c6 8.e4 d5
+9.exd5 cxd5 10.Ne5 O-O 11.O-O Nc6 12.cxd5 Nxe5 13.dxe5 Nxd5 14.Rc1 Nxc3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.6"]
+[White "Harikrishna,P"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2696"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "5007003"]
+[BlackFideId "4147235"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6
+9.Nd2 g6 10.b3 Bg7 11.Nf3 O-O 12.Qb2 Nb6 13.Qa3 Qxa3 14.Bxa3 Rfe8 15.O-O-O Bxe5
+16.Nxe5 Rxe5 17.Bb2 Re7 18.h4 d5 19.h5 dxc4 20.Rh4 Rae8 21.hxg6 fxg6 22.bxc4 c5
+23.Bd3 Rd7 24.Kc2 Bb7 25.Rg4 Bc6 26.Rh1 Red8 27.Rh3 Ba4+ 28.Kd2 Rd6 29.Rf4 Bd7
+30.g4 h5 31.Bf6 Bxg4 32.Rxg4 Rxd3+ 33.Rxd3 Rxd3+ 34.Kxd3 hxg4 35.Be5 c6 36.Bb8 a6
+37.Bc7 Nd7 38.Ke4 Kf7 39.Kf4 Kf6 40.a4 Ke6 41.Kxg4 Ne5+ 42.Kg5 Nd3 43.f4 Kf7
+44.Bb6 Ke6 45.Ba7 Kf7 46.f5 gxf5 47.Kxf5 Nb2 48.Bxc5 Nxc4 49.Ke4 Ke6 50.Kd4 Nd6
+51.Bb4 Nb7 52.Ba3 Kd7 53.Kc4 Kc7 54.Bb4 Kb6 55.Be7 Kc7 56.Bb4 Kb6 57.Be7 Ka5
+58.Kb3 c5 59.Kc4 Kxa4 60.Bxc5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.5"]
+[White "Giri,A"]
+[Black "Salem,AR"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2633"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "9301348"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 c5 6.dxc5 Bxc5 7.Nxc5 Qa5+ 8.c3 Qxc5
+9.Be3 Qc7 10.f4 Ne7 11.Be2 O-O 12.Nf3 Nbc6 13.O-O Na5 14.Bf2 a6 15.Rc1 Rac8
+16.b3 Nac6 17.Qd2 Rfd8 18.b4 Be4 19.a4 Nf5 20.g4 Nfe7 21.Ng5 Bg6 22.Bc5 Rd7
+23.Nf3 Na5 24.Nd4 Nc4 25.Bxc4 dxc4 26.Bxe7 Rxe7 27.f5 exf5 28.gxf5 Bh5 29.Qg5 g6
+30.e6 f6 31.Qxf6 Rg7 32.Rc2 Bg4 33.Qh4 Bxf5 34.Rg2 Re8 35.Re1 a5 36.bxa5 Qxa5
+37.Nxf5 Qxf5 38.Qxc4 Rge7 39.Rf2 Qa5 40.Rf7 Qb6+ 41.Kg2 Qc6+ 42.Qxc6 bxc6
+43.Rxe7 Rxe7 44.Kf3 Kf8 45.a5 Ra7 46.Re5 Ke7 47.Ke4 Rb7 48.Kd3 Rb1 49.Kc2 Ra1
+50.Kb2 Ra4 51.Kb3 Ra1 52.Kb2 Ra4 53.Kb3 Ra1 54.c4 h6 55.Kb4 g5 56.Re3 c5+
+57.Kb5 g4 58.h3 gxh3 59.Rxh3 Kxe6 60.Rxh6+ Kd7 61.a6 Kc7 62.Rh8 Kd6 63.a7 Rxa7
+64.Rh6+ Ke5 65.Kxc5 Ra8 66.Kb6  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.4"]
+[White "Svidler,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2724"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "2805677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 b6
+9.O-O Bb7 10.Bb2 Qe7 11.Rad1 Rad8 12.Rfe1 Rfe8 13.Bf1 e5 14.dxe5 Nxe5 15.Nd4 dxc4
+16.Nf5 Qe6 17.Nxd6 Rxd6 18.Rxd6 Qxd6 19.Rd1 cxb3 20.axb3 Qb8 21.Ne4 Nxe4
+22.Qxe4 f6 23.Bxe5 Rxe5 24.Bc4+ Kh8 25.Qd4 Re7 26.Qd8+ Re8 27.Qd7 Qc8 28.Qf7 Rf8
+29.Qe7 Re8 30.Qf7  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.7"]
+[White "Hou Yifan"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2652"]
+[BlackElo "2621"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8602980"]
+[BlackFideId "1503707"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qa4 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Be4 11.Qc1 c6 12.Rd1 Nbd7 13.Nc3 Bg6 14.a3 c5 15.Be3 Qc7
+16.Ne5 cxd4 17.Nxg6 hxg6 18.Bxa8 dxe3 19.Nd5 exf2+ 20.Kf1 Qc5 21.b4 Qxc1
+22.Nxe7+ Kh7 23.Raxc1 Rxa8 24.Kxf2 a5 25.Rd4 g5 26.h4 g4 27.Rc8 Ra6 28.Rc7 axb4
+29.axb4 Ne5 30.Rc5 Nc4 31.Rxb5 Nd6 32.Ra5 Rb6 33.Kg2 g6 34.Rc5 Nb5 35.Rdc4 Kg7
+36.Nc8 Rb8 37.Rc6 Na3 38.Rc3 Nb5 39.R3c4 Na3 40.Rc3 Nb5 41.Rc1 Nd5 42.Kf2 Na3
+43.Ra1 Nb5 44.Rc5 f5 45.Kf1 Kf6 46.Ra6 Nbc7 47.Rac6 Rxc8 48.Rxd5 Nxd5 49.Rxc8 Nxb4
+50.Kf2 Nd5 51.Ke1 Ne3 52.Rb8 Ke5 53.Rb5+ Kf6 54.Rb3 Nc4 55.Rb4 Nd6 56.Kd2 Ke5
+57.Kd3 Kd5 58.Ra4 Ke5 59.Ra5+ Kf6 60.Kd4 Ne4 61.Ra3 Nf2 62.Rb3 Ne4 63.Re3 Nd2
+64.Rd3 Nf1 65.Ra3 f4 66.gxf4 Kf5 67.Ra1 Nd2 68.Kd3 Nb3 69.Rb1 Nc5+ 70.Ke3 e5
+71.Rb5 Nd7 72.fxe5 Nf8 73.e6+ Kf6 74.Kf4 Nxe6+ 75.Kxg4 Nd4 76.Rb6+ Kf7 77.e4 Kg7
+78.e5 Kf7 79.Rf6+ Kg7 80.Kg5  1-0
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.9"]
+[White "Inarkiev,E"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2751"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "4162722"]
+[BlackFideId "4168119"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Bg7 5.Bxf6 Bxf6 6.cxd5 c5 7.Nf3 cxd4 8.Nxd4 Qb6
+9.Nb3 O-O 10.Qd2 Rd8 11.Rd1 Na6 12.e4 Bg4 13.Be2 Bxe2 14.Qxe2 Nb4 15.e5 Bg7
+16.Nc1 Qa5 17.Nb3 Qb6 18.Nc1 Qa5 19.Nb3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.8"]
+[White "Vallejo Pons,F"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2747"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "2205530"]
+[BlackFideId "400041"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 h6 6.Bxf6 Bxf6 7.e3 O-O 8.Qd2 a6
+9.Rd1 b6 10.cxd5 exd5 11.g3 Bb7 12.Bg2 Qd6 13.Ne5 Nd7 14.f4 Rad8 15.O-O c5
+16.dxc5 Nxc5 17.b4 Nd7 18.Ne4 Qe6 19.Nxd7 Rxd7 20.Nxf6+ Qxf6 21.Qd4 Qxd4
+22.Rxd4 Re7 23.Kf2 Rc8 24.Rfd1 Rc2+ 25.R1d2 Rxd2+ 26.Rxd2 Rc7 27.h4 Kf8 28.Bxd5 Bxd5
+29.Rxd5 Rc2+ 30.Kf3 Rxa2 31.Rd6 b5 32.h5 Ra4 33.e4 Ke7 34.e5 Rxb4 35.Rxa6 Rb3+
+36.Kg4 b4 37.Rb6 Kd7 38.Rb7+ Ke6 39.Rb6+ Kd7 40.Rb8 Ke7 41.Kf5 Rxg3 42.Rb7+ Kf8
+43.Rxb4 Rg1 44.Rb8+ Ke7 45.Rg8 Rh1 46.Rxg7 Rxh5+ 47.Ke4 Rh1 48.Rg8 f6 49.Rg7+ Kf8
+50.exf6 Rh5 51.Re7 Ra5 52.Rh7 Rb5 53.Ra7 Rc5 54.Re7 Ra5 55.Re5 Ra7 56.Kf5 Kf7
+57.Re7+ Rxe7 58.fxe7 Kxe7 59.Kg6 h5 60.Kxh5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.19"]
+[Round "7.3"]
+[White "Vachier Lagrave,M"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2795"]
+[BlackElo "2710"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[WhiteFideId "623539"]
+[BlackFideId "13400924"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 d6
+9.f3 Bd7 10.Qd2 Nxd4 11.Bxd4 b5 12.h4 a5 13.a4 bxa4 14.Nxa4 h5 15.Nb6 Ra6
+16.Nxd7 Nxd7 17.Bxg7 Kxg7 18.Bc4 Ra8 19.Qd4+  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.2"]
+[White "Svidler,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2772"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "13401319"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Bc5 7.Nc3 d6 8.Nd5 h6
+9.c3 O-O 10.Nxf6+ Qxf6 11.Bd5 Bd7 12.Rg1 Ne7 13.Bxa8 Rxa8 14.g4 Qe6 15.Nh4 d5
+16.Nf5 Bc6 17.Qe2 dxe4 18.dxe4 Ng6 19.Kf1 Nf4 20.Bxf4 exf4 21.Re1 Re8 22.b4 Bb6
+23.f3 Bxg1 24.Kxg1 Bd7 25.Rd1 Qb6+ 26.Qf2 Bxf5 27.gxf5 Qxf2+ 28.Kxf2 a5 29.a3 axb4
+30.axb4 Ra8 31.Rd7 c6 32.Rc7 Ra2+ 33.Kg1 Ra1+ 34.Kg2 Ra2+ 35.Kg1 Ra1+ 36.Kg2 Ra2+
+37.Kh3 h5 38.Rxc6 f6 39.c4  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.5"]
+[White "Tomashevsky,E"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2696"]
+[BlackElo "2795"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "4147235"]
+[BlackFideId "623539"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 dxc4 7.e3 Be6 8.Be2 Nd7
+9.Nf3 Bg7 10.O-O Nb6 11.Qc2 O-O 12.Rfb1 Bd7 13.a4 a5 14.Bg3 Bc6 15.e4 Qd7
+16.Rxb6 cxb6 17.d5 Bxa4 18.Rxa4 b5 19.Ra2 b4 20.cxb4 axb4 21.Bxc4 Ra3 22.Rxa3 bxa3
+23.Qa2 Qa4 24.h4 Qd1+ 25.Kh2 Qa1 26.e5 Qxa2 27.Bxa2 Rc8 28.d6 exd6 29.exd6 Bf6
+30.Ng5 Rc2 31.Bxf7+ Kg7 32.Bb3 a2 33.Ne6+ Kh8 34.Bxa2 Rxa2 35.d7 Rd2 36.Nc5 Be7
+37.Nxb7 Rxd7 38.Na5 Rd5 39.Nc4 Kg8 40.Ne3 Rd4 41.Kh3 h5 42.f3 Kf7 43.Bf2 Rd2
+44.Bg3 Ke6 45.Bf4 Rd3 46.Nf1 Rd1 47.Ng3 Rb1 48.Bc7 Bf6 49.Bf4 Bd8 50.Be3 Bc7
+51.Bg5 Kd5 52.Bf6 Kc4 53.Bg5 Kd3 54.Bh6 Be5 55.Bf8 Ra1 56.Be7 Ra6 57.Bf8 Rc6
+58.Bh6 Bxg3 59.Kxg3 Ke2 60.Kf4 Kf2 61.g4 Rc4+ 62.Kg5 Kxf3 63.gxh5 Rg4+ 64.Kf6 gxh5
+65.Bg5 Re4 66.Kf5 Re8 67.Bf6 Rf8 68.Ke5 Kg4 69.Bg5 Re8+ 70.Kd4 Kf3 71.Kd3 Re4
+72.Bf6 Re6 73.Bg5 Rd6+ 74.Kc3 Ke4 75.Kc2 Rd3 76.Bh6 Kd4 77.Bg5 Rf3 78.Kd2 Rf2+
+79.Ke1 Ra2 80.Bf6+ Kd3 81.Bg5 Re2+ 82.Kf1 Re5 83.Kf2 Rf5+ 84.Ke1 Rf7 85.Bh6 Re7+
+86.Kf2 Re2+ 87.Kf1 Rh2 88.Bg5 Ke4 89.Ke1 Kf3 90.Kd1 Re2 91.Bh6 Kf2 92.Bg5 Re5
+93.Kd2 Rd5+ 94.Kc3 Ke2 95.Kc4 Rd3 96.Bh6 Ra3 97.Bg5 Kf3 98.Kd4 Kg4 99.Ke4 Rh3
+100.Bf6 Rh1 101.Bg5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.1"]
+[White "Ding Liren"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2785"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "8603677"]
+[BlackFideId "24116068"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O Nbd7 8.Qc2 c6
+9.Rd1 b6 10.b3 a5 11.Bc3 Ne4 12.Ne5 Nxe5 13.Bxe4 f5 14.Bxd5 exd5 15.dxe5 f4
+16.cxd5 cxd5 17.Bd4 Ba6 18.Qc6 Bxe2 19.Re1 Qc8 20.Qxd5+ Kh8 21.Nc3 Ba6 22.e6 Rd8
+23.Qe4 Bb7 24.Qxf4 Qc6 25.Bxg7+ Kxg7 26.Qf7+ Kh8 27.Ne4 Qe8 28.Ng5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.4"]
+[White "Radjabov,T"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2724"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[WhiteFideId "13400924"]
+[BlackFideId "2805677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Qc2 Nbd7
+9.Rd1 b6 10.Bf4 Bb7 11.Ne5 Nh5 12.Bd2 Nhf6 13.cxd5 cxd5 14.Nc6 Bxc6 15.Qxc6 Rc8
+16.Qb5 Ne8 17.Qd3 Nd6 18.Nc3 Nf6 19.b3 Qd7 20.Rac1 Rfd8 21.Rc2 Nde4 22.Be1  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.3"]
+[White "Grischuk,A"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2786"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[WhiteFideId "4126025"]
+[BlackFideId "2016192"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Nd2 O-O 6.Nf3 dxc4 7.a3 Bxd2+ 8.Bxd2 Nc6
+9.e3 Rb8 10.O-O b5 11.b3 cxb3 12.Qxb3 Bb7 13.Rfc1 Ne7 14.Bb4 Re8 15.Ne5 Nd7
+16.Bxe7 Rxe7 17.Nc6 Bxc6 18.Rxc6 Nf6 19.Ra6 c5 20.dxc5 Qc8 21.Rc6 Rc7 22.Rxc7 Qxc7
+23.c6 a5 24.Rc1 h6  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.7"]
+[White "Nepomniachtchi,I"]
+[Black "Harikrishna,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2750"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "5007003"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 e5 8.Nf3 exd4
+9.Bg5 Qe6+ 10.Be2 Be7 11.cxd4 Bxg5 12.Nxg5 Qg6 13.f4 O-O 14.O-O Nc6 15.Rb1 h6
+16.Nf3 Qd6 17.d5 Ne7 18.Nd4 c6 19.f5 Qf6 20.Ne6 fxe6 21.fxe6 Qe5 22.Rxf8+ Kxf8
+23.Qf1+ Qf6 24.d6 b6 25.Bg4 Ng6 26.Re1 Bxe6 27.Bxe6 Rd8 28.g3 Rxd6 29.Qe2 Qc3
+30.Kh1 Rd2 31.Rf1+ Ke7 32.Qe4 Ne5 33.Bh3 Kd6 34.Qf5 Kc5 35.Bg2 Qd4 36.Qf8+ Qd6
+37.Qf4 Qd4 38.Qf8+ Qd6 39.Qf4 Re2 40.Qc1 Qd3 41.Qf4 g5 42.Qf8+ Qd6 43.Qf5 Qd2
+44.Bxc6 Rxh2+ 45.Kg1 Re2 46.Bb7 Qe3+ 47.Kh1 Re1 48.Qf8+ Kd4 49.Qd6+ Kc3 50.Qa3+ Kc2
+51.Qxe3 Rxe3 52.Rf2+ Kc3 53.Kg2 Nxc4 54.g4 Rd3 55.Rf6 Ne3+  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.9"]
+[White "Salem,AR"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2727"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "9301348"]
+[BlackFideId "4162722"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.Bg5 h6 7.Bh4 Be7 8.Bg3 d6
+9.Nbd2 g6 10.a3 Nh5 11.Nf1 Kh7 12.Ne3 f5 13.exf5 gxf5 14.d4 f4 15.Nh4 Nxg3
+16.Qc2+ Kh8 17.Ng6+ Kg7 18.Nxf8 Qxf8 19.fxg3 fxe3 20.Rf1 Bf6 21.Qe4 exd4
+22.Bd3 Qf7 23.O-O-O e2 24.Qh7+ Kf8 25.Qxh6+ Ke7 26.Bxe2 Qg7 27.Rxf6 Qxf6
+28.Qh7+ Qf7 29.Qh4+ Qf6 30.Qh7+ Qf7 31.Qh4+  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.8"]
+[White "Hammer,J"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2621"]
+[BlackElo "2747"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "1503707"]
+[BlackFideId "400041"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Nb6 7.b3 Be7 8.Bb2 f6
+9.Nc3 O-O 10.d4 Nxd4 11.Nxd4 exd4 12.Nb5 d3 13.Nd4 c5 14.Nb5 Bf5 15.a4 Qd7
+16.exd3 Bh3 17.Bxh3 Qxh3 18.Qe2 Qd7 19.Rfe1 Rfe8 20.Qe6+ Qxe6 21.Rxe6 Nd5
+22.d4 Kf7 23.Rd6 Red8  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.20"]
+[Round "8.6"]
+[White "Hou Yifan"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2652"]
+[BlackElo "2710"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "2205530"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.exd5 Qxd5 6.Bxf6 Bxc3+ 7.bxc3 gxf6
+8.Qd2 Qa5 9.Bd3 Bd7 10.Ne2 Bc6 11.f3 Nd7 12.c4 Qxd2+ 13.Kxd2 Nb6 14.h4 Rg8
+15.Rhg1 Rd8 16.Ke3 Ke7 17.g4 h6 18.Rab1 Nc8 19.Nc3 b6 20.a4 Nd6 21.Nb5 Ne8
+22.a5 Bxb5 23.Rxb5 f5 24.axb6 axb6 25.c5 Nf6 26.cxb6 cxb6 27.Be2 Nd5+ 28.Kd2 Nf4
+29.c3 Rc8 30.Bf1 h5 31.c4 hxg4 32.fxg4 fxg4 33.Rxb6 f5 34.Ke3 Nh3 35.Bxh3 gxh3
+36.Rxg8 Rxg8 37.Rb1 Rh8 38.d5 exd5 39.cxd5 Rxh4 40.Kf2 Kd6 41.Kg3 Rh5 42.Kh2 Kxd5
+43.Rb5+ Ke4 44.Rb4+ Ke5 45.Rb5+ Kf6 46.Rb1 Rh4 47.Rb3 Ke5 48.Rb5+ Kf4 49.Rb3 Rh8
+50.Rb1 Ke3 51.Rb3+ Kd2 52.Rb2+ Kc3 53.Rb5 Rh5 54.Rd5 Kc4 55.Rd8 Kc5 56.Rd7 Kb6
+57.Rd3 Kc6 58.Rd8 Rh4 59.Rf8 f4 60.Rd8 Kc5 61.Rd7 Kc6 62.Rd3 Rh8 63.Rxh3 Rxh3+
+64.Kxh3 Kd5 65.Kg2 Ke4 66.Kf2 f3 67.Kf1 Ke3 68.Ke1 f2+ 69.Kf1 Kf3  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.3"]
+[White "Nakamura,Hi"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2786"]
+[BlackElo "2755"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "2016192"]
+[BlackFideId "4102142"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.e3 O-O 5.Be2 c5 6.d5 d6 7.Nc3 e6 8.O-O Re8 9.e4 exd5
+10.exd5 Ne4 11.Nxe4 Rxe4 12.Bd3 Re8 13.Bg5 Bf6 14.Qd2 Nd7 15.Rfe1 Ne5 16.h4 Nxf3+
+17.gxf3 Bd7 18.Rxe8+ Bxe8 19.Qf4 Bxg5 20.hxg5 h6 21.gxh6 Qe7 22.a3 a5 23.Rc1 Bd7
+24.Rc3 Re8 25.Kg2 Qd8 26.Rb3 Bc8 27.Bc2 Re5 28.Re3 Rh5 29.Ba4 Bd7 30.Bxd7 Qxd7
+31.Kf1 Qd8 32.Ke2 Rh4 33.h7+ Kg7 34.h8=B+ Rxh8 35.Re4  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.4"]
+[White "Giri,A"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2750"]
+[ECO "A21"]
+[Opening "English, Kramnik-Shirov counterattack"]
+[WhiteFideId "24116068"]
+[BlackFideId "4126025"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Bc5 4.e3 Nf6 5.b4 Nxd5 6.bxc5 Nf6 7.Nf3 Qe7 8.Be2 e4
+9.Nd4 Na6 10.g4 Nxc5 11.Nf5 Qf8 12.g5 d6 13.Ng3 Nfd7 14.Qc2 Qe7 15.Bb2 Ne5
+16.Nxe4 Bf5 17.f3 Nxf3+ 18.Bxf3 Bxe4 19.Bxe4 Qxe4 20.Qxe4+ Nxe4 21.Rg1 O-O
+22.Bd4 f6 23.gxf6 Nxf6 24.Ke2 b6 25.a4 a5 26.Raf1 Nh5 27.e4 Rxf1 28.Rxf1 Rf8
+29.Rxf8+ Kxf8 30.e5 Ke7 31.Kf3 dxe5 32.Bxe5 Kd7 33.d4 Nf6 34.Kf4 Ne8 35.Ke4 Nd6+
+36.Kd3 g6 37.Bf4 Nf5 38.Bd2 Nd6 39.c5 Nb7 40.Be3 bxc5 41.dxc5 Kc6 42.Kc4 Nd8
+43.Bd2 Nb7 44.Be3 g5 45.Bxg5 Nxc5 46.Bd2 Nxa4 47.Bxa5 Nb6+ 48.Kd4 Kd6 49.Ke4 Ke6
+50.Kd4 Kf5 51.Kc5 Kg4 52.Kc6 Kh3 53.Kxc7 Nc4 54.Bc3 Kxh2 55.Kc6 Ne3 56.Bd2 Ng4
+57.Kd5 h5 58.Bg5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.5"]
+[White "Harikrishna,P"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2710"]
+[ECO "E61"]
+[Opening "King's Indian defence, 3.Nc3"]
+[WhiteFideId "5007003"]
+[BlackFideId "13400924"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.g3 c6 6.Bg2 d5 7.cxd5 cxd5 8.Ne5 e6
+9.O-O Nfd7 10.Nf3 Nf6 11.Ne5 Nfd7 12.Nf3 Nc6 13.e4 dxe4 14.Nxe4 Qb6 15.Qe2 e5
+16.dxe5 Ndxe5 17.Nxe5 Bxe5 18.Nc3 Be6 19.Bh6 Bg7 20.Bxg7 Kxg7 21.Rfd1 Rad8
+22.b3 Rxd1+ 23.Rxd1 Rd8 24.Bd5 Qa5 25.Bxe6 Rxd1+ 26.Qxd1 Qxc3 27.Bd5 b6 28.Bxc6 Qxc6
+29.Qd3 h5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.6"]
+[White "Adams,Mi"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2696"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "400041"]
+[BlackFideId "4147235"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d4 d6 10.dxe5 Nxe5 11.Nxe5 dxe5 12.Qxd8 Rxd8 13.Nd2 Bc5 14.Nf3 Re8 15.Be3 Bxe3
+16.Rxe3 h6 17.Rd1 Be6 18.Kf1 Kf8 19.Nd2 Nd7 20.Bxe6 Rxe6 21.Nc4 Nb6 22.Nxb6 cxb6
+23.c3 Rc8 24.cxb4 Rc4 25.b5 Rxa4 26.bxa6 Rxa6 27.Rc3 Ra7 28.Ke2 Ke7 29.Rd5 Rd7
+30.Rxd7+  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.7"]
+[White "Inarkiev,E"]
+[Black "Hou Yifan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2652"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4162722"]
+[BlackFideId "8602980"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.Re1 O-O 8.Bb3 h6
+9.Nbd2 Ng4 10.Re2 Kh8 11.h3 f5 12.exf5 Nxf2 13.Rxf2 Bxf2+ 14.Kxf2 Bxf5 15.Qe2 d5
+16.Kg1 Qd6 17.Bc2 Rf7 18.b4 a5 19.Bb2 axb4 20.cxb4 Nxb4 21.Nxe5 Re7 22.Ndf3 Kg8
+23.Qd2 Nxc2 24.Qxc2 c5 25.Qb3 Kh7 26.Kh1 d4 27.Bc1 Rxe5 28.Bf4 Qd5 29.Rb1 Qxb3
+30.Rxb3 Rd5 31.Ne5 Rxa2 32.Rxb7 Re2 33.g4 Be6 34.Nc4 Rd8  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.8"]
+[White "Vallejo Pons,F"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2751"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "2205530"]
+[BlackFideId "4168119"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.Bg5 Bg7 4.Nc3 d5 5.Bxf6 Bxf6 6.cxd5 c5 7.dxc5 Nd7 8.c6 Nc5
+9.Rc1 Qb6 10.Nf3 O-O 11.e3 Qxb2 12.Nd4 bxc6 13.Be2 cxd5 14.Nxd5 Bxd4 15.Nxe7+ Kg7
+16.Qxd4+ Qxd4 17.exd4 Re8 18.Rxc5  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.9"]
+[White "Salem,AR"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2633"]
+[BlackElo "2621"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "9301348"]
+[BlackFideId "1503707"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.c4 e5 2.g3 c6 3.Nf3 e4 4.Nd4 d5 5.d3 Bc5 6.Nb3 Bb4+ 7.Bd2 Bxd2+ 8.Qxd2 dxc4
+9.dxc4 Qxd2+ 10.N1xd2 f5 11.c5 Nf6 12.e3 g6 13.Nc4 Ke7 14.Nd6 Nbd7 15.Rc1 b6
+16.Be2  1/2-1/2
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.1"]
+[White "Gelfand,B"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2773"]
+[ECO "E01"]
+[Opening "Catalan"]
+[Variation "closed"]
+[WhiteFideId "2805677"]
+[BlackFideId "8603677"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O Nbd7 8.a4 a5
+9.Qc2 c6 10.Na3 Ne4 11.Bf4 g5 12.Be3 f5 13.Rad1 Bf6 14.Nb1 Qe7 15.Nc3 b6
+16.Ne5 Nxe5 17.dxe5 Bxe5 18.Bxb6 Qb4 19.Nxe4 fxe4 20.cxd5 Qxb6 21.Qxe4 Qxb2
+22.dxc6 Bc7 23.Rd7 Bxd7 24.cxd7 Qf6 25.Bh3 Rab8 26.Qxe6+ Qxe6 27.Bxe6+ Kg7
+28.Rc1 Kf6 29.Bg4 Bd8 30.Rc6+ Kg7 31.Bh5 Rb2 32.Rc8 Rd2 33.Be8 Bb6 34.Rb8 Rf6
+35.e3 g4  0-1
+
+[Event "Moscow Grand Prix 2017"]
+[Site "Moscow RUS"]
+[Date "2017.05.21"]
+[Round "9.2"]
+[White "Mamedyarov,S"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2795"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "13401319"]
+[BlackFideId "623539"]
+[EventDate "2017.05.12"]
+[EventType "tourn"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nf3 Bg7 7.Nc3 Ne4 8.Qa4+ Nc6
+9.Ne5 Nxc3 10.bxc3 O-O 11.Nxc6 bxc6 12.O-O Qb6 13.Ba3 Qa6 14.Qxa6 Bxa6 15.Rfb1 Rfb8
+16.Bxe7  1/2-1/2

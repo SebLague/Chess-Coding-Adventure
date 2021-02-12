@@ -1,0 +1,1197 @@
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.16"]
+[Round "1"]
+[White "Nakamura,Hi"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2744"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2016192"]
+[BlackFideId "2805677"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Be2
+Nxf4 9. exf4 c6 10. O-O b6 11. b4 a5 12. a3 Qc7 13. g3 Ba6 14. Re1 Bf6 15. Ne5
+Bxe5 16. fxe5 Qb7 17. Bxa6 Rxa6 18. Qe2 axb4 19. axb4 Rfa8 20. Rab1 Ra3 21. Rec1
+bxc5 22. bxc5 Qa7 23. Kg2 h6 24. h4 Rb8 25. Rxb8+ Qxb8 26. Rb1 Qa7 27. Qc2 Qa6
+28. Ne2 Ra2 29. Rb2 Ra1 30. h5 Qa5 31. Qd2 Qa6 32. Qc2 Qa5 33. Qd2 Qa6 34. Qc2 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.16"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2802"]
+[BlackElo "2826"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Be7 6. Bg2 c6 7. Nc3 O-O 8. O-O d5
+9. Ne5 Qe8 10. b3 b5 11. Qa5 Bd8 12. Qa3 Be7 13. c5 Bb7 14. Qb2 a5 15. Nd3 b4
+16. Na4 Nbd7 17. a3 Ba6 18. Rd1 Bxd3 19. Rxd3 Ne4 20. f3 Nef6 21. Rd1 e5 22. e3
+bxa3 23. Qc2 Bd8 24. Bxa3 Rb8 25. Re1 Qe6 26. Nb2 Re8 27. Nd3 Bc7 28. Bb2 e4 29.
+Nf2 exf3 30. Bxf3 Ne4 31. Nxe4 dxe4 32. Bd1 Nf6 33. Bc3 Nd5 34. Bxa5 Ra8 35. Qd2
+Qg6 36. Kh1 Qh6 37. b4 Bxg3 38. Rg1 Bh4 39. Bb3 Bg5 40. Bxd5 Bxe3 41. Bxf7+ Kxf7
+42. Qa2+ Qe6 43. Rgf1+ Kg8 44. Qxe6+ Rxe6 45. Rad1 Bg5 46. d5 cxd5 47. Rxd5 Bf6
+48. Rd6 Rxd6 49. cxd6 Bd8 50. Rf5 Bxa5 51. bxa5 Rd8 52. Rd5 Kf7 53. a6 Ke6 54.
+Rd4 Kd7 55. Rb4 e3 56. Kg2 Rf8 57. a7 e2 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.16"]
+[Round "1"]
+[White "Kramnik,V"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2730"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[WhiteFideId "4101588"]
+[BlackFideId "4168119"]
+[EventDate "2011.11.16"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 d6 7. O-O Nge7 8. b4 e4
+9. Ne1 f5 10. Bb2 O-O 11. d3 Be6 12. dxe4 fxe4 13. Bxe4 Bxc4 14. Nc2 d5 15. Bg2
+d4 16. Ne4 Bxe2 17. Qxe2 d3 18. Qg4 Bxb2 19. Rad1 Qc8 20. Qxc8 Raxc8 21. Rxd3
+cxb4 22. axb4 Rcd8 23. Rxd8 Rxd8 24. Rb1 Bg7 25. h4 b5 26. Bf1 a6 27. Nc5 Rd2
+28. Ne3 Bd4 29. Ne4 Rb2 30. Rxb2 Bxb2 31. Nc2 Nd5 32. Nc5 Ndxb4 33. Nxb4 Nxb4
+34. Nd3 Nxd3 35. Bxd3 Kf7 36. f4 Ke6 37. Kf2 Kd5 38. Ke2 Kc5 39. Kd2 a5 40. f5
+a4 41. Bc2 a3 42. Bb1 gxf5 43. Kc2 Kb4 44. Ba2 Be5 45. Be6 a2 46. Bxa2 Bxg3 47.
+h5 h6 48. Kd3 Ka3 49. Bd5 b4 50. Kc2 Be5 51. Bb3 f4 52. Bd5 Bf6 53. Kb1 b3 0-1
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.16"]
+[Round "1"]
+[White "Anand,V"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2763"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "14109603"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bg5 Ba6 10. Qa4 h6 11. Bh4 c5 12. dxc5 bxc5 13. Rd1 Qb6 14. Bxf6 gxf6
+15. e3 Bxf1 16. Kxf1 Nc6 17. Rb1 Rab8 18. Ke2 Qb5+ 19. Qxb5 Rxb5 20. Kd3 Rfb8
+21. Kc2 Na5 22. Nd2 Kf8 23. b3 Ke7 24. Kc3 Kd7 25. Rb2 Kc6 26. Rhb1 Rd8 27. b4
+cxb4+ 28. axb4 Nb7 29. Nc4 Nd6 30. Ra1 Ne4+ 31. Kc2 Nxf2 32. Rb3 Rg8 33. Ra6+
+Kc7 34. Rxa7+ Rb7 35. Rxb7+ Kxb7 36. g3 Ng4 37. Rd3 Rg5 38. h4 Rg7 39. Rd7+ Kc6
+40. Ra7 Ne5 41. Nxe5+ fxe5 42. Kd3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.16"]
+[Round "1"]
+[White "Ivanchuk,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2755"]
+[ECO "D80"]
+[Opening "Gruenfeld defence"]
+[WhiteFideId "14100010"]
+[BlackFideId "4102142"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Qb3 e6 6. Qa3 a5 7. Nf3 Nc6 8. Bd2 Nb4
+9. Qa4+ Bd7 10. Qb3 dxc4 11. Bxc4 Bc6 12. a3 Nbd5 13. Ne5 O-O 14. Nxc6 bxc6 15.
+Qc2 Qe7 16. O-O c5 17. Ne2 cxd4 18. Nxd4 c5 19. Nb5 Rfc8 20. Rfd1 Ng4 21. h3 Ne5
+22. Be2 c4 23. Rac1 h5 24. Nc3 Nb6 25. Ne4 Nd5 26. Nc3 Nb6 27. Ne4 Nd5 28. Be1
+Rab8 29. Kh1 Nd7 30. Rb1 Nc5 31. Bxc4 Nb6 32. Bb5 Nd5 33. a4 Na6 34. Qe2 Nab4
+35. Rbc1 Rc7 36. Nc3 Rbc8 37. Nxd5 exd5 38. Rxc7 Rxc7 39. b3 Bc3 40. Rc1 Qf6 41.
+Qf3 Qe5 42. Qg3 Qxg3 43. fxg3 Be5 44. Rxc7 Bxc7 45. Kg1 Nc2 46. Bd2 Bb6 47. Kf2
+d4 48. e4 d3+ 49. Kf1 Ne3+ 50. Ke1 Nxg2+ 51. Kd1 h4 52. gxh4 Nxh4 53. b4 axb4
+54. Bxb4 Nf3 55. a5 Bd4 56. Be7 f5 57. exf5 gxf5 58. Bd8 Kf7 59. Bb6 Ke6 60.
+Bxd4 Nxd4 61. Bxd3 1-0
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.17"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2802"]
+[BlackElo "2800"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "13300474"]
+[BlackFideId "4101588"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e3 Nc6 8.
+Qd3 Bc5 9. Be2 d4 10. exd4 Nxd4 11. O-O O-O 12. Nxd4 Qxd4 13. Qg3 Ne4 14. Nxe4
+Qxe4 15. Bf3 Qb4 16. Bf4 Be6 17. a3 Qb3 18. Rac1 Bd4 19. Rc7 Qxb2 20. Rxb7 Qxa3
+21. Bd6 Qa5 22. Bb4 Qf5 23. Bxf8 Rxf8 24. Rd1 Bb6 25. Rb8 g6 26. Rxf8+ Kxf8 27.
+Qd6+ Kg8 28. Qd2 h5 29. Qc3 Kh7 30. h3 Qf4 31. Re1 Bxh3 32. Re4 Qd6 33. Qe5 Qxe5
+34. Rxe5 Be6 35. Bd5 Bd4 36. Bxe6 Bxe5 37. Bxf7 h4 38. Kf1 Kg7 39. Be8 g5 40.
+Ke2 Kf6 41. Ke3 g4 42. Bd7 Kg5 43. Ke2 Kf4 44. Kf1 a5 45. Ke2 Bd4 46. Kf1 Bc5
+47. Ke2 Bd4 48. Kf1 Bc5 49. Ke2 Bd4 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.17"]
+[Round "2"]
+[White "Carlsen,M"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2826"]
+[BlackElo "2744"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "1503014"]
+[BlackFideId "2805677"]
+[EventDate "2011.11.16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. Bd3
+Nbd7 9. O-O Bd6 10. h3 dxc4 11. Bxc4 Nb6 12. Bb3 e5 13. Qc2 Qe7 14. Bd2 O-O-O
+15. d5 e4 16. dxc6 Qe5 17. f4 exf3 18. Rxf3 Ng4 19. cxb7+ Kb8 20. hxg4 Rh1+ 21.
+Kf2 Rxa1 22. Ne2 Bc5 23. Bc3 Qe7 24. g5 Rdd1 25. Ng3 Bd6 26. Qe2 Rg1 27. Qd3 Bc7
+28. Ne4 Raf1+ 29. Ke2 Rxf3 30. gxf3 f5 31. gxf6 gxf6 32. Bxf6 Qh7 33. Qb5 Rg2+
+34. Kd3 Qd7+ 35. Qxd7 Nxd7 36. Bd5 Be5 37. f4 Bc7 38. Bc6 1-0
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.17"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2811"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "5000017"]
+[EventDate "2011.11.16"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O c5 7. Na3 Nec6 8. c4
+cxd4 9. Nb5 a6 10. Bg5 Qd7 11. Nbxd4 Be4 12. Rc1 h6 13. Bh4 Be7 14. Bxe7 Nxe7
+15. Nd2 Nbc6 16. N4b3 Qc7 17. Nxe4 dxe4 18. Qd6 Qb6 19. Rfd1 O-O 20. Qc5 Qc7 21.
+Qd6 Qb6 22. Qc5 Qc7 23. Qd6 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.17"]
+[Round "2"]
+[White "Karjakin,Sergey"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2758"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "2016192"]
+[EventDate "2011.11.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Nc6 11. O-O-O Qb6 12. Nd5 Bxd5 13. exd5 Nd4 14. Nxd4
+Qxd4 15. Qxd4 exd4 16. f4 h5 17. a4 Kd7 18. a5 Rae8 19. Bd3 h4 20. g4 hxg3 21.
+hxg3 g5 22. b4 gxf4 23. gxf4 Kc7 24. Kb2 Rxh1 25. Rxh1 Rh8 26. Rf1 b5 27. axb6+
+Kxb6 28. Kb3 Ra8 29. Ra1 Bg7 30. Re1 Bf6 31. Rg1 Rb8 32. Re1 Ra8 33. Kb2 Rh8 34.
+Ra1 Ra8 35. Kc1 Bg7 36. Kd1 Bh6 37. f5 Bg7 38. Ra5 Ra7 39. Ke2 Bf6 40. Kf3 Ra8
+41. Ra1 a5 42. bxa5+ Rxa5 43. Rxa5 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.17"]
+[Round "2"]
+[White "Nepomniachtchi,I"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2730"]
+[BlackElo "2775"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "14100010"]
+[EventDate "2011.11.16"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be7 8. Nc4
+b5 9. Ne3 Nf6 10. g3 O-O 11. Bg2 b4 12. Ncd5 Nxd5 13. Nxd5 Bg5 14. Bxg5 Qxg5 15.
+O-O Rb8 16. Qd3 a5 17. a3 Be6 18. axb4 axb4 19. Ra6 Rfc8 20. c3 Qd8 21. Rd1 g6
+22. Ne3 Rb6 23. h4 h5 24. Kh2 bxc3 25. bxc3 Ne7 26. Rxb6 Qxb6 27. Bh3 Bxh3 28.
+Kxh3 Kg7 29. Kg2 Qc6 30. c4 Ng8 31. f3 Qc5 32. Nf1 Rb8 33. Qd5 Rb2+ 34. Rd2
+Rxd2+ 35. Nxd2 Qb4 36. Nf1 Nf6 37. Qd3 Nd7 38. Qd2 Qc5 39. Ne3 Nf8 40. f4 Nd7
+41. f5 Nf6 42. fxg6 fxg6 43. Kf3 Qa3 44. c5 Qxc5 45. Qd3 Qc7 46. Ke2 Qc6 47. Qc4
+Qd7 48. Qb4 Qc7 49. Qc4 Qb7 50. Kf3 Qf7 51. Ke2 Ng4 52. Qxf7+ Kxf7 53. Nc4 Ke6
+54. Nd2 Nf6 55. Ke3 Kd7 56. Nf3 Nh7 57. Nh2 Nf6 58. Nf3 Ng4+ 59. Ke2 d5 60. exd5
+Kd6 61. Ng5 Kxd5 62. Kf3 Nf6 63. Ke3 Nd7 64. Kd3 Kd6 65. Ke4 Nc5+ 66. Kf3 Ne6
+67. Ne4+ Ke7 68. g4 Nd4+ 69. Kf2 Kf7 70. Ng5+ Kg7 71. gxh5 gxh5 72. Ke3 Kf6 73.
+Ke4 Nc6 74. Nf3 Ke6 75. Ng5+ Kf6 76. Nf3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.18"]
+[Round "3"]
+[White "Nakamura,Hi"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2755"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4102142"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Bd7 12. Rb1 Qc7 13. Bd3 Rfd8 14. Qd2 a6
+15. f4 e6 16. dxc5 Na5 17. Nd4 e5 18. fxe5 Qxe5 19. Qb2 Rac8 20. Qb4 Qxc5 21.
+Qxc5 Rxc5 22. Ne2 Rc6 23. Bb6 Rxb6 24. Rxb6 Bc6 25. Rf3 f5 26. Rb4 Bf8 27. Rd4
+Bc5 28. Re3 Re8 29. e5 Bd5 30. Kf2 Bxa2 31. Ra4 Bxe3+ 32. Kxe3 Rxe5+ 33. Kf4 Bb3
+34. Kxe5 Bxa4 35. Kd6 Bc6 36. g3 Kg7 37. Nd4 Be4 38. Bxe4 fxe4 39. Nc2 Nc4+ 40.
+Kd5 Nd2 41. Kc5 Kf6 42. Kb6 Ke5 43. Kxb7 Kd5 44. Ne3+ Kc5 45. Kxa6 Nb1 46. Kb7
+Nxc3 47. Kc8 Kd4 48. Ng2 Ke5 0-1
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.18"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2802"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "13300474"]
+[EventDate "2011.11.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Bd7 12. Rad1 Rd8 13. b3 Be7 14. Rfe1 Bb4
+15. Bd2 Bc8 16. Ne2 Bxd2 17. Nxd2 Ne7 18. Nc4 Nd5 19. a3 Ke7 20. f3 h4 21. Kf2
+Rh5 22. Rd2 Re8 23. Nd4 Kf8 24. a4 a6 25. a5 Nb4 26. Ne2 Nd5 27. Nd4 Ne7 28. Re4
+Rh6 29. f4 Nd5 30. Kf3 Rg6 31. f5 Rh6 32. Re1 c5 33. Ne2 Ne7 34. Nf4 Nxf5 35. c3
+Ne7 36. Red1 Ng6 37. Nd3 Be6 38. Re1 Rh5 39. Kf2 Rf5+ 40. Kg1 Bxc4 41. bxc4 Nxe5
+42. Rde2 f6 43. Re4 b6 44. axb6 cxb6 45. Rxh4 Ng6 46. Rhe4 Rxe4 47. Rxe4 Kf7 48.
+Re2 Ne5 49. g4 Rf3 50. Nxe5+ fxe5 51. Kg2 Rxc3 52. Rf2+ Kg6 53. Rb2 a5 54. Rxb6+
+Kg5 55. Rb5 a4 56. Rxc5 Kf4 57. Ra5 a3 0-1
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.18"]
+[Round "3"]
+[White "Anand,V"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2730"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "4168119"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2
+b5 9. Qb3 Nc6 10. e5 Be6 11. Qd1 Nd5 12. O-O Nxc3 13. bxc3 Bd5 14. Be3 Na5 15.
+Nd2 c5 16. Bf3 cxd4 17. cxd4 Nc4 18. Nxc4 bxc4 19. Rc1 e6 20. Qa4 Bxf3 21. gxf3
+Qd5 22. Rxc4 Qxf3 23. Rfc1 Qg4+ 24. Kh1 Qe4+ 25. Kg1 Qg4+ 26. Kh1 Qe4+ 27. Kg1 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.18"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2826"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "1503014"]
+[EventDate "2011.11.16"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 h6 4. Nc3 Bb4 5. e4 Nc6 6. Nge2 Bc5 7. d3 d6 8. h3 Nh7
+9. a3 a6 10. O-O Ng5 11. Kh2 Ne6 12. f4 Bd7 13. b4 Ba7 14. Nd5 Ned4 15. Nec3 Be6
+16. f5 Bd7 17. Rb1 Nb8 18. c5 dxc5 19. bxc5 Bc8 20. Qh5 Nd7 21. Na4 c6 22. Ndb6
+Nxc5 23. f6 g5 24. Bxg5 Nxa4 25. Nxa8 b5 26. Be3 Bb8 27. g4 Rg8 28. Qxh6 Be6 29.
+Rbc1 Kd7 30. Bxd4 exd4+ 31. e5 Nc3 32. Rxc3 Bxe5+ 33. Kh1 dxc3 34. Qe3 Qb8 35.
+Qc5 Qd6 36. Qa7+ Kd8 37. Qxa6 Bd4 38. Qa5+ Kc8 39. Qa6+ Kd8 40. Qa5+ Kc8 41.
+Qa6+ 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.18"]
+[Round "3"]
+[White "Gelfand,B"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2763"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2805677"]
+[BlackFideId "14109603"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 a5 11. Nc3 Na6 12. Ne5 Bxg2 13. Kxg2 Nd5 14. Rad1 Nxf4+
+15. gxf4 Bd6 16. Rd3 Qe8 17. Rf3 Nb4 18. Nb5 f6 19. Nd3 Nxd3 20. Qxd3 Rd8 21.
+Rh3 f5 22. e3 Qc6+ 23. Kg1 Bb4 24. Rg3 Qd7 25. Qb3 c6 26. Nc3 b5 27. Rc1 Rb8 28.
+axb5 cxb5 29. d5 Rfe8 30. dxe6 Qxe6 31. Nd5 Kh8 32. Rc7 Rbd8 33. e4 Bf8 34. Qc3
+b4 35. Qd4 Rd7 36. Qa7 Rxc7 37. Nxc7 Qf7 38. Qxa5 Rc8 39. Nd5 fxe4 40. Ne3 Qxf4
+41. Qd5 Bd6 42. Qb7 Qf8 43. Rh3 Re8 44. Rh5 Qf3 45. Rg5 Rg8 46. Qc6 Qf4 47. Rg2
+Be5 48. Qc4 Rb8 49. b3 h6 50. Rg3 Rf8 51. Rg2 Ra8 52. Qc6 Ra1+ 53. Nf1 Qf5 54.
+Qb6 Rd1 55. Qa6 Bd4 56. Qe2 Rd3 57. Rg3 Rc3 58. Qd2 Be5 59. Ne3 Qe6 0-1
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.19"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2826"]
+[BlackElo "2763"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[WhiteFideId "1503014"]
+[BlackFideId "14109603"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 O-O 8.
+Bg5 d6 9. Nd2 Nbd7 10. f3 Rc8 11. e4 h6 12. Bh4 c5 13. Bd3 cxd4 14. Qxd4 Nc5 15.
+Be2 e5 16. Qf2 Ne6 17. O-O g5 18. Bg3 Nd4 19. Rfd1 Nh5 20. Bd3 Nf4 21. Qf1 Qf6
+22. Bf2 Nde6 23. Bc2 Qg6 24. g3 Nh5 25. Qe2 g4 26. fxg4 Nf6 27. h3 Ng5 28. Kh2
+d5 29. Be3 d4 30. Bxg5 hxg5 31. Rf1 Kg7 32. Rf5 Rh8 33. Kg2 Nd7 34. Nf3 f6 35.
+h4 Qh6 36. Rf1 Rh7 37. b4 Kh8 38. Rh1 gxh4 39. Rxh4 Qe3 40. Qxe3 dxe3 41. Bd3
+Ba6 42. Rxh7+ Kxh7 43. g5 Bxc4 44. Bxc4 Rxc4 45. gxf6 e2 46. Kf2 Rxe4 47. f7 Kg7
+48. Ke1 Kf8 49. Ng5 Rg4 50. Nh7+ Ke7 51. Rg5 Rxg5 52. Nxg5 a5 53. b5 Kf6 54.
+Ne4+ Kxf7 55. Kxe2 Ke6 56. g4 Kd5 57. Kd3 Nf8 58. g5 Ne6 59. Ke3 Kc4 60. g6 a4
+61. Nd2+ Kd5 62. Nb1 Nd4 63. Kd3 Ke6 64. Nc3 Kf6 65. Ke4 Nc2 66. Nb1 Nd4 67. Nc3
+Nc2 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.19"]
+[Round "4"]
+[White "Nepomniachtchi,I"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2730"]
+[BlackElo "2758"]
+[ECO "B70"]
+[Opening "Sicilian"]
+[Variation "dragon variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2011.11.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8. Re1
+Nc6 9. Nb3 Be6 10. Bf1 a5 11. Nd2 a4 12. Ndb1 Ra5 13. Na3 d5 14. exd5 Nxd5 15.
+Ncb5 Qc8 16. c3 Rd8 17. Qe2 Nc7 18. Rd1 Nxb5 19. Nxb5 Ne5 20. Na3 Rad5 21. Rxd5
+Rxd5 22. Be3 Ng4 23. h3 Nxe3 24. Qxe3 Qc6 25. Nc2 Qc7 26. a3 Be5 27. Nb4 Rd8 28.
+Nd3 Bd6 29. Re1 Bf5 30. g3 Bxd3 31. Bxd3 Bc5 32. Qf3 Rd6 33. Re4 Rb6 34. Bc4 e6
+35. Re2 Bxa3 36. Bxe6 Bxb2 37. Bxf7+ Qxf7 38. Qd3 Re6 39. Qd8+ Kg7 40. Qd4+ Kg8
+41. Qd8+ Qf8 42. Qd5 Qd6 43. Qxd6 Rxd6 44. Rxb2 a3 45. Ra2 Ra6 46. Kf1 Kf7 47.
+Ke2 Ke6 48. Kd3 Kd5 49. f4 h5 50. g4 h4 51. c4+ Kc5 52. Kc3 Re6 53. Rf2 Re3+ 54.
+Kc2 Kxc4 55. f5 g5 56. f6 Re8 57. f7 Rf8 58. Kb1 Kd5 59. Rf5+ Ke6 60. Rxg5 Rxf7
+61. Rh5 b5 62. Rxb5 Rf3 63. Rb6+ Ke5 64. Rb5+ Ke6 65. Rb6+ Kd5 66. g5 Rxh3 67.
+Rb4 Ke5 68. g6 Kf6 69. Rg4 Kg7 70. Ka2 Kh8 71. Rf4 Kg7 72. Rg4 Rh1 73. Rb4 h3
+74. Rb3 Kxg6 75. Rg3+ Kf5 76. Rc3 Ke5 77. Rxa3 Rh2+ 78. Ka1 Kf4 79. Rb3 Rh1+ 80.
+Ka2 Rh2+ 81. Ka1 Rh1+ 82. Ka2 Kg4 83. Rb4+ Kg3 84. Rb3+ Kg4 85. Rb4+ Kg3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.19"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2802"]
+[BlackElo "2811"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O
+Nd5 9. Bxc4 Nxf4 10. exf4 c5 11. dxc5 Qc7 12. g3 Qxc5 13. Qe2 Nb6 14. Bd3 Qh5
+15. Qe3 Bf6 16. Ng5 Bxc3 17. bxc3 h6 18. Be2 Qg6 19. Nf3 Qf6 20. Ne5 Bd7 21. c4
+Qe7 22. Qe4 Bc6 23. Nxc6 bxc6 24. Qxc6 Rac8 25. Qe4 Rc7 26. Rfd1 Rfc8 27. Rd4 g6
+28. Rad1 Qf6 29. Qc2 Rc5 30. Qb3 Qe7 31. Bf1 R5c7 32. Qb5 Rc5 33. Qb4 R5c7 34.
+Qxe7 Rxe7 35. Rd8+ Rxd8 36. Rxd8+ Kg7 37. c5 Nd5 38. Bc4 Nf6 39. Rc8 Rd7 40. Bb5
+Rd1+ 41. Kg2 Ra1 42. a4 a6 43. Bc6 Rc1 44. Ra8 Rxc5 45. Rxa6 Rc2 46. a5 Ng4 47.
+Be8 Kf8 48. Ra8 Rxf2+ 49. Kg1 Ra2 50. Bb5+ Kg7 51. a6 Nxh2 52. Rc8 Nf3+ 53. Kf1
+Nd4 54. Bc4 Ra3 55. Rc7 Nf5 56. Bxe6 Rxa6 57. Bxf7 Kf6 58. Bc4 Ne3+ 59. Kf2 Nxc4
+60. Rxc4 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.19"]
+[Round "4"]
+[White "Kramnik,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2775"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[WhiteFideId "4101588"]
+[BlackFideId "14100010"]
+[EventDate "2011.11.16"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 a6 5. e3 b5 6. b3 Bg4 7. Qc2 e6 8. Ne5 Bf5
+9. Bd3 Bxd3 10. Nxd3 dxc4 11. bxc4 bxc4 12. Ne5 Nbd7 13. O-O Nxe5 14. dxe5 Nd5
+15. Rd1 Qa5 16. Ne4 c3 17. Rb1 Rd8 18. Rd4 Qc7 19. Qa4 a5 20. g3 Bb4 21. Nd6+
+Kf8 22. e4 Nb6 23. Qc2 Nd7 24. Nc4 h6 25. a3 Bc5 26. Rd3 Kg8 27. Qxc3 Kh7 28.
+Bf4 Rb8 29. Rbd1 Rhd8 30. Qd2 Nb6 31. Rxd8 Nxc4 32. Qd7 Qxd8 33. Qxd8 Rxd8 34.
+Rxd8 Bxa3 35. Rd4 Nb6 36. Be3 c5 37. Rd1 Nc4 38. Bxc5 Bxc5 39. Rc1 Bxf2+ 40.
+Kxf2 Nxe5 41. Ke2 Kg6 42. Rc5 Kf6 43. Rxa5 g5 44. h3 h5 45. Rc5 Ng6 46. Kf3 Ne5+
+47. Ke3 Ng6 48. Ra5 h4 49. Kf2 hxg3+ 50. Kxg3 Ne5 51. Rb5 Nd3 52. Rb8 Kg7 53.
+Kg4 Nf2+ 54. Kxg5 Nxh3+ 55. Kg4 Nf2+ 56. Kf4 Nd3+ 57. Ke3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.19"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2744"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "2805677"]
+[EventDate "2011.11.16"]
+
+1. Nf3 d5 2. c4 e6 3. g3 dxc4 4. Qa4+ c6 5. Qxc4 b5 6. Qc2 Bb7 7. Bg2 Nd7 8. a4
+a6 9. O-O Ngf6 10. Nc3 Be7 11. d4 O-O 12. Rd1 c5 13. axb5 axb5 14. Rxa8 Qxa8 15.
+Nxb5 Be4 16. Qd2 cxd4 17. Nbxd4 Rb8 18. Nh4 Bc5 19. Qe1 h6 20. Bxe4 Nxe4 21. Be3
+Ndf6 22. Nc2 Rxb2 23. Bxc5 Rxc2 24. Bd4 Qa6 25. Kf1 Nd5 26. f3 Nd6 27. Rc1 Qc4
+28. Rxc2 Qxc2 29. Ng2 Nc4 30. Qa1 Nd2+ 31. Kf2 Nb3 32. Qb2 Nxd4 33. Qxd4 Qc3 34.
+Qxc3 Nxc3 35. Nf4 Kf8 36. Nd3 Ke7 37. e4 Kd6 38. Ke3 e5 39. Kd2 Nb5 40. Ke3 Nc7 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.20"]
+[Round "5"]
+[White "Nakamura,Hi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2802"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2011.11.16"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4 Be6 8. h4
+Nd7 9. Bg3 Nb6 10. f3 Bd6 11. Bxd6 Qxd6 12. Qc2 Ne7 13. Bd3 h5 14. g5 O-O-O 15.
+Nge2 Kb8 16. Kf2 g6 17. a4 a5 18. Ng3 Rdf8 19. Qd2 f6 20. gxf6 Rxf6 21. Nce4
+dxe4 22. Nxe4 Rxf3+ 23. Kxf3 Qd5 24. Qh2+ Ka7 25. Qe5 Rf8+ 26. Ke2 Qxe5 27. dxe5
+Nd7 28. Nd2 Nxe5 29. Be4 Bg4+ 30. Ke1 Nd5 31. Ra3 Rd8 32. Rh2 Nb4 33. Kf1 Bd1
+34. Rg2 Bg4 35. Rh2 Bf5 36. Bxf5 gxf5 37. Rg2 Ng4 38. Nc4 Re8 39. Re2 Nd5 40.
+Ke1 Re6 41. Rd3 f4 42. e4 Nde3 43. Nxe3 Nxe3 44. Rd7 Rxe4 45. Kf2 Rb4 46. Rh7
+Rb3 47. Rxh5 Ng4+ 48. Kf1 f3 49. Rd2 Rb4 50. Rxa5+ Kb6 51. Rg5 Rxa4 52. Rxg4
+Rxg4 53. Rh2 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.20"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2730"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "4168119"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6 8.
+Nf3 Bg7 9. Be2 O-O 10. O-O c5 11. Rb1 b6 12. Ng5 Bd5 13. e4 Bb7 14. d5 h6 15.
+Nf3 g5 16. Bg3 f5 17. exf5 Qxd5 18. Qa4 Qxf5 19. Bxc4+ Kh8 20. Rbe1 Nc6 21. Re3
+Rad8 22. h4 e5 23. hxg5 e4 24. Nh4 Qxg5 25. Bb5 Na5 26. Rfe1 c4 27. Bxc4 Bc6 28.
+Qb4 Nxc4 29. Qxc4 Bd5 30. Qa4 Rf7 31. Rxe4 Bxe4 32. Rxe4 Qd5 33. Kh2 b5 34. Qc2
+Qh5 35. c4 bxc4 36. Rxc4 Rfd7 37. Rc5 Rd5 38. Rxd5 Rxd5 39. Qc8+ Kh7 40. Qc2+
+Kg8 41. Qc8+ Bf8 42. Kh3 Qf7 43. Qa6 Rd4 44. Kh2 Rb4 45. a4 Re4 46. a5 Re6 47.
+Qc8 a6 48. Nf3 Qh5+ 49. Kg1 Qe8 50. Qc4 Qc6 51. Qb3 Bg7 52. Bf4 Kh7 53. Be3 Qe4
+54. Bd4 Re7 55. Bxg7 Rxg7 56. Qc3 Qb1+ 57. Kh2 Qf5 58. Kg1 Rd7 59. Qe1 Rb7 60.
+Kh2 Rg7 61. Nh4 Qc2 62. Qe6 Qc7+ 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.20"]
+[Round "5"]
+[White "Karjakin,Sergey"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2755"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[WhiteFideId "14109603"]
+[BlackFideId "4102142"]
+[EventDate "2011.11.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O e5 7. Bg5 h6 8. Bxf6
+Qxf6 9. Nf5 g6 10. Ne3 Bc5 11. Nc3 d6 12. Ncd5 Qd8 13. c3 Be6 14. Bc2 O-O 15.
+Ng4 Nd7 16. Nxh6+ Kg7 17. Nf5+ gxf5 18. exf5 Bxd5 19. Qg4+ Kh6 20. Qh3+ Kg5 21.
+Qg3+ Kh5 22. Qg7 Bf3 23. Qh7+ Kg5 24. Qg7+ Kh5 25. Qh7+ Kg5 26. Qg7+ Kh5 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.20"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2826"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[WhiteFideId "14100010"]
+[BlackFideId "1503014"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qb3 Na6 8. cxd5
+Nxc5 9. Qb5+ Qxb5 10. Bxb5+ Bd7 11. Rd1 Nh5 12. Bxd7+ Kxd7 13. Bg3 b5 14. d6 e6
+15. Nf3 b4 16. Nb5 Nxg3 17. hxg3 Rab8 18. Nbd4 h5 19. Rh4 f5 20. Ne2 e5 21. Rc4
+Rhc8 22. Kf1 Ne4 23. Rc7+ Rxc7 24. dxc7+ Kxc7 25. Nd2 Nxd2+ 26. Rxd2 a5 27. b3
+a4 28. bxa4 Ra8 29. Nc1 e4 30. Ne2 Rxa4 31. Nf4 Bc3 32. Rc2 Kd6 33. Ke2 g5 34.
+Nxh5 Kd5 35. f3 g4 36. Nf4+ Kc4 37. Ne6 Ra6 38. Nf4 Rh6 39. fxg4 fxg4 40. Rc1
+Ra6 41. Rc2 Rh6 42. Rc1 Rd6 43. Rc2 Ra6 44. Kf2 Rh6 45. Ke2 Rh1 46. Ng6 Re1+ 47.
+Kf2 Ra1 48. Nf4 Rb1 49. Ne6 Rd1 50. Nf4 Rd6 51. Ke2 Rc6 52. Rc1 Kb5 53. Nd5 Rc5
+54. Nf4 Rc6 55. Nd5 Rc5 56. Nf4 Ka4 57. Ne6 Rd5 58. Rc2 Ka3 59. Nd4 Rc5 60. Nb3
+Rd5 61. Nd4 Bxd4 62. Rd2 Bc3 63. Rxd5 Kxa2 64. Kd1 b3 65. Rb5 Kb2 66. Rb8 Bf6
+67. Kd2 Bc3+ 68. Kd1 Bf6 69. Rf8 Bc3 70. Re8 Ka2 71. Ra8+ Kb1 72. Ra4 b2 73. Ra6
+Ba5 74. Rxa5 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.20"]
+[Round "5"]
+[White "Anand,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2800"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "5000017"]
+[BlackFideId "4101588"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. Rc1 c5 7. dxc5 Qa5 8. e3
+Rd8 9. Bd6 dxc4 10. Bxc4 Ne4 11. O-O Nxd6 12. cxd6 Bxd6 13. Qb3 Nc6 14. Rfd1 Be7
+15. Be2 h6 16. Nd2 Qb4 17. Qc2 Bd7 18. Nc4 Bf8 19. a3 Qe7 20. Nd6 Be8 21. Nxe8
+Rxd1+ 22. Rxd1 Rxe8 23. Qb3 Rd8 24. Rxd8 Nxd8 25. Bf3 g6 26. Qa4 a6 27. g3 Bg7
+28. Qc4 Qd7 29. Kg2 Be5 30. b4 Qc7 31. Qxc7 Bxc7 32. b5 axb5 33. Nxb5 Bb6 34.
+Nd6 Bc5 35. Nxb7 Nxb7 36. Bxb7 Bxa3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.22"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2826"]
+[BlackElo "2755"]
+[ECO "D86"]
+[Opening "Gruenfeld"]
+[Variation "exchange, classical variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4102142"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. dxc5 Qc7 12. f4 bxc5 13. Rb1 Rd8 14. Qa4 Na5
+15. Bd5 Bd7 16. Qa3 Rac8 17. f5 e6 18. Bf4 Be5 19. fxe6 fxe6 20. Bb3 Nxb3 21.
+axb3 Rf8 22. Qc1 c4 23. b4 Qb6+ 24. Kh1 Bg7 25. e5 Bc6 26. Nd4 Bd5 27. Ra1 Qb7
+28. Qc2 Rc7 29. Bg3 Rcf7 30. Rxf7 Qxf7 31. Qe2 g5 32. h3 h5 33. Kg1 h4 34. Bh2
+Qg6 35. Rd1 g4 36. hxg4 Qg5 37. Nf5 exf5 38. Rxd5 fxg4 39. Kh1 h3 40. gxh3 gxh3
+41. Rd4 Qc1+ 42. Rd1 Qxc3 43. e6 Qb2 44. Qe4 Qg2+ 45. Qxg2 hxg2+ 46. Kxg2 Re8
+47. Rd6 Bf8 48. Rc6 Bxb4 49. Rxc4 a5 50. Rc6 Kg7 51. Kf3 Kf6 52. Ke4 Rxe6+ 53.
+Be5+ Kf7 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.22"]
+[Round "6"]
+[White "Kramnik,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2758"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "2016192"]
+[EventDate "2011.11.16"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. Bf4 Be6 8.
+Qa3 Nc6 9. e3 O-O 10. Be2 a5 11. O-O Nb4 12. Rfc1 c6 13. Be5 Bh6 14. Ne4 Nd7 15.
+Nc5 Nxc5 16. Rxc5 Nd5 17. Bc4 Qb6 18. e4 Nf6 19. Bxe6 fxe6 20. Rc2 Qb4 21. Qd3
+Rac8 22. Ne1 Nd7 23. Bg3 c5 24. d5 Nf6 25. d6 Qxe4 26. dxe7 Rfe8 27. Qb5 Qb4 28.
+Qf1 Rxe7 29. Nd3 Qb6 30. Ne5 Nd5 31. Qe2 Nb4 32. Rc4 Bg7 33. Bh4 Ree8 34. Rd1
+Nc6 35. Nd7 Qxb2 36. Qxb2 Bxb2 37. Rxc5 Rc7 38. Bg3 Rcc8 39. Rb5 Bg7 40. Rxb7
+Nb4 41. a4 Nd5 42. Nb6 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.22"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2811"]
+[ECO "D56"]
+[Opening "QGD"]
+[Variation "Lasker defence"]
+[WhiteFideId "14100010"]
+[BlackFideId "5000017"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Rc1 c6 10. Qc2 Nd7 11. a3 Nxc3 12. Qxc3 dxc4 13. Bxc4 b6 14. O-O Bb7 15.
+Be2 c5 16. Rfd1 Rac8 17. dxc5 Rxc5 18. Qd2 Rfc8 19. h3 Nf6 20. Rxc5 Qxc5 21. Ne1
+Qc7 22. Qd4 Ne4 23. Bf3 Nf6 24. Bxb7 Qxb7 25. Nd3 Qe4 26. Qxe4 Nxe4 27. f3 Nf6
+28. Rc1 Rxc1+ 29. Nxc1 Kf8 30. Nd3 Nd7 31. Kf2 Ke7 32. e4 Kd6 33. Ke3 Nc5 34.
+Nf4 Nd7 35. Nd3 Nc5 36. Nf4 Nd7 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.22"]
+[Round "6"]
+[White "Aronian,L"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2802"]
+[BlackElo "2744"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13300474"]
+[BlackFideId "2805677"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O
+c5 9. dxc5 Nxc5 10. Bxc4 a6 11. Ne5 Ncd7 12. Be2 Nxe5 13. Bxe5 Qa5 14. Bg3 b5
+15. Bf3 Ra7 16. Ne2 Bb7 17. Bxb7 Rxb7 18. Nd4 Rd7 19. Qc2 Bd6 20. Nc6 Qb6 21.
+Bxd6 Rxd6 22. Rac1 Kh8 23. Rfd1 Rxd1+ 24. Qxd1 h6 25. g3 Qc7 26. Rc2 Rc8 27. Qd3
+Ng4 28. Rc3 Qb7 29. Qd6 Qa8 30. e4 Nf6 31. f3 a5 32. Qc5 b4 33. Rc4 Qa6 34. b3
+Kh7 35. Qd6 a4 36. Rc2 axb3 37. axb3 Qa1+ 38. Kg2 Qb1 39. Qd2 Qxb3 40. Nxb4 Rb8 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.22"]
+[Round "6"]
+[White "Nepomniachtchi,I"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2730"]
+[BlackElo "2763"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "14109603"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 c5 8.
+dxc5 d4 9. Qc2 e5 10. e3 h6 11. Bh4 Qe7 12. Be2 Re8 13. Rd1 a5 14. Nf3 Nc6 15.
+O-O d3 16. Rxd3 e4 17. Rd6 exf3 18. Bxf6 fxe2 19. Bxe7 exf1=Q+ 20. Kxf1 Rxe7 21.
+b3 Be6 22. Qc3 Rc7 23. e4 Re7 24. h3 f5 25. exf5 Bxf5 26. Kg1 Be6 27. Rd3 Bf5
+28. Rd6 Be6 29. Rd3 Bf5 30. Rd5 Be6 31. b4 axb4 32. axb4 Rae8 33. b5 Bxd5 34.
+cxd5 Ne5 35. c6 bxc6 36. bxc6 Nxc6 37. Qxc6 Rd8 38. g3 Red7 39. Qe6+ Kh8 40. Kg2 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.23"]
+[Round "7"]
+[White "Nakamura,Hi"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2775"]
+[ECO "D83"]
+[Opening "Gruenfeld"]
+[Variation "Gruenfeld gambit, Capablanca variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "14100010"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 dxc4 7. Bxc4 Nbd7 8.
+Nb5 c6 9. Bc7 Qe8 10. Nc3 e5 11. dxe5 Nxe5 12. Be2 Bf5 13. Nf3 Nxf3+ 14. Bxf3
+Rc8 15. Bg3 Ne4 16. Bxe4 Bxe4 17. O-O Rd8 18. Qa4 Bd3 19. Rfd1 b5 20. Qa5 Rd7
+21. Rd2 Qe7 22. Rcd1 Rfd8 23. a3 h5 24. h3 h4 25. Bh2 Kh7 26. Bc7 Rxc7 27. Rxd3
+Rxd3 28. Rxd3 Bf6 29. Rd2 Rd7 30. Rc2 Qe6 31. Qb4 a5 32. Qf4 Kg7 33. Rc1 a4 34.
+Qb4 Rd3 35. Rc2 Qb3 36. Qxb3 axb3 37. Rc1 Bxc3 38. bxc3 c5 39. Kf1 c4 40. Ke2
+Rxc3 0-1
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.23"]
+[Round "7"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2826"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 cxd4 9. cxd4 Nc6 10. Rd1 O-O 11. Nf3 Bg4 12. Be2 Rc8 13. O-O Qa5 14. h3 Bxf3
+15. Bxf3 Qxd2 16. Rxd2 Na5 17. e5 Nc4 18. Rd3 Nxe3 19. fxe3 Rc7 20. Be4 Rfc8 21.
+Rb3 b6 22. Kf2 f6 23. exf6 Bxf6 24. Ke2 Kg7 25. Rd1 Rc3 26. Rd3 Rc2+ 27. Rd2
+R2c3 28. Rd3 Rc2+ 29. Rd2 R2c3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.23"]
+[Round "7"]
+[White "Gelfand,B"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2800"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2805677"]
+[BlackFideId "4101588"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O
+c5 9. dxc5 Nxc5 10. Bxc4 Qxd1 11. Rfxd1 b6 12. Nd4 Bb7 13. Rac1 a6 14. b4 Nce4
+15. Nxe4 Bxe4 16. a3 Rfc8 17. f3 Bb7 18. e4 a5 19. Nxe6 axb4 20. axb4 b5 21. Nc7
+bxc4 22. Nxa8 Bxa8 23. Bd6 Kf8 24. Bxe7+ Kxe7 25. Rd4 c3 26. Rd3 c2 27. Rd2 Nxe4
+28. Rdxc2 Rxc2 29. Rxc2 Nd6 30. Kf2 Kd7 31. Ke3 Nb5 32. Rc5 Bc6 33. Kd3 f6 34.
+Rh5 h6 35. Kc4 Nc7 36. Ra5 Kd6 37. Kd4 g5 38. Ra1 f5 39. h4 f4 40. hxg5 hxg5 41.
+Rh1 g4 42. fxg4 Bxg2 43. Rh6+ Ne6+ 44. Kd3 Bf3 45. Rf6 Bxg4 46. Ke4 f3 47. Ke3
+Ke5 48. Rxf3 Bxf3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.23"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2802"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "13300474"]
+[EventDate "2011.11.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Re1 b5
+9. Bc2 d5 10. Nbd2 dxe4 11. dxe4 Be6 12. h3 Bc5 13. a4 Ba7 14. Nf1 h6 15. Ne3
+Qd6 16. Qe2 Bxe3 17. Bxe3 Bc4 18. Qd2 Rfd8 19. b4 Qe6 20. Qc1 a5 21. bxa5 bxa4
+22. Rxa4 Bb5 23. Ra3 Rxa5 24. Rxa5 Nxa5 25. Qa3 Nc4 26. Qc5 c6 27. Qb4 Nxe3 28.
+Rxe3 Rd7 29. Re1 Qe7 30. Rb1 Rb7 31. c4 c5 32. Qc3 Bc6 33. Qxe5 Rxb1+ 34. Bxb1
+Qxe5 35. Nxe5 Bxe4 36. Bxe4 Nxe4 37. Nd3 Nd6 38. Nxc5 Nxc4 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.23"]
+[Round "7"]
+[White "Svidler,P"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2730"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "4102142"]
+[BlackFideId "4168119"]
+[EventDate "2011.11.16"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. Be2 d5 6. d4 exd4 7. exd4 cxd4 8.
+Nxd4 dxc4 9. Nxc6 Qxd1+ 10. Nxd1 bxc6 11. Bxc4 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 Ne4+
+14. Kc2 O-O 15. Re1 Nd6 16. Bd3 Nb5 17. b3 Rd8 18. Nc3 Be6 19. Rad1 Nd4+ 20. Kb2
+c5 21. Ne4 Rac8 22. Ng5 g6 23. Nxe6 Nxe6 24. Bc4 Rxd1 25. Rxd1 Nd4 26. Kc3 a5
+27. a3 Kf8 28. Re1 Nf5 29. Re4 Nd6 30. Rh4 h5 31. Bd3 Ke7 32. Ra4 Ra8 33. Kd2 f5
+34. h4 Kf6 35. b4 cxb4 36. axb4 Nb7 37. g3 g5 38. f4 gxf4 39. gxf4 Kg6 40. Ra3
+Kf6 41. Ra1 Ke6 42. Ra4 Kf6 43. Ra3 Ke7 44. Ke3 Kf6 45. b5 Re8+ 46. Kd4 Rd8+ 47.
+Kc4 Ke6 48. Be2 Rc8+ 49. Kd4 Rd8+ 50. Ke3 Rb8 51. Bxh5 Rh8 52. Bf3 Nd6 53. Be2
+Rxh4 54. Rxa5 Kd5 55. Ra6 Nc4+ 56. Kf3 Rh3+ 57. Kg2 Rb3 58. Bxc4+ 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.24"]
+[Round "8"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2802"]
+[BlackElo "2755"]
+[ECO "D82"]
+[Opening "Gruenfeld"]
+[Variation "4.Bf4"]
+[WhiteFideId "13300474"]
+[BlackFideId "4102142"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8. Bxc4
+O-O 9. Nf3 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Bf5 13. Qe2 Ne4 14. Nxe4 Bxe4 15.
+Rfd1 Qh5 16. Bc2 Bxc2 17. Qxc2 Qb5 18. a4 Qb4 19. Ne1 e5 20. Bg3 Rfd8 21. Nd3
+Qe7 22. Qc5 Rd6 23. b4 Rad8 24. b5 Rd5 25. Qc2 e4 26. Nf4 Rxd1+ 27. Rxd1 Rxd1+
+28. Qxd1 Nb4 29. Qc1 Bf6 30. Qc8+ Kg7 31. Qb8 a6 32. b6 Nc6 33. Qc8 h5 34. Ne2
+Nd8 35. Bc7 Qe6 36. Qb8 Qd7 37. Be5 Ne6 38. Nc3 Qc6 39. a5 h4 40. Bxf6+ Kxf6 41.
+Qh8+ Kf5 42. Qxh4 Qxc3 43. g4+ Ke5 44. Qh8+ f6 45. Qb8+ Kd5 46. Qxb7+ Qc6 47.
+Qb8 Nc5 48. Qg8+ Qe6 49. Qxg6 Kc4 50. h4 Kd3 51. h5 Ke2 52. h6 Qc4 53. h7 Ke1
+54. Qxf6 1-0
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.24"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2763"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4101588"]
+[BlackFideId "14109603"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Rd1 Bc6 10. Nc3 Bxf3 11. Bxf3 Nc6 12. Bxc6 bxc6 13. Bg5 Rb8 14. Rac1 h6
+15. Bxf6 Bxf6 16. e3 Qe7 17. Ne4 Rb4 18. Qe2 Rxa4 19. Rxc4 Rxc4 20. Qxc4 e5 21.
+Qxa6 exd4 22. Nxf6+ Qxf6 23. Rxd4 Rb8 24. b4 Qe7 25. Qc4 Rb6 26. Qd3 Rb8 27. Qc4
+Rb6 28. Kg2 Rb5 29. e4 g5 30. f3 Kg7 31. Qc3 Qf6 32. Kf2 Qe5 33. Qd2 Qf6 34. Rc4
+Rb8 35. Ke3 Qe7 36. Qc3+ Kh7 37. Rc5 Rb6 38. Rf5 Kg8 39. Re5 Qf8 40. Rc5 Qb8 41.
+Qf6 Qf8 42. Qc3 Qb8 43. Qf6 Qf8 44. Qc3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.24"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2826"]
+[BlackElo "2730"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2011.11.16"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 g6 8.
+Nc3 Bg7 9. Be3 Nf6 10. h3 O-O 11. O-O a6 12. a4 Rfc8 13. b3 e6 14. Rc1 d5 15.
+Nxc6 bxc6 16. e5 Ne8 17. f4 a5 18. Ne4 Bf8 19. Rf3 Qd8 20. Nc5 Rcb8 21. Bf2 Nc7
+22. Qe2 Rb4 23. Kh2 Be7 24. Rc2 Qf8 25. Nd7 Qd8 26. Nc5 Qf8 27. cxd5 Nxd5 28. g3
+Qc8 29. Be1 Rb6 30. Rc4 Rab8 31. Qd1 Bxc5 32. Rxc5 Qf8 33. Qc2 Nb4 34. Bxb4 Rxb4
+35. Rxa5 Qd8 36. Rc5 Rxb3 37. Rxb3 Rxb3 38. Qxb3 Qd2+ 39. Kh1 Qe1+ 40. Kg2 Qe2+ 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.24"]
+[Round "8"]
+[White "Anand,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2758"]
+[ECO "E70"]
+[Opening "King's Indian"]
+[Variation "Kramer system"]
+[WhiteFideId "5000017"]
+[BlackFideId "2016192"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. f3 c5 7. d5 e6 8. Ng3 a6
+9. a4 h5 10. Bg5 exd5 11. cxd5 Qc7 12. Qd2 Nbd7 13. Be2 Rb8 14. O-O c4 15. Be3
+h4 16. Nh1 h3 17. Nf2 hxg2 18. Kxg2 Nh5 19. f4 Nhf6 20. Bf3 Re8 21. a5 Qd8 22.
+Ne2 Nh7 23. Ng3 b6 24. axb6 Nxb6 25. Bd4 Bxd4 26. Qxd4 Qf6 27. Ne2 Qxd4 28. Nxd4
+Bb7 29. Ra3 Nf6 30. Nc6 Rbc8 31. Na5 Ba8 32. Nc6 Bb7 33. Na5 Ba8 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.24"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2744"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "2805677"]
+[EventDate "2011.11.16"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. e4 e5 12. h3 exd4 13. Nxd4 Nc5 14. Rd1 b4 15.
+Na4 Nxd3 16. Rxd3 c5 17. Nxc5 Bxc5 18. Qxc5 Bxe4 19. Rd1 Qd5 20. Qxd5 Nxd5 21.
+Nb3 Rfd8 22. Rd4 Bg6 23. Bd2 a5 24. Rc1 a4 25. Nc5 a3 26. b3 h6 27. Nb7 Rd7 28.
+Nc5 Rdd8 29. Na4 f6 30. Be1 Bf7 31. Rc5 Nf4 32. Rxf4 Rd1 33. Rxb4 Rxe1+ 34. Kh2
+Re2 35. Nc3 Rxf2 36. Rc7 Rd8 37. Rbb7 Rdd2 38. Rxf7 Rxg2+ 39. Kh1 Rh2+ 40. Kg1
+Rhg2+ 41. Kh1 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.25"]
+[Round "9"]
+[White "Nepomniachtchi,I"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2730"]
+[BlackElo "2802"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4168119"]
+[BlackFideId "13300474"]
+[EventDate "2011.11.16"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. Qc2 c5 8. Rd1
+Qa5 9. Nd2 cxd4 10. exd4 dxc4 11. Nxc4 Qd8 12. Bd3 Nb6 13. O-O Bd7 14. Nxb6 Qxb6
+15. d5 Rfd8 16. Qe2 Rac8 17. Bb1 Bb4 18. Be3 Qc7 19. Bd4 Bxc3 20. Bxc3 Nxd5 21.
+Rxd5 exd5 22. Qd3 f5 23. Qxd5+ Kh8 24. Qf7 Rg8 25. Rd1 Be8 26. Qxc7 Rxc7 27.
+Bxf5 Bg6 28. Bg4 Re8 29. h4 Kg8 30. Bd7 Re7 31. Ba4 h6 32. f3 Kh7 33. Kf2 a6 34.
+Rd6 b5 35. Bb3 Bf7 36. Bc2+ Kg8 37. Bf5 Ra7 38. a3 Re8 39. g4 Bc4 40. g5 hxg5
+41. hxg5 Rf8 42. Bg4 a5 43. Kg3 Re8 44. Bd7 Rea8 45. Be5 Kf8 46. Bg4 Re7 47. Bd4
+Ke8 48. Rg6 Bd3 49. Rb6 Rd8 50. Bc3 Rd5 51. Bh5+ Kd8 52. Kh4 b4 53. axb4 axb4
+54. Rxb4 Kc7 55. f4 g6 56. Bf3 Rb5 57. Ra4 Re6 58. Kg3 Bf5 59. Ra7+ Kd8 60. Ra4
+Ke8 61. Rd4 Rb8 62. Kf2 Reb6 63. Rd2 Rc8 64. Bd5 Rd6 65. Re2+ Kd7 66. Bb3 Ra6
+67. Rd2+ Ke8 68. Ke3 Rb6 69. Ba4+ Kf7 70. Bd7 Bxd7 71. Rxd7+ Ke8 72. Rh7 Rc4 73.
+Rh6 Re6+ 74. Be5 Rb4 75. Kd3 Kd7 76. Rh7+ Kc6 77. Kc3 Re4 78. Rc7+ Kd5 79. Kd3
+R6xe5 80. fxe5 Rxe5 81. Ra7 Ke6 82. Ra6+ Kf5 83. b4 Kxg5 84. Ra5 Kf4 85. Rxe5 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.25"]
+[Round "9"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2826"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "2016192"]
+[BlackFideId "1503014"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Ne5 Nfd7 10. cxd5 cxd5 11. Bf4 Nxe5 12. dxe5 O-O 13. Rd1 Bb7 14. Nd2 Nc6
+15. Nf3 g5 16. Be3 g4 17. Nd4 Nxe5 18. Bh6 Re8 19. e4 Bc5 20. Nb3 Rc8 21. Nxc5
+Rxc5 22. Qa4 Bc6 23. Qd4 Qf6 24. Bf4 dxe4 25. Bxe4 Nf3+ 26. Bxf3 Qxd4 27. Rxd4
+Bxf3 28. Rd7 Rd5 29. Rxd5 exd5 30. Be3 Re4 31. Re1 d4 32. Bd2 Rxe1+ 33. Bxe1 Be2
+34. f4 gxf3 35. Bf2 d3 36. Be1 Kg7 37. Kf2 Kf6 38. Ke3 Kf5 39. h3 h5 40. Bd2 Bf1
+41. Be1 Bxh3 42. Kxd3 Bf1+ 43. Ke3 Kg4 44. Kf2 Bb5 45. Bc3 Bc6 46. Be5 b5 47.
+Bb8 a6 48. Bc7 f5 49. b3 Bd5 50. Bd6 f4 51. gxf4 h4 52. f5 Kxf5 53. Ke3 Kg4 54.
+Kf2 h3 55. Ke3 Be4 56. Kf2 Bb1 57. a3 Ba2 58. b4 Bf7 0-1
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.25"]
+[Round "9"]
+[White "Svidler,P"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2800"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "4101588"]
+[EventDate "2011.11.16"]
+
+1. Nf3 d5 2. c4 e6 3. g3 dxc4 4. Qa4+ Nd7 5. Bg2 a6 6. Qxc4 b5 7. Qb3 Bb7 8. O-O
+Ngf6 9. Nc3 Be7 10. d3 O-O 11. a4 b4 12. Nb1 Nc5 13. Qc2 e5 14. Be3 e4 15. Bxc5
+Bxc5 16. dxe4 Nxe4 17. Nfd2 Bxf2+ 18. Rxf2 Nxf2 19. Bxb7 Ng4 20. Nf3 Rb8 21.
+Bxa6 Qf6 22. Bd3 Qb6+ 23. Kh1 Nf2+ 24. Kg2 Nxd3 25. exd3 Rfe8 26. a5 Qf6 27. Qf2
+Rbd8 28. Ra4 c5 29. a6 Rxd3 30. a7 Qc6 31. Ra5 Qa8 32. Nd2 Rde3 33. Nc4 R3e6 34.
+Kg1 f6 35. Ncd2 c4 36. Nxc4 Qe4 37. Nd4 R6e7 38. Nd6 Qb1+ 39. Kg2 Ra8 40. Qf3
+Raxa7 41. Qa8+ 1-0
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.25"]
+[Round "9"]
+[White "Gelfand,B"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2811"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2805677"]
+[BlackFideId "5000017"]
+[EventDate "2011.11.16"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. a3 dxc4 7. e4 b5 8. Nxb5
+Nxe4 9. Bxc4 Nd6 10. Bd3 Nxb5 11. Bxb5 Bb7 12. O-O Nd7 13. Rc1 Bd6 14. Bg3 Rb8
+15. Ne5 Nxe5 16. dxe5 Be7 17. Qxd8 Bxd8 18. Bc4 Be7 19. Rfd1 Rfd8 20. Bf4 Rxd1+
+21. Rxd1 Bc6 22. Rd2 a5 23. Kf1 Kf8 24. Be3 Ke8 25. f4 a4 26. Ba7 Ra8 27. Be3
+Rb8 28. Ba7 Ra8 29. Be3 1/2-1/2
+
+[Event "6th Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2011.11.25"]
+[Round "9"]
+[White "Karjakin,Sergey"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2775"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "14100010"]
+[EventDate "2011.11.16"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 Qc7 8.
+Qe2 Bb7 9. e5 c5 10. O-O d5 11. exd6 Bxd6 12. Be4 Nf6 13. Bxb7 Qxb7 14. Bg5 Qxb2
+15. Bxf6 gxf6 16. Ne4 Be5 17. Rab1 Qxa2 18. f4 Bd4+ 19. Kh1 O-O 20. f5 Kh8 21.
+Qf3 Qd5 22. c3 Be5 23. Qe3 Rg8 24. fxe6 fxe6 25. Rb2 Rg4 26. Nxf6 Rf8 27. Rd2
+Qc4 28. Rdd1 Rf4 29. Rxf4 Bxf4 30. Qe4 Qxe4 31. Nxe4 a5 32. g3 Be5 33. Ra1 Ra8
+34. Ra4 c4 35. Kg2 Kg7 36. Kf3 Kg6 37. h3 h5 38. g4 h4 39. Ke2 Bg7 40. Kf2 Rf8+
+41. Ke2 Ra8 42. Kf2 Rf8+ 1/2-1/2

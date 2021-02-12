@@ -1,0 +1,1156 @@
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.02"]
+[Round "1.1"]
+[White "Caruana,F"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2807"]
+[BlackElo "2822"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4 b4
+9. a5 O-O 10. Nbd2 Rb8 11. Re1 Be6 12. Bxe6 fxe6 13. Nb3 Qc8 14. Qe2 Nd8 15. d4
+exd4 16. Nbxd4 c5 17. Nb3 e5 18. Nbd2 Ne6 19. Nc4 Nd4 20. Nxd4 cxd4 21. Nb6 Qc6
+22. Bg5 Bd8 23. Bxf6 Bxb6 24. axb6 Rxf6 25. Rxa6 h6 26. Qd3 Rxb6 27. Rea1 Rxa6
+28. Rxa6 Qc5 29. Ra8+ Kh7 30. h3 b3 31. Qxb3 d3 32. cxd3 Qxf2+ 33. Kh2 Qf4+ 34.
+Kh1 Qc1+ 35. Kh2 Qf4+ 36. Kh1 Qg3 37. Qg8+ Kg6 38. Rf8 Qxd3 39. Rxf6+ Kxf6 40.
+Qf8+ Ke6 41. Qe8+ Kf6 42. Qf8+ Ke6 43. Qe8+ 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.02"]
+[Round "1.2"]
+[White "Vachier Lagrave,M"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2791"]
+[BlackElo "2810"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "623539"]
+[BlackFideId "5202213"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. a4 d6 7. c3 a6 8. h3 h6
+9. Nbd2 Ba7 10. Re1 Ne7 11. Bb3 Ng6 12. d4 Re8 13. Bc2 Bd7 14. a5 c6 15. dxe5
+dxe5 16. Nc4 Qe7 17. Qd6 Qxd6 18. Nxd6 Re6 19. Rd1 Rb8 20. Kf1 Re7 21. Nc4 Rbe8
+22. b3 Be6 23. Nb6 Bxb6 24. axb6 Rd7 25. Be3 Rc8 26. c4 Rxd1+ 27. Rxd1 c5 28.
+Ne1 Nd7 29. Nd3 f6 30. Ra1 Ne7 31. Ke2 Kf7 32. Kd2 f5 33. f4 exf4 34. Nxf4 g5
+35. Nxe6 Kxe6 36. exf5+ Nxf5 37. Bg1 Nd4 38. Re1+ Kf6 39. Rf1+ Ke7 40. Re1+ Kd8
+41. Be4 Nxb3+ 42. Kc3 Nd4 43. Bh2 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.02"]
+[Round "1.3"]
+[White "Aronian,L"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2742"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "13300474"]
+[BlackFideId "4168119"]
+[EventDate "2017.08.02"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. bxc3 g6 7. h4 Bg7 8. h5
+Nc6 9. Ba3 Qa5 10. Rh4 Bd7 11. Qb3 O-O 12. hxg6 hxg6 13. Qxb7 Rfd8 14. Qa6 Bxc3
+15. Qxa5 Bxa5 16. Bxc5 Be6 17. Bb5 Ne5 18. Nd4 Rd5 19. Bxe7 Kg7 20. f4 Nd7 21.
+f5 Bxf5 22. Bc6 Re5 23. Nxf5+ gxf5 24. Bg5 Kg6 25. Bf4 Rd8 26. Bxd7 Rc5 27. Rh6+
+Kg7 28. Rd6 Bc7 29. Rc6 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.02"]
+[Round "1.4"]
+[White "Anand,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2792"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "2016192"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bg5 h6 7. Bh4 Re8 8. Nbd2
+Be7 9. Bg3 d6 10. h3 a6 11. Ba4 b5 12. Bc2 Bb7 13. O-O Bf8 14. Nh2 d5 15. exd5
+Qxd5 16. Nhf3 Qd7 17. Re1 Bd6 18. Re2 Rad8 19. Qf1 Nh5 20. Bh2 Re7 21. Rae1 Rde8
+22. g4 Nf6 23. Ne4 Nxe4 24. dxe4 Qe6 25. Bb3 Qf6 26. Qg2 Na5 27. Bc2 Nc4 28. Bb3
+Na5 29. Bc2 Nc4 30. Bb3 Na5 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.02"]
+[Round "1.5"]
+[White "Karjakin,Sergey"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2749"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14109603"]
+[BlackFideId "4102142"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 O-O
+9. h3 Ne7 10. d4 Ng6 11. Nbd2 h6 12. Bb3 Re8 13. Bc2 b5 14. b4 Bb7 15. Bb2 Qd7
+16. c4 exd4 17. cxb5 d3 18. Bxd3 Nf4 19. Bf1 Nxe4 20. Nxe4 Bxe4 21. bxa6 Qf5 22.
+Ra3 c5 23. Nh4 Qe6 24. b5 c4 25. Bd4 Bxd4 26. Qxd4 d5 27. Rg3 g5 28. f3 Nh5 29.
+Rg4 Nf6 30. Rgxe4 Nxe4 31. fxe4 gxh4 32. Rd1 Qxe4 33. Qxe4 Rxe4 34. Rxd5 c3 35.
+Rc5 Rxa4 36. b6 Kg7 37. b7 Re8 38. Rxc3 Ra1 39. a7 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.03"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2773"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "1503014"]
+[BlackFideId "14109603"]
+[EventDate "2017.08.02"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. e4 d6 6. d3 g6 7. a3 Bg7 8. c3 O-O
+9. b4 a6 10. Nbd2 b5 11. Rb1 Nd7 12. Nb3 cxb4 13. axb4 Nb6 14. Be3 Be6 15. Qd2
+Rc8 16. Rfc1 Re8 17. h4 Na4 18. c4 h5 19. Kh2 Bg4 20. cxb5 axb5 21. Na5 Nd4 22.
+Rxc8 Qxc8 23. Rc1 Qd7 24. Nxd4 exd4 25. Bh6 Bh8 26. Rc6 Nc3 27. f3 Be6 28. Bf4
+Be5 29. Bxe5 dxe5 30. f4 Qe7 31. Rc5 Rc8 32. Rxc8+ Bxc8 33. Nc6 Qd6 34. Nxe5
+Qxb4 35. f5 Qd6 36. Nf3 gxf5 37. Qg5+ Kh7 38. e5 Qg6 39. Qd8 Be6 40. Ng5+ Kg7
+41. Qxd4 Na4 42. Nh3 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.03"]
+[Round "2.2"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2807"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "13300474"]
+[BlackFideId "2020009"]
+[EventDate "2017.08.02"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Be2 cxd4 8. exd4
+Nc6 9. Nc3 Be7 10. Be3 Ng4 11. Bf4 Nf6 12. Rc1 O-O 13. Na4 Nd5 14. Bg3 Bd6 15.
+Bd3 Nce7 16. Qb3 b6 17. Be4 Rb8 18. Rfe1 Bb7 19. Nc3 Nxc3 20. Bxb7 Nxa2 21. Qxa2
+Rxb7 22. Qxa6 Rc7 23. b3 Nf5 24. Rxc7 Qxc7 25. Qb5 h6 26. d5 exd5 27. Qxd5 Nxg3
+28. hxg3 Rd8 29. Qb5 g6 30. Ne5 Qc5 31. Qxc5 Bxc5 32. Kf1 Kg7 33. Ke2 Bb4 34.
+Rc1 Re8 35. f4 f6 36. Rc7+ Kh8 37. Rc6 fxe5 38. Rxb6 exf4+ 39. Kf3 Re3+ 40. Kxf4
+Bd2 41. Rxg6 Kh7 42. Kf5 Rxb3 43. Rd6 Bg5 44. Rd7+ Kg8 45. Kg4 Bf6 46. Kf5 Bg7
+47. g4 Rb2 48. g3 Rb5+ 49. Ke4 Bf6 50. Rd3 Rb4+ 51. Kf3 Bg5 52. Rd5 Rb3+ 53. Kg2
+Kf7 54. Rd6 Ke7 55. Rc6 Rd3 56. Ra6 Rd6 57. Ra3 Ke6 58. Kf3 Ke5 59. Ra5+ Rd5 60.
+Ra3 Kd4 61. Ra4+ Kd3 62. Ra3+ Kd2 63. Ra1 Rc5 64. Kf2 Rc2 65. Rb1 Bf6 66. Kg2
+Ke3+ 67. Kh3 Kf2 68. Rb5 Re2 69. Rb6 Bg5 70. Rb5 Bd2 71. Kh2 Kf1+ 72. Kh1 Re4
+73. Rf5+ Ke2 74. Kg2 Rxg4 75. Rf2+ Kd3 76. Rf6 Rd4 77. Rf1 Ke4 78. Rf8 Bg5 79.
+Rf1 Be3 80. Rf8 Rd2+ 81. Kh3 Bg1 82. Kg4 Ke5 83. Rf5+ Ke6 84. Rf1 Bd4 85. Rh1
+Bg7 86. Kf3 Kf5 87. Rh5+ Kg6 88. Rb5 Rd3+ 89. Kf4 Bf8 90. Rb6+ Bd6+ 91. Ke4 Rd1
+92. Kf3 Kf5 93. Rb5+ Be5 94. Rb6 h5 95. Rh6 Kg5 96. Re6 Bd6 97. Re8 Rc1 98. Re6
+Rd1 99. Re8 Rg1 100. Kf2 Rc1 101. Kf3 Kf5 102. Re3 Bc5 103. Rd3 Ke5 104. Rd2
+Rc3+ 105. Kg2 Ke6 106. Kh3 Bd6 107. Kh4 Bxg3+ 108. Kxh5 Kf5 109. Rd5+ Be5 110.
+Kh4 Rc4+ 0-1
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.03"]
+[Round "2.3"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2791"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "623539"]
+[EventDate "2017.08.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Nbd7 9. Bg2 b5 10. Nd5 Nxd5 11. Qxd5 Qc7 12. Be3 Bb7 13. Qd2 Rc8 14. Nc3 Nb6 15.
+Bxb6 Qxb6 16. a4 Be7 17. axb5 axb5 18. h4 O-O 19. O-O Rc4 20. b3 Rc7 21. Nd1 Qd4
+22. Qa5 Qc5 23. Ne3 Ra8 24. Qd2 g6 25. Rxa8+ Bxa8 26. Ra1 Ra7 27. Ra5 Qb6 28.
+Rxa7 Qxa7 29. Qc3 Qb8 30. Qb4 Bc6 31. c4 Kf8 32. Nd5 Bxd5 33. cxd5 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.03"]
+[Round "2.4"]
+[White "Svidler,P"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2783"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "4102142"]
+[BlackFideId "5000017"]
+[EventDate "2017.08.02"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. e3 e6 5. d4 d5 6. cxd5 exd5 7. Bb5 cxd4 8.
+Nxd4 Bd7 9. O-O Bd6 10. Nf3 a6 11. Ba4 Be6 12. Ne2 O-O 13. Nf4 Bxf4 14. exf4 b5
+15. Bb3 Bg4 16. h3 Bxf3 17. Qxf3 Nd4 18. Qd3 Nxb3 19. axb3 d4 20. Bd2 Re8 21.
+Rfd1 Qd5 22. Ba5 h6 23. Qxd4 Qxb3 24. f5 Re4 25. Qc3 Qxc3 26. Bxc3 b4 27. Be1 a5
+28. f3 Re2 29. Bxb4 Rxb2 30. Bxa5 Rb5 31. Rd8+ 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.03"]
+[Round "2.5"]
+[White "Nepomniachtchi,I"]
+[Black "So,W"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2810"]
+[ECO "A10"]
+[Opening "English opening"]
+[WhiteFideId "4168119"]
+[BlackFideId "5202213"]
+[EventDate "2017.08.02"]
+
+1. c4 g6 2. Nc3 c5 3. d4 cxd4 4. Qxd4 Nf6 5. Bf4 Nc6 6. Qd2 d6 7. e4 Bg7 8. Bd3
+Ne5 9. Nge2 Nh5 10. Be3 Ng4 11. Bg5 h6 12. Bh4 g5 13. Bg3 Be6 14. h3 Ne5 15.
+Bxe5 Bxe5 16. g3 Qa5 17. f4 Bxc3 18. bxc3 Qc7 19. fxg5 hxg5 20. Qxg5 Bxc4 21.
+Bxc4 Qxc4 22. Qd5 Qxd5 23. exd5 Rc8 24. Rb1 b6 25. Rb3 Nf6 26. Ra3 a5 27. Nf4
+Rg8 28. c4 Rxc4 29. Ke2 Ne4 30. g4 f5 31. Rg1 fxg4 32. hxg4 Nc3+ 33. Kd3 Rxf4
+34. Rxc3 Rgxg4 35. Rc8+ Kf7 36. Rb1 Rd4+ 37. Ke3 Rxd5 38. Rxb6 Rg2 39. a4 Rg4 0-1
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.04"]
+[Round "3.1"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2822"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. Nc3 O-O 8. d3
+d6 9. Nd5 h6 10. c3 Rb8 11. Re1 Ba7 12. Be3 Bxe3 13. Nxe3 Re8 14. a4 b4 15. a5
+bxc3 16. bxc3 Be6 17. Bxe6 Rxe6 18. Nd5 Ne7 19. Nxf6+ Rxf6 20. d4 Ng6 21. g3 Qc8
+22. Re3 Rb5 23. Nd2 h5 24. h4 Qh3 25. Qf1 Qg4 26. Qe2 Qxe2 27. Rxe2 Re6 28. Nf1
+Nf8 29. Rc2 exd4 30. cxd4 c5 31. dxc5 dxc5 32. Nd2 Rd6 33. Nc4 Rd4 34. Kg2 Ne6
+35. Ra3 g6 36. Nd2 Kg7 37. Rac3 Rdb4 38. Ra2 Rd4 39. Rac2 Ra4 40. Nb3 Rxb3 41.
+Rxb3 Nd4 42. Rcb2 Nxb3 43. Rxb3 Rxe4 44. Rb6 Re6 45. Rb7 c4 46. Rc7 Re5 47. Rxc4
+Rxa5 48. Rc6 Ra2 49. Kf3 a5 50. Ra6 a4 51. Ke3 a3 52. Kf3 f6 53. Ra7+ Kf8 54.
+Kg2 Ra1 55. Kf3 Ke8 56. Ra6 Ke7 57. Kg2 Kf7 58. Kf3 Ra2 59. Kg2 g5 60. g4 gxh4
+61. gxh5 Ra1 62. Ra7+ Kg8 63. h6 Kh8 64. Kh2 f5 65. f4 a2 66. Kg2 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.04"]
+[Round "3.2"]
+[White "Vachier Lagrave,M"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2791"]
+[BlackElo "2749"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "623539"]
+[BlackFideId "4102142"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 Na5
+9. Ba2 c5 10. Nc3 Be6 11. Nh4 O-O 12. Nf5 Nc6 13. Nd5 Bxf5 14. exf5 Nxd5 15.
+Bxd5 Rc8 16. a4 Bf6 17. axb5 axb5 18. c4 bxc4 19. dxc4 Bg5 20. Be3 Kh8 21. Qh5
+h6 22. Bxf7 Nd4 23. h4 Bxe3 24. fxe3 Qf6 25. Ra7 Ne2+ 26. Qxe2 Rxf7 27. Rxf7
+Qxf7 28. Qg4 Rb8 29. Ra1 Qf6 30. Qe4 Kh7 31. Ra2 h5 32. Kh2 d5 33. Qxd5 Qxh4+
+34. Kg1 Qe1+ 35. Kh2 Qh4+ 36. Kg1 Qe1+ 37. Kh2 Qxe3 38. Qf7 Qf4+ 39. Kh1 Qh4+
+40. Kg1 Qe1+ 41. Kh2 Qh4+ 42. Kg1 Qd4+ 43. Kh1 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.04"]
+[Round "3.3"]
+[White "Caruana,F"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2807"]
+[BlackElo "2742"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "2020009"]
+[BlackFideId "4168119"]
+[EventDate "2017.08.02"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 g6 5. Bg2 Nc6 6. d3 Bg7 7. h3 Rb8 8. a4 a6
+9. f4 Bd7 10. Be3 b5 11. axb5 axb5 12. Qd2 b4 13. Nd1 O-O 14. O-O Qc7 15. g4 Ra8
+16. Rb1 Ra2 17. f5 Ne5 18. Bh6 Qa7 19. Kh1 Bb5 20. Bxg7 Kxg7 21. Nf4 c4 22. g5
+Nfd7 23. Ne3 b3 24. d4 bxc2 25. Nxc2 Nd3 26. Nd5 e5 27. Nc3 Qa5 28. dxe5 N7xe5
+29. Nd4 Bd7 30. Rfd1 Qc5 31. Nxa2 Qxd4 32. Rf1 Bc6 33. Nc3 Rb8 34. Qe2 Rb3 35.
+Nd1 Nc5 36. Nc3 Ncd3 37. Nd1 Nc5 38. Nc3 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.04"]
+[Round "3.4"]
+[White "So,W"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2792"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5202213"]
+[BlackFideId "2016192"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. a4 a6 7. c3 O-O 8. Re1 Ba7
+9. h3 b5 10. Bb3 h6 11. axb5 axb5 12. Be3 Bd7 13. Bxa7 Rxa7 14. Nbd2 Rxa1 15.
+Qxa1 Nh5 16. Nf1 Qf6 17. Qd1 b4 18. d4 bxc3 19. bxc3 Nf4 20. Ne3 Qg6 21. Kh2 Re8
+22. Ba4 Qf6 23. Ng4 Qe7 24. Ne3 Qf6 25. Bb5 exd4 26. cxd4 Nb8 27. Bf1 Ng6 28.
+Nd5 Qd8 29. Qc2 c6 30. Nc3 c5 31. Rd1 Nc6 32. dxc5 dxc5 33. Nb5 Qb8+ 34. Kg1 Nb4
+35. Qxc5 Bxb5 36. Qxb4 Bc6 37. Qxb8 Rxb8 38. Bd3 Rb4 39. Rb1 Ra4 40. Bc2 Rc4 41.
+Rb8+ Kh7 42. Bb3 Rc1+ 43. Kh2 Bxe4 44. Bxf7 Ne7 45. Re8 Rc7 46. Ne5 Bd5 47. Bh5
+g6 48. Be2 Nc6 49. Ng4 Kg7 50. Ne3 Bf7 51. Re4 Rb7 52. Bf3 Rb4 53. Rxb4 Nxb4 54.
+Be4 Na6 55. f4 Nc5 56. Bb1 Nd7 57. g4 Nf6 58. Kg3 Nd5 59. Nd1 Be8 60. Be4 Ba4
+61. Nb2 Nc3 62. Kf3 Bb5 63. Bb7 g5 64. fxg5 hxg5 65. Be4 Nxe4 66. Kxe4 Bf1 67.
+Kf5 Bxh3 68. Kxg5 Bxg4 69. Kxg4 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.04"]
+[Round "3.5"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2809"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14109603"]
+[BlackFideId "13300474"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. a4 a6 7. O-O Ba7 8. Re1 d6
+9. h3 b5 10. Ba2 b4 11. d4 bxc3 12. bxc3 Re8 13. Be3 h6 14. Nbd2 Na5 15. Rb1 Be6
+16. Qc2 Bxa2 17. Qxa2 Bb6 18. Qc2 Nd7 19. Qd3 Qe7 20. Rb2 Nc6 21. Qc4 Na5 22.
+Qd3 Nc6 23. Qc4 Na5 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.05"]
+[Round "4.1"]
+[White "Carlsen,M"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2791"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "1503014"]
+[BlackFideId "623539"]
+[EventDate "2017.08.02"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. dxc3 Qxd1+ 7. Kxd1 Bf5
+8. Nd2 Nc6 9. e4 Bg6 10. Bb5 Rc8 11. h4 h5 12. Re1 e6 13. a4 Be7 14. g3 O-O 15.
+a5 Rfd8 16. a6 b6 17. Kc2 Ne5 18. f4 Ng4 19. Kb3 f6 20. Nc4 Nf2 21. e5 Ne4 22.
+Be3 Bf5 23. Rg1 Rd5 24. Rae1 Kf7 25. Bc1 Bh7 26. Re3 Rcd8 27. Bc6 Nf2 28. Re2
+Nd3 29. exf6 gxf6 30. Bb5 Rg8 31. Bd2 Rgd8 32. Be3 Be4 33. Rd2 Rg8 34. Ka4 Rgd8
+35. Kb3 Rg8 36. Ka2 f5 37. Rh2 Rc8 38. Rd2 Rg8 39. Re2 Bf3 40. Rh2 Bf6 41. Nd2
+Bg4 42. Rf1 Rgd8 43. Nc4 e5 44. fxe5 Bxe5 45. Bg5 Bxg3 46. Rg2 Bh3 47. Rxg3 Bxf1
+48. Rf3 Be2 49. Bxd8 Bxf3 50. Bxb6 axb6 51. Bc6 Be4 52. a7 Rd8 53. Nd6+ Rxd6 54.
+Bxe4 Rd8 55. a8=Q Rxa8+ 56. Bxa8 Ne5 57. Kb3 f4 58. Kc2 Kg7 59. Kd2 Ng6 60. Kd3
+Nxh4 61. Ke4 f3 62. Ke3 Kf6 63. b4 c4 64. Bd5 Kf5 65. Bxc4 Kg4 66. Kf2 Ng6 67.
+Be6+ Kf4 68. Bf7 Ne5 69. Bxh5 Nd3+ 70. Kf1 Kg3 71. Bf7 Nf2 0-1
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.05"]
+[Round "4.2"]
+[White "Caruana,F"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2807"]
+[BlackElo "2773"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "14109603"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 d5 6. exd5 Qxd5 7. Bc4 Qd6 8.
+Nbd2 O-O 9. b4 Bb6 10. a4 e4 11. dxe4 Ne5 12. Qe2 a5 13. O-O Bg4 14. bxa5 Rxa5
+15. Ba3 Bc5 16. Bb4 Bxb4 17. cxb4 Qxb4 18. Rfb1 Qd6 19. h3 Bxf3 20. Nxf3 b6 21.
+Bb5 Raa8 22. Re1 Rad8 23. Rac1 c5 24. Rc3 g6 25. Rb3 Nxf3+ 26. Qxf3 Qe5 27. Bc4
+Rd6 28. Rb5 Rd4 29. Rxb6 Rxc4 30. Qxf6 Qxf6 31. Rxf6 Rxa4 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.05"]
+[Round "4.3"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2783"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2017.08.02"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. h4 Bg7 8. h5
+Bf5 9. Ng5 e6 10. h6 Bf6 11. Nge4 Be7 12. d3 Bxe4 13. Bxe4 O-O 14. Bd2 Qd7 15.
+Rc1 Rfd8 16. Bg2 b6 17. Qa4 Rab8 18. O-O Nd4 19. Qxd7 Rxd7 20. Rfe1 Rbd8 21. g4
+Nb4 22. a3 Nd5 23. Nxd5 exd5 24. Rc3 Nb5 25. Rc2 Nd4 26. Rc3 Nb5 27. Rc2 Nd4 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.05"]
+[Round "4.4"]
+[White "Svidler,P"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2810"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4102142"]
+[BlackFideId "5202213"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Bg4 11. h3 Bh5 12. Qc2 Bg6 13. Qb3 Ne7 14. O-O c6 15. Bd3
+Nf5 16. Rae1 Nxd4 17. Bxd4 Bxd4 18. Nxe4 dxe4 19. Bxe4 Bxe4 20. Rxe4 Bb6 21. e6
+Qe7 22. exf7+ Qxf7 23. Re6 Kh8 24. Ne5 Bxf2+ 25. Kh1 Qg8 26. Nd7 Rf7 27. Ne5
+Rff8 28. Nd7 Rf7 29. Ne5 Rff8 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.05"]
+[Round "4.5"]
+[White "Nepomniachtchi,I"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2792"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2017.08.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ 11. Nd2 Nc6 12. O-O Be6 13. Nf3 Be7 14. Rc1 Bf6
+15. a3 Qe7 16. b4 a6 17. h3 Rac8 18. Rc5 a5 19. Qb1 axb4 20. axb4 b6 21. Rcc1 g6
+22. Ba6 Nxb4 23. Bxc8 Rxc8 24. Rxc8+ Bxc8 25. Rc1 Bf5 26. Qb3 Nd3 27. Rc7 Qd8
+28. Bg3 h5 29. Qxb6 h4 30. Bd6 Be4 31. Qc6 Kg7 32. Rc8 d4 33. Qxe4 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.06"]
+[Round "5.1"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2791"]
+[BlackElo "2809"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "623539"]
+[BlackFideId "13300474"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. a4 a6 7. c3 Ba7 8. Re1 d6
+9. h3 b5 10. Bb3 b4 11. a5 Rb8 12. Nbd2 Be6 13. Bc2 h6 14. Nf1 d5 15. exd5 Nxd5
+16. Bd2 b3 17. Bb1 Qd6 18. Qe2 Rbe8 19. Ra3 f5 20. Nxe5 Bd7 21. d4 Nxd4 22. cxd4
+Bxd4 23. Rxb3 Rxe5 24. Qc4 Rxe1 25. Bxe1 Re8 26. Bb4 Qe5 27. Rd3 Bb5 28. Qxd4
+Bxd3 29. Qxd3 Nxb4 30. Qc4+ Nd5 31. Ba2 Kh7 32. Qxd5 Qxd5 33. Bxd5 Re5 34. Bc4
+Rxa5 35. f4 Ra1 36. Kf2 a5 37. Nd2 Kg6 38. Bd3 Kf6 39. Nc4 a4 40. g4 fxg4 41.
+hxg4 Ke6 42. Be4 Rc1 43. Ne3 Ra1 44. Nc4 Rc1 45. Ne3 Ra1 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.06"]
+[Round "5.2"]
+[White "Anand,V"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2807"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "5000017"]
+[BlackFideId "2020009"]
+[EventDate "2017.08.02"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8. d3
+Bb6 9. Bd2 Bg4 10. Rc1 Nxc3 11. Bxc3 Re8 12. b4 Qd6 13. Nd2 Qh6 14. Nc4 Qh5 15.
+Rc2 Rad8 16. Nxb6 cxb6 17. f3 Be6 18. Qd2 b5 19. f4 Bg4 20. Bxc6 bxc6 21. fxe5
+f6 22. exf6 Rxe2 23. f7+ Kf8 24. Bxg7+ Kxg7 25. Qc3+ Re5 26. Qd4 Qg5 27. Rc5
+Rxd4 28. f8=Q+ Kg6 29. Qf7+ 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.06"]
+[Round "5.3"]
+[White "So,W"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2822"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Be7 6. Nxc6 bxc6 7. Bd3 d6 8.
+O-O Nf6 9. Re1 O-O 10. Nd2 Re8 11. Nf3 Nd7 12. Bf4 Nc5 13. Bc2 Bg4 14. h3 Bh5
+15. Be3 Nd7 16. Ba4 c5 17. g4 Bg6 18. e5 Rb8 19. Bf4 Rxb2 20. exd6 Bxd6 21.
+Rxe8+ Qxe8 22. Bxd6 cxd6 23. Qxd6 Qe2 24. Qg3 Nf8 25. Re1 Rb1 26. Rxb1 Bxb1 27.
+Bc6 Bxa2 28. Qd6 Qc4 29. Ne5 Qxc3 0-1
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.06"]
+[Round "5.4"]
+[White "Karjakin,Sergey"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2742"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[WhiteFideId "14109603"]
+[BlackFideId "4168119"]
+[EventDate "2017.08.02"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bd3 O-O 6. Nf3 Nc6 7. Be2 Bg4 8. Be3
+Bxf3 9. Bxf3 e5 10. fxe5 dxe5 11. d5 Nd4 12. O-O c6 13. dxc6 bxc6 14. Ne2 Qc7
+15. c3 Nxf3+ 16. gxf3 Nh5 17. Qd3 Rfd8 18. Qc4 Rd7 19. Rad1 Rad8 20. Rxd7 Rxd7
+21. b4 Qd6 22. Qa6 Qc7 23. a4 Bf6 24. a5 Kg7 25. Qc4 h6 26. a6 Bg5 27. Bxg5 hxg5
+28. Qc5 Kg8 29. b5 cxb5 30. Qxc7 Rxc7 31. Rb1 Rc5 32. Rd1 Nf4 33. Nxf4 gxf4 34.
+Rd7 Rxc3 35. Kg2 Rc2+ 36. Kg1 Ra2 37. Rxa7 Kg7 38. Rb7 Rxa6 39. Rxb5 Kf6 40. h4
+Ke6 41. Rb7 f5 42. exf5+ gxf5 43. h5 e4 44. h6 e3 45. h7 Ra8 46. Kf1 Kf6 47. Ra7
+Rh8 48. Ke2 Kg6 49. Ra4 Rxh7 50. Rxf4 Kg5 51. Ra4 Re7 52. f4+ Kg4 53. Rb4 Kg3
+54. Ra4 Rb7 55. Kxe3 Re7+ 56. Kd2 Kf3 57. Kd1 Re8 58. Rb4 Rh8 59. Rb5 Rh5 60.
+Ke1 Kxf4 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.06"]
+[Round "5.5"]
+[White "Nakamura,Hi"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2749"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "2016192"]
+[BlackFideId "4102142"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 Nxe5 11. Nbd2 Ned7 12. Nd4 Bb7 13. c3 bxc3 14. bxc3 Nc5 15.
+Bc2 Re8 16. f3 Nfd7 17. a5 d5 18. exd5 Bxd5 19. Nf1 Ne6 20. Be3 Bc5 21. Nxe6
+Bxe6 22. Be4 Rb8 23. Qd3 Bxe3+ 24. Nxe3 Nc5 25. Bxh7+ Kf8 26. Qxd8 Rexd8 27. Bc2
+Rd2 28. Rad1 Rxd1 29. Rxd1 Rb2 30. Rd8+ Ke7 31. Rg8 g6 32. f4 Ra2 33. h4 Nd7 34.
+Rc8 Rxa5 35. Rxc7 Kd6 36. Ra7 Ra3 37. f5 gxf5 38. Bxf5 Ne5 39. h5 Bxf5 40. Nxf5+
+Ke6 41. Ne3 Kf6 42. h6 Kg6 43. Re7 Ra5 44. Kh2 Rc5 45. Kg3 Nc6 46. Rc7 Rxc3 47.
+Kf2 Rc5 48. h7 Kxh7 49. Rxf7+ Kg6 50. Rc7 Ne5 51. Rxc5 Nd3+ 52. Ke2 Nxc5 53. Kd2
+Kg5 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.08"]
+[Round "6.1"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2807"]
+[BlackElo "2791"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[WhiteFideId "2020009"]
+[BlackFideId "623539"]
+[EventDate "2017.08.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. a3 Be7 10. Qd3 Nbd7 11. O-O-O g5 12. fxg5 Ne5 13. Qd2 Nh7 14. Nf3 hxg5
+15. Bf2 Qc7 16. Be2 Bd7 17. h4 Rg8 18. h5 g4 19. Nxe5 dxe5 20. Bh4 Bc6 21. Qe3
+Bxh4 22. Rxh4 Qe7 23. Rxg4 Rxg4 24. Bxg4 Qg5 25. Qxg5 Nxg5 26. Bf3 Ke7 27. Kd2
+Rh8 28. Rh1 f5 29. Ke3 Kf6 30. b4 b5 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.08"]
+[Round "6.2"]
+[White "Carlsen,M"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2792"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2017.08.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ 11. Nd2 Nc6 12. O-O Be7 13. Rc1 Bf6 14. Nf3 Qe7
+15. h3 g6 16. Bb5 Bd7 17. Qxd5 Be6 18. Qe4 Bxb2 19. Bxc6 f5 20. Bg5 fxe4 21.
+Bxe7 Bxc1 22. Bxb7 Bxe3 23. Bxf8 Rxf8 24. fxe3 exf3 25. Bxf3 Rb8 26. a4 Rb4 27.
+Bc6 Rc4 28. Bb5 Re4 29. Rd1 a6 30. Bxa6 Rxa4 31. Bb7 Kf7 32. Kf2 Kf6 33. Bd5 Bf5
+34. g4 Be6 35. Kf3 Ra5 36. Bxe6 Kxe6 37. h4 Ra2 38. Rb1 Ra7 39. Kf4 Ra4+ 40. e4
+Ra7 41. Rb6+ Kf7 42. Rc6 Rd7 43. g5 Ra7 44. Ke5 Re7+ 45. Kd5 Rd7+ 46. Rd6 Ra7
+47. Rf6+ Ke7 48. Rc6 Rd7+ 49. Ke5 Ra7 50. Rc5 Rd7 51. Ra5 Kf7 52. Ra1 Re7+ 53.
+Kf4 Rb7 54. Ra6 Rc7 55. Kg4 Re7 56. Rf6+ Ke8 57. Kf4 Ra7 58. Rb6 Kf7 59. Ke5
+Re7+ 60. Kd5 Rd7+ 61. Rd6 Ra7 62. Rd8 Ra5+ 63. Kd4 Ra4+ 64. Ke5 Ra5+ 65. Kf4 Ra7
+66. Rd4 Ke6 67. Rb4 Rf7+ 68. Ke3 Ra7 69. Rb8 Re7 70. Rh8 Ra7 71. Re8+ Kf7 72.
+Rb8 Ke6 73. Rb6+ Kf7 74. Kf4 Re7 75. Rf6+ Ke8 76. h5 gxh5 77. e5 Rf7 78. Ke4 Rg7
+79. Kf5 Rf7 80. Kf4 h4 81. Kg4 Re7 82. e6 Ra7 83. Rh6 Kf8 84. Kxh4 Ra4+ 85. Kh5
+Re4 86. Rf6+ Kg7 87. Rf7+ Kg8 88. Re7 Kf8 89. Rxh7 Rxe6 90. Rh6 Re1 91. Ra6 Kg7
+92. Ra7+ Kg8 93. Kh6 Re6+ 94. g6 Re8 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.08"]
+[Round "6.3"]
+[White "Karjakin,Sergey"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2783"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "14109603"]
+[BlackFideId "5000017"]
+[EventDate "2017.08.02"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 e6 4. Nf3 Bd6 5. Nbd2 c5 6. Bb5+ Nc6 7. dxc5 Bxc5 8.
+c4 Bd7 9. O-O O-O 10. cxd5 Nxd5 11. Bg3 Ne5 12. Bxd7 Nxf3+ 13. Nxf3 Qxd7 14. Qb3
+Nb6 15. Rfd1 Qa4 16. Qxa4 Nxa4 17. Be5 f6 18. b3 Nb6 19. Bd4 Rac8 20. e4 e5 21.
+Bxc5 Rxc5 22. Rac1 Rxc1 23. Rxc1 Rc8 24. Rxc8+ Nxc8 25. Nd2 Kf7 26. f3 Ke6 27.
+Kf2 Kd6 28. Ke3 Kc5 29. a3 Nd6 30. Kd3 a5 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.08"]
+[Round "6.4"]
+[White "Aronian,L"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2810"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "5202213"]
+[EventDate "2017.08.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8. e3
+O-O 9. Be2 dxc4 10. O-O Bxc3 11. bxc3 Bd7 12. Qxc4 Rac8 13. Rad1 Rfd8 14. Nd2
+Na5 15. Qb4 b6 16. Ba6 Rb8 17. Ne4 Qf5 18. Bd3 Bc6 19. f3 Bxe4 20. fxe4 Qg5 21.
+Rf3 c5 22. Qb2 e5 23. Rdf1 cxd4 24. cxd4 Rb7 25. d5 Rc7 26. h4 Qxh4 27. Qxe5 Qe7
+28. Qg3 Qc5 29. Rf6 h5 30. Rh6 Qc3 31. Rxh5 g6 32. e5 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.08"]
+[Round "6.5"]
+[White "Nepomniachtchi,I"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2749"]
+[ECO "C91"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Bogolyubov variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "4102142"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+d6 9. c3 Bg4 10. Be3 Bh5 11. Nbd2 Na5 12. Bc2 Ng4 13. Qe2 Nxe3 14. Qxe3 Bxf3 15.
+Nxf3 Nc4 16. Qc1 Bf6 17. a4 b4 18. cxb4 exd4 19. Bd3 Ne5 20. Nxe5 dxe5 21. Qc5
+Re8 22. Rec1 Be7 23. Qxc7 Bxb4 24. Qxd8 Rexd8 25. a5 Rdc8 26. Rxc8+ Rxc8 27. Kf1
+Rc5 28. Ra4 Bxa5 29. b4 Rc1+ 30. Ke2 Bd8 31. Rxa6 Kf8 32. b5 Rc3 33. Ra7 g5 34.
+g4 Bb6 35. Ra6 Bc5 36. Rh6 Kg7 37. Rc6 Bb4 38. Rxc3 Bxc3 39. b6 Ba5 40. b7 Bc7
+41. Bc2 Kf8 42. Kd3 Ke7 43. Kc4 f6 44. Kd5 h6 45. Bd3 Bb8 46. Kc6 Bd6 47. h3 Bb8
+48. f3 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.09"]
+[Round "7.1"]
+[White "Vachier Lagrave,M"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2791"]
+[BlackElo "2773"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "14109603"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. Rfe1
+Bb4 15. g4 hxg4 16. hxg4 Ne7 17. Nxe6 Rxe6 18. Kg2 Bxc3 19. bxc3 Rd8 20. Rxd8+
+Kxd8 21. Rh1 Nd5 22. Bg3 Rh6 23. Rxh6 gxh6 24. Kh3 Nxc3 25. Kh4 Nxa2 26. Kh5 Nc3
+27. Kxh6 a5 28. f4 a4 29. f5 Ke8 30. g5 a3 31. e6 a2 32. Kg7 fxe6 33. f6 a1=Q
+34. f7+ Kd7 35. Be5 Qa5 36. Bf6 Qc5 37. f8=Q Qxf8+ 38. Kxf8 Ne4 39. Kf7 Nxg5+
+40. Bxg5 Kd6 41. Kf6 e5 42. Kf5 Kd5 43. Bd8 Kd4 44. Bxc7 Kc3 45. Kxe5 Kxc2 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.09"]
+[Round "7.2"]
+[White "Svidler,P"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2822"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "1503014"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. b3 g6 10. f4 d6 11. Qf2 Nf6 12. Ba3 Qe6 13. Be2 dxe5 14. Bxf8 Kxf8 15.
+O-O exf4 16. Qxf4 Kg7 17. Nc3 Rae8 18. Bf3 Qe3+ 19. Qxe3 Rxe3 20. Na4 Bc8 21.
+Bxc6 Rd8 22. Rae1 Rxe1 23. Rxe1 Rd2 24. Nc3 Rc2 25. Nb5 Rxa2 26. Nxc7 Rb2 27.
+Ne8+ Nxe8 28. Rxe8 Be6 29. Bd5 Bxd5 30. cxd5 Rxb3 31. d6 Rd3 32. Ra8 Rxd6 33.
+Rxa7 Rd2 34. Ra6 g5 35. h3 h5 36. Ra5 Kg6 37. Rb5 Ra2 38. Kf1 Ra6 39. Kf2 f5 40.
+Rb8 Ra2+ 41. Kf3 Ra3+ 42. Kf2 g4 43. hxg4 hxg4 44. g3 Ra2+ 45. Kf1 Ra1+ 46. Kf2
+Ra2+ 47. Kf1 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.09"]
+[Round "7.3"]
+[White "Nakamura,Hi"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2809"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2017.08.02"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3 8.
+bxc3 Re8 9. f3 e3 10. d3 d5 11. Qa4 h6 12. cxd5 Nxd5 13. Ne4 f5 14. Nc5 f4 15.
+Ne4 Rb8 16. Qa3 Re6 17. c4 Nde7 18. Bb2 Nf5 19. d4 Ncxd4 20. Bxd4 Nxd4 21. Qxa7
+Nc6 22. Qa3 Qf8 23. Qxf8+ Kxf8 24. Rfd1 g5 25. Nc3 Re7 26. Nd5 Rf7 27. h4 Ra8
+28. a4 Na5 29. gxf4 gxf4 30. Kh2 Nxc4 31. Rac1 Nd2 32. Nxc7 Rxa4 33. Bh3 Nxf3+
+34. exf3 Ra2+ 35. Bg2 Rg7 36. Rg1 Rg3 37. Kh1 Bh3 38. Bf1 e2 39. Bxe2 Rxe2 40.
+Nd5 Rxf3 41. Rg6 Re6 42. Rcg1 Rxg6 43. Rxg6 Bd7 44. Kg2 Rg3+ 45. Rxg3 fxg3 46.
+Kxg3 Kf7 47. Kf4 Ke6 48. Nb4 Be8 49. Nd3 Kd5 50. Nf2 Bd7 51. Ke3 Ke5 52. Ne4 Bc6
+53. Ng3 Bd5 54. Kd3 Kf4 0-1
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.09"]
+[Round "7.4"]
+[White "Anand,V"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2742"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "5000017"]
+[BlackFideId "4168119"]
+[EventDate "2017.08.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. Bg5
+Be6 9. Bxf6 Qxf6 10. Nd5 Qd8 11. Qd3 Nd7 12. O-O-O g6 13. Kb1 Nc5 14. Qf3 Bg7
+15. Nec3 b5 16. Ne3 O-O 17. Rg1 Bh6 18. Ncd5 Bxe3 19. Qxe3 Rc8 20. Be2 Kg7 21.
+f4 Bxd5 22. Rxd5 exf4 23. Qxf4 Re8 24. Rxd6 Qe7 25. e5 Qxe5 26. Qxe5+ Rxe5 27.
+Bf3 Ne4 28. Bxe4 Rxe4 29. Rxa6 Re2 30. c3 h4 31. Ra5 b4 32. cxb4 Rcc2 33. b3
+Rb2+ 34. Ka1 Rxg2 35. Rxg2 Rxg2 36. b5 Re2 37. b6 Re8 38. b7 Rb8 39. Rb5 f5 40.
+Kb2 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.09"]
+[Round "7.5"]
+[White "So,W"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2807"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "5202213"]
+[BlackFideId "2020009"]
+[EventDate "2017.08.02"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. Be2 Ke7 10. Nbd2 Nc6 11. b3 Rd8 12. Bb2 b6 13. a3 a5 14. Rfc1 Bb7
+15. Bxf6+ gxf6 16. Ne4 Bd6 17. Nxd6 Rxd6 18. Kf1 Rad8 19. g3 f5 20. Ke1 Kf6 21.
+Rd1 Rxd1+ 22. Rxd1 Rxd1+ 23. Kxd1 Ne5 24. Nxe5 Kxe5 25. Kd2 Kd6 26. Kc3 Bc6 27.
+b4 axb4+ 28. Kxb4 h6 29. Bb5 Bf3 30. Be8 Ke7 31. Ba4 Kd6 32. Be8 Ke7 33. Ba4 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.10"]
+[Round "8.1"]
+[White "Anand,V"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2791"]
+[ECO "A31"]
+[Opening "English"]
+[Variation "symmetrical, Benoni formation"]
+[WhiteFideId "5000017"]
+[BlackFideId "623539"]
+[EventDate "2017.08.02"]
+
+1. Nf3 c5 2. c4 Nf6 3. d4 cxd4 4. Nxd4 d5 5. cxd5 Nxd5 6. e4 Nb4 7. Bb5+ Bd7 8.
+Bc4 N8c6 9. Nxc6 Nxc6 10. O-O e6 11. Nc3 Be7 12. Bf4 O-O 13. Qd2 Be8 14. Rfd1
+Qxd2 15. Rxd2 Rc8 16. Nb5 e5 17. Bg3 Na5 18. Bf1 Bxb5 19. Bxb5 f6 20. Rad1 Kf7
+21. f3 a6 22. Bf1 Nc4 23. Bxc4+ Rxc4 24. Rd7 Rb8 25. Kf1 Ke8 26. Be1 Rd8 27.
+Rxd8+ Bxd8 28. Ke2 Rc2+ 29. Rd2 Rxd2+ 30. Bxd2 Kd7 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.10"]
+[Round "8.2"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2749"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "13300474"]
+[BlackFideId "4102142"]
+[EventDate "2017.08.02"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. e3 Nxc3 6. bxc3 g6 7. h4 Bg7 8. h5
+Nc6 9. Be2 Bf5 10. Qb3 b6 11. Ng5 e6 12. f4 h6 13. Qa4 Rc8 14. Ne4 g5 15. Bb5
+Qd5 16. Nf2 Qd6 17. Ne4 Qd5 18. Nf2 Qd6 19. Ne4 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.10"]
+[Round "8.3"]
+[White "Nepomniachtchi,I"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2822"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "4168119"]
+[BlackFideId "1503014"]
+[EventDate "2017.08.02"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 g6 5. d4 exd4 6. Nxd4 Bg7 7. Bg2 O-O 8. Bf4
+Nh5 9. Nxc6 dxc6 10. Qxd8 Rxd8 11. Bxc7 Rd4 12. c5 Rc4 13. O-O Rxc5 14. Rfc1 Nf6
+15. Bd6 Rh5 16. Rd1 Be6 17. Bf3 Ra5 18. Rd2 h6 19. Rad1 Ra6 20. e4 Bg4 21. Bxg4
+Nxg4 22. Kg2 Ne5 23. b3 Nc4 24. bxc4 Bxc3 25. Rc2 Bg7 26. c5 Re8 27. e5 b5 28.
+cxb6 axb6 29. Rxc6 Rxa2 30. Re1 b5 31. Rb6 Rd2 32. Rxb5 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.10"]
+[Round "8.4"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2807"]
+[BlackElo "2792"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2017.08.02"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 c6 7. Nf3 d5 8. cxd5
+cxd5 9. Bxf6 exf6 10. exd5 b6 11. Be2 Na6 12. O-O Nc7 13. Qb3 Bb7 14. Bc4 Rb8
+15. a4 a6 16. Rfe1 b5 17. axb5 axb5 18. Bd3 b4 19. Ne4 f5 20. Ned2 Nxd5 21. Bc4
+Nb6 22. Qxb4 Nxc4 23. Qxc4 Bd5 24. Qc3 Qb6 25. b3 Rfd8 26. Rac1 Bh6 27. Rc2 Qb7
+28. Qd3 Qa8 29. Qf1 Qb7 30. Rc5 Qb4 31. Rc2 Ra8 32. Rd1 Qb7 33. Re1 Rd6 34. Rc5
+Ra2 35. Re8+ Kg7 36. Qe1 Bf4 37. g3 Bxf3 38. gxf4 Be4 39. Nxe4 fxe4 40. Qc3 Qa6
+41. d5+ Kh6 42. Rg8 Ra1+ 43. Kh2 Rh1+ 44. Kxh1 Qf1+ 45. Kh2 Qxf2+ 46. Kh1 Qf1+
+47. Kh2 Qf2+ 48. Kh1 Qf1+ 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.10"]
+[Round "8.5"]
+[White "Karjakin,Sergey"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2810"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14109603"]
+[BlackFideId "5202213"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 d6 7. c3 a6 8. a4 Ba7
+9. Re1 h6 10. Nbd2 Be6 11. Bxe6 fxe6 12. b4 Qe8 13. Nf1 Nh5 14. Be3 Bxe3 15.
+Rxe3 Nf4 16. Rb1 b5 17. Ra1 Qg6 18. Ng3 Qf6 19. Ne2 Ng6 20. Qb3 Kh8 21. Rf1 Rab8
+22. g3 Qf7 23. Nh2 d5 24. Rf3 Qd7 25. axb5 axb5 26. Kg2 Rxf3 27. Nxf3 Rf8 28.
+Neg1 Ra8 29. Rc1 Qd6 30. Ne1 Nge7 31. Ngf3 Ng8 32. Nc2 Nf6 33. Re1 Rf8 34. Na3
+Rb8 35. Nc2 Rf8 36. Na3 Rb8 37. Nb1 Nd7 38. Nbd2 d4 39. Rc1 dxc3 40. Qxc3 Rb6
+41. Nb3 Nxb4 42. Qxc7 Kh7 43. d4 Qxc7 44. Rxc7 Nf6 45. Nc5 Na6 46. Rc8 Nxc5 47.
+dxc5 Ra6 48. Nxe5 Nxe4 49. c6 Ra2 50. Kf3 Ng5+ 51. Ke3 Nxh3 52. Rb8 Rc2 53. f4
+h5 54. Rxb5 Nf2 55. Kd4 Rd2+ 56. Kc5 Ne4+ 57. Kb6 Rc2 58. c7 Nd6 59. Rb3 Ne8 60.
+Nc6 Nxc7 61. Kxc7 Rc4 62. Kd6 h4 63. Ne5 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.11"]
+[Round "9.1"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2809"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2017.08.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. d3 Be6 11. Bxe6 fxe6 12. Nbd2 Rb8 13. c3 Qe8 14. Nc4 Qg6 15. h3
+Nd7 16. Be3 d5 17. Ncd2 bxc3 18. bxc3 Nc5 19. Bxc5 Bxc5 20. Qa4 Rb2 21. Rf1 Na7
+22. Nxe5 Qh6 23. Ndf3 Nb5 24. Rae1 Nxc3 25. Qc6 Bb4 26. Kh1 dxe4 27. dxe4 Ne2
+28. Rb1 Rxb1 29. Rxb1 Bd6 30. Qxa6 Nf4 31. Qb5 c5 32. a6 Bxe5 33. Nxe5 Qg5 34.
+Ng4 h5 35. Ne3 Nxg2 36. Nxg2 Rxf2 37. Rg1 Kh7 38. Qd3 Qe5 39. Qe3 Ra2 40. Qf4
+Qc3 41. Ne3 Qf6 42. Qxf6 gxf6 43. Rc1 Rxa6 44. Kg2 Ra2+ 45. Rc2 Ra5 46. Kf3 Kg6
+47. h4 Rb5 48. Ra2 Rb1 49. Rc2 Rb5 50. Rc3 f5 51. exf5+ exf5 52. Rd3 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.11"]
+[Round "9.2"]
+[White "Vachier Lagrave,M"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2791"]
+[BlackElo "2742"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4168119"]
+[EventDate "2017.08.02"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nf3 Be7 8. Bg5
+Nbd7 9. a4 O-O 10. Nd2 Nc5 11. Bxf6 Bxf6 12. Nc4 Be7 13. a5 Rb8 14. Nb6 Nd7 15.
+Ncd5 Nxb6 16. Nxb6 Be6 17. Bc4 Qc7 18. Qd3 Bd8 19. c3 Qc6 20. Bd5 Qe8 21. Bxe6
+Qxe6 22. Nd5 f5 23. O-O Rc8 24. Rfd1 fxe4 25. Qxe4 Qf5 26. Qe2 Kh8 27. c4 Bh4
+28. g3 Bg5 29. Ra3 Rce8 30. h4 Bd8 31. b4 Qg6 32. h5 Qf5 33. Ne3 Qe6 34. Rad3
+Be7 35. Nd5 Bd8 36. Rf3 Rxf3 37. Qxf3 Kg8 38. Kg2 e4 39. Qe2 Qe5 40. Ne3 Bg5 41.
+Rd5 Qf6 42. Nf5 Re6 43. c5 dxc5 44. Qc4 Qf7 45. Rxc5 h6 46. Rc8+ Kh7 47. g4 Re7
+48. Qd4 Re6 49. Qd5 g6 50. hxg6+ Kxg6 51. Rf8 Qxf8 52. Qxe6+ 1-0
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.11"]
+[Round "9.3"]
+[White "So,W"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2783"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "5000017"]
+[EventDate "2017.08.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bg5 Ba6 10. Qa4 h6 11. Bh4 c5 12. dxc5 bxc5 13. Rc1 Qb6 14. Bxf6 gxf6
+15. Rc2 c4 16. e3 Bb5 17. Qb4 Rc8 18. Be2 Nd7 19. O-O Rab8 20. Rfc1 a5 21. Qc3
+Kg7 22. Qd4 Qxd4 23. Nxd4 Ba6 24. Kf1 Ne5 25. Ke1 f5 26. Nf3 Nxf3+ 27. gxf3 Rb3
+28. Bxc4 Rxc4 29. Rxc4 Bxc4 30. Rxc4 Rxb2 31. Rc5 Rb1+ 32. Ke2 Rh1 33. Rxa5 Rxh2 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.11"]
+[Round "9.4"]
+[White "Nakamura,Hi"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2773"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "2016192"]
+[BlackFideId "14109603"]
+[EventDate "2017.08.02"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8.
+Nxd5 Qxd5 9. d3 Bb6 10. b4 e4 11. Ng5 Qd4 12. Be3 Qxb4 13. Nxe4 Bg4 14. h3 Bh5
+15. Rb1 Qe7 16. Qd2 Rad8 17. Nc3 f6 18. Nd5 Qd7 19. Rfc1 Bf7 20. Bxb6 axb6 21.
+Nb4 Nd4 22. Nc2 Nc6 23. Nb4 Nd4 24. e3 Nf5 25. d4 c5 26. Nc2 cxd4 27. Nxd4 Nxd4
+28. exd4 Qxd4 29. Qxd4 Rxd4 30. Rxb6 Bxa2 31. Rxb7 Rdd8 32. Ra7 Be6 33. Re7 Rfe8
+34. Rxe8+ Rxe8 1/2-1/2
+
+[Event "5th Sinquefield Cup 2017"]
+[Site "Saint Louis USA"]
+[Date "2017.08.11"]
+[Round "9.5"]
+[White "Svidler,P"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2807"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "4102142"]
+[BlackFideId "2020009"]
+[EventDate "2017.08.02"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. Nf3 e4 5. Nd4 Qb6 6. Nb3 a5 7. d3 a4 8. N3d2 d5
+9. cxd5 exd3 10. O-O cxd5 11. exd3 Be7 12. Nc3 Qa5 13. Re1 Nc6 14. b4 axb3 15.
+Bb2 Qd8 16. Qxb3 Be6 17. Ne2 Bb4 18. Red1 O-O 19. Nf4 Bc5 20. Nf3 Bg4 21. Rac1
+Bxf3 22. Bxf3 Nd4 23. Bxd4 Bxd4 24. Rc2 b6 25. Bxd5 Ra7 26. Bf3 Re8 27. Ne2 h5
+28. Nxd4 Qxd4 29. Rc4 Qe5 30. a4 Qa5 31. Kg2 Rd8 32. d4 Nd5 33. Rdc1 g6 34. Rc8
+Rd7 35. Qc4 Kg7 36. Rxd8 Rxd8 37. Rb1 Nf6 38. d5 Ra8 39. d6 Ra7 40. Rd1 Nd7 41.
+Bc6 Qc5 42. Qd4+ Qxd4 43. Rxd4 Kf6 44. Re4 1-0

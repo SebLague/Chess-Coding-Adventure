@@ -1,0 +1,587 @@
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.17"]
+[Round "1.1"]
+[White "Yu Yangyi"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2797"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Be4 11.Qc1 c6 12.Rd1 Nbd7 13.Nc3 Bg6 14.a3 Rc8 15.b4 Nd5
+16.Be1 Qc7 17.e3 h6 18.Qb2 N5b6 19.Qe2 Nc4 20.e4 Bh5 21.h3 e5 22.d5 c5 23.Rdc1 Rfe8
+24.g4 Bg6 25.Nd1 Qd8 26.Nd2 Ncb6 27.Nb3 c4 28.Na5 Bg5 29.Bd2 Na4 30.Nc3 Ndb6
+31.Be3  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.17"]
+[Round "1.2"]
+[White "Ding Liren"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2809"]
+[BlackElo "2726"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Qe7 5.Nf3 Nc6 6.Nc3 Bxc3 7.Bxc3 Ne4 8.Rc1 d6
+9.d5 Nxc3 10.Rxc3 Nd8 11.Bg2 O-O 12.dxe6 Nxe6 13.O-O Bd7 14.Re1 Rab8 15.e4 b5
+16.cxb5 Rxb5 17.b3 a5 18.Bf1 Rc5 19.Rxc5 Nxc5 20.e5 Rb8 21.Qd2 a4 22.b4 Ne6
+23.a3 Rb6 24.exd6 Rxd6 25.Qc3 Qd8 26.Bc4 h6 27.h4 Be8 28.Bxe6 Rd3 29.Qc4 Rxf3
+30.Qe4 Rd3 31.Bd5 Rxd5 32.Qxe8+ Qxe8 33.Rxe8+ Kh7 34.Ra8 c5 35.Rxa4 cxb4
+36.axb4 Rd4 37.Kg2 g5 38.hxg5 hxg5 39.Kf3 Rd2 40.Ke3 Rb2 41.Kd4 f5 42.f4 Kg6
+43.Kc5 Rc2+ 44.Kd5 Rd2+ 45.Kc6 Rc2+ 46.Kd6 Rd2+ 47.Kc7 Rc2+ 48.Kd6 Rd2+ 49.Kc5 Rc2+
+50.Kd4 Rd2+ 51.Kc3 Rg2 52.b5 Rxg3+ 53.Kc4 Re3 54.b6 Re8 55.Kc5 gxf4 56.Rxf4 Kg5
+57.Rb4 f4 58.b7 Rb8 59.Kc6 f3 60.Kc7 Rxb7+ 61.Kxb7 f2 62.Rb1 Kf4 63.Kc6 Kf3
+64.Kd5 Kg2 65.Ke4 f1=R 66.Rxf1 Kxf1 67.Kd5  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.17"]
+[Round "1.3"]
+[White "Jakovenko,D"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2723"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.O-O Nxd4
+9.Bxd4 Bc5 10.Bxc5 Qxc5 11.Na4 Qc7 12.c4 d6 13.Nc3 O-O 14.Be2 Rd8 15.Qd4 e5
+16.Qe3 Be6 17.b3 Qc5 18.Qd3 Rac8 19.Rac1 Rc6 20.a4 h6 21.Rfd1 Rdc8 22.h3 Qb4
+23.Rb1 Qc5 24.Ra1 Qb6 25.Qd2 Qa5 26.Rdb1 Qd8 27.Qd1 Rc5 28.Rb2 b5 29.axb5 axb5
+30.Nxb5 Nxe4 31.Bf3 d5 32.Bxe4 dxe4 33.Nd6 Rb8 34.Qd2 Rc6 35.Nxe4  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.18"]
+[Round "2.3"]
+[White "Yu Yangyi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2809"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O c6 8.Qc2 Nbd7
+9.Bf4 b6 10.Rd1 Ba6 11.cxd5 cxd5 12.Ne5 Nxe5 13.dxe5 Ng4 14.h3 g5 15.Bxg5 Nxe5
+16.Bxe7 Qxe7 17.e4 dxe4 18.Qxe4 Qf6 19.Nc3 Rad8 20.Qa4 Bd3 21.Qxa7 Nc4 22.Ne4 Bxe4
+23.Bxe4 Nxb2 24.Rxd8 Rxd8 25.Rc1 Qd4 26.Qe7 Nd3 27.Qg5+ Kf8 28.Qh6+ Ke8 29.Bxd3 Qxd3
+30.Qg7 Qf5 31.g4 Qf4 32.Qh8+  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.18"]
+[Round "2.1"]
+[White "Rapport,R"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2719"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.g3 O-O 6.Bg2 dxc4 7.Ne5 c5 8.dxc5 Qxd1+
+9.Nxd1 Bxc5 10.Bd2 Nc6 11.Nxc4 Bd7 12.Nc3 Nd4 13.O-O Bc6 14.Be3 Bxg2 15.Kxg2 Rfc8
+16.Rad1 Nf5 17.Bxc5 Rxc5 18.Nd6 Nxd6 19.Rxd6 Kf8 20.Rfd1 Ke7 21.R6d4 Rac8
+22.g4 h5 23.h3 hxg4 24.hxg4 R8c7 25.f3 Rd7 26.Kf2 Rxd4 27.Rxd4 Nd7 28.Ra4 a5
+29.Ne4 Rb5 30.Nc3 Rc5 31.Ne4 Rb5  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.18"]
+[Round "2.2"]
+[White "Giri,A"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2797"]
+[BlackElo "2723"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d5 7.exd5 Nxd5 8.Re1 Bg4
+9.Nbd2 Nb6 10.h3 Bh5 11.Bb3 Qxd3 12.Nxe5 Bxd1 13.Nxd3 Bxb3 14.axb3 Be7 15.b4 a6
+16.Ne4 Nd7 17.Bf4 Rac8 18.Rad1 Rfd8 19.g4 Bf8 20.Kg2 Re8 21.Bg3 f6 22.f4 Re7
+23.f5 Rce8 24.Nf4 Nd8 25.Rxd7 Rxd7 26.Nxf6+ gxf6 27.Rxe8 Kf7 28.Re3 Rd2+
+29.Re2 Rd1 30.Ne6 Nxe6 31.fxe6+ Ke8 32.Bxc7 Rd3 33.Bf4 Rd5 34.Kf3 Ke7 35.Re4 Bg7
+36.Be3 f5 37.Bg5+ Bf6 38.Bxf6+ Kxf6 39.g5+ Kxg5 40.Re3  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.19"]
+[Round "3.3"]
+[White "Ding Liren"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2809"]
+[BlackElo "2797"]
+[ECO "A14"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.b3 d4 7.e3 c5 8.Ne5 Qc7 9.f4 Nfd7
+10.Nf3 Nc6 11.Na3 a6 12.exd4 cxd4 13.d3 b5 14.Bb2 Qb6 15.Kh1 Bb7 16.Nc2 Bf6
+17.Ba3 b4 18.Bb2 a5 19.g4 g6 20.Nd2 Nc5 21.Ne4 Nxe4 22.dxe4 e5 23.f5 Nb8
+24.Ne1 Nd7 25.Nd3 Nc5 26.Nxc5 Qxc5 27.Bc1 g5 28.a4 Kg7 29.h4 h6 30.h5 Rfd8  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.19"]
+[Round "3.2"]
+[White "Harikrishna,P"]
+[Black "Rapport,R"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2726"]
+[ECO "C15"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Ne7 6.Nf3 O-O 7.O-O Nbc6 8.Ne2 Bf5
+9.Ng3 Bg6 10.Nh4 Bxd3 11.Qxd3 Qd7 12.h3 Ng6 13.Nhf5 Nce7 14.c3 Nxf5 15.Nxf5 Bd6
+16.h4 Ne7 17.Nxd6 Qxd6 18.Qf3 c6 19.h5 Rfe8 20.Bg5 h6 21.Bd2 Rad8 22.Rae1 Qd7
+23.Bf4 Nf5 24.Qg4 Re7 25.Rxe7 Nxe7 26.Qe2 Re8 27.Re1 Kf8 28.Qd3 Nf5 29.Rxe8+ Kxe8
+30.g4 Ne7 31.f3 Qe6 32.Kf2 f6 33.b3 Kf7 34.a4 Kg8 35.a5 a6 36.Qd2 Kf7 37.Bc7 Nc8
+38.Qf4 Qe7 39.Bb6 Nxb6 40.axb6 c5 41.c4 dxc4 42.bxc4 cxd4 43.Qxd4 Qe6 44.Qd8 f5
+45.Qc7+ Kf6 46.gxf5 Qxf5 47.c5 Qc2+ 48.Kg3 Qd1 49.Qf4+ Ke7 50.Qe5+ Kf7 51.c6 bxc6
+52.b7 Qg1+ 53.Kh3 Qf1+ 54.Kg4 Qg1+ 55.Qg3  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.19"]
+[Round "3.1"]
+[White "Jakovenko,D"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2751"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Na5 8.Ba2 c5
+9.c3 Nc6 10.Nbd2 h6 11.Nf1 Re8 12.h3 Bf8 13.Ne3 Be6 14.Bxe6 Rxe6 15.Nd5 Re8
+16.Nxf6+ Qxf6 17.Qb3 b6 18.Qb5 Rec8 19.Nd2 Be7 20.Nc4 Bd8 21.Ne3 Qe6 22.Qc4 Bg5
+23.Nd5 Bxc1 24.Rexc1 Ne7 25.Ne3 Qd7 26.Qb5 Qe6 27.Qc4 Qd7 28.Qb5 Qe6 29.Qc4 Qd7
+30.Qb5 Qe6  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.20"]
+[Round "4.3"]
+[White "Rapport,R"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2751"]
+[ECO "A08"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.d4 e6 5.O-O Nf6 6.c4 dxc4 7.dxc5 Qxd1 8.Rxd1 Bxc5
+9.Nbd2 c3 10.bxc3 O-O 11.Nb3 Be7 12.Nfd4 Nxd4 13.cxd4 Nd5 14.Na5 Bb4 15.Bd2 Nc3
+16.Nxb7 Nxe2+ 17.Kf1 Nc3 18.Bxc3 Bxc3 19.Rac1 Bxb7 20.Bxb7 Rab8 21.Rxc3 Rxb7
+22.d5 exd5 23.Rxd5 Re8 24.Ra5 g6 25.Rca3 Ree7 26.g4 Kg7 27.Kg2 h6 28.h4 Rbc7
+29.Kg3 Rb7 30.h5 g5 31.Re3 Red7  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.20"]
+[Round "4.1"]
+[White "Jakovenko,D"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2797"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6
+9.Na3 b5 10.Nd5 Be7 11.Bxf6 Bxf6 12.c4 b4 13.Nc2 O-O 14.g3 Be6 15.Bg2 Bxd5
+16.cxd5 Nd4 17.O-O Nxc2 18.Qxc2 Bg5 19.h4 Bh6 20.a3 a5 21.axb4 axb4 22.Bh3 Ra5
+23.Qc4 Bd2 24.Rfd1 b3 25.Qxb3 Qb8 26.Qxb8 Rxb8 27.Rxa5 Bxa5 28.Ra1 Bb4 29.Bd7 Bc5
+30.Bc6 Bd4 31.Ra8 Rxa8 32.Bxa8 Bxb2  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.20"]
+[Round "4.2"]
+[White "Harikrishna,P"]
+[Black "Ding Liren"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2809"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d3 d6
+9.Bd2 Bg4 10.c3 Na5 11.Bc2 c5 12.h3 Bh5 13.Bc1 Nc6 14.Nbd2 d5 15.Nf1 dxe4
+16.dxe4 Qxd1 17.Bxd1 Rfd8 18.Ng3 Bg6 19.Nh4 Nd7 20.Ngf5 Bf8 21.b3 b4 22.Bb2 c4
+23.bxc4 Nc5 24.Bc2 Rd2 25.Rac1 Bxf5 26.Nxf5 Rad8 27.Kf1 a5 28.Ne3 Nd3 29.Bxd3 Rxb2
+30.Re2 Rxe2 31.Bxe2 Rd2 32.cxb4 Bxb4 33.c5 Ba3 34.Rd1 Rxd1+ 35.Bxd1 Bxc5
+36.Nc4 Bd4 37.Ba4 Nb4 38.a3 Nd3 39.Nxa5 Nc5 40.Bc6 Kf8 41.Nc4 Ke7 42.f3 Kd8
+43.Ke2 Kc7 44.Bd5 f6 45.Bg8 h6 46.h4 Nb7 47.a4 Nd6 48.Nd2 Kb6 49.Nb3 Bc3
+50.Bd5 Bb4 51.h5 Bc3 52.Kd3 Be1 53.Kc2 Bf2 54.Nc1 f5 55.Nd3 Bg3 56.Kb3 fxe4
+57.Bxe4 Ne8 58.Kb4 Nf6 59.a5+ Ka7 60.Bg6 Nd5+ 61.Kb5 Nc7+ 62.Ka4 Nd5 63.Be4 Nf6
+64.Nb4 Nxh5 65.Nc6+ Ka8 66.Nxe5+ Kb8 67.Nc6+ Kc7 68.Kb5 Nf6 69.Nd4 Ne8 70.a6 Nd6+
+71.Kc5 Bf2 72.Kd5 Nc8 73.Nf5 Nb6+ 74.Ke6 Nd7 75.Kf7 g5 76.Nxh6 Kb6 77.Bb7 Be3
+78.Ke6 Nc5+ 79.Kf5  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.21"]
+[Round "5.3"]
+[White "Ding Liren"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2809"]
+[BlackElo "2719"]
+[ECO "A34"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 e6 4.Nf3 b6 5.e4 Bb7 6.Qe2 Nc6 7.Bg2 d6 8.O-O Nd7
+9.d3 g6 10.Bg5 Be7 11.Bxe7 Qxe7 12.d4 cxd4 13.Nb5 O-O 14.Nfxd4 Nxd4 15.Nxd4 a6
+16.Rfd1 Rac8 17.Rd2 Rfd8 18.Rad1 Ne5 19.b3 Qc7 20.Nc2 Qc5 21.Qe3 Nc6 22.a4 Kf8
+23.Qh6+ Kg8 24.Rd5 exd5 25.Rxd5 Ne5 26.Rxc5 dxc5 27.Ne3 Rd3 28.h4 Rxb3 29.h5 Rf8
+30.Qf4 f6 31.Ng4 Nxg4 32.Qxg4 Rb1+ 33.Kh2 Bc8 34.Qf4 Be6 35.Qd6 Bxc4 36.h6 Rb4
+37.f4 Ba2 38.e5 fxe5 39.Qxe5 Rf7 40.Bc6 Rd4 41.Be8 Rb7 42.Bd7  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.21"]
+[Round "5.1"]
+[White "Yu Yangyi"]
+[Black "Harikrishna,P"]
+[Result "0-1"]
+[WhiteElo "2751"]
+[BlackElo "2723"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 h6 8.Nbd2 O-O
+9.Re1 Re8 10.Nf1 Ba7 11.Ng3 Be6 12.Bxe6 Rxe6 13.b4 d5 14.Qb3 Qd7 15.h3 Rd8
+16.Bb2 dxe4 17.dxe4 Rd6 18.Qc2 Qe6 19.Red1 Rxd1+ 20.Rxd1 Rxd1+ 21.Qxd1 Qc4
+22.Qb1 a5 23.Nd2 Qe6 24.Ba3 axb4 25.cxb4 Nd4 26.b5 Qb6 27.Kh2 Ne6 28.Nh1 Qd4
+29.Qc2 Qa1 30.Bb2 Qa2 31.Qb3 Qxb3 32.Nxb3 Nxe4 33.Bxe5 f6 34.f3 N4c5 35.Nxc5 Bxc5
+36.Bg3 b6 37.Nf2 Kf7 38.Nd3 Ke7 39.Kh1 Bd6 40.Bf2 Nd8 41.Be3 Nb7 42.Kg1 Ke6
+43.Kf2 Kd5 44.Nf4+ Bxf4 45.Bxf4 Nd6 46.g4 Kc4 47.Bd2 Kb3 48.a5 bxa5 49.Bxa5 Nxb5
+50.Ke3 Kc4 51.Kf4 Nd4 52.Ke4 c5 53.f4 Kb5 54.Bc3 Ne2 55.Ba1 Kc4 56.g5 Ng3+
+57.Kf3 Nf5 58.gxf6 gxf6 59.Kg4 Ne3+ 60.Kh5 Nd5 61.Kxh6 Kb3 62.Kg6 Ka2 63.Bxf6 Nxf6
+64.Kxf6 c4 65.f5 c3 66.Kg7 c2 67.f6 c1=Q 68.f7 Qg5+ 69.Kh7 Qf6 70.Kg8 Qg6+
+71.Kf8 Kb3 72.h4 Kc4 73.h5 Qh7 74.Ke8 Kd5 75.h6 Qe4+ 76.Kd8 Ke6  0-1
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.21"]
+[Round "5.2"]
+[White "Giri,A"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2797"]
+[BlackElo "2726"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e5 4.O-O Bd6 5.c3 a6 6.Bxc6 dxc6 7.d4 exd4 8.cxd4 Bg4
+9.e5 Bc7 10.dxc5 Qxd1 11.Rxd1 Bxf3 12.gxf3 Bxe5 13.a4 Nf6 14.Ra3 Rd8 15.Re1 O-O
+16.Rb3 Rd5 17.Rxb7 Rxc5 18.b4 Rd5 19.Rb6 a5 20.bxa5 Rxa5 21.Bd2 Rxa4 22.Rxc6 Bb8
+23.Kg2 Rh4 24.h3 Nd5 25.Re4 Nf4+ 26.Bxf4 Rxf4 27.Rxf4 Bxf4 28.Nc3 g6 29.Nd5 Be5
+30.Nf6+ Bxf6 31.Rxf6  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.23"]
+[Round "6.3"]
+[White "Giri,A"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[WhiteElo "2797"]
+[BlackElo "2751"]
+[ECO "A06"]
+
+1.Nf3 d5 2.e3 Nf6 3.c4 e6 4.Nc3 Be7 5.b3 O-O 6.Bb2 dxc4 7.bxc4 b6 8.d4 Bb7
+9.Bd3 c5 10.d5 exd5 11.cxd5 b5 12.Bxb5 Nxd5 13.O-O Nf6 14.Qc2 a6 15.Rad1 Qc7
+16.Bc4 Nbd7 17.Nd5 Nxd5 18.Bxd5 Rad8 19.Bc3 Bxd5 20.Rxd5 Nf6 21.Rg5 Ne8 22.Rg4 Qd6
+23.Rc1 h6 24.Ra4 Nf6 25.Nh4 Qe6 26.Nf5 Rfe8 27.Rf4 Nh5 28.Nxe7+ Rxe7 29.Rf5 Rd5
+30.Rxd5 Qxd5 31.h3 Re6 32.Rd1 Qe4 33.Qxe4 Rxe4 34.Rd8+ Kh7 35.Rc8 Rc4 36.Bd4 Rc1+
+37.Kh2 c4 38.Rc7 Kg8 39.Rc8+ Kh7 40.Rf8 Rc2 41.Rxf7 Kg6 42.Ra7 Rxf2 43.Rxa6+ Kg5
+44.a4 Ra2 45.a5 Ra3 46.Bc5 Ra4 47.Be7+ Nf6 48.Bf8 Nh5 49.Rc6 Rxa5 50.Rxc4 Ra8
+51.Bc5 Ra2 52.Bd4 Kg6 53.Rc7 Rd2 54.Rb7 Rc2 55.Rb6+ Kf7 56.Rb7+ Kg6 57.Rb6+ Kf7
+58.Rb2 Rc7 59.g4 Nf6 60.Kg3 Rc1 61.Ra2 Rg1+ 62.Kf2 Rh1 63.Kg2 Rd1 64.Ra1 Rxa1
+65.Bxa1 Nd5 66.e4 Nf4+ 67.Kg3 g5 68.h4 Ne6 69.h5 Nf4 70.Kf3 Nd3 71.Bd4 Ne1+
+72.Ke2 Nc2 73.Bc5 Na1 74.Kd3 Nb3 75.Bb4 Nc1+ 76.Kd2 Nb3+ 77.Ke3 Nc1 78.Bd6 Nb3
+79.Bb4 Nc1 80.Kd2 Nb3+ 81.Kc3 Nc1 82.Bd6 Ne2+ 83.Kd3 Nc1+ 84.Kc4 Ne2 85.Kd3 Nc1+
+86.Kc4 Ne2 87.Kd5 Nc3+ 88.Ke5 Ne2 89.Kd5 Nc3+ 90.Kd4 Nb5+ 91.Ke5 Nc3 92.Bc5 Ne2
+93.Be3 Nc3 94.Bd2 Na4 95.Bb4 Nb2 96.Kf5 Nd1 97.Bc5 Nc3 98.e5 Nd5 99.e6+ Kg8
+100.Kg6 Nf4+ 101.Kxh6 Nxe6 102.Be3 Kf7  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.23"]
+[Round "6.2"]
+[White "Harikrishna,P"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2719"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8 13.d5 b6 14.c4 Qe7 15.Qxe7 Bxe7
+16.Nc3 Bf6 17.Bd2 c6 18.Re1 Bb7 19.dxc6 dxc6 20.c5 Nc7 21.b4 Ba6 22.Ne4 Be7
+23.Nd6 Kf8 24.Nf5 Bxf1 25.Nxe7 Bc4 26.Nxc6 Bxa2 27.Bf4 Nd5 28.Bd6+ Kg8 29.Nb8 f6
+30.c6 a5 31.bxa5 bxa5 32.c7 Nxc7 33.Bxc7 a4 34.Bd6 Bd5 35.Re3 Bb3 36.Re8+ Kf7
+37.Rf8+ Ke6 38.Ba3 Kd5 39.Rc8 Ke4 40.Rd8 Bc4 41.h4 Bb5 42.Kh2 Ra7 43.f3+ Ke5
+44.Rd6  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.23"]
+[Round "6.1"]
+[White "Rapport,R"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2809"]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 O-O
+9.O-O cxd5 10.Bg5 c6 11.Qf3 Bd6 12.Rae1 Rb8 13.Nd1 h6 14.Bxf6 Qxf6 15.Qxf6 gxf6
+16.b3 Kg7 17.Ne3 Re8 18.Nf5+ Bxf5 19.Bxf5 Re5 20.Bd7 Rb6 21.g3 Bb4 22.Rd1 Re2
+23.Bf5 Re5 24.Bd3 c5 25.f4 Re3 26.Kg2 d4 27.Rf3 Rbe6 28.Rxe3 Rxe3 29.Rf1 a5
+30.Rf2 Be1 31.Re2 Rxe2+ 32.Bxe2 f5 33.Bh5 Bd2 34.Kf3 Be3 35.Ke2 Bg1 36.h3 Kf6
+37.g4 fxg4 38.hxg4 Be3 39.Kf3 Ke7 40.Ke4 f6 41.f5 Kd6 42.Bf7 Bd2 43.a4 Bc3  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.24"]
+[Round "7.3"]
+[White "Jakovenko,D"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2726"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 a5 5.Bg2 O-O 6.Nf3 b6 7.O-O Bb7 8.Bf4 Be7
+9.Nc3 Ne4 10.Nb5 c6 11.Nc7 Ra7 12.Qb3 d6 13.c5 Qxc7 14.cxb6 a4 15.bxc7 axb3
+16.cxb8=Q Rxb8 17.axb3 Rba8 18.Rxa7 Rxa7 19.Rc1 Ra2 20.Ne1 d5 21.Rb1 g5 22.Bc1 Ba6
+23.Bxe4 dxe4 24.Kf1 Ra5 25.Nc2 g4 26.Ne3 h5 27.Nc4 Ra2 28.Be3 Bb4 29.Kg2 Kg7
+30.h3 Bb5 31.Rc1 Be7 32.hxg4 hxg4 33.Rc2 Ra1 34.f3 exf3+ 35.exf3 gxf3+ 36.Kxf3 f6
+37.Rc1  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.24"]
+[Round "7.2"]
+[White "Ding Liren"]
+[Black "Yu Yangyi"]
+[Result "1/2-1/2"]
+[WhiteElo "2809"]
+[BlackElo "2751"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 7.Ng5 Bxc3 8.bxc3 Re8
+9.f3 e3 10.d3 d5 11.Qa4 h6 12.cxd5 Nxd5 13.Ne4 f5 14.Nc5 f4 15.Ne4 Rb8 16.Qd1 b5
+17.a3 a5 18.c4 bxc4 19.dxc4 Nde7 20.gxf4 Nf5 21.Bh3 Ncd4 22.Bxf5 Nxf5 23.Qxd8 Rxd8
+24.a4 Ba6 25.Ng3 Nxg3 26.hxg3 Bxc4 27.Bxe3 Bxe2 28.Rf2 Rd1+ 29.Rxd1 Bxd1
+30.Bd2 Ra8 31.Bc3 Bxa4 32.Ra2 Bc6 33.Rxa5 Bxf3 34.Kf2 Bh1 35.Rxa8+ Bxa8 36.f5 h5  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.24"]
+[Round "7.1"]
+[White "Harikrishna,P"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2797"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.c3 b5 7.a4 c4 8.Be2 Bb7
+9.axb5 axb5 10.Rxa8 Bxa8 11.Na3 Bxe4 12.Nxb5 d5 13.b3 cxb3 14.Qxb3 e6 15.Ba3 Bxf3
+16.Bxf3 Be7 17.Nd6+ Kf8 18.Nb7 Qe8 19.Nd6 Qd8 20.Re1 g6 21.c4 dxc4 22.Qxc4 Bxd6
+23.Bxd6+ Kg7 24.h3 h6 25.Rb1 Qa5 26.d4 e5 27.Bc6 Rc8 28.d5 Ne8 29.Bb4 Qc7
+30.Qh4 Nb8 31.Rc1 Nxc6 32.Rxc6 Qd7 33.Qc4 Rxc6 34.dxc6 Qd4 35.Qb3 Qa1+ 36.Kh2 Qc1
+37.Qf3 Qf4+ 38.Qxf4 exf4 39.Bd2 g5 40.Ba5 Kg6 41.c7 Nd6 42.Bb4 Nc8 43.Kg1 Kf5
+44.Kf1 Ke6 45.Ke2 Kd7 46.Bf8 h5 47.Kf3 Kxc7 48.Ke4 Nb6 49.Kf5 g4 50.Kxf4 gxh3
+51.gxh3 Kd7 52.Bc5 Nc4 53.Kf5 Kc6 54.Be3 Kd5 55.Bf4 Kd4 56.Bg3 Nd2 57.Kg5 Ke4
+58.Kxh5 Kf3 59.h4 Ne4 60.Be5 Nxf2 61.Kg5 f6+ 62.Bxf6 Ne4+ 63.Kg6 Nxf6 64.Kxf6 Kg4
+65.Ke5 Kxh4 66.Ke4  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.25"]
+[Round "8.3"]
+[White "Rapport,R"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2726"]
+[BlackElo "2723"]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.d3 O-O 6.Bf4 b6 7.e4 dxe4 8.dxe4 Bb7
+9.e5 Qxd1 10.Rxd1 Nfd7 11.Nc3 a6 12.h4 h6 13.a4 Rd8 14.h5 Nf8 15.Rxd8 Bxd8
+16.Rd1 Be7 17.g4 Bb4 18.Na2 Be7 19.Nc3 Bb4 20.Ne2 Be7 21.Kh2 Ra7 22.Nd2 Bxg2
+23.Kxg2 c5 24.Nc4 Rd7 25.Ra1 Bd8 26.Be3 Nc6 27.f4 Nb4 28.Rc1 Nd5 29.Bf2 Bc7
+30.Kf3 f6 31.exf6 gxf6 32.Ne3 Nb4 33.Bh4 Kf7 34.Ng3 Rd4 35.Ne2 Rd7 36.g5 hxg5
+37.fxg5 fxg5 38.Bxg5 Nh7 39.Bh4 Nd5 40.Rd1 Ndf6 41.Rxd7+ Nxd7 42.Ng4 Ne5+
+43.Nxe5+ Bxe5 44.b3 b5 45.c4 bxa4 46.bxa4 Nf8 47.Ng3 Nd7 48.Ne4 Nb6 49.Nxc5 Nxc4
+50.Nxa6 Bd6 51.Bd8 Nb2 52.a5 Nc4 53.Kg4 Ne5+ 54.Kg5 Nf3+ 55.Kg4 Ne5+ 56.Kh4 Nc4
+57.Kg5 Ba3 58.Nb8 Bc1+ 59.Kh4 Ke8 60.Bc7 Be3 61.a6 Na3 62.Kg4 Nb5 63.Bf4 Bc5
+64.Nc6 Kd7 65.Ne5+ Ke8 66.h6 Bf8 67.h7 Bg7 68.Kh5  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.25"]
+[Round "8.1"]
+[White "Yu Yangyi"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2719"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.cxd5 exd5 6.Bf4 c6 7.e3 Bf5 8.Nh4 Bg4
+9.Be2 Bxe2 10.Qxe2 g6 11.Nf3 Nbd7 12.Bh6 Ng4 13.Bf4 Ngf6 14.O-O O-O 15.h3 Re8
+16.Rad1 Bf8 17.Bh2 Qe7 18.Qc2 Ne4 19.Nxe4 Qxe4 20.Qb3 b6 21.Rc1 Qe6 22.Rfd1 Bd6
+23.Bxd6 Qxd6 24.Ne1 Rac8 25.Nd3 Rc7 26.Rc2 Rec8 27.Rdc1 c5 28.Qa3 h6 29.b3 Kh7
+30.Rc3 Qe7 31.R3c2 Qd6 32.Qa4 Nf6 33.dxc5 bxc5 34.Qf4 Qxf4 35.Nxf4 a5 36.Kf1 Kg7
+37.Ke1 Kf8 38.Ne2 c4 39.Nd4 Ne4 40.bxc4 dxc4 41.Rb1 Rc5 42.Rb6 Ke7 43.Nb5 Rd5
+44.f3 Nd6 45.Nc3 Rd3 46.e4 Kd7 47.Ra6 Rc5 48.Na4 Rb5 49.Nb6+ Kd8 50.Ke2 Rd4
+51.Nd5 Kd7 52.Ra7+ Kd8 53.h4 Rc5 54.Ra6 Kd7 55.Rd2 Rxd2+ 56.Kxd2 f5 57.Ra7+ Kd8
+58.Nc3 fxe4 59.fxe4 g5 60.Rh7 Re5 61.Ke3 Nf5+ 62.Kf2 Nd6 63.Ke3 Nf5+ 64.Kf2 Nd6
+65.Rxh6 Nxe4+ 66.Nxe4 Rxe4 67.hxg5 c3 68.Rc6 Ra4 69.Rxc3 Rxa2+ 70.Kf3 Ke7
+71.g3 Kf7 72.Kg4 a4 73.Rc6 Kg7 74.Ra6 a3  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.25"]
+[Round "8.2"]
+[White "Giri,A"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2797"]
+[BlackElo "2809"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O 7.Re1 a5 8.h3 h6 9.Nbd2 Be6
+10.Bb5 Qb8 11.Bxc6 bxc6 12.d4 exd4 13.cxd4 Bb4 14.a3 Bxd2 15.Nxd2 Re8 16.b3 d5
+17.e5 Nd7 18.Qh5 c5 19.Re3 f5 20.exf6 Bf7 21.Qh4 Rxe3 22.fxe3 Qe8 23.Nf3 Nxf6
+24.dxc5 Bg6 25.Bb2 Qxe3+ 26.Kh2 Rf8 27.Bd4 Qxb3 28.Ne5 Be4 29.Ng4 Qc2 30.Rg1 Nxg4+
+31.Qxg4 Rf7 32.Rf1 Bf5 33.Qf4 Qe2 34.Rf2 Qe6 35.Qe5 Qxe5+ 36.Bxe5 c6 37.g4 Be4
+38.Rxf7 Kxf7 39.h4 g6 40.Kg3 Ke6 41.Bd4 h5 42.gxh5 gxh5 43.Kf4 a4  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.26"]
+[Round "9.3"]
+[White "Rapport,R"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2797"]
+[ECO "A14"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d4 dxc4 7.Qc2 a6 8.a4 Bd7
+9.Rd1 Bc6 10.Bg5 b5 11.Bxf6 Bxf6 12.Nc3 Qe8 13.d5 exd5 14.Nd4 Qe5 15.e4 dxe4
+16.axb5 axb5 17.Nxc6 Nxc6 18.Rxa8 Rxa8 19.Qxe4 Qxe4 20.Bxe4 Ra6 21.Nxb5 Ne5
+22.Nxc7 Ra2 23.Rb1 Nd7 24.Rc1 Rxb2 25.Rxc4 Rb8 26.Nd5 Bd8 27.Kg2 g6 28.Rb4 Rxb4
+29.Nxb4 Nf6 30.Bf3 Be7 31.Nd5 Nxd5 32.Bxd5  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.26"]
+[Round "9.2"]
+[White "Jakovenko,D"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2809"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 e6 7.a4 b6 8.c3 Bb7
+9.Qe2 Qc7 10.Na3 Be7 11.Bb1 e5 12.d4 cxd4 13.cxd4 exd4 14.Nxd4 O-O 15.Qc4 Qd8
+16.Nf5 Re8 17.Bg5 Bf8 18.Ba2 Ne5 19.Qb3 Bc8 20.f4 Be6 21.Qg3 Ng6 22.Bxe6 fxe6
+23.Nd4 e5 24.fxe5 Nxe5 25.Nac2 Nf7 26.Bh4 Kh8 27.Nb4 g5 28.Bxg5 Nxg5 29.Qxg5 Nxe4
+30.Qxd8 Raxd8 31.Nxa6 Bg7 32.Rad1 Rc8 33.Nb5 Bxb2 34.Nac7 Re5 35.Re2 Nc3
+36.Nxc3 Bxc3 37.Rxe5 Bxe5 38.Nb5 Rc6 39.Nd4 Rc4 40.Nf3 Bf4 41.Rd3 Rxa4 42.g3 Be5  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.26"]
+[Round "9.1"]
+[White "Harikrishna,P"]
+[Black "Yu Yangyi"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2751"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nd3 Nxe4 5.Qe2 Qe7 6.Nc3 Nf6 7.Nf4 c6 8.d4 Qxe2+
+9.Bxe2 d5 10.O-O Bd6 11.Bd3 O-O 12.Nfe2 Ne8 13.Re1 Nd7 14.Bf4 Nb6 15.f3 a5
+16.a4 Bd7 17.b3 h6 18.Nd1 g5 19.Bxd6 Nxd6 20.Nb2 Rac8 21.Kf2 Na8 22.h4 f6
+23.Rh1 Kg7 24.Ng3 Nc7 25.c4 b6 26.Rac1 dxc4 27.Nxc4 Nxc4 28.bxc4 Rcd8 29.Rb1 Be6
+30.hxg5 fxg5 31.Rxb6 Rxd4 32.Ke3 Rfd8 33.Be2 R4d7 34.Rxc6 Re7 35.Kf2 Rdd7
+36.Rb1 Ne8 37.Rbb6 Kf7 38.Ne4 Rc7 39.Rxc7 Rxc7 40.c5 Ke7 41.Ra6 Ng7 42.Rxa5 Nf5
+43.Ra8 Bd5 44.Rh8 Ke6 45.a5 Ke5 46.a6 Nd4 47.Re8+ Ne6 48.Bb5 Kd4 49.Nf6 Kxc5
+50.Nxd5 Kxd5 51.Bd3 Nc5 52.Be4+ Nxe4+ 53.Rxe4 Ra7 54.Ra4 Kc5 55.Kg3 Kb5 56.Ra2 h5
+57.f4  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.27"]
+[Round "10.3"]
+[White "Giri,A"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2797"]
+[BlackElo "2719"]
+[ECO "E06"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 d5 4.Nf3 Be7 5.d4 O-O 6.Nc3 dxc4 7.Ne5 c5 8.dxc5 Qxd1+
+9.Nxd1 Bxc5 10.O-O Nc6 11.Bxc6 bxc6 12.Be3 Bb6 13.Bxb6 axb6 14.Nc3 Bd7 15.Rfd1 Rfd8
+16.Nxc4 b5 17.Ne5 Be8 18.Rxd8 Rxd8 19.Nd3 Kf8 20.a4 bxa4 21.Rxa4 Nd7 22.Ra7 Rc8
+23.Ne4 c5 24.Nd6 Rb8 25.Rc7 Ke7 26.Nb7 Kf6 27.b3 g5 28.f3 h6 29.Kf2 Ra8 30.Nd6 Ke7
+31.Rc8 Rxc8 32.Nxc8+ Kd8 33.Nd6 Ke7 34.Nb7 Nb6 35.Nbxc5 f6 36.f4 gxf4 37.gxf4 f5
+38.Ke3 Bh5 39.Nb4 Kd6 40.Nb7+ Kc7 41.Nc5 Kd6 42.Ncd3 Nd7 43.h3 Nf6 44.Ne5 Ne4
+45.Na2 Kd5 46.Nc4 Kc5 47.Nb2 Kd6 48.Nc4+ Kc5 49.Nb2 Kd6 50.Nd3 Kd5 51.Ne5 Kc5
+52.Nc1 Nc3 53.Ned3+ Kd5 54.Nf2 Kc5 55.Kd2 Nd5 56.e3 Nf6 57.Ncd3+ Kd5 58.Ne5 Kc5
+59.Nfd3+ Kd5 60.Nb4+ Kc5 61.Na2 Ne4+ 62.Kc2 Nd6 63.Nc3 Be8 64.Nd3+ Kb6 65.Kd2 Bc6
+66.h4 Bg2 67.Ke2 Bb7 68.Na4+ Kb5 69.Nc3+ Kb6 70.Kd2 Bg2 71.Na4+ Kc6 72.Ne5+ Kb5
+73.Kc2 Ne8 74.Nc3+ Kc5 75.Nd3+ Kd6 76.b4 Nf6 77.Ne5 Bf1 78.Kd2 h5 79.Nd3 Bg2
+80.b5 Ng4 81.Na4 Nf6 82.Kc3 Ne4+ 83.Kd4 Nd2 84.Ne5 Nb3+ 85.Kc3 Nc1 86.Kb4 Kc7
+87.b6+ Kb7 88.Kb5 Bf1+ 89.Kc5 Ne2 90.Kd6 Ng3 91.Nd7 Bg2 92.Nac5+ Kc8 93.Kxe6 Nf1
+94.e4 Bxe4 95.Nxe4 fxe4 96.Nc5 Nd2 97.Kd5  1-0
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.27"]
+[Round "10.2"]
+[White "Yu Yangyi"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2726"]
+[ECO "C07"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nc6 5.Bb5 a6 6.exd5 axb5 7.dxc6 bxc6 8.dxc5 Bxc5
+9.O-O Nf6 10.b3 Bd4 11.Nxd4 Qxd4 12.Qf3 O-O 13.c3 Qd5 14.Qxd5 cxd5 15.Bb2 Bd7
+16.c4 bxc4 17.bxc4 dxc4 18.Bxf6 gxf6 19.Nxc4 Rfb8 20.Rfc1 e5 21.Ne3 Be6 22.a4 Rb4
+23.a5 Rb5 24.a6 Rb6 25.a7 Rb7 26.g4 Raxa7 27.Rxa7 Rxa7 28.Kg2 Kg7 29.Kg3 Ra3
+30.Rc5 Kg6 31.h3 h5 32.Rb5 Kh6 33.Rb8 f5 34.gxf5 Bxf5 35.Rb5 f6 36.Rb7 Kg6
+37.Rc7 Rd3 38.h4 Be4 39.Rc5 Rb3 40.Kh2 Bb7 41.Kg3 Ba8 42.Rc8 Be4 43.Rc5 Kf7
+44.Kh2 Ke6 45.Rc8 Rb1 46.Re8+ Kf7 47.Rd8 f5 48.Rd1 Rb2 49.Kg1 Ke6 50.Ra1 f4
+51.Ng2 Kf5 52.Ne1 Rb3 53.Kf1 Rh3 54.Ra7 Bd5 55.Ra5 Rh1+ 56.Ke2 Bc4+ 57.Kd2 Rf1
+58.f3 Ke6 59.Ra8 Rf2+ 60.Kc3 Re2 61.Kxc4 Rxe1 62.Re8+ Kf5 63.Rf8+ Ke6 64.Re8+ Kf6
+65.Rf8+ Kg7 66.Ra8 Rd1 67.Re8 Kf6 68.Rf8+ Ke7 69.Rf5 Ke6 70.Rxh5 Rf1 71.Rh6+ Kf5
+72.Rh5+ Kf6 73.Rh6+ Kf5 74.Rh5+ Ke6 75.Rh6+  1/2-1/2
+
+[Event "3rd Du Te Cup 2019"]
+[Site "Shenzhen CHN"]
+[Date "2019.04.27"]
+[Round "10.1"]
+[White "Ding Liren"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2809"]
+[BlackElo "2723"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O
+9.Be3 Re8 10.Rc1 Bf8 11.Bg5 f6 12.Be3 Be6 13.Nd2 Qd7 14.Nb3 Bh3 15.Bxh3 Qxh3
+16.Bc5 Bd6 17.e3 Rad8 18.Qf3 Nd7 19.Bxd6 cxd6 20.Nd5 Nb6 21.Nd2 Nxd5 22.Qxd5+ Qe6
+23.Qxe6+ Rxe6 24.a3 Ree8 25.Rc2 d5 26.Nb3 Rd6 27.Rfc1 Kf7 28.Nc5 Nd8 29.b4 Re7
+30.Kf1 Ne6 31.a4 Ng5 32.b5 e4 33.d4 Nf3 34.h3 f5 35.Nb3 b6 36.Nd2 Ng5 37.h4 Ne6
+38.Nb1 h6 39.Nc3 g5 40.hxg5 hxg5 41.Na2 f4 42.Nb4 Kf6 43.Rc8 Kf5 44.Rh8 Rf7
+45.Ke2 f3+ 46.Kd2 Nf8 47.Rc8 Ng6 48.Rh6 Ne7 49.Rxd6 Nxc8 50.Rxd5+ Kg4 51.Nc6 Kh3
+52.Ne5 Rf6 53.Rd8 Nd6 54.Kc3 Nf5 55.Rh8+ Kg2 56.Ng4 Rf7 57.Rh2+ Kg1 58.Kc4 Rd7
+59.Rh5 Rd6 60.d5 Rg6 61.Rh7 Rd6 62.a5 bxa5 63.Rxa7 Nh6 64.Kc5 Rd8 65.Nxh6 Kxf2
+66.Nf5 Kg2 67.Rxa5 f2 68.Ra2 Kf3 69.Rxf2+ Kxf2 70.b6 Rb8 71.d6 Kf3 72.d7 Rf8  1-0

@@ -1,0 +1,1041 @@
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.18"]
+[Round "1"]
+[White "Bacrot,E"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2729"]
+[ECO "E16"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb4+ 5.Bd2 Be7 6.Nc3 Bb7 7.Bg2 c6 8.Bf4 d5
+9.cxd5 cxd5 10.Nb5 Na6 11.O-O O-O 12.Rc1 Ne4 13.h4 Nd6 14.a4 Nc4 15.Ne5 Na5
+16.Bh3 Qe8 17.h5 Nc6 18.h6 g5 19.e4 dxe4 20.Nxc6 Bxc6 21.Bxg5 Bxg5 22.Qg4 Qe7
+23.Rxc6 f5 24.Qh5 Kh8 25.d5 exd5 26.Nd4 Bf6 27.Nxf5 Qe8 28.Qxe8 Raxe8 29.Rd1 Nb4
+30.Rc7 a5 31.Ng7 Re7 32.Rxe7 Bxe7 33.Ne6 Rc8 34.Nf4 Rd8 35.Be6 Bg5 36.Kf1 Rd6
+37.Bf5 Bxf4 38.gxf4 Rxh6 39.Ke2 Rf6 40.Bg4 Rxf4 41.Rg1 Nd3 42.Be6 Rxf2+ 43.Ke3 Rf8
+44.Bxd5 Nb4 45.Bxe4 Rd8 46.Rc1 h5 47.Kf4 Nd3+ 48.Bxd3 Rxd3 49.Kg5 Kg7 50.Rc7+ Kf8
+51.Kxh5 Ke8 52.Kg5 Rd4 53.b3 Kd8 54.Rc6 Rb4 55.Rc3 Ke7 56.Kf5 Kd6 57.Rd3+ Kc5
+58.Ke5 b5 59.Rc3+ Kb6 60.Kd5 bxa4 61.bxa4 Rxa4 62.Rb3+ Ka6 63.Kc5 Rh4 64.Rb6+ Ka7
+65.Rg6 a4 66.Kb5  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.18"]
+[Round "1"]
+[White "Vallejo Pons,F"]
+[Black "Leko,P"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2740"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.e4 d5 6.e5 Ne4 7.a3 Bxc3+ 8.bxc3 c5
+9.Bd3 Qa5 10.Ne2 cxd4 11.cxd5 exd5 12.f3 Nxc3 13.Nxd4 Ne4+ 14.Ke2 f5 15.Be3 Nc6
+16.Nxc6 bxc6 17.Rhc1 Rb8 18.Kd1 Rd8 19.Bd4 Be6 20.Rab1 Rxb1 21.Rxb1 c5 22.Rb5 Qxa3
+23.Bb2 Qa2 24.Be2 Bd7 25.fxe4 Bxb5 26.Bxb5 Rb8 27.Bc6 Qxb2 28.Bxd5+ Kh8 29.Qxb2 Rxb2
+30.exf5 Rb4 31.Kc2 Rd4 32.Bf7 Re4 33.e6 h5 34.Bxh5 Kg8 35.g4 Kf8 36.g5 Ke7
+37.h3 a5 38.Bg4 a4 39.f6+ gxf6 40.g6 Kf8  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.18"]
+[Round "1"]
+[White "Svidler,P"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2801"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ne7 10.h3 Ng6 11.Bg5+ Ke8 12.Rad1 Bd7 13.Nd4 h6 14.Be3 h5 15.f4 h4
+16.f5 Nxe5 17.f6 Rh5 18.Ne4 g6 19.Bf4 c5 20.Nf3 Nxf3+ 21.Rxf3 Be6 22.Rfd3 c4
+23.R3d2 c6 24.Ng5 Bc5+ 25.Kh2 Bd5 26.Re2+ Kf8 27.Rde1 b5 28.c3 a5 29.a3 Rc8
+30.g4 hxg3+ 31.Kxg3 Be6 32.h4 Kg8 33.Re5 Bf8 34.Nxe6 fxe6 35.Rd1 Rh7 36.Rxe6 Rb7
+37.Re4 Kf7 38.Bg5 Re8 39.Rxe8 Kxe8 40.Kg4 Rh7 41.Re1+ Kd7 42.a4 bxa4 43.Re5 c5
+44.Bf4 Rh8 45.Bg3 Bh6 46.Re7+ Kc6 47.Bf4 Bxf4 48.Kxf4 Rh5 49.Re5 Rxh4+ 50.Kg5 Rh5+
+51.Kxg6 Rxe5 52.f7 Re6+ 53.Kg5 Re5+ 54.Kg4 Re4+ 55.Kg3 Re3+ 56.Kf2 a3 57.f8=Q axb2
+58.Qc8+ Kb5 59.Qb7+ Ka4 60.Kxe3 Ka3 61.Qb5 a4 62.Qxc5+ Kb3 63.Qb4+ Kc2 64.Qxa4+ Kxc3
+65.Qa5+ Kc2 66.Qf5+ Kc1 67.Qf1+  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.18"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2700"]
+[ECO "E93"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Ng4 8.Bg5 f6
+9.Bh4 g5 10.Bg3 Nh6 11.d5 Nd7 12.Nd2 f5 13.exf5 Nf6 14.Nde4 Nxe4 15.Nxe4 Bxf5
+16.Bd3 g4 17.O-O Qe8 18.c5 Qg6 19.Re1 Nf7 20.Bh4 Rae8 21.Rc1 dxc5 22.Rxc5 Nd6
+23.Qa4 Bxe4 24.Bxe4 Qh6 25.Bg3 Qd2 26.Rcc1 Re7 27.h4 Qxb2 28.Qd1 Qxa2 29.h5 Nxe4
+30.Rxe4 Qa6 31.Qb3 Kh8 32.Rce1 Qb6 33.Rb4 Qc5 34.Rxb7 Ref7 35.Rb5 Qd6 36.Qc4 Rf5
+37.Qxg4 Qh6 38.Rb8 Rxf2 39.Rxf8+ Rxf8 40.Rxe5 Qd6 41.Rf5 Qe7 42.Rxf8+ Bxf8
+43.Bf2 h6 44.Qd4+ Kg8 45.Qc4 Qf7 46.Bxa7 Bg7 47.Be3 Kh8 48.Bd4 Bxd4+ 49.Qxd4+ Kh7
+50.Qe5 Qg7 51.Qf5+ Kh8 52.Kh2 Qe7 53.Kh3 Qd6 54.Qf7 Qe5 55.g3 Qe4 56.Qf1 Kh7
+57.Qd1 Qe5 58.Qf3 Kg7 59.Qg4+ Kh8 60.Qg6 Qxd5 61.Qxh6+ Kg8 62.Qg6+ Kh8 63.Qf6+ Kh7
+64.Kh4 Qe4+ 65.g4 Qe1+ 66.Kg5 Qd2+ 67.Qf4 Qd8+ 68.Kf5 Qf8+ 69.Ke4 Qb4+ 70.Kf3 Qc3+
+71.Qe3 Qf6+ 72.Kg3 Qd6+ 73.Kh4 c5 74.g5 Qh2+ 75.Kg4 Qg2+ 76.Kf5 Qd5+ 77.Kf6 Qd6+
+78.Qe6 Qd4+ 79.Ke7  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.19"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2752"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 c5 5.O-O g6 6.Nc3 Bg7 7.d4 cxd4 8.Qxd4 d6
+9.Be3 Nbd7 10.Rac1 Rc8 11.b3 a6 12.Rfd1 O-O 13.Qd2 Ne4 14.Nxe4 Bxe4 15.Ne1 Nf6
+16.Bh3 Rb8 17.Nd3 Ba8 18.f3 e6 19.Bf2 Re8 20.Nb4 a5 21.Na6 Rc8 22.Qxd6 Qxd6
+23.Rxd6 Nd5 24.Rd1 Nc3 25.R1d2 b5 26.Rd7 Be5 27.cxb5 Nxb5 28.Bf1 Bc6 29.R7d3 Na3
+30.f4 Bf6 31.Nc5 Be7 32.Rd1 Nb5 33.Na4 Be4 34.Rd7 Bb4 35.Bg2 Bxg2 36.Kxg2 Rc2
+37.Rb7 Na3 38.Rdd7 Rf8 39.Kf3 Nb1 40.Be3 Rxa2 41.Bc5 Nd2+ 42.Kg2 Bxc5 43.Nxc5 e5
+44.Ne6 exf4 45.Rxf7  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.19"]
+[Round "2"]
+[White "Vallejo Pons,F"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2765"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Bd2 Bg7 6.e4 Nb6 7.Be3 O-O 8.h4 Nc6
+9.e5 Bf5 10.Be2 Nb4 11.g4 Nc2+ 12.Kf1 Nxe3+ 13.fxe3 Be6 14.Nh3 f6 15.exf6 Bxf6
+16.Kg1 Bf7 17.Ng5 e5 18.Nxf7 Rxf7 19.dxe5 Bxe5 20.Ne4 Bxb2 21.Rb1 Qe7 22.Bf3 Bg7
+23.Ng5 Rff8 24.Qb3+ Kh8 25.Bxb7 Rab8 26.Be4 Bf6 27.Qc2 Rbe8 28.Rf1 Qd7 29.Bf3 Rxe3
+30.Rh3 Bd4 31.Kg2 Nd5 32.Kh1 Nf4 33.Bc6 Rxh3+ 34.Nxh3 Qxg4 35.Bg2 Nxg2 36.Rxf8+ Kg7
+37.Qxc7+ Kxf8 38.Qd6+ Kg7 39.Qe7+ Kh6 40.Qg5+ Qxg5  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.19"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2717"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.Nc3 Bf5
+9.Re1 Nxc3 10.bxc3 Bxd3 11.Qxd3 O-O 12.Bf4 Bd6 13.Ng5 g6 14.Qh3 h5 15.Qg3 Qf6
+16.Bxd6 cxd6 17.Nh3 Rae8 18.Qf4 Rxe1+ 19.Rxe1 Kg7 20.Qg3 Qf5 21.Nf4 b5 22.h4 Rd8
+23.Qg5 Qxg5 24.hxg5 b4 25.cxb4 Nxb4 26.c3 Nxa2 27.Nxd5 Rb8 28.Re2 Nc1 29.Re7 a5
+30.Ra7 Rc8 31.Rxa5 Ne2+ 32.Kh2 Nxc3 33.Nf6 Rb8 34.d5 Nb5 35.Ra4 Nc7 36.Ra7 Ne8
+37.Ne4 Rd8 38.f3 Kf8 39.g4 hxg4 40.fxg4 Rb8 41.Kg3 Rb3+ 42.Kf4 Rb4 43.Ke3 Rb3+
+44.Kd4 Rb4+ 45.Kd3 Rb3+ 46.Kc4 Rf3 47.Rd7 Rf4 48.Kd3 f6 49.Nxf6 Nxf6 50.gxf6 Rxg4
+51.Rxd6 Kf7 52.Re6 Ra4 53.Re4 Rxe4 54.Kxe4  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.19"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2700"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Bg5 13.a4 bxa4 14.Rxa4 a5 15.Bc4 Rb8
+16.b3 Kh8 17.Nce3 Be6 18.h4 Bf4 19.Nf5 g6 20.Nfe3 Kg7 21.g3 Bh6 22.Ng4 f5
+23.Nxh6 Kxh6 24.h5 g5 25.exf5 Bxf5 26.Ne3 Bc8 27.Ra2 Ne7 28.O-O Rf6 29.Qe2 Qb6
+30.Rfa1 Qc6 31.Rxa5 Bb7 32.Bd5 Nxd5 33.Rxd5 Qxc3 34.Ng4+ Kg7 35.Ra7 Re6 36.Qc4 Qe1+
+37.Kg2 Re7 38.Rxb7 Rexb7 39.Rxd6 Rf8 40.h6+ Kh8 41.Qd5 Rbb8 42.Qd3 Qb4 43.Rd7 e4
+44.Qd5 Rb5 45.Nf6  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.20"]
+[Round "3"]
+[White "Svidler,P"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2740"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O
+9.O-O Be6 10.Bb3 Nc6 11.Bg5 Nd7 12.Bxe7 Qxe7 13.Nd5 Qd8 14.c3 Na5 15.Re1 Rc8
+16.h3 b5 17.Nh2 Nc4 18.Bxc4 bxc4 19.b4 cxb3 20.axb3 Bxd5 21.Qxd5 Rxc3  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.20"]
+[Round "3"]
+[White "Bacrot,E"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2650"]
+[ECO "E49"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 Nf6 6.e3 O-O 7.cxd5 exd5 8.Bd3 c5
+9.Ne2 Bg4 10.f3 Bh5 11.Nf4 Bg6 12.Be2 Nc6 13.h4 h5 14.O-O Ne7 15.dxc5 Qa5
+16.Nxg6 fxg6 17.Rb1 Qxc5 18.c4 dxc4  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.20"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2729"]
+[ECO "D84"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.cxd5 Nxd5 7.Nxd5 Qxd5 8.Bxc7 Na6
+9.Bxa6 Qxg2 10.Qf3 Qxf3 11.Nxf3 bxa6 12.Rg1 f6 13.Rc1 Rf7 14.Ke2 Bd7 15.Nd2 e5
+16.d5 Bb5+ 17.Kf3 f5 18.b3 e4+ 19.Kg2 Bb2 20.Rc2 Bd3 21.Rc6 Bb5 22.Rc2 Bd3
+23.Rc6  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.20"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2801"]
+[ECO "E55"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O dxc4 8.Bxc4 Nbd7
+9.a3 cxd4 10.axb4 dxc3 11.bxc3 Qc7 12.Be2 Nd5 13.Bd3 Qxc3 14.Ra3 Qf6 15.Qc2 h6
+16.b5 Nb4 17.Bh7+ Kh8 18.Qb1 a5 19.Be4 Nc5 20.Bd2 Bd7 21.Bxb4 axb4 22.Qxb4 Rxa3
+23.Qxc5 Rfa8 24.Ne5 b6 25.Qc7 Bxb5 26.Bxa8 Rxa8 27.Rd1 Ba4 28.Rd4 Be8 29.g3 Kh7
+30.Kg2 Ra5 31.Nc4 Ra2 32.Rf4 Qc3 33.Qxb6 Ra1 34.Qb7 Qc1 35.Kh3 f6 36.Rg4 Bg6
+37.Rxg6 Kxg6 38.Qe4+ Kf7 39.Nd6+ Ke7 40.Nf5+ Kd7 41.Nxg7 Qf1+ 42.Kh4 Qxf2
+43.Qxe6+ Kc7 44.Qc4+ Kb7 45.Qe4+ Kb8 46.Qf4+ Qxf4+ 47.exf4 Ra2 48.h3 Kc8
+49.Kh5 Ra3 50.Nf5 Kd7 51.Kxh6 Ke6 52.Kg6 Ra5 53.Ng7+ Ke7 54.h4 Ra6 55.Nh5 Ra8
+56.Ng7 Ra6 57.g4 f5+ 58.Kxf5 Kf7 59.Nh5 Ra5+ 60.Ke4 Ra3 61.g5 Rh3 62.Kf5 Rxh4
+63.g6+ Kg8 64.Kg5 Rh1 65.Nf6+ Kf8 66.Nh5 Rg1+ 67.Kh6 Rh1 68.f5 Kg8 69.Kg5 Rg1+
+70.Kf6 Rg4 71.Ng7 Ra4 72.Ne6 Ra5 73.Nc7 Kf8 74.Ke6 Ra7 75.Nb5 Re7+ 76.Kf6 Rd7
+77.Nc3 Rd6+ 78.Kg5 Kg7 79.Nb5 Rd5 80.Nc7 Re5 81.Ne6+ Kg8 82.Kf6 Ra5 83.Nc7 Rc5
+84.Ne8 Rc1 85.Nd6 Kf8 86.Ne4 Rc6+ 87.Kg5 Rc4 88.Ng3 Rc3 89.Ne4 Rc4 90.Nf6 Rc1
+91.Nd7+ Kg8 92.f6 Rf1 93.Ne5 Rg1+ 94.Kf5 Rf1+ 95.Ke6 Re1 96.Kd6 Re2 97.Nc6 Rg2
+98.Ke6 Re2+ 99.Kd7 Kf8 100.Kd6 Rg2 101.Ne5 Rd2+ 102.Ke6 Re2 103.Kf5 Rf2+
+104.Kg5 Rg2+ 105.Kh4 Rf2 106.Ng4 Rg2 107.Ne5 Rf2 108.Kg5 Rg2+ 109.Kf4 Rf2+
+110.Nf3 Rf1 111.Ke3 Kg8 112.Kf4 Kf8 113.Ke4 Kg8 114.Ke3 Ra1 115.Kf4 Rf1 116.Kg4 Rf2
+117.Kg3 Rf1 118.Kf4 Rf2 119.Ke4 Rf1 120.Ke3 Ra1 121.Kd4 Rf1 122.Ke4 Rf2 123.g7 Rg2  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.22"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2717"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.Be3 Re8 11.Bc4 Be6 12.Bxe6 Nxe6 13.h4 Qd7 14.Qd3 Qa4 15.Ng5 Nf8
+16.Qd5 Bxg5 17.hxg5 Qe4 18.c4 Qxd5 19.cxd5 Nd7 20.Rd3 f6 21.Rc3 Rac8 22.Rh4 Re7
+23.Rhc4 Nb6 24.Bxb6 axb6 25.gxf6 gxf6 26.a4 Kf8 27.Kd2 Rg7 28.g3 Ke8 29.Rf3 Rg6
+30.Rh4 h6 31.Re4+ Kd7 32.Re6 Rf8 33.c4 h5 34.Rf5 Rg4 35.b3 h4 36.gxh4 Rxh4
+37.Rfxf6 Rxf6 38.Rxf6 Ke7 39.Re6+ Kf7 40.Re3 Rh1 41.Rf3+ Ke7 42.Ke3 Re1+
+43.Kf4 Kf6 44.Rh3 Re2 45.Rh7 Rxf2+ 46.Ke3 Rb2 47.Rxc7 Rxb3+ 48.Kd4 Rb4 49.Rd7 Rxa4
+50.Rxd6+ Ke7 51.Rxb6 Ra7 52.c5 Kd8 53.Ke5 Kc7 54.Rh6 Ra5 55.Rh7+ Kb8 56.Rh8+ Ka7
+57.d6 Rxc5+ 58.Ke6 Rc6 59.Ke7  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.22"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2801"]
+[BlackElo "2700"]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5 e6 8.h3 exd5
+9.exd5 Nfd7 10.f4 f5 11.O-O Na6 12.Be3 Nc7 13.Qd2 Re8 14.Bf2 Nf6 15.a3 a5
+16.Bh4 Bd7 17.Kh1 Qe7 18.Rae1 Qf7 19.a4 Na6 20.g4 Nb4 21.Bb1 fxg4 22.f5 Bxf5
+23.Bxf5 gxf5 24.Rxf5 Qg6 25.Ref1 Rf8 26.Ng3 Nh5 27.Nce4 Nxg3+ 28.Nxg3 gxh3
+29.b3 Rae8 30.Kh2 Rxf5 31.Rxf5 Re5 32.Qg5 Qxg5 33.Bxg5 Nc2 34.Bd8 Nd4 35.Rf4 Re3
+36.Rg4 Kf7 37.Re4 Rxb3  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.22"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2729"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 d6 10.Nbd2 Na5 11.Ba2 c5 12.Nf1 Bc8 13.c3 Bd7 14.Ne3 Qc7 15.axb5 axb5
+16.b4 Nb7 17.Bd2 Nd8 18.Bb3 Rxa1 19.Qxa1 Re8 20.bxc5 Qxc5 21.Qa2 h6 22.h3 Ne6
+23.Nd5 Nxd5 24.Bxd5 Qc8 25.d4 Bf6 26.Qb3 Bc6 27.Qb4 exd4 28.cxd4 Bxd5 29.exd5 Ng5
+30.Rxe8+ Qxe8 31.Bxg5 hxg5 32.Qxd6 Qe2 33.Qc5 Qc4 34.Qxc4 bxc4 35.Kf1 Kf8
+36.d6 Ke8 37.Ne5 Bxe5 38.dxe5 Kd7 39.g3  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.22"]
+[Round "4"]
+[White "Vallejo Pons,F"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2752"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 c5 4.Bg2 Bb7 5.O-O g6 6.Nc3 Bg7 7.d4 cxd4 8.Qxd4 d6
+9.Be3 Nbd7 10.Rac1 Rc8 11.b3 a6 12.Rfd1 O-O 13.Qh4 Rc7 14.g4 h6 15.Bxh6 Bxh6
+16.Qxh6 Nxg4 17.Qh4 Ngf6 18.Qh6 Ng4 19.Qh4 Ngf6 20.Qh6  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.23"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2765"]
+[ECO "D80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 c5 6.cxd5 Nxc3 7.bxc3 Qxd5 8.e3 cxd4
+9.Qxd4 Qxd4 10.cxd4 e6 11.Rb1 Be7 12.Bxe7 Kxe7 13.Bd3 Nc6 14.Nf3 b6 15.Ke2 Bb7
+16.Rhc1 Rhc8 17.g4 h6 18.h4 Na5 19.g5 hxg5 20.hxg5 Rxc1 21.Rxc1 Rc8 22.Rxc8 Bxc8
+23.Ne5 Bb7 24.a3 Nc6 25.Ng4 Nb8 26.Kd2 Bc6 27.Kc3 Nd7 28.f4 a5 29.e4 b5 30.Bc2 f5
+31.exf5 exf5 32.Ne5 Nxe5 33.dxe5 b4+ 34.axb4 axb4+ 35.Kxb4 Bd7 36.Bb3 Bc6
+37.Kc5 Be8 38.e6  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.23"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2801"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.cxd5 cxd5 6.Qb3 Nc6 7.Bg5 e6 8.e3 h6
+9.Bxf6 Qxf6 10.Bd3 Bd6 11.O-O O-O 12.Rac1 b5 13.Bb1 Bd7 14.Qc2 g6 15.Qd2 Rac8
+16.Rfd1 Rc7 17.Qe1 b4 18.Ne2 a5 19.Qd2 Rfc8 20.Ne1 a4 21.Nd3 Na5 22.Rxc7 Rxc7
+23.Rc1 Nc4 24.Qe1 Qd8 25.g3 Bb5 26.h4 g5 27.hxg5 hxg5 28.Kg2 Qc8 29.Ng1 f6
+30.Qd1 Be8 31.Nf3 Bh5 32.Rc2 Bg6 33.Re2 g4 34.Nh4 Be4+ 35.Kh2 f5 36.Ne1 Nxe3
+37.Rxe3 Rc1 38.Qd2 Rxb1 39.Rxe4 dxe4 40.Qg5+ Kf7 41.d5 Rxe1 42.Qg6+ Ke7 43.Qg5+ Kd7
+44.dxe6+ Kc6 45.e7 e3 46.Qxf5 Qxf5 47.e8=Q+ Qd7 48.Qe4+ Kc7  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.23"]
+[Round "5"]
+[White "Bacrot,E"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2740"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 b5 14.Re1 dxe4 15.Bxe4 bxc4
+16.bxc4 c5 17.d5 exd5 18.Bxd5 Bf6 19.Ne4 Bxc3 20.Nxc3 Nb6 21.Re4 Re8 22.Qf3 Nxd5
+23.Nxd5 Re6 24.Rd1 Qe8 25.Rg4 Kh8 26.Qc3 f6 27.Rf4 Bb7 28.Rf3 h6  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.23"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2650"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2 Bb7
+10.O-O Nbd7 11.Ne5 h5 12.Nxd7 Qxd7 13.Be5 Rh6 14.f4 g4 15.Qc2 c5 16.d5 b4
+17.f5 exd5 18.Nxd5 Bxd5 19.exd5 Bd6 20.Bxd6 Qxd6 21.Bxc4 h4 22.Bb5+ Kf8 23.Bc6 Rd8
+24.Rac1 h3 25.gxh3 Rxh3 26.Qxc5 g3 27.Qxd6+ Rxd6 28.hxg3 Ng4 29.Kg2 Ne3+
+30.Kf3 Nxf1 31.Rxf1 Rh2 32.b3 Rxa2 33.Ke4 Ke7 34.Rh1 Rg2 35.Kf4 Rf2+ 36.Kg5 Rd8
+37.Re1+ Kd6 38.Kf6 Rg8 39.Re3 Rg2 40.Kxf7 R8xg3 41.Re6+ Kc5 42.f6 Rxb3 43.Ke7 Rd3
+44.f7 Rf2 45.f8=Q Rxf8 46.Kxf8 Rxd5 47.Bxd5 Kxd5 48.Ra6 Kc4 49.Rxa7 b3 50.Rb7 Kc3
+51.Rxb3+ Kxb3  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.25"]
+[Round "6"]
+[White "Radjabov,T"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2717"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Nf3 e6 6.b3 Bb4 7.Bd2 O-O 8.Bd3 Nbd7
+9.O-O Bd6 10.Qc2 Re8 11.Rad1 h6 12.e4 dxe4 13.Nxe4 Nxe4 14.Bxe4 c5 15.dxc5 Bxc5
+16.b4 Bf8 17.c5 Qc7 18.Bc3 a5 19.a3 axb4 20.axb4 f5 21.Bd3 b6 22.Rfe1 Bb7
+23.Bc4 Be4 24.Qb3 Kh8 25.Bxe6 Nf6 26.Nh4 bxc5 27.Bxf6 c4 28.Qxc4 Qxc4 29.Bxc4 gxf6
+30.f3 Bxb4 31.Rd7 Rg8 32.Rf1 Rg7 33.Rxg7 Kxg7 34.fxe4 Bc5+ 35.Kh1 fxe4 36.Nf5+ Kg6
+37.Ng3 e3 38.Bd3+ Kf7 39.Ne2 Ke7 40.g3 Ra2 41.Kg2 Rd2 42.Bc4 Bb6 43.Kf3 Kd6
+44.Ke4 Ke7 45.Rb1 Rd6 46.Kf3 Rc6 47.Bd5 Rd6 48.Be4 Ke6 49.Rb5 Kd7 50.Nf4 Bd4
+51.Rd5 Ba7 52.Rxd6+ Kxd6 53.Ng2 Ke5 54.Nxe3 h5 55.h4  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.25"]
+[Round "6"]
+[White "Aronian,L"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2740"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.Re1 c5 14.cxd5 exd5 15.Rc1 Nf6
+16.e3 Bb7 17.Rc2 cxd4 18.Bxd4 Qd7 19.Rxc8 Rxc8 20.Qb1 h5 21.Rd1 Qe6 22.Rc1 g6
+23.h3 Rxc1+ 24.Qxc1 Qc6 25.Qb1 Ne4 26.Nf3 Ba3 27.Be5 Qc1+ 28.Qxc1 Bxc1 29.a4 Ba3
+30.Bb8 a6 31.Ne5 Be7 32.Bc7 b5 33.axb5 axb5 34.Ba5 Bd6 35.Nd3 Kf8 36.Bb4 Ke7
+37.Bxd6+ Kxd6 38.b4 Bc8 39.Ne1 Nc3 40.Nc2 Na2 41.Bf1 Bf5 42.Nd4 Bd7 43.Nxb5+ Bxb5
+44.Bxb5 Nxb4 45.Kg2 Na2  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.25"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Vallejo Pons,F"]
+[Result "0-1"]
+[WhiteElo "2801"]
+[BlackElo "2650"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2 Bb7
+10.O-O Nbd7 11.Ne5 h5 12.Nxd7 Qxd7 13.Be5 Rh6 14.f3 Qe7 15.a4 a6 16.Qc2 Rd8
+17.Rad1 Nd7 18.Bc7 Rc8 19.Bg3 e5 20.d5 b4 21.dxc6 Rhxc6 22.Nd5 Qe6 23.Qd2 h4
+24.Bf2 c3 25.bxc3 bxc3 26.Qxg5 c2 27.Rc1 h3 28.g3 Qh6 29.Qf5 Qd2 30.Rfe1 Ba3
+31.f4 Bxc1 32.Bh5 Rg6 33.Bxg6 Bxd5 34.exd5 Qxe1+ 35.Bxe1 Be3+ 36.Kf1 c1=Q
+37.Qxf7+ Kd8 38.Ke2 Bb6 39.Bd2 Qc4+ 40.Kf3 e4+ 41.Kg4 Kc7 42.a5 Bd4 43.Bf5 Rg8+
+44.Kh4 Rh8+ 45.Kg5 Qb5 46.Be6 e3 47.Be1 e2 48.g4 Rf8 49.Qh7 Be3 50.Kh4 Bxf4
+51.g5 Qa4 52.Kh5 Bxh2 53.Bxh3 Be5 54.Qd3 Rh8+ 55.Kg6 Nf8+ 56.Kf7 Kd8  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.25"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2765"]
+[ECO "D80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Bh4 Nxc3 6.bxc3 dxc4 7.e3 Be6 8.Qb1 c5
+9.Qxb7 Bd5 10.Qb5+ Nd7 11.Nf3 Rb8 12.Qa4 cxd4 13.cxd4 Qc8 14.Rc1 e6 15.Bxc4 Rb4
+16.Qa6 Bb7 17.Qa5 f6 18.Nd2 Bxg2 19.Rg1 Qc6 20.Rxg2 Qxg2 21.Bxe6 Bd6 22.Rc8+ Ke7
+23.Rxh8 Kxe6 24.Qd8 Qg1+ 25.Ke2  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.26"]
+[Round "7"]
+[White "Leko,P"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2801"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 h5 8.Bc4 Nc6
+9.Qd2 Na5 10.Bb3 Be7 11.O-O-O b5 12.Kb1 Bd7 13.Rhe1 b4 14.Nce2 g6 15.Nc1 e5
+16.Nde2 Nxb3 17.Nxb3 a5 18.Bg5 a4 19.Bxf6 Bxf6 20.Nbc1 Rb8 21.Qxd6 Rb6 22.Qc5 Qb8
+23.Nd3 Rb5 24.Qf2 Be6 25.f4 O-O 26.fxe5 Bxe5 27.Nxe5 Qxe5 28.Nd4 Rc5 29.Qg3 Qxg3
+30.hxg3 Bg4 31.Rd3 Re8 32.Rde3 f6 33.a3 bxa3 34.bxa3 Bc8 35.Kc1 Bb7 36.Nf3 Rec8
+37.R1e2 Rc4 38.Kb2 Rb8 39.Kc1 Rbc8 40.Kb2 Rb8 41.Kc1  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.26"]
+[Round "7"]
+[White "Vallejo Pons,F"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2729"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Nc3 Qxe2+ 8.Bxe2 Be7
+9.O-O O-O 10.Nd4 Nbd7 11.Bf4 Ne5 12.h3 Bd7 13.Rae1 Rfe8 14.Bd1 Nc6 15.Nxc6 Bxc6
+16.Bd2 Bf8 17.Re3 Nd5 18.Nxd5 Bxd5 19.b3 Re7 20.a4 Rae8 21.Rfe1 b6 22.Kf1 a5
+23.Bf3 Bxf3 24.Rxf3 Rxe1+ 25.Bxe1  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.26"]
+[Round "7"]
+[White "Svidler,P"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2700"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 a6 6.Be2 d5 7.exd5 Nxd5 8.d4 cxd4
+9.Nxd4 Bd6 10.Nxc6 bxc6 11.Bf3 Qc7 12.g3 O-O 13.Nd2 e5 14.c4 Nf6 15.Qc2 Rb8
+16.b3 Bc5 17.Bb2 Bd4 18.Bxd4 exd4 19.c5 Rd8 20.Nc4 Nd7 21.Rfe1 Nxc5 22.Ne5 Ne6
+23.Qxc6 Bb7 24.Qxc7 Nxc7 25.Bxb7 Rxb7 26.Nc6 Rd6 27.Rac1 Kf8 28.Na5 Ra7 29.Red1 Ne8
+30.Rc8 Rc7 31.Ra8 Rc2 32.Nc4 Re6 33.Rxd4 Rxa2 34.Rdd8 h5 35.Nd6 Ke7 36.Nf5+ Kf6
+37.Ne3 Nd6 38.Nd5+ Kg5 39.Nf4 Re1+ 40.Kg2 Nf5 41.Re8 Rxe8 42.Rxe8  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.02.26"]
+[Round "7"]
+[White "Bacrot,E"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2752"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 Ne4 6.Qd3 Qa5 7.Qxe4 Bxc3+ 8.Bd2 Bxd2+
+9.Nxd2 Nc6 10.dxc5 b6 11.Bg2 Bb7 12.Qf4 bxc5 13.Qd6 Qb6 14.Ne4 Nd4 15.Qxb6 axb6
+16.Nd6+ Ke7 17.Bxb7 Nc2+ 18.Kd2 Nxa1 19.Nxf7 Rxa2 20.Nxh8 Rxb2+ 21.Kd3 Rb3+
+22.Ke4 Nc2 23.e3 b5 24.Kf4 bxc4 25.Be4 Nb4 26.Bxh7 Nd3+ 27.Kg5 Nxf2 28.Rf1 Rb2
+29.h4 d5 30.Ra1 Kd7 31.Nf7 c3 32.Kg6 Ng4 33.Rg1 Re2 34.Kxg7 Rxe3 35.h5 d4
+36.h6 c4 37.Bc2 Nxh6 38.Nxh6 d3 39.Ba4+ Kd6 40.g4 Kc5 41.g5 Kb4 42.Ng4 Re4
+43.Nf6 Re5 44.Bd1 d2 45.g6 Re1 46.Kf7 Rxg1 47.g7 Ka3 48.Bg4 Rxg4 49.Nxg4 d1=Q
+50.g8=Q Qd7+ 51.Kf6 Qd4+ 52.Kxe6 c2 53.Qa8+ Kb2 54.Qb8+ Kc1 55.Qg8 Kd1  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.03"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2752"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 Nbd7 7.e3 c5 8.Bd3 Qa5
+9.O-O c4 10.Bf5 Bxc3 11.bxc3 Ne4 12.Qc2 Ndf6 13.Bxc8 Rxc8 14.Bxf6 Nxf6 15.Rfb1 b6
+16.Rb4 Qa6 17.Nd2 O-O 18.f3 Nh5 19.g3 Rce8 20.e4 b5 21.Re1 Qg6 22.Rxb5 dxe4
+23.fxe4 Nxg3 24.hxg3 Qxg3+ 25.Kf1 Qf4+ 26.Ke2 Qg4+ 27.Kf2 Qh4+ 28.Ke2 Qg4+
+29.Kf2  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.03"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2765"]
+[ECO "D87"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Na5 11.Bd3 b6 12.Rc1 e5 13.dxc5 Be6 14.c4 bxc5 15.Bxc5 Re8
+16.Be3 Re7 17.Qc2 Rd7 18.Rfd1 Nc6 19.a3 Qa5 20.Nc3 Qxa3 21.Nd5 Rc8 22.Ra1 Qf8
+23.Ra6 Nb4 24.Nxb4 Qxb4 25.Rb1 Qf8 26.c5 Bh6 27.Bxh6 Qxh6 28.c6 Rdc7 29.Rb5 Rd8
+30.Rb7 Rxd3 31.Qxd3 Qc1+ 32.Qf1 Rxc6 33.Ra1 Qf4 34.Qe1 Rc4 35.Rb4 Rc2 36.Rbb1 Bg4
+37.h3 Be2 38.Ra3 a6 39.Re3 Bb5 40.Rc1 Ra2 41.Rc8+ Kg7 42.Rc7 Be8 43.Rf3 Qg5
+44.Qc3  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.03"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2717"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 h6 6.Bxf6 Qxf6 7.g3 Nd7 8.Bg2 dxc4
+9.O-O Be7 10.Qc2 O-O 11.Rfd1 e5 12.d5 Nc5 13.Nd2 Bf5 14.Qc1 Rad8 15.dxc6 bxc6
+16.Nxc4 Qe6 17.Ne3 Bg6 18.b4 Na6 19.Rxd8 Rxd8 20.a3 Nc7 21.Na4 e4 22.Nc5 Qe5
+23.Nb7 Rd7 24.Na5 Bf6 25.Bh3 Ne6 26.Ra2 Rc7 27.Bxe6 Qxe6 28.Rc2 Bh5 29.Ng2 Bg5
+30.Nf4 Qd6 31.Kg2 Qd7 32.h4 Bxf4 33.Qxf4 Rc8 34.Rd2 Qe6 35.Nb7 Re8 36.Nc5 Qc4
+37.g4 Bg6 38.h5 Bh7 39.e3 a5  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.03"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2650"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Nbd7
+9.g4 h6 10.Qd2 b5 11.O-O-O Qc7 12.Nd5 Bxd5 13.exd5 Nb6 14.Bxb6 Qxb6 15.Qa5 Qb7
+16.Qb4 Be7 17.h4 Rb8 18.Na5 Nxd5 19.Qe4 Qb6 20.Rxd5 Qxa5 21.Kb1 h5 22.f4 exf4
+23.g5 O-O 24.g6 Bf6  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.04"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2729"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 O-O 8.Rc1 d5
+9.cxd5 exd5 10.Bg2 Bb7 11.O-O Na6 12.Bf4 Re8 13.Ne5 h6 14.Nb5 c5 15.Nc4 Bc6
+16.Ncd6 Rf8 17.dxc5 bxc5 18.Nd4 cxd4 19.Rxc6 Nb4 20.Nb7 Qe8 21.Rc7 Na6 22.Rc1 Qb5
+23.Nd6 Qd7 24.Qd3 Bxd6 25.Qxa6 Bxf4 26.gxf4 Qg4 27.Qd3 Qxf4 28.Rcd1 Rfe8
+29.Rfe1 Rac8 30.Qxd4 Qxd4 31.Rxd4 Rc2 32.a4 Rexe2 33.Rxe2 Rxe2 34.Bxd5 Nxd5
+35.Rxd5 Rb2  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.04"]
+[Round "9"]
+[White "Svidler,P"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2650"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Bc2 f5 12.exf6 Nxf6 13.Nb3 Bg4 14.Qd3 Qd7 15.Bf4 Ne4
+16.Ne5 Nxe5 17.Bxe5 Bf5 18.Qd4 c5 19.Qe3 Rae8 20.f4 c4 21.Bxe4 Bxe4 22.Nd2 Qc6
+23.Nxe4 dxe4 24.Rad1 Rd8 25.Bd4 Rfe8 26.Rd2 Bf6 27.Rfd1 Bxd4 28.Rxd4 Rxd4
+29.Rxd4 Qe6 30.a3 h5 31.h3  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.04"]
+[Round "9"]
+[White "Radjabov,T"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2740"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 c5 14.exd5 exd5 15.dxc5 dxc4
+16.cxb6 Nxb6 17.Re1 Bf6 18.Bxf6 Qxf6 19.Ne4 Qg6 20.Qd6 Qxd6 21.Nxd6 Rcd8
+22.Nf5 g6 23.Ne3 Rfe8 24.Bf1 Re5 25.bxc4 Rc5 26.Rec1 Rdc8 27.Rc2 Kg7 28.Rac1 R8c7
+29.Rc3 Bc8 30.Nc2 Na4 31.Ra3 Bd7 32.Nd4 Re5 33.Rd1 Nb2 34.Rb1 Re4 35.Rxb2 Rxd4
+36.f3 Be6 37.Kf2 Rd6 38.Rc3 Rdc6 39.Rbc2 Bf5 40.Rc1 Rc5 41.h4 h5 42.Ra3 Rd7
+43.Be2 Rdc7 44.Rcc3 Be6 45.Rc2 Bf5 46.Rb2 Be6 47.Rc3 Kf6 48.Bd3 Bf5 49.Bf1 Ra5
+50.Be2 Be6 51.Bd3 Bf5 52.Bf1 Be6 53.a3 Bf5 54.Be2 Rac5 55.Ke3 Re5+ 56.Kf2 Rec5
+57.Rd2 Be6 58.Bd3 Bf5 59.Ke3 Bxd3 60.Kxd3 g5 61.Rh2 Rd7+ 62.Kc2 Rd4 63.hxg5+ Kxg5
+64.Kb3 a5 65.Rh1 f6 66.Rh2 Rd1 67.Ka4 Rd4 68.Kb3 Rd1 69.Re2 Rg1 70.Ree3 Kf5
+71.f4 Rh1 72.Re8 h4 73.gxh4 Rxh4 74.Rb8 Rxf4 75.Rb5 Rxb5+ 76.cxb5 a4+ 77.Kc2 Rd4
+78.b6 Rd8 79.Rf3+ Ke6 80.Re3+ Kd6  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.04"]
+[Round "9"]
+[White "Bacrot,E"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2801"]
+[ECO "D11"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 a6 5.Bd3 Bg4 6.Nbd2 e6 7.O-O Nbd7 8.b3 c5
+9.cxd5 Nxd5 10.Bb2 Be7 11.Qb1 cxd4 12.Bxd4 Bf6 13.Rc1 Bh5 14.Rc4 Qe7 15.h3 Rd8
+16.Be4 Bxd4 17.Nxd4 N7f6 18.Bxd5 Nxd5 19.Qb2 O-O 20.Rac1 Bg6 21.N4f3 f6 22.g3 e5
+23.a3 Qe6 24.e4 Ne7 25.Rc7 Rd7 26.h4 Rfd8 27.b4 h6 28.Rxd7 Rxd7 29.b5 axb5
+30.Qxb5 Nc6 31.Kg2 Kh7 32.Qc4 Qxc4 33.Rxc4 Rd3 34.a4 Ra3 35.Nb1 Ra2 36.Nc3 Rc2
+37.Rc5 Nb4 38.Ne1 Rc1  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.05"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2752"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 cxd4 6.Nxd4 O-O 7.Bg2 d5 8.cxd5 Nxd5
+9.Qb3 Qb6 10.Bxd5 exd5 11.Be3 Bh3 12.Rc1 Nc6 13.Nxc6 Qxc6 14.f3 Qc4 15.Kf2 Be6
+16.Qxc4 dxc4 17.Rhd1 Bxc3 18.bxc3 b6 19.Rd4 Rfd8 20.g4 Rd5 21.g5 Rad8 22.h4 Kf8
+23.Rb1 Ke7 24.Rb2 R8d6 25.Rxd5 Rxd5 26.Bd4 f6 27.e4 Ra5 28.f4 Bd7 29.Ke3 Rb5
+30.Rg2 Kf7 31.h5 fxg5 32.fxg5 g6 33.Rf2+ Ke8 34.hxg6 hxg6 35.Bf6 Rb1 36.Kd4 Rd1+
+37.Kxc4 Be6+ 38.Kb5 Ra1 39.Rh2 Rxa2 40.Rh7 Bd7+ 41.Kc4 Rd2 42.Bd4 Be6+ 43.Kb5 Bd7+
+44.Ka6 Bc6 45.Kxa7 Bxe4 46.Kxb6 Rb2+ 47.Kc5 Rb7 48.Rh4 Rc7+ 49.Kb4 Rb7+ 50.Kc4 Bf5
+51.Kc5 Rc7+ 52.Kd6 Rd7+ 53.Kc6 Re7 54.Bf6 Re4 55.Rh8+ Kf7 56.Rh7+ Kg8 57.Rg7+ Kf8
+58.Kb5 Re8 59.c4 Rb8+ 60.Ka5 Ra8+ 61.Kb4 Rb8+ 62.Kc3 Rc8 63.Ra7 Be6 64.Be7+ Kg8
+65.c5 Bd5 66.Kd4 Bg2 67.Ke5 Ra8 68.Rc7 Ra1 69.Kf6 Be4 70.Rc8+ Kh7 71.Rd8 Ra6+
+72.Kf7 Bf5 73.Rd4 Be6+ 74.Kf8 Ra8+ 75.Bd8 Bg4 76.c6  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.05"]
+[Round "10"]
+[White "Vallejo Pons,F"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2717"]
+[ECO "D24"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.Nc3 a6 5.e4 b5 6.e5 Nd5 7.a4 e6 8.axb5 Nb6
+9.Ng5 h6 10.Nge4 axb5 11.Rxa8 Nxa8 12.Nxb5 Nb6 13.Be3 Nc6 14.Be2 Bb4+ 15.Nbc3 O-O
+16.g4 Bb7 17.O-O Ne7 18.Nd2 Bxc3 19.bxc3 Ned5 20.Qc1 Nxe3 21.fxe3 Qg5 22.Rf4 Nd5
+23.Re4 Ne7 24.Rf4 Ng6 25.Rf2 Qxe3 26.Nb3 Qxc1+ 27.Nxc1 c5 28.Bxc4 cxd4 29.Rb2 Bf3
+30.cxd4 Rc8 31.Rc2 Be4 32.Nd3 Nf4 33.Rd2 Nh3+  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.05"]
+[Round "10"]
+[White "Leko,P"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2765"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.Be3 Nf6 7.Qd2 Be7 8.f3 O-O
+9.O-O-O a6 10.h4 Nxd4 11.Bxd4 Nd7 12.g4 b5 13.g5 Qc7 14.Kb1 b4 15.Na4 Bb7
+16.b3 Bc6 17.Nb2 a5 18.h5 Ne5 19.Be2 f5 20.gxf6 Bxf6 21.Nc4 d5 22.Nb6 Rad8
+23.exd5 Bxd5 24.Qe3 Ng4 25.Nxd5 Nxe3 26.Nxc7 Bxd4 27.Nxe6 Nxd1 28.Rxd1 Bf6
+29.Nxd8 Rxd8 30.Rxd8+ Bxd8  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.05"]
+[Round "10"]
+[White "Ivanchuk,V"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2700"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 exd4 8.Nxd4 c6
+9.f3 Re8 10.Bf2 d5 11.exd5 cxd5 12.O-O Nc6 13.c5 Nh5 14.Qd2 Be5 15.g3 Ng7
+16.Rfd1 Be6 17.Bb5 Qd7 18.Rac1 a6 19.Ba4 Rad8 20.b4 Bh3 21.Qh6 Be6 22.a3 Qc8
+23.Qg5 Qc7 24.Qd2 Rf8 25.Bc2 Bc8 26.Bb3 Ne6 27.Nde2 d4 28.Nd5 Qb8 29.f4 Bg7
+30.Qd3 Nc7 31.Nb6 Bf5 32.Qd2 d3 33.Nc3 Nd4 34.Bxd4 Bxd4+ 35.Kg2 Rfe8 36.Re1 Bxc3
+37.Qxc3 Be4+ 38.Kf2 d2 39.Rxe4 Rxe4 40.Rd1 Red4 41.Bc4 Ne8 42.Qe3 Kf8 43.Qe5 Qxe5
+44.fxe5 Nc7  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.07"]
+[Round "11"]
+[White "Bacrot,E"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2765"]
+[ECO "D11"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 a6 5.Nc3 Bf5 6.Bd3 Bxd3 7.Qxd3 e6 8.O-O Be7
+9.e4 O-O 10.Be3 dxe4 11.Nxe4 Nxe4 12.Qxe4 Nd7 13.Rad1 Qa5 14.a3 Rad8 15.Rfe1 Rfe8
+16.h3 Nf8 17.Qc2 Ng6 18.Bd2 Qh5 19.Bc3 Rd7 20.Qe4 Red8 21.Rd3 Bf6 22.g4 Qh6
+23.Bd2 Qxh3 24.Ng5 Qxd3 25.Qxd3 Rxd4 26.Qh3 Rxd2 27.Qxh7+ Kf8 28.Nxe6+ fxe6
+29.Qxg6 Bd4 30.Rf1 Ke7 31.Qg5+ Bf6 32.Qc5+ Kf7 33.g5 Bxb2 34.Rb1 R8d3 35.Qb6 Bd4
+36.Qxb7+ Kg6 37.Rf1 Rg3+ 38.Kh2 Rxg5 39.Qxc6 Kf6 40.Kh3 Rh5+ 41.Kg4 Rg5+
+42.Kh3 Rh5+  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.07"]
+[Round "11"]
+[White "Ivanchuk,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2740"]
+[ECO "E15"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.Nbd2 d5 6.cxd5 exd5 7.Ne5 Be7 8.Qa4+ c6
+9.Bg2 Bb7 10.O-O O-O 11.Rd1 Re8 12.Ndf3 h6 13.Bf4 Bf8 14.Rac1 c5 15.h4 Na6
+16.Bh3 Bd6 17.e3 Qe7 18.Ng4 Ne4 19.Bxd6 Qxd6 20.Bg2 Nc7 21.Nge5 Qf6 22.Qc2 Ne6
+23.b3 Rac8 24.Qb2 cxd4 25.exd4 Rxc1 26.Rxc1 Rc8 27.Rxc8+ Bxc8 28.Ng4 Qe7
+29.Ne3 Bb7 30.Bh3 Nc7 31.Nf5 Qd8 32.Ne5 Nb5 33.a4 Nbd6 34.Qc2 a5 35.Ne3 Nf6
+36.f3 Nde8 37.Kf2 Qc7 38.Bf5 Qxc2+ 39.Bxc2 Nd6 40.g4 g5 41.Nf5 Nxf5 42.Bxf5 gxh4
+43.Nd3 Ba6 44.Nf4 b5 45.axb5 Bxb5 46.Ng2 a4 47.bxa4 Bxa4 48.Nxh4 Ne8 49.Ke3 Kf8
+50.Kf4 Ke7 51.Bd3 Ng7 52.Ke5 Bc6 53.Bh7 f6+ 54.Kf4 h5 55.Nf5+ Nxf5 56.gxf5 Be8
+57.Bg8 Bf7 58.Bxf7 Kxf7 59.Kg3 Kg7 60.Kh4 Kh6 61.f4 Kh7 62.Kxh5 Kg7 63.Kh4 Kh6
+64.Kg4 Kg7  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.07"]
+[Round "11"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2801"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Qe2 Bg4 7.Nbd2 Nd7 8.h3 Bxf3
+9.Nxf3 Qe7 10.c3 O-O 11.O-O Rfe8 12.Re1 Rad8 13.Bd2 Nf8 14.Rad1 Bb6 15.Be3 c5
+16.a3 Rd7 17.b4 f6 18.Qc2 Ne6 19.Qb3 Qf7 20.Qc4 Red8 21.Rd2 cxb4 22.axb4 h6
+23.Kf1 c6 24.Red1 Bxe3 25.fxe3 Re8 26.Kg1  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.07"]
+[Round "11"]
+[White "Aronian,L"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2650"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 dxe4 5.Nxe4 Bb4+ 6.Bd2 Qxd4 7.Bxb4 Qxe4+ 8.Be2 Na6
+9.Bd6 e5 10.Nf3 Bg4 11.O-O O-O-O 12.Bd3 Qf4 13.Bxe5 Qxe5 14.Nxe5 Bxd1 15.Bf5+ Kc7
+16.Nxf7 Bh5 17.Nxd8 Kxd8 18.g4 Nh6 19.Rad1+ Kc7 20.Rd7+ Kb6 21.Rxg7 Nxf5
+22.gxf5 Rf8 23.Re1 Nc5 24.b4 Nd3 25.Ree7 Nxb4 26.Rxb7+ Kc5 27.Rg5 Bf3 28.f6+ Kxc4
+29.Rf5 Bd5 30.Rf4+ Kc3 31.Rbxb4 Bxa2 32.Ra4 Bf7 33.Rxa7 c5 34.f3 c4 35.Kf2 Kb3
+36.Rb7+  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.08"]
+[Round "12"]
+[White "Svidler,P"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2752"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.a5 Be6 11.Nbd2 Qc8 12.Nc4 h6 13.h3 Rb8 14.Be3 Rd8 15.Qe2 Bf8 16.Nfd2 Qb7
+17.Qf3 Kh7 18.Nf1 Ne7 19.Ng3 Ng6 20.Nh5  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.08"]
+[Round "12"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2729"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a4 Nb8 11.axb5 axb5 12.Rxa8 Bxa8 13.Na3 c6 14.c4 bxc4 15.Nxc4 Nbd7
+16.Bd2 Re8 17.Qc2 Bf8 18.Ba2 Qb8 19.Bc3 h6 20.Ne3 Bb7 21.b4 d5 22.Ng4 Bd6
+23.Qb2 Nxg4 24.hxg4 c5 25.g5 hxg5 26.Nxg5 Qd8 27.bxc5 Nxc5 28.Bd2 f6 29.Be3 fxg5
+30.Bxc5 Bxc5 31.Qxb7 Rf8 32.Qxd5+ Qxd5 33.Bxd5+ Kh7 34.Re2 g4 35.g3 Kh6 36.Kg2 Kg5
+37.Rc2  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.08"]
+[Round "12"]
+[White "Vallejo Pons,F"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2700"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 Be7 5.d3 Nf6 6.Nd5 d6 7.Nxf6+ Bxf6 8.c3 O-O
+9.O-O Rb8 10.a4 b6 11.Re1 Be6 12.Bxe6 fxe6 13.b4 Qd7 14.Bd2 Kh8 15.h3 Rf7
+16.a5 b5 17.a6 cxb4 18.cxb4 Bd8 19.Qe2 Bb6 20.Rab1 Rbf8 21.Be3 Qd8 22.Rec1 Bxe3
+23.fxe3 Qb6 24.Ng5 Rf6 25.Rf1 Qd8 26.Qg4 Rxf1+ 27.Rxf1 Rxf1+ 28.Kxf1 Qf6+
+29.Ke2 Nd8 30.Qh5 Qg6 31.Qxg6 hxg6 32.d4 exd4 33.exd4 d5 34.Kd3 Kg8 35.h4 Kf8
+36.exd5 exd5 37.Kc3 Ke7 38.Nf3 Kf6 39.Ne5 g5 40.h5 Kf5 41.Kd3 Kf4 42.Ng6+ Kg3
+43.Ne7 Kxg2 44.Nxd5 Kf3 45.Ne7 g4  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.08"]
+[Round "12"]
+[White "Leko,P"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2717"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.a3 Nc6 11.cxd5 Qxd5 12.Nc3 Nxc3 13.bxc3 Bf5 14.Re1 Rfe8 15.Bf4 Rac8
+16.Bd3 Qd7 17.Rb1 Bxd3 18.Qxd3 b6 19.d5 Bf6 20.c4 h6 21.h3 Ne7 22.Ne5 Bxe5
+23.Bxe5 Nf5 24.Bb2 f6 25.Bc3 Nd6 26.Bd2 Rxe1+ 27.Rxe1 Re8 28.Rc1 Qf5 29.Qxf5 Nxf5
+30.Bf4 Re7 31.g4 Nd4 32.Kf1 Kf7 33.Be3 Nb3 34.Rc3 Na5 35.c5 Rd7 36.Bf4 b5
+37.Rd3 Nc6 38.Bxc7 Rxc7 39.dxc6 Rxc6 40.Rd7+ Kg6 41.Rxa7  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.10"]
+[Round "13"]
+[White "Topalov,V"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2740"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.Nf3 d6
+9.Nd2 Nbd7 10.f3 d5 11.cxd5 exd5 12.e3 Re8 13.Be2 Rc8 14.O-O Qe7 15.Bb5 c6
+16.Ba4 h6 17.Bxf6 Nxf6 18.Rfe1 b5 19.Bc2 c5 20.Bf5 Rc7 21.dxc5 Rxc5 22.Qd4 a6
+23.a4 bxa4 24.Rxa4 Rc6 25.b4 Qe5 26.Qxe5 Rxe5 27.Bd3 Rb6 28.Kf2 Bc8 29.Rb1 Bf5
+30.Bxf5 Rxf5 31.Ra5 g6 32.Ke2 h5 33.g3 Kg7 34.h3 Nd7 35.g4 hxg4 36.hxg4 Re5
+37.Kf2 Rc6 38.Rb3 Rb6 39.f4 Ree6 40.g5 Red6 41.e4 Rb5 42.Rxb5 axb5 43.Rd3 Nb6
+44.Nb1 Rc6 45.exd5 Rc4 46.Kf3 Rxb4 47.Nd2 f6 48.Ne4 fxg5 49.Nxg5 Kf6 50.Kg4 Nc4
+51.Ne4+ Ke7 52.d6+ Kd8 53.Kg5 Nb2 54.Re3 Rd4 55.Nf6 Rxd6 56.Re8+ Kc7 57.Re2 Rd1
+58.Rxb2 Rg1+ 59.Kh6 Kc6 60.Ne4 Kd5 61.Rb4 Kc6 62.Rd4 Rg4 63.Nf2 Kc5 64.Rd1 Rg2
+65.Nd3+ Kc4 66.Ne5+ Kc3 67.Rc1+ Kb2 68.Rc6 Kb3 69.Rxg6 Rf2 70.Rg3+ Kc2 71.Nd3  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.10"]
+[Round "13"]
+[White "Radjabov,T"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2765"]
+[ECO "D16"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 e6 6.e3 c5 7.Bxc4 Nc6 8.O-O cxd4
+9.exd4 Be7 10.Bg5 O-O 11.Re1 h6 12.Bf4 Nb4 13.Qd2 Bd7 14.Bxh6 Rc8 15.Bb3 gxh6
+16.Qxh6 Nh7 17.Re5 f5 18.Rxe6 Bxe6 19.Bxe6+ Kh8 20.Bxc8 Rf6 21.Qh5 Qxc8 22.Re1 Bf8
+23.Ne5 Kg8 24.Qd1 Ng5 25.Qb3+ Kg7 26.h4 Nf7 27.Ne2 Nxe5 28.dxe5 Rc6 29.Nf4 Be7
+30.Qg3+ Kh7 31.Qf3 Qe8 32.g3 Qf7 33.e6 Qf6 34.Qh5+ Kg8 35.Qe8+ Qf8 36.Qg6+ Qg7
+37.Qxf5 Rc5 38.Qe4 Nc6 39.Nd5 Qxb2 40.Qf5 Rc1 41.Nxe7+  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.10"]
+[Round "13"]
+[White "Ivanchuk,V"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2650"]
+[ECO "D44"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Bb4 5.Bg5 dxc4 6.e4 b5 7.a4 c6 8.e5 h6 9.exf6 hxg5
+10.fxg7 Rg8 11.g3 Bb7 12.Bg2 c5 13.O-O g4 14.Nh4 Bxg2 15.Nxg2 Rxg7 16.axb5 cxd4
+17.Ne4 f5 18.Nf4 Kf7 19.Rc1 fxe4 20.Rxc4 Bc5 21.Rxc5 Nd7 22.Rh5 Nf6 23.Re5 Qd6
+24.Rxe6  1-0
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.10"]
+[Round "13"]
+[White "Aronian,L"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2717"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Bd2 Bxd2+ 6.Nbxd2 exd4 7.Bxc4 Nc6
+8.O-O Qf6 9.b4 Nge7 10.b5 Ne5 11.Nxe5 Qxe5 12.f4 Qd6 13.f5 Bd7 14.Nf3 f6
+15.Qxd4 Qxd4+ 16.Nxd4 O-O-O 17.Be6 Kb8 18.Bxd7 Rxd7 19.Ne6 Nc8 20.e5 fxe5
+21.Rae1 Nd6 22.Rxe5 Re7 23.g4 h5 24.g5 Rhe8 25.f6 gxf6 26.Rxf6 Nxb5 27.Rxb5 Rxe6
+28.Rxe6 Rxe6 29.Kg2 Kc8 30.Kg3 Re4 31.h3 Kd7 32.Rxb7 Ra4 33.a3 Ke6 34.Rb4 Rxa3+
+35.Kh4 Kf7 36.Rc4 a5 37.Rxc7+ Kg6 38.Rc6+ Kg7  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.11"]
+[Round "14"]
+[White "Leko,P"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2740"]
+[BlackElo "2752"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.a5 Be6 11.Nbd2 Qc8 12.Nc4 Rb8 13.Bg5 Kh8 14.h3 Ng8 15.c3 bxc3
+16.bxc3 f5 17.Ba4 fxe4 18.Bxc6 exf3 19.Bxe7 Nxe7 20.Bxf3 Ng6 21.Bg4 Nf4 22.Ra2 Qb7
+23.Bf3 Qb3 24.Rc2 Nxd3 25.Qxd3 Qxc4 26.Qxc4 Bxc4 27.Bc6 Rb3 28.g3 g5 29.Re3 Ra3
+30.Be4 Rxa5 31.g4 Bd5 32.f3 Bxe4 33.fxe4 Ra1+ 34.Kg2 Rff1 35.Ree2 Rg1+ 36.Kh2 Rh1+
+37.Kg3 Rag1+ 38.Rg2 Re1 39.Rgf2 Re3+ 40.Kg2 Rexh3  0-1
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.11"]
+[Round "14"]
+[White "Svidler,P"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2729"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 d6 10.Nbd2 Na5 11.Ba2 c5 12.Nf1 b4 13.c3 bxc3 14.bxc3 c4 15.Ng3 cxd3
+16.Qxd3 Bc8 17.Ba3 Qc7 18.Red1 Nb7 19.Qc4 Qxc4 20.Bxc4 Re8 21.Rab1 Ra7 22.Rb6 Na5
+23.Bf1 Nd7 24.Rbb1 Nc5 25.Bxc5 dxc5 26.Nxe5 g6 27.f4 Be6 28.f5 Bb3 29.Rxb3 Nxb3
+30.Bc4 Bg5 31.Nxf7 Be3+ 32.Kh1 Nd2 33.Nd6+ Nxc4 34.Nxe8 Kf7 35.Nd6+ Nxd6
+36.Rxd6 Rb7 37.fxg6+ hxg6 38.h4 Bf4 39.Rd3 Ke6 40.Kh2 Rb3 41.Kh3 c4 42.Rf3 Ke5
+43.Nf1 a5 44.Kg4 Bh6 45.h5 gxh5+ 46.Kxh5 Bc1 47.Rf5+ Kxe4 48.Ng3+ Kd3 49.Rf3+ Kc2
+50.Ne2 Bd2 51.Nd4+ Kb2 52.Nb5 Bxc3 53.Rf2+ Kb1 54.Rf4 Bb4 55.Rxc4  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.11"]
+[Round "14"]
+[White "Vallejo Pons,F"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2801"]
+[ECO "D39"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4 cxd4 8.Nxd4 Bxc3+
+9.bxc3 Qa5 10.Bb5+ Bd7 11.Bxf6 gxf6 12.Qb3 O-O 13.O-O Bxb5 14.Nxb5 Nc6 15.c4 Rad8
+16.Qg3+ Kh8 17.Qh4 Kg7 18.Qg3+ Kh8 19.Qh4 Kg7 20.f4 Qd2 21.e5 fxe5 22.Qg5+ Kh8
+23.Qf6+ Kg8 24.Qg5+ Kh8 25.Qf6+ Kg8 26.Rf3 Rd3 27.Qg5+ Kh8 28.Qf6+ Kg8 29.Qg5+ Kh8
+30.Qf6+ Kg8  1/2-1/2
+
+[Event "XXIII SuperGM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2006.03.11"]
+[Round "14"]
+[White "Bacrot,E"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2700"]
+[ECO "E93"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Ng4 8.Bg5 f6
+9.Bh4 g5 10.Bg3 Nh6 11.d5 Nd7 12.Nd2 f5 13.f3 Nf6 14.h3 c5 15.Bf2 f4 16.a3 Nf7
+17.b4 b6 18.Qb3 h5 19.O-O-O Bd7 20.Kc2  1/2-1/2

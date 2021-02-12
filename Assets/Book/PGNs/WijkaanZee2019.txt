@@ -1,0 +1,2333 @@
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1.1"]
+[White "Ding Liren"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2835"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Spassky's variation"]
+[WhiteFideId "8603677"]
+[BlackFideId "1503014"]
+[EventDate "2019.01.12"]
+
+1. Nf3 Nf6 2. g3 b5 3. d4 e6 4. Bg5 c5 5. d5 Qa5+ 6. Bd2 Qb6 7. dxe6 fxe6 8. a4
+b4 9. a5 Qd8 10. Bg2 Nc6 11. Ne5 Nxe5 12. Bxa8 d5 13. a6 Bd7 14. Bb7 Bd6 15. Bg5
+Nf7 16. Bxf6 Qxf6 17. Nd2 O-O 18. O-O Qxb2 19. e4 Qd4 20. exd5 e5 21. Nb3 Qe4
+22. Qd3 Qg4 23. f3 Qh5 24. Nd2 Ng5 25. Bc6 Bh3 26. Bb5 Bxf1 27. Rxf1 Rxf3 28.
+Nxf3 e4 29. Qe3 Nxf3+ 30. Rxf3 Qxf3 31. Qxf3 exf3 32. Kf2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1.2"]
+[White "Giri,A"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2763"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "4168119"]
+[EventDate "2019.01.12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 a6 5. Qd2 b5 6. f3 Nbd7 7. O-O-O Nb6 8. g4
+Bb7 9. Nh3 Nfd7 10. Be2 e6 11. Bg5 Be7 12. Qe3 Bxg5 13. Nxg5 h6 14. Nh3 Qh4 15.
+Nf2 O-O-O 16. f4 f5 17. Bf3 b4 18. exf5 bxc3 19. fxe6 cxb2+ 20. Kb1 Nf6 21.
+Bxb7+ Kxb7 22. Qf3+ d5 23. Nd3 Ne4 24. Nc5+ Ka7 25. Qa3 Nxc5 26. Qxc5 Kb7 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1.3"]
+[White "Fedoseev,Vl3"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2731"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "24130737"]
+[BlackFideId "738590"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 Ne4 6. Nxe4 Bxe4 7. Nd2 Bb7 8. e4
+g6 9. Bd3 Bg7 10. Nf3 O-O 11. O-O d6 12. Rb1 Nd7 13. Bg5 Qc8 14. Re1 Re8 15. Qd2
+c5 16. d5 exd5 17. exd5 Qc7 18. Kh1 Ba6 19. b3 Nf6 20. h3 Rxe1+ 21. Rxe1 Re8 22.
+Rxe8+ Nxe8 23. g4 Qd7 24. Kg2 Nc7 25. a4 Bc8 26. Qe3 Ne8 27. Kf1 Bf6 28. Bf5
+gxf5 29. Bxf6 fxg4 30. hxg4 Nxf6 31. Qg5+ Kf8 32. Qxf6 Qxg4 33. Qxd6+ Kg7 34.
+Qe5+ f6 35. Qe7+ Kg6 36. Qe8+ Kg7 37. Qe7+ Kg6 38. Qe8+ Kg7 39. Qe7+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1.4"]
+[White "Vidit,S"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2738"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "5029465"]
+[BlackFideId "1170546"]
+[EventDate "2019.01.12"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 b5 7. a4 c5 8. axb5
+cxd4 9. Nxd4 h6 10. Bxf6 Qxf6 11. Bxc4 O-O 12. O-O Bb7 13. Qa4 a5 14. bxa6 Nxa6
+15. Nde2 Bd6 16. Bxa6 Bxa6 17. Qc2 Rfd8 18. Rfd1 Bd3 19. Qd2 Rxa1 20. Rxa1 Bc5
+21. Qf4 Qxf4 22. Nxf4 Bc2 23. Re1 g5 24. Nh5 Rd4 25. Ng3 Rb4 26. Rc1 Rxb2 27.
+Nd1 Rb1 28. Rxc2 Rxd1+ 29. Nf1 Bd6 30. g3 Re1 31. f3 h5 32. Kf2 Ra1 33. Nd2 Be5
+34. Nb3 Rd1 35. Rd2 Rb1 36. Nc5 Bc3 37. Rd8+ Kg7 38. Nd3 Ra1 39. Rd7 Ra2+ 40.
+Kg1 Ra1+ 41. Kg2 Ra2+ 42. Kh1 g4 43. fxg4 hxg4 44. h3 Ra1+ 45. Kg2 Ra2+ 46. Kh1
+gxh3 47. Nf4 Kf6 48. Nxh3 Re2 49. Rd3 Be5 50. Kg1 Rxe4 51. Rf3+ Kg6 52. Rxf7
+Bxg3 53. Rf3 Be5 54. Kf1 Rh4 55. Ke2 Bf6 56. Nf4+ Kf7 57. Rf1 Rh6 58. Kd3 Be5
+59. Ke4 Bd6 60. Nd5+ Ke8 61. Nf6+ Kd8 62. Rd1 Rh4+ 63. Kf3 Ke7 64. Ng8+ Kd7 65.
+Nf6+ Kc6 66. Rc1+ Kb5 67. Ne4 Ba3 68. Rc8 e5 69. Nc3+ Kb4 70. Nd5+ Kb3 71. Rc3+
+Ka2 72. Re3 Bb2 73. Re4 Rh6 74. Nb4+ Kb3 75. Nd3 Rf6+ 76. Kg4 Kc2 77. Nxb2 Rf4+
+78. Rxf4 exf4 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1.5"]
+[White "Van Foreest,Jorden"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2612"]
+[BlackElo "2773"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[WhiteFideId "1039784"]
+[BlackFideId "5000017"]
+[EventDate "2019.01.12"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. c3 Qc7 6. h3 g6 7. Nf3 Bf5 8. Ne5
+Nc6 9. Bf4 Qb6 10. Bxf5 gxf5 11. Nd3 e6 12. Nd2 Rg8 13. O-O O-O-O 14. a4 Ne4 15.
+Rc1 Bd6 16. Bxd6 Nxd6 17. b4 Kb8 18. Qe2 Qc7 19. Qe3 Ne7 20. f3 Ng6 21. Ne5 f4
+22. Qe1 Nf5 23. Nxg6 Rxg6 24. Rf2 Rdg8 25. c4 Ne3 26. cxd5 Nxg2 27. Qe5 Qxe5 28.
+dxe5 Ne1+ 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1.6"]
+[White "Shankland,S"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2725"]
+[BlackElo "2817"]
+[ECO "C42"]
+[Opening "Petrov's defence"]
+[WhiteFideId "2004887"]
+[BlackFideId "13401319"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 Nf6 6. O-O Be7 7. c3 O-O 8.
+Bc2 c5 9. d4 Be6 10. Re1 Re8 11. Bg5 Nbd7 12. Nbd2 Qb6 13. dxc5 dxc5 14. Bb3 Nf8
+15. Bxe6 Nxe6 16. Qb3 Qxb3 17. axb3 Nxg5 18. Nxg5 a6 19. g3 Rad8 20. Nc4 h6 21.
+Nf3 Kf8 22. Kf1 Bd6 23. Na5 Rb8 24. Rxe8+ Kxe8 25. Re1+ Kf8 26. Rd1 Ke7 27. Ne1
+Bc7 28. Nc4 b5 29. Ne3 g6 30. Nd3 Bd6 31. Ra1 Rb6 32. c4 b4 33. Ke2 Ke6 34. Ra5
+Rc6 35. Nd5 Nd7 36. f4 f5 37. Kf3 Nf6 38. Ra1 Nxd5 39. Re1+ Ne3 40. Rxe3+ Kd7
+41. g4 fxg4+ 42. Kxg4 Rc8 43. Rh3 Rh8 44. Kf3 Ke6 45. Ke4 Kf6 46. Ne5 Re8 47.
+Rf3 Bb8 48. h4 a5 49. Rf1 h5 50. Rf3 Bc7 51. Rf1 Rd8 52. Nf3 Re8+ 53. Ne5 Rd8
+54. Nf3 Re8+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.12"]
+[Round "1.7"]
+[White "Radjabov,T"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2777"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "13400924"]
+[BlackFideId "4101588"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 O-O 8. Re1 Ba7
+9. h3 h6 10. Nbd2 Re8 11. b4 Be6 12. Bxe6 Rxe6 13. Bb2 Ne7 14. c4 Ng6 15. Nf1 b5
+16. axb5 axb5 17. Ng3 bxc4 18. dxc4 Re8 19. Qc2 Qb8 20. Reb1 Qb7 21. c5 dxc5 22.
+bxc5 Qc6 23. Rc1 Nd7 24. Ra5 Reb8 25. Ba3 Nf4 26. Nf5 Re8 27. g3 Ne6 28. Kg2 Nf6
+29. Re1 Nd7 30. Rc1 Kh7 31. Qc4 Bxc5 32. Rxc5 Ndxc5 33. Bxc5 Ra4 34. Qd5 Qa8 35.
+Qd7 Kg8 36. Nxe5 Ng5 37. Nc6 Raxe4 38. Nfe7+ Kh7 39. Ra1 Ra4 40. Rxa4 Qxa4 41.
+Qxe8 Qe4+ 42. Kf1 Qb1+ 43. Kg2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.13"]
+[Round "2.1"]
+[White "Carlsen,M"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2763"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "4168119"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. f3 e6 4. e4 c5 5. d5 d6 6. Nc3 Bg7 7. Nge2 exd5 8. cxd5 a6
+9. a4 O-O 10. Ng3 Nbd7 11. Be2 Ne8 12. Bf4 Rb8 13. O-O c4 14. Bxc4 Qb6+ 15. Rf2
+Bd4 16. Qd2 Ne5 17. Bf1 Bxf2+ 18. Qxf2 Qxf2+ 19. Kxf2 Bd7 20. Be3 f5 21. exf5
+gxf5 22. Bd4 Nf6 23. Kg1 Rbc8 24. Ra3 Nc4 25. Rb3 b5 26. axb5 Nd2 27. Rb4 Nxf1
+28. bxa6 Nxg3 29. hxg3 Rb8 30. Rxb8 Rxb8 31. Bxf6 Ra8 32. Nd1 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.13"]
+[Round "2.2"]
+[White "Kramnik,V"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2783"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Capablanca variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "24116068"]
+[EventDate "2019.01.12"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 Bc5 8.
+Be2 O-O 9. O-O Bb6 10. a4 Re8 11. Qc2 Qf6 12. Kh1 h6 13. Ng1 Qd6 14. f4 Bxg1 15.
+Rxg1 exf4 16. d4 Ne7 17. Ba3 Qd8 18. Raf1 Ng6 19. e5 b6 20. Bf3 Ba6 21. Rf2 c5
+22. g3 fxg3 23. Rxg3 cxd4 24. cxd4 Rc8 25. Qf5 Bc4 26. Bd6 Be6 27. Qb1 Nf4 28.
+d5 Nxd5 29. Qg1 Kh8 30. Rd2 Nf4 31. Rd4 Ng6 32. Be4 Rc4 33. Rxc4 Bxc4 34. Qd4
+Be6 35. Bc6 Ne7 36. Be4 Nf5 37. Bxf5 Bxf5 38. Kg1 Be6 39. h4 Qd7 40. Qe4 Rc8 41.
+h5 Rc1+ 42. Kh2 Qd8 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.13"]
+[Round "2.3"]
+[White "Mamedyarov,S"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2817"]
+[BlackElo "2757"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[WhiteFideId "13401319"]
+[BlackFideId "13400924"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nb6 8. Nc3
+Nc6 9. e3 e5 10. d5 Na5 11. b3 e4 12. Nd4 Nxd5 13. Nxe4 b6 14. b4 Nxb4 15. Ba3
+c5 16. Nxc5 bxc5 17. Bxa8 Ba6 18. Bg2 Bxf1 19. Bxf1 Nb7 20. Bxb4 Bxd4 21. exd4
+cxb4 22. Rb1 Qa5 23. Qd2 b3 24. Qxa5 Nxa5 25. axb3 Rd8 26. b4 Nc6 27. b5 Nxd4
+28. Ra1 Rd7 29. Kg2 Rb7 30. Ra2 Nxb5 31. Bxb5 Rxb5 32. Rxa7 Kg7 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.13"]
+[Round "2.4"]
+[White "Rapport,R"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2725"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "738590"]
+[BlackFideId "2004887"]
+[EventDate "2019.01.12"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Nc6 6. e4 dxe4 7. dxe4 Qxd1 8.
+Rxd1 Bg4 9. c3 Nf6 10. h3 Bd7 11. Re1 O-O-O 12. Na3 Ne8 13. c4 Bf8 14. Nc2 Be6
+15. b3 Nb4 16. Nxb4 Bxb4 17. Rf1 f6 18. Be3 Ng7 19. c5 Rd3 20. Ne1 Rd7 21. c6
+bxc6 22. Bxa7 Kb7 23. Be3 Ra8 24. Nf3 Bf7 25. Rfc1 Ne6 26. Bf1 Nd4 27. Kg2 c5
+28. Bc4 Ba3 29. Rd1 Bxc4 30. bxc4 Kc6 31. Nh2 Rd6 32. Bh6 Kd7 33. Ng4 Ke6 34.
+Rab1 Bb4 35. Ne3 c6 36. a3 Rxa3 37. Ra1 Nb3 38. Rxa3 Bxa3 39. Rxd6+ Kxd6 40. Nc2
+Bb2 41. Kf1 g5 42. Bf8+ Ke6 43. Ke2 Bd4 44. Ne1 Na5 45. Nd3 Nb7 46. f4 gxf4 47.
+gxf4 Kf7 48. Bh6 Nd6 49. fxe5 fxe5 50. Be3 Nxc4 51. Bf2 Ke7 52. Nxc5 Bxf2 53.
+Kxf2 Nb6 54. Kf3 Nd7 55. Nb7 c5 56. Ke3 Kf6 57. Nd6 Kg5 58. Kf3 Nb6 59. Nf7+ Kf6
+60. Nh6 Nd7 61. Nf5 Kg5 62. Nd6 Nb6 63. Nf7+ Kf6 64. Nh6 Ke6 65. Nf5 c4 66. Ke2
+Kd7 67. Nh6 Kc6 68. Nf7 Nd7 69. Kd2 Kc5 70. Kc3 Nf6 71. Nxe5 Nxe4+ 72. Kc2 Kd4
+73. Nd7 Ke3 74. Nf8 h5 75. Ng6 Kf2 76. h4 Kg3 77. Kb2 Kg4 78. Kc2 Nd6 79. Kc3
+Nf5 80. Ne5+ Kxh4 81. Kxc4 Kg3 82. Ng6 Kf3 83. Kd3 Ne7 84. Ne5+ Kg2 85. Nf7 h4
+86. Ng5 Ng8 87. Ke3 Kg3 88. Ne4+ Kg2 89. Ng5 Kg3 90. Ne4+ Kh2 91. Kf2 Nh6 92.
+Ng5 Ng4+ 93. Kf3 Ne5+ 94. Ke4 Kg2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.13"]
+[Round "2.5"]
+[White "Anand,V"]
+[Black "Fedoseev,Vl3"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2724"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "24130737"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 Bf5 10. Qb3 Qd7 11. Nc3 Nxc3 12. Bxf5 Qxf5 13. Qxb7 Qd7 14. Qxd7 Nxd7
+15. c5 Bxh2+ 16. Nxh2 Ne4 17. Bf4 Rfc8 18. f3 Nef6 19. Re3 Nf8 20. Rd1 Ne6 21.
+Be5 Nd7 22. Bd6 Nf6 23. Nf1 g6 24. Ng3 Ne8 25. Be5 a5 26. Ne2 a4 27. Ra3 f6 28.
+Bg3 N8c7 29. Bxc7 Nxc7 30. Nc3 Rcb8 31. Rxa4 Rxb2 32. Rxa8+ Nxa8 33. Rb1 Rxb1+
+34. Nxb1 Nc7 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.13"]
+[Round "2.6"]
+[White "Ding Liren"]
+[Black "Vidit,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2695"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "8603677"]
+[BlackFideId "5029465"]
+[EventDate "2019.01.12"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. b3 e6 6. Ba3 d6 7. e3 Nge7 8. Nge2
+O-O 9. O-O Qa5 10. Bb2 d5 11. cxd5 exd5 12. Nf4 Rd8 13. Qc1 d4 14. Na4 c4 15.
+Re1 dxe3 16. dxe3 Ne5 17. Bc3 Qb5 18. Qa3 N7c6 19. bxc4 Nxc4 20. Qb3 Qxb3 21.
+axb3 Bxc3 22. Nxc3 Nd2 23. Ncd5 Nxb3 24. Ra3 Nba5 25. Rea1 Nc4 26. Rc3 N4e5 27.
+Nc7 Rb8 28. Nfd5 Kg7 29. f4 Ng4 30. e4 Nf6 31. Kf2 Ng4+ 32. Kg1 Nf6 33. Kf2 Ng4+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.13"]
+[Round "2.7"]
+[White "Duda,J"]
+[Black "Van Foreest,Jorden"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2612"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "1039784"]
+[EventDate "2019.01.12"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bf4 Nc6 5. c3 Nf6 6. Nd2 Bg4 7. Qb3 Qc8 8.
+Ngf3 e6 9. Bd3 Bh5 10. O-O Bg6 11. Bxg6 hxg6 12. Rae1 Be7 13. g3 O-O 14. Ne5
+Nxe5 15. dxe5 Nd7 16. h4 Nc5 17. Qc2 Qc6 18. Re3 Qa6 19. Qb1 Rac8 20. Kg2 b5 21.
+Bg5 Qb7 22. Bxe7 Qxe7 23. Rh1 a5 24. Qd1 b4 25. Qg4 bxc3 26. bxc3 Rb8 27. h5 g5
+28. h6 g6 29. Nf3 Ne4 30. Re2 Nxc3 31. Rc2 Ne4 32. Nd4 Rbc8 33. Nc6 Qa3 34. Rhc1
+Kh7 35. Qe2 g4 36. Qxg4 Rc7 37. Qf4 Rfc8 38. g4 g5 39. Qh2 Nd2 40. Rc3 Qa4 41.
+Qh5 Qe4+ 42. Kh3 d4 43. Rg3 Qf4 44. Rd1 Ne4 45. Rxd4 Nxg3 46. fxg3 Qf1+ 47. Kh2
+Rxc6 48. Qxg5 Rc2+ 49. Rd2 Rxd2+ 50. Qxd2 Rc1 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.14"]
+[Round "3.1"]
+[White "Vidit,S"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2835"]
+[ECO "E64"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav system"]
+[WhiteFideId "5029465"]
+[BlackFideId "1503014"]
+[EventDate "2019.01.12"]
+
+1. Nf3 Nf6 2. g3 g6 3. c4 Bg7 4. Bg2 O-O 5. Nc3 c5 6. d4 d6 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Ne5 Ne8 10. Nd3 Nd6 11. Bf4 Na6 12. Rc1 Bf5 13. O-O Bxd3 14. exd3 Nb4
+15. Rfd1 Rac8 16. a3 Nc6 17. Bxd6 Rxd6 18. Ne4 Re6 19. Nxc5 Re2 20. b4 b6 21.
+Bxc6 Rxc6 22. Nb3 Ra2 23. d4 Rxa3 24. d5 Rc7 25. Nd4 Bxd4 26. Rxd4 Ra4 27. c5
+bxc5 28. Rdc4 Rd7 29. bxc5 Rxc4 30. Rxc4 Rxd5 31. c6 Rd8 32. Ra4 Ra8 33. c7 Rc8
+34. Rxa7 Kf8 35. g4 f6 36. Kg2 Ke8 37. Ra3 Rxc7 38. Ra8+ Kf7 39. Rh8 Kg7 40. Re8
+h6 41. Kg3 Ra7 42. Kg2 h5 43. gxh5 gxh5 44. h4 e5 45. Rb8 Ra4 46. Kg3 Ra3+ 47.
+Kg2 Kg6 48. f3 Rd3 49. Rb6 Kf5 50. Ra6 Rd8 51. Kg3 Rg8+ 52. Kf2 Re8 53. Kg3 Rd8
+54. Kg2 Re8 55. Kg3 Re6 56. Ra8 Rd6 57. Rh8 Kg6 58. Rg8+ Kh7 59. Re8 Kg7 60.
+Re7+ Kg6 61. Kh3 Kf5 62. Kg3 Rd3 63. Re8 Rc3 64. Re7 Re3 65. Rh7 Kg6 66. Re7 Rd3
+67. Kf2 Kf5 68. Kg3 Rb3 69. Re8 Ra3 70. Re7 Rd3 71. Re8 Rd7 72. Ra8 Rg7+ 73. Kf2
+Re7 74. Kg3 Rb7 75. Rc8 Rb1 76. Rc6 Rg1+ 77. Kf2 Rg8 78. Ra6 Rb8 79. Kg3 Kg6 80.
+Kg2 Rb2+ 81. Kg3 Rd2 82. Kh3 Kf7 83. Ra7+ Ke6 84. Ra6+ Rd6 85. Ra8 Rd3 86. Kg2
+Kf5 87. Ra6 Rd4 88. Kg3 Rb4 89. Ra8 e4 90. fxe4+ Rxe4 91. Rh8 Kg6 92. Rg8+ Kh7
+93. Ra8 Rb4 94. Rc8 Rg4+ 95. Kh3 Rg8 96. Rc1 Ra8 97. Rg1 Rg8 98. Ra1 Kg6 99. Ra5
+Rb8 100. Kg3 Rb3+ 101. Kg2 Re3 102. Rb5 Re5 103. Rb8 Kf5 104. Kf3 Ra5 105. Rb3
+Ra4 106. Rb5+ Kg6 107. Kg3 Rg4+ 108. Kh3 Re4 109. Kg3 Rg4+ 110. Kh3 Rg1 111. Kh2
+Re1 112. Kg3 Re5 113. Rb3 Kf5 114. Kf3 Ra5 115. Rc3 Ra4 116. Rc5+ Kg6 117. Kg3
+Rg4+ 118. Kh3 Re4 119. Kg3 f5 120. Rc6+ Kg7 121. Rc7+ Kf6 122. Rc6+ Re6 123. Rc4
+Ke5 124. Rc5+ Ke4 125. Rc4+ Ke3 126. Rc3+ Kd4 127. Rc8 Re4 128. Ra8 Rg4+ 129.
+Kf3 Ke5 130. Ra5+ Kf6 131. Ra6+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.14"]
+[Round "3.2"]
+[White "Van Foreest,Jorden"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2612"]
+[BlackElo "2813"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "1039784"]
+[BlackFideId "8603677"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. O-O O-O 7. Re1 a5 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Nh7 11. d4 Bb6 12. dxe5 h5 13. h4 Bg4 14. Nbd2 Nxe5 15. Be2
+Nxf3+ 16. Nxf3 Bxf3 17. Bxf3 gxh4 18. Bh2 h3 19. e5 Qh4 20. Qd2 dxe5 21. Rxe5
+Rad8 22. Qe2 Ng5 23. Bxb7 f6 24. Re7 Rf7 25. Rxf7 Kxf7 26. Re1 Kg6 27. Qc2+ f5
+28. Qe2 hxg2 29. Bxg2 Qg4 30. Kf1 h4 31. b3 Qxe2+ 32. Kxe2 Re8+ 33. Kf1 Rxe1+
+34. Kxe1 h3 35. Bd5 Ne4 36. Bxe4 fxe4 37. Ke2 Kf5 38. f3 c6 39. b4 a4 40. c4 Bd4
+41. fxe4+ Kxe4 42. Kf1 Kd3 43. b5 cxb5 44. cxb5 Kc4 45. Ke2 Kxb5 46. Kf3 Kb4 47.
+Kg4 Ka3 48. Kxh3 Kxa2 49. Bd6 Kb3 50. Kg2 Bc3 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.14"]
+[Round "3.3"]
+[White "Giri,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2817"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Byrne (Simagin) variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "13401319"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6 8. Be2
+e5 9. d5 Nd4 10. Nxd4 exd4 11. Qxd4 c6 12. Qc4 b5 13. Qxc6 Bd7 14. Qd6 Re8 15.
+Bg5 Rb8 16. a3 a5 17. O-O b4 18. axb4 axb4 19. Nd1 Nxe4 20. Bxd8 Nxd6 21. Bc7
+Rb7 22. Bxd6 Rxe2 23. Ra8+ Re8 24. Rxe8+ Bxe8 25. Re1 Bd7 26. Re4 Ba4 27. b3 f5
+28. Rxb4 Rxb4 29. Bxb4 Bxb3 30. Nc3 Bxc3 31. Bxc3 Bxd5 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.14"]
+[Round "3.4"]
+[White "Nepomniachtchi,I"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2777"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "4101588"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Ne8 13. d5 b6 14. Bf4 Bb7
+15. Qd2 h6 16. c4 c6 17. Nc3 cxd5 18. cxd5 d6 19. Re1 Nc7 20. Bc4 Bxc3 21. bxc3
+Qf6 22. h3 Rc8 23. Re4 b5 24. Bb3 a5 25. a3 Qf5 26. Rd4 Qb1+ 27. Bd1 b4 28. cxb4
+Nb5 29. Qd3 Qa1 30. Re4 Bxd5 31. Re1 Bc4 32. Qf5 Rf8 33. Kh2 g6 34. Qe4 d5 35.
+Qe7 axb4 36. Be5 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.14"]
+[Round "3.5"]
+[White "Shankland,S"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2725"]
+[BlackElo "2773"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2004887"]
+[BlackFideId "5000017"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 dxc4 8. Bxc4
+Ba6 9. Bxa6 Nxa6 10. Qa4 Qc8 11. O-O c5 12. Rac1 Qb7 13. a3 Rfc8 14. Nb5 Nb8 15.
+dxc5 bxc5 16. Ne5 Nbd7 17. Nxd7 Qxd7 18. Rfd1 Qc6 19. Bd6 Qb7 20. Be5 Nd5 21.
+Qg4 g6 22. e4 Qxb5 23. exd5 exd5 24. Rxd5 Rd8 25. Rcd1 Rxd5 26. Rxd5 Qc6 27. Qd1
+Re8 28. Bc3 Bf6 29. Rd6 Qxd6 30. Qxd6 Rd8 31. Qa6 Rd1+ 32. Qf1 Rxf1+ 33. Kxf1
+Bxc3 34. bxc3 Kf8 35. Ke2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.14"]
+[Round "3.6"]
+[White "Radjabov,T"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2731"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "738590"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 b5 8.
+O-O-O Nxd4 9. Bxd4 Bb7 10. f3 Nf6 11. Qg5 Rc8 12. Bd3 h6 13. Qg3 Qxg3 14. hxg3
+Bc5 15. Ne2 Bxd4 16. Nxd4 Ke7 17. Kd2 Rc7 18. c3 Rb8 19. Ra1 Bc8 20. b4 d6 21.
+a4 e5 22. Ne2 Bd7 23. axb5 Bxb5 24. Rhc1 Bxd3 25. Kxd3 d5 26. exd5 Nxd5 27. Kd2
+Rd8 28. Ke1 Rdc8 29. Rxa6 Nxb4 30. cxb4 Rxc1+ 31. Nxc1 Rxc1+ 32. Kf2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.14"]
+[Round "3.7"]
+[White "Fedoseev,Vl3"]
+[Black "Duda,J"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2738"]
+[ECO "E03"]
+[Opening "Catalan"]
+[Variation "open, 5.Qa4 Nbd7, 6.Qxc4"]
+[WhiteFideId "24130737"]
+[BlackFideId "1170546"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 c5 7. dxc5 Bxc5 8.
+Nc3 a6 9. Qb3 Ra7 10. Na4 Qa5+ 11. Kf1 b6 12. Nxc5 Nxc5 13. Qc2 O-O 14. Nf3 Bb7
+15. Bd2 Qb5 16. Nd4 Qd7 17. Bxb7 Rxb7 18. Nf3 Nce4 19. Rc1 Qd5 20. Bb4 Re8 21.
+Kg2 Qb5 22. Ba3 h5 23. Rhf1 Rd7 24. e3 h4 25. Nxh4 Rd2 26. Qc4 Qxc4 27. Rxc4 b5
+28. Rd4 Rc2 29. Bb4 e5 30. Rd3 Rxb2 31. a3 Ng4 32. Be1 Rc8 33. Nf5 Rcc2 34. Rd8+
+Kh7 35. Kh3 Ngxf2+ 36. Kh4 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.15"]
+[Round "4.1"]
+[White "Carlsen,M"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2777"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "4101588"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 d5 6. Nbd2 dxe4 7. dxe4 O-O 8.
+O-O Qe7 9. b4 Bd6 10. a3 a5 11. Rb1 axb4 12. axb4 Be6 13. Re1 Rfd8 14. Qc2 h6
+15. Bf1 Ra2 16. Bb2 Qe8 17. Nc4 b5 18. Ne3 Ne7 19. Ra1 Rda8 20. Rxa2 Rxa2 21.
+Ra1 Rxa1 22. Bxa1 Qa8 23. Bb2 Qxe4 24. Qxe4 Nxe4 25. Bxb5 f5 26. Bd3 Nf6 27. Bf1
+g5 28. Nc4 Bxc4 29. Bxc4+ Kg7 30. Nd2 e4 31. Bb3 c6 32. h3 h5 33. Kf1 Kg6 34.
+Nc4 Bc7 35. Na5 Nd7 36. Ba4 Nb6 37. Bxc6 Nxc6 38. Nxc6 Nc4 39. Bc1 f4 40. f3
+exf3 41. gxf3 g4 42. Kg2 Kg5 43. b5 g3 44. Nb4 Ne3+ 45. Bxe3 fxe3 46. Nd3 e2 47.
+f4+ Bxf4 48. b6 Kf5 49. Kf3 g2 50. Kxg2 Ke4 51. Ne1 Ke3 52. b7 h4 53. c4 Bg3 54.
+c5 Kd2 55. Nf3+ Kd1 56. c6 Kc1 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.15"]
+[Round "4.2"]
+[White "Rapport,R"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2783"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "Chigorin variation"]
+[WhiteFideId "738590"]
+[BlackFideId "24116068"]
+[EventDate "2019.01.12"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 Be7 6. Nf3 O-O 7. Bd3 c6 8. Nc3
+Nb4 9. h3 Nxd3+ 10. cxd3 b6 11. O-O Bb7 12. Qb3 Nd7 13. Rfe1 Rc8 14. Rac1 h6 15.
+Bg3 a5 16. Na4 Ba6 17. Ne5 Nxe5 18. Bxe5 Bb5 19. Re2 Re8 20. Rec2 Bf8 21. Nxb6
+Qxb6 22. a4 Ra8 23. g4 Qd8 24. axb5 a4 25. Qc3 cxb5 26. Qc6 b4 27. Bc7 Qg5 28.
+f4 Qg6 29. e4 h5 30. g5 h4 31. Kf2 a3 32. b3 Rec8 33. Qb7 dxe4 34. dxe4 f6 35.
+Be5 Rxc2+ 36. Rxc2 Re8 37. gxf6 gxf6 38. Kf1 Re7 39. Qc6 Rg7 40. Qxe6+ Kh7 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.15"]
+[Round "4.3"]
+[White "Ding Liren"]
+[Black "Fedoseev,Vl3"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2724"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[WhiteFideId "8603677"]
+[BlackFideId "24130737"]
+[EventDate "2019.01.12"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 Nbd7 8.
+Nge2 Nf8 9. O-O Ne6 10. Bh4 g6 11. b4 a6 12. Na4 O-O 13. Nc5 Ng7 14. Rc1 Nfe8
+15. Bxe7 Qxe7 16. a4 Nd6 17. b5 axb5 18. axb5 Bf5 19. bxc6 bxc6 20. Nf4 Rfb8 21.
+Re1 Ra2 22. Bf1 h5 23. Ra1 Rxa1 24. Qxa1 Ne4 25. Nxe4 Bxe4 26. Rc1 Ne6 27. Nd3
+Bxd3 28. Bxd3 Qc7 29. h3 Kg7 30. Rc3 Rb6 31. Ra3 Rb8 32. Rc3 Rb6 33. Qa8 Qd6 34.
+Rc1 Qc7 35. h4 Qd6 36. Bf1 Nd8 37. Qa5 Rb3 38. g3 Qf6 39. Qa2 Rb6 40. Bh3 Qd6
+41. Kg2 Qe7 42. Qe2 Nb7 43. Kg1 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.15"]
+[Round "4.4"]
+[White "Anand,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2757"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "13400924"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bf4 d6 14. Bd3 Be6
+15. Nd2 Bg5 16. Qe4 d5 17. Qe5 Bxf4 18. Qxf4 Qd6 19. Qf3 g6 20. Re1 Ng7 21. Nf1
+Re8 22. Ne3 Bf5 23. Bf1 Bd7 24. Qd1 Nf5 25. Nxf5 Rxe1 26. Qxe1 Bxf5 27. Qe8+ Kg7
+28. Qb5 Bc8 29. g3 c6 30. Qe2 Qe6 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.15"]
+[Round "4.5"]
+[White "Mamedyarov,S"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2817"]
+[BlackElo "2763"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "13401319"]
+[BlackFideId "4168119"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d6 6. O-O Nbd7 7. Nc3 e5 8. Qc2
+c6 9. b3 Re8 10. Ba3 exd4 11. Nxd4 Nc5 12. Rad1 Qe7 13. b4 Nce4 14. Bb2 Nxc3 15.
+Qxc3 d5 16. Nb3 Nh5 17. Nd4 Nf6 18. a3 Ne4 19. Qc1 dxc4 20. Bxc4 Bd7 21. Nb3
+Bxb2 22. Qxb2 Rad8 23. Rd4 Nd6 24. Bd3 Nf5 25. Bxf5 Bxf5 26. Na5 Be4 27. f3 Bd3
+28. Re1 Qf6 29. Rd1 Rxd4 30. Qxd4 Qxd4 31. exd4 Ba6 32. a4 Re6 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.15"]
+[Round "4.6"]
+[White "Duda,J"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2725"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "1170546"]
+[BlackFideId "2004887"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f4 b5 10. e5 b4 11. exf6 bxc3 12. Qxc3 Bxf6 13. g4 h6 14. h4 Bb7
+15. Rh2 Qd6 16. Qd2 Bxd4 17. Bxd4 Qxd4 18. Qxd4 Nxd4 19. Rxd4 Ke7 20. Rhd2 Bc6
+21. Bg2 Bxg2 22. Rxd7+ Ke8 23. Rc7 Bf3 24. Rdd7 Bxg4 25. Re7+ Kd8 26. Red7+ Ke8
+27. Rxf7 g6 28. Rfe7+ Kd8 29. Red7+ Ke8 30. Re7+ Kd8 31. Red7+ Ke8 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.15"]
+[Round "4.7"]
+[White "Vidit,S"]
+[Black "Van Foreest,Jorden"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2612"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "5029465"]
+[BlackFideId "1039784"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. dxc5 Qxd1 8.
+Rxd1 Bxc5 9. Nbd2 c3 10. bxc3 O-O 11. Nb3 Be7 12. c4 Bd7 13. Bb2 Rfd8 14. Nfd4
+Rac8 15. Nb5 b6 16. Nd6 Bxd6 17. Rxd6 Be8 18. Rd3 h6 19. Rad1 Rd7 20. Rxd7 Nxd7
+21. Rc1 Nc5 22. Nxc5 bxc5 23. Kf1 Rb8 24. Bxc6 Bxc6 25. Ba3 Be4 26. f3 Bb1 27.
+Bxc5 Bxa2 28. Bxa7 Rb1 29. Rxb1 Bxb1 30. c5 Kf8 31. Bb8 Ke7 32. Bd6+ Ke8 33. c6
+Kd8 34. Kf2 Bc2 35. h4 h5 36. Ke3 Ba4 37. c7+ Kd7 38. g4 g6 39. Kf4 Bb5 40. Kg5
+Ba6 41. gxh5 gxh5 42. Bh2 Bxe2 43. Kxh5 f6 44. Kg6 e5 45. Kxf6 Kxc7 46. Bxe5+
+Kd7 47. f4 Ke8 48. Bd6 Bh5 49. Kg5 Bf7 50. h5 Bg8 51. Kf6 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.16"]
+[Round "5.1"]
+[White "Fedoseev,Vl3"]
+[Black "Vidit,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2695"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "24130737"]
+[BlackFideId "5029465"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. e3 b6 8. cxd5
+exd5 9. Bd3 Ba6 10. Ne2 c5 11. b3 Ne4 12. Qc2 Bxd3 13. Qxd3 Nc6 14. Bb2 cxd4 15.
+Nxd4 Nc5 16. Qd1 Nxd4 17. Bxd4 Ne6 18. O-O Qh4 19. Bb2 Rad8 20. Rc1 Rd7 21. f4
+Qe7 22. b4 f6 23. Qb3 Qf7 24. Rfd1 Rfd8 25. h3 Qg6 26. a4 Qe4 27. a5 bxa5 28.
+bxa5 Kf7 29. Kh2 h5 30. Bd4 Re7 31. Rc3 Rdd7 32. a6 h4 33. Qb2 Rc7 34. Qf2 Rxc3
+35. Bxc3 Rc7 36. Be1 Rc2 37. Rd2 Rxd2 38. Bxd2 Qd3 39. Bb4 Qc4 40. Be1 Qxa6 41.
+Qxh4 Qe2 42. f5 Ng5 43. Qg3 Kg8 44. Bc3 Qb5 45. Qc7 Ne4 46. Bd4 a5 47. Qe7 a4
+48. Bb2 Qb8+ 49. Kg1 Qc8 50. Kh2 Qb8+ 51. Kg1 Qc8 52. Kh2 Kh7 53. Qa7 Qf8 54.
+Bd4 a3 55. Kg1 Qb4 56. Kh2 Qd6+ 57. Kg1 Qb4 58. Kh2 Qb3 59. Qa8 a2 60. Qe8 Qa3
+61. Ba1 Qd6+ 62. Kg1 Qc5 63. Qg6+ Kg8 64. Qe8+ Qf8 65. Qa4 Qc8 66. Qxa2 Qc1+ 67.
+Kh2 Qc7+ 68. Kg1 Qc1+ 69. Kh2 Nd2 70. Bb2 Qe1 71. Qxd5+ Kh7 72. Bc3 Nf1+ 73. Kg1
+Nd2+ 74. Kh2 Nf1+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.16"]
+[Round "5.2"]
+[White "Radjabov,T"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2738"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[WhiteFideId "13400924"]
+[BlackFideId "1170546"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 a5 8. a4
+O-O 9. exd5 Nxd5 10. O-O f6 11. h3 Be6 12. d4 e4 13. Re1 Bxh3 14. Rxe4 Bf5 15.
+Re2 Kh8 16. Nc3 b6 17. Rae1 Ra7 18. Nxd5 cxd5 19. Qf4 Bg6 20. c3 Rd7 21. Nh4 Bh5
+22. Re3 g5 23. Qf5 Nc6 24. Nf3 Ne7 25. Qb1 Ng6 26. Bc2 Rg7 27. Bf5 Ne7 28. Bd3
+Ng6 29. Bf5 Ne7 30. Bd3 Ng6 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.16"]
+[Round "5.3"]
+[White "Shankland,S"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2725"]
+[BlackElo "2813"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "2004887"]
+[BlackFideId "8603677"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. c3 Na5 11. Bc2 c5 12. Nbd2 Re8 13. Nf1 h6 14. Ne3 Bf8 15. b4
+cxb4 16. cxb4 Nc6 17. a3 d5 18. Ng4 Nxg4 19. hxg4 dxe4 20. dxe4 Qxd1 21. Rxd1 a5
+22. bxa5 Nxa5 23. Rb1 Bc6 24. Nd2 Red8 25. Kf1 Nb7 26. Rb3 Bd7 27. f3 Rac8 28.
+Bb1 b4 29. Rb2 Ba4 30. Re1 Rc7 31. Ba2 bxa3 32. Rb6 Bc5 33. Rb1 Bc2 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.16"]
+[Round "5.4"]
+[White "Kramnik,V"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2817"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "13401319"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 d4 11. Bxe6 Nxe6 12. cxd4 Ncxd4 13. a4 Bc5 14. Ne4 Bb6
+15. Nfg5 Qd5 16. Nxe6 Qxe6 17. axb5 a5 18. b4 a4 19. Be3 Qxe5 20. Nc3 Ne6 21.
+Bxb6 Qxc3 22. Bc5 Nxc5 23. bxc5 O-O 24. Rxa4 Qxc5 25. Rxa8 Rxa8 26. Qc1 Qxb5 27.
+Qxc7 Qb8 28. Qxb8+ Rxb8 29. h3 h6 30. f3 f6 31. Kh1 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.16"]
+[Round "5.5"]
+[White "Nepomniachtchi,I"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2731"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[WhiteFideId "4168119"]
+[BlackFideId "738590"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Nxe4 7. d4 Bd7 8. Re1
+Nf6 9. Bxc6 Bxc6 10. dxe5 dxe5 11. Qxd8+ Kxd8 12. Nxe5 Be8 13. Bg5 h6 14. Bxf6+
+gxf6 15. Ng4 Be7 16. Nd2 Bd7 17. Ne3 Be6 18. Nb3 Kc8 19. Nd4 Bd7 20. Rad1 a5 21.
+Nd5 Bd8 22. Nb3 b6 23. Nd4 a4 24. c4 Ra5 25. f4 c6 26. Nc3 Re8 27. Rxe8 Bxe8 28.
+Kf2 Bd7 29. Rd3 Bc7 30. Kf3 Rc5 31. b3 axb3 32. axb3 f5 33. Re3 Kd8 34. Nd1 b5
+35. Rd3 bxc4 36. bxc4 Rxc4 37. Ne3 Ra4 38. Nxc6+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.16"]
+[Round "5.6"]
+[White "Van Foreest,Jorden"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2612"]
+[BlackElo "2835"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[WhiteFideId "1039784"]
+[BlackFideId "1503014"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Qb8 12. h4 h5 13. Be3 a6 14. Nc3 f5 15.
+O-O-O Be7 16. g3 O-O 17. Be2 e4 18. Bd4 Bf6 19. Bxf6 Rxf6 20. Qb6 Ne5 21. Kb1
+Be8 22. Rd2 Nd7 23. Qd4 Qc7 24. Nd1 Ne5 25. Ne3 f4 26. gxf4 Rxf4 27. Rg1 Bg6 28.
+Ka1 Raf8 29. c5 Rxf2 30. Qc3 Qxc5 31. Qxc5 dxc5 32. d6 Kh7 33. d7 Nf3 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.16"]
+[Round "5.7"]
+[White "Giri,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2773"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "24116068"]
+[BlackFideId "5000017"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 O-O 8. Re1 a5
+9. h3 h6 10. Nbd2 Be6 11. Bb5 Na7 12. d4 Nxb5 13. axb5 exd4 14. Nxd4 Re8 15. Nf1
+Bc4 16. Ng3 d5 17. e5 Ne4 18. Nxe4 dxe4 19. Rxe4 Qd5 20. Qf3 Bxd4 21. cxd4 Re6
+22. Rf4 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.18"]
+[Round "6.1"]
+[White "Carlsen,M"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2817"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "1503014"]
+[BlackFideId "13401319"]
+[EventDate "2019.01.12"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. b3 b6 8. dxc5
+Qxd1 9. Rxd1 Bxc5 10. Bb2 Nbd7 11. Nbd2 Bb7 12. Be2 O-O 13. Nc4 Rfd8 14. Ne1 Bd5
+15. Rac1 Rac8 16. Nd3 Be7 17. Nce5 Bb7 18. Nc4 Bd5 19. Nd2 Bb7 20. Kf1 h6 21.
+Bf3 Nd5 22. Nc4 b5 23. Na5 Ba8 24. a3 g5 25. h3 f5 26. b4 Kf7 27. Nb3 Bf6 28.
+Bxf6 Kxf6 29. Nbc5 N5b6 30. Be2 Nc4 31. a4 Ndb6 32. a5 Nd5 33. Nxa6 Ndxe3+ 34.
+fxe3 Nxe3+ 35. Kg1 Nxd1 36. Rxd1 Rc2 37. Bf3 Be4 38. Nac5 Bxd3 39. Rxd3 Rxd3 40.
+Nxd3 e5 41. Bb7 e4 42. Nc5 Ke5 43. a6 Ra2 44. Bc6 h5 45. Bxb5 g4 46. hxg4 hxg4
+47. Bc4 Ra1+ 48. Kh2 f4 49. b5 f3 50. b6 Kf4 51. Nxe4 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.18"]
+[Round "6.2"]
+[White "Van Foreest,Jorden"]
+[Black "Fedoseev,Vl3"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2612"]
+[BlackElo "2724"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[WhiteFideId "1039784"]
+[BlackFideId "24130737"]
+[EventDate "2019.01.12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. a3 Nc6 6. Nf3 O-O 7. Be2 d5 8. e5 Ne4
+9. Bd3 f5 10. O-O e6 11. Be3 b6 12. Ng5 Nxg5 13. fxg5 f4 14. Rxf4 Rxf4 15. Bxf4
+Nxd4 16. Bxg6 hxg6 17. Qxd4 Ba6 18. Qa4 Bb7 19. Bg3 Qxg5 20. Qd7 Qg4 21. Nb5 Rf8
+22. Nxc7 Bc8 23. Qe7 Qf5 24. Qd6 Bh6 25. h3 Be3+ 26. Kh2 Bc5 27. Qc6 Qxc2 28.
+Qb5 Be7 29. Na6 d4 30. Nb4 Bxb4 31. Qxb4 Bb7 32. Rg1 d3 33. Qg4 d2 34. Qxe6+ Kg7
+35. Qd7+ Rf7 36. Qd4 Kg8 37. e6 Rf8 38. e7 Re8 39. Rd1 Qc6 40. Rxd2 Rxe7 41. Qg4
+Qe4 42. Qg5 Rd7 43. Rf2 Rf7 44. Qd8+ Kg7 45. Bf4 Qd5 46. Qb8 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.18"]
+[Round "6.3"]
+[White "Duda,J"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2783"]
+[ECO "C44"]
+[Opening "Konstantinopolsky opening"]
+[WhiteFideId "1170546"]
+[BlackFideId "24116068"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. g3 Nf6 4. d3 g6 5. Bg2 Bg7 6. c4 d6 7. h3 O-O 8. Nc3 Nd7
+9. Bg5 f6 10. Be3 f5 11. exf5 gxf5 12. Qd2 Nc5 13. O-O Ne6 14. Nd5 f4 15. gxf4
+Ncd4 16. Bxd4 exd4 17. Qa5 b6 18. Qe1 c6 19. Ng5 Re8 20. Qd1 Nxg5 21. fxg5 cxd5
+22. Bxd5+ Be6 23. Bxa8 Qxa8 24. Qh5 Bf5 25. Rad1 Re5 26. Rd2 Qd8 27. h4 Bh3 28.
+Qf3 Bxf1 29. Kxf1 h6 30. gxh6 Bxh6 31. Re2 Qe7 32. Qg4+ Kf7 33. Qf3+ Kg7 34.
+Qg4+ Kf7 35. Qf3+ Qf6 36. Qb7+ Kg6 37. Rxe5 dxe5 38. Ke2 Qf4 39. Kf1 Kh5 40. b4
+Qc1+ 41. Kg2 Kxh4 42. Qxa7 Qg5+ 43. Kf1 Kh3 44. Qh7 Qh5 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.18"]
+[Round "6.4"]
+[White "Ding Liren"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2757"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "8603677"]
+[BlackFideId "13400924"]
+[EventDate "2019.01.12"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d4 O-O 6. c4 dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Rd1 Qc8 13. Ba5 c5 14. dxc5 Bxc5 15.
+Nbd2 Nbd7 16. Nb3 Ba7 17. Qf4 Nb6 18. Bxb6 Bxb6 19. Rac1 Qe8 20. Ne5 Bxg2 21.
+Kxg2 Rd8 22. Rxd8 Qxd8 23. Qf3 Qd6 24. Nd3 Nd5 25. Nbc5 a5 26. Ne4 Qb8 27. h4 h6
+28. b3 b4 29. Rc4 Rd8 30. g4 Ne7 31. g5 Ng6 32. Qg3 Qxg3+ 33. fxg3 Ne7 34. g4
+hxg5 35. Nxg5 Nd5 36. Kf3 Be3 37. Ne4 g6 38. Nf6+ Nxf6 39. Kxe3 Nd5+ 40. Kf3 Kg7
+41. g5 Rh8 42. e3 Nb6 43. Rd4 Nd5 44. Ne5 f6 45. Nc4 fxg5 46. hxg5 Rf8+ 47. Kg4
+Rf2 48. e4 Nc3 49. Rd7+ Rf7 50. Rxf7+ Kxf7 51. Nxa5 Nxa2 52. Kf4 Nc1 53. Ke3 e5
+54. Kd2 Na2 55. Kd3 Ke6 56. Nb7 Nc3 57. Nd8+ Kd6 58. Nf7+ Ke6 59. Nd8+ Kd6 60.
+Nf7+ Ke6 61. Nh8 Nd1 62. Ke2 Nc3+ 63. Kd3 Nd1 64. Nxg6 Nf2+ 65. Ke3 Nh3 66. Nf8+
+Ke7 67. Nh7 Kf7 68. Kf3 Kg6 69. Nf8+ Kf7 70. Nd7 Nxg5+ 71. Ke3 Ke6 72. Nb6 Kd6
+73. Nc4+ Ke6 74. Nb2 Kd6 75. Nc4+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.18"]
+[Round "6.5"]
+[White "Anand,V"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2763"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[WhiteFideId "5000017"]
+[BlackFideId "4168119"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
+h6 9. Bh4 e5 10. fxe5 dxe5 11. Nf5 Nb6 12. Qf3 Bxf5 13. Qxf5 Be7 14. Bd3 Nfd7
+15. Bxe7 Qxe7 16. O-O-O O-O 17. Kb1 Nc5 18. Be2 Rad8 19. Qf2 Qc7 20. Qe3 Qc6 21.
+Rhe1 Rfe8 22. a3 Kf8 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.18"]
+[Round "6.6"]
+[White "Vidit,S"]
+[Black "Shankland,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2725"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "5029465"]
+[BlackFideId "2004887"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Qa4 Bg7 6. Nf3 O-O 7. O-O Nbd7 8. cxd5
+Nb6 9. Qd1 cxd5 10. b3 Ne4 11. Bb2 Bf5 12. Nc3 Rc8 13. Rc1 Qd7 14. e3 Bg4 15.
+Qd3 Bf5 16. Qe2 Bg4 17. Qd3 Bf5 18. Qe2 Bg4 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.18"]
+[Round "6.7"]
+[White "Rapport,R"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2777"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[WhiteFideId "738590"]
+[BlackFideId "4101588"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 c6 5. Nf3 d6 6. h3 O-O 7. O-O Re8 8. Ne2
+Nbd7 9. Ng3 Nf8 10. c3 Bb6 11. Bb3 Be6 12. a4 d5 13. Bg5 h6 14. Bxf6 Qxf6 15. d4
+Ng6 16. a5 Bc7 17. dxe5 Nxe5 18. Nd4 Rad8 19. f4 Qg6 20. Ngf5 Nd7 21. a6 Nc5 22.
+axb7 Nxe4 23. Qg4 Bxf5 24. Nxf5 Qxg4 25. hxg4 Nd2 26. Ba4 Bb6+ 27. Kh2 Nxf1+ 28.
+Rxf1 Re6 29. Bxc6 g6 30. Nxh6+ Kg7 31. Bxd5 Ree8 32. Bxf7 Re2 33. Bc4 Rxb2 34.
+Nf7 Rb8 35. Ng5 Bf2 36. Bd5 a5 37. Ra1 Rh8+ 38. Nh3 g5 39. fxg5 Bb6 40. Re1 Bc7+
+41. Kg1 Bd6 42. Ra1 Bg3 43. g6 a4 44. Kf1 Re8 45. Ng5 Re5 46. Ne4 Rxd5 47. Nxg3
+Rdd2 48. Nf5+ Kf6 49. g7 Kf7 50. Re1 Rxb7 51. g5 Rd8 52. Ra1 Ra7 53. Ra3 Kg6 54.
+g4 Kxg5 55. c4 Rb8 56. Ke2 Ra6 57. Kd2 Rg8 58. Kc3 Kxg4 59. Nd4 Rxg7 60. Kb4
+Rga7 61. Nb5 Ra8 62. Nc3 Rb8+ 63. Nb5 Rc8 64. Rxa4 Rxa4+ 65. Kxa4 Rxc4+ 66. Kb3
+Rc8 67. Kb4 Kf4 68. Nd6 Rc6 69. Nb5 Ke4 70. Nc3+ Kd4 71. Nb5+ Kd3 72. Kb3 Rc4
+73. Na3 Rc1 74. Kb4 Rh1 75. Nb5 Rh5 76. Nd6 Kd4 77. Nb5+ Kd5 78. Nc3+ Kc6 79.
+Kc4 Rh4+ 80. Kd3 Kc5 81. Ne4+ Kd5 82. Nc3+ Ke5 83. Nb5 Rg4 84. Nc3 Rb4 85. Ne2
+Kd6 86. Nc3 Rh4 87. Ne4+ Ke5 88. Nc3 Rd4+ 89. Ke3 Rd8 90. Ne2 Rh8 91. Kd3 Rh3+
+92. Kc4 Rh2 93. Kd3 Rxe2 94. Kxe2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.19"]
+[Round "7.1"]
+[White "Fedoseev,Vl3"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2835"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[WhiteFideId "24130737"]
+[BlackFideId "1503014"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 c6 6. cxd5 cxd5 7. Bf4 Nc6 8. e3
+O-O 9. Qb3 Na5 10. Qa3 Nc4 11. Bxc4 dxc4 12. O-O Bd7 13. Ne5 b5 14. Qa6 Qc8 15.
+Qa5 Qd8 16. Qxd8 Rfxd8 17. Nxd7 Nxd7 18. Nxb5 e5 19. dxe5 Nxe5 20. Rac1 a6 21.
+Na3 Nd3 22. Rc2 Rac8 23. Bg5 Re8 24. Nxc4 h6 25. Bf4 Nb4 26. Rcc1 Nxa2 27. Ra1
+Rxc4 28. Rxa2 Be5 29. b3 Rb4 30. Bxe5 Rxe5 31. Rxa6 Rxb3 32. Rd1 Rb4 33. Rd7 Kg7
+34. Raa7 Rf5 35. f3 Rb2 36. e4 Rf4 37. e5 Re2 38. Re7 Rf5 39. e6 Kf8 40. Rxf7+
+Rxf7 41. Rxf7+ Kg8 42. Re7 Kf8 43. Rf7+ Kg8 44. h5 gxh5 45. Rf5 Rxe6 46. Rxh5
+Kg7 47. Kf2 Ra6 48. g4 Ra2+ 49. Kg3 Ra3 50. Rd5 Kf6 51. Kf4 Ra4+ 52. Ke3 Ra1 53.
+f4 Rg1 54. Rd6+ Kg7 55. Kf3 Re1 56. Rb6 Rg1 57. Re6 Ra1 58. Ke4 Ra4+ 59. Kf5
+Ra5+ 60. Re5 Ra7 61. Rd5 Rf7+ 62. Ke4 Re7+ 63. Kd4 Re1 64. Rd7+ Kf6 65. Rd6+ Kg7
+66. Kd5 Rg1 67. Ke6 Rxg4 68. Rd7+ Kg8 69. f5 Rf4 70. Kf6 Rf1 71. Rd8+ Kh7 72.
+Rd7+ Kg8 73. Rd8+ Kh7 74. Rd7+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.19"]
+[Round "7.2"]
+[White "Mamedyarov,S"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2817"]
+[BlackElo "2731"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Nimzovich variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "738590"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Qxd2 Ne4 8.
+Qc2 Qb4+ 9. Kf1 f5 10. a3 Qe7 11. b4 O-O 12. Nc3 Nxc3 13. Qxc3 d6 14. e3 e5 15.
+b5 exd4 16. Nxd4 Ne5 17. h3 Kh8 18. Kg1 Nd7 19. Kh2 Nc5 20. Rhe1 Be6 21. a4 a5
+22. Nb3 Ne4 23. Qc2 Qf7 24. Rac1 Qg6 25. Nd2 Nxf2 26. Rf1 Ne4 27. Nxe4 fxe4 28.
+Bxe4 Qh6 29. h4 Rab8 30. Bxb7 Rxf1 31. Rxf1 Qxe3 32. Bg2 Bg8 33. Rf4 Re8 34. Bc6
+Re6 35. Rf8 Rf6 36. Rxf6 gxf6 37. Qf5 Qe6 38. Qf2 Qe5 39. Qa7 d5 40. Bxd5 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.19"]
+[Round "7.3"]
+[White "Kramnik,V"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2773"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "5000017"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 a6 6. Nd5 h6 7. c3 d6 8. h3 Ba7
+9. a4 Be6 10. a5 Bxd5 11. exd5 Ne7 12. d4 exd4 13. Nxd4 O-O 14. g4 Nexd5 15. Kf1
+Qd7 16. h4 Bxd4 17. Qxd4 Ne7 18. Be2 Qc6 19. Rh3 Qd5 20. Qxd5 Nfxd5 21. Bf3 c6
+22. Ra4 b5 23. axb6 Nxb6 24. Re4 Rfe8 25. g5 hxg5 26. Bxg5 f6 27. Bc1 d5 28. Rg4
+Nc4 29. Be2 Ne5 30. Rf4 Kf7 31. h5 Rh8 32. Ra4 a5 33. b3 Rab8 34. Bd1 Rb5 35.
+Bc2 c5 36. Rah4 c4 37. bxc4 Nxc4 38. Kg2 Rc5 39. Rg3 Rcc8 40. Rhg4 Rcg8 41. Rh3
+Ra8 42. Rhg3 Rxh5 43. Rxg7+ Ke6 44. Ba4 Rah8 45. Bf4 Rh2+ 46. Kf1 Rh1+ 47. Ke2
+Ra1 48. Bb5 Ra2+ 49. Kf1 Rh1+ 50. Kg2 Raa1 51. Bxc4 Nf5 52. Bxd5+ Kxd5 53. Kf3
+Nxg3 54. fxg3 a4 55. Kg4 a3 56. Ra7 a2 57. Kf5 Rh2 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.19"]
+[Round "7.4"]
+[White "Nepomniachtchi,I"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2738"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "1170546"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 8. Re1
+O-O 9. Nbd2 Nd6 10. Nb3 c6 11. Bf4 Bxd3 12. Qxd3 Ne4 13. Re2 Na6 14. Rae1 Nc7
+15. Bxc7 Qxc7 16. Nbd2 Bb4 17. c3 Nxd2 18. Rxd2 Bd6 19. Ng5 g6 20. Qh3 h5 21.
+Rde2 Qc8 22. Qe3 Qf5 23. g3 Kg7 24. h4 Rad8 25. Kg2 a6 26. a4 Rd7 27. Qd2 Qg4
+28. Qc2 Rdd8 29. a5 Qd7 30. Qb3 Qc7 31. Re6 Qd7 32. R6e3 Rb8 33. Nf3 Qc7 34. Qa2
+Rbd8 35. b4 Qc8 36. Qe2 Qg4 37. Qd3 Qf5 38. Qxf5 gxf5 39. Ng5 Kg6 40. Kf3 Rg8
+41. R3e2 Kf6 42. Re3 Rh8 43. Kg2 Rhg8 44. Kf1 Rh8 45. Nf3 f4 46. gxf4 Kf5 47.
+Ne5 Rh7 48. Rg3 f6 49. Nd3 Rf8 50. Ree3 Rff7 51. Kg2 Re7 52. Rxe7 Rxe7 53. Kf3
+Rf7 54. Rg8 Rh7 55. Rc8 Bc7 56. Re8 Bd6 57. Ra8 Bc7 58. Nc5 Bd6 59. Nd3 Bc7 60.
+Rf8 Bd6 61. Rg8 Bc7 62. Ra8 Bd6 63. Rg8 Bc7 64. Rg1 Re7 65. Rg8 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.19"]
+[Round "7.5"]
+[White "Giri,A"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2813"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "24116068"]
+[BlackFideId "8603677"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
+Nbd7 9. Bf4 b6 10. Rd1 Ba6 11. cxd5 cxd5 12. Ne5 Nxe5 13. dxe5 Ng4 14. Bf3 f5
+15. exf6 Nxf6 16. Qa4 Bb7 17. Nd2 Qe8 18. Qxe8 Rfxe8 19. Nc4 Ba6 20. Ne5 Rac8
+21. Rdc1 Bd6 22. a3 g5 23. Ng4 Bxf4 24. Rxc8 Rxc8 25. Nxf6+ Kf7 26. Nxd5 Rc1+
+27. Rxc1 Bxc1 28. Nb4 Bc4 29. Nd3 Bxd3 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.19"]
+[Round "7.6"]
+[White "Radjabov,T"]
+[Black "Vidit,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2695"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "5029465"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. Qc2 Re8 8. Bd2
+Bd6 9. h3 a6 10. a3 Bd7 11. Be2 dxc4 12. Bxc4 h6 13. g4 e5 14. g5 b5 15. Ba2
+exd4 16. gxh6 dxc3 17. Bxc3 Be6 18. Bxe6 Rxe6 19. Rg1 Ne8 20. Bxg7 Nxg7 21.
+Rxg7+ Kf8 22. Qh7 Qf6 23. Ng5 Rxe3+ 24. Kf1 Nd8 25. Qg8+ Ke7 26. h7 Bg3 27. Ne4
+Rxe4 28. Rxg3 Rh4 29. Rd1 Rxh7 30. Re3+ Ne6 31. Qxa8 Rh8 32. Qc6 Kf8 33. Rxe6
+Qxe6 34. Rd8+ Kg7 35. Qc3+ f6 36. Qxc7+ 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.19"]
+[Round "7.7"]
+[White "Shankland,S"]
+[Black "Van Foreest,Jorden"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2725"]
+[BlackElo "2612"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2004887"]
+[BlackFideId "1039784"]
+[EventDate "2019.01.12"]
+
+1. c4 e5 2. d3 Nf6 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. e3 a5 7. Be2 Bd6 8. b3
+O-O 9. Bb2 f5 10. Nbd2 Qe7 11. Qc2 Bd7 12. g3 Kh8 13. O-O Rae8 14. Rfe1 e4 15.
+Nd4 Nxd4 16. Bxd4 exd3 17. Qxd3 Bxa3 18. Bf3 Nb4 19. Qc3 Nc6 20. Bxg7+ Qxg7 21.
+Qxg7+ Kxg7 22. Rxa3 f4 23. Be4 fxe3 24. Rxe3 Rf6 25. Ra1 Bf5 26. Rc1 Bxe4 27.
+Rxe4 Rxe4 28. Nxe4 Rf5 29. Kg2 Kf7 30. Nc5 Nb4 31. Nxb7 Rxf2+ 32. Kxf2 Nd3+ 33.
+Ke3 Nxc1 34. Nxa5 Ke6 35. g4 Na2 36. Kd4 Nb4 37. h4 Nd5 38. Nc4 Nf4 39. Ne3 Ng6
+40. Nf5 Kf6 41. Ke4 Nf8 42. Ne3 c6 43. Nc4 Ng6 44. g5+ Ke7 45. h5 Nf8 46. Ne5
+Ne6 47. Nxc6+ Kd6 48. Kf5 Ng7+ 49. Kg4 Kxc6 50. h6 Ne8 51. g6 Kd7 52. Kg5 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.20"]
+[Round "8.1"]
+[White "Carlsen,M"]
+[Black "Rapport,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2731"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "738590"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 a6 7. Bg2 Nf6 8. O-O
+d6 9. Nxc6 bxc6 10. Na4 Rb8 11. c4 c5 12. b3 Be7 13. Bb2 O-O 14. Qe1 Nd7 15. Rd1
+Bb7 16. Qc3 Bf6 17. Qd2 Be7 18. Qc3 Bf6 19. Qd2 Be7 20. f4 e5 21. Bc3 Bc6 22.
+Ba5 Qb7 23. Nc3 exf4 24. gxf4 Rfe8 25. e5 Bxg2 26. Qxg2 dxe5 27. Nd5 e4 28. Bc3
+f6 29. Kh1 Kh8 30. Rg1 Bf8 31. Ne3 Qc6 32. Rd5 Qe6 33. Rh5 Qf7 34. Qh3 g6 35.
+Rh4 Rb6 36. f5 Ne5 37. Nd5 Rd6 38. fxg6 Nxg6 39. Bxf6+ Rxf6 40. Rxh7+ 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.20"]
+[Round "8.2"]
+[White "Van Foreest,Jorden"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2612"]
+[BlackElo "2757"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "1039784"]
+[BlackFideId "13400924"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d6 7. Re1 a6 8. a4 h6
+9. Nbd2 Ba7 10. h3 Re8 11. b4 Be6 12. Bxe6 Rxe6 13. Qc2 Qd7 14. Rb1 Rd8 15. b5
+Ne7 16. Nc4 Ng6 17. b6 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.20"]
+[Round "8.3"]
+[White "Fedoseev,Vl3"]
+[Black "Shankland,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2725"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[WhiteFideId "24130737"]
+[BlackFideId "2004887"]
+[EventDate "2019.01.12"]
+
+1. Nf3 d5 2. b3 Bf5 3. Bb2 e6 4. g3 h6 5. d3 Nf6 6. Nbd2 Be7 7. Bg2 O-O 8. O-O
+c6 9. Re1 Bh7 10. e4 a5 11. a3 Na6 12. Qe2 b5 13. Rad1 Qb6 14. Bh3 dxe4 15. Nxe4
+Nxe4 16. dxe4 Rad8 17. Ne5 Bf6 18. Bg2 Nb8 19. c4 b4 20. axb4 axb4 21. Nd3 Bxb2
+22. Nxb2 c5 23. Qe3 Qc7 24. Bf3 Qe7 25. Na4 Na6 26. h4 Qc7 27. Kh2 Qe5 28. Bg2
+Bg6 29. f4 Qc7 30. Bf3 Qa7 31. h5 Bh7 32. Rd3 Rxd3 33. Qxd3 Nb8 34. Qd6 Rc8 35.
+Rd1 Kh8 36. Qb6 Qe7 37. Nxc5 e5 38. Qd6 Qa7 39. Bg4 f5 40. exf5 exf4 41. gxf4
+Na6 42. f6 Rg8 43. Qxa6 Qxc5 44. fxg7+ Rxg7 45. Rd8+ Bg8 46. Qxh6+ Rh7 47. Qf6+
+Rg7 48. Rd4 Qe7 49. Qxe7 Rxe7 50. Rd8 Re3 51. h6 Re1 52. c5 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.20"]
+[Round "8.4"]
+[White "Ding Liren"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2763"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "8603677"]
+[BlackFideId "4168119"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. Qb3 O-O 7. O-O Qb6 8. Nc3
+Rd8 9. Bd2 dxc4 10. Qxc4 Be6 11. Qa4 Bf5 12. Rfe1 Ne4 13. Nxe4 Bxe4 14. Ba5 Qa6
+15. Qa3 Re8 16. Bf1 c5 17. dxc5 Bxb2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.20"]
+[Round "8.5"]
+[White "Vidit,S"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2783"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[WhiteFideId "5029465"]
+[BlackFideId "24116068"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Rc1 dxc4 8. Bxc4
+c5 9. Nf3 cxd4 10. exd4 Nc6 11. O-O Nh5 12. Bxe7 Nxe7 13. d5 exd5 14. Bxd5 Nxd5
+15. Nxd5 Nf6 16. Nc7 Qxd1 17. Rfxd1 Rb8 18. h3 Bf5 19. Nd5 Nxd5 20. Rxd5 Be4 21.
+Rd4 Rfe8 22. Rc7 Rbd8 23. b4 Rd5 24. Rxd5 Bxd5 25. b5 a6 26. a4 axb5 27. axb5
+Bxf3 28. gxf3 b6 29. Rb7 Re6 30. Rb8+ Kh7 31. Rb7 Kg6 32. Kg2 Kf6 33. f4 g6 34.
+Kf3 Rd6 35. h4 Ke6 36. Ke4 f5+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.20"]
+[Round "8.6"]
+[White "Anand,V"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2817"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "13401319"]
+[EventDate "2019.01.12"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 Bxc5 6. a3 Ne7 7. Bd3 Ng6 8. O-O
+O-O 9. Nbd2 Nc6 10. b4 Bb6 11. Bxg6 fxg6 12. Nb3 Bd7 13. Re1 a5 14. b5 Ne7 15.
+a4 Rc8 16. Be3 Bxe3 17. Rxe3 Nf5 18. Rd3 g5 19. h3 b6 20. c4 Rxc4 21. Rxd5 Rf7
+22. Rd3 g4 23. Nfd2 Rb4 24. hxg4 Ne7 25. Nf3 Nd5 26. Nbd4 Rf4 27. Nc2 Rbe4 28.
+Rxd5 exd5 29. Qxd5+ 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.20"]
+[Round "8.7"]
+[White "Duda,J"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2777"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "1170546"]
+[BlackFideId "4101588"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. c3 a6 7. a4 O-O 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Ba7 11. Nbd2 Nh7 12. h3 h5 13. d4 h4 14. Bh2 g4 15. hxg4 Bxg4
+16. dxe5 dxe5 17. b4 h3 18. b5 Ne7 19. gxh3 Bxh3 20. Nxe5 Kg7 21. Nxf7 Rxf7 22.
+Bxf7 Bxf1 23. Bb3 Bh3 24. Be5+ Nf6 25. Bxf6+ Kxf6 26. Qf3+ Bf5 27. Rd1 Qc8 28.
+exf5 Qxf5 29. Ne4+ Kg7 30. Qxf5 Nxf5 31. Rd7+ Kh6 32. bxa6 bxa6 33. Rxc7 Bb8 34.
+Rf7 Nh4 35. Rf6+ Kg7 36. Kf1 Ra7 37. Rb6 Be5 38. Bd5 Ng6 39. c4 Bd4 40. c5 Nf4
+41. Bb7 Nd3 42. Bxa6 Bxc5 43. Re6 Nf4 44. Nxc5 Rc7 45. Re4 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.22"]
+[Round "9.1"]
+[White "Shankland,S"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2725"]
+[BlackElo "2835"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Janowski variation"]
+[WhiteFideId "2004887"]
+[BlackFideId "1503014"]
+[EventDate "2019.01.12"]
+
+1. d4 d5 2. c4 e6 3. Nc3 a6 4. cxd5 exd5 5. Nf3 h6 6. Bf4 Nf6 7. e3 Bd6 8. Bxd6
+Qxd6 9. Qc2 O-O 10. Bd3 Re8 11. h3 Be6 12. O-O Nbd7 13. a4 Rac8 14. Rfc1 c5 15.
+dxc5 Nxc5 16. Nd4 Bd7 17. Qd1 Rc7 18. Bc2 Rec8 19. Nde2 Ne6 20. Bb3 Bc6 21. Nd4
+Qb4 22. Nce2 Bd7 23. Rxc7 Rxc7 24. Qe1 Qxe1+ 25. Rxe1 Nc5 26. Rc1 a5 27. Bc2 Kf8
+28. b3 Na6 29. f3 Nb4 30. Kf2 Ne8 31. Ke1 Nd6 32. Bb1 Rxc1+ 33. Nxc1 Ke7 34. Bd3
+Kf6 35. h4 b6 36. Kd2 Ke5 37. g4 g5 38. hxg5 hxg5 39. Nce2 Nxd3 40. Kxd3 Nb7 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.22"]
+[Round "9.2"]
+[White "Mamedyarov,S"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2817"]
+[BlackElo "2738"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "13401319"]
+[BlackFideId "1170546"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O Nf6 8.
+Qa4+ Nc6 9. Bg5 Bxc3 10. bxc3 O-O 11. Ne5 Qd6 12. Rfe1 Nd5 13. Bxd5 exd5 14.
+Nxc6 Qxc6 15. Qxc6 bxc6 16. Bf4 Bf5 17. Bxc7 Rfe8 18. f3 f6 19. Kf2 Kf7 20. Rxe8
+Rxe8 21. Re1 Rxe1 22. Kxe1 a6 23. a3 h5 24. h4 Ke6 25. Bh2 Kd7 26. Bb8 Ke6 27.
+Bh2 Kd7 28. Bb8 Ke6 29. Bh2 Kd7 30. Bb8 Ke6 31. Bh2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.22"]
+[Round "9.3"]
+[White "Nepomniachtchi,I"]
+[Black "Vidit,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2695"]
+[ECO "C42"]
+[Opening "Petrov's defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "5029465"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nd3 Nxe4 5. Qe2 Qe7 6. Nf4 Nc6 7. c3 Nc5 8. d4
+Qxe2+ 9. Bxe2 Ne6 10. d5 Nxf4 11. Bxf4 Ne5 12. Na3 Bf5 13. Nb5 O-O-O 14. Nxa7+
+Kb8 15. Nb5 Nd3+ 16. Bxd3 Bxd3 17. a4 Bc4 18. O-O-O Bb3 19. Rd2 Bxa4 20. Nd4 Be7
+21. b3 Be8 22. Ra2 Bf6 23. Rd1 Bxd4 24. Rxd4 Bd7 25. c4 b6 26. b4 Kb7 27. c5
+dxc5 28. bxc5 c6 29. cxb6 cxd5 30. Be3 Ra8 31. Ra7+ Rxa7 32. bxa7 Bc6 33. Rg4
+Rg8 34. Kd2 Kc7 35. Rb4 Bb7 36. Bb6+ Kc6 37. Ba5 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.22"]
+[Round "9.4"]
+[White "Rapport,R"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2773"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "738590"]
+[BlackFideId "5000017"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. g3 dxc4 6. Bg2 O-O 7. Ne5 c5 8. dxc5
+Qxd1+ 9. Nxd1 Bxc5 10. Bd2 Nc6 11. Nxc4 Nd5 12. Rc1 b6 13. Nce3 Nce7 14. b4 Bxe3
+15. Nxe3 Ba6 16. Nxd5 Nxd5 17. f3 Bb5 18. Kf2 Rfd8 19. a3 Rd7 20. Rhd1 Ba4 21.
+Re1 Rad8 22. e4 Nc7 23. Bf4 Nb5 24. Bf1 h6 25. h4 Nd4 26. h5 f6 27. Bc4 Kf7 28.
+Re3 Nb5 29. g4 Rd1 30. Rxd1 Rxd1 31. Bb8 a6 32. e5 Rd4 33. Bxb5 Bxb5 34. exf6
+gxf6 35. Bc7 Rd2+ 36. Ke1 Rc2 37. Bxb6 e5 38. Bc5 Ra2 39. Rc3 e4 40. Bd4 Re2+
+41. Kd1 Rg2 42. fxe4 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.22"]
+[Round "9.5"]
+[White "Giri,A"]
+[Black "Van Foreest,Jorden"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2612"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "1039784"]
+[EventDate "2019.01.12"]
+
+1. c4 c5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. b3 e6 6. Ba3 d6 7. e3 Nge7 8. Nge2
+O-O 9. O-O Nf5 10. d3 Qd7 11. Rc1 Rd8 12. Qd2 b6 13. d4 cxd4 14. exd4 d5 15.
+cxd5 Ncxd4 16. dxe6 Nf3+ 17. Bxf3 Qxd2 18. exf7+ Kxf7 19. Bxa8 Bf8 20. Rcd1 Bxa3
+21. Rxd2 Rxd2 22. Bd5+ Kg7 23. Rd1 Rxd1+ 24. Nxd1 Bc5 25. Kg2 Nd4 26. Nec3 b5
+27. Ne4 Be7 28. f3 Nc2 29. Kf2 Bd8 30. Nd6 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.22"]
+[Round "9.6"]
+[White "Kramnik,V"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2813"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "4101588"]
+[BlackFideId "8603677"]
+[EventDate "2019.01.12"]
+
+1. Nf3 d5 2. d4 Nf6 3. c3 c5 4. e3 e6 5. Nbd2 Nbd7 6. Bd3 b6 7. Qe2 Bb7 8. O-O
+Be7 9. b3 O-O 10. Bb2 Rc8 11. Rac1 Bd6 12. c4 cxd4 13. exd4 Qe7 14. Ne5 Ba3 15.
+Bxa3 Qxa3 16. f4 g6 17. Ndf3 dxc4 18. bxc4 Qd6 19. Qe3 Bxf3 20. Nxf3 Rfd8 21.
+Rcd1 Nb8 22. Kh1 Nc6 23. Be2 Kg7 24. Qc1 h5 25. Qa1 Ne7 26. Ne5 Nf5 27. Rd3 Kg8
+28. Bf3 Nd7 29. c5 Qc7 30. Nc6 Re8 31. Ra3 a5 32. cxb6 Qxb6 33. Rc1 Nf6 34. Rac3
+Nd5 35. Rc5 Nxf4 36. Qc3 a4 37. Qd2 Nd5 38. h3 Kg7 39. Qf2 h4 40. Kg1 Rc7 41.
+Qe1 Rec8 42. Bxd5 exd5 43. Qb4 Qa6 44. Ne7 Rxc5 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.22"]
+[Round "9.7"]
+[White "Radjabov,T"]
+[Black "Fedoseev,Vl3"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2724"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[WhiteFideId "13400924"]
+[BlackFideId "24130737"]
+[EventDate "2019.01.12"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 a6 5. e3 Bf5 6. Qb3 Ra7 7. Nh4 Bc8 8. Bd2 e6
+9. c5 Nbd7 10. Nf3 e5 11. Nxe5 Nxe5 12. dxe5 Nd7 13. Na4 Bxc5 14. Nxc5 Nxc5 15.
+Qc2 Ne4 16. Bd3 Nxd2 17. Qxd2 O-O 18. O-O f6 19. exf6 Qxf6 20. e4 dxe4 21. Bxe4
+Be6 22. b3 Raa8 23. Qc2 g6 24. Rad1 Rad8 25. Rfe1 Kg7 26. Rd2 Rxd2 27. Qxd2 Rd8
+28. Qc2 Qd4 29. h3 Qb4 30. Re2 Bf7 31. Bf3 Rd4 32. g3 Qd6 33. Kg2 Kg8 34. h4 a5
+35. Qb2 b6 36. Qc3 c5 37. Qe3 Qf6 38. Qc3 Qd8 39. Qe3 Qd6 40. Qg5 Kg7 41. Qe7
+Rd3 42. Qb7 Qf6 43. Bc6 Kf8 44. Qb8+ Rd8 45. Qb7 Rd6 46. Bf3 h5 47. Qa8+ Kg7 48.
+Qb7 Kf8 49. Qa8+ Qd8 50. Qb7 Rd7 51. Qc6 Kg7 52. Qe4 Rd3 53. Qb7 Qd7 54. Re7
+Qxb7 55. Rxb7 Rd6 56. Be4 Kf6 57. Kf3 c4 58. bxc4 Bxc4 59. a3 Ke5 60. Ke3 Bd5
+61. f4+ Ke6 62. Rb8 Bxe4 63. Kxe4 Rc6 64. a4 Rc4+ 65. Kf3 Rc3+ 66. Ke4 Rb3 67.
+Rg8 Kf7 68. Rb8 Kf6 69. Rf8+ Ke7 70. Rg8 Rxg3 71. Ke5 Re3+ 72. Kd4 Rg3 73. Ke5
+Kf7 74. Rb8 Re3+ 75. Kd4 Re6 76. Kd5 Ke7 77. Rg8 Rd6+ 78. Ke5 Kd7 79. Rg7+ Kc6
+80. Rg8 Kc5 81. Rc8+ Rc6 82. Rxc6+ Kxc6 83. Kf6 b5 84. axb5+ Kd6 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.23"]
+[Round "10.1"]
+[White "Duda,J"]
+[Black "Rapport,R"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2731"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "1170546"]
+[BlackFideId "738590"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 Be6 5. Nd2 c6 6. Ngf3 b5 7. a4 b4 8. a5
+Bd6 9. c4 bxc3 10. bxc3 O-O 11. Be2 f5 12. O-O Nd7 13. Qa4 c5 14. c4 Nf6 15. Nb3
+Ne4 16. Nxc5 Bxc5 17. dxc5 Rc8 18. c6 Nc3 19. Qc2 Nxe2+ 20. Qxe2 Rxc6 21. cxd5
+Bxd5 22. Nd4 Rc5 23. Qd2 Qg5 24. f3 Rfc8 25. Rfc1 g6 26. Rxc5 Rxc5 27. Rb1 h5
+28. Rb8+ Kh7 29. Re8 Qf6 30. Rb8 Qa6 31. Nb3 Bxb3 32. Qd8 Rc1+ 33. Kf2 Qf1+ 34.
+Kg3 f4+ 35. Kxf4 Rc4+ 36. Kg3 Qe1+ 37. Kh3 Rc8 38. Rxc8 Be6+ 39. g4 hxg4+ 40.
+fxg4 Qxe3+ 41. Kh4 Qf2+ 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.23"]
+[Round "10.2"]
+[White "Ding Liren"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2817"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "8603677"]
+[BlackFideId "13401319"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 O-O 8. Nc3
+Bf5 9. O-O Ne4 10. g4 Be6 11. Nxe4 dxe4 12. Bxe4 Nc6 13. Nxc6 bxc6 14. e3 Qd7
+15. Bf3 Rab8 16. b3 c5 17. Bb2 c4 18. Qe2 cxb3 19. axb3 Rxb3 20. Rfc1 Rfb8 21.
+Bc3 Bd5 22. h3 Qc6 23. Bxd5 Qxd5 24. Qf1 R8b7 25. Be1 h6 26. Qg2 Qb5 27. Qc6
+Qxc6 28. Rxc6 e5 29. dxe5 Bxe5 30. Rac1 Rb1 31. Kg2 Rxc1 32. Rxc1 Rc7 33. Rb1
+Bc3 34. Bxc3 Rxc3 35. Ra1 Rc7 36. h4 g5 37. Kg3 Kg7 38. Ra5 Kg6 39. Ra6+ Kg7 40.
+h5 Rb7 41. Kf3 Rc7 42. Ra3 Rb7 43. e4 Kf6 44. Ke3 Rd7 45. Ra6+ Kg7 46. f3 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.23"]
+[Round "10.3"]
+[White "Van Foreest,Jorden"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2612"]
+[BlackElo "2763"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "1039784"]
+[BlackFideId "4168119"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be6 8. f4
+exf4 9. Bxf4 Nc6 10. Qe2 Be7 11. O-O-O Qc7 12. g4 O-O 13. g5 Nd7 14. Qe3 Rac8
+15. Kb1 Rfe8 16. h4 b5 17. Qg3 Nce5 18. Nd4 Nb6 19. Bh3 Bxh3 20. Qxh3 Nec4 21.
+Nd5 Nxd5 22. exd5 Nb6 23. Bc1 Nxd5 24. h5 Bf8 25. g6 h6 26. Qg2 Nf6 27. Bxh6
+fxg6 28. Rdf1 Qc4 29. Rxf6 Qxd4 30. Rxg6 Kh7 31. Bc1 Qe4 32. h6 Qxg6 33. hxg7+
+Kxg7 34. Bh6+ Kf7 35. Rf1+ Qf6 36. Qd5+ Ke7 37. Bg5 Qxg5 38. Rf7+ Kd8 39. Qxg5+
+Be7 40. Qd5 Rg8 41. a3 Rg1+ 42. Ka2 Re1 43. Qb7 Rxc2 44. Rh7 Rc7 45. Qxa6 Re5
+46. Rh8+ Kd7 47. Qa8 Bf6 48. Rf8 Bg7 49. Rd8+ Ke7 50. Qb8 Rec5 51. Rg8 Ke6 52.
+Qe8+ Kd5 53. Qe2 Be5 54. Rb8 Kc6 55. Qe4+ Kd7 56. Qd3 Kc6 57. Qf3+ d5 58. Qh5 d4
+59. Qg6+ Bd6 60. Qe4+ 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.23"]
+[Round "10.4"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2773"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. Bxc6 dxc6 7. d3 Qd6 8. h3
+Be6 9. Be3 Nd7 10. Bxc5 Nxc5 11. Qd2 Nd7 12. d4 exd4 13. Nxd4 c5 14. Nxe6 fxe6
+15. O-O-O Qxd2+ 16. Kxd2 Ne5 17. f4 Nc4+ 18. Kc1 Ke7 19. b3 Nd6 20. e5 Nf5 21.
+Ne4 b6 22. g4 Nh4 23. Rhf1 Rad8 24. Rxd8 Rxd8 25. f5 exf5 26. gxf5 Rf8 27. f6+
+gxf6 28. exf6+ Kf7 29. Rf4 Ng6 30. Ng5+ Ke8 31. Rf1 h6 32. Ne6 Rf7 33. Rd1 Rxf6
+34. Nxc7+ Kf8 35. Nxa6 Nf4 36. h4 Ng6 37. Rh1 Rf7 38. h5 Nf4 39. a4 Ke7 40. Nc7
+Kf6 41. Nb5 Kg5 42. Nd6 Re7 43. Kb2 Re6 44. Nf7+ Kf5 45. Rd1 Kg4 46. Kc3 Kxh5
+47. Rh1+ Kg6 48. Nxh6 Re4 49. Kb2 Re2 50. Ng4 Nd3+ 51. Kc3 Nb4 52. Rh2 Rxh2 53.
+Nxh2 Kf5 54. Nf3 Ke4 55. Ne1 Kd5 56. Nd3 Nc6 57. Nf4+ Kd6 58. Kc4 Na7 59. Nd5
+Kc6 60. Ne7+ Kd6 61. Nf5+ Kc6 62. Kd3 Kc7 63. Ke4 Nc6 64. Ne3 Kd6 65. Nc4+ Kc7
+66. c3 Ne7 67. Ke5 Ng6+ 68. Kf5 Ne7+ 69. Ke6 Ng6 70. a5 b5 71. Ne3 Nf4+ 72. Ke5
+Ne2 73. Nd5+ Kc6 74. b4 Nxc3 75. Nxc3 cxb4 76. Ne2 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.23"]
+[Round "10.5"]
+[White "Fedoseev,Vl3"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2783"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "24130737"]
+[BlackFideId "24116068"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nc3 d6 3. Nge2 Nf6 4. g3 g6 5. Bg2 Nc6 6. d3 Bg7 7. h3 O-O 8. Be3
+Rb8 9. f4 Ne8 10. a4 Nd4 11. O-O Nc7 12. g4 a6 13. Rb1 Bd7 14. Ng3 b5 15. axb5
+axb5 16. Nce2 b4 17. f5 e6 18. Nxd4 cxd4 19. Bf4 e5 20. Bd2 Bf6 21. Kh2 b3 22.
+Ra1 Bb5 23. Ra3 bxc2 24. Qxc2 Na6 25. b4 Bg5 26. Rf3 Rb6 27. Qa2 Bf4 28. Bxf4
+exf4 29. Ne2 Nxb4 30. Qd2 d5 31. Nxf4 Nxd3 32. Nxd5 Qd6+ 33. Rg3 Qxa3 34. Nxb6
+Qd6 35. Nd5 Bc4 36. f6 Bxd5 37. Qxd3 Be6 38. Kg1 Bc4 39. Qf3 d3 40. e5 Qxe5 41.
+Qe3 Re8 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.23"]
+[Round "10.6"]
+[White "Shankland,S"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2725"]
+[BlackElo "2757"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2004887"]
+[BlackFideId "13400924"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 c6 12. Rd1 Nbd7 13. Bg5 Rc8 14. Nbd2 Bg6 15.
+Nb3 Qc7 16. Nc5 Nxc5 17. dxc5 Rfd8 18. b4 Rxd1+ 19. Qxd1 a5 20. a3 Rd8 21. Qe1
+Be4 22. Rd1 Rxd1 23. Qxd1 axb4 24. axb4 Nd5 25. Bxe7 Qxe7 26. Qd4 Bxf3 27. Bxf3
+e5 28. Qg4 Qe6 29. Qxe6 fxe6 30. Bxd5 exd5 31. f3 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.23"]
+[Round "10.7"]
+[White "Vidit,S"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2777"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[WhiteFideId "5029465"]
+[BlackFideId "4101588"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8. e3
+c4 9. Ne2 Nc6 10. g4 Na5 11. Bg2 Nb3 12. Rb1 O-O 13. O-O b5 14. e4 dxe4 15. fxe4
+Nxc1 16. Qxc1 Bxg4 17. Nf4 Rb8 18. h3 Bd7 19. e5 Ne8 20. Qe3 Rb6 21. d5 Nc7 22.
+d6 Ne6 23. Nd5 Ra6 24. Rf5 Qh4 25. Rbf1 Rxa3 26. Ne7+ Kh8 27. Rxf7 Rxf7 28. Rxf7
+Qh5 29. Qf4 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.25"]
+[Round "11.1"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2835"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "1503014"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. Be2 Bg5 14. O-O Kh8 15.
+a3 Ne7 16. Ncb4 Nxd5 17. Nxd5 Be6 18. Qd3 Qc8 19. Rad1 a5 20. Qg3 h6 21. h3 Qc6
+22. Qd3 Qd7 23. Qg3 Qc6 24. Qd3 Qd7 25. Qg3 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.25"]
+[Round "11.2"]
+[White "Kramnik,V"]
+[Black "Van Foreest,Jorden"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2612"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "4101588"]
+[BlackFideId "1039784"]
+[EventDate "2019.01.12"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c5 4. O-O Nc6 5. d3 e5 6. Qe1 Be7 7. e4 d4 8. a4 O-O
+9. Na3 Ne8 10. Nc4 Qc7 11. b3 b6 12. Bd2 Be6 13. Qe2 f6 14. Nh4 Nd6 15. f4 Rae8
+16. f5 Bd7 17. Ng6 Rf7 18. Qh5 Bd8 19. g4 Ne7 20. Rf3 Nxg6 21. fxg6 hxg6 22.
+Qxg6 Nxc4 23. bxc4 Qc8 24. Rg3 Be6 25. Rf1 Qd7 26. Bf3 Qxa4 27. Bd1 Qd7 28. Rh3
+Kf8 29. Rh7 Ke7 30. Rxg7 Rxg7 31. Qxg7+ Kd6 32. Qxd7+ Bxd7 33. Kg2 a5 34. h4 a4
+35. Bc1 Be7 36. Kg3 Ra8 37. Ba3 Rg8 38. Be2 Bd8 39. h5 Be8 40. Kh3 Rh8 41. Bc1
+Be7 42. Bd2 Bd7 43. Kg3 Ra8 44. Rb1 b5 45. cxb5 a3 46. b6 a2 47. Ra1 Kc6 48. g5
+fxg5 49. Bg4 Be8 50. Be6 Kxb6 51. Kg4 c4 52. h6 cxd3 53. cxd3 Bb5 54. Rxa2 Rxa2
+55. Bxa2 Bxd3 56. Kf5 Bf8 57. h7 Bg7 58. Bxg5 Bc2 59. Bd5 d3 60. Kg6 Bh8 61. Kf7
+Kc5 62. Kg8 Bf6 63. Bxf6 d2 64. h8=Q d1=Q 65. Kf7 Bd3 66. Qh2 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.25"]
+[Round "11.3"]
+[White "Anand,V"]
+[Black "Duda,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2738"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "1170546"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 Bf5 10. Qb3 Qd7 11. Nc3 Nxc3 12. Bxf5 Qxf5 13. bxc3 b6 14. Bg5 f6 15.
+Bh4 dxc4 16. Qxc4+ Qd5 17. Qe2 b5 18. a4 a6 19. Bg3 Bxg3 20. hxg3 Nd7 21. Qe6+
+Qxe6 22. Rxe6 Rfc8 23. Rd6 Nb6 24. axb5 axb5 25. Rxa8 Nxa8 26. d5 cxd5 27. Nd4
+h5 28. Rxd5 Nb6 29. Rxb5 Na4 30. Nf5 Nxc3 31. Ne7+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.25"]
+[Round "11.4"]
+[White "Giri,A"]
+[Black "Shankland,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2725"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "2004887"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Na4 Qe7 7. a3 Be6 8. Bxe6
+Qxe6 9. b4 Bb6 10. O-O O-O 11. c4 Nd7 12. Bb2 Nd4 13. Nd2 f5 14. Rc1 c5 15. exf5
+Nxf5 16. Ne4 cxb4 17. Nxb6 axb6 18. axb4 Qg6 19. Ra1 Rxa1 20. Bxa1 Nf6 21. Nxf6+
+Rxf6 22. Qf3 Nh4 23. Qd5+ Kh8 24. f4 h6 25. Qe4 Qxe4 26. dxe4 Rxf4 27. Rxf4 exf4
+28. e5 dxe5 29. Bxe5 Ng6 30. Bc7 b5 31. cxb5 Kg8 32. Kf2 Kf7 33. Kf3 Nh4+ 34.
+Kxf4 Nxg2+ 35. Ke5 Ke7 36. Bd6+ Ke8 37. Ke6 g5 38. Kf6 Kd7 39. Bf8 Nh4 40. Bxh6
+Nf3 41. h3 Ng1 42. Bxg5 Nxh3 43. Be3 Kd6 44. Kf5 Kd5 45. b6 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.25"]
+[Round "11.5"]
+[White "Nepomniachtchi,I"]
+[Black "Fedoseev,Vl3"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2724"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "24130737"]
+[EventDate "2019.01.12"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. c3 h6 6. Be2 Ne7 7. Nbd2 a5 8. a4 Nd7
+9. O-O g5 10. Ne1 Qb6 11. Nd3 Bg7 12. Nb3 O-O 13. Nbc5 Nxc5 14. Nxc5 Qc7 15. f4
+gxf4 16. Bxf4 b6 17. Nd3 c5 18. Qd2 Kh7 19. Be3 Rac8 20. dxc5 bxc5 21. Bxc5 Rfe8
+22. Kh1 Ng6 23. Bd4 Nxe5 24. Nxe5 Bxe5 25. Bxe5 Qxe5 26. Bd3 Bxd3 27. Qxd3+ f5
+28. Rae1 Qg7 29. Qa6 Ra8 30. Qd6 Rad8 31. Qc5 Ra8 32. Re2 Qd7 33. Rfe1 Ra6 34.
+h3 Rg8 35. b4 axb4 36. cxb4 d4 37. b5 Rd6 38. b6 d3 39. Rd2 Rd5 40. Qb4 e5 41.
+Rc1 Rd4 42. Qa5 Rxa4 43. Qxe5 Re4 44. Qf6 Rg6 45. Rxd3 Rxf6 46. Rxd7+ Kg6 47.
+Rb1 Rfe6 48. Rdd1 Re8 49. b7 Rb8 50. Rd7 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.25"]
+[Round "11.6"]
+[White "Rapport,R"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2813"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[WhiteFideId "738590"]
+[BlackFideId "8603677"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 a5 8.
+a4 Bg4 9. h3 Bxf3 10. Qxf3 O-O 11. O-O dxe4 12. Nxe4 Nxe4 13. Qxe4 Nd7 14. Qe3
+Re8 15. Rae1 Nf6 16. Re2 e4 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.25"]
+[Round "11.7"]
+[White "Mamedyarov,S"]
+[Black "Vidit,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2817"]
+[BlackElo "2695"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "5029465"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 dxc4 7. a3 Bxc3+ 8.
+bxc3 Nbd7 9. e3 b5 10. a4 c6 11. Qb1 a6 12. Be2 O-O 13. O-O Qe8 14. Re1 Nd5 15.
+Qc2 Bb7 16. e4 N5f6 17. Bf1 c5 18. Rab1 Qc8 19. axb5 axb5 20. Rxb5 Bxe4 21. Qd2
+Bxf3 22. gxf3 Qc6 23. Bxc4 cxd4 24. Qxd4 Rfc8 25. Rb4 Qxf3 26. Bg3 Ra3 27. Rc1
+Nd5 28. Bxd5 exd5 29. Rd1 Nf6 30. Be5 Ne4 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.26"]
+[Round "12.1"]
+[White "Carlsen,M"]
+[Black "Duda,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2835"]
+[BlackElo "2738"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "1170546"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O Nf6 8.
+Qa4+ Nc6 9. Ne5 Rb8 10. Rd1 O-O 11. Nxc6 bxc6 12. Qxa7 Bd7 13. Qa4 c5 14. Qc2
+cxd4 15. Rxd4 Bc5 16. Rh4 h6 17. Bxh6 gxh6 18. Qd2 Nh7 19. Qxh6 Bxf2+ 20. Kxf2
+Qf6+ 21. Qxf6 Rxb2+ 22. Kg1 Nxf6 23. Rf1 Kg7 24. Rf3 Rg8 25. Rhf4 Bc6 26. Rxf6
+Bxf3 27. Rxf3 Rd8 28. Rf2 Rb4 29. Bb5 Ra8 30. a4 c6 31. Be2 Ra5 32. Rf3 f5 33.
+Kf2 Rc5 34. Bd1 e5 35. Ne2 Kf6 36. Ra3 Rb1 37. Ke1 e4 38. g3 Ke5 39. h4 Ra5 40.
+h5 c5 41. Kd2 c4 42. Kc2 Rb8 43. Kc3 Rb1 44. Kc2 Rb8 45. Kc1 Rb6 46. Bc2 Rd6 47.
+Nf4 Rc5 48. Re3 Kd4 49. Re1 Rh6 50. Kd2 Re5 51. Ne2+ Kc5 52. Rh1 Re8 53. Kc3 Rg8
+54. Rb1 Rxh5 55. Bxe4 Re8 56. Nf4 Rg5 57. Rb5+ Kd6 58. Bxf5 Rxg3+ 59. Kd4 Rg1
+60. Rb6+ Ke7 61. Ng6+ Kf7 62. Ne5+ Kg8 63. Nxc4 Ra8 64. a5 Ra1 65. Rb5 Ra7 66.
+Be4 Rc7 67. Rf5 Kg7 68. Bc2 Rc1 69. Kc3 Rf7 70. Rxf7+ Kxf7 71. Na3 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.26"]
+[Round "12.2"]
+[White "Fedoseev,Vl3"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2777"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "24130737"]
+[BlackFideId "4101588"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re2 Nc4 11. b3 Nb6 12. c3 d5 13. Re1 Re8 14. Rxe8+ Qxe8
+15. a4 Be6 16. Na3 Nc8 17. Bf4 Qd7 18. Bd3 c6 19. Nc2 Ne7 20. Qd2 Bf5 21. Nb4
+Ng6 22. Bg3 Re8 23. a5 h5 24. h3 h4 25. Bh2 Bxd3 26. Nxd3 Qf5 27. a6 b6 28. Bd6
+Bg5 29. Qd1 Qe4 30. Ra2 Qe6 31. Bc7 c5 32. Qg4 Qe7 33. dxc5 bxc5 34. Ba5 Ne5 35.
+Nxe5 Qxe5 36. Ra1 Re6 37. Rd1 Bd2 38. Qxh4 Rxa6 39. g3 f6 40. Bc7 Qxc7 41. Rxd2
+Ra1+ 42. Kg2 Qe5 43. Qf4 Qe1 44. Kf3 Qh1+ 45. Kg4 Re1 46. Qd6 Qe4+ 47. Qf4 Qh1
+48. f3 Re5 49. h4 a5 50. Rd3 Kf7 51. Qd2 Kg6 52. Re3 Rg5+ 53. Kf4 Rf5+ 54. Kg4
+Rg5+ 55. Kf4 Qh3 56. g4 Qxh4 57. Qc2+ Kf7 58. Re2 g6 59. Qd1 Re5 60. Rxe5 Qh2+
+61. Ke3 Qxe5+ 62. Kd3 d4 63. Qd2 dxc3 64. Qxc3 Qxc3+ 65. Kxc3 Ke6 66. Kc4 Kd6
+67. f4 Kc6 68. f5 gxf5 69. gxf5 Kd6 0-1
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.26"]
+[Round "12.3"]
+[White "Ding Liren"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2813"]
+[BlackElo "2773"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "8603677"]
+[BlackFideId "5000017"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 O-O 8. Re1 h6
+9. h3 a5 10. Nbd2 Be6 11. b3 d5 12. exd5 Nxd5 13. Ne4 Bb6 14. Ra2 f5 15. Ng3 Qf6
+16. Nxe5 Nxe5 17. Nh5 Qf7 18. Rxe5 Nxc3 19. Rxe6 Nxd1 20. Re7 Rad8 21. Rae2 Nc3
+22. R2e5 c6 23. Rxb7 Nd5 24. Rxf7 Rxf7 25. Re6 Kh7 26. Rxc6 Re7 27. Bxh6 gxh6
+28. Bxd5 Rd6 29. Rxd6 Re1+ 30. Kh2 Bc7 31. g4 Bxd6+ 32. Kg2 Kg6 33. Ng3 Bxg3 34.
+Kxg3 Rd1 35. Bc4 Kf6 36. f3 Rg1+ 37. Kf2 Rh1 38. Kg2 Rd1 39. Kg3 Rg1+ 40. Kf2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.26"]
+[Round "12.4"]
+[White "Shankland,S"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2725"]
+[BlackElo "2763"]
+[ECO "B07"]
+[Opening "Pirc defence"]
+[WhiteFideId "2004887"]
+[BlackFideId "4168119"]
+[EventDate "2019.01.12"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 a6 5. h3 e6 6. Bd3 Nbd7 7. Nf3 b5 8. e5 b4
+9. Ne4 Nxe4 10. Bxe4 d5 11. Bd3 c5 12. c3 bxc3 13. bxc3 Qa5 14. Bd2 Qa3 15. Qe2
+Bh6 16. Rb1 Bxd2+ 17. Qxd2 c4 18. Bc2 Rb8 19. Rxb8 Nxb8 20. h4 h6 21. h5 g5 22.
+Nh2 Nc6 23. Ng4 Na7 24. Bd1 Nb5 25. Rh3 Bd7 26. f4 gxf4 27. Qxf4 Qf8 28. Qf6 Bc6
+29. a4 Na7 30. Rf3 Nc8 31. Bc2 Ne7 32. Bg6 Kd8 33. Bxf7 Kc7 34. Qxe6 Nc8 35. Qf6 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.26"]
+[Round "12.5"]
+[White "Radjabov,T"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2783"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "24116068"]
+[EventDate "2019.01.12"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4 Be6 8. h3
+Nd7 9. Bd3 h5 10. gxh5 Ndf6 11. h6 Nxh6 12. Qc2 Qd7 13. Nf3 Bf5 14. Ne5 Bxd3 15.
+Nxd3 Nh5 16. Bh2 Qxh3 17. O-O-O Qf5 18. Qb3 b5 19. f3 O-O 20. e4 Qxf3 21. Ne5
+Qe3+ 22. Kb1 b4 23. Nxc6 bxc3 24. Nxe7+ Kh7 25. Rhe1 Qf2 26. Be5 f6 27. Bd6 Rfd8
+28. Bc5 Qxb2+ 29. Qxb2 cxb2 30. exd5 Rd7 31. d6 Ng3 32. Kxb2 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.26"]
+[Round "12.6"]
+[White "Vidit,S"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2695"]
+[BlackElo "2731"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[WhiteFideId "5029465"]
+[BlackFideId "738590"]
+[EventDate "2019.01.12"]
+
+1. d4 Nc6 2. Nf3 d5 3. c4 Bg4 4. Nc3 e6 5. e3 Nf6 6. Qb3 Bxf3 7. gxf3 Rb8 8. a3
+Be7 9. f4 O-O 10. Qc2 Qd7 11. Rg1 Na5 12. cxd5 exd5 13. b4 Nc4 14. Nxd5 Nxd5 15.
+Bxc4 Bh4 16. f5 Rfe8 17. Kf1 Nf6 18. f3 Qc6 19. Kg2 Rbd8 20. b5 Qd7 21. Kh3 g5
+22. e4 Qxd4 23. Bxg5 Bxg5 24. Rxg5+ Kh8 25. Rag1 Nxe4 26. fxe4 Rxe4 27. Bxf7
+Rh4+ 28. Kg2 Qf6 29. Kh1 Qxf7 30. Qg2 Rhd4 31. f6 Rd1 32. Qf3 Rxg1+ 33. Rxg1 Qd5
+34. Qxd5 Rxd5 35. f7 Rd8 36. Rc1 a6 37. bxa6 bxa6 38. Rxc7 Kg7 39. Ra7 Rd1+ 40.
+Kg2 Rd2+ 41. Kg1 Rd1+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.26"]
+[Round "12.7"]
+[White "Van Foreest,Jorden"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2612"]
+[BlackElo "2817"]
+[ECO "B10"]
+[Opening "Caro-Kann defence"]
+[WhiteFideId "1039784"]
+[BlackFideId "13401319"]
+[EventDate "2019.01.12"]
+
+1. e4 c6 2. Nf3 g6 3. d4 Bg7 4. Bd3 d6 5. O-O Nf6 6. Re1 O-O 7. Nbd2 Qc7 8. c3
+e5 9. h3 Nbd7 10. Nf1 Re8 11. Ng3 b6 12. Bg5 h6 13. Bd2 Bb7 14. a4 Rad8 15. Qc1
+Kh7 16. b4 d5 17. dxe5 Nxe4 18. Bf4 Nxe5 19. Nxe5 Bxe5 20. Bxe5 Rxe5 21. Qf4 f5
+22. f3 g5 23. Qe3 f4 24. Qf2 fxg3 25. Qxg3 Kg7 26. fxe4 d4 27. cxd4 Rxd4 28. Rf1
+c5 29. bxc5 bxc5 30. Rab1 Bc6 31. Rf5 Re7 32. e5 Qd8 33. Rxg5+ hxg5 34. Qxg5+
+Kh8 35. Qh6+ Kg8 36. Qg6+ Rg7 37. Qe6+ Rf7 38. Bh7+ Kxh7 39. Qxf7+ Kh8 40. Rb8
+Qxb8 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.27"]
+[Round "13.1"]
+[White "Giri,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2835"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "1503014"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. Be2 O-O 14. O-O Kh8 15.
+Bg4 Bb7 16. Ncb4 Nxb4 17. cxb4 g6 18. a4 bxa4 19. Rxa4 Bc6 20. Be2 Bxa4 21. Qxa4
+f5 22. exf5 Rxf5 23. Bd3 Rf8 24. Qxa6 Bd2 25. Qc4 Qc8 26. Qe4 Bxb4 27. Nxb4 Rf4
+28. Qc6 Rfxb4 29. Qxd6 Qf8 30. Qxe5+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.27"]
+[Round "13.2"]
+[White "Rapport,R"]
+[Black "Van Foreest,Jorden"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2731"]
+[BlackElo "2612"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "738590"]
+[BlackFideId "1039784"]
+[EventDate "2019.01.12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Qa4+ Nbd7 6. e4 a6 7. Bxc4 Rb8 8.
+Qc2 b5 9. Bd3 Bb7 10. Bf4 Rc8 11. d5 exd5 12. O-O-O d4 13. Nxd4 Nh5 14. Be3 c5
+15. Nf5 g6 16. Be2 Ng7 17. Nd6+ Bxd6 18. Rxd6 Qe7 19. Rhd1 Bc6 20. Rxd7 Bxd7 21.
+Nd5 1-0
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.27"]
+[Round "13.3"]
+[White "Nepomniachtchi,I"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2757"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "13400924"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bf4 d6 14. Nd2 Be6
+15. Ne4 Be7 16. Qd2 c6 17. Bd3 Qd7 18. Ng5 Bxg5 19. Bxg5 h6 20. Bf4 g5 21. Bxf5
+Bxf5 22. Bg3 d5 23. Re1 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.27"]
+[Round "13.4"]
+[White "Duda,J"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2813"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "1170546"]
+[BlackFideId "8603677"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 O-O 9. O-O cxd5 10. Qf3 c6 11. Bg5 Bd6 12. Rae1 Rb8 13. Nd1 h6 14. Bxf6
+Qxf6 15. Qxf6 gxf6 16. b3 Kg7 17. Ne3 Re8 18. Nf5+ Bxf5 19. Bxf5 Re5 20. Bd3 Bb4
+21. Re3 Rxe3 22. fxe3 Re8 23. Rf3 Bc5 24. Kf2 Re5 25. g4 h5 26. gxh5 Rxh5 27. h3
+Re5 28. Ke2 a5 29. Kd2 Bb4+ 30. c3 Bc5 31. Ba6 Bb6 32. Bc8 c5 33. Rf5 Kg6 34.
+Rxe5 fxe5 35. Bb7 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.27"]
+[Round "13.5"]
+[White "Anand,V"]
+[Black "Vidit,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2695"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[WhiteFideId "5000017"]
+[BlackFideId "5029465"]
+[EventDate "2019.01.12"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bf5 7. O-O Be7 8. Re1
+O-O 9. Nbd2 Nd6 10. Nf1 c6 11. Bf4 Bxd3 12. Qxd3 Na6 13. Ne3 Nc7 14. Rad1 Ne6
+15. Bxd6 Bxd6 16. g3 Re8 17. c4 dxc4 18. Qxc4 Qc7 19. Qa4 b5 20. Qc2 Bf8 21. Ng4
+Rad8 22. Re5 h6 23. Re3 Rd6 24. Nge5 Red8 25. Rc1 Nxd4 26. Nxd4 Rxd4 27. Qb3 Rb4
+28. Qc3 Rbd4 29. Qb3 Rb4 30. Qc3 Rbd4 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.27"]
+[Round "13.6"]
+[White "Mamedyarov,S"]
+[Black "Fedoseev,Vl3"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2817"]
+[BlackElo "2724"]
+[ECO "B84"]
+[Opening "Sicilian"]
+[Variation "Scheveningen (Paulsen), classical variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "24130737"]
+[EventDate "2019.01.12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. f4 Be7 8. g4 d5
+9. e5 Nfd7 10. g5 Qb6 11. a3 h6 12. Be3 hxg5 13. f5 Nxe5 14. Nxe6 Qxe3 15. Nxd5
+Nf3+ 16. Kf1 Nd2+ 17. Ke1 Nf3+ 18. Kf1 Nd2+ 19. Ke1 Nf3+ 1/2-1/2
+
+[Event "81st Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2019.01.27"]
+[Round "13.7"]
+[White "Kramnik,V"]
+[Black "Shankland,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2725"]
+[ECO "A11"]
+[Opening "English"]
+[Variation "Caro-Kann defensive system"]
+[WhiteFideId "4101588"]
+[BlackFideId "2004887"]
+[EventDate "2019.01.12"]
+
+1. c4 c6 2. Nf3 d5 3. g3 g6 4. Qa4 d4 5. Bg2 Bg7 6. d3 Nd7 7. O-O Nh6 8. Nbd2
+O-O 9. b4 e5 10. c5 a6 11. Nc4 f6 12. Qb3 Nf7 13. e3 dxe3 14. Bxe3 Kh8 15. Rae1
+Re8 16. Na5 Re7 17. d4 e4 18. Nd2 f5 19. d5 cxd5 20. Qxd5 Qe8 21. c6 Nf6 22. Qc5
+bxc6 23. Ndc4 Be6 24. Rc1 Bd5 25. Bd4 Rb8 26. a4 Re6 27. Nb6 Bf8 28. Qc3 Kg8 29.
+Nac4 Nd7 30. a5 Nd6 31. Nxd6 Bxd6 32. Rfd1 Nxb6 33. axb6 Be5 34. Bxe5 Rxe5 35.
+Qe3 Qf7 36. Ra1 Qb7 37. Qd4 Re7 38. b5 cxb5 39. Qxd5+ Qxd5 40. Rxd5 Rxb6 41.
+Rd8+ Kf7 42. Ra8 Ree6 43. Ra7+ Kf6 44. Rxh7 b4 45. Rc7 b3 46. Bf1 Rec6 47. Rxc6+
+Rxc6 48. Rb1 Rb6 49. Bc4 b2 50. Ba2 a5 51. Kf1 a4 52. Ke2 a3 53. Kd2 Rc6 54. h4
+Ke5 55. Re1 Kd4 56. Bb1 Rc3 57. Rh1 Rd3+ 58. Kc2 Rc3+ 59. Kd2 Rf3 60. Ke2 Rd3
+61. h5 gxh5 62. Ke1 Rc3 63. Kd2 f4 64. Ba2 e3+ 65. fxe3+ fxe3+ 66. Ke2 Rc2+ 0-1

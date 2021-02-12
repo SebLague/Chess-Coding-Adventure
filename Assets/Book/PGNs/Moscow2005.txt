@@ -1,0 +1,1153 @@
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.19"]
+[Round "1"]
+[White "Khalifman,A"]
+[Black "Volkov,S1"]
+[Result "1/2-1/2"]
+[WhiteElo "2653"]
+[BlackElo "2614"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.g3 b5 6.c5 g6 7.Bg2 Bg7 8.O-O O-O 9.h3 Nbd7
+10.Be3 b4 11.Nb1 a5 12.a3 Ba6 13.axb4 axb4 14.Ra4 Bb5 15.Rxb4 Qa5 16.Bd2 Ne4
+17.Re1 Nxd2 18.Qxd2 e5 19.Na3 Ba6 20.Nc2 Qc7 21.Rc1 e4 22.Nh2 f5 23.Ra4 Bb5
+24.Rxa8 Rxa8 25.Bf1 Nf8 26.e3 Bxf1 27.Nxf1 Ne6 28.h4 h6 29.Ra1 Rb8 30.Ne1 g5
+31.Ng2 Bf6 32.hxg5 hxg5 33.Ra6 f4 34.gxf4 gxf4 35.Nxf4 Nxf4 36.exf4 Qg7+
+37.Kh1 Bxd4 38.b4 Qb7 39.Qe2 Bxf2 40.Kg2 Bd4 41.Ng3 Qc8 42.Qh5 Qxa6  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.19"]
+[Round "1"]
+[White "Svidler,P"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2739"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nc6
+9.O-O-O Ne5 10.h4 Re8 11.h5 Bf6 12.Kb1 a6 13.Nh2 b5 14.Be2 Bb7 15.f4 Nd7
+16.Bf3 Bxf3 17.gxf3 Qe7 18.Ng4 Qe6 19.Rdg1 Kh8 20.h6 g6 21.Re1 Qf5 22.Bd4 Bxd4
+23.Qxd4+ f6 24.a3 Re6 25.Ne3 Qc5 26.Nd5 Rae8 27.Rxe6 Rxe6 28.Qxc5 dxc5 29.Nxc7 Rc6
+30.Ne8 Kg8 31.Rd1 Nf8 32.Nd6 f5 33.a4 Ne6 34.axb5 axb5 35.Nxb5 Nxf4 36.Rd8+ Kf7
+37.Rd7+ Kf6 38.Rxh7 Kg5 39.b3 Ne6 40.Kb2 Kh5 41.Rc7 Rb6 42.h7 Rb8 43.Re7 Ng5
+44.f4 Nh3 45.Nc7 Rh8 46.Nd5 g5 47.fxg5 Nxg5 48.Re5  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.19"]
+[Round "1"]
+[White "Tomashevsky,E"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2564"]
+[BlackElo "2707"]
+[ECO "A31"]
+
+1.Nf3 c5 2.c4 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.g3 Qb6 6.Nc2 h5 7.h3 Ne4 8.e3 Qa5+
+9.Nd2 Qf5 10.Nf3 Qa5+ 11.Nd2 Nc5 12.Be2 g6 13.Rb1 Qc7 14.Nd4 Bg7 15.b4 Ne6
+16.Nxe6 dxe6 17.Bb2 Bxb2 18.Rxb2 b6 19.Qb3 Bb7 20.Qc3 O-O 21.Rg1 Rfd8 22.f4 a5
+23.b5 Nb4 24.Qb3 Qd6 25.a3 Nd3+ 26.Bxd3 Qxd3 27.Qxd3 Rxd3 28.Ke2 Rxa3 29.c5 bxc5
+30.Rc1 Rd8 31.Rxc5 Rdd3 32.Rc7 Rxe3+ 33.Kf2 Bd5 34.Rd7 Rxg3 35.Rxd5 exd5
+36.b6 Rgd3 37.Ke2 Re3+ 38.Kf1 Ra1+ 39.Nb1 a4 40.b7 a3 41.b8=Q+ Kh7 42.Qf8  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.19"]
+[Round "1"]
+[White "Rublevsky,S"]
+[Black "Bareev,E"]
+[Result "1-0"]
+[WhiteElo "2652"]
+[BlackElo "2675"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nf6 5.exd5 exd5 6.Bb5+ Bd7 7.Bxd7+ Nbxd7
+8.O-O Be7 9.Re1 O-O 10.dxc5 Nxc5 11.Nf1 Re8 12.Be3 b5 13.c3 Qd7 14.Bd4 Rad8
+15.Ne3 Nce4 16.Qb3 a6 17.Ne5 Qb7 18.Nd3 Qc6 19.a4 Nd2 20.Qc2 Nc4 21.axb5 axb5
+22.Nf5 Bf8 23.b3 Nb6 24.Ne5 Qe6 25.f3 Ra8 26.Rad1 b4 27.Ng4 Qxe1+ 28.Rxe1 Rxe1+
+29.Kf2 Rea1 30.Nfh6+ Kh8 31.Nxf7+ Kg8 32.Nfh6+ Kh8 33.Nxf6 gxf6 34.Qf5 Bg7
+35.Nf7+  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.19"]
+[Round "1"]
+[White "Motylev,A"]
+[Black "Dreev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2632"]
+[BlackElo "2694"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.Bd2 Bb4 13.c3 Be7 14.c4 Qc7 15.O-O-O Ngf6
+16.Kb1 O-O 17.Rhe1 Rad8 18.Qc2 Ng4 19.Bc3 Rfe8 20.Qe2 a5 21.Ne5  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.19"]
+[Round "1"]
+[White "Jakovenko,D"]
+[Black "Zvjaginsev,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2659"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Rb8 8.Qd2 Qa5
+9.Be2 b5 10.O-O b4 11.Nd1 Ba6 12.Bxa6 Qxa6 13.Nf2 Be7 14.Nd3 c4 15.Nf2 c3
+16.bxc3 Qc4 17.cxb4 Bxb4 18.Qd3 Nb6 19.Rab1 Qxd3 20.cxd3 Kd7 21.Ng5 Rbf8
+22.Rfc1 h6 23.Nf3 Be7 24.Nd2 Rb8 25.Rb3 Na4 26.Kf1 Na5 27.Rxb8 Rxb8 28.Rb1 Rxb1+
+29.Nxb1 Nc6 30.Nd1 Bb4 31.g4 Ba5 32.Na3 h5 33.gxh5 Ne7 34.Nb5 Nf5 35.Nxa7 Bb4
+36.Bf2 Kc7 37.Ke2 Kb6 38.Nc8+ Kc7 39.Nd6 Bxd6 40.exd6+ Kxd6 41.Kd2 Kc6 42.Nc3 Nb6
+43.Ne2 Nd7 44.Ng3 Nf6 45.Nxf5 exf5 46.h6 gxh6 47.Kc3 Kb5 48.Kb3 Nh5 49.a4+ Kc6
+50.Be3 Ng7 51.Kb4 Ne6 52.Ka5 Nc7 53.Bc1 Ne6 54.Be3 Nc7 55.h3 h5 56.Bd2 Ne6
+57.Be3 Nc7 58.Kb4 Ne6 59.a5 Nc7 60.Ka4 Ne6 61.Bd2 Nc7 62.Be3  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.20"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2632"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 Nc6 8.Qd2 Be6
+9.O-O-O Qd7 10.Ng5 Bxg5 11.Bxg5 f6 12.Be3 O-O-O 13.Be2 Rhe8 14.h3 Kb8 15.b3 Ne7
+16.f3 Bd5 17.c4 Bc6 18.Rhe1 b6 19.Bf1 Ng6 20.Bd4 Qf7 21.Kb2 Rxe1 22.Qxe1 Re8
+23.Qc3 Bb7 24.a4 a5 25.Bf2 Ne5 26.Re1  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.20"]
+[Round "2"]
+[White "Kramnik,V"]
+[Black "Volkov,S1"]
+[Result "1-0"]
+[WhiteElo "2739"]
+[BlackElo "2614"]
+[ECO "A50"]
+
+1.c4 Nf6 2.d4 c6 3.Bf4 Qb6 4.Qd2 d5 5.Nc3 Bf5 6.f3 e6 7.g4 Bg6 8.h4 h5 9.g5 Nfd7
+10.e3 Be7 11.Nh3 O-O 12.Bg3 Re8 13.Be2 dxc4 14.Nf4 Bd6 15.Bxc4 Na6 16.O-O-O Rad8
+17.e4 Nf8 18.Nxg6 Nxg6 19.f4 Qb4 20.Be2 Bc5 21.Bxa6 bxa6 22.Ne2 Qb7 23.Qc2 Bb6
+24.Kb1 Ne7 25.Bf2 g6 26.Ng3 Bc7 27.Be3 Rd7 28.Rd3 Red8 29.Rhd1 a5 30.Ne2 Bb6
+31.Ng1 Qa6 32.Nf3 Bc7 33.Rc3 Qb7 34.Ne5 Bxe5 35.fxe5 Rc7 36.Rc5 Qb4 37.a3 Qb6
+38.d5 exd5 39.Rcxd5 Qxe3 40.Rxd8+ Kg7 41.Qd3  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.20"]
+[Round "2"]
+[White "Dreev,A"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2694"]
+[BlackElo "2564"]
+[ECO "E13"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Bg5 Bb7 6.e3 h6 7.Bh4 Bxc3+ 8.bxc3 d6
+9.Nd2 Nbd7 10.f3 Qe7 11.Qa4 e5 12.e4 O-O 13.Be2 Rfe8 14.O-O Nf8 15.Rfd1 Ng6
+16.Bf2 c5 17.Qc2 Nf4 18.Bf1 Bc8 19.a4 N6h5 20.a5 Rb8 21.Kh1 Rf8 22.Re1 Ne6
+23.Nb3 Ng5 24.axb6 axb6 25.Nd2 f5 26.exf5 Bxf5 27.Bd3 Bxd3 28.Qxd3 Nf4 29.Qf1 Qd7
+30.Ne4 Nxe4 31.Rxe4 exd4 32.cxd4 Rbe8 33.Rae1 Rxe4 34.Rxe4 Qf5 35.dxc5 dxc5
+36.Qa1 Ne6 37.Be3 Qf6 38.Qxf6 Rxf6 39.h4 Kf7 40.Kh2 h5 41.Re5 g6 42.Rd5 Ke7
+43.Bh6 Rf7 44.Rd2 Rh7 45.Be3 Rh8 46.Rb2 Rb8 47.Kg3 Rb7 48.Bf4 Nd4 49.Be5 Nf5+
+50.Kf4 Ke6 51.Re2 b5 52.cxb5 Rxb5 53.Kg5 c4 54.f4 Kf7 55.Ra2 Ne7 56.Rc2  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.20"]
+[Round "2"]
+[White "Zvjaginsev,V"]
+[Black "Khalifman,A"]
+[Result "1-0"]
+[WhiteElo "2659"]
+[BlackElo "2653"]
+[ECO "B20"]
+
+1.e4 c5 2.Na3 Nc6 3.Bb5 Qc7 4.Nf3 g6 5.c3 a6 6.Bxc6 Qxc6 7.O-O Bg7 8.d4 d6
+9.d5 Qc7 10.h3 Nf6 11.Bf4 O-O 12.Re1 b5 13.Qd2 Bb7 14.Rad1 Rfe8 15.c4 Qb6
+16.Bh6 Bh8 17.b3 e6 18.Ng5 exd5 19.cxd5 Re7 20.Re3 Rae8 21.Rde1 a5 22.Nb1 b4
+23.Qc2 Nd7 24.Nd2 Ba6 25.Ngf3 Ne5 26.Bg5 Nxf3+ 27.Nxf3 Rd7 28.e5 dxe5 29.Nxe5 Rxd5
+30.Nxf7 Rxe3 31.Rxe3 Kxf7 32.Re7+ Kf8 33.Qe4 Rd1+ 34.Kh2 Qd6+ 35.f4 Bf6 36.Bh6+ Kg8
+37.Qa8+  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.20"]
+[Round "2"]
+[White "Morozevich,A"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2707"]
+[BlackElo "2652"]
+[ECO "A20"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 4.d4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 e4 7.Nc3 d5 8.cxd5 cxd5
+9.f3 exf3 10.exf3 O-O 11.Nge2 Nc6 12.O-O Re8 13.Nf4 Be6 14.Rad1 Re7 15.g4 Qd6
+16.g5 Nd7 17.Nb5 Qb8 18.Nh5 a6 19.Nc3 Qd6 20.Qf2 f6 21.gxf6 Nxf6 22.Nxf6+ gxf6
+23.Qg3+ Qxg3 24.hxg3 Bf7 25.Kf2 Na5 26.Rfe1 Rxe1 27.Rxe1 Nc6 28.Rd1 Rc8 29.Bf1 Ne7
+30.Rd2 a5 31.Bb5 Kg7 32.Na4 Rc7 33.Bd3 Bg6 34.Nc5 Kf7 35.Bb5 Nf5 36.Na4 Nd6
+37.Bf1 Rc2 38.Rxc2 Bxc2 39.Nc3 Ke6 40.Nb5 Nxb5 41.Bxb5 Bb1 42.a3 Bc2 43.Ke3 Bd1
+44.Bd3 h6 45.Kf4 b6 46.Bf5+ Ke7 47.g4 Kf7 48.Kg3 Ke7 49.f4 Kf7 50.Kh4 Be2
+51.g5 hxg5+ 52.fxg5 fxg5+ 53.Kxg5 Ke7  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.20"]
+[Round "2"]
+[White "Bareev,E"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2675"]
+[BlackElo "2644"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.e3 b5 6.c5 Nbd7 7.Bd2 a5 8.a3 Qc7 9.b4 e5
+10.bxa5 e4 11.Ng1 Rxa5 12.Nge2 h5 13.Nc1 Be7 14.Nb3 Ra8 15.h3 O-O 16.Be2 h4
+17.a4 bxa4 18.Rxa4 Bb7 19.Ra2 Nh7 20.Qc2 f5 21.Rxa8 Rxa8 22.Na2 Bg5 23.Nb4 f4
+24.exf4 Bxf4 25.Bxf4 Qxf4 26.Qd2 g5 27.O-O Ra4 28.Qc3 Nhf6 29.Ra1 Rxa1+ 30.Nxa1 Nb8
+31.Nb3 Bc8 32.Qe3 Kf7 33.Qxf4 gxf4 34.Na5 Bd7 35.Bd1 Ng8 36.Bg4 Ke7 37.g3 fxg3
+38.fxg3 hxg3 39.Kg2 Be8 40.Kxg3 Kf6 41.Nb7 Ne7 42.Nd6 Bd7 43.Be2 Ng6 44.h4 Nf8
+45.Nc2 Ne6 46.h5 Kg5 47.Nf7+ Kf6 48.Nd6 Kg5 49.Kf2 Nf4 50.Nf7+ Kf6 51.Ne5 Kg5
+52.Nf7+ Kf6 53.Ne5  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.21"]
+[Round "3"]
+[White "Volkov,S1"]
+[Black "Zvjaginsev,V"]
+[Result "0-1"]
+[WhiteElo "2614"]
+[BlackElo "2659"]
+[ECO "D61"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.Qc2 c6 7.e3 Nbd7 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Be2 Re8 11.O-O Nxc3 12.bxc3 e5 13.a4 e4 14.Nd2 Nf6 15.Rfb1 Bg4
+16.Bf1 Rad8 17.c4 c5 18.dxc5 Bc8 19.Nb3 Qe5 20.h3 Qg5 21.Kh1 Re5 22.Rd1 Rde8
+23.Rd6 Qh4 24.Rad1 Rf5 25.R1d2 Ng4 26.g3 Qxg3 27.hxg4 Qh4+ 28.Kg1 Qxg4+ 29.Bg2 Rg5
+30.f4 exf3 31.Rd8 f2+  0-1
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.21"]
+[Round "3"]
+[White "Motylev,A"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2632"]
+[BlackElo "2739"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.c4 c6
+9.cxd5 cxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Qh5 g6 13.Qxd5 Qc7 14.c4 Bc6 15.Qg5 Bxh2+
+16.Kh1 Bd6 17.d5 Rae8 18.f4 f6 19.Qg3 Bd7 20.Bxg6 hxg6 21.Qxg6+ Kh8 22.Qh6+  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.21"]
+[Round "3"]
+[White "Tomashevsky,E"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2564"]
+[BlackElo "2740"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bb4 7.Qb3 Bc5 8.d3 c6
+9.O-O O-O 10.Bg5 Be7 11.Rfd1 d6 12.Rac1 h6 13.Bd2 Qc7 14.Bg2 Bf5 15.Qa4 Qd7
+16.b4 a6 17.Qb3 b5 18.a4 Be6 19.Qb2 d5 20.cxd5 cxd5 21.axb5 axb5 22.Ra1 Rfc8
+23.Rdc1 Bh3 24.Bh1 Rxa1 25.Rxa1 d4 26.Ne4 Nd5 27.Qa3 Qc7 28.Rc1 Bxb4 29.Qb2 Qe7
+30.Nf6+ gxf6 31.Rxc8+ Bxc8 32.Bxd5 Bxd2 33.Qxd2 Qc5  0-1
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.21"]
+[Round "3"]
+[White "Khalifman,A"]
+[Black "Bareev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2653"]
+[BlackElo "2675"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Nf3 h6 7.Nxf6+ Nxf6 8.Bh4 c5
+9.Bc4 cxd4 10.O-O Be7 11.Qe2 O-O 12.Rad1 Qb6 13.Nxd4 Qxb2 14.Nf5 exf5 15.Qxe7  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.21"]
+[Round "3"]
+[White "Rublevsky,S"]
+[Black "Dreev,A"]
+[Result "1-0"]
+[WhiteElo "2652"]
+[BlackElo "2694"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.Bxc6+ bxc6 5.O-O Bg4 6.h3 Bh5 7.e5 dxe5 8.g4 e4
+9.gxh5 exf3 10.Nc3 Rc8 11.Qxf3 e6 12.d3 Qf6 13.Qg3 Qf5 14.Re1 Qxh5 15.Re5 Qg6
+16.Rg5 Qf6 17.Ne4 Qd8 18.Rxg7 Nf6 19.Nxf6+ Qxf6 20.Rg4 Be7 21.Bf4 Qf5 22.Re1 Bf6
+23.Be5 h5 24.Bxf6 Qxf6 25.Ra4 Qe7 26.Qg7 Rf8 27.Re5 h4 28.Rh5 Rd8 29.Rhxh4 Rd5
+30.Kf1 Rg5 31.Qh7 Rfg8 32.Rhg4 Rxg4 33.hxg4 Qg5 34.Ke2 Kf8 35.Qh5 Qe7 36.Qe5 Rg5
+37.Qh8+ Rg8 38.Qe5 Rg5 39.Qb8+ Kg7 40.Rxa7 Qf6 41.Ra8  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.22"]
+[Round "4"]
+[White "Bareev,E"]
+[Black "Volkov,S1"]
+[Result "1-0"]
+[WhiteElo "2675"]
+[BlackElo "2614"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Nd4 5.Bg2 Nxf3+ 6.Bxf3 Bc5 7.O-O O-O 8.e3 d6
+9.d4 Bb4 10.Nd5 Nxd5 11.cxd5 Bh3 12.Qa4 Bxf1 13.Kxf1 a5 14.a3 Re8 15.Qd1 e4
+16.Be2 c6 17.axb4 axb4 18.Bd2 Qb6 19.Rc1 c5 20.Qb3 Ra5 21.Kg2 g6 22.h4 h5
+23.Rd1 Rd8 24.Qc2 f5 25.dxc5 dxc5 26.f3 exf3+ 27.Bxf3 Qf6 28.e4 fxe4 29.Bxe4 Ra2
+30.Bc1 Rf8 31.d6 Kh7 32.Qxc5 Ra5 33.Qxa5 Qf2+ 34.Kh3 Qe2 35.Bxg6+  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.22"]
+[Round "4"]
+[White "Dreev,A"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2694"]
+[BlackElo "2644"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Qc2 e6 6.Nf3 c5 7.cxd5 exd5 8.Be2 Nc6
+9.O-O Be6 10.Rd1 Nb4 11.Qb1 Qc8 12.e4 Nxe4 13.Re1 Be7 14.Nxe4 dxe4 15.Qxe4 O-O
+16.a3 Qc6 17.Qb1 Nd5 18.Bd3 h6 19.Ne5 Qc8 20.Bd2 cxd4 21.Qd1 Re8 22.Qf3 Qd8
+23.Qe4 f5 24.Qxd4 Bf6 25.Rad1 Qb6 26.Qxb6 Nxb6 27.Ba5 Na4 28.Nc4 Nxb2 29.Nxb2 Bxb2
+30.Rb1 Bxa3 31.Rxb7 Bd5 32.Rxe8+ Rxe8 33.Rd7 Be6 34.Ra7 Rc8 35.Kf1 Bc4 36.Ke2 Re8+
+37.Kd2 Bxd3 38.Kxd3 Re6 39.Bc3 Rg6 40.Ra8+ Kh7 41.g3 Bc5 42.Ke2 Re6+ 43.Kf3 Be7
+44.h4 h5 45.Ra7 Kg6 46.Bd4 Bf6 47.Be3 Rc6 48.Kg2 Be5 49.Bg5 Bd4 50.Rd7 Bf6
+51.Bd2 Be5 52.Bg5 Bc3 53.Ra7 Kh7 54.Kf3 Kg6 55.Kg2 a5 56.Bd8 Rc5 57.Kf3 Rd5
+58.Bg5 Rb5 59.Bd8 Rb3 60.Kf4 Bd2+ 61.Ke5 Rb5+ 62.Kd4 Be1 63.Ke3 Rb2 64.Ra6+ Kh7
+65.f3 Rb3+ 66.Ke2 Bc3 67.Bc7 Ra3 68.Bd6 Ra2+ 69.Ke3 Ra4 70.Bc7 Kg8 71.Kd3 Ra3
+72.Kc4 Bb4 73.Be5 Re3 74.Kd5 Bc3 75.Bxc3 Rxc3 76.Rxa5 Kf7 77.g4 fxg4 78.fxg4 hxg4
+79.Ke4 Rh3 80.Kf4 g3 81.Kf3 Rxh4  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.22"]
+[Round "4"]
+[White "Kramnik,V"]
+[Black "Zvjaginsev,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2659"]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Bd2 Kh8 10.Rc1 b6 11.b4 Nd7 12.Ne1 f5 13.f3 Ng8 14.Nd3 Ndf6 15.c5 Bh6 16.cxd6 cxd6
+17.Bxh6 Nxh6 18.Qd2 f4 19.Nb5 Ne8 20.Qc3 Qe7 21.Nc7 Nxc7 22.Qxc7 Bd7 23.Nf2 Rfc8
+24.Qb7 Rcb8 25.Qa6 Bc8 26.Qa3 a6 27.Rc6 Bd7 28.Rc7 Ng8 29.Rfc1 Nf6 30.Qb2 Kg8
+31.Bf1 Ne8 32.R7c3 Qd8 33.Qd2 Nf6 34.Rc7 Ne8 35.R7c3 Nf6 36.Rc7 Ne8 37.R7c2 Nf6
+38.Rc3 Ra7 39.Qc2  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.22"]
+[Round "4"]
+[White "Svidler,P"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2652"]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 d6 7.Be3 Bd7 8.a4 Nf6
+9.O-O Be7 10.f4 Nxd4 11.Qxd4 Bc6 12.b4 O-O 13.b5 Be8 14.e5 Qc7 15.b6 Qc6
+16.exd6 Qxd6 17.Bf3 Qb8 18.Qe5 Bd6 19.Qd4 Be7 20.Qe5  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.22"]
+[Round "4"]
+[White "Morozevich,A"]
+[Black "Khalifman,A"]
+[Result "1-0"]
+[WhiteElo "2707"]
+[BlackElo "2653"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.Bg5 Bg7 8.Nbd2 O-O
+9.Nf1 h6 10.Bh4 Ne7 11.Bb3 c6 12.Ne3 Qc7 13.h3 b5 14.g4 Bb7 15.Bxf6 Bxf6
+16.g5 hxg5 17.Ng4 Kg7 18.Qd2 Ng8 19.h4 Qd7 20.Rg1 gxh4 21.Nxf6 Nxf6 22.Nxh4 Rh8
+23.Qg5 Rxh4 24.Qxh4 Rh8 25.Qg5 Rh5 26.Qd2 c5 27.O-O-O c4 28.dxc4 Nxe4 29.Qe3 Rh3
+30.f3 Nf6 31.c5 Rxf3 32.Qe1 a5 33.cxd6 a4 34.Bc2 Qe6 35.a3 Bd5 36.Qe2 e4
+37.Qxb5 Qxd6 38.Qxa4 Qf4+ 39.Kb1 g5 40.Rxd5 Nxd5 41.Qxe4 Rf1+ 42.Rxf1 Qxf1+
+43.Ka2 Nf6 44.Qe5 g4 45.a4 Qf2 46.Qf5 Qe3 47.Bd1 g3 48.Bf3 Nd7 49.a5 Ne5
+50.Bd5 f6 51.Qc8 Qf4 52.Qb7+ Kh6 53.Qb4 Qf2 54.Qd4  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.22"]
+[Round "4"]
+[White "Motylev,A"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2632"]
+[BlackElo "2564"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d3 Be7 8.Nc3 O-O
+9.Bd2 d6 10.a4 Nd4 11.Nxd4 exd4 12.Ne2 c5 13.Ng3 d5 14.e5 Nd7 15.Re1 Re8
+16.Qf3 Nf8 17.Nf5 Ne6 18.c3 dxc3 19.bxc3 Bf8 20.Qg3 Kh8 21.h4 Qd7 22.h5 h6
+23.d4 cxd4 24.cxd4 Ng5 25.Qg4 Bc8 26.Bc2 Ne4 27.Bxe4 dxe4 28.Qxe4 Bb7 29.Qg4 Bc8
+30.Qe4 Bb7 31.Qf4 bxa4 32.Bc1 Qc6 33.f3 Bc8 34.Ba3 Bxf5 35.Bxf8 Be6 36.Rec1 Qb5
+37.Bc5 Rab8 38.Qe4 Red8 39.Rab1 Bb3 40.Kf2 Qd7 41.Bd6 Rb5 42.Rc7 Qe6 43.Rbc1 Re8
+44.Qc6 Bd5 45.Qd7 Rb2+ 46.Kg3 Rd2 47.Qxe6  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.23"]
+[Round "5"]
+[White "Rublevsky,S"]
+[Black "Motylev,A"]
+[Result "1-0"]
+[WhiteElo "2652"]
+[BlackElo "2632"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.c4 c6
+9.cxd5 cxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Qh5 g6 13.Qxd5 Qc7 14.Bh6 Rfe8 15.h4 Be6
+16.Qf3 Qxc3 17.Qf6 Bf8 18.Bxf8 Rxf8 19.Rfd1 Rfd8 20.Be4 Bd5 21.Rac1 Qa3 22.Rc7 Qxa2
+23.h5 Qe2 24.f3 Qa6 25.Qxa6 bxa6 26.h6 Rd6 27.Kf2 g5 28.Rdc1 Bxe4 29.Rc8+ Rd8
+30.Rxd8+ Rxd8 31.fxe4 f5 32.Ke3 fxe4 33.Rc7 Rd6 34.Rg7+ Kh8 35.Rxg5 Rxh6
+36.d5 a5 37.Kxe4 a4 38.Rg3 a3 39.Rxa3 Kg8 40.Kd4 Kf8 41.Re3 Rh2 42.Re2 Rh1
+43.d6 a5 44.Kc5 Rc1+ 45.Kb6 Rb1+ 46.Kc7 Rc1+ 47.Kd8 a4 48.Ra2  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.23"]
+[Round "5"]
+[White "Khalifman,A"]
+[Black "Dreev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2653"]
+[BlackElo "2694"]
+[ECO "B14"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6
+9.Bd3 Ba5 10.a3 h6 11.O-O O-O 12.Be3 Nce7 13.Rac1 Bd7 14.Qe2 Bc6 15.Ne5 Bc7
+16.Rfd1  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.23"]
+[Round "5"]
+[White "Volkov,S1"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2614"]
+[BlackElo "2707"]
+[ECO "E46"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 Re8 6.a3 Bf8 7.g3 d5 8.cxd5 exd5
+9.Bg2 a5 10.O-O Na6 11.Bd2 c6 12.Rc1 Nc7 13.Na4 Ne6 14.b4 Ne4 15.Be1 axb4
+16.axb4 Nd6 17.Nc5 Nc7 18.Nb3 h5 19.Na5 h4 20.Nf4 hxg3 21.hxg3 Ne6 22.Nd3 Ng5
+23.g4 f5 24.Ne5 fxg4 25.Nxg4 Ngf7 26.f4 Bxg4 27.Qxg4 Rxe3 28.f5 Ne4 29.Nxb7 Qf6
+30.Rd1 Ra2 31.Nc5 Bxc5 32.bxc5 Ree2 33.Bf3 Rh2 34.Bxe4 dxe4 35.Bf2 Qh6 36.Qxe4 Re2
+37.Qg4 Ng5 38.Qg3 Nh3+ 39.Kxh2 Nxf2+ 40.Kg1 Qh1+  0-1
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.23"]
+[Round "5"]
+[White "Tomashevsky,E"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteElo "2564"]
+[BlackElo "2739"]
+[ECO "A11"]
+
+1.Nf3 d5 2.c4 c6 3.e3 Nf6 4.Nc3 e6 5.b3 Nbd7 6.Bb2 Bd6 7.Qc2 O-O 8.h3 b6
+9.g4 Bb7 10.g5 Ne8 11.h4 f5 12.Nd4 Qe7 13.Bg2 Rc8 14.f4 Bc5 15.Nce2 Nd6 16.Nf3 dxc4
+17.h5 Bb4 18.h6 g6 19.O-O cxb3 20.axb3 a5 21.Rad1 c5 22.Ba1 Kf7 23.d3 Ke8
+24.Nc3 b5 25.Na2 Ba3 26.Qd2 b4 27.Nc1 Kf7 28.Ne2 Kg8 29.Ne1 Bd5 30.Nc2 Bxg2
+31.Kxg2 e5 32.Nxa3 bxa3 33.Qc3 Nf7 34.Ng3 Nb6 35.e4 fxe4 36.dxe4 c4 37.fxe5 cxb3
+38.Qxb3 Nc4 39.e6 Qxe6 40.Rf6 Qe7 41.Rdf1 Qb4  0-1
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.23"]
+[Round "5"]
+[White "Jakovenko,D"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2740"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Be3 d6 7.O-O Nf6 8.Qe2 O-O
+9.Nb3 Bxe3 10.Qxe3 Nc6 11.Rd1 Qc7 12.c4 Ne5 13.N1d2 b6 14.Rac1 Bb7 15.Bb1 Rad8
+16.f3 Rfe8 17.Qf2 Ba8  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.23"]
+[Round "5"]
+[White "Zvjaginsev,V"]
+[Black "Bareev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2659"]
+[BlackElo "2675"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6 5.Nb3 Nd7 6.Nf3 a6 7.Be2 h6 8.O-O Ne7 9.c3 Rc8
+10.h3 Be4 11.Nbd2 Bxf3 12.Nxf3 c5 13.Bd3 cxd4 14.cxd4 Qb6 15.Bc2 Nc6 16.Rb1 Qa7
+17.Be3 Nb6 18.Nd2 g6 19.a3 Be7 20.Bd3 Na5 21.Nf3 Nac4 22.Bc1 Nd7 23.Re1 Kf8
+24.h4 Kg7 25.Bf1 Qb6 26.Qd3 Na5 27.b4 Nc6 28.Rd1 h5 29.Rb3 Bd8 30.b5 axb5
+31.Rxb5 Qa7 32.Qb1 b6 33.Bd3 Qa4 34.Bc2 Qa8 35.a4 Ne7 36.Qb3 Qc6 37.Bd3 Nf5
+38.g3 Qc3 39.Bd2 Qxb3 40.Rxb3 Rc7 41.Bb5 Be7 42.Rc1 Rxc1+ 43.Bxc1 Rc8 44.Bd2 Nb8
+45.Rc3 Rxc3 46.Bxc3 Ba3 47.Ne1 Bf8 48.Nc2 Ne7 49.a5 bxa5 50.Bxa5 Nec6 51.Bb6 Be7
+52.Kg2 Bd8 53.Bxd8 Nxd8 54.Nb4 f6 55.f3 Kf7 56.g4 hxg4 57.fxg4 g5 58.Kg3 Ke7
+59.exf6+  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.24"]
+[Round "6"]
+[White "Dreev,A"]
+[Black "Volkov,S1"]
+[Result "0-1"]
+[WhiteElo "2694"]
+[BlackElo "2614"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Qc2 b5 6.b3 Bg4 7.Nge2 Nbd7 8.h3 Bxe2
+9.Bxe2 e6 10.O-O Be7 11.e4 dxe4 12.Nxe4 O-O 13.Rd1 bxc4 14.bxc4 Qc7 15.Rb1 Rfb8
+16.Rb3 Rxb3 17.axb3 Rb8 18.Bf3 a5 19.Be3 h6 20.Nc3 e5 21.Na4 Qb7 22.Ra1 Bd6
+23.Re1 Bb4 24.Re2 Bf8 25.Rd2 exd4 26.Bxd4 Qxb3 27.Bxc6 Qb1+ 28.Qd1 Qf5 29.Bb5 Bb4
+30.Re2 Nf8 31.Re5 Qg6 32.Re3 Rd8 33.Rg3 Qf5 34.Qa1 Nh5 35.Rf3 Qc2 36.Nb6 Ne6
+37.Ba4 Qg6 38.Nd5 Qe4 39.Bb6 Rb8 40.Bb5 Nhf4 41.Nxf4 Rxb6 42.Nd3 Rd6 43.Re3 Qf5
+44.Qf1 Nc5 45.g4 Qf6 46.Kg2 Ne6 47.Rf3 Qd4 48.Qe2 Rd8 49.Qe5 Qa7 50.c5 Nd4
+51.c6 Nxf3 52.Kxf3 Bd6 53.Qe4 Qb6 54.Qc4 Bb8 55.Nc5 Ba7 56.Ne4 Rd4 57.Qc2 Bb8
+58.Ba4 Qc7 59.Nc3 Qf4+ 60.Ke2 Qe5+  0-1
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.24"]
+[Round "6"]
+[White "Kramnik,V"]
+[Black "Bareev,E"]
+[Result "0-1"]
+[WhiteElo "2739"]
+[BlackElo "2675"]
+[ECO "D13"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.cxd5 cxd5 6.Bf4 Nc6 7.Rc1 Bf5 8.e3 Rc8
+9.Be2 e6 10.O-O Bd6 11.Bxd6 Qxd6 12.Na4 O-O 13.Qb3 Rc7 14.Nc5 Rb8 15.Rc3 Bg4
+16.h3 Bxf3 17.Bxf3 e5 18.Qb6 exd4 19.exd4 g6 20.Rd1 h5 21.b4 Kg7 22.Be2 Nd7
+23.Nxd7 Rxd7 24.b5 axb5 25.Bxb5 Nd8 26.Qa7 Re7 27.Qc5 Re6 28.Rb1 Ra8 29.a4 Nc6
+30.Qb6 Qe7 31.Bxc6 Re1+ 32.Kh2 Qd6+ 33.g3 Rxb1 34.Qxb1 bxc6 35.Qa1 Qf6 36.Rc2 h4
+37.a5 Qf5 38.Ra2 Rxa5 39.Rxa5 Qxf2+ 40.Kh1 hxg3 41.Qg1 g2+ 42.Kh2 Qf4+ 43.Kxg2 Qd2+
+44.Kg3 Qxa5 45.Qe3 Qc7+ 46.Kg2 Qd6  0-1
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.24"]
+[Round "6"]
+[White "Motylev,A"]
+[Black "Jakovenko,D"]
+[Result "0-1"]
+[WhiteElo "2632"]
+[BlackElo "2644"]
+[ECO "C93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Re8 10.d4 Bb7 11.Nbd2 Bf8 12.a3 h6 13.Bc2 Nb8 14.b3 Nbd7 15.Bb2 g6 16.a4 c6
+17.Bd3 Bg7 18.Qc2 Nh5 19.Rad1 Nf4 20.Bf1 Ne6 21.d5 cxd5 22.axb5 axb5 23.Bxb5 Nc7
+24.Ba4 Re6 25.b4 dxe4 26.Nxe4 Bxe4 27.Rxe4 d5 28.Ree1 Nb6 29.Bb3 Qe7 30.Bc1 Rc8
+31.Be3 Nb5 32.Bc5 Rxc5 33.bxc5 Qxc5 34.Nd4 exd4 35.Rxe6 fxe6 36.Qxg6 Qe7
+37.cxd4 Nd7 38.Qg3 Qb4 39.Bc2 Nxd4 40.Bd3 Qb8 41.Qxb8+ Nxb8 42.Rb1 Nd7 43.g3 e5
+44.Bg6 e4 45.Kg2 Ne5 46.Be8 Kh7 47.Rd1 Nd3 48.Rb1 Nc2 49.Rb7 Ne5 50.Ba4 Nd4
+51.Rb8 Ndf3 52.Bb3 d4 53.Bd5 Nd2 54.Rb2 e3 55.fxe3 dxe3 56.Rb6 Nd3 57.Re6 Be5
+58.Bb7 e2 59.Rxe5 Nxe5 60.Kf2 Nf1 61.Kxe2 Nxg3+ 62.Ke3 Nh5 63.Ke4 Nf7 64.Bc6 Kg6
+65.h4 Kf6 66.Ba4 Ne5 67.Bc2 Ng7 68.Kf4 Ne6+ 69.Kg3 Nd4 70.Bb1 Ne2+ 71.Kf2 Nc3
+72.Bc2 Nd7  0-1
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.24"]
+[Round "6"]
+[White "Morozevich,A"]
+[Black "Zvjaginsev,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2707"]
+[BlackElo "2659"]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Nxf6+ Nxf6 7.Bd3 h6 8.Bh4 c5
+9.dxc5 Qa5+ 10.c3 Qxc5 11.Nf3 Be7 12.Qe2 O-O 13.O-O-O Bd7 14.Ne5 Ba4 15.Rd2 a6
+16.Re1 Bc6 17.f4 Nd5 18.Qe4 f5 19.Bxe7 Nxe7 20.Qc4 Qxc4 21.Nxc4 Rf6 22.Na5 g5
+23.Nxc6 bxc6 24.Bf1 gxf4 25.Rd6 Kf7 26.Bc4 Nd5 27.Re5 Rc8 28.Rd7+ Ke8 29.Ra7 Rc7
+30.Rxa6 Kf7 31.Bxd5 cxd5 32.Kd2 Rc4 33.Ra7+ Ke8 34.Re2 Re4 35.b4 e5 36.b5 Kd8
+37.a4 Rg6 38.a5 Rxe2+ 39.Kxe2 Rxg2+ 40.Kf3 Rb2 41.b6 Kc8 42.Rc7+ Kb8 43.Rc5 d4
+44.cxd4 Rb3+ 45.Kf2 Rb2+ 46.Kf1 exd4 47.Rxf5 d3 48.Rd5 Ra2 49.h4 h5 50.Rxd3 Rxa5
+51.Kf2 Ra2+ 52.Kf3  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.24"]
+[Round "6"]
+[White "Tomashevsky,E"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2564"]
+[BlackElo "2652"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Nd5 e4 6.Nh4 O-O 7.Bg2 Re8 8.O-O Bc5
+9.d3 exd3 10.Qxd3 Ne5 11.Qc2 c6 12.Be3 cxd5 13.Bxc5 d6 14.Bd4 dxc4 15.Rfd1 d5
+16.Bc3 Nc6 17.Nf5 Be6 18.Ne3 Qe7 19.Bxd5 Nxd5 20.Nxd5 Bxd5 21.Rxd5 Qxe2 22.Qxe2 Rxe2
+23.Rc5 Rd8  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.24"]
+[Round "6"]
+[White "Svidler,P"]
+[Black "Khalifman,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2653"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.a4 Rb8 8.c3 O-O
+9.d4 Bb6 10.axb5 axb5 11.dxe5 Ng4 12.Bf4 Qe8 13.Nd4 Ngxe5 14.Nxb5 d6 15.Ba4 Bg4
+16.Qc2 f5 17.Nd2 Qg6 18.Nd4 Nxd4 19.cxd4 Bxd4 20.exf5 Bxf5 21.Qxc7 Bd3 22.Bxe5 dxe5
+23.Nf3 Bxf1 24.Rxf1 Qf7 25.Qxf7+ Rxf7 26.Bc6 Kf8 27.b3 Rc7 28.Bd5 h6 29.h4 Rc5
+30.Bc4 Ra5 31.Rd1 Ra1 32.Rxa1 Bxa1 33.Nd2 Rd8 34.Ne4 Rd1+ 35.Kh2 Re1 36.Bd5 Rd1
+37.Bc4 Rd4 38.f3 Rd1 39.h5 Bd4 40.Kh3 Rg1 41.g3 Ke7  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.26"]
+[Round "7"]
+[White "Jakovenko,D"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteElo "2644"]
+[BlackElo "2564"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7 7.d3 Be7 8.Re1 O-O
+9.Nbd2 h6 10.a4 Re8 11.c3 Bf8 12.Ba2 d6 13.axb5 axb5 14.Qb3 Qd7 15.Qxb5 Reb8
+16.Qb3 Ra7 17.Qc2 Rba8 18.b4 Ba6 19.Nc4 Bxc4 20.dxc4 Nd8 21.Nd2 c5 22.Nb3 Nc6
+23.Bd2 Ra4 24.b5 Ne7 25.Nc1 Qa7 26.Re2 Nc8 27.Rb1 Nb6 28.Bb3 Nxc4 29.Bxa4 Na3
+30.b6 Qb7 31.Qb3 Nxb1 32.Be1 Nxe4 33.Ra2 Nbxc3 34.Bxc3 Nxc3 35.Qxc3 Qxb6
+36.Bb3 Rc8 37.Qc4 Rc7 38.Ra4 g6 39.g3 Kg7 40.Ne2 Rb7 41.Ba2 Qc6 42.Ra3 Rd7
+43.Nc3 Qf3 44.Qa4 Qb7 45.Bd5 Qc7 46.Kg2 Qd8 47.Qb5 Qe7 48.Qb6  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.26"]
+[Round "7"]
+[White "Bareev,E"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2675"]
+[BlackElo "2707"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.Nf3 Bxc5 7.g3 a6 8.Bf4 d6
+9.Bg2 h6 10.Rc1 Nc6 11.O-O e5 12.Nd5 Nxd5 13.cxd5 exf4 14.dxc6 fxg3 15.hxg3 Qxc6
+16.b4 Bxb4 17.Qb2 Bc5 18.Ng5 Qd7 19.Qxg7 hxg5 20.Qxh8+ Ke7 21.Rc4 Qd8 22.Qg7 Be6
+23.Rb1 Rb8 24.Qxg5+ Ke8 25.Bc6+ Kf8 26.Qh6+ Ke7 27.Qh4+ Kf8 28.Rxb7 Kg7 29.Rxb8 Qxb8
+30.Qg5+ Kf8 31.Qh6+ Kg8 32.Rh4 Qb2 33.Qg5+  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.26"]
+[Round "7"]
+[White "Zvjaginsev,V"]
+[Black "Dreev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2659"]
+[BlackElo "2694"]
+[ECO "B20"]
+
+1.e4 c5 2.Na3 e6 3.c3 d5 4.e5 Nc6 5.Nf3 Bd7 6.g3 a6 7.Nc2 Rc8 8.Bg2 Qc7 9.Qe2 c4
+10.O-O Bc5 11.Nce1 Na5 12.d4 cxd3 13.Nxd3 Bb6 14.Nd4 Ne7 15.Bg5 Ng6 16.h4 h6
+17.Bc1 Ne7 18.Rd1 Bxd4 19.cxd4 Nf5 20.Ne1 Bb5 21.Qg4 Nc6 22.Rd2 Qa5 23.Nc2 Nb4
+24.Nxb4 Qxb4 25.Qd1 O-O 26.b3 Qa5 27.a4 Bd7 28.Ba3 Rfe8 29.Bc5 Qd8 30.a5 Bb5
+31.b4 f6 32.Qe1 Qd7 33.Bh3 Qf7 34.Ra3 h5 35.Rf3 Qg6 36.Qb1 fxe5 37.Bxf5 exf5
+38.Qxf5 Qxf5 39.Rxf5 exd4 40.Rxd4 g6 41.Rg5 Re6 42.g4 hxg4 43.Rdxg4 Kh7 44.h5 Be8
+45.hxg6+ Rxg6 46.Rh5+ Kg8 47.Rxg6+ Bxg6 48.Rxd5 Be4 49.Re5 Bc6 50.f4 Re8
+51.Rg5+ Kf7 52.Kf2 Re4 53.Rf5+ Kg6 54.Rg5+ Kf7 55.Rf5+  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.26"]
+[Round "7"]
+[White "Rublevsky,S"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2652"]
+[BlackElo "2739"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.c4 c6
+9.cxd5 cxd5 10.Nc3 Nxc3 11.bxc3 O-O 12.Qh5 g6 13.Qxd5 Qc7 14.Qf3 Qxc3 15.Bh6 Rfe8
+16.Qf6 Bf8 17.Bxf8 Rxf8 18.Be4 Bc6 19.Rac1 Qb4 20.Bxc6 bxc6 21.Rxc6 Rad8
+22.Rd1 Qa4 23.Rd2 Qb4 24.Rd1 Qa4 25.Rcc1 Qxa2 26.Ra1 Qb3 27.Rdb1  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.26"]
+[Round "7"]
+[White "Volkov,S1"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2614"]
+[BlackElo "2740"]
+[ECO "D97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Na6 8.Be2 c5
+9.d5 e6 10.O-O exd5 11.exd5 Nb4 12.Bg5  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.26"]
+[Round "7"]
+[White "Khalifman,A"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2653"]
+[BlackElo "2632"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.Bg5 Be7 7.e3 Nbd7 8.Rc1 O-O
+9.cxd5 exd5 10.Be2 Ne4 11.Bxe7 Qxe7 12.O-O c6 13.b4 Nxc3 14.Rxc3 b5 15.Ne1 a5
+16.Nd3 Nb6 17.Nc5 axb4 18.axb4 Nc4 19.Rc1  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.27"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Zvjaginsev,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2659"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.Bxc6+ bxc6 5.O-O e5 6.c3 Ne7 7.d4 Ng6 8.Na3 Be7
+9.dxc5 dxc5 10.Be3 Qxd1 11.Rfxd1 Ba6 12.Ne1 Rd8 13.Rxd8+ Kxd8 14.Nd3 c4 15.Nb4 Bxb4
+16.cxb4 Kc7 17.Rd1 Nf4 18.Bxf4 exf4 19.Nb1 Rd8 20.Rxd8 Kxd8 21.Nc3 Ke7 22.Kf1 Kd6
+23.Ke2 Ke5 24.Kd2 Bc8 25.b5 cxb5 26.Nxb5 Bd7 27.Na3 Kd4 28.f3 f5 29.e5 c3+
+30.bxc3+ Kxe5 31.Kd3 Kd5 32.c4+  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.27"]
+[Round "8"]
+[White "Tomashevsky,E"]
+[Black "Khalifman,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2564"]
+[BlackElo "2653"]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 d4 3.g3 c5 4.e3 Nc6 5.exd4 cxd4 6.Bg2 e5 7.O-O Bd6 8.d3 Nge7
+9.a3 a5 10.Nbd2 O-O 11.Re1 Ng6 12.Qc2 Be7 13.Rb1 Be6 14.h4 f6 15.c5 Rc8 16.Ne4 b5
+17.cxb6 Qxb6 18.h5 Nh8 19.Qe2 Nf7 20.Ned2 Nd6 21.Nh4 Qd8  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.27"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2707"]
+[ECO "D19"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qe2 Bg4 10.h3 Bxf3 11.Qxf3 O-O 12.Rd1 Rc8 13.Ne4 Nxe4 14.Qxe4 Qa5 15.Qc2 Nb6
+16.Bd3 g6 17.e4 c5 18.dxc5 Nd7 19.Bh6 Rfd8 20.Bg5 Rf8 21.Bh6 Rfd8 22.Bb5 Nxc5
+23.Rxd8+ Qxd8 24.Rd1 Qh4 25.Be3 Rd8 26.Rxd8+  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.27"]
+[Round "8"]
+[White "Dreev,A"]
+[Black "Bareev,E"]
+[Result "1-0"]
+[WhiteElo "2694"]
+[BlackElo "2675"]
+[ECO "D49"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
+9.e4 c5 10.e5 cxd4 11.Nxb5 axb5 12.exf6 gxf6 13.O-O Qb6 14.Qe2 Ba6 15.a4 Bg7
+16.a5 Qd6 17.Qe4 Rd8 18.Qg4 Kf8 19.Bf4 Ne5 20.Qh5 Rc8 21.Rae1 Rc5 22.b4 Rc3
+23.Bxe5 fxe5 24.Ng5 Qe7 25.f4 e4 26.Bxe4 h6 27.Nf3 Qxb4 28.Ne5 Qe7 29.Bg6 b4
+30.Bxf7 Bxf1 31.Ng6+ Kxf7 32.Nxe7+ Kxe7 33.Qg4  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.27"]
+[Round "8"]
+[White "Motylev,A"]
+[Black "Volkov,S1"]
+[Result "1-0"]
+[WhiteElo "2632"]
+[BlackElo "2614"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.a3 g5
+10.fxg5 cxd4 11.Nxd4 Ncxe5 12.Bd3 Bb7 13.O-O Qc7 14.Kh1 Bg7 15.Rae1 O-O 16.Nce2 Nc4
+17.Bxc4 dxc4 18.Ng3 c3 19.bxc3 Rac8 20.Nh5 Qxc3 21.Qxc3 Rxc3 22.Nxg7 Rxe3
+23.Rxe3 Kxg7 24.Rc3 Bd5 25.Rc7 Nb6 26.Rf6 Kg8 27.Ra7 Nc4 28.Rxa6 Rd8 29.Kg1 Be4
+30.c3 e5 31.Nf3 Rd1+ 32.Kf2 Bd5 33.a4 e4 34.axb5 exf3 35.gxf3 Rb1 36.b6 Rb2+
+37.Kg3 Kg7 38.Rf4 Be6 39.b7 Ne3 40.Rb4 Rg2+ 41.Kf4 Nd5+ 42.Ke4 Nxb4 43.cxb4 Bc4
+44.Ra8  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.27"]
+[Round "8"]
+[White "Rublevsky,S"]
+[Black "Jakovenko,D"]
+[Result "1-0"]
+[WhiteElo "2652"]
+[BlackElo "2644"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3 Nf6 6.d4 Be7 7.Bd3 Bg4 8.h3 Bh5
+9.Nc3 c6 10.g4 Bg6 11.g5 Nfd7 12.Bxg6 hxg6 13.Qe2 d5 14.Bd2 Nf8 15.O-O-O Qd6
+16.Rde1 Nbd7 17.h4 Ne6 18.h5 O-O-O 19.hxg6 Nf4 20.Bxf4 Qxf4+ 21.Qe3 Qxe3+
+22.fxe3 Rxh1 23.Rxh1 fxg6 24.Ne2 Rf8 25.Nf4 Bd6 26.Rh4 Rf7 27.Kd2 Nf8 28.Ke2 Kd7
+29.b3 Rf5 30.Rg4 Be7 31.Nh3 Bd6 32.Nh4 Rf7 33.c4 b6 34.Nf2 dxc4 35.bxc4 b5
+36.c5 Bc7 37.Nd3 a5 38.Nf3 Re7 39.Rh4 Ne6 40.Rh8 Nf4+ 41.Kd2 Nxd3 42.Kxd3 Rf7
+43.Nh4 Bg3 44.Nxg6 Rf5 45.Ra8 Ke6 46.Ra7 Rf7 47.d5+ cxd5 48.Nf4+ Bxf4 49.Rxf7 Bxe3
+50.c6  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.28"]
+[Round "9"]
+[White "Morozevich,A"]
+[Black "Dreev,A"]
+[Result "1-0"]
+[WhiteElo "2707"]
+[BlackElo "2694"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 6.O-O Bg6 7.c3 a6 8.Nbd2 Nh6
+9.g3 Be7 10.Nb3 Nf5 11.g4 Nh4 12.Nxh4 Bxh4 13.f4 f5 14.Bd3 Be7 15.Be3 O-O
+16.h3 b5 17.Qe2 Qe8 18.Rad1 Rc8 19.Qg2 Rc7 20.Nc1 Nb6 21.Ne2 Bd8 22.Bc1 Nc8
+23.b3 Be7 24.Kh1 c5 25.gxf5 exf5 26.c4 dxc4 27.bxc4 cxd4 28.cxb5 Bc5 29.bxa6 Nb6
+30.Bc2 Qc8 31.Bb3+ Kh8 32.Bb2 Be8 33.Kh2 Bc6 34.Qg3 Bb5 35.Rfe1 d3 36.Nd4 Bc4
+37.e6 Re7 38.Rxd3 Bxd3 39.Qxd3 Qc7 40.Re5 Rd8 41.Qxf5 Bb4 42.Nf3  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.28"]
+[Round "9"]
+[White "Zvjaginsev,V"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2659"]
+[BlackElo "2632"]
+[ECO "B20"]
+
+1.e4 c5 2.Na3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.d3 Bg7 6.f4 d5 7.e5 f6 8.Qe2 fxe5
+9.fxe5 Nh6 10.Nf3 Bg4 11.O-O O-O 12.c3 Qc7 13.Nc2 Nf5 14.Bf4 Nd4 15.Ncxd4 Rxf4
+16.h3 cxd4 17.hxg4 dxc3 18.bxc3 Rxg4 19.Nd2 Rg3 20.Rae1 e6 21.Nb3 c5 22.Qf2 Rxd3
+23.Nxc5 Rxc3 24.Nxe6 Qb6 25.Qxb6 axb6 26.Nxg7 Kxg7 27.Rf2 Re8 28.e6 Re7 29.Rd2 Rc5
+30.a4 h5 31.Kh2 Kf6 32.Rf2+ Kg7 33.Rd2 Ra5 34.Rd4 Rc5 35.Rd2 Kf6  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.28"]
+[Round "9"]
+[White "Volkov,S1"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteElo "2614"]
+[BlackElo "2564"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 Bxc3+ 6.bxc3 Qa5 7.Bd2 d6 8.e4 Nbd7
+9.Ne2 Ne5 10.Ng3 Bd7 11.a4 h5 12.h4 O-O-O 13.Be2 Ng6 14.Nf1 Kb8 15.Qc2 Ka8
+16.Ra2 Rb8 17.Ne3 Rhe8 18.Kd1 Ne7 19.Kc1 Nfg8 20.Bd3 Nh6 21.Kb2 Ng6 22.Ka1 Rf8
+23.Nf1 Ng8 24.Ng3 Nf6 25.Be2 Rh8 26.Nf1 Rhf8 27.Ne3 Ne7 28.Be1 e5 29.g3 Nfg8
+30.Bd3 Nh6 31.Rg1 f5 32.exf5 Nhxf5 33.Nd1 Nh6 34.Qe2 Bf5 35.Nf2 Bxd3 36.Qxd3 Qc7
+37.Ne4 Qd7 38.Ng5 Rf6 39.Bd2 Nhf5 40.Ne4 Rf7 41.Ng5 Rf6 42.Qe2 Ng6 43.Kb2 Rff8
+44.Ka3 Rfe8 45.Qe4 Nf8 46.Qb1 Ne7 47.Rb2 Ng8 48.Bc1 Nf6 49.Re2 b6 50.Rge1 a6
+51.Rb2 Qa7 52.Qd3 N8d7 53.Ne6 Nf8 54.Bg5 Nxe6 55.dxe6 Rxe6 56.Reb1 Qc7 57.Qf5 Ree8
+58.Bxf6 gxf6 59.Qxh5 Rg8 60.g4 Rh8 61.Rxb6 Rxb6 62.Qxh8+ Ka7 63.Rxb6 Kxb6
+64.Qe8 Qh7 65.Qb8+  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.28"]
+[Round "9"]
+[White "Khalifman,A"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2653"]
+[BlackElo "2652"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Nf6 7.f4 Bb4 8.Bd3 Qb6
+9.O-O Bc5 10.Na4 Bxd4 11.Nxb6 Bxe3+ 12.Kh1 Bxb6 13.e5 Nd5 14.Qe1  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.28"]
+[Round "9"]
+[White "Jakovenko,D"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2739"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.Re1 Re8 14.cxd5 Qxd5 15.Bf4 Rac8
+16.Nd2 Na5 17.Nf1 Qd7 18.Ne3  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.28"]
+[Round "9"]
+[White "Bareev,E"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2675"]
+[BlackElo "2740"]
+[ECO "D97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Na6 8.Be2 c5
+9.d5 e6 10.O-O exd5 11.exd5 Nb4 12.Rd1 b6 13.Bg5 h6 14.Bxf6 Bxf6 15.Rd2 Ba6
+16.Qb3 Bxe2 17.Nxe2 Qd7 18.Qc4 Rfe8 19.Rad1 a5 20.Nc3 Na6 21.d6 Nb4 22.a3 Bxc3
+23.bxc3 Nc6 24.Rd5 Re6 25.h3 Rae8 26.Qb3 Rb8 27.a4 Rb7 28.Qc4 Kg7 29.Qf4 Rb8
+30.Qc4 Rb7 31.Qa2 Qd8 32.d7 Ne7 33.R5d3 Ng8 34.c4 Ne7 35.Qb2+ Kh7 36.Ne5 Kg8
+37.Rd6  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.29"]
+[Round "10"]
+[White "Motylev,A"]
+[Black "Bareev,E"]
+[Result "1-0"]
+[WhiteElo "2632"]
+[BlackElo "2675"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 cxd4 7.Nxd4 Ne7 8.Bg5 Qa5+
+9.Nc3 Nbc6 10.Bb5 Qc7 11.O-O Bg6 12.Qg4 a6 13.Ba4 Qc8 14.Qf3 h6 15.Bf6 Rb8
+16.Rad1 gxf6 17.exf6 b5 18.Ncxb5 axb5 19.Nxb5 Rxb5 20.Bxb5 Qb7 21.c4 Be4
+22.Qe2 Rg8 23.f3 dxc4 24.fxe7 Kxe7 25.Qxc4 Bd5 26.Rxd5 exd5 27.Qxc6 Qxc6
+28.Bxc6 Kd6 29.Bb7 Bg7 30.Rd1 Bxb2 31.Bxd5 Ke7 32.Rb1 Bd4+ 33.Kf1 Rc8 34.Rb7+ Kd6
+35.Bb3 Rc1+ 36.Ke2 f6 37.Rh7 Rg1 38.g3 Rg2+ 39.Kd3 Bg1 40.Rxh6 Ke5 41.f4+ Kf5
+42.Ba4 Ke6 43.Ke4 Bxh2 44.Bb3+ Ke7 45.Kf5 Bxg3 46.Rxf6 Rf2 47.Re6+ Kd7 48.Re4 Bh4
+49.Kg6 Be7 50.Kf7 Ba3 51.Be6+ Kd6 52.Rd4+ Kc5 53.Ra4 Bb2 54.f5 Rh2 55.f6 Rh6
+56.Rf4 Kd6 57.Bb3 Bc3 58.Rf1 Bd4 59.Rf5 Be5 60.Rf3 Bd4 61.a4 Bb2 62.Bc4 Kc5
+63.Bd3 Kb4 64.Bb5 Rh1 65.Ke6 Re1+ 66.Kd7 Rd1+ 67.Kc8 Rc1+ 68.Kb7  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.29"]
+[Round "10"]
+[White "Jakovenko,D"]
+[Black "Khalifman,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2644"]
+[BlackElo "2653"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Rb8
+9.axb5 axb5 10.h3 d6 11.c3 b4 12.d3 d5 13.exd5 Nxd5 14.Nxe5 Nxe5 15.Rxe5 Be6
+16.Bxd5 Bxd5 17.cxb4 Bf6 18.Re1 Rxb4 19.Nc3 Bb7 20.Qc2 Qd7 21.Ne4 Bd4 22.Be3 Rxb2
+23.Qc4 Bxe3 24.Rxe3 Bxe4 25.dxe4 g6 26.Rc1  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.29"]
+[Round "10"]
+[White "Tomashevsky,E"]
+[Black "Zvjaginsev,V"]
+[Result "1-0"]
+[WhiteElo "2564"]
+[BlackElo "2659"]
+[ECO "A36"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Nc6 5.Rb1 b6 6.Nf3 Bb7 7.O-O h5 8.e3 Nh6
+9.d4 Na5 10.b3 Bxf3 11.Qxf3 Nc6 12.Bb2 h4 13.Rfd1 Rc8 14.Ne2 hxg3 15.hxg3 Nf5
+16.Rd2 d6 17.Rbd1 Kf8 18.Nf4 Kg8 19.Bh3 Qd7 20.Qg2 cxd4 21.e4 Kf8 22.exf5 gxf5
+23.Qf1 e5 24.Nd5 Qe6 25.Bg2 Ke8 26.Qe2 Kd7 27.b4 Rh6 28.c5 dxc5 29.bxc5 bxc5
+30.Qb5 Bf8 31.Ba3 Rb8 32.Qc4 Qd6 33.Rc2 e4 34.Ne3 Qe6 35.Bxc5 Ke8 36.Bxd4 Nb4
+37.Rcd2 Nc6 38.Rc2 Nb4 39.Re2 Be7 40.Bxa7  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.29"]
+[Round "10"]
+[White "Svidler,P"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2707"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5
+9.Qd2 O-O 10.O-O-O a6 11.Nce2 Qe7 12.Nb3 Bxe3 13.Qxe3 f6 14.exf6 Nxf6 15.h3 a5
+16.a3 b5 17.g4 a4 18.Nbd4 Na5 19.Nxb5 Nc4 20.Qd4 Bd7 21.Nec3 Rac8 22.f5 Bxb5
+23.Nxb5 Ne4 24.Bxc4 Rxc4 25.Qe5 Nf2 26.Qxe6+ Qxe6 27.fxe6 Nxd1 28.e7 Rb8
+29.Rxd1 Re4 30.Nc3 Rxe7 31.Nxa4 Re3 32.Rxd5 Rxh3 33.c4 Rh4 34.c5 Rxg4 35.Nb6 Kf7
+36.a4 Rxb6 37.cxb6 Rxa4 38.b7 Rb4 39.Rd7+ Ke6 40.Rxg7 h5 41.Kc2 Kd6 42.Kc3 Rb5
+43.Rh7  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.29"]
+[Round "10"]
+[White "Kramnik,V"]
+[Black "Dreev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2694"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 a6 6.c5 b6 7.cxb6 Nbd7 8.Bd3 c5 9.O-O Qxb6
+10.b3 cxd4 11.exd4 Bd6 12.Bb2 O-O 13.Qe2 Bb7 14.Na4 Qa7 15.Ne5 Rac8 16.Kh1 Be7
+17.Rae1 Bb4 18.Rd1 a5 19.a3 Be7 20.Rde1 Qb8 21.Bb5 Rc7 22.Nxd7  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.29"]
+[Round "10"]
+[White "Rublevsky,S"]
+[Black "Volkov,S1"]
+[Result "1/2-1/2"]
+[WhiteElo "2652"]
+[BlackElo "2614"]
+[ECO "C03"]
+
+1.e4 e6 2.d4 d5 3.Nd2 a6 4.Bd3 c5 5.dxc5 Nf6 6.exd5 Qxd5 7.Ngf3 Bxc5 8.Qe2 Nbd7
+9.Ne4 b5 10.O-O Bb7 11.Nxf6+ gxf6 12.Re1 Ne5 13.Be4 Qxe4 14.Qxe4 Bxe4 15.Rxe4 Nxf3+
+16.gxf3 O-O-O 17.Bf4 e5 18.Be3 Bxe3 19.Rxe3 Rd2 20.Rc1 Kb7 21.Kf1 Rc8 22.Re2 Rd4
+23.Re4 Rxe4 24.fxe4 Rc4 25.f3 f5 26.exf5 Rf4 27.Ke2 Rxf5 28.Rg1 Kc6 29.Rg7 h6
+30.Rh7 Rf6 31.Ke3 Kd5 32.Rh8 Rg6  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.30"]
+[Round "11"]
+[White "Zvjaginsev,V"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2659"]
+[BlackElo "2652"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.d3 b6 5.g3 Bb7 6.Bg2 d6 7.O-O g6 8.Nfd2 Nc6 9.a4 Bg7
+10.a5 O-O 11.e5 Nd5 12.exd6 Qxd6 13.Na3 Qd7 14.Nac4 Nce7 15.Qb3 Qc7 16.Ne4 Bc6
+17.Bg5 Nf5  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.30"]
+[Round "11"]
+[White "Morozevich,A"]
+[Black "Motylev,A"]
+[Result "1-0"]
+[WhiteElo "2707"]
+[BlackElo "2632"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.d3 d5 5.cxd5 Nxd5 6.g3 Nb6 7.Bg2 Be7 8.O-O O-O
+9.a3 a5 10.Be3 Re8 11.Rc1 h6 12.Bxb6 cxb6 13.Nd2 Bf8 14.Nc4 a4 15.Nd2 Nd4
+16.e3 Ne6 17.Nxa4 b5 18.Nc3 Qxd3 19.Nd5 Qg6 20.Qe2 Rd8 21.Qxb5 Bd7 22.Qxb7 Rab8
+23.Qa7 Ng5 24.h4 Nh3+ 25.Kh2 Rxb2 26.Qc7 Rbb8 27.Nc4 Rbc8 28.Qxe5 Re8 29.Qb2 Qh5
+30.Ncb6 Rxc1 31.Nxd7 Qxd5 32.Bxd5 Rxf1 33.Kxh3  1-0
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.30"]
+[Round "11"]
+[White "Dreev,A"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2694"]
+[BlackElo "2740"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Bd2 Bg7 6.e4 Nb6 7.Be3 O-O 8.Bb5 a6
+9.Be2 f5 10.exf5 Bxf5 11.Bf3 Nc6 12.Nge2 Qd6 13.O-O Rad8 14.Qb3+  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.30"]
+[Round "11"]
+[White "Khalifman,A"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2653"]
+[BlackElo "2739"]
+[ECO "E08"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Be7 5.Bg2 d5 6.Nf3 O-O 7.O-O c6 8.Qc2 b6
+9.Bf4 Nbd7 10.Rd1 Bb7 11.Nc3 dxc4 12.Nd2 Nd5 13.Nxc4 Nxf4 14.gxf4 Qc7 15.e3 Rac8
+16.Rac1  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.30"]
+[Round "11"]
+[White "Bareev,E"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2675"]
+[BlackElo "2564"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 b6 8.Bf4 Bb7
+9.Rd1 Nc6 10.e4 Ne7 11.Bg5 Ng6 12.h4 h6 13.Bxf6 Qxf6 14.b4 Be7 15.h5 Ne5
+16.Nxe5 Qxe5 17.Rxd7 Bf6 18.Rxb7  1/2-1/2
+
+[Event "ch-RUS Superfinal"]
+[Site "Moscow RUS"]
+[Date "2005.12.30"]
+[Round "11"]
+[White "Volkov,S1"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2614"]
+[BlackElo "2644"]
+[ECO "E27"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 O-O 5.a3 Bxc3+ 6.bxc3 Nh5 7.g3 f5 8.e4 b6
+9.Nh3 d6 10.Bd3 Nf6 11.exf5 exf5 12.O-O Nc6 13.Qc2 Na5 14.Re1 d5 15.c5 bxc5
+16.dxc5 d4 17.Nf4 Nc6 18.Bb2 Rb8 19.cxd4 Kh8 20.Qf2 Nd5 21.Bc4 Nxf4 22.gxf4 Ne7
+23.d5 Nxd5 24.Be5 Be6 25.c6 Nxf4 26.Bxf4 Bxc4 27.Rac1 Qd5 28.Qg3 Rf6 29.Bxc7 Rc8
+30.Qf4 Rxc6 31.Be5 Qf7 32.Kh1 Bd5 33.Rcd1 Rg6 34.Rd3 h6 35.Red1 Rd8 36.h3 Rd7
+37.Kh2 Bc6 38.Rxd7 Bxd7 39.Rd2 Kh7 40.h4 Bc6 41.Rg2 Rxg2+ 42.Kxg2 a5 43.Kg3 a4
+44.Bb2 Qd5 45.Qe3 Kg6 46.Kf2 Qd7 47.Qd4 Qb7 48.Qe5 Qd7 49.Bd4 Kh5 50.Kg3 Kg6
+51.Bb2 Bb7 52.Qd4 Qc7+ 53.Qe5 Qf7 54.Kf4 Qd7 55.Kg3 Kh7 56.Bd4 Qf7 57.Kf4 Bc8
+58.Kg3 Bd7 59.Bc3 Bc8 60.Bd4 Qf8 61.Bb2 Bd7 62.Bc1 Be8 63.Bb2 Bh5 64.Qc7 Qg8
+65.Bc3 Qf8 66.Bb2 Bf7 67.Qe5 Bg6 68.Qc7 Bh5 69.Kf2 Bf7 70.Kg3 Be6 71.Bd4 Kg6
+72.Bb2 Bf7 73.Qe5 Be8 74.Qc7 Kh7 75.Kf2 Kg8 76.Qc4+ Kh8 77.Qc7 Kh7 78.Kg3 Bg6
+79.Kf2 f4 80.Bc1  1/2-1/2

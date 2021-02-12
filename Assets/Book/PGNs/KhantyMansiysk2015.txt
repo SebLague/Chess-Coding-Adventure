@@ -1,0 +1,1724 @@
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.14"]
+[Round "1.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2744"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "623539"]
+[BlackFideId "2805677"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Ng6 7. Be3 Be7 8.
+Be2 O-O 9. Nc3 a6 10. a4 Qc7 11. Nb3 b6 12. f4 Bb7 13. Qd2 Rad8 14. Bd3 d5 15.
+exd5 exd5 16. f5 Nge5 17. f6 Bxf6 18. Rxf6 d4 19. Rxc6 Nxc6 20. Nxd4 Nxd4 21.
+Bxd4 Rxd4 22. Bxh7+ Kxh7 23. Qxd4 Re8 24. Rd1 Re6 25. Rd3 Rg6 26. Rg3 Rxg3 27.
+Qh4+ Kg8 28. hxg3 Qc6 29. Qd8+ Kh7 30. Qh4+ Kg8 31. Qd8+ Kh7 32. Qd3+ Kg8 33.
+Qd8+ 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.14"]
+[Round "1.2"]
+[White "Jobava, Baadur"]
+[Black "Tomashevsky, Evgeny"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2699"]
+[BlackElo "2749"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "accelerated Meran (Alekhine variation)"]
+[WhiteFideId "13601520"]
+[BlackFideId "4147235"]
+[EventDate "2015.05.14"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. e3 e6 6. b3 c5 7. Bb2 cxd4 8. exd4 Be7
+9. Bd3 Nc6 10. O-O O-O 11. Rc1 Bd7 12. Re1 Re8 13. c5 Qc7 14. a3 Bf8 15. b4 Rad8
+16. h3 g6 17. Rb1 Bg7 18. b5 Na5 19. a4 Bc8 20. Bc1 h6 21. Qc2 Nc4 22. Bxc4 dxc4
+23. Rb4 e5 24. b6 Qb8 25. Rxe5 Rxe5 26. dxe5 Bf5 27. Qe2 Bd3 28. Qe3 Nd7 29. Nd5
+Nxe5 30. Ne7+ Kh7 31. c6 Nxf3+ 32. gxf3 Qd6 33. Ba3 bxc6 34. b7 Rb8 35. Nc8 Qd7
+36. Qe7 Qxh3 37. Qxf7 Qf1+ 38. Kh2 Qxf2+ 39. Kh1 Be2 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.14"]
+[Round "1.3"]
+[White "Grischuk, Alexander"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2734"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Haberditz variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "4102142"]
+[EventDate "2015.05.14"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. bxc4 bxc4 8. Bxc4
+Nf6 9. O-O Nbd7 10. Nbd2 Be7 11. Rb1 Rb8 12. Qe2 O-O 13. Bxa6 Bxa6 14. Qxa6 Rxb1
+15. Nxb1 Qa8 16. Qxa8 Rxa8 17. Ba3 Bxa3 18. Nxa3 Rxa4 19. Nb1 c5 20. dxc5 Nxc5
+21. Nc3 Ra3 22. Nb1 Ra1 23. Nbd2 Rxf1+ 24. Kxf1 Kf8 25. Ne5 Nfd7 26. Nxd7+ Nxd7
+27. Ke2 Ke7 28. Ne4 h6 29. h3 Nf6 30. Nd2 Nd7 31. Ne4 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.14"]
+[Round "1.4"]
+[White "Caruana, Fabiano"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2734"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "3503240"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. Bf4 Ng6 13. Bh2 Be7 14. Nd4 Nf8
+15. Rd3 h5 16. Re1 Ne6 17. Nce2 c5 18. Nf5 h4 19. c4 b6 20. Red1 Rh5 21. Ne3 Bb7
+22. Nd5 Bg5 23. f3 Rd8 24. Kf2 Bc6 25. Nef4 Bxf4 26. Nxf4 Rxd3 27. Rxd3 Rf5 28.
+Nxe6 fxe6 29. Ke1 a5 30. Re3 Kf7 31. Kd2 Kg6 32. Kc3 Rf7 33. Rd3 Rd7 34. Rxd7
+Bxd7 35. Bg1 Kh5 36. Be3 Be8 37. b3 Bg6 38. a4 Bf5 39. Bd2 Bg6 40. Be3 Bf5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.14"]
+[Round "1.5"]
+[White "Jakovenko, Dmitry"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2776"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4122356"]
+[BlackFideId "24116068"]
+[EventDate "2015.05.14"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. Qa4+ Nc6 6. Ne5 Bd7 7. Nxd7 Qxd7 8.
+e3 O-O 9. a3 Bxc3+ 10. bxc3 e5 11. Be2 Rfe8 12. Bb2 dxc4 13. Qxc4 Na5 14. Qb4 b6
+15. dxe5 Nc6 16. Qf4 Nxe5 17. Rd1 Qc6 18. O-O Ne4 19. c4 Nxc4 20. Rc1 b5 21.
+Bxc4 bxc4 22. f3 Nf6 23. Rxc4 Qe6 24. Bxf6 Qxf6 25. Qxf6 gxf6 26. Kf2 Rab8 27.
+Rfc1 Rb3 28. R1c3 Reb8 29. Rxc7 a5 30. g4 a4 31. Ke2 h5 32. gxh5 Rb2+ 33. Kd3
+Rd8+ 34. Ke4 Rxh2 35. Rc8 Rxc8 36. Rxc8+ Kg7 37. Ra8 Rxh5 38. Rxa4 f5+ 39. Kd3
+Rh1 40. Rc4 Kf6 41. f4 Ke6 42. Rc6+ Ke7 43. Kc2 Re1 44. Rc3 Kd6 45. a4 Ra1 46.
+Kb3 Rb1+ 47. Ka2 Rb8 48. Ka3 Ra8 49. Rb3 Re8 50. Rc3 Ra8 51. Kb4 Rb8+ 52. Kc4
+Rc8+ 53. Kd4 Ra8 54. Ra3 Ra5 55. Kc4 Kc6 56. Kb4 Rd5 57. Rc3+ Kb6 58. Rc8 Rd3
+59. a5+ Kb7 60. Rc3 Rd1 61. Rc5 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.14"]
+[Round "1.6"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2799"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, 7...O-O"]
+[WhiteFideId "14109603"]
+[BlackFideId "2016192"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. g4 Be6 10. O-O-O Nxd4 11. Bxd4 Qa5 12. Kb1 Rfc8 13. a3 Rab8 14. h4 b5 15.
+Nd5 Qxd2 16. Rxd2 Bxd5 17. exd5 a5 18. h5 Nd7 19. g5 Ne5 20. Be2 Nc4 21. Rdd1 b4
+22. a4 Rc7 23. f4 Rf8 24. Rh3 Bxd4 25. Rxd4 Nb6 26. b3 Rc5 27. Rhd3 Rfc8 28. c4
+bxc3 29. Kc2 Kf8 30. Bg4 R8c7 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.15"]
+[Round "2.1"]
+[White "Svidler, Peter"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2803"]
+[ECO "D57"]
+[Opening "QGD"]
+[Variation "Lasker defence, main line"]
+[WhiteFideId "4102142"]
+[BlackFideId "2020009"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. cxd5 Nxc3 10. bxc3 exd5 11. c4 Be6 12. Rc1 Nd7 13. Qb3 c6 14. Be2 Nb6
+15. cxd5 Bxd5 16. Qb2 Na4 17. Qd2 b5 18. Ne5 Rac8 19. O-O b4 20. Ba6 Rc7 21. Nd3
+Rb8 22. Nc5 Nxc5 23. Rxc5 Qg5 24. g3 Qg4 25. Bc4 Bf3 26. Rc1 Rcb7 27. Qd3 g6 28.
+Bb3 Be4 29. Qd1 Qd7 30. f3 Bd5 31. e4 Bxb3 32. axb3 Rb6 33. Qd3 Rd8 34. d5 cxd5
+35. Rxd5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.15"]
+[Round "2.2"]
+[White "Gelfand, Boris"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2799"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, bayonet attack"]
+[WhiteFideId "2805677"]
+[BlackFideId "2016192"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. b4 Nh5 10. g3 f5 11. Ng5 Nf6 12. Bf3 fxe4 13. Ncxe4 h6 14. Ne6 Bxe6 15. dxe6
+Qc8 16. Be3 Ne8 17. Bg2 Qxe6 18. Qb3 Kh7 19. b5 Nf5 20. Rad1 a6 21. Nc3 axb5 22.
+cxb5 Qxb3 23. axb3 Ra3 24. Rb1 Nxe3 25. fxe3 Rxf1+ 26. Kxf1 e4 27. Nxe4 Ra5 28.
+b6 c6 29. Rd1 d5 30. b4 Rb5 31. Nc5 Rxb4 32. e4 d4 33. e5 Rxb6 34. Rxd4 Rb1+ 35.
+Ke2 Rb2+ 36. Kf1 Bxe5 37. Re4 Bd6 38. Nxb7 Rb1+ 39. Re1 Rxe1+ 40. Kxe1 Bb4+ 41.
+Ke2 c5 42. Kd3 Nf6 43. Bf3 Nd7 44. Be2 Be1 45. Nd6 Bf2 46. Ke4 Bg1 47. Kf3 Ne5+
+48. Kg2 Bd4 49. Nc4 g5 50. Nxe5 Bxe5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.15"]
+[Round "2.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Jobava, Baadur"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2699"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "623539"]
+[BlackFideId "13601520"]
+[EventDate "2015.05.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 f6 6. O-O fxe5 7. dxe5 Bc5 8. Nbd2
+Ne7 9. Nb3 Bb6 10. Nfd4 O-O 11. c4 Nd7 12. g4 Bxd4 13. Nxd4 c5 14. Nb5 Bg6 15.
+f4 Nb6 16. b3 Be8 17. Nd6 Bc6 18. Be3 d4 19. Bd2 Nbc8 20. Nxc8 Qxc8 21. Bd3 Be8
+22. Be4 a5 23. a4 Ra7 24. Qe1 b6 25. Qg3 Bg6 26. Bg2 Be8 27. Be4 Bg6 28. Bg2 Bc2
+29. Rae1 Qe8 30. f5 exf5 31. e6 h6 32. h3 Kh7 33. Rf2 fxg4 34. Rxf8 Qxf8 35.
+hxg4 Qd8 36. Rf1 Bg6 37. Qe5 Qc7 38. Bf4 Qxe5 39. Bxe5 Ng8 40. Bd6 Nf6 41. Bc6
+Nxg4 42. e7 Nf6 43. Rf4 d3 44. Kf2 Ne8 45. Bxe8 Bxe8 46. Rf8 d2 47. Ke2 Rd7 48.
+Rxe8 d1=Q+ 49. Kxd1 Rxd6+ 50. Ke2 Re6+ 51. Kf3 g5 52. Rb8 Rxe7 53. Rxb6 h5 54.
+Rc6 Rf7+ 55. Kg2 h4 56. Rxc5 Kg6 57. Rxa5 g4 58. Ra8 Rf3 59. Rg8+ Kf5 60. Rf8+
+Ke4 61. Re8+ Kf4 62. Rf8+ Ke3 63. Re8+ Kd2 64. Rg8 h3+ 65. Kh2 Rf2+ 66. Kh1 Rf1+
+67. Kh2 Rf2+ 68. Kh1 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.15"]
+[Round "2.4"]
+[White "Dominguez Perez, Leinier"]
+[Black "Jakovenko, Dmitry"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2738"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "3503240"]
+[BlackFideId "4122356"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. g3 dxc4 6. Bg2 Nbd7 7. a4 Bb4 8. O-O
+O-O 9. Qc2 Qe7 10. a5 e5 11. Rd1 a6 12. d5 Nc5 13. Be3 Nb3 14. Ra4 c5 15. d6 Qe8
+16. Rxb4 cxb4 17. Nd5 Nxd5 18. Rxd5 Nd4 19. Bxd4 exd4 20. Rxd4 b3 21. Qxc4 Be6
+22. Qd3 Qc6 23. Qd2 Rac8 24. Ne1 Qc1 25. f4 Qb1 26. Kf2 Rc2 27. Qb4 Re8 28. Be4
+Bg4 29. Nxc2 bxc2 30. Qa4 Kf8 31. d7 Bxd7 32. Rxd7 c1=Q 33. Qa3+ Kg8 34. Bxb1 g6
+35. Qb3 Qc5+ 36. e3 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.15"]
+[Round "2.5"]
+[White "Tomashevsky, Evgeny"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2780"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[WhiteFideId "4147235"]
+[BlackFideId "4126025"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 Nh5 8. g3 Qe7
+9. Nh2 Na6 10. Be3 Nc5 11. h4 a5 12. Be2 Nf6 13. Qc2 c6 14. g4 Na6 15. g5 Ne8
+16. h5 Nb4 17. Qd2 cxd5 18. cxd5 Bd7 19. O-O-O f5 20. Kb1 b5 21. hxg6 hxg6 22.
+f3 Nc7 23. Rc1 Nba6 24. Bd3 b4 25. Ne2 Nb5 26. Rc6 Rfb8 27. Rhc1 f4 28. Bf2 Bf8
+29. Ng4 Qxg5 30. Rh1 Qe7 31. Bxb5 Rxb5 32. Nxf4 Bxg4 33. Nxg6 Qf6 34. Nxf8 Rxf8
+35. Rg1 Qxf3 36. Qg5+ Kf7 37. Rxg4 Ke8 38. Qg6+ Qf7 39. Qxf7+ Rxf7 40. Be3 Nc5
+41. Rg8+ Kd7 42. Ra8 Rb7 43. Bxc5 dxc5 44. Rxc5 Rf1+ 45. Rc1 Rxc1+ 46. Kxc1 b3
+47. a3 Rc7+ 48. Kd2 Rc2+ 49. Kd3 Rxb2 50. Rxa5 Rh2 51. Rb5 Rh3+ 52. Kd2 Kd6 53.
+a4 Rh2+ 54. Kc3 Rh3+ 55. Kd2 Rh2+ 56. Kc3 Rh3+ 57. Kc4 Re3 58. Rb6+ Kc7 59. Rxb3
+Rxe4+ 60. Kc5 Rxa4 61. d6+ Kd7 62. Rb7+ Ke6 63. Re7+ Kf5 64. d7 Rd4 65. Kc6 e4
+66. Re8 Kf4 67. d8=Q Rxd8 68. Rxd8 e3 69. Kd5 e2 70. Re8 Kf3 71. Kd4 Kf2 72. Kd3
+e1=Q 73. Rxe1 Kxe1 74. Kd4 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.15"]
+[Round "2.6"]
+[White "Giri, Anish"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2753"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2015.05.14"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. e4 Be7 6. Nc3 d6 7. d3 O-O 8. h3 Rb8
+9. Nh2 Bd7 10. Ng4 Qc8 11. Nxf6+ Bxf6 12. Kh2 Be6 13. f4 exf4 14. gxf4 Bxc3 15.
+bxc3 f5 16. Be3 Qc7 17. Qd2 fxe4 18. dxe4 Na5 19. Bf2 Nc4 20. Qc1 Bd7 21. f5 Bc6
+22. Bh4 Rbe8 23. Qf4 Qa5 24. f6 Rf7 25. Qg3 Nd2 26. Rf4 Nxe4 27. Bxe4 Rxe4 28.
+Rxe4 Bxe4 29. Re1 Bc6 30. Qxd6 Qc7 31. Qxc7 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.16"]
+[Round "3.1"]
+[White "Jobava, Baadur"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2699"]
+[BlackElo "2744"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[WhiteFideId "13601520"]
+[BlackFideId "2805677"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+ Bd7 6. Qa3 dxc4 7. e4 b5 8. e5
+Ng4 9. h3 Nh6 10. b3 a5 11. Qb2 b4 12. Ne4 c3 13. Qc2 O-O 14. Bc4 Bc6 15. h4 Nf5
+16. Qd3 Nd7 17. h5 Nxe5 18. dxe5 Qxd3 19. Bxd3 a4 20. hxg6 hxg6 21. bxa4 Rfd8
+22. Bc2 Bxa4 23. Bxa4 Rxa4 24. O-O Ra5 25. Rb1 c5 26. a3 bxa3 27. Nxc3 Nd4 28.
+Bf4 a2 29. Ra1 Rda8 30. Rfd1 g5 31. Nxg5 f6 32. Nge4 Nb3 33. Rxa2 Rxa2 34. Nxa2
+Rxa2 35. exf6 Bxf6 36. Rd7 Kf7 37. Rc7 Nd4 38. Bg3 Ne2+ 39. Kh2 Nxg3 40. fxg3
+Bd4 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.16"]
+[Round "3.2"]
+[White "Grischuk, Alexander"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2754"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "623539"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 d5 7. Bg5 d4 8. c3 Nc6
+9. cxd4 exd4 10. Bb5 Bb4+ 11. Bd2 Bd6 12. Na3 O-O 13. Nc4 Be6 14. Nxd6 Qxd6 15.
+O-O a6 16. Bxc6 bxc6 17. Rc1 Nd7 18. Nc5 Nxc5 19. Bb4 Rfd8 20. Bxc5 Qb8 21. b3
+a5 22. Rf2 Qb5 23. Rd2 a4 24. Bxd4 axb3 25. axb3 Bxb3 26. Qe1 f6 27. Qe3 Ra2 28.
+Rxa2 Bxa2 29. Qa3 Bf7 30. h3 h6 31. Qc3 Qa4 32. Bf2 Rd1+ 33. Rxd1 Qxd1+ 34. Kh2
+Qd6+ 35. Bg3 Qe6 36. Qd4 Kh7 37. Bd6 Qd7 38. f4 f5 39. exf5 Qxf5 40. Be5 Bd5 41.
+Qa7 Qf7 42. Qxf7 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.16"]
+[Round "3.3"]
+[White "Caruana, Fabiano"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2749"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[WhiteFideId "2020009"]
+[BlackFideId "4147235"]
+[EventDate "2015.05.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. Bf4 a5 7. e3 Be7 8. g4 Na6 9.
+g5 Nd7 10. h4 Nb4 11. Be2 b6 12. h5 Bb7 13. cxd5 exd5 14. Qd2 f5 15. gxf6 Bxf6
+16. h6 g6 17. e4 dxe4 18. Nxe4 O-O 19. O-O-O Nd5 20. Bg3 Ba6 21. Bxa6 Rxa6 22.
+Rhe1 Ra8 23. Kb1 Be7 24. Qd3 Rf5 25. Ne5 Qc8 26. Nc3 Nxc3+ 27. Qxc3 Nxe5 28.
+Qb3+ Rf7 29. dxe5 Qf5+ 30. Ka2 Bb4 31. e6 Re7 32. Bh4 Ree8 33. e7+ Qf7 34. Re6
+b5 35. Rd8 bxa4 36. Qe3 Bxe7 37. Rxa8 Rxa8 38. Bxe7 Re8 39. Ka1 a3 40. bxa3 Qf5
+41. Qc3 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.16"]
+[Round "3.4"]
+[White "Jakovenko, Dmitry"]
+[Black "Svidler, Peter"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2734"]
+[ECO "C69"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation, 5.O-O"]
+[WhiteFideId "4122356"]
+[BlackFideId "4102142"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Bd7 9. Nc3 Be7 10. Bxe7 Nxe7 11. Nde2 O-O-O 12. Qc1 Bg4 13. Nf4 Ng6 14. Nd3
+f6 15. Qe3 Kb8 16. f4 Bc8 17. Rad1 Qe7 18. Rde1 b6 19. Qg3 Rd4 20. Ne2 Ra4 21.
+c3 c5 22. f5 Rxe4 23. fxg6 Rxe2 24. Rxe2 Qxe2 25. Re1 Qg4 26. Qxg4 Bxg4 27. gxh7
+Rxh7 28. Nf4 Kc8 29. h3 Bd7 30. Kf2 Kd8 31. Ne6+ Bxe6 32. Rxe6 Rh5 33. Re2 Kd7
+34. Rd2+ Ke6 35. Rd8 c4 36. Ke3 Rb5 37. Rd2 Re5+ 38. Kf3 Ra5 39. a3 Rf5+ 40. Ke3
+Re5+ 41. Kf3 Rf5+ 42. Ke3 c6 43. Re2 b5 44. Rd2 Rd5 45. Re2 Kf5 46. Rf2+ Ke5 47.
+Kf3 Rd3+ 48. Kg4 Re3 49. Rf5+ Ke4 50. Rf2 f5+ 51. Rxf5 Re2 52. g3 Rxb2 53. Rg5
+Kd3 54. Rxg7 Kxc3 55. Rc7 a5 56. Rxc6 b4 57. axb4 axb4 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.16"]
+[Round "3.5"]
+[White "Karjakin, Sergey"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2734"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack, French variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "3503240"]
+[EventDate "2015.05.14"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1
+b5 9. e5 Nd7 10. Nf1 Bb7 11. h4 Qc7 12. Bf4 Rfc8 13. Ne3 Qd8 14. Ng4 Bf8 15. c4
+Ne7 16. b3 Bc6 17. h5 h6 18. Ne3 Nb6 19. Qe2 bxc4 20. dxc4 dxc4 21. bxc4 Na4 22.
+Qc2 Rab8 23. Reb1 Qa5 24. Rb3 Nb6 25. Qe2 Nd7 26. Rab1 Qc7 27. g4 Be4 28. Rxb8
+Rxb8 29. Rxb8 Qxb8 30. Nf1 Bc6 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.16"]
+[Round "3.6"]
+[White "Nakamura, Hikaru"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2776"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "2016192"]
+[BlackFideId "24116068"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nbd2 Nxe4 8.
+d5 Nxd2 9. Bxd2 Bxd2+ 10. Qxd2 Ne7 11. d6 cxd6 12. O-O d5 13. Bxd5 O-O 14. Rad1
+Nxd5 15. Qxd5 d6 16. Qxd6 Qxd6 17. Rxd6 Be6 18. a3 Rfd8 19. Rd4 Rxd4 20. Nxd4
+Rd8 21. Rd1 f6 22. f3 Kf7 23. Kf2 Rd5 24. Ke3 Re5+ 25. Kd3 Rc5 26. Re1 Bd7 27.
+Kd2 Rd5 28. Kc3 Rc5+ 29. Kd2 Rd5 30. Kc3 Rc5+ 31. Kd2 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.17"]
+[Round "4.1"]
+[White "Gelfand, Boris"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2776"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "24116068"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Ne4 Qe7 12. Nxd4 Bd7 13. Bd3 Nc6 14. Nb3 Na5
+15. Rc7 Rfd8 16. a3 Nxb3 17. Qxb3 Ba5 18. Rxb7 Ba4 19. Rxe7 Bxb3 20. Nc5 Bb6 21.
+Nxb3 Rxd3 22. Nd4 Bxd4 23. exd4 Rb8 24. Rxa7 Rxb2 25. Ra4 Ra2 26. h4 g6 27. g3
+Kg7 28. Kg2 g5 29. hxg5 hxg5 30. g4 Kf6 31. Re1 Rdd2 32. Rf1 Rd3 33. Re1 Rdxa3
+34. Rxa3 Rxa3 35. Rd1 Ke7 36. d5 e5 37. Rb1 Rd3 38. Rb7+ Kf6 39. Rb6+ Ke7 40.
+Rb7+ 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.17"]
+[Round "4.2"]
+[White "Dominguez Perez, Leinier"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2799"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "2016192"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 Be7 8. Be3
+Nf6 9. Nc4 b5 10. Nb6 Rb8 11. Nxc8 Qxc8 12. Be2 O-O 13. O-O b4 14. Nd5 Nxe4 15.
+a3 Bd8 16. axb4 Nxb4 17. Nxb4 Rxb4 18. Bxa6 Qc6 19. Bd3 Rxb2 20. Ra6 Qb7 21. Ra7
+Qc6 22. Ra6 Qb7 23. Ra7 Qc6 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.17"]
+[Round "4.3"]
+[White "Svidler, Peter"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2753"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "4102142"]
+[BlackFideId "14109603"]
+[EventDate "2015.05.14"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. d4 cxd4 5. Nxd4 e5 6. Nb3 d5 7. Bg5 Be6 8. O-O
+Be7 9. Bxf6 Bxf6 10. c4 dxc4 11. Nc5 e4 12. Nd2 Bxb2 13. Nxe6 fxe6 14. Rb1 c3
+15. Bxe4 Qxd2 16. Qxd2 cxd2 17. Rxb2 O-O-O 18. Rd1 Rd4 19. f3 Rhd8 20. Bxh7 Ne5
+21. h4 a6 22. Rc2+ Kb8 23. h5 Rh8 24. Be4 Rxh5 25. Rcxd2 Rxd2 26. Rxd2 Kc7 27.
+Kg2 Nc4 28. Rd4 Nd6 29. Bc2 Rc5 30. Bb3 Kd7 31. Rg4 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.17"]
+[Round "4.4"]
+[White "Tomashevsky, Evgeny"]
+[Black "Jakovenko, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2738"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "4147235"]
+[BlackFideId "4122356"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Bg2 c6 7. Nf3 Nbd7 8.
+O-O b6 9. Rc1 O-O 10. Ne5 Bb7 11. cxd5 cxd5 12. Nc3 a6 13. Na4 Qb8 14. Qf4 Nh5
+15. Qg5 Nhf6 16. Nxd7 Nxd7 17. Qe7 Ra7 18. Qxd7 Ba8 19. Nxb6 Qxb6 20. Qa4 Qxb2
+21. e3 Rb8 22. Bf1 g6 23. Bd3 Qd2 24. Qa3 a5 25. Rc2 Qb4 26. Qc1 Qd6 27. a4 Kg7
+28. Bb5 Re7 29. Rc5 Bb7 30. Qc3 Ra8 31. Rc1 Qd8 32. h4 Ba6 33. Bxa6 Rxa6 34. Rb1
+Raa7 35. Rbb5 Reb7 36. Rxb7 Rxb7 37. Rxa5 Rb1+ 38. Kg2 Qb8 39. Qc5 Ra1 40. Rb5
+Qd8 41. a5 Ra2 42. Qc3 h5 43. Rb6 Ra4 44. Rb5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.17"]
+[Round "4.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2803"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2020009"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Rc1 c6 8. e3
+Qa5 9. Bd3 Ne4 10. O-O Nxg5 11. Nxg5 Nf6 12. Qc2 h6 13. Nf3 Bd6 14. Ne5 Ng4 15.
+Nf3 Nf6 16. h3 O-O 17. Ne5 a6 18. f4 c5 19. g4 cxd4 20. exd4 Be6 21. Qb3 b5 22.
+f5 Qb6 23. Nf3 Bc8 24. Kg2 Bb7 25. Na4 Qa7 26. Nc5 Rac8 27. a4 Bxc5 28. dxc5 d4
+29. axb5 axb5 30. Qxb5 Bc6 31. Qb6 Qd7 32. Kg1 Rfe8 33. Rce1 Rxe1 34. Nxe1 Re8
+35. Ng2 Nd5 36. Qb3 Ne3 37. Nxe3 dxe3 38. Qc4 Qc7 39. Qf4 Qxf4 40. Rxf4 e2 41.
+Bxe2 Rxe2 42. Rb4 Rg2+ 43. Kf1 Rc2 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.17"]
+[Round "4.6"]
+[White "Jobava, Baadur"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2699"]
+[BlackElo "2780"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "13601520"]
+[BlackFideId "4126025"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. h3 O-O 10. O-O f6 11. Bxc6 bxc6 12. Be3 fxe5 13. Nxe5 Ba6 14. Re1 Ba5 15.
+Nxc6 Qh4 16. Nxa5 Rxf2 17. Nc3 Rxg2+ 18. Kxg2 Qg3+ 19. Kh1 Qxh3+ 20. Kg1 Qg3+
+21. Kh1 Qh3+ 22. Kg1 Qg3+ 23. Kh1 Qh3+ 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.19"]
+[Round "5.1"]
+[White "Grischuk, Alexander"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2744"]
+[ECO "B53"]
+[Opening "Sicilian, Chekhover variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "2805677"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Qd3 Nf6 7. Bg5 Ng4 8. h3
+Nge5 9. Nxe5 Nxe5 10. Bxd7+ Qxd7 11. Qb3 e6 12. Na3 Be7 13. Bxe7 Qxe7 14. Qb5+
+Nc6 15. O-O-O O-O 16. Rd2 Rad8 17. Rhd1 a6 18. Qb6 d5 19. exd5 Rxd5 20. Rxd5
+exd5 21. Rxd5 Nb4 22. Rd1 Nxa2+ 23. Kb1 Nb4 24. Qd6 Qe2 25. Rd2 Qe1+ 26. Rd1 Qe2
+27. Rd2 Qe1+ 28. Rd1 Qe2 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.19"]
+[Round "5.2"]
+[White "Caruana, Fabiano"]
+[Black "Jobava, Baadur"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2699"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "13601520"]
+[EventDate "2015.05.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 f6 6. O-O fxe5 7. Nxe5 Nd7 8. Bd3
+Ngf6 9. Re1 Be7 10. Nf3 Ne4 11. Nc3 Ndf6 12. Bg5 O-O 13. Nxe4 dxe4 14. Bxf6 exd3
+15. Bxe7 Qxe7 16. c3 c5 17. dxc5 Qxc5 18. Qd2 Bg4 19. Qxd3 Bxf3 20. gxf3 Qg5+
+21. Kh1 Rad8 22. Qe4 Qf5 23. Qxf5 Rxf5 24. Rad1 Rfd5 25. Rxd5 Rxd5 26. Re2 Kf7
+27. f4 Rd1+ 28. Kg2 Rb1 29. Kf3 g6 30. b3 Rc1 31. c4 Rc3+ 32. Ke4 Ke7 33. Rd2
+Rc1 34. Kf3 b6 35. Rd3 Ra1 36. a4 Ra2 37. Ke3 a5 38. Kf3 Rb2 39. h3 Rc2 40. Kg3
+Rb2 41. Re3 Kf6 42. f3 Ke7 43. Kh4 h6 44. Kg3 Rb1 45. h4 h5 46. Rc3 Kd6 47. f5
+gxf5 48. Kf4 Ke7 49. c5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.19"]
+[Round "5.3"]
+[White "Jakovenko, Dmitry"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2754"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4122356"]
+[BlackFideId "623539"]
+[EventDate "2015.05.14"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 O-O 7. h4 e5 8. Nxd5
+Qxd5 9. d3 Nc6 10. h5 Bg4 11. hxg6 hxg6 12. Rh4 Qd7 13. Qa4 Be6 14. Rh2 Ne7 15.
+Qxd7 Bxd7 16. Bh6 Bxh6 17. Nxe5 Bb5 18. Rxh6 Nf5 19. Rh2 Rfe8 20. Ng4 Nd4 21.
+Nf6+ Kg7 22. Nxe8+ Rxe8 23. Kf1 Nxe2 24. Bxb7 Bxd3 25. Kg2 Rb8 26. Rd1 Bf5 27.
+Rd2 Nxg3 28. Kxg3 Rxb7 29. Rh4 Be6 30. b3 c6 31. Rd8 Rb5 32. Ra4 Rc5 33. Kf3
+Bd5+ 34. Ke3 Rc2 35. Rxa7 g5 36. Rd6 Rb2 37. Ra4 f6 38. b4 Kg6 39. a3 Kf5 40.
+Ra5 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.19"]
+[Round "5.4"]
+[White "Karjakin, Sergey"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2749"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "14109603"]
+[BlackFideId "4147235"]
+[EventDate "2015.05.14"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. c4 Bf5 5. O-O e6 6. cxd5 exd5 7. d3 Bc5 8. Qb3
+Bb6 9. Nc3 O-O 10. Na4 Re8 11. Bf4 Nbd7 12. Nxb6 axb6 13. Qc2 b5 14. Nd4 Bg6 15.
+b4 Qe7 16. a3 Nf8 17. Bc1 Ne6 18. Nf3 Nd7 19. Bb2 Nb6 20. Rae1 Nc4 21. Bc1 Nd6
+22. Bb2 Nc4 23. Bc1 Nd6 24. Qb3 Bh5 25. Bb2 Rad8 26. h3 Bxf3 27. Bxf3 Qg5 28. e3
+Qg6 29. Bg2 Re7 30. h4 Rde8 31. Qd1 Nf8 32. Bh3 h5 33. Qf3 Nd7 34. Qf4 Ne5 35.
+Rd1 Ng4 36. Rfe1 Qf5 37. Qxf5 Nxf5 38. Ra1 Ra8 39. Red1 Nd6 40. Kg2 Ree8 41. Kf3
+Ne5+ 42. Ke2 Ng4 43. Rd2 f6 44. Kd1 Kf7 45. Kc2 Ne5 46. Kb3 Ra4 47. Bf1 Raa8 48.
+Be2 Ng4 49. Bf3 Ra6 50. Re1 Kg6 51. Bd1 Kf7 52. Ka2 Raa8 53. Kb1 Kg8 54. Kc1 Kh8
+55. Rh1 Kh7 56. Bc2 Kg8 57. Kd1 Kf7 58. Ke2 Nf5 59. Kf3 Nd6 60. Kg2 Kg8 61. Re1
+Kf7 62. Rde2 Re7 63. Ra1 Ree8 64. Ree1 Ne5 65. Red1 Ra6 66. Kf1 Rea8 67. Bb3 Kg6
+68. Ke2 Kh7 69. Ra2 Nc8 70. e4 Nb6 71. f4 Ng4 72. Bd4 Nc8 73. exd5 Ne7 74. dxc6
+bxc6 75. a4 bxa4 76. Bc4 Nf5 77. Bc5 Re8+ 78. Kd2 Raa8 79. Bf7 Red8 80. Bxh5
+Ngh6 81. Bf3 Nxg3 82. Bxc6 Rac8 83. Bb7 Rc7 84. Bf3 Rcd7 85. Kc3 Nhf5 86. Bc6
+Rc7 87. b5 Rcc8 88. Re1 Nxh4 89. Rxa4 Nhf5 90. Rc4 g6 91. Bf3 Nh4 92. Re7+ Kh6
+93. Bb7 Rb8 94. Ba7 Nhf5 95. Bxb8 Nxe7 96. Bc7 Rd7 97. b6 Ne2+ 98. Kd2 Nd4 99.
+Bg2 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.19"]
+[Round "5.5"]
+[White "Nakamura, Hikaru"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2734"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4102142"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 c6 6. Bg5 h6 7. Bxf6 Bxf6 8. h5 g5
+9. e3 e6 10. Qc2 a6 11. O-O-O b5 12. c5 g4 13. Nh2 e5 14. Ne4 O-O 15. Nd6 Bg7
+16. Nxc8 Qxc8 17. f3 g3 18. Ng4 Qe6 19. Nxe5 Bxe5 20. dxe5 Qxe5 21. e4 Nd7 22.
+exd5 cxd5 23. Kb1 Rfc8 24. Rh4 Rxc5 25. Qd2 Qd6 26. Rg4+ Kf8 27. Qd4 Nf6 28. Rf4
+Rc6 29. Bd3 Re8 30. Rf5 Re6 31. a3 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.19"]
+[Round "5.6"]
+[White "Giri, Anish"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2734"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "3503240"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5 7. e5 Nfd7 8. Bd3
+c5 9. O-O Nc6 10. Re1 a5 11. Bc2 Re8 12. h3 Qc7 13. cxd5 exd5 14. e6 fxe6 15.
+Rxe6 Nf6 16. Re1 Bd7 17. dxc5 Bxc5 18. Rxe8+ Rxe8 19. Nb3 Bb6 20. Bg5 Qd6 21.
+Bxf6 gxf6 22. Qd3 Re7 23. Rd1 Ne5 24. Nxe5 Qxe5 25. Nd2 Kh8 26. Qb3 Bc5 27. Nf3
+Qg3 28. Nd4 Qe5 29. Nf3 Qe2 30. Rd2 Bxf2+ 31. Kh2 Qe3 32. Qxe3 Bxe3 33. Rxd5 Bb6
+34. Bf5 Bc6 35. Rd2 Bc7+ 36. Kg1 Bg3 37. Bd3 Rd7 38. Be4 Rxd2 39. Nxd2 Bf4 40.
+Bxc6 Bxd2 41. Bxb7 a4 42. Bc6 Bc1 43. Bxa4 Bxb2 44. Kf1 Bxa3 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.20"]
+[Round "6.1"]
+[White "Gelfand, Boris"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2734"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "3503240"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5 7. e5 Nfd7 8. Bd3
+c5 9. O-O Nc6 10. Re1 a5 11. Bc2 Qc7 12. dxc5 Nxc5 13. Nb3 Nxb3 14. Qd3 g6 15.
+Bxb3 Rd8 16. Bf4 a4 17. Ba2 dxc4 18. Qxc4 b5 19. Qxb5 Ra5 20. Qf1 Nd4 21. Nxd4
+Rxd4 22. Rec1 Qb8 23. Be3 Ba6 24. Qe1 Rxe5 25. Bxd4 Rxe1+ 26. Rxe1 Bb7 27. Rad1
+Qf4 28. Be5 Qg5 29. Bg3 Bf6 30. Rd7 Qb5 31. Rd2 h5 32. Bb1 h4 33. Bf4 Qc4 34. g3
+e5 35. Bd3 Qe6 36. Bb5 Qg4 37. Be2 Qf5 38. Bd3 Qg4 39. Be2 Bf3 40. Bxf3 Qxf3 41.
+Re3 Qc6 42. Bxe5 Qc1+ 43. Kg2 h3+ 44. Kxh3 Bxe5 45. Rd8+ Kg7 46. Rxe5 Qf1+ 47.
+Kg4 Qxf2 48. Rde8 Qxb2 49. Re2 Qxa3 50. R8e3 Qc1 51. Kf3 a3 52. Kf2 Qa1 53. Kg2
+Qd1 54. Kf2 Qa1 55. Kg2 f5 56. Rf3 Kh6 57. Ref2 Kg7 58. Re2 Kh6 59. Ref2 Kh7 60.
+Re2 Kg7 61. Ref2 Kh6 62. Re2 Kg7 63. Ref2 Kh6 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.20"]
+[Round "6.2"]
+[White "Svidler, Peter"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2776"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "24116068"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bf4 O-O 7. Rc1 Bf5 8. a3
+Ba5 9. e3 c6 10. Be2 Nbd7 11. O-O Re8 12. b4 Bc7 13. Bxc7 Qxc7 14. b5 Qd6 15.
+Qb3 c5 16. dxc5 Nxc5 17. Qb4 Rac8 18. Rfd1 Be6 19. h3 Red8 20. Nd4 Qf8 21. b6
+axb6 22. Qxb6 Nfd7 23. Qb2 Nf6 24. Bf3 Rd7 25. Qb4 Qd8 26. Nce2 Rdc7 27. Nf4 Bd7
+28. Qa5 Ra8 29. Qb6 Ra6 30. Qb4 Ra4 31. Qb6 Ra6 32. Qb4 Ra4 33. Qb2 Ne6 34. Nxd5
+Rxc1 35. Rxc1 Nxd4 36. exd4 Nxd5 37. Bxd5 b5 38. Bc6 Bxc6 39. Rxc6 h6 40. Qc2
+Ra8 41. Qc5 Qf8 42. Qxb5 Qxa3 43. Qc4 Qf8 44. d5 Qe8 45. Qd4 Rd8 46. Rc7 Qf8 47.
+Rc3 Qd6 48. Rg3 g6 49. Rd3 Kh7 50. g3 Rd7 51. Kg2 Rd8 52. h4 h5 53. Kf3 Kg8 54.
+Qf4 Qa6 55. Qd4 Qd6 56. Kg2 Rd7 57. g4 hxg4 58. Qxg4 Kg7 59. h5 Re7 60. Qd4+ Qe5
+61. hxg6 Qxd4 62. Rxd4 Kxg6 63. Kf3 Kf5 64. Rf4+ Kg5 65. Re4 Rd7 66. Re5+ Kf6
+67. Kf4 Ra7 68. Rf5+ Ke7 69. Kg5 Ra6 70. Re5+ Kd7 71. Re2 Rg6+ 72. Kf5 Ra6 73.
+f4 Ra4 74. Kg5 f6+ 75. Kf5 Kd6 76. Re4 Ra8 77. Kxf6 Kxd5 78. Re5+ Kd4 79. Re6
+Rf8+ 80. Kg5 Rg8+ 81. Rg6 Re8 82. f5 Ke5 83. Rg7 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.20"]
+[Round "6.3"]
+[White "Tomashevsky, Evgeny"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2799"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4147235"]
+[BlackFideId "2016192"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Bxc6
+bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qc2 e5 12. dxe5 Qxe5 13. Bf4 Qh5 14. Nc3 Nd5
+15. Nxd5 Qxd5 16. Rfd1 Qc6 17. Rd4 Bh3 18. f3 Be6 19. Rad1 Qb6 20. Qc3 f6 21.
+Kg2 Rae8 22. R1d2 a5 23. g4 a4 24. Bg3 Qc5 25. Re4 Rf7 26. Qe3 Qxe3 27. Rxe3
+Rfe7 28. Bf2 Kf7 29. Rc3 Rb8 30. Rcc2 Rb5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.20"]
+[Round "6.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Karjakin, Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2753"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "623539"]
+[BlackFideId "14109603"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 Ne7 8. d4
+exd4 9. cxd4 Bb6 10. Re1 Bg4 11. h3 Bh5 12. a3 a6 13. Bf1 Re8 14. e5 Nfd5 15.
+Nc4 Ba7 16. g4 Bg6 17. Bg5 dxe5 18. dxe5 h6 19. Bh4 b5 20. Na5 Qc8 21. Rc1 c5
+22. b4 c4 23. Nd4 Qc7 24. Nab3 Rad8 25. Qf3 Nxb4 26. axb4 Bxd4 27. Nxd4 Rxd4 28.
+e6 f6 29. Rcd1 Rxd1 30. Rxd1 c3 31. Bg3 Qc6 32. Qe2 c2 33. Rc1 Qc3 34. Bg2 Qxb4
+35. Kh2 Rd8 36. Qf3 Qc4 37. Qb7 Qxe6 38. f4 Qe3 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.20"]
+[Round "6.5"]
+[White "Jobava, Baadur"]
+[Black "Jakovenko, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2699"]
+[BlackElo "2738"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "modern variation"]
+[WhiteFideId "13601520"]
+[BlackFideId "4122356"]
+[EventDate "2015.05.14"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. h3 d5 5. Bb5 Bd6 6. Nf3 Qe7 7. d4 exd4 8. Qxd4
+Bd7 9. Bxc6 Bxc6 10. Nbd2 O-O 11. O-O-O a5 12. g4 a4 13. g5 Ne8 14. Kb1 axb3 15.
+axb3 Bc5 16. Qe5 Bd6 17. Qxe7 Bxe7 18. Rhg1 Nd6 19. Ne5 Be8 20. h4 f6 21. Nd3
+fxg5 22. hxg5 Nb5 23. Nf4 c6 24. c4 Na3+ 25. Kc1 dxc4 26. Ne4 Bg6 27. Rd7 Rf7
+28. Nxg6 hxg6 29. Rxb7 cxb3 30. Rxb3 Nc4 31. Rd1 Nxb2 32. Kxb2 Ra4 33. Rb8+ Rf8
+34. Rxf8+ Kxf8 35. f3 Ra3 36. Nc3 Bb4 37. Rc1 Kf7 38. f4 c5 39. e4 Ke6 40. Nd5
+Rd3 41. Ra1 Rxd5 42. exd5+ Kxd5 43. Kc2 Ke4 44. Ra6 Kf5 45. Kd3 Kxf4 46. Rxg6
+c4+ 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.20"]
+[Round "6.6"]
+[White "Grischuk, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2803"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "4126025"]
+[BlackFideId "2020009"]
+[EventDate "2015.05.14"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bf4 O-O 7. e3 Nbd7 8. g4
+dxc4 9. Bxc4 Nb6 10. Bb3 Nfd5 11. Bg3 c5 12. Ne5 cxd4 13. Qxd4 Nxc3 14. bxc3 Nd5
+15. O-O Qa5 16. Rac1 Rd8 17. Rfd1 Bd7 18. Bxd5 exd5 19. Qxd5 Qxd5 20. Rxd5 Be6
+21. Rb5 Ba3 22. Ra1 b6 23. c4 f6 24. Rb3 Bf8 25. Nc6 Rdc8 26. Nd4 Bxc4 27. Rbb1
+Bd5 28. a4 Rc4 29. a5 Bc5 30. axb6 axb6 31. Rxa8+ Bxa8 32. h3 Be4 33. Rd1 Bxd4
+34. exd4 b5 35. Kh2 b4 36. d5 Bc2 37. Ra1 b3 38. Ra8+ Kh7 39. Rb8 Rd4 40. d6 Rd1
+41. Kg2 Rd3 42. Rb6 Bd1 43. f4 h5 44. g5 Kg6 45. Bh4 Kf5 46. gxf6 gxf6 47. Rb5+
+Ke4 48. Bxf6 Rxd6 49. Be5 Rd3 50. Rb4+ Kf5 51. Rb5 h4 52. Bh8+ Ke4 53. f5 Ke3
+54. Re5+ Kf4 55. Rb5 Rd2+ 56. Kg1 Kg3 57. Rb4 Bc2 58. Be5+ Kxh3 59. f6 Rg2+ 60.
+Kf1 Rg5 61. Bd4 Kh2 62. Bb6 h3 63. Bc7+ Kh1 64. Rh4 Bd3+ 65. Kf2 Rg2+ 66. Ke3 b2
+67. Rb4 Bg6 68. Be5 h2 69. f7 Bxf7 70. Bxb2 Rg5 71. Kf2 Bd5 72. Bd4 Rg2+ 73. Kf1
+Rc2 74. Rb6 Bc4+ 75. Ke1 Rg2 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.21"]
+[Round "7.1"]
+[White "Caruana, Fabiano"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2744"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "2020009"]
+[BlackFideId "2805677"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Nf3 Bg7 5. Bg2 d5 6. cxd5 cxd5 7. Nc3 O-O 8. Ne5
+Bf5 9. Be3 Qb6 10. Qd2 Nc6 11. Rc1 Rac8 12. O-O Rfd8 13. Na4 Qb5 14. b3 Nxe5 15.
+dxe5 Ne4 16. Qb2 b6 17. Bd4 Qb4 18. Rfd1 Rxc1 19. Rxc1 Rc8 20. e3 Nc5 21. e6
+Bxe6 22. Bxg7 Nxa4 23. Rxc8+ Bxc8 24. Qa1 f6 25. Bxf6 exf6 26. Bxd5+ Kg7 27.
+bxa4 Qxa4 28. e4 Qb5 29. Kg2 Qc5 30. Qd1 Bd7 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.21"]
+[Round "7.2"]
+[White "Jakovenko, Dmitry"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2780"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "4122356"]
+[BlackFideId "4126025"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Nf3 Bg7 5. Bg2 d5 6. O-O O-O 7. Qb3 Qb6 8. Nc3
+Rd8 9. Rd1 Bf5 10. Ne1 dxc4 11. Qxc4 Na6 12. e4 Be6 13. d5 cxd5 14. exd5 Bg4 15.
+Be3 Qxb2 16. Nd3 Qa3 17. Nb5 Qa5 18. Bd2 Qb6 19. Be3 Qa5 20. Bd2 Qb6 21. Be3 Qa5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.21"]
+[Round "7.3"]
+[White "Karjakin, Sergey"]
+[Black "Jobava, Baadur"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2699"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "13601520"]
+[EventDate "2015.05.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 Nge7 5. Nf3 Bd7 6. Ne2 Nf5 7. Ng3 Nh4 8. c3
+g6 9. Bf4 f6 10. Nxh4 fxe5 11. Nxg6 hxg6 12. dxe5 Qh4 13. Ne2 O-O-O 14. Qd2 Rh5
+15. Ng3 Rxe5+ 16. Bxe5 Nxe5 17. Qe3 Nc6 18. Bb5 Bh6 19. Qe2 e5 20. Rd1 a6 21.
+Bxa6 Ne7 22. Bb5 c6 23. Qxe5 Bf4 24. Rd4 Bxe5 25. Rxh4 cxb5 26. O-O Kc7 27. Re1
+Kd6 28. Rh7 Nc6 29. Rd1 Ke6 30. Re1 Kd6 31. Rd1 Ke6 32. Re1 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.21"]
+[Round "7.4"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2754"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "2016192"]
+[BlackFideId "623539"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. Bf4 b6 3. c4 Bb7 4. Nc3 e6 5. a3 d5 6. e3 Bd6 7. Bg5 h6 8. Bxf6
+Qxf6 9. cxd5 exd5 10. Qa4+ Kf8 11. g3 c6 12. Bg2 g6 13. Nge2 Kg7 14. O-O Qd8 15.
+e4 dxe4 16. Nxe4 Re8 17. Rad1 Na6 18. N2c3 Nc7 19. Nc5 bxc5 20. dxc5 Nd5 21.
+cxd6 Qxd6 22. Ne4 Qe5 23. Rc1 Nb6 24. Qb4 Rad8 25. Nc5 Rd4 26. Qc3 Bc8 27. Rce1 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.21"]
+[Round "7.5"]
+[White "Giri, Anish"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2749"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "24116068"]
+[BlackFideId "4147235"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. Nf1 bxa4 13. Ne3 Bc8 14. Nh4 g6 15. Nf3
+Bd7 16. Nd5 Nxd5 17. Bxd5 Rb8 18. Bh6 Re8 19. Qd2 Bc6 20. Bxc6 Nxc6 21. c3 Qd7
+22. Qc2 a5 23. Rxa4 Red8 24. Bc1 d5 25. exd5 Qxd5 26. Rae4 f6 27. Qa4 Rbc8 28.
+R4e3 Rc7 29. Nd2 Rcd7 30. Nc4 Qe6 31. Qc2 Bd6 32. f4 Bc7 33. Rf3 Rd5 34. Qe2 Kh8
+35. Qf1 f5 36. Rfe3 Qf6 37. Qe2 Re8 38. g4 Qh4 39. gxf5 gxf5 40. Kh1 Rd7 41. Rg1
+e4 42. Qg2 Qf6 43. Rg3 Qf7 44. b3 Bd8 45. dxe4 fxe4 46. f5 Bc7 47. Rg4 Ne5 48.
+Rxe4 Rdd8 49. Bg5 Rb8 50. Qe2 Nd7 51. Re6 Rg8 52. Qf3 Rbe8 53. Qg4 Ref8 54. Nd6
+Bxd6 55. Rxd6 Qxf5 56. Rxd7 Qxg4 57. Rxg4 Rf5 58. Rd5 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.21"]
+[Round "7.6"]
+[White "Dominguez Perez, Leinier"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2734"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed"]
+[WhiteFideId "3503240"]
+[BlackFideId "4102142"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. a4 b4
+9. d4 O-O 10. dxe5 dxe5 11. Nbd2 Bc5 12. Qe2 Qe7 13. a5 h6 14. h3 Rd8 15. Bc4
+Nd4 16. Nxd4 Bxd4 17. Nb3 c5 18. Nxd4 cxd4 19. Bd2 Qc5 20. b3 Be6 21. Bd3 Bd7
+22. Bxa6 Rdb8 23. Bd3 Rxa5 24. Qf3 Rb6 25. Qg3 Nh5 26. Qh4 Nf6 27. f4 Rxa1 28.
+Rxa1 Bc6 29. fxe5 Qxe5 30. Bf4 Qe8 31. e5 Nd5 32. Bg3 Bb5 33. Qxd4 Bxd3 34. cxd3
+Qc6 35. Kh2 Rb5 36. Ra7 h5 37. Qe4 Rc5 38. e6 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.22"]
+[Round "8.1"]
+[White "Gelfand, Boris"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2734"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Alekhine (Hungarian) variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "4102142"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2
+b5 9. Qb3 c5 10. dxc5 Bb7 11. e5 Nfd7 12. Be3 e6 13. O-O Qc7 14. Rad1 Nxc5 15.
+Qa3 Ncd7 16. Qe7 Rc8 17. a4 b4 18. Ne4 Nf8 19. Qh4 Bxe4 20. Qxe4 Nbd7 21. Qxb4
+Nxe5 22. Nxe5 Qxe5 23. Qd6 Qxb2 24. Bf3 Be5 25. Qd3 Rab8 26. Qxa6 Rc3 27. Qa5
+Bc7 28. Qa7 Rc4 29. Rc1 Rbb4 30. Rxc4 Rxc4 31. g3 Qa3 32. Bd1 h5 33. Qb7 h4 34.
+Qb3 Rc3 35. Qxa3 Rxa3 36. Bc5 Rc3 37. Bb4 Rc4 38. Bd2 Nd7 39. Bb3 Rd4 40. Rd1
+hxg3 41. hxg3 Nc5 42. Be3 Rb4 43. Bxc5 Rxb3 44. Rd7 Ba5 45. Kg2 Rc3 46. Be7 Kg7
+47. g4 Rc4 48. g5 Bc3 49. Rd3 Be5 50. a5 Rc6 51. Ra3 Ra6 52. Bd8 Kf8 53. Kf3 Ke8
+54. Bb6 Bd6 55. Ra2 Be7 56. Kg4 f5+ 57. gxf6 Bxf6 58. Kf4 Kd7 59. Ke4 Bc3 60.
+Kd3 Bf6 61. Kc4 Kc6 62. Rc2 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.22"]
+[Round "8.2"]
+[White "Tomashevsky, Evgeny"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2734"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "4147235"]
+[BlackFideId "3503240"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Bg7 5. Bxf6 Bxf6 6. cxd5 c5 7. dxc5 Nd7 8.
+e3 O-O 9. Bc4 Nxc5 10. Nge2 Qa5 11. Qd2 b5 12. Nxb5 Qxd2+ 13. Kxd2 Rb8 14. Rhb1
+Bf5 15. Nbd4 Bxb1 16. Rxb1 Ne4+ 17. Ke1 Rb6 18. b4 Rc8 19. Nc6 e6 20. Rc1 Rbxc6
+21. dxc6 Rxc6 22. b5 Rc5 23. f3 Nd6 24. Bd3 Rxc1+ 25. Nxc1 Kf8 26. Kd2 Ke7 27.
+Nb3 Kd7 28. a4 Kc7 29. Kc2 Nb7 30. Be4 Nd6 31. Bd3 Nb7 32. Be4 Nd6 33. Kd3 Kb6
+34. f4 h5 35. g3 Bg7 36. Ba8 Bf6 37. Bh1 Bh8 38. Bf3 Bg7 39. Bg2 Bh8 40. Bh1 Bg7
+41. Bc6 a6 42. Nd2 axb5 43. axb5 Nxb5 44. Be8 Nd6 45. Nc4+ Kc7 46. Nxd6 Kxd6 47.
+Bxf7 h4 48. Bxg6 hxg3 49. hxg3 Bb2 50. Ke4 Ke7 51. Bh5 Kf6 52. g4 Ke7 53. Kf3
+Bc1 54. Bg6 Bd2 55. Bc2 Kf6 56. Bd3 Bc1 57. Bb1 Bd2 58. Be4 Bc1 59. Bc2 Bd2 60.
+Bd3 Bc1 61. Bb5 Bd2 62. Bd7 Ke7 63. Bc8 Kf6 64. Ba6 Bc1 65. Bc4 Bd2 66. Bb3 Bc1
+67. Ba2 Bd2 68. Bc4 Bc1 69. g5+ Ke7 70. Ke2 Ba3 71. Bb3 Bc1 72. Kd3 Ba3 73. Kd2
+Bb4+ 74. Ke2 Ba3 75. Kd3 Bc1 76. Bd1 Kf7 77. Bh5+ Ke7 78. Ke2 Kf8 79. Kf3 Bd2
+80. Ke4 Bc1 81. Kd4 Bb2+ 82. Kd3 Bc1 83. Ke2 Kg7 84. Kf3 Bd2 85. Bg4 Kf7 86. Bh3
+Bc1 87. Bxe6+ Kxe6 88. e4 Bd2 89. Kg4 Bc1 90. Kg3 Bd2 91. Kf3 Bc1 92. Kg4 Bd2
+93. f5+ Ke5 94. Kh5 Kxe4 95. g6 Bc3 96. Kg5 Kd5 97. Kh6 Ke4 98. Kg5 Kd5 99. f6
+Ke6 100. g7 Bxf6+ 101. Kg6 Ke5 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.22"]
+[Round "8.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2776"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+e5 9. cxd5 cxd5 10. e4 exd4 11. Nxd5 Nxd5 12. exd5 h6 13. Nxd4 Qh4 14. Nf3 Qh5
+15. Bh7+ Kh8 16. Qf5 Qxf5 17. Bxf5 Nf6 18. Bxc8 Rfxc8 19. Be3 Rd8 20. Rfd1 Be7
+21. d6 Rxd6 22. Re1 Bd8 23. Kf1 Kg8 24. Rad1 Rxd1 25. Rxd1 Bc7 26. Bd4 Ne8 27.
+Ke2 a6 28. Bc3 Nd6 29. Rd5 f6 30. Kd3 Re8 31. Bd4 Kf7 32. Be3 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.22"]
+[Round "8.4"]
+[White "Jobava, Baadur"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2699"]
+[BlackElo "2799"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "13601520"]
+[BlackFideId "2016192"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 Bf5 4. f3 e6 5. g4 Bg6 6. h4 h5 7. g5 Nfd7 8. e3 a6
+9. Bd3 Bxd3 10. cxd3 Nc6 11. g6 fxg6 12. Bg5 Be7 13. f4 Nf6 14. Qb3 Qd7 15. Nf3
+Ng4 16. Ke2 Bf6 17. Rac1 b6 18. Rc2 Ne7 19. Rhc1 O-O 20. Qa4 Qd8 21. Nd1 Ra7 22.
+Nf2 Nh6 23. Rg1 Nf7 24. Qa3 Kh7 25. Nh3 Nd6 26. Ne5 Ndf5 27. b4 Qd6 28. Qc3 c6
+29. Nf3 a5 30. bxa5 Rxa5 31. Qd2 Ra3 32. Rgc1 Rfa8 33. Nf2 c5 34. dxc5 bxc5 35.
+Rxc5 Rxa2 36. R5c2 Rxc2 37. Qxc2 Ng3+ 38. Ke1 Qb4+ 39. Qd2 Qxd2+ 40. Nxd2 Nef5
+41. e4 Bxg5 42. hxg5 Nd4 43. Nh3 Ra3 44. f5 exf5 45. exd5 Nge2 46. Rc8 Rxd3 47.
+Nc4 Rxh3 48. Ne5 Nf3+ 49. Nxf3 Nf4 50. Kf2 Nxd5 51. Ne5 Rc3 52. Rd8 Ne7 53. Rd7
+Rc2+ 54. Kg3 f4+ 55. Kxf4 Nf5 56. Rd8 Rf2+ 57. Ke4 Ng3+ 58. Kd3 h4 59. Rd4 Nf5
+60. Rd8 Ng3 61. Rd4 Rf5 62. Rxh4+ Nh5 63. Ke4 Rxg5 64. Kd5 Rg1 65. Ke6 Rf1 66.
+Rh2 Rf6+ 67. Ke7 Kg8 68. Nxg6 Rxg6 69. Rxh5 Ra6 70. Rf5 g6 71. Rf6 Ra7+ 72. Ke6
+Kg7 73. Rf3 Ra5 74. Rf7+ Kh6 75. Rf1 g5 76. Kf6 Ra4 77. Rh1+ Rh4 78. Rg1 Rf4+
+79. Ke5 Kg6 80. Rh1 Ra4 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.22"]
+[Round "8.5"]
+[White "Grischuk, Alexander"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2753"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "4126025"]
+[BlackFideId "14109603"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bb7 10. e5 Nd5 11. O-O Nxc3 12. bxc3 c5 13. a4 a6 14. Qb1 g4 15. Nh4 cxd4
+16. axb5 d3 17. Bxg4 a5 18. Bf3 Bxf3 19. Nxf3 Qd5 20. Ra4 Nd7 21. Qa2 Nb6 22.
+Rxa5 Rxa5 23. Qxa5 Bc5 24. Qa2 O-O 25. Qd2 Kh7 26. Re1 Be7 27. Bf4 Rg8 28. Kh1
+Bf8 29. Be3 Nd7 30. Bd4 Qxb5 31. Qf4 Bg7 32. Qxf7 Qd5 33. Nd2 Rf8 34. Qe7 Rf5
+35. Re3 Rg5 36. Rg3 Nxe5 37. Rxg5 hxg5 38. Nxc4 Kg6 39. Qe8+ Nf7 40. Qg8 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.22"]
+[Round "8.6"]
+[White "Caruana, Fabiano"]
+[Black "Jakovenko, Dmitry"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2738"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "4122356"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 O-O 6. Bxc6 dxc6 7. Nc4 Nd7 8.
+Be3 Bd6 9. O-O Re8 10. Nfd2 Nf8 11. Qh5 Be6 12. h3 Ng6 13. g3 Qd7 14. Kh2 f5 15.
+exf5 Bxf5 16. Ne4 Rf8 17. Rae1 Rae8 18. Bd2 Ne7 19. Ne3 Bg6 20. Qg4 Qd8 21. Ng5
+Rf6 22. h4 Nd5 23. Qc4 Kh8 24. Nxd5 cxd5 25. Qxd5 e4 26. Kg1 exd3 27. cxd3 h6
+28. Ne4 Rfe6 29. Bc3 Bf8 30. Qb3 b6 31. Re3 Bc5 32. Rf3 Bd4 33. Re1 c5 34. Rf4
+Bxc3 35. Qxc3 Qd5 36. Qb3 c4 37. Qc3 cxd3 38. f3 Bxe4 39. fxe4 Rxe4 40. Rexe4
+Rxe4 41. Rf2 Re3 42. Kh2 Qe4 43. Qc8+ Kh7 44. Rf4 Re2+ 45. Kh3 Qg2+ 46. Kg4 h5+
+47. Kxh5 Qxg3 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.24"]
+[Round "9.1"]
+[White "Jakovenko, Dmitry"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2744"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "4122356"]
+[BlackFideId "2805677"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3 b5
+9. Nd5 Nbd7 10. Bg5 Bb7 11. Nec3 Rc8 12. Bg2 Be7 13. Nxe7 Qxe7 14. O-O Qe6 15.
+Re1 b4 16. Nd5 Bxd5 17. exd5 Qf5 18. Bd2 Rxc2 19. Rc1 Rxc1 20. Qxc1 Nc5 21. Bxb4
+Nd3 22. Qc6+ Qd7 23. Qa8+ Qd8 24. Qc6+ Nd7 25. Re4 f5 26. Rc4 e4 27. Qxa6 Nxb4
+28. Qxd6 Nd3 29. Qe6+ Kf8 30. Qxf5+ Kg8 31. Qe6+ Kf8 32. Qd6+ Kg8 33. Qe6+ Kf8
+34. Qxe4 N3e5 35. Qf5+ Kg8 36. d6 Rh6 37. Re4 h4 38. Rxh4 Rxh4 39. gxh4 Qxh4 40.
+Bd5+ Kh8 41. Kh1 Qh6 42. f4 g6 43. Qe6 Qf8 44. Bb3 g5 45. f5 Nd3 46. Qxd7 Qa8+
+47. Kg1 Nf4 48. Kf2 g4 49. hxg4 Qg2+ 50. Ke3 Nd5+ 51. Kd4 Qf2+ 52. Kxd5 Qd4+ 53.
+Kxd4 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.24"]
+[Round "9.2"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2803"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "14109603"]
+[BlackFideId "2020009"]
+[EventDate "2015.05.14"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. d4 e6 6. cxd5 Nxd5 7. Bg2 cxd4 8.
+Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bd6 12. O-O Rb8 13. e4 b6 14. Bb2
+Bb7 15. Rac1 f6 16. Rfd1 Ke7 17. f4 Rhc8 18. e5 fxe5 19. fxe5 Bb4 20. Rxc8 Bxc8
+21. Be4 g6 22. Rc1 Kd8 23. Kf2 Bb7 24. Kf3 Bd5 25. Bxd5 exd5 26. Ke3 Rc8 27. a4
+Rxc1 28. Bxc1 Kd7 29. Bd2 Be7 30. Kd3 h5 31. a5 bxa5 32. Bxa5 g5 33. h3 g4 34.
+hxg4 hxg4 35. Ke3 Bg5+ 36. Kd3 Kc6 37. Bd2 Be7 38. Ke3 Bg5+ 39. Kd3 Be7 40. Ke3
+Bf8 41. Ba5 Bh6+ 42. Kd3 Kd7 43. Bd2 Bf8 44. Ke3 Ke6 45. Ba5 Kf5 46. Kd3 Be7 47.
+Ke3 Bg5+ 48. Kd3 Ke6 49. Bd2 Bd8 50. Ke3 Kf5 51. Bb4 a5 52. Ba3 a4 53. Bb4 Bg5+
+54. Kd3 Bc1 55. Bd2 Ba3 56. Kc3 Be7 57. Bh6 a3 58. Kb3 Bb4 59. Bf4 Ke6 60. Bc1
+Be1 61. Be3 Bxg3 62. Kxa3 Kf5 63. Kb4 Be1+ 64. Kc5 Ke6 65. Bf4 g3 66. Bg5 Kf5
+67. Bf4 Ke6 68. Bg5 Kf5 69. Bf4 Kxf4 70. e6 g2 71. e7 Bb4+ 72. Kxb4 g1=Q 73.
+e8=Q Qxd4+ 74. Ka5 Qe5 75. Qc8 d4+ 76. Kb4 d3 77. Qh3 Ke4 78. Qh1+ Kd4 79. Qa1+
+Kd5 80. Qxe5+ Kxe5 81. Kc3 Ke4 82. Kd2 Kd4 83. Kd1 Kc3 84. Kc1 d2+ 85. Kd1 Kd3 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.24"]
+[Round "9.3"]
+[White "Nakamura, Hikaru"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2780"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4126025"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Qa4+ Qd7 8.
+Qa3 O-O 9. Nf3 b6 10. Bd3 c5 11. O-O Nc6 12. Bb5 cxd4 13. cxd4 a6 14. Be3 Bb7
+15. Be2 e6 16. Qb3 b5 17. a4 Na7 18. Ne5 Qd6 19. Bf3 Nc6 20. Nxc6 Bxc6 21. Rac1
+Rac8 22. d5 Bd7 23. axb5 axb5 24. g3 exd5 25. exd5 h5 26. Bd2 Rxc1 27. Rxc1 Ra8
+28. Bb4 Qe5 29. h4 Ra1 30. Rxa1 Qxa1+ 31. Kg2 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.24"]
+[Round "9.4"]
+[White "Giri, Anish"]
+[Black "Jobava, Baadur"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2699"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Paulsen variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "13601520"]
+[EventDate "2015.05.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 Bd7 5. Nf3 a6 6. a3 f6 7. Bd3 fxe5 8. dxe5
+Bc5 9. O-O Nge7 10. Ne2 O-O 11. Nf4 h6 12. c4 Nd4 13. Nxd4 Bxd4 14. cxd5 Nxd5
+15. Nxd5 exd5 16. Bc2 c5 17. Be3 Qb6 18. Bxd4 cxd4 19. Qd3 Rf5 20. f4 Bb5 21.
+Qxf5 d3+ 22. Rf2 Rf8 23. Bxd3 Rxf5 24. Bxf5 Qe3 25. Be6+ 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.24"]
+[Round "9.5"]
+[White "Dominguez Perez, Leinier"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2754"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "3503240"]
+[BlackFideId "623539"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Na4 Nh5 14. Qxb4 d5 15.
+Qa5 Bxg5 16. Bxg5 Qxg5+ 17. Kb1 dxe4 18. Nd4 Qf6 19. Nxe6 Qxe6 20. fxe4 Ndf6 21.
+b3 Nxe4 22. Bc4 Qf5 23. Rhf1 Nf4 24. Bd3 Qg6 25. Rg1 Qf5 26. Rgf1 Qg6 27. Rg1
+Qf5 28. Rgf1 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.24"]
+[Round "9.6"]
+[White "Svidler, Peter"]
+[Black "Tomashevsky, Evgeny"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2749"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "4102142"]
+[BlackFideId "4147235"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nbd2 Na5 11. Ba2 c5 12. Nf1 bxa4 13. Ne3 Bc6 14. Nf5 Bd7 15.
+N3h4 Kh8 16. f4 Nc6 17. c3 Rb8 18. Rf1 exf4 19. Rxf4 Ne5 20. Nxe7 Qxe7 21. Nf5
+Bxf5 22. Rxf5 c4 23. Bxc4 Qa7+ 24. d4 Nxc4 25. Qf1 a3 26. bxa3 Nxe4 27. Qxc4
+Rbc8 28. Qd3 Nxc3 29. Be3 Rfe8 30. Raf1 f6 31. Ra5 Qb7 32. Rf3 Qb2 33. h3 Ne4
+34. Rxa6 d5 35. Ra5 Rc2 36. Qf1 Qa2 37. Kh2 h6 38. Rf5 Rb8 39. Raxd5 Rxg2+ 40.
+Qxg2 Rb2 41. Bf2 Nxf2 42. Kg3 Rb3+ 0-1
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.25"]
+[Round "10.1"]
+[White "Gelfand, Boris"]
+[Black "Tomashevsky, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2749"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[WhiteFideId "2805677"]
+[BlackFideId "4147235"]
+[EventDate "2015.05.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. Qc2 dxc4 6. e4 b5 7. b3 b4 8. Nd1 c3
+9. a3 e6 10. axb4 Bxb4 11. Ba3 c5 12. dxc5 Bxa3 13. Rxa3 Bb7 14. Nxc3 O-O 15.
+Be2 Qe7 16. O-O Qxc5 17. Ra4 Nbd7 18. Rc4 Qd6 19. Rd1 Qb8 20. Rcd4 Qc7 21. Rc4
+Qb8 22. Rcd4 Qc7 23. Rc4 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.25"]
+[Round "10.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Svidler, Peter"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2734"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[WhiteFideId "623539"]
+[BlackFideId "4102142"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. a3 h6 12. Nbd2 Bf8 13. d5 Nb8 14. Nh2 Nbd7 15. Qf3
+c6 16. dxc6 Bxc6 17. Ng4 Qe7 18. Nf1 Nxg4 19. hxg4 Qf6 20. Ne3 Qxf3 21. gxf3 Nb6
+22. Rd1 Rac8 23. Nd5 Nxd5 24. Bxd5 Bxd5 25. Rxd5 Rc4 26. Be3 f6 27. Kf1 Kf7 28.
+Ke2 Ke6 29. Kd3 g6 30. Rh1 Re7 31. f4 Rxe4 32. Rxd6+ Kxd6 33. Kxe4 exf4+ 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.25"]
+[Round "10.3"]
+[White "Jobava, Baadur"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2699"]
+[BlackElo "2734"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "13601520"]
+[BlackFideId "3503240"]
+[EventDate "2015.05.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. h3 O-O 10. O-O f6 11. Bxc6 bxc6 12. Be3 fxe5 13. Nxe5 Bb7 14. Nd2 c5 15.
+Nxe4 cxd4 16. Bxd4 dxe4 17. Qb3+ Bd5 18. Qc3 Qg5 19. Be3 Qh5 20. Rad1 Be6 21.
+Rde1 Bd5 22. a4 Ba5 23. Qxa5 Qxe5 24. Rc1 Rac8 25. Rfd1 c6 26. b4 Qe6 27. b5 Bb3
+28. Rd2 cxb5 29. Rxc8 Qxc8 30. axb5 Bc4 31. Rc2 Qe6 32. Qxa7 Qd5 33. Bd4 Rf7 34.
+Qb8+ Rf8 35. Qc7 Qxd4 36. Qxc4+ Qxc4 37. Rxc4 Rb8 38. Rb4 Kf7 39. Kf1 Ke6 40.
+Rxe4+ Kd6 41. Rd4+ Ke6 42. Rb4 Kd5 43. Rh4 h6 44. Rg4 g5 45. Rb4 Kc5 46. Rb1 Kb6
+47. Re1 Kc5 48. Re6 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.25"]
+[Round "10.4"]
+[White "Grischuk, Alexander"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2776"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "5...Nd7"]
+[WhiteFideId "4126025"]
+[BlackFideId "24116068"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Be2 Bd6 7. O-O O-O 8. a4
+Qe7 9. a5 a6 10. Qb3 Ne4 11. Nd2 f5 12. f4 Rb8 13. Ndxe4 dxe4 14. Bd2 g5 15. g3
+h6 16. Na4 Kh7 17. Nb6 Nf6 18. Kh1 Bd7 19. Bc3 Be8 20. d5 gxf4 21. gxf4 Ng4 22.
+Bxg4 fxg4 23. Qc2 Bg6 24. Rad1 Rbd8 25. b4 c5 26. bxc5 Bxc5 27. Qe2 Bf5 28. Be5
+Rg8 29. Rg1 Qf7 30. dxe6 Bxe6 31. Nd5 Be7 32. Qc2 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.25"]
+[Round "10.5"]
+[White "Caruana, Fabiano"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2799"]
+[ECO "B76"]
+[Opening "Sicilian"]
+[Variation "dragon, Yugoslav attack, Rauser variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6 14. Na4
+Qc7 15. Bc4 Nb6 16. Bb3 Nxa4 17. Qxa4 c5 18. Rhe1 e6 19. Qe4 Ba6 20. Bxe6 Bb7
+21. Bd5 Bxd5 22. Qxd5 Qxh2 23. Qg5 Rfe8 24. Rh1 Qe5 25. Qxe5 Rxe5 26. Rd7 h5 27.
+g4 hxg4 28. fxg4 Re4 29. Rf1 Rf8 30. Rxa7 Rxg4 31. Rc7 c4 32. Kd2 f5 33. a4 c3+
+34. Kxc3 Rxa4 35. b4 Rb8 36. Rd1 Raxb4 37. Rdd7 Rg4 38. Rg7+ Kh8 39. Rh7+ Kg8
+40. Rhg7+ Kh8 41. Rh7+ 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.25"]
+[Round "10.6"]
+[White "Jakovenko, Dmitry"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2738"]
+[BlackElo "2753"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "4122356"]
+[BlackFideId "14109603"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 a6 10. Rd1 b5 11. Bd3 Qc7 12. Bd2 c5 13. Ne4 c4 14. Nxd6 Qxd6 15.
+Be2 Bb7 16. b3 Rfc8 17. Qb2 Rab8 18. Rac1 h6 19. Ne5 cxb3 20. axb3 Rxc1 21. Rxc1
+Nxe5 22. dxe5 Qd5 23. f3 Ng4 24. Bb4 Rd8 25. Bd6 Nxe3 26. Rc5 Rxd6 27. Rxd5 Rxd5
+28. Qc3 Nf5 29. Kf2 Rd7 30. g4 Ne7 31. f4 g6 32. h4 Kg7 33. Bd3 Nc6 34. Be4 Ne7
+35. Bd3 Nc6 36. f5 b4 37. f6+ Kg8 38. Qc1 Nxe5 39. Be2 Nd3+ 40. Bxd3 Rxd3 41.
+Ke2 Rf3 42. g5 Rc3 43. Qf4 Rc8 44. Qd6 Be4 45. gxh6 g5 46. Qxb4 Bf5 47. hxg5 Kh7
+48. Qb7 Rc2+ 49. Kd1 Bg6 50. b4 Rc4 51. Qe7 Bh5+ 52. Ke1 Re4+ 53. Kf2 Rg4 54.
+Qc5 Rf4+ 55. Kg3 Rf5 56. Qe3 Bg6 57. Kh4 Rd5 58. Qb6 Bf5 59. Kg3 Kg6 60. Qa7
+Rd3+ 61. Kf4 Rh3 62. Ke5 Rh4 63. Qe7 Rh5 64. Qf8 Rxg5 65. Kd6 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.26"]
+[Round "11.1"]
+[White "Karjakin, Sergey"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2744"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[WhiteFideId "14109603"]
+[BlackFideId "2805677"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. a4 e6 8. a5
+Be7 9. Be2 O-O 10. O-O Qc7 11. Qd3 h6 12. Bd2 Nc5 13. Qe3 d5 14. exd5 exd5 15.
+Bf3 Rd8 16. Rfe1 Bd6 17. g3 Ne6 18. Qd3 Nc5 19. Qe2 Bh3 20. Be3 Be5 21. Qd1 Nce4
+22. Nce2 Bg4 23. c3 Qd7 24. Bg2 Nd6 25. f3 Nc4 26. Bc1 Bh3 27. Bxh3 Qxh3 28. b3
+Nd6 29. Nf4 Bxd4+ 30. Qxd4 Qc8 31. Qd3 Nb5 32. Ne2 Nd7 33. Nd4 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.26"]
+[Round "11.2"]
+[White "Nakamura, Hikaru"]
+[Black "Jakovenko, Dmitry"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2738"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4122356"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. a3 Bxc3+ 6. Qxc3 O-O 7. Bg5 Nbd7 8.
+e3 b6 9. Ne2 Ba6 10. Rd1 h6 11. Bxf6 Nxf6 12. Ng3 c5 13. Be2 Qc7 14. O-O Rac8
+15. Rc1 cxd4 16. Qxd4 Rfd8 17. Qd2 Qb8 18. Rfd1 d5 19. cxd5 Rxd5 20. Qe1 Rxc1
+21. Rxc1 Bxe2 22. Qxe2 Qd8 23. h3 Rd3 24. Nh5 Nxh5 25. Qxh5 Rd2 26. Qe5 Rxf2 27.
+Kxf2 Qd2+ 28. Kf3 Qxc1 29. Qb8+ Kh7 30. Qxa7 Qf1+ 31. Kg3 Qe1+ 32. Kh2 Qxe3 33.
+Qxf7 b5 34. Qd7 Qf4+ 35. Kg1 Qc1+ 36. Kh2 Qf4+ 37. Kg1 Qc4 38. Qd1 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.26"]
+[Round "11.3"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2803"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "24116068"]
+[BlackFideId "2020009"]
+[EventDate "2015.05.14"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. a3 a6 7. dxc5 Bxc5 8. b4 Ba7
+9. Bb2 O-O 10. Qc2 Qe7 11. Rd1 Rd8 12. Be2 dxc4 13. Rxd8+ Nxd8 14. Ne4 Nxe4 15.
+Qxe4 c3 16. Bxc3 Bd7 17. O-O Rc8 18. Bb2 Bc6 19. Qb1 Ba4 20. Bd3 h6 21. Qa1 Qf8
+22. g4 Bb8 23. g5 hxg5 24. Nxg5 f6 25. Ne4 Nf7 26. Qb1 Qe7 27. Rc1 Bc6 28. b5
+axb5 29. Bxb5 f5 30. Ng3 Ng5 31. Bxc6 bxc6 32. Rd1 c5 33. Ba1 Be5 34. Bxe5 Nf3+
+35. Kg2 Nxe5 36. Qb5 Qc7 37. Qa6 Qc6+ 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.26"]
+[Round "11.4"]
+[White "Dominguez Perez, Leinier"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2780"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "4126025"]
+[EventDate "2015.05.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14. Ncb4 Nxb4 15.
+Nxb4 Bd7 16. Bxa6 Qa5 17. Qxd6 Rb6 18. Qd3 Be7 19. Nd5 Rxb2 20. O-O Qc5 21. c4
+Rb3 22. Qe2 Bd6 23. Bb5 Bxb5 24. cxb5 Qxb5 25. Qg4 O-O 26. Nf6+ Kh8 27. Qf5 g6
+28. Qg5 Kg7 29. Nh5+ Kg8 30. Nf6+ Kg7 31. Nh5+ Kg8 32. Qh6 gxh5 33. Qg5+ Kh8 34.
+Qf6+ Kg8 1/2-1/2
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.26"]
+[Round "11.5"]
+[White "Svidler, Peter"]
+[Black "Jobava, Baadur"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2699"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Fort Knox variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "13601520"]
+[EventDate "2015.05.14"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. Qe2 Be7 8.
+Neg5 Bxg5 9. Nxg5 h6 10. Nf3 Qf6 11. Ne5 Nxe5 12. Qxe5 O-O-O 13. Be3 Qe7 14.
+O-O-O Nf6 15. f3 g5 16. c4 b6 17. Bd2 Nh5 18. d5 f6 19. Qe2 Ba4 20. b3 Bd7 21.
+g4 Ng7 22. Kb1 h5 23. h3 Qf7 24. Bc3 Kb8 25. Be4 Bc8 26. Rhe1 hxg4 27. hxg4 Bb7
+28. dxe6 Bxe4+ 29. Qxe4 Rxd1+ 30. Rxd1 Nxe6 31. Qf5 Rh6 32. Rd2 Qg6 33. Qxg6
+Rxg6 34. Rd5 Rh6 35. Rf5 Rh1+ 36. Kb2 Rh2+ 37. Kb1 Rh1+ 38. Kb2 Rh2+ 39. Ka3 a5
+40. Rxf6 Re2 41. Rf5 Rf2 42. Re5 Nf4 43. Rxg5 Rxf3 44. Kb2 Nd3+ 45. Kc2 Nb4+ 46.
+Bxb4 axb4 47. Rf5 Rg3 48. g5 Kc8 49. Kd2 Kd7 50. Ke2 Ke6 51. Rb5 Rg2+ 52. Kf3
+Rxa2 53. Rxb4 Ra1 54. Rb5 Kf7 55. Ke4 Rd1 56. b4 Re1+ 57. Kd5 Re6 58. Kd4 Re1
+59. c5 Rd1+ 60. Ke4 Re1+ 61. Kd5 Re6 62. Kd4 Rg6 63. cxb6 cxb6 64. Re5 Rc6 65.
+Kd5 Rc1 66. Kd6 1-0
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.26"]
+[Round "11.6"]
+[White "Tomashevsky, Evgeny"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2754"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "4147235"]
+[BlackFideId "623539"]
+[EventDate "2015.05.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6 8.
+Be2 Bg7 9. Nh3 O-O 10. Nf4 Bf5 11. Bxc4 Qd6 12. O-O Nc6 13. Bg3 e5 14. Nd3 Rad8
+15. Bb5 a6 16. Ba4 b5 17. Bb3 Bxd3 18. Qxd3 Na5 19. Qe4 Rfe8 20. dxe5 Qd3 21.
+Qb4 Nxb3 22. axb3 Bxe5 23. Bxe5 Rxe5 24. Rxa6 c5 25. Qa5 b4 26. Ra8 Ree8 27.
+Rxd8 Rxd8 28. cxb4 cxb4 29. Qxb4 Qc2 30. h4 h5 31. g3 Qb2 32. Qb5 Kg7 33. Kg2
+Rd2 34. Qc4 Rc2 35. Qd3 Rd2 36. Qc4 Rc2 37. Qa4 Qf6 38. Qe4 Rb2 39. Qd3 Kg8 40.
+Kg1 Kh7 41. Qc4 Kg8 42. Qd3 Kh7 43. Qd5 Kg7 44. Qc4 Kg8 45. b4 Qe7 46. Ra1 Qxb4
+47. Qd5 Rb1+ 48. Rxb1 Qxb1+ 49. Kg2 Kg7 50. Qe5+ Kg8 51. Qe8+ Kg7 52. Qe5+ Kg8
+53. e4 Qd3 54. Qf4 Qd7 55. Qg5 Qd3 56. Qe5 Qc4 57. Qd5 Qe2 58. Qc6 Kg7 59. Qc3+
+Kg8 60. Qf3 Qc4 61. g4 hxg4 62. Qxg4 Kf8 63. Qf4 Kg7 64. Qe3 Kg8 65. Kg3 Qf1 66.
+f3 Qa1 67. Kg4 Qb2 68. Kh3 Qa1 69. Kg3 Kg7 70. f4 Kh7 71. Qf3 Qg1+ 72. Kh3 Kh6
+73. f5 gxf5 74. Qf4+ Kg7 75. Qe5+ Kg8 76. Qxf5 Qh1+ 77. Kg4 Qd1+ 78. Kg5 Qc1+
+79. Kh5 Qc6 80. Kg4 Qb6 81. Qe5 Kh7 82. h5 Qg1+ 83. Kf5 Qb6 84. Kg4 Qg1+ 85. Qg3
+Qb6 86. Qf4 Kg7 87. Kh4 Kg8 88. Qe5 Kh7 89. Kg5 Qg1+ 90. Kf6 Qg7+ 91. Kf5 Qh6
+92. Kg4 Qb6 93. Qd5 Kg7 94. Qg5+ Kh7 95. Qf5+ Kg7 96. Qf4 Kg8 97. e5 Kg7 98. Qg3
+Kh6 99. Qf4+ Kg7 100. Kh4 Qc6 101. Qd4 Kh7 102. Qd6 Qg2 103. Qd3+ Kh6 104. Qe3+
+Kh7 105. Qf4 Qh1+ 106. Kg5 Qg2+ 107. Kf6 Qg7+ 108. Kf5 Qg1 109. Qc4 Qf2+ 110.
+Kg5 Qg3+ 111. Kf6 Qf3+ 112. Ke7 Qb7+ 113. Kd6 Qb6+ 114. Ke7 Qb7+ 115. Kd6 1/2-1/2
+

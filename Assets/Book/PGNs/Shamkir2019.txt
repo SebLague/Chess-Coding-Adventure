@@ -1,0 +1,1153 @@
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.03.31"]
+[Round "1.1"]
+[White "Anand,V"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2739"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "5000017"]
+[BlackFideId "309095"]
+[EventDate "2019.03.31"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 g6 7. f3 Bg7 8. Be3
+Nc6 9. Qd2 Nxd4 10. Bxd4 Be6 11. g4 b5 12. h4 Qa5 13. a3 h6 14. O-O-O Rb8 15. g5
+Nh5 16. Bxg7 Nxg7 17. gxh6 Nh5 18. Qg5 f6 19. Qxg6+ Bf7 20. Qg1 b4 21. axb4 Qxb4
+22. Kd2 Nf4 23. Qe3 Nxd3 24. Qxd3 Rxh6 25. Qxa6 Kf8 26. Ra1 d5 27. Ra4 Qc5 28.
+exd5 Rxb2 29. Qa7 Qd6 30. Qe3 Rg6 31. Ra8+ Kg7 32. Kc1 Qb4 33. Ra4 Rb1+ 34. Nxb1
+Qxa4 35. Qxe7 Rg2 36. Qe4 Qa7 37. Re1 Rg1 38. Nc3 Qa1+ 39. Kd2 Rg2+ 40. Re2 Rg1
+41. Qe7 Rd1+ 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.03.31"]
+[Round "1.2"]
+[White "Giri,A"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2740"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "2900084"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Qe7 7. Nbd2 Bg4 8.
+h3 Bh5 9. a3 Nd7 10. b4 Bd6 11. Nc4 f6 12. Ne3 Nf8 13. Nf5 Qd7 14. Be3 Ne6 15.
+c3 O-O-O 16. Ng3 Bxf3 17. Qxf3 Kb8 18. Rfd1 g6 19. d4 exd4 20. cxd4 Rhf8 21. Bh6
+Rf7 22. d5 cxd5 23. Rxd5 Qe8 24. Rad1 Rc8 25. Qg4 Bf8 26. Bxf8 Nxf8 27. Ne2 h5
+28. Qf3 Nd7 29. Nc3 Ne5 30. Qe2 Re7 31. f4 Nf7 32. R5d4 Nd6 33. Qd3 Re6 34. b5
+b6 35. a4 g5 36. f5 Re5 37. Rf1 Rd8 38. Rd1 Rc8 39. Ra1 g4 40. hxg4 hxg4 41. Rd1
+Kb7 42. Rd5 Rxd5 43. Qxd5+ Kb8 44. Qd4 Qh5 45. Nd5 g3 46. Nxf6 Qh2+ 47. Kf1 Qh1+
+48. Qg1 Qh4 49. Qd4 Qh1+ 50. Qg1 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.03.31"]
+[Round "1.3"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2845"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[WhiteFideId "13400924"]
+[BlackFideId "1503014"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. h3 d6 7. a4 a5 8. Nbd2
+Nd7 9. Re1 Nb6 10. Bb3 Kh8 11. c3 f5 12. exf5 Bxf5 13. Nf1 Bg6 14. Ng3 Bf6 15.
+Ne4 d5 16. Nxf6 Qxf6 17. Bg5 Qf5 18. Qd2 Rae8 19. Be3 Bh5 20. Bd1 Qd7 21. Bxb6
+cxb6 22. Qg5 Qf7 23. Qh4 Bg6 24. Bb3 Qd7 25. Qg3 d4 26. Nxe5 Nxe5 27. Rxe5 dxc3
+28. Rxe8 Rxe8 29. bxc3 Qxd3 30. Qxd3 Bxd3 31. Rd1 Be4 32. Rd6 Bc6 33. Bd5 Bxd5
+34. Rxd5 Re1+ 35. Kh2 h6 36. Rd7 Rc1 37. Rxb7 Rxc3 38. Rxb6 Rc4 39. Ra6 Rxa4 40.
+f4 Rxf4 41. Rxa5 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.03.31"]
+[Round "1.4"]
+[White "Karjakin,Sergey"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2812"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "14109603"]
+[BlackFideId "8603677"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. O-O O-O 7. Re1 a5 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Nh7 11. d4 Bb6 12. dxe5 h5 13. h4 Bg4 14. Nbd2 Nxe5 15. Be2
+Nxf3+ 16. Nxf3 Re8 17. Qd2 Bxf3 18. Bxf3 gxh4 19. Bf4 Qf6 20. Bxh5 Qg7 21. Bh6
+Qf6 22. Bf4 Qg7 23. Bh6 Qf6 24. Bf4 Qg7 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.03.31"]
+[Round "1.5"]
+[White "Grischuk,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2790"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "13401319"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Bf4 Rxe1 12. Qxe1 Ne8 13. c3 d5 14. Bd3 c6
+15. Nd2 g6 16. Qe2 Ng7 17. Re1 Bf5 18. Nf3 Bxd3 19. Qxd3 Qa5 20. a3 Re8 21.
+Rxe8+ Nxe8 22. Qe2 Qd8 23. g3 Qd7 24. Kg2 Kg7 25. Bb8 a6 26. Be5 Bxe5 27. Qxe5+
+f6 28. Qe2 Kf7 29. Ne1 Nd6 30. Nd3 a5 31. a4 b6 32. f3 Qe6 33. Kf2 Qh3 34. Kg1
+Qe6 35. Kf2 Qh3 36. Kg1 Qe6 37. Kf2 Qh3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.01"]
+[Round "2.1"]
+[White "Mamedyarov,S"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2790"]
+[BlackElo "2756"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "13401319"]
+[BlackFideId "13400924"]
+[EventDate "2019.03.31"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2
+c6 9. Rc1 b6 10. cxd5 cxd5 11. Qd1 Bb7 12. a3 a6 13. Bf4 Rc8 14. Nbd2 Rxc1 15.
+Rxc1 Qa8 16. Ne5 Nxe5 17. Bxe5 Rc8 18. Bxf6 Rxc1 19. Qxc1 Bxf6 20. e3 Qc8 21.
+Qxc8+ Bxc8 22. Bf1 e5 23. Nf3 exd4 24. Nxd4 Bxd4 25. exd4 Kf8 26. Kg2 Ke7 27.
+Kf3 Kd6 28. Bd3 h6 29. g4 g5 30. Kg3 f6 31. f4 a5 32. f5 Bd7 33. b4 axb4 34.
+axb4 b5 35. h4 Be8 36. h5 Bd7 37. Kf3 Kc7 38. Kg3 Kd6 39. Kf3 Kc7 40. Kg3 Kd6
+41. Kf3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.01"]
+[Round "2.2"]
+[White "Ding Liren"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2812"]
+[BlackElo "2771"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "8603677"]
+[BlackFideId "4126025"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 d6 5. e4 e6 6. Nc3 exd5 7. cxd5 Bg7 8. Nge2
+Nbd7 9. Ng3 h5 10. Be2 Nh7 11. Nf1 Qh4+ 12. g3 Qe7 13. Ne3 O-O 14. a4 Ne5 15.
+O-O Bh3 16. Re1 Rae8 17. Bd2 a6 18. Ra3 Qc7 19. f4 Nd7 20. Bxh5 c4 21. Bf3 Nc5
+22. Qc2 Nb3 23. Rxb3 cxb3 24. Qxb3 Kh8 25. Ncd1 f5 26. Nf2 fxe4 27. Bxe4 Bf5 28.
+Rc1 Qd7 29. Bf3 Nf6 30. Rc4 Qe7 31. Nxf5 gxf5 32. Kg2 Rc8 33. Rb4 Rc7 34. a5 Nd7
+35. Bd1 Qf7 36. Rxb7 Rxb7 37. Qxb7 Rb8 38. Qc6 Rxb2 39. Bc2 Bd4 40. Nd3 Qe7 41.
+Kf1 Rb8 42. Ne1 Nc5 43. Nf3 Bf6 44. Bxf5 Rb3 45. Qc8+ Kg7 46. Ng5 Bxg5 47. fxg5
+Rf3+ 48. Kg2 Qe2+ 49. Kh3 Rxf5 50. Qxf5 Qxd2 51. Qf6+ Kg8 52. Qg6+ Kh8 53. Qxd6
+Nd3 54. Qh6+ Kg8 55. Qe6+ Kg7 56. Qe7+ Kg8 57. d6 Nf2+ 58. Kh4 Qd4+ 59. Kh5 Qd1+
+60. g4 Nxg4 61. Qe8+ Kg7 62. Qd7+ Kh8 63. Qxg4 Qxd6 64. Qc8+ Kg7 65. Qc3+ Kh7
+66. Qc2+ Kg7 67. h4 Qe6 68. Qc7+ Kh8 69. Qd8+ Kh7 70. Qc7+ Kh8 71. Qb6 Qc4 72.
+Qd8+ Kg7 73. Qe7+ Kg8 74. Kh6 Qc6+ 75. g6 Qc1+ 76. Qg5 Qd1 77. Qf4 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.01"]
+[Round "2.3"]
+[White "Carlsen,M"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. a3 Qa5 10. Rd1 Rd8 11. Be2 Ne4 12. cxd5 Nxc3 13. bxc3 exd5 14. O-O h6 15.
+a4 Bd6 16. Bxd6 Rxd6 17. c4 Be6 18. c5 Rdd8 19. Rb1 Qc7 20. Qb2 Rab8 21. Nd4
+Nxd4 22. Qxd4 b6 23. cxb6 Rxb6 24. h3 Rc8 25. Rfd1 Qc3 26. Qxc3 Rxc3 27. a5 Rxb1
+28. Rxb1 Rc5 29. a6 g6 30. Rb7 Rc1+ 31. Kh2 Rc2 32. Bb5 Rb2 33. Kg3 Bc8 34. Rb8
+Kg7 35. Rxc8 Rxb5 36. Rc7 Ra5 37. Rxa7 Kf6 38. Ra8 Ra3 39. Kh2 h5 40. a7 Ra2 41.
+h4 Kf5 42. f3 Ra1 43. g3 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.01"]
+[Round "2.4"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2753"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 h6 8. Re1 O-O
+9. h3 a5 10. d4 Ba7 11. Bb3 Re8 12. Bc2 Bd7 13. Na3 Qc8 14. Nb5 Bb6 15. Bb1 exd4
+16. cxd4 Nb4 17. Ra3 Re7 18. e5 dxe5 19. dxe5 Nfd5 20. Nh4 Qe8 21. Qe2 Nc6 22.
+Nf3 Rd8 23. Kh2 f5 24. g4 fxg4 25. Qd3 g6 26. Qxd5+ Be6 27. Qe4 gxf3 28. Rg1 Bf7
+29. Ba2 Bxa2 30. Rxg6+ Qxg6 31. Qxg6+ Rg7 32. Qxg7+ Kxg7 33. Rxa2 Rd1 34. Ra1
+Kf7 0-1
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.01"]
+[Round "2.5"]
+[White "Topalov,V"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2739"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "309095"]
+[EventDate "2019.03.31"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Bxc5 6. Qg4 Ne7 7. Nf3 Qb6 8. Bd3
+Nbc6 9. O-O Ng6 10. Nc3 Qc7 11. Re1 O-O 12. Qh5 Bd7 13. b4 Be7 14. Bd2 f5 15.
+exf6 Bxf6 16. Rac1 Nd4 17. Nxd4 Bxd4 18. Nd1 Qb6 19. Be3 e5 20. c3 Bxe3 21. Nxe3
+Rae8 22. Bb1 d4 23. cxd4 exd4 24. Nc4 Qf6 25. f3 Rxe1+ 26. Rxe1 Bf5 27. Bxf5
+Qxf5 28. Qxf5 Rxf5 29. Re8+ Rf8 30. Rxf8+ Kxf8 31. Nd6 Nf4 32. Kf2 d3 33. Ke3
+Nxg2+ 34. Kxd3 Ne1+ 35. Ke4 Nc2 36. Nxb7 Nxa3 37. Nd8 Nc2 38. Nc6 a6 39. Kd3
+Ne1+ 40. Ke2 Nc2 41. Kd2 Na3 42. Kd3 Nb5 43. Nb8 Nc7 44. Ke4 Ke7 45. Ke5 Kd8 46.
+h4 g6 47. f4 Ke7 48. Nc6+ Kd7 49. Nd4 Ke7 50. Nc2 Ne8 51. Ne3 Nf6 52. f5 Kf7 53.
+Nc4 gxf5 54. Kxf5 Nd5 55. b5 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.02"]
+[Round "3.1"]
+[White "Grischuk,A"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2797"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "24116068"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. a3
+Bxc3+ 9. bxc3 c5 10. g4 cxd4 11. cxd4 dxc4 12. Bxc4 b6 13. g5 hxg5 14. Rg1 Ba6
+15. Bxa6 Nxa6 16. Nxg5 Qf5 17. e4 Qa5+ 18. Kf1 Qb5+ 19. Ke1 Qa5+ 20. Kf1 Qb5+
+21. Ke1 Qa5+ 22. Kf1 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.02"]
+[Round "3.2"]
+[White "Karjakin,Sergey"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2740"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14109603"]
+[BlackFideId "2900084"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. Nc3 O-O 10. Be3 Ba5 11. Qb3 Bxc3+ 12. bxc3 Na5 13. Qb4 b6 14. O-O Bf5 15.
+Rfc1 Rc8 16. Ba6 Rb8 17. Bd3 Re8 18. h3 c6 19. Bf4 Rb7 20. Qb2 b5 21. Qe2 Nc4
+22. Ng5 Nxg5 23. Bxf5 Ne6 24. Bg3 b4 25. Qg4 Qb8 26. h4 a5 27. h5 Qa7 28. Rab1
+Nd2 29. Rb2 Nc4 30. Rb3 Nd2 31. Rb2 Nc4 32. Rb3 Nd2 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.02"]
+[Round "3.3"]
+[White "Navara,D"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2845"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[WhiteFideId "309095"]
+[BlackFideId "1503014"]
+[EventDate "2019.03.31"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O Nd7 12. Kh1 a6 13. Na3 a5 14. f4 f5 15.
+Nc4 b6 16. Ra3 exf4 17. Bxf4 Nc5 18. Re3 g5 19. Rxe7 gxf4 20. Re6 Nxe6 21. dxe6
+Bxe6 22. Rxf4 Bxc4 23. Bxc4+ Kh8 24. g4 Qf6 25. c3 Qe5 26. Qf1 Rae8 27. gxf5 Rf6
+28. Qf2 Qc5 29. Kg2 Qc6+ 30. Kh3 Qc5 31. Kg2 Qxf2+ 32. Rxf2 Re4 33. Be6 Rxa4 34.
+Kf3 Kg7 35. Rd2 Kh6 36. Rxd6 Kg5 37. Rd8 Rh6 38. Rg8+ Kf6 39. Rb8 Rxh2 40. Rxb6
+Kg5 41. f6 Rf4+ 42. Kg3 Rhf2 43. Rb5+ Kxf6 44. Bg4 a4 45. c4 Kg6 46. c5 a3 47.
+bxa3 h5 48. Rb4 Rf8 49. Bd1 Rd2 50. Bf3 Rd3 51. Rf4 h4+ 52. Kg4 Rxf4+ 53. Kxf4
+Rxa3 54. c6 Rc3 55. Bd5 h3 56. Ke5 Rc5 57. Kd6 Rxd5+ 58. Kxd5 h2 0-1
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.02"]
+[Round "3.4"]
+[White "Radjabov,T"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2812"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "13400924"]
+[BlackFideId "8603677"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 15.
+g3 Qh3 16. Nd2 Rae8 17. Ne4 Bg4 18. Qg2 Qxg2+ 19. Kxg2 f5 20. h3 Bh5 21. Bf4
+Bxf4 22. gxf4 fxe4 23. dxe4 Bf3+ 24. Kxf3 Rxf4+ 25. Kg3 Rfxe4 26. Rxe4 Rxe4 27.
+f3 Re2 28. c4 bxc4 29. Bxc4 Rxb2 30. Bxa6 g5 31. Bc4 Kg7 32. Bxd5 cxd5 33. a4 h5
+34. h4 Kg6 35. a5 Rb7 36. a6 Ra7 37. hxg5 Kxg5 38. Ra5 h4+ 39. Kh3 Kf4 40. Rxd5
+Rxa6 41. Kxh4 Rh6+ 42. Rh5 Rxh5+ 43. Kxh5 Kxf3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.02"]
+[Round "3.5"]
+[White "Anand,V"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2790"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5000017"]
+[BlackFideId "13401319"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 Ba7 8. Na3 Ne7
+9. Nc2 Ng6 10. Be3 Bxe3 11. Nxe3 O-O 12. Qc2 c6 13. a5 d5 14. Bb3 Be6 15. exd5
+cxd5 16. d4 e4 17. Ne5 Qd6 18. f4 exf3 19. Nxf3 Rae8 20. Rfe1 Bd7 21. g3 h6 22.
+Qg2 Re7 23. Nc2 Rfe8 24. Nb4 Bb5 25. Rxe7 Rxe7 26. Bd1 h5 27. Qh3 Bd7 28. Qg2
+Bb5 29. Qh3 h4 30. Bc2 hxg3 31. Qxg3 Nf4 32. Kh1 Re3 33. Rg1 g6 34. Qf2 Re2 35.
+Qh4 Ne4 36. Bxe4 dxe4 37. Ne5 Nd3 38. Qh8+ Kxh8 39. Nxf7+ Kh7 40. Nxd6 Bd7 41.
+Nxe4 Bf5 42. Ng5+ Kh6 43. Nxd3 Bxd3 44. Rg3 Re1+ 45. Kg2 Re2+ 46. Kg1 Re1+ 47.
+Kf2 Re2+ 48. Kf3 Rxb2 49. Kf4 Bf5 50. Ke5 Rxh2 51. Nf7+ Kg7 52. Nd6 Re2+ 53. Kd5
+Kf6 54. c4 Re7 55. Rf3 Rd7 56. c5 Re7 57. Rf2 Rh7 58. Nxf5 gxf5 59. Kd6 Rh8 60.
+Rd2 f4 61. Kc7 Rh7+ 62. Kc8 f3 63. d5 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.03"]
+[Round "4.1"]
+[White "Mamedyarov,S"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2790"]
+[BlackElo "2739"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "309095"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. Bg5 h6 6. Bh4 dxc4 7. a3 Bxc3+ 8.
+bxc3 Nbd7 9. e3 b5 10. a4 c6 11. Qb1 Qa5 12. Qb2 Ne4 13. axb5 Qxb5 14. Qc1 c5
+15. Be2 O-O 16. O-O Bb7 17. Rb1 Qc6 18. Bxc4 cxd4 19. Bb5 Qc7 20. cxd4 Rfc8 21.
+Qb2 Nb6 22. Rfc1 Qd6 23. Ne5 g5 24. f3 gxh4 25. fxe4 Bxe4 26. Qf2 Qe7 27. Ra1
+Rxc1+ 28. Rxc1 Nd5 29. Bd3 Bxd3 30. Nxd3 Qf6 31. Qxf6 Nxf6 32. Kf2 a5 33. Ra1 a4
+34. Ra3 Ne4+ 35. Ke1 Rb8 36. Nc5 Rb1+ 37. Ke2 Rb2+ 38. Kd3 Nf6 39. Rxa4 Rxg2 40.
+d5 Rg5 41. Ne4 Rxd5+ 42. Ke2 Nxe4 43. Rxe4 h3 44. Rh4 Kg7 45. Rxh3 Kg6 46. Rh4
+Rh5 47. Rg4+ Rg5 48. Rh4 Rf5 49. Rg4+ Kh5 50. Ra4 Kg5 51. Rb4 Kg6 52. Rg4+ Rg5
+53. Rh4 Rh5 54. Rg4+ Kf6 55. Rf4+ Ke7 56. h4 Re5 57. Ra4 f5 58. Kf3 Kf6 59. Rb4
+Kg6 60. Kf4 Ra5 61. Kf3 Kh5 62. e4 Ra3+ 63. Kf2 f4 64. Rb6 Kg4 65. Rxe6 Ra2+ 66.
+Kg1 Kf3 67. Rxh6 Ke3 68. e5 f3 69. e6 Rg2+ 70. Kh1 Rg7 71. Kh2 f2 72. Rf6 Ke2
+73. Kh3 f1=R 74. Rxf1 Kxf1 75. h5 Kf2 76. Kh4 Kf3 77. h6 Rg1 78. Kh5 Kf4 79. h7
+Kf5 80. Kh6 Rg6+ 81. Kh5 Rg2 82. Kh6 Kxe6 83. h8=Q Rh2+ 84. Kg7 Rxh8 85. Kxh8
+Ke5 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.03"]
+[Round "4.2"]
+[White "Ding Liren"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2812"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "8603677"]
+[BlackFideId "5000017"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. cxd5 exd5 6. Qc2 c6 7. e3 Nbd7 8. Bd3
+O-O 9. g4 Bb4 10. Bd2 Qe7 11. Rg1 Bxc3 12. Bxc3 Ne4 13. g5 a5 14. a4 Re8 15. h4
+b6 16. h5 Ba6 17. Bxe4 dxe4 18. Nh4 Qe6 19. Rg3 Bd3 20. Qd1 b5 21. axb5 cxb5 22.
+Ng2 b4 23. Nf4 Qf5 24. Bd2 Nb6 25. g6 fxg6 26. hxg6 h6 27. Qg4 Qxg4 28. Rxg4 Nc4
+29. Nxd3 exd3 30. d5 Ne5 31. Rg3 Nc4 32. Rg4 Ne5 33. Rg3 Nc4 34. Rg4 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.03"]
+[Round "4.3"]
+[White "Topalov,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2845"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "1503014"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 8. e3
+Bf5 9. Ne5 c5 10. Bd3 cxd4 11. exd4 Bxd3 12. Qxd3 Qd6 13. Bxf6 Qxf6 14. O-O Bxc3
+15. Qxc3 Re8 16. Rac1 Nc6 17. Nxc6 Qxc6 18. Qxc6 bxc6 19. Rxc6 Re2 20. Ra6 Rxb2
+21. g3 Re8 22. Rxa7 Ree2 23. Ra5 Rxa2 24. Rxd5 Red2 25. h4 Ra4 26. Kg2 Raxd4 27.
+Rxd4 Rxd4 28. Kf3 h5 29. Kg2 g6 30. Kf3 Kg7 31. Kg2 Rd5 32. Kf3 Rf5+ 33. Kg2 Rd5
+34. Kf3 Rf5+ 35. Kg2 Rd5 36. Kf3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.03"]
+[Round "4.4"]
+[White "Karjakin,Sergey"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2771"]
+[ECO "D73"]
+[Opening "Neo-Gruenfeld, 5.Nf3"]
+[WhiteFideId "14109603"]
+[BlackFideId "4126025"]
+[EventDate "2019.03.31"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. c4 c6 6. cxd5 cxd5 7. Ne5 Ne4 8. Nc3
+Nxc3 9. bxc3 O-O 10. O-O Nc6 11. Nxc6 bxc6 12. Qa4 Qb6 13. e4 Qa6 14. Qb4 dxe4
+15. Bxe4 e5 16. dxe5 Bxe5 17. Be3 Be6 18. Qc5 Bg7 19. Rfd1 Rad8 20. Rxd8 Rxd8
+21. h4 Qc4 22. Qxc4 Bxc4 23. Bxa7 Bxc3 24. Rc1 Bd4 25. Bxd4 Rxd4 26. Bxc6 Bxa2
+27. Kg2 Bd5+ 28. Bxd5 Rxd5 29. Rh1 h5 30. Rg1 Kg7 31. Rh1 Kg8 32. Rg1 Kg7 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.03"]
+[Round "4.5"]
+[White "Giri,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2756"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "24116068"]
+[BlackFideId "13400924"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
+Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 Ba6 14. Kg2 Bxd3 15. Qxd3
+Ra7 16. Rfc1 Rfa8 17. Qd1 b5 18. Rab1 axb4 19. axb4 Ra3 20. Rb3 R3a7 21. Qe2 Bf6
+22. h4 h5 23. Rc2 g6 24. Ra2 Rxa2 25. Nxa2 Qa7 26. Rb2 Qa3 27. Qd2 Qa6 28. Nc1
+Qb7 29. Nd3 Ra7 30. Nde5 Qa8 31. Qe3 Kg7 32. Rb3 Kg8 33. Ng5 Nxe5 34. fxe5 Bxg5
+35. Qxg5 Ra3 36. Rxa3 Qxa3 37. Qd8+ Kg7 38. Qf6+ Kg8 39. Qd8+ Kg7 40. Qf6+ Kg8 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.04"]
+[Round "5.1"]
+[White "Grischuk,A"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2740"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4126025"]
+[BlackFideId "2900084"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 dxc4 8. O-O
+c5 9. dxc5 Nxc5 10. Bxc4 b6 11. Qc2 Bb7 12. Rfd1 Qc8 13. Nb5 a6 14. Nd6 Bxd6 15.
+Bxd6 Rd8 16. Rac1 Nce4 17. Bb4 Rxd1+ 18. Qxd1 Qe8 19. Be2 Rd8 20. Qb3 Bd5 21.
+Qa3 a5 22. Be1 h6 23. Ne5 Rc8 24. b3 Rxc1 25. Qxc1 Qb8 26. Qb2 Nc5 27. f3 Nfd7
+28. Bg3 Qc8 29. Nc4 Bxc4 30. Bxc4 Qc6 31. Qe2 f6 32. Bb5 Qd5 33. Bc4 Qc6 34. Qb2
+Kf7 35. h3 Nb7 36. Qd4 Ke7 37. Qg4 Kf7 38. Kh2 Ndc5 39. a3 g6 40. b4 axb4 41.
+axb4 h5 42. Qf4 Nd7 43. Ba6 Nd8 44. Qh6 Nf8 45. Bd3 f5 46. e4 Qd7 47. Qe3 Qc6
+48. Qd4 Qd7 49. Qc3 g5 50. exf5 exf5 51. Bc4+ Nde6 52. Qh8 Kg6 53. Be5 Qe7 54.
+Qg8+ Ng7 55. Qd5 Qd7 56. Bd6 Nfe6 57. Qe5 h4 58. Bb5 Qc8 59. Qd5 Qc3 60. Be8+
+Kh7 61. Bd7 Qe1 62. Be5 f4 63. Qd3+ Kh6 64. Bc3 Qe3 65. Qc4 Kg6 66. Bc6 Kf7 67.
+Bd5 Ne8 68. Bd4 b5 69. Qc6 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.04"]
+[Round "5.2"]
+[White "Radjabov,T"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2753"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "13400924"]
+[BlackFideId "14109603"]
+[EventDate "2019.03.31"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 c6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bxe7 Qxe7 14. f4 f6 15.
+exf6 Nxf6 16. Nd2 e5 17. e3 exf4 18. exf4 Rae8 19. Rac1 Qe3+ 20. Kh1 Qb6 21. b4
+Nd5 22. Nf3 Nxb4 23. Qb3+ Nd5 24. Ne5 Rd8 25. a4 bxa4 26. Qxa4 c5 27. Rb1 Qa6
+28. Qxa6 Bxa6 29. Rfc1 Ne3 30. Ra1 Nxg2 31. Rxa6 Rd2 32. Nc4 Re2 33. Kg1 Ne3 34.
+Re6 Rg2+ 35. Kh1 Rc2 36. Rxc2 Nxc2 37. Ra6 Ra8 38. Kg2 Nd4 39. Ra5 Re8 40. Rxa7
+Re2+ 41. Kh3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.04"]
+[Round "5.3"]
+[White "Carlsen,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2790"]
+[ECO "D32"]
+[Opening "QGD"]
+[Variation "Tarrasch defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "13401319"]
+[EventDate "2019.03.31"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c5 4. e3 Nf6 5. Nf3 a6 6. cxd5 exd5 7. g3 Nc6 8. Bg2 c4
+9. Ne5 Bb4 10. Bd2 O-O 11. O-O Re8 12. Nxc6 bxc6 13. b3 a5 14. Qc2 cxb3 15. axb3
+g6 16. Rfc1 Bf5 17. Qd1 Qd6 18. Ra2 h5 19. Na4 h4 20. Nc5 Kg7 21. Bxb4 axb4 22.
+Rxa8 Rxa8 23. Ra1 Rh8 24. Qe1 hxg3 25. hxg3 Ne4 26. Nxe4 Bxe4 27. Bxe4 dxe4 28.
+Ra5 Rh5 29. Rxh5 gxh5 30. Kg2 c5 31. dxc5 Qxc5 32. Qd1 Qc3 33. Qd5 Kf6 34. Qd6+
+Kg7 35. Qd5 Kf6 36. Qd6+ Kg7 37. Qd5 Kf6 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.04"]
+[Round "5.4"]
+[White "Anand,V"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2797"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "24116068"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Nbd2 Re8 7. O-O a6 8. Bxc6
+dxc6 9. Nc4 Nd7 10. Re1 Bf8 11. d4 exd4 12. cxd4 Nb6 13. Nxb6 cxb6 14. h3 b5 15.
+Bf4 Be6 16. Re3 f6 17. b3 Qd7 18. Qc2 Rad8 19. Rd1 Qf7 20. Bg3 Qh5 21. Bc7 Rd7
+22. Bb6 Bb4 23. Ne1 Bf7 24. Nd3 Bd6 25. Rde1 Bb8 26. f4 f5 27. Ne5 Bxe5 28. dxe5
+fxe4 29. Qxe4 Rd2 30. R3e2 Bd5 31. Qe3 Rxe2 32. Rxe2 Qf5 33. g4 Qb1+ 34. Kf2 h5
+35. f5 Qh1 36. Kg3 Re7 37. Bc5 Re8 38. e6 Kh7 39. Qg5 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.04"]
+[Round "5.5"]
+[White "Navara,D"]
+[Black "Ding Liren"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2812"]
+[ECO "D49"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Blumenfeld variation"]
+[WhiteFideId "309095"]
+[BlackFideId "8603677"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. e4 c5 10. e5 cxd4 11. Nxb5 axb5 12. exf6 gxf6 13. O-O Qb6 14. Qe2 b4 15.
+Bf4 h5 16. Rfc1 Bc5 17. a4 bxa3 18. bxa3 Ba6 19. Rab1 Bxd3 20. Qxd3 Rxa3 21.
+Qxa3 Bxa3 22. Rxb6 Bxc1 23. Rc6 Bxf4 24. Rc8+ Ke7 25. Rxh8 d3 26. Kf1 Nc5 27.
+Rxh5 Ne4 28. Rh4 e5 29. g3 d2 30. Nxd2 Nxd2+ 31. Ke2 Bg5 32. Rb4 e4 33. Rd4 Nb3
+34. Rxe4+ Kd6 35. h4 Bh6 36. h5 Kd7 37. Rb4 Nc1+ 38. Kf3 Ke6 39. Rb6+ Kf5 40.
+Rb5+ Ke6 41. Ke4 Ne2 42. Rb6+ Ke7 43. Kd3 Nc1+ 44. Kc4 Ne2 45. Rb1 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.06"]
+[Round "6.1"]
+[White "Giri,A"]
+[Black "Navara,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2739"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "309095"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 O-O 8. e3
+Bf5 9. Be2 Nbd7 10. Qb3 Ba5 11. O-O c6 12. Ne5 Qb6 13. Nxd7 Nxd7 14. Rfc1 Qxb3
+15. axb3 Bb4 16. Na2 Bd6 17. Bg3 Be7 18. Bc7 a5 19. Nc3 Rfe8 20. Na4 Bb4 21. Nb6
+Nxb6 22. Bxb6 Bd2 23. Rd1 Bb4 24. Rdc1 Bd2 25. Rd1 Bb4 26. Rdc1 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.06"]
+[Round "6.2"]
+[White "Grischuk,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2756"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[WhiteFideId "4126025"]
+[BlackFideId "13400924"]
+[EventDate "2019.03.31"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Nc6 6. O-O Be6 7. Nbd2 Qf6 8.
+a3 Nge7 9. b4 Ng6 10. Bb5 Be7 11. Nc4 Bxc4 12. Bxc4 O-O 13. Bd5 Rad8 14. Bd2 Rd7
+15. Qa4 Nf4 16. Bxf4 Qxf4 17. Bxc6 bxc6 18. Qxc6 Rfd8 19. Rfd1 d3 20. Rac1 h5
+21. Rc4 g5 22. h3 g4 23. e5 Qf5 24. hxg4 hxg4 25. Nd2 Rd5 26. Nf1 Rxe5 27. Ne3
+Qh5 28. Rxg4+ Kf8 29. Qf3 Bg5 30. Rd4 Qxf3 31. Rxd8+ Bxd8 32. gxf3 a5 33. Rxd3
+Be7 34. bxa5 Rxa5 35. Nc4 Ra4 36. Rc3 Bf6 37. Rc2 Be7 38. Rc3 Bf6 39. Rc2 Be7
+40. Rc3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.06"]
+[Round "6.3"]
+[White "Ding Liren"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2812"]
+[BlackElo "2845"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "8603677"]
+[BlackFideId "1503014"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 O-O 8. Nc3
+Bf5 9. O-O Ne4 10. Bf4 Nxc3 11. bxc3 Nc6 12. Nxc6 bxc6 13. Qa4 e6 14. Qxc6 Rc8
+15. Qa4 Rxc3 16. Rfc1 Rxc1+ 17. Rxc1 Qb6 18. e3 Qb2 19. Qd1 h5 20. a4 Bg4 21.
+Qe1 Be2 22. Bf1 Bxf1 23. Kxf1 Re8 24. Qc3 Qxc3 25. Rxc3 e5 26. dxe5 Bxe5 27. Rd3
+Bxf4 28. gxf4 Rd8 29. a5 Kf8 30. Ke2 Ke7 31. Rb3 Kd6 32. Kd3 Rd7 33. h4 Rc7 34.
+Rb8 Rc5 35. Rb7 Rxa5 36. Rxf7 Ra3+ 37. Kd4 Ra4+ 38. Kd3 Ra3+ 39. Kd4 Ra4+ 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.06"]
+[Round "6.4"]
+[White "Karjakin,Sergey"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "14109603"]
+[BlackFideId "5000017"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Rd8 11. Nd2 d4 12. Nb3 Qb6 13. Na4 Bb4+ 14. axb4 Qxb4+ 15.
+Nd2 e5 16. Bg5 Qa5 17. Qb3 Nb4 18. Bxf6 gxf6 19. Be2 Bd7 20. Ra1 dxe3 21. fxe3
+b5 22. O-O bxa4 23. Qc3 f5 24. Nf3 f6 25. Nh4 Nc6 26. Qa3 e4 27. Bd1 Ne5 28.
+Bxa4 Qxa4 29. Qxa4 Bxa4 30. Rxa4 f4 31. c5 fxe3 32. Rxe4 Rab8 33. Rxe3 Rxb2 34.
+h3 Rc2 35. Rxf6 Rxc5 36. Ra6 Nc6 37. Nf3 Rc8 38. Re6 Rc7 39. Kh2 Kg7 40. Ra4 h5
+41. Ra6 Ne7 42. Nd4 Nf5 43. Ne2 Rc4 44. Rg6+ Kf8 45. Rg5 Ng7 46. Rf6+ Rf7 47.
+Rh6 Ke7 48. Ra5 Ke8 49. Rh8+ Rf8 50. Rh7 Rf7 51. Re5+ Kd8 52. Rexh5 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.06"]
+[Round "6.5"]
+[White "Topalov,V"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2790"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Flohr-Zaitsev system (Lenzerheide variation)"]
+[WhiteFideId "2900084"]
+[BlackFideId "13401319"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Nbd2 Bf8 14. a3 g6 15. Ba2
+Bg7 16. b4 exd4 17. cxd4 a5 18. Rb1 axb4 19. d5 Ne5 20. Nxe5 dxe5 21. Rxb4 c6
+22. dxc6 Bxc6 23. Qf3 Bf8 24. Rb1 Ra4 25. Nf1 Rxe4 26. Rd1 Qe7 27. Bg5 Bg7 28.
+Ne3 Qxa3 29. Ra1 Qc5 30. Rdc1 Rc4 31. Qd1 Ne4 32. Bxc4 bxc4 33. Rxc4 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.07"]
+[Round "7.1"]
+[White "Mamedyarov,S"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2790"]
+[BlackElo "2812"]
+[ECO "D30"]
+[Opening "QGD"]
+[WhiteFideId "13401319"]
+[BlackFideId "8603677"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 dxc4 5. Qa4+ Nbd7 6. e4 Be7 7. Nc3 O-O 8.
+Bxc4 Nb6 9. Qb3 Nxc4 10. Qxc4 a6 11. O-O b5 12. Qe2 Bb7 13. Bxf6 Bxf6 14. Rfd1
+Qe8 15. Qe3 e5 16. dxe5 Bxe5 17. Nxe5 Qxe5 18. f3 Rad8 19. Rxd8 Rxd8 20. Rd1
+Rxd1+ 21. Nxd1 h6 22. Qc3 Qxc3 23. Nxc3 c5 24. a3 Kf8 25. b4 Ke7 26. Kf2 Kd6 27.
+Ke3 Bc8 28. f4 Be6 29. e5+ Kc6 30. h3 h5 31. Ne4 cxb4 32. axb4 Kd5 33. Nd6 h4
+34. Ne8 g6 35. Nc7+ Kc4 36. Nxe6 fxe6 37. g4 hxg3 38. h4 Kd5 39. Kf3 Kc6 40.
+Kxg3 a5 41. bxa5 b4 42. h5 gxh5 43. f5 b3 44. f6 b2 45. f7 b1=Q 46. f8=Q Qg1+
+47. Kh3 Qg4+ 48. Kh2 Qe2+ 49. Kh3 Qxe5 50. Qb4 Qb5 51. Qe4+ Qd5 52. Qb4 Qb5 53.
+Qe4+ Qd5 54. Qb4 Qb5 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.07"]
+[Round "7.2"]
+[White "Navara,D"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2753"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[WhiteFideId "309095"]
+[BlackFideId "14109603"]
+[EventDate "2019.03.31"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qb3 Rb8 8.
+d4 b5 9. Ne5 Nxe5 10. dxe5 Nd7 11. O-O c5 12. a4 Be7 13. axb5 O-O 14. Rd1 Qc7
+15. Nc3 axb5 16. Nxb5 Qb6 17. Qa4 Nxe5 18. Bf4 Bf6 19. Nc3 Bb7 20. Bxb7 Qxb7 21.
+Ne4 Qxb2 22. Ra2 Qb4 23. Qxb4 cxb4 24. Ra5 Nc4 25. Bxb8 Nxa5 26. Bd6 Rd8 27. Rb1
+Nc6 28. Rc1 Nd4 29. Kf1 b3 30. Rb1 Nf5 31. Nxf6+ gxf6 32. Bb4 Rb8 33. Rxb3 h5
+34. Rb2 Kg7 35. Bc3 Rc8 36. Rb3 Rc4 37. Kg2 Nd4 38. Bxd4 Rxd4 39. e3 Ra4 40. Rb5
+f5 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.07"]
+[Round "7.3"]
+[White "Carlsen,M"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2797"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "1503014"]
+[BlackFideId "24116068"]
+[EventDate "2019.03.31"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Bc5 7. O-O O-O 8. d3
+h6 9. Nxd5 Qxd5 10. a3 a5 11. Bd2 Qe6 12. Rc1 Qe7 13. Bc3 Nd4 14. e3 Nxf3+ 15.
+Qxf3 Bd6 16. Qh5 c6 17. f4 exf4 18. gxf4 Qxe3+ 19. Kh1 Rd8 20. Rce1 Qc5 21. f5
+Bf8 22. Be4 Rd5 23. Rf3 b5 24. Rg1 Ra7 25. Bf6 g6 26. Qh3 Rd6 27. Qh4 Rxf6 28.
+Qxf6 Be7 29. Qxc6 Qxc6 30. Bxc6 Kg7 31. fxg6 fxg6 32. d4 a4 33. d5 b4 34. Be8
+Bg5 35. h4 Bxh4 36. Rxg6+ Kh7 37. Rc6 Bg4 38. Rf4 Rg7 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.07"]
+[Round "7.4"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2740"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "2900084"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nc3 a5 10. Bd2 g6 11. Ne4 Bg7 12. Nf6+ Kd8 13. O-O-O Ba6 14. Qg4 Kc8
+15. Bxa5 h5 16. Qg3 h4 17. Qg4 Qxe5 18. Bc3 Qf5 19. Qxf5 gxf5 20. Nxd7 Bxc3 21.
+Nxb6+ cxb6 22. bxc3 Kc7 23. Be2 Rag8 24. Rhg1 c5 25. g3 hxg3 26. hxg3 Rh2 27.
+Rgf1 f4 28. Rd2 Bc8 29. Bf3 fxg3 30. fxg3 Rxd2 31. Kxd2 Rxg3 32. Bd5 Be6 33.
+Bxe6 fxe6 34. Rf7+ Kd6 35. Rb7 Kc6 36. Re7 Kd6 37. Rb7 Kc6 38. Re7 Kd6 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.07"]
+[Round "7.5"]
+[White "Anand,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2771"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "4126025"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 d5 6. Nbd2 dxe4 7. dxe4 O-O 8.
+O-O a5 9. Bxc6 bxc6 10. Nxe5 Re8 11. Nb3 Qxd1 12. Rxd1 Bb6 13. Nc4 Nxe4 14. Nxb6
+cxb6 15. f3 Nc5 16. Nxc5 bxc5 17. Rd6 Bf5 18. Bf4 Re6 19. g4 Rxd6 20. Bxd6 Be6
+21. Bxc5 a4 22. Kf2 h5 23. h3 hxg4 24. hxg4 Rb8 25. b3 axb3 26. axb3 Rxb3 27.
+Bd4 c5 28. Bxc5 Rxc3 29. Be3 Rc2+ 30. Kg3 Rc3 31. Kf2 Rc2+ 32. Kg3 Rc3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.08"]
+[Round "8.1"]
+[White "Grischuk,A"]
+[Black "Navara,D"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2739"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "309095"]
+[EventDate "2019.03.31"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Nc6 6. Nf3 Bxc5 7. b4 Bb6 8. b5 Nb8
+9. Bb2 a6 10. a4 Nh6 11. Be2 axb5 12. axb5 Rxa1 13. Bxa1 Nd7 14. O-O O-O 15. c4
+f6 16. Nbd2 Ng4 17. exf6 Ndxf6 18. h3 Nxf2 19. Rxf2 Ne4 20. Nxe4 dxe4 21. Qxd8
+Rxd8 22. Ng5 Rd2 23. c5 Bxc5 24. Nxe4 Bxf2+ 25. Kxf2 Rc2 26. Ke3 Bd7 27. Nd6 Rc5
+28. Nxb7 Rg5 29. b6 Rxg2 30. Na5 Bc8 31. Be5 Rg1 32. b7 Bxb7 33. Nxb7 Rh1 34.
+Bg4 Kf7 35. Nd6+ Ke7 36. Ne4 h5 37. Ng3 Re1+ 38. Be2 g6 39. h4 Ra1 40. Bxa1 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.08"]
+[Round "8.2"]
+[White "Radjabov,T"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2756"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13400924"]
+[BlackFideId "5000017"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ 11. Nd2 d4 12. Qc2 h6 13. O-O Nc6 14. a3 Bd6 15.
+Bxd6 Qxd6 16. e4 Ne5 17. Nc4 Nxc4 18. Qxc4 Be6 19. Qb4 Qxb4 20. axb4 Rfc8 21.
+Rfc1 g5 22. Kf1 Rxc1+ 23. Rxc1 a5 24. b5 a4 25. Ke2 a3 26. bxa3 Rxa3 27. Rc7
+Ra2+ 28. Ke1 b6 29. Rc6 Ra1+ 30. Kd2 Ra2+ 31. Ke1 Ra1+ 32. Kd2 Ra2+ 33. Ke1 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.08"]
+[Round "8.3"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2753"]
+[BlackElo "2845"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan (Lasker/Sveshnikov) variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "1503014"]
+[EventDate "2019.03.31"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Ng6 10. Qa4 Bd7 11. Qb4 Bf5 12. Qa4 Bd7 13. Qb4 Bf5 14. h4 h5 15.
+Bg5 Qb8 16. Be2 a6 17. Nc3 Qc7 18. g3 Be7 19. Be3 e4 20. O-O O-O 21. Bxh5 Ne5
+22. Be2 Qd7 23. Qa4 Qc8 24. c5 dxc5 25. Nxe4 c4 26. Nc3 b5 27. Qd1 b4 28. Na4
+Be4 29. Qd4 Qf5 30. f4 Qg6 31. Bf2 Nd3 32. h5 Qf5 33. Bg4 Qxg4 34. Qxe4 Bd6 35.
+Qg2 Rae8 36. Bd4 Qxh5 37. Qf3 Qg6 38. Kh1 Re4 39. Bf2 Rfe8 0-1
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.08"]
+[Round "8.4"]
+[White "Topalov,V"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2812"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "8603677"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Qc2 d5 6. Bg5 h6 7. Bxf6 Qxf6 8. a3
+Bxc3+ 9. Qxc3 dxc4 10. Qxc4 Nc6 11. Qc3 Re8 12. Ne5 Rb8 13. g3 Rd8 14. e3 Nxe5
+15. dxe5 Qf3 16. Rg1 Qc6 17. Qxc6 bxc6 18. Rb1 c5 19. Be2 Kf8 20. f3 Ke7 21. Bc4
+Rb6 22. Ke2 Bd7 23. b3 Rdb8 24. Rbc1 Bb5 25. Rgd1 Ra6 26. Bxb5 Rxb5 27. Rd3 Rxa3
+28. Rcd1 Ra2+ 29. Ke1 Rb8 30. Rd7+ Kf8 31. Rxc7 Kg8 32. Rd2 Rxd2 33. Kxd2 Rxb3
+34. Rxc5 Rb2+ 35. Kd3 Rxh2 36. g4 Ra2 37. Rc8+ Kh7 38. Rc7 Kg6 39. f4 Rg2 40.
+Ke4 Rxg4 41. Kf3 Rg1 42. Rxa7 h5 43. Ra8 Kh7 44. Rf8 Kg6 45. Rh8 Ra1 46. Kg2 Ra5
+47. Kf3 Rb5 48. Re8 Rb7 49. Rh8 Ra7 50. Kg2 f6 51. exf6 gxf6 52. Re8 Kf7 53. Rh8
+Ra5 54. Kf3 Kg7 55. Re8 e5 56. Ke4 h4 57. fxe5 fxe5 58. Kf5 h3 59. Re7+ Kh6 60.
+Re8 Ra7 61. Rb8 h2 62. Rb6+ Kh5 63. Rb1 Kh4 64. e4 Re7 65. Ra1 Re8 66. Rb1 Kg3
+67. Rb3+ Kg2 68. Rb2+ Kh3 69. Rb3+ Kh4 70. Rb1 Rh8 71. Kxe5 Kg3 72. Rh1 Kg2 73.
+Rxh2+ Rxh2 74. Kf6 Kf3 75. e5 Kf4 76. e6 Rh6+ 77. Kf7 Kf5 78. e7 Rh7+ 79. Kf8
+Kf6 80. e8=N+ Kg6 81. Nd6 Rd7 82. Ne8 Rf7+ 83. Kg8 Ra7 84. Kf8 Rd7 85. Kg8 Rf7
+86. Nd6 Rd7 87. Ne8 Kf5 88. Kf8 Kg5 89. Kg8 Kg6 90. Kf8 Rf7+ 91. Kg8 Rf1 92. Ng7
+Kf6 93. Nh5+ Kg5 94. Ng7 Kg6 95. Ne8 Rf3 96. Ng7 Kf6 97. Nh5+ Ke6 98. Kh7 Kf5
+99. Ng7+ Kf6 100. Nh5+ Kg5 101. Ng7 Rh3+ 102. Kg8 Kf6 103. Ne8+ Ke6 104. Ng7+
+Ke7 105. Nf5+ Kf6 106. Nd6 Rh5 107. Nf7 Rd5 108. Nh6 Rd8+ 109. Kh7 Rd7+ 110. Kg8 0-1
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.08"]
+[Round "8.5"]
+[White "Giri,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2790"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "24116068"]
+[BlackFideId "13401319"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 Ng4
+9. Rf1 Nf6 10. Nbd2 Ne7 11. Re1 Ng6 12. Nf1 O-O 13. Ng3 c6 14. Bb3 Re8 15. h3 d5
+16. Bg5 Be6 17. d4 exd4 18. exd5 cxd5 19. Nxd4 h6 20. Be3 Bd7 21. Ndf5 Bxe3 22.
+Nxe3 Be6 23. a5 Qc7 24. Qd4 Ne7 25. Ba4 Bd7 26. Bc2 Rad8 27. Qh4 Be6 28. Bf5 Qd7
+29. Bxe6 fxe6 30. Ng4 Nxg4 31. Qxg4 Nc6 32. Nh5 Kh7 33. Nf4 e5 34. Qxd7 Rxd7 35.
+Rad1 d4 36. cxd4 Nxd4 37. Kf1 Rdd8 38. Nd3 Nb3 39. f3 Rd5 40. Nf2 Rxa5 41. Rd7
+Nc5 42. Rd5 Nb3 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.09"]
+[Round "9.1"]
+[White "Navara,D"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2739"]
+[BlackElo "2756"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "309095"]
+[BlackFideId "13400924"]
+[EventDate "2019.03.31"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. O-O
+Nbc6 9. Bb5 a6 10. Bxc6+ Nxc6 11. Nxf5 exf5 12. c3 Be7 13. Nd2 Qd7 14. Nf3 Qe6
+15. Qb3 O-O 16. Bb6 Bd8 17. Bc5 Na5 18. Qc2 Re8 19. Rfe1 Rc8 20. Nd4 Qd7 21. Bb4
+g6 22. Bxa5 Bxa5 23. Qb3 Rcd8 24. Re2 Qc7 25. e6 f6 26. Rd1 Rd6 27. Nf3 Qc6 28.
+Red2 Bb6 29. Rxd5 Rxd5 30. Qxd5 Qxd5 31. Rxd5 Rxe6 32. Kf1 Re7 33. c4 Kf7 34. b4
+Bc7 35. h3 Ke8 36. a4 b6 37. b5 axb5 38. axb5 Re4 39. c5 bxc5 40. Rxc5 Kd7 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.09"]
+[Round "9.2"]
+[White "Ding Liren"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2812"]
+[BlackElo "2797"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "8603677"]
+[BlackFideId "24116068"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Bd7 12. Qb3 Nc6 13. Nxc6 Bxc3 14. Qxc3
+Bxc6 15. Qxf6 gxf6 16. Rfd1 Rfd8 17. f3 f5 18. Kf2 Kg7 19. Be2 Kf6 20. Rxd8 Rxd8
+21. Rd1 Rxd1 22. Bxd1 b6 23. a3 Bb5 24. Bc2 Bc6 25. Bd1 Bb5 26. Bc2 Bc6 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.09"]
+[Round "9.3"]
+[White "Carlsen,M"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2845"]
+[BlackElo "2771"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "4126025"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Ba4 Ne7 8. Bc2
+Ng6 9. d4 Bb6 10. a4 c6 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qxd8 Rxd8 14. a5 Bc5 15.
+Nd2 Be6 16. Re1 b5 17. Nb3 Bxb3 18. Bxb3 Ng4 19. Re2 Rd6 20. Bg5 Kf8 21. Rf1 Nf6
+22. g3 a6 23. Kg2 Nd7 24. Bc1 Ba7 25. f4 f6 26. h4 Re8 27. h5 h6 28. Ba2 c5 29.
+Be3 exf4 30. gxf4 Rxe4 31. Bb1 Re7 32. Rfe1 f5 33. Bxf5 Nf6 34. Kf3 Nd5 35. Rd2
+Rd8 36. Be4 Red7 37. Red1 Nf6 38. Rxd7 Nxd7 39. Rd6 1-0
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.09"]
+[Round "9.4"]
+[White "Mamedyarov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2790"]
+[BlackElo "2753"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13401319"]
+[BlackFideId "14109603"]
+[EventDate "2019.03.31"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. Rd1 Rd8 11. Be2 Ne4 12. cxd5 Nxc3 13. bxc3 exd5 14. O-O h6
+15. a4 Bd6 16. Bxd6 Rxd6 17. c4 Rb8 18. c5 Rd8 19. Rd2 Be6 20. Rb1 Rdc8 21. Nd4
+Nxd4 22. exd4 Bd7 23. Bb5 Bf5 24. Bd3 Bd7 25. Bb5 Bf5 26. Bd3 Bd7 27. Bb5 1/2-1/2
+
+[Event "Vugar Gashimov Mem 2019"]
+[Site "Shamkir AZE"]
+[Date "2019.04.09"]
+[Round "9.5"]
+[White "Anand,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2740"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "5000017"]
+[BlackFideId "2900084"]
+[EventDate "2019.03.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. c3 a6 7. b4 Ba7 8. a4 O-O
+9. Nbd2 Ne7 10. h3 c6 11. Re1 Ng6 12. d4 Re8 13. Bd3 Qc7 14. a5 Bd7 15. Nf1 d5
+16. Nxe5 Nxe5 17. Bf4 Nxe4 18. Bxe4 dxe4 19. Rxe4 f6 20. dxe5 fxe5 21. Bg3 Bf5
+22. Re2 Qf7 23. Ne3 Rad8 24. Rd2 Rxd2 25. Qxd2 Be6 26. Re1 e4 27. Qe2 Qf6 28.
+Qc2 Qg6 29. Qd2 Qf6 30. Qc2 Qg6 31. Qd2 Qf6 1/2-1/2

@@ -1,0 +1,1275 @@
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.22"]
+[Round "1.4"]
+[White "Ivanchuk,V"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2760"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 a5 10.a3 Bd7 11.Rb1 a4 12.b4 axb3 13.Nxb3 b6 14.Ra1 Ba4 15.f3 Nd7 16.Nxa4 Rxa4
+17.Bd3 Qa8 18.Qe2 Kh8 19.Bb2 f5 20.Bc2 Ra7 21.Rae1 f4 22.Ra1 Nf6 23.a4 g5
+24.Bc3 h5 25.a5 bxa5 26.Nxa5 c5 27.Ra4 g4 28.Rfa1 Qe8 29.Kh1 Rc7 30.Nb3 Qd7
+31.Ra6 Nc8 32.Nd2 Ra7 33.Ba4 Qe7 34.Rxa7 Nxa7 35.Nb3 Qf7 36.Nc1 Qg6 37.Nd3 h4
+38.Nf2 g3 39.Nh3 Rb8 40.Bc2 Nc8 41.Ra6 Nh7 42.Qd1 Ng5 43.Nxg5 Qxg5 44.h3 Qe7
+45.Qa1 Kg8 46.Kg1 Bf8 47.Kf1 Nb6 48.Bd3 Qc7 49.Ke2 Be7 50.Kd1 Bd8 51.Kc2 Qd7
+52.Be2 Rb7 53.Qa2 Nc8 54.Kd3 Ra7 55.Bd1 Qb7 56.Rxa7 Qxa7 57.Qxa7 Nxa7 58.Ba4 Nc8
+59.Bd7 Nb6 60.Be6+ Kf8 61.Ba5 Ke7 62.Bxb6 Bxb6  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.22"]
+[Round "1.5"]
+[White "Svidler,P"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2769"]
+[BlackElo "2725"]
+[ECO "D35"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Rb1 cxd4 8.cxd4 Nc6
+9.Bb5 a6 10.Bxc6+ bxc6 11.Nf3 c5 12.O-O Be7 13.Be3 cxd4 14.Nxd4 Bd7 15.Qg4 O-O
+16.Rfd1 Qe8 17.e5 Kh8 18.h3 Rb8 19.Qe4 h6 20.Rdc1 Qd8 21.Rb7 Ba3 22.Rc3 Be7
+23.Rcc7 Bc8 24.Ra7 Ba3 25.Rxf7 Rxf7 26.Rxf7 Qg8 27.Qf3 Bb2  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.22"]
+[Round "1.6"]
+[White "Kasimdzhanov,R"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2699"]
+[BlackElo "2775"]
+[ECO "A56"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 d6 5.e4 Bg7 6.h3 O-O 7.Nf3 e6 8.Bd3 Nh5 9.O-O e5
+10.Re1 Nf4 11.Bxf4 exf4 12.e5 dxe5 13.Nxe5 Nd7 14.Nf3 Bxc3 15.bxc3 Nf6 16.Qd2 Nh5
+17.Re5 f5 18.Rae1 Qd6 19.Bc2 Bd7 20.Qd1 a6 21.Ba4 b5 22.Bb3 Rae8 23.cxb5 axb5
+24.c4 b4 25.Rxe8 Rxe8 26.Rxe8+ Bxe8 27.Qa1 Nf6 28.Qe5 Qxe5 29.Nxe5 Nd7 30.Nd3 Kf8
+31.Nxf4 Ke7 32.Nd3 Kd6 33.f4 Nf6 34.Kf2 Bd7 35.Ke3 Bc8 36.Ne5 Ke7 37.Bc2 Ne8
+38.g4 Nd6 39.g5 Bd7 40.Kd2 Nc8 41.Kc1 Nb6 42.Kb2 Na4+ 43.Bxa4 Bxa4 44.a3 bxa3+
+45.Kxa3 Bc2 46.Kb2 Ba4 47.Nd3 Kd6 48.Nf2 Ke7 49.Kc3 Kd6 50.h4 Ke7 51.Nd3 Kd6
+52.Nb2 Be8 53.Nd1 Ba4 54.Ne3 Bd7 55.Nf1 Ba4 56.h5 Bd7 57.Ng3 Be8 58.Kd2 Ke7
+59.Kc3 Kd6 60.Kd3 Ke7 61.Ke2 Ba4 62.Nf1 Bd7 63.Kf2 Ba4 64.Kg3 Bd1 65.h6 Ba4
+66.Ne3 Kf7 67.d6 Bc6 68.d7 Bxd7 69.Nd5  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.22"]
+[Round "1.3"]
+[White "Ponomariov,R"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2774"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a4 Bd7
+9.c3 Na5 10.Bc2 c5 11.d4 Qb8 12.Bg5 h6 13.Bh4 Be6 14.Nbd2 O-O 15.h3 Rc8 16.Bg3 cxd4
+17.cxd4 Nh5 18.Bh2 Nf4 19.axb5 axb5 20.Bxf4 exf4 21.Bd3 Nc4 22.Qe2 Rxa1 23.Rxa1 Bf6
+24.Rc1 Nxd2 25.Rxc8+ Bxc8 26.Qxd2 g5 27.Qe2 g4 28.hxg4 Bxg4 29.e5 dxe5 30.dxe5 Bxf3
+31.gxf3 Qxe5 32.Qxe5 Bxe5 33.Bxb5 Bxb2 34.Kg2 Kg7 35.Bc4 Kg8 36.Bb3 Kg7 37.Bc4 Kg8
+38.Bb3 Kg7 39.Bc4  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.22"]
+[Round "1.2"]
+[White "Kamsky,G"]
+[Black "Dominguez Perez,L"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2723"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bc1 Nf6 8.a4 Nc6
+9.Be2 g6 10.Be3 Bg7 11.O-O O-O 12.Qd2 Bd7 13.f3 Nxd4 14.Bxd4 Qa5 15.Rfd1 Kh8
+16.Nb1 Qxd2 17.Nxd2 Be6 18.a5 Rfc8 19.c3 Nd7 20.Ra4 Rc7 21.Be3 Kg8 22.Rb4 Kf8
+23.Kf2 Rac8 24.g4 Ne5 25.Kg3 Nc6 26.Ra4 Ne5 27.f4 Nc4 28.Bxc4 Bxc4 29.Nxc4 Rxc4
+30.Rxc4 Rxc4 31.e5 Rc6 32.Kf3 f5 33.gxf5 dxe5 34.fxg6 hxg6 35.Rd7 exf4 36.Bf2 Be5
+37.Rxb7 Ke8 38.Ke4 Bc7 39.Bb6 Re6+ 40.Kf3 Bd6 41.b4 Re5 42.Bd4 Rh5 43.h4 Kd8
+44.Rb6 Rxh4 45.Rxd6+  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.22"]
+[Round "1.1"]
+[White "Topalov,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2793"]
+[BlackElo "2779"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 d6 5.Qc2 Nbd7 6.g3 b6 7.Bg2 Bb7 8.O-O O-O
+9.Rd1 a6 10.a3 Bxc3 11.Qxc3 b5 12.b3 bxc4 13.bxc4 Rb8 14.Be3 h6 15.Qa5 Ne4
+16.c5 Ndf6 17.Rac1 Bd5 18.Qxa6 Ng4 19.Rd3 Qe7 20.Qa5 Rb2 21.h3 Ra8 22.Qe1 Ngf6
+23.Nh2 Nd7 24.f3 Nef6 25.cxd6 cxd6 26.Bd2 Nb6 27.Bb4 Bc4 28.Rd2 Rxd2 29.Qxd2 Nfd5
+30.Nf1 Nxb4 31.Qxb4 Qc7 32.Ne3 d5 33.Qc5 Qa7 34.Kf2 Qxa3 35.Qxa3 Rxa3 36.Bf1 Rb3
+37.h4 Rb4 38.g4 g5 39.hxg5 hxg5 40.Ke1 Kg7 41.Kf2 Bb5 42.Nc2 Rb3 43.Ne3 Kf6
+44.Rc7 Nc4 45.Nxc4 Bxc4 46.Ra7 Rb1 47.Ra4 Rd1 48.Rb4 Rxd4 49.Ke1 Rf4 50.e3 Rxf3
+51.Bxc4 dxc4 52.Ke2 Rh3 53.Rxc4 Ke5 54.Rc5+ Ke4 55.Rc4+ Kd5 56.Ra4 f5 57.gxf5 exf5
+58.Ra5+ Ke4 59.Ra4+ Ke5 60.Ra5+ Kf6 61.Ra6+ Kg7 62.Rb6 Rh6 63.Rb5 Kg6 64.Kf2 Rh2+
+65.Kg3 Re2 66.Kf3 Rd2 67.Rb8 Kf7 68.Rb6 g4+ 69.Kf4 Rf2+ 70.Kg5 Rf1 71.Ra6 Rf3
+72.Rf6+ Ke7 73.Rg6 Rf1 74.Ra6 Rf2 75.Rb6 Rf3 76.Rg6 Rf2 77.Ra6 g3 78.Ra1 Ke6
+79.Kh4 g2 80.Kg3 Rb2 81.Rg1 Ke5 82.Rxg2 Rxg2+ 83.Kxg2 Ke4 84.Kf2 f4 85.exf4 Kxf4  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.23"]
+[Round "2.3"]
+[White "Morozevich,A"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2769"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Ba4 Bc5 6.Nxe5 O-O 7.Nd3 Bb6 8.e5 Ne8
+9.Nd5 c6 10.Ne3 d5 11.O-O f6 12.c3 Nf5 13.b4 Qc7 14.b5 fxe5 15.Ba3 Rf6 16.Nb4 e4
+17.bxc6 Rh6 18.h3 Nh4 19.Nbxd5 Qe5 20.cxb7 Nf3+ 21.Qxf3 exf3 22.bxa8=Q  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.23"]
+[Round "2.1"]
+[White "Bacrot,E"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2699"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Rxb7 Bxf3 14.Bxf3 Bxd4
+15.Bb4 Rd8 16.Qc1 Na6 17.Bxe7 Rac8 18.Qf4 Nc5 19.Bxc5 Rxc5 20.Bd1 Be5 21.Qe3 Qa5
+22.Bb3 Rc7 23.Rxc7 Qxc7 24.g3 Bd4 25.Qf3 Kg7 26.Kg2 Be5 27.Rd1 Rxd1 28.Qxd1 Qd6
+29.Qxd6 Bxd6 30.f4 f6 31.Kf3 a5 32.Ba4 Bc7 33.Bb3 Bd6 34.Ba4 Bc7 35.Bb3  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.23"]
+[Round "2.4"]
+[White "Caruana,F"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2755"]
+[ECO "C76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 g6 6.d4 Bd7 7.O-O Bg7 8.h3 h6 9.Be3 Nge7
+10.Nbd2 O-O 11.dxe5 dxe5 12.Bc5 Re8 13.Re1 b6 14.Ba3 Na7 15.Bxd7 Qxd7 16.Nc4 Qe6
+17.Ne3 Nb5 18.Bxe7 Rxe7 19.Qa4 Nd6 20.Qc6 Rc8 21.Rad1 Kh7 22.Rd2 Ne8 23.Qb7 Nd6
+24.Rxd6 cxd6 25.Qxa6 Rcc7 26.Nd5 Ra7 27.Qb5 Reb7 28.a4 f5 29.Nd2 Bf6 30.Qe8 Be7
+31.c4 Qg8 32.Qc6 Qd8 33.b3 Qd7 34.Qxd7 Rxd7 35.Nxb6 Rdb7 36.Nc8 Ra6 37.Nxe7 Rxe7
+38.Re3 Kg7 39.Rd3 Rb7 40.Kf1 Rab6 41.Ke2 Kf6 42.Kd1 Ke6 43.Kc2 h5 44.f3 Kf6
+45.Kc3 Ra6 46.Rd5 Kg5 47.a5 Kf4 48.b4 Kg3 49.Nb3 Kxg2 50.b5 Ra8 51.Rxd6 Kxf3
+52.a6 Rg7 53.Nc5 fxe4 54.b6 e3 55.Rf6+  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.23"]
+[Round "2.6"]
+[White "Topalov,V"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2793"]
+[BlackElo "2741"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.e3 Bg7 6.Ne2 O-O 7.O-O b6 8.b3 a5 9.Nf4 Ba6
+10.Nd2 e6 11.a4 Nbd7 12.Bb2 Rc8 13.Rc1 Qe7 14.Rc2 Rfd8 15.Qa1 c5 16.Rfc1 cxd4
+17.exd4 Bh6 18.Ba3 Qe8 19.Nxd5 Nxd5 20.cxd5 Rxc2 21.Rxc2 exd5 22.Bxd5 Nc5
+23.Bg2 Bg7 24.Bb2 Nd3 25.Bf1 Qd7 26.Nc4 Nxb2 27.Qxb2 Bxd4 28.Qc1 Bb7 29.Bg2 Bxg2
+30.Kxg2 b5 31.axb5 Qxb5 32.f3 Ba7 33.Re2 Qxb3 34.Nxa5 Qb5 35.Nc4 h5 36.Rc2 Rd3
+37.Rc3 Qd5 38.Rxd3 Qxd3 39.Qf1 Qc2+ 40.Kh1 h4 41.Nd6 h3 42.Ne4 Be3 43.g4 Bf4
+44.Ng3 Qb3 45.Ne4 Qc2 46.Ng3 Qb3 47.Ne4  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.23"]
+[Round "2.2"]
+[White "Grischuk,A"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2775"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 d6 8.d4 Bb6
+9.a4 Rb8 10.Na3 O-O 11.axb5 axb5 12.Nxb5 Bg4 13.Bc2 exd4 14.Nbxd4 Nxd4 15.cxd4 Re8
+16.Re1 Bxf3 17.gxf3 Nh5 18.Ba4 Rf8 19.Bc6 Qf6 20.Ra4 Nf4 21.Kh1 d5 22.exd5 Ng6
+23.Re4 Ne7 24.Rc4 Qd6 25.Bf4 Qd8 26.Bg5 f6 27.Bf4 Nxd5 28.Bxd5+ Qxd5 29.Qe2 Rf7
+30.Kg2 Rbf8 31.Qc2 g5 32.Be3 Ra8 33.b3 Kg7 34.Rc6 Ra5 35.Qc4 Rb5 36.h4 h6
+37.Rce6 Ba5 38.Re8 c6 39.Ra8 Bb4 40.Re6 gxh4 41.Qxc6 Qxc6 42.Rxc6 Bf8 43.Rc3 Rfb7
+44.Rcc8 Be7 45.Rg8+ Kf7 46.Rh8 h5 47.Rh7+ Kg6 48.Rh6+ Kf7 49.Rah8 Bf8 50.Rxh5 Rxh5
+51.Rxh5 Rxb3 52.Rxh4 Rb5 53.Kf1 Ke6 54.Ke2 Bd6 55.Kd3 Rb3+ 56.Kc4 Rb4+ 57.Kc3 Rb5
+58.Rh6 Ra5 59.Kd3 Bf8 60.Rh8 Bd6 61.Kc4 Ra4+ 62.Kb3 Ra3+ 63.Kb2 Ra5 64.Bd2 Rf5
+65.Rh3 Bf4 66.Be3 Bd6 67.Kc3 Ra5 68.Rh6 Ra3+ 69.Kc4 Ra4+ 70.Kd3 Bf8 71.Rh5 Ra3+
+72.Ke4 Ra4 73.f4 Be7 74.Rb5 Bd6 75.f5+ Kd7 76.Rb7+ Ke8 77.Kd5 Be7 78.Rb5 Ra2
+79.Rb8+ Kd7 80.Rb7+ Ke8 81.Ke4 Bd6 82.Kd3 Ra5 83.Ke4 Ra2 84.f3 Be7 85.Bf4 Ra4
+86.Bd2 Kd8 87.Kd5 Ke8 88.Rb5 Kd7 89.Ra5 Rxa5+ 90.Bxa5 Ba3 91.Bb6 Bc1 92.Bc5 Be3
+93.Bb4 Bf2 94.Bf8 Be3 95.Bc5 Bg1 96.Ba3 Be3 97.Ke4 Bd2 98.Bc5 Ke8 99.d5 Kd7
+100.Be3 Ba5 101.Bd4 Bd8 102.Bc3 Be7 103.Kf4 Bd6+ 104.Kg4 Ke7 105.Bd2 Bc5
+106.Bf4 Bb4 107.Kh5 Kf7 108.Bg3 Bc5 109.d6 Bd4 110.Bh4 Bb6 111.d7 Bd8 112.Kh6 Ba5
+113.Be1 Bb6 114.Bb4 Bd8 115.Kh5 Kg7 116.Bd6 Kh7 117.Kh4 Kh6 118.Kg4 Kg7 119.Kf4 Kh6
+120.Ke4 Kg5 121.Bf4+  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.23"]
+[Round "2.5"]
+[White "Dominguez Perez,L"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2742"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d5 10.exd5 Nxd5 11.a4 Nd4 12.Nxd4 exd4 13.axb5 axb5 14.Rxa8 Bxa8 15.Na3 Bb4
+16.Re5 Bd6 17.Re1 Bb4 18.Re5 Bd6 19.Re1  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.24"]
+[Round "3.5"]
+[White "Kasimdzhanov,R"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2699"]
+[BlackElo "2760"]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 c5 7.O-O Re8 8.h3 cxd4
+9.Nxd4 Nbd7 10.Re1 b6 11.Nc6 Qc7 12.Nb4 Bb7 13.Nbd5 Qd8 14.Bg5 h6 15.Bh4 g5
+16.Bg3 Nc5 17.Bf3 Nfd7 18.b4 Bxd5 19.Nxd5 Bxa1 20.Qxa1 Nd3 21.Rd1 N3e5 22.Be2 e6
+23.Nc3 a5 24.Nb5 axb4 25.Nxd6 b3 26.Nxe8 Qxe8 27.Qc3 Rxa2 28.Bf1 Ra5 29.Qxb3 Qe7
+30.Qb2 Qc5 31.Kh1 Ra4 32.Qd2 Nf6 33.f3 Nxc4 34.Bxc4 Rxc4 35.Bf2 Qc7 36.Qd8+ Qxd8
+37.Rxd8+ Kg7 38.Bxb6 e5 39.Kh2 Nh5 40.Be3 Nf4 41.Bxf4 gxf4  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.24"]
+[Round "3.4"]
+[White "Svidler,P"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2774"]
+[ECO "D70"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3 O-O 8.Qd2 Nc6
+9.O-O-O Qd6 10.Nb5 Qd7 11.Bh6 Bxh6 12.Qxh6 a6 13.Nc3 Nxd4 14.f4 f6 15.Nf3 e5
+16.fxe5 fxe5 17.Nxe5 Qd6 18.Nf3 c5 19.Ng5 Qe7 20.Nd5 Nxd5 21.Bc4 Kh8 22.exd5 Qg7
+23.Qxg7+ Kxg7 24.d6 Bf5 25.b4 b6 26.Rhe1 Rfe8 27.Re7+ Rxe7 28.dxe7 Re8 29.bxc5 bxc5
+30.Re1 Nc2 31.Re2 Nd4 32.Re3 Nc2 33.Re2 Nd4 34.Re3 Nc2 35.Re2  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.24"]
+[Round "3.6"]
+[White "Nakamura,Hi"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2725"]
+[ECO "C26"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Bc5 4.d3 d6 5.Na4 Bb6 6.Nxb6 axb6 7.Ne2 Be6 8.Nc3 Nc6
+9.Bg5 h6 10.Bh4 Nd4 11.O-O g5 12.Bg3 Bxc4 13.dxc4 Ne6 14.f3 h5 15.Bf2 h4
+16.Be3 Nh5 17.a4 Nhf4 18.b3 f6 19.Qd2 Qd7 20.Nd1 O-O 21.Nf2 f5 22.Bxf4 Nxf4
+23.exf5 Qxf5 24.h3 Kg7 25.Ne4 Kg6 26.Nc3 Qe6 27.Rfe1 Kh6 28.Re4 Rf7 29.Nd5 Kh7
+30.Qe3 Qg6 31.Qd2 Raf8 32.Re3 Ra8 33.Ree1 Ne6 34.Re2 Nf4 35.Nxf4 Rxf4 36.Qd5 Ra7
+37.Re4 Kg7 38.Rae1 Qf7 39.Qd2 Ra8 40.Qb4 Ra5 41.Qd2 Ra8 42.Rxf4 gxf4 43.Ra1 Kf6
+44.Qe1 Qh7 45.a5 Rxa5 46.Rxa5 bxa5 47.Qxa5 Ke6 48.Qd2 b6 49.b4 Kd7 50.c5 bxc5
+51.bxc5 Kc6 52.cxd6 cxd6 53.Qc3+ Kb5 54.Qc8 Qa7+ 55.Kh2 Qe7 56.Qb8+ Kc6 57.Kg1 Qc7
+58.Qe8+ Kd5 59.Qg8+ Kd4 60.Qg5 Qxc2 61.Qxh4 Qd1+ 62.Kh2 Ke3 63.Qe7 Qe1 64.Qa7+ Ke2
+65.Qa6+ Kf2 66.Qa7+ Ke2 67.Qa2+ Kf1 68.Qa6+ Kf2 69.Qb6+ Ke2 70.Qxd6 Qg3+
+71.Kg1 Qe1+ 72.Kh2 Qg3+ 73.Kg1 Qe1+  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.24"]
+[Round "3.3"]
+[White "Kamsky,G"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2779"]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.c3 d6 5.h3 O-O 6.Nbd2 c5 7.dxc5 dxc5 8.e4 Nc6
+9.Be2 Nh5 10.Bh2 b6 11.e5 Bh8 12.Qa4 Bb7 13.Qh4 Ng7 14.Ng5 h5 15.Ndf3 Qc8
+16.g4 Ba6 17.gxh5 Nxh5 18.Bxa6 Qxa6 19.Qe4 Nd8 20.O-O-O b5 21.Rhg1 Bg7 22.Kb1 Rc8
+23.Nh4 b4 24.c4 b3 25.axb3 Rb8 26.Rd3 Rb6 27.f4 Nc6 28.Nxg6 fxg6 29.Qxg6 Qa2+
+30.Kc1 Qa1+ 31.Kd2 Qxb2+ 32.Ke3 Nf6 33.exf6 Rxf6 34.Qe8+ Rf8 35.Qg6 Rf6 36.Qe8+ Rf8
+37.Qg6  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.24"]
+[Round "3.2"]
+[White "Ponomariov,R"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2793"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.Be2 Nbd7 8.g4 h6
+9.f4 g5 10.f5 Ne5 11.h3 b5 12.a3 Qe7 13.fxe6 fxe6 14.Nf3 Bb7 15.Nxe5 dxe5
+16.Bd3 Qc7 17.h4 Bc5 18.Qe2 Bxe3 19.Qxe3 Nxg4 20.Qg3 h5 21.O-O-O O-O-O 22.hxg5 Qg7
+23.Qh4 Rdg8 24.Be2 Qxg5+ 25.Qxg5 Rxg5 26.Rh4 Nf6 27.Rf1 Rh6 28.b4 Rg2 29.Bf3 Rg3
+30.a4 Bc6 31.axb5 axb5 32.Ne2 Rg5 33.Kd2 Rh7 34.Rg1 Rxg1 35.Nxg1 Kd8 36.Ke3 Be8
+37.Be2 Ra7 38.Nf3 Ng4+ 39.Kd2 Ke7 40.Ne1 Nf6 41.Nd3 Kd6 42.Nc5 Ra1 43.Rh3 Rb1
+44.c3 Rg1 45.Nb7+ Ke7 46.Nc5 Rg2 47.Ke1 Rg5 48.Kf2 Bc6 49.Rg3 Rxg3 50.Kxg3 Be8
+51.Kh4 Bc6 52.Bf3 Kd6 53.Kg5 Ke7 54.Kh4 Kd6 55.Kg5 Ke7 56.Kh4 Kd6  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.24"]
+[Round "3.1"]
+[White "Ivanchuk,V"]
+[Black "Dominguez Perez,L"]
+[Result "0-1"]
+[WhiteElo "2755"]
+[BlackElo "2723"]
+[ECO "D86"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.Rc1 Qa5 11.O-O e6 12.Qb3 b6 13.Rfd1 Ba6 14.Nf4 Bxc4 15.Qxc4 Rac8
+16.d5 exd5 17.Nxd5 Rfe8 18.Bf4 b5 19.Qxc5 Rxe4 20.Re1 Rxe1+ 21.Rxe1 h6 22.h4 Kh8
+23.Bc7 Qa6 24.Qd6 Nb8 25.Qf4 Qc6 26.Qxf7 Rf8 27.Qe6 Kh7 28.Bd6 Rd8 29.Nf6+ Kh8
+30.Ne8 Qxc3 31.Bc7 Rc8 32.Qxc8 Qxe1+ 33.Kh2 Be5+ 34.Bxe5+ Qxe5+ 35.g3 Kh7
+36.Qb7+ Kg8 37.f4 Qe2+ 38.Kg1 Qe1+ 39.Kg2 Qe2+  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.25"]
+[Round "4.6"]
+[White "Kamsky,G"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2742"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Re8 10.d4 Bb7 11.Nbd2 Bf8 12.Ng5 Re7 13.d5 Na5 14.Bc2 c6 15.dxc6 Bxc6
+16.b3 Qc7 17.a4 bxa4 18.bxa4 h6 19.Ngf3 d5 20.Ba3 Re6 21.Bb4 Nb7 22.exd5 Bxd5
+23.Bf5 Ree8 24.Ne4 Bxe4 25.Bxe4 Rad8 26.Qb3 Nd6 27.Bxd6 Bxd6 28.Rad1 a5 29.g4 Rb8
+30.Qc2 Bf8 31.g5 hxg5 32.Nxg5 g6 33.Bd5 Nxd5 34.Rxd5 Rbd8 35.Red1 Rxd5 36.Rxd5 e4
+37.Nxe4 Qf4 38.Ng3 Qf3 39.c4 Rc8 40.Rxa5 Bc5 41.Ne4 Re8 42.Nf6+ Qxf6 43.Rxc5 Qf3
+44.Qd2 Qxh3 45.Rg5 Qh4 46.Kg2 Qxc4 47.Qd5 Qe4+ 48.Qxe4 Rxe4 49.a5 Ra4 50.Rb5 Ra3
+51.Kf1 Ra2 52.Kg2 Ra3 53.Kf1 Ra2 54.Kg2  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.25"]
+[Round "4.1"]
+[White "Dominguez Perez,L"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2769"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 O-O 8.Nc3 d6
+9.a3 Be6 10.Nd5 Nd4 11.Nxd4 exd4 12.Nxf6+ Bxf6 13.Bxe6 fxe6 14.a4 Qd7 15.b3 c5
+16.Qg4 Qf7 17.Bd2 c4 18.Bb4 Be7 19.axb5 axb5 20.Rxa8 Rxa8 21.f4 Ra2 22.e5 h5
+23.Qh3 d5 24.Bxe7 Qxe7 25.Qxh5 Rxc2 26.Ra1 Qb7 27.Qe8+ Kh7 28.Qh5+ Kg8 29.f5 cxb3
+30.Qe8+ Kh7 31.Qh5+ Kg8 32.Qe8+ Kh7 33.Qg6+ Kh8 34.f6 Rc7 35.Rf1 Rf7 36.Rf3  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.25"]
+[Round "4.2"]
+[White "Morozevich,A"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2775"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.f3 b5 8.Qd2 Nbd7
+9.g4 h6 10.a3 Bb7 11.O-O-O Rc8 12.h4 d5 13.Rg1 dxe4 14.g5 hxg5 15.hxg5 Nd5
+16.Nxd5 Bxd5 17.g6 f5 18.fxe4 fxe4 19.Kb1 Ne5 20.Nxb5 Nf3 21.Qf2 Qf6 22.Qg3 axb5
+23.Bxb5+ Ke7 24.c4 Rh2 25.Qxh2 Nxh2 26.cxd5 Qf5 27.Bg5+ Kd6 28.dxe6+ Ke5
+29.Bd7 e3+ 30.Ka1 Bxa3 31.Bxc8 Qc2 32.bxa3 Qc3+ 33.Ka2 Qxc8 34.e7 Qc2+ 35.Ka1 Qc3+
+36.Ka2 Qc2+ 37.Ka1 Qc3+ 38.Ka2 Qc2+  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.25"]
+[Round "4.3"]
+[White "Caruana,F"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2774"]
+[BlackElo "2699"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6 13.Re1 Bf5 14.Qf3 Qf6 15.Nd2 Qg6
+16.Bd1 Bxd3 17.Ne4 Bxe4 18.Qxe4 Qxe4 19.Rxe4 Rfe8 20.Rxe8+ Rxe8 21.Kf1 Be5
+22.Bd2 b4 23.Rc1 bxc3 24.bxc3 Bf4 25.Bxf4 Nxf4 26.Bf3 Nd5 27.c4 Nb4 28.Rb1 c5
+29.a3 Nc2 30.Bd5 Kf8 31.g3 Nxa3 32.Rb2 g6 33.h4 h5 34.Rb7 Re7 35.Rb8+ Re8
+36.Rb2 Re7 37.Kg2 Kg7 38.Kf3 f5 39.Ra2 Nb1 40.Rxa6 Nd2+ 41.Kg2 Nb3 42.Rc6 Kh6
+43.Rc8 Kg7 44.Bf3 Ra7 45.Bc6 Nc1 46.Rd8 Rc7 47.Rd6 Re7 48.Bb5 Nb3 49.Rd5 Ra7
+50.Rd6 Re7 51.Rc6 Ra7 52.Rc8 Nd2 53.Re8 Ne4 54.Bc6 Nf6 55.Re5 Ng4 56.Re2 Kf6
+57.Bd5 Re7 58.Ra2 Kg7 59.Kf3 Ne5+ 60.Kg2 Ng4 61.Rb2 Kh7 62.Bf3 Ne5 63.Re2 Kg7
+64.Bd5 Kf6 65.Ra2 Kg7 66.Ra6 Kh7 67.Rd6 Kg7 68.Ra6 Kh7 69.Ra8 Ng4 70.Kf3 Ne5+
+71.Kg2 Ng4 72.Ra2 Kg7 73.Rd2 Ne5 74.Re2 Nc6 75.Rd2 Ne5 76.Ra2  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.25"]
+[Round "4.4"]
+[White "Grischuk,A"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2725"]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nf6 3.g3 e6 4.Bg2 c5 5.O-O Nc6 6.b3 cxd4 7.Nxd4 Qb6 8.Nxc6 bxc6
+9.c4 Be7 10.Nc3 O-O 11.Qc2 Ba6 12.Na4 Qb7 13.Be3 Nd7 14.Rfd1 Rfd8 15.Rab1 h6
+16.Bd2 Nf6 17.Ba5 Re8 18.Nc3 Bd8 19.Bxd8 Raxd8 20.Na4 e5 21.Qc3 Qb8 22.Qa5 Bb7
+23.Nc3 e4 24.e3 dxc4 25.bxc4 Rxd1+ 26.Nxd1 Qd8 27.Qxa7 Bc8 28.Nc3 Qd3 29.Qa3 Qxc4
+30.Qb4 Ba6 31.Bf1 Qxb4 32.Rxb4 c5 33.Rb6 Bd3 34.a4 Nd7 35.Rd6 Ne5 36.Bxd3 exd3
+37.f4 Nc4 38.Rxd3 Nxe3 39.a5 Nc4 40.Rd5 Nxa5 41.Rxc5 Nb7 42.Rd5 Rc8 43.Ne4 Re8
+44.Nd6 Nxd6 45.Rxd6 Re2 46.Rd7 g6 47.h4 Kg7 48.Kf1 Rb2 49.Rd6 h5 50.Rc6 Ra2
+51.Rd6 Rb2 52.Rc6 Ra2 53.Rd6 Rb2  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.25"]
+[Round "4.5"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2793"]
+[BlackElo "2755"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O Bd7 5.Re1 Nf6 6.c3 a6 7.Bf1 Bg4 8.h3 Bh5
+9.d4 Bxf3 10.gxf3 cxd4 11.cxd4 d5 12.Nc3 e6 13.Bg5 Be7 14.Bxf6 Bxf6 15.exd5 Nxd4
+16.Re4 Qb6 17.dxe6 Qc5 18.e7 h5 19.Rc1 Rh6 20.Kh1 Rg6 21.Ne2  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.27"]
+[Round "5.5"]
+[White "Ponomariov,R"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2779"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Bd7 10.Rd1 Kc8 11.Ng5 Be8 12.b3 b6 13.Rd3 Kb7 14.Bb2 Be7 15.Nge4 Rd8
+16.Rad1 Kc8 17.g3 Rxd3 18.Rxd3 Bd7 19.f3 Re8 20.Kf2 Bd8 21.Ne2 c5 22.h4 g6
+23.c4 h5 24.Nf6 Bxf6 25.exf6 b5 26.Nf4 bxc4 27.bxc4 Nd6 28.Ba3 Re5 29.Rd5 Nxc4
+30.Bxc5 Rxd5 31.Nxd5 Kb7 32.Nf4 Ne5 33.Bd4 Nc6 34.Ke3 Nd8 35.Nd3 Bf5 36.Ne5 Be6
+37.a3 Nc6 38.Nxc6 Kxc6 39.Bxa7 Kd5 40.Kf4 Kc4 41.g4 Bd5 42.Kg3 Be6 43.Kf4 Bd5
+44.Kg3 Be6 45.Kf4 Bd5 46.Kg3  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.27"]
+[Round "5.6"]
+[White "Bacrot,E"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2760"]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qa4+ Bd7 6.Qb3 dxc4 7.Qxc4 O-O 8.Bf4 c6
+9.e4 Qa5 10.b4 Qd8 11.a4 a5 12.b5 Be6 13.Qd3 Nbd7 14.Be2 Nh5 15.Be3 c5 16.d5 Bg4
+17.Rc1 Bxf3 18.Bxf3 Ne5 19.Qd1 Nxf3+ 20.Qxf3 b6 21.g4 Nf6 22.O-O Qd7 23.h3 h5
+24.gxh5 Nxh5 25.Qg2 Bd4 26.Ne2 Bxe3 27.fxe3 Rad8 28.Rcd1 Qc7 29.Rf5 Nf6 30.Rdf1 Kh8
+31.R5f4 Qe5 32.Rh4+ Kg7 33.Ng3 Rg8 34.d6 Rxd6 35.Nf5+ Kf8 36.Nxd6 Qxd6 37.Qg5 Nd7
+38.Rh7 Ne5 39.Qf4 f6 40.Qf2 Ke8 41.Qe2 Qd3 42.Qxd3 Nxd3 43.Kg2 c4 44.Kf3 Kd7
+45.Ke2 Ke6 46.Kd2 Rd8 47.Kc2 Nb4+ 48.Kc3 Rd3+ 49.Kxc4 Rxe3 50.Kd4 Nc2+ 51.Kc4 Na3+
+52.Kd4 Nc2+ 53.Kc4 Nb4 54.Kd4 Ra3 55.Rc1 Rxa4 56.Ke3 Ra3+ 57.Ke2 Ra2+ 58.Ke3 Rc2
+59.Rxc2 Nxc2+ 60.Kd3 Na3 61.h4 f5 62.Rh6 fxe4+ 63.Kxe4 Kf7 64.h5 gxh5 65.Rxb6 h4
+66.Rb8 h3 67.Kf3 Ke6 68.b6 Kd7 69.Ra8 Kc6 70.Rxa5 Nc4 71.Ra7 Kxb6 72.Rxe7 Kc5
+73.Kg3 Kd4 74.Kxh3 Ne3 75.Re8 Kd3 76.Kg3 Kd4 77.Kf3 Nc4 78.Rd8+ Ke5 79.Re8+ Kd4
+80.Kf4 Kd5 81.Re5+ Nxe5  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.27"]
+[Round "5.2"]
+[White "Ivanchuk,V"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2741"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.c3 Bg4 8.h3 Bxf3
+9.Qxf3 Qd5 10.Be2 Qxf3 11.Bxf3 e6 12.Bg5 Bd6 13.Ke2 h6 14.Bxf6 gxf6 15.g4 Ke7
+16.Rad1 a5 17.a4 Rac8 18.Rd3 b6 19.Rhd1 Rhd8 20.c4 c5 21.d5 Be5 22.dxe6 fxe6
+23.Rxd8 Rxd8 24.Rxd8 Kxd8 25.b3  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.27"]
+[Round "5.1"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2774"]
+[ECO "D80"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Qb3 e6 6.Qa3 c6 7.Nf3 a5 8.b3 Na6 9.Be2 Ne4
+10.Qb2 O-O 11.O-O b6 12.Rd1 Bb7 13.Bd2 Nxd2 14.Qxd2 Nb8 15.Rac1 Nd7 16.Na4 Qe7
+17.Ne1 Rfd8 18.cxd5 exd5 19.Nd3 Re8 20.Rc2 h5 21.Bf1 h4 22.Qc1 Qe6 23.h3 Bf8
+24.Be2 Bd6 25.Nf4 Qe7 26.Qb1 Kg7 27.Nd3 Rac8 28.Ne1 f5 29.Bd3 Qf6 30.Re2 Re7
+31.Qc2 Rf8 32.f4 Rfe8 33.Qd2 g5 34.Nf3 gxf4 35.exf4 Rxe2 36.Bxe2 Bb4 37.Qc2 Re4
+38.Nb2 Nf8 39.Nd3 Bd6 40.Nde5 Ne6 41.Bd3 Nxd4 42.Qc1 Nxf3+ 43.gxf3 Bxe5 44.fxe5 Rxe5
+45.Qf4 c5 46.Kh2 Kf7 47.Rg1 Bc8 48.Rg5 Qd6 49.Rg4 Re6 50.Qxd6 Rxd6 51.Rxh4 Rg6
+52.Rh8 Rg8 53.Rxg8 Kxg8 54.Kg3 Kg7 55.Kf4 Kf6 56.Bb5 Be6 57.h4 c4 58.bxc4 dxc4
+59.Ke3 c3 60.a3 Bd5 61.Ba4 Bb7 62.f4 Be4 63.Bb5 Kg6 64.Be8+ Kh6 65.a4 Bb1
+66.Ke2 Bc2 67.Ke3 Be4 68.Ke2 Kg7 69.Ke3 Kf8 70.Bd7 Ke7 71.Bb5 Kd6 72.Be8 Ke6
+73.Ke2 Kf6 74.Ke3 Kg7 75.Ke2 Kh6 76.Ke3 Bb1 77.Ke2 Bc2 78.Ke3 Bb3 79.Kd3 c2
+80.Kd2 Kg7 81.Kc1 Kf6 82.Kd2 Kg7 83.Kc1 Kf6 84.Kd2 Kg7  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.27"]
+[Round "5.3"]
+[White "Svidler,P"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2793"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.c5 c6 8.h3 b6 9.b4 a5
+10.a3 Ba6 11.Bxa6 Rxa6 12.b5 cxb5 13.c6 Qc8 14.c7 b4 15.Nb5 a4 16.axb4 Bxb4+
+17.Ke2 Ra5 18.Qd3 Ne4 19.Rhc1 Qa6 20.Nd6 Qxd3+ 21.Kxd3 Bxd6 22.c8=Q Rxc8
+23.Rxc8+ Nf8 24.Bxd6 Nxd6 25.Rd8 Nc4 26.Ne5 Nxe5+ 27.dxe5 g5 28.f4 Kg7 29.g3 h5
+30.Kc3 Ng6 31.Kb4 Rc5 32.Rxa4 h4 33.gxh4 gxf4 34.exf4 Rc4+ 35.Kb5 Rxa4 36.Kxa4 Nxf4
+37.Kb5 Ng6 38.h5 Nxe5 39.Kxb6 Nd3 40.Rd7 Ne5 41.Rd8 Nd3 42.Rd7 Ne5 43.Rd8 Nd3  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.27"]
+[Round "5.4"]
+[White "Kasimdzhanov,R"]
+[Black "Dominguez Perez,L"]
+[Result "0-1"]
+[WhiteElo "2699"]
+[BlackElo "2723"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.Nc3 O-O 7.e3 Qe7 8.Rd1 a6
+9.a3 Nbd7 10.cxd5 exd5 11.Bd3 c6 12.Qc2 Re8 13.O-O Ne4 14.Rfe1 Ndf6 15.Ne5 Nxc3
+16.Qxc3 Ne4 17.Qc2 f6 18.Bxe4 dxe4 19.Nc4 Bg4 20.Rc1 Rad8 21.Nd2 Rd5 22.Qxe4 Qxe4
+23.Nxe4 Rxe4 24.f3 Bxf3 25.gxf3 Rh4 26.Rc5 Rxc5 27.dxc5 Rc4 28.Rd1 Kf8 29.b4 Ke7
+30.Rd3 a5 31.Rb3 a4 32.Rd3 Rc2 33.e4 Re2 34.f4 Rxe4 35.Rg3 Kf7 36.f5 Rf4
+37.Rd3 Ke7 38.Rg3 Kf7 39.Rd3 Ke8  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.28"]
+[Round "6.1"]
+[White "Ponomariov,R"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2742"]
+[BlackElo "2755"]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.Ngf3 Nc6 7.Nb3 c4 8.Nbd2 b5
+9.Be2 Nb6 10.Nf1 h5 11.Ne3 Bd7 12.O-O Be7 13.b3 g6 14.Bd2 a6 15.Be1 Qc7 16.h3 O-O-O
+17.a4 Kb7 18.Qb1 Na7 19.a5  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.28"]
+[Round "6.6"]
+[White "Grischuk,A"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2760"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.Bg5 Bg7 8.Nbd2 h6
+9.Bh4 O-O 10.O-O Ne7 11.Bb3 g5 12.Bg3 Ng6 13.Nc4 h5 14.h3 Bh6 15.Ne3 Kg7
+16.Re1 h4 17.Bh2 g4 18.Nf5+ Bxf5 19.exf5 Nf4 20.hxg4 Nxg4 21.d4 Qf6 22.Bxf4 Bxf4
+23.Nxe5 Nxe5 24.dxe5 dxe5 25.Qg4+ Kh6 26.Rad1 Rg8 27.Qh3 Rg7 28.Bd5 Rag8
+29.Rd3 c6 30.Be4 Rd8 31.Red1 Rgg8 32.Kf1 Rxd3 33.Qxd3 Bg5 34.Ke2 Rd8 35.Qxd8 Qxd8
+36.Rxd8 Bxd8 37.Kf3 Kg5 38.Bc2 Bb6 39.Bb3 Kxf5 40.Bxf7 e4+ 41.Ke2 a5 42.a4 Bd8
+43.f3 exf3+ 44.Kxf3  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.28"]
+[Round "6.5"]
+[White "Kamsky,G"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2769"]
+[ECO "A22"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.d3 Be7 8.O-O O-O
+9.Be3 Be6 10.Rc1 f5 11.a3 Bf6 12.Nd2 Kh8 13.b4 Rb8 14.Bc5 Ne7 15.b5 Nbc8
+16.a4 b6 17.Ba3 Nd6 18.Rc2 Rc8 19.Qc1 Qd7 20.Re1 Rfd8 21.e4 Bg5 22.Qa1 c5
+23.Nf3 Bf6 24.Bb2 Ng6 25.h4 h5 26.Nd5 Nf7 27.Qd1 f4 28.Nh2 Bg4 29.Nxg4 hxg4
+30.gxf4 Nxh4 31.f5 Nh6 32.f3 gxf3 33.Bxf3 Qf7 34.Bh5 Qg8 35.Ne3 Qb3 36.Rd2 c4
+37.dxc4 Qb4 38.Nd5 Rxd5 39.cxd5 Bg5 40.Rf2 Rc3 41.Bxc3 Qxc3 42.Rh2 Bf4 43.Qe2  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.28"]
+[Round "6.3"]
+[White "Dominguez Perez,L"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2775"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Nf3 Bf5 6.Ne5 Nf6 7.Bd3 Bxd3 8.Qxd3 e6
+9.O-O Nbd7 10.Qg3 Qc7 11.Re1 Nb6 12.Qf3 Bb4 13.Bh6 gxh6 14.Qxf6 Rf8 15.a3 Bxc3
+16.bxc3 Nd5 17.Qxh6 Nxc3 18.Qh4 Qe7 19.Qxh7 Nb5 20.Red1 Rd8 21.Nf3 Qf6 22.Qd3 Rg8
+23.Rab1 b6 24.g3 Rg4 25.c3 Qf5 26.a4 Qxd3 27.Rxd3 Na3 28.Re1 Nc4 29.Ne5 Nxe5
+30.Rxe5 Rd5 31.f4 Ke7 32.Kf2 Rg8 33.c4 Rd7 34.f5 Rg5 35.fxe6 Rxe5 36.exd7 Ra5
+37.Rf3 Kxd7 38.Rxf7+ Ke6 39.Rf4 Rxa4 40.d5+ Kd7 41.dxc6+ Kxc6 42.g4 Ra2+
+43.Kg3 Ra1 44.g5 Rg1+ 45.Kh4 a5 46.Rg4 Rxg4+ 47.Kxg4 Kd6 48.Kh5 a4 49.g6 a3
+50.g7 a2 51.g8=Q a1=Q 52.Qd8+ Kc6 53.Qc8+ Kd6 54.Qd8+ Kc6 55.Qd5+ Kc7 56.Qf7+ Kd6
+57.h4 Qe5+ 58.Kh6 b5 59.cxb5 Qxb5 60.h5 Ke5 61.Kg7 Qc6 62.h6 Qg2+ 63.Qg6 Qb7+
+64.Qf7 Qg2+ 65.Kh8 Qa8+ 66.Qg8 Qf3 67.Qg6 Qf8+ 68.Kh7 Qf3 69.Qg7+ Ke6 70.Kg8 Qh5
+71.h7 Qe8+ 72.Qf8 Qg6+ 73.Kh8 Qf7 74.Qc8+ Ke7 75.Qc7+ Ke8 76.Qe5+ Kd7 77.Qb5+ Ke7
+78.Qg5+ Ke8 79.Qg8+ Qf8 80.Qxf8+ Kxf8  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.28"]
+[Round "6.2"]
+[White "Caruana,F"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2725"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Nb6
+9.Nc3 Qe6 10.Qe4 Bb4 11.Bd2 Ba6 12.b3 Bxc3 13.Bxc3 d5 14.Qh4 dxc4 15.Rc1 Qg6
+16.g3 O-O 17.Be2 Rad8 18.O-O c5 19.Rfe1 Bb7 20.Bg4 Qc6 21.f3 Bc8 22.e6 fxe6
+23.Qe7 e5 24.Bxe5 Qh6 25.Bxc8 Rxc8 26.f4 cxb3 27.axb3 Nd5 28.Qxc5 Qb6 29.Bd4 Qxc5
+30.Bxc5 Rfe8 31.Bxa7 Rxe1+ 32.Rxe1 Ra8 33.Ra1 c5 34.Ra5 Nf6 35.Kf1 c4 36.b4 Nd5
+37.Rxd5 Rxa7 38.Ke2 Ra2+ 39.Rd2 Ra1 40.Rc2 Rh1 41.Ke3  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.28"]
+[Round "6.4"]
+[White "Topalov,V"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2793"]
+[BlackElo "2699"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 O-O 8.Nc3 d6
+9.a3 Na5 10.Ba2 Be6 11.Bxe6 fxe6 12.b4 Nc6 13.Bd2 Nd4 14.Nxd4 exd4 15.Ne2 c5
+16.h3 Qd7 17.Qb1 e5 18.bxc5 dxc5 19.a4 Qc6 20.Ng3 c4 21.Nf5 Bc5 22.f4 Nxe4
+23.dxe4 Qxe4 24.Ng3 Qxc2 25.Ne4 d3+ 26.Kh1 Bd4 27.axb5 Bxa1 28.Qxa1 c3 29.Qxc3 Qxc3
+30.Bxc3 Rxf4 31.Rxf4 exf4 32.bxa6 Rxa6 33.Kg1 Re6 34.Ng5 Re2 35.Nf3 g5 36.Kf1 Rc2
+37.Bd2 h6 38.Ke1 Rc4 39.Kd1 Re4 40.Ne1 Re2 41.h4 gxh4 42.Bxf4 Kh7 43.Bc7 Rf2
+44.Bb6 Ra2 45.Bd8 Rxg2 46.Nxg2 h3 47.Bc7 hxg2 48.Bh2 Kg6 49.Kd2 Kf5 50.Kxd3 Kg4
+51.Ke3 Kh3 52.Bg1 Kg3 53.Bf2+ Kh2 54.Kf4 g1=Q 55.Bxg1+ Kxg1 56.Kg4 h5+ 57.Kxh5  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.29"]
+[Round "7.2"]
+[White "Svidler,P"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2742"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Nc3 exd4 6.Nxd4 Ne7 7.Bxc4 Nbc6 8.Be3 O-O
+9.O-O Nxd4 10.Bxd4 Nc6 11.a3 Qxd4 12.Qxd4 Nxd4 13.axb4 Be6 14.Bxe6 Nxe6 15.b5 f5
+16.exf5 Rxf5 17.Rfd1 a5 18.bxa6 Rxa6 19.Rxa6 bxa6 20.f3 Kf7 21.Kf2 Rc5 22.Ke3 Re5+
+23.Kf2 Rc5 24.Ke3 Re5+ 25.Kf2 Rc5  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.29"]
+[Round "7.5"]
+[White "Bacrot,E"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2723"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.Nc3 O-O 7.e3 Qe7 8.cxd5 exd5
+9.Qc2 c6 10.Bd3 Nbd7 11.O-O Re8 12.Rab1 g6 13.b4 b6 14.a4 a5 15.bxa5 Rxa5
+16.Rfd1 Bb7 17.h3 Rea8 18.Nd2 Ba6 19.Nb3 Bxd3 20.Rxd3 R5a6 21.Rdd1 Qe6 22.Nc1 Ne4
+23.N1a2 Nxc3 24.Nxc3 Nf6 25.Ne2 Nd7 26.Rbc1 Rc8 27.Qb3 Rca8 28.Qc2 Rc8 29.Qb3 Rca8
+30.Qc3 Nb8 31.Qb4 Nd7 32.Nf4 Qf6 33.Qc3 Nb8 34.Qb4 Nd7 35.Qc3 Nb8 36.Rb1 Qd6
+37.Rdc1 Rxa4 38.Rxb6 Rc4 39.Qe1 Nd7 40.Rbb1 Rxc1 41.Qxc1 Rb8 42.Rxb8+ Nxb8
+43.Qb2 Nd7 44.Qb7 Kg7 45.Nd3 h5 46.Nb4 Qb8 47.Qxb8 Nxb8 48.h4 f6 49.f3 g5
+50.Kh2 Kg6 51.Kg3 Kf5 52.Kh3 Kg6 53.hxg5 fxg5 54.g4 Kh6 55.f4 Kg6 56.Kg3 Kh6
+57.Kf3 Kg6 58.Kg3 Kh6 59.gxh5 Kxh5 60.Kh3 Nd7 61.Nxc6 g4+ 62.Kg2 Nb6 63.Ne7 Kh4
+64.Nf5+ Kh5 65.Kg3 Nc4 66.Kf2 Nd2 67.Kg2 Nc4 68.Kg1 Nb6 69.Ne7 g3 70.Kg2 Kg4
+71.Ng8 Nc4 72.Nf6+ Kf5 73.Nxd5 Ke4 74.Nc7 Nxe3+ 75.Kxg3 Nf5+ 76.Kg4 Nxd4
+77.Ne8 Kd5 78.Ng7 Ke4 79.Nh5 Kd5 80.f5 Nxf5  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.29"]
+[Round "7.6"]
+[White "Morozevich,A"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2760"]
+[BlackElo "2774"]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 d5 4.cxd5 Nxd5 5.e3 e6 6.Qc2 Be7 7.a3 O-O 8.b3 b6
+9.Bb2 Ba6 10.Bxa6 Nxa6 11.h4 Nac7 12.Ne2 Bf6 13.Ng5 g6 14.Nf3 Bxb2 15.Qxb2 f6
+16.b4 e5 17.bxc5 bxc5 18.Qc2 Ne6 19.O-O Rc8 20.Rab1 Qd7 21.d3 Rfd8 22.Rfd1 Qc6
+23.Nd2 Rd7 24.Rdc1 Nb6 25.h5 Kg7 26.Rb3 Rcd8 27.Ng3 Qd5 28.Rc3 Qc6 29.Rb3 Qd5
+30.Nf3 Rc7 31.Rc3 Qd7 32.Nh4 Qa4 33.Qa2 Ng5 34.e4 Qb5 35.Qe2 Na4 36.Rc4 Nb6
+37.hxg6 hxg6 38.Nxg6 Nxc4 39.dxc4 Qe8 40.Nh4 Kh8 41.Rd1 Rxd1+ 42.Qxd1 Rd7
+43.Qg4 Rh7 44.Nhf5 Ne6 45.Ne3 Nf4 46.Nd5 Qb8 47.Nf1 Nh3+ 48.gxh3 Rg7 49.Nfe3 Rxg4+
+50.hxg4 Qb1+ 51.Kg2 Qxe4+ 52.Kg3 a5 53.a4 Qd4 54.Kh4 f5 55.Nxf5 Qxc4 56.Nde7 Qe6
+57.Kh5 c4 58.Ng6+ Kg8 59.Nh6+ Kg7 60.Nf5+ Kf7 61.Nh6+ Ke8 62.Nf5 Qf6  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.29"]
+[Round "7.4"]
+[White "Nakamura,Hi"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2793"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Be3 Be6 10.Qd3 Nbd7 11.Nd5 Bxd5 12.exd5 Nc5 13.Nxc5 dxc5 14.Bf3 Qc7 15.c4 g6
+16.Rae1 h5 17.Bg5 Ne8 18.Bxe7 Qxe7 19.Qe3 Nd6 20.b3 Rfc8 21.Qxe5 Qxe5 22.Rxe5 Re8
+23.Rxe8+ Rxe8 24.Rc1 a5 25.Kf1 Kg7 26.h4 b6 27.g3 Kf6 28.Be2 Re7 29.Rc3 Re8
+30.Ke1 Ra8 31.Bd1 Re8+ 32.Kf1 Ke5 33.Bc2 Kf6 34.f3 Re7 35.Kf2 Re8 36.Re3 Rxe3
+37.Kxe3 Kg7 38.Kf4 f6 39.g4 a4 40.Bd3 axb3 41.axb3 Kh6 42.g5+ Kg7 43.gxf6+ Kxf6
+44.Ke3 g5 45.hxg5+ Kxg5 46.f4+ Kh6 47.Kf3 Kg7 48.Kg3 Kh6 49.Kh4 Ne8 50.f5 Nd6
+51.f6 Nf7 52.Be2 Nd6 53.Bxh5 b5 54.cxb5 Nxb5 55.Be2 Nd4 56.Bh5 Nxb3 57.d6 Nd4
+58.d7 Ne6 59.Bg4 Nd8 60.Bf5 c4 61.Kg4 c3 62.Kf4 Nf7 63.Bd3 Nd8 64.Bc2 Kh5
+65.Kf5 Kh6 66.Bb3 Kh7 67.Kg5 Nc6 68.Ba4 Nd8 69.Bc2+ Kg8 70.Kg6 Kf8 71.Bb3 Nc6
+72.Kf5 Nd8 73.Ke5 Nb7 74.Kd4  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.29"]
+[Round "7.3"]
+[White "Kasimdzhanov,R"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2699"]
+[BlackElo "2741"]
+[ECO "A88"]
+
+1.d4 f5 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 d6 7.Nc3 c6 8.b3 a5 9.Bb2 Na6
+10.d5 Bd7 11.Nd4 cxd5 12.Nxd5 Nc5 13.Rb1 Nfe4 14.e3 Rc8 15.h4 Rf7 16.Ba1 h6
+17.a4 g5 18.hxg5 hxg5 19.g4 e6 20.Nc3 Nxc3 21.Bxc3 f4 22.Re1 b6 23.Rc1 Qf8
+24.Nf3 Bxc3 25.Rxc3 Qg7 26.Rc1 Bc6 27.exf4 gxf4 28.g5 e5 29.Qxd6 e4 30.Ne5 Qxg5
+31.Nxf7 Kxf7  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.29"]
+[Round "7.1"]
+[White "Ivanchuk,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2779"]
+[ECO "A39"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.d4 cxd4 8.Nxd4 Qa5
+9.Nb3 Qh5 10.Bf3 Qh3 11.Bg2 Qh5 12.Bf3 Qh3 13.Bg2  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.30"]
+[Round "8.4"]
+[White "Kamsky,G"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2775"]
+[ECO "C03"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.c3 c5 5.e5 Nc6 6.Bd3 cxd4 7.cxd4 Nh6 8.Ndf3 f6
+9.Bxh6 gxh6 10.Ne2 Qb6 11.O-O Bd7 12.b4 a6 13.Qd2 fxe5 14.dxe5 Qxb4 15.Qxh6 Qa3
+16.Bg6+ Kd8 17.Bf7 Rf8 18.Bxe6 Rxf3 19.gxf3 Qxf3 20.Ng3 Nxe5 21.Rae1 Qf6
+22.Qxf6 Bxf6 23.Bxd5 Bb5 24.Rd1 Kc7 25.Rc1+ Kb6 26.Rfd1 Nc6 27.Be4 h6 28.Rd7 Rb8
+29.Rb1 Ka5 30.Kg2 Bh8 31.Rh7 Nb4 32.a3 Na2 33.Rxb7 Rxb7 34.Bxb7 Ka4 35.Ne4 Kxa3
+36.Nc5 Nc3 37.Rb3+ Ka2 38.Bxa6 Bc6+ 39.Kg1 Bd5 40.Rb4 Ka3 41.Rh4 Bg7 42.Bc4 Bf3
+43.Ne6 Be5 44.Rxh6 Kb2 45.Nc5 Bd4 46.Nd3+ Kb1 47.Rd6 Ba7 48.Rd7 Bb6 49.Ne5 Ba8
+50.h4  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.30"]
+[Round "8.6"]
+[White "Ivanchuk,V"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2755"]
+[BlackElo "2769"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a3 O-O
+9.Nc3 Be6 10.Nd5 Nd4 11.Nxe7+ Qxe7 12.Nxd4 exd4 13.Bg5 Bxb3 14.cxb3 h6 15.Bh4 Qe6
+16.f4 c5 17.b4 Rfe8 18.f5 Qe5 19.Bg3 Qe7 20.bxc5 dxc5 21.e5 Nd5 22.f6 Qe6
+23.fxg7 Ne3 24.Qd2 Nxf1 25.Rxf1 Qg6 26.Rf6 Qxg7 27.Bf4 Re6 28.Bxh6 Qg4 29.h3 Qh5
+30.Rxe6 fxe6 31.Qf4 Qg6 32.h4 Kh7 33.Bf8 Ra7 34.Bxc5 Rg7 35.Qf1 Qh5 36.Bxd4 Qxh4
+37.Be3 Qg3 38.Bf4 Qg4 39.d4 Qf5 40.Qf2 Kg8 41.Qf3 Qb1+  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.30"]
+[Round "8.5"]
+[White "Ponomariov,R"]
+[Black "Kasimdzhanov,R"]
+[Result "0-1"]
+[WhiteElo "2742"]
+[BlackElo "2699"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.Nc3 O-O 8.d3 h6
+9.Nd5 d6 10.c3 Rb8 11.h3 Nxd5 12.exd5 Ne7 13.d4 exd4 14.Nxd4 Qd7 15.Qd3 Bb7
+16.Bc2 Ng6 17.Nf5 Rfe8 18.b3 Re5 19.c4 Qd8 20.Bd2 Bc8 21.Ng3 Qh4 22.Kh2 Bd7
+23.f4 bxc4 24.bxc4 Re7 25.Rae1 Rxe1 26.Bxe1 Bb6 27.Qc3 Re8 28.Bf5 Re3 29.Qb2 Rxe1
+30.Rxe1 Bxf5 31.Qxg7+ Kxg7 32.Nxf5+ Kf6 33.Nxh4 Nxh4 34.Kg3 Nf5+ 35.Kf3 Nh4+
+36.Kg3 h5 37.Rb1 Nf5+ 38.Kf3 Nh4+ 39.Kg3 Nf5+ 40.Kf3 h4 41.Re1 a5 42.Re8 Kg7
+43.Ke2 Ng3+ 44.Kf3 Nf5 45.Ke2 Ng3+ 46.Kf3 f5 47.Re7+ Kg6 48.Re6+ Kg7 49.Re7+ Kg6
+50.Re6+ Kh7 51.Re7+ Kh6 52.Re6+ Kh7 53.Re7+ Kh6 54.Re6+ Kh5 55.Rf6 Bc5 56.Rf7 Kg6
+57.Rxc7 Ne4 58.Rc8 a4 59.g4 hxg3 60.h4 a3 61.Rg8+ Kf7 62.Rc8 Nc3 63.Rc7+ Kg6
+64.Rxc5 dxc5 65.d6 g2 66.Kxg2 Ne2 67.Kf3 Nd4+ 68.Kf2 Kh5 69.d7 Ne6 70.Kg3 Kg6
+71.Kf2 Kf6 72.h5 Ke7 73.Ke3 Kxd7 74.h6 Nf8 75.Kd2 Ke6 76.Kc3 Kf6 77.Kb3 Ne6  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.30"]
+[Round "8.3"]
+[White "Topalov,V"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2793"]
+[BlackElo "2725"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Qe2 Bd6 7.Nc3 c5 8.g3 Nd7
+9.Nd5 Nb8 10.c3 Nc6 11.Bd2 Be7 12.b4 cxb4 13.cxb4 Bg4 14.Bc3 Bxb4 15.Bxb4 Nxb4
+16.Nxb4 Qf6 17.Qb2 Qxf3 18.Qxe5+ Be6 19.O-O O-O 20.Nd5 Bh3 21.Nf4 Bxf1 22.Rxf1 c6
+23.h3 Rfe8 24.Qc5 h6 25.Qc2 g5 26.Ng2 Rad8 27.Ne3 Qf6 28.Kg2 Qd4 29.Rd1 Re5
+30.Qe2 Ra5 31.h4 gxh4 32.Qg4+ Qg7 33.Qxh4 Qg5 34.Qh3 Rxa2 35.Nf5 h5 36.d4 Kf8
+37.Rh1 Qd2 38.Rf1 Qg5 39.Rh1 Ke8 40.Qxh5 Qxh5 41.Rxh5 a5 42.Rh8+ Kd7 43.Rh7 Rf8
+44.g4 Re2 45.Kf3 Re1 46.g5 Rg1  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.30"]
+[Round "8.2"]
+[White "Grischuk,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2774"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d4 d6 10.dxe5 dxe5 11.Nbd2 Bc5 12.Qe2 Bg4 13.h3 Bh5 14.c3 Na5 15.g4 Bg6
+16.Bc2 bxc3 17.bxc3 Nd5 18.Nb1 Nf4 19.Bxf4 exf4 20.Nbd2 Qe7 21.Kg2 Bb6 22.Nc4 Qc5
+23.Nce5 Qxc3 24.Rad1 Rfe8 25.Nxg6 hxg6 26.e5 Re7 27.h4 Rae8 28.h5 gxh5 29.Qe4 g6
+30.gxh5 Qc6 31.hxg6 Qxg6+ 32.Qxg6+ fxg6 33.Rg1 Nc6 34.Bxg6 Rg7 35.Kf1 Re6
+36.Bf5 Rxg1+ 37.Kxg1 Re7 38.Rd5 Kg7 39.Be4 a5 40.Kg2 Kh6 41.Rd1 Rg7+ 42.Kf1 Ne7
+43.Ke2 Rg4 44.Rh1+ Kg7 45.Rh7+ Kf8 46.e6 Rg7 47.Rh4 Ng8 48.Rxf4+ Ke7 49.Bf5 Nf6
+50.Nh4 Nd5 51.Rf3 Kd6 52.Ng6 Bd4 53.Nf4 Nxf4+ 54.Rxf4 c5 55.Re4 Rb7 56.f4 Ke7
+57.Kf3 Rb3+ 58.Kg4 Re3 59.Rxe3 Bxe3 60.Kf3 Bd2 61.Bd3 Kxe6 62.Bc4+ Kf6 63.Bd3 Ke6
+64.Bc4+ Kf6 65.Bd3 Ke6  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.05.30"]
+[Round "8.1"]
+[White "Dominguez Perez,L"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2760"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 d6 7.c3 O-O 8.Nbd2 Re8
+9.d4 exd4 10.cxd4 Bf8 11.d5 b5 12.dxc6 bxa4 13.Qxa4 d5 14.e5 Ng4 15.Qd4 Rb8
+16.a3 Rb6 17.h3 Nh6 18.Qc3 f6 19.e6 Rxe6 20.Nd4 Re8 21.N2b3 Nf7 22.Bf4 Ne5
+23.Rfe1 Be6 24.Bxe5 fxe5 25.Rxe5 Bf7 26.Rxe8 Qxe8 27.Re1 Qd8 28.Nc5 Bxc5
+29.Qxc5 Rxb2 30.Qe7 Qb8 31.Qe5 Qb6 32.Re3 g6 33.Ne6 Rb1+ 34.Kh2 Qb2 35.Rc3 Qxc3
+36.Qxc3 Bxe6 37.Qe5 Kf7 38.Qxc7+ Kf6 39.Qf4+ Ke7 40.Qc7+ Kf6 41.Qd6 g5 42.f4 gxf4
+43.c7  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.01"]
+[Round "9.4"]
+[White "Bacrot,E"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2741"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.e3 g6 6.Bd3 Bg7 7.O-O O-O 8.Qb3 dxc4
+9.Bxc4 b5 10.Be2 a5 11.Qc2 b4 12.Ne4 Nxe4 13.Qxe4 Ba6 14.Bxa6 Rxa6 15.Bd2 c5
+16.Rac1 Re6 17.Qh4 Bf6 18.Qh6 cxd4 19.exd4 Nc6 20.Be3 Rd6 21.Rc4 Bg7 22.Qh4 Qd7
+23.h3 Rd8 24.Rfc1 Nxd4 25.Bxd4 Bxd4 26.Nxd4 Rxd4 27.Rxd4 Qxd4 28.Qxe7 Kg7
+29.Qe2 Rd5 30.Qc2 h5 31.a3 h4 32.axb4 axb4 33.b3 Qe5 34.Rd1 Rc5 35.Qd2 Rc3
+36.Qd4 Qxd4 37.Rxd4 Rxb3 38.Rxh4 Rb1+ 39.Kh2 Kf6 40.Re4 b3 41.Re3 b2 42.Rb3 Ke5
+43.g3 Kd4 44.Kg2 Kc4 45.Rb8 Kc3 46.Rc8+ Kb3 47.Rb8+ Kc3 48.Rc8+ Kb3 49.Rb8+  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.01"]
+[Round "9.1"]
+[White "Nakamura,Hi"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2742"]
+[ECO "D01"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bg5 Nbd7 4.Qd3 h6 5.Bh4 e6 6.e4 dxe4 7.Nxe4 Be7 8.Nxf6+ Bxf6
+9.Bxf6 Nxf6 10.O-O-O O-O 11.Nf3 b6 12.Ne5 Bb7 13.Rg1 c5 14.dxc5 bxc5 15.Qxd8 Rfxd8
+16.Re1 Kf8 17.g4 Rd4 18.Rg3 Rf4 19.Rb3 Rb4 20.Ree3 Rc8 21.c4 Rxb3 22.Rxb3 Rc7
+23.Ra3 a6 24.Kd2 Ke7 25.Be2 Nd7 26.Nd3 Kd6 27.Ke3 g5 28.h3 Ne5 29.Nxe5 Kxe5
+30.Rb3 f5 31.f3 f4+ 32.Kf2 Bc6 33.Rb8 Rb7 34.Rc8 Kd6 35.b3 a5 36.Rh8 a4 37.Rxh6 axb3
+38.axb3 Rxb3 39.Rg6 Rb2 40.Rxg5 Ba4 41.Rg8 Ke7 42.Kf1 Rb1+ 43.Kf2 Rb2 44.Ke1 Rb1+
+45.Kd2 Rb2+ 46.Kd3 Rb3+ 47.Kd2 Rb2+ 48.Kd3 Rb3+ 49.Kd2 Rb2+  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.01"]
+[Round "9.2"]
+[White "Kasimdzhanov,R"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2699"]
+[BlackElo "2755"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 g6 7.d4 cxd4 8.Nxd4 Bg7
+9.h3 Qc7 10.b3 Qa5 11.Bd2 Nxe4 12.Nxe4 Qe5 13.Qb1 f5 14.Bc3 Qxe4+ 15.Qxe4 fxe4
+16.Nb5 Bxc3+ 17.Nxc3 Na6 18.Nxe4 Rf8 19.O-O-O Rc8 20.Rhe1 Kd7 21.Kb2 Nc5
+22.f3 Nxe4 23.Rxe4 Rc5 24.b4 Rcf5 25.Kc3 Rf4 26.Rxf4 Rxf4 27.Rd5 Kc6 28.a4 a6
+29.Rd2 Rf5 30.Re2 Kd7 31.a5 d5 32.cxd5 Rxd5 33.Kc4 Rd1 34.Kc5 Rd6 35.b5 axb5
+36.Re4 b4 37.Rxb4 Kc7 38.Re4 e6 39.Rf4 Rd5+ 40.Kb4 Kc6 41.Rf7 Rb5+ 42.Ka4 b6
+43.a6 Ra5+ 44.Kb3 Rxa6 45.Rxh7 g5 46.h4 gxh4 47.Rxh4 b5 48.Re4 Kd5 49.Rb4 Kc5
+50.Re4 Kd5 51.Rb4 Kc5  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.01"]
+[Round "9.3"]
+[White "Svidler,P"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2779"]
+[ECO "E71"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3 O-O 6.Bg5 c5 7.d5 e6 8.Bd3 exd5 9.cxd5 h6
+10.Bf4 g5 11.Bh2 Re8 12.Nge2 c4 13.Bc2 Na6 14.O-O Nc5 15.f3 b5 16.Kh1 Qb6
+17.Bg1 Bd7 18.Qd2 Qd8 19.Bd4 Nh5 20.Bxg7 Nxg7 21.g4 Qf6 22.Qd4 Qe5 23.b4 cxb3
+24.axb3 a5 25.b4 axb4 26.Qxb4 Reb8 27.Rxa8 Rxa8 28.Rb1 Ne8 29.Qd4 Qxd4 30.Nxd4 Nc7
+31.Ndxb5 Nxb5 32.Nxb5 Bxb5 33.Rxb5 Ra2 34.Bb1 Re2 35.Kg1 Nd7 36.Kf1 Rd2 37.Ke1 Rh2
+38.Bd3 Rxh3 39.Be2 h5 40.gxh5 Rxh5 41.Rb7 Ne5 42.Rb6 Rh6 43.Kf2 Kf8 44.Kg3 Rf6
+45.Rb8+ Ke7 46.Rb7+ Kd8 47.Rb8+ Kc7 48.Rg8 Rg6 49.Rxg6 fxg6 50.Bb5 Kb6 51.Be8 Kc5
+52.f4 gxf4+ 53.Kxf4 Kd4 54.Bb5 Nf7 55.Be8 Ne5 56.Bb5 g5+ 57.Kxg5 Kxe4 58.Bc6 Kd4
+59.Kf5 Nd3 60.Bb7 Nb4 61.Kf4 Nxd5+ 62.Kf3 Nc3 63.Ba8 d5 64.Bxd5 Nxd5  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.01"]
+[Round "9.5"]
+[White "Morozevich,A"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2760"]
+[BlackElo "2793"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.c3 Nd7 7.O-O c5 8.Nh4 Be4 9.Nd2 Nc6
+10.g3 Be7 11.f3 Bg6 12.Nxg6 hxg6 13.Nb3 cxd4 14.cxd4 Nb6 15.f4 Nc4 16.Kg2 Qb6
+17.Rf3 O-O-O 18.Be3 Nxe3+ 19.Rxe3 Kb8 20.a4 a6 21.a5 Qb4 22.Rd3 Rc8 23.Nd2 Nxa5
+24.Nf3 Qb6 25.Qa4 Bb4 26.h4 Rc7 27.Rh1 Rhc8 28.Bd1 Be7 29.b3 Rh8 30.Ng5 Bd8
+31.Rf1 Nc6 32.Bg4 Nb4 33.Rd2 Ka7 34.Rff2 Nc6 35.Nxf7 Rxf7 36.Bxe6 Rc7 37.Bxd5 Ne7
+38.Be4 Nf5 39.Bxf5 gxf5 40.d5 Rc3 41.d6 Rxb3 42.Rfe2 Rxg3+ 43.Kxg3 Qg1+ 44.Kf3 Bb6  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.01"]
+[Round "9.6"]
+[White "Caruana,F"]
+[Black "Dominguez Perez,L"]
+[Result "0-1"]
+[WhiteElo "2774"]
+[BlackElo "2723"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 h5
+9.Qd2 Nbd7 10.Nd5 Bxd5 11.exd5 g6 12.Be2 Qc7 13.c4 a5 14.Rd1 a4 15.Na1 Qa5
+16.Qxa5 Rxa5 17.Nc2 Bh6 18.Bf2 Ke7 19.g3 Ne8 20.O-O f5 21.Rfe1 Nef6 22.Bf1 Kf7
+23.Na3 e4 24.f4 g5 25.fxg5 Bxg5 26.Bd4 Ne5 27.Be2 h4 28.Rf1 Kg6 29.Nb5 Rxb5
+30.cxb5 hxg3 31.hxg3 Rc8 32.Rf2 Nfg4 33.Bxg4 Nxg4 34.Re2 Rc4 35.a3 Bf6 36.Ba7 Be5
+37.Kg2 Nf6 38.Rdd2 Rc8 39.Bd4 Re8 40.Re1 Kg5 41.Bxe5 Rxe5 42.Rd4 f4 43.gxf4+ Kxf4
+44.Rxa4 Rxd5 45.Re2 Rxb5 46.b4 Rg5+ 47.Kf1 Ng4 48.Ke1 Ne3 49.Rf2+ Ke5 50.Ra7 Rg7
+51.a4 d5 52.a5 d4 53.a6 Rg1+ 54.Ke2 bxa6 55.Re7+ Kd5 56.Rd7+ Kc4 57.Rc7+ Kb3
+58.Rh2 Rg3 59.Rd7 d3+ 60.Ke1 Rf3 61.Rh1 Nc4 62.Rd4 Re3+ 63.Kf2 Re2+ 64.Kg3 Kc3
+65.Rd8 d2  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.02"]
+[Round "10.1"]
+[White "Ponomariov,R"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2742"]
+[BlackElo "2725"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O O-O 6.h3 d6 7.c3 Bb6 8.Bb3 Ne7
+9.Nbd2 c6 10.Re1 Ng6 11.d4 h6 12.Bc2 Re8 13.a3 a5 14.Nc4 Bc7 15.Be3 exd4
+16.Bxd4 Nh5 17.e5 d5 18.Ne3 Nhf4 19.Nf5 Be6 20.Qd2 Bxf5 21.Bxf5 Ne6 22.Rad1 Nh4
+23.Nxh4 Qxh4 24.g3 Qg5 25.Qc2 g6 26.Bd3 h5 27.h4 Qg4 28.Be2 Qe4 29.Qc1 Qf5
+30.Bd3 Qg4 31.Be2 Qf5 32.Kg2 Ng7 33.Bd3 Qd7 34.f4 b5 35.Qc2 Rab8 36.Kh2 Bb6
+37.Bf1 Qa7 38.Bh3 b4 39.f5 bxa3 40.bxa3 gxf5 41.Bxf5 Bxd4 42.cxd4 Nxf5 43.Qxf5 Rb2+
+44.Kh3 Re6 45.Qxh5 c5 46.dxc5 Qxc5 47.Rf1 Qe7 48.Rxd5 Rg6 49.Rf6 Rxf6 50.exf6 Qxf6
+51.Qg4+  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.02"]
+[Round "10.2"]
+[White "Topalov,V"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2793"]
+[BlackElo "2774"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.Nc3 d6 8.Nd5 Na5
+9.d4 Nxb3 10.axb3 Nxd5 11.exd5 exd4 12.Re1+ Kf8 13.Nxd4 Bd7 14.Be3 Qf6 15.Qd2 h5
+16.b4 Bb6 17.Ra3 h4 18.Ne6+ Kg8 19.Bxb6 cxb6 20.Ng5 Rc8 21.Rf3 Qg6 22.Rd3 Rh5
+23.f4 f6 24.Ne4 Rc7 25.Nxd6 f5 26.Qe2 Rh6 27.Ne8 Rc8 28.Re3 Kf8 29.Nxg7 Qxg7
+30.c3 Qg4 31.Qd2 Rh7 32.Qd4 Rg7 33.R1e2 Qg6 34.b3 a5 35.bxa5 bxa5 36.h3 a4
+37.Qb4+ Kg8 38.bxa4 bxa4 39.c4 Qf6 40.c5 Qf8 41.d6 Rb8 42.Qd4 Bc6 43.Re7 a3
+44.Qc4+ Kh8 45.Qc3 Ra8 46.Qa1 Be4 47.Qe5 Bc6 48.Qa1 a2 49.Kh2 Be4 50.Rc7 Qg8
+51.Re7 Kh7 52.Qf6 Rxe7 53.Qxh4+ Kg7 54.Qxe7+ Kh8 55.Rxe4 a1=Q 56.Re5 Qb2
+57.Re2 Qbg7 58.Qh4+ Q8h7 59.Qe1 Qhg6 60.d7 Qxd7  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.02"]
+[Round "10.3"]
+[White "Kamsky,G"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2760"]
+[ECO "C96"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 cxd4 12.cxd4 exd4 13.Nxd4 Re8 14.Nc3 Bb7 15.Nf5 Rc8
+16.Bg5 Nc4 17.Qd4 Nxb2 18.Bb3 Nc4 19.Rad1 Qd7 20.Rd3 Bd8 21.Nxg7 Re5 22.Nf5 Nxe4
+23.Nh6+ Kf8 24.Bxd8 Rxd8 25.f4  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.02"]
+[Round "10.4"]
+[White "Grischuk,A"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2723"]
+[ECO "D70"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3 O-O 8.Qd2 e5
+9.d5 c6 10.h4 cxd5 11.exd5 N8d7 12.h5 Nf6 13.hxg6 fxg6 14.O-O-O Bd7 15.d6 Rc8
+16.Kb1 e4 17.fxe4 Ng4 18.Bg5 Qe8 19.Nf3 Rf7 20.Be7 Rxc3 21.bxc3 Qc8 22.Rc1 Na4
+23.Ng5 Qc5 24.Nxf7 Nxc3+ 25.Rxc3 Bxc3 26.Nh6+ Kg7 27.Qd5 Qb4+ 28.Qb3 Qxe4+
+29.Qc2 Qe1+ 30.Qc1 Qe4+ 31.Qc2 Qe1+ 32.Qc1 Qe4+ 33.Qc2  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.02"]
+[Round "10.5"]
+[White "Ivanchuk,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2775"]
+[ECO "E63"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O a6 8.d5 Na5
+9.Nd2 c5 10.Qc2 Rb8 11.b3 b5 12.Bb2 h5 13.Rae1 bxc4 14.bxc4 e5 15.Rb1 h4
+16.Ba3 Rxb1 17.Rxb1 hxg3 18.hxg3 Ng4 19.Na4 f5 20.Nb6 e4 21.e3 Bd7 22.Nxd7 Qxd7
+23.Bh3 Ne5 24.Bb2 g5 25.Bc3 g4 26.Bf1 Nb7 27.Rb6 Nd8 28.Bxe5 Bxe5 29.Rxa6 Nf7
+30.Qa4 Qxa4 31.Rxa4 Rb8 32.Nb3 Bc3 33.Ra6 Kf8 34.Be2 Ke7 35.Ra7+ Kf6 36.Ra6 Ke7
+37.Ra7+ Kf6 38.Ra6  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.02"]
+[Round "10.6"]
+[White "Svidler,P"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2699"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.a4 Rb8 8.Nxe5 Nxe5
+9.d4 Bxd4 10.Qxd4 d6 11.f4 Nc6 12.Qd3 O-O 13.Nc3 Nb4 14.Qd2 Qe7 15.axb5 axb5
+16.Re1 c5 17.e5 dxe5 18.fxe5 Ng4 19.Qg5 Qc7 20.Nd5 Nxd5 21.Bxd5 c4 22.Be3 h6
+23.Qf4 Nxe3 24.Qxe3 Bb7 25.Ra7 Qc8 26.Rxb7 Rxb7 27.Bxb7 Qxb7 28.e6 fxe6 29.Qxe6+ Kh8
+30.h3 Qa7+ 31.Qe3 Qb7 32.b3 cxb3 33.Qxb3 Qb6+ 34.Qe3 Qxe3+ 35.Rxe3 Rc8 36.Re5 Rxc2
+37.Rxb5  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.03"]
+[Round "11.1"]
+[White "Caruana,F"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2774"]
+[BlackElo "2741"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Qd7 11.Nbd2 Rfe8 12.Nf1 Nd8 13.Ng3 g6 14.Bh6 Ne6 15.Qd2 c5
+16.Ba2 Rac8 17.c4 Kh8 18.Ng5 Nxg5 19.Bxg5 Ng8 20.Bxe7 Rxe7 21.b4 f5 22.cxb5 axb5
+23.f4 cxb4 24.axb4 Rf8 25.Rf1 Rg7 26.Rae1 h5 27.Rf2 h4 28.Nf1 exf4 29.Rxf4 g5
+30.Rxf5 Rxf5 31.exf5 Qxf5 32.Re8 Bd5 33.Bxd5 Qxd5 34.Ne3 Qd4 35.Qd1 Kh7 36.Qh5+ Nh6
+37.Re6  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.03"]
+[Round "11.5"]
+[White "Kasimdzhanov,R"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2699"]
+[BlackElo "2779"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 b5 8.Qd2 Nbd7
+9.g4 h6 10.O-O-O b4 11.Nce2 Qc7 12.h4 d5 13.Bf4 e5 14.Bh2 dxe4 15.g5 hxg5
+16.hxg5 Rxh2 17.Rxh2 exd4 18.Rh8 Nd5 19.Qxd4 Bb7 20.Qxe4+ Ne7 21.Qxb4 Ng6
+22.Rg8 Ne7 23.Rh8 Ng6 24.Rg8 Ne7 25.Rh8  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.03"]
+[Round "11.4"]
+[White "Morozevich,A"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2742"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 d5 3.e3 c5 4.Bxf6 gxf6 5.Bb5+ Bd7 6.Bxd7+ Qxd7 7.Qf3 cxd4
+8.exd4 Nc6 9.Ne2 f5 10.O-O e6 11.Rd1 O-O-O 12.b3 Rg8 13.c4 dxc4 14.Nbc3 Bg7
+15.bxc4 Bxd4 16.Rab1 Ne5 17.Qh3 Qc6 18.Nd5 Bc5 19.Nd4 Qa6 20.Nb3 Bxf2+ 21.Kxf2 exd5
+22.Qxf5+ Qe6 23.Nd4 Qxf5+ 24.Nxf5 Rg5 25.Ne7+ Kb8 26.cxd5 Rd7 27.d6 b6 28.h4 Rg4
+29.Rb5 Ng6 30.Rf5 Nxh4 31.Rxf7 Rxg2+ 32.Kf1 Kb7 33.Rxh7 Rg4 34.Kf2 Nf5 35.Kf3 Ra4
+36.Nxf5 Rxh7 37.d7 Rh8 38.d8=Q Rxd8 39.Rxd8 Rxa2 40.Ke4 Rc2 41.Nd6+ Ka6 42.Kd5 Ka5
+43.Ra8 Rc7 44.Ne8 Rh7 45.Kc6 Kb4 46.Nd6 a5 47.Rb8 a4 48.Rxb6+ Kc3 49.Nb5+ Kb4
+50.Nc7+ Kc4 51.Nb5 Rh6+ 52.Nd6+ Rxd6+ 53.Kxd6 a3 54.Ra6 Kb3 55.Rxa3+ Kxa3  1/2-1/2
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.03"]
+[Round "11.3"]
+[White "Bacrot,E"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2725"]
+[BlackElo "2755"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O b6 13.Qc1 Qe6 14.Re1 Bb7 15.Bb5 Na6
+16.Bf4 Qc8 17.Qe3 Qd8 18.d5 Nc5 19.Ne5 e6 20.Nc6 Bxc6 21.Bxc6 Rc8 22.Bg5 f6
+23.Bh4 g5 24.Bg3 f5 25.exf5 exd5 26.Bb5 Qf6 27.Qa3 Qxf5 28.Qxa7 Bd4 29.Rbd1 Bxf2+
+30.Bxf2 Qxf2+ 31.Kh1 Ne4 32.Qb7 Nc3 33.Bd3 Qf7 34.Re7 Nxd1 35.Rxf7 Nf2+ 36.Kg1 Rc1+
+37.Bf1 Rxf7 38.Qxd5 Ne4 39.Qd8+ Kg7 40.Qd4+ Kh6  0-1
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.03"]
+[Round "11.2"]
+[White "Nakamura,Hi"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2769"]
+[ECO "A10"]
+
+1.c4 g6 2.e4 e5 3.d4 Nf6 4.Nf3 exd4 5.e5 Ne4 6.Qxd4 Bb4+ 7.Nbd2 Ng5 8.a3 Nxf3+
+9.gxf3 Nc6 10.Qe3 Bf8 11.b4 Bg7 12.Bb2 O-O 13.f4 d6 14.O-O-O dxe5 15.fxe5 Qh4
+16.b5 Ne7 17.Qg3 Qh5 18.f4 a6 19.a4 axb5 20.axb5 Bg4 21.Re1 Rfd8 22.Rg1 Be6
+23.Be2 Qf5 24.Bg4 Qxg4 25.Qxg4 Bxg4 26.Rxg4 Nf5 27.Rg2 Rd3 28.Ne4 Ra4 29.Rc2 Re3
+30.Kd1 Rd3+ 31.Kc1 Ne3 32.Nc5 Nxc2 33.Kxc2 Rxc4+ 34.Kxd3 Rxc5 35.Ra1 Rxb5
+36.Ra8+ Bf8 37.Bd4 h6 38.Rc8 c6 39.Bc3 Rd5+ 40.Ke4 Rc5 41.Kd3 Rb5 42.h4 h5
+43.Bd2 Rd5+ 44.Kc2 Rc5+ 45.Kd3 Rd5+ 46.Kc2 g5 47.f5 gxh4 48.Bc3 Kg7 49.e6+ f6
+50.Rc7+ Kg8 51.Rc8 Kg7 52.Rc7+ Kg8 53.Bxf6 Rxf5 54.Rc8 Rf2+ 55.Kd3 Rf3+ 56.Kd4  1-0
+
+[Event "Makedonia Palace GP"]
+[Site "Thessaloniki GRE"]
+[Date "2013.06.03"]
+[Round "11.6"]
+[White "Dominguez Perez,L"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2793"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Qd2 Nf6 8.O-O-O Bb4
+9.f3 Ne5 10.Nb3 b5 11.Qf2 O-O 12.Bc5 Bxc5 13.Qxc5 Qxc5 14.Nxc5 d5 15.f4 Neg4
+16.e5 Nd7 17.Nxd7 Bxd7 18.Rd4 Ne3 19.Kd2 Nf5 20.Rd3 b4 21.Nd1 d4 22.Rg1 Bc6
+23.g3 Rac8 24.Kc1 a5 25.Rd2 Rfd8 26.Bd3 a4 27.Re1 g6 28.b3 axb3 29.axb3 Ra8
+30.Kb2 Ne7 31.Bc4 Bf3 32.Nf2 Nf5 33.Bd3 Ne3 34.Be4 Bxe4 35.Nxe4 Rdc8 36.Ree2 Rd8
+37.Nd6 Nf5 38.Re4 Nxd6 39.exd6 Rxd6 40.Rdxd4 Rxd4 41.Rxd4 Rb8 42.c3 bxc3+
+43.Kxc3 Kf8 44.Rd7 Rc8+ 45.Kb2 Ke8 46.Ra7 h5 47.b4 h4 48.Kb3 h3 49.b5 Rc5
+50.Kb4 Rc2 51.b6 Kd8 52.Rxf7 Rxh2 53.Rh7 Kc8 54.Kc5 Rc2+ 55.Kd6 h2 56.Kxe6 Rg2
+57.Ke5 Rxg3 58.Rxh2 Rb3 59.Rh8+ Kb7 60.Rh7+ Kxb6 61.Kf6 Rb4 62.Kg5 Kc6 63.Rf7 Kd5
+64.Kxg6 Rb6+ 65.Kg5 Rb8 66.f5 Rg8+ 67.Kf6 Ke4 68.Ra7 Rf8+ 69.Kg6 Rg8+ 70.Kf7 Rh8
+71.Kg7  1-0

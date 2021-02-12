@@ -1,0 +1,1275 @@
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.18"]
+[Round "1.5"]
+[White "Giri,A"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2771"]
+[ECO "D76"]
+
+1.d4 Nf6 2.c4 g6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Bg7 6.Nf3 O-O 7.O-O Nb6 8.Nc3 Nc6
+9.e3 Re8 10.h3 a5 11.Qc2 e5 12.Nxe5 Nxe5 13.dxe5 Bxe5 14.e4 Qe7 15.Kh2 Bd7
+16.Bh6 Qc5 17.Rac1 Bc6 18.Nd5 Qxc2 19.Rxc2 Bxd5 20.exd5 Bd6 21.Rfc1 Rad8
+22.Bg5 Rc8 23.Bf4 Bxf4 24.gxf4 Rcd8 25.Rxc7 Nxd5 26.Rxb7 Nxf4 27.Rcc7 Rf8
+28.Bf1 Ne6 29.Rc2 Rd5 30.Bc4 Rf5 31.Bxe6 fxe6 32.Kg1 Rg5+ 33.Kf1 Rh5 34.Kg2 Rg5+
+35.Kf1 Rh5 36.Kg2 Rg5+  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.18"]
+[Round "1.3"]
+[White "Caruana,F"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2793"]
+[ECO "C63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d3 fxe4 5.dxe4 Nf6 6.O-O Bc5 7.Bxc6 bxc6 8.Nxe5 O-O
+9.Nc3 d6 10.Na4 Qe8 11.Nd3 Nxe4 12.Naxc5 Nxc5 13.Nxc5 dxc5 14.Be3 Qg6 15.Qd3 Bf5
+16.Qc4+ Be6 17.Qe2 c4 18.f3 a6 19.Bd4 Rae8 20.Kh1 Bd5 21.Qd2 Re6 22.Bc3 h6
+23.Rf2 Kh7 24.Raf1 Rf5 25.Re1 Rd6 26.Be5 Rd7 27.Qc3 Qg5 28.Rfe2 Rdf7 29.Re3 h5
+30.R1e2 Qg6 31.h3 Qg5 32.Kh2 h4 33.Qd4 Re7 34.Qg4 Kg8 35.Bc3 Rxe3 36.Rxe3 Kf7
+37.Be1 Qf4+ 38.Qxf4 Rxf4 39.Ra3 Rd4 40.Rxa6 g5 41.Ra7 Rd1 42.Rxc7+ Ke6 43.Bb4 c3
+44.Bxc3 Rc1 45.Rg7 Bxa2 46.Rxg5 Rxc2 47.Rg6+ Kd7 48.Rg4 Bd5 49.Kg1 Rc1+ 50.Kf2 Rc2+
+51.Kf1 Be6  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.18"]
+[Round "1.2"]
+[White "Mamedyarov,S"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2733"]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Bf4 Nf6 5.Nf3 O-O 6.Qc2 c5 7.dxc5 Na6 8.e3 Nxc5
+9.Be2 dxc4 10.Bxc4 a6 11.Rd1 Qa5 12.Ne5 Nce4 13.O-O Nxc3 14.bxc3 Qc5 15.Be2 Nd5
+16.c4 Nxf4 17.exf4 b6 18.Qb3 Bd6 19.Bf3 Ra7 20.Rfe1 Rc7 21.g3 Bxe5 22.Rxe5 Qxc4
+23.Qxb6 Rd7 24.Qb2 Rxd1+ 25.Bxd1 Rd8 26.Bf3 h6 27.Re1 Qb5 28.Rb1 Bd7 29.Be2 Qxb2
+30.Rxb2 a5 31.f3 Bc6 32.Kf2 Bd5 33.a4 Kf8 34.Rb5 Ra8 35.Rc5 g5 36.fxg5 hxg5
+37.f4 gxf4 38.gxf4 Kg7 39.h4 Bb3 40.Bb5 Rh8 41.Kg3 Kf6 42.Be2 Bxa4 43.Rxa5 Bc2
+44.Bf3 Rg8+ 45.Kf2 Bf5 46.Ra8 Rxa8 47.Bxa8 Kg7 48.Kg3 f6 49.Bh1 e5 50.fxe5 fxe5
+51.h5 Kh6 52.Bf3 Kg5 53.Kf2 Kf4 54.Bg2 Bh7 55.Bf3 Bb1 56.Bg2 Bc2 57.Bf3 Bd3
+58.Bg2 Bf5 59.Bf3 Bh7 60.Bg2 Bb1 61.Bf3 Bh7 62.Bg2 Kg4 63.Bf3+ Kf4 64.Bg2 e4
+65.Bf1 Bf5 66.Be2 e3+ 67.Ke1 Kg5 68.Bf3 Bd3 69.Be2 Bxe2 70.Kxe2 Kxh5 71.Kxe3  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.18"]
+[Round "1.1"]
+[White "Morozevich,A"]
+[Black "Kasimdzhanov,R"]
+[Result "1-0"]
+[WhiteElo "2758"]
+[BlackElo "2709"]
+[ECO "A07"]
+
+1.g3 d5 2.Nf3 Bg4 3.Bg2 Nd7 4.h3 Bxf3 5.Bxf3 Ngf6 6.d3 c6 7.Nd2 g6 8.e4 Bg7
+9.Qe2 Qc7 10.Bg2 O-O 11.O-O e5 12.b3 Rfe8 13.Bb2 Rad8 14.Rfe1 d4 15.h4 Nc5
+16.Bh3 b5 17.Nf3 a5 18.Bc1 a4 19.Bd2 Ra8 20.b4 Ne6 21.Rac1 Rad8 22.Ng5 Nf8
+23.c4 dxc3 24.Rxc3 N6d7 25.Rec1 Nb8 26.a3 h6 27.Nf3 Ne6 28.Be3 Rd6 29.Qd2 Kh7
+30.Kg2 Red8 31.Rh1 Qe7 32.Bb6 Re8 33.Rhc1 Qb7 34.Be3 Qe7 35.Qa2 Kh8 36.Qc2 Kg8
+37.Qe2 Kh8 38.Kh2 Kg8 39.h5 g5 40.Ne1 Kh8 41.Ng2 Kg8 42.Bc5 Nxc5 43.Rxc5 Red8
+44.Ne3 Qa7 45.R5c3 Rf6 46.Nf5 Re8 47.Qe3 Qxe3 48.fxe3 Bf8 49.Bg2 Ree6 50.d4 exd4
+51.exd4 g4 52.Rf1 Nd7 53.Rf4  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.18"]
+[Round "1.6"]
+[White "Leko,P"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2741"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Bc2 f5 12.Nb3 Qd7 13.Nbd4 Nxd4 14.Nxd4 c5 15.Ne2 Rad8
+16.Nf4 c4 17.Be3 g5 18.Nxe6 Qxe6 19.Bd4 a5 20.Qe2 f4 21.Bxe4 dxe4 22.Qxe4 f3
+23.Be3 Rd5 24.gxf3 Rxe5 25.Qg4 Qg6 26.Rad1 h5 27.Qd7 Qf7 28.Rfe1 Qxf3 29.Bd4 Rd8
+30.Qxd8+ Bxd8 31.Bxe5 Be7 32.Rd2 Bc5 33.Bd4 Bd6 34.Be5 Bc5 35.Bd4 Bd6 36.Be5 Bc5
+37.Bd4 Bd6  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.18"]
+[Round "1.4"]
+[White "Karjakin,Sergey"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2767"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6
+9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Bxd7+ Bxd7 14.Rb3 Qe7 15.Rxb7 Qd8
+16.f5 Qc8 17.Rb3 Qc4 18.fxe6 fxe6 19.Rf1 Be7 20.Qd3 Rc8 21.Kd2 Rf8 22.Qxc4 Rxc4
+23.Rb8+ Bc8 24.Rxf8+ Bxf8 25.Ne2 Kd7 26.c3 Ra4 27.Nc1 Kc7 28.Rb1 Bd7 29.Ra1 Bb5
+30.Nb3 Kc6 31.Kc2 Bc4 32.Kb2 Bd3 33.a3 Be7 34.Nd2 Kb5 35.g3 h5 36.Kb3 g5
+37.Kb2 g4 38.Be3 Bf8 39.Bd4 Bf5 40.Kb3 Bh6 41.Rd1 Bd3 42.Kb2 Bf8 43.Ra1 Be7
+44.Be3 h4 45.Bd4 h3 46.Be3 Bf5 47.Kb3 Bf8 48.Kb2 Bg7 49.Bd4 Bh6 50.Rd1 Bg6
+51.Kb3 Bf5 52.Kb2 Bg5 53.Kb3 Kc6 54.Nf1 Ra5 55.Ne3 Rb5+ 56.Ka2 Be4 57.Re1 Bf3
+58.a4 Rb7 59.Rb1 Rxb1 60.Kxb1 a5 61.Kc2 Bd8 62.Kd2 Kd7 63.Nc2 Ke8 64.Be3 Bc7
+65.Bf4 Be4 66.Nd4 Kd7 67.Kc1 Bg6 68.Kb2 Be8 69.Kb3 Bg6 70.Kb2 Bd3 71.Kb3 Bb6
+72.Kb2 Ke7 73.Kb3 Kf7 74.Kb2 Ba6 75.Kb3 Kg6 76.Bd2 Bc8 77.Kb2 Bd7 78.Kb3 Bc5
+79.Bc1 Bxd4 80.cxd4 Kf5 81.Kc3 Ke4 82.Ba3 Bxa4 83.Bb2 Ke3 84.Ba3 Bb5 85.Bb2 a4
+86.Ba3 Bc4 87.Bb2 Bb3 88.Ba3 Ke2 89.Bb2 Bd1 90.Ba3 Kf2 91.Kd2 Kg2 92.Ke1 Bb3
+93.Bb2 Kf3 94.Kd2 Ba2 95.Ba3 Bc4 96.Bb2 Ke4 97.Kc3 Kf3 98.Kd2 Kg2 99.Ke1 Kxh2
+100.Kf2 Kh1 101.Ba3 Be2 102.Bb2 h2 103.Ba3 Bd1 104.Bb2 Be2 105.Ba3 Bd1 106.Bb2 Be2
+107.Ba3  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.19"]
+[Round "2.2"]
+[White "Topalov,V"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2744"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 h6 7.Bh4 c5 8.e3 c4
+9.Nd2 g5 10.Bg3 Bf5 11.Be5 Bxc3 12.bxc3 Nbd7 13.Bd6 Qb6 14.Bb4 a5 15.Ba3 Qc6
+16.Be2 b5 17.O-O Rb8 18.f3 b4 19.Bb2 O-O 20.Rc1 Nb6 21.Ba1 Qe6 22.e4 dxe4
+23.cxb4 axb4 24.fxe4 Nxe4 25.Bxc4 Nd5 26.Nb3 Bg6 27.Nc5 Qd6 28.Qf3 Rfe8 29.Na6 Rb7
+30.Bxd5 Qxd5 31.Nc7 Rxc7 32.Rxc7 Qxa2 33.Qh3 Qd5 34.Qxh6 Nc3 35.Kh1 Qf5 36.Rg1 Ne4
+37.Rc2 b3 38.d5 f6 39.Re2 Bf7 40.d6 Qg6 41.Qxg6+ Bxg6 42.d7 Rd8 43.Rd1 Kf7
+44.g4 Nc5 45.Rd6 Ne4 46.Rd4 Nc5 47.Re3 Bc2 48.Rc3 Nxd7 49.Re3 f5 50.Bb2 fxg4
+51.Rd5 Kg6 52.Re7 Ra8 53.Rdxd7 Ra2 54.Rd6+ Kh5 55.Bg7 g3 56.h3 Bg6 57.Ree6 b2
+58.Bxb2  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.19"]
+[Round "2.3"]
+[White "Nakamura,Hi"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2727"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Nbxd2 d6 6.g3 O-O 7.Bg2 Re8 8.O-O e5
+9.e4 a5 10.Qc2 Na6 11.Qc3 exd4 12.Nxd4 Nc5 13.Rfe1 c6 14.b3 Bd7 15.h3 h6
+16.Re3 Qc7 17.Rae1 Re7 18.f4 Rae8 19.a3 h5 20.Nc2 Bc8 21.b4 axb4 22.axb4 Ne6
+23.Rf1 b6 24.Nf3 Nf8 25.Ng5 N8h7 26.Nxh7 Kxh7 27.Qd3 Kg8 28.Nd4 Bd7 29.Rfe1 c5
+30.bxc5 Qxc5 31.Nb3 Qc7 32.Qd4 Bc6 33.Nd2 b5 34.cxb5 Bxb5 35.Nb1 Qa7 36.Qxa7 Rxa7
+37.Nc3 Bc6 38.Rd1 Rd7 39.Rd4 Ra8 40.Bf3 Ra3 41.Kf2 Kf8 42.Rc4 Bb7 43.e5 Ne8
+44.Bxb7 Rxb7 45.Rc8 dxe5 46.Rxe5 Re7 47.Nd5 Rxe5 48.fxe5 Ra5 49.Rd8 Rc5 50.Kf3 Rc6
+51.Kf4 Rc1 52.Ra8 Rf1+ 53.Kg5 Re1 54.Kf5 Rf1+ 55.Nf4 Rf3 56.g4 hxg4 57.hxg4 Rf1
+58.g5 Ke7 59.Ra7+ Kf8 60.Rd7 g6+ 61.Ke4 Re1+ 62.Kd5 Rd1+ 63.Kc6 Rxd7 64.Kxd7 Ng7
+65.e6 Nf5 66.Nd5 fxe6 67.Kxe6 Nd4+ 68.Kf6 Nf3 69.Nf4 Nxg5 70.Kxg5 Kf7 71.Nxg6  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.19"]
+[Round "2.4"]
+[White "Radjabov,T"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2793"]
+[BlackElo "2786"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Bg5 h6 14.Be3 Nc6 15.d5 Bxf3
+16.gxf3 Nd4 17.Bxd4 Bxd4 18.Qxd4 Qxe2 19.Kg2 b6 20.Qe5 Rfe8 21.Rfc1 Qd3 22.h4 Rac8
+23.Ra1 a5 24.Rc7 Rxc7 25.Qxc7 Qd4 26.Rb1 Qc5 27.Qa7 Qd6 28.Rxb6 Qf4 29.Qd7 Kf8
+30.Ra6 Qxh4 31.Qg4 Qxg4+ 32.fxg4 e6 33.Rxa5 exd5 34.exd5 Ke7 35.Kg3 Kd6 36.f3 Re5
+37.Ra7 Re7 38.Ra8 Kxd5 39.Rh8  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.19"]
+[Round "2.5"]
+[White "Ponomariov,R"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2772"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 d6 8.d4 Bb6
+9.Be3 O-O 10.Nbd2 Re8 11.Re1 Na5 12.Bc2 c5 13.h3 Nc6 14.dxc5 dxc5 15.a4 Rb8
+16.axb5 axb5 17.c4 Nb4 18.cxb5 Bd7 19.Nc4 Bxb5 20.Nfd2 Bc7 21.Ra3 Bxc4 22.Nxc4 Qxd1
+23.Bxd1 Nxe4 24.Ra7 Nd6 25.Ba4 Rec8 26.Nxe5 Nb5 27.Bxb5 Rxb5 28.Bd2 Nc2 29.Nc6 Bd6
+30.Ne7+ Bxe7 31.Rexe7 Rf8 32.Bc3 Nb4 33.Red7 h6 34.Kf1 Rb6 35.f3 Nc6 36.Rac7 Nb8
+37.Rd5 Na6 38.Ra7 Rc6 39.Rdd7 c4 40.Rd4 Rfc8 41.Re7 R6c7 42.Rxc7 Rxc7 43.Ke2 Rc6
+44.f4 Kf8 45.f5 g6 46.g4 gxf5 47.gxf5 Nc7 48.Kd2 Ke7 49.Re4+ Kd7 50.Bb4 Rf6
+51.Re5 Ne8 52.Ke3 Rb6 53.Rd5+ Kc6 54.Rc5+ Kd7 55.Bc3 Nd6 56.Kf4 Ra6 57.Be5 f6
+58.Bxf6 Ra1 59.Bc3 Rf1+ 60.Kg4 Rf2 61.h4 Rf1 62.Rd5 Kc6 63.Ra5 Kb6 64.Re5 Kc6
+65.Bb4 h5+ 66.Kxh5 Nxf5 67.Kg5 Nd4 68.Rc5+ Kb6 69.Rxc4 Nf3+ 70.Kh5 Ne5 71.Re4 Nd3
+72.Bc3 Kc6 73.Rc4+ Kb5 74.Rd4 Nf4+ 75.Kg4 Ne6 76.Re4 Nc5 77.Re1  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.19"]
+[Round "2.6"]
+[White "Morozevich,A"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2758"]
+[BlackElo "2766"]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.h4 c5 6.dxc5 Na6 7.h5 O-O 8.hxg6 fxg6
+9.Bh6 Bxh6 10.Rxh6 dxc4 11.Rh4 Nxc5 12.Rxc4 b6 13.b4 Qxd1+ 14.Rxd1 Ba6 15.e3 Ncd7
+16.Rcd4 Bxf1 17.Kxf1 Rfc8 18.Ne2 Nf8 19.Nf4 Rc2 20.a4 Rac8 21.b5 Ra2 22.R1d2 Rxd2
+23.Rxd2 Rc1+ 24.Ke2 Ra1 25.Rd4 Ra2+ 26.Ke1 Ra1+ 27.Ke2 Ra2+ 28.Ke1 Ra1+ 29.Ke2 Ra2+  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.19"]
+[Round "2.1"]
+[White "Kasimdzhanov,R"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2709"]
+[BlackElo "2741"]
+[ECO "C03"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Bd3 c5 5.dxc5 Nf6 6.Qe2 a5 7.Ngf3 O-O 8.O-O Na6
+9.e5 Nd7 10.c3 Naxc5 11.Bc2 b5 12.Nd4 Qc7 13.Re1 b4 14.Qe3 bxc3 15.bxc3 Ba6
+16.Ba3 Rfe8 17.h4 Rac8 18.Rab1 h6 19.h5 f6 20.exf6 Bxf6 21.Qh3 Nf8 22.Rbc1 Bg5
+23.N4f3 Bf6 24.Nd4 Bg5 25.N4f3 Bf4 26.g3 Bd6 27.Qg4 Ncd7 28.Bxd6 Qxd6 29.Qa4 e5
+30.Qxa5 e4 31.Nd4 Ne5 32.Bb3 Bc4 33.Bxc4 Nxc4 34.Nxc4 Rxc4 35.Nf5 Qc6 36.Rcd1 Rc5
+37.Qa7 Nd7 38.Rb1 Qe6 39.Nxg7 Kxg7 40.Rb7 Re7 41.Rxd7 Rxd7 42.Qxc5 Qf6 43.Rd1 Qg5
+44.Qd4+ Kg8 45.c4 Qxh5 46.Re1 Qf7 47.cxd5 Rxd5 48.Qxe4 Rd2 49.Qe8+  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.20"]
+[Round "3.3"]
+[White "Karjakin,Sergey"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2733"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.Nc3 Nf6 7.Qe2 d6 8.Be3 Be6
+9.O-O-O Qe7 10.g3 O-O-O 11.Bg2 Rhe8 12.Rhe1 Kb8 13.h3 Bxb3 14.axb3 Bxe3+
+15.Qxe3 Qe5 16.Nd5 Ne7 17.Nxf6 Qxf6 18.f4 Nc8 19.Rd4 Qe7 20.Red1 h6 21.Qf3 c6
+22.h4 Nb6 23.Qg4 f6 24.h5 Kc7 25.R4d3 Qd7 26.Qe2 Qf7 27.Qd2 Qxh5 28.Bf3 Qf7
+29.Rxd6 Qf8 30.e5 fxe5 31.fxe5 Rxd6 32.exd6+ Kb8 33.Bg4 Qf6 34.c4 Qe5 35.Qf4 Qxf4+
+36.gxf4 a5 37.Rg1 g5 38.Bh5 Rd8 39.fxg5 hxg5 40.Rxg5 Nc8 41.c5 b6 42.Bf3 bxc5
+43.Rxc5 Nxd6 44.Bxc6 Rc8 45.Rc3 Ka7 46.Ba4 Kb6 47.Kc2 Rxc3+ 48.bxc3 Kc5 49.Kd3 Nf7
+50.Ke4 Nd6+ 51.Ke5 Nc4+ 52.bxc4 Kxc4 53.Kd6 Kxc3 54.Kd5  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.20"]
+[Round "3.2"]
+[White "Mamedyarov,S"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2709"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Bf4 Nf6 5.e3 O-O 6.a3 b6 7.Nf3 c5 8.Rc1 Bb7 9.cxd5 Nxd5
+10.Nxd5 Bxd5 11.dxc5 bxc5 12.Bd3 Nd7 13.O-O Qb6 14.Qc2 h6 15.e4 Bc6 16.Nd2 Bb5
+17.Bxb5 Qxb5 18.Nc4 Nb6 19.Bd6 Qd7 20.Rfd1 Nxc4 21.Qxc4 Bxd6 22.e5 Rab8 23.exd6 Rxb2
+24.Qxc5 Rd8 25.Rd3 Rb5 26.Qc7 Rd5 27.Rxd5 exd5 28.Qxd7 Rxd7 29.Rc6 f5 30.Kf1 Kf7
+31.Ke2 Ke6 32.Ra6 g5 33.a4 Rxd6 34.Rxa7 Rb6 35.a5 Rb2+ 36.Ke3 f4+ 37.Kf3 h5
+38.a6 Ra2 39.Ra8 Kf7 40.h4 Ra3+ 41.Ke2 f3+ 42.gxf3 gxh4 43.Kf1 d4 44.Rd8 h3
+45.Kg1 Rxa6 46.Rxd4 Rg6+ 47.Kh2 Rg2+  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.20"]
+[Round "3.4"]
+[White "Giri,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2793"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qa4 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Be4 11.Qc1 Bb7 12.a3 Nbd7 13.Ba5 Rc8 14.Nbd2 Nb6 15.Nb3 Bd5
+16.Qc2 Be4 17.Qc1 Bd5 18.Qc2 Be4 19.Qc1  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.20"]
+[Round "3.1"]
+[White "Caruana,F"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2758"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Re8 10.d4 Bb7 11.Nbd2 Bf8 12.d5 Nb8 13.Nf1 Nbd7 14.N3h2 Nc5 15.Bc2 c6
+16.b4 Ncd7 17.dxc6 Bxc6 18.Bg5 Qc7 19.Bxf6 Nxf6 20.Ng4 Nxg4 21.hxg4 Be7 22.Bb3 Bg5
+23.Qf3 Rf8 24.Ne3 Bxe3 25.Rxe3 Bd7 26.g5 Be6 27.Qh5 Qe7 28.Rd1 g6 29.Qh4 h5
+30.Rf3 Kg7 31.Rf6 Rac8 32.Rd3 Bc4 33.Rdf3 Qd7 34.Qh3 Qg4 35.Rxd6 Qxe4 36.Re3 Qf4
+37.Qg3 Bxb3 38.axb3 Rfd8 39.Rxa6 Qxg3 40.Rxg3 Rd1+ 41.Kh2 Rc1 42.Re3 R1xc3
+43.Rxe5 Rxb3 44.Rxb5 Rc4 45.g3 Rcxb4 46.Rxb4 Rxb4  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.20"]
+[Round "3.6"]
+[White "Kamsky,G"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2771"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c3 Nf6 5.Qe2 a6 6.Ba4 b5 7.Bc2 e5 8.O-O Be7
+9.d4 cxd4 10.cxd4 O-O 11.Nc3 Bb7 12.a3 Rc8 13.Rd1 exd4 14.Rxd4 Re8 15.Bg5 Qc7
+16.Re1 Nf8 17.Qd1 Ne6 18.Rd2 Nxg5 19.Nxg5 Qc5 20.Nf3 Bf8 21.h4 h6 22.Rd4 Qa7
+23.Bb3 Rc5 24.Qd2 Qa8 25.Qf4 Qc8 26.Red1 a5 27.Nh2 Rxc3 28.bxc3 Rxe4 29.Rxe4 Bxe4
+30.Qd2 d5 31.a4 Bc5 32.Kf1 bxa4 33.Bxa4 Qc7 34.g3 Qc8 35.f3 Bf5 36.g4 Be6
+37.Kg2 Bd6 38.Qd4 Qc7 39.Nf1 Be5 40.Qd3 Qxc3 41.Qxc3 Bxc3 42.Ng3 Kf8 43.g5 hxg5
+44.hxg5 Ne8 45.Ne2 Bb4 46.Nf4 Nd6 47.Kh1 Nc4 48.Bc6 Bd2 49.Bxd5 Bxf4 50.Bxe6 fxe6
+51.Rd4 Bxg5 52.Rxc4 Ke7 53.f4 Bf6 54.Rc5 a4 55.Ra5 a3 56.Rxa3 g5 57.fxg5 Bxg5  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.20"]
+[Round "3.5"]
+[White "Leko,P"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2767"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Qb6
+9.Qd2 Qxb2 10.Rb1 Qa3 11.Bb5 Nxd4 12.Bxd4 a6 13.Bxd7+ Bxd7 14.Rb3 Qe7 15.Rxb7 Qh4+
+16.Bf2 Qd8 17.Bb6 Qc8 18.Rc7 Qd8 19.Qd4 Ba3 20.Nb1 Be7 21.c4 Rb8 22.Nd2 O-O
+23.cxd5 exd5 24.O-O Bf5 25.Nb3 Ba3 26.Rb7 Qc8 27.Rc7 Qd8 28.h3 Qh4 29.Kh2 Bb2
+30.Qxb2 Rxb6 31.Qf2 Qxf2 32.Rxf2 Rb4 33.g4 Bb1 34.Nc5 d4 35.Rd7 Rb5 36.Nxa6 d3
+37.Rd4 g5 38.Nb4 gxf4 39.Nxd3 Bxd3 40.Rxd3 Rxe5 41.Rd4 Ra8 42.a4 Re3 43.Rdxf4 Ra3
+44.Rxf7 R3xa4 45.Kg3 R4a7 46.R7f5 Ra5 47.Re2 Rxf5 48.gxf5 Kf7 49.Kf4 Ra6
+50.Kg5 h6+ 51.Kh5 Kf6 52.Rf2 Ra4 53.h4 Rb4 54.Rh2 Kxf5 55.Kxh6 Rb6+ 56.Kg7 Rb7+
+57.Kh6 Rb6+ 58.Kg7 Rb7+ 59.Kh6 Ke5  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.21"]
+[Round "4.6"]
+[White "Mamedyarov,S"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2772"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.d5 Nd7 14.Rxb7 Nc5 15.Rxe7 Bf6
+16.Bh6 Rfd8 17.Rc7 Nxe4 18.Bc4 Qa3 19.Rxf7 Kxf7 20.Ne5+ Bxe5 21.Qxg4 Qd6
+22.Qxe4 Re8 23.g3 Bg7 24.Qf3+ Kg8 25.Bc1 Qc5 26.Qd3 Rac8 27.Ba6 Rcd8 28.Be3 Rxe3
+29.fxe3 Bh6 30.Rf3 Rf8 31.Kg2 Qd6 32.Rxf8+ Kxf8 33.Bc8 Qc5 34.Be6 Qxe3 35.Qf1+ Ke7
+36.Kh3 Kd6 37.Qf7 Qc1 38.Bg4 Bg5 39.Qe6+ Kc5 40.Bf3 Qe3 41.Qc6+ Kd4 42.d6 Qe6+
+43.Kg2 Qa2+ 44.Kh3 Qe6+ 45.Kg2 Qa2+ 46.Kh3  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.21"]
+[Round "4.5"]
+[White "Morozevich,A"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2758"]
+[BlackElo "2786"]
+[ECO "E34"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 Qf5 7.Qb3 Nc6 8.Bd2 O-O
+9.Rc1 Bd6 10.h3 e5 11.g4 Qd7 12.g5 Nxd4 13.Nxd4 exd4 14.gxf6 dxc3 15.Bxc3 Re8
+16.Qd5 Qf5 17.Qxf5 Bxf5 18.fxg7 c6 19.Rg1 Be5 20.e3 Rad8 21.h4 Rd6 22.Bxe5 Rxe5
+23.h5 h6 24.Be2 Be6 25.Rd1 Rxd1+ 26.Bxd1 Bxa2 27.Bc2 Rg5 28.Rxg5 hxg5 29.h6 Be6
+30.b4 b6 31.Kd2 a5 32.bxa5 bxa5 33.e4 f6 34.Ke3 Kh7 35.e5+ f5 36.Kd4 Kxh6
+37.Bxf5 Bd5 38.Bc2 Kxg7 39.Kc5 g4 40.Kd6 Kh6 41.e6 Bxe6 42.Kxe6 g3 43.fxg3 Kg5
+44.Bd1 a4 45.Bxa4 Kg4 46.Bxc6 Kxg3  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.21"]
+[Round "4.4"]
+[White "Ponomariov,R"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2727"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.c3 d6 8.d4 Bb6
+9.Be3 O-O 10.Nbd2 Re8 11.h3 Na5 12.Bc2 Bb7 13.Qb1 exd4 14.cxd4 Nc4 15.Nxc4 bxc4
+16.Nd2 Rb8 17.Nxc4 Bxe4 18.Bxe4 Nxe4 19.Qd3 Qd7 20.Rfc1 Nf6 21.Bd2 Ba7 22.Re1 h6
+23.b3 Qb5 24.Rxe8+ Rxe8 25.Re1 Rxe1+ 26.Bxe1 Qd5 27.Bc3 c5 28.Bb2 cxd4 29.Nd2 Qa5
+30.Bxd4 Bxd4 31.Qxd4 Qxa2 32.Qxd6 a5 33.Qd8+ Kh7 34.Qd3+ Kg8 35.Qd8+ Kh7
+36.Qd3+ Kg8 37.Qd8+  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.21"]
+[Round "4.3"]
+[White "Kasimdzhanov,R"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2771"]
+[ECO "E94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O exd4 8.Nxd4 Re8
+9.f3 c6 10.Kh1 Nh5 11.g4 Nf6 12.Bf4 h5 13.Nf5 gxf5 14.gxf5 d5 15.cxd5 cxd5
+16.e5 Bxf5 17.exf6 Qxf6 18.Nxd5 Qxb2 19.Ne7+ Rxe7 20.Qd8+ Kh7 21.Qxe7 Bg6
+22.Rad1 Nc6 23.Qe3 Qxa2 24.Bd3 Rd8 25.Bxg6+ fxg6 26.Rxd8 Nxd8 27.Be5 Ne6
+28.Ra1 Qd5 29.Bxg7 Nxg7 30.Qe4 Qd7 31.Rxa7 Qd1+ 32.Kg2 Qd2+ 33.Kh3 Qd7+ 34.Kg2 Qd2+
+35.Kg3 Qd6+ 36.f4 Kh6 37.Rxb7 Nf5+ 38.Kg2 Qd2+ 39.Kg1 Ne3 40.Rh7+ Kxh7 41.Qe7+ Kg8
+42.Qe8+ Kg7 43.Qe7+ Kg8  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.21"]
+[Round "4.2"]
+[White "Nakamura,Hi"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2741"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 g6 5.Nf3 Bg7 6.h3 O-O 7.Be2 a6 8.O-O dxc4
+9.Bxc4 b5 10.Bb3 c5 11.dxc5 Bb7 12.e4 Qxd1 13.Rxd1 Nxe4 14.Nxe4 Bxe4 15.a4 b4
+16.Nd2 Bd3 17.Nc4 Be2 18.Re1 Bxc4 19.Bxc4 Nc6 20.Rb1 Bd4 21.Bd5 Rac8 22.Bxc6 Rxc6
+23.Rxe7 Rxc5 24.Rd7 Bg7 25.Be3 Rcc8 26.Rd6 Rfd8 27.Rxa6 Bd4 28.Bxd4 Rxd4
+29.b3 Rc2 30.Rf6 h5 31.g3 Kg7 32.Rf3 g5 33.Kg2 Kg6 34.Re1 g4 35.hxg4 hxg4
+36.Rf4 Rxf4 37.gxf4 Rb2 38.Re3 f5 39.Kg3 Kf6 40.f3 gxf3 41.Kxf3 Rd2 42.Kg3 Rc2
+43.a5 Ra2 44.Rd3 Rxa5 45.Rd6+ Ke7 46.Rb6 Ra2 47.Rxb4 Rd2 48.Kh4 Rg2 49.Rd4 Ke6
+50.b4 Rg1 51.Kh3 Rg8 52.b5 Rh8+ 53.Kg3 Rg8+ 54.Kh4 Rh8+ 55.Kg5 Rg8+ 56.Kh6 Rb8
+57.Ra4 Rxb5 58.Kg6 Rc5 59.Ra7 Rb5 60.Rf7 Ra5 61.Rf8 Ke7 62.Rb8 Ra6+ 63.Kxf5 Kf7
+64.Rb7+ Kf8 65.Kg5 Rc6 66.f5 Ra6 67.Rb8+ Kf7 68.Rb7+ Kf8 69.Rb8+ Kf7 70.Rb7+ Kf8  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.21"]
+[Round "4.1"]
+[White "Radjabov,T"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2793"]
+[BlackElo "2744"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Qb3 c5 6.dxc5 Nc6 7.Bg5 Qa5 8.Bxf6 dxc4
+9.Qxc4 gxf6 10.Rc1 Qxc5 11.Qh4 Ke7 12.g3 Bxc3+ 13.bxc3 b6 14.Bg2 Bb7 15.O-O h5
+16.Nd4 Rac8 17.Rb1 Rc7 18.Rfd1 Nxd4 19.cxd4 Qg5 20.d5 Qxh4 21.d6+ Ke8 22.dxc7 Qc4
+23.Rbc1 Qxc1 24.Rxc1 Bc8 25.Rd1 Ke7 26.h4 e5 27.Bf3 Be6 28.Rc1 Bc8 29.Rd1 Be6
+30.Bb7 Bc8 31.Bxc8 Rxc8 32.Rc1 b5 33.f3 b4 34.g4 hxg4 35.fxg4 a5 36.Rc4 a4
+37.Rxb4 Rxc7 38.Rxa4 Kf8 39.Kf2 Rc3 40.e3 Kg7 41.Ra8 Rc2+ 42.Kf3 Rh2 43.h5 Rh3+
+44.Kf2 f5 45.gxf5 Rxh5 46.e4 Rh3 47.Ra6 Rd3 48.a4 Rd4 49.Ke3 Rb4 50.a5 Ra4
+51.Kf3 Ra3+ 52.Kg4 Ra1 53.Ra8 Kf6 54.Ra6+ Kg7 55.Rb6 Rxa5 56.Kg5 Ra1 57.f6+ Kh7
+58.Rb8 Rh1 59.Rb7 Rg1+ 60.Kf5 Rf1+ 61.Kxe5 Kg6 62.Rb2 Rg1 63.Rf2 Rg5+ 64.Kd6 Ra5
+65.e5 Ra6+ 66.Kd5 Ra5+ 67.Kd4 Ra4+ 68.Kd3 Ra3+ 69.Ke4 Ra4+ 70.Ke3 Ra3+ 71.Kd4 Ra4+
+72.Kc5 Ra5+ 73.Kd6 Ra6+ 74.Kd7 Re6 75.Rg2+ Kf5 76.Rg7 Kxe5 77.Rxf7 Rxf6 78.Rxf6 Kxf6  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.23"]
+[Round "5.5"]
+[White "Kamsky,G"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2793"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bxc6 bxc6 7.e5 Ng6 8.b3 Be7
+9.c3 O-O 10.d4 cxd4 11.cxd4 c5 12.Ba3 cxd4 13.Bxe7 Qxe7 14.Qxd4 Bb7 15.Nbd2 f6
+16.Ne4 fxe5 17.Nxe5 Nxe5 18.Qxe5 Bc6 19.Rad1 Rf5 20.Qd6 Qxd6 21.Nxd6 Rg5
+22.g3 Ra5 23.Rd2 Rd5 24.Rxd5 Bxd5 25.f4 Kf8 26.Rc1 Bc6 27.Nc4 a5 28.Ne5 a4
+29.Nxc6 dxc6 30.Rxc6 axb3 31.axb3 Ra1+ 32.Kg2 Ra2+ 33.Kf3 Ke7 34.h3 Rb2 35.Rc3 h6
+36.h4 Kf6 37.Ke4 g5 38.fxg5+ hxg5 39.h5 Rh2 40.g4 Rg2 41.Kf3 Rb2 42.Kg3 Kg7
+43.Rc7+ Kh6 44.Rb7 e5 45.Rb6+ Kh7 46.Rg6 Rxb3+ 47.Kf2 e4 48.Rxg5 Rf3+ 49.Kg2 Ra3
+50.Rg6 Rb3 51.Re6 Kg7 52.Rxe4  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.23"]
+[Round "5.4"]
+[White "Caruana,F"]
+[Black "Kasimdzhanov,R"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2709"]
+[ECO "D31"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.cxd5 exd5 5.Bf4 c6 6.e3 Bf5 7.Nge2 Nd7 8.Ng3 Bg6
+9.Be2 Qb6 10.Qd2 Ngf6 11.h4 h5 12.a3 a5 13.Rd1 O-O 14.Bf3 Rfe8 15.Bg5 Bd6
+16.Nce2 Ne4 17.Bxe4 dxe4 18.O-O a4 19.Nc3 Bxg3 20.fxg3 Qa5 21.Qe2 Qa6 22.Qf2 f6
+23.Bf4 Bf5 24.Rc1 Bg4 25.Rc2 Rad8 26.Na2 Nf8 27.Nb4 Qb5 28.Rc5 Qb6 29.Qc2 Ne6
+30.Rc4 Qb5 31.Rc1 Kh8 32.Kh2 Kg8 33.Ra1 Rd7 34.Rc1 Rdd8 35.Qf2 Rd7 36.Na2 Qd5
+37.Qf1 b5 38.Nb4 bxc4 39.Nxd5 cxd5 40.Qe1 Ra8 41.Qb4 Nxf4 42.gxf4 Kf7 43.Qb5 Kg6
+44.Rf1 Raa7 45.Qb8 Kf5 46.Rf2 Rab7 47.Qa8 Ra7 48.Qh8 Rab7 49.Qh7+ g6 50.Qg8 Ra7
+51.Qc8 Ke6 52.Qe8+ Kf5 53.Kg1 Rdc7 54.Kf1 Rd7 55.Ke1 Rdc7 56.Rc2 Rd7 57.Qg8 Rab7
+58.Qa8 Ke6 59.Qxa4 Rb3 60.Kf2 Kf7 61.Qa8 Rdb7 62.Kg1 Rd7 63.Kf2 Rdb7 64.a4 Rxb2
+65.Rxb2 Rxb2+ 66.Kg3 Be6 67.Qc6 Rb3 68.a5 Rxe3+ 69.Kh2  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.23"]
+[Round "5.3"]
+[White "Giri,A"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2727"]
+[BlackElo "2758"]
+[ECO "E65"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 c5 6.O-O d6 7.Nc3 Nc6 8.dxc5 dxc5
+9.Bf4 Nd4 10.Nxd4 cxd4 11.Na4 Qa5 12.c5 Rd8 13.Rc1 Nd5 14.Bd2 Qa6 15.b4 b5
+16.Nb2 Be6 17.Qc2 Rac8 18.Nd1 Nf6 19.Bg5 Bf5 20.Qd2 h5 21.Re1 Ne4 22.Bxe4 Bxe4
+23.Bxe7 Re8 24.Bd6 Bb7 25.f3 Qc6 26.Bf4 Re6 27.Nf2 Rce8 28.h4 Re3 29.Nh3 Ra3
+30.Ng5 f6 31.Nh3 Qe6 32.Nf2 Rxa2 33.Qxd4 g5 34.c6 Bxc6 35.Qd6 Bd5 36.Qxe6+ Rxe6
+37.e4 gxf4 38.exd5 Rxe1+ 39.Rxe1 f5 40.Rd1 fxg3 41.Nh3 Bc3 42.d6 Bxb4 43.Rd5 Ba5
+44.d7 Bb6+ 45.Kf1 g2+ 46.Ke1 Bd8 47.Rxf5 Ba5+ 48.Kd1 Rd2+ 49.Kc1 Rxd7 50.Rxb5 Bb6
+51.Rxh5 Rg7 52.Kd2 Rg3 53.Rg5+ Rxg5 54.hxg5 Kg7 55.Kd3 g1=Q 56.Nxg1 Bxg1
+57.f4 Kg6  0-1
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.23"]
+[Round "5.2"]
+[White "Karjakin,Sergey"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2786"]
+[BlackElo "2766"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Kb1 Qb6 14.Rhe1 O-O 15.Nf5 Bb4
+16.Nxh6+ gxh6 17.c3 Ba3 18.Bc1 Rfe8 19.g4 Nh7 20.c4 Bf8 21.g5 hxg5 22.Nxg5 Nxg5
+23.Bxg5 Kh8 24.Rg1 Qc7 25.Qf3 f6 26.Bf4 Bd6 27.Qg3 Nc5 28.Bxd6 Qh7+ 29.Ka1 Ne4
+30.Qh4 Rg8 31.f3 Ng5 32.Qf4 Qf5 33.Qxf5 exf5 34.Be7 Nxf3 35.Rgf1 Rg3 36.d5 cxd5
+37.cxd5 Kg7 38.Rd3 Kf7 39.Bd6 Nh2 40.Bxg3  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.23"]
+[Round "5.1"]
+[White "Leko,P"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2733"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 d5 6.e3 O-O 7.Nc3 Qe7 8.Rc1 Rd8
+9.Qc2 dxc4 10.Bxc4 c5 11.O-O cxd4 12.Nxd4 Bd7 13.Bb5 a6 14.Bxd7 Nbxd7 15.Na4 Qf8
+16.Qc7 Rab8 17.Nb6 Nxb6 18.Qxb6 Nd5 19.Qb3 Qb4 20.a3 Qb6 21.Rc2 e5 22.Qxb6 Nxb6
+23.Nf3 f6 24.Rfc1 Rbc8 25.Rxc8 Rxc8 26.Rxc8+ Nxc8 27.Nd2 Kf7 28.Kf1 Ke6 29.Ke2 Kd5
+30.Kd3 Nd6 31.e4+ Kc6 32.Nc4 Nxc4 33.Kxc4 b5+ 34.Kc3 a5 35.b4 a4 36.g4 g5
+37.Kd3 Kd6 38.Kc3 Kc6 39.Kd3 Kd6 40.Kc3 Kc6  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.23"]
+[Round "5.6"]
+[White "Topalov,V"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2767"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 d6 7.c3 Bg4 8.Re1 Nd7
+9.h3 Bh5 10.Be3 b5 11.Bc2 Nb6 12.Nbd2 O-O 13.Nf1 Rb8 14.Ng3 Bxf3 15.Qxf3 Bg5
+16.Nf5 Bxe3 17.Nxe3 Ne7 18.d4 c5 19.dxe5 dxe5 20.h4 Qd6 21.Red1 Qe6 22.a4 Rfd8
+23.axb5 axb5 24.Rxd8+ Rxd8 25.Ra6 Qc6 26.c4 b4 27.Ba4 Qb7 28.Bb5 Nbc8 29.Ng4 Nd6
+30.Nxe5 Qxe4 31.Qxe4 Nxe4 32.f3 Ng3 33.Kf2 Ngf5 34.h5 f6 35.Nd7 Rc8 36.Ba4 Nd4
+37.h6 f5 38.Ke3 b3 39.hxg7 Kxg7 40.Kd3 Nc2 41.Kc3 f4 42.Ra7 Kg6 43.Bxb3 Ne3
+44.Nxc5 N7f5 45.Ra6+ Kh5 46.Ne6 Kh4 47.Nxf4 Kg3 48.Nd3 Kxg2 49.c5 Kxf3 50.Be6 Rd8
+51.Bxf5 Nxf5 52.Rf6 Ke4 53.Re6+ Kf3 54.b4 h5 55.Ne5+ Kf4 56.Nf7 Rf8 57.Nd6 Nxd6
+58.Rxd6 Rh8 59.b5 h4 60.b6 h3 61.b7 h2 62.Rd1 Ke4 63.Kc2 Rg8 64.c6 Rg2+ 65.Kc3 Rg3+
+66.Kc4 Rg1 67.b8=Q h1=Q 68.Rd4+ Kf5 69.Qf4+ Kg6 70.Rd6+ Kh7 71.Qf5+ Kh8 72.Qf8+  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.24"]
+[Round "6.1"]
+[White "Mamedyarov,S"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2727"]
+[ECO "D30"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 h6 5.Bxf6 Qxf6 6.Nc3 Bb4 7.e3 O-O 8.Be2 dxc4
+9.O-O Qe7 10.Bxc4 c5 11.Ne4 cxd4 12.exd4 Rd8 13.Qe2 Bd7 14.a3 Ba5 15.b4 Bb6
+16.b5 Be8 17.Ng3 Nd7 18.d5 Nf8 19.Rad1 Bc5 20.a4 exd5 21.Qxe7 Bxe7 22.Bxd5 Rab8
+23.Rfe1 Ne6 24.h4 a6 25.Bc4 Rxd1 26.Rxd1 Rc8 27.Bf1 Nc5 28.Nf5 Bf8 29.Rb1 Nxa4
+30.bxa6 bxa6 31.Bxa6 Ra8 32.Bf1 Nc5 33.Re1 Bd7 34.N5d4 Re8 35.Rxe8 Bxe8 36.Bb5 Bxb5
+37.Nxb5 Ne4 38.Ne5 h5 39.Nd3 g6 40.g3 Kg7 41.Kh1 Kh7 42.Kg1 Kg7 43.Kh1 Kh8
+44.Kg1 Kg7 45.Kh1 Kh7 46.Kg1  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.24"]
+[Round "6.3"]
+[White "Ponomariov,R"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2741"]
+[ECO "B14"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.Bd3 dxc4 8.Bxc4 O-O
+9.O-O b6 10.Bg5 Bxc3 11.bxc3 Nbd7 12.Bd3 Bb7 13.Re1 Qc7 14.c4 Rfe8 15.Bh4 Rad8
+16.Qe2 Qf4 17.Qe3 Qg4 18.h3 Qh5 19.Bxf6 Nxf6 20.Ne5 Nd7 21.f4 Nxe5 22.fxe5 Qh4
+23.Rad1 Re7 24.Rf1 Kh8 25.Rf4 Qg5 26.Qf2 Red7 27.h4 Qe7 28.Rf1 Rf8 29.d5 f5
+30.exf6 Rxf6 31.Re1 Rd6 32.Qe3 Rxf4 33.Qxf4 Bc8 34.h5 Rd8 35.Qe4 g6 36.hxg6 Qf6
+37.gxh7 Bd7 38.Rf1 Qg7 39.dxe6 Bxe6 40.Qxe6 Qd4+ 41.Rf2 Rf8 42.Bf5  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.24"]
+[Round "6.2"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2793"]
+[BlackElo "2771"]
+[ECO "E35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 c5 7.dxc5 h6 8.Bh4 g5
+9.Bg3 Ne4 10.e3 Qa5 11.Ne2 Bf5 12.Be5 O-O 13.Nd4 Re8 14.Nxf5 Rxe5 15.Nxh6+ Kg7
+16.Ng4 Re7 17.O-O-O Bxc3 18.f3 Qxa2 19.fxe4 Qa1+ 20.Qb1 Bxb2+ 21.Kc2 Qa4+
+22.Kxb2 Rxe4 23.Rd4 Rxd4 24.exd4 Qxd4+ 25.Ka3 Qxg4 26.Qxb7 Qd4 27.Qxa8 Qc3+
+28.Ka2 Qc2+ 29.Ka3 Qc3+ 30.Ka2 Qc2+ 31.Ka3 Qc3+  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.24"]
+[Round "6.5"]
+[White "Kasimdzhanov,R"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2709"]
+[BlackElo "2767"]
+[ECO "C60"]
+
+1.e4 Nc6 2.Nf3 e5 3.Bb5 Nge7 4.Nc3 d6 5.d4 a6 6.Be2 exd4 7.Nxd4 Nxd4 8.Qxd4 Nc6
+9.Qe3 g6 10.Qg5 h6 11.Qg3 Be6 12.O-O Ne7 13.Be3 Bg7 14.Rad1 Qd7 15.Bd4 Bxd4
+16.Rxd4 O-O-O 17.b4 Qc6 18.Rfd1 g5 19.a4 Ng6 20.Bf1 Ne5 21.Qe3 Qb6 22.a5 Qa7
+23.Nd5 Kb8 24.Qc3 Rc8 25.Ne7 Rce8 26.Rxd6 cxd6 27.Rxd6 Ng4 28.Rb6 Ka8 29.Bxa6 Rxe7
+30.Qxh8+ Qb8 31.Qxb8+ Kxb8 32.Be2 Nf6 33.a6 Nxe4 34.Bf3 Bd5 35.h4 f5 36.Rxh6 g4
+37.Be2 Nd2 38.Bd3 f4 39.Kh2 Re1 40.Rh8+ Ka7 41.axb7 Kxb7  0-1
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.24"]
+[Round "6.6"]
+[White "Caruana,F"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2786"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Nbd2 O-O 7.Nc4 Nd7 8.O-O Re8
+9.Kh1 a5 10.a4 b6 11.g3 Nf8 12.Ncxe5 f6 13.d4 Bd6 14.Nxc6 Qd7 15.d5 Rxe4
+16.Nd2 Re8 17.Nc4 Ba6 18.b3 Bxc4 19.bxc4 Ng6 20.Nd4 Ne5 21.f4 c5 22.Nb5 Nf7
+23.Qd3 Bf8 24.Bd2 Nd6 25.Nc3 Qh3 26.Rab1 Rab8 27.Rfe1 Rxe1+ 28.Bxe1 Kf7 29.Bf2 Rb7
+30.Kg1 h5 31.Ne4 Qd7 32.Nxd6+ Bxd6 33.Re1 Qxa4 34.Qf5 Re7 35.Re6 Qd7 36.Qxh5+ Kg8
+37.f5 a4 38.Qf3 Re8 39.Qa3 Ra8 40.Be1 Be5 41.Bf2 Qb7 42.d6 Qc6 43.d7 Qxd7
+44.Rxb6 Qxf5 45.Qxc5 Rd8 46.Qe3 Qxc2 47.Qf3 a3 48.Qxa3 Bd4 49.Bxd4 Rxd4 50.Rxf6 Rd2
+51.Qf8+ Kh7 52.Rf2 Rxf2 53.Qxf2 Qxc4 54.Qf5+ Kh8 55.Qf8+ Kh7 56.Qf5+ Kh8
+57.h4 Qa2 58.h5 Qe2 59.Qf8+ Kh7 60.Qf5+ Kh8  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.24"]
+[Round "6.4"]
+[White "Morozevich,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2758"]
+[BlackElo "2744"]
+[ECO "A33"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 e6 6.g3 Bc5 7.Nb3 Be7 8.Bg2 b6
+9.O-O O-O 10.Nd5 Ba6 11.Nxe7+ Qxe7 12.Nd2 d5 13.Qa4 Bb7 14.b3 Rfd8 15.Ba3 Qd7
+16.cxd5 Nxd5 17.Rfc1 e5 18.e3 h6 19.Ne4 Ncb4 20.Bxb4 Qxa4 21.bxa4 Nxb4 22.Nf6+ gxf6
+23.Bxb7 Rab8 24.Rc7 Nd5 25.Bxd5 Rxd5 26.Rxa7 Ra5 27.Rxa5 bxa5 28.Rc1 Rb4
+29.a3 Rxa4 30.Rc3 f5 31.f4 f6 32.Kf2 Kg7 33.Ke2 Kg6 34.Kd3 h5 35.Ke2 h4 36.Kf3 hxg3
+37.hxg3 Kg7 38.Kg2 Kg6 39.Kh3 Re4 40.Kg2 Ra4 41.Kf3 Kg7 42.Kf2 Kg6 43.Kf3 Kg7
+44.Kf2 Kg6 45.Kf3  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.25"]
+[Round "7.2"]
+[White "Giri,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2772"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Be3 Nc6 14.d5 Ne5 15.Rxb7 a5
+16.Rxe7 a4 17.Re1 a3 18.Nxe5 Bxe2 19.Rxe2 Qxe2 20.Qxe2 a2 21.Bd4 a1=Q+ 22.Bxa1 Rxa1+
+23.Qf1 Rxf1+ 24.Kxf1 Bf6 25.Nc6 Bxe7 26.Nxe7+ Kg7 27.Nc6 Rc8 28.g4 h6 29.e5 Kf8
+30.f4 Ra8 31.Ke2 Ra2+ 32.Kd3 Rxh2 33.f5 gxf5 34.gxf5 Rh1 35.e6 fxe6 36.fxe6 Rd1+
+37.Ke4 h5 38.Ke5 h4 39.d6 Ke8 40.d7+ Rxd7 41.exd7+ Kxd7 42.Ke4  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.25"]
+[Round "7.5"]
+[White "Topalov,V"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2771"]
+[BlackElo "2733"]
+[ECO "E52"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.e3 O-O 6.Bd3 d5 7.O-O Ba6 8.cxd5 exd5
+9.Bxa6 Nxa6 10.Qa4 Qc8 11.Bd2 Re8 12.a3 Bf8 13.b4 c5 14.bxc5 bxc5 15.Rab1 c4
+16.Rb2 Nc7 17.Rfb1 a6 18.Rb6 Re6 19.Rxe6 fxe6 20.Ne5 Nb5 21.Nxb5 axb5 22.Qxb5 Bxa3
+23.f3 Bd6 24.Qc6 Qxc6 25.Nxc6 Ra2 26.Bb4 Bc7 27.Be1 Ra6 28.Nb4 Ra3 29.Nc2 Ra2
+30.Rc1 Kf7 31.Nb4 Ra3 32.Nc2 Rb3 33.h3 Ke8 34.Kf1 Kd7 35.Ke2 e5 36.Ra1 Rb2
+37.Kd1 exd4 38.exd4 Nh5 39.Bd2 Bb6 40.g4 Nf6 41.Ba5 Ne8 42.Bxb6 Rxb6 43.Ne3 Nc7
+44.Ra5 Rb5 45.Rxb5 Nxb5 46.Nxd5 Nxd4 47.Nb6+ Ke6 48.Nxc4 Nxf3 49.Ke2 Ng1+
+50.Ke3 Nxh3 51.Nd2 Ng5 52.Kf4 h6 53.Nb3 Kf6 54.Nd2 Ne6+ 55.Kg3 Nc5 56.Nc4 Nd3
+57.Ne3 g6 58.Nc4 Ke6 59.Ne3 Ke5 60.Nc4+ Kd5 61.Nb6+ Ke4 62.Nd7 Ne5 63.Nf6+ Ke3
+64.Ng8 Nf7 65.Ne7 g5 66.Ng8 Ke4 67.Nf6+ Ke5 68.Ng8 Ke4 69.Nf6+ Ke5 70.Ng8 Ke4
+71.Nf6+ Ke5 72.Ng8  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.25"]
+[Round "7.6"]
+[White "Karjakin,Sergey"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2709"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Nb6
+9.Nc3 Qe6 10.Qe4 Bb4 11.Bd2 Ba6 12.b3 Bxc3 13.Bxc3 d5 14.Qh4 dxc4 15.Rc1 Qg6
+16.Bb4 f6 17.Qh3 Qe4+ 18.Be2 Kf7 19.Qe3 Qxe3 20.fxe3 Rhe8 21.exf6 Rxe3 22.fxg7 Kxg7
+23.Kf2 Rxe2+ 24.Kxe2 cxb3+ 25.Kf2 bxa2 26.Rxc6 Nd5 27.Bc3+ Nxc3 28.Rxc3 Bc8
+29.Rxc7+ Kh8 30.Re1 Be6 31.Rc6 Rf8+ 32.Ke3 Rb8 33.Ra6 Rb1 34.Kd2 Rb2+ 35.Kc3 Rb1
+36.Kd2 Rb2+ 37.Kc3 Rb1 38.Kd2  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.25"]
+[Round "7.4"]
+[White "Kamsky,G"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2758"]
+[ECO "A42"]
+
+1.e4 c5 2.Nf3 g6 3.c4 Bg7 4.d4 Qa5+ 5.Nc3 d6 6.h3 Nc6 7.d5 Nd4 8.Bd2 Qb6
+9.Rb1 Nf6 10.Bd3 O-O 11.O-O Nd7 12.Nxd4 cxd4 13.Na4 Qc7 14.f4 a5 15.Be1 b6
+16.Bg3 e6 17.f5 exf5 18.exf5 Re8 19.b3 Nf6 20.Bf2 Nh5 21.Qd2 Be5 22.Rbe1 Qd8
+23.fxg6 hxg6 24.Re4 Bd7 25.Bh4 Qc7 26.g4 f5 27.Rxe5 dxe5 28.Qh6 e4 29.d6 Qb7
+30.Nxb6 Re6 31.gxh5 g5 32.Qxg5+ Kh8 33.Qxf5 Rg8+ 34.Kh2 exd3 35.Bf6+ Rxf6
+36.Qxf6+ Kh7 37.Nd5 Bxh3 38.Kxh3 Qd7+ 39.Kh2 d2 40.Qe7+  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.25"]
+[Round "7.3"]
+[White "Leko,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2766"]
+[ECO "C70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nge7 5.c3 g6 6.d4 exd4 7.cxd4 b5 8.Bc2 d5
+9.exd5 Nxd5 10.O-O Be6 11.Bg5 Qd7 12.a4 Rb8 13.Nbd2 Bg7 14.Ne4 O-O 15.h3 Ndb4
+16.Nc5 Qd6 17.Nxe6 fxe6 18.axb5 Nxd4 19.Nxd4 Bxd4 20.Bb3 Rxf2 21.Rxf2 Bxf2+
+22.Kh1 Rxb5 23.Qxd6 cxd6 24.Bxe6+ Kg7 25.Bd2 Bd4 26.Bc3 Be5 27.Bc4 Rb6 28.Ra4 Bxc3
+29.bxc3 Nc2 30.Bxa6 Rb3 31.Rc4 Ne3 32.Rc7+ Kh6 33.Be2 Nd5 34.Rd7 Nxc3 35.Bc4 Rb1+
+36.Kh2 Ne4 37.Bd3 Rb4 38.Bxe4 Rxe4 39.Rxd6 Rb4 40.Rc6 Re4 41.Rd6 Rb4 42.Rc6 Re4  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.25"]
+[Round "7.1"]
+[White "Nakamura,Hi"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2793"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c4 b4 12.Nc2 O-O 13.h4 Be6 14.g3 a5 15.b3 a4 16.Rb1 axb3
+17.axb3 Bxd5 18.cxd5 Na5 19.Bh3 Qb6 20.Qd2 Rfb8 21.O-O Ra7 22.Rfc1 Rc7 23.Ne3 Rxc1+
+24.Qxc1 Bd8 25.Qb2 g6 26.Bd7 Qa7 27.Bc6 Bb6 28.Ng4 Qe7 29.Qd2 h5 30.Ne3 Bc5
+31.Kg2 Kg7 32.Ba4 Rc8 33.Nc2 Rb8 34.Qd3 Qc7 35.Ne1 Bd4 36.Qe2 Nb7 37.Nd3 Nc5
+38.Rc1 Qa7 39.Nxc5 Bxc5 40.Rc2 Qe7 41.Bc6 Rh8 42.Ra2 g5 43.hxg5 Qxg5 44.Bd7 h4
+45.Qg4 Qxg4 46.Bxg4 hxg3 47.fxg3 Rb8 48.Bd7 Rb7 49.Bg4 Ra7 50.Rxa7 Bxa7 51.Bd7 Bc5
+52.Bg4 Ba7 53.Bd7 Bc5 54.Bg4 Ba7  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.26"]
+[Round "8.5"]
+[White "Caruana,F"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2772"]
+[BlackElo "2744"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d3 d6
+9.a3 Na5 10.Ba2 c5 11.Nc3 Nc6 12.Nd5 Nd4 13.Nxd4 cxd4 14.f4 Be6 15.Nxe7+ Qxe7
+16.Bb1 exf4 17.Bxf4 Ng4 18.Qd2 a5 19.Bg3 Rfc8 20.Qf4 Ne5 21.Bf2 Nc6 22.Bh4 Qc7
+23.Bg3 Ne5 24.Bf2 Nc6 25.Ba2 Bxa2 26.Rxa2 Nd8 27.Re2 Ne6 28.Qd2 Ra6 29.Ra1 Rc6
+30.Rc1 Nc5 31.Rf1 Ne6 32.Rc1 Nc5 33.Rf1 Ne6  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.26"]
+[Round "8.6"]
+[White "Karjakin,Sergey"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2786"]
+[BlackElo "2727"]
+[ECO "E81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c5 7.d5 e6 8.Qd2 exd5 9.cxd5 Nbd7
+10.Nh3 a6 11.a4 Ne5 12.Nf2 Bd7 13.h3 b5 14.f4 Nc4 15.Bxc4 bxc4 16.O-O Nh5
+17.g4 Qh4 18.gxh5 Qg3+ 19.Kh1 Bxh3 20.Rg1 Qh4 21.Rg2 Bg4+ 22.Kg1 Bf3 23.f5 Be5
+24.Bg5 Bh2+ 25.Kf1 Bxg2+ 26.Kxg2 Qg3+ 27.Kh1 f6 28.Bh6 Qh4 29.Kg2 Qg3+ 30.Kh1 Qh4
+31.Kg2 Qg3+ 32.Kh1  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.26"]
+[Round "8.4"]
+[White "Mamedyarov,S"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2766"]
+[BlackElo "2741"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 a6 5.e3 g6 6.Bd3 Bg7 7.O-O O-O 8.Qc2 Bg4
+9.Ne5 Be6 10.b3 c5 11.cxd5 Nxd5 12.Nxd5 Bxd5 13.Qxc5 Bxe5 14.dxe5 Bxg2 15.Rd1 Qd5
+16.Qxd5 Bxd5 17.f4 Bf3 18.Rd2 Nc6 19.Kf2 Bg4 20.Ba3 Rfd8 21.Ke1 Kf8 22.Rc1 Rac8
+23.Be4 Rxd2 24.Kxd2 Ke8 25.Bc5 Rd8+ 26.Ke1 Rc8 27.Bb6 Nb4 28.Rxc8+ Bxc8 29.Kd2 Nc6
+30.Kc3 Bg4 31.Kc4 Kd7 32.Kc5 Bd1 33.Bd5 e6 34.Be4 h5 35.h4 Be2 36.b4 Bd1
+37.Ba5 Ba4 38.a3 Bb5 39.Kb6 Kc8 40.Kc5 Kd7 41.Kb6 Kc8 42.Kc5  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.26"]
+[Round "8.2"]
+[White "Ponomariov,R"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2767"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bc1 Nf6 8.Be3 Ng4
+9.Bg5 h6 10.Bh4 g5 11.Bg3 Bg7 12.Qd2 Nc6 13.Nb3 f5 14.exf5 Bxf5 15.Bd3 Qd7
+16.O-O O-O 17.f4 Bxd3 18.cxd3 gxf4 19.Bxf4 a5 20.h3 a4 21.Nxa4 Rxa4 22.hxg4 Qe6
+23.Rae1 Qg6 24.a3 e5 25.Bh2 Rxf1+ 26.Rxf1 Rxg4 27.Rf3 d5 28.Qe2 h5 29.Kh1 h4
+30.Bg1 Ne7 31.Nd4 Rg3 32.Nc2 Nf5 33.Bh2 Rg5 34.Rh3 Ng3+ 35.Bxg3 hxg3 36.Qe3 d4
+37.Qf3 Rf5 38.Qxg3 Qxg3 39.Rxg3 Rf2 40.Nb4 Rxb2 41.Kh2 Kf7 42.Kh3 Rb3 43.Kg4 Ke6
+44.Kf3 Bf6 45.Ke4 Rxa3 46.Nd5 Ra1 47.Nc7+ Kd7 48.Rg6 Rf1 49.Nd5 Ke6 50.Nc7+ Kd7
+51.Nd5 Ke6 52.Nc7+ Kf7 53.Rh6 Rf4+ 54.Kd5 e4 55.dxe4 d3 56.Rh1 d2 57.Rd1 Rf2
+58.Kc4 Bg5 59.Nb5 Re2 60.Kd3 Re1 61.Kc2 Bf4 62.g3 Bxg3 63.Rxd2 Rxe4 64.Nd6+ Bxd6
+65.Rxd6 Ke8 66.Kb3 Re7 67.Kb4 Rd7 68.Rxd7 Kxd7 69.Kb5 Kc7 70.Kc5 b6+ 71.Kb5 Kb7
+72.Kb4 Kc6 73.Kc4 b5+ 74.Kb4 Kb6 75.Kb3 Ka5 76.Ka3 b4+ 77.Kb3 Kb5 78.Kb2 Kc4
+79.Kc2 b3+ 80.Kb2 Kb4 81.Kb1 Ka3 82.Ka1 b2+ 83.Kb1 Kb3  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.26"]
+[Round "8.3"]
+[White "Morozevich,A"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2758"]
+[BlackElo "2771"]
+[ECO "A33"]
+
+1.Nf3 c5 2.c4 Nf6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 e6 6.g3 Qb6 7.Nb3 Ne5 8.e4 Bb4
+9.c5 Qc6 10.f3 b6 11.Bf4 Ng6 12.Bd6 bxc5 13.a3 Bxc3+ 14.bxc3 a5 15.e5 Nd5
+16.Bd3 f6 17.Bxg6+ hxg6 18.Qd3 Kf7 19.Nd2 c4 20.Qd4 Qb6 21.Qxb6 Nxb6 22.Rb1 Nd5
+23.Ne4 g5 24.Kd2 Rh3 25.Nf2 Rh5 26.Rb5 a4 27.h3 Ba6 28.Rc5 Bb7 29.Rb1 Bc6
+30.Rxc4 Ne7 31.g4 Rhh8 32.Ke3 Ra5 33.exf6 Nd5+ 34.Kd2 gxf6 35.f4 gxf4 36.Bxf4 Rb5
+37.Rxb5 Bxb5 38.Rd4 Bc6 39.Bg3 e5 40.Rc4 Rb8 41.Nd3 Rb3 42.g5 e4 43.Nf4 Nxf4
+44.Bxf4 Rxa3 45.Rc5 fxg5 46.Bxg5 Ra2+ 47.Ke3 a3 48.Bf4 Ra1 49.Rf5+ Ke6 50.Re5+ Kf6
+51.Ra5 d5 52.Kd4 a2 53.Bd2 Bb5 54.Kxd5 Rd1 55.Kxe4 a1=Q  0-1
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.26"]
+[Round "8.1"]
+[White "Kasimdzhanov,R"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2793"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.a3 c5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.dxc5 Nxc5 11.Be2 Bf6 12.Be5 Bxe5 13.Nxe5 Re8 14.Nf3 Qb6 15.Rc1 Ne6
+16.Qd2 Rd8 17.Nd4 Bd7 18.Nxe6 Bxe6 19.Qd4 Qxd4 20.exd4 Rac8 21.Kd2 Kf8 22.Bd3 Ke7
+23.h4 h6 24.g3 Rxc1 25.Rxc1 Rc8 26.Rxc8 Bxc8 27.Ke3 g5 28.hxg5 hxg5 29.Bc2 Bd7
+30.Bd3 Bc8 31.Bc2 Bd7 32.Bd3 Bc8  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.28"]
+[Round "9.6"]
+[White "Radjabov,T"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2793"]
+[BlackElo "2733"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Ne2 Bg4 8.Be3 Qd7
+9.Nbc3 O-O-O 10.a4 Nxe5 11.Be4 f5 12.a5 Nbc4 13.Bxb7+ Kxb7 14.Qb3+ Ka8 15.dxe5 Nxe3
+16.fxe3 Bxe2 17.Nxe2 Qd5 18.Qxd5+ Rxd5 19.Kf2 g6 20.Rhd1 Rxd1 21.Rxd1 Bg7
+22.Rd5 Rb8 23.Nd4 Rxb2+ 24.Kf3 Kb7 25.Ne6 Bh8 26.Rc5 c6 27.Nd8+ Ka6 28.Rxc6+ Kxa5
+29.Re6 Ka4 30.Rxe7 a5 31.Re8 Bg7 32.Ne6 Bh6 33.Re7 Rb5 34.Nd4 Bg5 35.Re8 Rc5
+36.Ne2 Ka3 37.g3 a4 38.h4 Bh6 39.e6 Re5 40.Nf4 Bxf4 41.Kxf4 Re4+ 42.Kg5 Rxe3
+43.Kf6 Rxg3 44.e7 Re3 45.Rb8 Ka2 46.Rb6 Rxe7 47.Kxe7 a3 48.Kf6 Ka1 49.Kg7 a2
+50.Kxh7 f4 51.Rb3  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.28"]
+[Round "9.5"]
+[White "Nakamura,Hi"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2758"]
+[ECO "E91"]
+
+1.Nf3 Nf6 2.d4 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 c5 7.d5 e6 8.O-O Re8 9.Nd2 Na6
+10.Re1 Nc7 11.Rb1 exd5 12.cxd5 a6 13.a4 b5 14.axb5 axb5 15.b4 Ng4 16.Bxg4 Bxg4
+17.Qxg4 Bxc3 18.bxc5 dxc5 19.Qf3 b4 20.Rd1 Nb5 21.Nc4 Bd4 22.Bd2 Nc3 23.Bxc3 bxc3
+24.Rbc1 Ra4 25.Ne3 Ra6 26.Nc2 Bg7 27.Ra1 Rxa1 28.Rxa1 Qb6 29.g3 Qb2 30.Qd1 Bh6
+31.f4 Rxe4 32.Ra8+ Kg7 33.d6 Rd4 34.Nxd4  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.28"]
+[Round "9.3"]
+[White "Kamsky,G"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteElo "2741"]
+[BlackElo "2772"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a4 Bd7
+9.Be3 O-O 10.axb5 axb5 11.Nc3 Nb4 12.Qe2 c6 13.h3 Rxa1 14.Rxa1 h6 15.Qd2 c5
+16.Qe2 Qb6 17.Nh2 Be6 18.Ng4 Nxg4 19.hxg4 Bxb3 20.cxb3 Qb7 21.g3 Qd7 22.Qf3 Bg5
+23.Bxg5 hxg5 24.Qf5 Qe7 25.Kg2 g6 26.Qf3 Rb8 27.Ra5 Kg7 28.Rxb5 Ra8 29.Nd5 Nxd5
+30.exd5 Qa7 31.b4 cxb4 32.Rxb4 Rh8 33.Qe3 Qa1 34.Kf3 Qd1+ 35.Qe2 Qh1+ 36.Ke3 Qxd5
+37.Qc2 Rh1 38.Qb3 Qg2 39.Qc3 Rf1 40.Qd2 d5  0-1
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.28"]
+[Round "9.2"]
+[White "Giri,A"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2709"]
+[ECO "A34"]
+
+1.c4 Nf6 2.Nf3 c5 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bc4 Nd3+ 7.Ke2 Nf4+ 8.Kf1 Ne6
+9.b4 cxb4 10.Ne2 Nc5 11.Ng3 Be6 12.Bxe6 Qd3+ 13.Kg1 Nxe6 14.Bb2 Nc6 15.Rc1 Rd8
+16.h4 h5 17.Kh2 Nf4 18.Ne5 Qb5 19.Rxc6 bxc6 20.Qf3 f6 21.Qxf4 fxe5 22.Bxe5 Rd3
+23.Nf5 Rg8 24.Nd4 Qc4 25.Rc1 Qxc1 26.Ne6 Qc4 27.Qf5 g6 28.Nc7+ Kd8 29.Ne6+ Kd7
+30.Nxf8+ Ke8 31.Nxg6 Rd7 32.Bb8 Qf7 33.Qxf7+ Kxf7 34.Ne5+ Ke6 35.Nxd7 Kxd7
+36.Bxa7 Ra8 37.Bc5 Rxa2 38.Bxb4 Ra4 39.Bc5 Rxe4 40.Kh3 Ke6 41.f3 Rc4 42.Be3 Kf5
+43.Bg5 e5 44.Be3 Ra4 45.Bf2 Rc4 46.Be3 c5 47.g4+ Kg6 48.Kg3 Rc1 49.Kf2 c4
+50.Bg5 Ra1 51.Ke3 Re1+ 52.Kf2 Ra1 53.Ke3 Ra4 54.gxh5+ Kxh5 55.Bf6 Ra3+ 56.Ke4 c3
+57.dxc3 Rxc3 58.Bxe5 Rxf3 59.Kxf3 Kxh4  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.28"]
+[Round "9.1"]
+[White "Leko,P"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2786"]
+[ECO "E15"]
+
+1.Nf3 Nf6 2.c4 b6 3.d4 e6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 O-O 8.Bg2 c6
+9.e4 d5 10.exd5 cxd5 11.Ne5 Bb7 12.O-O Nc6 13.Bf4 Na5 14.Rc1 Ba3 15.Rb1 Bb4
+16.Ne2 Nc6 17.Bg5 Be7 18.Nf4 Ne4 19.cxd5 exd5 20.Nxc6 Bxc6 21.Bxe7 Qxe7 22.Re1 Qf6
+23.Rc1 Bb7 24.Re2 Rae8 25.Rc7 Ba8 26.Rxa7 Bc6 27.Rc2 Qd6 28.Qc1 Qb8 29.Ra3 Bb7
+30.b4 Qd6 31.Rb3 Qf6 32.Qb2 g5 33.Nd3 Nd6 34.a4 Nf5 35.Ne5 Nxd4 36.Qxd4 Qxe5
+37.Qxe5 Rxe5 38.Re3 Ree8 39.Rc7 Ba8 40.Ra7 Rc8 41.h3 d4 42.Re5 d3 43.Rxg5+ Kh8
+44.Bxa8 Rxa8 45.Rd7 Rfd8 46.Rgd5 Rxd7 47.Rxd7 Rxa4 48.b5 Rb4 49.Kg2 Rxb5
+50.Rxd3 Kg7 51.Rd6 Rb4 52.g4 Rb1 53.Kg3 b5 54.Rb6 b4 55.Kf4 Rh1 56.Rxb4 Rxh3
+57.Ke4  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.28"]
+[Round "9.4"]
+[White "Topalov,V"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2771"]
+[BlackElo "2766"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Kb1 Qb6 14.Rhe1 O-O 15.Nf5 exf5
+16.Rxe7 Qd8 17.Re2 Ne4 18.g3 Ndf6 19.Nh4 Qd7 20.Qf3 Qxd4 21.Nxf5 Qe5 22.Bc1 Rfe8
+23.Rde1 Re6 24.g4 Rae8 25.Ka1 Qd5 26.Qa3 Nxg4 27.Nxg7 Kxg7 28.f3 Nef6 29.Rxe6 Rxe6
+30.Rxe6 Qxe6 31.fxg4 Qxg4 32.Qxa7 Qxh5 33.Qxb7 Qh1 34.Kb1 h5 35.Qc7 h4 36.Qf4 Ne4
+37.a4 h3 38.a5 Qe1 39.a6 Nd2+ 40.Ka2 Qxc1 41.Qg5+ Kh7 42.Qh5+ Kg7 43.Qg5+ Kh7
+44.Qh5+ Kg7 45.Qg5+  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.29"]
+[Round "10.6"]
+[White "Giri,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2744"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.Qc2 c5 7.O-O cxd4 8.Nxd4 e5
+9.Nf5 d4 10.Nxe7+ Qxe7 11.Bg5 h6 12.Bxf6 Qxf6 13.Nd2 Nc6 14.c5 Qe7 15.Rac1 a5
+16.Ne4 Nb4 17.Qb1 Bf5 18.a3 Nc6 19.b4 axb4 20.axb4 Qe6 21.b5 Ne7 22.Rfe1 Rfd8
+23.Qb4 Nd5 24.Qb3 Bxe4 25.Bxe4 Rac8 26.e3 Nc3 27.Qxe6 fxe6 28.exd4 exd4 29.c6 Nxe4
+30.Rxe4 bxc6 31.bxc6 Rd6 32.Rd1 Rcxc6 33.Rexd4 Rxd4 34.Rxd4 Kf7 35.Rf4+ Ke7
+36.Rg4 Kf7 37.Rf4+ Ke7 38.Rg4 Kf7  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.29"]
+[Round "10.2"]
+[White "Morozevich,A"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2758"]
+[BlackElo "2793"]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 Be7 8.Be3 Nf6
+9.Nc4 b5 10.Nb6 Rb8 11.Nxc8 Qxc8 12.Be2 O-O 13.O-O b4 14.Nd5 Nxe4 15.a3 Bd8
+16.Qd3 Nf6 17.Nxb4 Nxb4 18.axb4 Rxb4 19.Qxd6 Rxb2 20.Bxa6 Qxc2 21.Rac1 Qa4
+22.Rc8 Nd7 23.Rfc1 Rb8 24.R8c6 Qg4 25.Bc8 Rxc8 26.Rxc8 Bf6 27.R8c7 Rd8 28.Rd1 Be7
+29.Rxd7 Bxd6 30.Rxd8+ Bf8 31.h3 Qa4 32.Rc1 f5 33.Rcc8 Kf7 34.Rxf8+ Kg6 35.g3 h5
+36.h4 Qg4 37.Bg5 f4 38.Bxf4 exf4 39.Rc6+ Kh7 40.Rxf4 Qd1+ 41.Kh2 Qd5 42.Rc7 Kg6
+43.Rff7 Qxf7 44.Rxf7 Kxf7 45.g4  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.29"]
+[Round "10.3"]
+[White "Kasimdzhanov,R"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2733"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Nb6
+9.Nd2 d5 10.exd6 cxd6 11.b3 Bg4 12.f3 Be6 13.Bb2 d5 14.cxd5 Nxd5 15.O-O-O Qg5
+16.h4 Qe3 17.Kb1 Be7 18.Rc1 O-O 19.g4 a5 20.Rxc6 Rfd8 21.Ne4 a4 22.Qxe3 Nxe3
+23.Bc4 Nxc4 24.bxc4 Rac8 25.Rxc8 Rxc8 26.c5 Bxc5 27.Nxc5 Rxc5 28.Rd1 h6 29.Rd4 Rc4
+30.Rxc4 Bxc4 31.g5 Kh7 32.a3 Kg6 33.Kc1 hxg5 34.hxg5 Kxg5 35.Bxg7 Kf4 36.Kb2 Kxf3
+37.Be5 f5 38.Bd6 f4 39.Bxf4 Kxf4  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.29"]
+[Round "10.4"]
+[White "Caruana,F"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2772"]
+[BlackElo "2771"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7
+9.Qd2 O-O 10.O-O-O a5 11.a4 Na6 12.Bb5 Nc7 13.Bb6 Qc8 14.Bxc7 Qxc7 15.g4 Rfd8
+16.g5 Nh5 17.Nd5 Bxd5 18.exd5 g6 19.Kb1 Rf8 20.Qe3 Qd8 21.h4 Nf4 22.Qg1 h6
+23.Nd2 Kg7 24.gxh6+ Kxh6 25.Nc4 Qc7 26.Qe3 Kh7 27.h5 g5 28.h6 f5 29.Qd2 Rf6
+30.Rdg1 Rg6 31.Ne3 Rf8 32.Nc4 Bd8 33.Rd1 Rff6 34.Qf2 Rxh6 35.Qa7 Rxh1 36.Rxh1+ Rh6
+37.Qg1 Rh4 38.Ne3 Qf7 39.Ng2 Rxh1 40.Qxh1+ Qh5 41.Qxh5+ Nxh5 42.Ne3 Ng3 43.Kc1 Kg6
+44.Kd1 g4 45.fxg4 f4 46.Nc4 Bc7 47.Bd7 Kg5 48.Ke1 f3 49.Ne3 Bb6  0-1
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.29"]
+[Round "10.5"]
+[White "Karjakin,Sergey"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2786"]
+[BlackElo "2741"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 a6 5.e3 g6 6.Bd3 Bg7 7.O-O O-O 8.Qb3 dxc4
+9.Bxc4 Ne8 10.Rd1 Nd6 11.Be2 Bg4 12.e4 Nd7 13.e5 Nb5 14.a4 Nxc3 15.bxc3 b5
+16.a5 c5 17.h3 Be6 18.d5 Bf5 19.Bf4 c4 20.Qb4 Rc8 21.Bg3 Be4 22.Ng5 Bd3 23.Bxd3 cxd3
+24.e6 Rc4 25.Qb1 Nc5 26.exf7+ Rxf7 27.Nxf7 Kxf7 28.d6 Bxc3 29.Ra3 exd6 30.Rxd3 Nxd3
+31.Qxd3 Qf6 32.Qd5+ Kg7 33.Qb7+ Qf7 34.Qxa6 b4 35.Ra4 Rd4 36.Qb6 Qe8 37.Qb7+ Kh6
+38.a6 Qe1+ 39.Kh2 Rd1 40.Bf4+ g5 41.Qf7 Qg1+ 42.Kg3 Rd3+ 43.Be3 Rxe3+ 44.fxe3 Be5+
+45.Kg4 Qxg2+ 46.Kf5 Qxh3+ 47.Ke4 Qg4+ 48.Kd5 Qd1+ 49.Ke6 Qxa4 50.Qf8+ Kh5
+51.Qf3+ g4 52.Qb7 Qe8+ 53.Kd5 Qg8+ 54.Kc6 Qc4+ 55.Kd7 Qf7+ 56.Kc6 Qxb7+  0-1
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.29"]
+[Round "10.1"]
+[White "Mamedyarov,S"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2766"]
+[BlackElo "2767"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 dxc4 4.e3 b5 5.a4 b4 6.Nce2 Nf6 7.Nf3 Ba6 8.Ng3 c5
+9.Bd2 e6 10.Rc1 Qd5 11.Ne5 cxd4 12.Nxc4 Nbd7 13.Be2 Rc8 14.Bf3 Qc5 15.b3 Be7
+16.Ne2 d3 17.Nf4 O-O 18.Nxd3 Qf5 19.e4 Nxe4 20.g4 Qd5 21.Qe2 f5 22.O-O Rxc4  0-1
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.30"]
+[Round "11.3"]
+[White "Topalov,V"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2786"]
+[ECO "A64"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.Bg2 Bg7 8.Nf3 O-O
+9.O-O Re8 10.Nd2 Nbd7 11.a4 a6 12.a5 b5 13.axb6 Nxb6 14.Nb3 Bf5 15.Na5 Ne4
+16.Bd2 Nxd2 17.Qxd2 h5 18.e3 h4 19.Rfe1 Qg5 20.Na4 Reb8 21.Nc3 Qh5 22.f3 Qh8
+23.g4 Bd7 24.h3 f5 25.g5 f4 26.exf4 Bd4+ 27.Kh1 Qg7 28.Bf1 Re8 29.Ne4 Kh8
+30.Nxd6 Rxe1 31.Rxe1 Rf8 32.Re4 Nxd5 33.Nb3 Bc6 34.f5 gxf5 35.Rxh4+ Kg8 36.Nxd4 cxd4
+37.Bc4 Qe5 38.Qxd4 Qxd6 39.Rh6 Qe7 40.Bxd5+ Bxd5 41.Rh8+  1-0
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.30"]
+[Round "11.1"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2767"]
+[BlackElo "2772"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Bf4 Nc6 5.Nc3 Nf6 6.e3 a6 7.Bd3 Bg4 8.Nge2 e6
+9.O-O Be7 10.Rc1 O-O 11.a3 Bh5 12.Na4 Nd7 13.Qb3 Ra7 14.Bg3 Bg6 15.Nf4 Na5
+16.Qa2 Bxd3 17.Nxd3 Nc4 18.Nac5 b6 19.Nxd7 Qxd7 20.a4 Rc8 21.b3 Nd6 22.a5 Rxc1
+23.Rxc1 Rc7 24.Rxc7 Qxc7 25.axb6 Qxb6 26.Qc2 h6 27.h3 Bf8 28.Bf4 Qb5 29.g4 Ne4
+30.f3 Nf6 31.h4 h5 32.g5 Nd7 33.Bc7 g6 34.Kf2 Be7 35.Qc3 Nb8 36.Bxb8 Qxb8
+37.Ne5 Qb7 38.Qc6 Qxc6 39.Nxc6 Bd6 40.e4 Kf8 41.Ne5 Ke8 42.Nd3 a5 43.exd5 exd5
+44.f4 f6 45.gxf6 Kf7 46.f5 Kxf6 47.fxg6 Kxg6 48.Ke3 Kf5 49.Kf3 Bc7 50.Nc1 Bd8
+51.Ne2 Bxh4 52.Nf4 Bf6 53.Nxd5 Bxd4 54.Ne7+ Kg5 55.Nc6 Bc3 56.Nxa5 Bxa5 57.b4 Bxb4  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.30"]
+[Round "11.5"]
+[White "Radjabov,T"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2793"]
+[BlackElo "2766"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Be3 Qa5
+9.Qd2 Nc6 10.Rc1 cxd4 11.cxd4 Qxd2+ 12.Kxd2 O-O 13.d5 Rd8 14.Kc2 Na5 15.Bg5 Bd7
+16.Bxe7 Rdc8+ 17.Kb1 Rxc1+ 18.Kxc1 Re8 19.Bb4 Nc4 20.Bxc4 Rxe4 21.Nd2 Bh6
+22.Kb2 Bxd2 23.Bxd2 Rxc4 24.Be3 b6 25.Rc1 Rxc1 26.Bxc1 Kf8 27.Kc3 Ke7 28.Ba3+ Ke8
+29.Bc1 Ke7 30.Ba3+ Ke8 31.Bc1 Ke7 32.Ba3+  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.30"]
+[Round "11.4"]
+[White "Leko,P"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2709"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 O-O 8.Nc3 d6
+9.a3 Be6 10.Nd5 Na5 11.Nxf6+ Bxf6 12.Bxe6 fxe6 13.b4 Nc6 14.c3 Qd7 15.a4 Ne7
+16.Be3 Ng6 17.g3 Be7 18.h4 h6 19.Kg2 Rae8 20.Nh2 Bd8 21.axb5 axb5 22.Ra6 Kh7
+23.Qh5 Ne7 24.Rfa1 Ng8 25.Qe2 Rf7 26.Ra8 Ref8 27.R1a5 Ne7 28.R5a6 Ng8 29.Ra5 Qc6
+30.Qc2 Nf6 31.R5a6 Qd7 32.Qe2 Ng8 33.R8a7 Ne7 34.Ra3 Ng6 35.Qg4 Bxh4 36.gxh4 Nf4+
+37.Bxf4 Rxf4 38.Qg3 R8f6 39.h5 Qf7 40.Ng4 Qxh5 41.Nxf6+ Rxf6 42.Rxc7 Rg6
+43.Raa7 Rxg3+ 44.Kxg3 Qg5+ 45.Kf3 Qf4+ 46.Ke2 Qg4+ 47.Kd2 Qf4+ 48.Kd1 Qg4+
+49.Kd2 Qf4+ 50.Ke2 Qg4+ 51.Kd2  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.30"]
+[Round "11.6"]
+[White "Ponomariov,R"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2758"]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4 cxd4 8.Nxd4 Qa5
+9.Bxf6 Bxc3+ 10.bxc3 Qxc3+ 11.Kf1 gxf6 12.Bb5+ Ke7 13.Rc1 Qa5 14.e5 fxe5
+15.Qh5 Nd7 16.Qg5+ Kf8 17.Rxc8+ Rxc8 18.Bxd7 Qd8 19.Nxe6+ fxe6 20.Qh6+ Kf7
+21.Qxe6+ Kf8 22.Qf5+ Ke7 23.Qe6+ Kf8 24.Qf5+ Ke7 25.Qe6+ Kf8  1/2-1/2
+
+[Event "Renova FIDE GP Zug"]
+[Site "Zug SUI"]
+[Date "2013.04.30"]
+[Round "11.2"]
+[White "Kamsky,G"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2727"]
+[ECO "A04"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc6 6.Nc3 Nc7 7.Qa4 Bd7 8.Qe4 Ne6
+9.Ne5 Nxe5 10.Qxe5 Qb8 11.Qxb8+ Rxb8 12.d3 g6 13.Be3 Bg7 14.Rb1 f5 15.Kd2 a5
+16.Rhc1 Nd4 17.Bxd4 cxd4 18.Nd5 Bc6 19.Rc5 Bh6+ 20.Kd1 Kf7 21.Bf3 e5 22.Rxa5 Ra8
+23.b4 Rxa5 24.bxa5 e4 25.dxe4 fxe4 26.Bxe4 Rd8 27.Kc2 Bf8 28.a4 Bxd5 29.Bxd5+ Rxd5
+30.Rxb7+ Be7 31.a6 Ra5 32.a7 Rxa4 33.Kb3 Ra5 34.Kc4 Ke6 35.Kxd4 Bc5+ 36.Ke4 Bxf2
+37.Rxh7 Bxa7 38.Kf3 Rf5+ 39.Kg4 Be3 40.h4 Rf2 41.h5 g5 42.Rh8 Kf7 43.Rh7+ Kf6
+44.Rh6+ Kf7 45.Rh7+ Ke6 46.Rh8 Bd4 47.Ra8 Bf6 48.Ra6+ Kf7 49.e4 Re2 50.Kf5 Rf2+
+51.Kg4 Rh2 52.h6 Rxh6 53.e5 Bg7 54.Rxh6 Bxh6 55.Kh5 Bg7 56.Kxg5 Bxe5  1/2-1/2

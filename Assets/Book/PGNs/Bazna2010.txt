@@ -1,0 +1,607 @@
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.14"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2752"]
+[EventDate "2010.06.14"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 g6 7. Ne5 Bg7 8. f4
+a5 9. Be2 Qc7 10. O-O O-O 11. a3 Be6 12. Bf3 Nbd7 13. Nd3 h6 14. g4 Nh7 15.
+h4 f5 16. g5 hxg5 17. hxg5 Kf7 18. Kg2 Rfb8 19. Bd2 Nhf8 20. Be2 Ke8 21.
+Ne1 Bg8 22. Nf3 Rb7 23. Bd3 Nb8 24. Ne2 Qd8 25. Ng3 e6 26. Rh1 Bh7 27. Qc2
+Kf7 28. Rh3 Kg8 29. Rah1 Raa7 30. Kf1 Qe8 31. Be1 Bh8 32. Rh6 Bg7 33. R6h4
+Bh8 34. R1h3 Re7 35. Qh2 Reb7 36. Rh6 Re7 37. Ne2 Reb7 38. Nc1 Re7 39. Nb3
+a4 40. Nc1 Reb7 41. Be2 Re7 42. Nd3 Reb7 43. Nh4 Bg7 44. Rxh7 Nxh7 45. Nxg6
+Nd7 46. Bh5 Qd8 47. Nb4 Rc7 48. Nh8 Ndf8 49. Nf7 Rxf7 50. Bxf7+ Rxf7 51.
+Rxh7 Qe8 52. Rh3 Ng6 53. Qe2 Rc7 54. Qh5 Kf7 55. Qh7 Qg8 56. Qxg8+ Kxg8 57.
+Nd3 Ra7 58. Ke2 Kf7 59. Nb4 Ne7 60. Kd1 Ra8 61. Kc2 Rg8 62. Nd3 Ra8 63. Rh7
+Ng6 64. b3 Nf8 65. Rh2 axb3+ 66. Kxb3 Ke8 67. Ra2 Kd7 68. a4 bxa4+ 69. Rxa4
+Rxa4 70. Kxa4 Kc8 71. Ba5 Ng6 72. Nb4 Kd7 73. Na6 Kc8 74. Bc7 Bf8 75. Ka5
+Kb7 76. Bd6 Be7 77. Bxe7 Nxe7 78. Nb4 Ng8 79. Nd3 Ne7 80. Ne5 Ng8 81. g6
+Nf6 82. g7 1-0
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.14"]
+[Round "1"]
+[White "Nisipeanu,LD"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2672"]
+[BlackElo "2740"]
+[EventDate "2010.06.14"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c4 b4 12. Nc2 O-O 13. g3 Be6 14. Bg2
+a5 15. O-O Rc8 16. Qd3 g6 17. Nxf6+ Qxf6 18. b3 Qe7 19. Rad1 Rfd8 20. h4
+Kh8 21. Kh2 f5 22. exf5 gxf5 23. Bxc6 Rxc6 24. f4 Rcc8 25. Qe3 Qg7 26. Rf2
+Rd7 27. Nd4 Qg4 28. Rdd2 Re8 29. Nb5 d5 30. Nd6 Red8 31. Qxe5+ Qg7 32. c5
+Qxe5 33. fxe5 Rc7 34. Rc2 d4 35. Rfd2 f4 36. gxf4 d3 37. Rxd3 Bf5 38. Nf7+
+Kg7 39. Rg2+ 1-0
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.14"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2733"]
+[EventDate "2010.06.14"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Bd7 9. Qxc4 Bc6 10. Bg5 h6 11. Bxf6 Bxf6 12. Nc3 Bxf3 13. Bxf3 c6 14.
+Rad1 a5 15. e4 Nd7 16. e5 Be7 17. Be4 Qb6 18. f4 Rad8 19. Qe2 Nb8 20. Qf2
+Na6 21. Kh1 f5 22. Bb1 h5 23. h3 g6 24. Ba2 Nc7 25. g4 hxg4 26. hxg4 Kf7
+27. Kg2 Rh8 28. g5 Rh7 29. Rh1 Rxh1 30. Kxh1 Rh8+ 31. Kg2 Qa6 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.15"]
+[Round "2"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2813"]
+[EventDate "2010.06.14"]
+[ECO "B23"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 Nf6 5. Nge2 a6 6. a4 e6 7. O-O d5 8.
+exd5 exd5 9. Ba2 Bg4 10. f3 Be6 11. d3 Nc6 12. Nf4 Qd7 13. Bd2 Be7 14. Nce2
+O-O 15. c3 b5 16. Bb1 Rab8 17. axb5 axb5 18. Bc2 Bd6 19. Qe1 Rfe8 20. Qf2
+Qc7 21. Kh1 b4 22. d4 bxc3 23. bxc3 cxd4 24. cxd4 Nxd4 25. Bxh7+ Nxh7 26.
+Qxd4 Be5 27. Nxe6 Rxe6 28. Bf4 Bxd4 29. Bxc7 Bxa1 30. Bxb8 Rxe2 31. Rxa1
+Ng5 32. Kg1 Ne6 33. Rd1 d4 34. Kf1 Rb2 35. Be5 Rb5 36. Bg3 Kh7 37. Bf2 Kg6
+38. Ke1 Rb4 39. h4 Kf5 40. g3 Ke5 41. Ke2 Kd5 42. Rd2 Ra4 43. Rb2 Nc5 44.
+Rd2 Nb3 45. Rc2 Ra7 46. h5 f6 47. Rb2 Re7+ 48. Kd3 Nc5+ 49. Kd2 Ra7 50. Ke2
+Ra4 51. Rd2 Nd7 52. Be3 Ne5 53. g4 Nf7 54. Bf4 Nd8 55. Rb2 Ne6 56. Bd2 Ra1
+57. Rb5+ Kc4 58. Ra5 Nf4+ 59. Kf2 Rxa5 60. Bxa5 Kd3 61. Kg3 Ne2+ 62. Kf2
+Nf4 63. Kg3 Ke3 64. g5 fxg5 65. Kg4 d3 66. Kxg5 Kxf3 67. h6 Ne6+ 68. Kg6
+gxh6 69. Kxh6 Ke2 70. Kg6 Nd4 71. Kf6 Nc6 72. Bc3 Ne5 73. Kxe5 d2 74. Bxd2
+1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.15"]
+[Round "2"]
+[White "Wang Yue"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2733"]
+[EventDate "2010.06.14"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Qc2 Be4 13. Qc1 Bb7 14. Rd1
+Qc8 15. Ba5 c5 16. dxc5 Qxc5 17. Qxc5 Bxc5 18. Nbd2 Rc8 19. Rac1 Nbd7 20.
+Ne5 Bxg2 21. Nxd7 Nxd7 22. Kxg2 Nf6 23. Rc2 Be7 24. Rdc1 Rxc2 25. Rxc2 Kf8
+26. f4 Nd5 27. Rc1 Ke8 28. Kf3 f5 29. e4 fxe4+ 30. Nxe4 Kd7 31. Nc3 Nf6 32.
+Ne4 Nd5 33. Nc3 Nf6 34. Rd1+ Ke8 35. Bc7 Rc8 36. Be5 Bf8 37. g4 Nd7 38. Bd6
+Be7 39. Re1 Rc6 40. Bxe7 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.15"]
+[Round "2"]
+[White "Gelfand,B"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2672"]
+[EventDate "2010.06.14"]
+[ECO "D20"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Nc6 6. O-O Be6 7. Bb5 Bc5
+8. Nbd2 Nge7 9. Ng5 Qd7 10. Ndf3 f6 11. Nxe6 Qxe6 12. Nxd4 Bxd4 13. Qxd4 a6
+14. Qc4 Qd6 15. Qa4 O-O-O 16. Bc4 Ne5 17. Bb3 b5 18. Qa5 Kb7 19. Qc3 c5 20.
+Be3 c4 21. Rfd1 Qc7 22. Rxd8 Rxd8 23. Bd1 N7c6 24. Be2 Qa5 25. Qxa5 Nxa5
+26. f4 Nec6 27. Rd1 Rxd1+ 28. Bxd1 Nb4 29. e5 fxe5 30. fxe5 Nac6 31. e6 Kc7
+32. Bf4+ 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.16"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2741"]
+[EventDate "2010.06.14"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Bd3 dxc4 9. Bxc4 Bd6 10. Ne4 Bb4+ 11. Nfd2 Qe7 12. O-O O-O 13. f4 c5 14.
+Nf3 Nb6 15. Bb3 cxd4 16. Nxd4 Bd7 17. Qh5 Rac8 18. Rf3 Nc4 19. Rg3 Kh8 20.
+Rf1 Nd6 21. Nxd6 Bxd6 22. Nf3 Rc5 23. Rg5 Rfc8 24. Rxc5 Rxc5 25. Qh4 Qxh4
+26. Nxh4 Be7 27. Nf3 a5 28. Rd1 Be8 29. Nd4 a4 30. Bc2 g6 31. Kf2 e5 32.
+fxe5 Rxe5 33. Rd3 Rc5 34. Rc3 Rxc3 35. bxc3 Kg7 36. Be4 f5 37. Bxb7 Bf7 38.
+a3 Bxa3 39. Bc6 Bb2 40. Bxa4 Bxc3 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.16"]
+[Round "3"]
+[White "Nisipeanu,LD"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2752"]
+[EventDate "2010.06.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. h4 h6 11. Nd4 Nxd4 12. Bxd4 Rg8 13. c4 c5
+14. Bc3 O-O-O 15. Qe3 Rde8 16. Kb1 Bf6 17. Qg3 Bxc3 18. Qxc3 Qc6 19. Be2
+Bf5 20. Bf3 Be4 21. Bxe4 Qxe4 22. g3 Re6 23. b3 Qe5 24. Qa5 Kb8 25. Rhe1
+Qf6 26. Rxe6 Qxe6 27. Qc3 Kc7 28. Qa5+ Kb8 29. Qc3 Kc7 30. Re1 Qd7 31. Qa5+
+1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.16"]
+[Round "3"]
+[White "Ponomariov,R"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2733"]
+[BlackElo "2740"]
+[EventDate "2010.06.14"]
+[ECO "E81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 e5 7. Bg5 c6 8.
+Qd2 Nbd7 9. d5 h6 10. Be3 cxd5 11. cxd5 a6 12. Nc1 b5 13. Be2 Nb6 14. O-O
+Kh7 15. b4 Nh5 16. a4 Nc4 17. Bxc4 bxc4 18. N1e2 f5 19. exf5 gxf5 20. f4
+Bd7 21. Rab1 Re8 22. Kh1 Rb8 23. Rf3 Nf6 24. h3 Nh5 25. Bg1 e4 26. Re3 Qh4
+27. Bh2 Rg8 28. Qd1 Rb7 29. Qf1 Rgb8 30. g3 Qd8 31. b5 axb5 32. axb5 Nf6
+33. g4 Bxb5 34. Qg2 Bd7 35. Rg1 fxg4 36. hxg4 Nxg4 37. Rg3 Qh4 38. Rxg4
+Bxg4 39. Qxg4 Qxg4 40. Rxg4 Rb2 41. f5 R8b3 42. f6 Bxf6 43. Nxe4 Bh8 44.
+N4g3 c3 45. Rc4 Be5 46. Nc1 Rb1 47. Nge2 R3b2 48. Bg1 Rc2 0-1
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.17"]
+[Round "4"]
+[White "Radjabov,T"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2741"]
+[EventDate "2010.06.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. Bf5 c6 14.
+cxd5 Nxd5 15. Qg4 Nxc3 16. bxc3 O-O 17. Rb1 Qc7 18. Bh6 Bd6 19. Qh3 Rfe8
+20. Bxg7 Bxh2+ 21. Kf1 Kxg7 22. Qxh7+ Kf6 23. Bxe6 Bf4 24. Qf5+ Kg7 25. Rb4
+Rxe6 26. Rxe6 fxe6 27. Qg4+ Kh8 28. Rxf4 Qh7 29. Qxe6 Qh1+ 30. Ke2 Qh5+ 31.
+g4 Qb5+ 32. Kf3 Qd3+ 33. Kg2 Qd5+ 34. Qxd5 cxd5 35. Rf7 b5 36. Rd7 a6 37.
+f4 Rc8 38. f5 1-0
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.17"]
+[Round "4"]
+[White "Ponomariov,R"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2672"]
+[EventDate "2010.06.14"]
+[ECO "E10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 b4 6. a3 a5 7. e4 h6 8. Bxf6
+Qxf6 9. e5 Qd8 10. Bd3 g6 11. Nbd2 Bg7 12. Ne4 O-O 13. O-O exd5 14. cxd5 d6
+15. Nxd6 Bg4 16. Re1 Bxe5 17. Nxf7 Rxf7 18. Rxe5 Bxf3 19. gxf3 Nd7 20. Re3
+Qg5+ 21. Kh1 Ne5 22. Be2 Rd8 23. axb4 axb4 24. d6 Rf5 25. Qb3+ Kh8 26. Qe6
+Nf7 27. d7 Kg7 28. Rg1 Qf6 29. Bd3 Rg5 30. Qe8 Rxg1+ 31. Kxg1 Qxb2 32. Re7
+Qc1+ 33. Bf1 Qg5+ 34. Kh1 Qf5 35. h3 b3 36. Bc4 1-0
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.17"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2813"]
+[BlackElo "2752"]
+[EventDate "2010.06.14"]
+[ECO "C36"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. Bc4 Nxd5 6. O-O Be7 7. Bxd5
+Qxd5 8. Nc3 Qd8 9. d4 O-O 10. Bxf4 Bf5 11. Qe2 Bd6 12. Bxd6 Qxd6 13. Nb5
+Qd8 14. c4 a6 15. Nc3 Nd7 16. Rad1 Bg6 17. Qf2 Re8 18. h3 Rc8 19. Rfe1
+Rxe1+ 20. Rxe1 c6 21. d5 Nf6 22. Qd4 cxd5 23. Nxd5 Nxd5 24. cxd5 Qd6 25.
+Ne5 Re8 26. Re3 Rd8 27. Nc4 Qf6 28. Re5 h6 29. d6 Bf5 30. Nb6 Be6 31. d7
+Kh8 32. a4 g6 33. Qc3 Kg7 34. a5 h5 35. h4 Rxd7 36. Nxd7 Bxd7 37. Qd4 Bc6
+38. b4 Bb5 39. Kh2 Ba4 40. Rd5 Bc6 41. Qxf6+ Kxf6 42. Rc5 Ke6 43. Kg3 f6
+44. Kf2 Bd5 45. g3 g5 46. g4 hxg4 47. h5 Be4 48. Rc7 f5 49. h6 f4 50. h7
+g3+ 51. Ke1 f3 52. h8=Q f2+ 53. Ke2 Bd3+ 54. Ke3 1-0
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.19"]
+[Round "5"]
+[White "Nisipeanu,LD"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2672"]
+[BlackElo "2813"]
+[EventDate "2010.06.14"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. O-O-O d5 10. Kb1 Rb8 11. Ndb5 a6 12. Na7 e6 13. g4 Re8 14. g5
+Nh5 15. Bf2 Bd7 16. exd5 exd5 17. Qxd5 Ne5 18. Qb3 Qxg5 19. Ne4 Qf4 20. Be2
+Be6 21. Qa3 Nc4 22. Bxc4 Bxc4 23. Nd6 Bf8 24. Rd4 Qe5 25. Rxc4 Bxd6 26. Qd3
+Bf8 27. a4 Rbd8 28. Qb3 Qd5 29. Rc3 Qd2 30. Be3 Qe2 31. Bb6 0-1
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.19"]
+[Round "5"]
+[White "Wang Yue"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2740"]
+[EventDate "2010.06.14"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. d4 O-O 8.
+Ne5 e6 9. O-O Nfd7 10. Nf3 Nf6 11. Bf4 Nc6 12. Rc1 Bd7 13. Bd6 Re8 14. e3
+Bf8 15. Bxf8 Rxf8 16. Ne5 Rc8 17. Qe2 Qe7 18. f4 h5 19. h3 Kg7 20. Bf3 Rh8
+21. Kg2 a6 22. Rh1 Rh7 23. Qd2 Rhh8 24. g4 hxg4 25. hxg4 Nxe5 26. dxe5 Ne4
+27. Bxe4 dxe4 28. Kg3 Bc6 29. Qd6 Qxd6 30. exd6 Rxh1 31. Rxh1 Rd8 32. Rd1
+f5 33. b4 b5 34. a3 Kf7 35. Ne2 Bd5 36. Nd4 Rxd6 37. Nb3 Rd8 38. Nc5 Kf6
+39. Rh1 Kg7 40. Rd1 Kf6 41. Rh1 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.19"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2733"]
+[EventDate "2010.06.14"]
+[ECO "D38"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 c5 8.
+cxd5 exd5 9. Be2 cxd4 10. Qxd4 Qxd4 11. Nxd4 Bxc3+ 12. bxc3 Ke7 13. Bf3 Rd8
+14. Rb1 b6 15. c4 Bb7 16. Rd1 Kf8 17. cxd5 Nd7 18. e4 Rac8 19. Be2 Nc5 20.
+f3 Na4 21. Kf2 Nc3 22. Rd2 Nxe2 23. Kxe2 Rc4 24. Ke3 g6 25. Rb1 Rdc8 26.
+Nb5 Ra4 27. Rbb2 Ke7 28. Rdc2 Ra5 29. Nd4 Kd6 30. Kf4 Rxc2 31. Rxc2 f5 32.
+h4 fxe4 33. fxe4 a6 34. h5 Ra4 35. Rd2 gxh5 36. Nf5+ Kd7 37. Ke5 b5 38. Nd6
+1-0
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.20"]
+[Round "6"]
+[White "Wang Yue"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2741"]
+[EventDate "2010.06.14"]
+[ECO "D37"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4
+8. Nxd4 Qa5 9. Bd2 Qc5 10. Bb5+ Bd7 11. Nb3 Qe7 12. Bd3 Nc6 13. a3 Bd6 14.
+O-O O-O 15. f4 e5 16. f5 Nd4 17. Bg5 Bc6 18. Bc4 Qd8 19. Nd5 Bxd5 20. Bxd5
+Be7 21. Bxf6 Bxf6 22. Kh1 Rc8 23. Rc1 Qb6 24. Rc3 Rxc3 25. bxc3 Nxb3 26.
+Bxb3 Qe3 27. Qf3 Qxf3 28. Rxf3 Rc8 29. a4 Rc5 30. g3 Kf8 31. Rd3 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.20"]
+[Round "6"]
+[White "Ponomariov,R"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2733"]
+[BlackElo "2813"]
+[EventDate "2010.06.14"]
+[ECO "E81"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 Nbd7 7. Be3 c5 8.
+d5 Ne5 9. Ng3 h5 10. Be2 h4 11. Nf1 e6 12. Nd2 exd5 13. cxd5 Bd7 14. O-O b5
+15. Nxb5 Bxb5 16. Bxb5 Rb8 17. a4 Nh5 18. f4 Nd7 19. Qg4 a6 20. Bxa6 Rxb2
+21. Rab1 Rxd2 22. Bxd2 Bd4+ 23. Rf2 Bxf2+ 24. Kxf2 Ndf6 25. Qf3 Qe8 26. e5
+Qxa4 27. exf6 Qxa6 28. Bc3 Qc8 29. Kg1 Qf5 30. Rf1 Re8 31. Ba1 Ra8 32. Qe3
+Kh7 33. Bb2 Rb8 34. Bc1 Rb1 35. Qe8 Qxd5 36. f5 gxf5 37. Qe3 Qd4 38. Qxd4
+cxd4 39. Bg5 Rxf1+ 40. Kxf1 h3 41. gxh3 Kg6 42. Bh4 Nf4 43. Bg3 Kg5 44. Bf2
+Ne6 45. Ke2 f4 46. Kf3 d3 47. h4+ Kf5 48. Bb6 Nc5 49. h5 d2 50. Ke2 Ne4 0-1
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.20"]
+[Round "6"]
+[White "Radjabov,T"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2672"]
+[EventDate "2010.06.14"]
+[ECO "D27"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Bd3 Nbd7 8.
+Re1 b5 9. a4 bxa4 10. Rxa4 cxd4 11. Rxd4 Bb7 12. Nc3 Bc5 13. Rh4 Be7 14.
+Qe2 Nd5 15. Rh3 Nxc3 16. bxc3 Qc7 17. e4 Nc5 18. Bc2 e5 19. Rh5 Bf6 20. Ng5
+h6 21. Nf3 Bc8 22. h3 Be6 23. g4 g5 24. Rd1 Bd7 25. Rd5 Ne6 26. Qd1 Bb5 27.
+h4 Qxc3 28. hxg5 hxg5 29. Rxh8+ Bxh8 30. Bxg5 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.21"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2813"]
+[BlackElo "2740"]
+[EventDate "2010.06.14"]
+[ECO "B35"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 Qa5
+8. O-O O-O 9. Bb3 d6 10. h3 Bd7 11. Re1 Rfc8 12. Qe2 Qh5 13. Nf3 h6 14.
+Rad1 g5 15. Nd5 Nxd5 16. Bxd5 Bxb2 17. Rb1 Bc3 18. Rxb7 Bxh3 19. Nxg5 Qxe2
+20. Rxe2 Bg4 21. Nf3 e6 22. Bxc6 Rxc6 23. Bxh6 Bxf3 24. gxf3 Ra6 25. Rc7
+Bg7 26. Bxg7 Kxg7 27. c3 Rb8 28. f4 Rbb6 29. Rd7 Rc6 30. Re3 Rxa2 31. e5
+dxe5 32. fxe5 Rc5 33. Rg3+ Kf8 34. Rf3 Rxe5 35. Rfxf7+ Ke8 36. Rfe7+ Kf8
+37. Rh7 Kg8 38. Rdg7+ Kf8 39. Rb7 Kg8 40. Rhg7+ Kh8 41. Rge7 Rg5+ 42. Kf1
+Rc2 43. Rbc7 a5 44. Rxe6 a4 45. Ra6 Rg4 46. c4 Rg7 47. Rxg7 Kxg7 48. Rxa4
+Kf6 49. Kg2 Ke5 50. Ra5+ Ke6 51. Rc5 Kd6 52. Rd5+ Ke6 53. Rd4 Ke5 54. Rh4
+Rc3 55. c5 Kf5 56. Rh8 Kf4 57. Rc8 Ke5 58. c6 Kd6 59. f3 Rc5 60. Kg3 Rg5+
+61. Kh4 Rg1 62. f4 Ke7 63. c7 Rc1 64. Kg5 1-0
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.21"]
+[Round "7"]
+[White "Ponomariov,R"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2752"]
+[EventDate "2010.06.14"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O dxc4 8.
+Bxc4 Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11. Rd1 e5 12. d5 e4 13. Nxe4 Nxe4 14.
+Qxe4 Nb6 15. Rb1 Re8 16. Qc2 cxd5 17. Bb5 Re6 18. Qb3 Qh4 19. Bd2 d4 20.
+Bf1 Rd8 21. g3 Qe7 22. Bg2 Qe8 23. exd4 Bxd4 24. Bc3 Bxc3 25. Rxd8 Qxd8 26.
+Qxc3 Qe7 27. Rd1 h5 28. b3 h4 29. g4 Rd6 30. Rxd6 Qxd6 31. Bxb7 Nd7 32.
+Qc8+ Kg7 33. Qd8 Qe6 34. Kg2 Ne5 35. Qd4 Qf6 36. b4 g5 37. a4 Ng6 38. Qxf6+
+Kxf6 39. b5 Nf4+ 40. Kf3 Ke5 41. a5 Kd6 42. Ke4 Nxh3 43. Kf5 Nxf2 44. Bf3
+Kc7 45. Kxg5 h3 46. Kf6 h2 47. g5 h1=Q 48. Bxh1 Nxh1 49. Kxf7 Ng3 50. g6
+Nh5 51. Ke7 Ng7 52. Kf6 Nh5+ 53. Kg5 Ng7 54. Kf6 Nh5+ 55. Kf7 Kd7 56. Kf8
+Kc7 57. Kg8 Nf4 58. g7 Ne6 59. Kf7 Nxg7 60. Kxg7 Kd6 61. Kf6 Kc5 62. b6
+axb6 63. axb6 Kxb6 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.21"]
+[Round "7"]
+[White "Nisipeanu,LD"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2672"]
+[BlackElo "2741"]
+[EventDate "2010.06.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+O-O 8. Qd2 Nd7 9. O-O-O Ne5 10. h4 c6 11. h5 h6 12. Kb1 Ng4 13. Bf4 d5 14.
+Bd3 Bd6 15. g3 Re8 16. Rde1 Rxe1+ 17. Rxe1 Bxf4 18. Qxf4 Nxf2 19. Ne5 Qf6
+20. Nxc6 Ne4 21. Bxe4 Qxf4 22. Ne7+ Kf8 23. gxf4 dxe4 24. Nxc8 Rxc8 25.
+Rxe4 Rc5 26. b4 Rxh5 27. Kb2 Rf5 28. Rc4 g5 29. fxg5 hxg5 30. Rg4 Kg7 31.
+c4 Kg6 32. c5 Kh5 33. Rg1 g4 34. Kc3 Kh4 35. a3 Rd5 36. Kc4 Rd2 37. c3 f5
+38. b5 f4 39. c6 bxc6 40. bxc6 Rd8 0-1
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.22"]
+[Round "8"]
+[White "Gelfand,B"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2813"]
+[EventDate "2010.06.14"]
+[ECO "D31"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Bf4 Nf6 5. e3 O-O 6. Nf3 Nbd7 7. c5 c6 8.
+Bd3 b6 9. b4 a5 10. b5 Bb7 11. cxb6 Qxb6 12. O-O Rfc8 13. bxc6 Bxc6 14. Rb1
+Qd8 15. Qe2 Ne4 16. Rfc1 Ndf6 17. Ba6 Ba3 18. Rc2 Rxa6 19. Qxa6 Ba4 20.
+Nxa4 Rxc2 21. h3 Bf8 22. Nc5 h6 23. Qa7 Bxc5 24. dxc5 Rxc5 25. Rb8 Rc8 26.
+Bc7 Qe8 27. Rxc8 Qxc8 28. Bxa5 Qc1+ 29. Be1 Nd2 30. Nxd2 Qxe1+ 31. Nf1 Ne4
+32. Qb8+ Kh7 33. Qb2 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.22"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2733"]
+[EventDate "2010.06.14"]
+[ECO "C55"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Bb3 d5 7. exd5 Nxd5
+8. h3 a5 9. a3 Nd4 10. Nxd4 exd4 11. Re1 Ra6 12. Qf3 Re6 13. Rxe6 Bxe6 14.
+Nd2 c6 15. Ne4 a4 16. Bc4 b5 17. Ba2 Nc7 18. Bxe6 Nxe6 19. Ng3 Qd5 20. Qxd5
+cxd5 21. Bd2 Rc8 22. Rc1 g6 23. Ne2 f5 24. g3 Kf7 25. h4 Bf8 26. Kg2 h6 27.
+f4 Bg7 28. Ng1 Bf6 29. Nf3 Ke7 30. Kf2 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.22"]
+[Round "8"]
+[White "Wang Yue"]
+[Black "Nisipeanu,LD"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2672"]
+[EventDate "2010.06.14"]
+[ECO "E67"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8.
+b3 Re8 9. d5 Nc5 10. b4 Nce4 11. Nxe4 Nxe4 12. Bb2 a5 13. a3 Bd7 14. Nd2
+Nxd2 15. Qxd2 axb4 16. axb4 Qe7 17. e3 f5 18. Rfc1 e4 19. Bf1 Bxb2 20. Qxb2
+Qg7 21. Qb1 Rxa1 22. Qxa1 Qxa1 23. Rxa1 Kf8 24. Ra7 Rb8 25. f3 exf3 26. Kf2
+c6 27. Kxf3 cxd5 28. cxd5 Ke7 29. h4 h6 30. b5 Kf6 31. b6 Ke5 32. Bc4 g5
+33. hxg5 hxg5 34. Ke2 Be8 35. Kf3 Bh5+ 36. Kf2 Bd1 37. Ke1 Bf3 38. Kd2 Bg2
+39. Bb3 Bf3 40. Bc4 Bg2 41. Bb3 Ke4 42. Ke2 Bf3+ 43. Kf2 g4 44. Ra4+ Kd3
+45. Rd4+ Kc3 46. Bd1 Bxd1 47. Rxd1 Kc4 48. Rd4+ Kc5 49. Rf4 Kxb6 50. Rxf5
+Kc5 51. Ke2 b5 52. Kd2 Ra8 53. Rf4 Ra4 54. e4 Ra2+ 55. Kc1 Kc4 56. Rxg4 Kc3
+57. Kd1 Rd2+ 58. Ke1 b4 59. Rg6 b3 60. Rxd6 b2 61. Rb6 Rd4 62. Rxb2 Kxb2
+63. Ke2 Kc3 64. Ke3 Rd1 65. g4 Rf1 66. d6 Kc4 0-1
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.24"]
+[Round "9"]
+[White "Carlsen,M"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2672"]
+[EventDate "2010.06.14"]
+[ECO "C63"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qg5 8. Qe2 Nf6 9. f4 Qxf4 10. Ne5+ c6 11. d4 Qh4+ 12. g3 Qh3 13. Bc4 Be6
+14. Bg5 O-O-O 15. O-O-O Bd6 16. Rhf1 Rhe8 17. Bxf6 gxf6 18. Rxf6 Bxe5 19.
+Rxe6 Rxe6 20. Bxe6+ Qxe6 21. dxe5 Qh6+ 22. Rd2 Rxd2 23. Qxd2 e3 24. Qe2 Qg5
+25. Kd1 Kc7 26. Qd3 Qh5+ 27. Kc1 Qh6 28. Kd1 Qh5+ 29. Ke1 Qxh2 30. Qd6+ Kc8
+31. Qf8+ Kc7 32. Qe7+ Kc8 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.24"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2741"]
+[EventDate "2010.06.14"]
+[ECO "B10"]
+
+1. c4 c6 2. e4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Bb5+ Nbd7 6. Nc3 a6 7. Be2 b5
+8. d4 b4 9. Na4 Bb7 10. Nf3 Bxd5 11. Bf4 e6 12. Rc1 Be7 13. O-O O-O 14. b3
+Ra7 15. Ne5 Qa8 16. f3 Qd8 17. Bd3 Ba8 18. Qe2 a5 19. Nc6 Bxc6 20. Rxc6 Nd5
+21. Bg3 N7b6 22. Nxb6 Nxb6 23. f4 g6 24. Bf2 Nd5 25. Qf3 Rd7 26. Bb5 Rd6
+27. g4 Qb8 28. Ba4 f5 29. g5 Nc3 30. Re1 Ne4 31. Be3 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.24"]
+[Round "9"]
+[White "Radjabov,T"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2752"]
+[EventDate "2010.06.14"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+Bf4 dxc4 15. Bxc4 Bd6 16. Rxe8+ Qxe8 17. Ng5 Bg6 18. Bxd6 cxd6 19. h4 Qe7
+20. Qg4 h6 21. h5 Bxh5 22. Qxh5 hxg5 23. Rd1 Rf8 24. Rd3 Qe1+ 25. Kh2 Qxf2
+26. Qxg5 Qf6 27. Qxf6 gxf6 28. Rg3+ Kh8 29. Rh3+ Kg7 30. Rg3+ Kh8 31. Rh3+
+Kg7 32. Rg3+ 1/2-1/2
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.25"]
+[Round "10"]
+[White "Nisipeanu,LD"]
+[Black "Ponomariov,R"]
+[Result "0-1"]
+[WhiteElo "2672"]
+[BlackElo "2733"]
+[EventDate "2010.06.14"]
+[ECO "C49"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8.
+Nh4 c6 9. Bc4 d5 10. Bxf6 gxf6 11. Bb3 a5 12. a3 Bxc3 13. bxc3 a4 14. Ba2
+Ng6 15. Qh5 Kh8 16. Kh1 Rg8 17. d4 f5 18. Nxf5 Nf4 19. Qh6 Rg6 20. Qh4 Bxf5
+21. Qxd8+ Rxd8 22. exf5 Rxg2 23. dxe5 Rdg8 0-1
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.25"]
+[Round "10"]
+[White "Gelfand,B"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2741"]
+[BlackElo "2740"]
+[EventDate "2010.06.14"]
+[ECO "E91"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Na6 7. O-O e5 8.
+Be3 Ng4 9. Bg5 Qe8 10. Re1 exd4 11. Nd5 f6 12. Bf4 d3 13. Qxd3 Ne5 14. Qd2
+Qf7 15. Rad1 Nc5 16. Qc2 c6 17. Nc3 f5 18. Bxe5 dxe5 19. b4 Ne6 20. c5 Nd4
+21. Nxd4 exd4 22. Nb1 Be6 23. exf5 Bxf5 24. Bd3 a5 25. b5 cxb5 26. Na3 Bxd3
+27. Rxd3 Rac8 28. Rf1 Qd5 29. Qd2 b4 30. Nb5 Rxc5 0-1
+
+[Event "4th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2010.06.25"]
+[Round "10"]
+[White "Wang Yue"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2813"]
+[EventDate "2010.06.14"]
+[ECO "D85"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O
+8. Bb5 Be6 9. Nge2 c6 10. Bd3 Nc4 11. Bxc4 Bxc4 12. O-O Nd7 13. Qd2 Qa5 14.
+Rfd1 Rad8 15. Bh6 Bxe2 16. Nxe2 Qxd2 17. Bxd2 Nb6 18. Bc3 Rd7 19. b3 f5 20.
+f3 Rfd8 21. Re1 fxe4 22. fxe4 e5 23. dxe5 Rd3 24. g3 Nd7 25. e6 Bxc3 26.
+Nxc3 Ne5 27. Red1 Kf8 28. Rac1 Ke7 29. Rxd3 Rxd3 30. Rc2 Nf3+ 31. Kf1 Nd4
+32. Rc1 Kxe6 33. Rd1 Rxc3 34. Rxd4 Rc2 35. a4 Rxh2 36. a5 Rh5 37. b4 Rh2
+38. a6 b5 39. e5 Ra2 40. Rd6+ Kxe5 41. Rxc6 Kf5 42. Rc7 Rxa6 43. Rxh7 Kg4
+44. Kf2 Ra2+ 45. Ke3 g5 46. Rg7 Rb2 47. Rxa7 Kxg3 0-1
+

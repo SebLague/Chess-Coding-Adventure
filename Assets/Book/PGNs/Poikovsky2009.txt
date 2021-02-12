@@ -1,0 +1,913 @@
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.03"]
+[Round "1"]
+[White "Inarkiev,E"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2676"]
+[BlackElo "2745"]
+[EventDate "2009.06.03"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8.
+a4 Rb8 9. d4 Bb6 10. Na3 Bg4 11. axb5 axb5 12. Nxb5 O-O 13. Bc2 Bxf3 14.
+gxf3 Nh5 15. f4 Nxf4 16. Bxf4 exf4 17. Qg4 Qf6 18. b4 g6 19. Kh1 Nd8 20.
+Bb3 c6 21. Na3 c5 22. Nc4 cxb4 23. Ra6 Bc7 24. Nxd6 bxc3 25. e5 Qg7 26. Nf5
+gxf5 27. Qd1 Kh8 28. Rg1 Bxe5 29. dxe5 Qxe5 30. Rh6 f3 31. Qf1 Qg7 32. Rxg7
+Kxg7 33. Rxh7+ 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.03"]
+[Round "1"]
+[White "Motylev,A"]
+[Black "Rublevsky,S"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2702"]
+[EventDate "2009.06.03"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Qg4 g6 12. b3 c5 13. Bh6 Qa5 14. Na4
+c4 15. Bf1 Bb7 16. Qh3 Bc6 17. Nc3 Bb4 18. a3 Bxc3 19. b4 Bxb4 20. axb4
+Qxb4 21. Reb1 Qc5 22. Bg7 Rg8 23. Qxh7 O-O-O 24. Rxa6 Kc7 25. Rba1 Qd4 26.
+Ra7+ Bb7 27. c3 Qe4 28. Bf6 Nxf6 29. exf6 Rgf8 30. Qh6 g5 31. Qxg5 Rg8 32.
+f3 Rxg5 33. fxe4 Kb8 34. exd5 exd5 35. R7a2 Rg6 36. Re1 Rxf6 37. Re7 Bc8
+38. Rb2+ Ka8 39. Rd2 Rdd6 40. Re5 Bb7 41. Re7 Rb6 42. Re8+ Ka7 43. Ra2+ Ra6
+44. Ree2 Rxa2 45. Rxa2+ Ra6 46. Rf2 Ra1 47. Rf4 Rc1 48. h4 Rxc3 49. h5 Re3
+50. h6 Re8 51. Rxf7 Rh8 52. Rf6 Bc8 53. Be2 Kb7 54. Bf3 Rd8 55. h7 c3 56.
+Bxd5+ Kc7 57. Rc6+ Kd7 58. Bg8 Kxc6 59. h8=Q c2 60. Qc3+ Kb7 61. Qxc2 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.03"]
+[Round "1"]
+[White "Naiditsch,A"]
+[Black "Onischuk,Al"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2684"]
+[EventDate "2009.06.03"]
+[ECO "C79"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. Bxc6+ bxc6 7. d4 exd4
+8. Nxd4 c5 9. Nc6 Qd7 10. Na5 Qb5 11. Bd2 Bg4 12. f3 Be6 13. c4 Qb6 14. Bc3
+Be7 15. Nd2 O-O 16. f4 Ng4 17. f5 Ne3 18. Qh5 Nxf1 19. Rxf1 Bd7 20. f6 Bxf6
+21. Rxf6 Rae8 22. Qg5 Re7 23. Re6 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.03"]
+[Round "1"]
+[White "Gashimov,V"]
+[Black "Bologan,V"]
+[Result "1-0"]
+[WhiteElo "2730"]
+[BlackElo "2690"]
+[EventDate "2009.06.03"]
+[ECO "C41"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8.
+Re1 a5 9. h3 exd4 10. Nxd4 Nc5 11. Bf4 Ne8 12. Be3 Nxe4 13. Nxe4 d5 14. Ng3
+dxc4 15. Ndf5 Be6 16. Nxe7+ Qxe7 17. Ne4 Qd8 18. Bc5 Nf6 19. Bxf8 Qxf8 20.
+Nxf6+ gxf6 21. Qd4 Qd8 22. Qf4 f5 23. Qg3+ Kf8 24. Qe5 Qg5 25. Re3 Qg7 26.
+Qd6+ Ke8 27. Rae1 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.03"]
+[Round "1"]
+[White "Sutovsky,E"]
+[Black "Efimenko,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2682"]
+[EventDate "2009.06.03"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 a5 11. Ne2 a4 12. Rd1 h6 13. g4 Ne7 14.
+Ng3 c5 15. Nh5 Nc6 16. Nh4 a3 17. b3 Nd4 18. c3 Ne2+ 19. Kh2 Nxc3 20. Rd3
+Ne2 21. Be3 Be6 22. Rad1 c4 23. bxc4 Bxc4 24. R3d2 b5 25. Nf5 Rh7 26. g5
+hxg5 27. Bxg5 f6 28. exf6 Rxh5 29. fxg7 Kf7 30. gxf8=Q+ 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.04"]
+[Round "2"]
+[White "Shirov,A"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteElo "2745"]
+[BlackElo "2700"]
+[EventDate "2009.06.03"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 Nd5 8.
+e4 Nf6 9. a4 Bb7 10. axb5 axb5 11. Rxa8 Bxa8 12. Nc3 c6 13. Nxf7 Kxf7 14.
+e5 Nd5 15. Ne4 Be7 16. Qf3+ Ke8 17. Qg4 Kd7 18. Qxg7 Qg8 19. Nc5+ Ke8 20.
+Nxe6 Qxg7 21. Nxg7+ Kf7 22. Nf5 Na6 23. Bxd5+ cxd5 24. Nxe7 Kxe7 25. f4 Nb4
+26. f5 h6 27. g4 Nc2 28. Rd1 Bb7 29. Kf2 b4 30. e6 b3 31. Kg3 c3 32. bxc3
+Rc8 33. Bxh6 Rxc3+ 34. Kh4 Bc8 35. Bc1 Ne3 36. Rg1 Kf6 37. g5+ Kxf5 38. e7
+Bd7 39. g6 Kf6 40. Kh5 Be8 41. Bxe3 Rxe3 42. h4 Re4 43. Rf1+ Kg7 44. Kg5
+Bxg6 45. h5 Be8 46. Rf3 b2 47. Rb3 Re2 48. Rb7 Rh2 49. Kf5 Kf7 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.04"]
+[Round "2"]
+[White "Rublevsky,S"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2702"]
+[BlackElo "2730"]
+[EventDate "2009.06.03"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
+Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Nxc3 13. Qxc3 Bh6+
+14. Be3 Bxe3+ 15. Qxe3 Qb6 16. Qxe7 Be6 17. Qa3 Rad8 18. Bd3 Rd5 19. b3
+Rfd8 20. Rde1 c5 21. Bc4 Rd2 22. Bxe6 fxe6 23. Rd1 Rxd1+ 24. Rxd1 Rxd1+ 25.
+Kxd1 c4 26. Qe7 Qg1+ 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.04"]
+[Round "2"]
+[White "Onischuk,Al"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2677"]
+[EventDate "2009.06.03"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 a6 6. c5 b6 7. cxb6 Nbd7 8.
+Bd3 c5 9. b3 cxd4 10. exd4 Qxb6 11. O-O Be7 12. Bb2 O-O 13. Rc1 Bb7 14. Qe2
+Rfc8 15. Rc2 Qd8 16. Rfc1 h6 17. Na4 Rxc2 18. Rxc2 Rc8 19. Ne1 Rxc2 20.
+Nxc2 a5 21. Na3 Qb8 22. Nb5 Bc6 23. Nac3 Qb6 24. a4 Bxb5 25. Nxb5 Nb8 26.
+Qc2 Nc6 27. Bc1 Ne8 28. Be3 Nd6 29. Nxd6 Bxd6 30. Qc3 Bb4 31. Qb2 Be7 32.
+Bb5 Na7 33. Qe2 Bf6 34. Qd3 h5 35. g3 g6 36. Kg2 Kf8 37. h3 Nxb5 38. axb5
+Ke8 39. f3 Bg7 40. g4 f5 41. Bf2 Kf7 42. Bg1 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.04"]
+[Round "2"]
+[White "Sutovsky,E"]
+[Black "Inarkiev,E"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2676"]
+[EventDate "2009.06.03"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Nxd4 11. cxd5 Bxf3 12. gxf3 c5 13. d6 Qxd6 14.
+Nb5 Qd7 15. Nxd4 cxd4 16. Qe2 Kf8 17. Bb5 Qd8 18. Qd3 h5 19. Bg5 Qd5 20. f4
+Bd8 21. Qa3+ Kg8 22. Re5 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.04"]
+[Round "2"]
+[White "Efimenko,Z"]
+[Black "Bologan,V"]
+[Result "0-1"]
+[WhiteElo "2682"]
+[BlackElo "2690"]
+[EventDate "2009.06.03"]
+[ECO "C41"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8.
+a4 a5 9. h3 Nb6 10. Bf1 exd4 11. Nxd4 d5 12. e5 Ne8 13. Nce2 g6 14. Bh6 Ng7
+15. Ng3 Bg5 16. Bxg5 Qxg5 17. Nf3 Qf4 18. Ne2 Qh6 19. Ned4 Be6 20. c3 Nd7
+21. b4 Rfe8 22. Qb3 axb4 23. cxb4 Nf5 24. a5 Qf4 25. Qc3 Nxd4 26. Qxd4 Qh6
+27. Bd3 Rec8 28. a6 b6 29. Qe3 Qxe3 30. Rxe3 c5 31. b5 h6 32. Ree1 Ra7 33.
+Bc2 Nf8 34. Red1 Re8 35. Nd2 Bd7 36. Ba4 Ne6 37. Nb1 Nf4 38. Nc3 d4 39. Ne4
+Rxe5 40. Nd6 Re6 41. Nc4 Ne2+ 42. Kf1 Nc3 43. Rdb1 Nxb1 44. Rxb1 Kf8 45. f4
+Ke7 46. Kf2 Kd8 47. Ne5 f6 48. Nc4 Kc7 49. Bd1 Re4 50. Bc2 Rxf4+ 51. Ke2
+Be6 52. Na5 Bd5 53. Bxg6 Bxg2 54. Nc4 Bxh3 55. Rh1 Be6 56. Bd3 Bxc4 57.
+Bxc4 Kd6 58. Rxh6 Re7+ 59. Kd1 d3 60. Bxd3 c4 61. Bg6 Kc5 62. Rh5+ Kb4 63.
+Rd5 Rf1+ 64. Kd2 c3+ 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.05"]
+[Round "3"]
+[White "Motylev,A"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2745"]
+[EventDate "2009.06.03"]
+[ECO "C48"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Bc4 d6 6. Nxd4 exd4 7. Nd5 Nd7
+8. O-O g6 9. c3 Bg7 10. cxd4 Bxd4 11. d3 c6 12. Ne3 O-O 13. Kh1 Nc5 14. f4
+d5 15. exd5 cxd5 16. Bb3 Re8 17. Qf3 Nxd3 18. f5 Kh8 19. fxg6 fxg6 20. Qd1
+Bxe3 21. Qxd3 d4 22. Bxe3 Rxe3 23. Rf8+ Kg7 24. Rg8+ 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.05"]
+[Round "3"]
+[White "Gashimov,V"]
+[Black "Onischuk,Al"]
+[Result "1-0"]
+[WhiteElo "2730"]
+[BlackElo "2684"]
+[EventDate "2009.06.03"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. Ne4 Ng6 11. b3 Ke8 12. Bb2 Bf5 13. Rfe1
+Nf4 14. g3 Ne6 15. Nh4 Bg4 16. f3 Bh5 17. f4 Rd8 18. f5 Nc5 19. Nf2 Rd2 20.
+Rac1 g5 21. Ng2 Bf3 22. Bc3 Re2 23. Rxe2 Bxe2 24. Re1 Bf3 25. Re3 g4 26.
+Nh4 Bh6 27. Re1 Rg8 28. Nxf3 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.05"]
+[Round "3"]
+[White "Inarkiev,E"]
+[Black "Efimenko,Z"]
+[Result "1-0"]
+[WhiteElo "2676"]
+[BlackElo "2682"]
+[EventDate "2009.06.03"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Be6 7. Ng5 Qd6
+8. Nd2 O-O-O 9. Nb3 Bb6 10. Qe2 Nd7 11. Nxe6 Qxe6 12. a4 a6 13. a5 Ba7 14.
+Be3 Kb8 15. O-O f6 16. f4 Rhe8 17. Bxa7+ Kxa7 18. Nd2 exf4 19. Rxf4 Ne5 20.
+Qe3+ Kb8 21. b4 Qd6 22. Rb1 Qd4 23. Qxd4 Rxd4 24. Rff1 Nd7 25. Rf5 g6 26.
+Rf3 Rd6 27. Rbf1 b6 28. g4 Rde6 29. d4 Ka7 30. Ra1 Kb7 31. Kg2 g5 32. Raf1
+h5 33. gxh5 Rh8 34. axb6 cxb6 35. c4 Rxh5 36. c5 a5 37. bxa5 bxc5 38. a6+
+Ka8 39. e5 cxd4 40. exf6 Rh8 41. f7 Rf8 42. Rf5 Re7 43. Nc4 d3 44. R1f3 Ka7
+45. Kg3 c5 46. Rxd3 Rfxf7 47. Nd6 Rxf5 48. Nc8+ Kxa6 49. Nxe7 Rf7 50. Rxd7
+c4 51. Rd6+ Kb5 52. Nd5 Rf1 53. Nc3+ Kb4 54. Rd1 Rf8 55. Ne4 Kb3 56. Rc1
+Rd8 57. Rc3+ Kb4 58. Re3 Re8 59. Kg4 Re5 60. Nc3 Ra5 61. Kh5 Kb3 62. Kg6
+Kb4 63. Kf6 Kb3 64. Ne4+ Kb4 65. Rg3 Rd5 66. Rxg5 Rd3 67. Rg3 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.05"]
+[Round "3"]
+[White "Bologan,V"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2702"]
+[EventDate "2009.06.03"]
+[ECO "B43"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. f4 b5 8.
+e5 b4 9. Na4 Nd5 10. Be4 Bb7 11. O-O g6 12. c4 Qxc4 13. b3 Qc7 14. Qf3 Nc6
+15. Bb2 Rc8 16. Rad1 Nc3 17. Bxc3 bxc3 18. Nxc6 Bxc6 19. Nxc3 d5 20. exd6
+Bxd6 21. Qd3 Bb4 22. Bxc6+ Qxc6 23. Ne4 Be7 24. Nd6+ Bxd6 25. Qxd6 Qxd6 26.
+Rxd6 O-O 27. Rxa6 Rfd8 28. g3 h5 29. Rf2 h4 30. gxh4 Kg7 31. Ra5 Kh6 32.
+Kg2 Rd1 33. Re5 Rb1 34. h5 gxh5 35. f5 Rg8+ 36. Kf3 Rg5 37. h4 Rxf5+ 38.
+Rxf5 exf5 39. Ke3 Kg6 40. Rf4 Kf6 41. Rb4 Re1+ 42. Kf3 Rf1+ 43. Ke2 Ra1 44.
+a4 Ke5 45. Ke3 Re1+ 46. Kd2 Ra1 47. Rc4 f4 48. Rc1 Ra2+ 49. Rc2 Ra1 50. Rc1
+Ra2+ 51. Rc2 Ra1 52. Rc1 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.05"]
+[Round "3"]
+[White "Naiditsch,A"]
+[Black "Sutovsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2660"]
+[EventDate "2009.06.03"]
+[ECO "B13"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Bxf6 gxf6
+8. c5 h5 9. Bb5 Bh6 10. Nge2 Rg8 11. g3 Qd7 12. f4 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.06"]
+[Round "4"]
+[White "Sutovsky,E"]
+[Black "Motylev,A"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2677"]
+[EventDate "2009.06.03"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Nc6 6. O-O Bg4 7. h3 Bxf3
+8. gxf3 Nc5 9. f4 Qh4 10. Nc3 O-O-O 11. Bf5+ Kb8 12. Qg4 Nd4 13. Rd1 h5 14.
+Qxh4 Nf3+ 15. Kf1 Nxh4 16. Bd3 Be7 17. Ne2 g6 18. Be3 Nxd3 19. Rxd3 c5 20.
+Rad1 d4 21. Bc1 Nf5 22. Ng3 Kc7 23. Nxf5 gxf5 24. Rg3 Rhg8 25. Rdd3 Kc6 26.
+c3 Rxg3 27. Rxg3 Bh4 28. Rd3 c4 29. Rxd4 Rxd4 30. cxd4 Kd5 31. Ke2 Bd8 32.
+Kd1 Bb6 33. Kc2 Kxd4 34. a4 Ke4 35. Kc3 Bxf2 36. Kxc4 Be3 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.06"]
+[Round "4"]
+[White "Shirov,A"]
+[Black "Gashimov,V"]
+[Result "0-1"]
+[WhiteElo "2745"]
+[BlackElo "2730"]
+[EventDate "2009.06.03"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Nc3 Bf5 9. Re1 Nxc3 10. bxc3 Bxd3 11. Qxd3 O-O 12. c4 Bf6 13. Ba3 dxc4
+14. Qxc4 Re8 15. Rxe8+ Qxe8 16. Re1 Qd7 17. c3 h6 18. h3 Na5 19. Qd3 Rd8
+20. Nd2 Qa4 21. Bc1 Re8 22. Ne4 Bd8 23. Re3 b6 24. Rg3 Re6 25. Kh2 Qxa2 26.
+d5 Rg6 27. Rxg6 fxg6 28. Qd4 c6 29. dxc6 Bc7+ 30. g3 Qe6 31. Qd7 Qxd7 32.
+cxd7 Kf7 33. Nd6+ Ke7 34. Nc8+ Kxd7 35. Nxa7 Be5 36. Kg2 Bxc3 37. Be3 Nc4
+38. Kf3 Be5 39. Ke4 Bb8 40. Nb5 Nxe3 41. Kxe3 Kc6 42. Nd4+ Kd5 43. Kd3 Be5
+44. Nc2 Kc5 45. f4 Bf6 46. g4 b5 47. Ne1 b4 48. Nf3 g5 49. fxg5 Bxg5 50. h4
+Be7 51. Nd4 Kd5 52. Nf5 Bf8 53. g5 hxg5 54. hxg5 Ke5 55. Nd4 Bc5 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.06"]
+[Round "4"]
+[White "Inarkiev,E"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2676"]
+[BlackElo "2700"]
+[EventDate "2009.06.03"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O b5 7. Ne5 Nd5 8.
+a4 Bb7 9. b3 c3 10. e4 Nf6 11. Nxc3 b4 12. Na2 Nbd7 13. Bf4 Nxe5 14. Bxe5
+Nxe4 15. Rc1 Rc8 16. Qe1 f5 17. Nxb4 c5 18. Nd3 cxd4 19. Rxc8 Qxc8 20. Bxd4
+Qd7 21. Qa1 Bd6 22. Bxg7 Rg8 23. Bh6 Bxg3 24. hxg3 Qxd3 25. Qe5 Qd5 26. Qc7
+Qd7 27. Rc1 Qxc7 28. Rxc7 Bd5 29. b4 Nf6 30. Bf1 Rg6 31. Bf4 Ng4 32. Bxa6
+e5 33. Bb5+ Kf8 34. Bd2 f4 35. Rxh7 Bf3 36. Kf1 Nf6 37. Rh3 Ne4 38. Be1 Rd6
+39. gxf4 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.06"]
+[Round "4"]
+[White "Onischuk,Al"]
+[Black "Bologan,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2690"]
+[EventDate "2009.06.03"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. Nd5 Nxd5 11. cxd5 c6 12. Bc4 cxd5 13. Bxd5 Nd7 14.
+Nd2 Nc5 15. O-O-O Be6 16. Bxe6 Nxe6 17. Be3 Bf8 18. Kb1 Bc5 19. Bxc5 Nxc5
+20. f3 Nd3 21. Rhf1 Rac8 22. Nc4 Rxc4 23. Rxd3 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.06"]
+[Round "4"]
+[White "Efimenko,Z"]
+[Black "Rublevsky,S"]
+[Result "1-0"]
+[WhiteElo "2682"]
+[BlackElo "2702"]
+[EventDate "2009.06.03"]
+[ECO "B45"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 d6 6. g3 Nf6 7. Bg2 Bd7 8.
+O-O Be7 9. a4 O-O 10. Nb3 Rc8 11. f4 Na5 12. Nxa5 Qxa5 13. Kh1 Bc6 14. Bd2
+Qa6 15. Qe1 b6 16. Qe3 Rfd8 17. Qd3 Qb7 18. b4 Qa8 19. b5 Bb7 20. Qe2 Rc7
+21. a5 bxa5 22. Rxa5 Qb8 23. Rfa1 Rdc8 24. Qe3 d5 25. Qxa7 d4 26. Qxd4 Bc5
+27. Qa4 Bb6 28. Ra6 Nd7 29. Rxb6 Nxb6 30. Qd4 Rd7 31. Qf2 Qc7 32. Be1 h6
+33. h3 Qd8 34. Kh2 Nc4 35. Na4 Rd1 36. Rxd1 Qxd1 37. Nc5 Ba8 38. Bc3 Qd6
+39. Bd4 Qb8 40. Qe2 Qxb5 41. Qg4 g6 42. Qh4 Qe8 43. Qxh6 e5 44. fxe5 Nxe5
+45. Nd7 Qxd7 46. Bxe5 f6 47. Bxf6 Qh7 48. Qd2 Qf7 49. Bb2 Qe6 50. h4 Qe7
+51. Qd3 Re8 52. Qd4 Kh7 53. c4 Rd8 54. Qc3 g5 55. Qa5 gxh4 56. Qf5+ Kg8 57.
+Bf6 hxg3+ 58. Kh3 Qd7 59. Bxd8 Qxd8 60. c5 Qc7 61. Qg6+ Kf8 62. Qd6+ Qxd6
+63. cxd6 Kf7 64. e5 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.07"]
+[Round "5"]
+[White "Gashimov,V"]
+[Black "Sutovsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2660"]
+[EventDate "2009.06.03"]
+[ECO "C80"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Be7 10. c3 O-O 11. Bc2 f5 12. Nb3 Qd7 13. Nbd4 Nxd4 14.
+Nxd4 c5 15. Nxe6 Qxe6 16. f3 Ng5 17. a4 Rad8 18. axb5 axb5 19. Ra7 Rd7 20.
+Rxd7 Qxd7 21. Be3 Ne6 22. f4 g6 23. g3 Rd8 24. Bf2 d4 25. cxd4 Nxd4 26.
+Bxd4 Qxd4+ 27. Qxd4 Rxd4 28. Rd1 c4 29. Rxd4 Bc5 30. b3 Bxd4+ 31. Kg2 cxb3
+32. Bxb3+ 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.07"]
+[Round "5"]
+[White "Bologan,V"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2745"]
+[EventDate "2009.06.03"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+Bf4 dxc4 15. Bxc4 Bd6 16. Rxe8+ Qxe8 17. Bxd6 cxd6 18. Ng5 Bg6 19. h4 Qe7
+20. Qg4 h6 21. Nh3 Qe4 22. Qd7 Na5 23. Ba2 Qc6 24. Qxc6 Nxc6 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.07"]
+[Round "5"]
+[White "Motylev,A"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2676"]
+[EventDate "2009.06.03"]
+[ECO "B01"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Nb5 Qb6 7. c4 c6 8.
+Nc3 Bg4 9. Be2 Bg7 10. O-O O-O 11. h3 Bxf3 12. Bxf3 Nbd7 13. Re1 Rfe8 14.
+d5 Rad8 15. Qb3 cxd5 16. cxd5 a6 17. Bg5 Qxb3 18. axb3 h6 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.07"]
+[Round "5"]
+[White "Rublevsky,S"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2702"]
+[BlackElo "2684"]
+[EventDate "2009.06.03"]
+[ECO "C48"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Bc4 Bc5 6. Nxe5 Qe7 7. Nf3 d5
+8. Bxd5 Bg4 9. d3 Nd7 10. h3 Bxf3 11. gxf3 c6 12. f4 Qh4 13. Na4 cxd5 14.
+Nxc5 Nxc5 15. Be3 dxe4 16. Bxd4 Ne6 17. Be3 Nxf4 18. Qg4 Qxg4 19. hxg4 Ng2+
+20. Kd2 exd3 21. cxd3 O-O 22. Rh5 g6 23. Rc5 Nxe3 24. fxe3 f5 25. gxf5 Rxf5
+26. Rxf5 gxf5 27. Rc1 Rf8 28. Ke2 Kg7 29. Kf3 Kf6 30. Rh1 Kg6 31. Kf4 Rd8
+32. d4 Re8 33. Rc1 Re4+ 34. Kf3 Re7 35. Rc8 h5 36. Rg8+ Kf6 37. Rh8 Kg5 38.
+d5 h4 39. Rd8 Kf6 40. Rh8 Kg5 41. Rd8 Rh7 42. d6 h3 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.07"]
+[Round "5"]
+[White "Naiditsch,A"]
+[Black "Efimenko,Z"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2682"]
+[EventDate "2009.06.03"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. N3h2
+Nc5 15. Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6 18. Bg5 Qc7 19. Bxf6 Nxf6 20. Ng4
+Nxg4 21. hxg4 a5 22. Ne3 Qb7 23. g5 axb4 24. cxb4 Ra3 25. Rc1 Rxa2 26. Bb3
+Rb2 27. Bd5 Bxd5 28. Nxd5 Rc8 29. Re3 Rxc1 30. Qxc1 Ra2 31. Qd1 Qa7 32. Qf3
+Qd4 33. Rc3 Qd2 34. Re3 Ra1+ 35. Kh2 Ra2 36. Qg4 Qxf2 37. Nf6+ Kh8 38. Rf3
+Qc2 39. Nxh7 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.09"]
+[Round "6"]
+[White "Sutovsky,E"]
+[Black "Bologan,V"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2690"]
+[EventDate "2009.06.03"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Be7 6. O-O O-O 7. c4 Nc6
+8. Bc2 Nb4 9. cxd5 Nxc2 10. Qxc2 Qxd5 11. Re1 Nc5 12. Bg5 Qd8 13. Bxe7 Qxe7
+14. Nc3 Rd8 15. Rad1 Rxd1 16. Rxd1 Be6 17. Qd2 Nd7 18. h3 h6 19. Qe3 Nb6
+20. b3 Rd8 21. Rxd8+ Qxd8 22. Nd4 Bc8 23. Qe4 c5 24. Nf3 a6 25. Qe3 c4 26.
+Ne4 cxb3 27. axb3 Be6 28. Nd4 Nd5 29. Qg3 Qc7 30. Nd6 b5 31. Ne8 Qc1+ 32.
+Kh2 Qg5 33. h4 Qxg3+ 34. Kxg3 Bd7 35. Nd6 g6 36. Nb7 Kf8 37. Nc5 Bc8 38.
+Nc6 Nc7 39. b4 Ke8 40. h5 gxh5 41. Kh4 Ne6 42. Nxe6 Bxe6 43. f3 Bd5 44. Nd4
+Ke7 45. Kxh5 a5 46. bxa5 b4 47. a6 f6 48. Nf5+ Ke6 49. Ne3 Bc6 50. Nc2 fxe5
+51. Nxb4 Ba8 52. Kxh6 Kd6 53. g4 Bxf3 54. g5 e4 55. g6 e3 56. g7 Bd5 57. a7
+1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.09"]
+[Round "6"]
+[White "Efimenko,Z"]
+[Black "Onischuk,Al"]
+[Result "0-1"]
+[WhiteElo "2682"]
+[BlackElo "2684"]
+[EventDate "2009.06.03"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
+Re1 b5 9. Bc2 d5 10. Nbd2 d4 11. cxd4 exd4 12. a3 Nd7 13. Nf1 Nde5 14. Nxe5
+Nxe5 15. f4 Ng6 16. Ng3 c5 17. Nf5 Bxf5 18. exf5 Nh4 19. Qg4 Qd7 20. Bd2
+Bf6 21. Bb3 Nxf5 22. a4 g6 23. axb5 axb5 24. Qf3 Rxa1 25. Rxa1 Ne3 26. Ra6
+Qf5 27. Qe4 Qxe4 28. dxe4 Bg7 29. Bxe3 dxe3 30. Bd5 Bxb2 31. Kf1 c4 32. Rc6
+Ra8 33. Rc7 Ra2 34. Rxf7 Ba3 35. Rf6+ Kh8 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.09"]
+[Round "6"]
+[White "Inarkiev,E"]
+[Black "Gashimov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2676"]
+[BlackElo "2730"]
+[EventDate "2009.06.03"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8.
+Nf3 cxd4 9. Nxd4 Nd7 10. Bf4 Ndc5 11. O-O Nxd3 12. Qxd3 Bxc3 13. bxc3 b6
+14. cxd5 Qxd5 15. Rfd1 Rd8 16. c4 Qb7 17. Qc2 Bd7 18. f3 Nc5 19. Nb5 Bxb5
+20. cxb5 a6 21. bxa6 Qxa6 22. Rd6 Rdc8 23. Be3 Nb7 24. Rc6 Nc5 25. Rd6 Nb7
+26. Rc6 Nc5 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.09"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2702"]
+[EventDate "2009.06.03"]
+[ECO "B48"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. f4 Bb4
+8. Ndb5 Qa5 9. e5 Nd5 10. Bd2 Nxc3 11. bxc3 Bc5 12. c4 Qd8 13. Bd3 d6 14.
+exd6 Bxd6 15. Nxd6+ Qxd6 16. O-O O-O 17. Bc3 f5 18. Kh1 Bd7 19. Bxf5 Qxd1
+20. Raxd1 exf5 21. Rxd7 Rf7 22. Rxf7 Kxf7 23. Rb1 Nd8 24. c5 Rc8 25. Ba5
+Ke6 26. Bxd8 Rxd8 27. h3 Rd7 28. c4 h6 29. Kh2 g5 30. Kg3 Rd3+ 31. Kf2 Rd4
+32. fxg5 hxg5 33. Rxb7 Rxc4 34. Rxa7 Rxc5 35. a4 Rc2+ 36. Kf3 Rc3+ 37. Kf2
+Ra3 38. Ra5 Ra2+ 39. Kg3 Ra3+ 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.09"]
+[Round "6"]
+[White "Naiditsch,A"]
+[Black "Motylev,A"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2677"]
+[EventDate "2009.06.03"]
+[ECO "B53"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. c4 Nc6 6. Qe3 g6 7. Nc3 Bh6 8.
+Qd3 Bg7 9. Be2 Bg4 10. O-O Nf6 11. h3 Bxf3 12. Qxf3 Rc8 13. Rd1 Ne5 14. Qe3
+Nxc4 15. Bxc4 Rxc4 16. e5 Nd7 17. exd6 e6 18. Qe2 Rc6 19. Ne4 O-O 20. Be3
+Qa5 21. Bd4 Rfc8 22. b4 Qb5 23. Qe3 e5 24. Bc5 Qc4 25. Nc3 b6 26. Nd5 bxc5
+27. Rac1 Qh4 28. Ne7+ Kf8 29. Nxc6 Rxc6 30. bxc5 Bh6 31. Qf3 e4 32. Rc4
+exf3 33. Rxh4 Bg5 34. Rc4 fxg2 35. Kxg2 Bd8 36. Rdc1 f5 37. f4 Kf7 38. Kf3
+h6 39. R4c2 a5 40. a3 Kf6 41. h4 h5 42. Re1 Kf7 43. Rb2 Nxc5 44. Rd1 Rb6
+45. Rxb6 Bxb6 46. Rb1 Nd7 47. Re1 Bd8 48. Rc1 Bxh4 49. Rc7 Ke6 50. Ra7 Bd8
+51. Ra8 Bb6 52. Rg8 Kf7 53. Ra8 Ke6 54. Rg8 Bc5 55. Rxg6+ Nf6 56. d7 Be7
+57. Ke3 Kxd7 58. Kd4 Ke6 59. a4 Bd6 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.10"]
+[Round "7"]
+[White "Motylev,A"]
+[Black "Efimenko,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2677"]
+[BlackElo "2682"]
+[EventDate "2009.06.03"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 Nxb5 7. a4
+Nbd4 8. Nxd4 Nxd4 9. Qxd4 d5 10. Qd3 g6 11. Nc3 c6 12. Be3 Bf5 13. Qd2 Bg7
+14. Bc5 d4 15. Bxd4 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.10"]
+[Round "7"]
+[White "Rublevsky,S"]
+[Black "Sutovsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2702"]
+[BlackElo "2660"]
+[EventDate "2009.06.03"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Nb6 9. Nc3 a5 10. f4 Qe6 11. Be3 Bb4 12. Bxb6 cxb6 13. O-O-O O-O
+14. Qc2 d6 15. exd6 Qe3+ 16. Kb1 Bg4 17. Be2 Bxe2 18. Nxe2 Rfd8 19. Rd3 Qe6
+20. f5 Qxf5 21. Rhd1 Rd7 22. Nd4 Qe4 23. a3 Bc5 24. Nb3 h6 25. Nxc5 bxc5
+26. R3d2 Qe5 27. Qa4 Rb8 28. Qc2 Rbd8 29. Qa4 Rxd6 30. Rxd6 Rxd6 31. Rxd6
+Qxd6 32. Qxa5 Qd3+ 33. Ka1 Qf1+ 34. Ka2 Qxc4+ 35. Ka1 Qf1+ 36. Ka2 Qxg2 37.
+Qd8+ Kh7 38. Qd3+ g6 39. Qc4 Qd5 40. Qxd5 cxd5 41. b4 cxb4 42. axb4 f5 43.
+Kb2 g5 44. b5 f4 45. Kc2 g4 46. Kd2 g3 47. hxg3 fxg3 48. Ke1 d4 49. b6 d3
+50. b7 d2+ 51. Kxd2 g2 52. b8=Q g1=Q 53. Ke2 Qg2+ 54. Ke3 h5 55. Qc7+ Kg6
+56. Qd6+ 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.10"]
+[Round "7"]
+[White "Bologan,V"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2676"]
+[EventDate "2009.06.03"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Bd6 8. c4 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 O-O 12. Qh5 g6 13. Qxd5 Qc7
+14. Bh6 Rfd8 15. h4 Be6 16. Qg5 Qxc3 17. Rfd1 Bf8 18. Bxf8 Kxf8 19. Qh6+
+Kg8 20. h5 Qxd4 21. hxg6 hxg6 22. Bxg6 Qg7 23. Bh7+ Kh8 24. Rxd8+ Rxd8 25.
+Qh4 Qxa1+ 26. Bb1+ Kg7 27. Qg5+ Kf8 28. Qxd8+ Kg7 29. Qg5+ Kf8 30. Qd8+
+1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.10"]
+[Round "7"]
+[White "Gashimov,V"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2730"]
+[BlackElo "2700"]
+[EventDate "2009.06.03"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ne7 10. Ne4 Ng6 11. b3 h6 12. Bb2 Bf5 13. Ng3 Bd7
+14. Rad1 c5 15. e6 fxe6 16. Rfe1 Kc8 17. Rd2 b5 18. Red1 Bc6 19. Rd8+ Kb7
+20. Rxa8 Kxa8 21. Ne5 Nxe5 22. Rd8+ Kb7 23. Bxe5 a5 24. Nf1 h5 25. h4 Rg8
+26. Bf4 e5 27. Be3 Be4 28. Bxc5 Bxc5 29. Rxg8 Bxc2 30. Rxg7 Bb1 31. g4 Bxa2
+32. gxh5 Bf8 33. Rf7 Bh6 34. Rf6 Bc1 35. h6 Bb1 36. Ne3 Bxe3 37. fxe3 a4
+38. bxa4 b4 39. Rf1 Bd3 40. Rc1 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.10"]
+[Round "7"]
+[White "Onischuk,Al"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2684"]
+[BlackElo "2745"]
+[EventDate "2009.06.03"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
+O-O e5 9. cxd5 cxd5 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 h6 13. Be3 exd4 14.
+Bxd4 Nf6 15. Rfe1 Bg4 16. Bxb7 Rb8 17. h3 Bxh3 18. Bc6 Qc8 19. gxh3 Qxh3
+20. Ne5 Rfc8 21. Qc3 Qh4 22. Rad1 Bb4 23. Qg3 Qxg3+ 24. fxg3 Bxe1 25. Rxe1
+Rd8 26. Bc3 Rd6 27. b4 Rbd8 28. b5 Rd1 29. Kf2 Rxe1 30. Kxe1 h5 31. a4 g5
+32. a5 Nd5 33. Bd4 f6 34. Bxa7 fxe5 35. Bc5 Nc3 36. a6 e4 37. a7 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.11"]
+[Round "8"]
+[White "Motylev,A"]
+[Black "Gashimov,V"]
+[Result "1-0"]
+[WhiteElo "2677"]
+[BlackElo "2730"]
+[EventDate "2009.06.03"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
+Bf4 Rc8 15. c5 Bf6 16. Qa4 a6 17. Bf1 Qd7 18. Qb3 Rxe1 19. Rxe1 Rb8 20. Bg5
+Bxg5 21. Nxg5 b5 22. Nf3 Qd8 23. Qa2 Be4 24. Nd2 Bg6 25. g3 Na5 26. a4 c6
+27. Nf3 Nc4 28. axb5 axb5 29. Qa7 Ra8 30. Qb7 Na5 31. Qb6 f6 32. Ra1 Nc4
+33. Qxd8+ Rxd8 34. Ra6 Be8 35. Ne1 Nb2 36. Nc2 Na4 37. Nb4 Rc8 38. Na2 Rc7
+39. f3 Bg6 40. Nb4 Be8 41. Na2 Bd7 42. Kf2 Bc8 43. Ra8 Kf7 44. Ke3 Bb7 45.
+Rb8 Bc8 46. Kd2 Nb2 47. Nb4 Nc4+ 48. Kc1 Ne3 49. Be2 Bd7 50. Ra8 Nf5 51.
+Na6 Rb7 52. Kb2 Ne7 53. Kb3 Bc8 54. Bd3 g6 55. Nb4 Rc7 56. g4 h6 57. h4 g5
+58. h5 Kg7 59. Na6 Rb7 60. Kb4 f5 61. Bxf5 Bxf5 62. gxf5 Nxf5 63. Ka5 Nh4
+64. Nb4 Nxf3 65. Nxc6 g4 66. Ne5 Nxe5 67. dxe5 g3 68. c6 Rf7 69. e6 Rf2 70.
+Ra7+ Kf6 71. e7 Ra2+ 72. Kb4 Re2 73. c7 Re4+ 74. Kb3 Rxe7 75. Ra6+ 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.11"]
+[Round "8"]
+[White "Naiditsch,A"]
+[Black "Bologan,V"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2690"]
+[EventDate "2009.06.03"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. dxe5 Be7 6. O-O O-O 7. Re1 Nc5
+8. Bf1 Nc6 9. Nc3 d4 10. Nb5 Ne6 11. c3 dxc3 12. Nxc3 Ned4 13. Be3 Nxf3+
+14. Qxf3 Nxe5 15. Qe4 Ng4 16. Rad1 Bd6 17. Bf4 Qh4 18. Qd4 Bxf4 19. Qxf4 g5
+20. Qg3 Qxg3 21. hxg3 Be6 22. Ne4 Rfd8 23. Rc1 c6 24. f3 Nh6 25. a3 g4 26.
+Nc5 Bc8 27. Re7 b6 28. Ne4 Nf5 29. Rc7 Nd4 30. fxg4 Kg7 31. b4 Bd7 32. Nd6
+Be6 33. Nf5+ Bxf5 34. gxf5 b5 35. g4 a5 36. bxa5 Rxa5 37. Rc3 h6 38. Re3
+Kf6 39. Kh2 Raa8 40. Ree7 Rxa3 41. Rxf7+ Ke5 42. Rfe7+ Kd6 43. f6 Raa8 44.
+Rh7 Ne6 45. Rb7 Rh8 46. Be2 Ng5 47. Rhe7 Rhf8 48. f7 Ra2 49. Rbd7+ Kc5 50.
+Bd3 Rd2 51. Kg3 Rxf7 52. Rxf7 Nxf7 53. Kf4 Rf2+ 54. Ke4 Ng5+ 55. Ke3 Rxg2
+56. Bf5 Rh2 57. Rc7 Kb6 58. Rc8 Rh3+ 59. Kd4 Rh1 60. Rb8+ Ka5 61. Rc8 Rc1
+62. Ke3 Kb6 63. Kd2 Rc4 64. Rh8 Rd4+ 65. Kc3 Rd6 66. Rb8+ Kc5 67. Re8 Nf3
+68. Be4 b4+ 69. Kb2 Nd2 70. Bf5 Nc4+ 71. Kc1 Kd4 72. Kc2 Ne3+ 73. Kb3 Nxf5
+74. gxf5 c5 75. Rf8 Ke5 76. Kc4 Rf6 77. Re8+ Kd6 78. Rd8+ Ke7 79. Rh8 Rxf5
+80. Rxh6 Kd7 81. Rh7+ Ke6 82. Rh6+ Ke7 83. Rc6 Re5 84. Rh6 Re6 85. Rh5 Rc6
+86. Rd5 Rc8 87. Rd3 Rd8 88. Rh3 Rc8 89. Rd3 Ke6 90. Rd1 Ke5 91. Rd2 Ke4 92.
+Re2+ Kf3 93. Re5 Kf2 94. Re4 Rb8 95. Kb3 Rf8 96. Kc4 Rf5 97. Re8 Kf3 98.
+Re1 Rg5 99. Re8 Kf4 100. Re1 Rh5 101. Re2 Re5 102. Rf2+ Ke3 103. Rh2 Rf5
+104. Rb2 Rh5 105. Rc2 Rg5 106. Rb2 Rf5 107. Rc2 Rf2 108. Rc1 Kd2 109. Ra1
+Rf4+ 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.11"]
+[Round "8"]
+[White "Inarkiev,E"]
+[Black "Rublevsky,S"]
+[Result "0-1"]
+[WhiteElo "2676"]
+[BlackElo "2702"]
+[EventDate "2009.06.03"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 a6 6. Be3 Nf6 7. f4 Bb4 8.
+Bd3 e5 9. fxe5 Nxe5 10. O-O d6 11. h3 Bxc3 12. bxc3 h6 13. Qe1 O-O 14. Qh4
+Nh7 15. Qg3 Kh8 16. Nf3 f6 17. a4 Bd7 18. a5 Ng5 19. Nh4 Rc8 20. Bb6 Qe8
+21. Bd4 Rf7 22. Rab1 Be6 23. Rfe1 Rfc7 24. Kh1 Qd7 25. Rbd1 Ngf7 26. Rf1
+Rxc3 27. Bxc3 Rxc3 28. Nf5 Bxf5 29. exf5 Qc7 30. Rb1 d5 31. Rb6 Nd6 32. Qf4
+Rc5 33. Ra1 Ndc4 34. Bxc4 Rxc4 35. Qd2 d4 36. Rb3 Qc6 37. Ra2 d3 38. Rxd3
+Nxd3 39. cxd3 Rc1+ 40. Kh2 Qc7+ 41. g3 Rc5 42. d4 Rxf5 43. Rc2 Qd7 44. Rc4
+Rd5 45. Qc2 f5 46. Rc8+ Kh7 47. Rc7 Qe6 48. Rc5 Kg6 49. Qa2 Re5 50. Qxe6+
+Rxe6 51. Kg2 Kf6 52. h4 g5 53. hxg5+ hxg5 54. Kf3 Rc6 55. Rd5 Rc3+ 56. Kf2
+Rc2+ 57. Ke3 g4 58. Rd6+ Kg5 59. Rd8 Rc3+ 60. Kf2 Rf3+ 61. Kg2 Ra3 62. Rd7
+Ra2+ 63. Kf1 Rb2 64. Rd6 Rb5 65. Rd7 Kf6 66. Ke2 Ke6 67. Rc7 Kd6 68. Rf7
+Ke6 69. Rc7 Kd5 70. Ke3 Rb3+ 71. Kf4 Rf3+ 72. Kg5 Rxg3 73. Kxf5 Rb3 74.
+Rd7+ Kc6 75. Rg7 Rb5+ 76. Ke4 Rxa5 77. Rxg4 Ra1 78. Rg6+ Kb5 79. Rg2 Re1+
+80. Kd3 Rd1+ 81. Kc3 a5 82. Rg5+ Ka4 83. Rg2 Rc1+ 84. Kb2 Rc6 85. Rg3 b5
+86. Rg2 Kb4 87. Rd2 Rd6 88. Rd3 Kc4 89. Rc3+ Kxd4 90. Rc8 Ra6 91. Ka3 Rh6
+92. Kb2 Rh2+ 93. Kb3 Rh3+ 94. Kb2 a4 95. Ka2 Rc3 96. Rh8 Kc4 97. Rh4+ Kc5
+98. Kb2 Rb3+ 99. Ka2 Kb6 100. Rh8 Rg3 101. Rh4 Ka5 102. Rh5 Rg2+ 103. Ka3
+Rg3+ 104. Kb2 a3+ 105. Ka2 Ka4 106. Rh4+ b4 107. Rf4 Rg2+ 108. Kb1 Rg1+
+109. Ka2 Rg2+ 110. Kb1 Rb2+ 111. Ka1 Rd2 112. Kb1 Kb3 113. Rf3+ Kc4 114.
+Rf4+ Kc3 115. Rf3+ Rd3 116. Rf1 b3 117. Rc1+ Kb4 118. Rh1 a2+ 0-1
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.11"]
+[Round "8"]
+[White "Sutovsky,E"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2684"]
+[EventDate "2009.06.03"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nd7 10. d4 Bf6 11. a4 Bb7 12. d5 Ne7 13. Be3 Nc5 14. axb5 Nxb3
+15. Qxb3 axb5 16. Na3 c6 17. Rad1 cxd5 18. exd5 Rb8 19. Ba7 Ra8 20. Be3 Rb8
+21. Ba7 Ra8 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.11"]
+[Round "8"]
+[White "Efimenko,Z"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2682"]
+[BlackElo "2745"]
+[EventDate "2009.06.03"]
+[ECO "C77"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8.
+Nf1 O-O 9. Ng3 b5 10. Bc2 Nb8 11. O-O Nbd7 12. a4 Bb7 13. b4 Re8 14. Be3 d5
+15. h3 Qe7 16. Qb1 c5 17. bxc5 dxe4 18. Nxe4 Nxe4 19. dxe4 Nxc5 20. axb5
+axb5 21. Rxa8 Bxa8 22. Nd2 Rb8 23. Qb4 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.12"]
+[Round "9"]
+[White "Shirov,A"]
+[Black "Sutovsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2660"]
+[EventDate "2009.06.03"]
+[ECO "C07"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6
+8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 a6 11. Re1 Bd7 12. Bg5 O-O-O 13. Re3 Bc6
+14. Rd3 Be4 15. Nb5 Qe7 16. Na7+ Kc7 17. Bf4+ e5 18. Be3 Bxd3 19. cxd3 Kb8
+20. Rc1 Qd6 21. Bxf7 Be7 22. Qb3 Qb4 23. Qc2 Qd6 24. h3 Nd7 25. Qb3 Qb4 26.
+Qe6 Qd6 27. Qb3 Qb4 28. Qe6 Qd6 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.12"]
+[Round "9"]
+[White "Rublevsky,S"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2702"]
+[BlackElo "2700"]
+[EventDate "2009.06.03"]
+[ECO "C45"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 dxc6 7. Bc4
+Ne7 8. Qxf6 gxf6 9. Bf4 Bb6 10. Nc3 Ng6 11. Bg3 h5 12. h4 Ne5 13. Be2 Be6
+14. Na4 Ba5+ 15. c3 O-O-O 16. Nc5 Bb6 17. Nxe6 fxe6 18. Rd1 Rdg8 19. Rh3
+Ng4 20. Bd3 Rg7 21. Rd2 Rd8 22. Ke2 Rgd7 23. Rd1 e5 24. Bc2 Rd6 25. Bb3 Kd7
+26. Rxd6+ cxd6 27. Bf7 Rh8 28. Kf3 Ke7 29. Bxh5 Nxf2 30. Bxf2 Bxf2 31. Kxf2
+Rxh5 32. g4 Rh7 33. c4 Ke6 34. h5 d5 35. cxd5+ cxd5 36. exd5+ Kxd5 37. Ke3
+Ke6 38. Ke4 Kf7 39. Rc3 Ke6 40. Rh3 Kf7 41. g5 fxg5 42. Kf5 Rh6 43. Kxg5
+Ra6 44. Rb3 Rxa2 45. Rxb7+ Kg8 46. Kf5 Ra1 47. Kxe5 a5 48. Kd4 a4 49. Kc3
+a3 50. b4 Kf8 51. Kb3 Rh1 52. Kxa3 Rxh5 53. Rd7 Ke8 54. Rd4 Rh7 55. Ka4 1-0
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.12"]
+[Round "9"]
+[White "Onischuk,Al"]
+[Black "Inarkiev,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2684"]
+[BlackElo "2676"]
+[EventDate "2009.06.03"]
+[ECO "E92"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Ng4 8.
+Bg5 f6 9. Bh4 g5 10. Bg3 Nh6 11. c5 g4 12. Nh4 Nc6 13. cxd6 cxd6 14. dxe5
+fxe5 15. Bc4+ Kh8 16. Qd2 Nd4 17. Ne2 Nxe2 18. Bxe2 Be6 19. O-O Qe7 20. b3
+Rad8 21. Rad1 a6 22. Bc4 Bc8 23. f4 b5 24. Bd5 Ng8 25. Qe1 Nf6 26. fxe5
+Nxd5 27. Rxf8+ Qxf8 28. exd5 dxe5 29. Qe4 Qf6 30. Re1 Rf8 31. Qxe5 Qf7 32.
+Qe4 Bb7 33. Qxg4 Bxd5 34. h3 Rg8 35. Qf5 Qxf5 36. Nxf5 Bf6 37. Kh2 h5 38.
+Rd1 Be4 39. Rd6 Rg6 40. Rxf6 Rxf6 41. Be5 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.12"]
+[Round "9"]
+[White "Bologan,V"]
+[Black "Motylev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2677"]
+[EventDate "2009.06.03"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 a6 11. h4 h6 12. Nd4 Nxd4 13. Bxd4 Rg8
+14. c4 O-O-O 15. Qc3 g6 16. Be2 h5 17. b3 Rge8 18. Qg3 d5 19. c5 Bf5 20.
+Rde1 Bf8 21. Qc3 Re6 22. Bd1 Rde8 23. Rxe6 Qxe6 24. f3 Bh6 25. Rg1 Bf4 26.
+g3 Be5 27. Re1 f6 28. f4 Bxd4 29. Rxe6 Bxc3 30. Rxe8+ Kd7 31. Rg8 Kc6 32.
+Rg7 Kxc5 33. Rxc7+ Kd4 34. Be2 b5 35. Rc6 Be1 36. Rxa6 Bxg3 37. Bxb5 Bxh4
+38. a4 Ke3 39. a5 Be1 40. Ra8 Kxf4 41. a6 Bf2 42. Bc6 g5 43. Bxd5 h4 44.
+Kb2 h3 45. c4 Bd4+ 46. Ka3 g4 47. b4 g3 48. c5 g2 49. Rg8 Bg4 50. Rxg4+
+Kxg4 51. a7 g1=Q 52. a8=Q h2 53. Kb3 Be5 54. Bh1 Qd1+ 55. Kc4 Qf1+ 56. Kb3
+Qd1+ 57. Kc4 Qf1+ 58. Kb3 Qd1+ 59. Kc4 Qf1+ 1/2-1/2
+
+[Event "10th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2009.06.12"]
+[Round "9"]
+[White "Gashimov,V"]
+[Black "Efimenko,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2730"]
+[BlackElo "2682"]
+[EventDate "2009.06.03"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. Ne2 Ne7 11. h3 a5 12. Re1 Nd5 13. Bd2 h6
+14. Nfd4 a4 15. e6 fxe6 16. Nxe6 Bxe6 17. Nd4 Kf7 18. Nxe6 a3 19. bxa3 Bxa3
+20. c4 Nb4 21. Nxc7 Rac8 22. Re3 Nc2 23. Rf3+ Ke7 24. Rd1 Rxc7 25. Rc3 Bb4
+26. Rxc2 Bxd2 27. Rcxd2 Ra8 28. Re2+ Kf7 29. Rb2 Ra4 30. Rdb1 Rxc4 31. Rxb7
+Rxb7 32. Rxb7+ Kf6 33. Ra7 Rc1+ 34. Kh2 c5 35. a4 c4 36. Rc7 c3 37. a5 Ke5
+38. a6 Kd4 39. a7 Ra1 40. Rxg7 c2 41. Rc7 Kd3 42. Rd7+ Ke2 43. Rc7 Kd2 44.
+Rd7+ Ke2 1/2-1/2
+

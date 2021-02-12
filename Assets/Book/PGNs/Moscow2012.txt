@@ -1,0 +1,869 @@
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.08"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2825"]
+[BlackElo "2775"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O
+9.Be3 f5 10.Rc1 Kh8 11.a3 Bf6 12.Bc5 Re8 13.b4 Be6 14.Re1 Qd7 15.e4 a6 16.Bh3 g6
+17.Be3 Qg7 18.Ng5 Bg8 19.Nf3 f4 20.Bxb6 cxb6 21.Nd5 g5 22.Bd7 Re6 23.Bxe6 Bxe6
+24.Nxf6 Qxf6 25.Rxc6 bxc6 26.Qa1 a5 27.Qxe5 Qxe5 28.Nxe5 axb4 29.axb4 c5
+30.bxc5 bxc5 31.gxf4 gxf4 32.Kg2 Ra3 33.Kf3 c4 34.Kxf4 cxd3 35.Rd1 Ra2 36.Nxd3 Bc4
+37.f3 Rxh2 38.Ne5 Ba2 39.Rd7 Rh6 40.Nf7+ Bxf7 41.Rxf7 Kg8 42.Rf5 Rh1 43.e5 h5
+44.Rg5+ Kf8 45.Kf5 h4 46.Rh5 Kg7 47.f4 h3 48.Ke6 Kg6 49.Rg5+ Kh6 50.Kf5 Rh2
+51.Rg8 Rh1 52.e6 h2 53.Rg2  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.08"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2835"]
+[BlackElo "2801"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 d5 7.e3 b6 8.cxd5 exd5
+9.Bd3 Ba6 10.Bxa6 Nxa6 11.Qd3 Qc8 12.Ne2 c5 13.b3 cxd4 14.Qxd4 Nc5 15.Qd1 Qa6
+16.Nf4 d4 17.b4 dxe3 18.bxc5 Qa5+ 19.Kf1 Rad8 20.Qc2 Qb5+ 21.Ke1 Qa5+ 22.Kf1 Qb5+
+23.Ke1 Qa5+  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.08"]
+[Round "1"]
+[White "Morozevich,A"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2769"]
+[BlackElo "2770"]
+[ECO "C81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Qe2 Be7 10.Rd1 Na5 11.c3 Nxb3 12.axb3 O-O 13.Nd4 Qe8 14.f3 Nc5 15.b4 Nb7
+16.Be3 Bd7 17.Na3 c6 18.Nac2 a5 19.f4 Qc8 20.h3 Re8 21.Bf2 Bf8 22.Qf3 Ra6
+23.Ne3 Qa8 24.Ndc2 Qd8 25.bxa5 Nc5 26.b4 Ne4 27.Rd3 f6 28.Bh4 g5 29.fxg5 fxg5
+30.Bg3 Bg7 31.Bh2 Rf8 32.Qe2 Rf2 33.Qe1 g4 34.Rd4 Rf8 35.Rad1 Qe8 36.Nxg4 Bf5
+37.Nce3 Bg6 38.Nf1 h5 39.Nge3 Ra7 40.Ng3 Bxe5 41.Nxe4 Bxd4 42.cxd4 Qxe4 43.Be5 Kh7
+44.Rc1 Raf7 45.Kh2 Rf2 46.Rxc6 R8f3 47.Rc7+ Bf7 48.Kh1 Rf1+ 49.Qxf1 Rxf1+
+50.Nxf1 Kg6 51.Rc6+ Kh7 52.Ng3 Qb1+ 53.Kh2 h4 54.Ne2 Qxb4 55.Rc7 Kg8 56.a6  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.08"]
+[Round "1"]
+[White "Grischuk,A"]
+[Black "McShane,L"]
+[Result "1-0"]
+[WhiteElo "2761"]
+[BlackElo "2706"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bc5 5.Bg2 d6 6.O-O O-O 7.e3 a6 8.d4 Ba7
+9.h3 Rb8 10.dxe5 Nxe5 11.b3 Nxf3+ 12.Qxf3 b5 13.Qe2 bxc4 14.Qxc4 a5 15.Bb2 Bd7
+16.Rac1 Bc5 17.Rfd1 Re8 18.Na4 Bxa4 19.Qxa4 Bb6 20.Bc6 Re7 21.Bxf6 gxf6 22.Qg4+ Kh8
+23.Rc4 Re5 24.Rd5 Qe7 25.Qf3 Rg8 26.Kg2 Rg6 27.b4 axb4 28.Rxb4 Kg7 29.a4 Qe6
+30.h4 f5 31.Rf4 Rf6 32.Kh2 h6 33.h5 Kf8 34.Kg2 Kg7 35.Kh2 Kf8 36.Kg2 Kg7
+37.Qd1 Kf8 38.Kf1 Qc8 39.Qd3 Kg7 40.Kg2 Rxd5 41.Bxd5 Qe8 42.Rxf5 Rxf5 43.Qxf5 Qe7
+44.Bb3 Qf6 45.Qd5 c5 46.Bc4 Ba5 47.f4 Qe7 48.Kf2 Bc3 49.Ke2 Bb4 50.g4 Qd7
+51.Kd3 Qe7 52.g5 hxg5 53.fxg5 Be1 54.g6 fxg6 55.Qg8+ Kf6 56.Qxg6+ Ke5 57.h6 d5
+58.Qg7+ Qf6 59.Bxd5 Bh4 60.Kc4 Kd6 61.Qxf6+ Bxf6 62.a5 Kc7 63.h7  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.08"]
+[Round "1"]
+[White "Radjabov,T"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteElo "2784"]
+[BlackElo "2738"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb6 6.Nc3 d6 7.Qe2 Nge7 8.Be3 O-O
+9.O-O-O f5 10.exf5 Bxf5 11.h3 Bd7 12.Qd2 Bxe3 13.Qxe3 Kh8 14.Bd3 Qe8 15.f4 Qf7
+16.Rhf1 Rae8 17.Qd2 Nb4 18.Be4 Bc6 19.Rde1 Bxe4 20.Nxe4 Qc4 21.a3 Nbc6 22.Qc3 Qd5
+23.Nbd2 Nf5 24.g4 Nfd4 25.Qd3 b5 26.Kb1 b4 27.a4 h6 28.Nb3 Re7 29.Ned2 Rxe1+
+30.Rxe1 g5 31.f5  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.09"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2770"]
+[BlackElo "2775"]
+[ECO "D22"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.a4 Nf6 5.e3 e6 6.Bxc4 b6 7.O-O Bb7 8.Qe2 Nbd7
+9.Rd1 Bb4 10.Bd2 Bd6 11.Nc3 c5 12.e4 cxd4 13.Nxd4 Qb8 14.g3 O-O 15.f3 Ne5
+16.Bb3 Bc5 17.Be3 Qc7 18.Rd2 h6 19.Rad1 Rad8 20.Bf2 g5 21.h3 Ng6 22.Bc4 Ne5
+23.Kg2 Qc8 24.Bb3 Kh8 25.Nc2 Rxd2 26.Qxd2 Bxf2 27.Kxf2 Qc5+ 28.Qd4 Rb8 29.Ne3 Kg7
+30.Nc4 Qxd4+ 31.Rxd4 Nc6 32.Rd2 Ba8 33.Nd6 Kf8 34.Bc4 Nb4 35.Na2 Nxa2 36.Bxa2 Rd8
+37.e5 Nd7 38.f4 gxf4 39.gxf4 a5 40.Rd4 Ke7 41.Bb1 f6 42.Nc4 Bd5 43.exf6+ Nxf6
+44.Bd3 Nd7 45.Be2 Rf8 46.Bf3 Bxc4 47.Rxc4 Nc5 48.Ke3 Rd8 49.b4 axb4 50.Rxb4 Rd3+
+51.Ke2 Ra3 52.Rxb6 Rxa4 53.f5 Ra2+ 54.Ke3 Ra3+ 55.Ke2 exf5 56.Rxh6 Ne6 57.Rh4 Kd6
+58.Kf2 Ke5 59.Rc4 Nd4 60.Bg2 Ra2+ 61.Kf1 Rd2 62.Rc3 Kf4 63.Ra3 Kg5 64.Rg3+ Kh4
+65.Rg8 Nc2 66.Kg1 Ne1 67.Rg7 Rb2 68.Rg8 Nd3 69.Rg7 Nf4 70.Rg8 Ne6 71.Kh2 Kh5
+72.Kg1 Kh6 73.Rg3 Nf4 74.Bf3 Rb3 75.Kh2 Rb2+ 76.Kg1 Ra2 77.Kh1 Ng6 78.Bd5 Rd2
+79.Bb7 Kg7 80.Rg2 Rd3 81.Kh2 Kf6 82.Rf2 Nh4 83.Be4 Re3 84.Bg2 Ke5 85.Bb7 Kf6
+86.Bg2 Rc3 87.Bb7 Kg5 88.Bg2 f4 89.Bb7 Nf5 90.Be4 Ne3 91.h4+ Kf6 92.Bf3 Kf5
+93.h5 Ra3 94.Rb2 Nc4 95.Rb5+ Ne5 96.Kg2 Kf6 97.Rb6+ Kg5 98.Rb5 Re3 99.Bd1 Rg3+
+100.Kf1 Re3 101.Ra5 f3 102.Kf2 Kf4 103.Ra4+ Re4 104.Rxe4+ Kxe4 105.Bxf3+ Nxf3
+106.h6 Ng5 107.h7 Nxh7  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.09"]
+[Round "2"]
+[White "McShane,L"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2706"]
+[BlackElo "2784"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 d6 6.e5 dxe5 7.Nxe5 Qd5 8.Nf3 Qe4+
+9.Kf1 Qf5 10.Nc3 Nf6 11.d3 Be7 12.Qe2 Nd5 13.Bd2 Nb4 14.Be1 O-O 15.Ne4 f6
+16.h3 e5 17.Kg1 Rb8 18.Kh2 Qg6 19.Ng3 Qf7 20.Bc3 Bd7 21.Rhe1 Rfe8 22.Qd2 Bf8
+23.Ng1 Rbd8 24.Bb2 Nd5 25.Kh1 Be6 26.a3 Qc7 27.Qd1 Nf4 28.N3e2 g5 29.Nxf4 gxf4
+30.Qh5 Qg7 31.Ne2 Be7 32.Nc3 Kh8 33.Rg1 Qg6 34.Qf3 Qh6 35.g4 Rg8 36.Ne4 Rg6
+37.Rg2 Rdg8 38.Rag1 Qg7 39.a4 Rh6 40.Kh2 Rh4 41.Kh1 h5 42.Rh2 hxg4 43.Qd1 Qh7
+44.Rgg2 Rg6 45.Qg1 Rgh6 46.hxg4 Bxg4 47.Nd2 f3 48.Rxh4 fxg2+  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.09"]
+[Round "2"]
+[White "Kramnik,V"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2761"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.g3 f5 11.Ng5 Nf6 12.Bf3 c6 13.Bg2 h6 14.Ne6 Bxe6 15.dxe6 Nxe4
+16.Nxe4 fxe4 17.b5 Rf6 18.Bxe4 Rxe6 19.Qa4 d5 20.Rd1 Kh7 21.cxd5 cxd5 22.Qb3 Rb6
+23.a4 a6 24.Ba3 axb5 25.Bxe7 Qxe7 26.Rxd5 b4 27.a5 Qf7 28.h4 h5 29.Qd1  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.09"]
+[Round "2"]
+[White "Tomashevsky,E"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2825"]
+[ECO "E06"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Be7 4.g3 Nf6 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bf4 Bd6 11.Bg5 Nbd7 12.Nc3 h6 13.Bxf6 Nxf6 14.Nd2 Bxg2 15.Kxg2 a5
+16.Rfd1 Bb4 17.Rac1 Qd7 18.Nf3 Rfd8 19.Ne5 Qe7 20.e3 c6 21.Qb3 Qc7 22.Nb5 Qb8
+23.Nc3 Qc7 24.Nb5 Qb8 25.Nc3  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.09"]
+[Round "2"]
+[White "Morozevich,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2835"]
+[ECO "E35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 h6 7.Bh4 c5 8.dxc5 g5
+9.Bg3 Ne4 10.e3 Qa5 11.Rc1 Nd7 12.Ne2 Ndxc5 13.a3 Bxc3+ 14.Nxc3 Nxc3 15.Qxc3 Qxc3+
+16.Rxc3 Ne4 17.Rc7 Nxg3 18.hxg3 Rb8 19.Bb5+ Kf8 20.Kd2 Kg7 21.Rhc1 Rd8 22.Re7 Kf6
+23.Rcc7 Rf8 24.b4 a6 25.Bd3 a5 26.bxa5 Ra8 27.Bb5 Rxa5 28.a4 Ra8 29.Kc3 h5
+30.Kb4 h4 31.Re8 Rxe8 32.Bxe8 Be6 33.Bb5 d4 34.gxh4 gxh4 35.exd4 Bd5 36.f3 Rg8
+37.Rc2 Ke7 38.a5 Kd6 39.Bc4 Bxc4 40.Rxc4 Rxg2 41.Rc5 h3 42.Rh5 h2 43.Kc4 Rc2+
+44.Kd3 Ra2 45.Ke4 f5+ 46.Kf4 Kd5 47.Rxf5+ Kxd4 48.Rh5 Rg2 49.Rh7 Kd3 50.Ke5 Ke2
+51.f4 Kf1 52.f5 Ra2 53.f6 Rxa5+ 54.Ke6 Ra6+ 55.Ke7 Rxf6 56.Kxf6 Kg1 57.Ke5 h1=Q
+58.Rxh1+ Kxh1 59.Kd4  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.10"]
+[Round "3"]
+[White "Nakamura,Hi"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2738"]
+[ECO "C36"]
+
+1.e4 e5 2.f4 d5 3.exd5 exf4 4.Nf3 Nf6 5.Be2 Nxd5 6.c4 Nf6 7.d4 Bd6 8.c5 Be7
+9.Nc3 Be6 10.Bxf4 Nd5 11.Bg3 O-O 12.Qd2 Nd7 13.O-O c6 14.Ne4 N7f6 15.Bd3 Nxe4
+16.Bxe4 f5 17.Bc2 f4 18.Bf2 Bf5 19.Bb3 Kh8 20.Rae1 Bf6 21.Ne5 g5 22.Qd1 Qc7
+23.Nc4 Bg6 24.Nd6 Ne3 25.Bxe3 fxe3 26.Rxe3 Qg7 27.Kh1 Bxd4 28.Ref3 Rxf3 29.Rxf3 Bf6
+30.Qf1 Be7 31.Qe1 Bf6 32.Qf2 Bd4 33.Qd2 Bxc5 34.Nf7+ Bxf7 35.Rxf7 Rf8 36.Rxf8+ Bxf8
+37.Qd8 Qe7 38.Qd4+ Bg7 39.Qxa7 Qe1+ 40.Qg1 Qxg1+ 41.Kxg1  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.10"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "McShane,L"]
+[Result "0-1"]
+[WhiteElo "2825"]
+[BlackElo "2706"]
+[ECO "D15"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 a6 5.Bg5 dxc4 6.a4 h6 7.Bh4 b5 8.axb5 cxb5
+9.Nxb5 axb5 10.Rxa8 Bb7 11.Ra1 g5 12.Bg3 e6 13.e3 Bb4+ 14.Ke2 Nc6 15.Ne1 Na5
+16.Be5 O-O 17.h4 g4 18.Nc2 Be7 19.Ke1 Nb3 20.Ra2 h5 21.Be2 Bd6 22.f3 Nd5
+23.fxg4 Bxe5 24.dxe5 Qb6 25.Bf3 Nxe3 26.Nxe3 Qxe3+ 27.Qe2 Qc1+ 28.Qd1 Qe3+
+29.Qe2 Qc1+ 30.Qd1 Bxf3 31.gxf3 Qe3+ 32.Qe2 Qc1+ 33.Qd1 Qe3+ 34.Qe2 Qf4 35.Qh2 Qxf3
+36.Rf1 Qe4+ 37.Kf2 Nd2 38.Rg1 Qf3+  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.10"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2835"]
+[BlackElo "2770"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Qa4+ Nd7 8.Nf3 O-O
+9.Be3 c5 10.Rc1 Nb6 11.Qd1 Bg4 12.Be2 Bxf3 13.gxf3 cxd4 14.cxd4 Qd7 15.O-O Rac8
+16.Qd2 Rfd8 17.Rfd1 Rxc1 18.Qxc1 Rc8 19.Qa3 Na4 20.Bf1 b5 21.Rc1 Rxc1 22.Qxc1 Bxd4
+23.Bxb5 Bxe3 24.Bxd7 Bxc1 25.Bxa4 Bf4 26.h3 Be5 27.Kg2 Bf4 28.Kg1 Be5 29.Kg2 Bf4
+30.Kg1  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.10"]
+[Round "3"]
+[White "Grischuk,A"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2761"]
+[BlackElo "2769"]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 c6 3.g3 Bg4 4.Qb3 Qb6 5.Ne5 Be6 6.d3 f6 7.Nf3 Bf7 8.Bh3 e5
+9.O-O Na6 10.Nc3 Ne7 11.Be3 d4 12.Ne4 Ng6 13.Bc1 Nc5 14.Nxc5 Bxc5 15.Nd2 O-O
+16.Ne4 Be7 17.f4 exf4 18.gxf4 Rfe8 19.f5 Ne5 20.Bf4 Bf8 21.Bg2 Qc7 22.Qc2 Qd7
+23.Bd2 b5 24.c5 a5 25.Rf4 a4 26.Bb4 Rac8 27.Ng3 Kh8 28.Rh4 Bg8 29.Qd2 Qa7
+30.Rc1 Nd7 31.Qf4 Bxa2 32.Qxd4 Nb8 33.Be1 Rcd8 34.Qc3 Na6 35.Bf2 b4 36.Qe1 Qb7
+37.Ra1 Bb3 38.Qc1 Nc7 39.Bf3 Ra8 40.Bh5 Red8 41.Bg6 h6 42.Ne4 Ne8 43.Be3 Bd5
+44.Kf2 Bxe4 45.Rxe4 Nc7 46.Bxh6 gxh6 47.Re7 Rd4 48.Rh7+ Kg8 49.Qe3 Rg4 50.h3 Rxg6
+51.fxg6 Qc8 52.Rg1 Qf5+ 53.Ke1 Re8 54.Qg3 Ne6 55.e4 Qxc5 56.Kd1 Bg7 57.Rg2 Qe5
+58.Qe3 Rd8 59.Ke1 c5 60.Rxh6 Nf4  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.10"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2801"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.O-O d6 6.c3 O-O 7.h3 Ne7 8.Nbd2 a6
+9.Ba4 Ng6 10.d4 Ba7 11.Re1 b5 12.Bc2 c5 13.d5 c4 14.Nf1 Nh5 15.Bg5 f6 16.Be3 Nhf4
+17.Ng3 Ne7 18.a4 Qc7 19.axb5 axb5 20.Ra3 Bxe3 21.Rxa8 Bb6 22.Qd2 Qc5 23.Qe3 Qc7
+24.Qd2 Qc5 25.Qe3 Qc7  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.12"]
+[Round "4"]
+[White "Caruana,F"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2738"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.Nbd2 Na5 11.Ba2 c5 12.c3 Rb8 13.d4 Qc7 14.dxe5 dxe5 15.Nc4 Rd8
+16.Qe2 b3 17.Nxa5 Qxa5 18.Bb1 c4 19.Qxc4 Rb7 20.Qe2 Rbd7 21.h3 Rd6 22.Be3 h6
+23.Nd2 Be6 24.Nc4 Qc7 25.Nxd6 Qxd6 26.a5 Rd7 27.c4 Qb4 28.Bd3 Bc5 29.Red1 Rc7
+30.Bxc5 Qxc5 31.Qe1 Kf8 32.Qc3  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.12"]
+[Round "4"]
+[White "Kramnik,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2825"]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 O-O 8.O-O d5
+9.exd5 cxd5 10.h3 Re8 11.Qf3 c6 12.Bf4 Bd7 13.a3 Bxc3 14.bxc3 Ne4 15.Rfe1 Qf6
+16.Bxe4 dxe4 17.Qe3 Be6 18.Rad1 Qf5 19.Rd4 f6 20.Rb1 Bd5 21.c4 Bf7 22.Rb7 Rad8
+23.Bd6 Rd7 24.Rxd7 Qxd7 25.Bc5 Qb7 26.Rxe4 Rxe4 27.Qxe4 Qb1+ 28.Kh2 Qb8+
+29.g3 Qa8 30.Bd6 Qe8 31.Qxe8+ Bxe8 32.Kg2 Bg6 33.Kf3 Bxc2 34.Ke3 Kf7 35.Kd4 Ke6
+36.Kc5 Bd3 37.Bb8 a6 38.h4 h5 39.Kxc6 Bxc4 40.Kc5 Bb5  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.12"]
+[Round "4"]
+[White "Morozevich,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2769"]
+[BlackElo "2784"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 Be7 7.Re1 b5 8.Rxe4 d5
+9.Nxe5 Nxe5 10.Rxe5 bxa4 11.b3 O-O 12.Ba3 Bxa3 13.Nxa3 Qd6 14.Nb1 f6 15.Re3 Bd7
+16.Nc3 Rfe8 17.Rxe8+ Rxe8 18.Qd2 axb3 19.axb3 Qb4 20.h3 Bb5 21.Re1 Rxe1+
+22.Qxe1 Kf7 23.Qe3 c6 24.Nb1 a5 25.Nd2 a4 26.bxa4 Bxa4 27.c3 Qb2 28.Kh2 Bb5
+29.Nf3 g5 30.Ng1 Qc2 31.Qg3 Qe4 32.Nf3 h6 33.Qc7+ Kg6 34.Qd6 Kf7 35.Qc7+ Kg6
+36.Qd6 Kf7 37.Qc7+  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.12"]
+[Round "4"]
+[White "McShane,L"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2775"]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.f4 Qc7 8.O-O Be7
+9.Kh1 O-O 10.a4 Nc6 11.Be3 Bd7 12.Nb3 Na5 13.e5 Ne8 14.Nxa5 Qxa5 15.Ne4 Qc7
+16.a5 Bc6 17.Bb6 Qb8 18.Qd4 d5 19.Nc5 Qc8 20.Bf3 g6 21.c4 Ng7 22.cxd5 exd5
+23.Rac1 Bd8 24.Rfd1 Ne6 25.Qd2 Bxb6 26.axb6 Qd8 27.Bxd5 Nxc5 28.Rxc5 Qxb6
+29.b4 Rad8 30.Qe1 Bxd5 31.Rcxd5 Rxd5 32.Rxd5 Rc8 33.h3 Qe6 34.Rd4 h5 35.Kh2 Qf5
+36.Qh4 Kg7 37.Rd6 Rc4 38.Qf6+ Qxf6 39.exf6+ Kh6 40.Rb6 Rxf4 41.Rxb7 Rxf6
+42.b5 axb5 43.Rxb5 Rf4 44.Kg3 g5 45.Rb6+ Kg7 46.Kh2 Ra4 47.Kg1 Ra3 48.Kf2 f6
+49.Rb7+ Kg6 50.Rb5 Ra2+ 51.Kf1 Rd2 52.Ra5 h4 53.Rb5 f5 54.Rb6+ Kf7 55.Ra6 Rd4
+56.Kf2 Re4 57.Rb6 Re6 58.Rb5 Kf6 59.Ra5 Rd6 60.Ra2 Ke5 61.Re2+ Kf4 62.Ra2 Rd4
+63.Rb2 Rd3 64.Ra2 g4 65.Ra4+ Kg5 66.hxg4 fxg4 67.Ra5+ Kf4 68.Ra4+ Kf5 69.Ra5+ Ke4
+70.Ra4+ Rd4 71.Rxd4+ Kxd4 72.Ke2 Ke4 73.Ke1 Kd3 74.Kf1 Kd2 75.Kf2 g3+ 76.Kg1 Ke1
+77.Kh1 h3 78.Kg1 h2+ 79.Kh1 Kf2  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.12"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2835"]
+[BlackElo "2761"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 O-O 8.a4 b4
+9.Nbd2 Bc5 10.Nc4 d6 11.Bg5 h6 12.Bh4 Bg4 13.Ne3 Bxf3 14.gxf3 g5 15.Bg3 Nd4
+16.Bc4 Nh5 17.c3 bxc3 18.bxc3 Ne6 19.Rb1 Nhg7 20.Bd5 Rc8 21.Kh1 Kh8 22.Rg1 Qf6
+23.Bc4 a5 24.Rb5 h5 25.Rxa5 h4 26.Ng4 Qe7 27.Qf1 Ra8 28.Rxc5 dxc5 29.Nxe5 Qf6
+30.Qh3 Rxa4 31.Bd5 Ra6 32.Bc4 Rd6 33.f4 Nxf4 34.Bxf4 Qxf4 35.Nf3 Rg6 36.Rg4 Qc1+
+37.Rg1 Qf4 38.Rg4 Qc1+ 39.Rg1 Qf4 40.Rg4 Qc1+  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.13"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2784"]
+[BlackElo "2835"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.Qf3 bxc6 7.Qg3 d6 8.Nc3 Qg6
+9.Bd3 Nf6 10.Na4 Bd4 11.c3 Bb6 12.O-O Qxg3 13.hxg3 Ng4 14.Bf4 f6 15.Rad1 h5
+16.Be2 Be6 17.Nxb6 axb6 18.a3 Ke7 19.f3 Ne5 20.Kf2 b5 21.Bxe5 fxe5 22.Ke3 h4
+23.gxh4 Rxh4 24.Rh1 Rah8 25.Rxh4 Rxh4 26.Rc1 Rh2 27.Kf2 Rh8 28.Ke3 g5 29.Bd3 Kd7
+30.Ra1 Bb3 31.Rc1 Kc8 32.Kf2 Kb7 33.Kg3 Be6 34.Ra1 Kb6 35.Rc1 c5 36.Ra1 c4
+37.Bc2 Kc5 38.Re1 c6 39.Bb1 Kb6 40.Bc2 Kc7 41.Kf2 Kd7 42.a4 bxa4 43.Ra1 Rb8
+44.Ra2 d5 45.exd5 cxd5 46.Bxa4+ Kd6 47.Bc2 d4 48.Be4 Rb6 49.Ke2 g4 50.fxg4 Bxg4+
+51.Kd2 Be6 52.Kc2 Bd5 53.Bxd5 d3+ 54.Kd2 Kxd5 55.Ke3 Rg6 56.Ra5+ Ke6 57.Ke4 Rg4+
+58.Kf3 Rf4+ 59.Ke3 Rf1  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.13"]
+[Round "5"]
+[White "Tomashevsky,E"]
+[Black "McShane,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2706"]
+[ECO "A54"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 e4 5.Nd2 Qe7 6.Nb3 h6 7.g3 g6 8.Bg2 Bg7 9.h3 O-O
+10.Be3 c6 11.Qd2 Kh7 12.g4 d5 13.g5 hxg5 14.Bxg5 Qd6 15.c5 Qe6 16.f3 b5 17.e3 Nbd7
+18.h4 b4 19.Ne2 Nh5 20.Bh3 f5 21.fxe4 dxe4 22.Nf4 Nxf4 23.Bxf4 Nf6 24.Bf1 a5
+25.Nc1 Nh5 26.Ne2 Ba6 27.Bd6 Bh6 28.Nf4 Bxf4 29.Bxf4 Nxf4 30.Bxa6 Nh5 31.Be2 Ng3
+32.Rg1 f4 33.exf4 e3 34.Qd3 Nxe2 35.Qxe2 Rxf4 36.h5 Rxd4 37.Rd1 Rxd1+ 38.Qxd1 g5
+39.Rxg5 Qf6 40.Qd3+ Kh8 41.Qxe3 Qxb2 42.Rg6 Qa1+ 43.Kf2 Rf8+ 44.Kg3 Qc3 45.Rh6+ Kg7
+46.Rg6+ Kh7 47.Rh6+ Kg7 48.Rg6+  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.13"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2825"]
+[BlackElo "2769"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nd7 5.Nf3 f5 6.Bd3 Nh6 7.b3 Bd6 8.Bb2 O-O 9.O-O Rf6
+10.Qc2 Nf7 11.Nd2 e5 12.Bxf5 e4 13.Bxh7+ Kxh7 14.cxd5 Rg6 15.Ndxe4 Nf6 16.Nxf6+ Qxf6
+17.f4 Nh6 18.Ne4 Qf5 19.dxc6 Be7 20.c7 Rc6 21.Qb1 Rxc7 22.Nc3 Qxb1 23.Raxb1 Rd7
+24.Rbd1 b6 25.e4 Bb7 26.h3 Ng8 27.e5 Rc8 28.d5 Bb4 29.e6 Rdd8 30.Ne4 Rxd5
+31.Ng5+ Kg6 32.Rxd5 Bxd5 33.Rd1 Ne7 34.Bd4 Rc2 35.g4 Bd2 36.Rf1 Bc1 37.Nf3 Bxf4
+38.Nh4+ Kg5 39.Nf3+ Kh6 40.h4 Rxa2  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.13"]
+[Round "5"]
+[White "Nakamura,Hi"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2801"]
+[ECO "A33"]
+
+1.c4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 d5 7.Bf4 e5 8.cxd5 exf4
+9.dxc6 bxc6 10.Qxd8+ Kxd8 11.Rd1+ Bd7 12.Nd6 Kc7 13.Nxf7 Rg8 14.Ne5 Rb8 15.Nxd7 Nxd7
+16.g3 Rxb2 17.Bh3 Nf6 18.O-O Bb4 19.Rc1 Rd8 20.Bg2 Rdd2 21.gxf4 Rbc2 22.Ne4 Rxe2
+23.Nxf6 gxf6 24.Rxc2 Rxc2 25.Be4 Rxa2 26.Rc1 c5 27.Bxh7 Rd2 28.h4 a5 29.h5 Rd8
+30.Kg2 a4 31.h6 Rh8 32.Bc2 Rxh6 33.Bxa4 Rh8 34.Bb3 Rd8 35.Rd1 Bd2 36.Ba2 Bxf4
+37.Rxd8 Kxd8 38.Kf3 Be5 39.Ke4 Kd7 40.f4 Bxf4  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.13"]
+[Round "5"]
+[White "Grischuk,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2770"]
+[ECO "D92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.Rc1 Be6 7.Ng5 c5 8.dxc5 d4
+9.Nb5 Nc6 10.Nc7 Bf5 11.Nxa8 e5 12.Bd2 e4 13.e3 h6 14.Nh3 Bxh3 15.gxh3 Ne5
+16.Bg2 Nd3+ 17.Kf1 Nxc1 18.Qxc1 d3 19.Bc3 Qe7 20.Nc7 Qxc7 21.Bxf6 Bxf6 22.Bxe4 Rd8
+23.Bd5 Qxc5 24.Qd1 Rxd5 25.cxd5 Qxd5 26.Rg1 Kg7 27.Qb3 Qe4 28.Rg4 Qh1+ 29.Rg1 Qe4
+30.Rg4 Qh1+ 31.Rg1 Qe4  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.14"]
+[Round "6"]
+[White "Kramnik,V"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2738"]
+[ECO "D45"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 a6 5.e3 e6 6.Bd3 dxc4 7.Bxc4 c5 8.O-O b5
+9.Be2 Bb7 10.dxc5 Qxd1 11.Rxd1 Bxc5 12.Nd2 O-O 13.Nb3 Bb4 14.Bd2 Nbd7 15.a3 Nc5
+16.Nc1 Bxc3 17.Bxc3 Rfc8 18.Bd4 Bd5 19.f3 Bc4 20.Kf2 Bxe2 21.Kxe2 Nd5 22.Rd2 f6
+23.Bxc5 Rxc5 24.Nd3 Rc7 25.a4 bxa4 26.Rxa4 Kf7 27.Ra5 Raa7 28.Nc5 Nb4 29.Rd6 Rc8
+30.f4 Rac7 31.Nxe6 Rc2+ 32.Kf3 Rxb2 33.Nd4 Rc7 34.Rb6 Nd3 35.Rxb2 Nxb2 36.Rxa6 Nc4
+37.g4 Nd2+ 38.Ke2 Ne4 39.h4 Rb7 40.g5 Kg6 41.Kf3 Re7 42.h5+ Kxh5 43.Nf5 Nd2+
+44.Ke2 Rd7 45.gxf6 gxf6 46.Rxf6 Kg4 47.Nh6+ Kg3 48.Rf8 Ne4 49.Rg8+ Kh3 50.Ng4 Kh4
+51.Ne5 Ra7 52.Nf3+ Kh5 53.Kd3 Nf2+ 54.Kd4 Ra4+ 55.Kd5 Ra5+ 56.Ke6 Ng4 57.e4 Ra6+
+58.Ke7 Ra7+ 59.Kd6 Ra6+ 60.Kc7 h6 61.e5 Nf6 62.Rd8 Kg4 63.Nd4 Ra7+ 64.Kd6 Ne4+
+65.Kd5 Nc3+ 66.Kc4 Kxf4 67.e6 Rc7+ 68.Kd3 Ke5 69.Rd7 Nd5 70.e7 Rc3+ 71.Kd2 Rc8
+72.Nc6+ Ke6 73.Rxd5 Rxc6 74.e8=Q+ Kxd5 75.Kd3 Re6 76.Qb5+ Kd6 77.Kd4 Ke7
+78.Qf5 Rf6 79.Qh7+ Kf8 80.Ke5 Ra6 81.Qb7 Rg6 82.Qh7 Ra6 83.Qd3  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.14"]
+[Round "6"]
+[White "Morozevich,A"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteElo "2769"]
+[BlackElo "2775"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Ne2 Bg4 8.f3 Be6
+9.Nbc3 Qd7 10.Ne4 Bd5 11.Nc5 Qc8 12.a3 e6 13.Qc2 Bxc5 14.dxc5 Nd7 15.f4 Bxg2
+16.Rg1 Bf3 17.Be3 g6 18.O-O-O Ne7 19.Be4 Bxe4 20.Qxe4 b6 21.Nc3 O-O 22.c6 Nb8
+23.f5 Nxf5 24.Bg5 Qe8 25.Qf4 f6 26.Bxf6 Qxc6 27.Kb1 Nd7 28.Ne4 Nc5 29.Nxc5 bxc5
+30.h4 Rf7 31.h5 Rd7 32.hxg6 h6 33.Rxd7 Qxd7 34.Qf3 Rb8 35.Rd1 Qe8 36.Rd2 c4
+37.Ka2 a5 38.Qd1 c3 39.bxc3 Ne3 40.Qe2 Nd5 41.Qd3 a4 42.Rb2 Rxb2+ 43.Kxb2 Qb8+
+44.Kc1 Qb3 45.Qa6 Qxc3+ 46.Kd1 Ne3+ 47.Ke2 Qc4+  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.14"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2784"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 d6 6.e5 dxe5 7.Nxe5 Qd5 8.Nf3 Qe4+
+9.Kf1 Qf5 10.Na3 Nf6 11.d3 Nd5 12.Nc4 Ba6 13.Qe2 Bxc4 14.bxc4 Qf6 15.Rb1 Nc3
+16.Bb2 Rb8 17.Qe1 Bd6 18.Bxc3 Rxb1 19.Bxf6 Rxe1+ 20.Kxe1 gxf6 21.Ke2 Kd7
+22.Rb1 Kc7 23.g4 h6 24.Nd2 h5 25.gxh5 Rxh5 26.Nf3 Rh8 27.a4 a5 28.Rg1 Kd7
+29.Nd2 Rxh2 30.Nb3 Rh8 31.Rg7 Ke7 32.Nxa5 Ra8 33.Nb7 Rxa4 34.Nxd6 Kxd6 35.Rxf7 f5
+36.Rf8 Ra2 37.Kd2 Ra1 38.Rd8+ Kc7 39.Re8 Kd6 40.Rd8+ Kc7 41.Re8  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.14"]
+[Round "6"]
+[White "Caruana,F"]
+[Black "McShane,L"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2706"]
+[ECO "A54"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 e4 5.Nd2 Qe7 6.Nb3 Bf5 7.Bg5 Nbd7 8.e3 h6
+9.Bh4 g5 10.Bg3 a6 11.Na5 Rb8 12.b4 Bg7 13.Be2 O-O 14.Rb1 Bg6 15.h4 g4 16.h5 Bxh5
+17.b5 axb5 18.Rxb5 Bg6 19.Nxb7 Rfc8 20.Na5 Ra8 21.Nc6 Qe8 22.a4 Nf8 23.Nd5 Nxd5
+24.cxd5 f5 25.a5 Bf7 26.Qc2 Ng6 27.Bh4 Nxh4 28.Rxh4 h5 29.g3 Bf6 30.Rh1 h4
+31.gxh4 Kh8 32.Kd2 Qg8 33.Bc4 g3 34.Rg1 g2 35.Kc3 Bxh4 36.Qe2 Qg5 37.Rb2 Bh5
+38.Rxg2 Bxe2 39.Rxg5 Bxg5 40.Rxe2 Kg7 41.a6 Rh8 42.a7 Rh1 43.Kb2 Bh4 44.Rc2 Kf6
+45.Ba6 Kg5 46.Bb7 Rxa7 47.Nxa7 Rf1 48.Nc6 Rxf2 49.Na5 f4 50.Nc4 Rxc2+ 51.Kxc2 fxe3
+52.Nxe3 Bf2 53.Kd2 Kf4 54.Nc2 Kf3 55.Ba6 Bh4 56.Be2+ Kf2 57.Bh5 Bg5+ 58.Kc3 Bf6
+59.Na3 Ke3 60.Nb5 Bh4 61.Nxc7 Be1+ 62.Kc4 Kd2 63.Nb5 e3 64.Nxd6 e2 65.Nf7 Bf2
+66.Bxe2 Kxe2 67.d6  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.14"]
+[Round "6"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2835"]
+[BlackElo "2825"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ke8 10.b3 Be6 11.Bb2 Bb4 12.Ne2 Bd5 13.Ne1 h5 14.Nd3 Be7 15.Nef4 Rh6
+16.c4 Be4 17.Rad1 g5 18.Rfe1 Bxd3 19.Nxd3 b5 20.c5 Ng7 21.b4 a5 22.a3 Ne6
+23.g3 g4 24.Kg2 Rg6 25.Nf4 Rg5 26.Bc1 Rf5 27.h3 gxh3+ 28.Nxh3 axb4 29.axb4 Ra4
+30.Bd2 Ra3 31.f4 h4 32.Re3 Rxe3 33.Bxe3 hxg3 34.Kxg3 Rh5 35.Bf2 f5 36.exf6 Bxf6
+37.Kg4 Rxh3 38.Kxh3 Nxf4+ 39.Kg4 Nd5 40.Bd4 Kf7 41.Kf5 Ne7+ 42.Ke4 Bxd4 43.Kxd4 Ke6
+44.Re1+ Kd7 45.Ke5 Nd5 46.Re4 Kc8 47.Ke6 Nc3 48.Rh4 Nd5 49.Rd4 Kd8 50.Rg4 Kc8
+51.Rh4 Kb7 52.Kd7 Nf6+ 53.Kd8 Nd5 54.Rg4 Kb8 55.Rd4 Kb7 56.Kd7 Nc3 57.Ke6 Kc8
+58.Rd3 Nd5 59.Rd4 Nc3 60.Rd3 Nd5  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.16"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2825"]
+[BlackElo "2761"]
+[ECO "E15"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ba6 7.b3 c6 8.Nc3 d5
+9.e4 Nxe4 10.Nxe4 dxe4 11.Ng5 c5 12.Bg2 Nc6 13.dxc5 Qxd2+ 14.Kxd2 f5 15.Nxe6 Kf7
+16.Nf4 bxc5 17.f3 Rad8+ 18.Kc3 e3 19.Nd3 Rhe8 20.Nxc5 e2 21.Nxa6 Re3+ 22.Kc2 Red3
+23.Rae1 Rd2+ 24.Kc1 Rxa2 25.f4 Rdd2 26.Bxc6 Rac2+ 27.Kb1 Rb2+ 28.Ka1 Ra2+  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.16"]
+[Round "7"]
+[White "Tomashevsky,E"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2769"]
+[ECO "E90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 a5 8.g4 Na6 9.Be3 Bd7
+10.Nd2 Kh8 11.Be2 Ng8 12.h4 f5 13.gxf5 gxf5 14.exf5 Nc5 15.Nde4 Nxe4 16.Nxe4 Bxf5
+17.Ng3 Bh6 18.Qd2 Bxe3 19.fxe3 Bd7 20.O-O-O Nf6 21.Rdf1 Qe7 22.Bd3 b6 23.Bc2 Rf7
+24.Nf5 Bxf5 25.Rxf5 Raf8 26.Qg2 Ne8 27.Rh5 e4 28.Rg5 Rf2 29.Qg3 R2f3 30.Qg2 Qf6
+31.Rg1 Ng7 32.Rg4 Rf1+ 33.Rxf1 Qxf1+ 34.Qxf1 Rxf1+ 35.Kd2 Rf2+ 36.Kc3 Nf5
+37.Rxe4 Kg7 38.Rg4+ Kh6 39.Bxf5 Rxf5 40.Re4 Rf7 41.b4 a4  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.16"]
+[Round "7"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2835"]
+[ECO "E10"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.Qc2 c6 8.O-O b6
+9.Bf4 Bb7 10.Rd1 Nbd7 11.Nc3 dxc4 12.Nd2 Nd5 13.Nxc4 Nxf4 14.gxf4 Qc7 15.e3 Rad8
+16.Rd2 Nf6 17.Rad1 c5 18.d5 exd5 19.Nxd5 Nxd5 20.Bxd5 g6 21.Ne5 Bxd5 22.Rxd5 Rxd5
+23.Rxd5 Rd8 24.Qc4 Rxd5 25.Qxd5 Bf6 26.Nd7 Kg7 27.b3 Bc3 28.a4 Qd8 29.Qd6 Bf6
+30.Kf1 Qe7 31.Qd5 Bc3 32.Ke2 Qh4 33.Kd3 Ba1 34.Ne5 Bxe5 35.Qxe5+ Kh6 36.Qc7 Qxf2
+37.Qxf7 Qf1+ 38.Ke4 Qb1+ 39.Kf3 Qh1+ 40.Kg3 Qg1+ 41.Kf3 Qh1+ 42.Kg3 Qg1+
+43.Kf3 Qh1+  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.16"]
+[Round "7"]
+[White "McShane,L"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2706"]
+[BlackElo "2801"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.Bf4 Rxe1 12.Qxe1 Ne8 13.Nc3 Bxd4 14.Nd5 d6 15.Bg5 Bf6
+16.Nxf6+ Nxf6 17.Bxf6 gxf6 18.Qe4 f5 19.Qe3 Be6 20.Qg3+ Kf8 21.Qc3 Ke7 22.Re1 Kd7
+23.Bc4 Qh8 24.Bxe6+ fxe6 25.Qb3 Re8 26.Qxb7 Rb8 27.Qxa7 Qxb2 28.Qa4+ Qb5
+29.Qh4 Qa5 30.Qxh7+ Kc6 31.Rc1 Qxa2 32.Qh5 Qb2 33.Qd1 Kd7 34.g3 e5 35.c4 Ke7
+36.Qe1 Rb3 37.c5 d5 38.Rd1 c6 39.Qa5 Kd7 40.Qa4 Rb5 41.Qh4 Rxc5 42.Qh7+ Kd6
+43.Qg6+ Kc7 44.Qxf5 e4 45.h4 Rc3 46.Qe5+ Kb7 47.h5 Rb3 48.Qe7+ Kb6 49.Qd8+ Kb7
+50.Qd7+ Kb6 51.Qd8+ Kb7 52.Qe7+ Kb6 53.Qe8 Kb7 54.h6 Rf3 55.Qe7+ Ka6 56.Qc5 Kb7
+57.Qe7+ Ka6 58.Qc5 Kb7 59.Rc1 Rf6 60.h7 Rh6 61.Kg2 Qb3 62.Qe7+ Kb6 63.Qd8+ Kb7
+64.Qd7+ Kb6 65.Rxc6+ Rxc6 66.Qd8+ Ka7 67.Qd7+ Kb6 68.Qd8+ Ka7 69.h8=Q Qf3+
+70.Kh3 Rh6+ 71.Qxh6 Qh1+ 72.Kg4 Qxh6 73.Qxd5 Qf6 74.Qf5 Qd4 75.Qf4 Kb7 76.Kf5 Qd5+
+77.Qe5 Qf7+ 78.Qf6 Qd5+ 79.Kf4 Qd2+ 80.Kxe4 Qe2+ 81.Kd5 Qa2+ 82.Kd6 Qa3+
+83.Ke6 Qa2+ 84.Ke7 Qe2+ 85.Kf7 Qh5+ 86.Kg7 Qg4+ 87.Qg6 Qd4+ 88.Qf6 Qg4+ 89.Kh6 Qe2
+90.Kg5 Kc7 91.f4 Qf3 92.Qe5+ Kd7 93.f5 Qf1 94.f6  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.16"]
+[Round "7"]
+[White "Radjabov,T"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2770"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Qd2 Qxd2+ 12.Bxd2 Rd8 13.d5 Na6 14.Rc1 f5 15.e5 h6
+16.Bc4 Kh8 17.O-O g5 18.Rfd1 f4 19.Bxa6 bxa6 20.Ba5 Rg8 21.e6 Rb8 22.a4 Bb7
+23.Rc7 g4 24.Nh4 Bf6 25.Nf5 Bxd5 26.Nxe7 Bxe7 27.Rxe7 Rg5 28.Bc7 Rb4 29.Re8+ Rg8
+30.Be5+ Kh7 31.Re7+ Kg6 32.Rxa7 Re4 33.Bxf4 Bb3 34.Rb1 Bxa4 35.Be3 Bb5 36.e7 Re8
+37.Bc5 Rc8 38.Be3 Re8 39.Rd1 h5 40.Rd5 h4 41.h3 gxh3 42.gxh3 R4xe7 43.Rxe7 Rxe7
+44.Rg5+ Kf6 45.Rg4 Rh7 46.Bg5+ Kf7 47.Bxh4 Bd7 48.Rf4+ Kg8 49.Kh2 a5 50.Kg3 Rg7+
+51.Kh2 Rh7 52.Rd4 a4 53.Rd3 a3 54.Bf6 a2 55.f4 Rf7 56.Be5 Rh7 57.Ra3 Be6
+58.Kg2 Kf7 59.Ra7+ Kg8 60.Ra6 Bxh3+ 61.Kg3 Bd7 62.Rxa2 Rh3+ 63.Kg2 Rd3  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.17"]
+[Round "8"]
+[White "Grischuk,A"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteElo "2761"]
+[BlackElo "2775"]
+[ECO "B75"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.g4 Nxd4 10.Bxd4 Be6 11.Nd5 Bxd5 12.exd5 Rc8 13.h4 Qc7 14.Rh2 e5 15.dxe6 fxe6
+16.O-O-O e5 17.Be3 Qf7 18.Kb1 d5 19.h5 e4 20.hxg6 hxg6 21.Be2 Qe6 22.Bd4 Rc7
+23.Rdh1 Rff7 24.a3 b6 25.fxe4 Qxe4 26.g5 Nh5 27.Bxg7 Kxg7 28.Bxh5 gxh5 29.Rxh5 Qc4
+30.Qd1 Qe4 31.g6 Rfe7 32.R5h4 Qe5 33.Rh7+ Kg8 34.R7h5 Qe4 35.Qd2  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.17"]
+[Round "8"]
+[White "Caruana,F"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2801"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6
+9.Nd2 g6 10.Nf3 Bg7 11.Bg5 f6 12.exf6 Qxe2+ 13.Bxe2 Nxf6 14.O-O-O O-O-O 15.Be3 Rde8
+16.Bd3 d6 17.c5 Bxd3 18.Rxd3 Nd5 19.cxd6 cxd6 20.Bxa7 Kc7 21.Be3 Ra8 22.a3 Ra4
+23.Re1 Rf8 24.Ng5 Re8 25.Bb6+ Kd7 26.Rxe8 Kxe8 27.Be3 Kd7 28.Rb3 Kc8 29.Bd2 h5
+30.Nf7 Kc7 31.Rg3 Ne7 32.b4 Kd7 33.Rd3 d5 34.Kc2 Nf5 35.Bc3 d4 36.Kb3 Ra8
+37.Ng5 Kd6 38.f3 Kd5 39.Ne4 Ne3 40.Rxe3  1-0
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.17"]
+[Round "8"]
+[White "Carlsen,M"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2835"]
+[BlackElo "2738"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bc5 5.Bg2 d6 6.O-O a6 7.a3 O-O 8.b4 Ba7
+9.d3 h6 10.Bb2 Rb8 11.Rc1 Be6 12.Nd2 Ne7 13.e3 Qd7 14.Ne2 Bg4 15.Re1 Ng6
+16.Qc2 c6 17.d4 Rbe8 18.c5 Bb8 19.dxe5 dxe5 20.Nc4 Bh3 21.Rcd1 Qe6 22.Na5 Bxg2
+23.Kxg2 Re7 24.e4 Qg4 25.Ng1 Nh4+ 26.Kh1 Nf3 27.Nxf3 Qxf3+ 28.Kg1 Qg4 29.Rd3 Qc8
+30.Nc4 Qe6 31.f3 Bc7 32.Red1 Rd7 33.Nd6 Bxd6 34.Rxd6 Rxd6 35.Rxd6 Qa2 36.Kg2 Re8
+37.Qc3 Nh7 38.Rd2 Nf8 39.Bc1 Qe6 40.Rd6 Qa2+ 41.Qb2 Qxb2+ 42.Bxb2 f6 43.Kh3 Re7
+44.Kg4 Kf7 45.Bc1 Rd7 46.Be3 Rxd6 47.cxd6 Nd7 48.a4 b6 49.a5 bxa5 50.bxa5 c5
+51.Kh5 Kg8 52.f4 exf4 53.gxf4 Kf7 54.Bd2 Nf8 55.Be3 Nd7 56.f5 c4 57.Bd4 Ke8
+58.Kg6 Kf8 59.Bc3 Kg8 60.Bd4 Kf8 61.h3 Kg8 62.Bc3 Kf8 63.h4 Kg8 64.e5 fxe5
+65.f6 gxf6 66.h5 f5 67.Kxf5 Kf7 68.Bb4 e4 69.Kxe4 Ke6 70.Kd4 Nf6 71.Kxc4 Nxh5
+72.Kc5 Nf6 73.Kc6 Nd7 74.Be1 h5 75.Bg3 Nf8 76.Kb7 h4 77.Bh2 Kd5 78.Kxa6 Kc6
+79.Ka7 Nd7 80.a6 Nc5 81.Bf4 h3 82.Bg3 Kb5 83.Bh2 Kc6 84.Bg3 Kb5 85.Bh2  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.17"]
+[Round "8"]
+[White "Morozevich,A"]
+[Black "McShane,L"]
+[Result "0-1"]
+[WhiteElo "2769"]
+[BlackElo "2706"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.e3 b5 6.b3 Bg4 7.h3 Bxf3 8.gxf3 Nbd7
+9.Bg2 e6 10.Bd2 Be7 11.f4 O-O 12.O-O bxc4 13.bxc4 Nb6 14.c5 Nc4 15.Be1 Kh8
+16.Ne2 Rg8 17.Ng3 g5 18.Qf3 g4 19.hxg4 Nxg4 20.Rc1 Qf8 21.Bh3 Nf6 22.Kh2 Rb8
+23.e4 Rxg3 24.fxg3 dxe4 25.Qc3 Nb2 26.Rb1 Nd5 27.Qd2 Nc4 28.Rxb8 Qxb8 29.Qe2 Nce3
+30.Rh1 Bf6 31.Bg2 Bxd4 32.Bxe4 Nxf4 33.gxf4 Qxf4+ 34.Bg3 Qxe4 35.Re1 Qf5
+36.Bd6 Ng4+ 37.Kg2 Ne3+ 38.Kh2 e5 39.Rg1 Qf4+ 40.Kh3 Qh6+  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.17"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2825"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 e6 4.c4 c6 5.O-O Nd7 6.cxd5 cxd5 7.Qb3 Qb6 8.Qxb6 Nxb6
+9.Nc3 a6 10.d3 Nf6 11.Ne5 Bh5 12.Be3 Nbd7 13.Nxd7 Nxd7 14.f4 Bb4 15.Kf2 O-O
+16.Rfc1 Rfc8 17.h3 Bg6 18.g4 h5 19.Bf3 Bh7 20.gxh5 Kf8 21.Rg1 Rc7 22.Rg2 Be7
+23.Bd4 Bf6 24.Bxf6 Nxf6 25.Rag1 Ne8 26.Rg4 d4 27.Na4 Rd8 28.Rg5 Bf5 29.b4 Rc2
+30.Nc5 b6 31.Ne4 Rxa2 32.Rc1 Rb2 33.Ra1 Nc7 34.Rag1 Nd5 35.Rxg7 Nxf4 36.Rg8+ Ke7
+37.Rxd8 Nxh3+ 38.Kg3 Nxg1 39.Rb8 Nxe2+ 40.Bxe2 Rxe2 41.Rb7+ Kf8 42.Nd6 Bxd3
+43.Rxf7+ Kg8 44.h6 Re5 45.Rg7+ Kf8  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.18"]
+[Round "9"]
+[White "Nakamura,Hi"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2784"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.b3 Nge7 5.O-O a6 6.Bxc6 Nxc6 7.Bb2 b6 8.Qe2 Bb7
+9.Rd1 Qc7 10.c3 Ne5 11.Nxe5 Qxe5 12.d3 d5 13.Nd2 Bd6 14.g3 Be7 15.d4 cxd4
+16.cxd4 Qc7 17.Rac1 Qd7 18.e5 O-O 19.Nb1 b5 20.Nc3 Bc6 21.Qg4 f5 22.exf6 Rxf6
+23.Ne2 Bd6 24.Rc2 b4 25.Nc1 Bb5 26.Nd3 Bxd3 27.Rxd3 Rc8 28.Rdd2 Rff8 29.Qe2 Rxc2
+30.Rxc2 Rc8 31.Bc1 Rxc2 32.Qxc2 Qe8 33.f4 g6 34.Be3 Kf7 35.Kg2 Qd7 36.Bf2 Be7
+37.Be3 Bd6 38.Bf2 Be7 39.Be3  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.18"]
+[Round "9"]
+[White "Tomashevsky,E"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2761"]
+[ECO "E81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Nge2 c5 7.d5 e6 8.Ng3 exd5
+9.cxd5 Nbd7 10.Be2 h5 11.Bg5 Qb6 12.Qb3 Qc7 13.O-O Nh7 14.Be3 a6 15.a4 h4
+16.Nh1 f5 17.exf5 gxf5 18.Bd2 f4 19.Nf2 Ne5 20.Nce4 Nf6 21.Nxf6+ Rxf6 22.Ne4 Rf8
+23.Kh1 Bd7 24.a5 Rae8 25.Rae1 Bc8 26.Ng5 Qe7 27.Ne6 Bxe6 28.dxe6 d5 29.Bc3 c4
+30.Qb6 Qxe6 31.Qxb7 Rf7 32.Qb4 Qc6 33.Bd4 Nd7 34.Bxg7 Rxg7 35.Bd1 Re3 36.Bc2 Qc5
+37.Qb7 Nf8 38.Qb6 Qxb6 39.axb6 Rb7 40.Rd1 Re5 41.b3 Re2 42.Rc1 Rxb6 43.bxc4 h3
+44.Rfe1 hxg2+ 45.Kg1 Rxe1+ 46.Rxe1 Rc6 47.Kxg2 Rxc4  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.18"]
+[Round "9"]
+[White "Kramnik,V"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2769"]
+[ECO "D44"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5
+10.Bxg5 Be7 11.exf6 Bxf6 12.Bxf6 Qxf6 13.a4 Rh4 14.axb5 Rxd4 15.Qf3 Qxf3
+16.gxf3 Bb7 17.Rg1 Nd7 18.Rg8+ Nf8 19.Be2 cxb5 20.Nxb5 Rd7 21.h4 f5 22.h5 Kf7
+23.Rg3 Bd5 24.O-O-O Rad8 25.Nc3 Bc6 26.Rh1 Kf6 27.Bxc4 Rh7 28.Kc2 Be8 29.Rgh3 Bf7
+30.Rh4 Rc8 31.b3 Nd7 32.Be2 Ne5 33.f4 Nc6 34.Rd1 Rch8 35.Rd7 Be8 36.Rxh7 Rxh7
+37.Kd2 Rd7+ 38.Ke1 Nd4 39.Bd1 Kg7 40.Rh3 Rb7 41.Na4 Bc6 42.Nc5 Rb5 43.Nd3 Be8
+44.Ne5 Rb4 45.Kd2 Nc6 46.Nc4 Ne7 47.Nd6 Rb8 48.h6+ Kh7 49.Re3 Bd7 50.Nf7 Nd5
+51.Rg3 Rg8 52.Rxg8 Kxg8 53.Ng5 Nxf4 54.b4 Bc6 55.Ke3 e5 56.Bb3+ Bd5 57.Bc2 Ba2
+58.b5 Nd5+ 59.Kd2 e4 60.Bd1 Bc4 61.Bh5 Nf6 62.Bg6 f4 63.Bxe4 Nxe4+ 64.Nxe4 Bxb5
+65.Ng5 a5 66.Kc3 Be2 67.Kd4 a4 68.Kc3 Bd1 69.Kb4 Kh8 70.Ne6 Kh7 71.Nxf4 Kxh6
+72.Nd3  1/2-1/2
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.18"]
+[Round "9"]
+[White "McShane,L"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteElo "2706"]
+[BlackElo "2835"]
+[ECO "C85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.b3 O-O
+9.Bb2 f6 10.Nc3 Re8 11.Kh1 Nf8 12.Ne2 c5 13.Nh4 Ne6 14.Nf5 Bf8 15.Ne3 Nd4
+16.f4 Be6 17.fxe5 fxe5 18.Ng1 g6 19.c3 Nc6 20.Nf3 Bg7 21.Qe1 a5 22.Rd1 a4
+23.bxa4 Rxa4 24.a3 Rf8 25.Bc1 Ra8 26.Qg3 Bb3 27.Rde1 Qxd3 28.Ng4 Be6 29.Nh6+ Kh8
+30.Qh4 Bf6 31.Bg5 Bxg5 32.Qxg5 Kg7 33.Qc1 Rf4 34.Rd1 Qc4 35.Rfe1 Raf8 36.Ng5 Bc8
+37.g3 Rf2 38.Nf5+ gxf5 39.Nh3 Re2 40.Qg5+ Kh8  0-1
+
+[Event "7th Mikhail Tal Memorial"]
+[Site "Moscow RUS"]
+[Date "2012.06.18"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2825"]
+[BlackElo "2770"]
+[ECO "D70"]
+
+1.d4 Nf6 2.c4 g6 3.f3 d5 4.cxd5 Nxd5 5.e4 Nb6 6.Nc3 Bg7 7.Be3 O-O 8.Qd2 Nc6
+9.O-O-O Qd6 10.Kb1 Rd8 11.Nb5 Qd7 12.d5 a6 13.Nc3 Qe8 14.Qe1 Ne5 15.Be2 e6
+16.Bxb6 cxb6 17.f4 Nd7 18.dxe6 Qxe6 19.Nf3 Qe8 20.Qh4 Bf6 21.Ng5 Nf8 22.Bc4 Kg7
+23.Qg3 Bxg5 24.fxg5 Be6 25.Nd5 Bxd5 26.Bxd5 Rd7 27.h4 Rc8 28.a3 Qd8 29.Qf2 Ne6
+30.Ka2 Qe7 31.Rhf1 b5 32.Rd3 Rcc7 33.Kb1 a5 34.g4 a4 35.Rf3 Qd6 36.Rf6 Qc5
+37.Qg3 b4 38.axb4 Qc2+ 39.Ka1 a3 40.bxa3 Rxd5 41.exd5 Nd4 42.Rxf7+ Rxf7 43.Qe5+ Kf8
+44.Qb8+ Kg7 45.Rxf7+ Kxf7 46.Qxb7+ Ke8 47.Qb8+ Kd7 48.Qa7+ Kd6 49.Qxd4 Qc1+
+50.Ka2 Qc2+ 51.Qb2 Qc4+ 52.Ka1 Qxg4 53.Qf2 Kxd5 54.Qc5+  1-0

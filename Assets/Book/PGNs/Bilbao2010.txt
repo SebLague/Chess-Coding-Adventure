@@ -1,0 +1,350 @@
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.09"]
+[Round "1"]
+[White "Shirov, Alexei"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2800"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "5000017"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. b3 Be7 12. Bb2 Be6 13. Rad1 a5 14. a4 b6 15.
+Ne4 c5 16. c4 Rd8 17. Rxd8+ Kxd8 18. Rd1+ Kc8 19. Kf1 Rd8 20. Rxd8+ Kxd8 21. Ke2
+Ke8 22. Kd3 Bd8 23. Bc1 f6 24. g4 hxg4 25. hxg4 Nd4 26. Nxd4 cxd4 27. exf6 gxf6
+28. g5 c5 29. Nxf6+ Bxf6 30. gxf6 Bf5+ 31. Kd2 Bb1 32. Kd1 d3 33. Kd2 Kf7 34.
+Kc3 Kxf6 35. Bf4 Ke6 36. Bc7 Ba2 37. Bxb6 Kd6 38. Bxa5 d2 39. Kxd2 Bxb3 40. Kd3
+Bxa4 41. Ke4 1/2-1/2
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.09"]
+[Round "1"]
+[White "Kramnik, Vladimir"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2826"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "4101588"]
+[BlackFideId "1503014"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
+Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rab1 h6 13. Qb5 Bc6 14. Qxb6 axb6 15.
+b3 g5 16. Bxb8 Raxb8 17. Ne5 Bxg2 18. Kxg2 Rbc8 19. e4 d6 20. Nd3 Kf8 21. h3 Nd7
+22. f4 Nb8 23. Na4 Nd7 24. Nf2 Ra8 25. Rd2 Ra5 26. Nc3 Nb8 27. Rbd1 Nc6 28. Nb5
+gxf4 29. gxf4 d5 30. exd5 exd5 31. cxd5 Rxb5 32. dxc6 Rc8 33. Ng4 Rxc6 34. Ne5
+Re6 35. Kf3 Ra5 36. Rg2 f6 37. Nc4 Ra7 38. f5 Rc6 39. a4 Rb7 40. Rg6 h5 41. Rdg1
+Ke8 42. Ne5 Rc8 43. Rg8+ Bf8 44. Ng6 Rf7 45. Rd1 1-0
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.10"]
+[Round "2"]
+[White "Kramnik, Vladimir"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2749"]
+[ECO "D16"]
+[Opening "QGD Slav"]
+[Variation "Soultanbeieff variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "2209390"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
+Be7 9. Qe2 cxd4 10. Rd1 O-O 11. exd4 Nd5 12. Bb3 Na5 13. Ba2 Nb4 14. d5 Nxa2 15.
+Rxa2 Bf6 16. dxe6 Qe7 17. Nd5 Qxe6 18. b4 Nc6 19. b5 Ne5 20. Nc7 Nxf3+ 21. gxf3
+Qxe2 22. Rxe2 Be6 23. Nxa8 Rxa8 24. Bb2 Rc8 25. Rc1 Rd8 26. Bxf6 gxf6 27. Kg2 a6
+28. bxa6 bxa6 29. Rc6 Kg7 30. Re4 f5 31. Rh4 Ra8 32. a5 Kg6 33. Kg3 Kg5 34. Rd4
+h5 35. h4+ Kf6 36. Kf4 Rb8 37. Rxa6 Rb2 38. Ra4 Rxf2 39. Rxe6+ fxe6 40. a6 Re2
+41. a7 1-0
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.10"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2826"]
+[BlackElo "2800"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7 6. c3 O-O 7. Nbd2 Bd7 8. Re1
+Re8 9. Nf1 Bf8 10. Ba4 h6 11. Ng3 Ne7 12. Bb3 Ng6 13. d4 c5 14. h3 Qc7 15. a4 a6
+16. a5 cxd4 17. cxd4 exd4 18. Nxd4 d5 19. exd5 Rxe1+ 20. Qxe1 Re8 21. Qc3 Qxc3
+22. bxc3 Re1+ 23. Kh2 Bd6 24. Nc2 Rf1 25. Be3 Rxa1 26. Nxa1 Be5 27. Bd4 Bxd4 28.
+cxd4 Ne7 29. Nc2 Nfxd5 30. Ne4 b6 31. Ne3 Nxe3 32. axb6 N3f5 33. Nc5 Nxd4 34. b7
+Nec6 35. Ba4 Be8 36. Nxa6 Kf8 37. Kg3 Ke7 38. Kf4 Ne6+ 39. Ke3 Ned8 40. Bxc6
+Nxc6 41. h4 Kd6 42. g4 Bd7 43. g5 hxg5 44. hxg5 g6 45. f4 Be6 0-1
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.11"]
+[Round "3"]
+[White "Shirov, Alexei"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2826"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "1503014"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b4
+Nb6 16. axb5 cxb5 17. d5 Rc8 18. Bb2 Nh5 19. Bf1 f5 20. Nxe5 Rxe5 21. c4 Nf6 22.
+Bxe5 dxe5 23. c5 fxe4 24. d6 Na4 25. Nc4 Nxc5 26. bxc5 Rxc5 27. Qb3 Bd5 28. Qb4
+Rxc4 29. Bxc4 bxc4 30. Rxa6 Qc8 31. Qa5 c3 32. d7 Qxd7 33. Qxc3 Qb7 34. Rea1 Qb8
+35. Ra7 h6 36. Rc7 Qb6 37. Qxe5 Bd6 38. Rc8+ Kf7 39. Qc3 Qb7 40. Rca8 Qxa8 41.
+Rxa8 Bxa8 42. Qd4 Bd5 43. Qa7+ Be7 44. Qc7 h5 45. Qe5 g6 46. Kh2 Be6 47. Kg1 Bf5
+48. Kf1 Ne8 49. Kg1 Ng7 50. Qd5+ Ne6 51. Qb7 h4 52. Kh2 Nf4 53. Kg1 Nd3 54. Kf1
+Nc5 55. Qd5+ Be6 56. Qe5 Bf5 57. Qd5+ Ne6 58. Qb7 Kf8 59. Qa8+ Bd8 60. Qa7 Bf6
+61. Qb7 Kg8 62. Qa7 Bg5 63. Ke2 Nf4+ 64. Kf1 Nh5 65. Ke2 Kf8 66. Kf1 Bf6 67. Qc7
+Ng7 68. Qa7 Ne6 69. Qb7 Nd8 70. Qa7 Nf7 71. Kg1 Kg7 72. Kf1 Be5 73. Qe7 g5 74.
+Kg1 Bf6 75. Qb7 Kg6 76. Qd5 Ne5 77. Qg8+ Bg7 78. Qe8+ Kh6 79. Qe7 Nd3 80. Kf1
+Nf4 81. Qd6+ Bg6 82. Qe7 Nd5 83. Qe6 Nf6 84. Kg1 Be8 85. Qf5 Bd7 86. Qe5 Kg6 87.
+Kf1 Bf8 88. Kg1 Ba3 89. Qc7 Bb4 90. Qe5 Bd2 91. Qd4 Bf4 92. Qb6 Be8 93. Kf1 Bf7
+94. Kg1 Kf5 95. Qa7 Be6 96. Kf1 Kg6 97. Qb6 Bd7 98. Kg1 Ba4 99. Qe6 Bb5 100. Qb6
+Bc4 101. Qd4 Be6 102. Kf1 Bf5 103. Kg1 g4 104. hxg4 Bxg4 105. Qc3 Bf5 106. Qb3
+Bg5 107. Kf1 Kh6 108. Kg1 Kg6 109. Kf1 Bd7 110. Kg1 Be8 111. Qc3 Bf7 112. Qe5
+Bd5 113. Qc3 Be6 114. Qe5 Bd7 115. Qc3 Bf5 116. Qb3 Nh5 117. Qg8+ Ng7 118. Qb3
+Ne6 119. Kh2 Bf6 120. Kg1 Bg7 121. Kf1 Ng5 122. Qb6+ Bf6 123. Kg1 h3 124. gxh3
+Bxh3 125. Qd6 Bf5 126. Kg2 Nf3 127. Qd5 Kg5 128. Qg8+ Bg6 129. Qd5+ Be5 130.
+Qd8+ Kh5 131. Qd5 Bf5 132. Qf7+ Kg4 133. Qg8+ Ng5 134. Qc4 Bf4 135. Qg8 Be6 136.
+Qg7 Bf7 137. Qd4 Kf5 138. Qc5+ Be5 139. Qf8 Kg6 140. Qc5 Bf6 141. Qd6 Bc4 142.
+Qc6 Be6 143. Qd6 Bg4 144. Qd5 Bf3+ 145. Kf1 Nf7 146. Kg1 Ne5 147. Qg8+ Kf5 148.
+Qc8+ Kg5 149. Qg8+ Ng6 150. Qd5+ Kh6 151. Qe6 Be5 152. Qf5 Bf4 153. Qf6 Bg5 154.
+Qe6 Kg7 155. Qd7+ Ne7 156. Qe6 Bf6 157. Kf1 Kg6 158. Kg1 Nf5 159. Qg8+ Kh5 160.
+Qf7+ Kg5 161. Qg8+ Kf4 162. Qb8+ Kg4 163. Qg8+ Bg5 164. Qc8 Bf6 165. Qg8+ Kf4
+166. Qb8+ Be5 167. Qb4 Nd4 168. Qf8+ Kg5 169. Qg8+ Kh6 170. Qf8+ Bg7 171. Qd6+
+Kh5 172. Qh2+ Kg5 173. Qg3+ Bg4 174. Qe3+ Kf5 1/2-1/2
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.11"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2780"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "5000017"]
+[BlackFideId "4101588"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5 8.
+Bxb4 Nxb4 9. O-O Rb8 10. Na3 O-O 11. Qb5 b6 12. Qxc4 Ba6 13. Nb5 Qd5 14. Qxd5
+Nxd5 15. a4 Na5 16. Ne5 Rbd8 17. Nxa7 Nb4 18. Rac1 Rxd4 19. Rxc7 Bxe2 20. Rfc1
+f6 21. Nec6 Naxc6 22. Nxc6 Nxc6 23. R7xc6 Rfd8 24. h3 R8d6 25. Rxd6 Rxd6 26. Rc6
+Rxc6 27. Bxc6 e5 28. f4 exf4 29. gxf4 Kf7 30. Kf2 Bc4 31. b4 g5 32. fxg5 fxg5
+33. h4 gxh4 34. a5 1/2-1/2
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.13"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2826"]
+[BlackElo "2780"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "1503014"]
+[BlackFideId "4101588"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. d3
+O-O 9. Be3 Re8 10. Rc1 Bf8 11. Ne4 Nd4 12. Bg5 f6 13. Nxd4 exd4 14. Bd2 Be6 15.
+b4 Bd5 16. a4 c6 17. a5 Nc8 18. Re1 a6 19. Nc5 Bxg2 20. Kxg2 Qd5+ 21. Kg1 Nd6
+22. Qb3 Qxb3 23. Nxb3 Nb5 24. Kf1 Rad8 25. Rc4 Rd5 26. Bc1 Red8 27. Bb2 Kf7 28.
+Kg2 h5 29. h3 g5 30. g4 Kg6 31. Rf1 Be7 32. f4 hxg4 33. hxg4 gxf4 34. Rxf4 Bd6
+35. Rf3 Rg5 36. Bxd4 Rxg4+ 37. Kf2 Nxd4 38. Nxd4 Rh8 39. e4 Rh2+ 40. Ke3 Rb2 41.
+Nc2 Rg5 42. d4 Rb5 43. Kd3 Bxb4 44. Rxb4 R5xb4 45. Nxb4 Rb3+ 46. Ke2 Rxb4 47.
+Rg3+ Kf7 48. Rd3 Ke6 49. Ke3 Rb5 50. Ra3 c5 51. dxc5 Rxc5 52. Kf4 Rh5 53. Rb3
+Rb5 54. Ra3 Kd6 55. Ra1 Rc5 56. Rd1+ Kc7 57. Ra1 Kc6 58. Ke3 f5 59. exf5 Rxf5
+60. Kd3 Rf3+ 61. Kc4 Rf4+ 62. Kc3 Kc5 63. Rh1 Rf3+ 64. Kc2 Rf5 65. Kc3 Rf3+ 66.
+Kc2 Ra3 67. Rh7 Kc6 68. Rh6+ Kc7 69. Rh7+ Kb8 70. Rh8+ Ka7 71. Rh5 Re3 72. Kb2
+Kb8 73. Rc5 Re6 1/2-1/2
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.13"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2749"]
+[ECO "C12"]
+[Opening "French"]
+[Variation "MacCutcheon, Lasker variation, 8...g6"]
+[WhiteFideId "5000017"]
+[BlackFideId "2209390"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
+g6 9. Bd3 Nxd2 10. Kxd2 c5 11. h4 Qa5 12. Nf3 Nc6 13. Qf4 cxd4 14. h5 g5 15. Qf6
+Rf8 16. Qxh6 g4 17. Ng5 Nxe5 18. Nh7 Rh8 19. Ke2 Nxd3 20. cxd3 Bd7 21. Nf6+ Ke7
+22. Qg5 dxc3 23. Ne4+ Ke8 24. Nf6+ Ke7 25. Nxg4+ Kd6 26. Ne5 f6 27. Qxf6 Raf8
+28. Qg7 Qa4 29. Nf7+ Rxf7 30. Qxf7 Qc2+ 31. Kf1 Qxd3+ 32. Kg1 Qd2 33. Qg7 c2 34.
+Qxh8 c1=Q+ 35. Rxc1 Qxc1+ 36. Kh2 Qf4+ 37. Kg1 Qc1+ 38. Kh2 1/2-1/2
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.14"]
+[Round "5"]
+[White "Carlsen, Magnus"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2826"]
+[BlackElo "2749"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteFideId "1503014"]
+[BlackFideId "2209390"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
+axb5 9. c3 d6 10. d4 Bb6 11. h3 O-O 12. Re1 h6 13. Na3 exd4 14. cxd4 Na5 15. Bc2
+b4 16. Nb5 Ba6 17. Na7 Bb7 18. d5 Ra8 19. Nb5 Nc4 20. Rxa8 Qxa8 21. Nbd4 Qa7 22.
+b3 Ne5 23. Bb2 Nxf3+ 24. gxf3 Qa2 25. Qc1 Bxd4 26. Bxd4 Nd7 27. Kh1 f6 28. Rg1
+Rf7 29. Qd2 Qa8 30. Qxh6 Ne5 31. Bd1 Qe8 32. Qe3 c5 33. Bb2 Re7 34. f4 Nd7 35.
+Qg3 Qf7 36. Bf3 Ba6 37. Bg4 Nf8 38. Bf5 c4 39. bxc4 Bxc4 40. Qh4 Bxd5 41. f3 Be6
+42. Bxf6 Bxf5 43. exf5 Rc7 44. Rxg7+ Qxg7 45. Bxg7 Rxg7 46. f6 Rd7 47. Qe1 d5
+48. Qxb4 d4 49. Qc4+ Kh7 50. Qd3+ Kg8 51. f5 Kf7 52. Kg2 Kxf6 53. Kg3 Kg7 54. h4
+Nh7 55. Kf2 Nf6 56. Qd2 Nh7 57. Ke1 d3 58. Qg2+ Kh8 59. Kd2 Nf8 60. Qg5 Kh7 61.
+h5 Kh8 62. f6 Kh7 63. f4 Kh8 64. h6 Kh7 65. f5 1-0
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.14"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2800"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "5000017"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Qa5 9. Bd2 Qc5 10. Bb5+ Bd7 11. Nb3 Qe7 12. Bd3 Nc6 13. O-O O-O 14. a3 Bd6
+15. Kh1 Be5 16. f4 Bxc3 17. Bxc3 e5 18. f5 Rfd8 19. Qe2 b6 20. Nd2 Bc8 21. Nf3
+Bb7 22. Rae1 a6 23. Bc4 b5 24. Ba2 h6 25. Bd5 Nxd5 26. exd5 Rxd5 27. f6 Qxf6 28.
+Nxe5 Qe6 29. Nxf7 Qxe2 30. Rxe2 Rd7 31. Ne5 Re7 32. Ree1 Nxe5 33. Rxe5 Rxe5 34.
+Bxe5 Re8 35. Re1 Kh7 36. Bc3 Rxe1+ 37. Bxe1 1/2-1/2
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.15"]
+[Round "6"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2826"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b4
+Nb6 16. axb5 cxb5 17. d5 Rc8 18. Ra3 Nh5 19. Nf1 g6 20. N1h2 Bg7 21. Bg5 Qd7 22.
+Be3 Nc4 23. Bxc4 Rxc4 24. Nd2 Rc7 25. Nhf1 Nf4 26. Bb6 Rcc8 27. Ne3 f5 28. f3
+Rf8 29. Kh2 Rf7 30. c4 bxc4 31. Nexc4 fxe4 32. fxe4 Rcf8 33. Be3 Bh6 34. Rf1 Bg7
+35. Qa4 Qe7 36. b5 axb5 37. Qxb5 Bc8 38. Qb6 Qg5 39. Rf2 Qh4 40. Bxf4 Rxf4 41.
+Rxf4 Qxf4+ 42. Kg1 Bh6 43. Rf3 Qg5 44. Qc6 Rxf3 45. Nxf3 Qc1+ 46. Kf2 Bd7 47.
+Qxd7 Qxc4 48. Qe6+ Kg7 49. Qe7+ Kg8 50. Qe6+ Kg7 1/2-1/2
+
+[Event "Grand Slam Final Masters"]
+[Site "Bilbao ESP"]
+[Date "2010.10.15"]
+[Round "6"]
+[White "Shirov, Alexei"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2780"]
+[ECO "E25"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch, Keres variation"]
+[WhiteFideId "2209390"]
+[BlackFideId "4101588"]
+[EventDate "2010.10.09"]
+[EventType "DRR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Nf6 10. Be3 O-O 11. Qb3 Nfd7 12. a4 Qc7 13. Qa3 b6 14. a5 Bb7 15.
+a6 Bc8 16. Bb5 Nxc5 17. Bxc5 bxc5 18. Ne2 Bd7 19. Bc4 Bc6 20. Qxc5 Nd7 21. Qa5
+Rfc8 22. Qxc7 Rxc7 23. Nd4 Bxe4 24. Bxe6 fxe6 25. fxe4 Rxc3 26. O-O Nc5 27. e5
+h6 28. Rfc1 Rxc1+ 29. Rxc1 Nxa6 30. Nxe6 Re8 31. Nd4 Rxe5 32. Ra1 Re4 33. Rxa6
+Rxd4 34. Rxa7 1/2-1/2
+

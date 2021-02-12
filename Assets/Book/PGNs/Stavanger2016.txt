@@ -1,0 +1,845 @@
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.19"]
+[Round "1.4"]
+[White "Giri,A"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2790"]
+[BlackElo "2765"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 O-O 7.Re1 a5 8.Bg5 h6
+9.Bh4 g5 10.Bg3 Ba7 11.Na3 Bg4 12.h3 Bh5 13.Nc2 Bg6 14.Bh2 Nh5 15.d4 Nf6
+16.dxe5 Nxe4 17.Ne3 Nxe5 18.Nxe5 dxe5 19.Ng4 h5 20.Rxe4 Bxe4 21.Qxd8 Rfxd8
+22.Nf6+ Kg7 23.Nxe4 f6 24.g4 h4 25.a4 c6 26.Kf1 Kg6 27.Ke2 Rab8 28.Be6 Kg7
+29.f3 Re8 30.Bc4 Red8 31.Bd3 Kf7 32.Nd2 Ke7 33.Nc4 Rd5 34.Be4 Rc5 35.Nd2 b5
+36.Bg1  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.19"]
+[Round "1.3"]
+[White "Vachier Lagrave,M"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2755"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 Nc6 8.Qd2 Be6
+9.O-O-O Qd7 10.b3 a6 11.h3 h5 12.Be2 O-O-O 13.Rhe1 Kb8 14.Kb2 d5 15.Nd4 Bf6
+16.f4 g6 17.Bf3 Rhe8 18.Nxc6+ Qxc6 19.Bd4 Bh4 20.Bf2 Bf6 21.Bd4 Bh4 22.Bf2 Bf6
+23.g4 hxg4 24.hxg4 d4 25.Bxc6 dxc3+ 26.Qxc3 Bxc3+ 27.Kxc3 bxc6 28.g5 Rxd1
+29.Rxd1 Bf5 30.Bd4 Re2 31.Rd2 Rxd2 32.Kxd2 Kc8 33.c4 Bb1 34.Kc1 Be4 35.Kd2 Bb1
+36.Kc1 Be4 37.Kd2 Bb1  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.19"]
+[Round "1.2"]
+[White "Carlsen,M"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2851"]
+[BlackElo "2763"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb4 6.Qa4 c5 7.a3 Bxd2+ 8.Bxd2 O-O
+9.dxc5 bxc5 10.Bg2 Qb6 11.O-O Nc6 12.Be3 Rfc8 13.Rfd1 d5 14.cxd5 exd5 15.Bxc5 Qa5
+16.Qc2 Bxe2 17.Qxe2 Qxc5 18.Rac1 Qb6 19.b4 h6 20.Qe3 Qb7 21.Bh3 Re8 22.Qc3 Ne7
+23.Nd4 Ne4 24.Qc7 Qa6 25.f3 Ng5 26.Bd7 Red8 27.h4 Nxf3+ 28.Nxf3 Qxa3 29.Kg2 Qb2+
+30.Rd2 Qxb4 31.Re1 a5 32.Rde2 Ng6 33.h5 Nh8 34.Bf5 a4 35.Ne5 Qd6 36.Qc2 Re8
+37.Bh7+ Kf8 38.Qf5 Re7 39.Bg6 Kg8 40.Nxf7 Rxf7 41.Bxf7+  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.19"]
+[Round "1.1"]
+[White "Kramnik,V"]
+[Black "Grandelius,N"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2649"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 e6 4.c3 c5 5.Nd2 Nc6 6.Bd3 Bd6 7.Bxd6 Qxd6 8.f4 cxd4
+9.cxd4 O-O 10.a3 Ne7 11.Ngf3 Qb6 12.Qb3 Qxb3 13.Nxb3 b6 14.Rc1 Bd7 15.Ke2 Nc8
+16.Ne5 Ba4 17.Nd2 Nd6 18.b3 Bb5 19.Bxb5 Nxb5 20.a4 Nd6 21.Rc6 Rfd8 22.Ra1 Nfe8
+23.a5 f6 24.axb6 axb6 25.Rxa8 Rxa8 26.Nd7 b5 27.Nc5 Kf7 28.e4 dxe4 29.Ndxe4 Nxe4
+30.Nxe4 Ra2+ 31.Kf3 Rb2 32.Nc5 g5 33.Rb6 gxf4 34.Rb7+ Kg6 35.Nxe6 Kf5 36.Nc5 Rc2
+37.Ne4 Nc7 38.Rb6 Nd5 39.Rd6  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.19"]
+[Round "1.5"]
+[White "Aronian,L"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2754"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O
+9.Be3 Be6 10.Rc1 Nd5 11.Nxd5 Bxd5 12.Qa4 Re8 13.Rfd1 a6 14.a3 Bf6 15.Nd2 Bxg2
+16.Kxg2 Nd4 17.Bxd4 exd4 18.Ne4 c6 19.b4 Be7 20.Qb3 Qb6 21.Rc4 Rad8 22.Rb1 Rd5
+23.a4 Qd8 24.Qb2 f5 25.Nd2 Bf6 26.Nf3 g5 27.Rc5 g4 28.Ne1 Be7 29.Rxd5 Qxd5+
+30.Kg1 Bg5 31.Ng2 Re5 32.Nf4 Qd6 33.b5 axb5 34.axb5 cxb5 35.Qa2+ Kg7 36.Nh5+ Kh6
+37.Nf4 Bxf4 38.gxf4 Qe6 39.Qxe6+ Rxe6 40.Rxb5 Rxe2 41.Rb6+ Kh5 42.Rxb7 Rd2
+43.Rxh7+ Kg6 44.Rd7 Rxd3 45.Kf1 Rh3 46.Rxd4 Rxh2  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.20"]
+[Round "2.5"]
+[White "Eljanov,P"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2763"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 b5 6.e4 O-O 7.Nh3 d6 8.Nf4 e5 9.Ne2 Nh5
+10.g4 Qh4+ 11.Kd2 Nf4 12.Nxf4 exf4 13.Kc2 bxc4 14.Bxf4 Qf6 15.Qd2 Nd7 16.Be2 Qe7
+17.Bxc4 Rb8 18.b3 Nb6 19.Qd3 Bd7 20.Bd2 Nxc4 21.bxc4 Rb6 22.Rhb1 Rfb8 23.a3 Bxc3
+24.Bxc3 Ba4+ 25.Kc1 h5 26.Rxb6 Rxb6 27.Rb1 hxg4 28.f4 Rxb1+ 29.Kxb1 Qb7+
+30.Bb2 Qb3 31.Qxb3 Bxb3 32.e5 dxe5 33.d6 Kf8 34.Bxe5 g6 35.d7 Ke7 36.Kb2 Bxc4
+37.Kc3 Bb5 38.Bd6+ Kxd7 39.Bxc5 Ke6 40.Kd4 a6 41.Ke3 Bc6 42.Bb4 Bb5 43.Bc5 Bc6
+44.Bb4 Bb5 45.Bc5  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.20"]
+[Round "2.4"]
+[White "Topalov,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2851"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.Qc2 c6 6.cxd5 exd5 7.Bf4 Nh5 8.g3 Nxf4
+9.gxf4 Nb6 10.e3 g6 11.h4 Bb4 12.Bd3 Bg4 13.Ne5 Bh5 14.Be2 Bxe2 15.Kxe2 f6
+16.Nd3 Bxc3 17.Qxc3 Qe7 18.Qc5 Nc4 19.Qxe7+ Kxe7 20.h5 Rag8 21.hxg6 hxg6
+22.a4 a5 23.b3 Nd6 24.Rag1 Kf7 25.Rc1 Rh5 26.Rhg1 Rh2 27.Rh1 Rh5 28.Rhg1 Rh2
+29.Rh1 Rh5  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.20"]
+[Round "2.3"]
+[White "Giri,A"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2790"]
+[BlackElo "2788"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 h6 8.Bh4 Qb6
+9.a3 Be7 10.Bf2 Qc7 11.Qf3 Nbd7 12.O-O-O b5 13.g4 g5 14.h4 gxf4 15.Be2 Rg8
+16.Rdg1 d5 17.exd5 Ne5 18.Qh3 exd5 19.Re1 Kf8 20.Nf5 Bxf5 21.gxf5 Bc5 22.Qf1 d4
+23.Nb1 Ne4 24.Bf3 Nxf2 25.Bxa8 Ned3+ 26.Kd2 Nxe1 27.Qxf2 d3 28.Qxe1 Be3+  0-1
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.20"]
+[Round "2.2"]
+[White "Li Chao2"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2801"]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nf6 3.g3 Bc5 4.Bg2 c6 5.Nge2 d5 6.exd5 cxd5 7.d4 exd4 8.Nxd4 O-O
+9.O-O Bg4 10.Qd3 Bxd4 11.Qxd4 Nc6 12.Qc5 d4 13.h3 Bxh3 14.Bxh3 dxc3 15.bxc3 Re8
+16.Qb5 Qa5 17.a4 Qxc3 18.Bb2 Qxc2 19.Rac1 Qe2 20.Bg2 Qe7 21.Bxf6 Qxf6 22.Qxb7 Nd4
+23.Rfe1 h5 24.Qxa8 Rxa8 25.Bxa8 h4 26.Rc8+ Kh7 27.Be4+ g6 28.gxh4 Qe6 29.Re8 Qg4+
+30.Kf1 Qxh4 31.Re7 Qh3+ 32.Kg1 Qg4+ 33.Kf1 Qh3+ 34.Kg1 Kg7 35.Bd5 Qg4+ 36.Kf1 Qh3+
+37.Kg1 Nf3+ 38.Bxf3 Qxf3 39.Rxa7 Qg4+ 40.Kf1 Qh3+ 41.Kg1 Qg4+ 42.Kf1 Qh3+  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.20"]
+[Round "2.1"]
+[White "Grandelius,N"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2649"]
+[BlackElo "2784"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Nbd2 O-O 6.Bxc6 bxc6 7.Nxe5 Re8 8.Nef3 d5
+9.O-O Bg4 10.h3 Bh5 11.Qe2 h6 12.Re1 a5 13.Qf1 a4 14.e5 Nd7 15.d4 Bb6 16.c4 Nf8
+17.c5 Ba5 18.Re3 Ne6 19.g4 Bg6 20.a3 f5 21.b4 axb3 22.Nxb3 fxg4 23.hxg4 Rf8
+24.Nh2 Be4 25.Rg3 Qe7 26.Ra2 g5 27.Rb2 Qh7 28.Qd1 Qf7 29.Qe2 Qg6 30.Qd1 Qf7
+31.Qe2 Qg6 32.Qd1  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.21"]
+[Round "3.2"]
+[White "Aronian,L"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2755"]
+[ECO "D15"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 g6 5.cxd5 cxd5 6.Bf4 Bg7 7.e3 Nc6 8.Bb5 Bd7
+9.O-O O-O 10.Ne5 Ne4 11.Nxc6 Bxc6 12.Bxc6 Nxc3 13.Qd3 bxc6 14.Qxc3 Rc8 15.b4 Re8
+16.Rac1 f6 17.Rc2 e5 18.Bg3 exd4 19.Qxd4 Re4 20.Qd2 d4 21.Rd1 f5 22.Qc1 Qb6
+23.exd4 Rce8 24.h3 Qxb4 25.Kh2 Rxd4 26.Rxd4 Qxd4 27.Rxc6 Qa4 28.Rc7 Qxa2
+29.Rb7 Qe6 30.Qc7 Qf6 31.Qd7 Rd8 32.Qa4 Qd4 33.Qa2+ Qd5 34.Qxa7 Bd4 35.Qa6 Rf8
+36.Qb5 Qxb5 37.Rxb5 Kg7 38.Be5+ Bxe5+ 39.Rxe5 Rf7 40.Ra5 Rd7  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.21"]
+[Round "3.5"]
+[White "Vachier Lagrave,M"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2765"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Be7 10.Nc3 Nh4 11.Nxh4 Bxh4 12.Be3 h5 13.Rad1+ Ke8 14.Ne2 Be7 15.Rfe1 a6
+16.Bf4 g5 17.Be3 Bf5 18.Nd4 Bg6 19.e6 Rd8 20.exf7+ Kxf7 21.Nf3 Bxc2 22.Rxd8 Rxd8
+23.Nxg5+ Kf6 24.Ne6 Rd1 25.Bg5+ Kf7 26.Rxd1 Bxd1 27.Bxe7 Kxe6 28.Bd8 Kd6
+29.f3 c5 30.Kf2 b5 31.Ke3 b4 32.g4 hxg4 33.fxg4 a5 34.Kf4 c4 35.Bf6 c5 36.h4 Ke6
+37.Bh8 Kf7 38.h5 a4 39.a3 Be2 40.Be5 c3 41.bxc3 bxa3 42.c4 Bxc4 43.g5 Bd3
+44.g6+ Bxg6 45.hxg6+ Kxg6 46.Ke4 c4 47.Ba1 c3 48.Kd3 a2 49.Kxc3 a3 50.Kb3 Kh7
+51.Kxa2 Kg8 52.Kxa3  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.21"]
+[Round "3.1"]
+[White "Harikrishna,P"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2754"]
+[ECO "E53"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.cxd5 exd5 8.dxc5 Nbd7
+9.Bd2 Nxc5 10.Be2 Ne6 11.a3 Be7 12.O-O a6 13.Rc1 b6 14.Na2 Bb7 15.Bc3 Ne4
+16.Be5 Bf6 17.Nb4 N4c5 18.Nd3 Bxe5 19.Ndxe5 Qd6 20.Nc4 Qd8 21.Nce5 Qd6 22.Nc4 Qd8
+23.Nce5  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.21"]
+[Round "3.4"]
+[White "Kramnik,V"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2790"]
+[ECO "D78"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.b3 dxc4 8.bxc4 c5
+9.Bb2 cxd4 10.Nxd4 Nc6 11.Nxc6 bxc6 12.Nd2 Qc7 13.Qa4 Rb8 14.Nb3 c5 15.Ba3 Bd7
+16.Qa5 Qxa5 17.Nxa5 Rfc8 18.Nb3 Bg4 19.Bxc5 Rc7 20.Bd4 Nd7 21.e3 e5 22.Bb2 Rxc4
+23.Rfc1 Be6 24.Rxc4 Bxc4 25.Na5 Bd3 26.Nb3 Bc4 27.Rd1 Nb6 28.Na5 Bxa2 29.Nc6 Re8
+30.Ra1 Bd5 31.Bxd5 Nxd5 32.Rxa7 e4 33.Rd7 Bxb2 34.Rxd5 h5 35.h3 Kg7 36.g4 hxg4
+37.hxg4 Rc8 38.Na7 Rc1+ 39.Kg2 Kf6 40.Rb5 Be5 41.Rb4 Rc7 42.Rb6+ Kg5 43.Nc6 Rxc6
+44.Rxc6 Kxg4 45.Rc4 Kf5 46.f3 exf3+ 47.Kxf3 g5 48.e4+ Ke6 49.Rc6+ Bd6 50.Ra6 f6
+51.Rb6 Kd7 52.Kg4 Ke6 53.Rb5 Bc7 54.Kh5 Bd6 55.Rf5 Be5 56.Kg4 Bf4 57.Rxf4 gxf4
+58.Kxf4 Ke7 59.e5 fxe5+  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.21"]
+[Round "3.3"]
+[White "Carlsen,M"]
+[Black "Grandelius,N"]
+[Result "1-0"]
+[WhiteElo "2851"]
+[BlackElo "2649"]
+[ECO "B29"]
+
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Nc3 Nxc3 5.dxc3 Nc6 6.Bf4 Qb6 7.Qc1 f6 8.Bc4 g5
+9.Bg3 g4 10.exf6 gxf3 11.Qf4 fxg2 12.Rg1 Na5 13.f7+ Kd8 14.Bd5 Bh6 15.Qe5 Rf8
+16.Bh4 Rxf7 17.Bxf7 Nc6 18.Qg3 Qxb2 19.Rd1 Qxc2 20.Bd5 Qf5 21.Rxg2 Bf4 22.Qf3 Kc7
+23.Rg5 Qf8 24.Bg3 e5 25.Rh5 a5 26.Rxh7 Ra6 27.Rf7 Qe8 28.Kf1 Bxg3 29.hxg3 Qh8
+30.Kg2 Nd8 31.Rf8 Qg7 32.Rh1 Rh6 33.Rxh6 Qxh6 34.Qf6 Qxf6 35.Rxf6 d6 36.Kf3 b5
+37.g4 Kd7 38.Rh6  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.22"]
+[Round "4.5"]
+[White "Grandelius,N"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2649"]
+[BlackElo "2763"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Qd2 b6 8.O-O-O Bb7
+9.Nc3 c6 10.Nf3 Nd7 11.Qh6 Qc7 12.Qg7 Rf8 13.Qxh7 f5 14.Bc4 Nf6 15.Qh6 Ng4
+16.Qd2 O-O-O 17.h3 Nf6 18.Ne5 Kb8 19.Rhe1 b5 20.Bb3 b4 21.Ne2 c5 22.Qe3 Ne4
+23.f4 cxd4 24.Nxd4 Bc5 25.Nef3 Rg8 26.g4 fxg4 27.hxg4 Rxg4 28.Ne5 Rxd4 29.Rxd4 Rg3
+30.Qxe4 Bxe4 31.Rdxe4 Rg1 32.Rxg1 Bxg1 33.Rxb4+ Bb6 34.a4 Ka8 35.Kb1 Qe7
+36.Rc4 Bc7 37.Nd3 Bd6 38.a5 Kb8 39.Ba4 Qb7 40.Rc6 Bxf4 41.Nc5 Qe7 42.Na6+ Kb7
+43.Nc5+ Kb8 44.Na6+ Kb7 45.Nc5+  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.22"]
+[Round "4.4"]
+[White "Vachier Lagrave,M"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2801"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.c3 O-O 6.O-O d6 7.h3 Ne7 8.d4 Bb6
+9.Bd3 Ng6 10.Re1 Re8 11.Qc2 c6 12.Na3 Bc7 13.dxe5 Nxe5 14.Nxe5 dxe5 15.Be2 h6
+16.Nc4 Nh7 17.Rd1 Qf6 18.Ne3 Qg6 19.Bg4 Bxg4 20.Nxg4 Bb6 21.a4 h5 22.Nh2 Nf6
+23.a5 Bc5 24.b4 Bf8 25.Re1 a6 26.Nf3 Nd5 27.Qb3 Nf4 28.Bxf4 exf4 29.Rad1 Rad8
+30.e5 Rxd1 31.Rxd1 Qf5 32.Re1 g5 33.Nd4 Qg6 34.e6 Kh8 35.Qd1 fxe6 36.Nf3 g4
+37.Ne5 Qf5 38.hxg4 hxg4 39.Nxg4 Bg7 40.Qd7 Rf8 41.f3 c5 42.Qxe6 Qxe6 43.Rxe6 Bxc3
+44.bxc5 Bxa5 45.Re7 Bb4 46.Rc7 Rf5 47.Rxb7 Bxc5+ 48.Kf1 a5 49.Rb5 a4 50.Nf2 Rh5
+51.Ra5 a3 52.Nd3 Rh1+ 53.Ke2 Bd6 54.Ra6 Rh6 55.Kd1 Kg7 56.Kc2 Rg6 57.Kb3 Kf7
+58.Nxf4 Bxf4 59.Rxg6 Kxg6 60.Kxa3  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.22"]
+[Round "4.1"]
+[White "Eljanov,P"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2754"]
+[ECO "D59"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.b3 c5 13.Bb5 a6 14.Bd3 Nd7 15.O-O a5
+16.h3 Rfc8 17.a4 Nf6 18.Qe2 Bd7 19.Ne5 cxd4 20.exd4 Qd6 21.Qe3 Rxc1 22.Rxc1 Rc8
+23.Rxc8+ Bxc8 24.Qc1 Be6 25.Qc6 Qxc6 26.Nxc6 Kf8 27.Kf1 Ne8 28.Ne5 Nd6 29.Ke2 g5
+30.Ng4 Bxg4+ 31.hxg4 Ke7 32.f3 Ke6 33.Ke3 f5 34.Bxf5+ Nxf5+ 35.gxf5+ Kxf5
+36.g4+ Ke6 37.Ke2 Ke7 38.Ke3 Ke6 39.Ke2 Ke7  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.22"]
+[Round "4.3"]
+[White "Giri,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2790"]
+[BlackElo "2784"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 Nbd7 7.c5 c6 8.h3 b6 9.b4 a5
+10.a3 h6 11.Bd3 Ba6 12.O-O Qc8 13.Rb1 axb4 14.axb4 Qb7 15.b5 cxb5 16.Nxb5 Rfc8
+17.Ne5 Nxe5 18.Bxe5 Rc6 19.Qe2 Nd7 20.Bg3 Qc8 21.e4 Nf6 22.exd5 Nxd5 23.Qe4 Nf6
+24.Qf3 Bb7 25.cxb6 Rxb6 26.Qe2 Qc6 27.f3 Nd5 28.Rbc1 Qd7 29.Nc7 Rc8 30.Nxd5 Bxd5
+31.Kh2 Bd6 32.Rxc8+ Qxc8 33.Bxd6 Rxd6 34.Rb1 Qd8 35.Qe5 Rb6 36.Rxb6 Qxb6
+37.Be4 f6 38.Qf4 Bxe4 39.Qxe4 Kf7 40.Qf4 h5 41.h4 Ke7 42.Qe4 Qc7+ 43.Kh3 Kf7
+44.d5 Qd7 45.dxe6+ Qxe6+ 46.Kg3 Qxe4 47.fxe4 g5 48.hxg5 fxg5 49.Kf3  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.22"]
+[Round "4.2"]
+[White "Li Chao2"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2851"]
+[ECO "D14"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Bd3 Bxd3
+9.Qxd3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.Rac1 Rfc8 13.h3 h6 14.Nd2 Nd7 15.a3 Nb6
+16.Qb5 Qd8 17.Na4 Nxa4 18.Qxa4 Qa5 19.Qd1 Ne7 20.Qe2 Qa4 21.Qd3 Nf5 22.Qb3 Qa6
+23.Qb4 Nd6 24.a4 Qb6 25.Qa3 a5 26.Rc5 Qb4 27.Qxb4 axb4 28.Rfc1 Rxc5 29.dxc5 Rc8
+30.Kf1 Nc4 31.Nxc4 Rxc5 32.b3 dxc4 33.bxc4 Ra5 34.Ra1 Rc5 35.Rc1 Ra5 36.Ra1 Rc5
+37.Rc1  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.24"]
+[Round "5.3"]
+[White "Topalov,V"]
+[Black "Grandelius,N"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2649"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 d6 7.c3 O-O 8.Re1 Re8
+9.Nbd2 Bf8 10.h3 b5 11.Bc2 Ne7 12.d4 Ng6 13.Nf1 exd4 14.cxd4 c5 15.d5 Nd7
+16.Ng3 a5 17.Be3 a4 18.Bd3 Rb8 19.Bf1 Nde5 20.Nd2 Be7 21.b3 axb3 22.axb3 Bg5
+23.Nh5 Bxe3 24.Rxe3 Nd7 25.Ra7 Re5 26.Be2 Ndf8 27.Qa1 Qh4 28.Ng3 Qd8 29.Bg4 Re7
+30.Rxe7 Nxe7 31.Bxc8 Rxc8 32.Nh5 f6 33.Rg3 Neg6 34.Qa6 Qd7 35.f4 c4 36.bxc4 bxc4
+37.Nxc4 f5 38.Nxd6 Rc1+ 39.Kh2 fxe4 40.f5 e3 41.fxg6 hxg6 42.Nf4  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.24"]
+[Round "5.2"]
+[White "Aronian,L"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2784"]
+[BlackElo "2788"]
+[ECO "D14"]
+
+1.Nf3 c5 2.c3 Nf6 3.d4 cxd4 4.cxd4 d5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Qb3 Bb4
+9.Ne5 Qb6 10.Nxc6 bxc6 11.Be2 Ne4 12.f3 Nxc3 13.bxc3 Be7 14.O-O O-O 15.c4 c5
+16.cxd5 Qxb3 17.axb3 exd5 18.dxc5 Bxc5 19.Rfd1 Be6 20.Kf2 a5 21.Be5 Rfc8
+22.Rdc1 Bb4 23.Bd1 Rxc1 24.Rxc1 Rc8 25.Rxc8+ Bxc8 26.g4 f6 27.Bd4 Kf7 28.f4 f5
+29.h3 g6 30.Bf3 Ke6 31.gxf5+ gxf5 32.Be2 Bd7 33.Bd1 Be8 34.h4 h5 35.Be2 Be7
+36.Kg3 Bb4 37.Kf2 Be7 38.Kg3 Bb4  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.24"]
+[Round "5.4"]
+[White "Carlsen,M"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2851"]
+[BlackElo "2790"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Bc5 7.Nc3 d6 8.Nd5 h6
+9.c3 O-O 10.O-O Rb8 11.Re1 Ba7 12.Be3 Bxe3 13.Rxe3 Na5 14.Bc2 c5 15.b4 cxb4
+16.Nxb4 Qc7 17.Qd2 Nc6 18.Nxc6 Qxc6 19.h3 Be6 20.d4 Qc7 21.Bb3 Rfe8 22.Bxe6 Rxe6
+23.a4 exd4 24.Qxd4 bxa4 25.Qxa4 Rbe8 26.Qxa6 Rxe4 27.Rxe4 Rxe4 28.Qd3 Re8
+29.Nd4 d5 30.Nf5 Qf4 31.g3 Qe4 32.Rd1 Qxd3 33.Rxd3 Kf8 34.f3 Ra8 35.g4 Ra3
+36.Kf2 h5 37.Ke3 g6 38.Nd4 hxg4 39.hxg4 Nd7 40.Nb5 Rb3 41.Rxd5 Nb6 42.Rc5 Na4
+43.Rc8+ Kg7 44.Rc4 Nb6 45.Rc5 Na4 46.Rc4 Nb6 47.Rc5 Na4 48.Rc4  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.24"]
+[Round "5.5"]
+[White "Harikrishna,P"]
+[Black "Li Chao2"]
+[Result "1-0"]
+[WhiteElo "2763"]
+[BlackElo "2755"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.f3 c5 4.d5 d6 5.e4 Bg7 6.Ne2 O-O 7.Nec3 e5 8.g4 h5 9.h3 Nh7
+10.Be3 h4 11.Qd2 Bf6 12.Rg1 Bg5 13.Bxg5 Qxg5 14.Nb5 Qe7 15.g5 a6 16.N5c3 Nd7
+17.Qg2 Kg7 18.Nd2 f6 19.gxf6+ Qxf6 20.Nd1 Rf7 21.Nf2 Ndf8 22.Nd3 b5 23.O-O-O g5
+24.f4 exf4 25.e5 Qf5 26.e6 f3 27.Qh2 Bxe6 28.dxe6 Qxe6 29.Nf2 Qe3 30.Ng4 Qf4
+31.Qxf4 Rxf4 32.Nxf3 bxc4 33.Ngh2 Ne6 34.Rxd6 Nd4 35.Rd7+ Kh8 36.Ne5 Nf8
+37.Rf7 Re4 38.Rxg5 Rd8 39.Rxf8+ Rxf8 40.Ng6+ Kg7 41.Nxf8+ Kxf8 42.Rxc5  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.24"]
+[Round "5.1"]
+[White "Kramnik,V"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2765"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O a6 7.Re1 h6 8.Nbd2 O-O
+9.Nf1 Ba7 10.Bb3 Re8 11.Ng3 Be6 12.Bxe6 Rxe6 13.d4 Re8 14.h3 d5 15.Nxe5 Nxe5
+16.dxe5 Nxe4 17.Nxe4 dxe4 18.Qg4 Rxe5 19.Bxh6 g5 20.Kh1 Qf6 21.f4 Qxf4 22.Qxf4 gxf4
+23.Bxf4 Re7 24.g4 Kg7 25.Rad1 f5 26.Rd5 fxg4 27.hxg4 Rf8 28.Re5 Rxe5 29.Bxe5+ Kg6
+30.Rxe4 Rf1+ 31.Kg2 Rf2+ 32.Kg3 Rxb2 33.Rf4 Re2 34.Rf6+ Kg5 35.Rf5+ Kg6 36.a4 c6
+37.a5 b5 38.axb6 Bxb6 39.Rf6+ Kg7 40.Rxc6+ Rxe5 41.Rxb6 Re3+ 42.Kf4 Rxc3
+43.Rxa6  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.25"]
+[Round "6.2"]
+[White "Eljanov,P"]
+[Black "Grandelius,N"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2649"]
+[ECO "D73"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.c4 dxc4 6.Na3 c3 7.bxc3 O-O 8.O-O c5
+9.e3 Nc6 10.Bb2 Bf5 11.Nd2 Qc8 12.e4 Bg4 13.f3 cxd4 14.cxd4 Bh3 15.Rc1 Bxg2
+16.Kxg2 Qd8 17.Nb3 Nb4 18.Nc2 Nxc2 19.Rxc2 Rc8 20.Qe2 Rxc2 21.Qxc2 Qd7 22.Rc1 Bh6
+23.f4 Qa4 24.Rd1 Qd7 25.Qe2 Rc8 26.d5 Bg7 27.Rd2 Qa4 28.Nd4 Qxa2 29.Nf5 gxf5
+30.Bxf6 Qa3 31.Bxg7 Kxg7 32.e5 Rd8 33.d6 Qb4 34.Kh3 exd6 35.Qh5 Rd7 36.Qg5+ Kf8
+37.Rc2 Re7 38.Qf6 Re8 39.exd6 Kg8 40.d7  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.25"]
+[Round "6.3"]
+[White "Vachier Lagrave,M"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2851"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Ke8 10.Nc3 h5 11.Bf4 Be7 12.Rad1 Be6 13.Ng5 Rh6 14.Rfe1 Bb4 15.g4 hxg4
+16.hxg4 Ne7 17.f3 Bxc3 18.bxc3 Bxa2 19.Ne4 Rh8 20.e6 Bxe6 21.Bxc7 Nd5 22.Be5 Kf8
+23.Nc5 b5 24.c4 bxc4 25.Rd4 Re8 26.Rxc4 Rh6 27.Ra4 Kg8 28.Rxa7 Bc8 29.Bg3 Rxe1+
+30.Bxe1 Rd6 31.Ba5 Bxg4 32.fxg4 Rg6 33.Kf2 Rxg4 34.Bd2 Rc4 35.Ra8+ Kh7 36.Nd7 Rxc2
+37.Ke2 f6 38.Kd3 Rb2 39.Nf8+ Kg8 40.Ne6+ Kh7 41.Ra7 Rb3+ 42.Kd4 Rg3 43.Kc5 Rg2
+44.Ba5 Ne3 45.Kxc6 Nf5 46.Bb4 Re2 47.Kd7 Re4 48.Bc5 Kg6 49.Ra1 Re5 50.Bd6 Nxd6
+51.Kxd6 Rb5 52.Rg1+ Kh6 53.Nf4 Kh7 54.Nd5 g5 55.Ke6 Kg7 56.Rf1 Ra5 57.Nxf6 Kg6
+58.Nd5 Ra6+ 59.Ke5 Ra8 60.Ne7+ Kh5 61.Rh1+ Kg4 62.Rg1+ Kh5 63.Rh1+ Kg4 64.Rg1+ Kh5
+65.Rh1+  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.25"]
+[Round "6.1"]
+[White "Giri,A"]
+[Black "Harikrishna,P"]
+[Result "0-1"]
+[WhiteElo "2790"]
+[BlackElo "2763"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Be7 7.Be3 O-O 8.Qd2 b6
+9.Nd1 a5 10.c3 a4 11.Bd3 Ba6 12.O-O Nc6 13.Bxa6 Rxa6 14.f5 b5 15.fxe6 fxe6
+16.Qe2 Qb6 17.Nf2 a3 18.b3 b4 19.dxc5 Bxc5 20.Bxc5 Nxc5 21.c4 Ne4 22.cxd5 exd5
+23.e6 Ne7 24.Kh1 Nc3 25.Qd3 h6 26.Nd1 Qb5 27.Qxb5 Nxb5 28.Nf2 Rxe6 29.Nd3 Nc6
+30.Rfc1 Nc3 31.Nxb4 Nxb4 32.Rxc3 Re2 33.Rc7 Ra8 34.Nd4 Rxa2 35.Rf1 Rd2 36.h3 a2  0-1
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.25"]
+[Round "6.5"]
+[White "Kramnik,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2784"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.O-O d6 7.a4 Ba7 8.Re1 Ne7
+9.d4 O-O 10.h3 Ng6 11.Bd3 Re8 12.Qc2 Bd7 13.Be3 d5 14.Nbd2 exd4 15.cxd4 dxe4
+16.Nxe4 Bc6 17.Bg5 Bxe4 18.Bxe4 c6 19.Qb3 Qb6 20.Qxb6 Bxb6 21.Bxf6 gxf6 22.a5 Ba7
+23.d5 Rab8 24.Rad1 Bc5 25.Bxg6 Rxe1+ 26.Rxe1 hxg6 27.Rc1 Bb4 28.dxc6 Bxa5
+29.Ra1 Bc7 30.cxb7 Rxb7 31.Rxa6 Rxb2 32.Ne1 Bb6 33.Nd3 Rb1+ 34.Kh2 Rb3 35.Nc1 Rb2
+36.Nd3 Rb3 37.Nc1 Rb2  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.25"]
+[Round "6.4"]
+[White "Li Chao2"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2754"]
+[ECO "D43"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 h6 6.Bxf6 Qxf6 7.g3 Nd7 8.Bg2 dxc4
+9.O-O Be7 10.Ne4 Qf5 11.Ned2 e5 12.e4 Qe6 13.Rc1 b5 14.b3 c3 15.Rxc3 Bb7
+16.d5 cxd5 17.Rc7 Rb8 18.exd5 Bxd5 19.Re1 Rd8 20.Nd4 Qb6 21.Bxd5 Qxc7 22.Ne6 Qb6
+23.Nxd8 Qxd8 24.Nf3 O-O 25.Bc6 Nf6 26.Qxd8 Bxd8 27.Nxe5 Ba5 28.Re2 Rb8 29.Kg2 Kf8
+30.f4 Bc3 31.g4 Rb6 32.Bf3 Rd6 33.Nc6 a6 34.Nb8 Rb6 35.Nc6 Nxg4 36.Bxg4 Rxc6
+37.Bd7 Rg6+ 38.Kf3 f5 39.Re8+ Kf7 40.Re3 Rd6 41.Be8+ Kf8 42.Bh5 g6 43.Bxg6 Rxg6
+44.Rxc3 Rd6 45.Ke3 Kf7 46.a4 Re6+ 47.Kf3 bxa4 48.bxa4 Rb6 49.Ke3 Rb4 50.a5 Rb5
+51.Rc7+ Kg8 52.Rc8+ Kg7 53.Rc7+ Kg8 54.Rc8+ Kg7  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.27"]
+[Round "7.3"]
+[White "Carlsen,M"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2851"]
+[BlackElo "2801"]
+[ECO "D35"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.e3 Bf5 7.Qf3 Bg6 8.Bxf6 Qxf6
+9.Qxf6 gxf6 10.Nf3 Nd7 11.Nh4 Be7 12.Ne2 Nb6 13.Ng3 Bb4+ 14.Kd1 Na4 15.Ngf5 Kd7
+16.Rb1 Ke6 17.Bd3 Rhc8 18.Ke2 Bf8 19.g4 c5 20.Ng2 cxd4 21.exd4 Bd6 22.h4 h5
+23.Ng7+ Ke7 24.gxh5 Bxd3+ 25.Kxd3 Kd7 26.Ne3 Nb6 27.Ng4 Rh8 28.Rhe1 Be7 29.Nf5 Bd8
+30.h6 Rc8 31.b3 Rc6 32.Nge3 Bc7 33.Rbc1 Rxc1 34.Rxc1 Bf4 35.Rc5 Ke6 36.Ng7+ Kd6
+37.Ng4 Nd7 38.Rc2 f5 39.Nxf5+ Ke6 40.Ng7+ Kd6 41.Re2 Kc6 42.Re8 Rxe8 43.Nxe8 Nf8
+44.Ne5+ Bxe5 45.dxe5 Kd7 46.Nf6+ Ke6 47.h5 Kxe5 48.Nd7+ Nxd7 49.h7 Nc5+ 50.Ke2  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.27"]
+[Round "7.5"]
+[White "Topalov,V"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2790"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.b3 O-O
+9.Bb2 f6 10.Rc1 Be6 11.Ne4 Bd5 12.Qc2 Nb4 13.Qb1 Nxa2 14.Nxf6+ Bxf6 15.Qxa2 e4
+16.Nd4 Qd7 17.Qb1 Rae8 18.e3 c6 19.Ne2 Bxb2 20.Qxb2 Bf7 21.Nc3 Bg6 22.Qa3 Qxd2
+23.Nb1 Qd7 24.Qxa7 Nd5 25.Qc5 Rf6 26.Nc3 Nxc3 27.Qxc3 Rd6 28.b4 h6 29.Rfe1 Kh8
+30.Qc2 Rd3 31.Bf1 Bh5 32.f4 Rd2 33.Qc3 Bd1 34.b5 c5 35.Qxc5 Ra8 36.Qb4 Bf3
+37.Rc7 Rxh2 38.Rxd7 Rh1+ 39.Kf2 Rh2+ 40.Bg2 Rxg2+ 41.Kf1 Rh2 42.Rd2 Rh1+
+43.Kf2 Rh2+ 44.Kf1 Rh1+ 45.Kf2  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.27"]
+[Round "7.4"]
+[White "Aronian,L"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2784"]
+[BlackElo "2765"]
+[ECO "A13"]
+
+1.c4 e6 2.g3 d5 3.Bg2 dxc4 4.Qa4+ Nd7 5.Qxc4 c5 6.Nc3 Ngf6 7.d3 Be7 8.Nf3 b6
+9.Ng5 Rb8 10.O-O Bb7 11.Bf4 Bxg2 12.Kxg2 Rb7 13.Nf3 O-O 14.e4 Qa8 15.a4 Rd8
+16.Nb5 Qc8 17.Rac1 Nf8 18.d4 Ng6 19.Bg5 a6 20.Nc3 b5 21.axb5 axb5 22.Qe2 c4
+23.Rfd1 h6 24.Bxf6 Bxf6 25.h4 Qb8 26.Ra1 Be7 27.h5 Nf8 28.Ne5 Rc8 29.Ra6 Rb6
+30.Rxb6 Qxb6 31.Qf3 f6 32.Ng6 Nxg6 33.hxg6 b4 34.Ne2 Qd6 35.d5 e5 36.g4 Bf8
+37.Qf5 Ra8 38.Rc1 Qa6 39.Ng3 Kh8 40.Qe6 Qa2 41.Nf5 c3 42.Rh1 Qa7 43.d6 Qb7
+44.d7 Qxe4+ 45.f3  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.27"]
+[Round "7.1"]
+[White "Grandelius,N"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteElo "2649"]
+[BlackElo "2755"]
+[ECO "B16"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Nf3 Nd7 8.g3 Qc7
+9.Bg2 e6 10.Nh4 Bg6 11.Bf4 Bd6 12.Bxd6 Qxd6 13.O-O f5 14.b4 Nf6 15.a4 a6
+16.Re1 O-O 17.a5 Rad8 18.Qc1 Kg7 19.Nf3 Nd7 20.Nd2 Qc7 21.Nc4 Rfe8 22.Ra2 h6
+23.Rae2 Bh5 24.Re3 Nf6 25.Ne5 Ng4 26.Nxg4 Bxg4 27.Re5 Bh5 28.Bf1 Rd5 29.R5e3 Qe7
+30.Bc4 Rdd8 31.Re5 Qg5 32.R1e3 Bg6 33.Bb3 Rd6 34.h4 Qf6 35.Re1 Red8 36.Qf4 Bh5
+37.Kh2 Bg6 38.R1e3 h5 39.Re1 Bh7 40.Kg2 Qh6 41.Qg5+ Bg6 42.R5e3 R8d7 43.Kf1 Rd8
+44.Ke2 R6d7 45.Kd2 Rd6 46.Kc1 R6d7 47.Kb2 Rd6 48.Bc4 Re8 49.Kb3 Rd7 50.Bf1 Qxg5
+51.hxg5 Rh8 52.Bg2 Rdd8 53.Rh1 f6 54.gxf6+ Kxf6 55.Kc4 Ke7 56.Kc5 Bf7 57.Rh4 Kd7
+58.Kb6 Kc8 59.Bf3 Kb8 60.Re1 Rh6 61.Re5 Rd6 62.Kc5 Kc7 63.Re1 Rd8 64.c4 Rh7
+65.Reh1 Rdh8 66.Rb1 Be8 67.Re1 Bd7 68.Re5 Rh6 69.d5 exd5 70.cxd5 cxd5 71.Bxd5 b6+
+72.Kd4 bxa5 73.bxa5 Rb8 74.Bc4 Rb2 75.Rc5+ Kd6 76.Rd5+ Kc7 77.Rf4 Rc6 78.Rc5 Rd2+
+79.Kc3 Rxc5 80.Kxd2 Rxa5 81.Bf7 Kd6 82.Rd4+ Ke7 83.Bxh5 Re5 84.g4 fxg4 85.Bxg4 Bxg4
+86.Rxg4 a5 87.Kc3 Rf5 88.Ra4 Rxf2 89.Rxa5 Rf3+ 90.Kb4 Rf4+ 91.Kb5 Rf5+ 92.Ka4 Rxa5+
+93.Kxa5  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.27"]
+[Round "7.2"]
+[White "Harikrishna,P"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2788"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.f3 c5 4.d5 d6 5.e4 e6 6.Ne2 Bg7 7.Nec3 Nh5 8.Qe2 Be5 9.Be3 f5
+10.exf5 exf5 11.f4 Bg7 12.Bf2+ Kf7 13.Qd2 Nf6 14.h3 a6 15.a4 a5 16.Be2 Na6
+17.O-O Bd7 18.Bf3 Re8 19.Na3 Qb6 20.Nab5 Nb4 21.Rae1 Rxe1 22.Rxe1 Re8 23.Re2 Bc8
+24.Bh4 Rxe2 25.Qxe2 Qd8 26.g4 Qe7 27.Qd2 Bd7 28.gxf5 Bxf5 29.Bg4 Ke8 30.Bxf5 gxf5
+31.Kf1 Kd7 32.Qg2 Qf7 33.Bxf6 Bxf6 34.Qe2 Qg8 35.Nd1 Bd4 36.Nf2 Qg6 37.Nxd4 cxd4
+38.c5 dxc5 39.Qb5+ Kd6 40.Qxb7 Qe8 41.Qxh7 Nxd5 42.Qh6+ Kc7 43.b3 Ne3+ 44.Kg1 Qg8+
+45.Qg5 Qxb3 46.Qe7+ Kc6 47.Qe8+ Kc7 48.Qe7+ Kc6 49.Qe8+ Kc7  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.28"]
+[Round "8.5"]
+[White "Kramnik,V"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2763"]
+[ECO "A04"]
+
+1.Nf3 e6 2.g3 b5 3.e3 a6 4.Bg2 Bb7 5.O-O Nf6 6.b3 c5 7.c4 Be7 8.Nc3 O-O 9.d4 d5
+10.cxd5 Nxd5 11.Nxd5 Bxd5 12.dxc5 Bxc5 13.Qe2 Nd7 14.Rd1 Qe7 15.Bb2 Rac8
+16.Rac1 Bb7 17.Ng5 Bxg2 18.Kxg2 f5 19.e4 h6 20.Nf3 Nf6 21.exf5 exf5 22.Qxe7 Bxe7
+23.Nd4 Rxc1 24.Rxc1 Nd5 25.Ne6 Rf7 26.Rc8+ Kh7 27.Ra8 f4 28.Rxa6 fxg3 29.hxg3 Bf6
+30.Bc1 Re7 31.Rd6 Nc3 32.a3 Kg8 33.Bb2 Ra7 34.Rc6 Nd5 35.Bxf6 Nxf6 36.Rc7 Rxa3
+37.Rxg7+ Kh8 38.Rg6 Ne4 39.Rxh6+ Kg8 40.Rh4 Nd2 41.b4 Nc4 42.Nc7 Ra2 43.Re4 Nd6
+44.Rd4 Nf5 45.Rd8+ Kf7 46.Nxb5 Rb2 47.Rd3  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.28"]
+[Round "8.1"]
+[White "Vachier Lagrave,M"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2754"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Bd7 10.Rd1 Be7 11.g4 Nh4 12.Nxh4 Bxh4 13.Nd2 Kc8 14.Nf3 Be7 15.Rd3 h6
+16.Kg2 c5 17.Kg3 Re8 18.c4 a5 19.a4 f6 20.exf6 Bxf6 21.Ra2 Re2 22.Bd2 Ra6
+23.b3 Rae6 24.Ng1 Bd4 25.Nxe2 Rxe2 26.Ra3 Bc6 27.Rxd4 cxd4 28.Bxa5 Rb2 29.c5 d3
+30.Ra1 g5 31.b4 Bd5 32.Rd1 Rb3 33.b5 Ra3 34.f3 d2 35.Rxd2 Rxf3+ 36.Kh2 c6
+37.Re2 Kd7 38.Be1 Ra3 39.bxc6+ Kxc6 40.a5 Kxc5 41.Bf2+ Kc4 42.Bb6 Kb5 43.Rb2+ Rb3
+44.Rxb3+ Bxb3 45.Bd4 Bf7 46.Bg7 h5 47.gxh5 Bxh5 48.Bf6 g4 49.Bd8 gxh3 50.Kxh3  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.28"]
+[Round "8.4"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2784"]
+[BlackElo "2851"]
+[ECO "A15"]
+
+1.c4 Nf6 2.g3 c6 3.Bg2 d5 4.Nf3 g6 5.b3 Bg7 6.Bb2 O-O 7.O-O dxc4 8.bxc4 c5
+9.d3 Nc6 10.Ne5 Na5 11.Qc1 Qc7 12.Nd2 Ne8 13.f4 Nd6 14.Bc3 Rb8 15.Qa3 b6
+16.Bxa5 bxa5 17.Nb3 Nb7 18.Bxb7 Qxb7 19.Nxc5 Qc7 20.d4 Rd8 21.Rfd1 f6 22.Nf3 e5
+23.fxe5 fxe5 24.Nxe5 Bxe5 25.dxe5 Rxd1+ 26.Rxd1 Qxe5 27.Rd8+ Kf7 28.Qf3+ Bf5
+29.Rxb8 Qxb8 30.g4 Qb4 31.Nd3  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.28"]
+[Round "8.3"]
+[White "Eljanov,P"]
+[Black "Li Chao2"]
+[Result "0-1"]
+[WhiteElo "2765"]
+[BlackElo "2755"]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 Bf5 4.e3 e6 5.Bd3 Ne4 6.Nbd2 Bd6 7.Bxe4 dxe4 8.Ne5 f6
+9.g4 fxe5 10.dxe5 Be7 11.gxf5 exf5 12.Rg1 g6 13.Qe2 Qd5 14.O-O-O Nc6 15.Nb3 Qe6
+16.Qb5 O-O 17.Kb1 a5 18.Nd4 Nxd4 19.exd4 c6 20.Qb6 Rfd8 21.a4 Rd7 22.d5 Rxd5
+23.Rxd5 Qxd5 24.Qxb7 Re8 25.b3 Ba3 26.h4 Qd4 27.Bc1 Bxc1 28.Rxc1 f4 29.h5 g5
+30.h6 Qxe5 31.Rd1 Re7 32.Qxc6 e3 33.fxe3 fxe3 34.Rd5 e2 35.Rxe5 Rxe5 36.Qa8+ Kf7
+37.Qa7+ Re7 38.Qf2+ Ke8 39.Qe1 g4 40.Kc1 g3 41.Kd2 g2 42.c3 Re6 43.b4 Kd7
+44.b5 Rd6+ 45.Kc2 Rg6 46.Qd2+ Kc8 47.Qxe2 g1=Q 48.Qe8+ Kb7 49.Qe7+ Kb6 50.Qd8+ Kc5
+51.Qf8+ Kd5 52.Qf5+ Kd6 53.Qf4+ Ke7 54.Qe4+ Re6 55.Qxh7+ Ke8 56.Qh8+ Kd7
+57.Qh7+ Kc8  0-1
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.28"]
+[Round "8.2"]
+[White "Giri,A"]
+[Black "Grandelius,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2790"]
+[BlackElo "2649"]
+[ECO "D45"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 c6 5.e3 Nbd7 6.Be2 Bd6 7.O-O O-O 8.Qc2 dxc4
+9.a4 e5 10.Bxc4 exd4 11.exd4 Nb6 12.Bb3 Nbd5 13.Bg5 Be6 14.a5 h6 15.Bh4 Qc8
+16.Rfe1 Re8 17.a6 Rb8 18.Bxd5 Nxd5 19.Ne4 Bc7 20.Nc5 Nb4 21.Qd2 Nxa6 22.Ne4 Bd5
+23.Nf6+ gxf6 24.Bxf6 Qf5 25.Qxh6 Qh7 26.Qg5+ Qg6 27.Qh4 Qh7 28.Qg5+ Qg6 29.Qh4 Qh7  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.29"]
+[Round "9.2"]
+[White "Carlsen,M"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2851"]
+[BlackElo "2765"]
+[ECO "D30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Qc2 Nbd7
+9.a4 a5 10.Rc1 Ne4 11.Be1 f5 12.Nbd2 Bd6 13.e3 Ra7 14.Qd1 b6 15.cxd5 cxd5
+16.Nb1 Ba6 17.Na3 Qa8 18.Nb5 Bxb5 19.axb5 Rc8 20.Bf1 Rxc1 21.Rxc1 Rc7 22.Rxc7 Bxc7
+23.Qa4 Qb8 24.b4 axb4 25.Bxb4 h6 26.Qc2 Bd6 27.Qc6 Ndf6 28.Bxd6 Qxd6 29.Qc8+ Kh7
+30.Ne5 Qe7 31.Qc6 Ng4 32.Nxg4 fxg4 33.Bd3 g6 34.Bxe4 dxe4 35.Qxb6  1-0
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.29"]
+[Round "9.1"]
+[White "Grandelius,N"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2649"]
+[BlackElo "2788"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.e3 Bg7 6.Ne2 O-O 7.O-O Re8 8.Nd2 Bf5
+9.Re1 Nbd7 10.Qb3 e5 11.cxd5 cxd5 12.dxe5 Nxe5 13.Nd4 Qd7 14.Qb5 Rac8 15.Qxd7 Bxd7
+16.N2f3 Nxf3+ 17.Bxf3 Ne4 18.Rd1 h5 19.Bg2 Rc7 20.Bxe4 Rxe4 21.f3 Re8 22.b3 Rc3
+23.Ne2 Rc2 24.Nd4 Rc3 25.Ne2 Rcxe3 26.Bxe3 Bxa1 27.Kf2 Bf6 28.Rxd5 Bc6 29.Rd2 a6
+30.h4 Rd8 31.Rxd8+ Bxd8 32.Nf4 a5 33.Bd4 b5 34.Ke3 a4 35.bxa4 bxa4 36.Bc5 Kg7
+37.a3 Kh6 38.Bf8+ Kh7 39.Bc5 g5 40.hxg5 Bxg5 41.Kf2 h4 42.Bd6 Bd7 43.gxh4 Bxh4+
+44.Ke2 Bg5 45.Kf2 Kg7 46.Be5+ Kf8 47.Bd6+ Ke8 48.Nd3 Bb5 49.f4 Bh4+ 50.Ke3 Kd7
+51.Bb4 Ke6 52.Ne5 Ba6 53.Nf3 Bd8 54.Ng5+ Bxg5 55.fxg5 Kf5  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.29"]
+[Round "9.4"]
+[White "Harikrishna,P"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2784"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.e3 Bb7 6.Bd3 O-O 7.O-O c5 8.Na4 cxd4
+9.a3 Bd6 10.exd4 Nc6 11.Nc3 Rc8 12.Bg5 h6 13.Bh4 Be7 14.Re1 d5 15.cxd5 Nxd5
+16.Nxd5 Bxh4 17.Ne3 Bf6 18.Be4 g6 19.Qa4 a6 20.Rad1 b5 21.Qb3 Qb6 22.Ng4 Bg7
+23.Qe3 Kh7 24.h4 f5 25.Bxc6 Rxc6 26.Nge5 Rd6 27.Qf4 Bxf3 28.Nxf3 Rfd8 29.Rc1 Bxd4
+30.Nxd4 Qxd4 31.Qxd4 Rxd4 32.Rxe6 Rd1+ 33.Rxd1 Rxd1+ 34.Kh2 Rd2 35.Rxa6 Rxb2
+36.Ra7+ Kg8 37.f3 b4 38.axb4 Rxb4 39.Kg3  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.29"]
+[Round "9.5"]
+[White "Li Chao2"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2790"]
+[ECO "D84"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.cxd5 Nxd5 7.Nxd5 Qxd5 8.Bxc7 Na6
+9.Bxa6 Qxg2 10.Qf3 Qxf3 11.Nxf3 bxa6 12.Rc1 f6 13.Rg1 Rf7 14.b3 Bb7 15.Ke2 Bf8
+16.Ba5 e6 17.Nd2 Re8 18.h4 e5 19.h5 exd4 20.hxg6 hxg6 21.Rxg6+ Kh7 22.Rg3 Bh6
+23.Nc4 Re6 24.Rd1 dxe3 25.Rd6 Re4 26.fxe3 Rh4 27.Rd8 Bf8 28.Nd2 Bc6 29.Kd3 Rh5
+30.Bc3 Be7 31.Rc8 Bb5+ 32.Kc2 Bf8 33.a4 Bd7 34.Rd8 Bf5+ 35.Kb2 Rh2 36.Rf3 Be7
+37.Rd4 Bg6 38.Rdf4 Bc5 39.b4 Rb7 40.Ka3 Be7 41.Nb3 Rc7 42.Bxf6 Rcc2 43.Rh4+ Rxh4
+44.Bxh4 Bxh4 45.Rh3 Bf7 46.Rxh4+ Kg7 47.Rh1 Rc3 48.Rb1 Rxe3 49.a5 Bc4 50.b5 axb5
+51.a6 Kf6 52.Kb4 Bd3 53.Rc1 Re4+ 54.Kc3 Be2 55.Kb2 Rb4 56.Rc6+ Ke5 57.Kc3 Rh4
+58.Rc7 b4+ 59.Kb2 Bxa6 60.Na5 Kd5 61.Rxa7 Bb5 62.Rg7 Ba4 63.Rg2 Rh3 64.Rg5+ Ke6
+65.Rg6+ Kf5 66.Rb6 Rh2+ 67.Ka1 Rh4 68.Nc6 b3 69.Na5 Rh1+ 70.Kb2 Rh2+ 71.Kb1 Rh1+
+72.Kb2 Rh2+ 73.Kb1  1/2-1/2
+
+[Event "4th Norway Chess 2016"]
+[Site "Stavanger NOR"]
+[Date "2016.04.29"]
+[Round "9.3"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2801"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.c3 O-O 6.O-O d6 7.h3 Ne7 8.d4 Bb6
+9.Re1 Ng6 10.Nbd2 c6 11.Bf1 exd4 12.cxd4 d5 13.e5 Nh5 14.b4 f6 15.a4 Nhf4
+16.a5 Bc7 17.Nb3 a6 18.Nc5 Ne6 19.Nxe6 Bxe6 20.Bd3 Qd7 21.exf6 gxf6 22.Bxg6 hxg6
+23.Ra3 Rfe8 24.Rae3 Bd6 25.Bd2 Bf7 26.Nh2 Kg7 27.Qf3 Rxe3 28.Rxe3 g5 29.Ng4 Be7
+30.h4 gxh4 31.Re1 Re8 32.Bh6+ Kg6 33.Re5 Bd8 34.Qd3+ f5 35.Bf4 Kg7 36.Rxe8 Bxe8
+37.Ne5 Qe6 38.Qd2 Qe7 39.Bh6+ Kh7 40.Nf3 Qe4 41.Ng5+ Bxg5 42.Bxg5 h3 43.gxh3 Bh5
+44.Kh2 Be2 45.Qf4 Qxf4+ 46.Bxf4 Kg6 47.Kg3 Bf1 48.h4 Kh5 49.Bg5 Be2 50.Kf4 Bd3
+51.Ke5 Kg4 52.Kd6 f4 53.Kc7 f3 54.Kxb7 Bb5 55.Kc7 Kh5 56.Kd6 Kg4 57.Kc5 Kh5
+58.Kd6 Kg4 59.Kc5 Kh5 60.Kd6  1/2-1/2

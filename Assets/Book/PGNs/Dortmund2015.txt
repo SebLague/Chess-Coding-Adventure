@@ -1,0 +1,736 @@
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.27"]
+[Round "1.1"]
+[White "Meier,Geo"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2676"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4675789"]
+[BlackFideId "8602980"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bg5 Bd5 11.Qc2 Be4 12.Qd1 c5 13.dxc5 Bxc5 14.Nbd2 Bc6 15.Ne5 Bxg2
+16.Kxg2 Nbd7 17.Rc1 Nxe5 18.Rxc5 Ned7 19.Bxf6 Nxf6 20.Qc2 Rc8 21.Rxc8 Qxc8
+22.Rc1 Qd7 23.Nf3 Rd8 24.Qb3 h6 25.Rc4 Qe7 26.e4 e5 27.Qc3 Re8 28.a5 Qe6
+29.Rb4 Rc8 30.Qxe5 Qxe5 31.Nxe5 Rc5 32.f4 Rxa5 33.Kf3 b5 34.Rd4 g5 35.Rd6 Kg7
+36.Nd3 Ra4 37.e5 Ne4 38.Rd7 gxf4 39.gxf4 Kg6 40.Ke3 f5 41.Rb7 Ra1 42.Rb6+ Kg7
+43.b4 h5 44.Rb7+ Kg6 45.Rb6+ Kg7 46.h4 Ra3 47.Rb7+ Kg6 48.Kd4 Ng3 49.Rd7 Ne2+
+50.Ke3 Nc1 51.Kd2 Nxd3 52.Rxd3 Ra2+ 53.Ke3 Rb2 54.Rd6+ Kg7 55.Rxa6 Rb3+ 56.Ke2 Rxb4
+57.Ke3 Rb3+ 58.Ke2 Rb4 59.Ke3  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.27"]
+[Round "1.2"]
+[White "Kramnik,V"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2722"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "4101588"]
+[BlackFideId "4650891"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 13.a4 Bb7 14.Bd3 a5 15.Rfc1 e5
+16.d5 Nc5 17.Qe3 f5 18.Bc4 Qd6 19.exf5 Rxf5 20.Ng5 Rf4 21.Rab1 Qg6 22.Ba2 Qxg5
+23.Rxb6 Raf8 24.f3 Nd3 25.Rd1 Nb4 26.Rxb7 Nxa2 27.d6 Nb4 28.Rb5 Nc6 29.d7 h6
+30.Rbd5 Rd8 31.Qc3 Nd4 32.Kh1 Rh4 33.Qc7 Kh7 34.h3 Nxf3 35.Qc2+ Kh8 36.Qf2 Nd4
+37.Re1 Rf4 38.Qb2 Qf6 39.Qb1 Nf5 40.Kh2 Rb4 41.Qc1 Ne7 42.Rxa5 Rxd7 43.Raxe5 Ng6
+44.Re6 Qf4+ 45.Qxf4 Nxf4 46.R6e4 Rxe4 47.Rxe4 Nd3 48.Re8+ Kh7 49.Ra8 Rd4
+50.g4 Nc5 51.a5 Ra4 52.Kg3 Ra3+ 53.Kg2 Ne4 54.a6 Nd6 55.h4 Nb5 56.g5 hxg5
+57.hxg5 Nc7  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.27"]
+[Round "1.3"]
+[White "Nepomniachtchi,I"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2805"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "4168119"]
+[BlackFideId "2020009"]
+[EventDate "2015.06.27"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 c6 5.O-O Nf6 6.b3 O-O 7.Bb2 Ne4 8.Nbd2 Bf5
+9.c4 Nd7 10.Rc1 a5 11.Nh4 Nxd2 12.Qxd2 Be6 13.cxd5 cxd5 14.Nf3 Nf6 15.Ne5 Ne4
+16.Qe3 a4 17.Nd3 axb3 18.axb3 Qb6 19.Nc5 Ra2 20.Bxe4 dxe4 21.Bc3 Qb5 22.Nxe6 fxe6
+23.Rfe1 Qd5 24.Red1 Ra3 25.Qd2 Qxb3 26.Qg5 Ra2 27.Rd2 Bf6 28.Qc5 Rxd2 29.Bxd2 Qd5
+30.Be3 Rd8 31.Rb1 Rd7 32.Rb5 Kf7 33.Qb4 Qc6 34.Rb6 Qd5 35.Rb5 Qc6 36.Rb6 Qc2
+37.Rxb7 Rxb7 38.Qxb7 Bxd4 39.Bxd4 Qd1+ 40.Kg2 Qxd4 41.e3 Qd5 42.Qb2 Qf5 43.Qh8 Qf3+
+44.Kg1 Qd1+ 45.Kg2 Qf3+ 46.Kg1  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.27"]
+[Round "1.4"]
+[White "Nisipeanu,LD"]
+[Black "So,W"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2778"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteFideId "1202758"]
+[BlackFideId "5202213"]
+[EventDate "2015.06.27"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.Nf3 Bg7 5.Bb5+ Bd7 6.Bxd7+ Qxd7 7.O-O Nc6 8.d3 e6
+9.f5 Nge7 10.fxe6 fxe6 11.Ng5 Ne5 12.Nb5 Qxb5 13.Nxe6 Kd7 14.Nxg7 h5 15.a4 Qb6
+16.a5 Qb5 17.c4 Qc6 18.b4 Rh7 19.bxc5 Rxg7 20.Rf6 Nc8 21.d4 Ng4 22.Rf3 Qxe4
+23.h3 dxc5 24.dxc5+ Ke8 25.hxg4 Ne7 26.Qf1 Rg8 27.Bb2 hxg4 28.Re1  1-0
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.28"]
+[Round "2.1"]
+[White "Naiditsch,A"]
+[Black "Nisipeanu,LD"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2654"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "1202758"]
+[EventDate "2015.06.27"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O h6 7.Nbd2 Nd7 8.Nb3 g5
+9.Ne1 Qc7 10.Nd3 b6 11.Be3 Bg7 12.Rc1 Rd8 13.Kh1 c5 14.dxc5 O-O 15.cxb6 axb6
+16.f4 gxf4 17.Nxf4 Nxe5 18.Nh5 Nc4 19.Bg1 Bxb2 20.Nd4 Bg6 21.Nf6+ Kg7 22.Rb1 e5
+23.Nb5 Qc6 24.a4 Nf5 25.Nh5+ Kh7 26.Qe1 Nce3 27.Rxb2 Nxf1 28.Qxf1 d4 29.Bf3 Qc5
+30.Nf6+ Kg7 31.Ne4 Qe7 32.Rb3 Nh4 33.Qe1 f5 34.Nd2 Nxf3 35.Nxf3 Rfe8 36.Nh4 Kh7
+37.Rh3 Qf6 38.Bf2 Bh5 39.Nf3 Bxf3 40.Rxf3 e4 41.Rh3 d3 42.cxd3 exd3 43.Qd1 d2
+44.Nc3 Re6 45.Qb1 Qxc3 46.Qxf5+ Kh8 47.Rxc3 Re1+ 48.Bg1 Rxg1+ 49.Kxg1 d1=Q+  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.28"]
+[Round "2.2"]
+[White "Hou Yifan"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2676"]
+[BlackElo "2783"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "8602980"]
+[BlackFideId "4101588"]
+[EventDate "2015.06.27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Qe2 Bc5 5.c3 O-O 6.d3 h6 7.Nbd2 d6 8.O-O Ne7
+9.d4 a6 10.dxc5 axb5 11.cxd6 Qxd6 12.Qxb5 Ng6 13.Re1 b6 14.Nc4 Qe6 15.Ne3 Nxe4
+16.Qd5 Nc5 17.b4 Bb7 18.Qxe6 Nxe6 19.Nf5 Rfd8 20.a4 Rd3 21.Be3 Rxc3 22.a5 Rb3
+23.axb6 cxb6 24.Rxa8+ Bxa8 25.Bxb6 Bxf3 26.gxf3 Ng5 27.Kh1 Nxf3 28.Re4 Nf4  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.28"]
+[Round "2.3"]
+[White "Caruana,F"]
+[Black "So,W"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2778"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "5202213"]
+[EventDate "2015.06.27"]
+
+1.Nf3 c5 2.e4 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nde2 b5 8.g4 b4
+9.Nd5 Nxd5 10.exd5 h5 11.gxh5 Rxh5 12.a3 bxa3 13.Rxa3 Nd7 14.Bg2 Nf6 15.O-O Rb8
+16.f4 Be7 17.c4 Qb6+ 18.Rf2 Rh4 19.Rc3 Bd7 20.b3 Bxh3 21.Bxh3 Ne4 22.Qe1 Nxc3
+23.Qxc3 Qxb3 24.Qxb3 Rxb3 25.Bc8 e4 26.Bxa6 Bd8 27.c5 dxc5 28.Rg2 g6 29.Rg3 Rxg3+
+30.Nxg3 Rg4 31.Kh2 f5 32.Ne2 Rh4+ 33.Kg2 Bc7 34.Bc8 Kd8 35.Be6 Ke7 36.Be3 Bd6
+37.Bf2 Rh8 38.Be1 c4 39.Bc3 Ra8 40.Be5 Ra2 41.Kf1 Rd2 42.Bc3 Rd3 43.Ba5 Ba3
+44.Bg8 Bd6 45.Be6 Bc5 46.Ke1 Rb3 47.Kd2 Rb2+ 48.Kd1 Bb4 49.Bxb4+ Rxb4 50.Kc2 Rb3
+51.Nc3 e3 52.Bg8 Rb6 53.Ne2 Ra6 54.d6+ Rxd6 55.Bxc4 Kf6 56.Bd3 g5 57.fxg5+ Kxg5
+58.Ng3 Rc6+ 59.Kd1 f4 60.Nf1 Rb6 61.Nh2 Kh4 62.Ke1 Kg3 63.Nf1+ Kf3 64.Nh2+ Kg2
+65.Nf1 Re6 66.Bc4 Re5 67.Ba6 Ra5 68.Bb7+ Kg1 69.Nxe3 Re5  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.28"]
+[Round "2.4"]
+[White "Nepomniachtchi,I"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2654"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz, Boleslavsky variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "4675789"]
+[EventDate "2015.06.27"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.dxc5 Nxc5
+9.Qd2 a6 10.O-O-O Qa5 11.Kb1 b5 12.Bd3 Bd7 13.Bxc5 Bxc5 14.f5 Bb4 15.Qg5 Bxc3
+16.Qxg7 O-O-O 17.bxc3 d4 18.Nxd4 Nxd4 19.cxd4 Qb4+ 20.Kc1 Rhg8 21.Qxf7 Rxg2
+22.fxe6 Qa3+ 23.Kb1 Qb4+ 24.Kc1 Qa3+ 25.Kb1 Qb4+  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.30"]
+[Round "3.2"]
+[White "Kramnik,V"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2720"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "4168119"]
+[EventDate "2015.06.27"]
+
+1.Nf3 Nf6 2.g3 c5 3.Bg2 g6 4.c4 Bg7 5.d4 cxd4 6.Nxd4 d5 7.Nc3 dxc4 8.Qa4+ Nbd7
+9.O-O O-O 10.Rd1 Nb6 11.Qa3 Qd6 12.Qxd6 exd6 13.a4 a6 14.Bf4 Ne8 15.Rac1 a5
+16.Ndb5 Bd7 17.Bxd6 Nxd6 18.Rxd6 Bc6 19.Bxc6 bxc6 20.Rxc6 Rab8 21.Rc5 Rfd8
+22.Na7 Rd2 23.Rb5 Nd7 24.Rxb8+ Nxb8 25.Ncb5 Nd7 26.Rxc4 Bxb2 27.Kf1 Nb6 28.Re4 f5
+29.Re8+ Kf7 30.Rb8 Nxa4 31.Nc6 Nc3 32.Nxa5 Rd1+ 33.Kg2 Nxe2 34.Nc4 Ba1 35.Nbd6+ Kg7
+36.Rb7+ Kg8 37.Re7 Nc3 38.h4 Nd5 39.Rd7 h5 40.Ra7 Bd4 41.Ra8+ Kg7 42.Rd8 Ba1
+43.Nb6 Nc3 44.Nbc8 Kf6 45.Rd7 Nd5 46.Nb6 Be5 47.Nb7 Nc3 48.Nd8 g5 49.Rxd1 Nxd1
+50.Nd7+ Ke7 51.Nxe5 Kxd8 52.hxg5 Ke7 53.f4 Nc3 54.Kh3 Ne4 55.Kh4  1-0
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.30"]
+[Round "3.1"]
+[White "Nisipeanu,LD"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2676"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Yates variation"]
+[WhiteFideId "1202758"]
+[BlackFideId "8602980"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb4+ 5.Bd2 a5 6.Bg2 Bb7 7.O-O O-O 8.Bf4 Be7
+9.Nc3 Na6 10.d5 Bb4 11.Nb5 exd5 12.Nh4 c6 13.Nd6 Bxd6 14.Bxd6 Re8 15.cxd5 Ne4
+16.dxc6 dxc6 17.Bf4 Qf6 18.Be3 c5 19.Qd7 Bc6 20.Qg4 Nb4 21.Rad1 Qe6 22.Nf5 g6
+23.Nh6+ Kg7 24.Qh4 Nc2 25.Ng4 Nxe3 26.fxe3 h5 27.Bxe4 Qxe4 28.Qf6+ Kg8 29.Qxf7+ Kh8
+30.Qf6+ Kg8 31.Qf7+ Kh8 32.Qf6+ Kg8 33.Qf7+  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.30"]
+[Round "3.3"]
+[White "So,W"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2722"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "5202213"]
+[BlackFideId "4650891"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.e3 Be7 6.b3 O-O 7.Bb2 b6 8.Bd3 Bb7
+9.Qc2 c5 10.cxd5 exd5 11.O-O a6 12.Rfd1 Re8 13.Rac1 Bd6 14.Bf5 Rc8 15.dxc5 bxc5
+16.Qd3 Rc7 17.Na4 Qe7 18.Qc3 d4 19.exd4 Bxf3 20.Qxf3 cxd4 21.Ra1 Ne5 22.Qh3 g6
+23.Bd3 Nd5 24.Bxd4 Nxd3 25.Qxd3 Nf4 26.Qxa6 Qg5 27.g3 Ne2+ 28.Kf1 Qg4 29.Be3 Rxe3
+30.Qa8+ Kg7 31.Rxd6 Re4 32.Kg2 Nf4+ 33.Kg1 Nh3+ 34.Kg2 Rc2 35.Rf1 Nf4+ 36.Kg1 Qf3  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.06.30"]
+[Round "3.4"]
+[White "Meier,Geo"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2805"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "4675789"]
+[BlackFideId "2020009"]
+[EventDate "2015.06.27"]
+
+1.Nf3 d6 2.d4 g6 3.e4 Bg7 4.Be2 Nd7 5.c4 e5 6.Nc3 Ne7 7.h4 h6 8.g4 Nb6 9.g5 hxg5
+10.Bxg5 Bg4 11.d5 f6 12.Be3 Bh6 13.Qd3 Bh5 14.O-O-O Kf7 15.Rdg1 Qd7 16.Bxh6 Rxh6
+17.Bf1 Rah8 18.Bh3 Qd8 19.Ne1 c6 20.b3 Nd7 21.Qe3 cxd5 22.cxd5 Nc5 23.b4 Nd7
+24.Qxa7 Qc7 25.Qe3 Nb6 26.Kb1 Kg7 27.Nb5 Qd8 28.f3 Rf8 29.Rg2 f5 30.Rc2 Na8
+31.Qa7 fxe4 32.fxe4 Rf4 33.Bg2 Bd1 34.Rd2 Bg4 35.Qxb7 Rf7 36.Qa6 Nb6 37.Nd3 Nc4
+38.Rc2 Bc8 39.Qa8 Ne3 40.Re2 Nxg2 41.Rxg2 Qb6 42.a4 Qe3 43.Rd1 Rf1 44.Rxf1 Qxd3+
+45.Rc2 Qxf1+ 46.Kb2 Qe1 47.Qa7 Qxb4+ 48.Ka2 Kf6 49.Rf2+ Bf5 50.Qa8 Rxh4  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.01"]
+[Round "4.1"]
+[White "Nepomniachtchi,I"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2654"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "1202758"]
+[EventDate "2015.06.27"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h5 5.Bd3 Bxd3 6.Qxd3 e6 7.Bg5 Qb6 8.Nd2 Ne7
+9.Ngf3 Qa6 10.c4 Nf5 11.O-O Nd7 12.Qc3 Be7 13.Bxe7 Nxe7 14.c5 b6 15.a4 bxc5
+16.dxc5 Qc8 17.b4 a5 18.bxa5 Qc7 19.Nb3 Ng6 20.Rfe1 O-O 21.Rac1 f6 22.Nbd4 Nf4
+23.Qc2 Nxe5 24.g3 Nfd3 25.Nxe5 Nxe1 26.Rxe1 fxe5 27.Nxe6 Qxa5 28.Rxe5 Qxa4
+29.Qxa4 Rxa4 30.Nxf8 Kxf8 31.Re6 Ra1+ 32.Kg2 d4 33.Rxc6 d3 34.Rd6 Rc1 35.c6 d2
+36.Rxd2 Rxc6 37.Rd5 g6 38.Rd7 Rc3 39.Kf1 Rc2 40.Ke1 Ra2 41.Rd2 Ra3 42.Ke2 Kf7
+43.Rd3 Ra2+ 44.Ke3 Kf6 45.Rd4 Rb2 46.Rf4+ Kg7 47.Ra4 Kf6 48.f3 Rb3+ 49.Kf4 Rc3
+50.Ra6+ Kg7 51.Rd6 Ra3 52.Ke4 Rb3 53.Rd3 Rb5 54.Rd7+ Kf6 55.g4 hxg4 56.fxg4 Rb4+
+57.Rd4 Rb7 58.Rd6+ Kg7 59.Ke5 Rf7 60.Re6 Rf1 61.Re7+ Kg8 62.g5 Rf5+ 63.Ke6 Rf4
+64.Rd7 Rxh4 65.Kf6 Ra4 66.Rg7+ Kh8 67.Re7 Kg8 68.Re6 Kh7 69.Re7+ Kg8 70.Re3 Kh7
+71.Re7+ Kg8 72.Rg7+ Kh8 73.Rxg6 Ra6+ 74.Kf5 Ra5+ 75.Kf6 Ra6+  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.01"]
+[Round "4.2"]
+[White "Meier,Geo"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2783"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4675789"]
+[BlackFideId "4101588"]
+[EventDate "2015.06.27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nf5 8.Nf3 d5
+9.d4 O-O 10.c3 Bd6 11.Bd3 Nce7 12.Nbd2 c6 13.Nf1 g6 14.h3 Kh8 15.Bd2 f6 16.Qc2 Bd7
+17.b3 Rc8 18.Re2 b6 19.g4 Ng7 20.Rae1 c5 21.dxc5 bxc5 22.Qc1 Bc6 23.Bf4 Ng8
+24.Bg3 d4 25.N1h2 Bxg3 26.fxg3 g5 27.Be4 Bxe4 28.Rxe4 Qd6 29.Kg2 f5 30.Re5 h6
+31.Qd2 Rcd8 32.Qd3 f4 33.Nf1 Qc6 34.cxd4 cxd4 35.R1e4 fxg3 36.Nxg3 Nf6 37.Rxd4 Ne6
+38.Rxe6 Rxd4 39.Qxd4 Qxe6 40.Qxa7 Rc8 41.Nf5 Qe2+ 42.Qf2 Qd3 43.Qd4 Rc2+
+44.Kg1 Rc1+ 45.Kg2 Qc2+ 46.Kg3 Qc7+ 47.Kg2 Rc2+ 48.Kg1 Rc6 49.Kf2 Kh7 50.Ke2 Rc2+
+51.Ke3 Rxa2 52.Qc4 Qb7 53.Qe6 Nd5+ 54.Kd4 Qb4+  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.01"]
+[Round "4.3"]
+[White "Hou Yifan"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2676"]
+[BlackElo "2778"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "5202213"]
+[EventDate "2015.06.27"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 Ngf6 12.O-O-O Be7 13.Kb1 Qb6 14.Ne4 Rd8 15.c4 O-O
+16.Qe2 c5 17.Bc3 cxd4 18.Bxd4 Qc6 19.Nxf6+ Bxf6 20.g4 Bxd4 21.Nxd4 Qc5 22.Nf3 Nf6
+23.Ne5 Rd4 24.Rxd4 Qxd4 25.Rd1 Qf4 26.Re1 Qd4 27.Rd1 Qf4 28.f3 a6 29.a3 Ra8
+30.Rd6 Re8 31.Ka2 Nxg4 32.fxg4 f6 33.Rd7 fxe5 34.Rxb7 Qd4 35.g5 hxg5 36.h6 gxh6
+37.Qh5 Qxc4+ 38.Ka1 Qc1+ 39.Ka2 Qc4+ 40.Ka1 Qc1+  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.01"]
+[Round "4.4"]
+[White "Caruana,F"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2722"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "4650891"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 c5 6.O-O Nc6 7.Qa4 Bd7 8.Qxc4 b5
+9.Qc3 cxd4 10.Nxd4 Nxd4 11.Qxd4 Rc8 12.Bf4 Bc5 13.Qd3 Qb6 14.Nd2 O-O 15.Ne4 Nd5
+16.Ng5 g6 17.Be5 Be7 18.Nf3 Bc6 19.Qd2 f6 20.Bd4 Qb7 21.Rac1 Rfd8 22.Bh3 Bd7
+23.Rxc8 Bxc8 24.Rc1 Bd7 25.Bc5 Bxc5 26.Rxc5 Rc8 27.b4 Rxc5 28.bxc5 Qc7 29.e4 Ne7
+30.Qd4 Kg7 31.e5 f5 32.Bg2 h6 33.Qd6 Qxd6 34.exd6 Nc6 35.Ne1 a5 36.Nd3 b4
+37.h4 Nd4 38.Kh2 Bb5 39.Ne5 Kf6 40.c6 Bxc6 41.Nxc6  1-0
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.03"]
+[Round "5.2"]
+[White "Kramnik,V"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2805"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "4101588"]
+[BlackFideId "2020009"]
+[EventDate "2015.06.27"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.Nbd2 a5 8.b3 a4 9.Ba3 axb3
+10.axb3 Bf5 11.Nh4 Be6 12.Re1 Ne4 13.Bxe4 dxe4 14.Nxe4 Qxd4 15.Qc2 Bf5 16.Nxf5 gxf5
+17.Ng5 Qg4 18.f4 Bxa1 19.Rxa1 h6 20.Nf3 Nd7 21.Rd1 Rxa3 22.Rxd7 Qh3 23.Qc3 e6
+24.Rxb7 Rfa8 25.Kf2 Ra1 26.Ke3 Rf1 27.Qf6 Rf8 28.Rd7 Rb1 29.Rb7 c5 30.Rb5 Rf1
+31.Nd2 Rc1 32.Qb2 Rd1 33.Qc2 Rh1 34.Nf3 Qg2 35.Qc3 Rf1 36.Qf6 Rf2 37.Kd3 Rxe2
+38.Ng5 Rd2+  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.03"]
+[Round "5.3"]
+[White "So,W"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2720"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "5202213"]
+[BlackFideId "4168119"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.c4 g6 3.f3 e6 4.e4 c5 5.d5 d6 6.Nc3 Bg7 7.Nge2 exd5 8.cxd5 O-O
+9.Ng3 a6 10.a4 h5 11.Be2 Qe8 12.Bf4 Qe7 13.Bg5 Qe8 14.Qd2 Nbd7 15.Bh6 Qe5
+16.Bxg7 Kxg7 17.Bd3 Rb8 18.Rd1 Re8 19.Be2 h4 20.Nf1 h3 21.g4 b5 22.axb5 axb5
+23.Ng3 b4 24.Na4 Ra8 25.b3 Ba6 26.Bxa6 Rxa6 27.O-O Rea8 28.f4 Qe7 29.Qe2 Nh7
+30.Rf3 Qh4 31.Kh1 c4 32.Qxc4 Qxg4 33.Qd3 Kf8 34.Rg1 Rxa4 35.bxa4 Nc5 36.Qe3 Rxa4
+37.Nf5 gxf5 38.Rxg4 fxg4 39.Rf1 Nf6 40.e5 Nfe4 41.f5 Ra2 42.e6 g3 43.hxg3 Ke8
+44.g4 h2 45.Qh3 f6 46.g5 Nxg5 47.Qh8+ Ke7 48.Qg7+ Ke8 49.Qxf6  1-0
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.03"]
+[Round "5.4"]
+[White "Naiditsch,A"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2676"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[WhiteFideId "4650891"]
+[BlackFideId "8602980"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Bd6 8.O-O Re8
+9.Bd2 a5 10.Rc1 b6 11.Ng3 Ba6 12.Bxa6 Nxa6 13.Qa4 Nb4 14.Nf5 Bf8 15.a3 c5
+16.Ng3 g6 17.Nce2 Na6 18.dxc5 Nxc5 19.Qd1 h5 20.Nd4 h4 21.Nge2 h3 22.g3 Nfe4
+23.Be1 a4 24.Nf4 Qd7 25.Bb4 Rac8 26.Nde2 Rcd8 27.Nc3 Qf5 28.Nb5 Ng5 29.Nd4 Qd7
+30.Rc2 Nge4 31.Re1 Bg7 32.Ree2 Rc8 33.f3 Ng5 34.Kf2 Kh7 35.Qf1 Nb3 36.Rxc8 Rxc8
+37.Bc3 Rc4 38.Nxb3 Bxc3 39.Nd2 Bxd2 40.Rxd2 Qc6 41.Nxh3 Ne6 42.Nf4 Nxf4 43.gxf4 Rc1
+44.Qg2 Qc4 45.Kg3 Kg7 46.f5 Re1 47.Qf2 Rf1 48.Qe2 Qc1 49.Rc2 Rg1+ 50.Kf4 g5+
+51.Ke5 Re1 52.f6+ Kh6 53.Rxc1 Rxe2 54.Rc3 Rxb2 55.Kxd5 Kg6 56.Rc6 Rb3 57.Ke4 b5
+58.Rb6 Rxa3 59.Rxb5 Kxf6 60.Rb6+ Kg7 61.Ra6 Ra2 62.Kf5 Ra3 63.Kxg5 Rxe3 64.Rxa4  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.03"]
+[Round "5.1"]
+[White "Nisipeanu,LD"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2654"]
+[ECO "E42"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 c5, 5.Ne2 (Rubinstein)"]
+[WhiteFideId "1202758"]
+[BlackFideId "4675789"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.a3 Bxc3+ 8.Nxc3 dxc4
+9.Bxc4 Nc6 10.Be3 O-O 11.O-O h6 12.Ba2 Ne7 13.Qf3 Ned5 14.Rac1 b6 15.Nxd5 Nxd5
+16.Bxd5 Qxd5 17.Qg3 Bb7 18.Bxh6 Qxg2+ 19.Qxg2 Bxg2 20.Bxg7 Bxf1 21.Bxf8 Ba6
+22.Bd6 Rc8 23.Bc7 Bb7 24.Kf1 Kh7 25.Ke2 Kg6 26.Ke3 Kh5 27.Kf4 f6 28.Rc3 Bd5
+29.Bd6 Rxc3 30.bxc3 b5 31.Be7 Kg6 32.h4 Bb3 33.h5+ Kf7 34.Bd8 Bd1 35.h6 Bc2
+36.f3 a6 37.Ke3 Kg6 38.Kf4 Kf7 39.Kg4 Kg6 40.Kf4 Kf7 41.Ke3 Kg6 42.Kf4  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.04"]
+[Round "6.2"]
+[White "Kramnik,V"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2654"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Wimpey system"]
+[WhiteFideId "4101588"]
+[BlackFideId "1202758"]
+[EventDate "2015.06.27"]
+
+1.Nf3 d5 2.e3 Nf6 3.c4 e6 4.b3 c5 5.Bb2 Nc6 6.cxd5 exd5 7.Bb5 Bd6 8.d4 cxd4
+9.Nxd4 O-O 10.O-O Qc7 11.h3 Bh2+ 12.Kh1 Be5 13.Qc2 Bd7 14.Nf3 Bxb2 15.Qxb2 Rac8
+16.Rc1 Qd6 17.Nc3 Ne5 18.Be2 Nxf3 19.Bxf3 Qe5 20.Qd2 Be6 21.Nb5 Bd7 22.Qd4 Qxd4
+23.Nxd4 a5 24.g4 h6 25.Kg2 Rxc1 26.Rxc1 Rc8 27.Rb1 Ra8 28.Ne2 g5 29.Nc3 Be6
+30.Rd1 Rd8 31.e4 d4 32.Kg3 Rc8 33.Nb5 Nd7 34.Nxd4 Ne5 35.Be2 Rc3+ 36.f3 Kg7
+37.Rd2 Kf6 38.Nf5 Bxf5 39.exf5 Ke7 40.Rd5 Nc6 41.Bb5 b6 42.h4 f6 43.Bxc6 Rxc6
+44.hxg5 hxg5 45.a4 Rc3 46.Rb5 Rc6 47.f4 Rc3+ 48.Kf2 gxf4 49.Rxb6 Kf7 50.b4 Rc2+
+51.Kf3 Rc3+ 52.Kf2 Rc2+ 53.Ke1 Rc1+ 54.Kd2 f3 55.Ke3 Rc3+ 56.Kf2 axb4 57.Rxb4 Kg7
+58.Kg3 Ra3 59.Rb7+ Kh6 60.Ra7 f2+ 61.Kxf2 Kg5 62.Ke2 Kxg4 63.Ra5 Kf4 64.Kd2 Ke4
+65.Kc2 Kd4 66.Ra6 Rc3+ 67.Kb2 Rc4 68.Ra5 Rb4+ 69.Ka3 Kc4 70.Ra6 Rb3+ 71.Ka2 Rb4
+72.Ra8 Kc5 73.Ka3 Rf4 74.Rb8 Rf1 75.Rb5+ Kc4 76.Kb2 Rf2+ 77.Kb1 Kc3 78.a5 Kc4
+79.Rb7 Rxf5 80.a6 Ra5 81.a7 Kc5 82.Rf7 Kb6 83.Kc2  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.04"]
+[Round "6.1"]
+[White "Caruana,F"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2805"]
+[BlackElo "2676"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[WhiteFideId "2020009"]
+[BlackFideId "8602980"]
+[EventDate "2015.06.27"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Bb4 4.a3 Bxc3+ 5.bxc3 Nf6 6.e3 c6 7.a4 O-O 8.Nf3 b6
+9.cxd5 exd5 10.Bd3 Ba6 11.O-O c5 12.Ne5 Re8 13.a5 Bxd3 14.Nxd3 Nc6 15.axb6 axb6
+16.Rxa8 Qxa8 17.dxc5 bxc5 18.Nxc5 Ne5 19.Nd3 Nc4 20.Nf4 h6 21.Qd4 Re4 22.Qc5 Re5
+23.f3 Qa2 24.Qd4 Qa4 25.h4 Qb5 26.g4 Nd7 27.Nd3 Re6 28.Kg2 Ndb6 29.Nf4 Re5
+30.Nh5 Qb1 31.e4 dxe4 32.f4 Rxh5 33.gxh5 Qc2+ 34.Kh1 Qe2 35.Rg1 Qf3+ 36.Rg2 g6
+37.hxg6 Qf1+ 38.Kh2 Qxc1 39.Qf6  1-0
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.04"]
+[Round "6.4"]
+[White "Meier,Geo"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2778"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "4675789"]
+[BlackFideId "5202213"]
+[EventDate "2015.06.27"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bg4 5.Nc3 e6 6.h3 Bh5 7.g4 Bg6 8.Ne5 Nbd7
+9.Nxg6 hxg6 10.g5 Ng8 11.h4 Ne7 12.Bd2 Nf5 13.Qg4 Be7 14.Rh3 Rh5 15.O-O-O Qc7
+16.Kb1 dxc4 17.Bxc4 O-O-O 18.Ne2 c5 19.Bb3 Kb8 20.Bc3 Rdh8 21.Rdh1 Bd6 22.dxc5 Be5
+23.e4 Bxc3 24.Rxc3 Rxh4 25.Rch3 Rxh3 26.Rxh3 Rxh3 27.Qxh3 Ne7 28.Qh8+ Nc8
+29.Qxg7 Nxc5 30.Bc2 Qe7 31.f4 a6 32.Nc3 Nd7 33.e5 Qf8 34.Qxf8 Nxf8 35.Be4 Nd7
+36.Kc2 Ne7 37.Bf3 Kc7 38.Kd3 b5 39.b4 Nb6 40.Kd4 Nf5+ 41.Kd3 Ne7 42.Kd4 Nf5+
+43.Kd3  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.04"]
+[Round "6.3"]
+[White "Nepomniachtchi,I"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2722"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[WhiteFideId "4168119"]
+[BlackFideId "4650891"]
+[EventDate "2015.06.27"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 exd5 5.Bg5 c6 6.Qc2 Be7 7.e3 Nbd7 8.Bd3 O-O
+9.Nge2 Re8 10.O-O h6 11.Bf4 Nf8 12.a3 a5 13.f3 Nh5 14.Be5 f6 15.Bg3 Nxg3
+16.Nxg3 Bd6 17.Rae1 Qc7 18.f4 Be6 19.Nf5 Bxf5 20.Bxf5 Re7 21.h4 Rae8 22.Rf3 b5
+23.h5 b4 24.axb4 Bxb4 25.Re2 Qd6 26.Qd3 Rd8 27.Na4 c5 28.Nxc5 Bxc5 29.dxc5 Qxc5
+30.Rc2 Qb6 31.Kh2 Ne6 32.Rg3 Kh8 33.Qa3 Qb4 34.Qxb4 axb4 35.Rc6 Nc7 36.Rf3 Nb5
+37.Rc5 Nc7 38.Bg6 Kg8 39.Rc6 Kf8 40.b3 Ne8 41.Rb6 Rc7 42.Rxb4 Nd6 43.Rf1 Ke7
+44.Rd1 Rc5 45.Rb6 Rb5 46.Rxb5 Nxb5 47.Kg3 Ke6 48.Kg4 Nd6 49.e4 dxe4 50.Bxe4 Rb8
+51.Bd5+ Kd7 52.Ra1 f5+ 53.Kh3 Ne8 54.Ra7+ Nc7 55.Bc4 Kd6 56.Ra5 Rf8 57.Kg3 Rf6
+58.Kf3 Kc6 59.g3 Ne8 60.Re5 Nd6 61.Bd3 Rf7 62.b4 Rb7 63.Rc5+ Kd7 64.b5 Ke6
+65.Re5+ Kf6 66.Ke3 Ra7 67.Kd4 Ra3 68.Bc4  1-0
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.05"]
+[Round "7.1"]
+[White "Nisipeanu,LD"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2654"]
+[BlackElo "2805"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Tartakower attack"]
+[WhiteFideId "1202758"]
+[BlackFideId "2020009"]
+[EventDate "2015.06.27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Qb3 Qd7 8.dxe5 Bb6
+9.a4 Na5 10.Qa2 Nxc4 11.Qxc4 Ne7 12.Ba3 O-O 13.O-O Re8 14.exd6 cxd6 15.Rd1 Qc6
+16.Nbd2 Be6 17.Qxc6 Nxc6 18.Bxd6 Rad8 19.Bb4 Rd3 20.a5 Bc7 21.Nf1 Rxd1 22.Rxd1 Nxa5
+23.Nd4 Nc4 24.Nxe6 Rxe6 25.Rd7 Rc6 26.Ng3 g6 27.Ne2 a5 28.Nd4 axb4 29.Nxc6 b3
+30.Rxc7 Nd6  0-1
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.05"]
+[Round "7.2"]
+[White "So,W"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2783"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "4101588"]
+[EventDate "2015.06.27"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Ne7 10.Nc3 Bd7 11.Ng5 Ke8 12.e6 Bxe6 13.Nxe6 fxe6 14.Re1 Kf7 15.Ne4 h6
+16.Rd1 e5 17.Rd7 Rc8 18.Bd2 b6 19.Re1 Ke6 20.Rd3 c5 21.f4 Nc6 22.Rg3 Re8
+23.fxe5 g5 24.h4 Bg7 25.hxg5 Bxe5 26.Rf3 hxg5 27.Bxg5 Bd4+ 28.Nf2+ Kd5 29.Rd1 Rhg8
+30.Bf4 Re2 31.c3 Rxb2 32.cxd4 Nxd4 33.Be3 Rxa2 34.Rf4 Ra4 35.Ne4 Kc6 36.Nc3 Ra3
+37.Bxd4 cxd4 38.Ne2 d3 39.Rf3 Ra2 40.Nf4 d2 41.Kf2 b5 42.Rc3+ Kb7 43.Nd5 Rg7
+44.Rb3 a6 45.Nb4 Ra4 46.Rxd2 c5 47.Nd5 Rd7 48.Rf3 Re4 49.Rf6 Ka7 50.Rd3 c4
+51.Rh3 Rd4 52.Nb4 R4d6 53.Rhh6 Rxf6+ 54.Rxf6 Rd2+ 55.Kf3 a5 56.Ra6+ Kb7 57.Rxa5 Kb6
+58.Ra2 Rd7 59.Ra8 Kc5 60.Nc2 Rc7 61.Rf8 c3 62.Rf5+ Kb6 63.g4 Ka5 64.g5 Ka4
+65.Ke3 Rd7 66.g6 b4 67.Rf4 Kb3 68.Nxb4 Re7+ 69.Re4 Rg7 70.Rg4 Re7+ 71.Kf3 Rg7
+72.Nc6 Rg8 73.g7 c2 74.Nd4+ Kc4 75.Nxc2+ Kd5 76.Rg6  1-0
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.05"]
+[Round "7.3"]
+[White "Hou Yifan"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2676"]
+[BlackElo "2720"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "4168119"]
+[EventDate "2015.06.27"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Qd3 Be6 10.Nd5 Bxd5 11.exd5 Nbd7 12.Bd2 a5 13.a4 Qc7 14.Rfd1 Rfc8 15.Rac1 g6
+16.h3 Bf8 17.Qf3 Bg7 18.Bb5 Nc5 19.Nxc5 Qxc5 20.Bg5 Nh5 21.c3 f5 22.g4 fxg4
+23.hxg4 Nf4 24.Bxf4 exf4 25.Re1 Be5 26.Rcd1 Rd8 27.Qd3 Qc8 28.f3 Qc5+ 29.Kg2 Rac8
+30.Rxe5 dxe5 31.d6 Kg7 32.d7 Rc7 33.Qe4 Qe7 34.Rd5 Rc5 35.Rxc5 Qxc5 36.Qxb7 Qd6
+37.Qe4 Kf8 38.Qe1 Qe7 39.b4 axb4 40.cxb4 h5 41.gxh5 Qg5+ 42.Kf1 gxh5 43.Qe4 Ke7
+44.Qh7+ Kd6 45.Qc2 Ke7 46.Qc5+ Kf6 47.Qd6+ Kg7 48.Bc4 Qf6 49.Be6 e4 50.fxe4 f3
+51.Qg3+ Kh8 52.Bf5 Qc3 53.Kf2 Qd4+ 54.Kxf3 Rg8 55.Qe1 Qd3+ 56.Kf4 Qd6+ 57.Kf3 Qd3+
+58.Kf2 Qd4+ 59.Qe3 Qb2+ 60.Kf1 Qb1+ 61.Kf2 Qb2+ 62.Kf1 Qb1+ 63.Kf2  1/2-1/2
+
+[Event "43rd GM 2015"]
+[Site "Dortmund GER"]
+[Date "2015.07.05"]
+[Round "7.4"]
+[White "Naiditsch,A"]
+[Black "Meier,Geo"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2722"]
+[BlackElo "2654"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "4650891"]
+[BlackFideId "4675789"]
+[EventDate "2015.06.27"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 O-O 5.a3 Bxc3+ 6.bxc3 Nh5 7.g3 f5 8.e4 d6
+9.exf5 exf5 10.Bd3 c5 11.Ne2 Nc6 12.O-O Rf7 13.Be3 b6 14.Qc2 g6 15.g4 Qe7
+16.Bh6 Ng7 17.Qd2 fxg4 18.Be4 Bb7 19.Bd5 Nd8 20.Bxf7+ Nxf7 21.Bxg7 gxf3 22.Nf4 Qg5+
+23.Kh1 Re8 24.Rf2 Kxg7 25.d5 Qe5 26.Rxf3 Bc8 27.Rg3 Bf5 28.Kg1 Kh8 29.Rf1 Qf6
+30.Ne6 Ne5 31.Qh6 Re7 32.Rg5 Rf7 33.Qh4 Qe7 34.Nf4 Kg8 35.Qg3 Nxc4 36.h4 Qe3+
+37.Qxe3 Nxe3 38.Re1 Ng4 39.h5 Ne5 40.Rg3 Kg7 41.Rf1 Re7 42.Ng2 Bd7 43.Nh4 Bg4
+44.Rf4 Bd7 45.Nf3 b5 46.Ng5 Bf5 47.a4 a6 48.a5 Nc4 49.Nf3 Bb1 50.Ng5 Bf5
+51.Nf3 Be4 52.h6+ Kxh6 53.Rh3+ Kg7 54.Ng5 Bf5 55.Rxh7+ Kf6 56.Rxe7 Kxe7 57.Ne4 Nxa5
+58.Rh4 Bxe4 59.Rxe4+ Kd7 60.Rg4 Nc4 61.Rxg6 a5 62.Rg7+ Kc8 63.Kf2 b4 64.cxb4 cxb4
+65.Ke2 Nb6 66.Kd3 a4 67.Ra7 b3 68.Ra5 Nd7 69.Kc3 Nc5 70.Kb2 Kb7 71.Ka3 Kb6
+72.Ra8 Kb7 73.Rh8 Kb6 74.Rh6 Kc7 75.Rh7+ Kb6 76.Rh6 Kc7 77.Rh7+  1/2-1/2

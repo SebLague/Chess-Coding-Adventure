@@ -1,0 +1,1196 @@
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.14"]
+[Round "1.1"]
+[White "Anand,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2783"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 6.Qc2"]
+[WhiteFideId "5000017"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 Nbd7 8. Nf3
+Nh5 9. Bxe7 Qxe7 10. O-O-O Nb6 11. Ne5 Nf6 12. Bd3 Ng4 13. Nf3 Be6 14. Kb1 O-O-O
+15. h3 Nf6 16. Nd2 Kb8 17. Nb3 Ne8 18. Nc5 Nd6 19. f3 f5 20. g4 Bc8 21. Rde1
+Rhf8 22. Qh2 Qc7 23. Rhf1 Rde8 24. b3 g6 25. Bc2 Re7 26. Rf2 Rfe8 27. Rfe2 Nd7
+28. Nd3 Nf7 29. Qxc7+ Kxc7 30. gxf5 gxf5 31. Nf4 Nf6 32. h4 Nh8 33. Kc1 Ng6 34.
+Ng2 Nh5 35. Rg1 a5 36. Kd2 Rg7 37. Ne1 h6 38. Reg2 Reg8 39. Ne2 Kd6 40. a3 b6
+41. b4 axb4 42. axb4 Ne7 43. Rxg7 Rxg7 44. Rxg7 Nxg7 45. Nf4 c5 46. bxc5+ bxc5
+47. dxc5+ 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.14"]
+[Round "1.2"]
+[White "Aronian,L"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2760"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Wade variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "14109603"]
+[EventDate "2015.02.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. dxc5 Nxc5 13. Nxc5 Bxc5 14. O-O Be7 15.
+Qe2 Qb6 16. Ng5 h6 17. Ne4 Rd8 18. Qf3 Ba6 19. Rd1 O-O 20. Qg3 Kh8 21. Qh3 Kg8
+22. Bxh6 gxh6 23. Qxh6 f5 24. Qg6+ Kh8 25. Qh6+ Kg8 26. Qg6+ Kh8 27. Qh6+ 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.14"]
+[Round "1.3"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2776"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Nbd7 9. Bg5 Be7 10. a4 Nc5 11. Bg2 Be6 12. a5 b5 13. axb6 Qxb6 14. b3 O-O 15.
+O-O a5 16. Qd2 Rfc8 17. Rfd1 a4 18. bxa4 Bc4 19. a5 Qd8 20. Bxf6 Bxf6 21. Qxd6
+Qxd6 22. Rxd6 Nb7 23. Rd2 Rxa5 24. Rb1 Nc5 25. Nd5 Bd8 26. h4 Ra3 27. Nec3 Rca8
+28. Rdd1 Ba5 29. Nb5 Ra2 30. Bf3 g6 31. Ne7+ Kg7 32. Nc6 Na4 33. Nd6 Be6 34. Rb7
+Rxc2 35. Nxe5 Nc5 36. Re7 Kf8 37. Nc6 Nb3 38. e5 Bb6 39. Rb7 Bxf2+ 40. Kg2 Bc5+
+41. Kh1 Raa2 0-1
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.15"]
+[Round "2.1"]
+[White "Kramnik,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2776"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "4101588"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.14"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 c5 7. Bb2 Nc6 8. cxd5
+Nxd5 9. d4 cxd4 10. Nxd4 Nxd4 11. Qxd4 Bf6 12. Qd2 Bd7 13. Bxd5 exd5 14. Rd1 Rc8
+15. Nc3 Bc6 16. Nxd5 Bxb2 17. Qxb2 Bxd5 18. e4 Bxe4 19. Rxd8 Rfxd8 20. b4 a6 21.
+a4 Rc4 22. Re1 h6 23. Qe5 Bc6 24. b5 Re8 25. Qxe8+ Bxe8 26. Rxe8+ Kh7 27. Re7 f6
+28. a5 Ra4 29. Rxb7 Rxa5 30. b6 Rb5 31. Kf1 a5 32. Kg2 a4 33. h4 h5 34. Rb8 Kg6
+35. b7 a3 36. Ra8 a2 37. Kh3 Rxb7 38. Rxa2 Rb3 39. Kg2 Rb5 40. Re2 Ra5 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.15"]
+[Round "2.2"]
+[White "Karjakin,Sergey"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2811"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O Nd4 6. Nxd4 Bxd4 7. c3 Bb6 8.
+Na3 c6 9. Ba4 d6 10. Bb3 a5 11. Nc4 Bc7 12. Bg5 h6 13. Bh4 g5 14. Bg3 h5 15. f3
+Be6 16. Ne3 h4 17. Bf2 d5 18. Re1 Kf8 19. h3 Bb6 20. Qc2 Nh5 21. d4 exd4 22.
+cxd4 Nf4 23. Ng4 a4 24. Bxa4 dxe4 25. Rxe4 Bf5 26. Rd1 Kg7 27. Bb3 Qc7 28. Ne3
+Bg6 29. Nc4 Rhe8 30. Kh1 Ba7 31. Ne5 Bxe4 32. fxe4 Rxe5 33. dxe5 Bxf2 34. Qxf2
+Rd8 35. Qe1 Rxd1 36. Qxd1 Qxe5 37. Qd7 Qf6 38. e5 Qg6 39. Kh2 b6 40. e6 Nxe6 41.
+Qxc6 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.15"]
+[Round "2.3"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2777"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. Be2
+c5 9. d5 e6 10. O-O exd5 11. exd5 Re8 12. Rd1 Bf5 13. d6 h6 14. Be3 Ng4 15. Bf4
+Bxc3 16. bxc3 Re4 17. Qb5 Rxf4 18. Qxb7 Ra4 19. d7 Be4 20. Qb3 Bc6 21. Rd6 Bxd7
+22. Rad1 Qb8 23. Rxd7 Qxb3 24. axb3 Ra2 25. Bc4 Rf8 26. R7d6 Kg7 27. Rxa6 Rxf2
+28. Re1 1-0
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.16"]
+[Round "3.1"]
+[White "Aronian,L"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2783"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "13300474"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.14"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. d4 dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 a5 11. Nc3 Na6 12. Bxf6 Bxf6 13. e4 Nb4 14. Rfd1 g6 15.
+h4 Bg7 16. Rd2 Rc8 17. Rad1 Qe7 18. d5 Bd7 19. Bh3 exd5 20. Nxd5 Nxd5 21. Bxd7
+Nb6 22. Qc2 Rcd8 23. Qxc7 Nxa4 24. e5 Nc5 25. Rd5 b6 26. Qc6 Rxd7 27. Rxd7 Nxd7
+28. Rxd7 Qe8 29. Qd5 h6 30. Rb7 Qd8 31. Qb5 g5 32. hxg5 hxg5 33. Rxb6 g4 34. Nh4
+Qd1+ 35. Kg2 Qd4 36. Qc6 Qxe5 37. Qc4 Qd4 38. Qxd4 Bxd4 39. Rb5 Ra8 40. Nf5 Bg7
+41. Ne3 a4 42. Nxg4 Rd8 43. Ra5 Rd4 44. Ne3 Rd2 45. Nf1 Rd4 46. Rb5 Bf8 47. Ne3
+Rb4 48. Rg5+ Kh7 49. Rh5+ Kg8 50. Ra5 Rxb2 51. Rxa4 Bc5 52. Nd1 Rd2 53. Ra1 Kg7
+54. Kf1 Kg6 55. Rb1 f5 56. Ke1 Rc2 57. Rb8 Kf6 58. Rh8 Bb4+ 59. Kf1 Rd2 60. Ne3
+Bc5 61. Rh6+ Kg5 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.16"]
+[Round "3.2"]
+[White "Caruana,F"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2797"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.14"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 c6 5. c4 dxc4 6. Na3 b5 7. Nxb5 cxb5 8. Nh4
+Bd7 9. Bxa8 Nc6 10. Bxc6 Bxc6 11. O-O Qd5 12. f3 Qxd4+ 13. Kh1 Qxd1 14. Rxd1 e6
+15. Rb1 Nf6 16. Be3 O-O 17. Ng2 Nd5 18. Bd4 e5 19. Bxa7 c3 20. Ne1 e4 21. Bd4
+exf3 22. exf3 Re8 23. Bxg7 Kxg7 24. Nc2 Ne3 25. Re1 Nxc2 26. Rxe8 Bxe8 27. bxc3
+Na3 28. Rd1 Nc4 29. Kg1 Kf6 30. Rd4 h5 31. Kf2 Ne5 32. h3 g5 33. f4 gxf4 34.
+gxf4 Ng6 35. c4 bxc4 36. Rxc4 Bd7 37. a4 Bxh3 38. a5 Be6 39. Rd4 Ne7 40. a6 Nc8
+41. Kg3 Bg4 42. Rc4 Kg6 43. Rc7 f6 44. a7 Nxa7 45. Rxa7 Bf5 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.16"]
+[Round "3.3"]
+[White "Nakamura,Hi"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2760"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "14109603"]
+[EventDate "2015.02.14"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. g3 Qb6 7. Ndb5 Ne5 8.
+Bf4 Nfg4 9. Qa4 g5 10. Bxe5 Qxf2+ 11. Kd1 Nxe5 12. Nc7+ Kd8 13. Nxa8 Qd4+ 14.
+Kc2 Nxc4 15. e4 Ne3+ 16. Kb3 Qd2 17. a3 Qc2+ 18. Ka2 Qxa4 19. Nxa4 Nxf1 20.
+Rhxf1 b5 21. N4b6 axb6 22. Nxb6 Bb7 23. Rxf7 Bc6 24. Rd1 Be7 25. Rf3 Kc7 26.
+Nxd7 Rd8 27. Rc3 1-0
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "1.1"]
+[White "Karjakin,Sergey"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2797"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "14109603"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O 8.
+O-O d5 9. exd5 cxd5 10. h3 Rb8 11. Qf3 Bb7 12. Bg5 h6 13. Bxf6 Qxf6 14. Qxf6
+gxf6 15. Ne2 Bd6 16. Ng3 Bc8 17. b3 Re8 18. Rad1 Kf8 19. f4 Bb4 20. Kh2 Rb6 21.
+Rf3 Rd6 22. Nh5 Re1 23. Rxe1 Bxe1 24. Re3 Bd2 25. Rg3 f5 26. Rf3 d4 27. Ng3 Rf6
+28. a4 a5 29. Nf1 Bb4 30. Rf2 Bb7 31. Nd2 Bc3 32. Kg1 Bd5 33. Nc4 Bxc4 34. bxc4
+Rb6 35. Re2 Rb4 36. Re5 Rxa4 37. Rxf5 Ra1+ 38. Kf2 a4 39. Rc5 Re1 40. Rxc7 Re7
+41. Rc8+ Re8 42. Rxe8+ Kxe8 43. c5 a3 44. Bc4 Ke7 45. Kf3 Bb4 46. c6 f6 47. Ke4
+Kd6 48. Kf5 Bc3 49. h4 Bd2 50. g3 Be1 51. Kxf6 Bxg3 52. f5 Bxh4+ 53. Kg7 Kxc6
+54. Kxh6 Kc5 55. Be6 Kb4 56. Kh5 Bd8 57. Kg4 Kc3 58. Kf3 Kxc2 0-1
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "1.2"]
+[White "Caruana,F"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2776"]
+[ECO "B01"]
+[Opening "Scandinavian (centre counter) defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.13"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. d4 c6 6. Bc4 Bf5 7. O-O e6 8. Ne2
+Nbd7 9. Ng3 Bg6 10. Bf4 Nd5 11. Bd2 Qc7 12. Bb3 Bd6 13. c4 N5f6 14. Re1 O-O 15.
+Nh4 c5 16. Nxg6 hxg6 17. dxc5 Nxc5 18. Bc2 Be5 19. Rb1 Rad8 20. Qe2 Bd4 21. b4
+Ncd7 22. Bb3 a5 23. a3 axb4 24. axb4 Ra8 25. Qd3 Ba7 26. Bc3 Ng4 27. c5 Ndf6 28.
+Qf3 b6 29. h3 Nxf2 30. Qxf2 bxc5 31. Be5 Qe7 32. bxc5 Bxc5 33. Bd4 Bxd4 34. Qxd4
+Rfd8 35. Qf2 Rd3 36. Bc4 Rc3 37. Rbc1 Rxc1 38. Rxc1 Rc8 39. Rc2 Qb4 40. Bf1 Rxc2
+41. Qxc2 Nd5 42. Qf2 Qb1 43. Kh2 Qb8 44. Bc4 Nf6 45. Qe3 Qc7 46. Be2 Nd5 47. Qd4
+Ne7 48. Bd3 Nd5 49. Be4 Nf6 50. Bf3 Nd7 51. h4 Nf6 52. Qe3 Nd7 53. h5 gxh5 54.
+Bxh5 Nf6 55. Bf3 Nd7 56. Qg5 Ne5 57. Be4 f5 58. Bf3 Qd6 59. Kh3 Nf7 60. Qg6 Qe7
+61. Nh5 Ng5+ 62. Kg3 Nxf3 63. gxf3 Qf7 64. Qg5 e5 65. Qd8+ Kh7 66. Qg5 Qg6 67.
+Kh4 e4 68. Qxg6+ Kxg6 69. f4 e3 70. Ng3 Kf6 71. Ne2 g6 72. Kg3 g5 73. fxg5+ Kxg5
+74. Kf3 f4 75. Nxf4 e2 76. Kxe2 Kxf4 1/2-1/2
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "1.3"]
+[White "Aronian,L"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2783"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Bf1 Be7 7. Nxe5 Nf5 8.
+Nf3 d5 9. d4 O-O 10. c3 Re8 11. Bd3 Bd6 12. Rxe8+ Qxe8 13. Nbd2 b6 14. Nf1 f6
+15. Qc2 g6 16. Ng3 Nce7 17. Ne2 Qf7 18. h3 Bd7 19. c4 dxc4 20. Bxc4 Be6 21. Bxe6
+Qxe6 22. Bf4 Nd5 23. Bxd6 Qxd6 24. Nc3 Nxc3 25. bxc3 Qd7 26. Re1 Re8 27. Rxe8+
+Qxe8 28. Qb3+ Kg7 29. Qc4 c6 30. Qa6 Qd7 31. a4 Nd6 32. Nd2 Qe7 33. Kf1 h5 34.
+Qd3 Qe6 35. Qa6 Qd7 36. Qe2 b5 37. a5 Kf7 38. Nb3 Qe6 39. Nc5 Qxe2+ 40. Kxe2 Nc4
+41. a6 Ke7 42. g4 hxg4 43. hxg4 f5 44. g5 Nb6 45. Nd3 Nd5 46. Kd2 Kd6 47. Ne5
+Ne7 48. f4 c5 49. Kd3 c4+ 50. Kd2 Kc7 51. Kc2 Kb6 52. Kd2 Kxa6 53. d5 Nxd5 54.
+Nxg6 Kb6 55. Nh4 Nxf4 56. g6 Nxg6 57. Nxg6 Kc5 58. Nh4 f4 59. Nf3 a5 60. Nd4 b4
+61. Ne6+ Kb5 62. Nxf4 1/2-1/2
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "2.1"]
+[White "Anand,V"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2783"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.13"]
+
+1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. Bg2 e5 5. d3 Bb4+ 6. Bd2 a5 7. O-O Nge7 8. Bxb4
+axb4 9. Nbd2 O-O 10. a3 bxa3 11. Qb3 Bg4 12. Rxa3 Rb8 13. h3 Bh5 14. c5 Kh8 15.
+g4 Bg6 16. Nh4 f6 17. Nxg6+ Nxg6 18. Ne4 Nh4 19. Ng3 Nxg2 20. Kxg2 Ne7 21. h4
+Qd7 22. f3 Nd5 23. Rfa1 Ne3+ 24. Kf2 Qe7 25. Ra7 f5 26. g5 e4 27. Rxb7 Rxb7 28.
+Qxb7 exd3 29. exd3 Nc2 30. Ra8 Re8 31. Qc8 1-0
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "2.2"]
+[White "Nakamura,Hi"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2777"]
+[ECO "D51"]
+[Opening "QGD"]
+[Variation "Manhattan variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.13"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 Nbd7 4. c4 e6 5. Nc3 Bb4 6. Qb3 c5 7. dxc5 Qa5 8. a3
+Bxc3+ 9. Qxc3 Qxc3+ 10. bxc3 Ne4 11. Bf4 dxc4 12. Bxc4 e5 13. f3 exf4 14. fxe4
+fxe3 15. Ke2 Nxc5 16. Kxe3 Be6 17. Bxe6 Nxe6 18. Ne2 Rc8 19. Rhb1 Nc5 20. a4 O-O
+21. Rb4 Rfe8 22. Ng3 g6 23. Kf3 Rcd8 24. Rd4 Nb3 25. Rxd8 Rxd8 26. Ra3 Nd2+ 27.
+Kf4 b6 28. Ra1 Nc4 29. Rb1 Rd3 30. Rb4 Rxc3 31. Ne2 Rc2 32. Nd4 Rc1 33. Nc6 a5
+34. Rb3 Ra1 35. Ne7+ Kg7 36. Nd5 Rxa4 37. Nxb6 Nxb6 38. Rxb6 f5 39. Rb7+ Kh6 40.
+h4 Rxe4+ 41. Kg3 Rg4+ 42. Kh3 Rb4 43. Ra7 Rb3+ 44. Kh2 Ra3 45. g3 Ra2+ 46. Kh3
+a4 47. Ra5 Ra1 48. g4 Ra3+ 49. Kg2 fxg4 50. Rg5 Ra2+ 51. Kg3 Ra1 52. Kg2 a3 53.
+Rxg4 Rb1 54. Ra4 Rb2+ 55. Kg3 a2 56. Ra7 g5 57. hxg5+ Kxg5 58. Ra4 h5 59. Kh3
+Kf5 60. Kh4 Rc2 61. Ra3 Ke5 0-1
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "2.3"]
+[White "Karjakin,Sergey"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2811"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "14109603"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.13"]
+
+1. Nf3 g6 2. c4 Bg7 3. d4 f5 4. Nc3 Nf6 5. g3 O-O 6. Bg2 d6 7. O-O c6 8. b3 Qc7
+9. Ba3 Ne4 10. Bb2 Nxc3 11. Bxc3 e5 12. dxe5 dxe5 13. e4 f4 14. c5 Bg4 15. b4
+Nd7 16. Qb3+ Kh8 17. Rad1 b6 18. cxb6 axb6 19. h3 Bxf3 20. Bxf3 b5 21. h4 Nb6
+22. h5 Nc4 23. hxg6 Ra3 24. Qc2 fxg3 25. Rd3 Qa7 26. Qd1 Rxa2 27. Rd7 Qxf2+ 28.
+Rxf2 gxf2+ 29. Kh1 Ne3 30. Bxe5 Bxe5 31. Rxh7+ Kg8 0-1
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "3.1"]
+[White "Caruana,F"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2797"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.13"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Bc5 4. d3 c6 5. Bg5 h6 6. Bh4 d6 7. Nf3 Nbd7 8. Bb3
+Bb6 9. d4 g5 10. Bg3 g4 11. dxe5 gxf3 12. exf6 fxg2 13. Bxf7+ Kxf7 14. Qh5+ Ke6
+15. Qf5+ Kf7 16. Qh5+ Ke6 17. Qf5+ Kf7 18. Qh5+ Ke6 1/2-1/2
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "3.2"]
+[White "Aronian,L"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2760"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "13300474"]
+[BlackFideId "14109603"]
+[EventDate "2015.02.13"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 a6 6. O-O c5 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. Be2 Ke7 10. Rd1 Nbd7 11. Nbd2 b6 12. Ne1 Bb7 13. Nd3 Rhd8 14. Nxc5
+Nxc5 15. f3 Nd3 16. Nc4 Nxc1 17. Raxc1 Rxd1+ 18. Rxd1 b5 19. Na5 Rb8 20. Kf2 Ba8
+21. Rc1 Kd6 22. e4 Nd7 23. Ke3 f6 24. Bd3 Ne5 25. Bb1 Nc6 26. Nb3 e5 27. a3 a5
+28. Ba2 a4 29. Nc5 Nd4 30. Na6 Rf8 31. Nb4 f5 32. exf5 Nxf5+ 33. Ke2 e4 34. f4
+Nd4+ 35. Ke3 Nf5+ 36. Ke2 Nd4+ 37. Kd2 Bb7 38. Rd1 Kc5 39. Rc1+ Kd6 40. g3 g5
+41. fxg5 Nf3+ 42. Ke2 Nxh2 43. Rd1+ Ke5 44. Rd7 Ba8 45. Rxh7 Ng4 46. Re7+ Kd6
+47. Rf7 Rxf7 48. Bxf7 Ke5 49. Bh5 Nh2 50. Nc2 Kf5 51. g6 Kf6 52. Nd4 Bd5 53. Kf2
+Kg5 54. Be2 Kxg6 55. Nxb5 Kf5 56. Nc3 Bc6 57. Bd1 Ng4+ 58. Bxg4+ Kxg4 59. Ke3
+Kxg3 60. Nxe4+ Kg2 61. Nc3 Kf1 62. Kd4 Ke1 63. Kc5 Be8 64. Kb4 Kd2 65. Nxa4 Kc2
+66. b3 1-0
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "3.3"]
+[White "Kramnik,V"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2776"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "4101588"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.13"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. e3 c5 5. cxd5 exd5 6. Bb5+ Nc6 7. O-O a6 8.
+Bxc6+ bxc6 9. Qc2 Qb6 10. Nc3 cxd4 11. Na4 Qc7 12. exd4 Bd6 13. Re1+ Ne4 14. Nc5
+f5 15. Nd3 O-O 16. Nfe5 c5 17. f3 cxd4 18. Qxc7 Bxc7 19. Nc6 Bb7 20. Ne7+ Kh8
+21. Bf4 Bb6 22. Rac1 Rf7 23. Nc6 a5 24. Be5 Ba6 25. Rcd1 Rc8 26. Bxd4 Bxd3 27.
+Rxd3 Rxc6 28. Bxb6 Rxb6 29. fxe4 fxe4 30. Rxd5 h6 31. Re2 Rbf6 32. Rd1 e3 33.
+Rxe3 Rf2 34. Rb3 Rc2 35. h3 Kh7 36. a4 Rc4 37. Ra3 Rf5 38. Rd2 Rb4 39. Kh2 Rg5
+40. b3 Re5 41. Rd3 Re2 42. Ra1 Rb2 43. Re1 R2xb3 44. Rxb3 Rxb3 45. Re5 g5 46.
+Rxa5 Ra3 47. Ra6 h5 48. Kg1 Ra2 49. Kf1 h4 50. a5 Kg7 51. Ra7+ Kg6 52. Ra8 Kg7
+53. a6 Kh7 1/2-1/2
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "4.1"]
+[White "Anand,V"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2776"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[WhiteFideId "5000017"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.13"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. O-O Ngf6 6. Qe2 Rc8 7. b3 g6 8.
+Bb2 e5 9. c4 Bg7 10. d3 O-O 11. Nc3 Nh5 12. Nd5 Nb8 13. a3 Nc6 14. b4 b6 15. Bc1
+f5 16. b5 fxe4 17. Qxe4 Ne7 18. Bg5 Nf6 19. Bxf6 Bxf6 20. a4 Nxd5 21. Qxd5+ Kg7
+22. Ra2 Qc7 23. Nd2 Rcd8 24. Ne4 Qf7 25. Nc3 e4 26. Qxf7+ Rxf7 27. Nxe4 d5 28.
+Nxf6 Kxf6 29. a5 dxc4 30. dxc4 Rd4 31. Rc1 Rfd7 32. Kf1 h5 33. g3 R7d6 34. h4
+Re4 35. axb6 axb6 36. Ra8 Kf7 37. Rc3 Kg7 38. Kg2 Rd7 39. Rb8 Re6 40. Re3 Rf6
+41. Ree8 Rd2 42. Rg8+ Kh7 43. Rh8+ Kg7 44. Rbg8+ Kf7 45. Rf8+ Ke7 46. Rxf6 Kxf6
+47. Rb8 Rd6 48. Kf3 Kf5 49. Rf8+ Ke5 50. Ke3 Rd4 51. Rb8 Rd6 52. Rc8 Re6 53. Rc6
+Rxc6 54. bxc6 Kd6 55. f4 Kxc6 56. g4 Kd6 57. gxh5 gxh5 58. Ke4 Ke7 59. Ke5 Kf7
+60. f5 Ke7 61. f6+ Kf7 62. Kf5 1-0
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "4.2"]
+[White "Karjakin,Sergey"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2783"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "14109603"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O 8.
+O-O d5 9. exd5 cxd5 10. h3 c6 11. Qf3 Re8 12. Bg5 Rb8 13. Rad1 Be6 14. Ne2 Be7
+15. Nd4 Bd7 16. b3 Ne4 17. Bf4 Rb4 18. Bxe4 dxe4 19. Qg3 Qc8 20. c4 c5 21. Nc2
+Rb6 22. Bd6 Bf6 23. Ne3 Be6 24. Rd2 Bd4 25. Rxd4 cxd4 26. Be5 f6 27. Bxd4 Ra6
+28. Bxf6 Qb7 29. Be5 Rxa2 30. Rd1 Rf8 31. c5 Qf7 32. Rf1 Bxb3 33. Ng4 Ra6 34.
+Bd6 Qe6 35. Bxf8 Kxf8 36. Qb8+ Kf7 37. Ne5+ Kf6 38. f4 1-0
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "4.3"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2777"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Nd7 7. O-O O-O 8.
+Nc3 Re8 9. Be3 Bd6 10. Nd2 Nf8 11. Nc4 Ng6 12. a4 Be6 13. Nxd6 cxd6 14. d4 Qf6
+15. d5 Bd7 16. a5 c5 17. Kh2 Qd8 18. Ne2 f5 19. exf5 Bxf5 20. Ng3 Bd7 21. b4
+cxb4 22. Qd2 b3 23. cxb3 Qh4 24. Rfc1 Rac8 25. f3 Nf4 26. Bxf4 exf4 27. Ne4 Rcd8
+28. Rc7 Bf5 29. Qd4 Re5 30. Nf2 Qg3+ 31. Kg1 Re2 32. Kf1 Rde8 33. Rac1 h5 34.
+Rxb7 R8e3 35. Rxg7+ Qxg7 36. Qxf4 Re5 37. g4 Bg6 38. Rc8+ Kh7 39. Qc4 Re7 40.
+Qf4 Qb2 41. Qg3 Bd3 42. Kg2 1/2-1/2
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "5.1"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2797"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Bf6 10. Re1 Re8 11. Nd5 Rxe1 12. Qxe1 b6 13. Nxf6+ Qxf6 14. f3
+Bb7 15. Qf2 Re8 16. d4 h6 17. Bd2 Nf5 18. c3 Nh4 19. Bd3 Ng6 20. Re1 Rxe1+ 21.
+Qxe1 Qe6 22. Qxe6 dxe6 23. c4 Kf8 24. Kf2 Ke8 25. Bc2 Ne7 26. g4 Ba6 27. Bd3 f6
+28. h4 c6 29. Bb4 b5 30. cxb5 Bxb5 31. Bc2 Kf7 32. Bc5 Nc8 33. b3 g5 34. h5 Ba6
+35. Bg6+ Kg7 36. a4 Nb6 37. Be4 Nd5 38. Bxa7 Bc8 39. Bd3 f5 40. Bb8 Kf7 41. Be5
+Nf6 42. Be2 Nd5 43. Ke1 1-0
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "5.2"]
+[White "Kramnik,V"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2811"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "4101588"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.13"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 f5 4. d4 Nf6 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. Rb1 Na6
+9. b4 Ne4 10. Nxe4 fxe4 11. Nd2 d5 12. b5 Nc7 13. e3 Bf5 14. bxc6 bxc6 15. Qa4
+Rf6 16. Ba3 Bd7 17. Qa5 Bf8 18. cxd5 cxd5 19. Rb7 Rc6 20. Rc1 e6 21. Nb3 Bxa3
+22. Qxa3 Nb5 23. Rxc6 Bxc6 24. Rxb5 Bxb5 25. Nc5 Qd6 26. Bh3 Bd7 27. Qa5 Bc8 28.
+Qb5 Kf7 29. Bxe6+ Ke7 30. Bxc8 Rxc8 31. Qb7+ Rc7 32. Qb3 Rc6 33. Qa4 Qc7 34. Kg2
+Qb6 35. h4 Rc7 36. Qd1 Qf6 37. Qb3 Qc6 38. Qb8 Rc8 39. Qxa7+ Qc7 40. Qa4 Qc6 41.
+Qa7+ Qc7 42. Qa6 Qc6 43. Qe2 Ra8 44. h5 Kf7 45. a4 Qf6 46. Qg4 Kg8 47. hxg6 hxg6
+48. Nd7 Qf5 49. Qxf5 gxf5 50. Nb6 Ra5 51. g4 Kf7 52. gxf5 Kf6 53. Nd7+ Kxf5 54.
+Nc5 Kg4 55. Kf1 Kf3 56. Ke1 Ra8 57. Kf1 Rb8 58. Ke1 Rb1+ 59. Kd2 Kxf2 60. a5 Ra1
+61. a6 Ra2+ 62. Kc3 Kxe3 63. Kb3 Ra1 64. Kb2 Ra5 65. Kc3 Kf2 66. Kb4 Ra1 67. Kb5
+e3 68. Nd3+ Ke2 69. Nf4+ Kf3 70. Nd3 e2 71. Kb6 Ke3 72. Nb4 Rb1 73. Kc5 Rxb4 0-1
+
+[Event "4th Zurich CC Blitz"]
+[Site "Zurich SUI"]
+[Date "2015.02.13"]
+[Round "5.3"]
+[White "Nakamura,Hi"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2760"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "Nimzovich-Larsen attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "14109603"]
+[EventDate "2015.02.13"]
+
+1. b3 d5 2. Nf3 c5 3. e3 Nc6 4. Bb5 Nf6 5. Bxc6+ bxc6 6. Bb2 e6 7. d3 Bd6 8. c4
+O-O 9. Nc3 e5 10. e4 d4 11. Ne2 Nh5 12. Ng3 Nf4 13. O-O g6 14. Bc1 Ne6 15. Bh6
+Re8 16. Qd2 f6 17. Kh1 a5 18. h3 Qe7 19. Qd1 Nd8 20. Bd2 Nf7 21. Nh2 f5 22. exf5
+gxf5 23. f4 exf4 24. Nh5 Ra7 25. Re1 Ne5 26. Bxf4 Qh4 27. Bg3 Qg5 28. Bf4 Qh4
+29. g3 Qd8 30. Nf3 1-0
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.17"]
+[Round "4.1"]
+[White "Kramnik,V"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2760"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "4101588"]
+[BlackFideId "14109603"]
+[EventDate "2015.02.14"]
+
+1. Nf3 Nf6 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. e4 Be7 6. Nc3 d6 7. d3 O-O 8. h3 Bd7
+9. Nd2 Nd4 10. a4 Nc6 11. Nc4 Nb4 12. f4 exf4 13. Bxf4 Be6 14. Ne3 d5 15. Nf5
+Bxf5 16. exf5 Bd6 17. Ne2 h6 18. c3 Nc6 19. g4 Re8 20. Qd2 Bxf4 21. Nxf4 d4 22.
+Qf2 Qd6 23. Rae1 Rad8 24. c4 b6 25. Bxc6 Qxc6 26. b3 a6 27. Qg3 Rxe1 28. Rxe1
+Re8 29. Rxe8+ Qxe8 30. Kf2 b5 31. axb5 axb5 32. Qf3 bxc4 33. bxc4 Qe5 34. Qg3
+Qb8 35. Ne2 Qb1 36. Qf3 Kh7 37. h4 h5 38. gxh5 Qc2 39. Ke1 Qb1+ 40. Kf2 Qb2 41.
+Kg3 Kh6 42. Qf4+ Kh7 43. Qf3 Kh6 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.17"]
+[Round "4.2"]
+[White "Anand,V"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2776"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "5000017"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.14"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
+Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 Ba6 14. Re1 Bf6 15. Kg2
+Bxd3 16. Qxd3 Rfb8 17. h4 Qa7 18. Ne2 g6 19. Rab1 axb4 20. axb4 Qa2 21. Rec1
+bxc5 22. bxc5 h5 23. Ne5 Nxe5 24. fxe5 Bg7 25. Rb6 Rc8 26. Nc3 Qa7 27. Rcb1 Qd7
+28. R1b4 Bh6 29. Na4 Qd8 30. Ra6 Kg7 31. Rb7 Rxa6 32. Qxa6 g5 33. Qe2 g4 34. Qa6
+Qg8 35. Nb6 Rf8 36. Nd7 Qh7 37. Nxf8 Qe4+ 38. Kh2 Kxf8 39. Rb8+ Kg7 40. Qc8 Kg6
+41. Qh8 1-0
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.17"]
+[Round "4.3"]
+[White "Aronian,L"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2811"]
+[ECO "D56"]
+[Opening "QGD"]
+[Variation "Lasker defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Rc1 c6 10. Be2 Nd7 11. O-O Nxc3 12. Rxc3 dxc4 13. Rxc4 e5 14. Qc2 a5 15.
+Rc1 Re8 16. a3 Nb6 17. Rc5 Nd7 18. Rc3 exd4 19. Nxd4 Nf6 20. Rc4 Bd7 21. Bf3
+Red8 22. Qb3 Be8 23. Nf5 Qe6 24. Nd4 Qe7 25. Qc3 Nd7 26. Be2 g6 27. Qb3 Rab8 28.
+Nf3 Ne5 29. Nxe5 Qxe5 30. Qc2 b6 31. b4 axb4 32. axb4 Rd6 33. h3 Rbd8 34. Qc3
+Qxc3 35. R4xc3 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.18"]
+[Round "5.1"]
+[White "Caruana,F"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2783"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "2020009"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. Nbd2 a6 7. Bb3 Be6 8. Bxe6
+fxe6 9. O-O O-O 10. b4 Ba7 11. a4 Nh5 12. Nb3 Qe8 13. Qe2 Nf4 14. Bxf4 Rxf4 15.
+b5 Ne7 16. d4 exd4 17. Nbxd4 Ng6 18. bxa6 bxa6 19. Qc4 Rxe4 20. Qxc7 Qc8 21.
+Qxd6 Bc5 22. Qc6 Qxc6 23. Nxc6 Rc4 24. Ncd4 Nf4 25. g3 Bxd4 26. Nxd4 e5 27. gxf4
+exd4 28. cxd4 Rxd4 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.18"]
+[Round "5.2"]
+[White "Nakamura,Hi"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2777"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. a4 Be7 7. Nc3 O-O 8. d4
+e4 9. Nxe4 Nxe4 10. Rxe4 a6 11. Bd3 d5 12. Re3 Nb4 13. Bf1 Bf5 14. c3 Nc6 15.
+Bd3 Qd7 16. Qc2 Bxd3 17. Qxd3 Rfe8 18. Bd2 Bf6 19. Rxe8+ Rxe8 20. b4 Ne7 21. Bf4
+Nc8 22. Nd2 Nd6 23. Bxd6 Qxd6 24. Nb3 c6 25. Nc5 Qb8 26. Nd7 Qd8 27. Nc5 Qb8 28.
+Qg3 Be7 29. Qxb8 Rxb8 30. Nb3 Kf8 31. a5 Ke8 32. Re1 Kd7 33. g3 Bd6 34. Kg2 Re8
+35. Rxe8 Kxe8 36. Nc5 Bxc5 37. bxc5 Ke7 38. g4 g5 39. f4 f6 40. Kf3 Kd7 41. f5
+Kc7 42. Ke2 Kd7 43. c4 Kc7 44. h3 1/2-1/2
+
+[Event "4th Zurich CC Classical"]
+[Site "Zurich SUI"]
+[Date "2015.02.18"]
+[Round "5.3"]
+[White "Karjakin,Sergey"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2797"]
+[ECO "A22"]
+[Opening "English"]
+[Variation "Bremen, Smyslov system"]
+[WhiteFideId "14109603"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.14"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Nf3 e4 5. Nd4 O-O 6. Bg2 Re8 7. O-O Nc6 8. Nc2
+Bxc3 9. dxc3 h6 10. c5 b6 11. cxb6 axb6 12. b3 d5 13. Bb2 Be6 14. Qc1 Na5 15. c4
+dxc4 16. Rd1 Qe7 17. b4 Nc6 18. b5 Na5 19. Ba3 c5 20. bxc6 Qc7 21. Nd4 Nxc6 22.
+Nb5 Qe5 23. Rb1 Red8 24. Rxd8+ Rxd8 25. Bb2 Qg5 26. Qxg5 hxg5 27. Bxf6 gxf6 28.
+Bxe4 Ne7 29. Kf1 f5 30. Bc2 Kg7 31. Nc3 Rh8 32. Kg1 Rd8 33. Kf1 Nd5 34. Rd1 Kf6
+35. Ke1 Rd7 36. Nxd5+ Rxd5 37. Rxd5 Bxd5 38. Kd2 c3+ 39. Kxc3 Bxa2 40. Kb4 Ke5
+41. Kb5 f4 42. Kxb6 1/2-1/2
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "1.1"]
+[White "Kramnik,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2797"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[WhiteFideId "4101588"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.19"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. e4 O-O 7. Nbd2 Nbc6 8. c3
+a5 9. Re1 h6 10. exd5 Nxd5 11. Nc4 Re8 12. a4 Bf5 13. Nh4 Be6 14. Nf3 Bf5 15. h3
+Nb6 16. Nxb6 cxb6 17. Be3 Bxd3 18. Bxb6 Qxb6 19. Qxd3 Qxb2 20. Rab1 e4 21. Rxe4
+Qxc3 22. Rxe8+ Rxe8 23. Qxc3 Bxc3 24. Rxb7 Ne5 25. Nxe5 Rxe5 26. Bf1 1/2-1/2
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "1.2"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2777"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "14109603"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.19"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 Nc6 7. e4 dxe4 8.
+dxe4 e5 9. c3 a5 10. Qc2 Be6 11. Ng5 Bd7 12. Rd1 Ng4 13. Ngf3 Bc5 14. Rf1 Qc8
+15. a4 h6 16. Nc4 Be6 17. Qe2 b6 18. b3 Re8 19. Nh4 Nf6 20. Kh1 Qa6 21. Nf5 Bxf5
+22. exf5 e4 23. f3 e3 24. f4 Ne7 25. Bxa8 Qxa8+ 26. Qg2 Ned5 27. Ne5 Nxc3 28.
+Qxa8 Rxa8 29. Re1 e2 30. Bb2 Nfe4 31. Kg2 Rd8 32. Rac1 Bb4 33. Bxc3 Nxc3 34. Rc2
+Rd5 35. Nf3 Rd3 36. Ne5 Rd5 37. Kf3 b5 38. axb5 Rxb5 39. Kg2 Rd5 40. Kf3 Rb5 41.
+Kg4 Rd5 42. h4 Kf8 43. h5 f6 44. Nf3 Rd3 45. Ng1 c5 46. Kh4 Nd5 47. Rexe2 Ne3
+48. Rb2 Nxf5+ 49. Kg4 Nxg3 50. Re6 f5+ 51. Kh4 Ne4 52. Re2 Bc3 53. Nh3 Bf6+ 54.
+Rxf6+ Nxf6 55. Re5 Nd7 56. Re6 Rxb3 57. Ra6 Rb5 58. Nf2 Rb4 59. Nd3 Rd4 60. Rxa5
+Ke7 61. Ra6 c4 62. Nb4 Rxf4+ 63. Kg3 Rg4+ 64. Kf2 Nf6 65. Nc6+ Kd6 66. Nd4+ Kd5 0-1
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2811"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.19"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 d6 6. a3 e6 7. Nf3 Nge7 8. Rb1 b6
+9. O-O Bb7 10. Qd2 a5 11. b3 O-O 12. Bb2 d5 13. Ne1 Nd4 14. Qd1 Rb8 15. Na4 e5
+16. Nc2 Bc6 17. Ne3 Ne6 18. Nc3 d4 19. Ncd5 dxe3 20. Nxe7+ Qxe7 21. Bxc6 Nd4 22.
+Bd5 Bh6 23. f3 Bg5 24. Bc3 h5 25. b4 axb4 26. axb4 h4 27. g4 Bf4 28. Kh1 h3 29.
+b5 Rbd8 30. Rg1 Kg7 31. Be4 Ra8 32. Bxa8 Rxa8 33. Ra1 Rxa1 34. Bxa1 Qh4 35. Rf1
+Qh8 36. Bc3 Qa8 37. Re1 Qb7 38. Rg1 Qa8 39. Bxd4 exd4 40. Qa1 Qb8 41. g5 Bxh2
+42. Rg4 Bd6 43. Rh4 h2 44. Qf1 Qa8 45. Kg2 Qb7 46. Qe1 Qa8 47. Re4 Qh8 48. Qh4
+Qxh4 49. Rxh4 f6 50. gxf6+ Kxf6 51. Rh7 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "2.1"]
+[White "Nakamura,Hi"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2783"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.19"]
+
+1. c4 e6 2. Nf3 d5 3. g3 dxc4 4. Bg2 Nd7 5. Qa4 a6 6. Qxc4 b5 7. Qc2 Bb7 8. O-O
+Ngf6 9. d3 c5 10. a4 Be7 11. Nc3 Qb6 12. Qb3 b4 13. a5 Qd8 14. Nb1 Bd5 15. Qc2
+O-O 16. Nbd2 Nb8 17. Rd1 Ra7 18. e4 Ba8 19. Nb3 Rc7 20. Be3 Nbd7 21. Qe2 Bc6 22.
+Nfd2 Bb5 23. Nc4 Rc8 24. e5 Nd5 25. Bd2 Nb8 26. h4 Nc6 27. Qg4 Kh8 28. Bg5 Rc7
+29. Be4 h6 30. Bd2 f5 31. exf6 Nxf6 32. Qxe6 Nxe4 33. Qxe4 Bf6 34. Be3 Re7 35.
+Qg4 Bxb2 36. Rab1 Bd4 37. Nxd4 cxd4 38. Bf4 Bxc4 39. dxc4 Qe8 40. Qh3 Re2 41.
+Qg2 Qg6 42. Qf3 Re4 43. Qg2 Qe6 44. Bd6 Re8 45. Bxb4 Nxb4 46. Kh2 Qd6 47. Qf3 d3
+48. Kg2 Re2 49. Qh5 Rf8 0-1
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "2.2"]
+[White "Caruana,F"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2760"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "2020009"]
+[BlackFideId "14109603"]
+[EventDate "2015.02.19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 Nc6 7. g4 Qb6 8. Nb3
+e6 9. Be3 Qc7 10. f4 b5 11. Bg2 Bb7 12. g5 Nd7 13. O-O Nb6 14. Nd2 Be7 15. Qe1
+g6 16. Qf2 Nd7 17. a4 b4 18. Ne2 O-O 19. h4 a5 20. c4 bxc3 21. Nxc3 Rac8 22. Nb3
+Qb8 23. Nb5 Ba6 24. Qe2 Nc5 25. Nxc5 dxc5 26. f5 Nd4 27. Bxd4 cxd4 28. fxe6 fxe6
+29. e5 Rc5 30. Rae1 Bxb5 31. axb5 Rxb5 32. Rxf8+ Bxf8 33. Qc4 Rxe5 34. Rf1 Bc5
+35. Kh1 Qb4 36. Qa6 d3 37. Qc8+ Kg7 38. Qc7+ Kg8 39. Qf7+ 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "2.3"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2797"]
+[ECO "D47"]
+[Opening "QGD semi-Slav"]
+[Variation "Meran, Wade variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.19"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O a6 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. dxe6 fxe6 14. Ne2 Bd6 15. Ned4
+Nc5 16. b4 cxb3 17. axb3 e5 18. Nf5 Ncxe4 19. Bxe4 Nxe4 20. Ng5 Bc5 21. Ne6 Qc6
+22. Nxc5 Nxc5 23. Nd6+ Ke7 24. Bg5+ Ke6 25. Nxb7 Qxb7 26. b4 h6 27. Bh4 Ne4 28.
+Qg4+ Kf7 29. Rad1 Ra7 30. Qf5+ Nf6 31. Bxf6 gxf6 32. Rd6 Qe7 33. Rfd1 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "3.1"]
+[White "Kramnik,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2777"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.19"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8. e3
+O-O 9. Rc1 Qg6 10. Qc2 Qxc2 11. Rxc2 Rd8 12. a3 Bf8 13. Nb5 Rd7 14. Bd3 a6 15.
+Nc3 Ne7 16. Ke2 Rd8 17. b4 Bd7 18. Rb1 Be8 19. cxd5 exd5 20. a4 Nc6 21. Na2 Bd6
+22. b5 axb5 23. Bxb5 Bd7 24. Ne1 Bf5 25. Bd3 Bg4+ 26. Kf1 Bc8 27. Bb5 Nb8 28.
+Nc3 c6 29. Bd3 g6 30. h3 h5 31. f4 Nd7 32. Nf3 Nf6 33. Ne5 Bc7 34. Rcb2 Ra7 35.
+Kf2 Kg7 36. Rb3 Re8 37. R3b2 Re7 38. Kf3 Ba5 39. Ne2 Bd8 40. Nc3 h4 41. Kf2 Nh5
+42. Bc2 Ng3 43. Ne2 Nf5 44. Rb3 Nd6 45. Nc3 Re8 46. Bd3 g5 47. fxg5 Bxg5 48. Re1
+f5 49. g3 Ne4+ 50. Bxe4 fxe4 51. Rg1 Bf6 52. gxh4+ Kh7 53. Ng6 Bxh3 54. h5 Rg8
+55. Ne2 Bf5 56. Nef4 Bc8 57. Rb4 Kh6 58. Rg2 Bf5 59. Ne5 Rxg2+ 60. Kxg2 Kg7 61.
+Kg3 Bc8 62. h6+ Kh7 63. Nf7 Be7 64. Rb2 Rxa4 65. Kh2 Ra6 66. Rg2 Bf8 67. Rg6 c5
+68. Ng5+ Kh8 69. h7 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "3.2"]
+[White "Anand,V"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2811"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "Pseudo-Austrian attack"]
+[WhiteFideId "5000017"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.19"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. f4 c6 5. Nf3 b5 6. Bd3 Nd7 7. e5 Nb6 8. O-O Nh6
+9. a4 b4 10. Ne4 O-O 11. c4 Bg4 12. Nf2 Bf5 13. Bxf5 Nxf5 14. g4 Nh6 15. b3 f5
+16. g5 Ng4 17. Nd3 c5 18. h3 h5 19. hxg4 fxg4 20. Nh4 cxd4 21. Nxg6 Qd7 22. a5 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "3.3"]
+[White "Karjakin,Sergey"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2776"]
+[ECO "C07"]
+[Opening "French"]
+[Variation "Tarrasch, open variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.19"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6 8.
+Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 Be7 11. c3 Qc7 12. Bb3 O-O 13. Qf3 Bd7 14. Re1
+Rfe8 15. h3 Rad8 16. Bf4 Qb6 17. Re2 Nd5 18. Bxd5 exd5 19. Rae1 Bc5 20. Rxe8+
+Rxe8 21. Rxe8+ Bxe8 22. Qxd5 Bxd4 23. Qxd4 Qxd4 24. cxd4 Bc6 25. f3 Bd5 26. a3
+f6 27. Kf2 Kf7 28. h4 h5 29. g4 g6 30. gxh5 1/2-1/2
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "4.1"]
+[White "Karjakin,Sergey"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2783"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "14109603"]
+[BlackFideId "4101588"]
+[EventDate "2015.02.19"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. c4 dxc4 5. O-O Nbd7 6. Na3 Nb6 7. Ne5 Be6 8.
+Qc2 g6 9. Naxc4 Nxc4 10. Nxc4 Bg7 11. Rd1 O-O 12. d4 Qc8 13. e4 Rd8 14. Bf4 Ne8
+15. Ne5 Bh3 16. Qb3 Nd6 17. Rac1 Bxg2 18. Kxg2 Qe6 19. Qxe6 fxe6 20. Kf3 a5 21.
+a4 Ra6 22. b3 Nf7 23. Nxf7 Kxf7 24. e5 Rd5 25. Ke4 b5 26. Rd3 Rb6 27. Bd2 bxa4
+28. bxa4 Rb2 29. f4 Ra2 30. Rc4 g5 31. h3 gxf4 32. Bxf4 h5 33. h4 Ra1 34. Rb3
+Re1+ 35. Kf3 Rd1 36. Be3 Rf1+ 37. Ke2 Ra1 38. Bf4 Kg6 39. Bg5 Ra2+ 40. Kf3 Kf5
+41. Bxe7 Bh6 42. Bd6 Rd2 43. Bc5 Rd7 44. Rb8 Rf7 45. Rg8 Rd3+ 46. Kg2 Rd2+ 47.
+Kh3 Ke4 48. Rc1 Be3 49. Rh8 Rf3 50. Rxh5 Bf4 51. Re1+ Kd5 52. Kg4 Bxg3 53. Kxf3
+Bxe1 54. Rh8 Rf2+ 55. Kg4 Ke4 56. Kg5 Bc3 57. Rd8 Be1 58. Rd6 Rg2+ 59. Kf6 Bxh4+
+60. Kxe6 Ra2 61. Kd7 Rxa4 62. e6 Rc4 63. e7 Bxe7 64. Re6+ Kd3 65. Rxe7 a4 66.
+Kxc6 a3 67. Ra7 Rc3 68. d5 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "4.2"]
+[White "Nakamura,Hi"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2797"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[WhiteFideId "2016192"]
+[BlackFideId "5000017"]
+[EventDate "2015.02.19"]
+
+1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 dxc4 5. O-O b5 6. a4 Bb7 7. b3 b4 8. bxc4 c5
+9. d3 e6 10. Nbd2 Be7 11. Nb3 a5 12. Bb2 Nbd7 13. e3 O-O 14. d4 Qc7 15. Qe2 Ne4
+16. Rfc1 Rfc8 17. Ne1 Nd6 18. e4 cxd4 19. c5 Ne8 20. Bxd4 Ne5 21. f4 Nc6 22. Bb2
+Nf6 23. e5 Nd5 24. Nf3 Rab8 25. Nfd2 Nc3 26. Qe3 Nd8 27. Bxc3 bxc3 28. Rxc3 Bxg2
+29. Kxg2 Rb4 30. c6 Rb6 31. Nd4 Bb4 32. Nb5 Rxc6 33. Nxc7 Rxc3 34. Qe4 R3xc7 35.
+Nf3 Nb7 36. Rd1 Nc5 37. Qc2 Nd7 38. Qd3 h6 39. h4 Nc5 40. Qc2 Nd7 41. Qd3 Nc5
+42. Qc4 Nd7 43. Qb5 Nf8 44. h5 Rc5 45. Qb7 R5c7 46. Qe4 Nd7 47. Kh3 Nb6 48. f5
+exf5 49. Qxf5 Nxa4 50. Rd7 Rxd7 51. Qxd7 Nb6 52. Qb7 Bc5 53. e6 fxe6 54. Ne5 Rf8
+55. Qc6 Bd4 56. Qxe6+ Kh7 57. Qd6 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "4.3"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2777"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2015.02.19"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 O-O 7. Nbd2 d6 8. O-O
+Re8 9. Re1 Be6 10. Nf1 d5 11. Bg5 dxe4 12. dxe4 Qxd1 13. Raxd1 Bxb3 14. axb3 Ng4
+15. Re2 h6 16. Bh4 g5 17. Bg3 Nf6 18. b4 Ba7 19. h3 Nh5 20. Bh2 f6 21. Rd7 Re7
+22. Red2 Kf7 23. Ne1 Ke8 24. Rxe7+ Nxe7 25. Nc2 Nf4 26. Nfe3 h5 27. Kf1 Rd8 28.
+Rxd8+ Kxd8 29. Bxf4 gxf4 30. Nc4 Kd7 31. Ke2 b5 32. Nd2 Nc8 33. Ne1 c5 34. Nd3
+c4 35. Ne1 Nb6 36. b3 cxb3 37. Nxb3 Na4 38. Nd3 Nxc3+ 39. Kf3 Kd6 40. g3 f5 41.
+Nd2 fxe4+ 42. Nxe4+ Nxe4 43. Kxe4 fxg3 44. fxg3 Bd4 45. g4 hxg4 46. hxg4 Bc3 47.
+g5 a5 48. bxa5 Bxa5 49. Nxe5 Ke6 50. Nc6 Bb6 51. Nd4+ Bxd4 52. Kxd4 Kf5 53. Kc5
+Kxg5 54. Kxb5 1/2-1/2
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "5.1"]
+[White "Kramnik,V"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2811"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "4101588"]
+[BlackFideId "2020009"]
+[EventDate "2015.02.19"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 c5 5. Bg2 O-O 6. c4 d6 7. d4 Ne4 8. O-O Nc6
+9. h3 Bf5 10. e3 Nf6 11. Nc3 cxd4 12. Nxd4 Bd7 13. Qe2 a6 14. Rfd1 Rc8 15. Rac1
+Qa5 16. a3 Rfe8 17. b4 Qc7 18. Nb3 Qb8 19. c5 Be6 20. Nd4 Nxd4 21. exd4 Bb3 22.
+Re1 e5 23. dxe5 Rxe5 24. Ne4 Rxe4 25. Bxe4 Be6 26. Bg2 dxc5 27. Be5 Qa7 28. bxc5
+Rxc5 29. Bd4 Nd7 30. Bxc5 Nxc5 31. Red1 h5 32. Bd5 b5 33. Qe3 1-0
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "5.2"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2776"]
+[ECO "D56"]
+[Opening "QGD"]
+[Variation "Lasker defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.19"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
+Qxe7 9. Rc1 c6 10. Be2 Nd7 11. O-O Nxc3 12. Rxc3 dxc4 13. Rxc4 e5 14. Qc2 Re8
+15. Rc1 exd4 16. Nxd4 Nf6 17. a3 Be6 18. Nxe6 Qxe6 19. Rd1 Rad8 20. Rcd4 Rxd4
+21. Rxd4 Qe7 22. Qd1 g6 23. Bf3 Qe5 24. h3 Kg7 25. Qb3 Re7 26. Rb4 Qc7 27. g3 b6
+28. Rc4 c5 29. Kg2 Qe5 30. Qc2 Ne8 31. Re4 Qf6 32. Rxe7 Qxe7 33. Kf1 Qe5 34. h4
+Nd6 35. Ke2 Nb5 36. Kd1 Nd6 37. Kc1 b5 38. Kb1 a5 39. Bc6 b4 40. axb4 axb4 41.
+b3 f5 42. Qd3 Ne4 43. Qd7+ Kf8 44. Qd8+ Kg7 45. Qd7+ Kf8 46. h5 gxh5 47. f4 Nc3+
+48. Kc2 Qxe3 1/2-1/2
+
+[Event "4th Zurich CC Rapid"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "5.3"]
+[White "Anand,V"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2760"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "5000017"]
+[BlackFideId "14109603"]
+[EventDate "2015.02.19"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb7 6. Bg2 Be7 7. O-O O-O 8. Qc2
+d5 9. cxd5 exd5 10. Nb1 Re8 11. Nc3 Bb4 12. Bg5 Nbd7 13. Rac1 h6 14. Bxf6 Nxf6
+15. e3 c6 16. Ne5 Bd6 17. f4 c5 18. Bf3 Rc8 19. Qb3 cxd4 20. exd4 Bf8 21. Ne2
+Qd6 22. a3 a6 23. Rc3 Rxc3 24. Nxc3 b5 25. Rd1 Rc8 26. Kg2 Rc7 27. Nd3 Qb6 28.
+Ne5 Qd6 29. Nd3 Qb6 30. Ne5 1/2-1/2
+
+[Event "4th Zurich CC TB"]
+[Site "Zurich SUI"]
+[Date "2015.02.19"]
+[Round "1"]
+[White "Anand,V"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2776"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "5000017"]
+[BlackFideId "2016192"]
+[EventDate "2015.02.19"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Be5
+c6 9. g4 Nhf6 10. Rg1 Nxe5 11. Nxe5 Nd7 12. Nxd7 Bxd7 13. f4 b6 14. b4 a5 15. a3
+axb4 16. axb4 Qb8 17. g5 bxc5 18. bxc5 Qb4 19. Rc1 Ra3 20. Qd2 Bd8 21. Nd1 Qxd2+
+22. Kxd2 Ba5+ 23. Ke2 Rb8 24. Kf3 e5 25. fxe5 Bf5 26. Rg2 Be4+ 27. Kf4 Bxg2 28.
+Bxg2 Ra2 29. Bf3 Bd2 0-1

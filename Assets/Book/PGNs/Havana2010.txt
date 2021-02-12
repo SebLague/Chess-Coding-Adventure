@@ -1,0 +1,594 @@
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.10"]
+[Round "1"]
+[White "Short,N"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2741"]
+[EventDate "2010.06.10"]
+[ECO "A45"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. Nd2 cxd4 7. Nb3 Qf5
+8. Bxb8 Rxb8 9. Qxd4 b6 10. e4 Qf4 11. Nh3 Qc7 12. e5 Ng8 13. O-O-O e6 14.
+f4 Ne7 15. Ng5 Bb7 16. Bd3 Bxg2 17. Rhg1 Bd5 18. Nxh7 Rxh7 19. Bxh7 g6 20.
+Kb1 Nf5 21. Qd3 Qc4 22. Qxc4 Bxc4 23. Nd4 Be7 24. Rxg6 fxg6 25. Bxg6+ Kf8
+26. Nxf5 exf5 27. Bxf5 Rd8 28. Rxd7 Rxd7 29. Bxd7 Bc5 30. Kc2 Be3 31. f5
+Bf4 32. e6 Ke7 33. h4 Be2 34. Bc6 Bg3 35. h5 Bxh5 36. Kd3 Kd6 37. Bg2 Ke5
+38. Bh3 Bh4 39. b4 Be7 40. a3 Bf3 41. Kc4 Be2+ 42. Kb3 Bd3 43. a4 a5 0-1
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.10"]
+[Round "1"]
+[White "Dominguez Perez,L"]
+[Black "Bruzon Batista,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2713"]
+[BlackElo "2668"]
+[EventDate "2010.06.10"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 Bb6 8.
+Nc4 Ne7 9. Ba4 Ng6 10. Bc2 Re8 11. Re1 c6 12. Nxb6 axb6 13. d4 b5 14. h3 h6
+15. a3 Qc7 16. Be3 Be6 17. Nd2 Rad8 18. Qf3 Qe7 19. a4 bxa4 20. Rxa4 Bc8
+21. Qe2 Nh7 22. f3 Ng5 23. Kh1 h5 24. Qf2 Ne6 25. Bd3 h4 26. Bf1 Nef4 27.
+Raa1 Be6 28. Ra7 Ra8 29. Rea1 Rxa7 30. Rxa7 exd4 31. Bxd4 Ne5 32. b4 Bc8
+33. Nc4 Nxc4 34. Bxc4 Be6 35. Bf1 Nh5 36. Kg1 Bc8 37. Ra1 Ng3 38. Qd2 f5
+39. exf5 Bxf5 40. Bf2 Qf6 41. Rd1 d5 42. Re1 Rxe1 43. Qxe1 Kh7 44. Bd4 Qe6
+45. Qd2 Bg6 46. Be3 Qf5 47. Qd4 Qf6 48. Qd2 Qf5 49. Qc1 Qc2 50. Qxc2 Bxc2
+51. Bg5 Nf5 52. Kf2 Kg6 53. f4 Kf7 54. Be2 b5 55. Bg4 g6 56. Bxf5 gxf5 57.
+Bxh4 Bd1 58. Bd8 Bh5 59. Kg3 Bd1 60. Bb6 Be2 61. Kh4 Kg6 62. Bd4 Bd1 63. g4
+Be2 64. Kg3 Bd1 65. Be5 Be2 66. Kf2 Bd1 67. gxf5+ Kxf5 68. Ke3 Ke6 69. h4
+Bg4 70. Kd4 Bf5 71. h5 Bc2 72. Kc5 Kd7 73. h6 Bh7 74. Bf6 Bc2 75. Bh4 Bh7
+76. Kd4 Ke6 77. Kc5 Kd7 78. Kd4 Ke6 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.10"]
+[Round "1"]
+[White "Nepomniachtchi,I"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2700"]
+[EventDate "2010.06.10"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nc5 6. Nb3 Ne6 7. Nbd4
+Nxd4 8. Qxd4 h6 9. Bd2 Be6 10. h4 c5 11. Qf4 Nc6 12. h5 Qd7 13. c4 O-O-O
+14. O-O-O Be7 15. Bc3 d4 16. Bd2 f6 17. exf6 Bxf6 18. Bd3 Rhf8 19. Rde1 Be7
+20. Qg3 Bd6 21. Qh4 Be7 22. Qg3 Bd6 23. Qh4 Be7 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.11"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2741"]
+[BlackElo "2700"]
+[EventDate "2010.06.10"]
+[ECO "E20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c6 7. e3 O-O 8.
+Nh3 Re8 9. Nf2 e5 10. Be2 Nbd7 11. O-O Nf8 12. cxd5 cxd5 13. dxe5 Rxe5 14.
+c4 Re8 15. Re1 Ng6 16. Rb1 b6 17. cxd5 Nxd5 18. Bf1 Nc3 19. Qxd8 Rxd8 20.
+Rb3 Na4 21. e4 Be6 22. Rb4 Nc5 23. f4 Ne7 24. Be3 Rac8 25. f5 Bd7 26. Rd4
+Nb3 27. Rdd1 Ba4 28. Ba6 Rxd1 29. Nxd1 Rc2 30. Bd3 Rc7 31. Nb2 Bc6 32. Kf2
+Rd7 33. g4 Kf8 34. h4 b5 35. Rd1 Ke8 36. Bc2 Rxd1 37. Nxd1 Na1 38. Bd3 a5
+39. Bd4 Nb3 40. Bxg7 Nc5 41. Ke3 Nxd3 42. Kxd3 Nc8 43. Bc3 Nd6 44. Nf2 Nc4
+45. g5 Bb7 46. h5 Ba6 47. g6 fxg6 48. fxg6 hxg6 49. h6 b4 50. h7 Ne5+ 51.
+Ke3 Nf7 52. Bg7 bxa3 53. Ng4 1-0
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.11"]
+[Round "2"]
+[White "Bruzon Batista,L"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2668"]
+[BlackElo "2695"]
+[EventDate "2010.06.10"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Nc6 6. Ne5 Qd6 7. Nxc6
+Qxc6 8. Qxc6+ bxc6 9. g3 Bg7 10. Bg2 Be6 11. b3 O-O-O 12. Bb2 Nxc3 13. Bxc3
+Bxc3 14. dxc3 Rd6 15. f4 Rhd8 16. Kf2 c5 17. Rhc1 Rd2 18. Bf3 Rb2 19. Rcb1
+Rxb1 20. Rxb1 Rd2 21. Ra1 h5 22. Ke1 Rd6 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.11"]
+[Round "2"]
+[White "Short,N"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2713"]
+[EventDate "2010.06.10"]
+[ECO "D13"]
+
+1. Nf3 c5 2. c3 d5 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 Nc6 6. Bf4 a6 7. Ne5 Qb6
+8. Nxc6 bxc6 9. Qd2 e6 10. e3 Qb7 11. Rc1 c5 12. Be2 Bd7 13. Be5 Rc8 14.
+O-O Be7 15. dxc5 Rxc5 16. Bxf6 gxf6 17. Bf3 f5 18. Ne2 Rxc1 19. Rxc1 O-O
+20. Nf4 Qb4 21. Qxb4 Bxb4 22. Be2 Rc8 23. Rxc8+ Bxc8 24. g3 a5 25. Bb5
+1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.12"]
+[Round "3"]
+[White "Dominguez Perez,L"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2713"]
+[BlackElo "2741"]
+[EventDate "2010.06.10"]
+[ECO "B63"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O Nxd4 9. Qxd4 O-O 10. f3 a6 11. h4 b5 12. Kb1 Bb7 13. Qd2 Rc8 14.
+Bd3 Nd7 15. Bxe7 Qxe7 16. Be2 Rc6 17. Qg5 f6 18. Qe3 Rfc8 19. Rd4 Nb6 20.
+Rhd1 Qc7 21. a3 Kf8 22. Qd2 Rxc3 23. Qxc3 Qxc3 24. bxc3 d5 25. exd5 Bxd5
+26. Kb2 Rc5 27. Bd3 f5 28. Re1 g6 29. h5 Ke7 30. hxg6 hxg6 31. Rh1 e5 32.
+Rh7+ Kf6 33. Rdh4 Na4+ 34. Kc1 Kg5 35. Rh3 Rxc3 36. Rg3+ Kf6 37. Ra7 Nc5
+38. Kb2 Na4+ 39. Kc1 Nc5 40. Kb2 Na4+ 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.12"]
+[Round "3"]
+[White "Nepomniachtchi,I"]
+[Black "Short,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2685"]
+[EventDate "2010.06.10"]
+[ECO "C77"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8.
+O-O O-O 9. Re1 Re8 10. h3 h6 11. d4 b5 12. Bc2 exd4 13. cxd4 Bb7 14. a3 Na5
+15. e5 dxe5 16. dxe5 Nh7 17. b4 Nc4 18. Nxc4 bxc4 19. Bb2 Ng5 20. Nxg5 Qxg5
+21. Be4 Rad8 22. Qc1 Qxc1 23. Raxc1 Bxe4 24. Rxe4 Rd2 25. Bc3 Ra2 26. Rxc4
+Rxa3 27. Rxc7 g5 28. Re1 Re6 29. Re3 Rb3 30. Rf3 Bxe5 31. Rc8+ 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.12"]
+[Round "3"]
+[White "Alekseev,Evgeny"]
+[Black "Bruzon Batista,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2668"]
+[EventDate "2010.06.10"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Bd7 10. b3 Kc8 11. Bb2 Be7 12. Rad1 h5 13. Rd3 a5
+14. a4 b6 15. Rfd1 Be6 16. Ne2 c5 17. c4 g5 18. Nc3 g4 19. Ne1 Kb7 20. Nd5
+Bg5 21. Nc2 Rad8 22. Kf1 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.13"]
+[Round "4"]
+[White "Ivanchuk,V"]
+[Black "Bruzon Batista,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2668"]
+[EventDate "2010.06.10"]
+[ECO "D37"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8.
+Bd3 Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 Ba6 14. Re1 Bxd3
+15. Qxd3 Ra7 16. Rac1 axb4 17. axb4 Bf6 18. h4 bxc5 19. bxc5 Rb8 20. Re3
+Rb3 21. Qc2 Rb4 22. Ne2 Qb8 23. Kg2 Rb2 24. Qd1 h6 25. Rcc3 Rb1 26. Nc1
+Rba1 27. Qd2 Qc8 28. Ne1 Nf8 29. Nc2 R1a4 30. h5 Nd7 31. Qd1 Bd8 32. Nd3
+Qb7 33. Qe2 Ba5 34. Ra3 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.13"]
+[Round "4"]
+[White "Short,N"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2700"]
+[EventDate "2010.06.10"]
+[ECO "E12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qc2 Bb7 6. a3 Bxc3+ 7. Qxc3 O-O
+8. e3 d6 9. b4 Nbd7 10. Bb2 Ne4 11. Qb3 f5 12. Be2 Rf6 13. d5 Rg6 14. dxe6
+Nf8 15. c5 Nxe6 16. cxd6 cxd6 17. Nd4 d5 18. Nxe6 Rxe6 19. Rd1 Qh4 20. g3
+Qh6 21. Rxd5 Bxd5 22. Qxd5 Rae8 23. Bb5 Nxf2 24. Kxf2 Qxe3+ 25. Kg2 Rc8 26.
+Rc1 Rxc1 27. Bxc1 Qe4+ 28. Qxe4 Rxe4 29. Kf2 g6 30. Be3 Kf7 31. Bd3 Re7 32.
+a4 Rc7 33. a5 bxa5 34. bxa5 Kf6 35. h4 Ke6 36. a6 Kd5 37. Be2 Ke4 38. Bf3+
+Kd3 39. Bb7 Rc2+ 40. Kf3 1-0
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.13"]
+[Round "4"]
+[White "Dominguez Perez,L"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2713"]
+[BlackElo "2695"]
+[EventDate "2010.06.10"]
+[ECO "E60"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Nf3 Bg7 5. Bg2 d5 6. cxd5 cxd5 7. Nc3 O-O 8.
+Ne5 e6 9. O-O Nfd7 10. f4 Nc6 11. Kh1 f5 12. b3 Qa5 13. Bd2 Qa6 14. Nxc6
+bxc6 15. Be3 c5 16. Rc1 cxd4 17. Bxd4 Bb7 18. Bxg7 Kxg7 19. Qd4+ Kg8 20.
+Rc2 Rac8 21. Rfc1 Rc6 22. Nd1 Rfc8 23. Rxc6 Rxc6 24. Rxc6 Bxc6 25. Nc3 Qa3
+26. Bf3 a5 27. Kg2 Qb2 28. h3 h5 29. g4 hxg4 30. hxg4 fxg4 31. Bxg4 Kf7 32.
+Kf2 Nf6 33. Bf3 Qa3 34. Qa7+ Bd7 35. Qd4 Bc6 36. Qd2 Qb4 37. e3 g5 38. fxg5
+Qh4+ 39. Ke2 Qxg5 40. Qd4 Qf5 41. Qd3 Qe5 42. Qd4 Qh2+ 43. Kd1 Qb2 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.14"]
+[Round "5"]
+[White "Nepomniachtchi,I"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2695"]
+[BlackElo "2741"]
+[EventDate "2010.06.10"]
+[ECO "B12"]
+
+1. e4 c6 2. d4 d5 3. f3 Qb6 4. a4 e6 5. c3 c5 6. exd5 exd5 7. Bb5+ Bd7 8.
+Qe2+ Be7 9. dxc5 Qxc5 10. b3 a6 11. Bxd7+ Nxd7 12. Nh3 O-O-O 13. Be3 Qc7
+14. O-O Ngf6 15. Kh1 Rhe8 16. Qd1 Bd6 17. Bg1 Bc5 18. Ra2 Kb8 19. Rd2 h6
+20. Bd4 Rc8 21. Nf2 Bxd4 22. Rxd4 Ne5 23. Rd2 Re6 24. Re1 Rce8 25. Rde2 g5
+26. Nd3 g4 27. Nxe5 Rxe5 28. Rxe5 Rxe5 29. Rxe5 Qxe5 30. a5 h5 31. g3 gxf3
+32. Qxf3 Qe1+ 33. Kg2 Ng4 34. Qf4+ Ka8 35. Nd2 Qe2+ 36. Kg1 Qxh2+ 37. Kf1
+f5 38. Ke1 h4 39. Nf1 Qb2 40. gxh4 Qxc3+ 41. Nd2 d4 42. h5 d3 43. Kf1 Qa1+
+44. Kg2 Qxa5 45. h6 Qd5+ 46. Kg3 Qg8 47. Kf3 Qe6 48. Nf1 Nxh6 49. Qd4 Qe2+
+50. Kg3 Qe1+ 51. Qf2 f4+ 52. Kf3 Qe5 53. Nd2 Nf5 54. Kg4 Qe2+ 0-1
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.14"]
+[Round "5"]
+[White "Alekseev,Evgeny"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2713"]
+[EventDate "2010.06.10"]
+[ECO "E60"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. Nc3 Nc6
+8. e3 O-O 9. O-O Re8 10. Re1 e6 11. Qc2 Qe7 12. b3 e5 13. Nxe5 Nxe5 14.
+dxe5 Qxe5 15. Bb2 c6 16. Na4 Qe7 17. Bxg7 Kxg7 18. Nc5 Nd7 19. Qc3+ Qf6 20.
+Qxf6+ Kxf6 21. Ne4+ Ke7 22. Red1 Nf6 23. Nc5 Nd7 24. Nd3 Rd8 25. Kf1 Nf6
+26. e4 Be6 27. Nc5 Rxd1+ 28. Rxd1 Bc8 29. Nd3 a5 30. Nb2 Be6 31. Ke2 Nd7
+32. Kd2 Nb6 33. Rb1 a4 34. Nxa4 Nxa4 35. bxa4 Rxa4 36. Rxb7+ Kd6 37. e5+
+Kxe5 38. Bxc6 Rxa2+ 39. Ke3 Ra3+ 40. Kd2 Ra2+ 41. Ke3 Ra3+ 42. Kd2 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.14"]
+[Round "5"]
+[White "Bruzon Batista,L"]
+[Black "Short,N"]
+[Result "0-1"]
+[WhiteElo "2668"]
+[BlackElo "2685"]
+[EventDate "2010.06.10"]
+[ECO "C12"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bc1 Ne4 7. Qg4 Kf8 8.
+Nge2 c5 9. a3 Ba5 10. dxc5 Nd7 11. b4 Nxe5 12. Qh5 Bc7 13. Nxe4 dxe4 14.
+Bb2 Qg5 15. Qxg5 hxg5 16. Nc3 e3 17. fxe3 Ng4 18. Be2 Bg3+ 19. Kd2 Nf2 20.
+Rhg1 Rxh2 21. Raf1 f5 22. Kc1 Ke7 23. b5 g4 24. Bc4 Bh4 25. Kb1 g3 26. a4
+Bf6 27. Be2 g5 28. Ka2 g4 29. Kb3 Bd7 30. Ba3 Kf7 31. a5 Be5 32. Bb4 Rc8
+33. Bc4 Kf6 34. Re1 Bxc3 35. Bxc3+ e5 36. Rd1 Nxd1 37. Rxd1 Bxb5 38. Bxb5
+Rxc5 39. Bf1 Rh1 40. Be2 Rxd1 41. Bxd1 Kg5 42. Be2 f4 43. a6 bxa6 44. Bb4
+Rc7 45. exf4+ exf4 46. c4 f3 47. Bf1 Kf5 48. c5 a5 49. Ba3 Ke4 0-1
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.16"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Short,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2685"]
+[EventDate "2010.06.10"]
+[ECO "A40"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 Nf6 5. Nf3 O-O 6. g3 d5 7. Bg2 Qe7
+8. O-O Rd8 9. Rc1 c6 10. Qf4 b6 11. cxd5 Nxd5 12. Qg5 Qxg5 13. Nxg5 Bb7 14.
+Nd2 Na6 15. Nb3 Rac8 16. Rc4 h6 17. Ne4 Kf8 18. a3 Ke7 19. Rac1 Nb8 20.
+R4c2 Ba6 21. e3 Bd3 22. Rd2 Bb5 23. Bf3 Rc7 24. Nc3 Nxc3 25. Rxc3 Rdc8 26.
+Be2 Ba4 27. Kf1 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.16"]
+[Round "6"]
+[White "Bruzon Batista,L"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2668"]
+[BlackElo "2713"]
+[EventDate "2010.06.10"]
+[ECO "D27"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. dxc5 Bxc5
+8. Qxd8+ Kxd8 9. Be2 Ke7 10. b3 Nbd7 11. Nbd2 b6 12. Bb2 Bb7 13. Rfd1 Rhc8
+14. Ne1 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.16"]
+[Round "6"]
+[White "Alekseev,Evgeny"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2695"]
+[EventDate "2010.06.10"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nb6 7. d3 c6 8.
+O-O O-O 9. Qc2 Na6 10. b3 Re8 11. Bb2 e5 12. a3 Qe7 13. Rac1 h6 14. b4 Nc7
+15. Rb1 Bf5 16. Ne4 Rad8 17. Rfd1 Nb5 18. e3 Nd6 19. Nfd2 Bg4 20. Re1 Nxe4
+21. Nxe4 Nd7 22. Nd2 Be6 23. Nc4 Bd5 24. Red1 Bxg2 25. Kxg2 c5 26. e4 cxb4
+27. axb4 b5 28. Ne3 Nb6 29. Bc3 Rd6 30. Ra1 Qd7 31. Be1 h5 32. Qe2 Bh6 33.
+Rac1 Rd8 34. Rc5 Bxe3 35. Qxe3 Nc4 36. Qe2 a6 37. Bc3 Rxd3 38. Rxd3 Qxd3
+39. Qxd3 Rxd3 40. Bxe5 Nxe5 41. Rxe5 Rd4 42. Re8+ Kg7 43. Ra8 Rxe4 44. Rxa6
+g5 45. f4 g4 46. Rd6 Rxb4 47. Rd5 Rb2+ 48. Kg1 b4 49. Rxh5 b3 50. Rb5 Kf6
+51. Kf1 Ke7 52. Ke1 Kd6 53. Kd1 Kc6 54. Rb8 Kd5 55. Kc1 Rc2+ 56. Kb1 Rxh2
+57. Rxb3 Rf2 58. Kc1 Rf3 59. Rb7 Ke6 60. Rb6+ Kf5 61. Rb5+ Ke4 62. Re5+ Kd3
+63. Rf5 Rxg3 64. Rxf7 Rf3 65. f5 g3 66. Rg7 Ke2 0-1
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.17"]
+[Round "7"]
+[White "Alekseev,Evgeny"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2741"]
+[EventDate "2010.06.10"]
+[ECO "D14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8.
+Bd3 Bxd3 9. Qxd3 Bd6 10. Bxd6 Qxd6 11. O-O O-O 12. Rfc1 Rfc8 13. h3 h6
+1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.17"]
+[Round "7"]
+[White "Nepomniachtchi,I"]
+[Black "Bruzon Batista,L"]
+[Result "1-0"]
+[WhiteElo "2695"]
+[BlackElo "2668"]
+[EventDate "2010.06.10"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Bd7 11. b3 c5 12. Rd1 Kc8 13. Bb2 Be6
+14. Nd5 g5 15. c4 b6 16. Kh2 Ne7 17. g4 Ng6 18. Kg3 Be7 19. Rd2 Kb7 20. Rh1
+a5 21. a4 Rad8 22. Bc1 Rdg8 23. Rhd1 Kc8 24. Nf6 Rd8 25. Nd5 Rdg8 26. Rd3
+Re8 27. Bb2 Bd8 28. Nf6 Ref8 29. Re3 Be7 30. h4 gxh4+ 31. Nxh4 Rfg8 32. Nf3
+Rd8 33. Rh1 c6 34. Bc3 Kc7 35. Nd2 Bf8 36. f4 Ne7 37. Nde4 Bg7 38. Rf3 Bxf6
+39. exf6 Nc8 40. f5 1-0
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.17"]
+[Round "7"]
+[White "Dominguez Perez,L"]
+[Black "Short,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2713"]
+[BlackElo "2685"]
+[EventDate "2010.06.10"]
+[ECO "E00"]
+
+1. d4 e6 2. c4 Nf6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Qc7 6. Nc3 a6 7. Bg2 Qxc4
+8. O-O Nc6 9. Nb3 d5 10. Bf4 Be7 11. a3 d4 12. Nd2 Qc5 13. Nce4 Nxe4 14.
+Nxe4 Qb6 15. Nd6+ Bxd6 16. Bxd6 Kd7 17. Bf4 Ke7 18. Bxc6 bxc6 19. Be5 c5
+20. b4 f6 21. bxc5 Qxc5 22. Bxd4 Qd5 23. Rc1 Rd8 24. Rc7+ Rd7 25. Bc5+ Kf7
+26. Qxd5 exd5 27. Rxd7+ 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.18"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2713"]
+[EventDate "2010.06.10"]
+[ECO "D80"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Bg7 5. Bxf6 Bxf6 6. cxd5 c6 7. Rc1 O-O
+8. dxc6 Qxd4 9. Qxd4 Bxd4 10. Nf3 Bxc3+ 11. Rxc3 Nxc6 12. e3 Be6 13. Bc4
+Bxc4 14. Rxc4 Rfc8 15. Kd2 Na5 16. Rxc8+ Rxc8 17. Rc1 Nc4+ 18. Ke2 f6 19.
+Nd2 Nd6 20. Rxc8+ Nxc8 21. Ne4 Kf7 22. Kd3 e6 23. g4 h6 24. Kd4 Ke7 25. a4
+Nd6 26. Nc5 b6 27. Nd3 Nf7 28. h4 Kd6 29. e4 Ne5 30. Nxe5 fxe5+ 31. Kc4 a6
+32. b4 g5 33. h5 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.18"]
+[Round "8"]
+[White "Short,N"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2695"]
+[EventDate "2010.06.10"]
+[ECO "B23"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 g6 5. d4 cxd4 6. Nxd4 Bg7 7. Be3 Nf6 8.
+Be2 Bd7 9. Nb3 Rc8 10. O-O O-O 11. Qe1 a6 12. Kh1 b5 13. Rd1 Nb4 14. Rd2
+Nxc2 15. Rxc2 b4 16. Bxa6 Ra8 17. Bd3 bxc3 18. bxc3 Ra4 19. e5 Nd5 20. Bd4
+Bc6 21. Rd2 Qa8 22. exd6 exd6 23. Bxg7 Re8 24. Qa1 Ne3 25. Rg1 Nxg2 26.
+Rgxg2 Rxa2 27. Rxa2 Qxa2 28. Bf1 Bxg2+ 0-1
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.18"]
+[Round "8"]
+[White "Bruzon Batista,L"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2668"]
+[BlackElo "2700"]
+[EventDate "2010.06.10"]
+[ECO "E18"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. d4 O-O 7. Nc3 Ne4 8.
+Nxe4 Bxe4 9. Ne1 Bxg2 10. Nxg2 d5 11. Qa4 dxc4 12. Qxc4 c5 13. dxc5 Bxc5
+14. Be3 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.19"]
+[Round "9"]
+[White "Bruzon Batista,L"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2668"]
+[BlackElo "2741"]
+[EventDate "2010.06.10"]
+[ECO "A46"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 b5 5. O-O c5 6. c3 Nbd7 7. a4 b4 8.
+cxb4 cxb4 9. Ne5 Ba6 10. Bg5 Nxe5 11. dxe5 h6 12. Be3 Nd7 13. Bd4 Bc5 14.
+Re1 Bxd4 15. Qxd4 Qb6 16. Qxb6 Nxb6 17. Nd2 Rc8 18. Nf3 Ke7 19. b3 Nd7 20.
+e4 d4 21. Nxd4 Nxe5 22. Nb5 g5 23. Red1 Rc5 24. Nxa7 Ra8 25. Nb5 Bxb5 26.
+axb5 Rxa1 27. Rxa1 Rxb5 28. Ra7+ Kf6 29. f4 gxf4 30. gxf4 Ng6 31. e5+ Kg7
+32. f5 Nf4 33. fxe6 Nxe6 34. Bf1 Rxe5 35. Bc4 Rg5+ 36. Kh1 Kf6 37. Rb7 Nd4
+38. Rxf7+ Ke5 39. h4 Rg4 40. Kh2 h5 41. Kh3 Nf5 42. Rb7 Rxh4+ 43. Kg2 Ne3+
+44. Kf2 Nc2 45. Bd3 Rf4+ 46. Kg1 Na3 47. Kg2 h4 48. Be2 Nc2 49. Kh3 Kd4 50.
+Bd1 Kd3 51. Rc7 Ne3 52. Bh5 Kd2 53. Bg6 Nd1 54. Bh5 Nf2+ 55. Kh2 Nd3 56.
+Bg6 Rf2+ 57. Kh1 Ne5 58. Be4 Nf3 59. Rc2+ Ke3 60. Rxf2 Kxf2 61. Bd5 h3 62.
+Be6 h2 63. Bg4 Kg3 0-1
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.19"]
+[Round "9"]
+[White "Alekseev,Evgeny"]
+[Black "Short,N"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2685"]
+[EventDate "2010.06.10"]
+[ECO "B16"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 h5 7. Be3 h4
+8. Qb3 Nd7 9. O-O-O Qb6 10. Qc2 Qa5 11. Kb1 Nb6 12. Bd3 Nd5 13. Bd2 Bh6 14.
+Ne2 Bxd2 15. Qxd2 Be6 16. Nc1 Qc7 17. g3 O-O-O 18. Nb3 Kb8 19. Rc1 Bc8 20.
+Rhe1 e5 21. Qe2 Rde8 22. Qf3 hxg3 23. hxg3 Rhg8 24. Bf5 Bxf5+ 25. Qxf5 Qc8
+26. Qc2 Re7 27. Re4 Rge8 28. Rce1 Qf5 29. a3 Qg6 30. c4 exd4 31. Rxe7 Rxe7
+32. Rxe7 Nxe7 33. Nxd4 Kc7 34. c5 Qh5 35. Qb3 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.19"]
+[Round "9"]
+[White "Nepomniachtchi,I"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2713"]
+[EventDate "2010.06.10"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8.
+Bg2 Nfd7 9. O-O Nc6 10. f4 O-O 11. Be3 Nxd4 12. Qxd4 b5 13. a4 bxa4 14.
+Qxa4 Rb8 15. Rfb1 Bb7 16. Qa5 Qc8 17. Rd1 Nc5 18. Rd2 Bc6 19. b4 Nd7 20.
+Rb1 Qb7 21. g5 Rfc8 22. Qa2 Nb6 23. Bf1 Bb5 24. Nxb5 axb5 25. Re2 Na4 26.
+Bd2 Nc3 27. Bxc3 Rxc3 28. Rb3 Rc4 29. Ree3 Rc7 30. h4 d5 31. c3 dxe4 32.
+Qg2 Qa7 33. Qxe4 g6 34. h5 Rbc8 35. hxg6 hxg6 36. Qd4 Qxd4 37. cxd4 Rd8 38.
+Re4 Rcd7 39. Kf2 Rxd4 40. Ke3 Rxe4+ 41. Kxe4 Rb8 42. Bd3 Bd6 43. Rb1 Kg7
+44. Ra1 Bxb4 45. Rb1 Bd6 46. Bxb5 Rh8 47. Rd1 Bb8 48. Rf1 Rh4 49. Ke3 Kf8
+50. Be2 Bd6 51. Bd1 Ke7 52. Be2 Rh3+ 53. Rf3 Rh8 54. Bd3 Bc5+ 55. Kd2 Rh4
+56. Be2 Rh8 57. Bd3 Ra8 58. Bc2 Ra2 59. Kd3 Rb2 60. Kc3 Rb4 61. Kd3 Rd4+
+62. Ke2 Bb4 63. Bd3 Bd6 64. Ke3 Rb4 65. Rf1 Ra4 66. Be4 Ra3+ 67. Bd3 Ra2
+68. Kf3 Ra3 69. Ke2 Rb3 70. Ke3 Rc3 71. Kd4 Rc8 72. Ke3 Rh8 73. Rf3 Rh4 74.
+Rf1 Rg4 75. Be2 Bxf4+ 76. Rxf4 Rxg5 77. Ra4 Re5+ 78. Kf2 f5 79. Bf3 g5 80.
+Rb4 Kf6 81. Ra4 Rc5 82. Rb4 Rc2+ 83. Ke3 Rc3+ 84. Kf2 Rd3 85. Ra4 Rd8 86.
+Ke3 Rh8 87. Ra6 Rh3 88. Kf2 Rh6 89. Bd5 Ke5 90. Ba2 g4 91. Kg3 Rh3+ 92. Kg2
+Rh6 93. Kg3 Rg6 94. Ra5+ Kf6 95. Ra6 Ke5 96. Ra5+ Kf6 97. Ra6 Ke5 1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.20"]
+[Round "10"]
+[White "Ivanchuk,V"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2741"]
+[BlackElo "2695"]
+[EventDate "2010.06.10"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. dxc3 Qxd1+ 7. Kxd1
+f6 8. Bc4 e5 9. Be3 Nd7 10. Ke2 Bc5 11. Rhd1 Bxe3 12. Kxe3 Ke7 13. Nd2 a5
+14. f3 Nb6 15. Be2 Be6 16. Nb3 Nc4+ 17. Bxc4 Bxc4 18. Nc5 b6 19. b3 Be6
+1/2-1/2
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.20"]
+[Round "10"]
+[White "Short,N"]
+[Black "Bruzon Batista,L"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2668"]
+[EventDate "2010.06.10"]
+[ECO "B95"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 h6 8.
+Be3 Qc7 9. O-O-O Nbd7 10. Qg3 Nc5 11. f3 Bd7 12. Nb3 Na4 13. Nxa4 Bxa4 14.
+Kb1 Rc8 15. Bd3 e5 16. Rhe1 g6 17. f4 Bg7 18. fxe5 dxe5 19. Qf3 Qe7 20. g4
+Bd7 21. Rg1 Be6 22. a3 Nd7 23. Bd2 Qh4 24. Rg3 Qd8 25. Bb4 Bf8 26. Ba5 b6
+27. Bd2 Qc7 28. Rf1 a5 29. Qe2 Bg7 30. Be3 O-O 31. Qd2 a4 32. Nc1 Nc5 33.
+Bxh6 Rfd8 34. Bxg7 Kxg7 35. Qf2 Kg8 36. h4 Rd4 37. h5 Rxe4 38. hxg6 Nxd3
+39. Nxd3 fxg6 40. Qf6 Qf7 41. Rgf3 Qxf6 42. Rxf6 Bxg4 43. Rxg6+ Kh7 44.
+Nxe5 Bh3 45. Rf7+ Kh8 46. Rf3 Re1+ 47. Ka2 Bf1 48. Rfg3 1-0
+
+[Event "45th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2010.06.20"]
+[Round "10"]
+[White "Dominguez Perez,L"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2713"]
+[BlackElo "2700"]
+[EventDate "2010.06.10"]
+[ECO "E06"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Bd6 11. Re1 Be4 12. Qc1 Bb7 13. Bg5 Nbd7 14.
+Nbd2 c5 15. Bxf6 gxf6 16. Nb3 Qb6 17. Qh6 Rfd8 18. Rad1 Bf8 19. Qh5 a5 20.
+dxc5 Nxc5 21. Ng5 fxg5 22. Qxg5+ Kh8 23. Nxc5 Bxc5 24. Qf6+ Kg8 25. Bxb7
+Bxf2+ 26. Qxf2 Qxb7 27. Qf4 Qe7 28. Qe5 b4 29. Rxd8+ Rxd8 30. Qxa5 Rd5 31.
+Qb6 Rd2 32. Rc1 h6 33. Qe3 Qg5 34. Qe4 Kg7 35. Rc2 Rd1+ 36. Kg2 h5 37. Qf3
+Qe5 38. b3 Rd4 39. e3 Rd3 40. Rf2 Rd7 41. Qf4 Qc5 42. e4 Qe7 43. e5 Rd3 44.
+Kh3 Rc3 45. Qd2 h4 46. Rf4 hxg3 47. hxg3 Kf8 48. Rh4 Qc7 49. Qg5 Ke8 50.
+Qg8+ Ke7 51. Rf4 Qxe5 52. Rxf7+ Kd6 53. Qb8+ Kd5 54. Qb5+ Ke4 55. Rf4+ 1-0
+

@@ -1,0 +1,1910 @@
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.15"]
+[Round "1"]
+[White "Ivanchuk,V"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2728"]
+[EventDate "2009.04.15"]
+[ECO "A46"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg5 d5 5. Nbd2 Be7 6. Bxf6 gxf6 7. c3 Nd7
+8. e3 b4 9. c4 dxc4 10. Nxc4 c5 11. Bg2 Bb7 12. O-O Rc8 13. dxc5 Rxc5 14.
+Nd6+ Bxd6 15. Qxd6 Qb6 16. Qd2 Bxf3 17. Bxf3 Ne5 18. Be2 O-O 19. Rfd1 Rfc8
+20. Rac1 b3 21. axb3 Qxb3 22. Rxc5 Rxc5 23. Rc1 Rxc1+ 24. Qxc1 Kg7 25. Qd2
+a5 26. Qxa5 Qxb2 27. Qe1 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.15"]
+[Round "1"]
+[White "Grischuk,A"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2733"]
+[EventDate "2009.04.15"]
+[ECO "D58"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8.
+Be2 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c5 12. bxc5 bxc5 13. Rb1 Bc6 14.
+O-O Nd7 15. Bb5 Qc7 16. Qd3 Rfc8 17. Rfd1 Rab8 18. a4 cxd4 19. exd4 Ba8 20.
+Qf5 Qxc3 21. Qxd7 Qc7 22. Qf5 Rb6 23. Ne5 g6 24. Qf4 Bg5 25. Qg4 a6 26. h4
+Bf6 27. Bd3 Rxb1 28. Rxb1 h5 29. Qf4 Bxe5 30. dxe5 Re8 31. Rc1 Qd7 32. Bxa6
+d4 33. Bc4 Qf5 34. Qxf5 gxf5 35. Rd1 Rxe5 36. Rxd4 Bc6 37. Bb3 Re1+ 38. Kh2
+Rb1 39. Bd5 Bxd5 40. Rxd5 Rb4 41. g3 f4 42. a5 fxg3+ 43. fxg3 Ra4 44. Rxh5
+Kg7 45. Rf5 Kg6 46. g4 f6 47. h5+ Kg7 48. g5 fxg5 49. Rxg5+ Kf6 50. Rb5 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.15"]
+[Round "1"]
+[White "Karjakin,Sergey"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2693"]
+[EventDate "2009.04.15"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Ng5 Re7 13. d5 Na5 14. Bc2 c6
+15. b4 Nc4 16. Nxc4 bxc4 17. dxc6 Bxc6 18. Nf3 h6 19. Qe2 Rc8 20. Rd1 Qc7
+21. a4 Qb7 22. Nd2 d5 23. Rb1 Nxe4 24. Nxe4 dxe4 25. b5 axb5 26. axb5 Bxb5
+27. Bxh6 f5 28. Ba4 Bxa4 29. Rxb7 Bxd1 30. Qb2 Bb3 31. Rxb3 cxb3 32. Qxb3+
+Rf7 33. Bg5 f4 34. Qd5 e3 35. fxe3 Rxc3 36. exf4 Rc5 37. Qe6 exf4 38. Bxf4
+Rcf5 39. Bg3 Kh7 40. Kh2 g6 41. Qc4 Bg7 42. Qh4+ Kg8 43. Qc4 Kh7 44. Qh4+
+Kg8 45. Qc4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.15"]
+[Round "1"]
+[White "Akopian,Vl"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2695"]
+[EventDate "2009.04.15"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. c4 Nb4 9. Be2 O-O 10. a3 Nc6 11. cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Bf5 14.
+Re1 Rfe8 15. Bf4 Rac8 16. h3 h6 17. Nd2 Na5 18. Bf3 Qd7 19. Ne4 Rcd8 20.
+Ng3 Bg6 21. Bh5 Bd6 22. Bxd6 Rxe1+ 23. Qxe1 cxd6 24. Bxg6 fxg6 25. Qe4 Qf7
+26. Re1 Rf8 27. Re2 Nc4 28. a4 Nb6 29. Qc2 Nd5 30. c4 Nf4 31. Re3 Rc8 32.
+c5 dxc5 33. dxc5 b6 34. Ne4 bxc5 35. Rf3 Rf8 36. Nxc5 Qd5 37. Qb3 Qxb3 38.
+Rxb3 Rc8 39. Nd3 Nxd3 40. Rxd3 Rc4 41. Rd6 Rxa4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.15"]
+[Round "1"]
+[White "Mamedyarov,S"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2725"]
+[BlackElo "2754"]
+[EventDate "2009.04.15"]
+[ECO "C28"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Na5 5. Nge2 Be7 6. O-O O-O 7. a4 Nxc4
+8. dxc4 d6 9. b3 Be6 10. a5 c6 11. a6 b6 12. Ba3 Qc7 13. f4 Rad8 14. Kh1
+Bc8 15. Bb2 Ng4 16. Qd3 exf4 17. Nxf4 Bh4 18. Qe2 Rfe8 19. h3 Ne5 20. Nd1
+Bg5 21. Nh5 Qe7 22. Ne3 g6 23. Nf4 Nd7 24. Nh5 Qxe4 25. Qf2 f5 26. Ng4 gxh5
+27. Nh6+ Bxh6 28. Qg3+ Kf7 29. Rae1 Rg8 30. Qf2 Qxg2+ 31. Qxg2 Rxg2 32.
+Kxg2 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.15"]
+[Round "1"]
+[White "Leko,P"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2720"]
+[EventDate "2009.04.15"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. Qa4+ Bd7 5. Qb3 dxc4 6. Qxc4 Bg7 7. e4 O-O
+8. e5 Ng4 9. d4 Na6 10. h3 Nh6 11. Be2 c6 12. O-O Be6 13. Qa4 Nc7 14. Rd1
+f6 15. Bc4 Bxc4 16. Qxc4+ Nf7 17. d5 cxd5 18. Nxd5 Nxd5 19. Rxd5 Qe8 20.
+exf6 Bxf6 21. Be3 b6 22. Rad1 Rc8 23. Qb3 Qc6 24. Rd7 Rc7 25. Rxc7 Qxc7 26.
+Ng5 Bxg5 27. Bxg5 Rd8 28. Re1 Rd7 29. Qe6 Kf8 30. Bf4 Qd8 31. Kh2 Rd4 32.
+Rc1 Rxf4 33. Rc8 Rxf2 34. Rxd8+ Nxd8 35. Qd5 Nf7 36. b4 Kg7 37. a3 Rf6 38.
+Qa8 e5 39. Qxa7 Re6 40. Kg1 e4 41. Kf1 e3 42. Ke2 b5 43. Qd7 Re5 44. a4
+bxa4 45. Qxa4 Kf6 46. Qd7 Ng5 47. Qd8+ Kf5 48. Qd3+ Kf6 49. Qd8+ Kf5 50.
+Qf8+ Ke4 51. Qa8+ Kf4 52. Qf8+ Ke4 53. Qa8+ Kf4 54. b5 Ne4 55. b6 Nc3+ 56.
+Ke1 Rb5 57. Qf3+ Ke5 58. Qxe3+ Ne4 59. Ke2 Rb1 60. Qa3 Nd6 61. Qc5+ Ke6 62.
+Qc6 Rb2+ 63. Kd3 Rb3+ 64. Kc2 Rb4 65. Kc1 Rb3 66. Qc5 h6 67. Qd4 g5 68. Qc5
+Kd7 69. Kc2 Rb5 70. Qc7+ Ke6 71. Qc6 Rb4 72. Kc1 Rb3 73. Qc5 Kd7 74. g4 Ke6
+75. Qc7 Kd5 76. Qa7 Kc6 77. Qc7+ Kd5 78. Kc2 Rb5 79. Qh7 Rxb6 80. Qxh6 Rc6+
+81. Kd3 Nf7 82. Qh7 Rf6 83. Qg8 Kd6 84. Qe8 Rf3+ 85. Kd4 Rf4+ 86. Kc3 Rf3+
+87. Kb4 Rf6 88. Kb5 Kd5 89. Qa8+ Ke6 90. Kc5 Ke7 91. Qa7+ Kf8 92. Qa3 Kg8
+93. Kd5 Kg7 94. Qg3 Kg6 95. h4 gxh4 96. Qxh4 Kg7 97. Qg3 Kg6 98. Qh4 Kg7
+99. Ke4 Kg6 100. Qh5+ Kg7 101. Ke3 Re6+ 102. Kf4 Rf6+ 103. Kg3 Rd6 104. Qf5
+Rf6 105. Qc5 Rd6 106. Qc3+ Kg6 107. Kh4 Kh7 108. Qc7 Kg7 109. Qe7 Rh6+ 110.
+Kg3 Rf6 111. Qb4 Rd6 112. Qb2+ Kg6 113. Qb8 Kg7 114. Kf4 Rf6+ 115. Ke4 Re6+
+116. Kf4 Rf6+ 117. Kg3 Rd6 118. Qb5 Kg6 119. Qb7 Kg7 120. Qe7 Rf6 121. Kg2
+Rd6 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.15"]
+[Round "1"]
+[White "Alekseev,Evgeny"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2726"]
+[EventDate "2009.04.15"]
+[ECO "D11"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Bd2 Nbd7 8. h3
+Bxf3 9. Qxf3 b4 10. Na4 e5 11. Qd1 Ne4 12. Bd3 Nxd2 13. Qxd2 exd4 14. O-O
+Be7 15. cxd5 cxd5 16. Bf5 Rb8 17. Qxd4 Nf6 18. Rac1 O-O 19. Rc6 Bd6 20.
+Rfc1 Re8 21. Qa7 g6 22. Rc8 Rxc8 23. Rxc8 Qe7 24. Qxe7 Bxe7 25. Rxe8+ Nxe8
+26. Bc8 Nc7 27. Bb7 Kg7 28. Nb6 Bc5 29. Nxd5 Nxd5 30. Bxd5 f5 31. g4 f4 32.
+exf4 Bd6 33. f5 gxf5 34. gxf5 a5 35. Kg2 h6 36. Kf3 Be7 37. Ke4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.16"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2726"]
+[BlackElo "2746"]
+[EventDate "2009.04.15"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8.
+a4 O-O 9. Re1 d6 10. Nbd2 Re8 11. Nf1 h6 12. Ne3 Bf8 13. g4 Nd4 14. Nxd4
+exd4 15. Nf5 d5 16. axb5 dxe4 17. dxe4 axb5 18. Rxa8 Qxa8 19. e5 Ne4 20. e6
+fxe6 21. Nxd4 Rd8 22. Bxe6+ Kh8 23. g5 Rxd4 24. Qxd4 Bc5 25. Qe5 Bxf2+ 26.
+Kf1 Qf8 27. gxh6 Bxe1+ 28. Bf4 Nd2+ 29. Ke2 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.16"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2725"]
+[EventDate "2009.04.15"]
+[ECO "B63"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
+8. O-O-O a6 9. f4 Nxd4 10. Qxd4 b5 11. Bxf6 gxf6 12. f5 Bd7 13. Kb1 Qc7 14.
+Be2 Qc5 15. Qxc5 dxc5 16. Bh5 Rd8 17. fxe6 Bxe6 18. Nd5 Bxd5 19. exd5 Rg8
+20. Bf3 Bd6 21. c3 Kd7 22. Kc2 Rde8 23. a4 b4 24. Kd3 Be5 25. Kc4 Rb8 26.
+d6 Bxd6 27. Rd5 Rg5 28. Rhd1 Rxd5 29. Rxd5 h6 30. Rh5 Bf8 31. h3 bxc3 32.
+bxc3 Rb1 33. Be4 Ra1 34. Bc2 Rg1 35. Be4 Ra1 36. Bc2 Rg1 37. Be4 Ra1
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.16"]
+[Round "2"]
+[White "Aronian,L"]
+[Black "Akopian,Vl"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2696"]
+[EventDate "2009.04.15"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 a6 6. c5 Nbd7 7. b4 b6 8. Bb2
+a5 9. a3 Be7 10. Bd3 O-O 11. O-O Qc7 12. Qe2 axb4 13. axb4 Bb7 14. h3 bxc5
+15. bxc5 Rxa1 16. Rxa1 Ra8 17. Qd1 Rxa1 18. Qxa1 h6 19. Qa4 Bd8 20. Na2 Qa5
+21. Qxa5 Bxa5 22. Bc3 Bc7 23. Nd2 Kf8 24. Nb3 Ke7 25. Ba5 Kd8 26. Nb4 Nb8
+27. Kf1 Bxa5 28. Nxa5 Kc7 29. Ke2 Bc8 30. Nb3 Ng8 31. f3 Ne7 32. e4 dxe4
+33. fxe4 Nd7 34. Ke3 Bb7 35. Bc4 Nf6 36. Nd2 Nd7 37. Ba2 Kd8 38. Nc4 Nc8
+39. Bb3 Kc7 40. e5 f6 41. Nd3 Ba6 42. Nf4 Nf8 43. Nd6 Kd7 44. Nh5 fxe5 45.
+dxe5 Ne7 46. g3 g5 47. Nf6+ Kc7 48. Nf7 Bf1 49. Nxh6 Bxh3 50. Ne4 g4 51.
+Kd4 Bg2 52. Nf6 Bd5 53. Bd1 Bf3 54. Bc2 Kd8 55. Ne4 Nd5 56. Nf2 Ne7 57. Bd3
+Kc7 58. Be4 Bxe4 59. Kxe4 Nd7 60. Nd3 Nd5 61. Nxg4 Kd8 62. Nh2 Nc3+ 63. Ke3
+Nd5+ 64. Kd4 Ne7 65. Ke4 Ng6 66. Nf3 Ke7 67. Nd4 Nb8 68. Kf3 Kf7 69. Kg4
+Ne7 70. Kh5 Nf5 71. Ne2 Ne3 72. g4 Nd5 73. g5 Nd7 74. g6+ Kg7 75. Kg5 Kg8
+76. Nef4 Nxf4 77. Kxf4 Kf8 78. Kg4 Kg8 79. Kh5 Kh8 80. Kh6 Kg8 81. Kg5 Kg7
+82. Nf4 Nxe5 83. Nxe6+ Kg8 84. Kf6 Nd7+ 85. Kf5 Kh8 86. Kg5 Kg8 87. Kh6 Ne5
+88. Nd4 Ng4+ 89. Kg5 Ne5 90. Nf5 Kh8 91. Kf6 Ng4+ 92. Ke6 Kg8 93. Ne7+ Kg7
+94. Nxc6 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.16"]
+[Round "2"]
+[White "Kasimdzhanov,R"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2721"]
+[EventDate "2009.04.15"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. a4 e6 6. g3 dxc4 7. Bg2 c5 8.
+dxc5 Qxd1+ 9. Nxd1 Bd7 10. Ne5 Nc6 11. Nxc6 Bxc6 12. Bxc6+ bxc6 13. Bd2 Ne4
+14. Rc1 Nxd2 15. Kxd2 O-O-O+ 16. Ke3 Bxc5+ 17. Kf3 Rd5 18. Rxc4 Rhd8 19.
+Ne3 Bxe3 20. Kxe3 Re5+ 21. Kf3 Rf5+ 22. Ke3 Re5+ 23. Kf3 Rf5+ 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.16"]
+[Round "2"]
+[White "Eljanov,P"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2748"]
+[EventDate "2009.04.15"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. O-O O-O 10. Qc2 Bb7 11. a3 a5 12. Ng5 h6 13. Nge4 Nxe4 14. Nxe4
+Be7 15. Bd2 c5 16. dxc5 Nxc5 17. Nxc5 Bxc5 18. Rfd1 Qb6 19. Bh7+ Kh8 20.
+Be4 Rfc8 21. Bxb7 Qxb7 22. Qd3 b4 23. axb4 Bxb4 24. Bxb4 Qxb4 25. Qd2 Rab8
+26. g3 Qxb2 27. Qxa5 Kg8 28. Qa2 Qxa2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.16"]
+[Round "2"]
+[White "Gelfand,B"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2716"]
+[EventDate "2009.04.15"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. e3 c5 7. Bd3 cxd4 8.
+exd4 dxc4 9. Bxc4 Qc7 10. Qd3 Bxc3+ 11. bxc3 b6 12. O-O Bb7 13. Bb3 Ne4 14.
+d5 Ndc5 15. Qb5+ Qd7 16. Qxd7+ Kxd7 17. dxe6+ fxe6 18. Ne5+ Ke8 19. Be3
+Nxb3 20. axb3 Nxc3 21. Ra3 Rf8 22. Rfa1 Nb5 23. Ra4 Rf5 24. f4 Rd8 25. Rxa7
+Nxa7 26. Rxa7 Rxe5 27. fxe5 Rd7 28. Bxb6 Bd5 29. b4 Rxa7 30. Bxa7 Bc6 31.
+Kf2 h5 32. g3 g6 33. Ke3 Bd5 34. Kd4 Kd7 35. b5 Bg2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.16"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2728"]
+[EventDate "2009.04.15"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Qe2 Bd7 16. Qf1 Rae8 17. Rxe8 Qxf1+ 18. Kxf1 Rxe8 19. Bd2 Nb6 20.
+Be3 Nd5 21. Bxd5 cxd5 22. Nd2 a5 23. Nb3 a4 24. Nc5 Bh3+ 25. Ke2 Ra8 26.
+Bf4 Be7 27. Kd2 g5 28. Bc7 Rc8 29. Bb6 Rc6 30. Re1 Bf8 31. Bd8 Bxc5 32.
+dxc5 Rxc5 33. Be7 Rc4 34. Bxg5 d4 35. Bh6 f6 36. Re7 a3 37. Rg7+ Kh8 38.
+Rf7 Rc8 39. bxa3 dxc3+ 40. Kc1 Be6 41. Rxf6 Bxa2 42. Kc2 Kg8 43. Rf3 Bd5
+44. Rxc3 Be4+ 45. Kd2 Rxc3 46. Kxc3 Kf7 47. Kd4 Bg2 48. Ke5 Kg6 49. Bd2 Bh3
+50. Kf4 h5 51. f3 Be6 52. g4 hxg4 53. fxg4 Bb3 54. h3 Bd1 55. Ke4 Be2 56.
+Ke3 Bd1 57. Ba5 Kg5 58. Bd8+ Kg6 59. Be7 Kf7 60. Bg5 Kg6 61. Bf4 Kf7 62.
+Bc7 Kf6 63. Bf4 Kf7 64. Kd4 Be2 65. Kc5 Bf1 66. h4 Be2 67. Kc6 Ke6 68. h5
+Kf7 69. g5 Bxh5 70. Kxb5 Ke6 71. Kc6 Be8+ 72. Kc5 Kd7 73. Bg3 Ke6 74. Bf4
+Kd7 75. Bh2 Ke6 76. Bg3 Kf5 77. Bh4 Kg4 78. Kd6 Kxh4 79. Ke7 Bg6 80. Kf6
+Kh5 81. a4 Bc2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2721"]
+[BlackElo "2754"]
+[EventDate "2009.04.15"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 b4 9. d4 d6 10. dxe5 dxe5 11. Qxd8 Rxd8 12. Nbd2 Bd6 13. a5 h6 14. Bc4
+Kf8 15. b3 Ke7 16. Bd5 Nxd5 17. exd5 Na7 18. Nxe5 Kf8 19. Ndc4 Bxe5 20.
+Rxe5 Nc6 21. Bg5 hxg5 22. dxc6 f6 23. Rc5 Be6 24. Nb6 Rab8 25. Nd7+ Bxd7
+26. cxd7 Rxd7 27. Rc6 Rb5 28. Rxa6 Rd2 29. Ra8+ Kf7 30. g4 Rc5 31. a6 Rcxc2
+32. Rc8 c6 33. a7 Rxf2 34. Rh8 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Bacrot,E"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2726"]
+[EventDate "2009.04.15"]
+[ECO "C97"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 Nc4 13. b3 Nb6 14. a4 Bd7 15.
+a5 Nc8 16. Nbd2 g6 17. Nf1 Nh5 18. Bh6 Re8 19. Qd2 Bf6 20. Ng3 Nxg3 21.
+fxg3 Bg7 22. Rf1 f6 23. Be3 Ne7 24. g4 Rf8 25. Kh2 Rae8 26. Nh4 Qc8 27. b4
+c4 28. Rf3 Rf7 29. Raf1 Ref8 30. Bh6 g5 31. Bxg7 Kxg7 32. Nf5+ Nxf5 33.
+exf5 Rh8 34. Be4 h5 35. gxh5 Rxh5 36. g4 Rh4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2733"]
+[EventDate "2009.04.15"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8.
+O-O Bd6 9. g3 O-O 10. Bd2 Qe7 11. Rc1 dxc4 12. Nxg6 hxg6 13. Bxc4 e5 14.
+Bb3 Nb6 15. Qc2 Kh8 16. dxe5 Qxe5 17. f4 Qf5 18. e4 Qh3 19. Rce1 Ng4 20.
+Bc1 Bc5+ 21. Kh1 Be3 22. Qe2 Bxc1 23. Rxc1 Nd7 24. Rce1 Nc5 25. Bd1 f5 26.
+Qg2 Qxg2+ 27. Kxg2 Nd3 28. Re2 Nc1 29. Ree1 Nd3 30. Re2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Alekseev,Evgeny"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2693"]
+[EventDate "2009.04.15"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 Bb4 6. Qb3 c5 7. cxd5 exd5
+8. a3 Bxc3+ 9. Qxc3 c4 10. Nd2 O-O 11. e3 h6 12. Bh4 Qe8 13. f3 b5 14. Kf2
+a5 15. g4 Qe7 16. Bg3 b4 17. Qc2 b3 18. Qc3 Nb6 19. Re1 Na4 20. Qc1 Re8 21.
+h3 c3 22. bxc3 b2 23. Qc2 Bd7 24. Nb1 Bc6 25. Bd3 Qb7 26. h4 Bb5 27. Qb3
+Bc6 28. Qxb7 Bxb7 29. Bb5 Nb6 30. g5 hxg5 31. hxg5 Nh7 32. Re2 Re6 33. Rxb2
+Nxg5 34. Bf4 Nh7 35. Nd2 Ba6 36. Rc1 Nf6 37. Bxa6 Rxa6 38. Rb5 Rc6 39. e4
+Ra8 40. c4 Nxc4 41. Nxc4 dxc4 42. d5 Rcc8 43. Ke3 Nd7 44. Kd4 f6 45. Rxc4
+Rxc4+ 46. Kxc4 Rc8+ 47. Kd4 g5 48. Bd6 Kf7 49. Rxa5 Rc1 50. Ra7 Ke8 51. a4
+Rf1 52. a5 Rxf3 53. Ra8+ Kf7 54. a6 Rf1 55. Rd8 Rd1+ 56. Kc3 Nb6 57. Rb8
+1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Grischuk,A"]
+[Black "Kasimdzhanov,R"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2695"]
+[EventDate "2009.04.15"]
+[ECO "D20"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bb3 Nc6 7. Be3 Bf5
+8. Ne2 e6 9. Nbc3 Qd7 10. a3 O-O-O 11. O-O h5 12. Rc1 Kb8 13. Na4 Be7 14.
+Nxb6 axb6 15. Ba4 h4 16. f3 f6 17. Bb5 Qc8 18. Qb3 Na7 19. Bc4 fxe5 20.
+dxe5 Bc5 21. Bxc5 bxc5 22. Qe3 b6 23. b4 b5 24. Ba2 c4 25. Nd4 Qb7 26. a4
+h3 27. axb5 hxg2 28. Rfd1 Nxb5 29. Nxf5 exf5 30. Bxc4 f4 31. Qxf4 Rdf8 32.
+Bf7 Qb6+ 33. Rc5 Nc3 34. Rd2 Na4 35. e6 Nxc5 36. bxc5 Qxc5+ 37. Kxg2 Kc8
+38. Qg4 Qe7 39. Ra2 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Akopian,Vl"]
+[Black "Leko,P"]
+[Result "0-1"]
+[WhiteElo "2696"]
+[BlackElo "2751"]
+[EventDate "2009.04.15"]
+[ECO "D47"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. a3 Bd6 10. O-O O-O 11. Qc2 Qe7 12. Ng5 h6 13. Nge4 Nxe4 14. Nxe4
+c5 15. Nxd6 Qxd6 16. Bxb5 cxd4 17. Rd1 Qd5 18. Bf1 Rac8 19. Qe2 Nc5 20.
+Rxd4 Qf5 21. Rf4 Qe5 22. Bd2 Qxb2 23. Rd1 Ba6 24. Qe1 Bxf1 25. Qxf1 Rfd8
+26. Rb4 Qc2 27. Rc4 Qa2 28. Rdc1 Rxd2 29. Rxc5 Rxc5 30. Rxc5 Qxa3 31. Rc8+
+Kh7 32. Qb1+ f5 33. g3 Rb2 34. Qd1 Qb4 35. h4 a5 36. Qf3 a4 37. Kg2 a3 38.
+Qa8 Qe4+ 39. Qxe4 fxe4 40. Ra8 a2 41. h5 g5 42. hxg6+ Kxg6 43. g4 e5 44.
+Kg3 Re2 45. Ra5 Kf6 46. Ra6+ Kf7 47. Ra5 Ke6 48. Kh4 Rxf2 49. Kh5 Rg2 50.
+Kxh6 Rxg4 51. Rxa2 Rg3 52. Kh5 Kf5 53. Kh4 Rxe3 54. Ra8 Rf3 55. Rf8+ Ke6
+56. Re8+ Kd5 57. Rd8+ Kc4 58. Kg4 Rf1 59. Rc8+ Kd3 60. Rd8+ Ke2 61. Ra8
+Rg1+ 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Mamedyarov,S"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2720"]
+[EventDate "2009.04.15"]
+[ECO "D70"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 Nc6 8.
+d5 Ne5 9. Bd4 O-O 10. f4 Ng4 11. Bxg7 Kxg7 12. Qd4+ Nf6 13. O-O-O c6 14. h3
+Qc7 15. Qe5 Qxe5 16. fxe5 Nfd7 17. Nf3 a5 18. Be2 Nc5 19. g4 Bd7 20. Kd2
+cxd5 21. exd5 e6 22. Ke3 exd5 23. Nxd5 Nca4 24. Nxb6 Nxb6 25. Rd6 Bc6 26.
+Rc1 Nd5+ 27. Kd2 Nf4 28. Nd4 Rfe8 29. Nxc6 bxc6 30. Rc5 Reb8 31. b3 Nxe2
+32. Kxe2 a4 33. Rc3 axb3 34. axb3 Rb5 35. e6 Re8 36. Rdxc6 Rxe6+ 37. Rxe6
+fxe6 38. Kd3 Kf6 39. Kc4 Rb8 40. b4 e5 41. b5 e4 42. Kd4 Rxb5 43. Kxe4
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.18"]
+[Round "4"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2748"]
+[EventDate "2009.04.15"]
+[ECO "A30"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d5 8.
+cxd5 Nxd5 9. Nxd5 Qxd5 10. d4 cxd4 11. Qxd4 O-O 12. Bg5 Bxg5 13. Qxd5 Bxd5
+14. Nxg5 Bxg2 15. Kxg2 Na6 16. Rac1 Rfd8 17. Rc4 Rd2 18. Rec1 g6 19. R1c2
+Rxc2 20. Rxc2 Rd8 21. Rc4 Rd7 22. a3 Kg7 23. Nf3 Rc7 24. Rd4 Nc5 25. g4 h6
+26. h4 Nd7 27. g5 hxg5 28. hxg5 Kf8 29. Nd2 Ke7 30. Rc4 Rxc4 31. Nxc4 e5
+32. Kf3 Ke6 33. e4 Nc5 34. Ke3 Nb3 35. Nd2 Nxd2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.18"]
+[Round "4"]
+[White "Mamedyarov,S"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2696"]
+[EventDate "2009.04.15"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Rd1 O-O 10. Nc3 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 Ne8 14. e4
+Bc6 15. Qc2 Qb7 16. g4 Nd7 17. g5 Nf8 18. Bg3 f5 19. gxf6 Bxf6 20. Bxd6
+Bxc3 21. Qxc3 Rxd6 22. Rxd6 Nxd6 23. Rxd6 Bxe4 24. Qe3 a5 25. Rd2 a4 26.
+Ne1 Bxg2 27. Nxg2 Qb4 28. Qe2 Ra7 29. a3 Qb6 30. Qe4 h6 31. Nf4 Rf7 32. Ng6
+Nxg6 33. Qxg6 Rf6 34. Qe4 Qb8 35. Kg2 Qf4 36. Rd8+ Kf7 37. Rd7+ Kg8 38.
+Rd8+ Kf7 39. Rd7+ 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.18"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2721"]
+[EventDate "2009.04.15"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Bd2 Nhf6 8.
+Qc2 g6 9. g3 e5 10. dxe5 Ng4 11. e6 Nxc5 12. exf7+ Kxf7 13. e4 Bg7 14. Nxd5
+Nxe4 15. Nf4 Nxd2 16. O-O-O Bf5 17. Bc4+ Kf8 18. Bd3 Bxd3 19. Qxd2 Bh6 20.
+Rhe1 Qd6 21. Qxd3 Qxd3 22. Rxd3 Rg8 23. Rd7 Rg7 24. Rxg7 Kxg7 25. Re7+ Kg8
+26. Rxb7 Rf8 27. h4 Bxf4+ 28. gxf4 Rxf4 29. Ng5 Rxf2 30. Rxh7 Ne5 31. Rb7
+Rh2 32. a3 a5 33. b4 axb4 34. axb4 Rxh4 35. b5 cxb5 36. Rxb5 Nf7 37. Rb8+
+Kg7 38. Rb7 Rh1+ 39. Kd2 Rf1 40. Ke2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.18"]
+[Round "4"]
+[White "Kasimdzhanov,R"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2716"]
+[EventDate "2009.04.15"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Bd6 7. Nbd2 c5
+8. Nc4 Qe7 9. b3 O-O 10. Bb2 Nd7 11. O-O b6 12. Nh2 Bb7 13. Ng4 Qe6 14. Qd2
+f6 15. Rae1 Rae8 16. Nge3 Rf7 17. Nf5 Bf8 18. f4 b5 19. Nce3 g6 20. fxe5
+Nxe5 21. Nh4 Bd6 22. Nf3 h5 23. c4 c6 24. g4 Bc8 25. Bxe5 Bxe5 26. Qg2 Kh8
+27. cxb5 cxb5 28. Nd5 hxg4 29. hxg4 Qxg4 30. Qxg4 Bxg4 31. Nxe5 Rxe5 32.
+Rxf6 Be6 33. Rxf7 Bxf7 34. Rc1 c4 35. bxc4 bxc4 36. Rxc4 Bxd5 37. Rc5 Kg7
+38. Kf2 Kf6 39. exd5 Ke7 40. Ra5 Kd6 41. Rxa7 Rxd5 42. Ra6+ Kc7 43. Ke3 g5
+44. Ra4 Rd8 45. Rc4+ Kb6 46. a4 Rf8 47. Rb4+ Kc6 48. Rc4+ Kb6 49. Rb4+ Kc6
+50. Re4 Rf5 51. Kd4 Rd5+ 52. Kc3 Rf5 53. Rg4 Rd5 54. Kd2 Re5 55. Re4 Ra5
+56. Ke3 Rf5 57. Rc4+ Kd6 58. Rb4 Kc6 59. Rc4+ Kd6 60. Rb4 Kc6 61. Re4 Kd6
+62. Kd4 Kc6 63. Re6+ Kd7 64. Re5 Rf4+ 65. Re4 Rf5 66. Kc4 Kc6 67. d4 Ra5
+68. Kb4 Rd5 69. a5 Kb7 70. Re7+ Kb8 71. Re4 Kb7 72. a6+ Kxa6 73. Kc4 Ra5
+74. Re5 g4 75. Rxa5+ Kxa5 76. Kd3 Kb5 77. Ke4 g3 78. Kf3 Kc4 79. Kxg3 Kxd4
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.18"]
+[Round "4"]
+[White "Eljanov,P"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2746"]
+[EventDate "2009.04.15"]
+[ECO "D17"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 dxc4 5. a4 Bf5 6. Nh4 Bc8 7. e3 e5 8.
+Bxc4 exd4 9. exd4 Be7 10. O-O O-O 11. Re1 Na6 12. Nf3 Nb4 13. Bg5 Bg4 14.
+Qb3 Bxf3 15. gxf3 a5 16. Rad1 Qc7 17. Re5 Rad8 18. Rde1 Rd7 19. Bh4 Bd8 20.
+Bg3 Rxd4 21. R5e4 Nxe4 22. Bxc7 Nd2 23. Bxf7+ Kh8 24. Qd1 Bxc7 25. Nb1 Bf4
+26. Re8 Rxe8 27. Bxe8 Nd5 28. Bf7 Nf6 29. Nxd2 Bxd2 30. Qe2 Bb4 31. Qe5 Rd6
+32. Kg2 b5 33. axb5 cxb5 34. Qxb5 Rd8 35. Qb6 Rf8 36. Qc7 Ne8 37. Qd7 Nf6
+38. Qb7 Bd6 39. Qc6 Bb4 40. Qc7 Ne8 41. Qd7 Nf6 42. Qa7 Rd8 43. h4 Rf8 44.
+h5 h6 45. Kg3 Bd6+ 46. Kh3 Bb4 47. Kg2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.18"]
+[Round "4"]
+[White "Gelfand,B"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2728"]
+[EventDate "2009.04.15"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Bf4 Qb6 11. Rfd1 Rd8 12. Rd2 d6 13. Rad1 a6 14. g4
+Nxg4 15. Bxd6 Rxd6 16. Qe8+ Bf8 17. Ng5 Ne5 18. Bxb7 Rxd2 19. Rxd2 Qxb7 20.
+Rd8 Ng6 21. Na4 Qe7 22. Qxe7 Nxe7 23. Nxh7 Kxh7 24. Rxf8 Nec6 25. Rxf7 Kg8
+26. Rc7 Ra7 27. Rxa7 Nxa7 28. Nxc5 Kf7 29. b4 Ke7 30. a4 Kd6 31. Kg2 Nac6
+32. Nd3 Nd7 33. b5 axb5 34. cxb5 Na5 35. Kf3 Nb6 36. Nb2 Ke5 37. Ke3 Nb3
+38. h4 Kf5 39. Kd3 Nc5+ 40. Kc3 Ncxa4+ 41. Nxa4 Nxa4+ 42. Kb4 Nb6 43. Kc5
+Na4+ 44. Kb4 Nb6 45. Kc5 Na4+ 46. Kc6 Kg4 47. Kd6 Kxh4 48. Kxe6 Nc3 49. b6
+Na4 50. b7 Nc5+ 51. Kf7 Nxb7 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.18"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2726"]
+[EventDate "2009.04.15"]
+[ECO "C91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 Qc8 12. h3 Bd7 13. Nbd2 c6 14. dxc6
+Qxc6 15. Nf1 Nc4 16. Ng3 Rfe8 17. a4 h6 18. b3 Na5 19. Bd2 Qc7 20. axb5
+axb5 21. Nh4 Nc6 22. Nhf5 Rxa1 23. Qxa1 Bf8 24. Bd3 Nd8 25. c4 Ne6 26. cxb5
+Nc5 27. Bc4 Bxf5 28. Nxf5 Ncxe4 29. Bb4 Qb6 30. Ne3 d5 31. Ba5 Qc5 32. b4
+Qa7 33. b6 Qb7 34. Bb5 Re6 35. Rc1 Rxb6 36. Bxb6 Qxb6 37. Qa5 Qb8 38. Bd3
+Qxb4 39. Qxb4 Bxb4 40. Rc8+ Bf8 41. Nxd5 Nxd5 42. Bxe4 Ne7 43. Rc5 f6 44.
+Bc2 g6 45. Kf1 h5 46. Rc7 f5 47. Ke2 Kf7 48. Rb7 Bh6 49. Bb3+ Kf8 50. Kd3
+h4 51. f3 Bf4 52. Kc4 e4 53. fxe4 fxe4 54. Kc3 Be5+ 55. Kd2 Bf4+ 56. Ke2
+Nf5 57. Bd5 Ng3+ 58. Kd1 g5 59. Rb6 Ke7 60. Rb4 e3 61. Bf3 Kd6 62. Rb5 Ke6
+63. Ra5 Kf6 64. Bg4 Ne4 65. Ke2 Nd6 66. Kd3 Ke7 67. Kd4 Kf6 68. Kd5 Ke7 69.
+Ra7+ Kf6 70. Ra6 Ke7 71. Ra7+ Kf6 72. Bh5 Be5 73. Ra6 Kf5 74. Bg4+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.19"]
+[Round "5"]
+[White "Grischuk,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2751"]
+[EventDate "2009.04.15"]
+[ECO "D43"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 Bb7 10. h4 g4 11. Nxg4 Nxg4 12. Qxg4 Qxd4 13. Rd1 Qf6 14. e5
+Qf5 15. Qd4 Be7 16. a4 c5 17. Qd2 a6 18. axb5 axb5 19. Nxb5 Qe4+ 20. Be2
+Qxg2 21. Rh2 Qc6 22. Nd6+ Bxd6 23. exd6 Nd7 24. h5 Qb5 25. Qc3 Qa5 26. Qxa5
+Rxa5 27. Bxc4 Rg8 28. Rh4 Ba6 29. Rc1 Bxc4 30. Rhxc4 Rg5 31. b4 Rb5 32. Ra1
+Nb6 33. Rxc5 Rbxc5 34. bxc5 Rxc5 35. Ra7 Rxh5 36. Re7+ Kd8 37. Rxf7 e5 38.
+f4 exf4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.19"]
+[Round "5"]
+[White "Karjakin,Sergey"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2725"]
+[EventDate "2009.04.15"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Qd3 d5
+8. Qg3 Nf6 9. Be2 d4 10. e5 Nd7 11. Ne4 Qa5+ 12. c3 dxc3 13. Nxc3 Qxe5 14.
+Bf4 Qf6 15. O-O-O Be7 16. h4 Qg6 17. Qe3 e5 18. Bxe5 Nxe5 19. Qxe5 Qf6 20.
+Qxf6 Bxf6 21. Ne4 Be5 22. Nd6+ Ke7 23. Nxc8+ Rhxc8 24. Bc4 Re8 25. Kc2 Ra7
+26. f4 Bb8 27. Rd4 Kf8 28. Rhd1 a5 29. Rd7 Rxd7 30. Rxd7 Re7 31. Rd8+ Re8
+32. Rd7 Re7 33. Rd8+ Re8 34. Rd7 Re7 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.19"]
+[Round "5"]
+[White "Alekseev,Evgeny"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2754"]
+[EventDate "2009.04.15"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Qe2 Bd7 16. Qf1 Qf5 17. Be3 Rae8 18. Nd2 h5 19. Qg2 h4 20. Qf3 Nxe3
+21. Rxe3 Rxe3 22. fxe3 Qg6 23. Kg2 Bg4 24. Qf2 c5 25. Rc1 Bf5 26. e4 Bxe4+
+27. Nxe4 Qxe4+ 28. Qf3 Qxf3+ 29. Kxf3 hxg3 30. hxg3 Re8 31. Rd1 c4 32. Bc2
+Re6 33. Rd2 Kf8 34. g4 Rf6+ 35. Ke4 Re6+ 36. Kf3 Rf6+ 37. Ke4 Re6+ 38. Kf3
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.19"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Kasimdzhanov,R"]
+[Result "0-1"]
+[WhiteElo "2746"]
+[BlackElo "2695"]
+[EventDate "2009.04.15"]
+[ECO "D31"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. cxd5 exd5 5. Bf4 Nf6 6. e3 Bf5 7. Qb3 Nc6
+8. a3 Na5 9. Qa2 O-O 10. Nf3 c5 11. dxc5 Bxc5 12. Be5 Be6 13. Bd4 Bxd4 14.
+Nxd4 Nc6 15. Nxe6 fxe6 16. Be2 Qe7 17. O-O Rac8 18. Rac1 Kh8 19. Rfd1 Nd7
+20. Rd2 Nde5 21. Qb3 Qf7 22. Bf1 d4 23. Na2 Ng4 24. Rdc2 dxe3 25. fxe3 Na5
+0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.19"]
+[Round "5"]
+[White "Bacrot,E"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2693"]
+[EventDate "2009.04.15"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. N3h2
+Nc5 15. Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6 18. Bg5 Qc7 19. Bxf6 Nxf6 20. Ng4
+Nxg4 21. hxg4 a5 22. bxa5 Qb7 23. Ne3 Rxa5 24. Bb3 Bxe4 25. Nd5 Bxd5 26.
+Bxd5 Qc7 27. Rb1 Be7 28. Qd3 Qc5 29. Re3 g6 30. Rh3 Bf8 31. Rb4 Bg7 32. g5
+Re7 33. Rbh4 Ra4 34. Rxa4 bxa4 35. Rh4 Qa3 36. Qc2 Qc5 37. Qd3 Qa3 38. Qc2
+Qc5 39. Qd3 Qa3 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.19"]
+[Round "5"]
+[White "Svidler,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2733"]
+[EventDate "2009.04.15"]
+[ECO "D43"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. Rc1 O-O 12. Bb3 Qe7 13. Na4 e5 14. d5
+e4 15. Nd4 cxd5 16. Nc3 Nf6 17. Nxd5 Nxd5 18. Bxd5 Bh3 19. Bxe4 Qxe4 20.
+gxh3 Rad8 21. Rc4 Rfe8 22. Qg4 Qd5 23. b3 b5 24. Rc7 Re4 25. Qg2 Bxd4 26.
+exd4 Qxd4 27. Qf3 Rf4 28. Qc3 Qxc3 29. Rxc3 Rd5 30. Re3 Rd2 31. a3 Ra2 32.
+b4 h5 33. f3 Rf5 34. h4 Rf4 35. Rf2 Ra1+ 36. Rf1 Rxf1+ 37. Kxf1 Rxh4 38.
+Re8+ Kg7 39. Kg2 Rd4 40. Rb8 Rd5 41. Rb7 a6 42. Rb6 Rg5+ 43. Kf2 h4 44.
+Rxa6 h3 45. f4 Rg2+ 46. Kf3 Rxh2 47. Kg3 Rb2 48. Kxh3 Rb3+ 49. Kg2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.19"]
+[Round "5"]
+[White "Akopian,Vl"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2720"]
+[EventDate "2009.04.15"]
+[ECO "C07"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd6 7. O-O Nf6
+8. Nb3 Nc6 9. Nbxd4 Nxd4 10. Nxd4 Be7 11. b3 O-O 12. Bb2 Qf4 13. Qe2 Rd8
+14. Rad1 Bd7 15. Bd3 Bc5 16. Nf3 Bc6 17. Ne5 Be4 18. Rde1 Bf5 19. g3 Bxd3
+20. Nxd3 Qf5 21. Nxc5 Qxc5 22. c4 Ne8 23. Rd1 Qc6 24. Rd3 Rxd3 25. Qxd3 f6
+26. Rd1 Rc8 27. Qd7 Qxd7 28. Rxd7 Rc7 29. Rd8 Kf7 30. Ba3 e5 31. g4 g6 32.
+Kg2 h5 33. h3 a6 34. Bb4 b5 35. cxb5 axb5 36. Rb8 Rc2 37. Rb7+ Kg8 38. Rb8
+Kf7 39. Rb7+ Kg8 40. gxh5 gxh5 41. a4 bxa4 42. bxa4 Ra2 43. a5 Ra4 44. Kf3
+f5 45. Ke2 Nf6 46. Kd1 Nd5 47. Bd2 Ra2 48. Rb5 Nf4 49. Rxe5 Ra1+ 50. Kc2
+Ra2+ 51. Kc3 Nxh3 52. Rxf5 Nxf2 53. Bc1 Re2 54. Rxh5 Kf7 55. Kb3 Nd3 56.
+Ba3 Ne5 57. Rh7+ Ke6 58. Re7+ Kd5 59. a6 Rg2 60. Ka4 Nc4 61. a7 Rg8 62. Rb7
+Ra8 63. Rb5+ Kc6 64. Bc5 Kc7 65. Rb4 Rg8 66. Rxc4 Kb7 67. Ka5 Rc8 68. Rb4+
+Ka8 69. Rb5 Re8 70. Bd4 Rc8 71. Rd5 Kb7 72. Bb6 Rg8 73. Kb5 Re8 74. a8=Q+
+Kxa8 75. Kc6 Re6+ 76. Kc7 Re7+ 77. Kd6 Rh7 78. Kc6 Rh6+ 79. Kc7 Rh7+ 80.
+Kc8 Rh8+ 81. Bd8 Rh7 82. Ra5+ Ra7 83. Rb5 Rb7 84. Rh5 Rf7 85. Ra5+ Ra7 86.
+Rb5 Rb7 87. Re5 Rh7 88. Re1 Rb7 89. Ra1+ Ra7 90. Rb1 Rb7 91. Re1 Rh7 92.
+Re2 Rb7 93. Be7 Rb8+ 94. Kc7 Rb7+ 95. Kc6 Ra7 96. Bd8 Rh7 97. Bc7 Rh6+ 98.
+Bd6 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.21"]
+[Round "6"]
+[White "Mamedyarov,S"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2725"]
+[BlackElo "2748"]
+[EventDate "2009.04.15"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 e6 6. Nf3 c5 7. cxd5 exd5 8.
+Be2 Nc6 9. Ne5 Qc7 10. Nxc6 Qxc6 11. O-O Bd6 12. dxc5 Qxc5 13. Bd2 O-O 14.
+Rac1 d4 15. Ne4 Nxe4 16. Qxe4 Qe5 17. Qxe5 Bxe5 18. b3 dxe3 19. Bxe3 Be6
+20. Bf3 Rab8 21. Ba7 Ra8 22. Bc5 Rfb8 23. g3 a5 24. Rfe1 Bc7 25. Be3 Bd6
+26. Red1 Be5 27. Rc5 f6 28. Rb5 a4 29. Bxb7 axb3 30. axb3 Ra3 31. b4 Ra4
+32. Bc5 Kf7 33. h4 Ra2 34. Rb6 Rb2 35. Re1 Ba2 36. f4 Bc3 37. Re7+ Kg6 38.
+Be4+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.21"]
+[Round "6"]
+[White "Eljanov,P"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2693"]
+[BlackElo "2726"]
+[EventDate "2009.04.15"]
+[ECO "D91"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 c5
+8. e3 O-O 9. cxd5 cxd4 10. cxd4 Qxd5 11. Be2 Nc6 12. O-O Bf5 13. Qa4 Rac8
+14. Rac1 Qa5 15. Qxa5 Nxa5 16. Nd2 Nc6 17. g4 Be6 18. a3 Rfd8 19. Bf3 Bd5
+20. Bxd5 Rxd5 21. Ne4 Bxd4 22. Rcd1 Rcd8 23. exd4 Rxd4 24. Rxd4 Rxd4 25. f3
+f5 26. gxf5 gxf5 27. Be3 Rd3 28. Bh6 fxe4 29. fxe4 Rd8 30. Rf5 Nd4 31. Rg5+
+Kf7 32. Rg7+ Kf6 33. Kf2 Nc6 34. h4 Rd2+ 35. Kg3 Rd3+ 36. Kg2 Rxa3 37. Rxh7
+Kg6 38. Rh8 Ra4 39. Bf4 Rxe4 40. Kf3 Rc4 41. h5+ Kg7 42. Ra8 a5 43. Bd2 a4
+44. Ke2 b5 45. Ra6 Nd4+ 46. Kd1 Rc5 47. h6+ Kh7 48. Ra7 Nf5 49. Ra6 Rd5 50.
+Kc1 Rd6 51. Ra7 Rd3 52. Rb7 a3 53. Ra7 Rb3 54. Ra6 Nd4 55. Ra7 Nc6 56. Ra8
+b4 57. Ra6 Rh3 58. Rxc6 Rh1+ 59. Kc2 a2 60. Ra6 a1=Q 61. Rxa1 Rxa1 62. Bxb4
+Ra7 63. Bd2 Ra3 64. Kd1 Rh3 65. Ke2 Kg6 66. Bc1 Kf5 67. Kf2 e5 68. Be3 Kg4
+69. Ke2 Rh2+ 70. Kd3 Kf3 71. Bg5 Rh1 72. Kc4 e4 73. Kd4 Rg1 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.21"]
+[Round "6"]
+[White "Kasimdzhanov,R"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2728"]
+[EventDate "2009.04.15"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8.
+Nf3 cxd4 9. Nxd4 Nd7 10. Bf4 Qh4 11. g3 Qh3 12. O-O-O Nxc3 13. bxc3 Ba3+
+14. Kb1 Nb6 15. Bf1 Qh5 16. Be2 Qg6 17. Bd3 Qh5 18. Be2 Qg6 19. Bd3 Qh5 20.
+Be2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.21"]
+[Round "6"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2746"]
+[EventDate "2009.04.15"]
+[ECO "A31"]
+
+1. Nf3 c5 2. c4 Nf6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 e6 6. Bg5 Qc7 7. e3 b6 8.
+Bd3 Bb7 9. O-O Nc6 10. Rc1 Rc8 11. Be2 Be7 12. Nxc6 Bxc6 13. Nd5 exd5 14.
+Bxf6 Bxf6 15. cxd5 Bxb2 16. Rc2 Be5 17. dxc6 dxc6 18. Bxa6 Rd8 19. Qf3 c5
+20. Bb5+ Kf8 21. g3 g6 22. Rd1 Kg7 23. Rcd2 Rxd2 24. Rxd2 Rd8 25. Rxd8 Qxd8
+26. Kg2 h5 27. Qe4 Bc3 28. Qb7 Bf6 29. Bc4 Qe7 30. Qd5 h4 31. e4 hxg3 32.
+hxg3 Bd4 33. f4 f6 34. Kf3 Kh6 35. Qg8 g5 36. e5 fxe5 37. Bd3 e4+ 38. Bxe4
+Qg7 39. Qe6+ Qf6 40. Qd7 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.21"]
+[Round "6"]
+[White "Leko,P"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2716"]
+[EventDate "2009.04.15"]
+[ECO "E10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Bf4 Nbd7 9. Nc3 Nh5 10. Bc1 Nhf6 11. b3 b6 12. Nd2 Ba6 13. Bb2 b5 14. cxb5
+cxb5 15. a3 Nb6 16. Re1 Qd7 17. e4 Rfc8 18. e5 Ne8 19. Ne2 b4 20. Nf4 bxa3
+21. Bxa3 Bb5 22. Bf1 Bxf1 23. Nxf1 Bxa3 24. Rxa3 Qe7 25. Qa1 Qb4 26. Nd3
+Qb5 27. Nc5 a5 28. Ne3 Ra7 29. Rc1 h6 30. Rc2 Rca8 31. Rca2 Nc7 32. Kg2 Kh8
+33. h4 Kg8 34. Nc2 Kh8 35. Ne1 Kg8 36. Ned3 Kh8 37. Kg1 Kg8 38. Kh2 Kh8 39.
+Kg1 Kg8 40. Kg2 Kh8 41. h5 Kg8 42. g4 Kh8 43. f3 Kg8 44. Kg3 Kh8 45. Kf2
+Na6 46. Nxa6 Rxa6 47. Nc5 R6a7 48. Kg3 Nc8 49. b4 Qxb4 50. Rb3 Qc4 51. Ra4
+Qc2 52. Ra2 Qc4 53. Ra4 Qc2 54. Ra2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.21"]
+[Round "6"]
+[White "Akopian,Vl"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2721"]
+[EventDate "2009.04.15"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Bg7 10. h3 Nf6 11. Qf3 Qb6 12. O-O-O Nc6 13. Nxc6 Qxc6 14.
+Be2 Nd7 15. Nd5 Ne5 16. Qa3 b5 17. h4 Be6 18. hxg5 Rc8 19. Rd2 hxg5 20.
+Rxh8+ Bxh8 21. Qe3 Nc4 22. Bxc4 bxc4 23. c3 f6 24. Qa7 Bd7 25. f3 Bg7 26.
+Nb6 Rd8 27. Qxa6 Be6 28. Qa7 Kf7 29. Nd5 Bxd5 30. exd5 Qa8 31. Qc7 Rc8 32.
+Qd7 Rh8 33. Qe6+ Kf8 34. a3 Rh1+ 35. Rd1 Rxd1+ 36. Kxd1 Qa4+ 37. Kd2 Qb3
+38. Kc1 Qb6 39. Be1 Qg1 40. g4 Qf1 41. Qe4 Ke8 42. Kd2 Kd8 43. Qe2 Qh1 44.
+Kc2 f5 45. gxf5 Qh3 46. Qxc4 Qxf3 47. Qd3 Qg2+ 48. Kb3 g4 49. a4 Be5 50. a5
+Qg1 51. Qb5 Qxe1 52. a6 Qa1 53. Qb8+ Kd7 54. Qb5+ Kd8 55. Qb6+ Kc8 56. Qc6+
+Kd8 57. Qa8+ Kd7 58. Qc6+ Kd8 59. Qa8+ Kd7 60. Qb7+ Kd8 61. Qb8+ Kd7 62. a7
+Qd1+ 63. Kb4 Bxc3+ 64. Kxc3 Qc1+ 65. Kb3 Qd1+ 66. Kb4 Qe1+ 67. Kb5 Qf1+ 68.
+Kb6 Qg1+ 69. Ka6 Qa1+ 70. Kb7 Qc1 71. a8=N 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.21"]
+[Round "6"]
+[White "Kamsky,G"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2733"]
+[EventDate "2009.04.15"]
+[ECO "E04"]
+
+1. c4 e6 2. d4 Nf6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. O-O Nc6 7. Bg5 Be7 8.
+e3 Nd5 9. Bxe7 Qxe7 10. Qc1 Nb6 11. Nfd2 Qb4 12. a3 Qb5 13. Nc3 Qh5 14.
+Nce4 e5 15. Nxc4 Nxc4 16. Qxc4 exd4 17. Nd6+ cxd6 18. Bxc6+ Ke7 19. Bg2 Qc5
+20. Qd3 dxe3 21. Rae1 Be6 22. Rxe3 Kd7 23. Rd1 Rab8 24. b4 Qb6 25. Qc3 Rhg8
+26. Red3 Ke7 27. a4 Rbc8 28. Qd2 Rgd8 29. a5 Qc7 30. Qe3 Kf8 31. Qe4 g6 32.
+Qxb7 Qxb7 33. Bxb7 Rb8 34. Bxa6 Rxb4 35. Ra3 Bc4 36. Bxc4 Rxc4 37. a6 Rc7
+38. a7 Ra8 39. Rda1 d5 40. Kg2 d4 41. Kf3 Re7 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.22"]
+[Round "7"]
+[White "Bacrot,E"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2728"]
+[BlackElo "2754"]
+[EventDate "2009.04.15"]
+[ECO "C89"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Be3 Bg4 16. Qd3 Rae8 17. Nd2 Qh5 18. Qf1 Re7 19. a4 Rfe8 20. axb5
+axb5 21. Bxd5 Qxd5 22. Qg2 Qxg2+ 23. Kxg2 h5 24. Ra5 h4 25. Rea1 hxg3 26.
+hxg3 Be6 27. Ra8 Bd5+ 28. Kf1 Bxg3 29. Bg5 f6 30. Bxf6 Re1+ 31. Rxe1 Rxa8
+32. fxg3 gxf6 33. Ne4 Kf7 34. Nd6+ Kg6 35. Re8 Ra1+ 36. Re1 Ra8 37. Re8
+Ra1+ 38. Re1 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.22"]
+[Round "7"]
+[White "Gelfand,B"]
+[Black "Eljanov,P"]
+[Result "0-1"]
+[WhiteElo "2733"]
+[BlackElo "2693"]
+[EventDate "2009.04.15"]
+[ECO "A13"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. b3 c5 5. Bg2 Nc6 6. cxd5 exd5 7. O-O Bg4 8.
+h3 Bxf3 9. Bxf3 Bd6 10. Nc3 Be5 11. Ba3 Qa5 12. Bb2 O-O 13. Bg2 Rac8 14.
+Rc1 Qa6 15. a4 Rfe8 16. Ba3 Bxc3 17. dxc3 Na5 18. Re1 c4 19. bxc4 Nxc4 20.
+Ra1 Qe6 21. Bc1 b6 22. Qd4 Na5 23. Qd3 Ne4 24. Bb2 Nc4 25. Bc1 Ne5 26. Qa6
+h5 27. Be3 h4 28. g4 Rxc3 29. Bd4 Rc4 30. Bxe5 Qxe5 31. Qxa7 Nxf2 32. Kxf2
+Qg3+ 33. Kf1 Rf4+ 34. Bf3 Qxh3+ 35. Kg1 Qg3+ 36. Kh1 Rxf3 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.22"]
+[Round "7"]
+[White "Svidler,P"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2695"]
+[EventDate "2009.04.15"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nxd2 6. Bxd2 c5 7. Bg5
+Qa5+ 8. c3 Be6 9. Bd3 Nc6 10. O-O h6 11. Bh4 Qc7 12. Rc1 Be7 13. Bg3 Qd7
+14. b4 cxb4 15. cxb4 Nxb4 16. Nd4 Nxd3 17. Qxd3 O-O 18. f4 f5 19. Bf2 Rac8
+20. Rcd1 Rcd8 21. Rc1 Rc8 22. Rcd1 Rcd8 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.22"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2751"]
+[EventDate "2009.04.15"]
+[ECO "C77"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. Bxc6 dxc6 7. Bg5 Qd6
+8. Nbd2 Nd7 9. Nc4 Qe6 10. O-O O-O 11. h3 Re8 12. b3 Nf8 13. Be3 Bd6 14. a4
+a5 15. Qd2 Bb4 16. c3 Bd6 17. b4 axb4 18. cxb4 Qe7 19. b5 cxb5 20. axb5 Bd7
+21. Qb2 f6 22. b6 Be6 23. Rxa8 Rxa8 24. bxc7 Bxc7 25. Qxb7 Rd8 26. Rc1 Rd7
+27. Ne1 Ba5 28. Qb1 Bxe1 29. Rxe1 Qd8 30. Bb6 Qb8 31. Qc2 Ng6 32. Ra1 h6
+33. Be3 Kh7 34. Nb6 Rd8 35. Ra3 Qd6 36. Rc3 Bf7 37. Na4 Ra8 38. Rc7 Bb3 39.
+Rxg7+ Kxg7 40. Qxb3 Rb8 41. Qc4 Nf4 42. Nc5 Rc8 43. Kh2 Rc6 44. Qb5 Ne6 45.
+Nxe6+ Qxe6 46. f4 Rd6 47. Bc5 Qd7 48. Qb8 Rxd3 49. fxe5 fxe5 50. Qxe5+ Kh7
+51. Bb4 Qg7 52. Qf4 Qg5 53. Qb8 Qg8 54. Qf4 Qg5 55. Qb8 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.22"]
+[Round "7"]
+[White "Alekseev,Evgeny"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2725"]
+[EventDate "2009.04.15"]
+[ECO "B07"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. h3 c6 8.
+O-O b5 9. dxe5 dxe5 10. Qxd8 Rxd8 11. Be3 Nbd7 12. Nc1 a5 13. Rd1 Bf8 14.
+Nd3 Ba6 15. b3 Rac8 16. Rd2 c5 17. Rad1 Re8 18. Nb2 Nb6 19. a4 bxa4 20.
+Nbxa4 Nxa4 21. Nxa4 c4 22. Nb6 Rc6 23. Rd8 cxb3 24. cxb3 Rce6 25. f3 Kg7
+26. Bf1 Bxf1 27. Kxf1 Nh5 28. Kf2 Rxd8 29. Rxd8 Rc6 30. Rc8 Rxc8 31. Nxc8
+f5 32. Bb6 Nf6 33. exf5 gxf5 34. Bxa5 Nd5 35. Ke2 Bc5 36. Kd3 Bf2 37. Nd6
+Kf6 38. g4 Nf4+ 39. Kd2 e4 40. Bc3+ Ke6 41. Nxf5 exf3 42. Nd4+ Bxd4 43.
+Bxd4 Nxh3 44. Be3 Kd5 45. Kd3 Ke5 46. b4 Nf4+ 47. Kd2 Nd5 48. b5 Nf6 49. g5
+Ne4+ 50. Kd3 f2 51. Ke2 Nc3+ 52. Kxf2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.22"]
+[Round "7"]
+[White "Grischuk,A"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2748"]
+[BlackElo "2696"]
+[EventDate "2009.04.15"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7
+8. g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Bxe5 Nxe5 13. Qd4 f6 14.
+Ne3 Bg6 15. O-O-O Qb6 16. Ne4 Be7 17. Nd6+ Bxd6 18. Qxd6 Kf7 19. h4 gxh4
+20. gxh4 Rhd8 21. Qa3 h5 22. Bh3 a5 23. Rhg1 Qb4 24. Qxb4 axb4 25. f4 Ng4
+26. Rxd8 Rxd8 27. Nxg4 hxg4 28. Bxg4 Be4 29. e3 Rd5 30. Bd1 Rc5+ 31. Kd2
+Rd5+ 32. Ke1 Kf8 33. Bb3 Rh5 34. Rg8+ Ke7 35. Rg7+ Kd6 36. Rxb7 c5 37. Rb6+
+Kc7 38. Re6 f5 39. Re5 Kd6 40. Re6+ Kd7 41. Re5 Kd6 42. Re6+ Kd7 43. Re5
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.22"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2721"]
+[BlackElo "2720"]
+[EventDate "2009.04.15"]
+[ECO "C19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 cxd4
+8. Qxg7 Rg8 9. Qxh7 Qc7 10. Ne2 Nbc6 11. f4 dxc3 12. Qd3 d4 13. Ng3 Bd7 14.
+Be2 O-O-O 15. O-O Qb6 16. Ne4 Nd5 17. Nd6+ Kb8 18. Nxf7 Rdf8 19. Nd6 Nce7
+20. Bf3 Bc6 21. a4 Nb4 22. a5 Qc5 23. Qh7 d3+ 24. Kh1 d2 25. Bxd2 cxd2 26.
+Qxe7 Rxf4 27. Rab1 Rgf8 28. c4 a6 29. h3 Ka8 30. Qg7 Qe3 31. Kh2 d1=Q 32.
+Rbxd1 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.23"]
+[Round "8"]
+[White "Karjakin,Sergey"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2748"]
+[EventDate "2009.04.15"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Bg7 10. h3 Ne5 11. Nf5 Bxf5 12. exf5 Qa5 13. Qd5 Qb6 14.
+O-O-O Nbd7 15. h4 g4 16. Qd4 Rc8 17. Qxb6 Nxb6 18. Ne4 Ned7 19. Bf4 d5 20.
+Ng3 h5 21. b3 Be5 22. Bxe5 Nxe5 23. Be2 Ned7 24. Rhe1 Nf6 25. Kb2 Rc7 26.
+Rd4 Nbd7 27. c4 dxc4 28. Bxc4 Nb6 29. Be2 Rd7 30. Red1 Kd8 31. Rxd7+ Nbxd7
+32. Bc4 Rh7 33. Be6 Kc7 34. Bxd7 Nxd7 35. Rc1+ Kd8 36. Kc3 Rh6 37. Rd1 Kc7
+38. Rd4 b5 39. Kd2 Nf6 40. Ke3 Rh8 41. Kf4 Rg8 42. b4 Kc6 43. a3 Kc7 44.
+Ne4 Kc6 45. Ng3 Kc7 46. Rd1 Kc6 47. Rd3 Kc7 48. Ne2 Kb6 49. Nc3 Kc6 50. Rd4
+Kc7 51. a4 bxa4 52. Nxa4 Kc6 53. Nc3 Kc7 54. Rc4+ Kb6 55. g3 Kb7 56. b5
+axb5 57. Nxb5 Kb6 58. Nc3 Kb7 59. Rc5 Nd7 60. Ra5 f6 61. Nd5 Re8 62. Ke4 e5
+63. Ra2 Nc5+ 64. Ke3 Rf8 65. Rd2 Kc6 66. Ne7+ Kc7 67. f3 gxf3 68. Kxf3 Rf7
+69. Nd5+ Kc6 70. Nb4+ Kc7 71. Rd5 Nb7 72. Na6+ Kb6 73. Nb4 Kc7 74. Na6+ Kb6
+75. Nb4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.23"]
+[Round "8"]
+[White "Akopian,Vl"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2716"]
+[EventDate "2009.04.15"]
+[ECO "D38"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Qa4 c5
+8. dxc5 Bxc3+ 9. bxc3 O-O 10. Qb4 h6 11. Bh4 Re8 12. e3 Re4 13. Qa3 Qe7 14.
+Bb5 Nxc5 15. O-O g5 16. Bg3 Bd7 17. Bxd7 Nfxd7 18. Nd4 Qf6 19. c4 dxc4 20.
+Rac1 h5 21. f3 Ree8 22. Rxc4 h4 23. Bf2 b6 24. e4 Ne5 25. Rc3 Rad8 26. Nf5
+Ned3 27. Be3 Rd7 28. Rc2 Kh7 29. Rd2 Red8 30. Rfd1 a5 31. h3 Kg6 32. Bxc5
+Nxc5 33. Rxd7 Rxd7 34. Rxd7 Nxd7 35. Qc1 Nc5 36. Qd1 Qe5 37. Qb1 Nd7 38. a4
+Qc5+ 39. Kh2 Qc7+ 40. Kh1 Qe5 41. Ne3 Kg7 42. Qc1 Qc5 43. Qd2 Nf6 44. Nf5+
+Kg6 45. Qd8 Qc1+ 46. Kh2 Qf4+ 47. Kg1 Qc1+ 48. Kh2 Qf4+ 49. Kh1 Qc1+ 50.
+Kh2 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.23"]
+[Round "8"]
+[White "Mamedyarov,S"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2746"]
+[EventDate "2009.04.15"]
+[ECO "D79"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. O-O O-O 8.
+Nc3 Ne4 9. Ne5 Bf5 10. Qb3 Nc6 11. Rd1 Na5 12. Qxd5 Nxc3 13. bxc3 Qxd5 14.
+Bxd5 Rad8 15. Bf3 Bxe5 16. e4 Bxe4 17. Bxe4 Bd6 18. c4 Nxc4 19. Bxb7 Rb8
+20. Ba6 Nb2 21. Rd2 Na4 22. Rc2 Rb4 23. Be3 Nb6 24. Rac1 h5 25. Bb7 Nc4 26.
+Rxc4 Rxb7 27. d5 a5 28. Bc5 Rc8 29. Bxd6 Rxc4 30. Rxc4 exd6 31. Rc6 Rb2 32.
+Rxd6 Rxa2 33. Rd8+ Kg7 34. d6 Kf6 35. Re8 Rd2 36. Ra8 Rxd6 37. Rxa5 Kg7
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.23"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2728"]
+[EventDate "2009.04.15"]
+[ECO "E15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 a6 14. Ng5
+Bxg2 15. Kxg2 e5 16. Be3 Qb7+ 17. Kg1 h6 18. Nf3 Nc6 19. Nd5 Nxd5 20. Rxd5
+Nb4 21. R5d2 Nc6 22. Rd5 Nb4 23. R5d2 Nc6 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.23"]
+[Round "8"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2754"]
+[BlackElo "2726"]
+[EventDate "2009.04.15"]
+[ECO "D11"]
+
+1. Nf3 Nf6 2. c4 c6 3. d4 d5 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Bd2 Nbd7 8. h3
+Bxf3 9. Qxf3 b4 10. Na4 e5 11. Qd1 exd4 12. exd4 Ne4 13. g3 Bd6 14. Bg2
+Ndf6 15. O-O a5 16. cxd5 cxd5 17. Nc5 O-O 18. Rc1 Re8 19. Re1 Qb6 20. Qc2
+Nxd2 21. Rxe8+ Rxe8 22. Qxd2 Rc8 23. Nd3 Rxc1+ 24. Nxc1 Ne4 25. Qd3 Nc3 26.
+a4 g6 27. Kf1 Be7 28. Ne2 Nxe2 29. Qxe2 Kf8 30. Bxd5 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.23"]
+[Round "8"]
+[White "Kasimdzhanov,R"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2695"]
+[BlackElo "2733"]
+[EventDate "2009.04.15"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Ne5 Nbd7 10. Nxc6 Qb6 11. d5 Bb7 12. a4 a6 13. Be2 Bg7 14. dxe6
+Bxc6 15. exd7+ Nxd7 16. axb5 axb5 17. Rxa8+ Bxa8 18. O-O Ne5 19. Nd5 Qc5
+20. Kh1 O-O 21. f4 gxf4 22. Bxf4 f5 23. b4 Qd6 24. Bf3 fxe4 25. Bxe4 Rd8
+26. Rf2 c3 27. Rf3 Bxd5 28. Rd3 Nxd3 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.23"]
+[Round "8"]
+[White "Kamsky,G"]
+[Black "Eljanov,P"]
+[Result "0-1"]
+[WhiteElo "2720"]
+[BlackElo "2693"]
+[EventDate "2009.04.15"]
+[ECO "C91"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d4 Bg4 10. d5 Na5 11. Bc2 c6 12. h3 Bc8 13. dxc6 Qc7 14. Nbd2
+Qxc6 15. Nf1 Nc4 16. Ng3 Re8 17. a4 Bb7 18. Qe2 Bf8 19. Bg5 Nd7 20. b3 Ncb6
+21. a5 Nc8 22. c4 bxc4 23. Rec1 Na7 24. Be3 Qc8 25. bxc4 Nc5 26. Rcb1 Qc7
+27. Nf5 Nc6 28. Qd2 Rad8 29. Qc3 Ba8 30. Rb6 Rb8 31. Bxc5 dxc5 32. Ba4 Rxb6
+33. axb6 Qxb6 34. Nxe5 Nd4 35. Nxd4 Rxe5 36. Nf5 Rxe4 37. Bc2 Re8 38. Qg3
+g6 39. Ne3 Bd6 40. Qh4 Be5 41. Rb1 Qd6 42. Ba4 Rb8 43. Rd1 Bd4 44. Qg4 h5
+45. Qg5 Qe6 46. Nd5 Bxd5 47. cxd5 Qe2 48. d6 Qxf2+ 49. Kh1 Qa2 50. d7 Qxa4
+51. d8=Q+ Rxd8 52. Qxd8+ Kg7 53. Rb1 Qa2 54. Qb6 a5 55. Qb3 Qxb3 56. Rxb3
+c4 57. Ra3 c3 58. Ra4 c2 59. Rc4 a4 60. Rxc2 a3 61. Ra2 Bb2 62. Kg1 h4 63.
+Kf2 Kf6 64. Kf3 Kf5 65. Ke3 Ke5 66. Kf3 f5 67. Ke3 g5 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.24"]
+[Round "9"]
+[White "Grischuk,A"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2748"]
+[BlackElo "2720"]
+[EventDate "2009.04.15"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. a4 c5 16. d5 c4 17. Bg5 h6 18. Be3 Nc5 19. Qd2 h5 20. Bxc5 dxc5 21.
+Bd1 Rb8 22. Qe3 Kh7 23. Nf1 Qc7 24. Ng5+ Kg8 25. Be2 Bc8 26. Ra2 Qb6 27.
+Nf3 Kh7 28. Ng5+ Kg8 29. axb5 axb5 30. Nd2 Bh6 31. Qg3 Nh7 32. Ndf3 Qf6 33.
+h4 Nf8 34. Ra7 Bd7 35. Rea1 Qd6 36. R7a6 Qe7 37. Ra7 Qd6 38. R7a6 Qe7 39.
+Nh2 Bc8 40. Ra7 Rb7 41. Ra8 Nd7 42. Nf1 Nb6 43. R8a5 Bd7 44. Ne3 Qf6 45.
+Ra7 Reb8 46. R1a6 Be8 47. Rxb7 Rxb7 48. Bxh5 gxh5 49. Nf5 Bg7 50. d6 Nd7
+51. Qf3 Bf8 52. Qxh5 Qg6 53. Qg4 f6 54. Ne7+ Bxe7 55. dxe7 Rb6 56. Rxb6
+Nxb6 57. Qe6+ Kg7 58. Nf3 Na4 59. h5 Qxh5 60. g4 Qh3 61. Nxe5 Nxb2 62. Qc8
+Qh8 63. Nd7 Nd3 64. Nf8 Qh4 65. Qxe8 Qxf2+ 66. Kh1 Qh4+ 67. Kg2 Qxg4+ 68.
+Kh2 Ne5 69. Kh1 Nf3 70. Ne6+ Qxe6 71. Qf8+ Kh7 72. Kg2 Nh4+ 73. Kf2 Ng6 74.
+e8=Q Nxf8 75. Qxf8 b4 76. Qxc5 b3 77. Qc7+ Kg6 78. Qg3+ Kh5 79. Kf3 Qd7 80.
+Qg8 Qd3+ 81. Kf4 Qd2+ 82. Kf3 Qxc3+ 83. Kf4 Qc1+ 84. Kf3 Qf1+ 85. Ke3 Kh4
+86. Kd4 Qd3+ 87. Kc5 Qxe4 88. Qh8+ Kg5 89. Qg7+ Qg6 90. Qb7 Qd3 91. Qg2+
+Kf5 92. Qf2+ Ke6 93. Qg2 f5 94. Qg7 f4 95. Qg8+ Kf5 96. Qc8+ Kg5 97. Qg8+
+Kh4 98. Qg2 f3 99. Qh2+ Kg4 100. Qg1+ Kf4 101. Qh2+ Ke3 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.24"]
+[Round "9"]
+[White "Eljanov,P"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2695"]
+[EventDate "2009.04.15"]
+[ECO "D37"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. a3 b6 7. cxd5 Nxd5 8.
+Nxd5 exd5 9. e3 c5 10. Bd3 c4 11. Bc2 Nc6 12. h4 b5 13. Ng5 h6 14. Qh5 Qe8
+15. Nf3 f5 16. g4 Qxh5 17. gxh5 Bf6 18. Rg1 Kh8 19. Kd2 Be6 20. Be5 a5 21.
+Bxf6 gxf6 22. Ne1 Ne7 23. Ng2 Rg8 24. Nf4 Bf7 25. Kc3 Rg4 26. Rh1 Rgg8 27.
+Rhg1 Rg4 28. Rh1 Rgg8 29. Kd2 b4 30. Rhb1 b3 31. Bd1 Nc8 32. Bf3 Nb6 33. a4
+Rg7 34. Ne2 Rag8 35. Nc3 Be6 36. Rh1 Kh7 37. Ne2 Rd8 38. Nf4 Bf7 39. Bg2
+Bxh5 40. Bh3 Bf7 41. Bxf5+ Kh8 42. Bh3 Rgg8 43. Ne2 Rg7 44. Nc3 Rdg8 45.
+Rhe1 f5 46. Rf1 Be6 47. Ke2 Nc8 48. Rh1 Ne7 49. Kd2 Bf7 50. Ne2 Bh5 51. Nf4
+Bf3 52. Rhf1 Ng6 53. Nxg6+ Rxg6 54. Bxf5 Rf6 55. Bh3 Be4 56. f3 Rxf3 57.
+Rxf3 Bxf3 58. Rf1 Be4 59. Rf4 Rg1 60. Bf1 Rh1 61. Bxc4 dxc4 62. Rxe4 Rh2+
+63. Kc1 Rh1+ 64. Kd2 Rh2+ 65. Kc1 Rh1+ 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.24"]
+[Round "9"]
+[White "Gelfand,B"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2733"]
+[BlackElo "2754"]
+[EventDate "2009.04.15"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4
+8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O
+a6 14. Rb1 Qc7 15. Qh5 Nc5 16. Rb4 Qe5 17. Qh4 Rd8 18. Nf3 Qxc3 19. e5 Rg8
+20. Qxh7 Ke7 21. Rf4 f5 22. Qh4+ Ke8 23. g3 Ne4 24. Rxe4 fxe4 25. Qxe4 Rd5
+26. Qf4 Qc2 27. Ng5 Qf5 28. Qxf5 exf5 29. Nh7 Rg6 30. Nf6+ Rxf6 31. exf6
+Rd6 32. Re1+ Kf8 33. Re5 Rxf6 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.24"]
+[Round "9"]
+[White "Svidler,P"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2751"]
+[EventDate "2009.04.15"]
+[ECO "C88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nxe5 Nd4 12. Nd2 c5 13. c3 Nxb3 14. Nxb3
+Re8 15. Qh5 Rf8 16. d4 c4 17. Nc5 Bxc5 18. dxc5 Qc7 19. Bd2 Rae8 20. Ng4
+Qc6 21. Ne5 Qc7 22. Nf3 Rxe1+ 23. Rxe1 Qxc5 24. Nd4 Kh8 25. Bf4 Qc8 26. Be5
+Qd7 27. Nf5 f6 28. Bg3 Bc6 29. Nd4 Re8 30. Rxe8+ Qxe8 31. Qxe8+ Bxe8 32.
+Ne6 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.24"]
+[Round "9"]
+[White "Bacrot,E"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2725"]
+[EventDate "2009.04.15"]
+[ECO "B46"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Qg4 g6 12. Na4 c5 13. c4 Qa5 14. Qd1
+dxc4 15. Be4 Rb8 16. Bh6 Rb4 17. Nc3 Rxb2 18. Qc1 Rb8 19. Bc6 Bb7 20. Ba4
+Kd8 21. Rd1 Bd5 22. Qc2 Rb4 23. Bd2 Ba8 24. Be1 Rxa4 25. Nxa4 Qb5 26. Rab1
+Qc6 27. f3 Ke8 28. Rxd7 Kxd7 29. Qd1+ Kc8 30. Nb6+ Kb7 31. Nd5+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.24"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2696"]
+[EventDate "2009.04.15"]
+[ECO "A29"]
+
+1. c4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. g3 Bb4 5. Bg2 O-O 6. O-O Bxc3 7. bxc3 Re8
+8. Ne1 d5 9. cxd5 Nxd5 10. Nc2 e4 11. Rb1 Na5 12. Nd4 b6 13. Qc2 c5 14. Nb3
+Nxb3 15. axb3 Bf5 16. f3 exf3 17. Qxf5 fxg2 18. Qxf7+ Kh8 19. Rf2 Qd6 20.
+c4 Nf6 21. Bb2 Rf8 22. Qb7 Qxd2 23. Bxf6 gxf6 24. Ra1 Rfe8 25. Qc6 Rf8 26.
+Kxg2 Qd4 27. Ra2 Rac8 28. Qb7 Rb8 29. Qf3 Rf7 30. e4 Re8 31. Rfe2 Rd7 32.
+Qf5 Kg7 33. h4 Qd6 34. Re3 Qe6 35. Qf4 a5 36. Rf2 Rd4 37. Kh2 Re7 38. Qf3
+Qe5 39. Qg4+ Kh8 40. Rf5 Rd2+ 41. Kh3 Qb2 42. Qf3 Rg7 43. Qh1 Qd4 44. Qf3
+Qb2 45. Qh1 Qd4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.24"]
+[Round "9"]
+[White "Alekseev,Evgeny"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2721"]
+[EventDate "2009.04.15"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 d5 8.
+exd5 Nxd5 9. Nde2 Bb4 10. Bg2 O-O 11. O-O Nxc3 12. Nxc3 Nc6 13. Qxd8 Rxd8
+14. Na4 e5 15. c3 Be7 16. Nb6 Rb8 17. Nxc8 Rbxc8 18. Be3 Kf8 19. Rfd1 Rd6
+20. Kf1 Na5 21. Rxd6 Bxd6 22. Rd1 Ke7 23. b3 Nc6 24. Be4 b5 25. b4 Nd8 26.
+Rc1 Ne6 27. Ke2 Rb8 28. Ra1 Nf4+ 29. Kd2 Nxh3 30. Rh1 Nf4 31. Rxh7 Kf6 32.
+Kc2 Bc7 33. Ba7 Rd8 34. Rh1 a5 35. Rb1 axb4 36. Rxb4 Kg5 37. f3 g6 38. Rxb5
+f5 39. gxf5 gxf5 40. Bb7 Ng2 41. Bf2 Bd6 42. a4 Kf4 43. a5 e4 44. fxe4 fxe4
+45. Bb6 Rg8 46. a6 e3 47. Kd3 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.26"]
+[Round "10"]
+[White "Aronian,L"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2693"]
+[EventDate "2009.04.15"]
+[ECO "D37"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. Nc3 Nbd7 5. Bf4 Bb4 6. cxd5 exd5 7. Qb3 c5
+8. dxc5 Qa5 9. a3 Bxc3+ 10. bxc3 Qxc5 11. Qb4 Ne4 12. Nd4 b6 13. f3 a5 14.
+Qxc5 Nexc5 15. Nf5 Ne6 16. Bg3 g6 17. Nd6+ Ke7 18. e3 Rd8 19. Rb1 Ba6 20.
+Kf2 f5 21. Nb5 Rdc8 22. Be2 Bxb5 23. Rxb5 Rxc3 24. Rxd5 Nf6 25. Rd2 Nc5 26.
+Rb1 Nfe4+ 27. fxe4 Nxe4+ 28. Ke1 Nxd2 29. Kxd2 Rxa3 30. Bh4+ Kf7 31. Bc4+
+Kg7 32. Rxb6 Ra4 33. Bf6+ Kh6 34. Rc6 Ra7 35. h4 Kh5 36. Ke1 Rb7 37. Kf2
+Rab4 38. Bg5 Rb2+ 39. Be2+ Rxe2+ 40. Kxe2 Kg4 41. Kf2 Rb2+ 42. Kg1 Kg3 43.
+Bf4+ Kxh4 44. Rc7 h5 45. Rc4 Rb4 46. Rd4 g5 47. Bd6+ Rxd4 48. exd4 Kg4 49.
+d5 f4 50. Bxf4 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.26"]
+[Round "10"]
+[White "Grischuk,A"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2716"]
+[EventDate "2009.04.15"]
+[ECO "E58"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 Qc7 10. h3 dxc4 11. Bxc4 b6 12. Bd3 Rd8 13. Bb2 Ne7 14. Re1
+Ng6 15. e4 Bb7 16. Nd2 Rd7 17. Bf1 Rad8 18. Qe2 Qc6 19. Qc4 Qc7 20. Qe2 Qc6
+21. Qc4 Qc7 22. Rac1 h5 23. Qe2 h4 24. e5 Nd5 25. Qg4 Nde7 26. Bd3 Nf5 27.
+Bxf5 exf5 28. Qxf5 Qc6 29. Ne4 Qe6 30. Qg5 Qe7 31. Qg4 Qe6 32. Qg5 Qe7 33.
+Qe3 Qe6 34. Nd6 Ba8 35. Qg5 Ne7 36. Qxh4 Nf5 37. Nxf5 Qxf5 38. e6 Qg6 39.
+exf7+ Rxf7 40. Qg4 Qxg4 41. hxg4 Rc8 42. dxc5 Rxc5 43. c4 Kh7 44. f3 Rfc7
+45. Re5 Bb7 46. Rxc5 Rxc5 47. Rd1 Bc8 48. Rd8 Rxc4 49. Re8 Rc7 50. Be5 Rc1+
+51. Kh2 Re1 52. Re7 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.26"]
+[Round "10"]
+[White "Karjakin,Sergey"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2721"]
+[BlackElo "2746"]
+[EventDate "2009.04.15"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 b5 10. Nd5 Be7 11. Bxf6 Bxf6 12. c3 O-O 13. Nc2 Bg5 14. a4
+bxa4 15. Rxa4 a5 16. Bc4 Rb8 17. b3 Kh8 18. Nce3 g6 19. h4 Bxh4 20. g3 Bg5
+21. f4 exf4 22. gxf4 Bh4+ 23. Kd2 Ne7 24. Qg1 Nxd5 25. Nxd5 Be6 26. Qh2 g5
+27. fxg5 Bxg5+ 28. Kc2 h6 29. Raa1 Rg8 30. Rag1 Rg6 31. Nf4 Bxf4 32. Qxf4
+Qf6 33. Rxg6 Qxf4 34. Rhxh6+ Qxh6 35. Rxh6+ Kg7 36. Rh5 Bxc4 37. bxc4 Re8
+38. Rxa5 Rxe4 39. Rd5 Rxc4 40. Rxd6 Kf8 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.26"]
+[Round "10"]
+[White "Akopian,Vl"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2696"]
+[BlackElo "2728"]
+[EventDate "2009.04.15"]
+[ECO "B35"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 Qa5
+8. O-O O-O 9. Bb3 d6 10. h3 Bd7 11. Re1 Rfc8 12. Qd2 Ne5 13. Bh6 Nc4 14.
+Bxc4 Bxh6 15. Qxh6 Rxc4 16. Nb3 Qb6 17. Rad1 a5 18. e5 dxe5 19. Rxe5 a4 20.
+Nd2 Rd4 21. Qe3 Qd6 22. Ne2 Rd5 23. Rxd5 Qxd5 24. Nc3 Qe6 25. Qxe6 Bxe6 26.
+a3 Nd5 27. Nde4 Nb6 28. Nc5 Bf5 29. Rd4 Rc8 30. N5xa4 Nxa4 31. Rxa4 Bxc2
+32. Rb4 Rc7 33. Kf1 Bd3+ 34. Ke1 e5 35. h4 Kg7 36. g3 h6 37. Rb6 g5 38.
+hxg5 hxg5 39. f3 Rd7 40. a4 Rc7 41. g4 Rd7 42. a5 Bc2 43. Kf2 f5 44. gxf5
+Bxf5 45. Kg3 g4 46. fxg4 Rd3+ 47. Kh4 Rd4 48. Rxb7+ Kf6 49. Rb4 Be6 50.
+Ne4+ Ke7 51. Rxd4 exd4 52. g5 Bd5 53. Nd2 Kd6 54. g6 Kc5 55. g7 d3 56. Kg3
+Kb5 57. b4 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.26"]
+[Round "10"]
+[White "Mamedyarov,S"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2725"]
+[BlackElo "2726"]
+[EventDate "2009.04.15"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. h3
+a6 9. c5 Bc7 10. Bd2 b5 11. cxb6 Nxb6 12. Bd3 Bd6 13. e4 Be7 14. O-O-O Bb7
+15. Kb1 Rc8 16. Rhg1 c5 17. dxc5 Bxc5 18. g5 dxe4 19. Nxe4 Nxe4 20. Bxe4
+Bxe4 21. Qxe4 Qd5 22. Qe2 hxg5 23. Nxg5 Rh4 24. Bc3 Qc4 25. Qf3 Rf4 26. Qb7
+Bxf2 27. Rgf1 Nd5 28. Be5 Rf5 29. Rc1 Qd3+ 30. Ka1 Rd8 31. Qc6+ Ke7 32.
+Rxf2 Rxg5 33. Qb7+ Rd7 34. Rxf7+ Kxf7 35. Qxd7+ Kg8 36. Bxg7 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.26"]
+[Round "10"]
+[White "Leko,P"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2733"]
+[EventDate "2009.04.15"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5
+14. Bb5+ c6 15. Nxd5 cxb5 16. Qb3 O-O 17. Be3 Bc5 18. Rad1 Bxe3 19. Rxe3
+Qa5 20. Qc2 Rfe8 21. f4 b4 22. f5 Nf8 23. Red3 Nd7 24. Qc7 Qc5+ 25. Kf1 Qb5
+26. Qg3 Ne5 27. f6 g6 28. Qg5 Kh8 29. Qh6 Rg8 30. Nc7 Qc4 31. b3 Qg4 32.
+Rd4 Qf5+ 33. Rf4 Ng4 34. Qg7+ Rxg7 35. fxg7+ Kxg7 36. Rxf5 gxf5 37. Nxa8
+Ne3+ 38. Ke2 Nxd1 39. Kxd1 Kf6 40. Kd2 Ke5 41. Nc7 f4 42. Kd3 a6 43. Na8
+1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.26"]
+[Round "10"]
+[White "Kamsky,G"]
+[Black "Kasimdzhanov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2695"]
+[EventDate "2009.04.15"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 d5 7. Ne3 c6
+8. d4 Bd6 9. Bd3 O-O 10. O-O Re8 11. c4 dxc4 12. Bxc4 Be6 13. Bb3 Nd7 14.
+Rb1 Qc7 15. h3 Nf6 16. Qf3 Qd7 17. Rd1 b5 18. c4 bxc4 19. Bxc4 Rad8 20. Bd2
+Bc7 21. Bb4 Bxc4 22. Nxc4 Qd5 23. Qxd5 Nxd5 24. Be1 Rb8 25. Kf1 f6 26. Rdc1
+Rxb1 27. Rxb1 Bb6 28. a4 Bxd4 29. Nd6 Rd8 30. Nf5 Bc5 31. Rc1 Bf8 32. Rxc6
+Rd7 33. Nd4 Nb6 34. a5 Rxd4 35. axb6 axb6 36. Rxb6 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.27"]
+[Round "11"]
+[White "Kasimdzhanov,R"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2754"]
+[EventDate "2009.04.15"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
+O-O dxc4 9. Bxc4 a6 10. Rd1 b5 11. Be2 Qc7 12. Ne4 Nxe4 13. Qxe4 e5 14. Qd3
+exd4 15. Qxd4 Be7 16. Qf4 Qxf4 17. exf4 Bf6 18. Nd4 Re8 19. Be3 c5 20. Nf5
+Bxb2 21. Rab1 Bd4 22. Bf3 Rb8 23. Nxd4 cxd4 24. Rxd4 Nb6 25. g4 Bb7 26.
+Bxb7 Rxb7 27. a4 Nd7 28. Rbd1 Nf8 29. a5 b4 30. Rd6 Rb5 31. Rxa6 h5 32.
+gxh5 b3 33. Rb1 Reb8 34. h6 gxh6 35. Kf1 Ne6 36. Ke2 Rd8 37. f5 Nd4+ 38.
+Bxd4 Rxd4 39. Rxh6 Kg7 40. Rc6 Re5+ 41. Kf1 Rxf5 42. Rxb3 Rxa5 43. Rg3+ Kf8
+44. Rc8+ Ke7 45. Rc7+ Kf8 46. Kg2 Rf5 47. Rc2 Rd6 48. Re2 Rg6 49. Re4 Rgf6
+50. f3 Ra6 51. Re2 Ra3 52. Rb2 Rf4 53. Rf2 Rf6 54. Rg4 Rg6 55. h4 Ra5 56.
+Kg3 Ra3 57. Rb2 Rxg4+ 58. Kxg4 Kg7 59. Rb6 Ra4+ 60. f4 Ra1 61. h5 Rg1+ 62.
+Kf5 Rh1 63. h6+ Rxh6 64. Rxh6 Kxh6 65. Kf6 Kh5 66. Kxf7 Kg4 67. f5 Kxf5
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.27"]
+[Round "11"]
+[White "Eljanov,P"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2693"]
+[BlackElo "2751"]
+[EventDate "2009.04.15"]
+[ECO "D47"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. a3 Bd6 10. O-O O-O 11. Qc2 Qe7 12. e4 e5 13. Ne2 a6 14. Nxe5
+Bxe5 15. dxe5 Nxe5 16. Ng3 Nxd3 17. Qxd3 c5 18. f3 c4 19. Qc2 Qc5+ 20. Kh1
+Nd7 21. Bd2 Qc7 22. Bb4 Nc5 23. Nf5 f6 24. Rad1 Rfd8 25. Bxc5 Qxc5 26. Qc3
+Qc7 27. g4 Rxd1 28. Rxd1 Rd8 29. Rxd8+ Qxd8 30. Kg2 Bc8 31. Ne3 Qd6 32. Qb4
+Qe5 33. Nd5 Be6 34. Ne7+ Kf7 35. Nc6 Qc7 36. Qc5 Ke8 37. e5 fxe5 38. h3 g5
+39. Kh1 Qd7 40. Nxe5 Qd2 41. Qc6+ Ke7 42. Qc5+ Ke8 43. Qc6+ Ke7 44. Qc5+
+Ke8 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.27"]
+[Round "11"]
+[White "Gelfand,B"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2725"]
+[EventDate "2009.04.15"]
+[ECO "E10"]
+
+1. Nf3 Nf6 2. c4 e6 3. d4 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Bf4 Nbd7 9. Nc3 Nh5 10. Bc1 Nhf6 11. Bf4 Nh5 12. Bc1 Nhf6 13. b3 b6 14. Nd2
+Ba6 15. Bb2 b5 16. cxd5 cxd5 17. a3 Nb6 18. Nf3 Rc8 19. Ne5 Bd6 20. Nd3 Qd7
+21. Qd2 Bb7 22. Rfc1 a6 23. Na2 Qe7 24. Qa5 Bc7 25. Nc5 Nbd7 26. Qd2 Nxc5
+27. dxc5 Bb8 28. Bxf6 Qxf6 29. b4 Bc6 30. Nc3 Rfd8 31. e3 Be5 32. Rab1 Bxc3
+33. Rxc3 d4 34. exd4 Bxg2 35. Kxg2 Rxd4 36. Rd3 Rcd8 37. Rxd4 Qxd4 38. Qxd4
+Rxd4 39. Rc1 Kf8 40. Kf3 Ke7 41. Ke3 Rd8 42. a4 bxa4 43. Ra1 e5 44. Rxa4
+Rd4 45. f4 f6 46. Rxa6 Rxb4 47. Ra7+ Ke6 48. fxe5 Rb3+ 49. Ke4 f5+ 50. Kd4
+Rb4+ 51. Kc3 Rb5 52. Kc4 Rb2 53. c6 Kxe5 54. Rxg7 Rxh2 55. c7 Rc2+ 56. Kb3
+1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.27"]
+[Round "11"]
+[White "Svidler,P"]
+[Black "Akopian,Vl"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2696"]
+[EventDate "2009.04.15"]
+[ECO "C84"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8.
+a4 Bd7 9. c3 O-O 10. Bc2 d5 11. Nbd2 dxe4 12. dxe4 Bd6 13. b4 Ne7 14. Ba3
+a5 15. bxa5 Rxa5 16. Nb3 Rxa4 17. Bxd6 cxd6 18. Qxd6 Bc6 19. Qxe5 Ng6 20.
+Qf5 Ne7 21. Qe5 Ng6 22. Qf5 Ne7 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.27"]
+[Round "11"]
+[White "Bacrot,E"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2721"]
+[EventDate "2009.04.15"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Bg7 10. h3 Nf6 11. Qe2 Nc6 12. Nxc6 bxc6 13. e5 dxe5 14. Bxe5
+O-O 15. h4 g4 16. g3 Bf5 17. Bg2 Qd7 18. O-O Rfd8 19. Rfe1 e6 20. Na4 Qb7
+21. c4 Nd7 22. Bxg7 Kxg7 23. Rad1 Rab8 24. Qe3 Qc7 25. b3 a5 26. Nc5 Nxc5
+27. Qxc5 Rxd1 28. Rxd1 Rd8 29. Rxd8 Qxd8 30. Bxc6 Qd2 31. Qe5+ Kg8 32. c5
+Qxa2 33. Bg2 Qb1+ 34. Kh2 Qxb3 35. c6 a4 36. Qc5 a3 37. c7 e5 38. Bd5 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.27"]
+[Round "11"]
+[White "Ivanchuk,V"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2748"]
+[EventDate "2009.04.15"]
+[ECO "E97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 Nh5 10. c5 Nf4 11. Bxf4 exf4 12. Rc1 h6 13. Nd4 a6 14. h3 Kh8
+15. Qd2 Ng8 16. Rfd1 h5 17. Qxf4 Bh6 18. Qg3 h4 19. Qd3 Bxc1 20. Rxc1 Qg5
+21. Re1 Bd7 22. c6 bxc6 23. dxc6 Be6 24. Bg4 Bxg4 25. hxg4 Ne7 26. Qd1 Rab8
+27. a3 Kg7 28. Re3 Qf6 29. Nf3 Nxc6 30. Nd5 Qe6 31. Nxc7 Qxg4 32. Qxd6 Rbd8
+33. Qxc6 Rd1+ 34. Ne1 h3 35. Qc3+ f6 36. Rxh3 Rc8 37. e5 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.27"]
+[Round "11"]
+[White "Alekseev,Evgeny"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2720"]
+[EventDate "2009.04.15"]
+[ECO "B42"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 b6 8.
+Nc3 Bb7 9. f4 g6 10. Qe2 Bg7 11. f5 Qe7 12. Bg5 Nbd7 13. Rae1 O-O 14. Qd2
+Rae8 15. Nf3 exf5 16. exf5 Qd8 17. fxg6 hxg6 18. Bh6 Qc7 19. Bxg7 Kxg7 20.
+Qf2 Bxf3 21. Rxe8 Rxe8 22. Qxf3 Qc5+ 23. Qf2 Ng4 24. Qxc5 bxc5 25. Rd1 Ne3
+26. Re1 Re5 27. Re2 f5 28. h3 f4 29. Kf2 g5 30. Rd2 Nb6 31. b3 d5 32. cxd5
+Nbxd5 33. Ne4 a5 34. Kf3 Nb4 35. g3 Nf5 36. gxf4 Nd4+ 37. Kg4 gxf4 38. Kxf4
+Rf5+ 39. Kg4 Nd5 40. Rf2 Re5 41. Ng5 Re7 42. Ne4 Re5 43. Ng5 Re7 44. Ne4
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.28"]
+[Round "12"]
+[White "Kamsky,G"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2754"]
+[EventDate "2009.04.15"]
+[ECO "A07"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. Nfd2 h6 7. e4 Bh7 8.
+Nc3 Nbd7 9. Qe2 Nb6 10. a4 a5 11. f4 Bb4 12. f5 Qe7 13. Nb3 dxe4 14. Nxe4
+Bxf5 15. Nxf6+ gxf6 16. Rxf5 exf5 17. Qf2 Nd7 18. Bf4 Ne5 19. d4 Ng6 20. c3
+Nxf4 21. gxf4 O-O-O 22. cxb4 Qxb4 23. Qc2 Rhe8 24. Kf2 Re7 25. Rd1 Rde8 26.
+Rd2 Qxa4 27. Qxf5+ Kb8 28. Nc5 Qc4 29. Qc2 Qxc2 30. Rxc2 Rd8 31. Rd2 Kc7
+32. Ne4 Red7 33. Ke3 Re7 34. Kf2 Red7 35. Ke3 Re7 36. Kd3 Rd5 37. Nc3 Rd8
+38. Ne4 Rd5 39. Nc3 Rd8 40. Ne4 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.28"]
+[Round "12"]
+[White "Alekseev,Evgeny"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2716"]
+[BlackElo "2746"]
+[EventDate "2009.04.15"]
+[ECO "B66"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Bf4 Bd7 10. Nxc6 Bxc6 11. Qe1 Be7 12. f3 Qc7 13. Kb1 b5 14. Bd3
+b4 15. Ne2 e5 16. Bd2 a5 17. g4 d5 18. Ng3 dxe4 19. Nxe4 Nxe4 20. Bxe4 Bxe4
+21. Qxe4 O-O 22. Rhe1 Rac8 23. Bc1 Bf6 24. Rd5 Rfd8 25. Red1 Rxd5 26. Rxd5
+Rd8 27. Be3 Bg5 28. Bxg5 Rxd5 29. Qxd5 hxg5 30. a3 bxa3 31. bxa3 Qc3 32.
+Qd8+ Kh7 33. Qxg5 Qxf3 34. Qh4+ Kg8 35. Qd8+ Kh7 36. Qh4+ Kg8 37. Qd8+
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.28"]
+[Round "12"]
+[White "Grischuk,A"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2748"]
+[BlackElo "2728"]
+[EventDate "2009.04.15"]
+[ECO "A63"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Nbd7 10. h3 a6 11. a4 Rb8 12. Bf4 Ne8 13. Rc1 b6 14. e4 Ne5
+15. Re1 Bd7 16. Bf1 Nxf3+ 17. Qxf3 b5 18. axb5 axb5 19. b4 g5 20. Bd2 c4
+21. Qd1 f5 22. exf5 Bxf5 23. Be3 h6 24. Bd4 Bxd4 25. Qxd4 Qf6 26. Qxf6 Nxf6
+27. Ra1 Nd7 28. g4 Bd3 29. Re6 Ne5 30. Bg2 Nf3+ 31. Bxf3 Rxf3 32. Re3 Rxe3
+33. fxe3 Re8 34. Kf2 Rf8+ 35. Kg3 Re8 36. Kf3 Rf8+ 37. Kg2 Re8 38. Kf2 Rf8+
+39. Kg2 Re8 40. Kf3 Rf8+ 41. Kg3 Re8 42. Re1 Ra8 43. e4 Ra3 44. Nxb5 Rb3
+45. Kf2 Rxb4 46. Nxd6 c3 47. Ke3 c2 48. Kxd3 Rb1 49. Kxc2 Rxe1 50. Kd3 h5
+51. Kd4 Kf8 52. Nf5 Rh1 53. e5 Rxh3 54. e6 hxg4 55. d6 Rh1 56. d7 Rd1+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.28"]
+[Round "12"]
+[White "Karjakin,Sergey"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2721"]
+[BlackElo "2726"]
+[EventDate "2009.04.15"]
+[ECO "C92"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a3 h6 13. Bc2 Nb8 14. a4 Nbd7
+15. Bd3 c6 16. b3 g6 17. Ba3 Qc7 18. Qc2 Rad8 19. Rad1 Bg7 20. axb5 axb5
+21. dxe5 Nxe5 22. Nxe5 Rxe5 23. c4 bxc4 24. Nxc4 Ree8 25. Bb4 Qb8 26. Ba5
+Rd7 27. Bc3 Rde7 28. Qb2 Re6 29. Ne3 d5 30. exd5 cxd5 31. b4 Qd6 32. Bf1
+Nh5 33. Bxg7 Nxg7 34. b5 h5 35. Nc4 Qc7 36. Rxe6 Nxe6 37. b6 Qc5 38. Ne5 d4
+39. Qb5 Rc8 40. Qd7 Qxe5 41. Qxb7 Rb8 42. Qa7 Qd6 43. Rb1 Rd8 44. b7 Qb8
+45. Ra1 Qc7 46. Bc4 Qxc4 47. b8=Q Rxb8 48. Qxb8+ Kh7 49. Ra7 Ng7 50. Qc7
+Qxc7 51. Rxc7 Kg8 52. Rc8+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.28"]
+[Round "12"]
+[White "Akopian,Vl"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2696"]
+[BlackElo "2733"]
+[EventDate "2009.04.15"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Nxd4 11. cxd5 Bxf3 12. Qa4+ c6 13. Qxd4 Bxd5
+14. Nxd5 Qxd5 15. Qb4 O-O 16. Bxh7+ Kxh7 17. Rxe7 Rfe8 18. Be3 Rxe7 19.
+Qxe7 Rd8 20. h3 Rd7 21. Qb4 a6 22. Re1 Kg8 23. a3 Qf5 24. Qb3 Re7 25. Qd1
+Nd5 26. Bd4 Rxe1+ 27. Qxe1 Qd3 28. Qe5 f6 29. Qe8+ Kh7 30. Qh5+ Kg8 31.
+Qe8+ 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.28"]
+[Round "12"]
+[White "Mamedyarov,S"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2693"]
+[EventDate "2009.04.15"]
+[ECO "D37"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. a3 Be7 6. Bf4 dxc4 7. e4 a6 8.
+Bxc4 b5 9. Ba2 Bb7 10. e5 Nd5 11. Nxd5 Bxd5 12. Bxd5 exd5 13. O-O c6 14. e6
+fxe6 15. Qe2 O-O 16. Qxe6+ Kh8 17. Be5 c5 18. Rad1 c4 19. Qxd5 Nxe5 20.
+dxe5 Qxd5 21. Rxd5 Rfd8 22. Rfd1 Kg8 23. Kf1 Kf7 24. Ke2 Rxd5 25. Rxd5 Ke6
+26. Rd1 Bc5 27. Ng5+ Kf5 28. f4 h6 29. g4+ Kxg4 30. Ne6 Rc8 31. Rd5 c3 32.
+bxc3 Bxa3 33. Nxg7 Kxf4 34. Kd3 Be7 35. Ne6+ Kg4 36. Rd7 Ba3 37. Nc7 b4 38.
+cxb4 Bxb4 39. Nxa6 Bf8 40. Ke4 Kh3 41. Rd2 h5 42. Kf5 h4 43. e6 Be7 44. Kg6
+Rc6 45. Kf7 Bd6 46. Ra2 Rb6 47. Kg8 Rc6 48. Kf7 Rb6 49. Kg8 Rc6 50. Kf7
+1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.28"]
+[Round "12"]
+[White "Leko,P"]
+[Black "Kasimdzhanov,R"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2695"]
+[EventDate "2009.04.15"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Nc3 Nxc3 9. bxc3 Bg4 10. Re1 O-O 11. Bf4 Bd6 12. Bxd6 Bxf3 13. Qxf3 Qxd6
+14. Re3 Rae8 15. Rae1 Rxe3 16. Rxe3 g6 17. h4 Nb8 18. h5 Nd7 19. g4 Nf6 20.
+h6 Kh8 21. Re5 c6 22. c4 Ng8 23. Qe3 dxc4 24. Bxc4 g5 25. Rxg5 Nxh6 26. Qe4
+f6 27. Rh5 f5 28. gxf5 Nxf5 29. Be6 Qxd4 30. Rxh7+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.29"]
+[Round "13"]
+[White "Aronian,L"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2754"]
+[BlackElo "2751"]
+[EventDate "2009.04.15"]
+[ECO "E55"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 b6 10. Rd1 cxd4 11. exd4 Bxc3 12. bxc3 Bb7 13. Bb3 Qc7 14.
+c4 Rfe8 15. Bb2 Qf4 16. Qe3 Qf5 17. Ne1 b5 18. c5 Nd5 19. Qg3 Nf4 20. Rd2
+Nf6 21. f3 N6h5 22. Qf2 Bd5 23. Bc2 Qg5 24. Kh1 Bc4 25. g3 Ng6 26. Ng2 Bd5
+27. Ne3 Nf6 28. h4 Qh5 29. Nxd5 Nxd5 30. Re1 Red8 31. Rde2 Rab8 32. Bc1 h6
+33. Kg2 Nc3 34. Re5 Nxe5 35. Rxe5 f5 36. Bb3 Nd5 37. Rxe6 Kh8 38. Qe1 Nf6
+39. Qe5 Re8 40. c6 Rbc8 41. Qxb5 Qg6 42. h5 Qxh5 43. Bf4 a6 44. Qxa6 Nh7
+45. c7 Ng5 46. Rxe8+ Qxe8 47. d5 Ra8 48. Qc4 Kh7 49. d6 Qe1 50. Qf1 Qe8 51.
+Qd3 Qd7 52. Qc4 Qe8 53. Bxg5 hxg5 54. Qg8+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.29"]
+[Round "13"]
+[White "Bacrot,E"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2716"]
+[EventDate "2009.04.15"]
+[ECO "C43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nxd2 6. Qxd2 c5 7. c4 Be6
+8. Ng5 Nc6 9. Nxe6 fxe6 10. cxd5 Qxd5 11. Qxd5 exd5 12. Bb5 Kf7 13. f4 Nd4
+14. Ba4 b5 15. Bd1 c4 16. Be3 Bc5 17. Bxd4 Bxd4 18. Bf3 Rad8 19. Rd1 Bxb2
+20. Bxd5+ Ke7 21. Ke2 Rc8 22. Be4 c3 23. Bc2 Rc4 24. f5 Rb8 25. Rd5 a5 26.
+Rhd1 Rb7 27. Rd8 Ba3 28. Rh8 Rc5 29. f6+ Ke6 30. Re8+ Kf7 31. Rdd8 Rc4 32.
+Rh8 Rh4 33. fxg7 Kxg7 34. Rdg8+ Kh6 35. Rg6+ Kh5 36. Rg3 Kh6 37. Rg6+ Kh5
+38. Rg3 Kh6 39. Rxc3 Bb4 40. Rc6+ Kg7 41. Rcc8 a4 42. Rcg8+ Kh6 43. Rg6+
+Kh5 44. Rg3 Kh6 45. Rg6+ Kh5 46. Bf5 Rc4 47. Rg3 Kh6 48. Rg6+ Kh5 49. Rgg8
+Rcc7 50. Bg6+ Kh6 51. Be4 Rb6 52. g4 Bc3 53. g5+ Kh5 54. g6 Bxe5 55. Rxh7+
+Rxh7 56. gxh7 Rh6 57. Kf3 b4 58. Kg2 Kh4 59. Bf3 Bc3 60. Rg4+ Kh5 61. Kh3
+Rxh7 62. Rh4+ Kg6 63. Be4+ 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.29"]
+[Round "13"]
+[White "Svidler,P"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2726"]
+[BlackElo "2748"]
+[EventDate "2009.04.15"]
+[ECO "C19"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Bd3 Qa5 9. Ne2 cxd4 10. Bg5 Ng6 11. f4 Nd7 12. Bxg6 fxg6 13. Qxe6+ Rf7 14.
+Qe8+ Rf8 15. Qe6+ Rf7 16. O-O Nb6 17. Qe8+ Rf8 18. Qe7 dxc3 19. Bf6 Rf7 20.
+Qe8+ Rf8 21. Qe7 Rf7 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.29"]
+[Round "13"]
+[White "Gelfand,B"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2733"]
+[BlackElo "2721"]
+[EventDate "2009.04.15"]
+[ECO "D15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. c5 Nbd7 7. a3 a5 8. Qc2
+Qc7 9. e4 Nxe4 10. Nxe4 dxe4 11. Qxe4 Nf6 12. Qe5 Qxe5+ 13. Nxe5 Bb7 14. a4
+b4 15. Bf4 Nd7 16. Nc4 Ba6 17. Nb6 Ra7 18. Bxa6 Rxa6 19. Nc4 Ra7 20. O-O-O
+e6 21. Be5 Nf6 22. Bb8 Rb7 23. Bg3 Ra7 24. Bb8 Rb7 25. Be5 Ra7 26. f4 Nd5
+27. Rhe1 f6 28. Bd6 Kd7 29. g3 Bxd6 30. Nxd6 b3 31. Re2 Rb8 32. Rde1 Rb4
+33. Rxe6 Rxa4 34. Kb1 Ra8 35. Ne8 Rxd4 36. Rd6+ Kc8 37. Rxc6+ Kb7 38. Rce6
+Rd3 39. c6+ Ka7 40. c7 a4 41. Rc1 a3 42. bxa3 Nc3+ 43. Rxc3 Rxc3 44. Kb2
+Rxe8 45. Kxc3 1-0
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.29"]
+[Round "13"]
+[White "Eljanov,P"]
+[Black "Akopian,Vl"]
+[Result "0-1"]
+[WhiteElo "2693"]
+[BlackElo "2696"]
+[EventDate "2009.04.15"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8.
+g3 Bd6 9. O-O O-O 10. Nxg6 hxg6 11. b3 Qe7 12. Bf3 Rfe8 13. Bg2 a6 14. a3
+Rad8 15. Qc2 Bb8 16. Bd2 Ba7 17. c5 e5 18. b4 e4 19. a4 Nf8 20. b5 Ne6 21.
+Qd1 Ng5 22. bxc6 bxc6 23. h4 Ngh7 24. Bh3 g5 25. h5 g4 26. Bxg4 Nxg4 27.
+Qxg4 Ng5 28. Kg2 Nf3 29. Ra2 Rf8 30. Qf5 g6 31. Qg4 Kg7 32. Ne2 Rh8 33. Nf4
+Bb8 34. Ba5 Bxf4 35. Bxd8 Qxd8 36. Qxf4 Rxh5 37. g4 Rh2+ 38. Qxh2 Nxh2 39.
+Kxh2 Qh4+ 40. Kg2 Qxg4+ 41. Kh2 f5 42. Rg1 Qh5+ 43. Kg2 g5 44. Rb2 f4 45.
+exf4 gxf4 46. Rb8 Kf7 47. Rb3 f3+ 48. Kf1 Qh6 49. Re3 Qh8 0-1
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.29"]
+[Round "13"]
+[White "Kasimdzhanov,R"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2695"]
+[BlackElo "2725"]
+[EventDate "2009.04.15"]
+[ECO "D83"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c6 7. Nf3 Bg4 8.
+h3 Bxf3 9. Qxf3 Qa5 10. Bd3 Nbd7 11. O-O Rac8 12. Rfd1 a6 13. a3 Rfe8 14.
+Bh2 e6 15. Bf1 b5 16. cxd5 cxd5 17. g4 Nb6 18. g5 Nfd7 19. e4 Na4 20. exd5
+Qd8 21. h4 Nxb2 22. Ne4 Rxc1 23. Rxc1 exd5 24. Nd6 Rf8 25. Rc6 Nc4 26. Qxd5
+Ndb6 27. Qe4 Nd2 28. Qg4 Nxf1 29. Kxf1 Nc4 30. Rxa6 Qe7 31. Kg2 Rd8 32. Qe4
+Qxe4+ 33. Nxe4 Bxd4 34. Nd6 Nxd6 35. Bxd6 Bg7 36. Rb6 Bd4 37. Ra6 Bg7 38.
+Rb6 Bd4 39. Ra6 Bg7 1/2-1/2
+
+[Event "4th FIDE GP"]
+[Site "Nalchik RUS"]
+[Date "2009.04.29"]
+[Round "13"]
+[White "Ivanchuk,V"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2720"]
+[EventDate "2009.04.15"]
+[ECO "C95"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. a4 c5 13. Bc2 c4 14. b3 cxb3
+15. Bxb3 d5 16. Nxe5 Nxe5 17. dxe5 Nxe4 18. Nxe4 dxe4 19. axb5 axb5 20.
+Rxa8 Bxa8 21. Qg4 Kh8 22. Qh5 Bd5 23. Rd1 Bxb3 24. Rxd8 Rxd8 25. Bg5 Bxg5
+26. Qxg5 Rd1+ 27. Kh2 h6 28. Qe7 Bc4 29. Qb7 Re1 30. Qc8+ Kh7 31. Qf5+ Kg8
+32. Qc8+ Kh7 1/2-1/2
+

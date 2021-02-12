@@ -1,0 +1,756 @@
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.11"]
+[Round "1"]
+[White "Ivanchuk,V"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2744"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[WhiteFideId "14100010"]
+[BlackFideId "13400924"]
+[EventDate "2011.06.11"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 Na6 7.f4 c6 8.Qd2 Nc7
+9.Bf3 Ne6 10.Bh4 c5 11.dxc5 Nxc5 12.Rd1 Be6 13.b3 a5 14.Nge2 Qc7 15.O-O a4
+16.f5 gxf5 17.exf5 Bxf5 18.Bxf6 exf6 19.b4 Ne6 20.Nb5 Qb6+ 21.Kh1 Ng5 22.Bxb7 Qxb7
+23.Rxf5 Ne4 24.Qd3 Rfe8 25.Ned4 Rac8 26.Rf4 Bf8 27.Rdf1 Re5 28.a3 Kh8 29.Nf5 Rd8
+30.Nc3 Nxc3 31.Qxc3 Rde8 32.Rg4 Qc8 33.Qg3 h5 34.Rg8+ Kh7 35.Rxf8  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.11"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2815"]
+[BlackElo "2774"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "2016192"]
+[EventDate "2011.06.11"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.cxd5 exd5 5.Bf4 c6 6.Qc2 Bg4 7.e3 Bh5 8.Bd3 Bg6
+9.Bxg6 hxg6 10.O-O-O Nf6 11.f3 Nbd7 12.Nge2 b5 13.e4 b4 14.Na4 dxe4 15.fxe4 Qa5
+16.Kb1 O-O 17.h4 Rfe8 18.e5 Nd5 19.h5 g5 20.h6 g6 21.Bc1 N7b6 22.Nc5 Bxc5
+23.dxc5 b3 24.Qxb3 Qxc5 25.Nd4 Rxe5 26.Nf3 Re2 27.Nxg5 Qe7 28.Qd3 Rf8 29.Rdf1 f5
+30.g4 Na4 31.Qd4 Qe5 32.Qxe5 Rxe5 33.gxf5 gxf5 34.Nf3 Re7 35.Rfg1+ Kh7 36.Rg7+ Kh8
+37.Rhg1 Rfe8 38.Nh4 Rxg7  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.11"]
+[Round "1"]
+[White "Nisipeanu,LD"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2659"]
+[BlackElo "2776"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[WhiteFideId "1202758"]
+[BlackFideId "14109603"]
+[EventDate "2011.06.11"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 cxd4
+9.exd4 a6 10.a3 Bxc3 11.bxc3 Qc7 12.Bd3 Qxc3 13.Bf4 Nc6 14.Re1 h6 15.Bd6 Rd8
+16.Bc7 Rd7 17.Re3 Qb2 18.Re2 Qc3 19.Re3 Qb2 20.Re2 Qc3  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.12"]
+[Round "2"]
+[White "Radjabov,T"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2776"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "13400924"]
+[BlackFideId "14109603"]
+[EventDate "2011.06.11"]
+
+1.Nf3 Nf6 2.c4 c6 3.d4 d5 4.e3 Bf5 5.Nc3 e6 6.Nh4 Bg6 7.Be2 Nbd7 8.O-O Bd6
+9.g3 Qe7 10.b3 Ne4 11.Bb2 Nxc3 12.Bxc3 Bb4 13.Bxb4 Qxb4 14.c5 O-O 15.a3 Qa5
+16.Nxg6 hxg6 17.b4 Qc7 18.f4 a6 19.Bd3 f5 20.Qe2 Nf6 21.Kg2 Qe7 22.a4 Ne4
+23.h4 Ra7 24.Rh1 Nf6 25.Qb2 Rfa8 26.Be2 Qf8 27.Qc2 Kf7 28.Rab1 Qe7 29.Rb3 Rh8
+30.Bf3 Rha8 31.Qe2 Rh8 32.Rhb1 Ne4 33.Qe1 Nf6 34.R1b2 Rha8 35.Qb1 Qd8 36.Ra2 Ng8
+37.Qb2 Ne7 38.Be2 Qd7 39.Ra1 Ng8 40.Rba3 Ne7 41.Rh1 Ng8 42.Bd3 Nf6 43.Rha1 Ng8
+44.Kf3 Ne7 45.Ke2 Ng8 46.b5 axb5 47.axb5 Rxa3 48.Rxa3 Rxa3 49.Qxa3 cxb5 50.Qa5 Ne7
+51.Bxb5 Nc6 52.Qa4 Qc8 53.Kd3 Ke7 54.Kc3 Kd8 55.Kb3 Kc7 56.Kb2 Kb8 57.Kc3 Kc7
+58.Kd2 Kd8 59.Kd3 Ke7 60.Ke2 Kf7 61.Ke1 Ke7 62.Kf2 Kf7 63.Be2 Qd8 64.Bb5 Qc8
+65.Kf3 Ke7 66.Kg2 Kf7 67.Be2 Qd8 68.Qb5 Qc7 69.Bd3 Kf6 70.Kh3 Kf7 71.Qa4 Qc8
+72.Be2 Kf6 73.Kh2 Kf7 74.Kg1 Kf6 75.Kf1 Kf7 76.Ke1 Ke7 77.Kd2 Kd7 78.Qa1 Kc7
+79.Bd3 Qd8 80.Bb5 Qc8 81.Kc3 Qb8 82.Qa4 Qc8 83.Bxc6 bxc6 84.Qa5+ Kd7 85.Qa7+ Qc7
+86.Qa8 Qc8 87.Qxc8+ Kxc8 88.Kb4 Kb7 89.Ka5 Ka7 90.Kb4  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.12"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2815"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "14100010"]
+[BlackFideId "1503014"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O Be7 6.Re1 O-O 7.c3 a6 8.Ba4 b5
+9.Bc2 d5 10.Nbd2 dxe4 11.dxe4 Be6 12.Bb3 Bxb3 13.axb3 Qd3 14.b4 Rfd8 15.Qb3 Qd7
+16.Qc2 Qe6 17.Qb3 Qd7 18.Qc2 Qe6 19.h3 a5 20.bxa5 Rxa5 21.Rxa5 Nxa5 22.b4 Nb7
+23.Qb3 Qxb3 24.Nxb3 Nd7 25.Be3 Nd6 26.Nfd2 Ra8 27.Kf1 f6 28.Ke2 Kf7 29.Kd3 Ke6
+30.f3 Ra2 31.Ra1 Rxa1 32.Nxa1 Nb7 33.Nab3  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.12"]
+[Round "2"]
+[White "Nakamura,Hi"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2659"]
+[ECO "C96"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Keres (...Nd7) defence"]
+[WhiteFideId "2016192"]
+[BlackFideId "1202758"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.d5 Nb6 13.Nbd2 g6 14.b4 Nb7 15.Nf1 a5 16.Bh6 Re8
+17.a3 Bd7 18.Ng3 Qc7 19.Bd3 axb4 20.axb4 Rxa1 21.Qxa1 Ra8 22.Qb1 c4 23.Bc2 f6
+24.Be3 Nd8 25.Nd2 Nf7 26.f4 exf4 27.Bxf4 Ne5 28.Be3 Ra3 29.Ne2 Na4 30.Bd4 Bf8
+31.Rf1 Qd8 32.Qc1 Ra2 33.Nf3 Bg7 34.Nxe5 fxe5 35.Be3 Nb6 36.Kh2 Be8 37.Ng1 h6
+38.Bb1 Ra1 39.Qb2 Ra8 40.Bc2 Nd7 41.Ra1 Rxa1 42.Qxa1 Nf6 43.Qa6 Bf8 44.Nf3 Bd7
+45.Nd2 Nh5 46.Nf3 Nf6 47.Kg1 Qc8 48.Qa1 Qb8 49.Kf1 Nh5 50.g4 Nf4 51.Bxf4 exf4
+52.e5 dxe5 53.Qa6 Qd6 54.Qxd6 Bxd6 55.Bxg6 Kg7 56.Be4 h5 57.Nh2 Kh6 58.Kg2 hxg4
+59.hxg4 Kg5 60.Kh3 f3 61.Kg3 f2 62.Nf3+ Kh6 63.g5+ Kh5 64.Kxf2 Be8 65.Ke3 Bf7
+66.g6 Bxg6 67.Bxg6+ Kxg6 68.Ke4 Kf6 69.Nd2 Bf8 70.Nb1 Bh6 71.Na3 Bc1 72.Nxb5 Bd2
+73.Nd6 Bxc3 74.b5 Ke7 75.Nxc4 Be1 76.Kxe5 Bg3+ 77.Kd4 Bf2+ 78.Kc3  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.13"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2815"]
+[BlackElo "2744"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "1503014"]
+[BlackFideId "13400924"]
+[EventDate "2011.06.11"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Nf3 Nf6 5.Bf4 O-O 6.e3 Nbd7 7.a3 c5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.dxc5 Nxc5 11.Be5 Bf6 12.Bxf6 Qxf6 13.Qd4 Qe7 14.Qf4 Qe4 15.Qxe4 dxe4
+16.Nd4 Be6 17.Be2 Rfd8 18.O-O Nb3 19.Nxe6 fxe6 20.Rad1 Kf7 21.f4 Kf6 22.Kf2 Nd2
+23.Rfe1 Rac8 24.Rc1 Nb3 25.Rc4 Rxc4 26.Bxc4 Nc5 27.Ke2 b5 28.Ba2 Nd3 29.Rd1 Rc8
+30.Bb1 Nxb2 31.Rd7 Na4 32.Bxe4 Nc5 33.Rd4 Nxe4 34.Rxe4 Rc2+ 35.Kf3 Ra2 36.Rb4 a6
+37.Rb3 Ke7  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.13"]
+[Round "3"]
+[White "Nisipeanu,LD"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2659"]
+[BlackElo "2776"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "1202758"]
+[BlackFideId "14100010"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ne7 10.Ne4 Ng6 11.b3 Ke8 12.Bb2 c5 13.Nfd2 h5 14.Nc4 b6 15.f4 Ne7 16.Ne3 Nf5
+17.Nd5 Bb7 18.Rfd1 Bxd5 19.Rxd5 a5 20.Re1 Rd8 21.Nf6+ Ke7 22.e6 Rxd5 23.Nxd5+ Kd6
+24.exf7 Kxd5 25.Re5+ Kd6 26.Rxf5 Ke6 27.Rg5 Kxf7 28.Be5 c4 29.Bxc7 Bc5+ 30.Kf1 Rc8
+31.Be5 g6 32.f5 gxf5 33.Rxh5 Rd8 34.Bc3 cxb3 35.cxb3 Kg6 36.Rh8 Rd3 37.Rh3 Be3
+38.Be1 f4 39.Ke2 Rd8 40.g3 Rc8 41.gxf4 Bxf4 42.Rc3 Re8+ 43.Kd1 Rd8+ 44.Kc2 Re8
+45.Bg3 Be3 46.Kd3 Bc5 47.Kc4 a4 48.Kb5 axb3 49.axb3 Re2 50.Bc7 Re6 51.b4 Be7
+52.Rc4 Kf5 53.Bxb6 Bd6 54.Bc7  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.13"]
+[Round "3"]
+[White "Karjakin,Sergey"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2774"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "14109603"]
+[BlackFideId "2016192"]
+[EventDate "2011.06.11"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5
+9.Bg3 Bg7 10.h3 Ne5 11.f3 Nbc6 12.Bf2 Be6 13.Qd2 Rc8 14.Nd5 Nxd4 15.Bxd4 Bxd5
+16.exd5 Qc7 17.c3 Qa5 18.Be3 Nc4 19.Bxc4 Rxc4 20.O-O Be5 21.Qd3 Qb5 22.Rac1 Ra4
+23.Qxb5+ axb5 24.a3 Kd7 25.Kf2 Rc8 26.Rcd1 f5 27.Ke2 Rg8 28.Kd3 h5 29.Rde1 h4
+30.Bf2 Bf6 31.Rh1 Rh8  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.14"]
+[Round "4"]
+[White "Nakamura,Hi"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2776"]
+[ECO "E40"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Taimanov variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "14100010"]
+[EventDate "2011.06.11"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Nc6 5.Bd3 e5 6.Ne2 d5 7.cxd5 Nxd5 8.e4 Nb6
+9.d5 Ne7 10.O-O O-O 11.Bg5 Kh8 12.a3 Bd6 13.Nb5 h6 14.Be3 c6 15.dxc6 Nxc6
+16.Nxd6 Qxd6 17.Qc2 Rd8 18.Rad1 Be6 19.Bb5 Qe7 20.Qc3 f6 21.Bxc6 bxc6 22.Bxb6 axb6
+23.Qxc6 Rdc8 24.Qd6 Qxd6 25.Rxd6 Bc4 26.Rd2 b5 27.f3 b4 28.axb4 Bxe2 29.Rxe2 Rab8
+30.b3 Rxb4 31.Rb1 h5 32.Kf2 h4 33.Rbb2 Kh7 34.Re3 Kg6 35.Rd3 Kg5 36.Ke3 g6
+37.Ra2 Rcb8 38.Ra3 f5 39.exf5 gxf5 40.Kd2 Kf4 41.Kc3 R4b7 42.Ra4+ e4 43.fxe4 Rxb3+
+44.Kc4 Rxd3 45.Kxd3 Rd8+ 46.Ke2 fxe4 47.g3+ hxg3 48.hxg3+ Kxg3 49.Rxe4  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.14"]
+[Round "4"]
+[White "Nisipeanu,LD"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2659"]
+[BlackElo "2744"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence"]
+[WhiteFideId "1202758"]
+[BlackFideId "13400924"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d3 fxe4 5.dxe4 Nf6 6.O-O Bc5 7.Qd3 Nd4 8.Nxd4 Bxd4
+9.Nd2 a6 10.Ba4 Qe7 11.Nf3 Bb6 12.Bg5 O-O 13.Bxf6 gxf6 14.Nh4 d6 15.Kh1 Kh8
+16.f4 Bg4 17.c3 Rad8 18.Bb3 c6 19.Qg3 Qg7 20.fxe5 fxe5 21.h3 Bc8 22.Qxg7+ Kxg7
+23.g4 Be3 24.Nf5+ Bxf5 25.Rxf5 Rxf5 26.gxf5 d5 27.Rd1 d4 28.cxd4 Bxd4 29.Be6 Kf6
+30.Kg2 Re8 31.b3 Re7  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.14"]
+[Round "4"]
+[White "Karjakin,Sergey"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2815"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "1503014"]
+[EventDate "2011.06.11"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O c5 7.c4 Nbc6 8.dxc5 d4
+9.Bd3 Bxd3 10.Qxd3 Ng6 11.Qe4 Bxc5 12.a3 a5 13.Nbd2 Bb6 14.Rb1 a4 15.b4 axb3
+16.Rxb3 O-O 17.c5 Bxc5 18.Rxb7 Qd5 19.Qxd5 exd5 20.Nb3 Bxa3 21.Bxa3 Rxa3
+22.Nbxd4 Ngxe5 23.Nxc6 Nxc6 24.Rc7 Rc3 25.Re1 Rc4 26.Rd7 Nb4 27.g3 h6 28.Ree7 Nc6
+29.Re1 Rc5 30.Kg2 Nb4 31.Ree7 Nc6 32.Re1 Rb8 33.h4 Rc8 34.Rb1 d4 35.Nxd4  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.15"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2776"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14100010"]
+[BlackFideId "14109603"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d6 7.h3 Ne7 8.Re1 Ng6
+9.Nbd2 c6 10.Nf1 d5 11.exd5 Nxd5 12.Ng3 h6 13.Bb3 Re8 14.Bd2 Bb6 15.Qc2 Be6
+16.Rad1 Bxh3 17.c4 Ndf4 18.c5 Nxg2 19.cxb6 Qf6 20.Nh2 Nxe1 21.Rxe1 axb6 22.Bc3 Be6
+23.Re3 Nf4 24.Rf3 Qh4 25.Bd2 Bg4 26.Qc4 Be6 27.Qc2 Bxb3 28.Qxb3 Re6 29.a3 Rae8
+30.Qb4 Rf6 31.Qe4 Ree6 32.Ne2 Nxe2+ 33.Qxe2 Rxf3 34.Qxf3 Rg6+ 35.Kh1 Rf6
+36.Qg3 Qxg3 37.fxg3 Rd6  0-1
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.15"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2774"]
+[ECO "B94"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6.Bg5"]
+[WhiteFideId "13400924"]
+[BlackFideId "2016192"]
+[EventDate "2011.06.11"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.f4 e5 8.Nf5 Qb6
+9.Qd2 Qxb2 10.Rb1 Qa3 11.Be2 h6 12.Bh4 exf4 13.O-O g6 14.Rxf4 g5 15.Rb3 Qa5
+16.Nxd6+ Bxd6 17.Qxd6 gxf4 18.Ra3 Qb6+ 19.Qxb6 Nxb6 20.Bxf6 Rg8 21.Rb3 Nd7
+22.Nd5 Rg6 23.Bd4 Rc6 24.c4 b5 25.cxb5 axb5 26.Nc3 Ba6 27.Kf2 Rd6 28.Rb4 f6
+29.Kf3 Rc8 30.Nxb5 Bxb5 31.Bxb5 Ke7  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.15"]
+[Round "5"]
+[White "Carlsen,M"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2815"]
+[BlackElo "2659"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "1503014"]
+[BlackFideId "1202758"]
+[EventDate "2011.06.11"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.dxc5 Bxc5 8.Qxd8+ Kxd8
+9.Be2 Ke7 10.Nbd2 Bd7 11.Nb3 Bd6 12.Na5 Ra7 13.Nc4 Bb5 14.b3 Rd8 15.Bb2 Bxc4
+16.Bxc4 Nc6 17.Rfd1 Raa8 18.h3 g6 19.g4 h6 20.Bf1 Rac8 21.Rac1 Nd5 22.h4 Ke8
+23.g5 hxg5 24.hxg5 Be7 25.Kg2 Nb6 26.Bd3 Nb4 27.Be4 Nxa2 28.Rxd8+ Kxd8 29.Rh1 Nd5
+30.Ne5 f5 31.Bxd5  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.17"]
+[Round "6"]
+[White "Karjakin,Sergey"]
+[Black "Nisipeanu,LD"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2659"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "1202758"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 d5 6.Nxe5 dxe4 7.Nxc6 Qg5 8.Qe2 Nf6
+9.f4 Qxf4 10.d4 Qd6 11.Ne5+ c6 12.Bc4 Be6 13.c3 Bxc4 14.Qxc4 Qd5 15.Qb3 Bd6
+16.Qxb7 O-O 17.Qxc6 Qxc6 18.Nxc6 Ng4 19.Ne5 Bxe5 20.dxe5 e3 21.h3 Nxe5 22.Bxe3 Nc4
+23.Bc5 Rae8+ 24.Kd1 Nxb2+ 25.Kd2 Rf5 26.Bxa7 Rf7 27.Bc5 Rd7+ 28.Kc2 Re2+
+29.Kb3 Rb7+ 30.Bb4 Nd3 31.a4 Nxb4 32.cxb4 Re3+ 33.Kc2 Rxb4 34.a5 Rc4+ 35.Kd2 Ree4
+36.Ra3 Red4+ 37.Ke3 Re4+ 38.Kf3 Rf4+ 39.Kg3 Rf7 40.Rb1 Ra7 41.a6 Rcc7 42.Rb6 h6
+43.Kf4 Re7 44.h4 Rac7 45.Ra4 Kh7 46.g4 Ra7 47.h5 Rac7 48.Rd6 Rc8 49.Ra3 Rf8+
+50.Kg3 Rb8 51.Rc3 Rb4 52.Rd8 Rb6 53.Ra8 Rf7 54.Rcc8 Rb3+ 55.Kh4 g5+ 56.hxg6+ Kxg6
+57.Rc6+ Kg7 58.Rd8 Rb1 59.Rdd6 Rh1+ 60.Kg3 Rg1+ 61.Kh3 Rf3+ 62.Kh2 Rgf1 63.Rd7+ Rf7
+64.Rxf7+ Rxf7 65.Rc2 h5 66.Ra2  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.17"]
+[Round "6"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2815"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "1503014"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Nb8 10.d4 Nbd7 11.c4 c6 12.Nc3 b4 13.Na4 c5 14.d5 Re8 15.Bc2 Nf8 16.a3 a5
+17.b3 Ng6 18.Nb2 Bd7 19.Nh2 h6 20.Nf1 Nh7 21.Ne3 Bg5 22.axb4 axb4 23.Rxa8 Qxa8
+24.Nf5 Bxc1 25.Qxc1 Bxf5 26.exf5 Ngf8 27.Nd1 Nf6 28.f3 Qa2 29.g4 Ra8 30.Nf2 Qa3
+31.Qb1 Qa2 32.Qc1 Qa3 33.Qb1 Qa2 34.Qc1  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.17"]
+[Round "6"]
+[White "Radjabov,T"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2776"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "13400924"]
+[BlackFideId "14100010"]
+[EventDate "2011.06.11"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 b6 12.O-O Bb7 13.Rfe1 Nc6 14.Rad1 Rc8 15.h3 h6
+16.Qf4 Na5 17.Bd3 Nc4 18.Rc1 Qd6 19.Qxd6 Nxd6 20.Nd2 Rc6 21.f3 Rfc8 22.Rxc6 Rxc6
+23.Rd1 Rc3 24.Nb1 Rc7 25.Nd2 Bc8 26.Kf2 Bd7 27.Rb1 Kf8 28.Ke2 Ke7 29.g4 f6
+30.h4 e5 31.d5 b5 32.a3 a6 33.h5 Nb7 34.Nb3 Kd6 35.Kd2 Rc8 36.Be2 Kc7 37.Nc1 Nd6
+38.Na2 a5 39.Nc3 Rb8 40.Rc1 Kd8 41.Rb1 Rb7 42.Bd3 Kc7 43.Kc1 Kb8 44.Rb3 Ka7
+45.Rb1 Rb8  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.18"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2815"]
+[BlackElo "2776"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "14100010"]
+[EventDate "2011.06.11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 Nbd7 6.cxd5 exd5 7.Qc2 c5 8.dxc5 h6
+9.Bd2 O-O 10.e3 Bxc5 11.Rc1 Qe7 12.Be2 a6 13.Qd3 Nb6 14.O-O Bg4 15.Nd4 Bd7
+16.Bf3 Rfe8 17.b3 Ba3 18.Rc2 Rac8 19.Nce2 Rxc2 20.Qxc2 Be6 21.Bc1 Rc8 22.Bxa3 Qxa3
+23.Qd2 Bg4 24.Bxg4 Nxg4 25.Nf5 Nf6 26.h3 Kh7 27.Qd4 Nbd7 28.Qf4 Nf8 29.Neg3 Ng6
+30.Qd4 Qc5 31.f3 Qxd4 32.Nxd4 Ne5 33.Rd1 g6 34.Kf2 Kg7 35.Nge2 Kf8 36.g4 Nc6
+37.Rc1 Ke7 38.h4 Kd6 39.h5 Ne7 40.Rh1 gxh5 41.gxh5 Rg8 42.Ng3 Rg5 43.b4 Kd7
+44.Rh4 Ne8 45.Rf4 Nd6 46.a4 b6 47.a5 bxa5 48.bxa5 f5 49.Rh4 Nc4 50.f4 Rg4
+51.Rh3 Nd6 52.Rh1 Rg8 53.Rb1 Ra8 54.Kf3 Kc7 55.Ne6+ Kc8 56.Nc5 Rb8 57.Rxb8+ Kxb8
+58.Nxa6+ Kb7 59.Nb4 Nc4 60.a6+ Kb6 61.Ke2 Nd6 62.Kd3 Nb5 63.Ne2 Ka5 64.Nc3 Nc7
+65.Nbxd5 Nexd5 66.Nxd5 Nxd5 67.a7 Nc7 68.Kd4 Kb6 69.Ke5 Kxa7 70.Kxf5 Nd5
+71.Kg6 Nxe3 72.Kxh6  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.18"]
+[Round "7"]
+[White "Nisipeanu,LD"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2659"]
+[BlackElo "2774"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "1202758"]
+[BlackFideId "2016192"]
+[EventDate "2011.06.11"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.Bg5 Nbd7
+9.a4 h6 10.Bh4 b6 11.Nd2 Bb7 12.Nc4 Qc7 13.Ne3 O-O 14.O-O Rfe8 15.Bc4 Qc5
+16.Bxf6 Nxf6 17.Qf3 Rac8 18.Ncd5 Nxd5 19.Bxd5 Bxd5 20.Nxd5 Qxc2 21.Nxb6 Rb8
+22.Nd5 Qxb2 23.g3 Bg5 24.h4 Bd2 25.Rad1 Bb4 26.Rb1 Qa3 27.Ne7+ Kf8 28.Ng6+ Kg8
+29.Ne7+ Kf8 30.Ng6+ Kg8 31.Ne7+ Kf8  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.18"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2744"]
+[ECO "C63"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence, Berger variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "13400924"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 Nf6 6.Nxf6+ Qxf6 7.Qe2 Be7 8.Bxc6 bxc6
+9.Nxe5 Qe6 10.Nf3 Qxe2+ 11.Kxe2 c5 12.Re1 Bb7 13.Kf1 Bxf3 14.gxf3 Rf8 15.Kg2 Rf5
+16.d3 d5 17.f4 Rf7 18.Re5 O-O-O 19.Rb1 c6 20.Bd2 Bd6 21.Re6 Kd7 22.Rbe1 Rdf8
+23.R1e2 Rf6 24.Rxf6 Rxf6 25.Be3 Re6 26.Kf3 d4 27.Bd2 Rxe2 28.Kxe2 Ke6 29.Kf3 Kf5
+30.h3  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.19"]
+[Round "8"]
+[White "Nakamura,Hi"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2776"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "2016192"]
+[BlackFideId "14109603"]
+[EventDate "2011.06.11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 Be7
+9.e4 O-O 10.Bd3 c5 11.O-O Qc7 12.Qe2 Nc6 13.Be3 Rfd8 14.h4 e5 15.d5 Na5 16.h5 c4
+17.Bc2 Nb3 18.Ra2 h6 19.Nh2 Bd6 20.Rb1 Nc5 21.Nf1 Ba6 22.Ng3 Bf8 23.Nf5 Nd3
+24.g3 Bc8 25.Qf3 Bxf5 26.Qxf5 Bc5 27.Qf3 Bxe3 28.Qxe3 Nc5 29.Rb4 Nb7 30.Ba4 Nd6
+31.Bc6 Rab8 32.a4 Rf8 33.g4 Kh7 34.f3 Qe7 35.Rh2 Qf6 36.Kf2 Rbc8 37.Ke1 Rc7
+38.Kd1 Rd8 39.Ke2 Qe7 40.Rh1 Qf6 41.Ra1 Qh4 42.Rbb1 Qh2+ 43.Qf2 Qf4 44.Qe3 Qh2+
+45.Qf2 Qf4 46.Qe3 Qh2+ 47.Qf2  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.19"]
+[Round "8"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2815"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13400924"]
+[BlackFideId "1503014"]
+[EventDate "2011.06.11"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Be7 5.Bf4 O-O 6.e3 b6 7.cxd5 Nxd5 8.Nxd5 Qxd5
+9.Bd3 Qa5+ 10.Ke2 Ba6 11.a3 c5 12.b4 Bxd3+ 13.Qxd3 Qa4 14.bxc5 bxc5 15.Rhc1 Nd7
+16.Qc4 Qa5 17.dxc5 Nxc5 18.Nd4 Rac8 19.Qb5 Qd8 20.Nc6 Qd7 21.Nxe7+ Qxe7 22.Be5 Ne4
+23.f3 Qg5 24.fxe4 Rcd8 25.Qb2 Qxg2+ 26.Ke1 Qg1+ 27.Ke2 Qg2+ 28.Ke1 Qg1+ 29.Ke2  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.19"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2659"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "1202758"]
+[EventDate "2011.06.11"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 a6 6.e4 Qc7 7.a3 b6 8.Be3 Bb7
+9.f3 Nc6 10.Be2 Nxd4 11.Bxd4 Bd6 12.Qd2 O-O 13.Na4 b5 14.cxb5 axb5 15.Bxb5 Bf4
+16.Qc3 Qb8 17.Nb6 Ba6 18.Qa5 Bxb5 19.Qxb5 d5 20.Qe2 Be5 21.Bxe5 Qxb6 22.Rd1 Ra4
+23.Qf2 Qb5 24.Qe2 Qb6  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.20"]
+[Round "9"]
+[White "Nisipeanu,LD"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2659"]
+[BlackElo "2815"]
+[ECO "C95"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Breyer, Borisenko variation"]
+[WhiteFideId "1202758"]
+[BlackFideId "1503014"]
+[EventDate "2011.06.11"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 Bf8 14.Bd3 c6 15.b3 g6 16.Bb2 exd4
+17.cxd4 d5 18.Ne5 Bb4 19.Nxd7 Qxd7 20.e5 Nh5 21.Bf1 Nf4 22.Re3 c5 23.dxc5 d4
+24.Ne4 Bxe4 25.Rxe4 Ne6 26.Rxd4 Nxd4 27.Qxd4 Qxd4 28.Bxd4 Rad8 29.Be3 Rxe5
+30.axb5 axb5 31.Rc1 Rxe3 32.fxe3  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.20"]
+[Round "9"]
+[White "Nakamura,Hi"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2774"]
+[BlackElo "2744"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal (Kalashnikov) variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "13400924"]
+[EventDate "2011.06.11"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 b5 8.Nd5 Nge7
+9.c4 Nxd5 10.cxd5 Nd4 11.Bd3 g6 12.Nc2 Bg7 13.O-O O-O 14.Be3 Kh8 15.Rc1 f5
+16.f3 Bd7 17.Qd2 f4 18.Bf2 g5 19.Nxd4 exd4 20.Be2 Qb6 21.Rfd1 Rac8 22.Rxc8 Rxc8
+23.b4 Be5 24.a3 Kg7 25.Kf1 Kf7 26.Ke1 Qc7 27.Bxd4 Bxd4 28.Qxd4 Qc3+ 29.Qxc3 Rxc3
+30.Rd3 Rxd3 31.Bxd3 h5 32.g3 h4 33.gxf4 gxf4 34.Kd2 Kf6 35.Kc3 Ke5 36.a4 Be8
+37.Be2 Bd7 38.Bf1 Be8 39.axb5 axb5 40.Kd3 Bd7 41.Ke2 Kd4 42.Kd2 Ke5 43.Kd3 Bc8
+44.Kc3 Bd7 45.Kd3 Bc8 46.Kc3 Bd7  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.20"]
+[Round "9"]
+[White "Karjakin,Sergey"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2776"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack, 6.Bd3"]
+[WhiteFideId "14109603"]
+[BlackFideId "14100010"]
+[EventDate "2011.06.11"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Na6 7.O-O c5 8.d5 Nc7
+9.a4 b6 10.Qe1 e6 11.dxe6 fxe6 12.e5 Nfd5 13.Ne4 dxe5 14.fxe5 Bb7 15.Bg5 Qd7
+16.Qh4 Nb4 17.Rad1 Qc6 18.Nf6+ Bxf6 19.Bxg6 hxg6 20.Bxf6 Rxf6 21.exf6 Rf8
+22.Qg5  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.21"]
+[Round "10"]
+[White "Ivanchuk,V"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2774"]
+[ECO "D14"]
+[Opening "QGD Slav"]
+[Variation "exchange variation, 6.Bf4 Bf5"]
+[WhiteFideId "14100010"]
+[BlackFideId "2016192"]
+[EventDate "2011.06.11"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Bf4 Bf5 7.Qb3 Qb6 8.Qxb6 axb6
+9.e3 e6 10.a3 Be7 11.Be2 O-O 12.O-O Rfc8 13.Rfc1 Nh5 14.Bg5 Bxg5 15.Nxg5 Nf6
+16.Nf3 Bg4 17.Nb5 Bxf3 18.Bxf3 Rd8 19.Kf1 Kf8 20.Rc3 Ke7 21.Rac1 Rdc8 22.Ke1 Kd7
+23.h3 h5 24.h4 g6 25.g3 Ra5 26.Be2 Ne8 27.Rb3 Rd8 28.f3 Nf6 29.Nc3 Kc7 30.Na2 Ng8
+31.Nb4 Ne7 32.Nd3 Raa8 33.Ne5 Rf8 34.Bd3 f5 35.Bb5 Rac8 36.Kf2 Rg8 37.Ba4 Rgf8
+38.Rc2 Rfd8 39.Rbc3 Rd6 40.b4 Kb8 41.Bxc6 bxc6 42.b5 Kb7 43.bxc6+ Kc7 44.a4 Rdd8
+45.Rb2 Ra8 46.Rcb3 Nc8 47.Ra2 Rg8 48.a5 b5 49.Rxb5 Nd6 50.Rb4 Ra6 51.Kg2 g5
+52.hxg5 Rxg5 53.Kh3 Rg8 54.Kh4 Rh8 55.Rab2 Ra7 56.Rb6 Rha8 57.Kxh5 Rg8 58.a6 Rga8
+59.Rb7+ Nxb7 60.axb7  1-0
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.21"]
+[Round "10"]
+[White "Carlsen,M"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2815"]
+[BlackElo "2776"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "4.Nc3"]
+[WhiteFideId "1503014"]
+[BlackFideId "14109603"]
+[EventDate "2011.06.11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.e3 Bb7 6.Bd3 O-O 7.O-O c5 8.Na4 cxd4
+9.exd4 Re8 10.a3 Bf8 11.Bf4 d6 12.Re1 Nbd7 13.Rc1 e5 14.dxe5 Bxf3 15.Qxf3 Nxe5
+16.Bxe5 dxe5 17.Nc3 g6 18.Be4 Nxe4 19.Qxe4 Rc8 20.b4 Qd4 21.Qxd4 exd4 22.Rxe8 Rxe8
+23.Nd5 Re2 24.Kf1 Ra2 25.Rd1 Rxa3 26.Rxd4 Ra4 27.Nf6+ Kg7 28.Ne8+ Kg8 29.Nf6+ Kg7
+30.Ne8+ Kg8  1/2-1/2
+
+[Event "5th Kings Tournament"]
+[Site "Medias ROU"]
+[Date "2011.06.21"]
+[Round "10"]
+[White "Radjabov,T"]
+[Black "Nisipeanu,LD"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2744"]
+[BlackElo "2659"]
+[ECO "B18"]
+[Opening "Caro-Kann"]
+[Variation "classical, Flohr variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "1202758"]
+[EventDate "2011.06.11"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nh3 e6 7.Nf4 Bd6 8.h4 Bxf4
+9.Bxf4 h6 10.c3 Nf6 11.Qb3 Nd5 12.Bd2 Qc7 13.c4 Nf6 14.Qa3 c5 15.dxc5 O-O
+16.Be2 Nc6 17.O-O Nd4 18.Bd1 a5 19.Rc1 Rfd8 20.Be3 Nc6 21.Bf3 Ne5 22.Be2 Neg4
+23.Bxg4 Nxg4 24.Rfd1 Qe5 25.Nf1 Qf6 26.Rxd8+ Rxd8 27.Qxa5 Rd3 28.Qa8+ Kh7
+29.Qxb7 Rxe3 30.fxe3 Qf2+ 31.Kh1 Qxh4+ 32.Kg1 Qf2+ 33.Kh1 Qh4+ 34.Kg1  1/2-1/2

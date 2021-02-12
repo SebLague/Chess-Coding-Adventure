@@ -1,0 +1,394 @@
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.01.30"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2782"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2014.01.30"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. Qa4+ Bd7 6. Qb3 dxc4 7. Qxc4 O-O 8.
+Bf4 c6 9. e4 b5 10. Qd3 c5 11. dxc5 Na6 12. e5 Nxc5 13. Qe3 Nh5 14. Bg5 Ne6 15.
+Rd1 Qe8 16. Bh6 Bxh6 17. Qxh6 Bc6 18. Qe3 a6 19. Bd3 Nhf4 20. O-O Nxd3 21. Rxd3
+Rd8 22. Nd4 Nxd4 23. Rxd4 Rxd4 24. Qxd4 Qa8 25. f3 Rd8 26. Qc5 Qb7 27. Rd1 Rxd1+
+28. Nxd1 Qd7 29. Ne3 Qd2 30. Qc3 Qxc3 31. bxc3 f6 32. exf6 exf6 33. Kf2 Kf7 34.
+Ke2 Ke6 35. Kd3 h5 36. Kd4 h4 37. Kc5 Ba8 38. f4 g5 39. g3 hxg3 40. hxg3 gxf4
+41. gxf4 Be4 42. Kb6 Kd6 43. Kxa6 Kc5 44. a3 Bf3 45. Ka7 Kc6 46. Kb8 Kb6 47. Nf5
+Bg4 48. Nd6 Be6 49. Ne4 f5 50. Nd2 Bd5 51. Kc8 Ka5 52. Kc7 Ka4 53. Kb6 Bg2 54.
+c4 bxc4 55. Nxc4 Bd5 56. Kc5 Bg8 57. Kd4 Kb3 58. Nd6 Kxa3 59. Ke5 Kb4 60. Kf6
+Kc5 61. Nxf5 Bh7 62. Ne7 Bb1 63. Ke5 Bh7 64. Nd5 Kc6 65. Nf6 Bb1 66. f5 Bxf5 67.
+Kxf5 1/2-1/2
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.01.30"]
+[Round "1.2"]
+[White "Aronian,L"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2812"]
+[BlackElo "2773"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2014.01.30"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qb3 Rb8 8.
+O-O b5 9. a4 Bb7 10. axb5 axb5 11. d3 Be7 12. Bf4 Nd5 13. Bd2 O-O 14. Rc1 c5 15.
+Ba5 Qe8 16. Nbd2 N5f6 17. Rab1 Bd5 18. Qd1 Ra8 19. b4 Ra6 20. e4 Bc6 21. Nb3
+cxb4 22. Qd2 Bxe4 23. dxe4 Nxe4 24. Qc2 Nc3 25. Ra1 Nf6 26. Ne5 Nfd5 27. Nd3 Rc6
+28. Bxd5 exd5 29. Re1 Rc4 30. f3 Qd7 31. Qf2 Bd6 32. Bb6 Qf5 33. Qe3 h5 34. Bd4
+Rc7 35. Ra7 Rxa7 36. Bxa7 Ra8 37. Bc5 d4 38. Nxd4 Bxc5 39. Nxf5 Bxe3+ 40. Nxe3
+b3 41. Nd1 Rc8 42. Nxc3 Rxc3 43. Rd1 b2 44. Nxb2 Rxf3 45. Rd8+ Kh7 46. Rd5 Rb3
+47. Nd3 g6 48. Rd7 Kg7 49. Kf2 Ra3 50. Ke3 Ra2 51. h4 Kf6 52. Rb7 Ra5 53. Nc5
+Ra3+ 54. Kf4 Ra1 55. Ne4+ Kg7 56. Nd6 Rf1+ 57. Ke3 Kf8 58. Rxb5 Ke7 59. Ne4 Re1+
+60. Kf4 Kf8 61. Rb8+ Kg7 62. Rb7 Rf1+ 63. Ke3 Kf8 64. Nd6 Rf6 65. Rb8+ Ke7 66.
+Ne4 Rf1 67. Ke2 Rf5 68. Rc8 Re5 69. Kf3 Rf5+ 70. Kg2 Re5 71. Ng5 Re2+ 72. Kh3
+Rf2 73. Rc4 1-0
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.01.30"]
+[Round "1.1"]
+[White "Carlsen,M"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2777"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "2805677"]
+[EventDate "2014.01.30"]
+
+1. c4 g6 2. d4 Nf6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. Qa4 O-O 7. O-O Nfd7 8. Qc2
+Nf6 9. Bf4 Bf5 10. Qb3 Qb6 11. Nbd2 Ne4 12. e3 Qxb3 13. axb3 Na6 14. cxd5 cxd5
+15. g4 Bxg4 16. Nxe4 dxe4 17. Nd2 f5 18. f3 e5 19. dxe5 exf3 20. Nxf3 Rae8 21.
+Ra5 Nb4 22. Nd4 b6 23. Rxa7 Bxe5 24. Bh6 Rf6 25. h3 Bh5 26. Nc2 g5 27. Bxg5 Rg6
+28. Rxf5 h6 29. Bxh6 Rxh6 30. Nxb4 Bxb2 31. Nd5 Kh8 32. Rb7 Bd1 33. b4 Rg8 34.
+Ne7 Rd8 35. Be4 Bf6 36. Rxb6 Kg7 37. Rf2 1-0
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.01.31"]
+[Round "2.2"]
+[White "Anand,V"]
+[Black "Nakamura,Hi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2789"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "2016192"]
+[EventDate "2014.01.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Be6 7. Nc3 Qd6 8.
+O-O O-O-O 9. a3 Nh5 10. Na4 Bb6 11. Nxb6+ axb6 12. a4 f6 13. Be3 Nf4 14. a5 b5
+15. d4 Nxh3+ 16. gxh3 Bxh3 17. dxe5 Qe6 18. Nd2 Bxf1 19. Qxf1 Qxe5 20. c3 Kb8
+21. a6 b6 22. Qg2 Rd6 23. Nf1 f5 24. exf5 Qxf5 25. Ng3 Qd7 26. Qe4 Ka7 27. Kg2
+h5 28. Qf5 Qe8 29. Qe4 Qf7 30. Kh1 h4 31. Ne2 Re8 32. Qg4 Rg6 33. Qh3 Qd5+ 34.
+Kh2 Rxe3 35. fxe3 Qd2 36. Qf1 Rf6 0-1
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.01.31"]
+[Round "2.3"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2812"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2014.01.30"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. a3
+O-O 9. d3 Re8 10. b4 Bf8 11. Rb1 a5 12. b5 Nd4 13. e3 Nxf3+ 14. Bxf3 a4 15. Qe2
+Ra7 16. Bb2 Be6 17. Rfc1 Qd7 18. Ne4 Ba2 19. Ra1 Bd5 20. Bg4 Qd8 21. Bc3 Nd7 22.
+Bf3 b6 23. Bb4 Bxb4 24. axb4 Qe7 25. Nc3 Bxf3 26. Qxf3 Nf6 27. Rxa4 Rxa4 28.
+Nxa4 Qxb4 29. Nc3 Qb2 30. Qd1 Rd8 31. Kg2 h6 32. h3 Rxd3 33. Qxd3 Qxc1 34. Qd8+
+Kh7 35. Qxc7 Ne4 36. Qxe5 Nxc3 37. Qf5+ Kg8 38. Qc8+ Kh7 39. Qf5+ Kh8 40. Qc8+
+Kh7 1/2-1/2
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.01.31"]
+[Round "2.1"]
+[White "Gelfand,B"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2782"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "2805677"]
+[BlackFideId "2020009"]
+[EventDate "2014.01.30"]
+
+1. d4 d6 2. Nf3 g6 3. c4 f5 4. Nc3 Nf6 5. g3 Bg7 6. Bg2 O-O 7. O-O c6 8. b4 e5
+9. dxe5 dxe5 10. e4 Be6 11. exf5 gxf5 12. Nxe5 Qxd1 13. Rxd1 Nfd7 14. Nxd7 Nxd7
+15. Bb2 Nb6 16. Rac1 Bxc4 17. Ba1 Rad8 18. Rxd8 Rxd8 19. Bh3 Bd3 20. Nd1 Nc4 21.
+Bxg7 Kxg7 22. Bf1 Bxf1 23. Kxf1 Rd4 24. Ke2 Kf6 25. f3 Na3 26. Rc3 Nb5 27. Rb3
+Rc4 28. Kd3 Rc1 29. Nc3 Rf1 30. Ke3 Re1+ 31. Kd3 Rf1 32. Ke3 Re1+ 33. Kd3 a6 34.
+a4 Nd6 35. Rb1 Rxb1 36. Nxb1 b5 37. axb5 axb5 38. Kd4 Nc4 39. Kc5 Ne5 40. Nd2 h5
+41. f4 Nd3+ 42. Kxc6 Nxb4+ 43. Kxb5 Nd3 44. Nf3 Nf2 45. Kc6 Ng4 46. Kd6 h4 47.
+gxh4 Ne3 48. Ne5 Ng2 49. Nd7+ Kg7 50. Ke5 Nxh4 51. h3 Kf7 52. Nb8 Kg6 53. Nc6
+Nf3+ 54. Ke6 Ng1 55. Ne5+ Kh5 56. Kxf5 1/2-1/2
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.01"]
+[Round "3.3"]
+[White "Caruana,F"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2773"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2014.01.30"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. e3 Bg4 5. Nc3 e6 6. h3 Bh5 7. g4 Bg6 8. cxd5
+Nxd5 9. Ne5 Bb4 10. Bd2 Nd7 11. Nxg6 hxg6 12. a3 Ba5 13. Bg2 g5 14. Qc2 Rc8 15.
+Rd1 Bc7 16. Ne2 Nf8 17. Qb3 Rb8 18. e4 Nf4 19. Bxf4 Bxf4 20. h4 e5 21. d5 Ng6
+22. dxc6 Qa5+ 23. Nc3 O-O 24. cxb7 Qc7 25. Nd5 Qxb7 26. Qxb7 Rxb7 27. b4 gxh4
+28. Bf1 Bg5 29. Rh3 Rd8 30. Bc4 Rbb8 31. Rhd3 Rdc8 32. Bb3 Rb7 33. a4 a6 34. Rb1
+Nf8 35. Nc3 Ng6 36. Nd5 Nf8 37. Nc3 Ng6 38. Nd5 Nf8 39. Nc3 Ng6 40. Nd5 Nf8 1/2-1/2
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.01"]
+[Round "3.2"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2872"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "1503014"]
+[EventDate "2014.01.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 e5 8. d5 Bc5
+9. Bg5 O-O 10. Nf3 Bg4 11. h3 Bxf3 12. Qxf3 Nbd7 13. O-O-O Bd4 14. Ne2 c5 15. g4
+a5 16. Kb1 Ra6 17. Ng3 g6 18. h4 a4 19. Rh2 Qa5 20. Bd2 Qc7 21. g5 Ne8 22. h5
+Rb6 23. Bc1 Rb3 24. Qg4 Nb6 25. Be2 Nd6 26. Rdh1 Bxb2 27. Bxb2 Nbxc4 28. Bxc4
+Nxc4 29. hxg6 Qb6 30. g7 Rd8 31. Qh4 Rxb2+ 32. Ka1 Rxh2 33. Rxh2 Qg6 34. Nf5 Re8
+35. Qg4 Qb6 36. Qh3 Qg6 37. d6 Nxd6 38. Nxd6 Rd8 39. Nc4 Qxe4 40. Qh5 Rd3 41.
+Rh4 Qf5 42. Qe2 b5 43. Nd2 Qxg5 44. Qxd3 Qxh4 45. Ne4 Kxg7 46. Qf3 Qf4 47. Qg2+
+Kf8 48. Kb2 h5 49. Nd2 h4 50. Kc2 b4 51. axb4 cxb4 52. Qa8+ Kg7 53. Qxa4 h3 54.
+Qb3 h2 55. Qd5 e4 56. Qh5 e3 57. Nf3 e2 58. Kb3 f6 59. Ne1 Qg3+ 60. Ka4 Qg1 61.
+Qxe2 Qa7+ 0-1
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.01"]
+[Round "3.1"]
+[White "Aronian,L"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2812"]
+[BlackElo "2777"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "13300474"]
+[BlackFideId "2805677"]
+[EventDate "2014.01.30"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Ne5 Ne4 8. Nd2
+Nxd2 9. Bxd2 O-O 10. O-O Nd7 11. Bc3 Nf6 12. Qb3 Ne4 13. Bxe4 dxe4 14. Rfd1 Qb6
+15. Qxb6 axb6 16. Nc4 Be6 17. d5 Bg4 18. Bxg7 Kxg7 19. Kf1 b5 20. Ne3 Bd7 21. a3
+Rfc8 22. Rac1 Kf6 23. Rxc8 Rxc8 24. d6 e6 25. Ng4+ Kf5 26. Ne3+ Kf6 27. Ng4+ Kf5 1/2-1/2
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.02"]
+[Round "4.3"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2812"]
+[BlackElo "2789"]
+[ECO "E63"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Panno variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "2016192"]
+[EventDate "2014.01.30"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 d6 5. Bg2 O-O 6. O-O Nc6 7. d4 a6 8. h3 Rb8
+9. e4 b5 10. d5 b4 11. Ne2 Na5 12. Qc2 c6 13. Nfd4 cxd5 14. exd5 Qc7 15. b3 e5
+16. dxe6 fxe6 17. a3 bxa3 18. Bd2 Nb7 19. Rxa3 e5 20. Nc6 Ra8 21. Nb4 a5 22. Qa2
+Bf5 23. Nd5 Nxd5 24. Bxd5+ Kh8 25. b4 Bxh3 26. Rb1 Bf5 27. Rb2 Bd7 28. bxa5 Bc6
+29. Nc3 Nc5 30. Be3 e4 31. a6 Nd3 32. Rb7 Qc8 33. Nxe4 Bxd5 34. cxd5 Qg4 35.
+Rxd3 Qxe4 36. Rdb3 Qxd5 37. Qe2 Qc6 38. a7 d5 39. Rxg7 Kxg7 40. Bd4+ Kh6 41.
+Qe3+ Kh5 42. g4+ Kh4 43. Qh6+ Kxg4 44. Qh3+ Kf4 45. Rf3+ 1-0
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.02"]
+[Round "4.2"]
+[White "Carlsen,M"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2782"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[EventDate "2014.01.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Nd7 7. Be3 Bd6 8.
+Nc3 c5 9. O-O Nf8 10. Nd2 Ng6 11. Nc4 Be6 12. Ne2 Qd7 13. Nxd6+ cxd6 14. f4 exf4
+15. Nxf4 Nxf4 16. Rxf4 b6 17. Qh5 d5 18. d4 c4 19. b3 Qc6 20. Raf1 O-O-O 21.
+bxc4 Qxc4 22. Rxf7 Bxf7 23. Rxf7 Rd7 24. Rxd7 Kxd7 25. exd5 g6 26. Qg4+ Kc7 27.
+Qe6 Kb7 28. Qe7+ Qc7 29. Qe4 Qd7 30. d6+ Ka6 31. Bf4 Rc8 32. Kh2 Rc4 33. Bg3 Rc8
+34. Qd3+ Kb7 35. c4 Qc6 36. Qb3 Ka8 37. a4 Re8 38. a5 Kb7 39. c5 Kc8 40. axb6
+axb6 41. d5 Qxc5 42. Qa4 Re3 43. Qa8+ Kd7 44. Qb7+ Ke8 45. d7+ Kd8 46. Bh4+ Re7
+47. Qc8+ 1-0
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.02"]
+[Round "4.1"]
+[White "Gelfand,B"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2777"]
+[BlackElo "2773"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "4.e3"]
+[WhiteFideId "2805677"]
+[BlackFideId "5000017"]
+[EventDate "2014.01.30"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Nc3 e6 6. h3 Bh5 7. g4 Bg6 8. Nh4 Bb4
+9. Qb3 Qe7 10. Bd2 a5 11. Nxg6 hxg6 12. cxd5 exd5 13. f3 a4 14. Qc2 a3 15. b3
+Nbd7 16. O-O-O O-O 17. Kb1 Rfc8 18. h4 Nb6 19. g5 Nh5 20. Bh3 Re8 21. Rhe1 Rad8
+22. Bg4 Qd6 23. Ne2 Bxd2 24. Qxd2 Nd7 25. Nf4 Nxf4 26. exf4 f5 27. gxf6 Nxf6 28.
+Re5 Nxg4 29. fxg4 Rxe5 30. fxe5 Qe7 31. Rh1 Rf8 32. h5 Qf7 33. h6 Qf3 34. Re1
+gxh6 35. e6 Re8 36. g5 Qf5+ 0-1
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.03"]
+[Round "5.1"]
+[White "Nakamura,Hi"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2789"]
+[BlackElo "2777"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[WhiteFideId "2016192"]
+[BlackFideId "2805677"]
+[EventDate "2014.01.30"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6. Nd2 d6 7. Nf1 Bg4 8. Qd2
+Nd7 9. Nd5 Be6 10. Nfe3 Bg5 11. c3 O-O 12. Qd1 Nb6 13. Nxb6 axb6 14. Bxe6 fxe6
+15. Qb3 d5 16. O-O Kh8 17. a4 Na5 18. Qb5 Nc6 19. Qb3 Na5 20. Qb5 Nc6 21. Qb3 1/2-1/2
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.03"]
+[Round "5.3"]
+[White "Anand,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2872"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2014.01.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. h3 Nd7 7. Be3 Bd6 8.
+Nbd2 O-O 9. O-O Re8 10. Nc4 Nf8 11. d4 exd4 12. Qxd4 c5 13. Qd3 b6 14. Nxd6 Qxd6
+15. Qxd6 cxd6 16. Rfd1 Bb7 17. Rxd6 Bxe4 18. Ne1 Rad8 19. Rad1 Ne6 20. Rxd8 Rxd8
+21. Rxd8+ Nxd8 22. f3 Bd5 23. a3 Nc6 24. Kf2 f6 25. Nd3 Kf8 26. Ke2 Ke7 27. Kd2
+Kd7 28. Nf4 Bf7 29. b3 Ne7 30. h4 Nd5 31. Nxd5 Bxd5 32. Bf4 Kc6 33. Bg3 Bf7 34.
+Bf4 Bg6 35. Bg3 Bf7 36. Bb8 a6 37. Bf4 Bg6 38. Bg3 Bh5 39. Bf2 Bf7 40. Bg3 Bg6 1/2-1/2
+
+[Event "Zurich Chess Challenge 2014"]
+[Site "Zurich SUI"]
+[Date "2014.02.03"]
+[Round "5.2"]
+[White "Caruana,F"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2782"]
+[BlackElo "2812"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2014.01.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4 15.
+g3 Qh3 16. Be3 Bxd3 17. Nd2 Qf5 18. Bd4 Rfe8 19. a4 h6 20. Kg2 Kf8 21. Rxe8+
+Rxe8 22. axb5 axb5 23. Qxf5 Bxf5 24. Bxd5 cxd5 25. Ra6 Be7 26. Nf1 b4 27. Ne3
+Bd3 28. Ra5 bxc3 29. bxc3 Bd8 30. Ra8 f6 31. f3 Be7 32. Ra7 Bd6 33. Rd7 Ba3 34.
+Rxd5 Kg8 35. h4 Bc1 36. Ng4 Bc4 37. Rc5 Be6 38. Nf2 Ra8 39. g4 Ra2 40. Kg3 Ra6
+41. Rc7 Bd2 42. Ne4 Be1+ 43. Bf2 Bxf2+ 44. Kxf2 Ra2+ 45. Kg3 Rc2 46. Kf4 Ra2 47.
+h5 Ra5 48. Nc5 Bd5 49. Rc8+ Kf7 50. c4 Ba8 51. Rc7+ Kg8 52. Ne6 Ra3 53. Rxg7+
+Kh8 54. Kf5 Bxf3 55. Rg6 Be2 56. Rxh6+ Kg8 57. Rg6+ Kh8 58. Rxf6 Rf3+ 59. Nf4
+Bxc4 60. Kg5 Kg8 61. Kh6 Ra3 62. g5 Ra7 63. g6 Rc7 64. Nh3 Rc8 65. Ng5 Rd8 66.
+Nh7 1-0

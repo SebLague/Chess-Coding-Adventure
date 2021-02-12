@@ -1,0 +1,1132 @@
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.09"]
+[Round "1.1"]
+[White "Nakamura, Hikaru"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2794"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "5202213"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Rc1 O-O 9. Qd2 e5 10. d5 Nd7 11. c4 f5 12. Bg5 Nf6 13. Ne2 Nxe4 14. Bxd8 Nxd2
+15. Be7 Rf7 16. Bxc5 Nxf1 17. Rxf1 b6 18. Bb4 Ba6 19. f4 Rc8 20. fxe5 Bxe5 21.
+Rf3 Bxc4 22. Re3 Bg7 23. Nf4 Rd7 24. a4 Bh6 25. g3 Bxf4 26. gxf4 Rxd5 27. Re7
+Rd4 28. Bd2 Kf8 29. Bb4 Re8 0-1
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.09"]
+[Round "1.2"]
+[White "Caruana, Fabiano"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2823"]
+[BlackElo "2779"]
+[ECO "A21"]
+[Opening "English, Kramnik-Shirov counterattack"]
+[WhiteFideId "2020009"]
+[BlackFideId "5000017"]
+[EventDate "2016.12.09"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Bc5 4. Nf3 c6 5. Nc3 d6 6. g3 Nf6 7. Bg2 O-O 8. O-O
+Re8 9. d3 h6 10. Na4 Bb4 11. a3 Ba5 12. b4 Bc7 13. e4 Bg4 14. h3 Bxf3 15. Qxf3
+Nbd7 16. Qd1 a6 17. Nc3 Bb6 18. Ne2 a5 19. Bb2 Qe7 20. Kh2 axb4 21. axb4 Rxa1
+22. Qxa1 h5 23. Kh1 h4 24. g4 Nh7 25. f4 Be3 26. Bc3 c5 27. bxc5 Nxc5 28. Qb1
+Ra8 29. d4 exd4 30. Nxd4 Bxd4 31. Bxd4 Rc8 32. Ba1 Nf6 33. e5 dxe5 34. Bxe5 Nfd7
+35. Bc3 Qe3 36. Ba1 Re8 37. Qb2 Nf6 38. Qd4 b6 39. Qxe3 Rxe3 40. Bd4 Rd3 41. Bf2
+Rc3 42. Bxh4 Rd3 43. Bf2 Rc3 44. Bh4 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.09"]
+[Round "1.3"]
+[White "Kramnik, Vladimir"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2760"]
+[ECO "D77"]
+[Opening "Neo-Gruenfeld, 6.O-O"]
+[WhiteFideId "4101588"]
+[BlackFideId "2900084"]
+[EventDate "2016.12.09"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 c5 7. dxc5 dxc4 8. Na3
+c3 9. Nb5 cxb2 10. Bxb2 Bd7 11. Qb3 Bc6 12. Rfd1 Qc8 13. Rac1 Nbd7 14. Nbd4 Bd5
+15. Qa3 Re8 16. c6 Nb6 17. c7 Nc4 18. Qb4 Nxb2 19. Qxb2 b6 20. Qa3 e6 21. Nb5
+Bf8 22. Qb2 Bg7 23. Qd2 Qd7 24. a4 Ne4 25. Qf4 a6 26. Qxe4 axb5 27. Qd3 f5 28.
+Ng5 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.09"]
+[Round "1.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2804"]
+[BlackElo "2771"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "623539"]
+[BlackFideId "24116068"]
+[EventDate "2016.12.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Be6 9. Bg2 b5 10. O-O Nbd7 11. Be3 Be7 12. Nd5 Nxd5 13. exd5 Bf5 14. f4 Rc8 15.
+c3 Bh7 16. a4 O-O 17. axb5 axb5 18. Ra6 exf4 19. Nxf4 h4 20. Bd4 Ne5 21. Nh5 Bg6
+22. Nf4 Bh7 23. Nh5 Bg6 24. Nf4 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.09"]
+[Round "1.5"]
+[White "Aronian, Levon"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2748"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "13300474"]
+[BlackFideId "400041"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 d6 6. Bg5 h6 7. Bh4 a6 8. Nbd2
+Ba7 9. Bb3 Qe7 10. Nc4 Be6 11. Ne3 g5 12. Bg3 O-O-O 13. Ba4 Nb8 14. Qc2 Bxe3 15.
+fxe3 Nh5 16. Bf2 f5 17. exf5 Bxf5 18. Qe2 Bxd3 19. Qxd3 e4 20. Qd4 c5 21. Qd1
+exf3 22. Qxf3 Nf6 23. Bc2 Nbd7 24. O-O-O Ne5 25. Qe2 Qe6 26. Bg3 Qxa2 27. Rhf1
+Nd5 28. Bxe5 dxe5 29. Bb1 Qb3 30. Bc2 Qa2 31. Qg4+ Kb8 32. Qe4 Nb6 33. Qxe5+ Ka8
+34. Rxd8+ Rxd8 35. Qf6 Nc4 36. Qxd8+ Ka7 37. Qd3 Nxb2 38. Qf5 Qa1+ 39. Kd2 Nc4+
+40. Ke2 Qxc3 41. Qxc5+ 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.10"]
+[Round "2.1"]
+[White "Kramnik, Vladimir"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2785"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "4101588"]
+[BlackFideId "13300474"]
+[EventDate "2016.12.09"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. c4 O-O 6. b3 b6 7. Nc3 Bb7 8. d4
+Nbd7 9. Bb2 Rc8 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. Qd3 c5 13. e4 Bb7 14. Rad1 cxd4
+15. Nxd4 Nf6 16. Qe2 Qe8 17. a3 a5 18. Rfe1 Bc5 19. Nb5 Qe7 20. e5 Bxg2 21. exf6
+Qb7 22. Nd6 Bxd6 23. Rxd6 Bh1 24. f3 Qxf3 25. Qd2 Qg2+ 26. Qxg2 Bxg2 27. fxg7
+Rfe8 28. Re2 Bf3 29. Rf2 Be4 30. Re2 Bf3 31. Rf2 Be4 32. Re2 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.10"]
+[Round "2.2"]
+[White "Anand, Viswanathan"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2804"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "5000017"]
+[BlackFideId "623539"]
+[EventDate "2016.12.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be6 8. f4
+Nbd7 9. g4 Rc8 10. f5 Bxb3 11. axb3 d5 12. exd5 Bb4 13. Bg2 Qb6 14. Bd2 e4 15.
+Qe2 O-O 16. O-O-O Nc5 17. Kb1 Rfd8 18. Rhe1 a5 19. Qf2 Qc7 20. Bf4 Qb6 21. Be5
+a4 22. bxa4 Bxc3 23. Bxc3 Nxd5 24. Rxd5 Rxd5 25. Bxe4 Rd6 26. a5 Qb5 27. Qe2
+Qxe2 28. Rxe2 Rd1+ 29. Ka2 Re8 30. Bf3 Rxe2 31. Bxe2 Rc1 32. Bf3 Rxc2 33. Bxb7 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.10"]
+[Round "2.3"]
+[White "So, Wesley"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2748"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "5202213"]
+[BlackFideId "400041"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 a5 11. Nc3 Ra6 12. Qd3 Rb6 13. Qc2 h6 14. Bd2 Bb4 15.
+Rfe1 Bxf3 16. Bxf3 Nc6 17. e3 e5 18. Bxc6 exd4 19. Bf3 dxc3 20. bxc3 Bc5 21.
+Rab1 Rd6 22. Red1 b6 23. c4 Qe7 24. Bc3 Rfd8 25. Bb2 Qe6 26. Rxd6 Rxd6 27. Rd1
+Rxd1+ 28. Qxd1 Bd6 29. Qd4 Qe8 30. Bd1 Qc6 31. Bc2 Kf8 32. e4 Bc5 33. Qd8+ Ne8
+34. Qd5 Qg6 35. Kg2 Ke7 36. f4 c6 37. Qd3 Nc7 38. f5 Qg5 39. Be5 Ne6 40. fxe6 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.10"]
+[Round "2.4"]
+[White "Topalov, Veselin"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2823"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "2020009"]
+[EventDate "2016.12.09"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. h4 Qb6 8. Na3
+cxd4 9. cxd4 Nb4 10. h5 h6 11. Bd2 a6 12. Bc3 Nec6 13. Rh3 O-O-O 14. Kf1 Kb8 15.
+Qd2 f6 16. exf6 gxf6 17. Rg3 Be8 18. Nh4 Bd6 19. Rg7 e5 20. dxe5 fxe5 21. Ng6
+Bxg6 22. hxg6 e4 23. Rf7 Rhg8 24. g7 Ka7 25. Qxh6 Nd3 26. Bxd3 exd3 27. Re1 Bc5
+28. Re6 Rc8 29. Qg5 Bd4 30. Re1 Bxc3 31. bxc3 Qb2 32. Nb1 Rce8 33. Qd2 Rxe1+ 34.
+Qxe1 d4 35. Nd2 dxc3 36. Nc4 Re8 37. Rxb7+ Qxb7 38. Qxe8 Qb1+ 0-1
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.10"]
+[Round "2.5"]
+[White "Giri, Anish"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2779"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[WhiteFideId "24116068"]
+[BlackFideId "2016192"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 c5 6. Nc3 cxd4 7. Qxd4 Qa5 8. O-O
+Qh5 9. Qe5 Qxe5 10. Nxe5 Nc6 11. Nd3 b6 12. Bg5 Ba6 13. b3 h6 14. Bd2 Rac8 15.
+Rac1 Rfd8 16. Rfd1 e6 17. Bf4 Ne8 18. h4 Bf8 19. Ne5 Nxe5 20. Bxe5 Bg7 21. Bxg7
+Kxg7 22. a4 g5 23. hxg5 hxg5 24. e3 Nf6 25. Rd6 Kf8 26. Rcd1 Rc5 27. Na2 Bc8 28.
+Nb4 Re8 29. Nd3 Ra5 30. Nb2 Rc5 31. Nd3 Ra5 32. Nb2 Rc5 33. R6d2 g4 34. Nd3 Rc7
+35. Ne5 Ke7 36. a5 bxa5 37. Ra2 Bb7 38. Rxa5 Bxg2 39. Kxg2 Rb8 40. Ra3 Rc5 41.
+Nd3 Rc7 42. Ne5 Rc5 43. Nd3 Rc7 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.11"]
+[Round "3.1"]
+[White "Aronian, Levon"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2794"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "13300474"]
+[BlackFideId "5202213"]
+[EventDate "2016.12.09"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nb4 6. Bc4 Nd3+ 7. Ke2 Nf4+ 8.
+Kf1 Nd3 9. Qe2 Nxc1 10. Rxc1 e6 11. h4 a6 12. e5 Nc6 13. Rh3 b5 14. Bd3 Bb7 15.
+Be4 Qd7 16. Rg3 g6 17. Kg1 Be7 18. Qe3 O-O-O 19. Rg4 Kb8 20. Rf4 Rhf8 21. a4 b4
+22. Bxc6 Bxc6 23. Ne4 Bxe4 24. Rxe4 a5 25. Rec4 Qxa4 26. d4 Rd5 27. dxc5 Qc6 28.
+Nd4 Qc7 29. Qf3 Rfd8 30. Nb5 Qxe5 31. c6 Rc8 32. Qxf7 Qf6 33. Rf4 Qxf7 34. Rxf7
+Rxb5 35. Rxe7 Rc7 36. Rxe6 Ka7 37. Kf1 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.11"]
+[Round "3.2"]
+[White "Caruana, Fabiano"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2823"]
+[BlackElo "2809"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "2020009"]
+[BlackFideId "4101588"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. a4 d5 7. exd5 Nxd5 8. a5
+a6 9. O-O b5 10. axb6 Nxb6 11. Bb3 Bf5 12. Bc2 Qd7 13. Qe2 Rfd8 14. Nxe5 Qe6 15.
+d4 Bxc2 16. Qxc2 Bxd4 17. Nf3 Be5 18. Bg5 f6 19. Be3 Nc4 20. Re1 Rab8 21. Bc1 a5
+22. Ra4 Qd5 23. Nbd2 Nb6 24. Rae4 a4 25. Rh4 Qd3 26. Qxd3 Rxd3 27. Nc4 Nxc4 28.
+Rxc4 a3 29. Rxc6 axb2 30. Bxb2 Rxb2 31. Nxe5 fxe5 32. Rxc7 Rdd2 33. Rc8+ Kf7 34.
+Rc7+ Kf6 35. Rf1 h6 36. h4 e4 37. h5 Rb5 38. Ra1 Rd6 39. Kf1 Rxh5 40. Raa7 Rh1+
+41. Ke2 g5 42. Rf7+ Kg6 43. g4 Rdd1 44. Rg7+ Kf6 45. Rgf7+ Kg6 46. Rg7+ Kf6 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.11"]
+[Round "3.3"]
+[White "Nakamura, Hikaru"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "2016192"]
+[BlackFideId "5000017"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 Bb4 7. e3 h6 8. Bh4
+g5 9. Bg3 Ne4 10. Nd2 Nxg3 11. hxg3 c6 12. a3 Ba5 13. Bd3 Kf8 14. Qc2 Nf6 15.
+O-O-O Kg7 16. Kb1 Be6 17. Nb3 Bb6 18. f4 Bg4 19. Rde1 Qd6 20. Rhf1 Rae8 21. Nc5
+Re7 22. Qd2 Rhe8 23. fxg5 hxg5 24. e4 Nxe4 25. N5xe4 dxe4 26. Rxe4 Rxe4 27. Nxe4
+Qg6 28. Nf6 Qxf6 29. Rxf6 Kxf6 30. Qc3 Bd7 31. d5+ Re5 32. Be4 g4 33. dxc6 bxc6
+34. Bxc6 Bxc6 35. Qxc6+ Kg5 36. Qd7 Re3 37. Qxf7 Rxg3 38. Qd5+ Kh4 39. a4 Bf2
+40. Qd8+ Kh5 41. Qe8+ Kg5 42. Qe5+ Kg6 43. Qf4 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.11"]
+[Round "3.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2804"]
+[BlackElo "2760"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2900084"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8.
+Nf3 O-O 9. d4 d5 10. g3 Re8 11. Nc3 Be6 12. Ne2 g5 13. h3 h6 14. Bg2 Ng7 15. Ne5
+f6 16. Nxc6 bxc6 17. c4 Qd7 18. Kh2 Bb4 19. Bd2 Bxd2 20. Qxd2 dxc4 21. Nc3 Bd5
+22. Ne4 Qf7 23. Qa5 f5 24. Nc3 Bxg2 25. Kxg2 f4 26. Qc5 fxg3 27. fxg3 Rxe1 28.
+Rxe1 Rf8 29. d5 Nh5 30. Rg1 cxd5 31. Qxd5 Qxd5+ 32. Nxd5 Rd8 33. Rd1 Kg7 34. Kf3
+c6 35. Ne3 Rd3 36. Rxd3 cxd3 37. Nf1 Kf6 38. Ke3 Ke5 39. Kxd3 Nf6 40. Ne3 h5 41.
+Nc4+ Kd5 42. Ne3+ Ke5 43. Nc4+ Kd5 44. Ne3+ 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.11"]
+[Round "3.5"]
+[White "Adams, Michael"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2771"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "400041"]
+[BlackFideId "24116068"]
+[EventDate "2016.12.09"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Nc3 e5 8.
+Qd3 Rc8 9. O-O h6 10. Nd2 Qc7 11. Rd1 Bg4 12. f3 Be6 13. Nf1 Nf6 14. Ne3 Be7 15.
+a4 O-O 16. Bd2 Rfd8 17. Be1 d5 18. Nexd5 Bxd5 19. exd5 Bb4 20. Kh1 Bxc3 21. Qxc3
+Qxc3 22. Bxc3 Nxd5 23. Bxe5 Ne3 24. Rxd8+ Rxd8 25. Rc1 f6 26. Bc3 Nxc2 27. Kg1
+Nd4 28. Kf2 Nb3 29. Re1 Nc5 30. Re7 b6 31. a5 bxa5 32. Bxa5 Rb8 33. Bc3 Nd3+ 34.
+Ke2 Nxb2 35. Re4 Rc8 36. Bxb2 Rc2+ 37. Ke3 Rxb2 38. g4 Rb3+ 39. Kf4 Kf7 40. Ra4
+Rb6 41. h4 g6 42. h5 g5+ 43. Ke4 Re6+ 44. Kd4 Ke7 45. Ra5 Kd7 46. Kc4 Kc7 47.
+Kb4 Rc6 48. Rf5 Re6 49. Kc4 Kb7 50. Kb4 Kb6 51. Rd5 Rc6 52. Rf5 Rd6 53. Kc4 a5
+54. Kb3 Ka6 55. Kb2 Rb6+ 56. Ka3 Rc6 57. Kb2 Kb6 58. Kb3 Rd6 59. Kb2 Ka6 60. Kb3
+Rb6+ 61. Ka3 Kb7 62. Ka4 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.12"]
+[Round "4.1"]
+[White "Giri, Anish"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2794"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[WhiteFideId "24116068"]
+[BlackFideId "5202213"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. Nbd2 e6 6. c3 cxd4 7. exd4 Nh5 8. Bg5
+f6 9. Be3 Bd6 10. g3 O-O 11. Bg2 f5 12. Ne5 f4 13. Qxh5 fxe3 14. fxe3 Nxe5 15.
+dxe5 Bc5 16. Rf1 Bxe3 17. Rxf8+ Qxf8 18. Qf3 Qxf3 19. Nxf3 Bd7 20. Rd1 Rf8 21.
+c4 Bc6 22. Nd4 Bxd4 23. Rxd4 Rf5 24. g4 Rxe5+ 25. Kf2 Kf7 26. b4 Ke7 27. b5 Bd7
+28. b6 dxc4 29. Rxc4 axb6 30. Rc7 Rb5 31. Rxb7 Kd6 32. Kg3 h6 33. Rb8 Rb2 34.
+Bf3 b5 35. a4 b4 36. a5 Rb3 37. Kg2 Bc6 38. Bxc6 Kxc6 39. a6 Ra3 40. Rxb4 Rxa6
+41. h4 e5 42. Kf3 Kd5 43. Rb5+ Ke6 44. Rb7 Kf6 45. g5+ hxg5 46. hxg5+ Kg6 47.
+Re7 Ra5 48. Ke3 Rb5 49. Kf3 Rb3+ 50. Kf2 Rb5 51. Kf3 Rd5 52. Ke3 e4 53. Kxe4
+Rxg5 54. Kf3 Kh5 55. Re1 Rg4 56. Rh1+ Kg5 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.12"]
+[Round "4.2"]
+[White "Kramnik, Vladimir"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2804"]
+[ECO "A49"]
+[Opening "King's Indian"]
+[Variation "fianchetto without c4"]
+[WhiteFideId "4101588"]
+[BlackFideId "623539"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d5 5. O-O O-O 6. Nbd2 Nc6 7. b3 e5 8. dxe5
+Ng4 9. c4 d4 10. Ne4 Ngxe5 11. Nxe5 Nxe5 12. Bg5 f6 13. Bc1 f5 14. Nc5 c6 15.
+Bb2 Qd6 16. e3 Nxc4 17. Bxd4 Bxd4 18. Qxd4 Qxd4 19. exd4 Nd6 20. Rfd1 Nb5 21. d5
+Nc3 22. dxc6 Nxd1 23. Bd5+ Kh8 24. cxb7 Bxb7 25. Bxb7 Rad8 26. Ne6 Rfe8 27. Nxd8
+Rxd8 28. Kf1 Nc3 29. a3 Rb8 30. Rc1 Nb5 31. Rc8+ Rxc8 32. Bxc8 Nxa3 33. Ke2 Nb5
+34. Kd3 Kg7 35. Bd7 Nd6 36. f3 Kf6 37. Kd4 Nf7 38. Bb5 Ne5 39. Be2 g5 40. Kd5 h5
+41. b4 Ng6 42. b5 f4 43. g4 hxg4 44. fxg4 Ne5 45. h3 f3 46. Bf1 f2 47. Ke4 Ng6
+48. Ke3 Ke5 49. Bg2 Nf8 50. Kxf2 Kf4 51. Ke2 Kg3 52. Bf1 Ne6 53. Ke3 Nf4 54. Ke4
+Nxh3 55. Kf5 Nf2 56. Kxg5 Nxg4 57. Be2 Ne3 58. Kf6 Nd5+ 59. Ke5 Nc3 60. Bc4 Nxb5
+61. Bxb5 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.12"]
+[Round "4.3"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2823"]
+[BlackElo "2785"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Be7 7. a4 b4 8. Nbd2
+Bc5 9. Nf1 d6 10. Ng3 Nd4 11. Nxd4 Bxd4 12. O-O O-O 13. Rb1 Rb8 14. c3 Ba7 15.
+d4 Be6 16. Bxe6 fxe6 17. Be3 bxc3 18. bxc3 Rxb1 19. Qxb1 Ng4 20. h3 Nxe3 21.
+fxe3 Qg5 22. Kh2 a5 23. Rxf8+ Kxf8 24. Qb7 Bb6 25. Qc8+ Kf7 26. Qd7+ Qe7 27. Qb5
+g6 28. Nf1 Qg5 29. Nd2 Qxe3 30. Qd7+ Kf8 31. Qd8+ 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.12"]
+[Round "4.4"]
+[White "Anand, Viswanathan"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2748"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "5000017"]
+[BlackFideId "400041"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O h6 7. Re1 O-O 8. Nbd2
+Ne7 9. Bb3 Ng6 10. d4 Bb6 11. Nc4 Be6 12. h3 c6 13. dxe5 dxe5 14. Ncxe5 Nxe5 15.
+Nxe5 Re8 16. Qxd8 Raxd8 17. Bc2 g5 18. Nf3 g4 19. Nd4 gxh3 20. gxh3 Bxh3 21. Re3
+Bg4 22. Rg3 Bc7 23. f4 h5 24. e5 Nd5 25. Bf5 Bb6 26. Bxg4 hxg4 27. Rxg4+ Kf8 28.
+Bd2 Ke7 29. Kf2 Nxc3 30. bxc3 Rxd4 31. cxd4 Bxd4+ 32. Be3 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.12"]
+[Round "4.5"]
+[White "Topalov, Veselin"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2779"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "2016192"]
+[EventDate "2016.12.09"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. Nf3 Bg4 6. c3 e6 7. b4 a6 8. Nbd2 Nxe5
+9. Qa4+ Nd7 10. Ne5 Nf6 11. c4 a5 12. Nb3 axb4 13. Qb5 Be7 14. c6 bxc6 15. Nxc6
+Qc7 16. f3 Bf5 17. Nxe7 Rb8 18. Nxf5 Rxb5 19. Nxg7+ Ke7 20. cxb5 Nc5 21. Bb2
+Nxb3 22. axb3 Qf4 23. Be2 Rc8 24. Rd1 Qg5 25. b6 Rc2 26. Bxf6+ Qxf6 27. Nh5 Qc3+
+28. Kf1 Qe3 29. Re1 Qxb6 30. Nf4 Qe3 31. g3 Qxb3 32. Kg2 Kf8 33. Kh3 Qb2 34. Rb1
+Qf6 35. Rhe1 e5 36. Nxd5 Qe6+ 37. Kg2 Qxd5 38. Rxb4 Qd2 39. Rb8+ Kg7 40. Kf1 Qh6
+41. Kg2 e4 42. Rb3 Qe6 43. Re3 exf3+ 44. Kxf3 Qh3 45. Rd1 Qh5+ 46. Kf2 Qxh2+ 47.
+Kf3 Rc6 48. Rd4 Rg6 49. g4 Rf6+ 50. Ke4 Qh1+ 51. Kd3 Qb1+ 52. Kd2 Qb2+ 53. Kd3
+Rc6 0-1
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.13"]
+[Round "5.1"]
+[White "So, Wesley"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "5202213"]
+[BlackFideId "5000017"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bf4 dxc4 6. e3 b5 7. Nxb5 Bb4+ 8.
+Nc3 Nd5 9. a3 Nxc3 10. Qd2 Bxa3 11. Qxc3 Bd6 12. Bxd6 cxd6 13. Bxc4 O-O 14. O-O
+Bb7 15. Be2 Qb6 16. Rfc1 Rfc8 17. Qa3 Bxf3 18. Bxf3 Rab8 19. h4 Rxc1+ 20. Rxc1
+Qxb2 21. Qxb2 Rxb2 22. Rc7 Nf8 23. Rxa7 d5 24. Ra8 g6 25. g3 h5 26. g4 hxg4 27.
+Bxg4 Kg7 28. h5 gxh5 29. Bxh5 Ng6 30. Bxg6 Kxg6 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.13"]
+[Round "5.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2804"]
+[BlackElo "2823"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "623539"]
+[BlackFideId "2020009"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
+Qd2 Be6 9. O-O-O Qd7 10. b3 O-O-O 11. Nd4 a6 12. Nxe6 fxe6 13. g3 d5 14. Bh3 Kb8
+15. Rhe1 Rhe8 16. f4 Bf6 17. Kb1 Qd6 18. Qd3 e5 19. Bc1 e4 20. Qd2 Qc5 21. Bb2
+d4 22. Qe2 dxc3 23. Rxd8+ Rxd8 24. Bc1 Rd2 25. Bxd2 cxd2 26. Qxd2 Bc3 27. Qc1
+Bxe1 28. Qxe1 e3 29. c3 Na7 30. Bf1 Nb5 31. Kb2 Qa3+ 32. Kb1 Qc5 33. Kb2 Qa3+
+34. Kb1 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.13"]
+[Round "5.3"]
+[White "Nakamura, Hikaru"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2809"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2016192"]
+[BlackFideId "4101588"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
+Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Ba6 13. Re1 Bf6 14. Ne5 Bxe5 15.
+fxe5 Bxd3 16. Qxd3 Ra7 17. g3 Qa8 18. Rab1 axb4 19. axb4 Ra3 20. Qc2 Rb8 21. h4
+h6 22. Kg2 Qa6 23. Rec1 bxc5 24. bxc5 Rxb1 25. Qxb1 Qc4 26. Qb2 Rb3 27. Qd2 Qb4
+28. Rc2 f6 29. f4 fxe5 30. fxe5 Nf8 31. Ne2 Qb7 32. Nf4 Qf7 33. Rb2 Rxb2 34.
+Qxb2 g5 35. hxg5 hxg5 36. Nd3 Ng6 37. Nf2 Ne7 38. Qd2 Qg6 39. g4 Kg7 40. Nh3 Kh6
+41. Kg3 Nc8 42. Qf2 Kg7 43. Qe3 Kh6 44. Qf3 Kg7 45. Qa3 Qe4 46. Nxg5 Qe1+ 47.
+Kf4 Qf2+ 48. Nf3 Ne7 49. Qa7 Kf8 50. Qb8+ Kf7 51. Qb7 Kf8 52. Qd7 Ng6+ 53. Kg5
+Qxf3 54. Qxe6 Nh8 55. Qf5+ Nf7+ 56. Kf6 Qxf5+ 57. gxf5 Nd8 58. e6 Nf7 59. Kg6
+Nd8 60. Kf6 Nf7 61. exf7 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.13"]
+[Round "5.4"]
+[White "Aronian, Levon"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2771"]
+[ECO "D77"]
+[Opening "Neo-Gruenfeld, 6.O-O"]
+[WhiteFideId "13300474"]
+[BlackFideId "24116068"]
+[EventDate "2016.12.09"]
+
+1. g3 d5 2. Nf3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 dxc4 7. Na3 c5 8. Nxc4
+Be6 9. b3 Nc6 10. Bb2 cxd4 11. Nxd4 Nxd4 12. Bxd4 b6 13. Rc1 Rc8 14. Rc2 b5 15.
+Ne3 Rxc2 16. Nxc2 Qa5 17. Qa1 Qd2 18. Qd1 Qa5 19. Qa1 Qd2 20. Qd1 Qa5 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.13"]
+[Round "5.5"]
+[White "Adams, Michael"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2760"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "400041"]
+[BlackFideId "2900084"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2 Be6 7. O-O Bd6 8.
+d4 Nd7 9. Nxe5 Nxe5 10. dxe5 Bxe5 11. f4 Bd4+ 12. Kh1 f6 13. c3 Bb6 14. f5 Bf7
+15. e5 fxe5 16. Qg4 Qd3 17. Qxg7 Rg8 18. Qxe5+ Kd7 19. Qe4 Qa6 20. f6 Rae8 21.
+Qf5+ Kd8 22. c4 Qa5 23. Qh3 Qb4 24. Qxh7 Qf8 25. b3 Bd4 26. Qd3 Qd6 27. Ne4 Qd7
+28. Rd1 Kc8 29. Qxd4 Qg4 30. Bg5 Rxe4 31. Qxa7 Bd5 32. Qa8+ Kd7 33. Rxd5+ 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.15"]
+[Round "6.1"]
+[White "Topalov, Veselin"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2794"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "2900084"]
+[BlackFideId "5202213"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. a4 d6 7. Bg5 Ba7 8. Nbd2 h6
+9. Bh4 g5 10. Bg3 O-O 11. O-O Nh7 12. h3 h5 13. d4 exd4 14. Nxd4 g4 15. hxg4
+hxg4 16. Nxc6 bxc6 17. e5 d5 18. Be2 Qg5 19. a5 f5 20. exf6 Nxf6 21. Ra4 Rf7 22.
+Re1 Nh5 23. Bxg4 Nxg3 24. Re8+ Kg7 25. Rxc8 Bxf2+ 26. Kh2 Qe5 27. Kh3 Ne2 0-1
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.15"]
+[Round "6.2"]
+[White "Kramnik, Vladimir"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2748"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "4101588"]
+[BlackFideId "400041"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 e6 4. Bd3 b6 5. O-O Bb7 6. Nbd2 Bd6 7. Qe2 Ne4 8. b3
+O-O 9. Bb2 Nd7 10. c4 a5 11. Rfd1 Qe7 12. Rac1 a4 13. Nf1 axb3 14. axb3 Ra2 15.
+Bb1 Rxb2 16. Qxb2 Ba3 17. Qc2 c5 18. cxd5 Bxd5 19. N3d2 Ndf6 20. f3 Nxd2 21.
+Nxd2 g6 22. e4 Bb7 23. Nc4 Bxc1 24. Qxc1 Rd8 25. dxc5 Qxc5+ 26. Kh1 Rxd1+ 27.
+Qxd1 Kg7 28. Qd2 Ba6 29. Ne3 Bb5 30. Nc2 h5 31. h4 Nd7 32. b4 Qe7 33. g3 Qf6 34.
+Nd4 e5 35. Nxb5 Qxf3+ 36. Qg2 Qd1+ 37. Qg1 Qf3+ 38. Qg2 Qd1+ 39. Qg1 Qf3+ 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.15"]
+[Round "6.3"]
+[White "Caruana, Fabiano"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2823"]
+[BlackElo "2779"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2016.12.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. a3 Be7 10. Bf2 Qc7 11. Qf3 Nbd7 12. O-O-O b5 13. g4 g5 14. h4 gxf4 15.
+Be2 b4 16. axb4 Ne5 17. Qxf4 Nexg4 18. Bxg4 e5 19. Qxf6 Bxf6 20. Nd5 Qd8 21. Nf5
+Rb8 22. Nxf6+ Qxf6 23. Rxd6 Be6 24. Rhd1 O-O 25. h5 Qg5+ 26. Be3 Qf6 27. Nxh6+
+Kh8 28. Bf5 Qe7 29. b5 Qe8 30. Nxf7+ Rxf7 31. Rxe6 Qxb5 32. Rh6+ 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.15"]
+[Round "6.4"]
+[White "Anand, Viswanathan"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2771"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "5000017"]
+[BlackFideId "24116068"]
+[EventDate "2016.12.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8. g5
+Nfd7 9. h4 b5 10. a3 Bb7 11. Be3 Nc6 12. Qd2 O-O 13. O-O-O Nc5 14. f3 Rb8 15.
+Rg1 Qc7 16. b4 Nd7 17. Ndxb5 axb5 18. Nxb5 Qc8 19. Nxd6 Bxd6 20. Qxd6 Rd8 21. b5
+Nde5 22. Qc5 Rxd1+ 23. Kxd1 Nxf3 24. bxc6 Bxc6 25. Rg3 Rb1+ 26. Ke2 Qa6+ 27.
+Kxf3 Qxf1+ 28. Bf2 Qh1+ 29. Ke3 Qc1+ 30. Kf3 Qd1+ 31. Ke3 Qc1+ 32. Kf3 Qh1+ 33.
+Ke3 Qxe4+ 34. Kd2 Qf4+ 35. Kc3 Rb8 36. Rd3 Rc8 37. Kb2 h5 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.15"]
+[Round "6.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2804"]
+[BlackElo "2785"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "623539"]
+[BlackFideId "13300474"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. a4 a5 7. c3 d5 8. exd5
+Nxd5 9. Re1 Bg4 10. Nbd2 Nb6 11. Bb5 Bd6 12. h3 Bh5 13. Ne4 f5 14. Ng3 Bxf3 15.
+Qxf3 Ne7 16. Bg5 c6 17. Bc4+ Nxc4 18. dxc4 e4 19. Nxe4 fxe4 20. Qxe4 Rf7 21.
+Rad1 Qc7 22. Rxd6 Qxd6 23. Bxe7 Qd2 24. Bc5 h6 25. Qe2 Rd8 26. Bd4 Qg5 27. Qg4
+Re7 28. Rxe7 Qxe7 29. Qf5 Re8 30. Qxa5 Qf7 31. Kh2 Qf4+ 32. g3 Qf7 33. Kg2 Re1
+34. g4 Rd1 35. Qe5 Qg6 36. b4 b6 37. Bxb6 c5 38. Bxc5 Qc6+ 39. f3 Rd3 40. Qb8+
+Kh7 41. Qf4 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.16"]
+[Round "7.1"]
+[White "So, Wesley"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2809"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "5202213"]
+[BlackFideId "4101588"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be2 Qb6 12. b4 Ne6 13. Be5 a5 14. O-O axb4
+15. axb4 Rxa1 16. Bxa1 Rd8 17. b5 Bc5 18. Qd2 d4 19. exd4 Nxd4 20. Bxd4 Bxd4 21.
+Nxd4 Rxd4 22. Qe3 Be6 23. Ra1 h6 24. Ra8+ Kh7 25. Bd3+ g6 26. Ra4 Rd6 27. Qxb6
+Rxb6 28. Rd4 Kg7 29. f4 Kf6 30. Kf2 Bf5 31. Bc4 Ke7 32. Ke3 f6 33. h4 Rd6 34.
+Rxd6 Kxd6 35. Kd4 b6 36. g3 g5 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.16"]
+[Round "7.2"]
+[White "Adams, Michael"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2823"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical, Botvinnik system reversed"]
+[WhiteFideId "400041"]
+[BlackFideId "2020009"]
+[EventDate "2016.12.09"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 e5 6. O-O d6 7. a3 a5 8. Ne1 Be6
+9. d3 Nge7 10. Nc2 d5 11. cxd5 Nxd5 12. Ne3 Nb6 13. Nc4 O-O 14. Bxc6 bxc6 15.
+Nxb6 Qxb6 16. Be3 Qxb2 17. Na4 Qb3 18. Nxc5 Qxd1 19. Rfxd1 Bd5 20. Rab1 Rfb8 21.
+a4 f5 22. f3 Ba2 23. Rbc1 Rb2 24. Kf1 Bd5 25. Bd2 Ra2 26. Ke1 Bf8 27. Nd7 Bb3
+28. Ra1 Rxa4 29. Rxa4 Bxa4 30. Ra1 Bb3 31. Rxa5 Rxa5 32. Bxa5 Bg7 33. Bc3 Be6
+34. Nxe5 Bxe5 35. Bxe5 Kf7 36. Kd2 Bb3 37. e4 Ke6 38. Bg7 h5 39. Bf8 Kf7 40. Bc5
+Ke6 41. h3 Ba4 42. Ke3 Bd1 43. Bb4 Kf7 44. Kf4 Ke6 45. g4 fxg4 46. fxg4 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.16"]
+[Round "7.3"]
+[White "Aronian, Levon"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13300474"]
+[BlackFideId "5000017"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Bd3
+dxc4 9. Bxc4 Qxd1+ 10. Rxd1 Bb4 11. Rd3 Ne4 12. O-O Bxc3 13. bxc3 Nc6 14. Bb5 f6
+15. Bd6 Rd8 16. Rfd1 Rxd6 17. Rxd6 Nxd6 18. Rxd6 Kf7 19. Bxc6 Ke7 20. Bxb7 Bxb7
+21. Rd4 Rc8 22. Rb4 Bd5 23. Ra4 Rxc3 24. Rxa7+ Kf8 25. h3 Rc1+ 26. Kh2 Rc2 27.
+Kg3 Rxa2 28. Rxa2 Bxa2 29. Nd2 e5 30. f4 exf4+ 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.16"]
+[Round "7.4"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2804"]
+[ECO "B96"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 7.f4"]
+[WhiteFideId "2016192"]
+[BlackFideId "623539"]
+[EventDate "2016.12.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. a3 Be7 10. Bf2 Qc7 11. Qf3 Nbd7 12. O-O-O b5 13. g4 Bb7 14. Bg2 Rc8 15.
+Kb1 g5 16. Qh3 Nc5 17. Rhe1 h5 18. Nf5 Ncxe4 19. Bxe4 Nxe4 20. Bd4 Rg8 21. Nxe7
+Kxe7 22. gxh5 gxf4 23. Qh4+ Kf8 24. Ka1 b4 25. Nxe4 Bxe4 26. Rxe4 Qxc2 27. Ree1
+bxa3 28. Qxf4 axb2+ 29. Bxb2 Rg5 30. Qxd6+ Kg8 31. Rg1 Qa4+ 32. Ba3 Rxg1 33.
+Rxg1+ Kh7 34. Qd3+ Kh6 35. Rg6+ Kxh5 36. Rg1 f5 37. Qf3+ 1-0
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.16"]
+[Round "7.5"]
+[White "Giri, Anish"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2760"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "24116068"]
+[BlackFideId "2900084"]
+[EventDate "2016.12.09"]
+
+1. c4 Nf6 2. d4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. h3 b6
+9. b4 a5 10. a3 h6 11. Be2 Ba6 12. O-O Qc8 13. Rb1 Bxe2 14. Qxe2 axb4 15. axb4
+Qb7 16. Rfc1 Rfc8 17. Ne1 Bd8 18. Qd1 Bc7 19. Nd3 b5 20. Ra1 Ne4 21. Ne2 Bd8 22.
+f3 Nef6 23. Nc3 Nf8 24. Rc2 Ng6 25. Rca2 Rxa2 26. Rxa2 Ra8 27. Qa1 Rxa2 28. Qxa2
+Nxf4 29. exf4 Nd7 30. Ne2 Bc7 31. h4 Nb8 32. h5 Qa6 33. Qb2 f6 34. g4 Nd7 35.
+Kf2 Qa8 36. Ke1 Kf7 37. Kd2 Kg8 38. Kd1 Kf7 39. Kc2 Qa4+ 40. Kc1 Qa8 41. Kb1 Qa7
+42. Qc1 Qa8 43. Kb2 Bd8 44. Qg1 Be7 45. Nec1 Bd8 46. Nb3 Qb7 47. Qe3 Qa8 48. Qc1
+Qa4 49. Qe1 Qa8 50. Qd2 Qa4 51. Nf2 Qa8 52. Nh3 Qc8 53. Qc2 Nf8 54. Nc1 Kg8 55.
+Nd3 Nh7 56. Qe2 Nf8 57. Qe3 Qd7 58. Ng1 Qe8 59. Ne2 Bc7 60. Nec1 Kf7 61. Nb3 Ke7
+62. Qe1 Kd7 63. Nbc1 Kc8 64. Ne2 Nd7 65. Ng3 Qf7 66. Qe3 Kb7 67. Ne2 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.17"]
+[Round "8.1"]
+[White "Caruana, Fabiano"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2823"]
+[BlackElo "2794"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2020009"]
+[BlackFideId "5202213"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d5 7. exd5 Qxd5 8. Bc4
+Qd8 9. Nbd2 a5 10. a4 h6 11. Re1 Bf5 12. Nf1 e4 13. Ng3 Bh7 14. dxe4 Qxd1 15.
+Rxd1 Bxe4 16. Bf4 Bb6 17. Nxe4 Nxe4 18. Bg3 Rae8 19. Rd7 Nxg3 20. hxg3 Ne5 21.
+Nxe5 Rxe5 22. Rad1 Rf5 23. R1d2 Re8 24. Kf1 Kf8 25. f3 Re7 26. Rd8+ Re8 27. R8d7
+Re7 28. Rd8+ Re8 29. R2d7 Rxd8 30. Rxd8+ Ke7 31. Rg8 Rg5 32. g4 Bc5 33. Bd3 Bd6
+34. Kf2 Kf6 35. Re8 Rd5 36. Ke2 Re5+ 37. Rxe5 Kxe5 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.17"]
+[Round "8.2"]
+[White "Nakamura, Hikaru"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2785"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qb3 c5 6. dxc5 Nc6 7. Bg5 dxc4 8.
+Qxc4 Qa5 9. Rc1 Qxc5 10. Qxc5 Bxc5 11. e3 Bb4 12. a3 Bxc3+ 13. Rxc3 Ne4 14. Rc1
+Nxg5 15. Nxg5 Ke7 16. Ne4 Bd7 17. Nc5 Rhc8 18. Nxd7 Kxd7 19. Bb5 a6 20. Bxc6+
+Rxc6 21. Rxc6 Kxc6 22. Ke2 Rd8 23. Rc1+ Kd7 24. Rd1+ Ke7 25. Rc1 Kd7 26. Rd1+
+Ke7 27. Rc1 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.17"]
+[Round "8.3"]
+[White "Kramnik, Vladimir"]
+[Black "Giri, Anish"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2771"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "24116068"]
+[EventDate "2016.12.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be6 8. Bg2
+h5 9. Bg5 Nbd7 10. Qd2 Be7 11. a4 Rc8 12. O-O Nf8 13. Bxf6 Bxf6 14. Rfd1 Be7 15.
+Nd5 h4 16. Nec3 Nh7 17. Ra3 Rc6 18. Rb3 Qb8 19. Na2 Bxd5 20. Qxd5 Qc8 21. Nb4
+Nf6 22. Qd2 Rc5 23. Rc1 hxg3 24. hxg3 g6 25. Rd3 Kf8 26. c3 Kg7 27. Rd1 Qd7 28.
+b3 Qg4 29. c4 Nxe4 30. f3 Nxd2 31. fxg4 Nxc4 32. bxc4 Rxc4 33. Nd5 Bd8 34. Ra1
+Rxg4 35. a5 e4 36. Rb3 Rh5 37. Ne3 Rgg5 38. Kf2 Rxa5 39. Rxa5 Rxa5 40. Bxe4 b5
+41. Rd3 Be7 42. Kf3 Ra1 43. Nd5 Bd8 44. Nf4 Be7 45. Rc3 d5 46. Bxd5 Ra3 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.17"]
+[Round "8.4"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2779"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2900084"]
+[BlackFideId "5000017"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Re8 10. O-O-O e5 11. Bg5 d4 12. Nd5 b5 13. Bxf6 gxf6 14. cxb5 Na5 15.
+exd4 exd4 16. Nb4 Bxb4 17. axb4 Be6 18. Nxd4 Rc8 19. Nc6 Nxc6 20. bxc6 Qb6 21.
+Qa4 Rxc6+ 22. Kb1 Rd8 23. Rxd8+ Qxd8 24. Be2 Bf5+ 25. Ka2 Rc2 26. Rd1 Qb6 27.
+Bg4 Qe6+ 28. Ka3 Qe5 29. Qb3 Bg6 30. Bf3 Rxf2 31. h4 Bc2 32. Rd8+ Kg7 33. Qc3
+Qb5 34. Qc6 Rxf3+ 0-1
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.17"]
+[Round "8.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2804"]
+[BlackElo "2748"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "623539"]
+[BlackFideId "400041"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O Re8 7. Bg5 h6 8. Bh4
+a6 9. Bc4 d6 10. a4 Ba7 11. Na3 Be6 12. b4 Nb8 13. Bxe6 Rxe6 14. Nc4 Nbd7 15.
+Ne3 c6 16. Nd2 a5 17. bxa5 Qxa5 18. Ndc4 Qa6 19. Nf5 d5 20. Nce3 Kh7 21. exd5
+Nxd5 22. Qh5 Rf8 23. Nxd5 cxd5 24. Be7 Nf6 25. Qh3 Re8 26. Bb4 h5 27. d4 exd4
+28. Nxd4 Bxd4 29. cxd4 Qc4 30. Rab1 b6 31. a5 bxa5 32. Bxa5 Qxd4 33. Bc3 Qg4 34.
+Qxg4 hxg4 35. Bxf6 Rxf6 36. Rb4 Re4 37. Rxe4 dxe4 38. Re1 Re6 39. g3 f5 40. Kg2
+g5 41. h3 gxh3+ 42. Kxh3 Kg6 43. Kg2 Re5 44. Ra1 f4 45. Ra6+ Kf5 46. gxf4 gxf4
+47. Ra8 Rb5 48. Rh8 Rb2 49. Rf8+ Ke5 50. Re8+ Kd4 51. Rf8 Ke5 52. Re8+ Kd5 53.
+Rd8+ Ke5 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.18"]
+[Round "9.1"]
+[White "So, Wesley"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2804"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "5202213"]
+[BlackFideId "623539"]
+[EventDate "2016.12.09"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. Be2 d5 6. d4 cxd4 7. exd4 e4 8. Ne5
+dxc4 9. Bxc4 Nxe5 10. dxe5 Qxd1+ 11. Kxd1 Ng4 12. e6 fxe6 13. Nxe4 Bd7 14. f3
+Ne5 15. Bb3 Rd8 16. Bd2 Nd3 17. Kc2 Nb4+ 18. Bxb4 Bxb4 19. Nc3 Ke7 20. Rhe1 Bxc3
+21. Kxc3 Rc8+ 22. Kd2 Rhd8 23. Ke3 e5 24. Rad1 Bc6 25. h4 h6 26. a3 Rxd1 27.
+Rxd1 Rf8 28. Rf1 Rf4 29. g3 Rd4 30. Rd1 Rxd1 31. Bxd1 g5 32. hxg5 hxg5 33. f4
+gxf4+ 34. gxf4 exf4+ 35. Kxf4 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.18"]
+[Round "9.2"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2809"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "5000017"]
+[BlackFideId "4101588"]
+[EventDate "2016.12.09"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 c5 8. dxc5
+bxc5 9. O-O Nc6 10. cxd5 exd5 11. Rc1 h6 12. h3 Be6 13. Bb5 Qb6 14. Qa4 Rfc8 15.
+Ne5 Nxe5 16. Bxe5 a6 17. Be2 Rd8 18. Bf3 Nd7 19. Bg3 Nf6 20. Rfd1 Rac8 21. Be5
+Nd7 22. Bg3 Nf6 23. Be5 Nd7 24. Bg3 Nf6 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.18"]
+[Round "9.3"]
+[White "Giri, Anish"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2771"]
+[BlackElo "2823"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, 6...a6"]
+[WhiteFideId "24116068"]
+[BlackFideId "2020009"]
+[EventDate "2016.12.09"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. b3 cxd4 8. Nxd4
+Bd7 9. Bb2 Nc6 10. Nf3 Be7 11. Nbd2 O-O 12. Rc1 Rc8 13. Qe2 Nb4 14. a3 b5 15.
+axb4 bxc4 16. Nxc4 Bxb4 17. Ra1 Bb5 18. Nd4 Bxc4 19. bxc4 a5 20. Rfc1 Nd7 21.
+Nb3 Qg5 22. c5 Nxc5 23. Nxa5 Ne4 24. Nc6 Bc5 25. Nd4 Bxd4 26. Bxd4 Rxc1+ 27.
+Rxc1 e5 28. Bb2 Rd8 29. Rd1 Rxd1+ 30. Qxd1 h5 31. Qd3 Nf6 32. h3 e4 33. Qd8+ Kh7
+34. Qe7 Qg6 35. Bxf6 gxf6 36. Qc5 Kg7 37. Qd5 f5 38. Qe5+ Qf6 39. Qg3+ Kh7 40.
+Kh2 Qe7 41. Qf4 Kg6 42. Kg3 Qd8 43. Qe5 Qg5+ 44. Kh2 Qd8 45. Qg3+ Kh7 46. Qf4
+Kg6 47. Qe5 Qd2 48. Qg3+ Kh6 49. Qf4+ Kg6 50. Qg3+ Kh6 51. Qh4 Qd6+ 52. Qf4+
+Qxf4+ 53. exf4 Kg6 54. Kg1 Kg7 55. Kf1 Kf6 56. Ke2 Ke6 57. Kd2 Kd6 58. Ke2 Ke6 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.18"]
+[Round "9.4"]
+[White "Adams, Michael"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2748"]
+[BlackElo "2779"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "400041"]
+[BlackFideId "2016192"]
+[EventDate "2016.12.09"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8.
+Nf3 O-O 9. d4 d5 10. c3 Re8 11. Bd3 Bd6 12. Rxe8+ Qxe8 13. Qc2 g6 14. Nbd2 Bd7
+15. Nf1 b6 16. Ng3 Nxg3 17. hxg3 f6 18. Bf4 Bxf4 19. gxf4 Qf7 20. Nh4 Kg7 21. g3
+Ne7 22. Re1 Re8 23. Re3 Nc8 24. Ng2 Nd6 25. Rxe8 Qxe8 26. Ne3 Be6 27. f5 Bf7 28.
+fxg6 hxg6 29. Qe2 Be6 30. Ng2 c6 1/2-1/2
+
+[Event "8th London Classic 2016"]
+[Site "London ENG"]
+[Date "2016.12.18"]
+[Round "9.5"]
+[White "Aronian, Levon"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2760"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "2900084"]
+[EventDate "2016.12.09"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Bg7 4. Bg2 Nc6 5. Nf3 d6 6. O-O e6 7. e3 Nge7 8. d4 O-O
+9. Re1 a6 10. Bd2 Rb8 11. Rc1 b6 12. Ne2 e5 13. Bc3 h6 14. d5 Nb4 15. Ra1 b5 16.
+a3 bxc4 17. axb4 cxb4 18. Bd2 Nxd5 19. Qc1 c3 20. bxc3 b3 21. Qb1 Nf6 22. Qb2
+Qc7 23. c4 Qxc4 24. Nc3 Be6 25. Rec1 Nd7 26. e4 Nc5 27. Bf1 Qb4 28. Be3 Rfc8 29.
+Nd2 a5 30. Bxc5 Rxc5 31. Ra4 Qb7 32. Bc4 Qc6 33. Bd5 Bxd5 34. exd5 Qd7 35. Ra3
+a4 36. Nxa4 Rxd5 37. Nxb3 e4 38. Qa2 Qf5 39. Re1 Rdb5 40. Rc1 d5 41. Nac5 d4 42.
+Ra7 d3 43. Rc7 h5 44. Qa4 h4 45. Qxe4 Qxe4 46. Nxe4 Rxb3 47. gxh4 Bh6 48. Rf1
+R3b4 49. f3 Rb2 50. Nf6+ Kg7 51. Ng4 d2 52. Rd7 Re8 53. Nf2 Re1 0-1
+

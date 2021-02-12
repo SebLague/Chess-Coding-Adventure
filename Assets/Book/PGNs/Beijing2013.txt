@@ -1,0 +1,1725 @@
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.04"]
+[Round "1.1"]
+[White "Giri,A"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2776"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "14109603"]
+[EventDate "2013.07.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. Rfe1
+Bb4 15. g4 hxg4 16. hxg4 Ne7 17. f3 Bxc3 18. bxc3 Bxa2 19. Ne4 Rh8 20. e6 Bxe6
+21. Bxc7 b5 22. Be5 Rg8 23. Nc5 Nd5 24. f4 Bxg4 25. c4 f6 26. Rb1 Nb6 27. Bxf6+
+Kf7 28. Bg5 Nxc4 29. Re7+ Kg6 30. Rbe1 Bf5 31. Kf2 Rad8 32. Nd3 a5 33. Rg1 Rd7
+34. Bh4+ Kh7 35. Rxd7 Bxd7 36. Ne5 Nxe5 37. fxe5 Re8 38. Re1 a4 39. Kf3 a3 40.
+Bf2 Rf8+ 41. Kg3 Be6 42. Bc5 Ra8 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.04"]
+[Round "1.2"]
+[White "Morozevich,A"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2705"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[WhiteFideId "4116992"]
+[BlackFideId "8601429"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Nf3 Nf6 6. Ne5 e6 7. b3 Bd7 8. Bb2
+Nc6 9. Bd3 Bd6 10. Qe2 O-O 11. O-O-O Nb4 12. Kb1 Nfd5 13. Rhf1 Nxd3 14. Qxd3
+Bxe5 15. fxe5 Bc6 16. Ne4 Ne7 17. Nd6 Nc8 18. Qc3 Qg5 19. Nc4 Nb6 20. g3 Nxc4
+21. Qxc4 Rac8 22. Qe2 b5 23. Rf4 c4 24. Ba3 Rfd8 25. Bd6 f5 26. bxc4 bxc4 27.
+Qxc4 Qg6 28. Qe2 Qe8 29. Rb4 Bd5 30. Rc1 a5 31. Rb2 Qa4 32. Qe3 h6 33. c3 Qe4+
+34. Qxe4 Bxe4+ 35. Ka1 Bd3 36. Re1 Rd7 37. Re3 Be4 38. Rb3 Rb7 39. Kb2 a4 40.
+Rb4 Rxb4+ 41. Bxb4 Kf7 42. Ka3 g5 43. c4 Kg6 44. d3 Bc6 45. Bc5 f4 46. gxf4 gxf4
+47. Re1 Rd8 48. d4 Kf5 49. d5 exd5 50. e6 dxc4 51. e7 Rd5 52. Kb4 c3 53. Rc1 Rd3
+54. Rxc3 Rxc3 55. Kxc3 Kg4 56. Kd2 Kh3 57. Bd6 f3 58. Ke1 Kg2 59. Bc5 Kxh2 60.
+Kf2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.04"]
+[Round "1.3"]
+[White "Gelfand,B"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2767"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "2900084"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. Be2
+c5 9. d5 e6 10. O-O exd5 11. exd5 Bf5 12. Bf4 Re8 13. Rad1 Ne4 14. Nb5 g5 15.
+Be3 h6 16. d6 Qd7 17. a3 Rad8 18. Qc1 Qe6 19. b4 cxb4 20. Nfd4 Qf6 21. Nxf5 Qxf5
+22. Bxa7 Nc3 23. Nxc3 bxc3 24. Bd3 Qf6 25. Bxa6 bxa6 26. Bc5 Qf5 27. Bb6 Rd7 28.
+a4 Re2 29. Qa3 c2 30. Rc1 Bf8 31. Bc5 Re5 32. Bb4 a5 33. Bc3 Bxd6 34. Qb3 Re2
+35. Qc4 Rde7 36. Qc6 R7e6 37. Qc8+ Bf8 38. Bb2 Qd3 39. g3 Rd2 40. Qc3 Qxc3 41.
+Bxc3 Rde2 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.04"]
+[Round "1.4"]
+[White "Leko,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2761"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "703303"]
+[BlackFideId "13401319"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Be7 9. Bg2 b5 10. Nd5 Nbd7 11. Nec3 Bb7 12. Nxe7 Qxe7 13. Bg5 Qe6 14. O-O Rc8
+15. Re1 b4 16. Na4 Rc4 17. f3 h4 18. g4 d5 19. b3 Rd4 20. Qxd4 exd4 21. exd5
+Nxd5 22. Rxe6+ fxe6 23. Rd1 e5 24. f4 Ne3 25. Bxb7 Nxd1 26. Bc6 exf4 27. Nc5 O-O
+28. Nxd7 Re8 29. Kf1 Re3 30. Bxf4 Rxh3 31. Ne5 Rc3 32. Bd5+ Kf8 33. Be4 Ne3+ 34.
+Ke2 h3 35. g5 a5 36. Nf3 Nxc2 37. Bd2 Rc7 38. Kd3 Ne3 39. Bxe3 dxe3 40. Kxe3 Ke7
+41. Bf5 Rc3+ 42. Kf4 a4 43. bxa4 Ra3 44. Bxh3 Rxa4 45. Ke3 Rxa2 46. Bf5 b3 47.
+Nd2 Ra5 48. Bd3 Rxg5 49. Nxb3 Rg3+ 50. Kd4 Rxd3+ 51. Kxd3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.04"]
+[Round "1.5"]
+[White "Kamsky,G"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2780"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "2000024"]
+[BlackFideId "4126025"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Ba4 a6 6. c4 Ng6 7. d4 cxd4 8. Nxd4
+Qc7 9. Be3 Bd6 10. g3 Nxd4 11. Qxd4 Be5 12. Qd2 Qxc4 13. Bc2 Qc7 14. Bb3 O-O 15.
+f4 Bf6 16. e5 Be7 17. Nc3 b5 18. Rac1 Qb8 19. Ne4 Bb7 20. Nd6 Bxd6 21. exd6 Rc8
+22. h4 h6 23. Rxc8+ Qxc8 24. Rc1 Bc6 25. Rc5 Qe8 26. Bd4 a5 27. a3 Qb8 28. Be3
+Qe8 29. Qd4 Nf8 30. Bd2 Nh7 31. f5 Bd5 32. Bc2 b4 33. g4 Qd8 34. fxe6 dxe6 35.
+g5 hxg5 36. hxg5 Qxd6 37. Bf4 Qa6 38. Kf2 Rc8 39. axb4 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.04"]
+[Round "1.6"]
+[White "Ivanchuk,V"]
+[Black "Wang Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2752"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[WhiteFideId "14100010"]
+[BlackFideId "8602883"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. e3 dxc4 6. Bxc4 a6 7. a4 Nc6 8. O-O
+Be7 9. Qe2 cxd4 10. Rd1 e5 11. exd4 exd4 12. Nxd4 Nxd4 13. Qe5 Qd6 14. Qxd6 Bxd6
+15. Rxd4 Bc5 16. Rd1 O-O 17. Bf4 Bg4 18. Re1 Rac8 19. Nd5 Rfd8 20. Nxf6+ gxf6
+21. b3 Kg7 22. h3 Bf5 23. Rad1 Bb4 24. Rxd8 Rxd8 25. Rc1 Ba3 26. Re1 Bb4 27. Rc1
+Ba3 28. Re1 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.05"]
+[Round "2.1"]
+[White "Karjakin,Sergey"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2752"]
+[ECO "B09"]
+[Opening "Pirc"]
+[Variation "Austrian attack"]
+[WhiteFideId "14109603"]
+[BlackFideId "8602883"]
+[EventDate "2013.07.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bd3 e5 6. dxe5 dxe5 7. Nf3 exf4 8.
+Bxf4 O-O 9. Qd2 Nc6 10. O-O-O Be6 11. h3 Nd7 12. Bg5 Bf6 13. h4 h5 14. Qf4 Bxg5
+15. hxg5 Qe7 16. Bb5 Nb6 17. Bxc6 bxc6 18. Ne5 Nc4 19. Nxc4 Bxc4 20. g4 Rab8 21.
+gxh5 Qb4 22. Rd4 Qxb2+ 23. Kd2 Rfd8 24. Qf6 Rxd4+ 25. Qxd4 Qb6 26. Qxc4 Rd8+ 27.
+Kc1 Rd4 28. Qe2 Qc5 29. Nb1 Qxg5+ 30. Nd2 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.05"]
+[Round "2.2"]
+[White "Grischuk,A"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2733"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[WhiteFideId "4126025"]
+[BlackFideId "14100010"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 10. Nf3 O-O 11. Bf4 Nh5 12. Be3 Bxc3 13. bxc3 e5 14. Rfd1 Bg4 15.
+h3 Bxf3 16. Qxf3 Nd7 17. Bf1 Rad8 18. Bg5 f6 19. Bh6 Ng7 20. Rd2 Nc5 21. Rad1
+Qc6 22. Rd5 Rf7 23. Qe3 Nge6 24. g3 Rfd7 25. Bg2 Na4 26. Qf3 Kf7 27. h4 Ke7 28.
+c5 Naxc5 29. h5 Qa4 30. Be3 b6 31. Qg4 Rg8 32. hxg6 hxg6 33. Bf3 Rdd8 34. Kg2
+Rh8 35. Qxg6 Rdg8 36. Qf5 Ng7 37. Qg6 Ne8 38. Qf5 Ng7 39. Qg6 Ne8 40. Qf5 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.05"]
+[Round "2.3"]
+[White "Mamedyarov,S"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2763"]
+[ECO "D15"]
+[Opening "QGD Slav"]
+[Variation "4.Nc3"]
+[WhiteFideId "13401319"]
+[BlackFideId "2000024"]
+[EventDate "2013.07.04"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. e3 g6 6. Qb3 Bg7 7. Bd3 O-O 8. O-O e6
+9. e4 dxe4 10. Nxe4 Nxe4 11. Bxe4 Qc7 12. c5 Nd7 13. Bg5 Re8 14. Rfe1 e5 15. Bd3
+Nf8 16. Nxe5 Be6 17. Bc4 Bxc4 18. Qxc4 Bxe5 19. dxe5 Rxe5 20. Bf4 Rxe1+ 21. Rxe1
+Qd7 22. h3 Re8 23. Rxe8 Qxe8 24. Qb4 Ne6 25. Bd6 Qd7 26. g4 f6 27. f4 Ng7 28.
+Kf2 h5 29. Kf3 Qf7 30. Kg3 Qd5 31. Qxb7 Qd3+ 32. Kg2 Qe2+ 33. Kg1 Qe1+ 34. Kg2
+Qe2+ 35. Kg1 Qe1+ 36. Kg2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.05"]
+[Round "2.4"]
+[White "Topalov,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2737"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "2900084"]
+[BlackFideId "703303"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 c6 8. e4 d5
+9. Bd3 dxe4 10. Nxe4 Bb7 11. Qe2 Nbd7 12. Nxf6+ Nxf6 13. O-O c5 14. d5 exd5 15.
+Rfe1 dxc4 16. Bxc4 O-O 17. Rad1 Qd7 18. Ng5 Nd5 19. Qd3 Bxg5 20. Bxg5 f6 21.
+Bxf6 Rxf6 22. Bxd5+ Qxd5 23. Qxd5+ Bxd5 24. Rxd5 Kf8 25. Kf1 Re8 26. Red1 g6 27.
+h4 h5 28. Rd7 Re7 29. Rd8+ Kf7 30. Rc8 Rfe6 31. Rd3 Re8 32. Rc7+ R8e7 33. Rc8
+Re8 34. Rc7+ R8e7 35. Rc8 Re8 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.05"]
+[Round "2.5"]
+[White "Wang Yue"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2773"]
+[ECO "D73"]
+[Opening "Neo-Gruenfeld, 5.Nf3"]
+[WhiteFideId "8601429"]
+[BlackFideId "2805677"]
+[EventDate "2013.07.04"]
+
+1. g3 g6 2. Bg2 Bg7 3. d4 d5 4. Nf3 Nf6 5. c4 c6 6. cxd5 cxd5 7. Nc3 Ne4 8. Qb3
+Nxc3 9. bxc3 O-O 10. Ba3 Nc6 11. Nd2 Be6 12. O-O Qd7 13. Rfe1 Rac8 14. Qb5 Rfd8
+15. Rac1 b6 16. e3 Na5 17. Bf1 Qxb5 18. Bxb5 Kf8 19. Bb4 Nc6 20. Ba3 Na5 21. Bb4
+Nc6 22. Ba3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.05"]
+[Round "2.6"]
+[White "Giri,A"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2736"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4116992"]
+[EventDate "2013.07.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Be7 7. Be3 b6 8. Be2 O-O
+9. O-O Nc6 10. Qd2 Bb7 11. Rad1 Rc8 12. Kh1 f6 13. dxc5 Nxc5 14. exf6 Bxf6 15.
+Nd4 Nxd4 16. Bxd4 Bxd4 17. Qxd4 Qf6 18. Kg1 Qg6 19. Bd3 Qf6 20. Be2 Qg6 21. Bd3
+Qf6 22. Be2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.06"]
+[Round "3.1"]
+[White "Morozevich,A"]
+[Black "Karjakin,Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2776"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "4116992"]
+[BlackFideId "14109603"]
+[EventDate "2013.07.04"]
+
+1. Nf3 Nf6 2. c4 b6 3. d4 e6 4. g3 Ba6 5. Qb3 Nc6 6. Nbd2 Na5 7. Qc3 c5 8. dxc5
+bxc5 9. e4 Bb7 10. Bd3 Nc6 11. e5 Ng4 12. O-O Qc7 13. Re1 Be7 14. h3 Nh6 15. Nb3
+f5 16. Be3 Nd8 17. Be2 a5 18. a4 Nhf7 19. Nfd2 Nxe5 20. Bf4 Qc6 21. f3 Ng6 22.
+Qxg7 Nf7 23. Bd3 Bf8 24. Qc3 Nxf4 25. Bxf5 Rg8 26. Ne4 O-O-O 27. Bg4 h5 28. gxf4
+hxg4 29. hxg4 Qc7 30. Nxa5 Ba8 31. Qd2 Bh6 32. b4 Bxf4 33. Qf2 Bxe4 34. Rxe4 Ng5
+35. Qe2 Rh8 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.06"]
+[Round "3.2"]
+[White "Gelfand,B"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2734"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "2805677"]
+[BlackFideId "24116068"]
+[EventDate "2013.07.04"]
+
+1. d4 d6 2. Nf3 g6 3. c4 f5 4. Nc3 Nf6 5. g3 Bg7 6. Bg2 O-O 7. O-O c6 8. b3 Qa5
+9. Bb2 e5 10. Qd2 Qc7 11. d5 e4 12. Nd4 Qe7 13. dxc6 bxc6 14. Rad1 Rd8 15. Nc2
+d5 16. f3 Rd7 17. cxd5 cxd5 18. Nb5 Nc6 19. Rc1 Bb7 20. Ncd4 Nxd4 21. Bxd4 a6
+22. Nc3 Rc8 23. Na4 Rdc7 24. Rxc7 Rxc7 25. Rc1 Ne8 26. Rxc7 Bxd4+ 27. Qxd4 Nxc7
+28. Qb6 Ne6 29. fxe4 dxe4 30. e3 Qd7 31. Bf1 Ng5 32. Bc4+ Kg7 33. Qd4+ Qxd4 34.
+exd4 Nf3+ 35. Kf2 Nxd4 36. Nc5 Bc6 37. Nxa6 Kf6 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.06"]
+[Round "3.3"]
+[White "Leko,P"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2705"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "703303"]
+[BlackFideId "8601429"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. a4 Bb7 14. Rfe1
+Rc8 15. Bd3 h6 16. a5 Qc7 17. axb6 axb6 18. h3 Rfd8 19. Ra3 Qd6 20. Qb2 Ra8 21.
+Rb3 Qf4 22. Rb4 Qd6 23. Bb1 Rdc8 24. Nd2 e5 25. dxe5 Qxe5 26. Rxb6 Ba6 27. Nf3
+Qxb2 28. Rxb2 Nc5 29. Rd2 Bb7 30. Nd4 Rd8 31. f3 Ne6 32. Nb3 Ba6 33. Rc1 Rdb8
+34. Ba2 Rc8 35. Rxc8+ Rxc8 36. Na5 Nf4 37. Bd5 Rc5 38. Nb3 Rc3 39. Nd4 g6 40.
+Kf2 Kg7 41. Bb3 Bc8 42. h4 g5 43. hxg5 hxg5 44. Ba4 Be6 45. Bb5 Kf6 46. Rc2
+Rxc2+ 47. Nxc2 g4 48. Nb4 gxf3 49. gxf3 Kg5 50. Ke3 Ng2+ 51. Kd4 Kf4 52. Be2 Kg3
+53. e5 Nh4 54. Ke3 Ng6 55. Ke4 Bc8 56. Bc4 Bb7+ 57. Bd5 Bxd5+ 58. Nxd5 Nxe5 59.
+Kxe5 Kxf3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.06"]
+[Round "3.4"]
+[White "Kamsky,G"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2767"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "2000024"]
+[BlackFideId "2900084"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. g3 O-O 6. Bg2 dxc4 7. O-O Nc6 8. Bg5
+a6 9. e3 Rb8 10. Nd2 e5 11. Bxf6 Bxf6 12. d5 Na5 13. b4 cxb3 14. axb3 b6 15. b4
+Nb7 16. Rxa6 Be7 17. Qb1 Nd6 18. Ra7 Bd7 19. Nf3 f6 20. Qb3 Kh8 21. Rfa1 Rc8 22.
+h4 Qe8 23. Rc1 Qh5 24. Nb1 Nb5 25. Ra6 Bd6 26. Nbd2 Ra8 27. Raa1 Rxa1 28. Rxa1
+Qf7 29. Nc4 Be7 30. Nfd2 Rd8 31. Ne4 Qf8 32. d6 Nxd6 33. Nexd6 Bxd6 34. Nxd6
+cxd6 35. Ra7 f5 36. Bd5 f4 37. exf4 exf4 38. Qf3 Qf5 39. Be4 Qf6 40. Qxf4 Qxf4
+41. gxf4 g6 42. Bd5 Bf5 43. Rb7 Re8 44. Rxb6 Re1+ 45. Kg2 Be4+ 46. Bxe4 Rxe4 47.
+Kf3 d5 48. Rb7 h5 49. b5 Rb4 50. Ke3 Kg8 51. b6 Kf8 52. Kd3 d4 53. Ke4 Ke8 54.
+Kd3 Kf8 55. Rb8+ Kg7 56. b7 Kh7 57. Ke4 Kg7 58. f3 Kh7 59. Kd5 d3 60. Kc6 d2 61.
+Rd8 Rc4+ 62. Kb6 Rb4+ 63. Ka6 Ra4+ 64. Kb5 Ra2 65. Rd7+ Kh6 66. Rd4 Rb2+ 67. Kc6
+Rc2+ 68. Kd6 Rb2 69. f5 Rxb7 70. Rxd2 g5 71. Kc6 Rf7 72. Rd6+ Kh7 73. hxg5 Rxf5
+74. Rh6+ Kg7 75. Rxh5 Rxf3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.06"]
+[Round "3.5"]
+[White "Ivanchuk,V"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2761"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "14100010"]
+[BlackFideId "13401319"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Qa4+ Nc6 6. Bg2 Bd7 7. Qxc4 Bd6 8.
+Nc3 O-O 9. O-O Rb8 10. Rd1 h6 11. e4 b5 12. Qd3 b4 13. Ne2 e5 14. dxe5 Nxe5 15.
+Nxe5 Bxe5 16. Qc2 Qe8 17. Rb1 c5 18. Qxc5 Bc6 19. f3 Bc7 20. Qf2 Bb6 21. Be3
+Bxe4 22. fxe4 Ng4 23. Bxb6 Nxf2 24. Bxf2 Qa4 25. Nd4 Qxa2 26. Nc6 Rb7 27. e5 Rd7
+28. Bc5 Rxd1+ 29. Rxd1 Re8 30. Bxb4 Qxb2 31. Bd5 Re6 32. Bd6 a5 33. Rf1 Qd2 34.
+Bxe6 fxe6 35. Ne7+ Kh7 36. Rf3 a4 37. Ra3 Qe1+ 38. Kg2 Qe2+ 39. Kg1 g5 40. Ra1
+Qe3+ 41. Kg2 Qe4+ 42. Kh3 g4+ 43. Kh4 Qe3 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.06"]
+[Round "3.6"]
+[White "Wang Hao"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2752"]
+[BlackElo "2780"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "4126025"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. e3 Bg7 7. f4 O-O 8. Nf3
+a5 9. Rc1 Na6 10. Na4 Nxa4 11. Qxa4 b6 12. Qc6 Ra7 13. Bxa6 Bxa6 14. Kf2 Qd6 15.
+Ne5 Rc8 16. Rhd1 Bxe5 17. dxe5 Qxc6 18. Rxc6 Bb7 19. Rcc1 Bd5 20. Ra1 Be4 21. g4
+c5 22. Be1 Kf8 23. a3 Ke8 24. Rac1 Rd7 25. Rd4 Bc6 26. Rxd7 Kxd7 27. b4 cxb4 28.
+axb4 a4 29. b5 Bxb5 30. Rxc8 Kxc8 31. Bb4 Bd3 32. Kf3 Kd7 33. e4 Bc2 34. Ke3 h5
+35. gxh5 gxh5 36. h4 e6 37. Kd4 Kc6 38. Ba3 Kb5 39. Kc3 Bxe4 40. Bf8 Bg6 41. Ba3
+Kc6 42. Kd4 Bh7 43. Bf8 Bg8 44. Ba3 Kd7 45. Bb4 Kc6 46. Ba3 Kd7 47. Bb4 Kc6 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.07"]
+[Round "4.1"]
+[White "Karjakin,Sergey"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2780"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "14109603"]
+[BlackFideId "4126025"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6 8. f3
+e6 9. Be3 b5 10. Qd2 Nbd7 11. g4 h6 12. O-O-O b4 13. Nce2 Qc7 14. h4 d5 15. Bf4
+e5 16. Bh2 dxe4 17. g5 hxg5 18. hxg5 Rxh2 19. Rxh2 exd4 20. Rh8 Nd5 21. Qxd4 Bb7
+22. fxe4 N5b6 23. Qxb4 O-O-O 24. Qb3 Bxe4 25. Nc3 Qf4+ 26. Kb1 Kc7 27. Bxa6 Nc5
+28. Nb5+ Kc6 29. Na7+ Kc7 30. Nb5+ Kc6 31. Na7+ Kc7 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.07"]
+[Round "4.2"]
+[White "Mamedyarov,S"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2752"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[WhiteFideId "13401319"]
+[BlackFideId "8602883"]
+[EventDate "2013.07.04"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e3 b5 5. a4 b4 6. Ne4 Qd5 7. Ng3 Nf6 8. Be2 e6
+9. e4 Nxe4 10. Bf3 f5 11. Qe2 c3 12. Nxe4 fxe4 13. Bxe4 Qb3 14. Bd3 Ba6 15. Bxa6
+Nxa6 16. Qxa6 cxb2 17. Qxc6+ Kf7 18. Bxb2 Qxb2 19. Rc1 b3 20. Qb7+ Be7 21. Qf3+
+Kg6 22. Ne2 Rhf8 23. Qe4+ Kf7 24. O-O Rac8 25. d5 Qf6 26. Qxh7 Rxc1 27. Nxc1 Rb8
+28. Nd3 b2 29. Rb1 Rb3 30. g3 Bd6 31. dxe6+ Ke7 32. Qe4 Qc3 33. Qf5 Qf6 34. Qd5
+Qc3 35. Qh5 Kd8 36. Nxb2 Rxb2 37. Rd1 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.07"]
+[Round "4.3"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2733"]
+[ECO "B32"]
+[Opening "Sicilian defence"]
+[WhiteFideId "2900084"]
+[BlackFideId "14100010"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Bd3 e6 7. Be3 Qc7 8. f4
+d6 9. c4 Nb4 10. Nc3 Nxd3+ 11. Qxd3 a6 12. O-O Be7 13. Rac1 O-O 14. h3 b6 15.
+Nd4 Bb7 16. b3 Rae8 17. a4 Qc8 18. Rfe1 Nd7 19. Bf2 Nc5 20. Qb1 Qa8 21. b4 Nd7
+22. Nb3 Rc8 23. Qd3 Rc7 24. a5 Rfc8 25. axb6 Rxc4 26. Na5 Rxb4 27. Rb1 Nc5 28.
+Qe2 Rxb1 29. Rxb1 Bf6 30. e5 dxe5 31. Bxc5 Rxc5 32. Nxb7 Qxb7 33. Ne4 Rc6 34.
+Nxf6+ gxf6 35. Qd1 e4 36. Rb3 e3 37. Kh2 h6 38. Qd8+ Kh7 39. Rxe3 Qxb6 40. Qxf6
+Qxe3 41. Qxf7+ Kh8 42. Qf8+ Kh7 43. Qf7+ Kh8 44. Qf8+ Kh7 45. Qf7+ Kh8 46. Qf8+
+Kh7 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.07"]
+[Round "4.4"]
+[White "Wang Yue"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2763"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "8601429"]
+[BlackFideId "2000024"]
+[EventDate "2013.07.04"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. e3 Bg7 5. d4 d6 6. Be2 e6 7. O-O Nf6 8. b3 O-O
+9. Bb2 b6 10. Qd2 Bb7 11. d5 exd5 12. cxd5 Nb4 13. e4 Re8 14. a3 Na6 15. Bd3 Nc7
+16. Rfe1 Qd7 17. Rad1 Ng4 18. a4 a6 19. Nb1 f6 20. Na3 b5 21. h3 Nh6 22. Bxf6
+Bxf6 23. Qxh6 Bb2 24. Nc2 Rf8 25. Ne3 Qg7 26. Qg5 Rad8 27. axb5 Nxb5 28. Nc4 Bc3
+29. Re3 h6 30. Qg3 g5 31. Bf1 Bf6 32. Na5 Nd4 33. Nc6 Bxc6 34. dxc6 Nxc6 35.
+Bc4+ Kh7 36. Rxd6 Be5 37. Nxe5 Rxd6 38. Nxc6 Qa1+ 39. Kh2 Rxc6 40. e5 Qd4 41.
+Rd3 Qf4 42. Rd7+ Kh8 43. e6 Qxg3+ 44. Kxg3 Re8 45. Kg4 Rcxe6 46. Bxe6 Rxe6 47.
+Kh5 Rc6 48. g3 Kg8 49. Re7 Kf8 50. Rh7 Rf6 51. g4 a5 52. Rb7 Ke8 53. Rb5 Rxf2
+54. Kxh6 Rf3 55. Kxg5 Rxh3 56. Kg6 Rc3 57. g5 Kd7 58. Kf5 Kc6 59. Rb8 a4 60.
+bxa4 Rf3+ 61. Ke6 Re3+ 62. Kf6 Rf3+ 63. Kg7 c4 64. g6 Kc5 65. a5 Kd4 66. Rc8 Ra3
+67. Kf6 Rf3+ 68. Ke6 Rg3 69. Kf5 Rf3+ 70. Kg4 Rf1 71. a6 Ra1 72. Kf3 Ra3+ 73.
+Ke2 Re3+ 74. Kd2 Re7 75. Rd8+ Kc5 76. Rg8 Kb4 77. g7 Ka5 78. Kc3 Rc7 79. a7 Rxa7
+80. Kxc4 Ka6 81. Kd5 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.07"]
+[Round "4.5"]
+[White "Giri,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2737"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "Reshevsky variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "703303"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 exd5 8. b4
+c6 9. Ng3 Re8 10. Bd3 Nbd7 11. O-O Nb6 12. Qc2 a5 13. b5 c5 14. dxc5 Bxc5 15.
+Bb2 Bd6 16. Nce2 g6 17. Rad1 Bd7 18. Qb1 Na4 19. Ba1 Be5 20. Rc1 Qe7 21. Bxe5
+Qxe5 22. Qc2 Nb6 23. Qc5 Na4 24. Qc2 Nb6 25. Qc5 Na4 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.07"]
+[Round "4.6"]
+[White "Morozevich,A"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2773"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "2805677"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. Be2
+c5 9. d5 e6 10. Bg5 exd5 11. Nxd5 Be6 12. Rd1 Qa5+ 13. Rd2 Bxd5 14. exd5 Rfe8
+15. Bxf6 Bxf6 16. O-O Rad8 17. d6 Nb4 18. Qf4 Kg7 19. h4 h5 20. Bc4 Nc6 21. Bxf7
+Rf8 22. Bxg6 Be5 23. Qg5 Bf4 24. Qxh5 Bxd2 25. Qh7+ Kf6 26. Bh5 Ke6 27. Qg6+ Kd5
+28. Nxd2 Qxd2 29. Rd1 Qd4 30. Rxd4+ cxd4 31. b4 Rxd6 32. Qg7 Rdf6 33. Qxb7 Kc4
+34. b5 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.09"]
+[Round "5.1"]
+[White "Gelfand,B"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2776"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "2805677"]
+[BlackFideId "14109603"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. Rc1
+d5 9. cxd5 exd5 10. Bg2 Nbd7 11. O-O Re8 12. Ne5 Bb7 13. Nd3 a5 14. Bf4 c6 15.
+Rc2 Nf8 16. Bg5 Ne6 17. Bxf6 Bxf6 18. e3 Ba6 19. Qd2 Qd6 20. Rfc1 Rab8 21. h4 g6
+22. Ne2 Rbc8 23. Nef4 Nxf4 24. Nxf4 Be7 25. Nd3 Qe6 26. Nf4 Qd6 27. Bh3 Rc7 28.
+Nd3 Ra8 29. a4 Bb7 30. Qd1 Qd8 31. Qf3 Ba3 32. Ra1 Bd6 33. Rac1 Qe7 34. Nf4 Rd8
+35. Bg2 Kg7 36. Qg4 Ba3 37. Ra1 Bc8 38. Qg5 Qxg5 39. hxg5 Bd6 40. Rac1 Bxf4 41.
+gxf4 Rd6 42. Kh2 h5 43. Bh3 Bf5 44. Bxf5 gxf5 45. Kg3 Kg6 46. Kh4 Rc8 47. Rc3
+Rc7 48. R3c2 Rc8 49. Rc3 Rc7 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.09"]
+[Round "5.2"]
+[White "Leko,P"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2736"]
+[ECO "B44"]
+[Opening "Sicilian, Szen ('anti-Taimanov') variation"]
+[WhiteFideId "703303"]
+[BlackFideId "4116992"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 Be6 8. c4
+Be7 9. N1c3 a6 10. Na3 Bg5 11. Nc2 Nh6 12. Bxg5 Qxg5 13. Qd2 Qxd2+ 14. Kxd2 f5
+15. Bd3 f4 16. Nd5 Rc8 17. Be2 Ng4 18. f3 Nf6 19. g3 O-O 20. Nb6 Rcd8 21. g4 Ne7
+22. Nb4 h5 23. g5 Nd7 24. N6d5 Ng6 25. h4 Rc8 26. Rac1 Kf7 27. b3 Rc5 28. Nd3
+Rc6 29. N3b4 Rc5 30. Nd3 Rc6 31. N3b4 Rc5 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.09"]
+[Round "5.3"]
+[White "Kamsky,G"]
+[Black "Giri,A"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2734"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, Sokolsky variation"]
+[WhiteFideId "2000024"]
+[BlackFideId "24116068"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. f3 O-O 10. Be3 Rc8 11. b3 a6 12. Rc1 Nc6 13. a4 e6 14. O-O d5 15.
+Nxc6 bxc6 16. a5 Qe7 17. Na4 dxe4 18. Nb6 Rd8 19. Qe2 Rab8 20. Kh1 exf3 21. Rxf3
+Ng4 22. Bg1 Ne5 23. Rff1 c5 24. b4 cxb4 25. c5 Qb7 26. Rfd1 Nc6 27. Qf3 Qc7 28.
+h3 Be5 29. Qb3 Rxd1 30. Rxd1 Rd8 31. Rf1 Nd4 32. Qxb4 Nf5 33. Rb1 Ng3+ 34. Kh2
+Bd4 35. Bxd4 Rxd4 36. Qe1 Ne4+ 37. Kh1 Qxc5 38. Rc1 Qg5 39. Kg1 Kg7 40. Nc4 h5
+41. Ne3 Rd3 42. Nf1 Nd2 43. Kh1 Rxh3+ 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.09"]
+[Round "5.4"]
+[White "Ivanchuk,V"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2705"]
+[ECO "B44"]
+[Opening "Sicilian, Szen, hedgehog variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "8601429"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. N1c3 a6 8. Na3
+Be7 9. Be2 O-O 10. O-O b6 11. Be3 Bb7 12. Qb3 Nd7 13. Rac1 Nc5 14. Qc2 Bf6 15.
+Rfd1 Be5 16. Nab1 Qh4 17. g3 Qf6 18. Qd2 Qg6 19. f4 Nxe4 20. Nxe4 Qxe4 21. Kf2
+Qf5 22. g4 Qf6 23. g5 Qf5 24. Ke1 Qe4 25. fxe5 Qh1+ 26. Bf1 Nxe5 27. Qf2 b5 28.
+c5 dxc5 29. Bxc5 Rfd8 30. Qg3 Rd5 31. Rxd5 Qxd5 32. Be3 Nf3+ 33. Kf2 Qxa2 34.
+Be2 Qxb2 35. Qc7 Nd4 36. Nd2 Rf8 37. Rb1 Qc2 38. Qxb7 Nxe2 39. Kxe2 Rd8 40. Re1
+Qd3+ 41. Kf2 a5 42. Rc1 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.09"]
+[Round "5.5"]
+[White "Wang Hao"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2752"]
+[BlackElo "2767"]
+[ECO "D76"]
+[Opening "Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6"]
+[WhiteFideId "8602883"]
+[BlackFideId "2900084"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 O-O 7. O-O Nb6 8. Nc3
+Nc6 9. e3 e5 10. d5 Na5 11. Nd2 f5 12. e4 Nac4 13. Na4 Nd6 14. Nc5 a5 15. b3 Qe7
+16. a4 Rd8 17. Ba3 Qf7 18. Rc1 fxe4 19. Ndxe4 Nxe4 20. Nxe4 Nxd5 21. Nd6 cxd6
+22. Rxc8 Nf6 23. Rxa8 Rxa8 24. Re1 Re8 25. Bb2 Qc7 26. Qd3 Qb6 27. Rd1 e4 28.
+Qxd6 Qxb3 29. Qd4 Rf8 30. Bf1 Kh8 31. Rd2 h5 32. Bg2 Re8 33. h3 Kh7 34. Qc3 Qxc3
+35. Bxc3 e3 36. Re2 exf2+ 37. Kf1 Rc8 38. Bxa5 Rc4 39. Re7 Rxa4 40. Bc3 Kg8 41.
+Rxb7 Ra6 42. Rb8+ Kh7 43. Rb7 Kg8 44. Bd4 Ra4 45. Bb2 Ra6 46. Kxf2 Rd6 47. Ke2
+Rd7 48. Bxf6 Rxb7 49. Bxb7 Bxf6 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.09"]
+[Round "5.6"]
+[White "Grischuk,A"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2761"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "4126025"]
+[BlackFideId "13401319"]
+[EventDate "2013.07.04"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8. a3
+O-O 9. d3 Be6 10. Be3 Nd5 11. Nxd5 Bxd5 12. Qa4 Re8 13. Rac1 a6 14. Rfd1 Bf8 15.
+Rc3 h6 16. Rdc1 Rc8 17. Bh3 Rb8 18. Bf5 g6 19. Be4 Bxe4 20. dxe4 Qd7 21. Kg2 Qe6
+22. b4 Qg4 23. Qc2 Qe6 24. Qa4 Qg4 25. Qc2 Qe6 26. h3 g5 27. Qa4 Qg6 28. Nd2
+Rbd8 29. Rxc6 bxc6 30. Rxc6 Re6 31. Rc4 h5 32. Nf3 Be7 33. Nd2 g4 34. h4 Bf8 35.
+Qc2 c6 36. Nf1 Red6 37. Bg5 R8d7 38. Be3 Re6 39. Rc3 Rd8 40. Nd2 Bg7 41. Rc5 Bf8
+42. Ra5 c5 43. bxc5 Rc6 44. Ra4 Qe6 45. Rc4 Rc7 46. Nb3 Qc6 47. a4 Rb8 48. Qc3
+Qe6 49. Nc1 Rb2 50. Qxb2 Qxc4 51. Qxe5 Rc6 52. Qd5 Qxa4 53. Nd3 Re6 54. Bd4 Bg7
+55. e5 Bh6 56. Nf4 Bxf4 57. gxf4 Qc2 58. e4 Qd1 59. f5 Re8 60. e6 Qf3+ 61. Kg1 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.10"]
+[Round "6.1"]
+[White "Karjakin,Sergey"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2761"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "14109603"]
+[BlackFideId "13401319"]
+[EventDate "2013.07.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 Nc6 8.
+Qd2 Be6 9. O-O-O Qd7 10. Kb1 h6 11. h3 a6 12. g4 h5 13. gxh5 Rxh5 14. Rg1 Bf6
+15. Bg5 O-O-O 16. Bxf6 gxf6 17. h4 Ne5 18. Qe3 Kb8 19. b3 Bg4 20. Be2 Bxf3 21.
+Bxf3 Rxh4 22. Bg2 Qf5 23. Rd4 Rg4 24. Rxg4 Nxg4 25. Qd4 Qxf2 26. Qxf2 Nxf2 27.
+Rf1 Ng4 28. Bh3 Ne5 29. Rxf6 c6 30. Rf2 Rg8 31. c4 Rg3 32. Bf5 Kc7 33. Rh2 Rf3
+34. Rh5 a5 35. Kb2 Rg3 36. Rh7 Kb6 37. Bc8 Rg8 38. Bf5 Kc5 39. Rh4 Rg2 40. Rf4
+Rg3 41. Bc8 b6 42. a3 Rf3 43. Rxf3 Nxf3 44. Kc3 d5 45. b4+ axb4+ 46. axb4+ Kd6
+47. cxd5 cxd5 48. Kd3 Ne5+ 49. Ke3 Nc6 50. c3 Ke5 51. Kd3 Ne7 52. Bb7 Nf5 53.
+Bc8 Nd6 54. Bg4 f5 55. Bf3 f4 56. Bh5 Nc4 57. Bf3 Ne3 58. Be2 Ng2 59. Bg4 Ne3
+60. Be2 Nc4 61. Bf3 Nd6 62. Bh5 Ne4 63. c4 d4 64. Bf3 Ng5 65. Bg4 f3 66. c5 f2
+67. Ke2 bxc5 68. bxc5 Kf4 69. c6 Kg3 70. c7 Kg2 71. c8=Q f1=Q+ 72. Kd2 Ne4+ 73.
+Kc2 d3+ 74. Kb2 Kg3 75. Qf5 Qg2+ 76. Ka3 Qh1 77. Bd1 Qxd1 78. Qxe4 Qe2 79. Qg6+
+Kf2 80. Qf6+ Qf3 81. Qd4+ Ke2 82. Qe5+ Kf2 83. Qd4+ Kf1 84. Qa1+ Kg2 85. Qg7+
+Qg3 86. Qb7+ Kf2 87. Kb2 Ke2 88. Qe4+ Qe3 89. Qg2+ Qf2 90. Qe4+ Kd2 91. Kb3 Qb6+
+92. Kc4 Qa6+ 93. Kb3 Qb5+ 94. Ka2 Kc3 95. Qe1+ Kc2 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.10"]
+[Round "6.2"]
+[White "Topalov,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2780"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "4126025"]
+[EventDate "2013.07.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Bf6 10. Re1 Re8 11. Rxe8+ Nxe8 12. Nd5 Bg5 13. c4 c6 14. Nc3 Nf6
+15. d4 Bxc1 16. Rxc1 d5 17. Qb3 dxc4 18. Bxc4 Qe7 19. a4 b6 20. d5 cxd5 21. Nxd5
+Nxd5 22. Bxd5 Be6 23. Bxe6 Qxe6 24. Qxe6 fxe6 25. Kf1 Rd8 26. Rc4 Rd2 27. b4 a6
+28. Rc6 Ra2 29. Rxe6 Rxa4 30. Rxb6 a5 31. b5 Rb4 32. g3 a4 33. Kg2 a3 34. Ra6
+Rxb5 35. Rxa3 Kf7 36. Ra2 h5 37. f4 g6 38. Kh3 Kf6 39. Kh4 Rc5 40. Ra7 Rc2 41.
+Ra6+ Kg7 42. h3 Rc4 43. Re6 Kh6 44. Rf6 Ra4 45. g4 Rxf4 46. Rxf4 g5+ 47. Kg3
+gxf4+ 48. Kxf4 hxg4 49. Kxg4 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.10"]
+[Round "6.3"]
+[White "Wang Yue"]
+[Black "Wang Hao"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2752"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "8601429"]
+[BlackFideId "8602883"]
+[EventDate "2013.07.04"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. g3 a6 6. Bg2 Nbd7 7. O-O Rb8 8. a4
+Bb4 9. Qc2 O-O 10. Rd1 b5 11. axb5 axb5 12. Ne5 Nxe5 13. dxe5 Nd7 14. Be3 Bb7
+15. Bxb7 Rxb7 16. Qe4 c6 17. Qxc6 Qc8 18. Qxc8 Rxc8 19. Nxb5 Nxe5 20. Na7 Rf8
+21. Bd4 f6 22. Rdc1 Ra8 23. Bxe5 fxe5 24. Nc6 Rxa1 25. Rxa1 Bf8 26. Ra2 Rb5 27.
+Kf1 h6 28. h4 g6 29. Ra4 Rc5 30. Na5 c3 31. bxc3 Rxc3 32. Nc4 Bg7 33. Nd6 Rc6
+34. Ra8+ Bf8 35. Ne4 Rc4 36. Nd2 Rd4 37. Nf3 Rd5 38. Ra4 Kf7 39. Kg2 Bg7 40. Ne1
+Bf6 41. Kf3 Rd7 42. Nd3 h5 43. Nc5 Rc7 44. Ne4 Ke7 45. Ra5 Bg7 46. Ra6 Bf6 47.
+Rb6 Kf7 48. e3 Be7 49. Rb5 Bf6 50. Kg2 Rc6 51. Rb7+ Be7 52. Kf3 Ra6 53. Nc5 Ra5
+54. Nd7 Ke8 55. Ke4 Bd6 56. Nf6+ Kf8 57. Nh7+ 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.10"]
+[Round "6.4"]
+[White "Giri,A"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2733"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "24116068"]
+[BlackFideId "14100010"]
+[EventDate "2013.07.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Nbd2
+Nd7 9. Re1 Nb6 10. Bb3 a5 11. a4 Kh8 12. d4 exd4 13. Nxd4 Nxd4 14. cxd4 f5 15.
+e5 dxe5 16. dxe5 Bb4 17. e6 c6 18. Re2 Re8 19. Qc2 Qf6 20. Nc4 Nd5 21. Bd2 Rxe6
+22. Rae1 Rxe2 23. Rxe2 Bd7 24. Bxb4 axb4 25. Ne5 Be6 26. Nd3 f4 27. Re1 f3 28.
+Bxd5 Bxd5 29. Nxb4 Bf7 30. Nd3 fxg2 31. Nc5 Bd5 32. Qd2 Qf7 33. a5 h6 34. Nd3
+Rf8 35. b4 Qf5 36. Nc5 Qf7 37. Nd3 Re8 38. Rxe8+ Qxe8 39. Nf4 Bc4 40. Kxg2 Qf7
+41. Qd4 Qf5 42. Qxc4 Qg4+ 43. Kf1 Qd1+ 44. Kg2 Qg4+ 45. Kf1 Qd1+ 46. Kg2 Qg4+ 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.10"]
+[Round "6.5"]
+[White "Morozevich,A"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2763"]
+[ECO "D98"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Smyslov variation"]
+[WhiteFideId "4116992"]
+[BlackFideId "2000024"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8. Be3
+Nfd7 9. O-O-O c5 10. dxc5 Qa5 11. Kb1 Nc6 12. h3 Be6 13. Nd5 b5 14. Qb3 h6 15.
+Be2 Rfc8 16. Rc1 Rab8 17. Rhd1 Kh7 18. Ne1 Nde5 19. Bd2 Qd8 20. Bc3 Na5 21. Qb4
+Nac6 22. Qb3 Na5 23. Qa3 Nec4 24. Bxc4 Nxc4 25. Qxa7 Qf8 26. Bxg7 Qxg7 27. Rc2
+Re8 28. c6 Rbc8 29. Qc5 f5 30. Nf4 Bf7 31. exf5 gxf5 32. b3 Nd6 33. Nf3 Rc7 34.
+Qe5 Qg8 35. Nd4 Ra7 36. Rd3 Qg7 37. Re3 Rea8 38. c7 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.10"]
+[Round "6.6"]
+[White "Gelfand,B"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2737"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "2805677"]
+[BlackFideId "703303"]
+[EventDate "2013.07.04"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. d4 e6 6. cxd5 Nxd5 7. Bg2 cxd4 8.
+Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 Ke7
+14. Rhc1 Rd8 15. Rc7+ Rd7 16. Rac1 Kd8 17. Rxd7+ Kxd7 18. g4 h6 19. Rc5 Rb8 20.
+Ra5 a6 21. Rh5 Kd6 22. g5 hxg5 23. Rh8 g4 24. Rg8 g6 25. f3 gxf3 26. Bxf3 b5 27.
+h4 Kc7 28. Rg7 Bd7 29. Rxf7 Rh8 30. Rf4 Kd6 31. e4 Ke7 32. e5 Rf8 33. Rxf8 Kxf8
+34. Kc3 a5 35. a3 Ke7 36. Be4 Be8 37. Bf3 Bd7 38. Be4 Be8 39. Bf3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.11"]
+[Round "7.1"]
+[White "Leko,P"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2776"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteFideId "703303"]
+[BlackFideId "14109603"]
+[EventDate "2013.07.04"]
+
+1. Nf3 Nf6 2. c4 b6 3. d4 e6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3 d5
+9. Nbd2 Nbd7 10. Qc2 c5 11. dxc5 bxc5 12. e3 O-O 13. O-O Qb6 14. Rfd1 Rac8 15.
+Rac1 Rfd8 16. Bb2 h6 17. cxd5 exd5 18. e4 dxe4 19. Nxe4 Nxe4 20. Qxe4 Bf6 21.
+Bxf6 Nxf6 22. Rxd8+ Rxd8 23. Qc2 Bb7 24. Ne5 Bxg2 25. Kxg2 Qb7+ 26. Kg1 Ne4 27.
+Rd1 Rd5 28. Nf3 Qd7 29. Rxd5 Qxd5 30. Ne1 Nd6 31. Qd3 Qe6 32. Ng2 c4 33. bxc4
+Nxc4 34. Nf4 Qc6 35. Nd5 Qc5 36. Qf5 Kf8 37. Qd7 g5 38. Qd8+ Kg7 39. Qf6+ Kg8
+40. Ne7+ Kf8 41. Nf5 Ke8 42. Ng7+ Kd7 43. Qxf7+ Kc6 44. Nf5 Kb5 45. Nxh6 Kb4 46.
+Ng4 Nd2 47. Ne3 Ka3 48. Nf1 Nc4 49. Ne3 Nd2 50. Nf1 Nc4 51. h4 gxh4 52. gxh4 a5
+53. h5 Qg5+ 54. Ng3 Nd2 55. Kg2 Qb5 56. Qe6 Qb7+ 57. Kh3 Nf3 58. Kg4 Nh2+ 59.
+Kh3 Nf3 60. Kg4 Nh2+ 61. Kg5 Qg7+ 62. Kf5 a4 63. h6 Qg4+ 64. Kf6 Qf4+ 65. Kg7
+Ng4 66. h7 Qd4+ 67. Kg6 Ne5+ 68. Kh5 Nd7 69. Ne4 Qg7 70. Qd6+ Kxa2 71. Qd2+ Ka1
+72. Qc1+ Ka2 73. Qc2+ Ka1 74. Qxa4+ Kb1 75. Qb3+ 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.11"]
+[Round "7.2"]
+[White "Kamsky,G"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2773"]
+[ECO "D94"]
+[Opening "Gruenfeld"]
+[Variation "Makogonov variation"]
+[WhiteFideId "2000024"]
+[BlackFideId "2805677"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. b4 c6 7. Bb2 Bg4 8. h3 Bxf3
+9. gxf3 Nbd7 10. f4 a5 11. b5 a4 12. Rc1 Qa5 13. Qd2 dxc4 14. bxc6 bxc6 15. Bxc4
+c5 16. Nb5 Qxd2+ 17. Kxd2 Rab8 18. Ba1 Ne4+ 19. Ke2 Nd6 20. Nxd6 exd6 21. Rhd1
+Rfc8 22. a3 Rb6 23. Bd5 Kf8 24. Rc4 Rbb8 25. Be4 Nb6 26. Rc2 d5 27. Bf3 cxd4 28.
+Rxc8+ Rxc8 29. Bxd4 Rc2+ 30. Kf1 Bxd4 31. Rxd4 Rc3 32. Bxd5 Rxa3 33. Kg2 Ra1 34.
+e4 a3 35. Rb4 Nxd5 36. exd5 Ke7 37. Rb6 Rd1 38. Ra6 Rd3 39. h4 Kd7 40. f3 Rd2+
+41. Kg3 a2 42. f5 gxf5 43. Kf4 f6 44. Ke3 Rh2 45. h5 Ke7 46. Kf4 Kd7 47. h6 Rf2
+48. Ke3 Rh2 49. Kf4 Rf2 50. Ke3 Rh2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.11"]
+[Round "7.3"]
+[White "Ivanchuk,V"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2736"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "14100010"]
+[BlackFideId "4116992"]
+[EventDate "2013.07.04"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Nc3 Nf6 5. cxd5 exd5 6. Qb3 Nc6 7. Bg5 Na5 8.
+Qa4+ c6 9. Bxf6 gxf6 10. e3 Qb6 11. O-O-O O-O-O 12. Bd3 Bg6 13. a3 Kb8 14. Rhe1
+Rg8 15. Nh4 Bxd3 16. Rxd3 c5 17. Kb1 Rg4 18. g3 Nc4 19. Qb5 Qe6 20. dxc5 a6 21.
+Qb3 Bxc5 22. Re2 Rd6 23. Qd1 Rg8 24. Rxd5 Rc8 25. Nf5 Rb6 26. Ka2 Bd6 27. Nd4
+Qe7 28. Na4 Bxa3 29. Nxb6 Nxb6 30. Rh5 Rc5 31. bxa3 Rxh5 32. Rb2 Rxh2 33. Qb3
+Qc5 34. Qxb6 Qxb6 35. Rxb6 Rxf2+ 36. Rb2 Rf1 37. Rh2 Rg1 38. Nf5 Rf1 39. e4 Re1
+40. Rh4 Kc7 41. Rxh7 Rxe4 42. Rxf7+ Kc6 43. Rxf6+ Kc5 44. Rf8 b5 45. Rc8+ Kd5
+46. g4 Rf4 47. Ne3+ Kd4 48. Nc2+ Ke4 49. Re8+ 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.11"]
+[Round "7.4"]
+[White "Wang Hao"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2752"]
+[BlackElo "2734"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "24116068"]
+[EventDate "2013.07.04"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 exd4 6. Qxd4 Be7 7. Bxf7+ Kxf7
+8. Ng5+ Ke8 9. Ne6 c5 10. Qd1 Qb6 11. Nxg7+ Kf7 12. Nf5 Bf8 13. O-O d5 14. Nxd5
+Nxd5 15. Qxd5+ Ke8 16. Bg5 Qg6 17. Rad1 Rg8 18. f4 a5 19. e5 Qxf5 20. Qxg8 Ra6
+21. Rfe1 Rg6 22. e6 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.11"]
+[Round "7.5"]
+[White "Grischuk,A"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2705"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "4126025"]
+[BlackFideId "8601429"]
+[EventDate "2013.07.04"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O g6 5. d3 Bg7 6. Nbd2 O-O 7. e4 a5 8. a4 Bg4
+9. e5 Nfd7 10. d4 c5 11. h3 Bxf3 12. Nxf3 cxd4 13. e6 fxe6 14. Nxd4 Nc5 15. Re1
+Ra6 16. c3 Nbd7 17. Be3 Kh8 18. Nb5 Qc8 19. Rc1 Rd8 20. b4 Ne4 21. c4 axb4 22.
+cxd5 Nc3 23. Nxc3 bxc3 24. Bd4 Bxd4 25. Qxd4+ e5 26. Qb4 Qc5 27. Qxc5 Nxc5 28.
+Rxc3 Nd7 29. Re4 Rd6 30. Rc7 b6 31. Re1 Kg7 32. f4 exf4 33. Rxe7+ Kf6 34. Rxh7
+fxg3 35. Rc3 Ne5 36. Rxg3 Rc8 37. Rh4 Rc4 38. Rxc4 Nxc4 39. Kf2 g5 40. Rg4 Ne5
+41. Rd4 Ng6 42. Kg3 Ke5 43. Rg4 Kf6 44. Rc4 Ne7 45. Rc3 Kg7 46. Rd3 Rh6 47. Kg4
+Kf6 48. d6 Rh4+ 49. Kg3 Nf5+ 50. Kf3 Nd4+ 51. Kf2 Ne6 52. d7 Ke7 53. Bc6 Nd8 54.
+Bb5 g4 55. hxg4 Rxg4 56. Rh3 Kd6 57. Rc3 Rb4 58. Ke3 Ke7 59. Rc8 Rxb5 60. axb5
+Kxd7 61. Rb8 Kc7 62. Ra8 Ne6 63. Ke4 Kd6 64. Rc8 Nc5+ 65. Kd4 Nb3+ 66. Kc3 Na5
+67. Rh8 Kc5 68. Rh5+ Kd6 69. Rg5 Kc7 70. Kd4 Nb3+ 71. Kd5 Na5 72. Rg7+ Kc8 73.
+Kd6 Kb8 74. Rc7 Ka8 75. Rc8+ Kb7 76. Kd7 Ka7 77. Kc7 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.11"]
+[Round "7.6"]
+[White "Mamedyarov,S"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2767"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "2900084"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6 7. g3 Nxc5 8. Bg2
+Nce4 9. O-O Bxc3 10. bxc3 d5 11. Ng5 Nd6 12. cxd5 exd5 13. Rd1 Bf5 14. Qb3 h6
+15. Nh3 Bxh3 16. Bxh3 Re8 17. Bg2 Rxe2 18. Bxd5 Nxd5 19. Qxd5 Qf6 20. Bf4 Ne4
+21. Qd3 Nxc3 22. Rac1 Nxd1 23. Qxe2 Nc3 24. Qc4 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.12"]
+[Round "8.1"]
+[White "Karjakin,Sergey"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2767"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "2900084"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Be7 9. f3 b5 10. g4 Nxd4 11. Bxd4 Bb7 12. Qf2 O-O 13. Bd3 Rac8 14. Ne2 d6
+15. Ng3 Nd7 16. Rhe1 Nc5 17. Kb1 Rfd8 18. b3 e5 19. Bb2 Bh4 20. Rg1 g6 21. Qe3
+f6 22. f4 exf4 23. Qxf4 d5 24. Qxc7 Rxc7 25. Rgf1 d4 26. Rf3 Re7 27. Ba3 Re5 28.
+Bxc5 Rxc5 29. c4 bxc4 30. Bxc4+ Kg7 31. Kb2 Rg5 32. h3 h5 33. Ne2 hxg4 34. hxg4
+Rxg4 35. Nxd4 Kh7 36. Rh3 g5 37. Kc3 Bxe4 38. Bxa6 f5 39. Bd3 Kg6 40. Nf3 Bg3
+41. Be2 Rc8+ 42. Kd2 Rc2+ 43. Ke3 Rc3+ 44. Bd3 Bxd3 45. Rxd3 Bf4+ 46. Ke2 Rg2+
+47. Kf1 Rxd3 48. Kxg2 Rd8 49. Ne1 Rd2+ 50. Kf1 g4 51. Rc3 Rxa2 52. Nd3 Kg5 0-1
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.12"]
+[Round "8.2"]
+[White "Wang Yue"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2761"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "8601429"]
+[BlackFideId "13401319"]
+[EventDate "2013.07.04"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 O-O 7. O-O Nxc3 8.
+dxc3 c6 9. Qa4 Nd7 10. Be3 Nb6 11. Qc2 Bf5 12. Qc1 e5 13. Nd2 Qe7 14. Ne4 Rfd8
+15. Rd1 Rd5 16. Re1 Rdd8 17. Rd1 Rd5 18. Re1 Rd7 19. Rd1 Rad8 20. Rxd7 Rxd7 21.
+h3 h5 22. a4 Nd5 23. Bc5 Qd8 24. c4 Nf6 25. Nc3 Nh7 26. a5 Ng5 27. h4 Ne6 28.
+Bxa7 Nd4 29. Bb6 Qf8 30. Ra4 Bc2 31. Ra1 Bf5 32. Ra4 Bc2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.12"]
+[Round "8.3"]
+[White "Giri,A"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2780"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "4126025"]
+[EventDate "2013.07.04"]
+
+1. Nf3 c5 2. e4 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 Nf6 7. Be3 a6 8. O-O
+Be7 9. f4 d6 10. Kh1 O-O 11. Qe1 Nxd4 12. Bxd4 b5 13. Qg3 Bb7 14. a3 Rad8 15.
+Rae1 Rd7 16. Bd3 Re8 17. Rf2 Qd8 18. Ref1 Bf8 19. Rf3 g6 20. f5 exf5 21. Rxf5
+Nxe4 22. Qf4 Qe7 23. Bxe4 Bxe4 24. Nxe4 Qxe4 25. Rxf7 Qxf4 26. R7xf4 Bg7 27.
+Bxg7 Kxg7 28. g3 d5 29. Kg2 d4 30. Rd1 Re2+ 31. Rf2 Rxf2+ 32. Kxf2 Rc7 33. Rd2
+Kf6 34. Re2 Rd7 35. Kf3 d3 36. Rd2 dxc2 37. Rxc2 Rd3+ 38. Kf4 Rb3 39. Rc6+ Kg7
+40. Rxa6 Rxb2 41. Ra7+ Kh6 42. h4 b4 43. g4 g5+ 44. hxg5+ Kg6 45. Ra6+ Kg7 46.
+Ra7+ Kg6 47. Ra6+ Kg7 48. axb4 Rxb4+ 49. Kg3 Rb1 50. Kf4 Rb4+ 51. Kg3 Rb1 52.
+Rc6 Rg1+ 53. Kf3 Rf1+ 54. Kg2 Ra1 55. Kg3 Rg1+ 56. Kf3 Rf1+ 57. Kg2 Ra1 58. Kg3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.12"]
+[Round "8.4"]
+[White "Morozevich,A"]
+[Black "Wang Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2752"]
+[ECO "B52"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky attack, 3...Bd7"]
+[WhiteFideId "4116992"]
+[BlackFideId "8602883"]
+[EventDate "2013.07.04"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. c4 Bxb5 5. cxb5 Nf6 6. Nc3 g6 7. O-O Bg7 8. d4
+cxd4 9. Nxd4 O-O 10. Re1 Nbd7 11. a4 e6 12. Bg5 a5 13. bxa6 bxa6 14. Nc6 Qc7 15.
+Ne7+ Kh8 16. Rc1 Qb8 17. Nc6 Qc7 18. e5 dxe5 19. Ne4 Nxe4 20. Rxe4 Nf6 21. Bxf6
+Bxf6 22. b4 Rac8 23. Rec4 Qb6 24. Qe2 Rc7 25. Nxe5 Rxc4 26. Rxc4 Bxe5 27. Qxe5+
+Kg8 28. h4 Qb8 29. f4 Qa7+ 30. Kh2 Qe7 31. Qg5 Qd7 32. b5 axb5 33. axb5 Rb8 34.
+Rc6 h5 35. Rc5 Qd6 36. Qe5 Qd8 37. Qg5 Qd6 38. Rc3 e5 39. fxe5 Qd7 40. Rc5 Rxb5
+41. Rxb5 Qxb5 42. Qd8+ Kh7 43. Qf6 Qd5 44. Kg3 Qb3+ 45. Kh2 Qd5 46. Kg3 Qb3+ 47.
+Kh2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.12"]
+[Round "8.5"]
+[White "Gelfand,B"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2733"]
+[ECO "E97"]
+[Opening "King's Indian"]
+[Variation "orthodox, Aronin-Taimanov, bayonet attack"]
+[WhiteFideId "2805677"]
+[BlackFideId "14100010"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5 Ne7
+9. b4 Nh5 10. g3 a5 11. bxa5 Rxa5 12. Nd2 Nf6 13. a4 Ra8 14. Nb3 c5 15. Bd2 Nd7
+16. a5 f5 17. f3 Nf6 18. Qc2 h5 19. Na4 fxe4 20. fxe4 Bh3 21. Rf3 Kh7 22. Bf1
+Bg4 23. Rf2 Bh6 24. Bg2 Neg8 25. Nb6 Rb8 26. Raf1 Qe7 27. h3 Bd7 28. Bxh6 Kxh6
+29. Qd2+ Kg7 30. Qg5 Rf7 31. Nd2 Rbf8 32. Qh4 Nh7 33. Qxe7 Rxe7 34. Rxf8 Nxf8
+35. Nf3 Nh7 36. Nxd7 Rxd7 37. h4 Ngf6 38. Bh3 Rc7 39. Nd2 Ng4 40. Rb1 Nhf6 41.
+Rb6 Rd7 42. Bf1 Kf8 43. Bd3 Nh6 44. Bc2 Nf7 45. Nb1 Rc7 46. Nc3 Nd7 47. Rb1 Ke7
+48. Ba4 Nd8 49. Bxd7 Kxd7 50. Kg2 Nf7 51. g4 hxg4 52. Kg3 Nh6 53. Rb6 Ke7 54.
+Nd1 Ng8 55. Kxg4 Nf6+ 56. Kf3 Rd7 57. Nc3 Kf8 58. Nb5 Ke7 59. Nc3 Kf8 60. Rb1
+Kg7 61. Ke2 Kh6 62. Rf1 Nh7 63. Nb5 Kh5 64. Ke3 Kg4 65. Kd3 Kh3 66. Rg1 Nf8 67.
+Ke3 Kh2 68. Rf1 Nh7 69. Rf3 Kg2 70. Nc3 g5 71. hxg5 Nxg5 72. Rf5 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.12"]
+[Round "8.6"]
+[White "Leko,P"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2763"]
+[ECO "B15"]
+[Opening "Caro-Kann"]
+[Variation "Gurgenidze system"]
+[WhiteFideId "703303"]
+[BlackFideId "2000024"]
+[EventDate "2013.07.04"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 4. h3 dxe4 5. Nxe4 Bg7 6. Nf3 Nd7 7. Bc4 Ngf6 8.
+Nxf6+ Nxf6 9. O-O O-O 10. Re1 b6 11. Ne5 Bb7 12. Bg5 Nd5 13. Bh4 Rc8 14. Qf3 g5
+15. Bg3 e6 16. Bb3 Qf6 17. Qh5 Nf4 18. Bxf4 Qxf4 19. c3 Qh4 20. Qxh4 gxh4 21.
+Re4 c5 22. Rxh4 cxd4 23. cxd4 Bxe5 24. dxe5 Rfd8 25. Re1 Rd2 26. Rf4 Rc5 27. Re3
+Bd5 28. Bxd5 Rcxd5 29. Rg3+ Kf8 30. Rgf3 Rd7 31. Rh4 Rxb2 32. a3 Re2 33. Rxh7
+Rxe5 34. Rh8+ Kg7 35. Rb8 Re4 36. g4 Red4 37. Ra8 Rd3 38. Rxd3 Rxd3 39. Rxa7
+Rxh3 40. Kg2 Rb3 41. a4 Ra3 42. Ra6 Kg6 43. Rxb6 Rxa4 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.14"]
+[Round "9.1"]
+[White "Kamsky,G"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2776"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "2000024"]
+[BlackFideId "14109603"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 b6 5. h3 Bb7 6. c3 Nc6 7. Nbd2 d5 8. Ne5
+Nxe5 9. dxe5 Nd7 10. h4 h5 11. Qf3 Qc7 12. Qg3 O-O-O 13. Nf3 c4 14. Be2 Nc5 15.
+Nd4 a6 16. Rc1 Ne4 17. Qh2 Be7 18. f3 Nc5 19. b4 cxb3 20. axb3 b5 21. Bg5 Bxg5
+22. hxg5 g6 23. b4 Na4 24. O-O Kb8 25. Rc2 Rc8 26. Rfc1 Qe7 27. Qh4 Rc7 28. f4
+Rhc8 29. Qe1 Qf8 30. Kh2 Qe7 31. Bd3 Qf8 32. Ne2 Rc6 33. Nd4 R6c7 34. Ne2 Rc6
+35. Ra1 Qd8 36. Ra3 Qb6 37. Nd4 R6c7 38. Qa1 Bc6 39. Kg1 Bd7 40. Kf2 Be8 41. Rb3
+Bd7 42. Qe1 Be8 43. Kg3 Bd7 44. Qd2 Bc6 45. Ra3 Bb7 46. Rc1 Ba8 47. Be2 Bc6 48.
+Kh2 Be8 49. Rb3 Bd7 50. Ra3 Be8 51. Rb3 Bd7 52. Ra3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.14"]
+[Round "9.2"]
+[White "Ivanchuk,V"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2737"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[WhiteFideId "14100010"]
+[BlackFideId "703303"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. Rd1 Nbd7 12. d5 Bxc3 13. dxe6 Bxf3 14. gxf3 fxe6
+15. bxc3 Qc7 16. Bxe6+ Kh8 17. Qc4 Qb7 18. Bxd7 Nxd7 19. Qd5 Qxd5 20. Rxd5 Nc5
+21. Kg2 Rad8 22. Rxd8 Rxd8 23. Be3 Kg8 24. Rb1 Rd3 25. Bxc5 bxc5 26. c4 Rc3 27.
+Rb7 a5 28. Rb5 Ra3 29. Rxc5 Rxa2 30. Rc7 a4 31. Ra7 a3 32. c5 Rc2 33. c6 Rxc6
+34. Rxa3 Rg6+ 35. Kf1 Rh6 36. Kg2 Rg6+ 37. Kf1 Rh6 38. Kg2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.14"]
+[Round "9.3"]
+[White "Wang Hao"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2752"]
+[BlackElo "2773"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "8602883"]
+[BlackFideId "2805677"]
+[EventDate "2013.07.04"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 Nf6 4. e3 e6 5. d4 d5 6. a3 a6 7. dxc5 Bxc5 8. b4 Ba7
+9. Bb2 O-O 10. Qc2 Qe7 11. Rd1 Rd8 12. Be2 dxc4 13. Rxd8+ Nxd8 14. Ne4 Nxe4 15.
+Qxe4 c3 16. Bxc3 Bd7 17. O-O Rc8 18. Rc1 Ba4 19. h4 Bb8 20. Qb1 f5 21. g3 Nf7
+22. Ba1 Rxc1+ 23. Qxc1 Bc6 24. Qc3 Nd6 25. Qc5 Bd5 26. Be5 Qd8 27. Qc2 Nf7 28.
+Bxb8 Qxb8 29. Nd4 Nd6 30. a4 Qc8 31. Qd1 Ne4 32. Bf1 Qc3 33. Bg2 Qxb4 34. Nxf5
+Qf8 35. Bxe4 Bxe4 36. Nd4 Bd5 37. Qh5 h6 38. Qe5 Qb4 39. f3 Qxa4 40. e4 Bc4 41.
+Nxe6 Qd1+ 42. Kh2 Qd2+ 43. Kg1 Qe1+ 44. Kh2 Qd2+ 45. Kg1 Qd7 46. Qb8+ Kf7 47.
+Nf4 a5 48. h5 a4 49. g4 a3 50. Ng6 Qd1+ 51. Kh2 Qd2+ 52. Kg3 Qe1+ 53. Kh2 Qf2+
+54. Kh1 Qxf3+ 55. Kh2 Qe2+ 56. Kg3 Qe1+ 57. Kh2 Qf2+ 58. Kh1 Qf1+ 59. Kh2 Qe2+
+60. Kg3 Qe3+ 61. Kh2 Qc5 62. Ne5+ Ke7 63. Qxb7+ Ke6 64. Nxc4 Qxc4 65. Qxg7 Qe2+
+66. Kg3 Qe3+ 67. Kh2 Qg5 68. Qa7 Qh4+ 69. Kg2 Qxg4+ 70. Kf2 Qf4+ 71. Kg1 Qg3+
+72. Kf1 Qf3+ 73. Ke1 Kf6 74. Kd2 Kg5 75. Qg1+ Kxh5 76. Qh2+ Kg4 77. Qxh6 a2 78.
+Qg7+ Kh3 79. Qh8+ Kg2 80. Qg7+ Qg3 81. Qb2 Kh1 82. Kc2 Qg2+ 83. Kb3 Qxe4 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.14"]
+[Round "9.4"]
+[White "Grischuk,A"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2736"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "4126025"]
+[BlackFideId "4116992"]
+[EventDate "2013.07.04"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Qb3 Qc7 8. Nxg6
+hxg6 9. g3 Be7 10. Bg2 Nbd7 11. O-O Rd8 12. Rd1 Nb6 13. c5 Nbd7 14. Qa4 a6 15.
+b4 Ng4 16. h3 Nh6 17. Rb1 Nf5 18. Qa5 Qc8 19. a4 O-O 20. b5 axb5 21. axb5 e5 22.
+Na2 exd4 23. exd4 Bf6 24. Bb2 Rfe8 25. Nb4 Nf8 26. Qa4 Ne7 27. Nc2 Qd7 28. Ne3
+Ne6 29. Ng4 cxb5 30. Qb3 Nc6 31. Nxf6+ gxf6 32. Qxb5 f5 33. Bc3 Re7 34. Qd3 f4
+35. h4 Ra8 36. Ra1 Rxa1 37. Rxa1 Ng7 38. Re1 Rxe1+ 39. Bxe1 Qe6 40. Bc3 fxg3 41.
+fxg3 Nh5 42. Bd2 Nf6 43. Bf3 Ne4 44. Bf4 Ne7 45. Qb5 Nf5 46. Qxb7 Nxd4 47. Bd1
+Ng5 48. hxg5 Qe1+ 49. Kg2 Qxd1 50. Qa8+ Kh7 51. Qxd5 Qe2+ 52. Kh3 Qh5+ 53. Kg2
+Qe2+ 54. Kh3 Qh5+ 55. Kg2 Qe2+ 56. Kh3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.14"]
+[Round "9.5"]
+[White "Mamedyarov,S"]
+[Black "Giri,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2734"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Flohr variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "24116068"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+ Bd7 6. Qb3 dxc4 7. Qxc4 O-O 8.
+Bf4 c6 9. e4 b5 10. Qb3 c5 11. dxc5 Qa5 12. Bd2 b4 13. Nd5 Nc6 14. Bd3 Be6 15.
+Ng5 Rad8 16. Nxe6 fxe6 17. Nxb4 Nd4 18. Qc4 Nd7 19. Nc6 Qxc5 20. Nxd8 Ne5 21.
+Nxe6 Qd6 22. Nxd4+ Nxc4 23. Bxc4+ Kh8 24. Ne6 Rc8 25. Bd5 Bxb2 26. Rb1 Rc2 27.
+Rxb2 Rxb2 28. Bc3+ Kg8 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.14"]
+[Round "9.6"]
+[White "Topalov,V"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2705"]
+[ECO "D17"]
+[Opening "QGD Slav"]
+[Variation "Krause attack"]
+[WhiteFideId "2900084"]
+[BlackFideId "8601429"]
+[EventDate "2013.07.04"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
+Ne5 a5 9. f3 Nfd7 10. e4 Nxe5 11. exf5 Ned7 12. d5 g6 13. dxc6 bxc6 14. Qd4 Rg8
+15. fxg6 Rxg6 16. Qf2 Nd5 17. Nxd5 cxd5 18. Bb5 Re6+ 19. Kf1 Bg7 20. g3 Kf8 21.
+Kg2 d4 22. Rd1 Nb6 23. Ra3 Rc8 24. Rad3 Nd5 25. Rxd4 Rxc1 26. Rxd5 Rxd1 27.
+Rxd8+ Rxd8 28. Bc4 Rc6 29. Qc2 Rd4 30. b3 Rcd6 31. Qf5 Rd2+ 32. Kf1 Bf6 33. Qxh7
+e6 34. Qh6+ Ke7 35. Qe3 Rxh2 36. Qc5 Bc3 37. Bd3 Bb4 38. Qg5+ Kf8 39. Kg1 Ra2
+40. Qh6+ Ke7 41. Qg5+ Kd7 42. Qh5 Kd8 43. Qh7 Rd5 44. Kf1 Bc3 45. g4 Ke7 46. Qe4
+Kf8 47. f4 Rd2 48. Bc4 R5d4 49. Qe3 Bb4 50. f5 Rxg4 51. fxe6 Rdd4 52. Qh6+ Ke7
+53. exf7 Rdf4+ 54. Ke2 Rg2+ 55. Kd3 Rg3+ 56. Ke2 Rg2+ 57. Kd3 Rg3+ 58. Ke2 Rg2+
+59. Kd3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.15"]
+[Round "10.1"]
+[White "Karjakin,Sergey"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2705"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "8601429"]
+[EventDate "2013.07.04"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14. cxd5 Qxd5
+15. Bf4 Rac8 16. h3 h6 17. Nd2 Na5 18. Bf3 Qd7 19. Ne4 Bf8 20. Ra2 Kh8 21. Rae2
+b6 22. Ng3 Rxe2 23. Qxe2 Bh7 24. Bg4 f5 25. Bh5 g6 26. Be5+ Bg7 27. Bxg7+ Qxg7
+28. Bf3 Rf8 29. Nf1 Bg8 30. Nd2 c5 31. dxc5 Qxc3 32. cxb6 axb6 33. Qe7 Qc5 34.
+Qd7 Rf7 35. Qa4 Kg7 36. Rb1 Re7 37. h4 Bf7 38. g3 Qc3 39. Qb4 Qxb4 40. Rxb4 Rd7
+41. Nf1 Nc4 42. Be2 Nxa3 43. Rxb6 Nc2 44. Ne3 Nxe3 45. fxe3 Rd2 46. Bf3 g5 47.
+hxg5 hxg5 48. g4 fxg4 49. Bxg4 Bg6 50. Rb7+ Kf6 51. Rb6+ Kg7 52. Rb7+ Kf6 53.
+Rb6+ 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.15"]
+[Round "10.2"]
+[White "Giri,A"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2734"]
+[BlackElo "2767"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "24116068"]
+[BlackFideId "2900084"]
+[EventDate "2013.07.04"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Bg6 6. O-O Nh6 7. c3 Be7 8. Bxh6
+gxh6 9. g3 O-O 10. Nbd2 a5 11. Ne1 c5 12. h4 cxd4 13. h5 Be4 14. cxd4 Nc6 15.
+Bf3 Bf5 16. g4 Nxd4 17. gxf5 Kh8 18. f6 Bb4 19. Bg2 Rg8 20. Ndf3 Nc6 21. Nd3 Qb6
+22. Kh1 Bc5 23. Qc1 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.15"]
+[Round "10.3"]
+[White "Morozevich,A"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2761"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "4116992"]
+[BlackFideId "13401319"]
+[EventDate "2013.07.04"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 c6 6. O-O d5 7. Qb3 dxc4 8. Qxc4
+Qd5 9. Nbd2 Qxc4 10. Nxc4 Be6 11. b3 Bd5 12. Ba3 Re8 13. Rac1 Nbd7 14. Na5 Rab8
+15. Rfd1 Bf8 16. Ne5 Bxg2 17. Kxg2 e6 18. Bxf8 Kxf8 19. Nec4 Ke7 20. b4 Rec8 21.
+a3 g5 22. Nb2 Ne8 23. Nd3 f5 24. h4 g4 25. Nf4 Nef6 26. Rc2 Nd5 27. Nd3 Rf8 28.
+e3 Rfe8 29. Re1 N5f6 30. Rb1 Rec8 31. Rbc1 Rd8 32. a4 Ne4 33. b5 cxb5 34. Rc7
+Nd6 35. Nc5 bxa4 36. Ncxb7 Nxb7 37. Nxb7 Rf8 38. R1c6 Rf7 39. Nc5 Ke8 40. Rxe6+
+Kd8 41. Rec6 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.15"]
+[Round "10.4"]
+[White "Gelfand,B"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2773"]
+[BlackElo "2780"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "Averbakh system"]
+[WhiteFideId "2805677"]
+[BlackFideId "4126025"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 Na6 7. Nf3 h6 8. Be3 e5
+9. O-O Ng4 10. Bc1 Nf6 11. Re1 c6 12. Bf1 Bg4 13. d5 c5 14. Be2 Nh7 15. g3 Bd7
+16. Bd2 Ng5 17. Qc1 Nxf3+ 18. Bxf3 Kh7 19. Bg2 f5 20. f4 Qf6 21. fxe5 dxe5 22.
+Rf1 Rf7 23. a3 Raf8 24. Bh3 Qd6 25. exf5 gxf5 26. Qc2 Qg6 27. Rae1 b6 28. Kh1
+Qh5 29. Bg2 Qg6 30. Nd1 Nc7 31. b4 h5 32. Bc3 e4 33. Bxg7 Kxg7 34. bxc5 bxc5 35.
+Rf4 Ne8 36. Qf2 Nd6 37. Bf1 Rc8 38. Be2 Rf6 39. Rh4 Qe8 40. Qf4 Rh6 41. Rxh5
+Rxh5 42. Bxh5 Qe7 43. g4 Rf8 44. gxf5 Bxf5 45. Rg1+ Kh8 46. Qh6+ Bh7 47. Ne3 Rf6
+48. Rg6 Rxg6 49. Bxg6 Qg7 50. Qxg7+ Kxg7 51. Bxh7 Kxh7 52. Kg2 Kg6 53. Kg3 Kg5
+54. h3 Nf7 55. h4+ Kh5 56. Nf5 Ne5 57. d6 Kg6 58. Kf4 Kf6 59. h5 Ke6 60. h6 e3
+61. Nxe3 Kxd6 62. Kf5 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.15"]
+[Round "10.5"]
+[White "Leko,P"]
+[Black "Wang Hao"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2752"]
+[ECO "D10"]
+[Opening "QGD Slav defence"]
+[Variation "exchange variation"]
+[WhiteFideId "703303"]
+[BlackFideId "8602883"]
+[EventDate "2013.07.04"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. e3 Nf6 6. Nc3 a6 7. Bd3 Bg4 8. Nge2
+e6 9. O-O Be7 10. Rc1 O-O 11. Na4 Nd7 12. f3 Bh5 13. Qb3 Ra7 14. Bg3 Bg6 15. Nf4
+Bg5 16. Rfe1 Bxf4 17. Bxf4 Bxd3 18. Qxd3 Qa5 19. b3 Raa8 20. Re2 Rac8 21. Rec2
+Rfe8 22. Bg3 h5 23. Qe2 Qd8 24. Qf2 Qe7 25. h3 Rcd8 26. Bc7 Rc8 27. Bg3 Rcd8 28.
+Bc7 Rc8 29. Bg3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.15"]
+[Round "10.6"]
+[White "Kamsky,G"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2733"]
+[ECO "A46"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "2000024"]
+[BlackFideId "14100010"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 Bd6 5. Bg3 O-O 6. c4 c5 7. cxd5 Nxd5 8. Bc4
+Nc6 9. Bxd5 exd5 10. Nc3 c4 11. Ne5 Ne7 12. O-O Bb4 13. a3 Bxc3 14. bxc3 f6 15.
+Nf3 Bg4 16. a4 Nc6 17. h3 Bh5 18. Qb1 Bxf3 19. gxf3 Na5 20. Qf5 Nb3 21. Ra2 Qa5
+22. Bd6 Rf7 23. Bb4 Qd8 24. e4 a5 25. Ba3 Qd7 26. Qxd7 Rxd7 27. Re1 b5 28. axb5
+Rb8 29. exd5 Rxd5 30. Re7 Rbxb5 31. Rc7 Rg5+ 32. Kf1 Rbf5 33. Re2 h6 34. h4 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.16"]
+[Round "11.1"]
+[White "Ivanchuk,V"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2776"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "14100010"]
+[BlackFideId "14109603"]
+[EventDate "2013.07.04"]
+
+1. Nf3 Nf6 2. c4 b6 3. Nc3 Bb7 4. d4 e6 5. Bg5 Be7 6. e3 O-O 7. Be2 h6 8. Bh4 d5
+9. Bxf6 Bxf6 10. cxd5 exd5 11. O-O Nd7 12. b4 c6 13. Qb3 b5 14. a4 a6 15. a5 g6
+16. Rac1 Bg7 17. Rc2 Qe7 18. Bd3 Nf6 19. Rfc1 Rfd8 20. Ne5 Nd7 21. Nxd7 Rxd7 22.
+Nb1 Bf8 23. Rb2 Qf6 24. Nd2 Bd6 25. g3 Re8 26. Bf1 Rc7 27. Bg2 Kh7 28. h4 Rd8
+29. Qc3 Bf8 30. Bh3 Kg7 31. Rbb1 g5 32. hxg5 hxg5 33. Qd3 Bd6 34. Kg2 Rh8 35.
+Rh1 Re7 36. Qf5 Ree8 37. Nf3 Rh5 38. Qxf6+ Kxf6 39. Ne1 Bc8 40. Bxc8 Rxh1 41.
+Kxh1 Rxc8 42. Kg2 g4 43. Nc2 Rh8 44. Rb3 Ke6 45. Na3 Kd7 46. Nb1 Rh5 47. Nd2 Rh6
+48. Rb1 Rh8 49. Rb3 Rh5 50. Rb1 Rh8 51. Rb3 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.16"]
+[Round "11.2"]
+[White "Wang Hao"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2752"]
+[BlackElo "2763"]
+[ECO "E21"]
+[Opening "Nimzo-Indian"]
+[Variation "three knights variation"]
+[WhiteFideId "8602883"]
+[BlackFideId "2000024"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 Bb7 6. Bd3 c5 7. O-O O-O 8. Na4 d6
+9. a3 Ba5 10. Rb1 Na6 11. b3 Ne4 12. Bb2 f5 13. Qe2 Qe8 14. Ba1 Qg6 15. d5 Rae8
+16. Rfd1 Kh8 17. Nh4 Qh6 18. g3 b5 19. cxb5 Nc7 20. b4 cxb4 21. axb4 Bb6 22.
+Bxe4 fxe4 23. dxe6 Qxe6 24. Rd2 Qf7 25. Rxd6 Ne6 26. Rbd1 Ng5 27. Rd7 Re7 28.
+Nxb6 axb6 29. Rd8 Bc8 30. Rxc8 Rxc8 31. Qg4 Rf8 32. Qxg5 Qxf2+ 33. Kh1 Qe2 34.
+Rg1 Rf2 35. Ng2 Rxg2 36. Bxg7+ Rxg7 37. Qd8+ Rg8 38. Qf6+ Rg7 39. Rxg2 Qxe3 40.
+Rc2 h5 41. Rc8+ Kh7 42. Qf5+ Rg6 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.16"]
+[Round "11.3"]
+[White "Grischuk,A"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2737"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "703303"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c5 8. e3
+c4 9. Be2 g5 10. Bg3 Nc6 11. Nd2 Bf5 12. O-O O-O 13. f4 Bxc3 14. bxc3 Ne4 15.
+Nxe4 Bxe4 16. Bf3 Bd3 17. Be2 Be4 18. Bf3 Bd3 19. Be2 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.16"]
+[Round "11.4"]
+[White "Mamedyarov,S"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2773"]
+[ECO "E65"]
+[Opening "King's Indian"]
+[Variation "fianchetto, Yugoslav, 7.O-O"]
+[WhiteFideId "13401319"]
+[BlackFideId "2805677"]
+[EventDate "2013.07.04"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O c5 7. Nc3 Nc6 8. dxc5
+dxc5 9. Be3 Qa5 10. Qb3 Qb4 11. Nd5 Qxb3 12. axb3 Nxd5 13. cxd5 Nd4 14. Nxd4
+cxd4 15. Bd2 Bg4 16. Rfe1 d3 17. exd3 Bxb2 18. Ra4 Bd7 19. Rb4 b5 20. Rxe7 a5
+21. d6 Rad8 22. Rf4 Be6 23. Bxa5 Rxd6 24. Bb4 Ra6 25. Rxe6 Rxe6 26. Bxf8 Kxf8
+27. Re4 Rxe4 28. dxe4 b4 29. e5 Bxe5 1/2-1/2
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.16"]
+[Round "11.5"]
+[White "Topalov,V"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2736"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "4116992"]
+[EventDate "2013.07.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. Re1
+a5 9. h3 Nb6 10. Bb3 Nfd7 11. Be3 exd4 12. Nxd4 Nc5 13. Qf3 Nxb3 14. cxb3 Be6
+15. Rad1 Nd7 16. Qg3 Ne5 17. Re2 Ng6 18. f4 c5 19. Nf5 Bxb3 20. Rdd2 Rc8 21. Rf2
+Kh8 22. h4 Rg8 23. h5 Nf8 24. Nxd6 Bxd6 25. e5 f5 26. Rxd6 Qe8 27. Qh3 Be6 28.
+Rfd2 h6 29. Nb5 Nd7 30. Qf3 b6 31. Qd1 Nf8 32. Rxb6 Qe7 33. Qf3 Nd7 34. Rb7 Rb8
+35. Ra7 Rgd8 36. Rd6 Qf7 37. Nc7 Bc4 38. e6 Qe7 39. Rxd7 Rxd7 40. exd7 Qxd7 41.
+Nb5 Qe6 42. Qg3 1-0
+
+[Event "FIDE GP Beijing"]
+[Site "Beijing CHN"]
+[Date "2013.07.16"]
+[Round "11.6"]
+[White "Wang Yue"]
+[Black "Giri,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2705"]
+[BlackElo "2734"]
+[ECO "A39"]
+[Opening "English"]
+[Variation "symmetrical, main line with d4"]
+[WhiteFideId "8601429"]
+[BlackFideId "24116068"]
+[EventDate "2013.07.04"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nf6 4. Nc3 c5 5. Nf3 O-O 6. O-O Nc6 7. d4 d6 8. dxc5
+dxc5 9. Be3 Be6 10. Qa4 Nd4 11. Rad1 Bd7 12. Qa3 Nc2 13. Qxc5 b6 14. Qg5 h6 15.
+Qf4 g5 16. Qe5 Rc8 17. Nd5 Nxd5 18. Qxd5 Bc6 19. Qxd8 Rfxd8 20. b3 e6 21. Nd2
+Nxe3 22. fxe3 b5 23. cxb5 Bxb5 24. Nc4 Rxd1 25. Rxd1 Bxc4 26. bxc4 Rxc4 27. Kf2
+Ra4 28. Rd2 Bc3 29. Rc2 Ba5 30. Bc6 Ra3 31. e4 Bb6+ 32. Kf1 g4 33. Bb5 Kg7 34.
+Bc4 a5 35. Bb3 a4 36. Bc4 Kf6 37. Bd3 h5 38. Kg2 Bd4 39. Kf1 Ke5 40. Kg2 Bc3 41.
+Kf1 Bd4 42. Kg2 Be3 43. Kf1 Kf6 44. Kg2 Bh6 45. Kf1 Bf8 46. Kg2 Ke5 47. Kf1 Bd6
+48. Kf2 Bb4 49. Kg2 Be7 50. Kf2 Bd6 51. Kf1 Bb4 52. Kg2 Bc3 53. Kf1 Ba1 54. Kf2
+Bd4+ 1/2-1/2

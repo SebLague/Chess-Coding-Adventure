@@ -1,0 +1,578 @@
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.11"]
+[Round "1"]
+[White "Bacrot,E"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2708"]
+[BlackElo "2803"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 Be7 7.e3 Ne4 8.Nxe4 Bxe4
+9.Bg3 d6 10.Bd3 Bb7 11.O-O Nd7 12.e4 Bf6 13.Rc1 g5 14.Bb1 h5 15.h3 Rg8 16.b4 g4
+17.hxg4 hxg4 18.Nh2 Bh4 19.Bf4 Bg5 20.Qxg4 Qf6 21.Be3 Bxe3 22.Qxg8+ Ke7 23.Qxa8 Bxa8
+24.fxe3 Qg6 25.Rf4 e5 26.Rf5 Qh6 27.Re1 exd4 28.exd4 Qd2 29.Nf3 Qxb4 30.Rc1 Bb7
+31.Rb5 Qa3 32.Re1 Qc3 33.Rb3 Qxc4 34.Bd3 Qa4 35.Rc3 c5 36.Bc4 Qb4 37.Rcc1 cxd4
+38.Nxd4 Ne5 39.Nf5+ Kd7 40.Bd5 Bxd5 41.exd5 Qf4 42.Rf1 Nf3+ 43.gxf3 Qxf5
+44.f4 Qxd5 45.f5 Qd2 46.f6 b5 47.Rce1 Kc6 48.Ra1 Qd4+ 49.Kg2 Qb2+ 50.Kg3 b4
+51.Kg4 d5 52.Kg5 Qg2+ 53.Kh4 Kd6 54.Kh5 a5  0-1
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.11"]
+[Round "1"]
+[White "Svidler,P"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2804"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 b5 8.Qd2 b4
+9.Nce2 e5 10.Nb3 Nc6 11.Ng3 Be6 12.O-O-O Qc7 13.f4 h5 14.h4 a5 15.f5 Bd7
+16.Kb1 Rb8 17.Be2 Na7 18.Bxa7 Qxa7 19.Qd3 Bb5 20.Qf3 Bc6 21.Nd2 Qc5 22.Nb3 Qb6
+23.Nd2 Be7 24.Nc4 Qc5 25.Ne3 a4 26.Bc4 Bd8 27.b3 Bb6 28.Rd3 axb3 29.cxb3 Ra8
+30.Rc1 Qa5 31.Rc2 Ke7 32.Nd5+ Bxd5 33.Bxd5 Rac8 34.Rxc8 Rxc8 35.Bc4 Rh8 36.Rd2 Qc5
+37.Qd1 Ba7 38.Rc2 Qe3 39.Bd3 Bc5 40.Qf3 Rd8 41.Be2 Qf4 42.Nxh5 Qxh4 43.Nxf6 gxf6
+44.g3 Qg5 45.Qg4 Rh8 46.Qxg5 fxg5 47.Bg4 Kf6 48.Rc1 Rh2 49.Rc2 Rh6 50.Rc1 Bf2
+51.Rd1 Kg7 52.Rd3 Bd4 53.Kc2 Kf6 54.Rd2 Rh1 55.Rd1 Rh8 56.Kd3 Rc8 57.Ke2 Rc3
+58.Rd3 Rc5 59.Bf3 Ke7 60.Rd2 Rc3 61.Rd3 Rc8 62.Rd2 Rh8 63.Kf1 Rc8 64.Ke2 Rg8
+65.Kf1 Rh8 66.Rc2 Bc5 67.Kg2 Kf6 68.Be2 Rh7 69.Rc1 Rh8 70.Rc2 Rh7 71.Rc1 Rh8  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.11"]
+[Round "1"]
+[White "Ponomariov,R"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2671"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Qd7 11.Nc3 Nd8 12.d4 exd4 13.Nxd4 Re8 14.Nf5 Ne6 15.Qf3 Bf8
+16.Be3 c5 17.Nd5 Bxd5 18.Bxd5 Nxd5 19.exd5 Nc7 20.Bd2 Rxe1+ 21.Rxe1 Re8 22.Rxe8 Nxe8
+23.b3 g6 24.Nh6+ Bxh6 25.Bxh6 f6 26.c4 Kf7 27.Qd3 Ke7 28.g4 Kd8 29.Kg2 Kc8
+30.Bd2 Nc7 31.Bc3 Qf7 32.Qf3 Ne8 33.Qe4 Nc7 34.Kg3 Kd7 35.Ba5 Qe8 36.Kf3 Qxe4+
+37.Kxe4 bxc4 38.bxc4 Ne8 39.Bd2 Ke7 40.Kd3 Kd7 41.Kc3 Kc7 42.Kb3 Kb6 43.Bh6 Kb7
+44.h4 f5 45.gxf5 gxf5 46.Bg5 Kc8 47.h5 Kd7 48.Kc3 h6 49.Bxh6 Nf6 50.Kb3 Nxh5
+51.Ka4 Nf6 52.Bf4 Ng4 53.Bg3 f4 54.Bxf4 Nxf2 55.Bg3 Ne4 56.Bf4 Kc7 57.Kb3 Kd7
+58.Kc2 Nf2 59.Kd2 Ne4+ 60.Kd3 Nf2+ 61.Ke2 Ne4 62.Kd3 Nf2+ 63.Ke2 Ne4 64.Kd3  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.12"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2738"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7
+9.g4 Be7 10.Qd2 O-O 11.g5 Nh5 12.O-O-O b5 13.Nd5 Bxd5 14.exd5 f5 15.gxf6 Bxf6
+16.Na5 Nf4 17.Nc6 Qc7 18.c4 Nb8 19.Qa5 Rc8 20.Kb1 bxc4 21.Qxc7 Rxc7 22.Bxc4 Kf8
+23.Na5 Nd7 24.Rc1 Bg5 25.h4 Bh6 26.Bb3 Rac8 27.Rc6 Ne2 28.Bxh6 gxh6 29.Bc4 Nd4
+30.Bxa6 Nxc6 31.dxc6 Rxc6 32.Nxc6 Rxc6 33.Bb5 Rc7 34.Rc1 Nc5 35.Bc4 e4 36.b4 Rb7
+37.a3 exf3 38.Rf1 Na4 39.Rxf3+ Kg7 40.Bb3 Nb6 41.Kb2 Re7 42.a4 Re4 43.Ka3  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.12"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2804"]
+[BlackElo "2803"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 Re8 10.c3 h6 11.Nbd2 Bf8 12.a3 d6 13.Ba2 Nb8 14.b4 c5 15.Nb3 Nc6 16.Rb1 Bc8
+17.Be3 Be6 18.Qc2 Rc8 19.Qb2 c4 20.dxc4 Bxc4 21.Nbd2 Bxa2 22.Qxa2 d5 23.Rbd1 d4
+24.cxd4 exd4 25.Nb3 Nxe4 26.Bxd4 Nxd4 27.Rxd4 Ng5 28.Ne5 Nxh3+ 29.gxh3 Qg5+
+30.Kh2 Qf5 31.Rde4 Rxe5 32.Rxe5 Bd6 33.Nc5 Bxe5+ 34.Kg2 Rc6 35.Qb3 Rg6+ 36.Kf1 Bg3  0-1
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.12"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2671"]
+[BlackElo "2708"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Na5 11.Ba2 c5 12.Nc3 Nc6 13.Rb1 Rc8 14.Bd2 Nd4 15.b4 Nxf3+
+16.Qxf3 c4 17.dxc4 bxc4 18.Qe2 Qc7 19.Bg5 Ne8 20.Bxe7 Qxe7 21.Bxc4 Nf6 22.Rbd1 a5
+23.Nd5 Nxd5 24.Bxd5 axb4 25.axb4 Bxd5 26.Rxd5 Qc7 27.Rc1 Qc3 28.b5 Rfd8 29.Qd1 h6
+30.Kh2 Rc5 31.Rxc5 Qxc5 32.Qe2 Rc8 33.c4 Qd4 34.Rc2 g6 35.f3 Kg7 36.Rd2 Qxc4
+37.Qxc4 Rxc4 38.Rxd6 Rb4 39.b6 h5 40.h4 f5 41.Rd7+ Kf6 42.b7 fxe4 43.fxe4 g5
+44.g3 Rb2+ 45.Kg1 gxh4 46.gxh4 Ke6 47.Rh7 Kd6 48.Rxh5 Rxb7 49.Kg2 Rb4 50.Kf3 Rb1
+51.Rg5 Ke6 52.h5 Rf1+ 53.Ke2 Rf4 54.Ke3 Rh4 55.Rf5 Rh3+ 56.Kf2 Rh4 57.Kf3 Rh3+
+58.Kg4 Re3 59.h6 Rxe4+ 60.Kg5 Re1 61.Rf6+ Kd5 62.h7 Rg1+ 63.Kh6 Ke4 64.Rf8 Rh1+
+65.Kg6 Rxh7 66.Kxh7 Kd3 67.Rd8+ Ke3 68.Kg6 e4 69.Kf5 Kf3 70.Rh8 e3 71.Rh3+ Kf2
+72.Kf4 e2 73.Rh2+ Kf1 74.Kf3 e1=N+ 75.Kg3 Nd3 76.Rd2 Ne1 77.Rf2+ Kg1 78.Rf8 Ng2
+79.Kf3 Kf1 80.Kg3+ Kg1 81.Kf3 Kf1 82.Rf7 Ne1+ 83.Ke3+ Kg1 84.Ke2 Ng2 85.Rh7 Nf4+
+86.Kf3 Nd3 87.Rh4 Ne5+ 88.Ke2 Kg2 89.Re4 Nf7 90.Re7 Nd6 91.Rg7+ Kh3 92.Kf3 Kh4
+93.Kf4 Kh5 94.Re7 Nc4 95.Re6 Nd2 96.Rc6 Nb3 97.Ke3 Kg4 98.Rc4+ Kg3 99.Rc3 Na5
+100.Ke4+ Kf2 101.Kd5 Nb7 102.Rb3 Nd8 103.Rb8  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.13"]
+[Round "3"]
+[White "Ponomariov,R"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2804"]
+[ECO "D45"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 a6 6.c5 b6 7.cxb6 Nbd7 8.Na4 Nxb6
+9.Bd2 Nxa4 10.Qxa4 Bd7 11.Ne5 Ne4 12.Ba5 c5 13.Nxd7 Qxd7 14.Qxd7+ Kxd7 15.f3 Nf6
+16.Rc1 c4 17.b3 Rb8 18.bxc4 Bb4+ 19.Bxb4 Rxb4 20.c5 Rb2 21.a4 Ra8 22.Be2 Kc7
+23.Rf1 Rab8 24.Rf2 R8b3 25.Bxa6 Rxe3+ 26.Kf1 Rb4 27.Ra2 Reb3 28.Rd1 Ng8 29.a5 Ne7
+30.Be2 Nc6 31.a6 Kb8 32.Rad2 Ra3 33.Kf2 g5 34.h4 gxh4 35.Rh1 Rxd4 36.Rb2+ Kc7
+37.Rhb1 Ne5 38.Rb8 Kc6 39.Rc8+ Kd7 40.Rg8 Ke7 41.Rb7+ Kf6 42.a7 Rda4 43.c6 Nxc6
+44.Bb5 Ra2+ 45.Kg1 Rxa7 46.Bxc6 Rxb7 47.Bxb7 h5 48.Kh2 Ra1 49.Bc6 Rc1 50.Bb5 Rb1
+51.Be2 Re1 52.Ba6 Ra1 53.Bd3 Rd1 54.Bh7 d4 55.Rb8 Kg7 56.Rb1 Rd2 57.Be4 f5
+58.Bb7 e5 59.Rb5 Kf6 60.f4 e4 61.Bc8 d3 62.Rxf5+ Kg7 63.Rg5+ Kf6 64.Rf5+ Kg7
+65.Rg5+ Kf6 66.Rf5+ Kg7  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.13"]
+[Round "3"]
+[White "Anand,V"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2803"]
+[BlackElo "2671"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Qd7 11.Nbd2 Nd8 12.c3 Ne6 13.d4 Rad8 14.d5 Nf4 15.Nf1 Ng6 16.Ng3 c6
+17.Bg5 cxd5 18.Bxf6 Bxf6 19.Bxd5 Nf4 20.Bxb7 Qxb7 21.Qc2 g6 22.Rad1 d5 23.exd5 Rxd5
+24.Rxd5 Qxd5 25.Rd1 Qe6 26.Qe4 Rb8 27.Ne2 Nxe2+ 28.Qxe2 Re8 29.Qe4 h6 30.g4 Bg5
+31.Nxg5 hxg5 32.Qd5 Kg7 33.Qxe6 Rxe6 34.Rd7 Kf6 35.Kf1 Rc6 36.Ke2 Ke6 37.Rd8 e4
+38.f3 exf3+ 39.Kxf3 Rd6 40.Re8+ Kd5 41.b3 Rf6+ 42.Kg2 Rc6 43.Re3 f5 44.gxf5 gxf5
+45.Rg3 Ke4 46.a4 bxa4 47.bxa4 Kf4 48.Rf3+ Ke5 49.Re3+ Kf6 50.Rd3 f4 51.Kf3 Ke5
+52.Kg4 Rd6 53.Rxd6 Kxd6 54.h4 gxh4 55.Kxh4 Kd5 56.Kh3 Ke4 57.Kg2 Ke3  0-1
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.13"]
+[Round "3"]
+[White "Bacrot,E"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2743"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 b6 10.O-O Bb7 11.Qd3 Qc7 12.d5 Nd7 13.Qc2 Rad8 14.Bg5 Bf6 15.Bh6 Bg7
+16.Bxg7 Kxg7 17.a4 e6 18.dxe6 Nf6 19.Ng5 h6 20.Nxf7 Bxe4 21.Qb3 Rxf7 22.exf7 Bxb1
+23.Rxb1 Qxf7 24.Qxf7+ Kxf7 25.Bc4+ Kf8 26.f3 Rd2 27.a5 bxa5 28.Ra1 Rc2 29.Bd3 Rd2
+30.Bc4 Rc2 31.Bd3 Rd2 32.Bc4  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.14"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2671"]
+[BlackElo "2743"]
+[ECO "B83"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.Be2 Nf6 7.O-O Be7 8.Be3 O-O
+9.f4 e5 10.Nxc6 bxc6 11.Kh1 exf4 12.Bxf4 Be6 13.Bf3 Qb6 14.b3 Rfd8 15.Qe1 Nd7
+16.Nd5 cxd5 17.exd5 Bg4 18.Qxe7 Bxf3 19.Rxf3 Nf6 20.Be3 Qa5 21.Rxf6 gxf6
+22.Qxf6 Re8 23.Qg5+ Kf8 24.Bd2  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.14"]
+[Round "4"]
+[White "Anand,V"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2803"]
+[BlackElo "2738"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Ngf6 12.O-O-O Be7 13.Ne4 Nxe4 14.Qxe4 Nf6 15.Qd3 Qd5
+16.c4 Qe4 17.Qxe4 Nxe4 18.Be3 O-O 19.Ne5 Bd6 20.f3 Ng3 21.Rh3 Nf5 22.Bf2 Rad8
+23.g4 Ne7 24.Nd3 b5 25.b3 Bc7 26.Rhh1 Bb6 27.Nc5 Rfe8 28.Kc2 bxc4 29.bxc4 Bxc5
+30.dxc5 e5 31.Rd6 Rb8 32.Rhd1 Rb7 33.Rd8 Rxd8 34.Rxd8+ Kh7 35.Rf8 f6 36.Be1 Rd7
+37.Bc3 Ng8 38.a4 g6 39.a5 gxh5 40.gxh5 Kg7 41.Rb8 Ne7 42.a6 Kf7 43.Ba5 Nf5
+44.Bb6 Ne3+ 45.Kc3 Ke6 46.Rc8 Kf5 47.Rxc6 Nd1+ 48.Kb4 Rd2 49.Bxa7 Rb2+ 50.Ka3 Rb1
+51.Rb6 Ra1+ 52.Kb3 e4 53.fxe4+ Kxe4 54.c6 Kd3 55.c7 Rb1+ 56.Ka3  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.14"]
+[Round "4"]
+[White "Bacrot,E"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2804"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 Bxc3+ 6.bxc3 Qa5 7.Bd2 O-O 8.Bg2 Nc6
+9.O-O Qa6 10.Ne5 d5 11.Qc2 Re8 12.Bf4 cxd4 13.Nxc6 Qxc6 14.cxd4 b6 15.Rfc1 Ba6
+16.cxd5 Qxc2 17.Rxc2 Nxd5 18.Bd6 Rac8 19.Rac1 Rxc2 20.Rxc2 Rd8 21.Ba3 f5
+22.e3 Rc8 23.Rxc8+ Bxc8 24.Bxd5 exd5 25.Bd6 Kf7 26.Bb8 a6 27.Bc7 b5 28.a3 g5
+29.f4 g4  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.15"]
+[Round "5"]
+[White "Topalov,V"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2671"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.c5 Nbd7 6.Bf4 Nh5 7.Bd2 Nhf6 8.Rc1 g6
+9.h3 Qc7 10.g3 Bg7 11.Bf4 Qd8 12.Bg2 Nh5 13.Bg5 h6 14.Bd2 O-O 15.e4 dxe4
+16.Nxe4 Nhf6 17.Nc3 Re8 18.O-O Nf8 19.Qb3 Ne6 20.Be3 Nc7 21.Ne5 Nfd5 22.Nxd5 Nxd5
+23.Bd2 Bxe5 24.dxe5 h5 25.Rfe1 Qc7 26.e6 Bxe6 27.Rxe6 fxe6 28.Re1 Qd7 29.Qd3 Kh7
+30.Re5 Nf6 31.Qe3 Kg7 32.Be4 Kf7 33.Bc2 Rad8 34.Qh6 Rg8 35.Ba5 Qd4 36.Bc3 Qc4
+37.Bb3 Qd3 38.Bxe6+ Ke8 39.Kg2 Rf8 40.Qg7 Rd5 41.Bf5 Rf7 42.Rxe7+  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.15"]
+[Round "5"]
+[White "Svidler,P"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2803"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 Re8 10.Nc3 Bb4 11.Ng5 Rf8 12.a3 Bxc3 13.bxc3 h6 14.Nf3 d6 15.Nh4 Bc8
+16.Qf3 Na5 17.Ba2 c5 18.Nf5 Bxf5 19.Qxf5 c4 20.Rd1 Qc8 21.Qf3 Qe6 22.a4 Rfc8
+23.Ba3 Ne8 24.Qe2 Qd7 25.Bb4 Qc7 26.dxc4 Nxc4 27.Bxc4 bxc4 28.a5 Qe7 29.Rd2 Rc6
+30.Rad1 Qe6 31.Qf3 Rb8 32.Rd5 f6 33.R5d2 Rb7 34.Kh2 Kf7 35.Qh5+ Kg8 36.Qf3 Kf7
+37.Qh5+ Kg8 38.Qf3  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.15"]
+[Round "5"]
+[White "Ponomariov,R"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2708"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.a5 Be6 11.Nbd2 Rb8 12.Bc4 Qc8 13.b3 Nd7 14.Nf1 Bf6 15.Ne3 g6 16.Bb2 Bxc4
+17.Nxc4 Re8 18.d4 exd4 19.Nxd4 Nce5 20.Nxe5 Bxe5 21.Rb1 Qb7 22.f3 Nf6 23.Qd2 c5
+24.Nf5 Bxb2 25.Rxb2 Rbd8 26.Rbb1 Qc7 27.Qh6 Nh5 28.Ne3 Nf6 29.Nf5 Nh5 30.Rbd1 gxf5
+31.Qxh5 fxe4 32.Qg5+ Kf8 33.Rd5 Re6 34.Rxe4 Rde8 35.Qh5 Qxa5 36.Qxh7 Qa1+
+37.Kf2 Rxe4 38.fxe4 Re6 39.Rd3 Rf6+ 40.Rf3 Rxf3+ 41.gxf3 Qc1 42.Kg3 Qxc2
+43.Qh6+ Kg8 44.Qg5+ Kh7 45.Qh5+ Kg7 46.Qg5+ Kh7 47.Qh5+  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.17"]
+[Round "6"]
+[White "Kamsky,G"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2671"]
+[BlackElo "2738"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Qd7 11.Nbd2 Rfe8 12.Nf1 Nd8 13.Ng3 Ne6 14.c3 c5 15.d4 exd4
+16.cxd4 d5 17.e5 Ne4 18.Nf5 Bf8 19.Be3 Rac8 20.dxc5 N6xc5 21.N5d4 Nxb3 22.Qxb3 Nc5
+23.Qd1 a5 24.Qb1 Ne4 25.Rd1 b4 26.axb4 Bxb4 27.Nc2 Qe7 28.Nxb4 Qxb4 29.Qa2 Ra8
+30.Rd4 Qb5 31.Ra4 Bc6 32.Rxa5 Rxa5 33.Qxa5 Qxb2 34.Rc1 Ba8 35.Rc7 d4 36.e6 Qb1+
+37.Kh2 fxe6 38.Qh5 Nd6 39.Bxd4 Bxf3 40.Rxg7+ Kf8 41.Qh6  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.17"]
+[Round "6"]
+[White "Anand,V"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2803"]
+[BlackElo "2708"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4 g5
+16.Qe1 Bf5 17.Nd2 h6 18.f3 Kg7 19.a4 Bxe4 20.fxe4 Rae8 21.axb5 axb5 22.Nf1 Qg4
+23.Bc2 Re7 24.Bd2 Rfe8 25.e5 f6 26.h3 Qxh3 27.Qe4 Kh8 28.Ra6 fxe5 29.Rxc6 Rf8
+30.Bd3 Ref7 31.Qg2 Qxg2+ 32.Kxg2 Rf6 33.dxe5 Bxe5 34.Rc5 Rd6 35.Be4 Rfd8
+36.Rxb5 Bg7 37.Bc1 Nf6 38.Bf3 g4 39.Be2 Re8 40.Bc4 Rd1 41.Bf4 Ne4 42.Be2 Nxc3
+43.Bxd1 Nxb5 44.Bxg4 Re1 45.Ne3 Nd4 46.Nc4 Rb1 47.Bd2 Nb3 48.Be3 Nd4 49.Bd2 Nb3
+50.Be3 Nd4  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.17"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteElo "2804"]
+[BlackElo "2743"]
+[ECO "D87"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Bf4 Qd7 13.d5 Na5 14.Bd3 b5 15.Rb1 a6
+16.c4 e6 17.Bg5 Re8 18.Qd2 Nxc4 19.Bxc4 bxc4 20.d6 Bb7 21.Qe3 f6 22.Bh4 g5
+23.Bg3 f5 24.Qxg5 Bxe4 25.Rb6 Qd8 26.Qxd8 Raxd8 27.Rd1 Rd7 28.f3 Bc2 29.Re1 Bd3
+30.Rxa6 c3 31.Ra3 Bxe2 32.Rxe2 Rb8 33.Rb3 Rxb3 34.axb3 Kf7 35.Kf1 Rb7 36.Ra2 Bf6
+37.Ke2 c4 38.b4 Rxb4 39.Ra7+ Kg6 40.Rc7 c2 41.Kd2 f4 42.Be1 Rb1 43.Rxc4 Rd1+
+44.Kxc2 Rxe1 45.Rxf4 Re2+ 46.Kd3 Re5 47.Rg4+ Kf7 48.Ra4 Rd5+ 49.Ke3 Rxd6
+50.Ra7+ Kg6 51.Kf4 Rd4+ 52.Kg3 Bh4+ 53.Kh3 Bf2 54.g3 Rh4+ 55.Kxh4 Bxa7 56.Kh3 Kf5
+57.Kg2 Be3 58.Kh3 Ke5 59.Kg4 Bg1 60.h4 Bf2 61.h5 h6  0-1
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.18"]
+[Round "7"]
+[White "Ponomariov,R"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2743"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O Qc7 7.Qe2 d6 8.c4 g6
+9.Nc3 Bg7 10.Nf3 O-O 11.Bf4 Nc6 12.Rac1 Nd7 13.Qe3 Nce5 14.Nxe5 Nxe5 15.Be2 b6
+16.Rfd1 Re8 17.Qd2 Nxc4 18.Bxc4 Qxc4 19.Qxd6 Bb7 20.Be5 Bxe5 21.Qxe5 Rad8
+22.f3 b5 23.Kf2 Qc6 24.Ne2 Qb6+ 25.Rd4 Rd7 26.b4 Red8 27.Ke3 Rxd4 28.Nxd4 Rd6
+29.Qf6 Rd7 30.Rc5 Qd6 31.g3 a5 32.a3 axb4 33.axb4 Qa6 34.Ne2 Qd6 35.Qc3 h5
+36.Qd4 Qe7 37.Qe5 f6 38.Qb8+ Kg7 39.Nc3 e5 40.Nd5 Bxd5 41.exd5 f5 42.Qxb5 f4+
+43.Kf2 e4 44.fxe4 fxg3+ 45.hxg3 Qf6+ 46.Kg2 Qb2+ 47.Kh3 Rf7 48.Qd3 Qxb4 49.Qc3+ Qxc3
+50.Rxc3 Re7 51.Rc4 Kf6 52.Kh4 Ke5 53.Rc6  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.18"]
+[Round "7"]
+[White "Bacrot,E"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2671"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 Qb6 5.c5 Qc7 6.g3 Bg4 7.Ne5 Be6 8.Bf4 Qc8
+9.Bg2 g6 10.O-O Bg7 11.b4 O-O 12.Re1 Nh5 13.e3 Nd7 14.Bf3 Nxf4 15.exf4 Nxe5
+16.fxe5 f6 17.exf6 Bxf6 18.Bh1 g5 19.Qd2 Qd7 20.Re3 Bf5 21.Rae1 e6 22.Bg2 Qg7
+23.Ne2 Kh8 24.Rd1 Rae8 25.Nc1 Re7 26.Nb3 h5 27.Qe2 h4 28.g4 Bg6 29.b5 e5
+30.bxc6 bxc6 31.Re1 e4 32.Qd2 Be8 33.f3 exf3 34.Bxf3 Bd7 35.Bd1 Rxe3 36.Rxe3 Bd8
+37.Rf3 Rxf3 38.Bxf3 Qg6 39.Bd1 h3 40.Qe3 Kg7 41.Qxh3 Qb1 42.Qf1 Be8 43.Qe2 Bg6
+44.Kf2 Kf7 45.Nd2 Qxa2 46.Nf3 Qxe2+ 47.Kxe2 Bf6 48.Ba4 Be4 49.Bxc6 Ke6 50.Nd2 Bxd4
+51.Nxe4 dxe4 52.Bxe4 Bxc5  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.18"]
+[Round "7"]
+[White "Anand,V"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2803"]
+[BlackElo "2804"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 b5 8.Qd2 b4
+9.Na4 Nbd7 10.c4 bxc3 11.Nxc3 Bb7 12.Be2 d5 13.exd5 Nxd5 14.Nxd5 Bxd5 15.O-O Qb8
+16.Nf5 Qe5 17.Ng3 Bb4 18.Qxb4 Qxe3+ 19.Kh1 Rb8 20.Qd6 Rb6 21.Qc7 Rc6 22.Qb7 Rc2
+23.Qxa6 O-O 24.b3 Ne5 25.Rae1 Qd2 26.Rd1 Qf4 27.Bb5 h5 28.Ne2 Qe3 29.a4 Rb2
+30.Qd6 Rc8 31.Rde1 Nxf3 32.gxf3 Bxf3+ 33.Rxf3 Qxf3+ 34.Kg1 Qe3+ 35.Kf1 Qf3+
+36.Kg1 Qxb3 37.Qe5 Rd8 38.Qc3 Qxc3 39.Nxc3 h4 40.Re4 Rb3 41.Ne2 g5 42.Re5 Rd5
+43.Rxd5 exd5 44.Bc6 Ra3 45.Nd4 Kg7 46.Bxd5 Rd3 47.Nf5+ Kf6 48.Be4 Rd1+ 49.Kg2 Rd2+
+50.Kf3 Rxh2 51.Ne3 Ra2 52.Bc6 Ra3 53.Kf2 Ra1 54.Bd7 Ke5 55.Kf3 Ra3 56.Kf2 Ke4
+57.Bc6+ Kf4 58.Ng2+ Ke5 59.Ne3 Ra2+ 60.Kf3 f5 61.Bd7 h3  0-1
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.19"]
+[Round "8"]
+[White "Kamsky,G"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2671"]
+[BlackElo "2803"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bg4 6.h3 h5 7.d3 Qf6 8.Nbd2 Ne7
+9.Nc4 Bxf3 10.Qxf3 Qxf3 11.gxf3 Ng6 12.Rd1 c5 13.Kf1 Bd6 14.Ke2 f6 15.c3 Kf7
+16.Be3 Rhd8 17.a3 a5 18.a4 b6 19.Rdc1 Rd7 20.b4 cxb4 21.Nxd6+ cxd6 22.cxb4 axb4
+23.Rcb1 d5 24.Rxb4 d4 25.Bd2 Rda7 26.f4 Nxf4+ 27.Bxf4 exf4 28.Kf3 b5 29.Rxb5 Rxa4
+30.Rb7+ Kf8 31.Rg1 g5 32.h4 Ra1 33.Rxa1 Rxa1 34.Rb5 gxh4 35.Rxh5 Ra3 36.Rxh4 Rxd3+
+37.Ke2 Ra3 38.Rxf4 Ke7 39.Rf5 Ke6  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.19"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2738"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a4 Na5 11.Ba2 c5 12.Nbd2 Nd7 13.Nf1 Nb6 14.Bd2 b4 15.c3 bxc3 16.Bxc3 Nc6
+17.a5 Nc8 18.Ne3 N8a7 19.Nf5 Bc8 20.Nd2 Rb8 21.f4 Bxf5 22.exf5 exf4 23.Qg4 Nd4
+24.Ne4 Nab5 25.Bd2 Nc2 26.Bxf4 Kh8 27.Qh5 Nxe1 28.Rxe1 Qxa5 29.Ra1 Rbd8 30.f6 gxf6
+31.Kh2 d5 32.Nxf6 Bxf6 33.d4 Qxa2 34.Rxa2 Nxd4 35.b4 Ne6 36.Be5 Bg7 37.bxc5 Rc8
+38.Bd6 Rfd8 39.Ra5 Kg8 40.Rxa6 Rd7 41.Qxd5 Bf8 42.Qf3 Bxd6+ 43.cxd6 Rcd8
+44.Qd5 Ng7 45.Ra8 Ne6 46.Rxd8+ Rxd8 47.g4 h6 48.h4 Rb8 49.Kg3 Re8 50.Kf3 Nf8
+51.Qd2 Kg7 52.Qd4+ Kg8 53.Qf6 Re6 54.Qe7 Kg7 55.Qc7 Kg8 56.d7 Nxd7 57.Qxd7 Kg7
+58.Qd4+ Kg8 59.Kf4 Rg6 60.Kf5 Re6 61.Qd7 Rg6 62.h5 Rg5+ 63.Kf6 Kh8 64.Qe8+ Rg8
+65.Kxf7  1-0
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.19"]
+[Round "8"]
+[White "Svidler,P"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2708"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Na5 11.Ba2 c5 12.Nbd2 Nc6 13.Nf1 Bc8 14.c3 Be6 15.Bxe6 fxe6
+16.b4 Qd7 17.Ng3 a5 18.bxc5 dxc5 19.a4 b4 20.Be3 c4 21.dxc4 Qxd1 22.Rexd1 bxc3
+23.c5 c2 24.Rdc1 Nb4 25.Ne1 Rfc8 26.Nxc2 Bxc5 27.Nxb4 Bxe3 28.Rxc8+ Rxc8
+29.fxe3 axb4 30.Rb1 Rb8 31.a5 Ra8 32.Rxb4 Rxa5 33.Rb6 Kf7 34.Rb7+ Kg6 35.Rb6 Kf7
+36.Rb7+ Kg6 37.Rb6 Kf7  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.20"]
+[Round "9"]
+[White "Kamsky,G"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2671"]
+[BlackElo "2804"]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Nb3 Be7
+9.Qf3 Nbd7 10.O-O-O Qc7 11.Bd3 b5 12.Rhe1 Bb7 13.Qh3 b4 14.Nb1 e5 15.N1d2 a5
+16.Kb1 a4 17.Nc1 O-O 18.Ne2 Rfc8 19.Ng3 g6 20.Nc4 Ba6 21.b3 axb3 22.cxb3 Nc5
+23.Ne2 Nfxe4 24.Bxe7 Qxe7 25.Bxe4 Nxe4 26.Nb6 Qa7 27.Nxa8 Rxa8 28.a4 Bxe2
+29.Rc1 Qf2  0-1
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.20"]
+[Round "9"]
+[White "Anand,V"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2803"]
+[BlackElo "2743"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a4 Na5 11.Ba2 c5 12.Nbd2 Bc8 13.Nf1 Bd7 14.Ne3 bxa4 15.Nd2 Rb8
+16.c3 Bb5 17.Nf5 Ne8 18.Nc4 Nb3 19.Bxb3 axb3 20.Qxb3 Bf6 21.Qd1 g6 22.Nfe3 Nc7
+23.Nd2 Bg5 24.c4 Bxe3 25.Rxe3 Bc6 26.Nf1 f5 27.exf5 gxf5 28.Rg3+ Kh8 29.f4 Qf6
+30.Qh5 Rg8 31.fxe5 dxe5 32.Bg5 Qe6 33.Re1 Rxb2 34.Nh2 f4 35.Rg4 Qf5 36.Qh6 Rg6
+37.Rxe5 Rb1+ 38.Kf2 Rb2+ 39.Kg1 Rb1+ 40.Kf2 Rb2+  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.20"]
+[Round "9"]
+[White "Bacrot,E"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2738"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.cxd5 exd5 7.Bg2 Bd6 8.O-O O-O
+9.Nc3 Nbd7 10.Bf4 Qe7 11.Re1 Rfe8 12.Rc1 c6 13.Qc2 Bb4 14.Bg5 h6 15.Bd2 c5
+16.a3 Bxc3 17.Bxc3 Ne4 18.dxc5 bxc5 19.Nd2 f5 20.b4 Nb6 21.Nxe4 dxe4 22.Bh3 Bc8
+23.bxc5 Qxc5 24.Bb2 Qe7 25.f3 exf3 26.Qb3+ Be6 27.Qxf3 Nc4 28.Bd4 Rad8 29.Qf2 Nd2
+30.Qf4 Rxd4 31.Qxd4 Nb3 32.Qb4 Qxb4 33.axb4 Nxc1 34.Rxc1 Rb8 35.Rc7 Rxb4
+36.Rxa7 Kf8 37.Kf2 h5 38.Bg2 h4 39.Ra8+ Kf7 40.Ra7+ Kf6 41.Ra6 hxg3+ 42.hxg3 Ke5
+43.Ra5+ Kf6 44.Ra6 Ke5 45.Ra5+  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.21"]
+[Round "10"]
+[White "Svidler,P"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2671"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Qd7 11.Nc3 Rfe8 12.Nd5 Nxd5 13.exd5 Nd4 14.Nxd4 exd4 15.a4 Bf6
+16.axb5 axb5 17.Rxa8 Bxa8 18.Bd2 Bb7 19.Re4 Rxe4 20.dxe4 c5 21.dxc6 Bxc6
+22.Qf3 Be5 23.g4 h6 24.Kg2 Qb7 25.Bd5 Bxd5 26.exd5 g5 27.b3 Kg7 28.Qe4 Qc8
+29.Kf3 f6 30.Qf5 Qb7 31.Qe4 Qc8 32.Qf5 Qb7 33.Qe4 Qc8  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.21"]
+[Round "10"]
+[White "Ponomariov,R"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2803"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.bxc3 c5
+9.e4 Nc6 10.Be3 cxd4 11.cxd4 Rc8 12.Qa2 Bd6 13.Bd3 O-O 14.O-O Ne7 15.Rfc1 Ng6
+16.g3 Qe7 17.a4 Bb4 18.h4 Rfd8 19.h5 Nf8 20.h6 gxh6 21.Rxc8 Rxc8 22.Rd1 h5
+23.d5 exd5 24.exd5 Ng6 25.Ng5 Rd8 26.Bf5 Qf6 27.Bh3 Bc5 28.Bxc5 Qxg5 29.Be3 Qe5
+30.Bg2 h4 31.a5 hxg3 32.axb6 axb6 33.Bxb6 Qh5 34.Rd3 Ra8 35.Ra3 Rxa3 36.Qxa3 Qd1+
+37.Bf1 gxf2+ 38.Kxf2 Qxd5 39.Qe3 Qf5+ 40.Ke1 Be4 41.Bd4 Qe6 42.Kf2 f6 43.Qg3 Qf5+
+44.Ke1 Qa5+ 45.Qc3 Qxc3+ 46.Bxc3 Kg7 47.Be2 Ne5 48.Kf2 Kg6 49.Kg3 Nf7 50.Bc4 Nd6
+51.Be6 Bf5 52.Bd5 Ne4+ 53.Bxe4 Bxe4  1/2-1/2
+
+[Event "Mtel Masters"]
+[Site "Sofia BUL"]
+[Date "2006.05.21"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2804"]
+[BlackElo "2708"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.c5 Nbd7 6.Bf4 Nh5 7.Bd2 Nhf6 8.Rc1 e5
+9.Nxe5 Nxe5 10.dxe5 Ng4 11.Na4 Nxe5 12.Bc3 f6 13.Nb6 Rb8 14.Nxc8 Rxc8 15.g3 Qd7
+16.h4 Qf7 17.Bh3 Nd7 18.b4 Rd8 19.f4 Be7 20.h5 g6 21.Qb3 Rg8 22.e4 gxh5 23.exd5 cxd5
+24.Kf2 h4 25.Bxd7+ Rxd7 26.Rxh4 d4 27.Qxf7+ Kxf7 28.Bd2 Rg7 29.Rh5 Bf8 30.c6 bxc6
+31.Rxc6 d3 32.Rxa6 Kg8 33.Rh1 Rde7 34.Kf3 Re2 35.Rd1 h5 36.Rxf6 h4 37.gxh4 Rgg2
+38.Be3 Be7 39.Ra6 Rxa2 40.b5 Rab2 41.Rxd3 Bxh4 42.Rd7  1-0

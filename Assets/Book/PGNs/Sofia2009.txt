@@ -1,0 +1,618 @@
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.13"]
+[Round "1"]
+[White "Ivanchuk,V"]
+[Black "Shirov,A"]
+[Result "0-1"]
+[WhiteElo "2746"]
+[BlackElo "2745"]
+[EventDate "2009.05.13"]
+[ECO "B52"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4
+8. Nxd4 Bg7 9. f3 O-O 10. Be3 Nc6 11. O-O Rac8 12. b3 e6 13. Rc1 Rfd8 14.
+Qd2 d5 15. exd5 exd5 16. c5 Nxd4 17. Bxd4 Ne4 18. Qe3 Nxc5 19. Rcd1 Bxd4
+20. Rxd4 Qc6 21. Ne2 Ne6 22. Rd2 d4 23. Nxd4 Qb6 24. Rfd1 Rd5 0-1
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.13"]
+[Round "1"]
+[White "Wang Yue"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2717"]
+[EventDate "2009.05.13"]
+[ECO "D82"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
+Bxc4 O-O 9. Nge2 Qxc5 10. Qb3 Nc6 11. Nb5 Qh5 12. Ng3 Qh4 13. Nc7 e5 14.
+Bg5 Qxg5 15. h4 Qg4 16. Nxa8 e4 17. Nc7 Na5 18. Qb5 Nxc4 19. Qxc4 Bd7 20.
+Nd5 Nxd5 21. Qxd5 Bxb2 22. Rc2 Bc6 23. Qg5 Qxg5 24. hxg5 Be5 25. Ne2 Rd8
+26. Rd2 Re8 27. O-O Kg7 28. Rc1 h6 29. Nd4 Bxd4 30. gxh6+ Kxh6 31. exd4 Rd8
+32. a3 f5 33. g3 Bd5 34. Kf1 g5 35. Ke2 Kg6 36. Rdc2 Bc6 37. Ke3 Kh5 38.
+Rc5 Bd5 39. Ra5 Kg4 40. Rcc5 Be6 41. Rxa7 b6 42. Rc1 Bd5 43. Rg7 Ra8 44.
+Rc3 Ra4 45. Rg6 b5 46. Rf6 Bc4 47. Rd6 Bd3 48. f4 Kxg3 49. Rg6 g4 50. d5 b4
+51. axb4 Ra2 52. d6 Bb5 53. Rg7 Re2+ 54. Kd4+ Kxf4 55. Kc5 Rd2 56. Kxb5
+Rxd6 57. Rc1 Re6 58. Rf1+ Kg3 59. Rf7 Re5+ 60. Kc4 e3 61. R7xf5 Rxf5 62.
+Rxf5 e2 63. Re5 Kf2 64. b5 e1=Q 65. Rxe1 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.13"]
+[Round "1"]
+[White "Carlsen,M"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2812"]
+[EventDate "2009.05.13"]
+[ECO "D43"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. e4 O-O 12. e5 Qe7 13. Qe2 b5 14. Bd3
+Bb7 15. Be4 Rfd8 16. Rac1 Rab8 17. Rfd1 a6 18. h4 Ba8 19. Rc2 Rdc8 20. Rdc1
+Qf8 21. a4 c5 22. axb5 cxd4 23. Nxd4 Bxe4 24. Nxe4 Rxc2 25. Rxc2 axb5 26.
+Nc6 Rb6 27. f4 Qa8 28. Ne7+ Kh7 29. h5 Ra6 30. hxg6+ fxg6 31. Rc7 Ra1+ 32.
+Kf2 Qd8 33. Qd3 Qxe7 34. Rxd7 Qh4+ 35. Kf3 Qh5+ 36. Kg3 1-0
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.14"]
+[Round "2"]
+[White "Shirov,A"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2812"]
+[EventDate "2009.05.13"]
+[ECO "C64"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. dxe5 Nxe4
+8. Qd5 Nc5 9. Na3 Ne7 10. Qd1 Ne4 11. Bd3 d5 12. exd6 Nxd6 13. Bg5 h6 14.
+Bh4 Ndf5 15. Bg3 Nxg3 16. hxg3 Nf5 17. Nc4 Qf6 18. Nxb6 axb6 19. Re1 Nd6
+20. Ne5 Re8 21. Nc4 Rxe1+ 22. Qxe1 Bf5 23. Bf1 Re8 24. Qd2 Be6 25. Nxd6 Rd8
+26. Qe2 Rxd6 27. a3 Qd8 28. Qf3 c6 29. b4 b5 30. Kh2 Bb3 31. Rb1 Bd5 32.
+Qf4 Be6 33. Rb2 g5 34. Qe3 Rd1 35. Be2 Ra1 36. Rd2 Qf6 37. Rd6 Re1 38. Rd1
+Rxd1 39. Bxd1 Bd5 40. a4 bxa4 41. Bxa4 Qe6 42. Qxe6 Bxe6 43. Kg1 Kg7 44. f4
+Kf6 45. Kf2 Bd5 46. Bc2 b6 47. Bd3 c5 48. bxc5 bxc5 49. fxg5+ hxg5 50. g4
+Ke5 51. g3 Be6 52. Kf3 Kd5 53. Be2 Ke5 54. Ke3 Bd7 55. Bf3 Be6 56. Be2 Bd7
+57. Bf3 Be6 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.14"]
+[Round "2"]
+[White "Dominguez Perez,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2770"]
+[EventDate "2009.05.13"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 g6 7. g4 Bg7 8.
+Bg2 O-O 9. Be3 Nc6 10. Qd2 Bd7 11. O-O-O b5 12. f4 Rc8 13. e5 b4 14. Nce2
+Nxd4 15. Bxd4 dxe5 16. fxe5 Qa5 17. a3 Nd5 18. e6 fxe6 19. Bxg7 Kxg7 20.
+Bxd5 exd5 21. Qd4+ Kg8 22. axb4 Qa2 23. Nc3 Qa1+ 24. Kd2 Qxb2 25. Rhf1 Rxf1
+26. Rxf1 e6 27. Rb1 Qa3 28. Rb3 Qa1 29. Rb1 Qa3 30. Rb3 Qa1 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.14"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Wang Yue"]
+[Result "0-1"]
+[WhiteElo "2746"]
+[BlackElo "2738"]
+[EventDate "2009.05.13"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 a6 11. Be2 Bf6 12. Ng5 Bxg5 13. Bxg5 f6
+14. Be3 O-O-O 15. Rhe1 Rhe8 16. b3 Bg4 17. f3 Bf5 18. Bf1 Bg6 19. Kb2 Re5
+20. Bf2 Qf5 21. Bg3 Rxe1 22. Bxe1 Qg5 23. Qxg5 fxg5 24. c4 Ne7 25. Bd2 h6
+26. Bc3 Nf5 27. Re1 Re8 28. Rxe8+ Bxe8 29. Bd3 g6 30. Kc1 Nh4 31. Bf1 Kd7
+32. Kd2 Ke6 33. Ke3 Nf5+ 34. Kf2 Kf7 35. Bd3 Ne7 36. g4 Nc6 37. Be4 Nd8 38.
+Bd5+ Ke7 39. Bg7 h5 40. Bd4 Bc6 41. Be3 Kf6 42. Kg3 Ne6 43. a4 Ke5 44. Bxg5
+Bxd5 45. f4+ Ke4 46. cxd5 Nxg5 47. fxg5 h4+ 48. Kxh4 Kf3 49. b4 b5 50. a5
+Kg2 51. h3 Kh2 0-1
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.15"]
+[Round "3"]
+[White "Carlsen,M"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2770"]
+[BlackElo "2746"]
+[EventDate "2009.05.13"]
+[ECO "D11"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. Qc2 Nf6 5. Nbd2 dxc4 6. Nxc4 c5 7. dxc5 Bxc5
+8. g3 b5 9. Nce5 Qc7 10. Qb3 a6 11. Bg2 Bb7 12. O-O Bd5 13. Qc3 Ne4 14. Qe1
+O-O 15. Nd3 Bb6 16. Bf4 Qe7 17. Nd2 Nf6 18. e4 Bb7 19. Be3 Nbd7 20. Nb3
+Rac8 21. f3 Rfd8 22. Rd1 Ne8 23. Bxb6 Nxb6 24. Qb4 Qc7 25. Qc5 Nc4 26. Qf2
+Nf6 27. Nbc5 Nd7 28. b3 Nce5 29. Rc1 Nxd3 30. Nxd3 Qd6 31. Qe3 b4 32. Rfd1
+Rxc1 33. Rxc1 a5 34. Bf1 Ba6 35. Nc5 Nxc5 36. Qxc5 h6 37. Qxd6 Rxd6 38.
+Bxa6 Rxa6 39. Kf2 a4 40. Rc4 axb3 41. axb3 Ra2+ 42. Kg1 Ra1+ 43. Kg2 Ra2+
+44. Kh3 Rf2 45. f4 f5 46. Rxb4 g5 47. fxg5 hxg5 48. exf5 exf5 49. g4 Rf3+
+50. Kg2 fxg4 51. h4 Kh7 52. hxg5 Kg6 53. Rxg4 Rxb3 54. Rg3 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.15"]
+[Round "3"]
+[White "Wang Yue"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2745"]
+[EventDate "2009.05.13"]
+[ECO "D86"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Rb1 cxd4 13. cxd4 Bb7 14.
+h4 Rc8 15. h5 Nc4 16. Bxc4 Rxc4 17. Qd3 Ra4 18. h6 Bh8 19. Qb3 Qd7 20. Nc3
+Ra5 21. d5 Rc8 22. Nb5 Rxb5 23. Qxb5 Qxb5 24. Rxb5 Ba6 25. Rb4 Bxf1 26.
+Kxf1 Bc3 27. Ra4 Ba5 28. Ke2 f6 29. Kd3 Kf7 30. Rc4 Rxc4 31. Kxc4 a6 32. g4
+Ke8 33. g5 fxg5 34. Bxg5 Kd7 35. a4 e6 36. Be3 Kd6 37. Bf4+ Kd7 38. Be3 Kd6
+39. Bf4+ Kd7 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.15"]
+[Round "3"]
+[White "Topalov,V"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2812"]
+[BlackElo "2717"]
+[EventDate "2009.05.13"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8.
+f3 Be6 9. Qd2 O-O 10. O-O-O a5 11. Qe1 Qc8 12. a4 Nc6 13. g4 Nb4 14. Kb1 d5
+15. g5 Ne8 16. exd5 Bf5 17. Rd2 Nc7 18. Qd1 Rd8 19. Na1 Ne8 20. Bb5 Nd6 21.
+Qe2 Nxb5 22. Qxb5 Ra6 23. Rhd1 Rad6 24. h4 Bd7 25. Qc5 b6 26. Qxc8 Bxc8 27.
+Nb3 f6 28. gxf6 gxf6 29. Ne4 Rxd5 30. Bxb6 Rxd2 31. Nbxd2 Rd5 32. Nc3 Rd7
+33. Bxa5 Bb7 34. Rg1+ Kf7 35. Nde4 f5 36. Ng5+ Kg6 37. h5+ Kg7 38. Nb5 h6
+39. Ne6+ Kf7 40. Nbc7 Nc6 41. Bb6 Nb4 42. c3 Nd5 43. Rg7+ Kf6 44. Rg6+ Kf7
+45. a5 Nxb6 46. axb6 Bxf3 47. b4 f4 48. Rg7+ Kf6 49. Rg6+ Kf7 50. Rg7+ Kf6
+51. Rg6+ 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.16"]
+[Round "4"]
+[White "Carlsen,M"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2770"]
+[BlackElo "2745"]
+[EventDate "2009.05.13"]
+[ECO "D44"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2
+O-O-O 15. O-O b4 16. Na4 Qb5 17. a3 exd5 18. axb4 cxb4 19. Qg4 d4 20. Bxb7+
+Kxb7 21. Qe4+ Qc6 22. Qxd4 Bd6 23. Rfe1 Rde8 24. Re3 Ne5 25. h4 Re6 26. Bf4
+Rhe8 27. Bxe5 Rxe5 28. Rxe5 Rxe5 29. Qg4 Ra5 30. h5 Rxa4 31. Rxa4 Qxa4 32.
+h6 Qc6 33. Qh5 c3 34. bxc3 bxc3 35. Qxf7+ Bc7 36. Qb3+ Bb6 37. Qf7+ Bc7 38.
+Qb3+ Bb6 39. Qf7+ Bc7 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.16"]
+[Round "4"]
+[White "Dominguez Perez,L"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2746"]
+[EventDate "2009.05.13"]
+[ECO "B41"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Qf3 Qc7 8.
+a3 Be7 9. Qg3 d6 10. Qxg7 Rg8 11. Qh6 Nbd7 12. Qe3 b6 13. Bd2 Bb7 14. f3
+Ne5 15. b3 O-O-O 16. Rc1 Kb8 17. b4 Rc8 18. Na4 Nfd7 19. g3 Nc6 20. Nb3 f5
+21. f4 e5 22. Bg2 exf4 23. Qxf4 Bg5 24. Qxf5 Rcf8 25. Qh3 Bxd2+ 26. Nxd2
+Nde5 27. Rc3 Bc8 28. Qh4 b5 29. Nb2 Qg7 30. g4 Qa7 31. h3 Bxg4 32. c5 Be2
+33. Rg3 Nd4 34. Rxg8 Rxg8 35. Qf6 Qc7 36. Bf1 Bf3 37. Nxf3 Nexf3+ 38. Kd1
+Rd8 39. Nd3 dxc5 40. bxc5 Re8 41. Nb4 Qd8 42. Nxa6+ Kb7 43. Qxd8 Rxd8 44.
+Nb4 Ra8 45. Nc2 Kc6 46. Bd3 Kxc5 47. Rf1 Ne5 48. Nxd4 Kxd4 49. Bxb5 Rxa3
+1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.16"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2812"]
+[BlackElo "2738"]
+[EventDate "2009.05.13"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. f3 Nfd7 10. e4 Nxe5 11. dxe5 Qxd1+ 12. Kxd1 Be6 13. Kc2 f6 14.
+Rb1 Nd7 15. b4 Nxe5 16. bxa5 Bc8 17. a6 bxa6 18. a5 Nd7 19. Na4 e5 20. Bc4
+Bc5 21. Rd1 Bd4 22. Ba3 c5 23. Rb3 h5 24. Rdb1 Ke7 25. Bd5 Ra7 26. Rb6 Rc7
+27. Re6+ Kd8 28. Nb6 Nxb6 29. axb6 Rb7 30. Rd6+ Ke7 31. Rc6 Rd7 32. Re6+
+Kf7 33. b7 1-0
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.17"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2746"]
+[BlackElo "2812"]
+[EventDate "2009.05.13"]
+[ECO "B99"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nc5 12. Rhe1 Rg8 13. Bh4 g5 14. e5
+dxe5 15. fxg5 hxg5 16. Bg3 Ncd7 17. Nxe6 Qb6 18. Bc4 g4 19. Qh6 fxe6 20.
+Bh4 Bf8 21. Qd2 Qc6 22. Bd3 b5 23. Ne4 Nd5 24. Rf1 Bb7 25. Rxf8+ Nxf8 26.
+Qh6 Rg6 27. Nf6+ Rxf6 28. Bxf6 Nxf6 29. Bg6+ Nxg6 30. Qxg6+ Ke7 31. Qg7+
+Ke8 32. Qxf6 Rc8 33. c3 b4 34. Qg6+ Ke7 35. Qg7+ Ke8 36. Rf1 Qc5 37. Qxb7
+Qe3+ 38. Kc2 Qe2+ 39. Kb3 Qc4+ 40. Kc2 b3+ 41. Kd2 Rd8+ 42. Ke1 Rd1+ 43.
+Kxd1 Qxf1+ 44. Kd2 Qf4+ 45. Kd1 bxa2 46. Qc8+ Kf7 47. Qd7+ Kf6 48. Qd8+ Kf5
+49. Qf8+ Ke4 50. Qa8+ Kd3 51. Qxa6+ Qc4 52. Qa7 g3 53. h3 Qb3+ 54. Ke1 Kc2
+0-1
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.17"]
+[Round "5"]
+[White "Wang Yue"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2770"]
+[EventDate "2009.05.13"]
+[ECO "D82"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
+Bxc4 O-O 9. Nge2 Qxc5 10. Qb3 Qa5 11. O-O Nbd7 12. a3 Nb6 13. Bc7 Bd7 14.
+Nd4 Rac8 15. Bxb6 Qxb6 16. Qxb6 axb6 17. Be2 Rc7 18. Ndb5 Rc6 19. Nd4 Rc7
+20. Ndb5 Rc6 21. Rfd1 Rb8 22. Nd4 Rc7 23. Ndb5 Rc6 24. Nd4 Rc7 25. Ndb5 Rc6
+1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.17"]
+[Round "5"]
+[White "Shirov,A"]
+[Black "Dominguez Perez,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2717"]
+[EventDate "2009.05.13"]
+[ECO "B99"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
+Qf3 Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6 Bxf6 12. h4 Qb6 13. Nb3 Qc7 14. e5
+dxe5 15. f5 Nb6 16. Ne4 exf5 17. gxf5 Bd7 18. Na5 O-O-O 19. Nd6+ Kb8 20.
+Qxb7+ Qxb7 21. Ndxb7 Rc8 22. Nd6 Rc7 23. Rh3 Ka7 24. Ra3 Ra8 25. Bxa6 Kb8
+26. Bb7 Rxa5 27. Rxa5 Rxb7 28. Nxb7 Kxb7 29. Rxd7+ Nxd7 30. h5 Bd8 31. Rd5
+Kc6 32. c4 Bg5+ 33. Kc2 Nb6 34. Rxe5 Nxc4 35. Re8 Nd6 36. Rg8 Nxf5 37. b4
+Bf6 38. a4 Ng3 39. b5+ Kb6 40. Rb8+ Ka7 41. Rf8 Kb6 42. Rb8+ Ka7 43. Rf8
+Kb6 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.19"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2812"]
+[BlackElo "2770"]
+[EventDate "2009.05.13"]
+[ECO "D56"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Rc1 Nxc3 10. Rxc3 c6 11. Be2 dxc4 12. Bxc4 Nd7 13. O-O e5 14.
+Bb3 Rd8 15. Re1 exd4 16. exd4 Qd6 17. Rd3 Nf8 18. d5 Bf5 19. Rd2 cxd5 20.
+Rxd5 Qf6 21. Qd4 Be6 22. Qxf6 gxf6 23. Rh5 Bxb3 24. axb3 Ng6 25. Rxh6 Rd3
+26. h4 Rad8 27. Rh5 Rxb3 28. Rf5 Kg7 29. h5 Nf8 30. Re4 Nh7 31. Rg4+ Kh6
+32. Rc4 Rxb2 33. g4 b5 34. Rd4 Rxd4 35. Nxd4 Rb4 36. Rd5 Ng5 37. Kg2 Ne6
+38. Nf5+ Kh7 39. Kg3 Rb3+ 40. Kh2 Rf3 41. Rd7 Ng5 42. Kg2 Rf4 43. Kg3 Rf3+
+44. Kg2 Rf4 45. Kg3 Rf3+ 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.19"]
+[Round "6"]
+[White "Dominguez Perez,L"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2738"]
+[EventDate "2009.05.13"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
+Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 Bf6 11. Be2 O-O-O 12. Nd4 Bxd4 13. cxd4
+d5 14. Rhe1 Rhe8 15. f3 Bf5 16. Bf1 h5 17. a3 Kb8 18. b3 Re7 19. Kb2 Rde8
+20. Bf2 Rxe1 21. Bxe1 a6 22. Bg3 Bg6 23. Qc3 f6 24. Re1 Rxe1 25. Bxe1 Ne7
+26. h3 Qd6 27. Qc5 Qxc5 28. dxc5 Kc8 29. Bf2 Kd7 30. c4 Bf7 31. cxd5 Bxd5
+32. h4 Ke6 33. Kc3 Nf5 34. Bd3 g5 35. hxg5 fxg5 36. g4 hxg4 37. fxg4 Nh6
+38. Be3 Nxg4 39. Bxg5 Nf2 40. b4 Nxd3 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.19"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2746"]
+[EventDate "2009.05.13"]
+[ECO "C80"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Be7 10. Re1 Nc5 11. c3 d4 12. Bc2 O-O 13. cxd4 Nxd4 14.
+Nxd4 Qxd4 15. Nf3 Qxd1 16. Rxd1 Rfd8 17. Nd4 Bd5 18. Nf5 Bf8 19. Bg5 Rd7
+20. Ne7+ Bxe7 21. Bxe7 Rxe7 22. Rxd5 Ne6 23. g3 g6 24. f4 c5 25. Kf2 Kg7
+26. Rad1 c4 27. Ke3 f6 28. Rd7 Kf7 29. Be4 Rae8 30. Rxe7+ Rxe7 31. exf6
+Kxf6 32. Rd6 Kg7 33. f5 gxf5 34. Bxf5 Nf8+ 35. Kd2 Re5 36. g4 a5 37. Ra6 a4
+38. Rb6 Ng6 39. Kc3 Ne7 40. Rb7 Kf6 41. Bxh7 Kg5 42. h3 Kf4 43. Rd7 Re2 44.
+a3 Nc6 45. Rf7+ Kg3 46. g5 Re3+ 47. Kd2 Rb3 48. g6 Rxb2+ 49. Kc1 1-0
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.20"]
+[Round "7"]
+[White "Topalov,V"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2812"]
+[BlackElo "2745"]
+[EventDate "2009.05.13"]
+[ECO "D44"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2
+O-O-O 15. O-O b4 16. Na4 Qb5 17. a3 exd5 18. axb4 cxb4 19. Re1 d4 20. Qxd4
+Bxg2 21. Kxg2 Qxg5 22. Qxc4+ Kb8 23. Rac1 Bd6 24. Qc6 Qd2 25. Kg1 Rxh2 26.
+Re2 Qd3 27. Re3 Qd2 28. Re2 Qd3 29. Re3 Qd2 30. Re2 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.20"]
+[Round "7"]
+[White "Carlsen,M"]
+[Black "Dominguez Perez,L"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2717"]
+[EventDate "2009.05.13"]
+[ECO "D97"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6
+8. Be2 e5 9. d5 Nd4 10. Nxd4 exd4 11. Qxd4 c6 12. d6 Nd5 13. Qd3 Nxc3 14.
+bxc3 Qf6 15. Bb2 Rd8 16. Rd1 Qe6 17. f4 Qxa2 18. Rd2 Qa5 19. Qe3 Bd7 20.
+Kf2 Re8 21. Ra1 Qd8 22. c4 Bxb2 23. Rxb2 b6 24. Bf3 Qh4+ 25. Kg1 Qf6 26.
+Qd2 g5 27. g3 gxf4 28. gxf4 Kh8 29. Kh1 Rg8 30. e5 Qh4 31. Qd4 Rg7 32. Rg2
+Rag8 33. e6 Bxe6 34. Rxg7 Rxg7 35. Bxc6 f6 36. d7 Bxd7 37. Bxd7 Re7 38. Be6
+Rxe6 39. Qd8+ Kg7 40. Rg1+ Kf7 41. Qg8+ Ke7 42. Rg7+ Kd6 43. Qf8+ 1-0
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.20"]
+[Round "7"]
+[White "Wang Yue"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2746"]
+[EventDate "2009.05.13"]
+[ECO "A62"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8.
+Nf3 O-O 9. O-O Re8 10. Bf4 Na6 11. Re1 Bg4 12. h3 Bxf3 13. Bxf3 Nd7 14. e4
+Qe7 15. Bg2 Nc7 16. a4 a6 17. Bf1 Rab8 18. Kg2 Bd4 19. Qd2 Nf6 20. Bg5 Qf8
+21. Bh6 Qe7 22. Bg5 Qf8 23. Bh6 Qe7 24. f3 Nd7 25. h4 Qf6 26. Bg5 Qg7 27.
+Bh6 Qf6 28. Bg5 Qg7 29. Bf4 Qf6 30. g4 Be5 31. Bg5 Qg7 32. Bh6 Qf6 33. Bg5
+Qg7 34. Bh6 Qf6 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.21"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2746"]
+[BlackElo "2770"]
+[EventDate "2009.05.13"]
+[ECO "B35"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 d6 9. f3 Bd7 10. Qd2 Nxd4 11. Bxd4 b5 12. h4 a5 13. a4 bxa4 14. Bxa4
+h5 15. O-O Rb8 16. Bxd7 Nxd7 17. b3 Bxd4+ 18. Qxd4 Qb6 19. Qxb6 Nxb6 20.
+Nd1 Rfc8 21. Ne3 Ra8 22. Ra2 a4 23. Rfa1 axb3 24. Rxa8 Nxa8 25. cxb3 Nb6
+26. Ra7 Rc3 27. Kf2 e6 28. Rb7 Rxb3 29. Nc4 Rxf3+ 30. gxf3 Nxc4 31. Rb4 d5
+32. exd5 exd5 33. Rb8+ Kg7 34. Rd8 Kf6 35. Rxd5 Ke6 36. Rb5 Nd6 37. Ra5 Nf5
+38. Ra6+ Ke5 39. Ra5+ Ke6 40. Ra6+ Ke5 41. Ra5+ 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.21"]
+[Round "8"]
+[White "Dominguez Perez,L"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2812"]
+[EventDate "2009.05.13"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8.
+Bg2 Nfd7 9. Be3 Nc6 10. Qd2 Nde5 11. b3 Nxd4 12. Bxd4 O-O 13. O-O-O b5 14.
+Ne2 Bb7 15. f4 Ng6 16. Rhf1 e5 17. Be3 exf4 18. Nxf4 Ne5 19. Kb1 Rc8 20.
+Nd5 Bxd5 21. exd5 Bh4 22. g5 Re8 23. Bf3 g6 24. Bg4 Rc7 25. Bb6 Qb8 26.
+Bxc7 Qxc7 27. Be2 Qd8 28. Rg1 Qb6 29. Qf4 Bf2 30. Rg2 Be3 31. Qe4 Re7 32.
+Qb4 Rc7 33. h4 Bc5 34. Qe4 Qa5 35. Rg3 Bf2 36. Rh3 h5 37. gxh6 f5 38. Qf4
+Rxc2 39. Kxc2 Qxa2+ 40. Kc1 Qa1+ 41. Kc2 Qa2+ 42. Kc1 Qa1+ 43. Kc2 Qa2+
+1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.21"]
+[Round "8"]
+[White "Shirov,A"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2745"]
+[BlackElo "2738"]
+[EventDate "2009.05.13"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8.
+Qxc4 cxd4 9. Nxd4 Rc8 10. Nc3 Nxd4 11. Qxd4 Bc5 12. Qh4 O-O 13. Bg5 h6 14.
+Bxf6 Qxf6 15. Qxf6 gxf6 16. Bxb7 Rb8 17. Bf3 Rxb2 18. Rfd1 Be8 19. Ne4 Be7
+20. Nd6 Bxd6 21. Rxd6 Bb5 22. Kf1 Rb8 23. a4 Bc4 24. Rc1 Rb1 25. Rd8+ Kg7
+26. Rxb8 Rxc1+ 27. Kg2 Rc2 28. Rc8 Bb3 29. Rxc2 Bxc2 30. a5 f5 31. Bh5 Kf6
+32. f4 Ke7 33. Kh3 Be4 34. Kh4 Kf6 35. h3 Kg7 36. e3 Bd3 37. Bf3 Bc2 38. g4
+fxg4 39. hxg4 f6 40. Bc6 Bd1 41. Bd7 Kf7 42. Bc8 Be2 43. Bd7 Bd1 44. Bc8
+1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.22"]
+[Round "9"]
+[White "Topalov,V"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2812"]
+[BlackElo "2746"]
+[EventDate "2009.05.13"]
+[ECO "C97"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 Bd7 13. b3 c4 14. Ba3 Bd8 15.
+Nbd2 Ne8 16. Bb4 cxb3 17. axb3 Nb7 18. Qe2 Qb8 19. Ba3 Bb6 20. b4 Nc7 21.
+Bd3 a5 22. Nf1 axb4 23. cxb4 f6 24. Ne3 g6 25. Bb2 Rxa1 26. Rxa1 Nd8 27.
+Nd2 Nf7 28. Kh2 Qd8 29. Rf1 Qe7 30. Bc1 Ra8 31. Nb1 Bd4 32. Nc2 Bb6 33. Nc3
+f5 34. exf5 gxf5 35. f4 Rc8 36. Be3 Bxe3 37. Qxe3 Ne8 38. Be2 Qf6 39. Qd2
+exf4 40. Nd4 Qe5 41. Bxb5 f3+ 42. Kg1 Bxb5 43. Ncxb5 fxg2 44. Rxf5 Qe4 45.
+Nc3 Qh4 46. Qxg2+ Kh8 47. Nce2 Nf6 48. Rf4 Qh6 49. Nf5 Qf8 50. Ned4 Ne5 51.
+b5 Qg8 52. Ne7 Rc1+ 53. Kh2 Qxg2+ 54. Kxg2 Nfd7 55. Ndf5 Nc4 56. Rg4 Nf6
+57. Rg3 Rc2+ 58. Kg1 Rc1+ 59. Kh2 Rc2+ 60. Rg2 Rxg2+ 61. Kxg2 Ne4 62. Nc8
+Nc3 63. Ncxd6 Nb6 64. Ne3 Kg7 65. Kf3 Kf8 66. Kf4 Ke7 67. Ndc4 Nxc4 68.
+Nxc4 Nxd5+ 69. Kg5 Kd7 70. h4 Ne7 71. Kf6 Ng6 72. Ne5+ Nxe5 73. Kxe5 Kc7
+74. h5 Kb6 75. Kf6 Kxb5 76. Kg7 Ka4 77. Kxh7 Kb3 78. h6 Ka2 79. Kg6 Kb1 80.
+h7 Kc2 81. h8=Q 1-0
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.22"]
+[Round "9"]
+[White "Dominguez Perez,L"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2745"]
+[EventDate "2009.05.13"]
+[ECO "C78"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8.
+c3 d6 9. d4 Bb6 10. Na3 O-O 11. axb5 axb5 12. Nxb5 Bg4 13. Be3 exd4 14.
+cxd4 Nxe4 15. Qc2 Qe8 16. Ba4 Bd7 17. Nc3 Nxc3 18. bxc3 Ne7 19. c4 c6 20.
+Rfe1 Qd8 21. Bg5 f6 22. Bf4 Bf5 23. Qe2 Ng6 24. Be3 c5 25. dxc5 Bxc5 26.
+Nd4 Bd7 27. Nc6 Bxc6 28. Bxc6 Qb6 29. Bd5+ Kh8 30. g3 f5 31. Bxc5 Qxc5 32.
+Qe3 Qxe3 33. Rxe3 Ne5 34. f4 Ng4 35. Re6 Rfd8 36. Re7 Nf6 37. Be6 g6 38.
+Raa7 Re8 39. Bf7 Rb1+ 40. Kg2 Rb2+ 41. Kg1 Reb8 42. Bd5 Rc2 43. Rab7 Rxb7
+44. Rxb7 Nxd5 45. cxd5 Rc5 46. Rd7 Rxd5 47. Kf2 Rd2+ 48. Ke3 Rxh2 49. Rxd6
+Kg7 50. Rd7+ 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.22"]
+[Round "9"]
+[White "Carlsen,M"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2770"]
+[BlackElo "2738"]
+[EventDate "2009.05.13"]
+[ECO "D15"]
+
+1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 a6 5. c5 Bf5 6. Nh4 Bg6 7. Bf4 Nbd7 8.
+Nxg6 hxg6 9. h3 b6 10. cxb6 Qxb6 11. Rb1 e6 12. e3 c5 13. a3 Bd6 14. Na4
+Qc7 15. Bxd6 Qxd6 16. Nxc5 Nxc5 17. dxc5 Qxc5 18. Qa4+ Ke7 19. Bd3 a5 20.
+Ke2 Rhc8 21. Rhc1 Qxc1 22. Rxc1 Rxc1 23. b4 Kf8 24. bxa5 Kg8 25. a6 Rc7 26.
+Qf4 Rca7 27. Qd4 Ne4 28. Qb6 e5 29. Ke1 Ng5 30. Bb5 Ne6 31. a4 d4 32. a5
+Rc7 33. Bc6 1-0
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.23"]
+[Round "10"]
+[White "Shirov,A"]
+[Black "Carlsen,M"]
+[Result "1-0"]
+[WhiteElo "2745"]
+[BlackElo "2770"]
+[EventDate "2009.05.13"]
+[ECO "B33"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. c4 f5 14.
+O-O O-O 15. Qh5 Rb8 16. exf5 e4 17. Rae1 Bb7 18. Qg4 Rfe8 19. cxb5 d5 20.
+bxa6 Bc6 21. b3 Kh8 22. Nc2 Be5 23. Be2 d4 24. Bc4 Rg8 25. Qh3 Rg7 26. g3
+Rbg8 27. Qh6 Qc7 28. Nb4 Ba8 29. Nd5 Qd8 30. Rxe4 1-0
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.23"]
+[Round "10"]
+[White "Wang Yue"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2812"]
+[EventDate "2009.05.13"]
+[ECO "D82"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
+Bxc4 O-O 9. Nge2 Qxc5 10. Qb3 Nc6 11. Nb5 Qh5 12. Ng3 Qh4 13. Nc7 e5 14.
+Bg5 Qxg5 15. h4 Qg4 16. Nxa8 Qd7 17. Rd1 Qe7 18. Qa3 Nb4 19. O-O Bg4 20. f3
+Bh6 21. fxg4 Nxg4 22. Rxf7 Rxf7 23. Nf1 Kg7 24. Bxf7 Qxf7 25. Qxb4 Qf2+ 26.
+Kh1 Qxh4+ 27. Kg1 Qf2+ 28. Kh1 Qh4+ 29. Kg1 Bxe3+ 30. Nxe3 Qf2+ 31. Kh1
+Qh4+ 32. Kg1 Qf2+ 33. Kh1 Qh4+ 1/2-1/2
+
+[Event "5th MTel Masters"]
+[Site "Sofia BUL"]
+[Date "2009.05.23"]
+[Round "10"]
+[White "Ivanchuk,V"]
+[Black "Dominguez Perez,L"]
+[Result "1-0"]
+[WhiteElo "2746"]
+[BlackElo "2717"]
+[EventDate "2009.05.13"]
+[ECO "D74"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6
+8. Nc3 Nb6 9. e3 Re8 10. Re1 e5 11. d5 Na5 12. e4 c6 13. Bg5 f6 14. Be3
+cxd5 15. Bxb6 axb6 16. Nxd5 Be6 17. Qe2 Bxd5 18. exd5 f5 19. b4 e4 20. Rac1
+exf3 21. Qxe8+ Qxe8 22. Rxe8+ Rxe8 23. Bxf3 Be5 24. bxa5 bxa5 25. Rc5 b6
+26. Rc6 Kf7 27. h4 h5 28. a4 Rd8 29. Rxb6 Rb8 30. Ra6 Rb1+ 31. Kg2 Rb2 32.
+d6 Rd2 33. Rxa5 Bxd6 34. Rb5 Kf6 35. a5 Be5 36. Kf1 Bd4 37. Be2 Ra2 38. Rd5
+Ba7 39. Rd6+ Ke5 40. Rxg6 Rxa5 41. f4+ Kd5 42. Rf6 Ke4 43. Re6+ Kd4 44.
+Bxh5 Bc5 45. Kg2 Bb4 46. Bg6 Bd2 47. h5 Ra2 48. Re2 Kd3 49. Kf3 Ra5 50. h6
+Bc3 51. h7 Ra8 52. Bxf5+ Kd4 53. g4 Rf8 54. g5 Kd5 55. Kg4 Bh8 56. Re6 1-0
+

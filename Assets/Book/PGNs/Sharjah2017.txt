@@ -1,0 +1,1984 @@
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.2"]
+[White "Tomashevsky,E"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2785"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "4147235"]
+[BlackFideId "13300474"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Bg5 h6 6.Bh4 Be7 7.Bg3 d6 8.a4 O-O
+9.O-O Kh8 10.c3 Nh7 11.Nbd2 f5 12.exf5 Bxf5 13.a5 a6 14.Re1 Ng5 15.Qb3 Rb8
+16.Nxg5 Bxg5 17.Ne4 Bh4 18.Be6 Bh7 19.Bg4 Na7 20.Qd1 Nb5 21.Qe2 c5 22.Bf3 Rc8  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.9"]
+[White "Grischuk,A"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2628"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "4126025"]
+[BlackFideId "1503707"]
+[EventDate "2017.02.18"]
+
+1.c4 e5 2.d3 Bb4+ 3.Nd2 Nf6 4.Nf3 Bd6 5.a3 O-O 6.e3 Re8 7.Qc2 Bf8 8.b4 d6
+9.Bb2 a5 10.Be2 Na6 11.Qb3 Bf5 12.O-O h6 13.Bc3 c6 14.Qb2 Nd7 15.Nb3 a4 16.Nbd2 Nc7
+17.Rfe1 Bh7 18.Rad1 b6 19.Ne4 f5 20.Ng3 c5 21.Nd2 Rb8 22.Bh5 Re7 23.Bf3 b5
+24.Qc2 Kh8 25.Bc6 Rb6 26.cxb5 Nxb5 27.Bxb5 Rxb5 28.Qxa4 Rb8 29.Qc6 Re8 30.Nc4 Qc8
+31.Qf3 d5 32.Qxd5 Nf6 33.Qf3 e4 34.dxe4 cxb4 35.Bxf6 Qxc4 36.Ba1 fxe4 37.Qf4 bxa3
+38.Qxh6 Kg8 39.Qf4 Rb7 40.Rc1 Qe6 41.Ne2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.1"]
+[White "Vachier Lagrave,M"]
+[Black "Li Chao2"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2720"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "623539"]
+[BlackFideId "8604436"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 c6
+9.Nc3 Nxc3 10.bxc3 dxc4 11.Bxc4 Bf5 12.Ne5 Bxe5 13.dxe5 Qe7 14.Re1 Nd7 15.Qf3 g6
+16.Qg3 Rfe8 17.Bf4 Qc5 18.Bb3 a5 19.a4 b5 20.h4 Be6 21.Bc2 b4 22.Bd3 b3 23.h5 Nf8
+24.Bh6 b2 25.Rab1 Rab8 26.Qf4 Nd7 27.Qg5 Qe7 28.Qxe7 Rxe7 29.Re2 Ree8 30.Rexb2 Rxb2
+31.Rxb2 Nxe5 32.Be2 gxh5 33.f3 Nd7 34.Rb7 Nc5 35.Ra7 Nb3 36.g3 Bd5 37.Kf2 Rb8
+38.Bf1 Be6 39.Bd3 Bd5 40.Bf5 Re8 41.Bc2 c5 42.Rc7 c4 43.Bf5 Rb8 44.Bd7 f6
+45.Bb5 Bf7 46.Rc6 Na1 47.Ra6 Nc2 48.Rxa5 Na3 49.Bc6 Nb1 50.Rb5  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.7"]
+[White "Adams,Mi"]
+[Black "Salem,AR"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2656"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical, three knights system"]
+[WhiteFideId "400041"]
+[BlackFideId "9301348"]
+[EventDate "2017.02.18"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e3 e6 6.Bc4 Be7 7.O-O O-O 8.Qe2 Nc6
+9.d4 cxd4 10.exd4 Nb6 11.Bd3 Nxd4 12.Nxd4 Qxd4 13.Rd1 Qh4 14.g3 Qh3 15.Be4 e5
+16.Bg2 Qf5 17.a4 a5 18.Be3 Nd7 19.Nd5 Bd8 20.Rac1 Kh8 21.Qb5 Nf6 22.Bc5 Rg8
+23.Ne3 Qh5 24.Bd6 Ng4 25.Nxg4 Bxg4 26.Re1 Ra6 27.Bxe5 Rb6 28.Qd5 Qg6 29.Be4 Qh5
+30.Rc5 Rh6 31.h4 b6 32.Rb5 Re6 33.Qd4 f6 34.Bxf6 Bxf6 35.Rxh5 Bxh5 36.Qc4 Rge8
+37.Re3 Bxb2 38.Qb5 Rxe4 39.Rxe4 Rxe4 40.Qxh5 Bf6 41.Qd5 Rd4 42.Qc6 h6 43.Kg2 Rb4
+44.Kh3 b5 45.axb5 a4 46.Qa8+ Kh7 47.Qa5 Be7 48.Kg2 Kg8 49.b6 Bf8 50.Qd5+ Kh7
+51.b7 a3 52.Qd8 Rxb7 53.Qxf8 Ra7 54.Qc5 Ra8 55.Qd5 Ra7 56.Qa2 h5 57.Kf3 Ra5
+58.Ke3 Kh8 59.Kd2 Ra7 60.Kc1  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.6"]
+[White "Riazantsev,A"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2671"]
+[BlackElo "2759"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "4125029"]
+[BlackFideId "14102951"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Nd2 c5 5.a3 Bxd2+ 6.Qxd2 cxd4 7.Nf3 b6 8.b4 Bb7
+9.Qxd4 Nc6 10.Qf4 a5 11.b5 Ne7 12.Bb2 Ng6 13.Qe3 d6 14.Bg2 O-O 15.O-O e5
+16.a4 Qc7 17.Rfd1 Rfd8 18.Rac1 Nf8 19.Ba3 Ne6 20.Bh3 Ne4 21.Bxe6 fxe6 22.Ng5 Nxg5
+23.Qxg5 Rd7 24.Rd2 Rf8 25.Qe3 Ba8 26.f3 h6 27.Rcd1 Rfd8 28.Rc1 Qb8 29.Bb2 Qc7
+30.Ba3 Qb8 31.Bb2 Qc7 32.Ba3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.8"]
+[White "Hou Yifan"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2651"]
+[BlackElo "2749"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Adams attack"]
+[WhiteFideId "8602980"]
+[BlackFideId "4168119"]
+[EventDate "2017.02.18"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nde2 h5 8.g3 Nbd7
+9.Bg5 Be7 10.a4 b6 11.Bg2 Bb7 12.O-O Rc8 13.h4 O-O 14.Qd2 Rc7 15.Rfe1 Qa8
+16.Nc1 Rfc8 17.N1a2 Rc4 18.b3 Rd4 19.Qe2 Nc5 20.Bxf6 Bxf6 21.Rad1 g6 22.Nd5 Bxd5
+23.Rxd4 exd4 24.exd5 d3 25.Qf3 Kg7 26.Nb4 dxc2 27.Rc1 Re8 28.Nxc2 Re7 29.Nb4 Qe8
+30.Kf1 Ne4 31.Qd3 Nc5 32.Qc2 Qd7 33.Nc6 Re8 34.b4 Nb7 35.Re1 Rxe1+ 36.Kxe1 a5
+37.bxa5 bxa5 38.Kf1 Qc7 39.Bf3 Qb6 40.Kg2 Qb2 41.Qxb2 Bxb2 42.Bd1 Ba3 43.Be2 Nc5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.5"]
+[White "Ding Liren"]
+[Black "Rapport,R"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2692"]
+[ECO "E16"]
+[Opening "Queen's Indian"]
+[Variation "Yates variation"]
+[WhiteFideId "8603677"]
+[BlackFideId "738590"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 a5 7.O-O O-O 8.Bf4 Be7
+9.Nc3 Ne4 10.Qd3 Nxc3 11.bxc3 Qc8 12.e4 d6 13.Rfe1 Nd7 14.Rad1 a4 15.h4 Ra5
+16.Bc1 Re8 17.Nh2 Qa8 18.Nf1 Nf6 19.d5 Bf8 20.Ne3 a3 21.f4 Ra4 22.e5 Nd7
+23.h5 Nc5 24.Qf1 h6 25.Rd4 Qa5 26.Bd2 exd5 27.Nxd5 c6 28.Nb4 Qa8 29.exd6 Rd8
+30.f5 Nd7 31.Rd3 Nf6 32.Bf4 Ra5 33.Qf3 Rxf5 34.Nxc6 Rxd6 35.Rxd6 Bxd6 36.Ne7+ Bxe7
+37.Qxb7 Bc5+ 38.Kf1 Qxb7 39.Bxb7 Nxh5 40.Re8+ Bf8  0-1
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.4"]
+[White "Vallejo Pons,F"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2766"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "2205530"]
+[BlackFideId "13401319"]
+[EventDate "2017.02.18"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.d4 Nd7 5.c4 e6 6.Qb3 Qb6 7.O-O Ngf6 8.c5 Qa6
+9.Bf4 Be7 10.Rc1 O-O 11.Bf1 Nh5 12.Bd2 b6 13.h3 Bxf3 14.exf3 Qb7 15.f4 g6
+16.Be3 Ng7 17.Nd2 a5 18.cxb6 a4 19.Qc3 Rfc8 20.b4 axb3 21.axb3 Rxa1 22.Qxa1 Ra8
+23.Qc3 Rc8  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.18"]
+[Round "1.3"]
+[White "Nakamura,Hi"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2709"]
+[ECO "A16"]
+[Opening "English opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "4122356"]
+[EventDate "2017.02.18"]
+
+1.c4 Nf6 2.Nc3 c5 3.Nf3 e6 4.g3 b6 5.Bg2 Bb7 6.d4 cxd4 7.Qxd4 Be7 8.O-O O-O
+9.Rd1 d6 10.b3 Nbd7 11.Ba3 Nc5 12.b4 Ncd7 13.Rac1 a6 14.Nd2 Bxg2 15.Kxg2 Qc7
+16.Nde4 Rfc8 17.Nxd6 Bxd6 18.Qxd6 Qxd6 19.Rxd6 Rxc4 20.Na4 Rxc1 21.Bxc1 b5
+22.Nc5 Nxc5 23.bxc5 Kf8 24.f3 Ke8 25.Bb2 Rc8 26.Rxa6 Rxc5 27.Kf2 Rc2 28.Be5 Rc5
+29.Ra8+ Kd7 30.Ra7+ Ke8 31.Ra8+ Kd7 32.Ra7+ Ke8 33.Bd6 Rc6 34.Ra8+ Kd7 35.Bf8 g6
+36.Rb8 Ra6 37.a3 Kc6 38.Bb4 Nd5 39.Rc8+ Kb6 40.Rh8 h5 41.Rf8 Ra7 42.h4 Kc6
+43.e4 Nxb4 44.axb4 Kd6 45.Rb8 Ra2+ 46.Kg1 Ra1+ 47.Kg2 Ra2+ 48.Kh3 Rf2 49.f4 Re2
+50.Rxb5 Ke7 51.e5 Kf8 52.Rb8+ Kg7 53.b5 Rb2 54.Rb7 Kg8 55.Rb6 Kh7 56.Rb8 Kg7
+57.b6 Kh7 58.Rb7 Kg7 59.Rb8 Kh7 60.Rf8 Kg7  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.7"]
+[White "Jakovenko,D"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2742"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "4122356"]
+[BlackFideId "4126025"]
+[EventDate "2017.02.18"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qb3 Nb6 6.d4 Bg7 7.Bf4 Be6 8.Qa3 O-O
+9.e3 N8d7 10.Rd1 c6 11.Ng5 Bd5 12.e4 e5 13.dxe5 Re8 14.Nf3 Nxe5 15.Bxe5 Bxe5
+16.Nxe5 Rxe5 17.Bd3 Qe7 18.Qxe7 Rxe7 19.f3 f5 20.Kf2 fxe4 21.Bxe4 Bxe4 22.Nxe4 Nd5
+23.Rhe1 Kg7 24.a3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.6"]
+[White "Nepomniachtchi,I"]
+[Black "Riazantsev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2671"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "4168119"]
+[BlackFideId "4125029"]
+[EventDate "2017.02.18"]
+
+1.Nf3 d5 2.g3 c6 3.c4 Bg4 4.Ne5 Be6 5.Bg2 dxc4 6.Na3 g6 7.Qc2 Bg7 8.Naxc4 Nf6
+9.O-O O-O 10.Rd1 Nbd7 11.d4 Nxe5 12.Nxe5 Qc8 13.b3 Bh3 14.Bh1 Ng4 15.Nc4 Rd8
+16.Bb2 Qc7 17.e3 Rac8 18.Qe2 Nf6 19.Rac1 Bg4 20.f3 Bh3 21.Ne5 Qa5 22.Nd3 h5
+23.a3 Qb5 24.b4 b6 25.Kf2 Be6 26.Nf4 Bb3 27.Rd2 a5 28.Qd3 Ba4 29.Qxb5 cxb5
+30.Rxc8 Rxc8 31.d5 axb4 32.axb4 Rc4 33.Bg2 g5 34.Ne2 Rxb4 35.Ba3 Rc4 36.Bxe7 b4
+37.Bf1 b3 38.Ba3 Rc2 39.Rxc2 bxc2 40.e4 g4 41.Bg2 gxf3 42.Bxf3 Nd7 43.Bxh5 Ne5
+44.d6 Nc4 45.Bb4 Bh6 46.h4 Bd7 47.g4 c1=Q 48.Nxc1 Bxc1 49.g5 Be3+ 50.Kg3 Bc5
+51.Bxc5 bxc5 52.Kf4 Nxd6 53.Ke5 Ne8 54.Kd5 Ng7 55.Be2 Ne6 56.Kd6 Bc8 57.Bc4 Kg7
+58.Bxe6 Bxe6 59.Kxc5 Kg6 60.Kd6 Bg4 61.Ke7 Bf3 62.Kf8 Bd1 63.Kg8 Be2 64.Kf8 Bc4
+65.Ke7 Be2 66.Kf8 Bf3 67.Kg8 Bd1 68.Kf8 Bb3 69.Ke7 Bc4 70.Kf8 Kh5 71.Kg7 Bb3
+72.Kf6 Bc4 73.Kg7 Bb3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.3"]
+[White "Hammer,J"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2785"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[WhiteFideId "1503707"]
+[BlackFideId "2016192"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Nxe4 Bxe4
+9.Ne1 Bxg2 10.Nxg2 Re8 11.b3 c5 12.Bb2 Bf6 13.Rb1 d6 14.dxc5 dxc5 15.Qxd8 Bxd8
+16.Rfd1 Bc7 17.Ne3 Nc6 18.Rd7 Rac8 19.Rbd1 Nb8 20.R7d2 Red8 21.f4 Rxd2 22.Rxd2 Rd8
+23.Rxd8+ Bxd8  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.4"]
+[White "Mamedyarov,S"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2711"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "13401319"]
+[BlackFideId "4147235"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.Qc2 Nbd7 7.cxd5 exd5 8.Bf4 a6
+9.g3 Be7 10.Bg2 O-O 11.O-O Re8 12.Rac1 c5 13.dxc5 bxc5 14.Ne5 Bf8 15.Qb3 Qb6
+16.Qxb6 Nxb6 17.Rfd1 Ra7 18.e3 h6 19.h4 Ba8 20.Nd3 Rd7 21.Bh3 Rb7 22.b4 cxb4
+23.axb4 d4 24.exd4 Nbd5 25.Be5 Nxc3 26.Rxc3 Nd5 27.Rc4 Nxb4 28.Nc5 Bxc5 29.dxc5 Nc6
+30.Bc3 Rbe7 31.Rd6 Rc7 32.Rg4 f5 33.Rgg6 Ne5 34.Bxe5 Rxe5 35.c6 Kh7 36.h5 Rc5
+37.Bg2  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.9"]
+[White "Salem,AR"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2760"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "9301348"]
+[BlackFideId "8603677"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Bg5 h6 7.Bh4 g5 8.Bg3 O-O
+9.Nbd2 a6 10.a4 Ba7 11.O-O Nh7 12.h3 Kh8 13.d4 g4 14.hxg4 Bxg4 15.Be2 Rg8
+16.Kh1 Qf6 17.d5 Ne7 18.Bh4 Ng5 19.Nh2 Bc8 20.Bg4 Qg6 21.Bh5 Qg7 22.g3 Bh3
+23.Bxg5 hxg5 24.Bg4 Bxf1 25.Qxf1 Qg6 26.Kg2 Kg7 27.Nhf3 Rh8 28.a5 Ng8 29.Qc4 Nf6
+30.Bf5 Qh6 31.Qd3 Qh5 32.Rf1 Rh6 33.Re1 Ng4 34.Bxg4 Qxg4  0-1
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.5"]
+[White "Eljanov,P"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2709"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "14102951"]
+[BlackFideId "2205530"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 b6
+9.O-O-O Bb7 10.h4 Nd7 11.Nd4 a6 12.Bg5 Nc5 13.f3 Re8 14.Rh3 Bf6 15.g4 Ne6
+16.f4 Nxd4 17.cxd4 Bd5 18.a3 c6 19.f5 b5 20.Bd3 Bc4 21.Bf4 Bxd3 22.Qxd3 c5
+23.dxc5 dxc5 24.g5 Qd4 25.Qxd4 Bxd4 26.c3 Be5 27.Be3 c4 28.Kc2 Rad8 29.Rxd8 Rxd8
+30.Bf2 Rd5 31.Re3 Kf8 32.b3 Bf4 33.Rf3 Rd2+ 34.Kb1 Rd1+ 35.Kc2 Rd2+ 36.Kb1 Rd1+
+37.Kc2 Rd2+ 38.Kb1 Rd1+  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.1"]
+[White "Rapport,R"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2692"]
+[BlackElo "2796"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[WhiteFideId "738590"]
+[BlackFideId "623539"]
+[EventDate "2017.02.18"]
+
+1.b3 d5 2.Bb2 Bg4 3.h3 Bh5 4.d3 Nd7 5.g4 Bg6 6.f4 e6 7.Nf3 h5 8.g5 Ne7 9.Nh4 Nf5
+10.Nxf5 Bxf5 11.Bg2 e5 12.Qd2 exf4 13.Qxf4 Be6 14.Nd2 Bd6 15.Qh4 Ne5 16.Nf3 Ng6
+17.Qa4+ Bd7 18.Qd4 c5 19.Qe3+ Kf8 20.O-O Qc7 21.Qd2 Re8 22.e3 Kg8 23.d4 Qc8
+24.h4 Bh3 25.Ne5 Bxe5 26.dxe5 Bxg2 27.Qxg2 Qg4 28.Rad1 Nxh4 29.Qxg4 hxg4
+30.Rxd5 Nf3+ 31.Kg2 Rh2+ 32.Kg3 Rxc2 33.Rf2 Rxf2 34.Kxf2 Nxg5 35.Kg3 Ne6
+36.Rd7 Rd8 37.Rxb7 Rd2 38.Ba3 Rxa2 39.Rxa7 Re2 40.Bc1 Rc2 41.Ra1 Rc3 42.Kxg4 Rxb3
+43.Kf5 Rd3 44.Ra8+ Kh7 45.Ra7 Rd1 46.Rxf7 Nd8 47.Rc7 Rf1+ 48.Ke4 Rxc1 49.Rc8 Nf7
+50.Rc6 Nh6 51.e6 Ng8 52.Rc7 Nf6+ 53.Ke5 Kg6 54.e7 Re1  0-1
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.2"]
+[White "Aronian,L"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2751"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "13300474"]
+[BlackFideId "400041"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O h6 7.Re1 O-O 8.h3 Re8
+9.Nbd2 a6 10.Nf1 b5 11.Bb3 Bb6 12.Ng3 Be6 13.Bc2 d5 14.exd5 Bxd5 15.Be3 Qd7
+16.a3 Rad8 17.Bxb6 cxb6 18.Qe2 Qc7 19.Rad1 g6 20.Rd2 Kg7 21.Qd1 Re6 22.Re3 a5
+23.Qe1 b4 24.axb4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.19"]
+[Round "2.8"]
+[White "Li Chao2"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2651"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[WhiteFideId "8604436"]
+[BlackFideId "8602980"]
+[EventDate "2017.02.18"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 h6 7.Bh4 c6 8.Bd3 O-O
+9.Nf3 Ne4 10.Bg3 Bf5 11.Qc2 Bb4 12.O-O Nxg3 13.hxg3 Bxd3 14.Qxd3 Nd7 15.g4 Re8
+16.g3 Bxc3 17.bxc3 Nf6 18.g5 hxg5 19.Nxg5 Qd7 20.Kg2 Qg4 21.Nf3 Qe4 22.Qe2 Nh7
+23.Rh1 Ng5 24.a4 f6 25.Rh4 Qxf3+ 26.Qxf3 Nxf3 27.Kxf3 Kf7 28.Rhh1 Rac8 29.Ke2 Ke6
+30.Rhb1 Re7 31.a5 Kd6 32.Ra3 Rb8 33.Kd3 Rc8 34.Rab3 Rcc7 35.Rh1 Rc8 36.g4 c5
+37.Rb5 Rec7 38.Ke2 cxd4 39.cxd4 Rc2+ 40.Kf3 Kc6 41.Rb3 Rd8 42.Kg3 Rc4 43.Kf4 Rd7
+44.Kf5 Rc2 45.f4 Kd6 46.Rh8 Ke7 47.Rb8 Kf7 48.g5 g6+ 49.Kg4 f5+ 50.Kf3 Rcc7
+51.Ra8 b6 52.axb6 Rb7 53.Rxa7 Rxa7 54.bxa7 Rxa7 55.Rb5 Rd7 56.Rb6 Ra7 57.Rf6+ Kg7
+58.Rd6 Ra5 59.Rc6 Ra7 60.Ke2 Kf7 61.Kd3 Ra3+ 62.Rc3 Ra7 63.Rc5 Ke6 64.Kc2 Ra3
+65.Rc3 Ra7 66.Rc6+ Kf7 67.Rf6+ Kg7 68.Rd6 Ra3 69.Kd2 Ra2+ 70.Kc3 Ra3+ 71.Kb4 Rxe3
+72.Kc5 Re4 73.Kxd5 Rxf4 74.Rd7+ Kf8 75.Rd6 Kf7 76.Kc6 Rg4 77.Rf6+ Ke7 78.d5 Rc4+
+79.Kb5 Rc1 80.Rxg6 f4 81.Re6+ Kd7 82.Rf6 Rg1 83.Kc5 Rxg5 84.Rf7+ Ke8 85.Rxf4 Rg6
+86.Ra4 Kd7 87.Ra7+ Kd8 88.Rb7 Rh6 89.Rg7 Rf6 90.Kd4 Rh6 91.Rf7 Ke8 92.Ra7 Kd8
+93.Kc5 Rg6 94.Rf7 Rh6 95.Rg7 Rf6  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.6"]
+[White "Vallejo Pons,F"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2749"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "2205530"]
+[BlackFideId "4168119"]
+[EventDate "2017.02.18"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 Nc6 4.Nc3 d5 5.d4 e6 6.cxd5 Nxd5 7.Bg2 Be7 8.O-O O-O
+9.e4 Ndb4 10.d5 exd5 11.exd5 Nd4 12.Nxd4 cxd4 13.a3 dxc3 14.axb4 Bf6 15.Qb3 cxb2
+16.Bxb2 Bxb2 17.Qxb2 Qd6 18.Qd4 b6 19.Rfc1 Bb7 20.b5 Rfd8 21.Rc3 h6 22.Rca3 Rac8
+23.Rxa7 Bxd5 24.Bxd5 Qxd5 25.Qxb6 Rb8 26.Qc6 Qxb5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.7"]
+[White "Hou Yifan"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2651"]
+[BlackElo "2709"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "8602980"]
+[BlackFideId "4122356"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 h6 8.Nbd2 O-O
+9.h3 Be6 10.b4 Ba7 11.Bxe6 fxe6 12.Nc4 Qe8 13.Be3 Bxe3 14.Nxe3 Nh5 15.g3 Rd8
+16.Qe2 Nf6 17.Kg2 Ne7 18.Ng4 Ng6 19.Nxf6+ Rxf6 20.a5 Qc6 21.Rac1 Rf7 22.h4 Nf8
+23.d4 Nd7 24.dxe5 Nxe5 25.Nd4 Qc4 26.Qxc4 Nxc4 27.Nxe6 Re8 28.Nf4 Rxe4 29.Rfe1 Rfe7
+30.Rxe4 Rxe4 31.Rd1 Kf7 32.h5 Ne5 33.Nd5 c6 34.Ne3 d5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.9"]
+[White "Tomashevsky,E"]
+[Black "Salem,AR"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2656"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "London system"]
+[WhiteFideId "4147235"]
+[BlackFideId "9301348"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.c3 O-O 5.e3 d6 6.h3 Nc6 7.Be2 Nd7 8.O-O e5
+9.Bh2 f5 10.a4 Qe7 11.Na3 Nd8 12.dxe5 Nxe5 13.Nc4 Nxf3+ 14.Bxf3 Nf7 15.Bd5 Be6
+16.Na5 Bxd5 17.Qxd5 c6 18.Qb3 Be5 19.Bxe5 Qxe5 20.Qb4 Rad8 21.Rad1 Rd7 22.Nb3 Ng5
+23.Qd4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.8"]
+[White "Riazantsev,A"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2671"]
+[BlackElo "2720"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "4125029"]
+[BlackFideId "8604436"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Nf3 Bg7 5.Bg2 d5 6.b3 O-O 7.O-O Ne4 8.Bb2 Bf5
+9.e3 Nd7 10.Qe2 a5 11.Nc3 Nxc3 12.Bxc3 Be4 13.Rfc1 e6 14.Bf1 Bxf3 15.Qxf3 Re8
+16.Rab1 Bf8 17.Rd1 Qc7 18.e4 dxe4 19.Qxe4 Bg7 20.Bg2 Nb6  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.2"]
+[White "Adams,Mi"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2759"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[WhiteFideId "400041"]
+[BlackFideId "14102951"]
+[EventDate "2017.02.18"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 O-O 8.Bf4 Nh5
+9.Bh2 Bh6 10.Ne5 f6 11.Ng4 Bg7 12.Qd2 e5 13.O-O-O a5 14.Ne2 a4 15.Kb1 Kh8
+16.Ne3 Bh6 17.Qc3 Qe7 18.Rhf1 Bg7 19.Qd2 f5 20.exf5 a3 21.b3 gxf5 22.g4 fxg4
+23.hxg4 Nf6 24.f3 Nd5 25.Ng3 Qg5 26.Rde1 Qh6 27.Nh5 e4 28.Nxg7 Qxg7 29.Nd1 e3
+30.Rxe3 Nxe3 31.Qxe3 Kg8 32.Be5 Qe7 33.Rh1 Rxf3 34.Qxf3 Qxe5 35.Rh5 Qg7 36.Qf4 h6
+37.g5 Qf7 38.Qh4 Qf3 39.Nf2 Qe2 40.Kc1 Qe1+ 41.Nd1 Qxh4 42.Rxh4 hxg5 43.Rh5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.1"]
+[White "Vachier Lagrave,M"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2766"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a3 O-O
+9.Nc3 Na5 10.Ba2 Be6 11.b4 Bxa2 12.Rxa2 Nc6 13.Bg5 Nd7 14.Be3 Nf6 15.Bg5 Nd7
+16.Be3 Nf6 17.Qb1 d5 18.exd5 Nxd5 19.Nxd5 Qxd5 20.c4 bxc4 21.dxc4 Qe6 22.Qe4 Rad8
+23.g4 h5 24.g5 Qg4+ 25.Qxg4 hxg4 26.Nh4 g6 27.Kh1 e4 28.Rg1 Ne5 29.Bf4 Nxc4
+30.Rxg4 c5 31.bxc5 Bxc5 32.Rc2 Rd4 33.Rg3 Re8 34.Kg2 Bf8 35.Rgc3 Nxa3 36.Ra2 Rd3
+37.Rc6 a5 38.Nxg6 fxg6 39.Rxg6+ Kh7 40.Rc6 Bb4 41.h4 Nb5 42.h5 Nc3 43.Rc2 Nd5
+44.g6+ Kg8 45.Bg5 Rf3 46.h6 Nf4+ 47.Bxf4 Rxf4 48.Rc8 Rxc8 49.Rxc8+ Rf8 50.Rc7 Rf6
+51.Rc8+  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.5"]
+[White "Ding Liren"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2628"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack, Pachman system"]
+[WhiteFideId "8603677"]
+[BlackFideId "1503707"]
+[EventDate "2017.02.18"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.O-O e5 5.d3 Ne7 6.e4 O-O 7.exd5 Nxd5 8.Re1 Nc6
+9.Nc3 Nde7 10.Rb1 a5 11.a3 Nf5 12.b4 axb4 13.axb4 Nfd4 14.Nd2 Be6 15.b5 Na5
+16.Nde4 Qc8 17.Bg5 f6 18.Be3 Rd8 19.Bxd4 Rxd4 20.Qf3 Qf8 21.b6 c6 22.Qe3 Bd7
+23.Ne2 f5 24.c3 Bh6 25.f4 Rxe4 26.dxe4 Nc4 27.Qd3 Be6 28.Red1 Ra2 29.Kh1 Nb2
+30.Qd6 Nxd1 31.Qxe6+ Qf7 32.Qxf7+ Kxf7 33.Rxd1 Rxe2 34.Bf1 Rxe4 35.Rd7+ Kf6
+36.Rxb7 exf4 37.Rxh7 Re1 38.Kg2 Bg7 39.b7 Rb1 40.Ba6 fxg3 41.hxg3 Rb6 42.Kf3 g5
+43.Ke3 Bf8 44.Kd4 Bd6 45.Rh6+ Ke7 46.Rh7+ Kf6 47.Rh6+ Ke7 48.Rh7+  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.4"]
+[White "Nakamura,Hi"]
+[Black "Rapport,R"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2692"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[WhiteFideId "2016192"]
+[BlackFideId "738590"]
+[EventDate "2017.02.18"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.cxd5 Bxf3 5.gxf3 Qxd5 6.e3 e5 7.Nc3 Bb4 8.Bd2 Bxc3
+9.bxc3 Qd7 10.Rb1 O-O-O 11.Bg2 Nge7 12.Qb3 b6 13.Qxf7 Rhf8 14.Qc4 Kb8 15.O-O g5
+16.Rb5 Rf6 17.e4 h6 18.dxe5 Na5 19.Qe2 Rc6 20.Be3 Ng6 21.Rd5 Qe7 22.Rfd1 Rf8
+23.Qb5 Qe6 24.Rd8+ Rxd8 25.Rxd8+ Kb7 26.Qd5 Nc4 27.Qxe6 Rxe6 28.Bh3 Rxe5
+29.Bc8+ Kc6 30.Bd7+ Kb7 31.Bc8+ Kc6 32.Bd7+ Kb7 33.Bd4 Ra5 34.Bc8+ Kc6 35.Bd7+ Kb7
+36.Bc8+ Kc6 37.Be6 Kb5 38.Bd7+ c6 39.Be8 Nf4 40.h4 Nd2 41.Kh2 gxh4 42.Be3 Nxf3+
+43.Kh1 Nh3 44.Bh5 Nxf2+ 45.Bxf2 Rxa2 46.Bxf3 Rxf2 47.Rd3 Kc4 48.Re3 Rd2 49.e5 Rd7
+50.e6 Re7 51.Bxc6 a5 52.Re4+ Kxc3 53.Bb5 a4 54.Bxa4 Kd3 55.Re1  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.20"]
+[Round "3.3"]
+[White "Grischuk,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2785"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "4126025"]
+[BlackFideId "13300474"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a3 Bc5
+9.c3 Bb6 10.d4 Re8 11.Bg5 d6 12.Qd3 Na5 13.Bd5 c6 14.Ba2 c5 15.dxc5 dxc5
+16.Qxd8 Rxd8 17.b4 Nb7 18.c4 bxc4 19.Bxc4 cxb4 20.axb4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.1"]
+[White "Nakamura,Hi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2796"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "623539"]
+[EventDate "2017.02.18"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.O-O a6 5.Bd3 Ngf6 6.Re1 e6 7.c3 b5 8.Bc2 c4
+9.a4 Bb7 10.d4 cxd3 11.Bxd3 bxa4 12.Qxa4 Be7 13.h3 O-O 14.Be3 Qc7 15.Nbd2 Rfb8
+16.Qa5 Bd8 17.Qxc7 Bxc7 18.b4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.4"]
+[White "Jakovenko,D"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2760"]
+[ECO "A10"]
+[Opening "English opening"]
+[WhiteFideId "4122356"]
+[BlackFideId "8603677"]
+[EventDate "2017.02.18"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.Nf3 c6 5.O-O d5 6.b3 Ne4 7.d4 O-O 8.Bb2 a5 9.Nc3 Bf5
+10.e3 Nxc3 11.Bxc3 Be4 12.Qe2 e6 13.Rfd1 Nd7 14.Bf1 g5 15.Rac1 Bxf3 16.Qxf3 f5
+17.Bd3 Nf6 18.cxd5 cxd5 19.b4 axb4 20.Bxb4 Rf7 21.Qe2 h5 22.Rc3 h4 23.Rdc1 Bf8
+24.Bxf8 Qxf8 25.gxh4 gxh4 26.Kh1 Rg7 27.Rc7 Qd6 28.Rxg7+ Kxg7 29.h3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.8"]
+[White "Li Chao2"]
+[Black "Tomashevsky,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2711"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "8604436"]
+[BlackFideId "4147235"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.e3 g6 8.h4 Bg7
+9.h5 Nd7 10.Bd3 Nxc3 11.bxc3 e5 12.e4 Qe7 13.h6 Bf6 14.O-O O-O 15.Re1 Rfd8
+16.Be3 Rac8 17.Qe2 Re8 18.Qa2 c6 19.a4 Rc7 20.Rad1 Bc8 21.Bc4 Rf8 22.Bc1 Bh8
+23.Bb3 a6 24.Bc4 Bf6 25.d5 cxd5 26.Ba3 Nc5 27.exd5 Qd6 28.Nd2 Bf5 29.Bxa6 Ra8
+30.Bb5 Qd8 31.Bc6 Nxa4 32.Bxa8 Nxc3 33.Qb3 Qxa8 34.d6 Rc6 35.Ra1 Qc8 36.Bb4 Be6
+37.Qa3 e4 38.Qa8 Ne2+ 39.Kf1 e3 40.Ne4  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.7"]
+[White "Hammer,J"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2709"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "1503707"]
+[BlackFideId "2205530"]
+[EventDate "2017.02.18"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Nf3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Rc1 b6 12.Bd3 Bb7 13.O-O Nd7 14.Qe3 Nf6 15.Ne5 Qe7
+16.f3 Rfd8 17.Rc2 Rac8 18.Rfc1 h6 19.Be2 Qd6 20.a3 Rxc2 21.Rxc2 Nd7 22.Nc4 Qc7
+23.Bd3 b5 24.Nd2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.5"]
+[White "Eljanov,P"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2651"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[WhiteFideId "14102951"]
+[BlackFideId "8602980"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Re8 8.Bd2 c6
+9.O-O Bd6 10.Ng3 Nbd7 11.Rc1 Nf8 12.f3 Ne6 13.Be1 a6 14.Bf2 c5 15.Re1 cxd4
+16.exd4 Nf4 17.Rxe8+ Qxe8 18.Bb1 Bd7 19.Qd2 g6 20.Nf1 Qf8 21.Be3 Qb8 22.a3 Bc6
+23.Ba2 Ne6 24.Re1 Qc7 25.Bf2 Bf4 26.Qd1 Rd8 27.Bh4 Bg5 28.Bxg5 Nxg5 29.Qd2 Ne6
+30.Ne3 Qf4 31.Rd1 Kg7 32.Nc2 Qxd2 33.Rxd2 Kf8 34.Kf2 Ke7 35.h4 h5 36.Ne3 Nc7
+37.g4 hxg4 38.fxg4 Kd6 39.g5 Nh5 40.Ng4 f6 41.gxf6 Rf8 42.Ke3 Ng3 43.Rf2 Nf5+
+44.Kd3 Nxh4 45.Ne3 Nf5 46.Nxf5+ gxf5 47.Rxf5 Bd7 48.Rh5 Be6 49.Rh6 Rf7 50.Na4 a5
+51.Nc5 Ne8 52.Bb3 b6 53.Na4 Kc6 54.Nc3 b5 55.Rh8 Nc7 56.Rh6 Ne8 57.Rh5 Nc7
+58.a4 b4 59.Nb5 Ne8 60.Re5 Rxf6 61.Bxd5+ Bxd5 62.Rxe8 Rf3+ 63.Kd2 Rf2+ 64.Re2 Rxe2+
+65.Kxe2 Bb3 66.Kd2 Bxa4 67.Nc3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.9"]
+[White "Rapport,R"]
+[Black "Salem,AR"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2692"]
+[BlackElo "2656"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "738590"]
+[BlackFideId "9301348"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c3 g6 3.Bg5 Bg7 4.Nd2 d5 5.e3 O-O 6.Bd3 c5 7.Ngf3 Qb6 8.Qb3 Nc6
+9.Bc2 Re8 10.O-O e5 11.dxe5 Nxe5 12.Nxe5 Rxe5 13.f4 Re8 14.f5 Qxb3 15.axb3 Ng4
+16.h3 Nxe3 17.fxg6 hxg6 18.Rfe1 Bf5 19.Bxe3 Bxc2 20.Bxc5 Bh6 21.Rxe8+ Rxe8
+22.Nf3 a6 23.b4 Re2 24.b5 Bd3 25.bxa6 bxa6 26.Re1 Rxe1+  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.3"]
+[White "Aronian,L"]
+[Black "Riazantsev,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2671"]
+[ECO "A13"]
+[Opening "English opening"]
+[WhiteFideId "13300474"]
+[BlackFideId "4125029"]
+[EventDate "2017.02.18"]
+
+1.c4 e6 2.Nc3 Bb4 3.Qb3 a5 4.a3 Bxc3 5.Qxc3 Nf6 6.b3 O-O 7.Bb2 d6 8.e3 e5
+9.d4 Nc6 10.dxe5 dxe5 11.Bd3 Bg4 12.Ne2 Bh5 13.Ng3 Bg6 14.Be2 h5 15.h4 Re8
+16.Rd1 Qe7 17.O-O Ne4 18.Nxe4 Bxe4 19.g3 Qf6 20.f3 Bf5 21.b4 Qg6 22.Kh2 axb4
+23.axb4 Nd4 24.exd4 exd4 25.Qd2 d3 26.Rfe1 dxe2 27.Rxe2 Rxe2+ 28.Qxe2 Be6
+29.Rd2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.2"]
+[White "Mamedyarov,S"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2751"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[WhiteFideId "13401319"]
+[BlackFideId "400041"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 c6 6.e3 h6 7.Bh4 Be7 8.Bd3 Nbd7
+9.Nge2 Nh5 10.Bxe7 Qxe7 11.Qd2 Nb6 12.f3 Bd7 13.O-O O-O 14.g4 Nf6 15.Ng3 Ne8
+16.Rae1 Nd6 17.e4 dxe4 18.fxe4 Ndc4 19.Qc1 Bxg4 20.b3 Rad8 21.Nf5 Bxf5 22.exf5 Qf6
+23.Bxc4 Nxc4 24.bxc4 Qxd4+ 25.Kh1 Rfe8 26.f6 Rxe1 27.Qxe1 Qxc4 28.fxg7 Rd6
+29.Rg1 Rg6 30.Qe5 Qe6 31.Qb8+ Kxg7 32.Qxa7 Qc4 33.Qe3 b5 34.a3 c5 35.Ne4 f5
+36.Rxg6+ Kxg6 37.Nxc5 Qd5+ 38.Kg1 Qd1+ 39.Kg2 Qd5+ 40.Kh3 Qd1 41.Qe8+ Kf6
+42.Nd7+ Kg5 43.Qg8+  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.21"]
+[Round "4.6"]
+[White "Nepomniachtchi,I"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2742"]
+[ECO "B92"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Opovcensky variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "4126025"]
+[EventDate "2017.02.18"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O Be6
+9.Qd3 O-O 10.Bd2 a5 11.a4 Na6 12.Nd5 Bxd5 13.exd5 b6 14.Rfd1 Nc7 15.Bf3 Nd7
+16.Bg4 Nf6 17.Bf3 Nd7 18.Bg4 Nf6 19.Bf3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.7"]
+[White "Riazantsev,A"]
+[Black "Jakovenko,D"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2671"]
+[BlackElo "2709"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4125029"]
+[BlackFideId "4122356"]
+[EventDate "2017.02.18"]
+
+1.c4 c5 2.Nf3 Nc6 3.e3 Nf6 4.d4 cxd4 5.exd4 d5 6.Nc3 Bg4 7.cxd5 Nxd5 8.Qb3 Bxf3
+9.gxf3 e6 10.Qxb7 Nxd4 11.Bb5+ Nxb5 12.Qc6+ Ke7 13.Qc5+ Ke8 14.Qxb5+ Qd7
+15.Nxd5 exd5 16.Qb3 Bd6 17.O-O Rb8 18.Qe3+ Kf8 19.Rd1 Qh3  0-1
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.9"]
+[White "Tomashevsky,E"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2692"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[WhiteFideId "4147235"]
+[BlackFideId "738590"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 d6
+9.d5 Nxd2 10.Nxd2 e5 11.b4 a5 12.bxa5 Rxa5 13.Nb3 Ra8 14.a4 Bc8 15.a5 Na6
+16.Nb5 f5 17.Ra3 f4 18.axb6 cxb6 19.Nd2 Bg4 20.Bf3 Bh3 21.Bg2 Bg4 22.Bf3 Bh3
+23.Bg2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.1"]
+[White "Mamedyarov,S"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2785"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13401319"]
+[BlackFideId "2016192"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.a3 Nc6 11.Bd3 Bb6 12.O-O Bg4 13.h3 Bh5 14.b4 a6 15.Rc1 d4
+16.e4 f6 17.g4 Bg6 18.Re1 Rc8 19.b5 axb5 20.Qb3+ Kh8 21.Qxb5 Ra8 22.a4 Be8
+23.Qb3 Bf7 24.Qa3 Ba5 25.Bd2 Bxd2 26.Nxd2 Qa5 27.Nf3 Qxa4 28.Qxa4 Rxa4 29.Bb5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.2"]
+[White "Vachier Lagrave,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2785"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "623539"]
+[BlackFideId "13300474"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6 13.Re1 Bf5 14.Qf3 Qh4 15.g3 Qh3
+16.Be3 Bxd3 17.Nd2 Qf5 18.Bd4 Rfe8 19.a4 h6 20.Kg2 Qxf3+ 21.Nxf3 Rac8 22.axb5 axb5
+23.Ra6 Rxe1 24.Nxe1 Nc7 25.Rb6 Bf5 26.Bc2 Be6 27.Be4 Nd5 28.Ra6 b4 29.c4 Nf6
+30.Bf3 Bxc4 31.Rxc6 Rxc6 32.Bxc6 Kf8 33.Nc2 Nd5 34.Kf3 g6 35.Ne3 Nxe3 36.Bxe3 g5
+37.Ke4 Ke7 38.Kd4 Be2 39.Bb7 f6 40.f4 gxf4 41.Bxf4 Bxf4 42.gxf4 Kd6 43.h4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.3"]
+[White "Ding Liren"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2749"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "8603677"]
+[BlackFideId "4168119"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 g6 3.f3 c5 4.d5 e6 5.Nc3 d6 6.e4 Bg7 7.Bg5 O-O 8.Qd2 h6 9.Be3 exd5
+10.cxd5 a6 11.a4 Nh7 12.a5 h5 13.Ra3 Nd7 14.Nh3 Rb8 15.Be2 b5 16.axb6 Qxb6
+17.Ra2 Ne5 18.Nf2 a5 19.O-O Ba6 20.Bxa6 Qxa6 21.Rfa1 Nc4 22.Qe2 Ra8 23.Bc1 Rfb8
+24.Nfd1 Nf8 25.Ra4 Rb4 26.b3 Nb6 27.Qxa6 Rxa6 28.Rxa5 Rxa5 29.Rxa5 Rxb3 30.Rb5 c4
+31.Kf1 Nfd7 32.Bf4 Ne5 33.Be3 Nbd7 34.Ke2 Ra3 35.Rb4 Rb3 36.Ra4 Nb6 37.Ra6 Ned7
+38.Kd2 f5 39.Kc2 fxe4 40.fxe4 Be5 41.h3 Kf8 42.Nb1 Rb4 43.Nd2 Ke8 44.Nf3 Bf6
+45.g4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.4"]
+[White "Grischuk,A"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2759"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "14102951"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 h6 7.Bh4 O-O 8.e3 Bf5
+9.Qb3 Bxc3+ 10.bxc3 Nbd7 11.Be2 c5 12.dxc5 Nxc5 13.Qb4 Nce4 14.Nd4 Bh7 15.O-O g5
+16.Bg3 Qb6 17.Qxb6 axb6 18.Rfc1 Rfc8 19.c4 Nxg3 20.hxg3 Rc5 21.Nb3 Rc7 22.cxd5 Rxc1+
+23.Rxc1 Nxd5 24.Nd4 Bg6 25.Bb5 Nb4 26.a4 Na6 27.f3 Nc5 28.e4 Rd8 29.Rc4 h5
+30.Kf2 f6 31.Ke3 Bf7 32.Rb4 Ra8 33.Ne2 Rc8 34.Rd4 Be8 35.Rd6 Bxb5 36.axb5 Kf7
+37.Nc3 Re8 38.Rxb6 f5 39.Rd6 fxe4 40.Nxe4 Nxe4 41.fxe4 Ra8 42.Rd7+ Kf6 43.Rxb7 Ra3+
+44.Kd4 Rxg3 45.b6 Rxg2 46.Rb8 Rb2 47.b7 Kg7 48.e5 g4 49.e6  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.5"]
+[White "Adams,Mi"]
+[Black "Hammer,J"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2628"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "400041"]
+[BlackFideId "1503707"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 a6 6.c3 d6 7.a4 O-O 8.Re1 Kh8
+9.h3 h6 10.Na3 Bxa3 11.Rxa3 Be6 12.Bxe6 fxe6 13.d4 Qe8 14.dxe5 Nxe5 15.Nxe5 dxe5
+16.a5 Rd8 17.Qe2 Qc6 18.Rb3 Rd7 19.Rb4 Rfd8 20.Be3 Kg8 21.Qc4 Rd1 22.Rxd1 Rxd1+
+23.Kh2 Qxc4 24.Rxc4 c6 25.Rb4 Rd7 26.Kg3 Kf7 27.Kf3 g5 28.Ba7 Ng8 29.h4 gxh4
+30.Kg4 Ne7 31.Be3 Ng8 32.Kxh4 Ke8 33.Rb3 Rg7 34.g4 Rf7 35.c4 Rd7 36.Ba7 Nf6
+37.f3 Rf7 38.Bb8 Nd7 39.Bd6 Kd8 40.Kh5 Rf6 41.Rd3 Ke8 42.Bb4 c5 43.Bd2 Rf7
+44.Bxh6 Nf6+ 45.Kg6 Ng8 46.Bg5  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.6"]
+[White "Vallejo Pons,F"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2720"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[WhiteFideId "2205530"]
+[BlackFideId "8604436"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.Nbd2 Bf5
+9.Re1 Nxd2 10.Qxd2 Bxd3 11.Qxd3 O-O 12.c3 Qd7 13.Bf4 Rae8 14.Re2 Bd6 15.Bxd6 Qxd6
+16.Rae1 Rxe2 17.Qxe2 h6 18.g3 Rb8 19.Nh4 Qd7 20.g4 g6 21.Ng2 b5 22.b4 a5
+23.a3 a4 24.h3 Rd8 25.Nf4 Qd6 26.Nd3 Kg7 27.Nc5 Rb8 28.Kg2 g5 29.Kg1 Rb6
+30.Qe8 Rb8 31.Qe2 Rb6 32.Kf1 Rb8 33.Kg2 Rb6 34.Qe8 Rb8 35.Qe2 Rb6 36.Qe8 Rb8
+37.Qe2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.22"]
+[Round "5.8"]
+[White "Salem,AR"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2651"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "9301348"]
+[BlackFideId "8602980"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3 c5 8.cxd5 exd5
+9.a3 Bxc3+ 10.Qxc3 Nd7 11.e3 O-O 12.Be2 b6 13.O-O Bb7 14.Rfc1 Rfc8 15.dxc5 Qxc3
+16.Rxc3 Rxc5 17.Rcc1 Rac8 18.Rcb1 Nf8 19.Nd4 Ne6 20.Bg4 Re8 21.b4 Rc4 22.Be2 Rcc8
+23.Nf5 Rc7 24.Rc1 Rec8 25.Rd1 Rd8 26.h4 Kf8 27.Bf3 Rcd7 28.a4 d4 29.Bxb7  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.2"]
+[White "Jakovenko,D"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2766"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "4122356"]
+[BlackFideId "13401319"]
+[EventDate "2017.02.18"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 a6 10.a4 c5 11.dxc5 Bxc5 12.b3 b6 13.Bb2 Bb7  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.6"]
+[White "Nepomniachtchi,I"]
+[Black "Li Chao2"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2720"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "8604436"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 c6
+9.Nc3 Nxc3 10.bxc3 dxc4 11.Bxc4 Bf5 12.Bg5 Qc7 13.Re1 h6 14.Nh4 Bh7 15.Bxh6 Bxh2+
+16.Kh1 Bf4 17.Bxg7 Kxg7 18.Qg4+ Kh8 19.Nf5 Bxf5 20.Qxf5 Qd6 21.g3 Bh6 22.Kg2 b5
+23.Bb3 Qg6 24.Qxg6 fxg6 25.Re7 g5 26.Re6 Kg7 27.Rh1 Rh8 28.Re7+ Kg6 29.Bc2+  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.5"]
+[White "Hou Yifan"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2651"]
+[BlackElo "2760"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[WhiteFideId "8602980"]
+[BlackFideId "8603677"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 O-O
+9.O-O cxd5 10.Bg5 c6 11.Qf3 h6 12.Bxf6 Qxf6 13.Qxf6 gxf6 14.Ne2 Bd6 15.Rad1 Rb8
+16.b3 Re8 17.h3 Rb6 18.Ng3 c5 19.Rfe1 Rxe1+ 20.Rxe1 Be6 21.c4 dxc4 22.Bxc4 Bxg3
+23.fxg3 Bxc4 24.bxc4 Rb4 25.Re8+ Kg7 26.Ra8 Ra4 27.g4 a5 28.Kh2 Rxa2 29.Rc8 a4
+30.Rxc5 Rc2 31.Rc8 a3 32.Ra8 a2 33.c5 Rxc5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.4"]
+[White "Aronian,L"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2709"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "2205530"]
+[EventDate "2017.02.18"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Rb1 Be7 8.Bb5+ Bd7
+9.Bxd7+ Qxd7 10.d5 exd5 11.exd5 O-O 12.Nf3 Bf6 13.O-O b5 14.Bf4 Bxc3 15.Qd3 b4
+16.Ng5 g6 17.Ne4 Qf5 18.Qf3 Nd7 19.Nxc3 bxc3 20.Rbc1 Ne5 21.Bxe5 Qxe5 22.Rxc3 Rac8
+23.Rc4 Rfe8 24.h4 Qd6 25.Rd1 Re5 26.Qg3 Rce8 27.Kh2 R8e7 28.Rc3 f6 29.Re3 Kg7
+30.Kg1 Rd7 31.Rxe5 Qxe5 32.Qd3 Qd6 33.g3 Rc7 34.Qc4 Rd7 35.a4 Rb7 36.a5 Rb4
+37.Qc3 a6 38.Kg2 Rb5 39.Rd2 c4 40.Qxc4 Rxa5 41.g4 Rb5 42.g5 Rb4 43.Qc6 Qxc6
+44.dxc6 fxg5 45.hxg5 Kf7 46.c7 Rc4 47.Rd7+ Ke6 48.Rxh7 Ke5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.3"]
+[White "Nakamura,Hi"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2742"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[WhiteFideId "2016192"]
+[BlackFideId "4126025"]
+[EventDate "2017.02.18"]
+
+1.Nf3 c5 2.e4 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 Ng4 7.Bg5 h6 8.Bh4 g5
+9.Bg3 Bg7 10.h3 Ne5 11.Nf5 Bxf5 12.exf5 Nbc6 13.Nd5 e6 14.fxe6 fxe6 15.Ne3 Qa5+
+16.c3 Nf3+ 17.Qxf3 Bxc3+ 18.Kd1 Qa4+ 19.Nc2 Bxb2 20.Rc1 Rc8 21.Bd3 Rf8 22.Qh5+ Ke7
+23.Qxh6 Bxc1 24.Re1 Ne5 25.Rxe5 dxe5 26.Kxc1 Qa3+ 27.Kd2 Rxc2+ 28.Bxc2 Qb4+
+29.Ke2 Qb5+ 30.Ke1 Qb4+ 31.Kf1 Qc4+ 32.Kg1 Qxc2 33.Qxg5+ Kf7 34.Qxe5 Qd1+
+35.Kh2 Qd5 36.Qc7+ Kg8 37.Be5 Rf7 38.Qc3 Kf8 39.Qc8+ Ke7 40.f4 Qc6 41.Qg8 Qe8
+42.Qg3 Kd8 43.h4 Rh7 44.Qg5+ Kd7 45.g4 Qc8 46.Qg6 Rxh4+ 47.Kg3 Rh1 48.f5 Rg1+
+49.Kh2 Qc2+ 50.Kxg1 Qc5+ 51.Kg2 Qxe5 52.Qf7+ Kd6 53.Qf8+ Kd5 54.f6 Qe4+ 55.Kh2 Qxg4
+56.Qg7 Qf4+ 57.Kh3 Qf5+ 58.Kh4 Kd6 59.Qg3+ Kd7 60.Qg7+ Kd6 61.Qg3+ Kd7 62.Qg7+  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.7"]
+[White "Rapport,R"]
+[Black "Riazantsev,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2692"]
+[BlackElo "2671"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Romanishin-Kasparov (Steiner) system"]
+[WhiteFideId "738590"]
+[BlackFideId "4125029"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 Nc6 5.Bg2 O-O 6.Nf3 Bxc3+ 7.bxc3 b6 8.Ne5 Bb7
+9.Bg5 Na5 10.Bxb7 Nxb7 11.Qa4 Nd6 12.Bxf6 gxf6 13.Nd3 c5 14.dxc5 bxc5 15.O-O Qc7
+16.Rfd1 Ne4 17.Qa3 Rfc8 18.Qc1 Kg7 19.Rb1 Rab8 20.Rb3 a5 21.Ra3 h6 22.f3 Ng5
+23.Nf4 f5 24.Qd2 Rb7 25.Rb3 Rcb8 26.Qxd7 Qxd7 27.Rxd7 Rxd7 28.Rxb8 Rd2 29.Kf2 Rxa2
+30.h4 Nh7 31.Nd3 Ra3 32.Rb7 Kg8 33.Rb5 Rxc3 34.Rxc5 a4 35.Ke3 a3 36.Kd4 Rc2
+37.Nf4 Nf6 38.Ra5 Ra2 39.Kc3 Ra1 40.Kb3 Rg1 41.Rxa3 e5 42.Nd3 e4 43.Ne5 Rxg3
+44.Ra8+ Kg7 45.Ra7 exf3 46.exf3 Ng4 47.Rxf7+ Kg8 48.Rxf5 Nxe5 49.Rxe5 Rxf3+
+50.Kb4 Rf4 51.h5 Kf7 52.Kb5 Kf6 53.Rd5 Ke6 54.Kc5 Ke7 55.Rd4 Rf5+ 56.Kb6 Rxh5
+57.c5 Rh1 58.c6 Ke6 59.Rc4 Rb1+ 60.Ka7 Ra1+ 61.Kb8 Rb1+ 62.Kc8 h5 63.c7 Ke7
+64.Rh4 Rb5 65.Rh1 Ke6 66.Re1+ Kf6 67.Rc1 Ke7 68.Rc4 Rb1 69.Rc5 h4 70.Rh5 Rb4
+71.Rh6 Ke8 72.Rh7 Rc4 73.Kb7 Rb4+ 74.Kc6 Rc4+ 75.Kd6 Kf8 76.Kd5 Rc1 77.c8=Q+ Rxc8
+78.Rh8+  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.8"]
+[White "Eljanov,P"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2711"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "14102951"]
+[BlackFideId "4147235"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.Qc2 c6 6.cxd5 exd5 7.Bg5 Be7 8.h3 Nb6
+9.e3 Nh5 10.Bxe7 Qxe7 11.Ne5 Be6 12.Bd3 g6 13.g4 Nf6 14.f4 Nc8 15.O-O-O Nd6
+16.Qa4 Nd7 17.Rhf1 Nb6 18.Qc2 f6 19.Bxg6+ hxg6 20.Nxg6 Qg7 21.Nxh8 Qxh8 22.f5 Bf7
+23.Qh2 O-O-O 24.b3 Ne4 25.Kb2 Qf8 26.Nxe4 dxe4 27.Qd2 Qh6 28.Rh1 Nd5 29.Rde1 Rg8
+30.Ka1 a6 31.Qc2 Re8 32.Qd2 Rg8 33.Qc2 Re8 34.Qd2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.9"]
+[White "Hammer,J"]
+[Black "Salem,AR"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2656"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteFideId "1503707"]
+[BlackFideId "9301348"]
+[EventDate "2017.02.18"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e6 7.Bg2 Be7 8.b3 Bd7
+9.O-O Nc6 10.Nce2 b5 11.c3 Rc8 12.Ba3 O-O 13.Nxc6 Bxc6 14.e5 Ne8 15.Bxc6 Rxc6
+16.Rc1 Qc7 17.Nd4 Rb6 18.Qe2 dxe5 19.Bxe7 Qxe7 20.Qxe5 Qd6 21.Nf3 Qa3 22.Qe2 Nf6
+23.Ne5 Rb7 24.Rfd1 Rc7 25.Rc2 h6 26.c4 bxc4 27.bxc4 Qa5 28.Rcd2 Rc5 29.f4 h5
+30.Rd4 Rb8 31.Qd2 Qxd2 32.R1xd2 Rcc8 33.h3 g6 34.g4 hxg4 35.hxg4 Rb1+ 36.Kg2 Kg7
+37.Kf3 Rf1+ 38.Kg2 Rb1 39.Kf3 Rf1+ 40.Rf2 Rc1 41.Rb2 Rc7 42.g5 Nh5 43.Rb8 Rc3+
+44.Kf2 f6 45.gxf6+ Nxf6 46.Rb1 Nh5 47.Rb6 Kf6 48.Ng4+ Kg7 49.Ne5 Kf6 50.Ng4+ Kg7
+51.Ne5 Kf6  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.24"]
+[Round "6.1"]
+[White "Adams,Mi"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2796"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "400041"]
+[BlackFideId "623539"]
+[EventDate "2017.02.18"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 4.cxd5 Nxd5 5.Nf3 Nc6 6.O-O Nb6 7.b3 Bd6 8.Bb2 O-O
+9.Nc3 Re8 10.Ne4 Bf8 11.d3 f5 12.Ned2 e4 13.Ne1 e3 14.fxe3 Rxe3 15.Nc2 Re8
+16.Nf3 Nd5 17.e4 fxe4 18.dxe4 Ndb4 19.Nxb4 Qxd1 20.Raxd1 Nxb4 21.Rd2 Nxa2
+22.Be5 Bg4 23.Bxc7 Nc3 24.e5 Bc5+ 25.Kh1 Rac8 26.Bd6 Ne4 27.Ra2 Nxd6 28.exd6 h6  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.8"]
+[White "Tomashevsky,E"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2711"]
+[BlackElo "2628"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4147235"]
+[BlackFideId "1503707"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bg5 Bd5 11.Qc2 Be4 12.Qc1 h6 13.Bxf6 Bxf6 14.Rd1 a5 15.Nbd2 Bxf3
+16.Bxf3 c6 17.Nc4 Na6 18.Qf4 Nb4 19.e3 Qe7 20.h4 Rfd8 21.h5 Bg5 22.Qg4 c5
+23.dxc5 Nd3 24.Nb6 Rab8 25.Be2 Ne5 26.Qe4 Qxc5 27.Nc4 Nxc4 28.Qxc4 Qxc4 29.Bxc4 Bf6
+30.Rxd8+ Rxd8 31.Ra3 Rd2 32.Rb3 Rxb2 33.Rxb2 Bxb2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.5"]
+[White "Rapport,R"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2692"]
+[BlackElo "2785"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[WhiteFideId "738590"]
+[BlackFideId "13300474"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 b5 6.Bb3 Be7 7.d3 d6 8.a3 O-O
+9.Nd5 Na5 10.Ba2 Nxd5 11.Bxd5 c6 12.Ba2 Bf6 13.O-O Re8 14.b4 Nb7 15.c4 Be6
+16.Bb2 c5 17.Bc3 Qd7 18.cxb5 axb5 19.Bxe6 Qxe6 20.a4 Qd7 21.axb5 Rxa1 22.Qxa1 Qxb5
+23.Qb1 Rb8  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.6"]
+[White "Vallejo Pons,F"]
+[Black "Hou Yifan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2651"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "2205530"]
+[BlackFideId "8602980"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Nbd2 O-O 6.Bxc6 dxc6 7.Nc4 Re8 8.Bg5 b5
+9.Ne3 Qd6 10.Nd2 Bd4 11.Rb1 h6 12.Bh4 Bxe3 13.fxe3 Bg4 14.Nf3 Nd7 15.b3 c5
+16.h3 Be6 17.c4 a6 18.O-O f6 19.Bg3 Qc6 20.Qc2 Bf7 21.Kh2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.9"]
+[White "Salem,AR"]
+[Black "Riazantsev,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2671"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "9301348"]
+[BlackFideId "4125029"]
+[EventDate "2017.02.18"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O Bg6 7.c3 h6 8.Na3 Nf5 9.b3 Be7
+10.g4 Nh4 11.Nxh4 Bxh4 12.f4 O-O 13.f5 Bh7 14.Bd3 Nd7 15.f6 gxf6 16.Bxh6 Bg5
+17.Bxh7+ Kxh7 18.Bxf8 Qxf8 19.Nc2 fxe5 20.Ne1 e4 21.Ng2 Qe7 22.Qe1 Bh6 23.Qf2 Rf8
+24.Kh1 f5 25.gxf5 exf5 26.Qg3 Qf7 27.Rf2 e3 28.Nxe3 f4 29.Qh3 Nb6 30.Rg1 Qe7
+31.Ng4 Qe4+ 32.Rf3  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.4"]
+[White "Ding Liren"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2785"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "8603677"]
+[BlackFideId "2016192"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Qc2 Qa5 10.Rd1 Re8 11.Nd2 e5 12.Bg5 Nd4 13.Qb1 Bf5 14.Bd3 Bxd3 15.Qxd3 Ne4
+16.Ncxe4 dxe4 17.Qxe4 Qb6 18.Rb1 h6 19.Bh4 g5 20.b4 Bf8 21.Bg3 Rad8 22.exd4 exd4
+23.Be5 Bg7 24.O-O Rxe5 25.Qd3 Qg6 26.Rb3 g4 27.c5 b6 28.cxb6  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.3"]
+[White "Grischuk,A"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2751"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "4126025"]
+[BlackFideId "400041"]
+[EventDate "2017.02.18"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d4 dxc4 7.Qc2 a6 8.a4 Bd7
+9.Bg5 Bc6 10.Rd1 Nbd7 11.Nbd2 h6 12.Bxf6 Nxf6 13.Nxc4 Be4 14.Qb3 a5 15.Nfe5 Bd5
+16.Rac1 Re8 17.Qc2 c6 18.e4 Bxc4 19.Qxc4 Qb6 20.d5 cxd5 21.exd5 Bb4 22.dxe6 Rxe6
+23.Nd7 Nxd7 24.Rxd7 Rf6 25.Rc2 Rd8 26.Rxd8+ Qxd8 27.Qc8 Rd6 28.Bxb7 g6 29.Ba6 Kg7
+30.Qxd8 Rxd8 31.Rc7 Re8 32.Bc4 Re7 33.Rc6 Re5 34.b3 h5 35.Kg2 g5 36.Rc7 Re7
+37.Rc8 Re5 38.h3 h4 39.g4 Re7 40.Rd8 Kf6 41.Rd3 Re4 42.Bd5 Re7 43.Rf3+ Kg7
+44.Bc4 f6 45.Rd3 Re4 46.Rd7+ Re7 47.Rd8 Re5 48.Rg8+ Kh7 49.Kf3 Re7 50.Rb8 Kg7
+51.Rb6 Re5 52.Be6 Kf8 53.Rb8+ Ke7 54.Bc4 Kd7 55.Rb6 f5 56.Rb7+ Kd6 57.gxf5 Rxf5+
+58.Kg4 Rxf2 59.Kxg5 Rf3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.2"]
+[White "Mamedyarov,S"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2749"]
+[ECO "D80"]
+[Opening "Gruenfeld"]
+[Variation "Stockholm variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "4168119"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Bg7 5.Bxf6 Bxf6 6.cxd5 c5 7.dxc5 Nd7 8.e3 O-O
+9.Bc4 Nxc5 10.Nge2 Qb6 11.Qd2 Bf5 12.Nd4 Rac8 13.O-O Ne4 14.Qe2 Bxd4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.1"]
+[White "Vachier Lagrave,M"]
+[Black "Jakovenko,D"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2709"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4122356"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.h3 Ne7 10.Rd1+ Ke8 11.Nc3 Ng6 12.Nd4 Bd7 13.f4 Be7 14.Be3 h5 15.Rd2 Rd8
+16.Re1 Bc8 17.Ne4 a6 18.Red1 Nh4 19.Bf2 Ng6 20.Be3 Nh4 21.Bf2 Ng6  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.25"]
+[Round "7.7"]
+[White "Li Chao2"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2759"]
+[ECO "E12"]
+[Opening "Queen's Indian"]
+[Variation "Petrosian system"]
+[WhiteFideId "8604436"]
+[BlackFideId "14102951"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 Nxd5 7.e3 Be7 8.Bb5+ c6
+9.Bd3 c5 10.O-O cxd4 11.exd4 Nd7 12.Qe2 O-O 13.Ne4 N5f6 14.Nc3 Qc7 15.Bg5 h6
+16.Bh4 Qf4 17.Bg3 Qg4 18.Ba6 Bxa6 19.Qxa6 Qf5 20.Rac1 Qa5 21.Qb7 Rfe8 22.Nd2 Bf8
+23.h3 Qf5 24.Nc4 a6 25.Rfd1 b5 26.Ne3 Qh5 27.Bc7 Qg6 28.b4 Nh5 29.Ne2 Ndf6
+30.Rc6 Qg5 31.Be5 a5 32.Qxb5 axb4 33.axb4 Ra2 34.Rc2 Rea8 35.Rxa2 Rxa2 36.Qc4 Rb2
+37.b5 Nd5 38.Nxd5 exd5 39.Qd3 Qg6 40.Qxg6 fxg6 41.Nc3 Rb3 42.Rc1 Ba3 43.Rb1 Rxc3
+44.b6 Nf6 45.b7 Nd7 46.Rb5  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.9"]
+[White "Riazantsev,A"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2671"]
+[BlackElo "2711"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4125029"]
+[BlackFideId "4147235"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 O-O 8.Be2 dxc4
+9.O-O Bxc3 10.bxc3 Nc6 11.Bxc4 b6 12.Bd3 Bb7 13.Be4 Qe7 14.Ne5 Nxe5 15.Bxb7 Rab8
+16.Be4 Nc4 17.Qe2 Nd6 18.Bc6 Nb7 19.Qa6 Na5 20.Bf3 c5 21.dxc5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.1"]
+[White "Nepomniachtchi,I"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2749"]
+[BlackElo "2796"]
+[ECO "A29"]
+[Opening "English"]
+[Variation "four knights, kingside fianchetto"]
+[WhiteFideId "4168119"]
+[BlackFideId "623539"]
+[EventDate "2017.02.18"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O
+9.a3 Re8 10.b4 a5 11.b5 Nd4 12.Rb1 Bf8 13.Nd2 a4 14.e3 Ne6 15.Nf3 Nc5 16.Nxe5 Rxe5
+17.d4 Re8 18.dxc5 Qxd1 19.Rxd1 Bxc5 20.Bb2 Nc4 21.Nd5 Nxb2 22.Rxb2 Bxa3 23.Rc2 Be6
+24.Nxc7 Bb3 25.Ra1 Bxc2 26.Rxa3 Bb3 27.Nxa8 Rxa8 28.Bxb7 Rb8 29.Bc6 Kf8 30.b6 Rxb6
+31.Bxa4 Bxa4 32.Rxa4 h5 33.Kg2 g6 34.Ra2 Kg7 35.e4 Rb4 36.Kf3 Rb3+ 37.Kg2 Rb4
+38.Re2 Kf6 39.Kh3 Kg5 40.f4+ Kf6 41.Kh4 Ra4 42.Kh3 Rb4 43.Kg2 Ra4 44.h3 Ra3
+45.h4 Ra4 46.Kf3 Ra3+ 47.Re3 Ra1 48.Rb3 Kg7 49.Ke3 Ra4 50.Rd3 Rb4 51.Kf3 Rb1
+52.e5 Kf8 53.Ra3 Ke7 54.Ke3 Re1+ 55.Kf2 Re4 56.Ra6 Kf8 57.Ra3 Ke7 58.Ra7+ Kf8
+59.Ra6 Kg7 60.Rd6 Ra4 61.f5 gxf5 62.Rf6 Ra2+ 63.Kf3 Ra3+ 64.Kf4 Ra4+ 65.Kg5 Rg4+
+66.Kxh5 Rxg3 67.Rxf5 Re3 68.Rg5+ Kh7 69.Kg4 Re1 70.Rf5 Kg7 71.h5 Rg1+ 72.Kf4 Rf1+
+73.Ke4 Re1+ 74.Kd5 Rd1+ 75.Kc5 Ra1 76.Rf6 Rh1 77.Rf5 Ra1 78.h6+ Kxh6 79.Rxf7 Kg6
+80.Rf6+ Kg7 81.Kd5 Ra5+ 82.Ke4 Ra4+ 83.Kf5 Ra7 84.Rg6+ Kf8 85.Rh6 Kg7 86.Rf6 Rb7
+87.Rc6 Kf7 88.Ra6 Kf8 89.Rf6+ Kg7 90.Rg6+ Kf8 91.Ra6 Kf7 92.Rh6 Kg7 93.Rh3 Rb6
+94.Rd3 Kf7 95.Rd6 Rb7 96.Rf6+  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.2"]
+[White "Grischuk,A"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2742"]
+[BlackElo "2766"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[WhiteFideId "4126025"]
+[BlackFideId "13401319"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.e3 Nc6 6.cxd5 Nxd5 7.Bd3 cxd4 8.exd4 Bb4
+9.O-O O-O 10.Bc2 Bd7 11.a3 Bxc3 12.Qd3 f5 13.bxc3 b5 14.a4 a6 15.Re1 Qc7
+16.Ng5 Qd6 17.Qd2 h6 18.Nf3 Rfc8 19.Ba3 Qf4 20.Qxf4 Nxf4 21.Bc5 Na5 22.Ne5 Be8
+23.g3 Nd5 24.Ra3 bxa4 25.c4 Nf6 26.Bxa4 Bxa4 27.Rxa4 Nc6 28.Nd3 Ne4 29.Bb6 Rcb8
+30.c5 Kf7 31.Rea1 Nc3 32.Rxa6 Rxa6 33.Rxa6 Ne2+ 34.Kg2 Nexd4 35.Bc7 Rc8 36.Bd6 g5
+37.f4 gxf4 38.gxf4 Ke8 39.Rb6 Ra8 40.Ne5 Ra2+ 41.Kg3 Ra3+ 42.Kg2 Ra2+ 43.Kg3 Ra3+
+44.Kh4 Nxe5 45.Bxe5 Nf3+ 46.Kh5 Nxe5 47.fxe5 Kd7 48.Kg6 f4 49.Rd6+ Ke7 50.c6 f3
+51.Rd7+ Ke8 52.Rf7 Rc3 53.c7 h5 54.Rxf3 Rxc7 55.Rh3 Kd7 56.Rxh5 Rc4 57.Rh7+ Kc6
+58.Kf6 Kd5 59.Rd7+ Ke4 60.Rd1 Rc2  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.3"]
+[White "Jakovenko,D"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2751"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4122356"]
+[BlackFideId "400041"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O h6 7.Re1 O-O 8.h3 a5 9.Nbd2 Be6
+10.Bxe6 fxe6 11.Nf1 a4 12.Be3 Bxe3 13.Rxe3 d5 14.Re1 Nd7 15.d4 exd4 16.cxd4 Nf6
+17.Ng3 dxe4 18.Nxe4 Nxe4 19.Rxe4 Qd5 20.Qe2 Rf6 21.a3 Raf8 22.Qe3 Na5 23.Re1 Nc4
+24.Qc3 b5 25.R1e2 c6 26.Qc2 R8f7 27.Qc3 Rf8 28.Qc2 R8f7 29.Qc3 Rf8 30.Qc2  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.4"]
+[White "Aronian,L"]
+[Black "Nakamura,Hi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2785"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13300474"]
+[BlackFideId "2016192"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Bd3 dxc4 10.Bxc4 Qxd1+ 11.Rxd1 b6 12.g4 Bb7 13.g5 Nh5 14.Bd6 Nd4 15.Nxd4 Bxd6
+16.O-O Rfc8 17.Be2 g6 18.Nxe6 Bxa3 19.bxa3 Rxc3 20.Nd8 Be4 21.Rd4 Rc5 22.Nxf7 Kxf7
+23.Rxe4 Rxg5+ 24.Kh1 Rc8 25.h4 Rgc5 26.Bxh5 Rxh5 27.Rd1 Rc7 28.Kg2 Rhc5 29.Kg3 Rb7
+30.Rd8 b5 31.Rf4+ Kg7 32.Rfd4 Rcc7 33.R8d5 Rf7 34.h5 a5 35.a4 Rf5 36.Rxf5 gxf5
+37.axb5 Rxb5 38.Rd7+ Kh6 39.Kh4 Rb2 40.Rd6+ Kg7 41.f4 h6 42.Rd5 Kf6 43.Rxa5 Rg2
+44.Kh3 Rg1 45.Kh2 Rg4 46.Rb5 Rh4+ 47.Kg2 Rg4+ 48.Kf3 Rh4 49.e4 fxe4+ 50.Kxe4 Rh1
+51.Kf3 Rf1+ 52.Kg3 Rg1+ 53.Kf2 Ra1  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.5"]
+[White "Li Chao2"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2760"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[WhiteFideId "8604436"]
+[BlackFideId "8603677"]
+[EventDate "2017.02.18"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.Qb3 a5 8.cxd5 a4
+9.Qd1 cxd5 10.Nc3 Ne4 11.Nd2 Nxc3 12.bxc3 Qa5 13.Ba3 Qxc3 14.Bxe7 Qxd4 15.Rc1 Re8
+16.Bc5 Qe5 17.e4 Nd7 18.Ba3 Nf6 19.exd5 Bg4 20.Qc2 Bf5 21.Nc4 Bxc2 22.Nxe5 Be4
+23.Bxe4 Nxe4 24.f4 Rad8 25.Rfd1 Nd6 26.Bb2 a3 27.Bxa3 Bxe5 28.fxe5 Rxe5 29.Bb4 Rd7
+30.Bc3 Re2 31.a4 f5 32.Bb4 Kf7  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.6"]
+[White "Hou Yifan"]
+[Black "Rapport,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2651"]
+[BlackElo "2692"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[WhiteFideId "8602980"]
+[BlackFideId "738590"]
+[EventDate "2017.02.18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bd2 a5 12.O-O-O Bb4 13.Ne4 Ngf6 14.c3 Nxe4 15.Qxe4 Nf6
+16.Qe2 Be7 17.g4 Qd5 18.c4 Qe4 19.Qxe4 Nxe4 20.Be3 f5 21.gxf5 O-O 22.Nh4 exf5
+23.Ng6 Rfe8 24.Nxe7+ Rxe7 25.Rh4 Nf6 26.Rf4 Nxh5 27.Rxf5 Ng3 28.Rf3 Ne4 29.d5 cxd5
+30.Rxd5 a4 31.Kc2 Rc8 32.b3 axb3+  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.7"]
+[White "Salem,AR"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2656"]
+[BlackElo "2709"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[WhiteFideId "9301348"]
+[BlackFideId "2205530"]
+[EventDate "2017.02.18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.b4 cxd4 7.Qg4 Kf8 8.bxa5 dxc3
+9.Nf3 Nc6 10.h4 Nge7 11.h5 h6 12.a6 bxa6 13.Bd3 Rb8 14.Be3 Nf5 15.Bc5+ Kg8
+16.Qa4 Qd7 17.Qf4 f6 18.exf6 gxf6 19.g4 e5 20.Qxf5 Qxf5 21.Bxf5 Bxf5 22.gxf5 Rb5
+23.Bb4 d4 24.Rd1 Kf7 25.Rg1 a5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.26"]
+[Round "8.8"]
+[White "Hammer,J"]
+[Black "Eljanov,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2628"]
+[BlackElo "2759"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[WhiteFideId "1503707"]
+[BlackFideId "14102951"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Bd2 Bf6
+9.Ne5 Nxc3 10.Bxc3 Bxg2 11.Kxg2 c5 12.Ng4 Bxd4 13.Bxd4 cxd4 14.Qxd4 Nc6 15.Qd6 Qg5
+16.Ne3 Rfd8 17.Rad1 Qc5 18.a3 a5 19.b3 Rab8 20.a4 Nb4 21.Rd2 Qxd6 22.Rxd6 Kf8
+23.Rfd1 Ke7 24.g4 Na6 25.R6d3 Nc5 26.Rc3 h5 27.h3 Rh8 28.f3 Rbc8 29.Nc2 hxg4
+30.hxg4 Rh6 31.Rh1 Rxh1 32.Kxh1 Rc6 33.Kg2 Rd6 34.Kf2 Rd1 35.b4 axb4 36.Nxb4 Ra1
+37.Nd3 Rxa4 38.Nxc5 bxc5 39.Ke3 Kd6 40.Rc1 g5 41.Ke4 f6 42.f4 gxf4 43.Kxf4 Ke7
+44.Kf3 e5 45.e3 Ke6 46.Rh1 Rxc4 47.Rh6 Rc1 48.Kf2 Rc2+ 49.Kf3 d5 50.g5 e4+
+51.Kg3 Re2 52.Rxf6+ Ke5  0-1
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.5"]
+[White "Ding Liren"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2760"]
+[BlackElo "2785"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "8603677"]
+[BlackFideId "13300474"]
+[EventDate "2017.02.18"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.d4 dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bf4 Bd6 11.Qc1 a5 12.Nc3 Na6 13.Bd2 Nb4 14.Qb1 Bxf3 15.Bxf3 c6
+16.Rd1 Qe7 17.Ne4 Nxe4 18.Qxe4 Rfd8 19.Bc3 Rd7 20.Rd2 Qd8 21.Rad1 Be7 22.h4 Rb8
+23.e3 Nd5 24.Qc2 Qc7 25.Kg2 g6 26.h5 Bf8 27.e4 Nb4 28.Qb3 c5 29.dxc5 Rxd2
+30.Rxd2 Qxc5 31.Rd7 b5 32.axb5 Qxb5 33.Qd1 Nc6 34.Be2 Qb6 35.Bc4 Rb7 36.b3 Qa7
+37.Rd6 Bxd6 38.Qxd6 Qb6 39.Qf4 Kf8 40.Bxe6 Nb4 41.Qf6 Nd3 42.Bd4 Qd6 43.Be3 Ne1+
+44.Kf1  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.4"]
+[White "Mamedyarov,S"]
+[Black "Hou Yifan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2766"]
+[BlackElo "2651"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "Kmoch variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "8602980"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 c5 5.d5 O-O 6.e4 b5 7.e5 Ne8 8.f4 d6 9.Nf3 exd5
+10.cxd5 Nc7 11.a4 Bb7 12.Bd3 h6 13.O-O Bxc3 14.bxc3 dxe5 15.axb5 e4 16.Bxe4 Bxd5
+17.Bb1 Nd7 18.c4 Bb7 19.Ra3 Ne6 20.Qc2 Nf6 21.Bb2 Ne4 22.Rd3 Qc7 23.f5 Nd4
+24.Nxd4 cxd4 25.Bxd4 a6 26.b6 Qc6 27.f6 Rfd8 28.fxg7 Rd6 29.c5 Rg6 30.Ba2 Ng5
+31.Rg3 Nh3+ 32.Kh1  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.3"]
+[White "Jakovenko,D"]
+[Black "Nepomniachtchi,I"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2749"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "4122356"]
+[BlackFideId "4168119"]
+[EventDate "2017.02.18"]
+
+1.Nf3 c5 2.c4 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc6 6.d4 cxd4 7.Nxd4 Ndb4 8.Nxc6 Qxd1+
+9.Kxd1 Nxc6 10.Nc3 Bd7 11.Be3 g6 12.Rc1 Bg7 13.Ke1 O-O 14.f4 e5 15.Kf2 exf4
+16.gxf4 Be6 17.Rhd1 Rfd8 18.Rxd8+ Rxd8 19.Bxc6 bxc6 20.b3 Bf6 21.Ne4 Bh4+
+22.Ng3 Bd5 23.Rc5 a6 24.Ra5 Ra8 25.f5 gxf5 26.Ra4 Be4 27.Kg1 Bxg3 28.hxg3 Kg7  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.2"]
+[White "Nakamura,Hi"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2751"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "2016192"]
+[BlackFideId "400041"]
+[EventDate "2017.02.18"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.c4 e6 5.O-O Nf6 6.d3 Be7 7.cxd5 Bxf3 8.Bxf3 cxd5
+9.b3 Nc6 10.Bb2 O-O 11.e3 Rc8 12.a3 Ne8 13.d4 Nd6 14.Qd3 Na5 15.Nd2 f5 16.Rfc1 Qb6
+17.Bd1 Ne4 18.Nf3 Bf6 19.a4 Rc6 20.Rxc6 Nxc6 21.Qb5 Qc7 22.Rc1 a6 23.Qe2 Qb6
+24.Ne1 Nb4 25.f3 Nd6 26.Ba3 Be7 27.Qd2 Nc8 28.Be2 Na7 29.Nc2 Rc8 30.Kf2 a5
+31.Ne1 Nd3+ 32.Nxd3 Bxa3 33.Rxc8+ Nxc8 34.Qc2 Ne7 35.Nf4 Kf7 36.Bb5 Bd6 37.Nd3 Qd8
+38.Ke2 b6 39.h3 Qc8 40.Qxc8 Nxc8 41.g4 g6 42.Ba6 Ne7 43.Bb7 Kf6 44.e4 fxe4
+45.fxe4 dxe4 46.Nf2 Nd5 47.Nxe4+ Ke7 48.Bxd5 exd5 49.Nxd6 Kxd6 50.h4 h6 51.Ke3 g5
+52.h5 Kc6 53.Kd3 Kd6 54.Kc3 Kc6 55.b4 Kd6 56.b5  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.1"]
+[White "Vachier Lagrave,M"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2796"]
+[BlackElo "2742"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4126025"]
+[EventDate "2017.02.18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.Bf4 Rxe1 12.Qxe1 Ne8 13.c3 d5 14.Nd2 g6 15.Nf3 Ng7
+16.Qe3 c6 17.Re1 Be6 18.Ne5 Qa5 19.a3 Re8 20.Nd3 Qd8 21.Qd2 Bf5 22.Rxe8+ Qxe8
+23.Qe3 Qxe3  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.6"]
+[White "Rapport,R"]
+[Black "Li Chao2"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2692"]
+[BlackElo "2720"]
+[ECO "A16"]
+[Opening "English"]
+[Variation "Anglo-Gruenfeld defense"]
+[WhiteFideId "738590"]
+[BlackFideId "8604436"]
+[EventDate "2017.02.18"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.e4 Nxc3 5.bxc3 g6 6.h4 Bg7 7.h5 c5 8.Bb5+ Bd7
+9.a4 Nc6 10.Nf3 Qc7 11.Qe2 Ne5 12.Nxe5 Bxe5 13.Bb2 a6 14.Bc4 Rc8 15.Qf3 e6
+16.a5 g5 17.h6 Rg8 18.g3 Rg6 19.Qe3 Bd6 20.Be2 c4 21.Bh5 Rg8 22.O-O e5 23.d4 cxd3
+24.Qxd3 Be6 25.Rfd1 Ke7 26.g4  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.9"]
+[White "Riazantsev,A"]
+[Black "Hammer,J"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2671"]
+[BlackElo "2628"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "4125029"]
+[BlackFideId "1503707"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 b6
+9.O-O Bb7 10.Bb2 Rc8 11.Rfd1 c5 12.dxc5 Nxc5 13.cxd5 Nce4 14.Qd3 Nxc3 15.Bxc3 Nxd5
+16.Bb2 Qe7 17.Qd4 f5 18.Bc4 Rfd8 19.a4 Bb4 20.Qh4 Qxh4 21.Nxh4 Kf7 22.Nf3 Ke7
+23.Rac1 Bc5 24.Ra1 Bb4 25.Rd3 Nf6 26.Rxd8 Rxd8 27.Nd4 Nd5 28.Nc2 Bc3 29.Ba3+ Ke8
+30.Bb5+ Kf7 31.Rd1 Bf6 32.Bc4 g6 33.h3 Nc7 34.Rxd8 Bxd8 35.Bd6 Nd5 36.Nd4 Bf6
+37.Nb5 a5 38.Bc5 Be7 39.Bd4 Bc6 40.Na7 Bb7 41.Nb5 Bc6 42.Be5 Bf6 43.Bb8  1/2-1/2
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.8"]
+[White "Eljanov,P"]
+[Black "Salem,AR"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2759"]
+[BlackElo "2656"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteFideId "14102951"]
+[BlackFideId "9301348"]
+[EventDate "2017.02.18"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.c3 Nf6 5.Bd3 e6 6.Bc2 b5 7.d4 Bb7 8.Nbd2 Be7
+9.O-O cxd4 10.cxd4 O-O 11.Re1 Rc8 12.Nf1 e5 13.Ng3 g6 14.Bb3 exd4 15.Bh6 Re8
+16.Ng5 Ne5 17.a4 d5 18.exd5 Bb4 19.Rxe5 Rxe5 20.Qxd4 Bd6 21.Nf3 Qb6 22.Qh4 Nxd5
+23.Nxe5 Bxe5 24.Qe4 Qe6 25.axb5 Bxb2 26.Qxe6 fxe6 27.Rxa7 Rc3 28.Rxb7 Rxb3
+29.Ne4 Bd4 30.g3 Rb2 31.Kh1 Rb1+ 32.Kg2 Rb2 33.Ng5 Rxf2+ 34.Kh3 Be5 35.Ra7 Nb6
+36.Re7 Bd6 37.Re8+ Bf8 38.Nxe6  1-0
+
+[Event "Sharjah Grand Prix 2017"]
+[Site "Sharjah UAE"]
+[Date "2017.02.27"]
+[Round "9.7"]
+[White "Vallejo Pons,F"]
+[Black "Tomashevsky,E"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2709"]
+[BlackElo "2711"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "2205530"]
+[BlackFideId "4147235"]
+[EventDate "2017.02.18"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Bg5 h6 6.Bh4 d6 7.e3 Nbd7 8.Bd3 Bxc3+
+9.Qxc3 b6 10.Ne2 Bb7 11.O-O Be4 12.f3 Bxd3 13.Qxd3 Re8 14.e4 Nf8 15.Rad1 Ng6
+16.Bf2 c6 17.b4 e5 18.dxe5 dxe5 19.a4 Qc7 20.c5 bxc5 21.Bxc5 a5 22.Rb1  1/2-1/2

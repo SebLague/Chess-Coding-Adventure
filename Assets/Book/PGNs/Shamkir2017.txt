@@ -1,0 +1,1153 @@
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.21"]
+[Round "1.2"]
+[White "Wojtaszek,R"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2811"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "1118358"]
+[BlackFideId "4101588"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 13.a4 Bb7 14.Bd3 Nf6 15.Rfe1 h6
+16.a5 bxa5 17.Rxa5 Qc7 18.Rc1 Qd8 19.Re1 Qc7 20.Qb4 Rfb8 21.Rc5 Qf4 22.Qd2 Qxd2
+23.Nxd2 Rd8 24.Nb3 a5 25.Rxa5 Rxa5 26.Nxa5 Rxd4 27.Nxb7 Rxd3 28.f3 Nh5 29.Nc5 Rc3
+30.Na4 Rc2 31.g3 Nf6 32.Re3 Nd7 33.Rc3 Re2 34.Nc5 Ne5 35.h4 g5 36.hxg5 hxg5
+37.Kf1 Ra2 38.f4 Ng4 39.fxg5 Kg7 40.Rd3 Kg6 41.Nb3 Ne5 42.Rc3 Kxg5 43.Rc5 Kf6
+44.Nd4 Ra4 45.Nc6 Ng4 46.e5+ Kf5 47.Nd8 Kg6 48.Nc6 Ra2 49.Rc3 Kg5 50.Ke1 Ra8
+51.Ke2 Ra6 52.Kd2 Rb6 53.Rc4 Rb2+ 54.Ke1 Ne3 55.Rc3 Rb1+ 56.Ke2 Ng4 57.Rf3 Rb2+
+58.Ke1 Rb7 59.Rc3 Rb5 60.Ke2 Rd5 61.Rc4 Nh6 62.Ra4 Rc5 63.Ra6 Kg4 64.Kf2 Rc2+
+65.Ke1 Rc5 66.Kf2 Kh3 67.Kf3 Rc3+ 68.Kf4 Rxg3 69.Nd8 Rg4+ 70.Kf3 Rg3+ 71.Kf4 Rg6
+72.Ra7 Rg4+ 73.Kf3 Rg8 74.Rd7 Kh4 75.Ke2 Rf8 76.Rd6 Re8 77.Rd7 Rf8 78.Rd6 Nf5
+79.Rd7 Kg4 80.Nxf7 Kf4 81.Ra7 Nd4+ 82.Kd3 Nc6 83.Rc7  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.21"]
+[Round "1.1"]
+[White "Eljanov,P"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2710"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "14102951"]
+[BlackFideId "13400924"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.O-O Nd7 7.c3 O-O 8.d4 Bd6
+9.Bg5 f6 10.Qb3+ Kh8 11.Bh4 b6 12.Nbd2 Ba6 13.Rfe1 Qe7 14.dxe5 Nxe5 15.Nxe5 Qxe5
+16.Bg3 Qe7 17.Bxd6 cxd6 18.Rad1 Bc8 19.Qa4 b5 20.Qa5 Bg4 21.f3 Be6 22.Nf1 d5
+23.exd5 Qc5+ 24.Ne3 Bxd5 25.a3 Rfe8 26.Qb4 Qb6 27.Qd4 Qxd4 28.Rxd4 Re7 29.Kf2 Rae8
+30.Rdd1 Bb3 31.Nf5 Rxe1 32.Rxe1 Rxe1 33.Kxe1 Be6 34.Nd4 Bd5 35.Kd2 a6 36.Ke3 Kg8
+37.Nf5 Kf7 38.Kd4 Be6 39.Ne3 Ke7 40.Kc5 Kd7 41.Kb6 f5 42.f4 g5 43.g3 gxf4
+44.gxf4 Kd6 45.Kxa6 Kc7 46.Ka5  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.21"]
+[Round "1.5"]
+[White "Topalov,V"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2761"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "2900084"]
+[BlackFideId "400041"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.a5 Be6 11.Bxe6 fxe6 12.Nbd2 Rb8 13.c3 Qe8 14.d4 bxc3 15.bxc3 exd4
+16.cxd4 Rb5 17.Nc4 Qg6 18.Qe2 Nd7 19.Bd2 Bf6 20.Bc3 Rb3 21.Qc2 Rb5 22.Na3 Rb7
+23.Qe2 Ra8 24.Rac1 Nd8 25.Nc4 Rb5 26.e5 Be7 27.exd6 cxd6 28.Bd2 Qf7 29.g3 Rab8
+30.Bf4 Qf8 31.h4 h6 32.Kg2 Nf6 33.Bd2 Nd5 34.Ne3 Nxe3+ 35.fxe3 Qe8 36.e4 Nb7
+37.Qc4 Bd8 38.Qc6 Bxa5 39.Bxa5 Rxa5 40.Re2 Qxc6 41.Rxc6 Rf8 42.Rb6 Ra3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.21"]
+[Round "1.3"]
+[White "So,W"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2772"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "13401319"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.Nd2 a5
+9.c4 Nb6 10.b3 a4 11.Bb2 axb3 12.axb3 Rxa1+ 13.Bxa1 Qa3 14.Qd1 Bb4 15.Bd3 Qa5
+16.Ke2 d6 17.Qc2 dxe5 18.Bb2 Qc5 19.Nf3 Bg4 20.Bxh7 Nd7 21.Bf5 Bxf3+ 22.Kxf3 g6
+23.Bxd7+ Kxd7 24.Qe4 Re8 25.Ke2 Kc8 26.Rd1 f5 27.Qh4 Qe7 28.Qg3 g5 29.Bc3 Bc5
+30.Bd2 f4 31.Qh3+ Kb7 32.b4 Bd4 33.Qd3 Rd8 34.b5 Qe6 35.bxc6+ Kxc6 36.f3 Rb8
+37.Be1 g4 38.Rd2 gxf3+ 39.Qxf3+ e4  0-1
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.21"]
+[Round "1.4"]
+[White "Karjakin,Sergey"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2755"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "5007003"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 h6 7.Bh4 O-O 8.e3 Bf5
+9.Qb3 Bxc3+ 10.Qxc3 Nbd7 11.Nd2 Rc8 12.Be2 c5 13.O-O Qb6 14.Rfc1 Rfe8 15.Kf1 Ne4
+16.Nxe4 dxe4 17.a4 cxd4 18.Qxd4 Qxd4 19.exd4 Nb6 20.Rc5 Rxc5 21.dxc5 Nd5
+22.Rd1 Nf4 23.Bb5 Rc8 24.Rd8+ Rxd8 25.Bxd8 Nd3 26.c6 bxc6 27.Bxc6 Nxb2 28.Ke2 Nc4
+29.Be7 Ne5 30.Bb5 Bc8 31.Bd6 a6 32.Bxe5 axb5 33.axb5 f6 34.Bd6 Kf7 35.Ke3 Bd7
+36.Kxe4 Bxb5 37.Kf3 h5 38.h4 g6 39.g3 Ke6 40.Ba3 Bc6+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.22"]
+[Round "2.1"]
+[White "Adams,Mi"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2822"]
+[ECO "A15"]
+[Opening "English, 1...Nf6 (Anglo-Indian defense)"]
+[WhiteFideId "400041"]
+[BlackFideId "5202213"]
+[EventDate "2017.04.21"]
+
+1.c4 Nf6 2.g3 c6 3.Bg2 d5 4.Nf3 dxc4 5.O-O Nbd7 6.Na3 Nb6 7.Qc2 Be6 8.Ne5 h5
+9.b3 cxb3 10.axb3 h4 11.Bb2 Qc8 12.Rfc1 hxg3 13.hxg3 Bd5 14.Nf3 g6 15.Nc4 Bg7
+16.Bd4 c5 17.Nxb6 axb6 18.b4 c4 19.Rxa8 Qxa8 20.d3 b5 21.e4 Bc6 22.dxc4 Bxe4
+23.Qe2 O-O 24.Bxf6 Bxf3 25.Bxf3 Bxf6 26.c5 Rd8 27.Kg2 Qa3 28.Rc2 Qxb4 29.Bxb7 Rd7
+30.Bc6 Rc7 31.Qxb5 Qxb5 32.Bxb5 Bd4 33.c6 Be5 34.Ra2 Rc8 35.Ra7 Bd6 36.Kf3 Rb8
+37.Rb7 Rxb7 38.cxb7 e6 39.Ke4 Kf8 40.g4 g5 41.f3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.22"]
+[Round "2.2"]
+[White "Wojtaszek,R"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2741"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[WhiteFideId "1118358"]
+[BlackFideId "2900084"]
+[EventDate "2017.04.21"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Nh4 Bg6 7.Nxg6 hxg6 8.Bd3 c5
+9.Qb3 Qd7 10.cxd5 exd5 11.dxc5 Nc6 12.Bd2 Bxc5 13.Rc1 Rd8 14.Na4 Bd6 15.Nc5 Bxc5
+16.Rxc5 d4 17.Bb5 O-O 18.Bxc6 bxc6 19.f3 Qe7 20.Rc2 Nd5 21.Kf2 Rb8 22.Qa3 Rxb2
+23.Qxb2 dxe3+ 24.Bxe3 Qxe3+ 25.Kg3 Qf4+ 26.Kf2 Rb8 27.Qc1 Qd4+ 28.Kg3 Ne3
+29.Rc5 Rb2 30.Rg1 Rxa2 31.h3 Qd6+ 32.f4 Qd3 33.Kh2 Qe4 34.Rg5 Rc2  0-1
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.22"]
+[Round "2.3"]
+[White "Mamedyarov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2783"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "13401319"]
+[BlackFideId "14109603"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6
+9.Nc3 O-O 10.Be3 Bg4 11.h3 Bh5 12.O-O Nxd4 13.Bxd4 Bxf3 14.gxf3 Qg5+ 15.Kh1 Qf5
+16.fxe4 Qxh3+ 17.Kg1 Bxd4 18.Qxd4 Qg4+ 19.Kh1 Qh3+ 20.Kg1 Qg4+ 21.Kh1 Qh3+
+22.Kg1  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.22"]
+[Round "2.4"]
+[White "Kramnik,V"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2710"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "Torre attack"]
+[WhiteFideId "4101588"]
+[BlackFideId "13400924"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.c3 O-O 5.Nbd2 d5 6.e3 Nbd7 7.Be2 Re8 8.O-O e5
+9.Bh4 c6 10.Bg3 e4 11.Ne5 Nxe5 12.Bxe5 Bf8 13.Bg3 Bd6 14.Bh4 h6 15.c4 Be6
+16.Rc1 Kg7 17.cxd5 cxd5 18.Nb1 Qb8 19.Kh1 Nd7 20.Bb5 Bxh2 21.g3 g5 22.Bxd7 Bxd7
+23.Kxh2 gxh4 24.Nc3 Qd6 25.Qh5 hxg3+ 26.fxg3 f5 27.Ne2 Rac8 28.Nf4 b6 29.Rg1 Rf8
+30.Kh1 Rc6 31.Qh4 Rxc1 32.Rxc1 Rc8 33.Rf1 Rf8 34.Rf2 Rf7 35.Rc2 Rf8 36.Qh5 Rf7
+37.a3 Re7 38.b4 Rf7 39.Qh4 Rf8 40.Nh5+ Kg6 41.Nf4+ Kg7 42.Qh5 Rf7 43.Kh2 Re7
+44.Qe2 Be8 45.Qa6 Bf7 46.Qc8 Qd7 47.Qb8 Qb7 48.Qxb7 Rxb7 49.a4 Kf6 50.Rc6+ Kg5
+51.Kh3 Rd7 52.a5 bxa5 53.bxa5 Rb7 54.a6 Rb3 55.Rc7 Kf6 56.Rxa7 Rxe3 57.Rc7 Ra3
+58.a7 Ra2 59.Rb7 e3 60.g4 fxg4+ 61.Kxg4 h5+ 62.Kf3 Ra3 63.Ng2 h4 64.Nxe3 h3
+65.Kf4 Be6 66.Nf1 Ra4 67.Kg3 Ra3+ 68.Kf4 Ra4 69.Kf3 Ra3+ 70.Ne3 Kg5 71.Rg7+ Kf6
+72.Rc7 Kg5 73.Rg7+ Kf6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.22"]
+[Round "2.5"]
+[White "Harikrishna,P"]
+[Black "Eljanov,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2751"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[WhiteFideId "5007003"]
+[BlackFideId "14102951"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 b6 7.d5 exd5 8.cxd5 Nxd5
+9.Bxh7+ Kxh7 10.Qxd5 Bxc3+ 11.bxc3 Qf6 12.Bb2 Nc6 13.O-O-O Kg8 14.h4 Ba6
+15.h5 Qh6 16.Nh4 Qe6 17.Qxe6 dxe6 18.h6 Bc4 19.Nf3 Rad8 20.Rxd8 Rxd8 21.Rh4 b5
+22.Ba3 gxh6 23.Bxc5 Bxa2 24.Nd4 Rd5 25.Rg4+ Kh7 26.Bf8 Ne5 27.Rg7+ Kh8 28.Rg3 Nd3+
+29.Kc2 Nxf2 30.Rf3 Ne4 31.Rxf7 Rg5 32.Rxa7 Rxg2+ 33.Kc1 Nxc3 34.Bxh6 b4 35.Bf4 Bd5
+36.Be5+ Kg8 37.Rc7 Na2+ 38.Kb1 Nc3+ 39.Kc1 Ra2 40.Rc8+ Kf7 41.Nc2 Ne2+ 42.Kd1 b3
+43.Kxe2 Be4 44.Kd2 Kg6 45.Bd4 bxc2 46.Rg8+ Kh5 47.Rh8+ Kg4 48.Rg8+ Kf3 49.Rf8+ Bf5
+50.Kc1 Ra4 51.Rb8 Ra3 52.Rf8 Ke2 53.Rh8 Rb3 54.Rh2+ Kf1  0-1
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.23"]
+[Round "3.1"]
+[White "Radjabov,T"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2755"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "5007003"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 O-O 8.Rc1 dxc4
+9.Bxc4 c5 10.O-O cxd4 11.Nxd4 Bd7 12.Ne4 Qe7 13.Bd3 Nc6 14.Nb3 Na5 15.Rc7 Rfd8
+16.Nxa5 Bxa5 17.Rxb7 Qf8 18.Qh5 Bb6 19.Ng5 f5 20.Bb5 Bxb5 21.Nxe6 Be8 22.Qf3 Qf6
+23.Rxg7+ Kh8 24.Qb7 Rab8 25.Rh7+ Kg8 26.Rg7+ Kh8 27.Rh7+ Kg8 28.Rg7+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.23"]
+[Round "3.2"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2811"]
+[ECO "D55"]
+[Opening "QGD"]
+[Variation "Neo-orthodox variation, 7.Bh4"]
+[WhiteFideId "2900084"]
+[BlackFideId "4101588"]
+[EventDate "2017.04.21"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Bg5 Be7 5.e3 h6 6.Bh4 O-O 7.Nf3 Nbd7 8.Rc1 c5
+9.dxc5 Nxc5 10.cxd5 g5 11.Bg3 Nxd5 12.Nxd5 Qxd5 13.Qxd5 exd5 14.Be2 Bd7 15.O-O Rac8
+16.Be5 g4 17.Nd4 h5 18.Nb5 f6 19.Bd4 Ne6 20.Nxa7 Ra8 21.Nb5 Rxa2 22.Bc3 Kf7
+23.Rcd1 Bc6 24.f3 Bc5 25.Kh1 Bxe3 26.Nd6+ Kg8 27.fxg4 Nf4 28.Nf5 Nxe2 29.Nxe3 Nxc3
+30.bxc3 hxg4 31.Rd4 f5 32.Kg1 Bb5 33.Rb1 Bc6 34.Rf1 Bb5 35.Rb1 Bc6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.23"]
+[Round "3.3"]
+[White "Eljanov,P"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2772"]
+[ECO "E68"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation, 8.e4"]
+[WhiteFideId "14102951"]
+[BlackFideId "13401319"]
+[EventDate "2017.04.21"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d6 6.c4 Nbd7 7.Nc3 e5 8.e4 exd4
+9.Nxd4 Re8 10.b3 a6 11.Be3 Rb8 12.a4 a5 13.Ndb5 b6 14.Qc2 Nc5 15.Rad1 Bb7
+16.f3 Qe7 17.Rfe1 Rbd8 18.Bf2 c6 19.Nd4 Qc7 20.g4 Nfd7 21.Bh4 Bf6 22.Bg3 Na6
+23.Na2 Ndc5 24.f4 Qe7 25.g5 Bg7 26.h4 f6 27.gxf6 Bxf6 28.h5 Qg7 29.Bf2 Nc7
+30.hxg6 hxg6 31.Nc3 N7e6 32.Nce2 Nxd4 33.Nxd4 Rd7 34.Nf3 Bc8 35.e5 dxe5 36.fxe5 Rxd1
+37.Qxd1 Be7 38.Nd4 Bg5 39.Bxc6 Rf8 40.Nf3 Qh6 41.Bxc5 bxc5 42.Qd5+ Kg7 43.e6 Rf5
+44.Re5 Qh3 45.Qxc5 Qg3+ 46.Kf1 Rxf3+ 47.Bxf3 Qxf3+ 48.Qf2 Qd1+ 49.Qe1 Qd3+
+50.Qe2 Qg3 51.Qe4 Qh3+ 52.Qg2 Qd3+ 53.Qe2 Qg3 54.Qe4 Bh4 55.Qe3 Qh2 56.Rd5 Qh1+
+57.Ke2 Qe1+ 58.Kf3 Qg3+ 59.Ke2 Qe1+ 60.Kd3 Qd1+ 61.Ke4 Bb7 62.Ke5 Bxd5 63.cxd5 Be7
+64.Qa7 Qe2+ 65.Kf4 g5+ 66.Kg3 Kf6  0-1
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.23"]
+[Round "3.4"]
+[White "So,W"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2745"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[WhiteFideId "5202213"]
+[BlackFideId "1118358"]
+[EventDate "2017.04.21"]
+
+1.Nf3 d5 2.d4 Nf6 3.Bf4 Bf5 4.e3 e6 5.c4 Bxb1 6.Qxb1 Bb4+ 7.Kd1 Bd6 8.Bg5 h6
+9.Bxf6 Qxf6 10.c5 Bf8 11.Qc2 c6 12.b4 a6 13.Bd3 Nd7 14.Ke2 g5 15.h3 Bg7 16.a4 Qe7
+17.Rad1 O-O 18.g4 e5 19.Bh7+ Kh8 20.Bf5 exd4 21.h4 Ne5 22.Nxd4 gxh4 23.Bd3 Qg5
+24.Rdg1 Nxd3 25.Qxd3 Bxd4 26.Qxd4+ Qg7 27.Qd2 Qf6 28.g5 hxg5 29.f4 Rg8 30.fxg5 Qe5
+31.Rxh4+ Kg7 32.g6 Rh8 33.gxf7+ Kxf7 34.Qd4 Qxd4 35.Rxd4 Rag8 36.Rf1+ Ke7
+37.Rdf4 Rf8 38.Rxf8 Rxf8 39.Rxf8 Kxf8 40.e4 dxe4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.23"]
+[Round "3.5"]
+[White "Karjakin,Sergey"]
+[Black "Adams,Mi"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2761"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "14109603"]
+[BlackFideId "400041"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 a6 5.cxd5 exd5 6.Bf4 Bd6 7.Bg3 O-O 8.e3 Bf5
+9.Qb3 Bxg3 10.hxg3 Nc6 11.Be2 Qd6 12.O-O Ne7 13.Ne5 h5 14.Rfc1 Ng4 15.Na4 b6
+16.Qc3 Rfc8 17.Nd3 Bd7 18.b3 Ng6 19.Qb4 Qf6 20.Nc3 Qf5 21.a4 a5 22.Qa3 Nf6
+23.Ra2 Qg5 24.Ne1 c5 25.Nf3 Qh6 26.dxc5 Rxc5 27.Nb5 Rac8 28.Rxc5 Rxc5 29.b4 axb4
+30.Qxb4 Ne4 31.Bf1 h4 32.gxh4 Bxb5 33.axb5 Nxh4 34.Nxh4 Qxh4 35.Qd4 Rc1 36.Qe5 Qd8
+37.Qf5 g6 38.Qe5 Qc8 39.g3 Rxf1+  0-1
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.24"]
+[Round "4.5"]
+[White "Kramnik,V"]
+[Black "Harikrishna,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2755"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4101588"]
+[BlackFideId "5007003"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a3 O-O
+9.Nc3 Nb8 10.Ne2 Nbd7 11.c3 Bb7 12.Ng3 c5 13.Re1 Rc8 14.Nf5 c4 15.dxc4 Bxe4
+16.Nxe7+ Qxe7 17.cxb5 axb5 18.Bg5 Nc5 19.Ba2 h6 20.Bh4 g5 21.Bg3 Bh7 22.Qe2 Kg7
+23.Rad1 Nfe4 24.Rd5 f5 25.Rxe5 dxe5 26.Bxe5+ Nf6 27.Qxb5 Ne4 28.Bd4 Rfd8
+29.h3 Rb8 30.Qe2 Bg8 31.Bb1 Qb7 32.b4 Re8 33.c4 Qc6 34.Qb2 Rbd8 35.c5 Qe6
+36.b5 Kf8 37.c6 g4 38.hxg4 fxg4 39.Bxe4 gxf3 40.Bxf6 Rd6 41.Bg7+ Kf7 42.Be5  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.24"]
+[Round "4.4"]
+[White "Topalov,V"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2822"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "5202213"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8 13.Bf4 d5 14.Bd3 g6 15.Nd2 c6
+16.Nf3 Ng7 17.Qe2 Bf5 18.Bxf5 Nxf5 19.Re1 Ng7 20.Ne5 Bxe5 21.Qxe5 f6 22.Qe7 Qxe7
+23.Rxe7 Re8 24.Rxe8+ Nxe8 25.Kf1 Kf7 26.Ke2 h5 27.a4 g5 28.Bb8 a6 29.h3 Ng7
+30.a5 Kg6 31.g4 f5 32.f3 Ne6 33.b4 Nd8 34.Bc7 Nf7 35.Kf2 hxg4 36.hxg4 Kf6
+37.Kg3 Ke6 38.Bb8 Nh6 39.Kh3 fxg4+ 40.fxg4 Ng8 41.Ba7 Nf6 42.Bc5 Ne4 43.Kg2 Nxc3
+44.Kf3 Ne4 45.Kg2 Nf6 46.Kf3 Kd7 47.Kg3 Kc7 48.Kf3 Ne4 49.Bb6+ Kd7 50.Bc5 Nd6
+51.Ke3 Kc7 52.Bb6+ Kc8 53.Bc5 Nc4+ 54.Ke2 Kd7 55.Kd3 Ke6 56.Ke2 Kf6 57.Kf3 Nd2+
+58.Ke2 Ne4 59.Ke3 Kg6 60.Ke2 Nf6 61.Kf3 Kf7 62.Kg3 Ke6 63.Kf3 Kf7 64.Kg3 Ke6  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.24"]
+[Round "4.3"]
+[White "Mamedyarov,S"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2710"]
+[ECO "E94"]
+[Opening "King's Indian"]
+[Variation "orthodox variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "13400924"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O exd4 8.Nxd4 Re8
+9.f3 Nc6 10.Be3 Nh5 11.Qd2 Nf4 12.Rfd1 Nxd4 13.Bxd4 Bxd4+ 14.Qxd4 Nxe2+ 15.Nxe2 b6
+16.Nc3 Bb7 17.Nd5 Bxd5 18.cxd5 Qg5 19.Rac1 Rac8 20.Qd2 Qe5 21.Qd4 Qg5 22.Qd2 Qe5
+23.Qd4 Qg5 24.Qd2  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.24"]
+[Round "4.1"]
+[White "Wojtaszek,R"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2783"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "1118358"]
+[BlackFideId "14109603"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 Nxd5 6.g3 Nc6 7.Bg2 cxd4 8.Nxd4 Nxc3
+9.bxc3 Nxd4 10.Qxd4 Qxd4 11.cxd4 Bd6 12.a4 Rb8 13.Ba3 Ke7 14.Bxd6+ Kxd6 15.Kd2 Bd7
+16.Rhc1 Rhc8 17.a5 Rxc1 18.Rxc1 b6 19.axb6 Rxb6 20.Ra1 Rb2+ 21.Kd1 Rb4 22.Ra6+ Ke7
+23.Rxa7 Rxd4+ 24.Ke1 Ra4 25.Rxa4 Bxa4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.24"]
+[Round "4.2"]
+[White "Adams,Mi"]
+[Black "Eljanov,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2751"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "400041"]
+[BlackFideId "14102951"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 a6 7.a4 Ba7 8.Na3 h6 9.Nc2 O-O
+10.Be3 Bxe3 11.Nxe3 Be6 12.Bxe6 fxe6 13.a5 d5 14.Qb3 Qd6 15.exd5 exd5 16.c4 Kh7
+17.Nxd5 Rad8 18.Qxb7 Nxd5 19.cxd5 Qxd5 20.Rac1 Rd6 21.Nd2 Rg6 22.Ne4 Qxd3
+23.Ng3 Nd4 24.Rc3 Ne2+ 25.Nxe2 Qxe2 26.Re3 Qd2 27.Qe4 Qxb2 28.Rg3 Rf6 29.Rxg6 Rxg6
+30.g3 Qd4 31.Qf5 Qd5 32.Re1 Qxa5 33.Rxe5 Qa1+ 34.Kg2 Qc1 35.h4 Qc6+ 36.Kg1 Qf6
+37.Qe4 Qc6 38.Qd3 Kh8 39.Qd8+ Kh7 40.Qd3 Kh8 41.Qd8+ Kh7 42.Qd3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.25"]
+[Round "5.3"]
+[White "Harikrishna,P"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2772"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "5007003"]
+[BlackFideId "13401319"]
+[EventDate "2017.04.21"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 g6 4.O-O Bg7 5.d4 O-O 6.Nbd2 a5 7.c4 a4 8.cxd5 Qxd5
+9.Nb1 Rd8 10.Bf4 Qa5 11.Qc1 Nc6 12.Na3 Nxd4 13.Nxd4 Rxd4 14.Qxc7 Nd5 15.Qxa5 Rxa5
+16.Bc1 Be6 17.Nc2 Rc4 18.Na3 Rd4 19.Nc2 Rc4 20.Na3 Rc8 21.Bd2 Ra6 22.e4 Nb6
+23.e5 Nd5 24.f4 Rb6 25.Rac1 Rxc1 26.Bxc1 f6 27.Rd1 Nc7 28.Rd4 fxe5 29.Rxa4 Rd6
+30.Bf3 Bxa2 31.fxe5 Bxe5 32.Nc4 Ra6 33.Rb4 Bxc4 34.Rxc4 b5 35.Rc2 Kg7 36.Kg2 Ne6
+37.Rc6 Rxc6 38.Bxc6 Nd4 39.Bd7 Kf6 40.b4 e6 41.Be3 Nc2 42.Bd2 Nd4 43.Be3 Nf5
+44.Bb6 Bc3 45.g4 Nh4+ 46.Kg3 g5 47.Bd8+ Kg6 48.Be7 Be1+ 49.Kh3 Kf7 50.Bxg5 Ng6
+51.Bxb5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.25"]
+[Round "5.5"]
+[White "Radjabov,T"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2761"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "13400924"]
+[BlackFideId "400041"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Ne5 Nc6 8.Bxc6 bxc6
+9.Nxc6 Qe8 10.Nxe7+ Qxe7 11.Qc2 c5 12.Qxc4 cxd4 13.Qxd4 e5 14.Qh4 Qb7 15.Nc3 Be6
+16.Bg5 Nd5 17.Nxd5 Qxd5 18.b3 f6 19.Be3 Qb5 20.Rfe1 a5 21.f3 Rfc8 22.Kf2 a4
+23.Qe4 axb3 24.axb3 Rxa1 25.Rxa1 Qxb3 26.Ra8 Rxa8 27.Qxa8+ Kf7 28.Qe4 Kg8
+29.Qa8+ Kf7 30.Qe4 Kg8 31.Qa8+ Kf7 32.Qe4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.25"]
+[Round "5.1"]
+[White "Eljanov,P"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2745"]
+[ECO "A08"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "14102951"]
+[BlackFideId "1118358"]
+[EventDate "2017.04.21"]
+
+1.Nf3 d5 2.g3 c5 3.Bg2 Nc6 4.d4 Nf6 5.O-O e6 6.c4 dxc4 7.dxc5 Qxd1 8.Rxd1 Bxc5
+9.Nbd2 c3 10.bxc3 O-O 11.Nb3 Be7 12.Nfd4 Bd7 13.Nxc6 Bxc6 14.Bxc6 bxc6 15.c4 Rfb8
+16.f3 Kf8 17.Bd2 Ke8 18.Bc3 g6 19.Kf2 Nd7 20.Ba5 Rb7 21.Rac1 Nc5 22.Nd4 Rc8
+23.Rb1 e5 24.Rxb7 Nxb7 25.Nb3 Nxa5 26.Nxa5 Bc5+ 27.Kf1 Bb4 28.Nb3 Ke7 29.e4 f5
+30.Ke2 fxe4 31.fxe4 Rb8 32.Rb1 Bc5 33.Rd1 Bb4 34.Rc1 Rb6 35.c5 Ra6 36.Rc2 Ra4
+37.Kd3 Ba5 38.Rb2 Ke6 39.Rf2 Bd8 40.Rf8 Be7 41.Rf2 h5 42.Rc2 Ra3 43.Kc3 Ra4
+44.Kd3 Ra3 45.Kc3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.25"]
+[Round "5.2"]
+[White "So,W"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2811"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "5202213"]
+[BlackFideId "4101588"]
+[EventDate "2017.04.21"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.d4 dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bf4 a5 11.Nc3 Nbd7 12.Qd3 Bb4 13.Rfe1 Re8 14.Qc2 Bxf3 15.Bxf3 c6
+16.Red1 Qe7 17.Na2 Bd6 18.Bxd6 Qxd6 19.Nc1 Nd5 20.e4 Nb4 21.Qc3 e5 22.Nb3 Qe7
+23.Bg2 exd4 24.Rxd4 Nf8 25.Rad1 Red8 26.R1d2 Ne6 27.Rxd8+ Rxd8 28.Nxa5 Ra8
+29.Nc4 Rxa4 30.Nd6 Ra1+ 31.Bf1 Na6 32.Kg2 Nac7 33.Nf5 Qe8 34.Bc4 Ra8 35.Rd6 Qf8
+36.Rd7 Re8 37.Qe5 b5 38.Ba2 g6 39.Ne3 Re7 40.Rxe7 Qxe7 41.Ng4 Qg5 42.Nf6+ Kh8
+43.Nd7+ Qxe5 44.Nxe5 Nd4 45.Bxf7 c5 46.f4 c4 47.Kf2 Kg7 48.Ke3 Nb3 49.g4 Nc5
+50.h4 Na4 51.b3 cxb3 52.Bxb3 Nc5 53.Bd1 h6 54.Nc6 N7a6 55.Kd4 Ne6+ 56.Ke5 Nec5
+57.Bc2 b4 58.Nd4 g5 59.hxg5 hxg5 60.f5 Nd7+ 61.Kd6 Nf6 62.e5 Nxg4 63.Ne6+ Kh6
+64.f6 Nb8 65.Ba4  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.25"]
+[Round "5.4"]
+[White "Karjakin,Sergey"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2741"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Steinitz variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "2900084"]
+[EventDate "2017.04.21"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.a3 Bxc5 6.Nf3 Ne7 7.Bd3 Ng6 8.O-O Nc6
+9.b4 Bb6 10.Bb2 Nf4 11.c4 Nxd3 12.Qxd3 dxc4 13.Qxc4 Ne7 14.Nc3 Bd7 15.Qg4 Bc6
+16.Rad1 Qc7 17.Ng5 Qxe5 18.b5 h5 19.Qh4 Bxb5 20.Rfe1 Qf5 21.Nxb5 Qxb5 22.Bxg7 Nf5
+23.Nxe6 fxe6 24.Rxe6+ Kf7 25.Qf6+ Kg8 26.Bxh8 Bxf2+ 27.Kh1 Qa4 28.Red6 Rf8
+29.Qg6+ Kxh8 30.Rd7  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.27"]
+[Round "6.3"]
+[White "Kramnik,V"]
+[Black "Mamedyarov,S"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2772"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4101588"]
+[BlackFideId "13401319"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 a6 6.c3 d6 7.Re1 Ba7 8.a4 h6 9.Be3 Bxe3
+10.Rxe3 O-O 11.Nbd2 Re8 12.d4 exd4 13.cxd4 Bg4 14.Qb3 Qd7 15.Bd3 d5 16.e5 Nh5
+17.g3 f5 18.Ree1 a5 19.Rac1 Nb4 20.Bf1 f4 21.e6 Bxe6 22.Ne5 Qd6 23.Qf3 Nf6
+24.Qxf4 c6 25.f3 Nd7 26.Nb3 Rf8 27.Qe3 Bf5 28.Qd2 Na2 29.Ra1 Nb4 30.Nxd7 Bxd7
+31.Qc3 b6 32.Re5 Rae8 33.Rae1 Qg6 34.Nd2 Qc2 35.f4 Rxe5 36.dxe5 Be6 37.Qxc2 Nxc2
+38.Rc1 Nb4 39.Nf3 c5 40.h4 Kf7 41.h5 Bg4 42.Nh4 Bxh5 43.Nf5 Bg4 44.Ne3 Bd7
+45.Bg2 d4 46.Nc4 Bxa4 47.Nxb6 Bc2 48.Nc4 d3 49.Nd2 a4 50.Kf2 c4 51.Ke3 Rc8
+52.Ne4 Kf8 53.Nc3 Rb8 54.Rf1 Na6 55.f5 Rxb2 56.f6 Nc7 57.Bh3 d2 58.Bg4 a3
+59.e6 gxf6 60.Rxf6+ Kg8 61.e7 a2 62.Ra6 d1=Q 63.Nxd1 Bxd1 64.Ra8+ Kg7 65.Bxd1 Rb1
+66.Rxa2 Rxd1 67.Ra7 Ne8 68.Ra4 Rd3+ 69.Kf4 c3  0-1
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.27"]
+[Round "6.5"]
+[White "Adams,Mi"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2755"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "400041"]
+[BlackFideId "5007003"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a3 O-O
+9.Nc3 Nb8 10.Re1 Nbd7 11.Ne2 Nc5 12.Ba2 Be6 13.Bxe6 Nxe6 14.Ng3 g6 15.c3 c5
+16.d4 exd4 17.cxd4 d5 18.e5 Ne4 19.Bh6 Re8 20.dxc5 Nxg3 21.hxg3 Bxc5 22.Rc1 d4
+23.Ng5 Qd5 24.Ne4 Be7 25.Qf3 Qxe5 26.Nc5 Qf6 27.Nxe6 Qxf3 28.gxf3 fxe6 29.Rxe6 Bf8
+30.Rxe8 Rxe8 31.Bxf8 Kxf8 32.Kf1 d3 33.Rd1 Rd8 34.Ke1 Re8+ 35.Kf1 Rd8 36.Ke1 Re8+
+37.Kf1 Rd8  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.27"]
+[Round "6.4"]
+[White "So,W"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2783"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "5202213"]
+[BlackFideId "14109603"]
+[EventDate "2017.04.21"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.e3 e6 5.d4 d5 6.a3 a6 7.dxc5 Bxc5 8.b4 Ba7
+9.Bb2 O-O 10.h3 h6 11.Rc1 Re8 12.Bd3 dxc4 13.Bxc4 Qxd1+ 14.Rxd1 b5 15.Bd3 Bb7
+16.Ke2 Kf8 17.Rhg1 Rad8 18.Bb1 Ne7 19.Nd2 Bb6 20.g4 Ned5 21.Nxd5 Nxd5 22.Nb3 f6
+23.Bg6 Re7 24.Rc1 Red7 25.Rgd1 Ne7 26.Rxd7 Rxd7 27.Bb1 Rc7 28.Rxc7 Bxc7 29.Nc5 Bc8
+30.Ba2 Nd5 31.f4 Bd6 32.Bd4 Kf7 33.Kd3 Ne7 34.Ne4 Bc7 35.f5 Nc6 36.fxe6+ Bxe6
+37.Bxe6+ Kxe6 38.Nc5+ Ke7 39.Nxa6 Bd6 40.Bc5 Ne5+ 41.Ke4 Nc4 42.Kd5 Bxc5
+43.Kxc5 Nxa3 44.Nc7 Kd7 45.Nxb5 Nc2 46.Nd4 Nxe3 47.Nf5 Nd1 48.Kb6 g6 49.Nxh6 Ne3
+50.b5 f5 51.Ka6 fxg4 52.hxg4 Nd5 53.b6 Kc6 54.b7 Nc7+ 55.Ka7 Nb5+ 56.Ka8 Nc7+
+57.Kb8 Nb5 58.Ka8 Nc7+ 59.Kb8 Nb5 60.Nf7 Kb6 61.g5 Ka6 62.Nd8 Kb6 63.Kc8 Nd6+
+64.Kd7  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.27"]
+[Round "6.2"]
+[White "Topalov,V"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2751"]
+[ECO "E17"]
+[Opening "Queen's Indian"]
+[Variation "Opovcensky variation"]
+[WhiteFideId "2900084"]
+[BlackFideId "14102951"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Bd2 Bf6 8.Qc2 Nxd2
+9.Qxd2 d6 10.h4 Nd7 11.Rd1 O-O 12.Qc2 c6 13.e4 Qc7 14.Ng5 e5 15.d5 h6 16.Nf3 a6
+17.dxc6 Qxc6 18.Bf1 Rfc8 19.a4 Nc5 20.Nd2 Ne6 21.Qb1 Nd4 22.Bh3 Rf8 23.Rc1 Bd8
+24.O-O f5 25.Kh2 f4 26.Qd3 Kh8 27.b3 Bc8 28.Bxc8 Qxc8 29.Ne2 Nxe2 30.Qxe2 Ra7
+31.Rc3 b5 32.Rd3 bxa4 33.bxa4 Raf7 34.Rxd6 Bxh4 35.Rd5 f3 36.Qd3 Qg4 37.Rh1 Bg5
+38.c5 Rb8 39.Nc4 Rfb7 40.Nb6 Rxb6 41.cxb6 Rxb6 42.Rxe5 Bh4 43.Qc3 Rg6 44.Qe1 Bg5
+45.Rf5 Rd6 46.Rf8+ Kh7 47.e5 Rd3 48.e6 Be7 49.Rf4 Qh5+ 50.Kg1 Qd5 51.Qe4+ Qxe4
+52.Rxe4 Kg6 53.Kh2 Rd2 54.Rf1 Kf5 55.Re3 Kg4 56.Kg1 g5 57.Rc1 Ra2 58.Kf1 Rxa4
+59.Rc7 Bb4 60.Rc4+  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.27"]
+[Round "6.1"]
+[White "Wojtaszek,R"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2710"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[WhiteFideId "1118358"]
+[BlackFideId "13400924"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O cxd4 8.exd4 dxc4
+9.Bxc4 b6 10.Bg5 Bxc3 11.bxc3 Bb7 12.Bd3 Nbd7 13.c4 Qc7 14.Re1 Rac8 15.Qe2 h6
+16.Bd2 Rfd8 17.Rac1 Qd6 18.Bc3 Qf4 19.Qe3 Qc7 20.h3 Ba8 21.Bb2 Qb7 22.Bf1 Qb8
+23.a4 Re8 24.Nd2 Bc6 25.Ra1 Nf8 26.Qb3 Qf4 27.Qe3 Qc7 28.Bd3 Ng6 29.Bxg6 fxg6
+30.f3 g5 31.Qe5 Qd7 32.a5 b5 33.Ba3 a6 34.cxb5 Bxb5 35.Ne4 Nxe4 36.fxe4 Qf7
+37.Rac1 Red8 38.Bc5 Qf6 39.Qxf6 gxf6 40.Kf2 Kf7  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.28"]
+[Round "7.4"]
+[White "Radjabov,T"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2741"]
+[ECO "B87"]
+[Opening "Sicilian"]
+[Variation "Sozin with ...a6 and ...b5"]
+[WhiteFideId "13400924"]
+[BlackFideId "2900084"]
+[EventDate "2017.04.21"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 b5 8.Bg5 Be7
+9.Qf3 Qc7 10.e5 Bb7 11.exd6 Bxd6 12.Qe3 Bc5 13.O-O-O Nc6 14.Bxf6 gxf6 15.Nd5 Qe5
+16.Qxe5 Nxe5 17.Nc7+ Ke7 18.Nxa8 Bxg2 19.Rhe1 Bxd4 20.Rxd4 Nf3 21.Rxe6+ fxe6
+22.Rg4 Rxa8 23.Rxg2 Kf7 24.Rg3 Nd4 25.Rh3 Kg6 26.Rg3+ Kf7 27.Rh3 Kg6 28.Rg3+ Kf7  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.28"]
+[Round "7.5"]
+[White "Karjakin,Sergey"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2811"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "14109603"]
+[BlackFideId "4101588"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 O-O 6.a4 h6 7.c3 a5 8.h3 d6 9.Re1 Ba7
+10.Nbd2 Ne7 11.Nf1 Ng6 12.Ng3 c6 13.d4 exd4 14.Nxd4 Re8 15.Bd2 d5 16.exd5 Rxe1+
+17.Bxe1 Nxd5 18.Nb5 Bb6 19.Bxd5 Qxd5 20.Qxd5 cxd5 21.Ne2 Bd7 22.Nbd4 Re8
+23.Kf1 Ne5 24.Bd2 Nc4 25.Bc1 g5 26.b3 Nd6 27.Ba3 Ne4 28.Rd1 f5 29.f3 Nf6
+30.Ng3 Bxd4 31.Rxd4 f4 32.Ne2 b5 33.axb5 Bxb5 34.c4 Ba6 35.Nc3 a4 36.Kf2 axb3
+37.cxd5 Rc8 38.Bb2 Nd7 39.d6 Rc6 40.g3 fxg3+ 41.Kxg3 Kf7 42.f4 Kg6 43.fxg5 hxg5
+44.h4 gxh4+ 45.Kxh4 Rc4 46.Rxc4 Bxc4 47.Ne4 Kf5 48.Nd2 Bd5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.28"]
+[Round "7.2"]
+[White "Eljanov,P"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2822"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "14102951"]
+[BlackFideId "5202213"]
+[EventDate "2017.04.21"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.O-O Nd7 5.h3 Bh5 6.d4 e6 7.c4 Be7 8.Nc3 dxc4
+9.b3 cxb3 10.Qxb3 Ngf6 11.Qxb7 O-O 12.Bf4 Qa5 13.g4 Bg6 14.g5 Nh5 15.Bd2 Rfd8
+16.Qxc6 Rac8 17.Qb5 Qxb5 18.Nxb5 a6 19.Na7 Rc7 20.Ba5 Rxa7 21.Bxd8 Bxd8 22.Rfc1 Kf8
+23.e3 Be4 24.Rc8 Ke7 25.Nd2 Bxg2 26.Kxg2 f6 27.h4 g6 28.Ne4 f5 29.Nc5 Nxc5
+30.dxc5 Rc7 31.Ra8 Rxc5 32.Rd1 Bc7 33.Rh8 Be5 34.Rhd8 Rc7 35.Ra8 f4 36.e4 Rc3
+37.f3 Ng3 38.Rxa6 Rc2+ 39.Kh3 Rc3 40.Kg2 Rc2+ 41.Kh3 Rc3  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.28"]
+[Round "7.3"]
+[White "Mamedyarov,S"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2761"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13401319"]
+[BlackFideId "400041"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.a3 Nc6 11.Bd3 Bd6 12.Qa4 Bxf4 13.Qxf4 d4 14.O-O dxe3 15.Rad1 Qf6
+16.fxe3 Qxf4 17.exf4 Re8 18.Bb5 Be6 19.Ne5 Rac8 20.Rfe1 Kf8 21.b4 Re7 22.Nxc6 bxc6
+23.Ba6 Rce8 24.Kf2 Bd5 25.Rxe7 Kxe7 26.Re1+ Kd7 27.Rxe8 Kxe8 28.g3 Kd7 29.Ke3 Kd6
+30.Kd4 f6 31.Bd3 h6 32.Bc4 Bf3 33.Bd3 Bd5 34.Bc4 Bf3 35.Bd3 Bd5 36.Bc4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.28"]
+[Round "7.1"]
+[White "Harikrishna,P"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2745"]
+[ECO "E53"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, main line with ...c5"]
+[WhiteFideId "5007003"]
+[BlackFideId "1118358"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.cxd5 exd5 8.dxc5 Nbd7
+9.O-O Nxc5 10.Ne2 Bg4 11.Nfd4 Nxd3 12.Qxd3 Bxe2 13.Nxe2 Bd6 14.Bd2 Be5 15.Bc3 Qd6
+16.Bxe5 Qxe5 17.Qd4 Qxd4 18.Nxd4 Rfc8 19.Rac1 Kf8 20.f3 h5 21.Rfd1 a6 22.Kf2 g6
+23.Ne2 Ke7 24.Nc3 b5 25.Rd4 Rc5 26.Rcd1 Rac8 27.Ke1 Ke6 28.a4 bxa4 29.Rxa4 a5
+30.Ne2 Ke7 31.Nd4 Nd7 32.Rda1 Ne5 33.Rxa5 Nd3+ 34.Ke2 Nxb2 35.Ra7+ R8c7 36.R1a5 Rxa7
+37.Rxc5 Rd7 38.f4 Na4 39.Ra5 Nb6 40.Nc6+ Kd6 41.Ne5 Rc7 42.Ra6 Kc5 43.Kd3 Nc4
+44.Ra8 Kd6 45.Rd8+ Ke6 46.Nf3 Nb2+ 47.Kd2 Nc4+ 48.Ke2 Re7 49.Nd4+ Kf6 50.Nc2 Rb7
+51.Kd3 Rb3+ 52.Kd4 Rb2 53.Kc3 Rxc2+ 54.Kxc2 Nxe3+ 55.Kd2 Nxg2 56.Rxd5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.29"]
+[Round "8.1"]
+[White "Karjakin,Sergey"]
+[Black "Eljanov,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "14102951"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Ne8 10.d5 Bc5 11.Re1 d6 12.Nc3 Bf5 13.Bd3 Qh4 14.g3 Qh3 15.Ne4 Bxe4
+16.Rxe4 Bxf2+ 17.Kxf2 Qxh2+ 18.Kf3 Qh5+ 19.g4 Qh3+ 20.Ke2 Qg2+ 21.Ke1 Nf6
+22.Qe2 Qg3+ 23.Qf2 Nxe4 24.Qxg3 Nxg3 25.Kf2 Rfe8 26.Kxg3 Re5 27.Bc4 Re1 28.b3 f6
+29.Bb2 Rxa1 30.Bxa1 Kf7 31.Bd4 a6 32.a4 Rh8 33.Be2 Re8 34.Kf2 Ke7 35.a5 Rf8
+36.Kg3 Kd7 37.b4 Re8 38.Bd3 Ke7 39.Bxh7 Kd8 40.g5 fxg5 41.Bxg7 Re3+ 42.Kg4 Ra3
+43.Bd4 c5 44.dxc6 bxc6 45.Bb6+ Kc8 46.Be4 Ra4 47.c3 c5 48.Bc2 Ra3 49.bxc5 dxc5
+50.c4 Ra2 51.Bf5+ Kb7 52.Be4+ Kc8 53.Bc6 Rc2 54.Bd5 Ra2 55.Kxg5 Kd7 56.Bb7 Rb2
+57.Bxa6 Kc6 58.Kf6  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.29"]
+[Round "8.2"]
+[White "Kramnik,V"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2811"]
+[BlackElo "2761"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "4101588"]
+[BlackFideId "400041"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.c3 h6 7.Re1 O-O 8.Nbd2 a6
+9.Nf1 Re8 10.a4 Ba7 11.b4 Be6 12.Bxe6 Rxe6 13.Be3 Qd7 14.b5 Ne7 15.bxa6 bxa6
+16.Bxa7 Rxa7 17.Qb3 c6 18.Rab1 Ng6 19.g3 a5 20.Ne3 Re8 21.Nc4 Kh7 22.Qc2 Qe6
+23.Ne3 d5 24.Kg2 Kg8 25.h4 Rd7 26.c4 Red8 27.cxd5 cxd5 28.Rb5 Ne7 29.Rc5 Rd6
+30.Rc1 Ra6 31.Qb2 Ng6 32.Qb7 Ne7 33.Nf5 Rd7 34.Rc7 Rb6 35.Qa7 Ra6 36.Qb8+ Kh7
+37.Rc8 Ng6 38.Rh1 Nh5 39.Ng5+ hxg5 40.hxg5 Nf4+ 41.gxf4  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.29"]
+[Round "8.3"]
+[White "Wojtaszek,R"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2772"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "1118358"]
+[BlackFideId "13401319"]
+[EventDate "2017.04.21"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qb3 Nb6 6.d4 Bg7 7.e4 Bg4 8.Bb5+ c6
+9.Ng5 O-O 10.Be2 Bxe2 11.Nxe2 Na6 12.Qh3 h6 13.Nf3 h5 14.Rg1 Nb4 15.g4 Qd7
+16.Qh4 Nc2+ 17.Kf1 Nxd4 18.Nexd4 Bxd4 19.gxh5 Bf6 20.Bg5 Bxb2 21.Re1 Qd3+
+22.Kg2 f6 23.Bh6 g5 24.Nxg5 Rf7 25.Nxf7 Kxf7 26.Re3 Qc2 27.Rg3 Bd4 28.Rg7+ Ke6
+29.Qg4+ Kd6 30.Be3 Bxe3 31.Qg3+  1-0
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.29"]
+[Round "8.4"]
+[White "So,W"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2710"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "13400924"]
+[EventDate "2017.04.21"]
+
+1.c4 c5 2.Nf3 Nc6 3.e3 e6 4.d4 d5 5.cxd5 exd5 6.Bb5 cxd4 7.Nxd4 Bd7 8.O-O Nf6
+9.b3 Bd6 10.Bb2 O-O 11.Nd2 Re8 12.Rc1 Rc8 13.N2f3 Qe7 14.Qe2 Bb8 15.Rfd1 Qd6
+16.Nxc6 bxc6 17.Ba6 Rcd8 18.Bd3 Ne4 19.Bxe4 Rxe4 20.Qc2 Rde8 21.g3 Bg4 22.Ng5 Bxd1
+23.Nxe4 Bxc2 24.Nxd6 Bxd6 25.Rxc2 Rc8 26.Kf1 f5 27.f3 Kf7 28.e4 fxe4 29.fxe4 dxe4
+30.Rc4 c5 31.Rxe4 Rc6 32.Ra4 a6 33.Ke2 g5 34.Bc1 h6 35.Re4 Be7 36.Be3 Re6
+37.Rc4 g4 38.Kd2 Rd6+ 39.Kc1 h5 40.Rxc5 Re6 41.Rc3 Bb4 42.Rd3 Rd6 43.Kc2 Ke6
+44.Bd4 Kd5 45.Ba7+ Kc6 46.Rxd6+ Kxd6 47.Kd3 Kd5 48.a4 Be7 49.Bf2 Bb4 50.Bb6 Be7
+51.Kc3 h4 52.gxh4 Bxh4 53.Bc7 Be1+ 54.Kd3 Bf2 55.b4 Bd4 56.Ke2 Kc4 57.Bd6 Bg1
+58.a5 Bxh2 59.Bxh2 Kxb4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.29"]
+[Round "8.5"]
+[White "Topalov,V"]
+[Black "Harikrishna,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2741"]
+[BlackElo "2755"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "2900084"]
+[BlackFideId "5007003"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 b5 7.Bb3 d6 8.a4 Bd7
+9.c3 Na5 10.Ba2 bxa4 11.Nbd2 O-O 12.Re1 c5 13.Bb1 Qc7 14.Bc2 c4 15.Nxc4 Nxc4
+16.dxc4 Qxc4 17.Bxa4 Be6 18.Nd2 Qc7 19.Bb3 Bxb3 20.Qxb3 Rfb8 21.Qc4 Qb7 22.Qe2 Qb5
+23.Nc4 Rc8 24.Ne3 Qxe2 25.Rxe2 g6 26.Ra4 Rc5 27.Rc2 Rac8 28.Kf1 a5 29.Rd2 Kf8
+30.Rd1 Ke8 31.f3 h5 32.Ke2 Kd7 33.Bd2 Ke6 34.Be1 Rb8 35.b4 axb4 36.cxb4 Rc6
+37.Rda1 d5 38.Ra6 Rd6 39.R1a5 dxe4 40.Nc4 exf3+ 41.gxf3 Rxa6 42.Rxa6+ Kf5
+43.Ra5 Ke6 44.Rxe5+ Kd7 45.b5 Bd8 46.Bh4 Bc7 47.Bxf6 Bxe5 48.Nxe5+ Kd6 49.Bh4 Rb7
+50.Bg3 Ke6 51.Nc6 Kd5 52.Nd8 Rxb5 53.Nxf7 Ke6 54.Nd8+ Kd7 55.Nf7  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.30"]
+[Round "9.4"]
+[White "Eljanov,P"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2751"]
+[BlackElo "2811"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "14102951"]
+[BlackFideId "4101588"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bf4 Nbd7 11.Nc3 Bd6 12.e3 Nb6 13.Qb3 Bxf4 14.gxf4 a5 15.Ne5 Bxg2
+16.Kxg2 Nbd5 17.Rg1 Rc8 18.Rac1 Nb4 19.Qc4 g6 20.Rgd1 c6 21.Qe2 Qe7 22.Nc4 Qc7
+23.Qf3 Nbd5 24.h4 Rfd8 25.b3 Nxc3 26.Rxc3 Qe7 27.Ne5 Kg7 28.Kh3 c5 29.Rdc1 b6
+30.dxc5 Rxc5 31.Rxc5 bxc5 32.Nc6 Qb7 33.Kg2 Rd5 34.Nxa5 Qb4 35.Nc4 Qxb3 36.a5 Qa2
+37.Kf1 Rh5 38.Qe2 Qb3 39.Qc2 Qb7 40.Qb2 Qa8 41.Ke2 Rxh4 42.Rb1 Qg2 43.Ne5 c4
+44.Qd4 c3 45.a6 c2 46.Rc1 Rh1 47.Rxc2 Qf1+ 48.Kd2 Qd1+ 49.Kc3 Qa1+ 50.Kb3 Qxa6
+51.Nc4 Rb1+ 52.Nb2 Ra1 53.Rc5 Ra3+ 54.Kb4 Ra2 55.Qc3 Qb6+ 56.Rb5 Qd6+ 57.Rc5 Ra8
+58.Nd3 Rb8+ 59.Ka4 Qa6+ 60.Ra5 Qb7 61.Nc5 Qb1 62.Ka3 Kg8 63.Nb3 Nd5  0-1
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.30"]
+[Round "9.3"]
+[White "Mamedyarov,S"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2741"]
+[ECO "D45"]
+[Opening "QGD semi-Slav"]
+[Variation "Stoltz variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "2900084"]
+[EventDate "2017.04.21"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O e5
+9.cxd5 cxd5 10.e4 exd4 11.Nxd5 Nxd5 12.exd5 h6 13.Nxd4 Qh4 14.Nf3 Qh5 15.Bh7+ Kh8
+16.Qf5 Qxf5 17.Bxf5 Nf6 18.Bc2 b6 19.Rd1 Bb7 20.Bb3 Rad8 21.Be3 Be7 22.Rd3 Nxd5
+23.Rad1 Nxe3 24.fxe3 Rxd3 25.Rxd3 Bxf3 26.gxf3 Rd8 27.Rxd8+ Bxd8 28.Bxf7 g5
+29.f4 gxf4 30.exf4 Kg7 31.Bd5 Bc7 32.Kg2 Bxf4 33.h3 Kf6 34.Kf3 Be5 35.b3 a5
+36.a4 Bd6 37.Ke4 Be5 38.Kf3 Bd6 39.Ke4 Be5 40.Kf3 Bd6 41.Ke4  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.30"]
+[Round "9.2"]
+[White "Harikrishna,P"]
+[Black "So,W"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2755"]
+[BlackElo "2822"]
+[ECO "A14"]
+[Opening "English"]
+[Variation "Neo-Catalan declined"]
+[WhiteFideId "5007003"]
+[BlackFideId "5202213"]
+[EventDate "2017.04.21"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 e6 4.O-O Be7 5.c4 O-O 6.d4 dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bg5 Nbd7 11.Nbd2 Rc8 12.Bxf6 Nxf6 13.Nb3 Be4 14.Qc1 c5 15.dxc5 Qc7
+16.Rd1 a5 17.c6 Bxc6 18.Nfd4 Bxg2 19.Qxc7 Rxc7 20.Kxg2 a4 21.Nxb5 Rb7 22.N3d4 Bc5
+23.Nc3 Bxd4 24.Rxd4 Rxb2 25.Rxa4 Rc2 26.Ne4 Rxe2 27.Nxf6+ gxf6 28.Rg4+ Kh8
+29.a4 Rb8 30.Rc1 f5 31.Rf4 Rbb2 32.g4 Kg7 33.Rc3 Kf6 34.Kg3 Rbc2 35.Rxc2 Rxc2
+36.gxf5 e5 37.Rh4 Ra2 38.Rh6+ Kxf5 39.Rxh7 Ke6 40.Rh8 Rxa4 41.Re8+ Kf5 42.f3 Ra6
+43.Re7 Rg6+ 44.Kf2 Rh6 45.Rxf7+  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.30"]
+[Round "9.1"]
+[White "Adams,Mi"]
+[Black "Wojtaszek,R"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2745"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "400041"]
+[BlackFideId "1118358"]
+[EventDate "2017.04.21"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.a5 Be6 11.Bxe6 fxe6 12.Nbd2 Rb8 13.c3 Rb5 14.c4 Rb8 15.Nb3 Qc8
+16.Qe2 Nd7 17.d4 exd4 18.Nbxd4 Nxd4 19.Nxd4 Ne5 20.f4 c5 21.Nb3 Nc6 22.Be3 e5
+23.f5 Bf6 24.Qd3 Nd4 25.Rf1 Qd8 26.Nd2 Bg5 27.Bxg5 Qxg5 28.Nf3 Qf6 29.b3 Rbe8
+30.Ra2 g5 31.Qd1 Kf7 32.h3 Rh8 33.g3 h5 34.Ne1 h4 35.g4 Rh6 36.Ng2 Qd8 37.Ne3 Rf6
+38.Nd5 Kg7 39.Kg2 Kh6 40.Rff2 Ref8 41.Qd3 R8f7 42.Kh2 Rf8 43.Ne3 Rg8 44.Nd5  1/2-1/2
+
+[Event "Vugar Gashimov Mem 2017"]
+[Site "Shamkir AZE"]
+[Date "2017.04.30"]
+[Round "9.5"]
+[White "Radjabov,T"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2710"]
+[BlackElo "2783"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "13400924"]
+[BlackFideId "14109603"]
+[EventDate "2017.04.21"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 13.a4 Bb7 14.Rfe1 Nf6 15.Bd3 h6
+16.a5 bxa5 17.Rxa5 Qc7 18.Rc1 Qd8 19.Re1 Qc7 20.Qb4 Rfb8 21.Qa3 Rc8 22.h3 Qf4
+23.d5 exd5 24.e5 Ne4 25.Qe7 Bc6 26.e6 Rf8 27.exf7+ Rxf7 28.Qb4 Re8 29.Qd4 Ng5
+30.Rxe8+ Bxe8 31.Qxf4 Rxf4 32.Nxg5 hxg5 33.Rxd5 g4 34.Rd8 Kf7 35.Ra8 gxh3
+36.Rxa7+ Kf6 37.gxh3 Bf7 38.Be2 Be6 39.Ra6 Ke7 40.Ra7+ Kf6 41.Ra6 Ke5  1/2-1/2

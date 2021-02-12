@@ -1,0 +1,852 @@
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.08"]
+[Round "1"]
+[White "Leko,P"]
+[Black "Van Wely,L"]
+[Result "1-0"]
+[WhiteElo "2763"]
+[BlackElo "2655"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 Nd7 8.Be3 e5
+9.Qd2 h6 10.O-O Qe7 11.Nh2 Nf8 12.f4 exf4 13.Bxf4 Ne6 14.Bg3 Qg5 15.Qe1 Nd4
+16.Qf2 O-O 17.Bd6 Bxh3 18.Bf4 Qxg2+ 19.Qxg2 Bxg2 20.Kxg2 Nxc2 21.Rad1 Rad8
+22.Rd2 Nd4 23.e5 f5 24.exf6 Rxf6 25.Ng4 Re6 26.Bxh6 Bxh6 27.Nxh6+ Kg7 28.Nf7 Rf8
+29.Ng5 Re5 30.Nce4 Rff5 31.Nf3 Nxf3 32.Rxf3 Rd5 33.Rdf2 b6 34.Kf1 Rxf3 35.Rxf3 c4
+36.dxc4 Rd4 37.Nc3 Rxc4 38.Ke2 Rh4 39.Kd3 Rh2 40.Ne2 g5 41.Kd2 Kg6 42.Rd3 Rf2
+43.Rd7 Rf7 44.Rxf7 Kxf7 45.Nd4 c5 46.Nb5 a6 47.Nc7 a5 48.a4 Kf6 49.Nd5+ Ke5
+50.Nxb6 Kd4 51.b3 g4 52.Nc4 g3 53.Ke2 Kc3 54.Nxa5 Kb4 55.Nc6+  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.08"]
+[Round "1"]
+[White "Adams,Mi"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2788"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Bd6 8.Nc3 Nxc3
+9.bxc3 O-O 10.Qh5 f5 11.Re1 c6 12.Bg5 Qc7 13.c4 Be8 14.Qh3 h6 15.Bd2 Qf7
+16.c5 Bc7 17.Rab1 Qd7 18.Qf3 Bg6 19.h4 Qf7 20.Bf4 Ba5 21.Rec1 Bh5 22.Qg3 b5
+23.cxb6 Bxb6 24.c3 Kh7 25.Be5 Qg6 26.Qf4 Rae8 27.Re1 Kg8 28.f3 Qf7 29.Bd6 Rxe1+
+30.Rxe1 Re8 31.Rxe8+ Qxe8 32.Be5 Bg6 33.Bxf5 Qf7 34.Bc8 Qxf4 35.Bxf4 Ba5
+36.Bb8 a6 37.Bxa6 Bb1 38.a3 Bxc3 39.Ba7 Bc2 40.h5 Kf7 41.Kf2 Bb2 42.Bc5 Bc1
+43.Ke1 Bf4 44.Be2 Bb3 45.g4 Ba4 46.Bd1 Bg3+ 47.Ke2 Bb5+ 48.Ke3 Bc7 49.a4 Bc4
+50.Bb4 Bh2 51.Kf2 g6 52.hxg6+ Kxg6 53.Be2 Bg1+ 54.Kxg1 Bxe2 55.Kf2  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.08"]
+[Round "1"]
+[White "Kramnik,V"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2738"]
+[ECO "B44"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7
+9.Be2 O-O 10.O-O b6 11.Be3 Ne5 12.f3 Bb7 13.Qd4 Ned7 14.Rfd1 Re8 15.Qd2 Rc8
+16.Rac1 Qc7 17.Kh1 Qb8 18.Nc2 Bd8 19.Qe1 d5 20.cxd5 exd5 21.exd5 b5 22.Qf2 Qd6
+23.a3 Nb6 24.Nb4 Nfxd5 25.Ncxd5  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.08"]
+[Round "1"]
+[White "Naiditsch,A"]
+[Black "Sutovsky,E"]
+[Result "1-0"]
+[WhiteElo "2612"]
+[BlackElo "2674"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Nxe7 Nxe7 11.Bd3 Bb7 12.Bxf6 gxf6 13.Qh5 d5 14.O-O-O d4 15.Nb1 Qa5
+16.a3 b4 17.Qh6 Ng6 18.g3 Rb8 19.f4 b3 20.c4 dxc3 21.Nxc3 Rc8 22.f5 Ne7 23.Qxf6 Rxc3+
+24.Kb1 Rg8 25.bxc3 Qxa3 26.Qb6 Qa2+ 27.Kc1 Kf8 28.f6  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.08"]
+[Round "1"]
+[White "Nielsen,PH"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2668"]
+[BlackElo "2729"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.a4 e6 6.Bg5 a5 7.e3 Be7 8.Be2 Na6 9.O-O O-O
+10.Qb3 Nb4 11.Rac1 b6 12.cxd5 Nfxd5 13.Bf4 Nxf4 14.exf4 Bd6 15.g3 Bb7 16.Bc4 c5
+17.d5 Bxf4 18.Rcd1 b5 19.axb5 Bd6 20.Rd2 a4 21.Qd1 e5 22.Re1 a3 23.bxa3 Rxa3
+24.Qc1 Qa8 25.Ng5 Rd8 26.Nce4 Ra5 27.Qb1 h6 28.Nxd6 hxg5 29.Nxf7 Kxf7 30.Qf5+ Kg8
+31.d6+ Bd5 32.Bxd5+ Nxd5 33.Qe6+ Kh7 34.Rxd5 Rxb5 35.Rdxe5 Rf8 36.Rxg5  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.09"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Naiditsch,A"]
+[Result "1-0"]
+[WhiteElo "2788"]
+[BlackElo "2612"]
+[ECO "D39"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 dxc4 5.e4 Bb4 6.Bg5 c5 7.e5 cxd4 8.Nxd4 Bxc3+
+9.bxc3 Qa5 10.exf6 Qxg5 11.fxg7 Qxg7 12.Qd2 O-O 13.Bxc4 a6 14.O-O Rd8 15.Qf4 b5
+16.Qc7 Qf8 17.Bd3 Rd7 18.Qf4 Bb7 19.Rae1 Qg7 20.Be4 Kh8 21.Re3 Bxe4 22.Qxe4 Rd5
+23.Nxe6 fxe6 24.Qxe6 Rd7 25.Rg3 Qf8 26.Re1 Raa7 27.Qf6+  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.09"]
+[Round "2"]
+[White "Svidler,P"]
+[Black "Nielsen,PH"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2668"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.Re1 Bg4
+9.c3 f5 10.Qb3 O-O 11.Nbd2 Na5 12.Qc2 Nc6 13.b4 a6 14.a4 Bd6 15.Ba3 Kh8 16.Qb2 Re8
+17.b5 axb5 18.Bxb5 Qf6 19.Bxd6 cxd6 20.a5 Reb8 21.Ra4 Qd8 22.Rea1 Nxa5 23.Qa3 Bxf3
+24.Nxf3 Nc4 25.Bxc4 Rxa4 26.Qxa4 dxc4 27.Qxc4 Qc8 28.Qf7 Qxc3 29.Rf1 Qc8
+30.Nh4 Qf8 31.Qxf5 Qxf5 32.Nxf5 b5 33.f3 Nc3 34.Nxd6 Ne2+ 35.Kf2 Nxd4 36.Ke3 Ne6
+37.Rb1 b4 38.Ne4 g5 39.g3 Kg7 40.Kd3 Rd8+ 41.Ke3 Rb8 42.Kd3 Rd8+ 43.Ke3 Rb8  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.09"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2719"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 Re8 10.Nc3 h6 11.a3 Bc5 12.Nd5 Nd4 13.Nxd4 Bxd4 14.c3 Bc5 15.Ne3 d5
+16.exd5 Nxd5 17.Qf3 Bxe3 18.Bxe3 Qd6 19.Rad1 Rab8 20.d4 e4 21.Qg3  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.09"]
+[Round "2"]
+[White "Van Wely,L"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2729"]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.Re1 a5 11.bxa5 Rxa5 12.Nd2 Nf4 13.Bf1 Ra8 14.a4 f5 15.Ra3 fxe4
+16.Ndxe4 b6 17.Nb5 Kh8 18.g3 Nh5 19.a5 bxa5 20.Bd2 Bf5 21.Rxa5 Qd7 22.Qa4 Rxa5
+23.Qxa5 Bxe4 24.Rxe4 c6 25.dxc6 Nxc6 26.Qa1 d5 27.cxd5 Qxd5 28.Qe1 Nf6 29.Ra4 e4
+30.Nc3 Qd7 31.Bb5 Qh3 32.Qf1 Qxf1+ 33.Kxf1 Ne5 34.h3 Rb8 35.Be2 Nf3 36.Bf4 Rd8
+37.Nxe4 Nd4 38.Bc7 Rc8 39.Rxd4 Rxc7 40.Rd8+ Ng8 41.Nd6 Bf6 42.Ra8 Rc1+ 43.Kg2 Be7
+44.Bc4 h5 45.Rxg8+ Kh7 46.Rc8 Bxd6 47.Bg8+  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.09"]
+[Round "2"]
+[White "Sutovsky,E"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2674"]
+[BlackElo "2744"]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O g6 6.d4 Bd7 7.Re1 Bg7 8.d5 Ne7
+9.Bxd7+ Nxd7 10.Be3 f5 11.Ng5 Nf8 12.exf5 gxf5 13.f4 Qd7 14.c4 Neg6 15.Nc3 h6
+16.Nf3 e4 17.Nd4 h5 18.Ncb5 Kf7 19.Ne6 Nxe6 20.dxe6+ Kxe6 21.Qd5+ Ke7 22.c5 c6
+23.cxd6+ Kf8 24.Qb3 cxb5 25.Rac1 Qf7 26.Qxb5 a6 27.Qb6 Kg8 28.Red1 Kh7 29.Rc7 Qf8
+30.Bd4 Rg8 31.Qxb7 e3 32.Rf7 Rb8 33.Qd7 Rd8 34.Qxf5 Qxf7 35.Qxf7 Rxd6 36.Kf1 Nxf4
+37.Qf5+ Rg6 38.Qxf4 Rf8 39.Qxf8 Bxf8 40.Bxe3 Re6 41.Kf2 Kg6 42.Rd5 Be7 43.Bc5 Bf6
+44.b3 Be5 45.g3 h4 46.gxh4 Bxh2 47.h5+ Kh7 48.Kf3 Be5 49.Rd7+ Kh6 50.Kg4 Bg7
+51.Rd6  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.10"]
+[Round "3"]
+[White "Bacrot,E"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2738"]
+[ECO "A40"]
+
+1.d4 g6 2.c4 Bg7 3.e4 Nc6 4.Nf3 d6 5.h3 Nf6 6.d5 Ne5 7.Nxe5 dxe5 8.Nc3 O-O
+9.Be3 e6 10.Bc5 Re8 11.Be2 b6 12.Be3 Bb7 13.O-O exd5 14.cxd5 c6 15.dxc6 Bxc6
+16.Qxd8 Rexd8 17.f3 Bf8 18.Rfd1 Bb7 19.Kf2 Kg7 20.a4 Rxd1 21.Rxd1 Rc8 22.g4 h6
+23.h4 Be7 24.Nb5 Bc5 25.Rd2 Bb4 26.Rd3 Rc2 27.Rb3 a5 28.Kf1 Nd7 29.Na3 Rc8
+30.Nc4 Bc6 31.Rd3 Bxa4 32.b3 Bb5 33.Rd5 Bc6 34.Rd1 Rb8 35.Rc1 Bb5 36.Kf2 Bxc4
+37.Bxc4 Bc5 38.Rd1 Bxe3+  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.10"]
+[Round "3"]
+[White "Naiditsch,A"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2612"]
+[BlackElo "2763"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Nf6 6.e5 Nd5 7.d4 cxd4 8.cxd4 O-O
+9.Nc3 Nxc3 10.bxc3 d6 11.Re1 Qc7 12.exd6 exd6 13.Bf4 Bf5 14.Qa4 Rfd8 15.Qa3 a6
+16.Bf1 Rac8 17.Nd2 Na7 18.Rac1 Nb5 19.Qb3 Na7 20.Ne4 Bxe4 21.Rxe4 Re8 22.Rxe8+ Rxe8
+23.Rb1 Re7 24.h4 Nc6 25.Qd5 Rd7 26.Bxa6 Na5 27.Bf1 Bf8 28.g3 Rd8 29.c4 Nc6
+30.h5 Bg7 31.Be3 Ra8 32.h6 Bf8 33.Qb5 Ne7 34.Bd3 Ra3 35.Rb3 Rxa2 36.Qxb7 Ra1+
+37.Kg2 Qa5 38.Qb4 Qh5 39.Rb1 Rxb1 40.Bxb1 d5 41.c5 Bxh6 42.Bxh6 Qxh6 43.Qb8+ Qf8
+44.Qd6 Qe8 45.Ba2 Nc6 46.Bxd5 Nxd4 47.Bxf7+ Kxf7 48.Qxd4 Qc6+ 49.f3 Ke6 50.g4 Qa6
+51.Qe4+ Kf6 52.c6 Qa2+ 53.Kg3 Qa7 54.g5+ Kf7 55.Qd5+ Ke7 56.Qe5+ Kf7 57.Qf6+ Kg8
+58.Qe6+ Kf8 59.Qc8+  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.10"]
+[Round "3"]
+[White "Adams,Mi"]
+[Black "Van Wely,L"]
+[Result "0-1"]
+[WhiteElo "2719"]
+[BlackElo "2655"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.Bg2 Nc6 8.h3 Bd7
+9.f4 a6 10.Be3 Be7 11.Qe2 Qc7 12.O-O-O Rc8 13.Nxc6 Bxc6 14.Bd4 b5 15.e5 dxe5
+16.Bxe5 Qb7 17.Rhg1 b4 18.Bxf6 Bxf6 19.Ne4 Bxe4 20.Bxe4 Qc7 21.Qf3 g6 22.Kb1 O-O
+23.h4 Rfd8 24.h5 g5 25.fxg5 Bxg5 26.Bd3 Qc6 27.Qxc6 Rxc6 28.Rge1 Rcd6 29.Re5 Rd4
+30.Rg1 R8d6 31.b3 Bf6 32.Ree1 Kg7 33.a4 a5 34.Ref1 Bg5 35.Rg2 Bf4 36.Rgf2 e5
+37.Kb2 Kf6 38.Bf5 Kg5 39.c4 Be3 40.Rc2 Rd1 41.Rxd1 Rxd1 42.Re2 Kf4 43.Kc2 Rd6
+44.Re1 Rd2+ 45.Kb1 Bd4 46.Kc1 Rf2 47.c5 Rf3 48.c6 Rc3+ 49.Kd2 Rxc6 50.Rf1+ Kg3
+51.Be4 Rc3 52.Bd5 Kxg4 53.Bxf7 e4 54.Bc4 Be3+  0-1
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.10"]
+[Round "3"]
+[White "Nielsen,PH"]
+[Black "Sutovsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2668"]
+[BlackElo "2674"]
+[ECO "D87"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Bg4 11.f3 Na5 12.Bxf7+ Rxf7 13.fxg4 Rxf1+ 14.Kxf1 Qd6 15.e5 Qd5
+16.Bf2 Rd8 17.Qa4 b6 18.Nf4 Qf7 19.Nh3 Qe6 20.g5 Qf5 21.Kg1 Qd3 22.Rd1 Qxc3
+23.dxc5 Rxd1+ 24.Qxd1 Bxe5 25.cxb6 axb6 26.Bxb6 Nc4 27.Bf2 Nb2 28.Qd5+ Kf8
+29.Kh1 Bd6 30.Bd4 Qd3 31.Ng1 Nd1 32.Qf3+ Qxf3 33.Nxf3 Bb4 34.Kg1 Kf7 35.Kf1 Bc3
+36.Ke2 Bxd4 37.Kxd1 Bb6 38.Ke2 Ke6 39.g4 Kd5 40.Kd3 Bc7 41.a4 Bf4 42.h4 Bg3
+43.a5 e5 44.Nd2 Bxh4 45.Ne4 Kc6 46.Kc4 Be1 47.a6 Bh4 48.a7 Kb7 49.Kd5 Bxg5
+50.Nxg5 h5 51.gxh5 gxh5 52.Kxe5 Kxa7 53.Nh3 Kb7 54.Kf5 Kc6 55.Kg5 Kd5 56.Kxh5  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.10"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2744"]
+[BlackElo "2788"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 O-O 7.O-O c6 8.Bf4 b6
+9.Nc3 Ba6 10.cxd5 cxd5 11.Rc1 Nc6 12.Nxd5 Qxd5 13.Ne5 Nxd4 14.Bxd5 Nxe2+
+15.Qxe2 Bxe2 16.Bxa8 Rxa8 17.Rfe1 Bb5 18.Rc2 Nd5 19.Rec1 Ba6 20.Bd2 f6 21.Nc4 Rd8
+22.a3 Kf7 23.Ne3 h5 24.Nxd5 Rxd5 25.Bb4 Bd8 26.Rc6 Be2 27.Rd6 Rxd6 28.Bxd6 Ke8
+29.Bb8 a5 30.Bc7 Bf3 31.Rc3 Bd5 32.f4 Kd7 33.Bxd8 Kxd8 34.Kf2 Kd7 35.Ke3 e5
+36.fxe5 fxe5 37.Rc1 a4 38.Rf1 Ke6 39.Rf8 b5 40.Rg8 Kf6 41.Rb8  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.11"]
+[Round "4"]
+[White "Van Wely,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2738"]
+[ECO "D88"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Na5 11.Bd3 cxd4 12.cxd4 b6 13.Qd2 Bb7 14.Rad1 Rc8 15.d5 Nc4
+16.Bxc4 Rxc4 17.Bd4 Qd6 18.Bxg7 Kxg7 19.Nd4 Qb4 20.Qe3 Rfc8 21.h4 Kg8 22.h5 Qc3
+23.Rd3 Qb2 24.h6 Rc3 25.Nc6 Rxd3 26.Qxd3 Kf8 27.a4 Bxc6 28.dxc6 Qf6 29.Rc1 Qd6
+30.Qc3 e5 31.c7 Ke7 32.g3 a6 33.Kg2 b5 34.axb5 axb5 35.Qa5 g5 36.Qa7 Kd7
+37.Qa1 Ke7 38.Qa7 Kd7 39.Qb7 Rxc7 40.Qxb5+ Ke7 41.Ra1 Qc5 42.Qb8 Qc6 43.Re1 g4
+44.Qh8 Qf6 45.Qxh7 Qf3+ 46.Kg1 Rc2 47.Rf1 Rxf2 48.Rxf2 Qxg3+ 49.Kf1 Qd3+
+50.Re2 Qd1+ 51.Kf2 g3+ 52.Kxg3  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.11"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2744"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be3 Nf6 7.Bd3 Qc7 8.O-O b5
+9.Nxc6 Qxc6 10.a3 Bb7 11.Qf3 Bd6 12.Bf4 O-O 13.Rfe1 Bxf4 14.Qxf4 d6 15.Re3 Nd7
+16.Qh4 Ne5 17.Nd5 Ng6 18.Ne7+ Nxe7 19.Qxe7 Rae8 20.Qg5 Qc5 21.Qxc5 dxc5 22.a4 Ra8
+23.f3 Bc6 24.axb5 axb5 25.Ree1  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.11"]
+[Round "4"]
+[White "Sutovsky,E"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2674"]
+[BlackElo "2729"]
+[ECO "C93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8 13.Nbd2 Bf8 14.a3 h6 15.Ba2 Nb8
+16.d5 c6 17.c4 Nbd7 18.b4 Nb6 19.dxc6 Bxc6 20.Qb3 Ra7 21.Bb2 Nxc4 22.Nxc4 bxc4
+23.Qxc4 Bxe4 24.Rxe4 d5 25.Qb3 Nxe4 26.Nxe5 Qb6 27.Ng4 Rae7 28.Rf1 Nd2 29.Qxd5 Nxf1
+30.Ne5 Qf6 31.Nd3 Re1  0-1
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.11"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Nielsen,PH"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2668"]
+[ECO "D63"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Rc1 a6 8.c5 c6
+9.Bd3 e5 10.dxe5 Ne8 11.Bxe7 Qxe7 12.Qc2 h6 13.e4 Nxe5 14.Nxe5 Qxe5 15.O-O dxe4
+16.Nxe4 Nf6 17.Rfe1 Nxe4 18.Rxe4 Qc7 19.Rce1 Be6 20.Qc3 Rad8 21.R1e3 Bf5
+22.Re7 Rd7 23.Rg3 g6 24.Rxd7 Qxd7 25.Re3 Bxd3 26.Rxd3 Qe6 27.a3 Re8 28.g3 h5
+29.Qd4 Qh3 30.Rd1 Qf5 31.h4 Qf3 32.Rf1 Re2 33.Qb4 Re7 34.Re1  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.11"]
+[Round "4"]
+[White "Adams,Mi"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2612"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7
+9.g4 Nb6 10.g5 Nh5 11.Qd2 Be7 12.Qf2 Nc4 13.Bxc4 Bxc4 14.Rg1 O-O 15.O-O-O Rc8
+16.Nd5 Bxd5 17.Rxd5 g6 18.Rd3 f5 19.gxf6 Rxf6 20.Kb1 Qd7 21.Nc1 Rf7 22.Qg2 Rcf8
+23.Rf1 Nf4 24.Bxf4 Rxf4 25.Ne2 Rh4 26.Qg1 Qh3 27.Ng3 Kh8 28.Rf2 Rhf4 29.a3 Bd8
+30.Rfd2 Be7 31.Qd1 Qe6 32.Ne2 R4f7 33.Nc3 Qh3 34.Rf2 Bh4 35.Qf1 Qxf1+ 36.Rxf1 Rf4
+37.Kc1  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.12"]
+[Round "5"]
+[White "Bacrot,E"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2788"]
+[ECO "E90"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 d6 5.e4 Bg7 6.Nf3 O-O 7.h3 e6 8.Bd3 Na6 9.O-O Nc7
+10.dxe6 Nxe6 11.Be3 Nd7 12.Be2 Ne5 13.Nxe5 dxe5 14.Qxd8 Rxd8 15.Bg4 h5 16.Bxe6 Bxe6
+17.Nd5 b6 18.a4 f5 19.f3 Bxd5 20.cxd5 Bf8 21.Rfc1 Kf7 22.Rc3 Rdc8 23.Rac1 Rc7
+24.b4 Rac8 25.Rc4 Bd6 26.bxc5 Bxc5 27.Kf1 Bd6 28.Rxc7+ Rxc7 29.Rxc7+ Bxc7
+30.a5 bxa5 31.Bxa7 Kf6 32.Ke2 Bd6 33.Be3 a4 34.Kd3 Ke7 35.Kc4 Kf6 36.Bd2 fxe4
+37.fxe4 Bf8 38.Ba5 Kg5 39.g3 Kf6 40.Bc7 a3 41.Kb3 Bc5 42.Bd8+ Kf7 43.Bg5 Bf2
+44.g4 hxg4 45.hxg4 Ke8 46.Bf6 Bd4 47.Kxa3 Kd7 48.Kb4 Kd6 49.Bg7 Be3 50.Kc4 Bc1
+51.Bf8+ Kd7 52.Bc5 Kc7 53.Kd3 Kd7 54.Be3 Ba3 55.Bd2 Bc5 56.Kc4 Bf2 57.Bb4 Be3
+58.Bc3 Kd6 59.Kb5 Bf2 60.Ka6 Bd4 61.Ba5 Kd7 62.Bb6 Bb2 63.Kb7 Bc3 64.Bc7 Bb2
+65.Bb8 Bd4 66.Ka6 Kc8 67.Bd6 Kd7 68.Bf8 Bc3 69.Kb5 Bb2 70.Bc5 Bc1 71.Kc4 Bd2
+72.Ba3 Be3 73.Bb4 Bc1 74.d6 Kc6 75.d7 Kxd7 76.Kd5 Bg5 77.Kxe5 Bh4 78.Kd5 Bg5
+79.e5 Bh4 80.Bc5 Bg5 81.Bf2 Ke7 82.e6 Ke8 83.Ke5 Ke7 84.Bc5+ Ke8 85.Ke4 Kd8
+86.Bd6 Ke8 87.Bf4 Bf6 88.Be3 Ke7 89.Kd5 Ke8 90.Kd6 Kd8 91.Bd2 Ke8 92.Bf4 Kd8
+93.Be5 Bg5  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.12"]
+[Round "5"]
+[White "Svidler,P"]
+[Black "Sutovsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2674"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 bxc6 5.O-O Bg7 6.Re1 Nf6 7.e5 Nd5 8.c4 Nc7
+9.d4 cxd4 10.Qxd4 O-O 11.Qh4 f6 12.exf6 exf6 13.Qd4 Ne6 14.Qd6 f5 15.Nbd2 c5
+16.Nf1 Bb7 17.Qd1 Rb8 18.Ne3 Bxf3 19.Qxf3 Nd4 20.Qd5+ Kh8 21.Qxc5 f4 22.Nd5 Qg5
+23.Qe7 Nf3+ 24.Kh1 Qh5 25.gxf3 Qxf3+ 26.Kg1 Qg4+ 27.Kh1 Qf3+ 28.Kg1 Qg4+
+29.Kh1 Qf3+  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.12"]
+[Round "5"]
+[White "Kramnik,V"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2719"]
+[ECO "C91"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d4 d6
+9.c3 Bg4 10.Be3 exd4 11.cxd4 Na5 12.Bc2 Nc4 13.Bc1 c5 14.b3 Nb6 15.Nbd2 Nfd7
+16.h3 Bh5 17.Bb2 Re8 18.a4 bxa4 19.bxa4 Rb8 20.a5 Nc8 21.Nc4 Na7 22.dxc5 Nxc5
+23.Qd2 Bxf3 24.gxf3 Nc6 25.Rad1 Nxa5 26.Nxa5 Rxb2 27.Nc4 Rb8 28.e5 d5 29.Qxd5 Qxd5
+30.Rxd5 Rb4 31.Ne3 g6 32.Ra1 Ra8 33.Rdd1 Kf8 34.Ra2 Rab8 35.Nd5 Rb2 36.Rda1 Bh4
+37.Ne3 Bg5 38.Nd5 Bd2 39.f4 Rxa2 40.Rxa2 Rd8 41.Nf6 Bxf4 42.Ra5 Ne6 43.Nxh7+ Kg7
+44.Nf6 Rc8 45.Ba4 Rc5 46.Rxc5 Nxc5 47.Bc6 a5 48.Nd7 Ne6 49.Kg2 g5 50.Ba4 Nd4
+51.Nc5 Bxe5 52.Nb3 Nxb3 53.Bxb3 Kf6 54.Kf3 Bd4 55.Ke2 Ke7 56.f3 f6 57.Kd3 Be5
+58.Ke4  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.12"]
+[Round "5"]
+[White "Nielsen,PH"]
+[Black "Leko,P"]
+[Result "0-1"]
+[WhiteElo "2668"]
+[BlackElo "2763"]
+[ECO "E05"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Ra7 11.Rc1 Be4 12.Qb3 Nbd7 13.Ba5 Qa8 14.Nc3 Bc6 15.a3 Bd6
+16.Bb4 Qb7 17.Rc2 a5 18.Bxd6 cxd6 19.Ne1 Bxg2 20.Nxg2 b4 21.Na4 Qe4 22.Rd1 Rb7
+23.Ne3 bxa3 24.Qxa3 Ng4 25.Qd3 Qxd3 26.Rxd3 Nxe3 27.Rxe3 Rb4 28.Ra3 Rxd4
+29.Nc3 Ra8 30.Nb5 Rd5 31.Nc7 Rc8 32.Nxd5 Rxc2 33.Nc3 Rxb2 34.Rxa5 g6 35.Ra8+ Rb8
+36.Ra7 Nf6 37.f3 d5 38.Kf2 g5 39.Na4 g4 40.Nc5 gxf3 41.Kxf3 Rb1 42.Ra8+ Kg7
+43.Ra7 Rb6 44.Nd3 Ne4 45.Ne5 Nd6 46.Kf2 Rb7 47.Ra2 Kf6 48.Nd3 Ne4+ 49.Kg2 Nc3
+50.Rc2 d4 51.Kf3 Rb3 52.Nc5 Ra3 53.Kg2 Ke7 54.Rd2 Kd6 55.Nb7+ Kd5 56.Nd8 f5
+57.e3 e5 58.exd4 exd4 59.Rf2 d3 60.Rxf5+ Kc4  0-1
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.12"]
+[Round "5"]
+[White "Naiditsch,A"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2612"]
+[BlackElo "2655"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.Qg4 g6 8.Qe2 d6
+9.O-O Nd7 10.Na3 Qc7 11.Kh1 h5 12.Nc4 Ngf6 13.a4 b6 14.a5 b5 15.Nb6 Rb8 16.Be3 Ng4
+17.Bd4 Bf6 18.Nxd7 Bxd7 19.f3 Bxd4 20.Nxd4 Nf6 21.f4 h4 22.e5 Nh5 23.Qg4 dxe5
+24.fxe5 Qxe5 25.Rae1 Nf6 26.Qxg6 Qxd4 27.Qxf6 Qxf6 28.Rxf6 Ke7 29.Ref1 Be8
+30.Kg1 Rd8 31.b4 Rh5 32.R1f4 Rdd5 33.Kf2 Kd6 34.Be4 Rd2+ 35.Ke1 Rd4 36.c3 Rc4
+37.Kd2 Ke5 38.Bf3 Rh7 39.g3 hxg3 40.hxg3 Rc7 41.Be2 Bc6 42.Rf2 Be4 43.g4 Rh8
+44.Rxf7 Rd8+ 45.Ke1 Rxc3 46.Rh2 Rb3 47.Rh5+ Kd4 48.Rf6 Rd6 49.g5 Rg3 50.Rh4 Ke3
+51.Rg4 Rxg4 52.Bxg4 Rd5 53.Rxe6 Rxg5 54.Bh3 Rg1+ 55.Bf1 Rg6 56.Rxg6 Bxg6
+57.Bh3 Kd3 58.Bc8 Kc3 59.Bxa6 Kxb4 60.Bxb5 Kxb5  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.14"]
+[Round "6"]
+[White "Van Wely,L"]
+[Black "Sutovsky,E"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2674"]
+[ECO "D89"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Bg4 11.f3 Na5 12.Bd3 cxd4 13.cxd4 Be6 14.d5 Bxa1 15.Qxa1 f6
+16.Qd4 Bf7 17.Bh6 e5 18.Qf2 Re8 19.Bb5 Re7 20.f4 Rc8 21.fxe5 Rxe5 22.Ng3 Nc4
+23.Qxf6 Qxf6 24.Rxf6 a6 25.Ba4 b5 26.Bd1 a5 27.Bg4 Rd8 28.Rc6 Ree8 29.Rc7 Ne5
+30.Be2 Rc8 31.Rb7 b4 32.Bf4 g5 33.Bxg5 Rb8 34.Rxb8 Rxb8 35.Bf4 Re8 36.Bb5 Ng6
+37.Bxe8 Bxe8 38.Bc7 a4 39.Ne2 Bb5 40.Kf2 a3 41.Nc1 Bc4 42.Bd6 Bxa2 43.Nxa2 b3
+44.Bxa3 bxa2 45.Bb2 Nf4 46.Bc3 Kf7 47.g3 Nd3+ 48.Ke3 Nb4 49.Kd4 Nc2+ 50.Kd3 Ne1+
+51.Ke2 Nc2 52.Kd2 Nb4 53.Ba1 Na6 54.Kc3 Nc5 55.e5 Ke7 56.Kc4 Nd7 57.Kb5 h5
+58.Kc6 Nb8+ 59.Kb5 Nd7 60.h3 Nf8 61.Kc6 Nd7 62.g4 hxg4 63.hxg4 Nb8+ 64.Kb5 Nd7
+65.g5 Nf8 66.Kc6 Ng6 67.e6 Nf4 68.Bf6+ Ke8 69.g6 Nxg6 70.d6 Ne7+ 71.dxe7  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.14"]
+[Round "6"]
+[White "Adams,Mi"]
+[Black "Nielsen,PH"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2668"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 Nc6 8.Qd2 Be6
+9.O-O-O Qd7 10.h4 h6 11.Kb1 O-O-O 12.Nd4 Nxd4 13.Bxd4 Rhg8 14.h5 c5 15.Be3 Qc6
+16.f3 Rge8 17.Bd3 d5 18.Qf2 Qc7 19.g4 Kb8 20.Rhg1 Bd6 21.f4 f6 22.Qf3 Bf7
+23.Bg6 Bxg6 24.hxg6 Qc6 25.Bc1 Bf8 26.f5 Re4 27.Qxe4  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.14"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2788"]
+[BlackElo "2738"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Qc7
+9.Re1 Bb7 10.Qf3 Bd6 11.e5 Bf8 12.Ne2 Ne7 13.Nf4 g6 14.c4 Bg7 15.Qe2 O-O
+16.Bd2 dxc4 17.Bxc4 c5 18.Rac1 Rfd8 19.Nd3 Nf5 20.f3 Rd4 21.Bg5 a5 22.Qf2 h5
+23.b3 Qb6 24.a4 Rc8 25.Rc3 Bd5 26.Bb5 Qb8 27.Qb2 c4 28.bxc4 Rxd3 29.Rxd3 Rxc4
+30.Qd2 Rb4 31.f4 Bf8 32.Kh1 Qb6 33.Rc1 Nd4 34.Qf2 Qa7 35.Be8 Bc5 36.Rdc3 Nb3
+37.Rxc5 Nxc1 38.Bxf7+ Kxf7 39.Rxd5 Qxf2 40.Rd7+  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.14"]
+[Round "6"]
+[White "Leko,P"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2729"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.d5 Nb8 13.Nf1 Nbd7 14.N3h2 Nc5 15.Bc2 c6
+16.b4 Ncd7 17.dxc6 Bxc6 18.Bg5 h6 19.Bxf6 Nxf6 20.Ng4 Nxg4 21.Qxg4 Bd7 22.Qf3 Rc8
+23.Bb3 Be6 24.Bxe6 fxe6 25.a4 Qc7 26.axb5 axb5 27.Ra3 Ra8 28.Rea1 Rxa3 29.Rxa3 Be7
+30.Qd3 Qc6 31.Ne3 Rc8 32.g3 Bg5 33.h4 Bxe3 34.Qxe3 Kh7 35.Ra5 Qxc3 36.Qxc3 Rxc3
+37.Rxb5 Rc4 38.Rb6 Rxe4 39.Rxd6 Rxb4 40.Rxe6 Rb5 41.Kg2  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.14"]
+[Round "6"]
+[White "Naiditsch,A"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2612"]
+[BlackElo "2744"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 Nc6 8.Qd2 O-O
+9.O-O-O Ne5 10.Be2 Ng4 11.Bd4 c5 12.h3 cxd4 13.hxg4 dxc3 14.Qxc3 Bxg4 15.Bd3 h5
+16.Qc4 Re8 17.Bh7+ Kf8 18.Qf4 Qb6 19.c3 Bf6 20.Rxd6 Qxf2 21.Rxf6 gxf6 22.Qxf6 Qe3+
+23.Kb1 Rad8 24.a3 Qe6 25.Qf4 Kg7 26.Bc2 Qf6 27.Qg3 Kf8 28.Nd4 Re5 29.Bb3 Rde8
+30.Ka2 a6 31.Rc1 Kg7 32.Rc2 Re3 33.Qh2 Qe5 34.Qh4 f6 35.Rf2 Re4 36.g3 Re7
+37.Qh2 Re1 38.Rf4 Re4 39.Rf2 Qg5 40.Bc2 Qd5+ 41.Bb3 Qc5 42.Bc2 Re1 43.Rf5 R1e5
+44.Rf4 Be6+ 45.Bb3 Bxb3+ 46.Kxb3 Re4 47.Rf5 Qb6+ 48.Kc2 Rxd4 49.Rxh5 Rd6
+50.Rh7+ Kf8 51.Rh8+ Kf7 52.Qh5+ Ke6 53.Qg4+ f5 54.Qc4+ Ke5 55.Qf4+ Ke6 56.Qc4+ Ke5
+57.Qf4+ Ke6 58.Qc4+  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.15"]
+[Round "7"]
+[White "Bacrot,E"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2719"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Rc8 13.e4 b5 14.Re1 dxe4 15.Bxe4 bxc4
+16.bxc4 c5 17.d5 exd5 18.Bxd5 Nb6 19.Ba5 Bf6 20.Rb1 Rb8 21.Qf3 Qd7 22.Bxb6 axb6
+23.Ne4 Bd4 24.Qf4 h6 25.a4 Rbe8 26.Rxb6 Qxa4 27.Reb1 Bxc4 28.Bc6 Qa5 29.Bxe8 Rxe8
+30.h4 Be5 31.Nf6+ Bxf6 32.Qxc4 Qc3 33.Qxc3 Bxc3 34.Rb8 Kf8 35.h5 Rxb8 36.Rxb8+ Ke7
+37.Kf1 Kf6 38.Rb7 Bd4 39.Ke2 Kg5 40.Rxf7 Kxh5 41.Kf3 Kg6 42.Rf8 Kg5 43.g4 Bf6
+44.Kg3 Kg6 45.f4 h5 46.g5 Be7 47.Re8 Kf7 48.Rc8 Ke6 49.Kf3 Bd6 50.Ke4 g6
+51.Rh8 Be7 52.Rh6 Kf7 53.Rh7+  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.15"]
+[Round "7"]
+[White "Nielsen,PH"]
+[Black "Naiditsch,A"]
+[Result "0-1"]
+[WhiteElo "2668"]
+[BlackElo "2612"]
+[ECO "E04"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.d4 dxc4 5.Bg2 Nc6 6.Qa4 Nd7 7.Qxc4 Nb6 8.Qb5 Bd7
+9.Qb3 Na5 10.Qc2 Rc8 11.O-O c5 12.Nc3 cxd4 13.Nxd4 Bb4 14.Qe4 Bxc3 15.bxc3 O-O
+16.Rd1 Bc6 17.Qg4 Bxg2 18.Kxg2 f5 19.Qh5 Qd5+ 20.Qf3 Rfe8 21.Qxd5 Nxd5 22.Nb5 Nc4
+23.Rd4 a6 24.Na3 Nxa3 25.Bxa3 Rxc3 26.Bd6 Rc2 27.Kf1 Rec8 28.a4 Rc1+ 29.Rxc1 Rxc1+
+30.Kg2 Kf7 31.e4 fxe4 32.Rxe4 b5 33.axb5 axb5 34.Re2 b4 35.Ra2 b3 36.Ra7+ Kf6
+37.Rb7 Rc6 38.Ba3 Rb6 39.Bb2+ e5 40.Rd7 Rb5 41.Kf3 Nb6 42.Rb7 h5 43.Ke2 Kf5
+44.h4 Ke4 45.f3+ Kd5 46.Kd3 g6 47.Rb8 Ke6 48.g4 Kd5 49.Rb7 hxg4 50.fxg4 e4+
+51.Ke2 Rc5 52.Rxb6 Rc2+ 53.Ke3 Rxb2 54.Rxg6 Rb1 55.Rg5+ Ke6 56.Rb5 b2 57.Kd2 e3+
+58.Kc2 e2  0-1
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.15"]
+[Round "7"]
+[White "Kramnik,V"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2744"]
+[BlackElo "2655"]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Qd3 d5 8.exd5 exd5
+9.Be2 O-O 10.O-O Nc6 11.Nxc6 bxc6 12.Bg5 h6 13.Bh4 a5 14.Rfd1 Ba6 15.Qf3 Bxc3
+16.bxc3 Qe7 17.Bf1 Bxc4 18.Bxc4 dxc4 19.Bxf6 Qxf6 20.Qxf6 gxf6 21.Rd4 Rfd8
+22.Rxc4 Rd2 23.a4 Rb8 24.g3 Rbb2 25.Rf4 Kg7 26.Re1 Rd3 27.Re8 h5 28.Ra8 Rd5
+29.Rc8 Rc5 30.Rd8 Rc2 31.Rd6 f5 32.Rh4 R5xc3 33.Kg2 Re3 34.Rxh5 Re6 35.Rd8 Kg6
+36.Rh4 Ree2 37.Rf4  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.15"]
+[Round "7"]
+[White "Sutovsky,E"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2674"]
+[BlackElo "2788"]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 d6 6.Be3 Nf6 7.f4 e5 8.Nf3 Ng4
+9.Qd2 Nxe3 10.Qxe3 exf4 11.Qxf4 Be7 12.O-O-O O-O 13.Nd5 Be6 14.Kb1 Rc8 15.g4 Bxd5
+16.exd5 Ne5 17.Nxe5 dxe5 18.Qe4 Qd6 19.h4 g6 20.h5 Bg5 21.Qg2 Rc5 22.Bd3 b5
+23.Rdf1 Qxd5 24.Be4 Qd6 25.hxg6 fxg6 26.Rd1 Qe7 27.Qh3 Rf6 28.Qxh7+ Qxh7
+29.Rd8+ Rf8 30.Rxf8+ Kxf8 31.Rxh7 Rc4 32.Bxg6 Rxg4 33.a3 Be3 34.Bd3 b4 35.axb4 Rxb4
+36.c3 Rf4 37.Bc2 e4 38.Rh8+ Ke7 39.Rh7+ Kf6 40.Rh6+ Kf5 41.Rh5+ Kg4 42.Re5 Kf3
+43.Bd1+ Kf2 44.Bc2 Kf3 45.Bd1+ Kf2  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.15"]
+[Round "7"]
+[White "Svidler,P"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2738"]
+[BlackElo "2763"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.h3 Nf6 7.Nc3 Nd7 8.Be3 e5
+9.Qd2 h6 10.O-O Qe7 11.Nh2 Nf8 12.f4 exf4 13.Rxf4 Ne6 14.Rf2 Nd4 15.Raf1 Be6
+16.Ng4 O-O-O 17.Nxh6 f6 18.Nd1 Rh7 19.c3 Nb5 20.Rf3 c4 21.Ng4 Rxd3 22.Qe2 Bxg4
+23.hxg4 Qe5 24.Bf4 Qc5+ 25.Nf2 Bh6 26.Bxh6 Rxh6 27.Rxd3 cxd3 28.Qxd3 Rh8
+29.Rd1 Qe7 30.e5 fxe5 31.Qxg6 Kb8 32.g5 Nc7 33.Qf6 Qe8 34.Rd7 Kc8 35.Re7 Qd8
+36.Qf5+ Kb8 37.Qxe5 Rg8 38.Ne4 Qd1+ 39.Kh2 Qh5+ 40.Kg3 Rc8 41.Nf6  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.16"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Nielsen,PH"]
+[Result "1-0"]
+[WhiteElo "2744"]
+[BlackElo "2668"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 Nc6 8.Qd2 Bg4
+9.Be2 Qd7 10.O-O-O a6 11.Rhe1 O-O-O 12.h3 Be6 13.c4 Kb8 14.Qc3 Bf6 15.Qa3 Qe7
+16.Be3 h5 17.Kb1 g5 18.b4 g4 19.Nd2 Nd4 20.Bd3 d5 21.c5 Bg7 22.hxg4 hxg4
+23.Nb3 Nxb3 24.axb3 c6 25.Bf4+ Ka7 26.b5 cxb5 27.Bxb5 Rc8 28.Bd6 Qf6 29.Be5 Qg5
+30.Bxg7 Qxg7 31.c6 Qf8 32.b4 Qd6 33.Rd4 Rc7 34.Kb2 Rhc8 35.c3 Rxc6 36.Bxc6 Rxc6
+37.g3 Rc4 38.Red1 Qe5 39.Qb3 Rxd4 40.Rxd4 Qe1 41.Qc2 b5 42.Rd1 Qe5 43.Qd2 Kb7
+44.Re1 Qf5 45.Qe3 Qf6 46.Rh1 Qf5 47.Rh8 Qf6 48.Re8 Bd7 49.Re7 Kc8 50.Qc5+ Kd8
+51.Re2  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.16"]
+[Round "8"]
+[White "Leko,P"]
+[Black "Sutovsky,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2763"]
+[BlackElo "2674"]
+[ECO "A26"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5
+9.a3 Nd4 10.Nd2 c6 11.e3 Ne6 12.Nf3 Nc5 13.b4 axb4 14.axb4 Nxd3 15.Qxd3 e4
+16.Nxe4 Nxe4 17.Bb2 Bxb2 18.Rxb2 Qf6 19.Qd4 Be6 20.Rc1 Ra4 21.Qxf6 Nxf6 22.Nd4 Rfa8
+23.Rbb1 Bd7 24.h3 Ra2 25.g4 h5 26.g5 Nh7 27.h4 f6 28.gxf6 Nxf6 29.Bf3 Ng4
+30.Bxg4 Bxg4 31.c5 Rf8 32.Rc2 Rxc2 33.Nxc2 Bf5 34.Rb2 dxc5 35.bxc5 Bxc2 36.Rxc2 Rb8
+37.Kg2 b6 38.cxb6 Rxb6 39.Kg3 Kg7 40.Kf4 Kf6 41.e4 Kg7 42.f3 Ra6 43.Rc5 Rb6
+44.Rc3 Kf6 45.Rc1 Kg7 46.Rd1 Rb2 47.Rc1 Rb6 48.Rc5 Kf6 49.Ra5 Rb1 50.Rc5 Rb6
+51.Rc3 Ra6 52.e5+ Kg7 53.Rd3 Ra1 54.Rd7+ Kh6 55.Rc7 Rc1 56.e6 Re1 57.Rxc6 Kg7
+58.Rb6 Re2 59.Rb7+ Kf6 60.e7 Rxe7 61.Rxe7 Kxe7 62.Kg5 Kf7 63.f4 Kg7 64.f5 gxf5
+65.Kxf5 Kf7 66.Kg5 Kg7 67.Kxh5  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.16"]
+[Round "8"]
+[White "Adams,Mi"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2738"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Nf6
+9.Re1 Be7 10.e5 Nd7 11.Qg4 g6 12.b3 c5 13.Na4 c4 14.Bf1 Bb7 15.Bd2 Bc6 16.Nb2 Qb8
+17.Qg3 O-O 18.Rab1 cxb3 19.axb3 Nc5 20.f3  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.16"]
+[Round "8"]
+[White "Naiditsch,A"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2612"]
+[BlackElo "2729"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nc6
+9.O-O-O Ne5 10.Kb1 Bf6 11.Nd4 Nc6 12.h3 Nxd4 13.cxd4 Bf5 14.Bd3 Bxd3 15.Qxd3 Re8
+16.Rhe1 Qd7 17.g4 g6 18.g5 Bg7 19.h4 Qg4 20.Rh1 Qe4 21.Qf1 c5 22.dxc5 dxc5
+23.Qd3  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.16"]
+[Round "8"]
+[White "Van Wely,L"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2655"]
+[BlackElo "2788"]
+[ECO "C02"]
+
+1.d4 e6 2.e4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.a3 f6 7.Bd3 Qc7 8.Bf4 O-O-O
+9.O-O c4 10.Bc2 Qb6 11.b3 cxb3 12.Bxb3 g5 13.Be3 g4 14.Ne1 Na5 15.Bc2 f5
+16.Nd3 Kb8 17.a4 Rc8 18.Qe2 Qa6 19.Qe1 b6 20.Na3 Bxa3 21.Rxa3 Ne7 22.Nb4 Qb7
+23.Bd3 Nc4 24.Bxc4 dxc4 25.a5 b5 26.a6 Qa8 27.Qe2 Nd5 28.Nxd5 Qxd5 29.f4 h5
+30.Rb1 h4 31.Kf1 Bc6 32.Bg1 Ka8 33.Rb4 Rb8 34.Ra2 Rb6 35.Ke1 h3 36.g3 Rc8
+37.Be3 Bd7 38.Ra5 Qh1+ 39.Kd2 Bc6 40.Qf2 Bd5 41.Qg1 Qe4 42.Kc1 Rcc6 43.Qf2 Rxa6
+44.Raxb5 Ra1+ 45.Rb1 Rxb1+ 46.Rxb1 Ra6 47.Qd2 Qh1+  0-1
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.17"]
+[Round "9"]
+[White "Svidler,P"]
+[Black "Naiditsch,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2738"]
+[BlackElo "2612"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d4 Nxd4
+9.Nxd4 exd4 10.e5 Ne8 11.Qxd4 Bb7 12.Qg4 c5 13.c3 d6 14.exd6 Bxd6 15.Bg5 Nf6
+16.Qh4 h6 17.Bxf6 Qxf6 18.Qxf6 gxf6 19.Nd2 Rfe8 20.Bc2 Rad8 21.Ne4  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.17"]
+[Round "9"]
+[White "Bacrot,E"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2744"]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 cxd4 6.Nxd4 Ne4 7.Qd3 Bxc3+ 8.bxc3 Nc5
+9.Qf3 d6 10.Bg2 Bd7 11.O-O Bc6 12.Qg4 O-O 13.Bh6 Qf6 14.Bg5 Qg6 15.Nxc6 Nxc6
+16.Qh4 f6 17.Be3 Rfd8 18.Rab1 Qf7 19.Bxc6 bxc6 20.Bxc5 dxc5 21.Qe4 e5 22.Rb2 Rab8
+23.Rfb1 Rxb2 24.Rxb2 Qd7 25.Kg2 Re8 26.Qe3 Qe7 27.a4 g6 28.a5 Rd8 29.a6 Rd7
+30.Rb8+ Kg7 31.Rc8 Qd6 32.Qe4 f5 33.Qxc6 Qxc6+ 34.Rxc6 Kf7 35.f4 exf4 36.gxf4 Re7
+37.Kf3 Ke8 38.Rxc5 Kd7 39.Re5 Rxe5 40.fxe5 g5 41.c5 h6 42.c4 h5 43.h4 g4+
+44.Kf4 Ke6 45.c6 Ke7 46.c5 Ke6 47.c7 Kd7 48.e6+ Kxc7 49.e3 Kc6 50.Ke5 g3
+51.e7 Kd7 52.Kf6 g2 53.c6+ Kc7 54.e8=Q g1=Q 55.Qd7+ Kb6 56.c7  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.17"]
+[Round "9"]
+[White "Nielsen,PH"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2668"]
+[BlackElo "2655"]
+[ECO "E04"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 dxc4 5.Bg2 a6 6.O-O Nc6 7.Nc3 Rb8 8.e4 b5
+9.d5 Nb4 10.b3 cxb3 11.Qxb3 c5 12.dxc6 Nxc6 13.Bf4 Rb7 14.e5 Nd7 15.Ne4 Na5
+16.Qc3 Qc7 17.Qd4 Qb6 18.Rfc1 Rb8 19.Rab1 Bb7 20.Nd6+ Bxd6 21.Qxb6 Nxb6 22.exd6 Rc8
+23.Ne5 Rxc1+ 24.Rxc1 f6 25.Rc7 fxe5 26.Re7+ Kd8 27.Bd2 Nac4 28.Rxb7 Nxd2
+29.Rxb6 Kd7 30.Rxa6 Rc8 31.h4 Rc1+ 32.Kh2 Rc2 33.Ra7+ Kxd6 34.Rxg7 h6 35.g4 Rxa2
+36.g5 hxg5 37.hxg5 e4 38.g6 Ra8 39.Rb7 Rg8 40.Rb6+ Ke7 41.Rxb5 Rxg6 42.Rb2 Nf3+
+43.Bxf3 exf3 44.Rb3 Rg2+ 45.Kh3 Rxf2 46.Kg3 Rf1 47.Rxf3 Rxf3+ 48.Kxf3 Kd6
+49.Ke4  1/2-1/2
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.17"]
+[Round "9"]
+[White "Topalov,V"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2788"]
+[BlackElo "2763"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8 13.h4 Be7 14.a3 Be6 15.Ncb4 Nxb4
+16.axb4 Ra8 17.g3 Qd7 18.Bg2 Bd8 19.O-O Qc6 20.Ne3 a5 21.bxa5 Bxa5 22.Nf5 Qd7
+23.Qd2 Bc7 24.Ne3 Qc6 25.Nf5 Qd7 26.Qg5 f6 27.Qd2 d5 28.Ne3 d4 29.cxd4 Qxd4
+30.Qc2 Rxa1 31.Rxa1 Bb6 32.Rd1 Qc5 33.Qe2 Bb3 34.Rd3 Bc4 35.Nxc4 Qxc4 36.b3 Qb4
+37.Bh3 Bd4 38.Kg2 g6 39.Be6+ Kh8 40.h5 Qe7 41.Qg4 Re8 42.Bd5 f5 43.Qh3 fxe4
+44.Bxe4 gxh5 45.Qxh5 Rf8 46.Rd2 Qf7 47.Qh6 Qg7 48.Qc6 b4 49.Qd6 Bc3 50.Ra2 Qf6
+51.Qc5 Kg7 52.Ra7+ Rf7 53.Bd5 Rxa7 54.Qxa7+ Kf8 55.Qxh7 Bd4 56.Qc2 Bc3 57.Qa2 Qd8
+58.Bc4 Ke7 59.Qa7+ Qd7 60.Qa8 Kd6 61.Bd5 Kc5 62.Bf3 Kd6 63.Qb8+ Ke7 64.Qa8 Qd8
+65.Qe4 Qd7 66.Qh4+ Kd6 67.Qf6+ Qe6 68.Qd8+ Kc5 69.Qa5+ Kd4 70.Qa7+ Kd3 71.Qa2 Kd4
+72.Kf1 e4 73.Qa7+ Ke5 74.Qc7+ Kd4 75.Qa7+ Ke5 76.Qe3 Qxb3 77.Qxe4+ Kf6 78.Kg2 Qe6
+79.Qd3 Qe5 80.Bd5 Qf5 81.Be4 Qc5 82.Bd5 Ke5 83.Qe4+ Kd6 84.Qe6+ Kc7 85.f4 Qd6
+86.Qe4 Qd7 87.Kf3 Kd6 88.g4 Qb5 89.Qe6+ Kc5 90.Ke4 Qe2+ 91.Kf5 Qd3+ 92.Be4 Qd8
+93.g5 Qf8+ 94.Kg4 Qd6 95.Qxd6+ Kxd6 96.Bc2 Ke7 97.Kh5 Kf7 98.Kh6 Kg8 99.f5 Kh8
+100.Kg6 Bd4 101.f6 Be3 102.Kf5 Kg8 103.Bb3+ Kh8 104.g6 Bh6 105.Ke6 Bg7 106.fxg7+  1-0
+
+[Event "It"]
+[Site "Dortmund GER"]
+[Date "2005.07.17"]
+[Round "9"]
+[White "Sutovsky,E"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2674"]
+[BlackElo "2719"]
+[ECO "C85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2 O-O
+9.Nc4 f6 10.Nh4 g6 11.g3 Nc5 12.Bh6 Rf7 13.b4 Ne6 14.Qd2 c5 15.Kh1 b5 16.Na5 Bf8
+17.Bxf8 Qxf8 18.a3 cxb4 19.axb4 c5 20.f4 exf4 21.gxf4 Qh6 22.Ng2 cxb4 23.Qxb4 Qf8
+24.Qxf8+ Kxf8 25.f5 Nc5 26.Ne3 gxf5 27.Nxf5 Bxf5 28.Rxf5 Rc8 29.Raf1 Nd7
+30.c4 Rc5 31.R5f2 Re7 32.d4 Rc7 33.c5 Rxe4 34.c6 Nb6 35.Rxf6+ Kg7 36.Rd6 Re2
+37.Nb7 Nc8 38.Rd7+ Re7 39.Rxc7 Rxc7 40.d5 Nb6 41.Nd6 Kg8 42.Ne8 Rc8 43.Nf6+ Kg7
+44.d6 Rxc6 45.d7 Nxd7 46.Nxd7 a5 47.Rg1+ Kh6 48.Ne5 Rc5 49.Nf7+ Kh5 50.Nd6 b4
+51.Rb1  1/2-1/2

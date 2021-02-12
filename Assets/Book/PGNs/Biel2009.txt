@@ -1,0 +1,582 @@
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.19"]
+[Round "1"]
+[White "Vachier Lagrave,M"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "C07"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 cxd4 5. Nxd4 Nf6 6. exd5 Qxd5 7. Nb5
+Na6 8. c4 Qc6 9. Nf3 b6 10. Be2 Bb7 11. O-O Be7 12. Nbd4 Qc8 13. Qa4+ Nd7
+14. Bg5 Nac5 15. Qa3 Nf6 16. b4 Nce4 17. Bxf6 Bxf6 18. c5 bxc5 19. Bb5+ Ke7
+20. Rac1 cxd4 21. Rxc8 Rhxc8 22. Ba6 Rab8 23. b5+ Nd6 24. Bxb7 Rxb7 25. Rd1
+Rc3 26. Qa6 Rxb5 27. Qxa7+ Rb7 28. Qa6 Rbc7 29. h3 R7c6 30. Qa7+ Rc7 31.
+Qa6 R7c6 32. Qa7+ 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.19"]
+[Round "1"]
+[White "Morozevich,A"]
+[Black "Alekseev,Evgeny"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2714"]
+[EventDate "2009.07.19"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. cxd5 Ne4
+8. Qc2 exd5 9. Bf4 Bf5 10. Qxc7 Qxc7 11. Bxc7 Rc8 12. Bf4 Rc2 13. f3 Nf6
+14. g4 Bg6 15. h4 Rxb2 16. h5 Bc2 17. e3 Ba4 18. Rh2 Rb3 19. Ne2 Nbd7 20.
+g5 Ne8 21. Nc1 Rb6 22. Na2 Nf8 23. Nb4 Rd8 24. h6 Ne6 25. hxg7 Nxf4 26.
+exf4 Nxg7 27. Bd3 Ne6 28. f5 Nf4 29. f6 h5 30. Kf2 a5 31. Kg3 Ng6 32. Rxh5
+axb4 33. Rah1 bxa3 34. Rh7 1-0
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.19"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2670"]
+[EventDate "2009.07.19"]
+[ECO "E32"]
+
+1. c4 Nf6 2. d4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. cxd5
+exd5 8. Bg5 Qd6 9. f3 Bf5 10. e3 Nbd7 11. Ne2 Rac8 12. b4 Rfe8 13. Bf4 Qe7
+14. g4 Be6 15. h4 Nf8 16. h5 h6 17. Ng3 N8h7 18. Qc5 Qd8 19. Qxa7 b6 20.
+Qa4 Ng5 21. Be2 c5 22. bxc5 bxc5 23. dxc5 Rxc5 24. Bxg5 hxg5 25. Qd4 Rc2
+26. h6 Qa5+ 27. Kf2 Rd2 28. Qe5 Nxg4+ 29. fxg4 f6 30. Qd6 d4 31. Qc6 Bd7
+32. Qc4+ Be6 33. Qc6 Bd7 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.20"]
+[Round "2"]
+[White "Morozevich,A"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2755"]
+[EventDate "2009.07.19"]
+[ECO "C24"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. exd5 Nxd5 7. O-O O-O
+8. Re1 Nd7 9. d4 exd4 10. Bxd5 cxd5 11. Qxd4 Bc5 12. Qd3 Qb6 13. Re2 Nf6
+14. Nc3 Bg4 15. Na4 Qc6 16. Nxc5 Qxc5 17. Be3 Qc4 18. Rd2 Qxd3 19. Rxd3
+Bxf3 20. gxf3 Rfe8 21. Rb3 Re7 22. Rd1 Rc8 23. Bxa7 Rxc2 24. Be3 Rd7 25.
+Rb5 h6 26. a4 Rc4 27. b3 Rh4 28. f4 Rh5 29. Kg2 Ne4 30. Rd4 Rd6 31. Rxe4
+1-0
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.20"]
+[Round "2"]
+[White "Caruana,F"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "D89"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 Nc6 9. Be3 O-O 10. O-O Bg4 11. f3 Na5 12. Bd3 cxd4 13. cxd4 Be6 14.
+Bf2 Rc8 15. Rc1 Rxc1 16. Qxc1 Bxa2 17. Qa3 Bc4 18. Bxc4 Nxc4 19. Qxa7 Qa8
+20. Ra1 Qxa7 21. Rxa7 Rb8 22. Nc3 Nd6 23. e5 Nc8 24. Ra5 e6 25. f4 Ne7 26.
+Rb5 Rc8 27. Be1 Rc7 28. d5 Nxd5 29. Nxd5 exd5 30. Rxd5 Bf8 31. Rd8 Kg7 32.
+Bh4 Be7 33. Bxe7 Rxe7 34. Kf2 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.20"]
+[Round "2"]
+[White "Alekseev,Evgeny"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "C15"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 c6 6. Qf3 Qf6 7. Qxf6 Nxf6
+8. Nge2 Nbd7 9. a3 Be7 10. f3 h5 11. h4 Nf8 12. Nf4 Bd7 13. Kf2 O-O-O 14.
+Nce2 Ne8 15. Bd2 Bf6 16. Bb4 g6 17. Rae1 Ng7 18. c3 Bf5 19. Ng3 Bxd3 20.
+Nxd3 Nfe6 21. a4 Rhe8 22. f4 b6 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.21"]
+[Round "3"]
+[White "Vachier Lagrave,M"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2751"]
+[EventDate "2009.07.19"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Nc6 8.
+Bc4 Be6 9. Nd5 Rc8 10. Nxf6+ Qxf6 11. Bxe6 Qxe6 12. O-O Be7 13. Nd2 d5 14.
+exd5 Qxd5 15. Qg4 O-O 16. Bh6 Bf6 17. Ne4 Qe6 18. Qxe6 fxe6 19. Be3 Nb4 20.
+c3 Nd5 21. Rfe1 Rc6 22. a4 Rfc8 23. g3 Be7 24. Kg2 Nf6 25. Ng5 Rd8 26. Nf3
+Rd5 27. Rac1 e4 28. Nd4 Rcd6 29. h3 Kf7 30. Nb3 Rc6 31. Nd2 h6 32. Re2 b5
+33. axb5 axb5 34. Nb3 e5 35. Ra1 b4 36. cxb4 Bxb4 37. Ra7+ Rd7 38. Rxd7+
+Nxd7 39. Nc1 Nf6 40. Na2 Bd6 41. Nc3 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.21"]
+[Round "3"]
+[White "Gelfand,B"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2714"]
+[EventDate "2009.07.19"]
+[ECO "D38"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. cxd5 exd5 7. Qa4 c5
+8. dxc5 Bxc3+ 9. bxc3 O-O 10. Qb4 h6 11. Bh4 Re8 12. e3 a5 13. Qa3 Qe7 14.
+Bb5 g5 15. Bg3 Nxc5 16. O-O Nce4 17. Qb2 Bd7 18. Bd3 Rac8 19. Qxb7 Nxg3 20.
+hxg3 Rxc3 21. Bb5 Bxb5 22. Qxb5 Qb4 23. a4 Rb8 24. Qe2 Qc4 25. Qd1 Qd3 26.
+Qe1 Rb2 27. Rd1 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.21"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2670"]
+[EventDate "2009.07.19"]
+[ECO "C48"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Ba4 c6 6. Nxe5 d5 7. d3 Bd6 8.
+Nf3 Bg4 9. Be3 Nxf3+ 10. gxf3 Bh5 11. exd5 O-O 12. dxc6 bxc6 13. Rg1 Nd5
+14. Nxd5 cxd5 15. Rg5 d4 16. Rxh5 dxe3 17. fxe3 g6 18. Rh3 Qb6 19. Kf2 Qxb2
+20. d4 Rac8 21. Bb3 Rxc2+ 22. Qxc2 Qxa1 23. f4 Qh1 24. Qc4 a5 25. Qf1 Qxf1+
+26. Kxf1 Kg7 27. f5 gxf5 28. Bc2 Rc8 29. Bxf5 Rc1+ 30. Ke2 h6 31. Be4 a4
+32. Rh4 a3 33. Rg4+ Kf6 34. h3 Bc7 35. Bd5 Rc2+ 36. Kd3 Rf2 37. Rg8 Bd6 38.
+Ra8 Kg7 39. Ra6 Bb4 40. Ra7 Bf8 41. e4 h5 42. Ke3 Rf6 43. e5 Rf5 44. Ke4
+Rf2 45. Ke3 Rf5 46. Ke4 Rf2 47. e6 Kg6 48. Ke3 Rf1 49. Ke2 1-0
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.23"]
+[Round "4"]
+[White "Ivanchuk,V"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2755"]
+[EventDate "2009.07.19"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. b3 Bd6 6. Bb2 O-O 7. Be2 Nbd7 8.
+O-O e5 9. cxd5 Nxd5 10. Ne4 Bc7 11. Qc2 f5 12. Ng3 e4 13. Nd4 Ne5 14. f4
+exf3 15. Nxf3 Nxf3+ 16. Bxf3 Bxg3 17. hxg3 Be6 18. Bxd5 Qxd5 19. Qc3 Qd7
+20. Rf4 Rf6 21. g4 Rg6 22. gxf5 Bxf5 23. Raf1 Be6 24. Ba3 h6 25. Qc2 Kh7
+26. R1f3 Rd8 27. Rg3 Qd3 28. Qxd3 Rxd3 29. Rxg6 Kxg6 30. Bb4 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.23"]
+[Round "4"]
+[White "Vachier Lagrave,M"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2714"]
+[EventDate "2009.07.19"]
+[ECO "C65"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bg5 d6 7. Nbd2 Bb6 8.
+Nc4 Ne7 9. Ba4 Ng6 10. h3 h6 11. Nxb6 axb6 12. Be3 d5 13. Bc2 c5 14. O-O
+Be6 15. a3 Qc7 16. exd5 Bxd5 17. Rc1 Rfe8 18. d4 e4 19. Nd2 c4 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.23"]
+[Round "4"]
+[White "Caruana,F"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2670"]
+[BlackElo "2751"]
+[EventDate "2009.07.19"]
+[ECO "D87"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 O-O 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Bf4 Be5 13. Bg3 Bxg3 14.
+fxg3 Rf8 15. h3 Na5 16. Bd3 e5 17. Qd2 Qe7 18. g4 Bd7 19. d5 c4 20. Bc2 f6
+21. Ng3 b6 22. Bd1 Nb7 23. Be2 Nd6 24. Rf2 Rac8 25. Rcf1 Kg7 26. Qe3 h6 27.
+Rb1 Rc5 28. Bd1 Ra5 29. Qd2 Be8 30. Be2 Qc7 31. Rbf1 Rf7 32. h4 Qe7 33. Qc2
+b5 34. Qb1 Qd8 35. Bd1 Qb6 36. Kh2 Qc5 37. Qc1 Ra6 38. Qd2 Rb6 39. Bc2 Rbb7
+40. Qc1 a5 41. a3 Rb8 42. Bd1 Bd7 43. Be2 Rh8 44. Qa1 h5 45. gxh5 f5 46.
+exf5 gxf5 47. Qb1 Qe3 48. Bg4 Qd3 49. Qe1 Re8 50. Rf3 Qxd5 51. Bxf5 e4 52.
+Bxe4 Qe5 53. h6+ Kf8 54. Rxf7+ Nxf7 55. Qf2 Re7 56. Bg6 Be8 57. Qf6 Qxf6
+58. Rxf6 Kg8 59. Nf5 1-0
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.24"]
+[Round "5"]
+[White "Morozevich,A"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "D31"]
+
+1. d4 e6 2. c4 d5 3. Nc3 c6 4. cxd5 exd5 5. Nf3 Nf6 6. Bg5 Be7 7. e3 Bf5 8.
+Bd3 Bxd3 9. Qxd3 Nbd7 10. O-O O-O 11. Qc2 Re8 12. Bxf6 Nxf6 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.24"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "A15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 O-O 7. O-O Nb6
+8. d3 Na6 9. Bf4 c6 10. Qd2 Bg4 11. Rfd1 Nc7 12. Ne5 Be6 13. d4 Ncd5 14.
+Nxd5 Nxd5 15. Bh6 Bxh6 16. Qxh6 Qb6 17. Nf3 f6 18. Qd2 Rad8 19. e3 Nc7 20.
+Qc2 Bf5 21. Qc4+ Be6 22. Qe2 Bd5 23. Ne1 e5 24. dxe5 fxe5 25. Nf3 Qc5 26.
+Ng5 Qe7 27. Ne4 Kg7 28. Qc2 Ne6 29. Qc3 Ng5 30. Nxg5 Qxg5 31. Bxd5 cxd5 32.
+f4 Qf6 33. Qxe5 Qxe5 34. fxe5 Rfe8 35. Rac1 Rd7 36. e4 Rxe5 37. Rxd5 Rexd5
+38. exd5 Rxd5 39. Rc7+ Kf6 40. Rxb7 Rd1+ 41. Kg2 Rd2+ 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.24"]
+[Round "5"]
+[White "Alekseev,Evgeny"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2670"]
+[EventDate "2009.07.19"]
+[ECO "B76"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
+Qd2 O-O 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Nxc3 13. Qxc3 Bh6+
+14. Be3 Bxe3+ 15. Qxe3 Qb6 16. Qxe7 Be6 17. Qa3 Rad8 18. Bd3 Rd5 19. Rhe1
+Ra5 20. Qc3 Rxa2 21. b3 Ra5 22. Bc4 Bxc4 23. Qxc4 Rc5 24. Qd4 Qb5 25. Kb2
+a5 26. Ra1 Rd5 27. Qf4 Rf5 28. Qe4 Rd8 29. Rad1 Rfd5 30. Rxd5 cxd5 31. Qd4
+Qb4 32. Rd1 Qd6 33. h4 Qe6 34. g4 a4 35. Qxa4 Qf6+ 36. Qd4 Qxh4 37. b4 Qh2
+38. Rd3 Qe2 39. Qe3 Qf1 40. Qd2 Re8 41. Rxd5 Qxf3 42. g5 h5 43. gxh6 Kh7
+44. Qd4 Kxh6 45. b5 Ra8 46. b6 Qf1 47. Kb3 Qa6 48. Kc3 Re8 49. Kb2 Ra8 50.
+Kc3 Re8 51. Kb2 Ra8 52. Kc3 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.25"]
+[Round "6"]
+[White "Ivanchuk,V"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "A10"]
+
+1. c4 g6 2. e4 e5 3. Nf3 Bg7 4. d4 exd4 5. Nxd4 Nc6 6. Be3 Nge7 7. Nc3 d6
+8. Nxc6 Nxc6 9. Be2 O-O 10. Qd2 f5 11. exf5 Bxf5 12. O-O Qf6 13. Rad1 Kh8
+14. Rfe1 Nb4 15. Rc1 Na6 16. Bf1 Rae8 17. f3 Nb4 18. Bf2 Nc6 19. Rxe8 Rxe8
+20. b3 Qf7 21. Nd5 a6 22. Rd1 Be6 23. h3 h6 24. Bd3 Ne5 25. Be4 g5 26. a4
+Rf8 27. a5 Bxh3 28. gxh3 Nxf3+ 29. Bxf3 Qxf3 30. Re1 Qxh3 31. Qe3 Rf3 32.
+Qe8+ Rf8 33. Qe3 Rf3 34. Qe8+ Rf8 35. Qe6 Qf3 36. Re2 Qd3 37. Ne7 Kh7 38.
+Qe4+ Qxe4 39. Rxe4 Re8 40. Kg2 Bf8 41. Nd5 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.25"]
+[Round "6"]
+[White "Caruana,F"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2755"]
+[EventDate "2009.07.19"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qh3 dxc4 13. Bxc4 Nc2
+14. Rd1 Qc8 15. Qg3 O-O 16. Rb1 Bd6 17. Qh4 Qg4 18. Qxg4 Nxg4 19. h3 Nf6
+20. Bg5 Be5 21. Nd5 c6 22. Bxf6 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.25"]
+[Round "6"]
+[White "Alekseev,Evgeny"]
+[Black "Morozevich,A"]
+[Result "1-0"]
+[WhiteElo "2714"]
+[BlackElo "2751"]
+[EventDate "2009.07.19"]
+[ECO "B17"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3
+Bg4 8. h3 Bh5 9. g4 Bg6 10. Ne5 Be4 11. f3 Bd5 12. Be3 g6 13. c4 Be6 14.
+Qd2 h5 15. Rg1 hxg4 16. hxg4 Nd7 17. Nxd7 Qxd7 18. O-O-O Rd8 19. Rg2 Bg7
+20. Rh2 Qd6 21. Rxh8+ Bxh8 22. Qc2 a6 23. Be2 b5 24. Kb1 bxc4 25. Bxc4 Bd5
+26. Qe2 Qe6 27. Bxd5 Rxd5 28. Qh2 Bf6 29. Bc1 c5 30. Qb8+ Rd8 31. d5 Qe2
+32. Qb3 c4 33. Qa4+ Kf8 34. Rd2 Qxf3 35. Qxc4 a5 36. a3 Qh1 37. Qd3 Kg8 38.
+Rd1 Qg2 39. Qc4 Qf3 40. Rd3 Qf1 41. Ka2 Qe2 42. g5 Be5 43. Kb1 e6 44. dxe6
+Kg7 45. e7 Re8 46. Qd5 Rxe7 47. Re3 Qh2 48. Bd2 f6 49. gxf6+ Kxf6 50. Qf3+
+Kg7 51. Bc3 Qg1+ 52. Ka2 Qg5 53. Rxe5 Rxe5 54. Qd5 Kf6 55. Qd6+ 1-0
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.27"]
+[Round "7"]
+[White "Gelfand,B"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2755"]
+[BlackElo "2751"]
+[EventDate "2009.07.19"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 a6 6. Ne5 Bb4+ 7. Nc3 Nd5 8.
+O-O O-O 9. Qc2 b5 10. Be4 Bb7 11. Nxd5 Bxd5 12. Bxh7+ Kh8 13. Be4 Qe8 14.
+Bg2 Bxg2 15. Kxg2 Nd7 16. Nf3 e5 17. b3 exd4 18. Nxd4 Qe5 19. Nf3 Qc3 20.
+Qb1 Qf6 21. Rd1 Ne5 22. Rd5 Ng6 23. a3 Bc3 24. Ra2 Qc6 25. Rh5+ Kg8 26. Rc2
+Bf6 27. bxc4 bxc4 28. Bg5 Rab8 29. Qc1 Rb5 30. Rxc4 Qe6 31. a4 Rd5 32. e4
+Ra5 33. e5 Bxe5 34. Bd2 Bb2 35. Rxa5 Bxc1 36. Rxc1 Qe4 37. Be3 Nh4+ 38.
+gxh4 Qg4+ 39. Kf1 Qxf3 40. Rac5 Re8 41. Kg1 Re4 42. Rg5 Rxh4 43. Rg3 Qh5
+44. Rxc7 Rxh2 45. Bd4 Rh1+ 46. Kg2 Qh2+ 47. Kf3 Rg1 48. Rxg1 Qxg1 0-1
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.27"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2714"]
+[EventDate "2009.07.19"]
+[ECO "E32"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. e3 b6 8.
+Nf3 Bb7 9. b3 Nbd7 10. Be2 c5 11. O-O Rc8 12. a4 Qc7 13. Rd1 Rfe8 14. Bb2
+dxc4 15. Bxc4 Ne4 16. Qc2 Ndf6 17. dxc5 Qxc5 18. Qe2 Qh5 19. h3 Rc5 20.
+Rac1 h6 21. Nd4 Qh4 22. Nf3 Qh5 23. Nd4 Qh4 24. f3 Nd6 25. Bb5 Rxc1 26.
+Rxc1 Nxb5 27. Qxb5 Rd8 28. Qe5 Qg5 29. Qxg5 hxg5 30. e4 Rd7 31. Nb5 a6 32.
+Na3 Nh5 33. Be5 f6 34. Bb8 Nf4 35. Bxf4 gxf4 36. Nc4 Rc7 37. Rd1 b5 38. Na5
+Bc8 39. axb5 axb5 40. b4 e5 41. Rd6 Kf8 42. Rb6 Bd7 43. Nb3 Ra7 44. Nc5 Be8
+45. h4 Ke7 46. Kh2 Kf8 47. Kh3 Bh5 48. Rb8+ Kf7 49. Rxb5 Ra1 50. Kh2 Ra2
+51. Kg1 Ra1+ 52. Kh2 Ra2 53. Ra5 Rb2 54. Nd3 Rb3 55. Rd5 Kg6 56. Kg1 Kh6
+57. Rd8 Kh7 58. Rd7 Kg8 59. Rd8+ Kh7 60. Rd7 Kg8 61. Rd8+ 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.27"]
+[Round "7"]
+[White "Vachier Lagrave,M"]
+[Black "Caruana,F"]
+[Result "1-0"]
+[WhiteElo "2703"]
+[BlackElo "2670"]
+[EventDate "2009.07.19"]
+[ECO "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bf4 Be7 12. Rad1 Nh4 13. Nd4 Nf5
+14. Nce2 g5 15. Bh2 a6 16. e6 Nd6 17. Rfe1 Rh6 18. exf7+ Kxf7 19. Nf3 g4
+20. Ne5+ Kg7 21. Bf4 Rh7 22. hxg4 hxg4 23. Ng3 Bf6 24. Nd3 Nf5 25. Ne4 Be7
+26. Bxc7 Be6 27. Nf4 Bf7 28. Rd7 Re8 29. Ng5 Rh6 30. Be5+ Kg8 31. Nxf7 Kxf7
+32. Bc3 g3 33. Re5 gxf2+ 34. Kxf2 Nd6 35. Bb4 Nc8 36. Rxb7 Rh4 37. Bxe7
+Rxf4+ 38. Ke3 1-0
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.28"]
+[Round "8"]
+[White "Morozevich,A"]
+[Black "Vachier Lagrave,M"]
+[Result "0-1"]
+[WhiteElo "2751"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "B90"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8.
+Qd2 Nbd7 9. g4 h6 10. O-O-O b4 11. Nce2 Qc7 12. h4 d5 13. Nf4 e5 14. Nfe6
+fxe6 15. Nxe6 Qa5 16. exd5 Qxa2 17. Qd3 Kf7 18. g5 Nxd5 19. Bh3 Nxe3 20.
+Nd8+ Ke7 21. Nc6+ Kf7 22. g6+ Kg8 23. Qxe3 Bc5 24. Qe4 Nf8 25. Rd8 Bb7 26.
+Rxa8 Bxa8 27. h5 Rh7 28. Re1 Bxc6 29. Qxc6 Bd4 30. Kd2 Qxb2 31. Qc4+ Kh8
+32. Kd3 a5 33. Qc8 Qa3+ 34. Ke4 b3 35. cxb3 a4 36. Rb1 Qb4 37. Qc4 Qb7+ 38.
+Qd5 Qb4 39. Qc4 Qd2 40. Bg4 a3 41. Qf7 Qc2+ 42. Kd5 Qc5+ 43. Ke4 a2 44. Rc1
+a1=Q 45. Rxc5 Bxc5 46. Qd5 Qe1+ 47. Kd3 Qd1+ 48. Kc4 Qxd5+ 49. Kxd5 Ba3 50.
+Bf5 Kg8 51. Kxe5 Rh8 52. Kd5 Nh7 53. gxh7+ Kf7 54. Bg6+ Kf6 55. f4 Bc1 56.
+f5 Bd2 57. Kd6 Be1 58. Kd7 Bb4 59. Kc7 Ke5 60. Kd7 Ba3 61. Kc6 Kd4 62. Kc7
+Kc3 63. Kd7 Kb4 64. Kd6 Kxb3+ 65. Kd5 Bb2 66. Kd6 Bf6 67. Kc5 Kc3 68. Kd6
+Kd4 69. Kc6 Rd8 70. Kb6 Kd5 71. Kc7 Kc5 72. Bf7 g5 73. fxg6 Rd6 74. Be8 Be5
+75. Kb7 Rb6+ 76. Kc8 Kd6 0-1
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.28"]
+[Round "8"]
+[White "Caruana,F"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "B07"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 c6 6. Bh6 Bxh6 7. Qxh6 Qa5
+8. Bd3 c5 9. Nge2 Nc6 10. d5 Ne5 11. Bb5+ Kd8 12. Ng3 c4 13. h3 a6 14. f4
+Nf3+ 15. gxf3 axb5 16. O-O b4 17. Nce2 Qc5+ 18. Kg2 Bd7 19. c3 bxc3 20.
+Nxc3 b5 21. a3 Kc7 22. Rad1 Rhg8 23. e5 Nh5 24. Rfe1 g5 25. exd6+ exd6 26.
+Nxh5 Rg6 27. Ne4 Rxh6 28. Nxc5 dxc5 29. Ng3 gxf4 30. Ne2 Kd6 31. Nxf4 Rg8+
+32. Kf2 Rh4 33. Ng2 Rxh3 34. Rh1 Rgg3 35. Rxh3 Rxh3 36. Re1 h5 37. Re4 Rh1
+38. a4 Rb1 39. axb5 Rxb2+ 40. Kg3 c3 41. Ne3 Bxb5 0-1
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.28"]
+[Round "8"]
+[White "Alekseev,Evgeny"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2755"]
+[EventDate "2009.07.19"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Nbd2 Nxd2 9. Bxd2 Bg4 10. c3 O-O 11. h3 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.29"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2703"]
+[BlackElo "2751"]
+[EventDate "2009.07.19"]
+[ECO "D37"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. e3 a6 6. a4 b6 7. Bxc4 Bb7 8.
+O-O Bb4 9. Qb3 Nc6 10. Rd1 Bd6 11. Qc2 Nb4 12. Qe2 Ne4 13. Nxe4 Bxe4 14.
+Bd2 Bxf3 15. Qxf3 O-O 16. a5 c6 17. axb6 Qxb6 18. h4 a5 19. h5 Be7 20. Rdc1
+Rfc8 21. b3 h6 22. Ra4 Nd5 23. e4 Bb4 24. exd5 Bxd2 25. dxe6 Bxc1 26. Qxf7+
+Kh8 27. Bd3 Qd8 28. Qg6 Qg8 29. Rc4 Ba3 30. g3 Be7 31. d5 cxd5 32. Rf4 Bd6
+33. Rf7 Rc7 34. Rd7 Be5 35. Qf5 Rxd7 36. exd7 Bc7 37. Bb5 Rf8 38. Qg6 Qf7
+0-1
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.29"]
+[Round "9"]
+[White "Vachier Lagrave,M"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2703"]
+[BlackElo "2755"]
+[EventDate "2009.07.19"]
+[ECO "C42"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5
+14. Bb5+ c6 15. Nxd5 cxb5 16. Qb3 O-O 17. Nxe7+ Qxe7 18. Qxb5 Rfd8 19. Be3
+a6 20. Qb3 Rac8 21. Rad1 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.29"]
+[Round "9"]
+[White "Caruana,F"]
+[Black "Alekseev,Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2714"]
+[EventDate "2009.07.19"]
+[ECO "B48"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. Be3 Nf6 7. f4 Bb4
+8. Ndb5 Qa5 9. e5 Nd5 10. Bd2 Nxc3 11. Bxc3 O-O 12. Qd2 Bxc3 13. Nxc3 f6
+14. exf6 Rxf6 15. O-O-O d5 16. Kb1 Bd7 17. g3 Be8 18. a3 Rb8 19. Nb5 Qxd2
+20. Rxd2 Bg6 21. Bh3 a6 22. Nc3 b5 23. Re1 Kf7 24. Nd1 h5 25. Ne3 Be4 26.
+Bg2 Bxg2 27. Nxg2 Rg8 28. Rd3 g5 29. Rc3 e5 30. fxe5 Re6 31. Rf1+ Kg6 32.
+h4 Nxe5 33. hxg5 Kxg5 34. Nf4 Rf6 35. Rh1 Rh8 36. Rc7 Rf7 37. Rc5 Kg4 38.
+Rxd5 Rf5 39. Ne2 Nf3 40. Rd6 Re8 41. Nf4 Rh8 42. Rg6+ Rg5 43. Rxa6 Kxg3 44.
+Rf6 h4 45. Rh3+ Kg4 46. Rxf3 Kxf3 47. Ng6+ Kg4 48. Nxh8 h3 49. Nf7 h2 50.
+Rf1 Rd5 51. Ka2 Kg3 52. Rh1 Kg2 53. Rxh2+ Kxh2 54. Kb3 Kg3 55. c4 bxc4+ 56.
+Kxc4 Rd2 57. Kc3 Rd5 58. Kc4 Rd2 59. b4 Kf4 60. b5 Kf5 61. a4 Ke6 62. Ng5+
+Kd7 63. Ne4 Rh2 64. Nc3 Kd6 65. Ne4+ Kc7 66. a5 Rh4 67. Kd5 Rh5+ 68. Kc4
+Rh4 69. Kd4 Kb7 70. Kd5 Rh5+ 71. Kc4 Rh4 72. Kd4 Kc7 73. Kd5 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.30"]
+[Round "10"]
+[White "Gelfand,B"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2755"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "E11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5 7. Bd3 c5 8.
+dxc5 dxe4 9. Nxe4 Nxe4 10. Bxe4 Qxd1+ 11. Kxd1 a5 12. Bf4 Bxc5 13. Ke2 f5
+14. Bc2 Nc6 15. Rhd1 a4 16. Kf1 b6 17. Kg1 h6 18. Bd6 Rf7 19. Rd2 Bxd6 20.
+Rxd6 Rc7 21. Rad1 Kf8 22. Nd4 Nxd4 23. R1xd4 b5 24. g4 bxc4 25. gxf5 Ke7
+26. fxe6 Rb8 27. Bxa4 Bxe6 28. Ra6 Bf5 29. Rc6 Rxc6 30. Bxc6 Rxb2 31. Rxc4
+Rb1+ 32. Kg2 Rb3 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.30"]
+[Round "10"]
+[White "Morozevich,A"]
+[Black "Caruana,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2670"]
+[EventDate "2009.07.19"]
+[ECO "D10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. h3 O-O 7. Be2 e6 8. O-O
+Nbd7 9. cxd5 exd5 10. b4 Ne4 11. Nxe4 dxe4 12. Nd2 Re8 13. Qc2 Qh4 14. Rb1
+Nf6 15. b5 Qg5 16. Kh1 Qh4 17. Kg1 Qg5 18. Kh1 Qh4 1/2-1/2
+
+[Event "GM"]
+[Site "Biel SUI"]
+[Date "2009.07.30"]
+[Round "10"]
+[White "Alekseev,Evgeny"]
+[Black "Vachier Lagrave,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2703"]
+[EventDate "2009.07.19"]
+[ECO "B96"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nc6 8.
+e5 h6 9. Bh4 dxe5 10. Nxc6 Qxd1+ 11. Rxd1 bxc6 12. fxe5 Nd7 13. Bg3 Rb8 14.
+b3 Bb4 1/2-1/2
+

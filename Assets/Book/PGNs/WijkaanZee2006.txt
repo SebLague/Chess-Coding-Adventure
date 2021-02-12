@@ -1,0 +1,1696 @@
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2729"]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Nc3 d5 6.Qb3 O-O 7.Bg2 Qb6 8.O-O Rd8
+9.h3 Be6 10.Ng5 Bf5 11.Qxb6 axb6 12.cxd5 Nxd5 13.e4 Nxc3 14.bxc3 Bd7 15.f4 Na6
+16.g4 Nc7 17.f5 Nb5 18.Bb2 Bh6 19.h4 f6 20.Nf3 gxf5 21.exf5 Nd6 22.Rfe1 Kf7
+23.Bh3 Rg8 24.Kf2 Bf4 25.Ne5+ fxe5 26.dxe5 Nc4 27.e6+ Kf8 28.exd7 Nxb2 29.Re4 Bd6
+30.Ke3 b5 31.Rb1 Nc4+ 32.Rxc4 bxc4 33.Rxb7 Kg7 34.Bg2 Kf6 35.g5+ Kxf5 36.Bxc6 Rab8
+37.Kd4 Kg4 38.a4 Kxh4 39.a5 Rxb7 40.Bxb7 Kxg5 41.a6 Bb8 42.Kxc4 Kf6 43.Kb5 e5
+44.Kb6 Ke7 45.Bc8 Rg2  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Mamedyarov,S"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2717"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Ne2 Bg4 8.f3 Be6
+9.Nbc3 Bc4 10.Bxc4 Nxc4 11.Qb3 Nb6 12.e6 fxe6 13.Be3 Qd7 14.O-O g6 15.Rfd1 Na5
+16.Qb4 Nc6 17.Qb3 Na5 18.Qb4 Nc6 19.Qb5 a6 20.Qb3 Na5 21.Qb4 Nc6 22.Qb3 Na5
+23.Qb4 Nc6 24.Qb3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Tiviakov,S"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2707"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Be7 7.a4 Bb7 8.c3 O-O
+9.O-O d5 10.d4 Na5 11.Bc2 dxe4 12.Nxe5 b4 13.Nd2 c5 14.Nxe4 b3 15.Nxf6+ Bxf6
+16.Be4 Bxe4 17.Qxe4 cxd4 18.cxd4 Rc8 19.Be3 Re8 20.Rac1 Nc4 21.Qb7 Nxe5 22.dxe5 Bxe5
+23.Rxc8 Qxc8 24.Qxb3 Qb8 25.Qxb8 Rxb8 26.Rc1 Bxb2 27.Rc6 Bd4 28.h3 Bxe3 29.fxe3 h5
+30.Kf2 a5 31.Rc5 g6 32.Rxa5 Rb4 33.Kf3 Kg7 34.Ra8 f5 35.a5 Ra4 36.a6 h4 37.a7 Kh7
+38.Ke2 Ra3 39.Kd2 Kg7 40.Kc2 Ra1 41.Kc3 Ra2 42.Kd3 Ra4 43.Kc2 Ra3 44.Kb2 Ra4
+45.Kb3 Ra1 46.Kc4 Ra2 47.Kc5 Ra1 48.Kd5 Ra4 49.Ke5 Re4+ 50.Kd6 Ra4 51.Kd5 Ra5+
+52.Kc6 Ra1 53.Kc5 Ra2 54.Kd4 Ra4+ 55.Kd3 Kh7 56.Ke2 Kg7 57.Kf3 Kh7 58.g3 hxg3
+59.Kxg3 Kg7 60.Kf3 Kh7 61.Ke2 Kg7 62.Kd3 Kh7 63.Kc3 Kg7 64.Kb3 Ra1 65.Kc4 Ra2
+66.Kd5 Ra5+ 67.Ke6 Ra3 68.Kd6 Ra4 69.h4 Ra3 70.Kc5 Ra1 71.Kd5 Ra5+ 72.Kd4  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Karjakin,Sergey"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2792"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Be7
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 b4 13.Ne2 Ne8 14.f4 a5 15.f5 a4 16.Nbd4 exd4
+17.Nxd4 b3 18.Kb1 bxc2+ 19.Nxc2 Bb3 20.axb3 axb3 21.Na3 Ne5 22.h4 Ra5 23.Qc3 Qa8
+24.Bg2 Nc7 25.Qxc7 Rc8 26.Qxe7 Nc4 27.g6 hxg6 28.fxg6 Nxa3+ 29.bxa3 Rxa3
+30.gxf7+ Kh7 31.f8=N+ Rxf8 32.Qxf8 Ra1+ 33.Kb2 Ra2+ 34.Kc3 Qa5+ 35.Kd3 Qb5+
+36.Kd4 Ra4+ 37.Kc3 Qc4+  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Topalov,V"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2686"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.Nf3 Nxd5 4.d4 Bf5 5.Bd3 Bxd3 6.Qxd3 e6 7.O-O Nc6 8.c4 Nb6
+9.Nc3 Be7 10.Bf4 g5 11.Bg3 g4 12.Ne5 Nxd4 13.c5 Bxc5 14.Rad1 O-O 15.Ne4 Be7
+16.Nxg4 c5 17.b4 Nd5 18.bxc5 Nf5 19.Qf3 Rc8 20.Bd6 Nxd6 21.cxd6 Bh4 22.d7 Rc6
+23.Ne5 Rc7 24.Qg4+ Kh8 25.Nd6  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Van Wely,L"]
+[Black "Sokolov,Iv"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2689"]
+[ECO "D18"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qe2 Bg4 10.h3 Bh5 11.Rd1 O-O 12.e4 Qa5 13.Na2 Be7 14.Bd2 Qc7 15.Rac1 e5
+16.d5 Nc5 17.Nc3 a5 18.g4 Bg6 19.Nh4 Kh8 20.Nf5 Rad8 21.Nxe7 Qxe7 22.Bg5 h6
+23.Bh4 Ncd7 24.d6 Qe8 25.Rb1 Rb8 26.b4 axb4 27.Rxb4 Qd8 28.Qb2 Nc5 29.f3 Qa5
+30.Bxf6 gxf6 31.Kg2 Rbd8 32.Rb6 Rd7 33.Qb4 Qxb4 34.Rxb4 Rfd8 35.Kf2 Rxd6
+36.Rxd6 Rxd6 37.Ke3 Rd4 38.a5 Na6 39.Ra4 Nc5 40.Rb4 Na6 41.Ra4 Nc5  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.14"]
+[Round "1"]
+[White "Gelfand,B"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2740"]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Nbd7 11.Ba5 Rc8 12.Nbd2 Nb8 13.a3 Nc6 14.Bc3 b4 15.axb4 Nxb4
+16.Qa4 Nbd5 17.Ba5 Qd7 18.Ne5 Qxa4 19.Rxa4 c5 20.e4 Nc7 21.dxc5 Bxc5 22.Rc1 Nb5
+23.Rac4 Nd4 24.Kf1 Bd6 25.Nd3 Rxc4 26.Rxc4 Nc6 27.Bc3 Be7 28.Nb3 Nd7 29.Na5 Nxa5
+30.Bxa5 Rc8 31.Rxc8+ Bxc8 32.e5 Nc5 33.Nb4 Nb3 34.Nc6 Bc5 35.Bc3 Kf8 36.f4 Bb7
+37.Nb8  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.15"]
+[Round "2"]
+[White "Van Wely,L"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2709"]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be2 d6 6.Nf3 Bg4 7.Be3 Nfd7 8.Rc1 a6
+9.O-O c5 10.d5 b5 11.cxb5 axb5 12.Bxb5 Ne5 13.Be2 Nxf3+ 14.Bxf3 Bxf3 15.Qxf3 Nd7
+16.Qe2 Qa5 17.Bg5 Rfe8 18.f4 Qa6 19.Qg4 Bd4+ 20.Kh1 Nf6 21.Qf3 Bxc3 22.bxc3 Qc4
+23.Bxf6 exf6 24.e5 Rxa2 25.exf6 Rae2 26.Ra1 h6 27.f5 R2e3 28.Qf4 Qxf4 29.Rxf4 Re1+
+30.Rf1 Rxf1+ 31.Rxf1 gxf5 32.Kg1 Re5 33.c4 Kh7 34.Ra1 Re4 35.Ra6 Rxc4 36.Rxd6 Rc1+
+37.Kf2 Kg6 38.Rc6 c4 39.Ke3 c3 40.Kd3 Rd1+ 41.Ke3 Re1+ 42.Kd4 Re2 43.Kxc3 Rxg2
+44.d6 Kxf6 45.d7+ Ke7 46.Rxh6 Rg6 47.Rh5 Rd6 48.Rxf5 Rxd7 49.Rf2  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.15"]
+[Round "2"]
+[White "Leko,P"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2660"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Be7
+9.Qd2 O-O 10.O-O-O Nbd7 11.g4 b5 12.g5 b4 13.Ne2 Ne8 14.h4 a5 15.Kb1 a4 16.Nbc1 Nb6
+17.Ng3 d5 18.Bxb6 Qxb6 19.exd5 Rd8 20.Bc4 Nc7 21.dxe6 Rxd2 22.exf7+ Kh8 23.Rxd2 Qc6
+24.b3 Nb5 25.Bxb5 Qxb5 26.bxa4 Qxa4 27.Rhd1 Rxf7 28.Rd7 Kg8 29.Ne4  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.15"]
+[Round "2"]
+[White "Anand,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2792"]
+[BlackElo "2752"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Na5 11.Ba2 c5 12.Nbd2 Nc6 13.Nf1 Bc8 14.Ne3 Be6 15.Bd5 Bd7
+16.Bb3 Be6 17.c3 Bxb3 18.Qxb3 g6 19.Qa2 a5 20.a4 b4 21.Bd2 Qc7 22.Nh2 Rfd8
+23.Nhg4 Nxg4 24.Nxg4 Bf8 25.Re3 Bg7 26.Rf3 Qe7 27.Qd5 Rac8 28.Rd1 Rd7 29.Ne3 Qe6
+30.Nc4 Rcc7 31.Bg5 h6 32.Bf6 Qxd5 33.exd5 Ne7 34.Bxe7 Rxe7 35.Nxa5 bxc3 36.bxc3 e4
+37.Re3 exd3 38.Rdxd3 c4 39.Nxc4 Rxe3 40.Nxe3 Ra7 41.g3 Rxa4 42.Kg2 Bf6 43.Kf3 Bd8
+44.Rd4 Ra3 45.Rb4 Bf6 46.Rb6 Be5 47.c4 Kg7 48.g4 Ra1 49.Ke4 Bh2 50.Kf3 Ra2
+51.Rb1 Be5 52.Rd1 Bc3 53.Rc1 Bd4 54.Rc2 Ra3 55.Kg2 Bxe3 56.fxe3 Rxe3 57.c5 dxc5
+58.Rxc5 Rd3 59.h4 Kf6 60.Rc6+ Ke5 61.g5 hxg5 62.hxg5 Rxd5 63.Rf6 Ke4 64.Rxf7 Rxg5+
+65.Kh3 Rf5 66.Ra7 Ke5  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.15"]
+[Round "2"]
+[White "Adams,Mi"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2707"]
+[BlackElo "2801"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O Be7 8.a4 Nc6
+9.Be3 O-O 10.f4 Qc7 11.Kh1 Re8 12.Bf3 Bf8 13.Qd2 Na5 14.b3 Rb8 15.Rad1 Nc6
+16.Bf2 Nd7 17.Bg3 Nxd4 18.Qxd4 b5 19.axb5 axb5 20.b4 g6 21.e5 d5 22.f5 gxf5
+23.Nxd5 Qc4 24.Qd2 h6 25.h3 exd5 26.Bxd5 Qxb4 27.c3 Qc5 28.Rxf5 Re6 29.Rxf7 Nb6
+30.Rdf1 Nxd5 31.Rxf8+ Qxf8 32.Rxf8+ Kxf8 33.Qxd5 Ke8 34.Bh4 Bd7 35.Bf6 b4
+36.Qe4 Bc8 37.cxb4 Rb7 38.Qg6+ Kd7 39.Qxh6 Kc7 40.Qf4 Kb8 41.h4 Rc7 42.h5  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.15"]
+[Round "2"]
+[White "Bacrot,E"]
+[Black "Tiviakov,S"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2669"]
+[ECO "B37"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Nc2 Bg7 8.Be2 Nd7
+9.Bd2 Nc5 10.O-O O-O 11.b4 Ne6 12.Rc1 Ned4 13.Nxd4 Nxd4 14.Be3 Nxe2+ 15.Qxe2 Be6
+16.Nd5 Qd7 17.Rfd1 b6 18.b5 f5 19.exf5 Rxf5 20.Nb4 Bf7 21.Nc6 Re8 22.Qd3 Rc8
+23.Qe4 Rc7 24.a4 h5 25.h3 Qe6 26.Qxe6 Bxe6 27.Re1 Bc8 28.a5 bxa5 29.Bxa7 Kf7
+30.Bb6 Rxc6 31.bxc6 a4 32.Red1 a3 33.Bd4 Bxd4 34.Rxd4 Be6 35.Rd5 Ke8 36.Rxf5 gxf5
+37.Ra1 Kd8 38.Rxa3 Kc7 39.Re3 Bxc4 40.Rxe7+ Kxc6 41.f3  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.15"]
+[Round "2"]
+[White "Sokolov,Iv"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteElo "2689"]
+[BlackElo "2729"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb4 5.Qb3 c5 6.a3 Ba5 7.Bg5 Bb7 8.dxc5 Na6
+9.c6 dxc6 10.Qc2 c5 11.Rd1 Qc7 12.Bxf6 gxf6 13.g3 Ke7 14.Bg2 Nb4 15.Qb3 Nc6
+16.O-O Rad8 17.Ne4 h6 18.Qe3 Ne5 19.Nxe5 Qxe5 20.Rxd8 Rxd8 21.Nxf6 Qxe3 22.fxe3 Ba6
+23.Ng4 Rd2 24.b3 Bc3 25.Nxh6 f5 26.g4 Bg7 27.g5 Rxe2 28.e4 Bb7 29.Rf4 Be5
+30.Rf1 Bxe4 31.Bxe4 Rxe4 32.Kg2 Rh4 33.Re1 Rxh2+ 34.Kg1 Rh5 35.Nxf5+ Kd7
+36.Rd1+ Kc7 37.Ne3 Bd4 38.Rd3 Rxg5+ 39.Kf1 Kc6 40.Nc2 e5 41.Rh3 e4 42.Rh6+ Kd7
+43.Rh4 Rg1+ 44.Ke2 Rg2+ 45.Kd1 e3 46.Re4 Rd2+ 47.Kc1 a5 48.b4 a4 49.bxc5 bxc5
+50.Ne1 Rf2 51.Kd1 Kd6 52.Re8 Be5 53.Nd3 Rd2+ 54.Kc1 Bd4 55.Ne1 Rh2 56.Kd1 Rb2
+57.Nc2 Rb3 58.Re4 Rd3+ 59.Kc1 Be5 60.Nxe3 Rxe3 61.Rxe3 Bf4 62.Kd2 Bxe3+ 63.Kxe3 Ke5
+64.Kd3 Kf4 65.Kd2 Ke4 66.Ke2 Kd4 67.Kd2 Kxc4 68.Kc2 Kd4 69.Kd2 c4 70.Kc2 c3
+71.Kc1 Kc5 72.Kd1 Kd5 73.Kc1 Kd4  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.15"]
+[Round "2"]
+[White "Kamsky,G"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2686"]
+[BlackElo "2723"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5
+9.dxe5 Nxe5 10.Bf4 Nfd7 11.Qc1 g6 12.Bg2 Bg7 13.O-O O-O 14.a5 Be6 15.Nxe5 Nxe5
+16.a6 bxa6 17.Rxa6 Rab8 18.Qa1 Qb7 19.Ra5 Nc4 20.Rxa7 Qxb2 21.Bxb8 Qxb8 22.Rb1 Qe5
+23.Rc1 Nd2 24.Rc2 Nb3 25.Qa3 Qb8 26.Bxc6 Bxc3 27.Rxc3 Nd4 28.Ra8 Nxe2+ 29.Kg2 Qxa8
+30.Bxa8 Nxc3 31.Qa5 Nb5 32.f3 Nd6 33.g4 Rc8 34.Kg3 Nc4 35.Qa1 Rd8 36.h4 Ne3
+37.Be4 Nd5 38.Qe5 h6 39.Bxg6 Rd7 40.Be4 Ne7 41.Qf6  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Mamedyarov,S"]
+[Black "Sokolov,Iv"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2689"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Qc2 e6 6.Nf3 c5 7.cxd5 exd5 8.Be2 Nc6
+9.O-O Be6 10.Rd1 Nb4 11.Qd2 Ne4 12.Nxe4 dxe4 13.Ne5 cxd4 14.exd4 Be7 15.a3 Nd5
+16.Qc2 f6 17.Nc4 f5 18.f3 O-O 19.fxe4 fxe4 20.Qxe4 Bf5 21.Qe5 Bf6 22.Qd6 Bc2
+23.Rd2 Bg6 24.Rd1 Bc2 25.Rd2 Bg6 26.Rd1  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Gelfand,B"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2707"]
+[ECO "E09"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Be7 6.Nf3 O-O 7.O-O c6 8.Bf4 Nbd7
+9.Qc2 Nh5 10.Bc1 Nhf6 11.Nbd2 b6 12.e4 dxc4 13.Nxc4 Bb7 14.Bf4 c5 15.Rfe1 cxd4
+16.Nd6 d3 17.Qxd3 Nc5 18.Qd4 Nh5 19.Nxb7 Nxb7 20.Bd2 Nf6 21.Rad1 Qe8 22.e5 Nd5
+23.Ng5 h6 24.Bxd5 exd5 25.Qxd5 Bxg5 26.Bxg5 Nc5 27.Be3 Ne6 28.Qe4 Qb5 29.b3 Rad8
+30.Rd6 Rfe8 31.Red1 Qe2 32.R1d2 Qe1+ 33.Kg2 Rc8 34.Qg4 Rc1 35.Rd1 Rxd1 36.Rxd1 Qa5
+37.Bxh6 Qxa2 38.Rd6 Re7 39.Bxg7  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Tiviakov,S"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2647"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 e6 5.Nf3 Nf6 6.Na3 Qd8 7.Nc2 Nc6 8.Bd3 cxd4
+9.Ncxd4 Nxd4 10.Nxd4 Bc5 11.O-O Bxd4 12.Qa4+ Ke7 13.cxd4 Qd6 14.b3 Bd7 15.Qa5 b6
+16.Qe5 Bc6 17.Rd1 h6 18.h3 Rhd8 19.a4 Qd5 20.Ba3+ Ke8 21.Bf1 Qxe5 22.dxe5 Rxd1
+23.Rxd1 Nd5 24.Rd3 a6 25.Rg3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Aronian,L"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2740"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qa4 Bb7 6.Bg2 c5 7.dxc5 Bxc5 8.O-O O-O
+9.Nc3 Be7 10.Rd1 Na6 11.Bf4 Nc5 12.Qc2 Qc8 13.Rd4 d5 14.cxd5 Nxd5 15.Bg5 Bxg5
+16.Nxg5 Nf6 17.Bxb7 Qxb7 18.b4 h6 19.Nf3 Ncd7 20.Nb5 Rfc8 21.Qd2 Rc6 22.Rd1 a6
+23.Nd6 Qc7 24.e4 e5 25.Rd3 Rc2 26.Qe1 a5 27.Ra3 Ng4 28.Rd2 Rc1 29.Rd1 Rc2
+30.Rd2 Rc1 31.Rd1 Rc2  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Topalov,V"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2717"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.h4 Bf6 11.Ng5 h6 12.Bd3 Nxd3+ 13.Qxd3 g6 14.Nf3 h5 15.Rde1 Bf5
+16.Qd2 Re8 17.Bg5 Bxg5 18.Nxg5 Qf6 19.f3 Re5 20.Rxe5 dxe5 21.Rd1 Qc6 22.b3 Re8
+23.Kb2 e4 24.fxe4 Bxe4 25.Qf4 Bf5 26.Rd2 Qc5 27.Nf3 Bg4 28.a4 Bxf3 29.Qxf3 c6
+30.Rd7 Re7 31.Qd3 Rxd7 32.Qxd7 Qb6 33.b4 c5 34.a5 Qc6 35.Qxc6 bxc6 36.Kb3 Kf8
+37.Kc4 Ke7 38.Kxc5 Kd7 39.c4 f6 40.b5 g5 41.b6 axb6+ 42.Kxb6 Kc8 43.Kxc6 gxh4
+44.c5  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Karjakin,Sergey"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2686"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 g6 8.Nc3 Bg7
+9.Be3 O-O 10.Rc1 Nbd7 11.Qd2 Qc7 12.f3 b6 13.Rfd1 Bb7 14.Bf1 Rfc8 15.b4 Bf8
+16.a3 Rab8 17.Kh1 Qd8 18.Qf2 Ne5 19.Na4 Nfd7 20.Nb3 Ba8 21.Nb2 Rc7 22.Na4 Rcc8
+23.Bd4 Rc6 24.c5 bxc5 25.Naxc5 Nxc5 26.Nxc5 Qc8 27.Qe3 Bb7 28.Bxe5 dxe5 29.Nd7 Rxc1
+30.Qxc1 Ra8 31.Nb6 Qxc1 32.Rxc1 Rd8  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Ivanchuk,V"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2729"]
+[BlackElo "2792"]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.e3 e5 5.Be2 d5 6.d4 exd4 7.exd4 Be6 8.Be3 dxc4
+9.Qa4 cxd4 10.Nxd4 Bd7 11.Qxc4 Rc8 12.O-O Bd6 13.Nxc6 Rxc6 14.Qh4 O-O 15.Bxa7 b6
+16.Rad1 Bc5 17.b4 Be7 18.Qd4 Rd6 19.Qc4 Be6 20.Qa6 Nd5 21.Nxd5 Bxd5 22.Rfe1 Rg6
+23.g3 Bxb4 24.Bc4 Bxe1 25.Bxd5 Qe7 26.a4 Rf6 27.f4 Qe3+ 28.Kh1 Bxg3  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.16"]
+[Round "3"]
+[White "Topalov,V"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2717"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.h4 Bf6 11.Ng5 h6 12.Bd3 Nxd3+ 13.Qxd3 g6 14.Nf3 h5 15.Rde1 Bf5
+16.Qd2 Re8 17.Bg5 Bxg5 18.Nxg5 Qf6 19.f3 Re5 20.Rxe5 dxe5 21.Rd1 Qc6 22.b3 Re8
+23.Kb2 e4 24.fxe4 Bxe4 25.Qf4 Bf5 26.Rd2 Qc5 27.Nf3 Bg4 28.a4 Bxf3 29.Qxf3 c6
+30.Rd7 Re7 31.Qd3 Rxd7 32.Qxd7 Qb6 33.b4 c5 34.a5 Qc6 35.Qxc6 bxc6 36.Kb3 Kf8
+37.Kc4 cxb4 38.cxb4 Ke7 39.Kc5 Kd7 40.c4 f6 41.b5 g5 42.b6 axb6+ 43.Kxb6 Kc8
+44.Kxc6 gxh4 45.c5  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.17"]
+[Round "4"]
+[White "Leko,P"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2729"]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 O-O 8.Qe2 Be7
+9.O-O-O b6 10.Qe3 Bb7 11.Bc4 Nd7 12.d5 exd5 13.Bxd5 Bxd5 14.Rxd5 c6 15.Rd2 Qc7
+16.Rhd1 Nc5 17.Nxc5 Bxc5 18.Qe5 Qc8 19.Nd4 Re8 20.Qg3 Re4 21.Qf3 Rxd4 22.Rxd4 Bxd4
+23.Rxd4 Qe6 24.Kb1 Re8 25.a3 h6 26.Rd3 Kf8 27.Re3 Qd6  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.17"]
+[Round "4"]
+[White "Bacrot,E"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2723"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5
+9.dxe5 Nxe5 10.Bf4 Nfd7 11.Bg2 f6 12.O-O Nc5 13.Ne3 Bg6 14.b4 Ne6 15.b5 Rd8
+16.Qb3 Nd4 17.Qb2 Bc5 18.Rfc1 Qe7 19.bxc6 bxc6 20.Ne4 Bb4 21.Nc4 Nxc4 22.Rxc4 c5
+23.e3 Ne6 24.Nc3 Nxf4 25.Bc6+ Kf8 26.Rxf4 Qe5 27.Rc1 a5 28.Bb5 Ke7 29.Qb3 Rd2
+30.e4 Rhd8 31.Nd5+ Kf8 32.Qf3 Rd4 33.Rc4 Bd2 34.Rxc5 Bxf4 35.Nxf4 Qxe4 36.Bc6 Qxf3
+37.Bxf3 Bf7 38.Rxa5 g5 39.Ne2 Rc4 40.h3 Rd1+ 41.Kg2 Ra1 42.Ra8+ Kg7 43.a5 Rca4
+44.Rd8 Rxa5 45.Nd4 f5 46.Rd7 Kf6 47.Rd6+ Ke5 48.Rd8 Rc5 49.Nc6+ Ke6 50.Rh8 Kf6
+51.Rxh7 g4 52.hxg4 fxg4 53.Be4 Re1 54.Nd8 Bd5 55.Rh6+ Ke7 56.Bxd5 Rxd5 57.Nc6+ Kd7
+58.Rg6 Rdd1 59.Nb8+ Kc8 60.Rg8+ Kb7 61.Rxg4 Kxb8  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.17"]
+[Round "4"]
+[White "Kamsky,G"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2686"]
+[BlackElo "2752"]
+[ECO "C85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Bd6 8.Nbd2 Be6
+9.b3 Nd7 10.Bb2 c5 11.g3 O-O 12.Nh4 Re8 13.Nf5 Bxf5 14.exf5 Qg5 15.f6 Nxf6
+16.Ne4 Qf5 17.Nxf6+ Qxf6 18.f4 Qh6 19.f5 e4 20.Re1 Rad8 21.Qg4 exd3 22.cxd3 Bf8
+23.Rxe8 Rxe8 24.Rd1 Qe3+ 25.Kf1 g6 26.Bc1 Qe5 27.fxg6 hxg6 28.Qf3 Qa1 29.Qf2 Bg7
+30.Kg2 Qe5 31.Rf1 Qe7 32.Bg5 Qd7 33.Qf3 Bd4 34.g4 c6 35.h4 Re6 36.Kh3 b5
+37.Bd2 Rf6 38.Qg2 Rd6 39.Bf4 Rd5 40.Rf3 Qe6 41.Bg3 Bg7 42.Qf1 Rd8 43.Bf2 Qd5
+44.Qe2 Bf8 45.Kg2 Rd6 46.Kg1 Re6 47.Re3 Rxe3 48.Bxe3 Qe5 49.Kf1 Qg3 50.h5 Qh3+
+51.Kg1 Bd6 52.hxg6 fxg6 53.Bf4 Bf8 54.Qe6+ Kh7 55.Qd7+ Bg7 56.Kf2 Qh4+ 57.Ke2 Qf6
+58.Ke3 Qa1 59.g5 Qe1+ 60.Kf3 Qf1+ 61.Ke3 c4 62.dxc4 bxc4 63.bxc4 Qc1+ 64.Kf3 Qxc4
+65.Qh3+ Kg8 66.Qc8+ Bf8 67.Qe8 Qd3+ 68.Be3 c5 69.Qc6 Qf1+ 70.Kg3 Qe1+ 71.Kf4 Qh4+
+72.Ke5 Qh8+  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.17"]
+[Round "4"]
+[White "Sokolov,Iv"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2792"]
+[ECO "D28"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.Qe2 a6 7.dxc5 Bxc5 8.O-O Nc6
+9.Nc3 Qc7 10.Bd2 O-O 11.Rac1 Bd7 12.Bd3 Ne5 13.b4 Nxd3 14.Qxd3 Qd6 15.Nd5 Qxd5  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.17"]
+[Round "4"]
+[White "Mamedyarov,S"]
+[Black "Tiviakov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2669"]
+[ECO "E42"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 O-O 7.a3 Be7 8.Nf4 d5
+9.cxd5 Nxd5 10.Ncxd5 exd5 11.Bd3 Nc6 12.O-O Bf6 13.Be3 g6 14.Qd2 Qd6 15.Bc2 Ne7
+16.Rac1 b6 17.Nd3 Bf5 18.Bf4 Qd8 19.Ne5 Bxc2 20.Qxc2 Nf5 21.Qa4 Re8 22.Rfe1 Bg7
+23.h3 b5 24.Qxb5 Nxd4 25.Qb7 Qf6 26.Bg3 Qf5 27.Rc7 Qe6 28.Rxf7 Bxe5 29.Rxh7 Reb8
+30.Qd7 Qxd7 31.Rxd7 Bxg3 32.fxg3 Rd8 33.Rb7 Rdb8 34.Rd7 Rd8 35.Rb7 Re8 36.Rf1 Rf8
+37.Rd1 Ne2+ 38.Kh2 d4 39.Rd2 Rfe8 40.Rd7 a5 41.b4 axb4 42.axb4 Ra3 43.Rc2 Rae3
+44.Rcc7 Rxg3 45.b5 Rb3 46.Rg7+ Kh8 47.Rh7+ Kg8 48.Rcg7+ Kf8 49.Rb7 Kg8 50.Rhg7+ Kh8
+51.b6 Rxb6 52.Rh7+  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.17"]
+[Round "4"]
+[White "Van Wely,L"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2647"]
+[BlackElo "2801"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.a4 e6 6.Bg5 h6 7.Bh4 dxc4 8.e3 b5 9.axb5 cxb5
+10.Bxf6 gxf6 11.Nxb5 axb5 12.Rxa8 Bb4+ 13.Ke2 Bb7 14.Ra1 f5 15.Ne5 Rg8 16.f4 Nc6
+17.Nf3 Na5 18.Kf2 Nb3 19.Ra7 Be4 20.Ra2 e5 21.fxe5 f4 22.Be2 fxe3+ 23.Kxe3 Qd5
+24.g3 Nxd4 25.Nxd4 Bxh1 26.Bf3 Qxe5+ 27.Kf2 Bc5 28.Bxh1 Bxd4+ 29.Kf1 Rg5
+30.Bf3 Kf8 31.Kg2 Qe3 32.Kh3 Kg7 33.b3 cxb3 34.Ra3 b4 35.Rxb3 Bc3 36.Qe2 Qc5
+37.Qd3 Qc8+ 38.Kg2 Ra5 39.Qc2 Qe6 40.Qb1 Ra1 41.Qc2 Bd4 42.Bd1 Qe1 43.Bf3 Qf1+  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.17"]
+[Round "4"]
+[White "Adams,Mi"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2707"]
+[BlackElo "2660"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Kh1 Nc6 10.f3 Be6 11.Nd5 a5 12.Be3 a4 13.Nc1 Bxd5 14.exd5 Nd4 15.Bxd4 exd4
+16.Qxd4 Qa5 17.Rd1 Nd7 18.Rb1 Rfe8 19.b4 axb3 20.Nxb3 Qc7 21.Qc4 Rec8 22.Qxc7 Rxc7
+23.c4 Rxa2 24.Rd2 Rxd2  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Karjakin,Sergey"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2717"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4 14.cxd4 Nb4 15.Bb1 c5
+16.d5 Nd7 17.Ra3 f5 18.Nh2 Nf6 19.Rf3 fxe4 20.Nxe4 Nbxd5 21.Ng4 Kh8 22.Bd2 Nxe4
+23.Rxe4 Rxe4 24.Bxe4 Nc3 25.Bxc3 Bxe4 26.Rf4 Bg6 27.Nxh6 Qg5 28.Qf3 Qxh6
+29.Bd2 Qxf4 30.Bxf4 Re8 31.axb5 axb5 32.Qc6 Kh7 33.Qxb5 d5 34.Qd7 d4 35.h4 Re4
+36.Bg3 Be7 37.h5 Bxh5 38.f3 Re2 39.Kf1 Rxb2 40.Qxe7 Rb1+ 41.Kf2  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Gelfand,B"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2647"]
+[ECO "D85"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Be3 Nc6 14.d5 Na5 15.Bg5 b6
+16.Bxe7 Rfe8 17.d6 Nc6 18.Bb5 Nxe7 19.Bxe8 Rxe8 20.dxe7 Qa3 21.h3 Bxf3 22.Qxf3 Qxf3
+23.gxf3 Rxe7 24.Rfd1 Be5 25.Kf1 Kg7 26.Ke2  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Topalov,V"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2709"]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.c3 Bg4 8.d3 Nd7
+9.h3 Bh5 10.Be3 h6 11.g4 Bg6 12.Nbd2 h5 13.g5 Nb6 14.Bb3 h4 15.a4 d5 16.a5 d4
+17.cxd4 exd4 18.Bf4 Nd7 19.Rc1 Nc5 20.Rxc5 Bxc5 21.Ba4 Kf8 22.Bxc6 bxc6 23.Qa4 Kg8
+24.Qxc6 Bb4 25.Rc1 Bxa5 26.Nc4 Bb6 27.Nxb6 cxb6 28.Bc7 Qc8 29.Kg2 b5 30.Nxd4 Qe8
+31.Qxe8+ Rxe8 32.Ra1 Rc8 33.Bd6 Kh7 34.Rxa6 Rc1 35.Nxb5 Rd1 36.Ra3 Rc8 37.Bf4 Rc2
+38.Rb3 Rxd3 39.Rxd3 Bxe4+ 40.Rf3 Rxb2 41.Nd6 Bd5 42.Nf5 Rb4 43.Bd6 Ra4 44.Be7 Kg6
+45.Nxh4+ Rxh4 46.Kg3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Anand,V"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2792"]
+[BlackElo "2740"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Be7 8.Bc4 O-O
+9.O-O Be6 10.Bb3 Nc6 11.Bg5 Nd7 12.Bxe7 Qxe7 13.Nd5 Qd8 14.c3 Na5 15.Re1 Rc8
+16.h3 Nb6 17.Nxb6 Qxb6 18.Bxe6 fxe6 19.Re2 Rc6 20.Qd3 Qc7 21.Rd1 Nc4 22.b3 Nb6
+23.c4 Nc8 24.Red2 h6 25.Qe2 Kh7 26.h4 Qb6 27.h5 Qc5 28.Ne1 Rc7 29.Nd3 Qc6
+30.c5 Ne7 31.Qg4 Rf6 32.b4 d5 33.Nxe5 Qa4 34.Qg3 Rc8 35.Ng4 Rf7 36.Qd6 Rcf8
+37.Qxe6 Qxb4 38.exd5 Qxc5 39.d6 Nc6 40.d7 Nd8 41.Qe4+ Qf5 42.Re2 Qxe4 43.Rxe4 b5
+44.f3 a5 45.Ne5 Rf6 46.Ng6 Rg8 47.Re8 Rf7 48.Rd5 b4 49.Ne7  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Ivanchuk,V"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2686"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Ba7 7.Qe2 d6 8.Be3 Nf6
+9.Bxa7 Rxa7 10.c4 Nc6 11.Nc3 O-O 12.O-O b6 13.Qe3 Qc7 14.Be2 Qb8 15.Rfd1 Rd8
+16.Rd2 e5 17.Rc1 Be6 18.Rcd1 h6 19.h3 Rb7 20.Bf1 b5 21.cxb5 axb5 22.Nd5 Bxd5
+23.exd5 Ne7 24.Na5 Rc7 25.Nc6 Nxc6 26.dxc6 Rxc6 27.Qxe5 b4 28.Qd4 Qb6 29.Bc4 Qxd4
+30.Rxd4 Rb6 31.Bb3 Kf8 32.g4 Ke7 33.Re1+ Kf8 34.Rc1 Rd7 35.Rc8+ Ke7 36.h4 g5
+37.Rh8 Rd8 38.Rxh6 Rg8 39.f3 gxh4 40.Rxh4 d5 41.Kf2 Rbb8 42.Ke3 Kd6 43.Rh6 Rbe8+
+44.Kf4 Kc5 45.Rd2 Rg6 46.Rh1 Reg8 47.Rc1+ Kd6 48.Rdc2 Rd8 49.Rc7 Rd7 50.R1c6+ Ke7
+51.Bc2 d4 52.Rxd7+ Kxd7 53.Bxg6 Kxc6 54.Bxf7  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Aronian,L"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2707"]
+[ECO "E46"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Ne2 d5 6.a3 Be7 7.cxd5 exd5 8.b4 Bf5
+9.f3 h6 10.Ng3 Bg6 11.Bd3 Bd6 12.Nf5 Nc6 13.Qc2 Bxf5 14.Bxf5 a5 15.b5 Ne7
+16.Bh3 Nh7 17.g3 c5 18.bxc6 bxc6 19.O-O c5 20.dxc5 Bxc5 21.Kh1 Ng5 22.Bg2 Rc8
+23.f4 Ne4 24.Bxe4 dxe4 25.Rd1 Qe8 26.Qxe4 Rc6 27.Qf3 Qa8 28.Rd3 Rd8 29.Rxd8+ Qxd8
+30.Rb1 Bxa3 31.Bxa3 Rxc3 32.Rd1 Qe8 33.Bxe7 Qxe7 34.Qa8+ Kh7 35.e4 Re3 36.e5 Qb4
+37.Qd5 a4 38.f5 Re1+ 39.Rxe1 Qxe1+ 40.Kg2 Qe2+ 41.Kg1 Qe1+ 42.Kg2 Qe2+ 43.Kg1 a3
+44.Qxf7 Qe1+ 45.Kg2 Qxe5 46.Qa7 Qb2+ 47.Kh3 Kg8 48.Qe3 Kf8 49.Qc5+ Ke8 50.Qc8+ Ke7
+51.Qc7+ Kf6 52.Qd6+ Kxf5 53.Qd5+ Kf6 54.Qd6+ Kf7 55.Qd7+ Kg6 56.Qd3+ Kf7
+57.Qd7+ Kf6  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.19"]
+[Round "5"]
+[White "Tiviakov,S"]
+[Black "Sokolov,Iv"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2689"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Be7 7.c3 d6 8.a4 Bd7
+9.O-O O-O 10.d4 Qe8 11.axb5 axb5 12.Rxa8 Qxa8 13.Rd1 h6 14.Nbd2 b4 15.Nc4 Na5
+16.Nxa5 Qxa5 17.Bd2 bxc3 18.Bxc3 Qa8 19.Nxe5 dxe5 20.dxe5 Bg4 21.f3 Qxe4
+22.Qf2 Qb7 23.Bc2 Nd5 24.fxg4 Nxc3 25.bxc3 Qb6 26.Qxb6 cxb6 27.Rd7 Re8 28.Bb3 Bc5+
+29.Kf1 Re7 30.Rd8+ Kh7 31.h4 g6 32.Rd5 Kg7 33.g3 Ba3 34.h5  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Mamedyarov,S"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2723"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 c5 6.d5 exd5 7.cxd5 Bb7 8.e4 Qe7
+9.Bd3 Nxd5 10.a3 Nc6 11.O-O Nc7 12.Nc3 Ne6 13.Be3 Qd8 14.Rad1 Be7 15.Bc4 O-O
+16.e5 Ncd4 17.Nxd4 cxd4 18.Bxd4 Qc8 19.Qe2 d6 20.exd6 Bxd6 21.Bxe6 fxe6 22.Ne4 Qc6
+23.Rfe1 e5 24.Bxb6 Bxa3 25.bxa3 axb6 26.Qb2 Ra4 27.f3 Rxf3 28.Rd8+ Rf8 29.Rxf8+ Kxf8
+30.Rf1+ Kg8 31.Qf2 h6 32.Qf8+ Kh7 33.Qf5+ Kh8 34.Qf8+ Kh7 35.Qf5+ Kh8  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Adams,Mi"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2707"]
+[BlackElo "2729"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.a4 b6 8.g4 Bb7
+9.Bg2 Nfd7 10.f4 Nc6 11.O-O Rc8 12.Nxc6 Rxc6 13.f5 g6 14.fxe6 fxe6 15.Ne2 Bg7
+16.Nd4 Bxd4 17.Bxd4 e5 18.Be3 Rf8 19.Qe2 Qe7 20.c3 Qe6 21.Rxf8+ Nxf8 22.a5 b5
+23.Qf2 Qe7 24.h4 Ne6 25.Rd1 Rc4 26.g5 Nc5 27.Bxc5 Rxc5 28.Rd3 Bc8 29.Rf3 Be6
+30.Rf6 Rc6 31.Kh2 Rc5 32.Qe3 Qd7 33.Qf3 Qe7 34.h5 b4 35.cxb4 Rc2 36.Qd3 Rxb2
+37.Qc3 Ra2 38.Qc6+ Kd8 39.Qb6+ Kd7 40.Qxa6 gxh5 41.Qb7+ Kd8 42.Qb8+ Kd7 43.a6 Kc6
+44.Qb7+  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Tiviakov,S"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2801"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 Nc6 5.d4 cxd4 6.cxd4 d6 7.Bc4 Nb6 8.Bb5 d5
+9.O-O Bg4 10.Be3 e6 11.Nbd2 Be7 12.Qe2 Rc8 13.Rfc1 O-O 14.a3 Qd7 15.h3 Bf5
+16.Nb3 Nc4 17.Bxc4 dxc4 18.Rxc4 b6 19.Nbd2 b5 20.Rcc1 Qd5 21.Qd1 a5 22.Qb3 Be4
+23.Qxd5 Bxd5 24.Ne1 f5 25.Nd3 g5 26.f3 h5 27.Nc5 Rc7 28.Rc2 Rfc8 29.Rac1 Nb8
+30.b4 axb4 31.axb4 Nc6 32.Rb2 Ra7 33.Bf2 Kf7 34.Nf1 Rca8 35.Ne3 Ra1 36.Rxa1 Rxa1+
+37.Kh2 Ra2 38.Rxa2 Bxa2 39.Nc2 Bb1 40.d5 exd5 41.Nd4 Nxe5 42.Nxb5 Nd3 43.Nc3 Nxf2
+44.Nxb1 Bxc5 45.bxc5 Ke6 46.Nd2 f4 47.h4 gxh4 48.Nb3 Kd7 49.Nd4 Kc7 50.Ne6+ Kc6
+51.Nxf4 d4 52.g4 hxg3+ 53.Kxg3 Nd1 54.Kh4 Nb2 55.Kxh5 Na4 56.Kg4 Nxc5 57.Kg3 Kb5
+58.Kf2 Kc4 59.Ke2 Kc3 60.Kd1 d3 61.Nxd3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Bacrot,E"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2752"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.Qa4+ Nc6 6.Bg5 h6 7.Bxf6 Qxf6 8.e3 O-O
+9.Rc1 Qg6 10.Qc2 Qxc2 11.Rxc2 Rd8 12.a3 Bf8 13.Nb5 Rd7 14.cxd5 exd5 15.Bd3 a6
+16.Nc3 Rd8 17.O-O Nb8 18.Rb1 a5 19.h3 c6 20.e4 dxe4 21.Nxe4 Be6 22.Bc4 Bxc4
+23.Rxc4 Nd7 24.Rc3 Be7 25.b4 axb4 26.axb4 Nf6 27.Nxf6+ Bxf6 28.b5 cxb5 29.Rcb3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Kamsky,G"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2686"]
+[BlackElo "2792"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Ne2 Be6 8.Nbc3 Qd7
+9.Ne4 Bd5 10.Be3 O-O-O 11.a3 Qe8 12.Qc2 f5 13.N4c3 Bxg2 14.Rg1 Bf3 15.Bxf5+ e6
+16.Bh3 Kb8 17.Rg3 Bxe2 18.Nxe2 Nd5 19.Nc3 Nxe3 20.fxe3 Qh5 21.Qe2 Qxe2+ 22.Kxe2 Re8
+23.Rf1 Nd8 24.Ne4 g6 25.Ng5 Re7 26.Rgf3 Bh6 27.Nf7 Nxf7 28.Rxf7 Rhe8 29.R1f6 a5
+30.Rxe7 Rxe7 31.Rxe6 Rxe6 32.Bxe6 Bg5 33.d5 Ka7 34.Bg8 h6 35.Bf7 Kb6 36.Bxg6 Kc5
+37.Bf7 h5 38.Kd3 h4 39.h3 b5 40.Ke4 b4 41.axb4+ axb4 42.b3 Bh6 43.Bh5 Bg5
+44.Be2 Bh6 45.Bc4 Bg5 46.Kf5 Bxe3 47.d6  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Sokolov,Iv"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2740"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Bd2 Nd7 8.Nxd5 exd5
+9.b4 c6 10.Bg5 Be7 11.Bxe7 Qxe7 12.e3 a5 13.b5 c5 14.Bd3 cxd4 15.Nxd4 O-O
+16.O-O g6 17.Be2 Ne5 18.Qa4 Rac8 19.Rfc1 Qd6 20.h3 Rfe8 21.Rxc8 Rxc8 22.Nf3 Rc5
+23.Nxe5 Qxe5 24.Qd4 Qxd4 25.exd4 Rc3 26.Kf1 Bc8 27.Ke1 Bf5 28.Kd2 Rc2+ 29.Kd1 Rc3
+30.Kd2 Rc2+ 31.Kd1 Rc3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.20"]
+[Round "6"]
+[White "Van Wely,L"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2660"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 O-O 8.Rc1 d5
+9.cxd5 exd5 10.Bh3 c5 11.O-O Nc6 12.Be3 Re8 13.Re1 h6 14.dxc5 bxc5 15.Na4 d4
+16.Bf4 Ne4 17.Bf5 Qd5 18.Bxe4 Qxe4 19.Nxc5 Bxc5 20.Rxc5 Rad8 21.Qc1 Nb4 22.Ne5 Rd5
+23.f3 Qf5 24.Rxd5 Nxd5 25.Qc6 Qe6 26.Bd2 Rc8 27.Qxe6 fxe6 28.Rc1 Rxc1+ 29.Bxc1 Nc3
+30.Bb2 Nxa2 31.Bxd4 Nc1 32.Bxa7 Nxb3 33.e4 Nc1 34.Be3 Nd3 35.Nc6 Kf7 36.g4 e5
+37.h4 Bb5 38.Na5 Ba4 39.Nc4 Ke6 40.Kg2 Bb3 41.Nd2 Bd1 42.Kg3 Be2 43.Nb1 Bd1
+44.Nc3 Bb3 45.Bd2 Kf6 46.h5 Ke6 47.Kg2 Kf6 48.Ne2 Bd1 49.Ng3 Kf7 50.Nf5 Be2
+51.Kg3 Bd1 52.Bc3 Be2 53.Nh4 Bd1 54.Ba5 Be2 55.Bc7 Bd1 56.Bd6 Ba4 57.Nf5 Bd1
+58.Ba3 Be2 59.Ne3 Ke6 60.Bf8 Kf7 61.Bd6 Ke6 62.Bc7 Kf7 63.Ba5 Ke6 64.Bd2 Kf7
+65.Bc3 Ke6 66.Ba5 Kf7 67.Bd2 Ke6 68.Nf5 Kf7 69.Nh4 Bd1 70.g5 hxg5 71.Bxg5 Be2
+72.Kg4 Bd1 73.Bd8 Be2 74.Ba5 Bd1 75.Kf5 Ba4 76.Bc3 Bb3 77.Kg4 Bd1 78.Kg5 Ba4
+79.Ng6 Bd1 80.Nxe5+  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.21"]
+[Round "7"]
+[White "Gelfand,B"]
+[Black "Tiviakov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2669"]
+[ECO "E17"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Bd2 f5 8.d5 O-O
+9.Qc2 exd5 10.Nxd5 Nc6 11.O-O a5 12.Rad1 Bf6 13.Be3 Nb4 14.Qb1 Nxd5 15.cxd5 g6
+16.Qc2 Rc8 17.Nd4 Ba6 18.Bxe4 fxe4 19.Qxe4 Qe8 20.Qc2 Qe5 21.Qb3 Bb7 22.Nb5 Qxb2
+23.Qxb2 Bxb2 24.Rd2 Be5 25.f4 Bf6 26.Rc1 Bd8 27.Na7 Ra8 28.Nb5 Rc8 29.Na7 Ra8
+30.Nb5  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.21"]
+[Round "7"]
+[White "Aronian,L"]
+[Black "Van Wely,L"]
+[Result "0-1"]
+[WhiteElo "2752"]
+[BlackElo "2647"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Bd3 Nbd7 6.O-O Bd6 7.Nc3 O-O 8.e4 dxc4
+9.Bxc4 e5 10.Be3 b5 11.Bb3 Bb7 12.Nh4 g6 13.Bh6 exd4 14.Bxf8 Nxf8 15.e5 Bxe5
+16.Nf3 Qd6 17.Nxe5 Qxe5 18.Re1 Qd6 19.Qd3 Rd8 20.Ne4 Nxe4 21.Qxe4 Rd7 22.Qe5 Qb4
+23.Qf6 d3 24.Re8 d2 25.Rf1 Qxb3 26.axb3 d1=Q 27.Rb8 Qe2 28.h4 Qe7 29.Qc3 Rd8
+30.Re1 Qc7 31.Rxd8 Qxd8 32.Qc5 a6 33.h5 gxh5 34.Qxh5 Bc8 35.Qc5 Qd5 36.Qc1 Be6
+37.Rd1 Qxb3 38.Rd6 Kg7 39.Rxc6 a5 40.Rc5 Ng6 41.Rh5 Kg8 42.Qd2 f6 43.Rc5 a4
+44.Qd6 Nf8 45.Qd4 Kg7 46.Kh2 Bd7 47.Rg5+ Kf7 48.Rd5 Be6 49.Rc5 Nd7 50.Rh5 Kg7
+51.Qe4 f5 52.Qd4+ Nf6 53.Rg5+ Kf7 54.Qa7+ Nd7 55.Qd4 Nf6 56.Qa7+ Nd7 57.Qd4 Qd5
+58.Qg7+ Ke8 59.Qh8+ Ke7 60.Qxh7+ Kd6 61.Qh4 Qe5+ 62.Rg3 Qxb2 63.Rd3+ Bd5
+64.Qh6+ Qf6 65.Qd2 Qe5+ 66.Kg1 Nc5 67.Rh3 Qe4 68.f3 Qc4 69.Qa5 Ne6 70.Kh2 Bc6
+71.Rh7 b4 72.Qa7 b3 73.Qe7+ Kd5 74.Rh4 Qc5 75.Qf7 Qf8 76.Qa7 Qd6+ 77.Kh1 Qc5
+78.Qf7 Kd6 79.Qf6 Qe5 80.Qh6 f4 81.Qh7 b2 82.Qd3+ Kc5 83.Kh2 Bb5 84.Qa3+ Kc4
+85.Qa2+ Kc3 86.Rh7 Bc4  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.21"]
+[Round "7"]
+[White "Leko,P"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2686"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Bd7 13.Nf1 Rac8 14.Ne3 cxd4 15.cxd4 Nc6
+16.d5 Nb4 17.Bb1 a5 18.a3 Na6 19.b4 axb4 20.axb4 Qb7 21.Bd2 Bd8 22.Bd3 Bb6
+23.Nc2 h6 24.Nh4 Nh7 25.Qf3 Ng5 26.Qg3 Nc7 27.Ne3 Ra8 28.Nef5 Rxa1 29.Ne7+ Kh8
+30.Rxa1 Nh7 31.Qf3 Nf6 32.Bxh6 Ra8 33.Rf1 Nce8 34.Bc1 Ra1 35.Nhf5 Qc7 36.Bd2 Rxf1+
+37.Kxf1 g6 38.Ne3 Kg7 39.g4 Nh7 40.Kg2 Qb7 41.Nc4 g5 42.Na5 Qa8 43.Nf5+ Kf8
+44.h4 Bd8 45.Nh6 f6 46.hxg5 f5  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.21"]
+[Round "7"]
+[White "Karjakin,Sergey"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2709"]
+[ECO "C76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 g6 7.O-O Bg7 8.Re1 b5 9.Bc2 Nf6
+10.dxe5 Nxe5 11.Nxe5 dxe5 12.Be3 O-O 13.Nd2 Be6 14.Nf3 Ng4 15.Bc5 Re8 16.h3 Nh6
+17.Bb3 f6 18.a4 Qxd1 19.Bxe6+ Rxe6 20.Rexd1 Rc6 21.Rd5 bxa4 22.Rxa4 Bf8 23.Be3 Rb8
+24.Ra2 Nf7 25.Nd2 Nd6 26.Rc5 Rxc5 27.Bxc5 f5 28.Bxd6 cxd6 29.f3 Kf7 30.Kf2 Ke6
+31.Nc4 Rc8 32.Ne3 Bh6 33.Nd5 Bg5 34.g3  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.21"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2717"]
+[ECO "D52"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.Bg5 Nbd7 6.e3 Qa5 7.Nd2 Bb4 8.Qc2 O-O
+9.Be2 c5 10.O-O cxd4 11.Nb3 Qb6 12.Na4 Qc7 13.Nxd4 dxc4 14.Bxc4 Bd6 15.Rac1 Bxh2+
+16.Kh1 Bd6 17.Nb5 Qb8 18.Be2 a6 19.Nxd6 Qxd6 20.Rfd1 Qb4 21.Rd4 Qa5 22.Bf4 Re8
+23.b4 Qf5 24.Qxf5 exf5 25.Bf3 h6 26.Rc7 g5 27.Bg3 Rb8 28.Nc3 Nf8 29.Rd1 Ne6
+30.Rxf7 Kxf7 31.Bxb8 g4 32.Be2 Ng5 33.Kg1 Be6 34.Be5 Rc8 35.f3 gxf3 36.gxf3 Nd7
+37.Bd4 Bc4 38.Kf2 Bxe2 39.Nxe2 Rc2 40.a4 Nf8 41.Rc1 Rxc1 42.Nxc1 Nge6 43.Nd3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.21"]
+[Round "7"]
+[White "Anand,V"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2792"]
+[BlackElo "2707"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.a5 Be6 11.Nbd2 Bxb3 12.Nxb3 Re8 13.h3 h6 14.d4 exd4 15.Nfxd4 Qd7
+16.f3 Nxd4 17.Nxd4 c5 18.Nb3 Qc6 19.Be3 d5 20.e5 Nd7 21.Bf2 f6 22.exf6 Bxf6
+23.Rb1 Qd6  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.21"]
+[Round "7"]
+[White "Topalov,V"]
+[Black "Sokolov,Iv"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2689"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.a4 Rb8 8.c3 O-O
+9.d4 Bb6 10.axb5 axb5 11.dxe5 Ng4 12.Na3 Qe8 13.Nd4 Ngxe5 14.Naxb5 d6 15.Ba4 Bd7
+16.b3 Ne7 17.Kh1 d5 18.f4 Ng4 19.e5 f6 20.h3 Nxe5 21.fxe5 fxe5 22.Rxf8+ Qxf8
+23.Nf3 e4 24.Ne5 Bxh3 25.gxh3 Qf5 26.Ng4 h5 27.Nh2 Qxh3 28.Bg5 Nf5 29.Qxd5+ Kh8
+30.Bf4 Bf2 31.Ra2 Bg3 32.Bxg3 Nxg3+ 33.Kg1 Rf8 34.Nd4 c5 35.Bd7 Qh4 36.Ne6 Rf1+
+37.Kg2  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Van Wely,L"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2729"]
+[ECO "E34"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 Qf5 7.Qxf5 exf5 8.a3 Be7
+9.Bg5 Be6 10.e3 c6 11.Bd3 Nbd7 12.b4 h6 13.Bh4 g6 14.Ke2 Nd5 15.Nxd5 Bxd5
+16.Bxe7 Kxe7 17.Rhc1 Rhc8 18.g3 a5 19.Nd2 b5 20.Bc2 Nb6 21.Nb3 Bc4+ 22.Kd2 axb4
+23.axb4 Nd5 24.Na5 Nxb4 25.Nxc4 bxc4 26.Rcb1 Rxa1 27.Rxa1 c5 28.dxc5 c3+
+29.Kxc3 Rxc5+ 30.Kxb4 Rxc2 31.Rf1 Ke6 32.Kb3 Re2 33.Kc3 Ke5 34.Kd3 Ra2 35.h3 h5
+36.f3 Rb2 37.Rg1 Rh2 38.f4+ Kf6 39.g4 h4 40.Ra1 Rxh3 41.Ra6+ Kg7 42.gxf5 gxf5
+43.Ke2 Rg3 44.Kf2 Rg4 45.Ra5 Kg6 46.Ra8 Kg7  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Topalov,V"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2723"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.h4 c6 11.Bxd6 Qxd6 12.Qxd6 Bxd6 13.Rxd6 Ne4 14.Rd4 Nxf2 15.Rg1 Ng4
+16.Bc4 Bf5 17.Bd3 Bxd3 18.cxd3 Nf6 19.Re1 Rfe8 20.Rxe8+ Rxe8 21.Kd2 Kf8 22.a4 Ke7
+23.b4 Rc8 24.b5 c5 25.Rf4 Ne8 26.Re4+ Kf8 27.Ne5 Rd8 28.Rf4 Nd6 29.c4 Ke7
+30.Ng4 h5 31.Ne3 Ke6 32.a5 f6 33.Kc3 g5 34.Rf1 gxh4 35.Re1 Nf5 36.Nd5+ Kf7
+37.Rf1 Kg6 38.Nf4+ Kf7 39.Nxh5 Kg6 40.Nf4+ Kf7 41.Nd5 Kg6 42.Re1 Kf7 43.Re2 Rd7
+44.Re4 Rd8 45.Rf4 Kg6 46.Rf2 Re8 47.Kd2 Kg5 48.Re2 Rxe2+ 49.Kxe2 Nd4+ 50.Kf2 Kf5
+51.Ne7+ Ke6 52.Ng6 Nb3 53.a6 bxa6 54.bxa6 Nd4 55.Nxh4 Nc2 56.Nf3 Nb4 57.Ke3 Nxa6
+58.Nd2 Nb8 59.Kf4 Nd7 60.Nb3 a6 61.g3 Kd6 62.Kf5 Ke7 63.g4 Kd6 64.Na5 Ne5
+65.Nb3 Nd7 66.Ke4 Ke6 67.Na5 Kd6 68.Kf4 Ne5 69.Kf5 Nd7 70.Ke4 Nf8 71.Kf5 Nd7
+72.Ke4  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Mamedyarov,S"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteElo "2709"]
+[BlackElo "2752"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 O-O 8.Rc1 d5
+9.cxd5 exd5 10.Bh3 c5 11.O-O Nc6 12.Be3 Re8 13.dxc5 bxc5 14.Na4 d4 15.Bf4 Nb4
+16.a3 Nbd5 17.Bd2 Ne4 18.Re1 Bb5 19.Bf5 Nxd2 20.Qxd2 Bxa4 21.bxa4 Nc3 22.Rxc3 dxc3
+23.Qxc3 c4 24.Qxc4 Bxa3 25.h4 Qe7 26.Bd3 Rac8 27.Qg4 Qb4 28.Qh5 g6 29.Qh6 Qc3
+30.Qf4 Bc1 31.Qg4 Rcd8 32.Qc4 Qxc4 33.Bxc4 Bh6 34.a5 Re4 35.Bb5 Rc8 36.a6 Rb4
+37.Bd3 Rc1 38.Rxc1 Bxc1 39.Ne5 Rb6 40.Kg2 Kg7 41.Bc4 Bb2 42.Nf3 Bf6 43.Bd3 Kf8
+44.Nd2 Ke7 45.Ne4 Kd7 46.f4 Ke7 47.Kf3 h5 48.Nd2 Bc3 49.Nf1 Bd4 50.g4 hxg4+
+51.Kxg4 Rc6 52.Nd2 Be3 53.Nc4 Bc1 54.Ne5 Rf6 55.Bb5 Rxf4+ 56.Kg3 Kd6 57.Nc6 Kc5
+58.Nxa7 Kb6  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Sokolov,Iv"]
+[Black "Kamsky,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2686"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 Qb6 5.e3 Bf5 6.cxd5 cxd5 7.Ne5 Bd7 8.Bd2 e6
+9.Rc1 Nc6 10.Nxd7 Nxd7 11.Na4 Qc7 12.b4 a6 13.b5 axb5 14.Bxb5 Ba3 15.Rc2 Nb6
+16.Nc5 Bxc5 17.Rxc5 Rxa2 18.Qb1 Ra8 19.Ba5 O-O 20.Bxc6 bxc6 21.Bxb6 Qb7 22.O-O Rfb8
+23.Qc2  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Tiviakov,S"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2660"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 Nc6 5.d4 cxd4 6.cxd4 d6 7.Bc4 Nb6 8.Bb5 Bd7
+9.Nc3 dxe5 10.dxe5 a6 11.Be2 Bg4 12.Be3 Qxd1+ 13.Rxd1 Nd7 14.h3 Bxf3 15.e6 fxe6
+16.Bxf3 Rd8 17.Bxc6 bxc6 18.Ke2 g6 19.Na4 Bg7 20.Rd2 Rc8 21.Rc1 Be5 22.Rdc2 Nb8
+23.Ba7 Kf7 24.b3 Bf4 25.Rd1 Rc7 26.Bxb8 Rxb8 27.Nc5 Rb6 28.Rd3 Bd6 29.Rf3+ Ke8
+30.Nxe6 Ra7 31.Rc4 a5 32.Re4 c5 33.Rf8+ Kd7 34.Rh8 a4 35.Re3 axb3 36.axb3 h5
+37.Nf8+ Kc7 38.Nxg6 c4 39.bxc4 Ra2+ 40.Kf3 Rbb2 41.Rxh5 Rxf2+ 42.Ke4 Rxg2
+43.Ne5 Ra5 44.Kf3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Adams,Mi"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2707"]
+[BlackElo "2740"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 Nc6 5.Bc4 Nb6 6.Bb3 d5 7.exd6 Qxd6 8.Na3 Be6
+9.d4 Bxb3 10.axb3 cxd4 11.Nb5 Qd7 12.Nbxd4 Nxd4 13.Nxd4 g6 14.O-O Bg7 15.Be3 O-O
+16.Nf3 Qc7 17.Qe2 a6 18.Rfd1 e6 19.g3 Rad8 20.b4 Qc4 21.Qe1 Qc7 22.Qe2 Qc4
+23.Qe1 Qc7 24.Qe2  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.22"]
+[Round "8"]
+[White "Bacrot,E"]
+[Black "Anand,V"]
+[Result "0-1"]
+[WhiteElo "2717"]
+[BlackElo "2792"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 b5 6.cxb5 Bxb5 7.Bg2 Bb4+ 8.Bd2 a5
+9.O-O d5 10.Nc3 Ba6 11.a3 Be7 12.Ne5 O-O 13.Re1 Nfd7 14.Nf3 Nf6 15.Ne5 Nfd7
+16.Nxd7 Nxd7 17.e4 dxe4 18.Bxe4 Rb8 19.Na4 Nf6 20.Bf3 Qxd4 21.Bxa5 Qxd1 22.Bxd1 c5
+23.Rc1 Rfc8 24.Bc3 Nd7 25.Bc2 Bb5 26.Nb2 Bf6 27.Bxf6 gxf6 28.Re3 Bc6 29.Bd1 Bd5
+30.Rec3 Rc7 31.Nd3 Rcb7 32.b4 cxb4 33.Nxb4 Be4 34.Re3 Bg6 35.h4 h5 36.Nc6 Rb1
+37.Rec3 R8b2 38.a4 Kf8 39.a5 Rxc1 40.Rxc1 Ra2 41.Bf3 Kg7 42.Kg2 Kh6 43.Re1 Nc5
+44.Re2 Ra1 45.Re3 Kg7 46.Rc3 Nd3 47.Be2 Ne1+ 48.Kh3 Bf5+ 49.g4 hxg4+ 50.Bxg4 Be4
+51.Nd4 f5 52.Be2 Ra4 53.Nb3 Bg2+ 54.Kg3 f4+ 55.Kh2 Bd5 56.Kg1 Ng2 57.h5 Nh4
+58.Bd1 Ra3 59.Kh2 Nf5 60.Rd3 Nd6 61.Rd4 Ne4 62.Bc2 Ng5  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.24"]
+[Round "9"]
+[White "Aronian,L"]
+[Black "Tiviakov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2669"]
+[ECO "E09"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 c6 6.O-O Be7 7.Nbd2 d5 8.Qc2 Nbd7
+9.e4 O-O 10.Re1 dxe4 11.Nxe4 c5 12.Nxf6+ Bxf6 13.Ng5 Bxg5 14.Bxb7 Rb8 15.Be4 Bxc1
+16.Bxh7+ Kh8 17.Raxc1 Nf6 18.Be4 Qxd4 19.Rcd1 Qe5 20.Bf3 Qc7 21.Rd3 Rbd8
+22.Red1 Kg8 23.Kg2 g6 24.h4 Rfe8 25.g4 Rxd3 26.Qxd3 Qf4 27.Qe2 g5 28.Qd2 Qxd2
+29.Rxd2 gxh4 30.Kh3 Re7 31.Rd8+ Kg7 32.Rd1 Nd7 33.Kxh4 Ne5 34.Be2 Nc6 35.Rd6 Rc7
+36.g5 Kf8 37.Bg4 Ke7 38.Rd1 Rd7 39.Rxd7+ Kxd7 40.f4 Ke7 41.Be2 Nd4 42.Bd3 Kf8
+43.Kg4 Kg7 44.Kh4 f5 45.Kh5 Nc6 46.Kh4 Nb4 47.Bb1 Kg6 48.a3 Nc6 49.Bc2 Nd4
+50.Bd1 Kg7 51.Kg3 Kg6 52.Kh4 Kg7  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.24"]
+[Round "9"]
+[White "Anand,V"]
+[Black "Van Wely,L"]
+[Result "1-0"]
+[WhiteElo "2792"]
+[BlackElo "2647"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 Rb8 13.a4 bxa4 14.Ncb4 Bd7 15.Bxa6 Nxb4
+16.cxb4 O-O 17.O-O Bc6 18.Rxa4 Bxa4 19.Qxa4 Qe8 20.Qxe8 Rfxe8 21.b5 f5 22.b6 fxe4
+23.h4 Bd2 24.b7 Kf7 25.Rd1 Bh6 26.Nb4 Ke7 27.Nd5+ Kf7 28.g4 Bf4 29.Re1 g5
+30.Re2 Red8 31.Nb4 d5 32.Nc6 Rg8 33.Nxb8 Rxb8 34.h5 Ke7 35.Kf1 d4 36.Rc2 e3
+37.fxe3 dxe3 38.Rc7+ Kf6 39.Rxh7 e4 40.Bc4 Rd8 41.Rf7+ Ke5 42.Rd7  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.24"]
+[Round "9"]
+[White "Leko,P"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2717"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.a3 Nc6 11.cxd5 Qxd5 12.Nc3 Nxc3 13.bxc3 Bf5 14.Re1 Rfe8 15.Bf4 Rac8
+16.Nd2 Na5 17.Nf1 Qb3 18.Qd2 Qc2 19.Qxc2 Bxc2 20.Bg4 f5 21.Bxf5 Bxf5 22.Re5 Nc4
+23.Rxf5 c6 24.Bc1 c5 25.a4 cxd4 26.cxd4 Bf6 27.Be3 Red8 28.Rd1 b6 29.h3 Nb2
+30.Ra1 Bxd4 31.a5 Nc4 32.Bxd4 Rxd4 33.axb6 axb6 34.Rb5 Rc5 35.Rbb1 Ra5 36.Ne3 Rxa1
+37.Rxa1 Nxe3 38.fxe3 Rd8 39.Rb1 Rb8 40.Rb5 Kf7 41.Kf2 Ke6 42.e4 Kd6 43.Ke3 Kc6
+44.Rg5 Rb7 45.Kd4 Rd7+ 46.Kc4 Ra7 47.Re5 Ra4+ 48.Kb3 Ra7 49.Kc4 Ra4+  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.24"]
+[Round "9"]
+[White "Karjakin,Sergey"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2801"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 Bg5 12.Nc2 O-O 13.a4 bxa4 14.Rxa4 a5 15.Bc4 Rb8
+16.Ra2 Kh8 17.Nce3 Bxe3 18.Nxe3 Ne7 19.b3 f5 20.exf5 Nxf5 21.Nd5 Bb7 22.O-O Rc8
+23.Qd3 Nh4 24.Rd1 h6 25.Qg3 Nf5 26.Qg4 Rc5 27.Rad2 Bc8 28.Qe4 Bb7 29.h3 Nh4
+30.Bd3 Rf5 31.Bb1 Rxc3 32.Qg4 h5 33.Qe2 Qg5 34.f4 Rxf4 35.Kh1 Nxg2 36.Qxg2 Rg3
+37.Nxf4 Bxg2+ 38.Nxg2 Rxh3+ 39.Kg1 Rg3 40.Rf2 Kg8 41.Rxd6 h4 42.Rc6 Qg4 43.Bf5 Rxg2+
+44.Rxg2 Qxf5 45.Rcg6 Qf7 46.R6g4 Qf6 47.Kh2 Kf7 48.Kh3 e4 49.Rg5 e3 50.Kxh4 g6  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.24"]
+[Round "9"]
+[White "Gelfand,B"]
+[Black "Sokolov,Iv"]
+[Result "1-0"]
+[WhiteElo "2723"]
+[BlackElo "2689"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 a6 6.b3 Bb4 7.Bd2 Nbd7 8.Bd3 O-O
+9.O-O Bd6 10.Qc2 h6 11.Ne2 Re8 12.Ng3 e5 13.cxd5 Nxd5 14.Rad1 exd4 15.Nxd4 Nb4
+16.Bh7+ Kh8 17.Qb1 Nd5 18.Bf5 Qc7 19.Rfe1 N7f6 20.e4 Ne7 21.Bxc8 Raxc8 22.Qc1 c5
+23.Nf3 Ng4 24.Ba5 Qxa5 25.Rxd6 Qxa2 26.Re2 Qxb3 27.h3 Nxf2 28.Rxf2 Kg8 29.Nh5 Rc6
+30.Rd7 Ng6 31.Qa1  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.24"]
+[Round "9"]
+[White "Ivanchuk,V"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2709"]
+[ECO "C76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 g6 7.O-O Bg7 8.Re1 b5 9.Bc2 exd4
+10.cxd4 Bg4 11.Be3 Nge7 12.Nc3 O-O 13.Rc1 f5 14.exf5 Nxf5 15.Nxb5 axb5 16.Bxf5 Rxf5
+17.Rxc6 Kh8 18.d5 Be5 19.Bd4 Bxf3 20.gxf3 Qg5+ 21.Kh1 Raf8 22.Rxc7 Qh6 23.Bxe5+ dxe5
+24.Re3 Rh5 25.Qg1 Rg5 26.Qf1 Rh5 27.Qg2 Rg5  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.24"]
+[Round "9"]
+[White "Kamsky,G"]
+[Black "Adams,Mi"]
+[Result "0-1"]
+[WhiteElo "2686"]
+[BlackElo "2707"]
+[ECO "E17"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 O-O 7.Qc2 c5 8.d5 exd5
+9.Nh4 b5 10.b3 Nc6 11.Nxb5 d4 12.O-O Nb4 13.Qb1 Bxg2 14.Nxg2 d5 15.Qf5 dxc4
+16.bxc4 a6 17.Na3 Re8 18.Re1 Qa5 19.Qf3 Bd6 20.e4 Rad8 21.Bb2 Re5 22.Re2 Rde8
+23.Rae1 R5e6 24.Bc1 d3 25.Re3 Be5 26.Nf4 Bxf4 27.gxf4 Nxa2 28.e5 Ng4 29.f5 Nxe3
+30.Rxe3 Rb6 31.f6 Nxc1 32.e6 Ne2+ 33.Kg2 Rbxe6 34.Rxe6 Qd8 35.Rxe8+ Qxe8
+36.Qg4 g6 37.Nb1 Qc6+ 38.f3 Qxf6 39.Nd2 Qb2 40.Qg5 Nd4  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Tiviakov,S"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2729"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 Bc5 6.d3 d6 7.c3 Bd7 8.O-O O-O
+9.Bg5 Ne7 10.Bxd7 Nxd7 11.d4 Ba7 12.dxe5 Nxe5 13.Nxe5 dxe5 14.Rd1 Qe8 15.Nd2 f6
+16.Be3 Bxe3 17.Qxe3 Qc6 18.Qd3 Rfd8 19.Qc4+ Kf8 20.Qxc6 Nxc6 21.Kf1 Rd7 22.Ke2 Rad8
+23.Nc4 Rxd1 24.Rxd1 Rxd1 25.Kxd1 Ke7 26.Ne3 Nd8 27.Kd2 Ne6 28.f3 Kd7 29.b3 Nf4
+30.g3 Ne6 31.Nf5 Ke8 32.Ne3 Ke7 33.Kd3 Nc5+ 34.Kc4 Nd7 35.Nf5+ Kf7 36.Kd5 Nf8
+37.a4 Ne6 38.h4 g6 39.Nh6+ Ke7 40.Ng8+ Kf7  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Bacrot,E"]
+[Black "Kamsky,G"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2686"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 d5 6.exd5 Qxd5 7.Nc3 Qe5+ 8.Be3 Nf6
+9.O-O Bc5 10.Re1 O-O 11.Na4 Ba7 12.Nxe6 fxe6 13.Bxa7 Qf4 14.Bd4 Nc6 15.Bxf6 Rxf6
+16.Be4 Qxf2+ 17.Kh1 Ne5 18.Qd8+ Rf8 19.Qg5 Bd7 20.Qxe5 Bxa4 21.Bxb7 Rab8
+22.Bxa6 Kh8 23.b3 Bc6 24.Qg3 Qa7 25.Bd3 Rf2 26.Rg1 Rbf8 27.Raf1 Kg8 28.Rxf2 Rxf2
+29.Qh3 Kf7 30.Bc4 Qe7 31.Qe3 Rxc2 32.Rf1+ Ke8 33.Rf2 Rxf2 34.Qxf2 e5 35.h3 Qg5
+36.Kh2 e4 37.Qg3 Qh6 38.Qe5+ Kd7 39.Bd5 e3 40.Bxc6+ Kxc6 41.Kg3 Qg6+ 42.Kf3 Qc2
+43.Qe6+ Kb7 44.Qd7+ Kb8 45.Qb5+ Ka7 46.Qe2  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Sokolov,Iv"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2707"]
+[ECO "E14"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 Bb7 7.e3 O-O 8.Be2 d5
+9.O-O Nbd7 10.b4 dxc4 11.Bxc4 c5 12.Bb2 Qe7 13.Rfd1 Rfd8 14.Qe2 h6 15.b5 Rac8
+16.a4 Ne4 17.Rac1 cxd4 18.Nxd4 Nec5 19.Ba3 Qf6 20.Nc6 Bxc6 21.bxc6 Rxc6 22.Bb5 Rcc8
+23.h3 Qe7 24.a5 Nf6 25.Rd4 Ne8 26.axb6 axb6 27.Rdc4 Qa7 28.Bxc5 Rxc5 29.Rxc5 bxc5
+30.Qc4 Nd6 31.Qxc5 Qxc5 32.Rxc5 Nxb5 33.Rxb5  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Van Wely,L"]
+[Black "Leko,P"]
+[Result "1-0"]
+[WhiteElo "2647"]
+[BlackElo "2740"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Nf3 Bb7 8.e3 d5
+9.b4 c5 10.dxc5 bxc5 11.Bb2 Nbd7 12.Be2 dxc4 13.Qxc4 Ne4 14.O-O Nb6 15.Qb5 a6
+16.Qa5 Nd5 17.Rfc1 Rc8 18.Qxd8 Rfxd8 19.bxc5 Nxc5 20.Rc4 Nd7 21.Rb1 Rxc4
+22.Bxc4 Rc8 23.Nd2 N5b6 24.Bd3 e5 25.h4 f6 26.h5 Rc7 27.Ne4 Bd5 28.Rc1 Rxc1+
+29.Bxc1 Nc4 30.g4 g6 31.hxg6 hxg6 32.Nd2 Nxd2 33.Bxd2 Bf3 34.g5 fxg5 35.Bxa6 Bc6
+36.Ba5 Kf7 37.Bd8 g4 38.Be2 Bf3 39.Bc4+ Ke8 40.Bc7 Bd1 41.Bb5 e4 42.a4 Bc2
+43.a5 Bd3 44.Bc6 Ke7 45.Kh2 g5 46.Kg3 Nf6 47.Bb7  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Mamedyarov,S"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2709"]
+[BlackElo "2792"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qa4 Bb7 6.Bg2 c5 7.dxc5 Bxc5 8.O-O O-O
+9.Nc3 Be7 10.Rd1 Na6 11.Bf4 Nc5 12.Qc2 Qc8 13.Rd4 d5 14.cxd5 Nxd5 15.Bg5 Nf6
+16.Rc1 h6 17.Bf4 Rd8 18.Rxd8+ Qxd8 19.Ne5 Bxg2 20.Kxg2 Rc8 21.Qd1 Qc7 22.b4 Qb7+
+23.f3 Ncd7 24.Nxd7 Nxd7 25.a3 b5 26.Ne4 Rxc1  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Gelfand,B"]
+[Black "Karjakin,Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2660"]
+[ECO "E05"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Ra7 11.Rc1 Be4 12.Qb3 Nc6 13.e3 Qa8 14.Qd1 Nb8 15.Ba5 Rc8
+16.Nbd2 Bd5 17.Nb3 Nbd7 18.Rc2 Be4 19.Rc3 Nd5 20.Rcc1 N5f6 21.Rc3 Nd5 22.Rcc1 N5f6  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.25"]
+[Round "10"]
+[White "Topalov,V"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteElo "2801"]
+[BlackElo "2752"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Nfd7 10.Nxd7 Nxd7 11.Nd2 O-O 12.O-O Nf6 13.e4 b5 14.exd5 exd5 15.Re1 Rb8
+16.c5 Bc8 17.Nf3 Ne4 18.Rxe4 dxe4 19.Ne5 Qd5 20.Qe1 Bf5 21.g4 Bg6 22.f3 b4
+23.fxe4 Qe6 24.Bb2 Bf6 25.Nxc6 Qxc6 26.e5 Qa6 27.exf6 Rfe8 28.Qf1 Qe2 29.Qf2 Qxg4
+30.h3 Qg5 31.Bc1 Qh5 32.Bf4 Rbd8 33.c6 Be4 34.c7 Rc8 35.Re1 Qg6 36.Rxe4 Rxe4
+37.d5 Rce8 38.d6 Re1+ 39.Kh2 Qf5 40.Qg3 g6 41.Qg5 Qxg5 42.Bxg5 Rd1 43.Bc6 Re2+
+44.Kg3  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.27"]
+[Round "11"]
+[White "Karjakin,Sergey"]
+[Black "Sokolov,Iv"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2689"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Be7 10.c3 O-O 11.Bc2 f5 12.Nb3 Qd7 13.Nbd4 Nxd4 14.Nxd4 c5 15.Nxe6 Qxe6
+16.f3 Ng5 17.a4 g6 18.Kh1 c4 19.b4 a5 20.bxa5 Rxa5 21.Bxg5 Bxg5 22.f4 Be7
+23.axb5 Rxb5 24.Ba4 Rb2 25.Qd4 Rc8 26.Rfd1 Rc5 27.Rab1 Rxb1 28.Rxb1 Ra5 29.Bd1 Qa6
+30.h3 Kg7 31.Bf3 Ra1 32.Rxa1 Qxa1+ 33.Kh2 Qa5 34.Bxd5 Bc5 35.Qxc4 Bf2 36.Qe2 Qc5
+37.c4 Bg1+ 38.Kh1 Be3 39.g3 Qa3 40.Kg2 h5 41.h4 Bc5 42.Qc2 Kf8 43.Qb1 Qb4
+44.Qc2 Ke7 45.Bf3 Qe1 46.Qb3 Qb4 47.Qd3 Qb2+ 48.Kh3 Bd4 49.Bg2 Kf8 50.c5  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.27"]
+[Round "11"]
+[White "Leko,P"]
+[Black "Mamedyarov,S"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2709"]
+[ECO "C72"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.d4 exd4 7.Nxd4 b5 8.Nxc6 Bxc6
+9.Bb3 Nf6 10.Nc3 Be7 11.Re1 O-O 12.a4 b4 13.Nd5 Bxd5 14.exd5 Nd7 15.a5 Nc5
+16.Ba4 Rb8 17.Bc6 Bf6 18.Qe2 Bd4 19.Rb1 Qf6 20.Rd1 h6 21.Qd2 Rfe8 22.Bxe8 Rxe8
+23.Qf4 b3 24.c3 Qe7 25.Bd2 Be5 26.Qg4 Ne4 27.Be3 g6 28.g3 Bg7 29.Re1 h5 30.Qe2 h4
+31.Qxa6 f5 32.Qb5 Be5 33.a6 hxg3 34.fxg3 Kf7 35.a7 Rh8 36.Qb8 Rxh2 37.a8=Q  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.27"]
+[Round "11"]
+[White "Kamsky,G"]
+[Black "Van Wely,L"]
+[Result "1-0"]
+[WhiteElo "2686"]
+[BlackElo "2647"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.O-O Be7 8.a4 Nc6
+9.Be3 O-O 10.f4 Qc7 11.Kh1 Re8 12.Qe1 Nxd4 13.Bxd4 e5 14.Be3 exf4 15.Bxf4 Be6
+16.a5 Nd7 17.Qg3 Ne5 18.Be3 Bf8 19.Bb6 Qc6 20.Bd3 g6 21.Ne2 Bg7 22.Nd4 Qd7
+23.Rad1 Rac8 24.b3 Bg4 25.Rd2 Nxd3 26.Qxd3 d5 27.h3 dxe4 28.Qe3 Be6 29.c4 h5
+30.Nb5 axb5 31.Rxd7 Bxd7 32.Qf4 Be6 33.cxb5 Bxb3 34.Be3 Bc4 35.Rc1 Bxb5 36.Rxc8 Rxc8
+37.Qxe4 Bc6 38.Qc2 Re8 39.Bf2 Re6 40.Kg1 Be5 41.Qb3 Bf4 42.h4 Re4 43.Qb6 Be5
+44.Qc5 Bc7 45.a6 Ra4 46.Bd4 Rxa6 47.Qe7 Ba5 48.Qe5 Kf8 49.Qd6+ Ke8 50.Bf6 Bb6+
+51.Kh2  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.27"]
+[Round "11"]
+[White "Adams,Mi"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2707"]
+[BlackElo "2717"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Be3 O-O 8.Qd2 Nc6
+9.O-O-O Ne5 10.Kb1 b6 11.Nd4 Bb7 12.h3 a6 13.f4 Nd7 14.Nf5 Re8 15.Rg1 Nc5
+16.Bxc5 bxc5 17.g4 Bf8 18.Bc4 Qd7 19.Qf2 d5 20.Bxd5 Bxd5 21.c4 c6 22.cxd5 cxd5
+23.Ne3 d4 24.Nc4 Qb5 25.b3 Rab8 26.Kc1 Re4 27.Rge1 Rbe8 28.Rxe4 Rxe4 29.Re1 Qe8
+30.Kd1 f5 31.Rxe4 Qxe4 32.Qe2 Qxe2+ 33.Kxe2 Kf7 34.Kf3 Ke6 35.gxf5+ Kxf5
+36.a4 Be7 37.Nd2 g6 38.Nf1 Bh4 39.Nd2  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.27"]
+[Round "11"]
+[White "Ivanchuk,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2729"]
+[BlackElo "2801"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 O-O 6.Bg2 cxd4 7.Nxd4 d5 8.Qb3 Bxc3+
+9.Qxc3 e5 10.Nb3 Nc6 11.Bg5 d4 12.Qf3 Be6 13.Rc1 Rc8 14.O-O b6 15.Nd2 h6
+16.Bxf6 Qxf6 17.Qxf6 gxf6 18.Ne4 f5 19.Nd6 Rc7 20.Nb5 Rcc8 21.Nd6 Rc7 22.Nb5 Rcc8
+23.b3 e4 24.f3 a6 25.Nd6 Rcd8 26.c5 e3 27.f4 Nb4 28.Nb7 Rb8 29.c6 Nxa2 30.Bf3 Nxc1
+31.Rxc1 Bxb3 32.c7 Rbe8 33.Nd6 Be6 34.Bb7 Bc8 35.Nxc8 Rxc8 36.Bxa6 Rfe8 37.Bxc8 Rxc8
+38.Kg2 b5 39.Kf3 b4 40.Rc4 b3 41.Rxd4 Rxc7 42.Rb4 Rc3 43.Rb5 Kf8 44.Rxf5 Ke7
+45.g4 Kd6 46.Rb5 Kc6 47.Rb8 Kd5 48.h4 f6 49.h5 Kd4 50.Rb4+ Kc5 51.Rb7 Kd5
+52.g5 fxg5 53.fxg5 hxg5 54.Rb8 Rc4 55.Rxb3 Ke5 56.Rxe3+ Kf5 57.Kg2 Rg4+ 58.Rg3 Re4
+59.Kf2 Rh4 60.Rf3+ Ke4 61.Re3+ Kf5 62.Rf3+  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.27"]
+[Round "11"]
+[White "Anand,V"]
+[Black "Tiviakov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2792"]
+[BlackElo "2669"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.d4 Nf6 5.Nf3 c6 6.Ne5 Nbd7 7.Bf4 Nd5 8.Nxd5 Qxd5
+9.Be2 Nxe5 10.Bxe5 Qxg2 11.Bf3 Qg6 12.d5 Bg4 13.dxc6 bxc6 14.Qe2 Bxf3 15.Qxf3 Rd8
+16.Rd1 Qe6 17.O-O Rxd1 18.Rxd1 h5 19.Qd3 Qc8 20.h4 Rh6 21.Kh2 Rg6 22.Bg3 Rg4
+23.a3 a6 24.Re1 c5 25.c3 Rg6 26.Re5 e6 27.Rxh5 Rh6 28.Rxh6 gxh6 29.Qf3 c4
+30.Bf4 Qc5 31.Qa8+ Ke7 32.Kg1 Qf5 33.Bg3 Qb1+ 34.Kh2 Qxb2 35.Qxa6 Kf6 36.Qxc4 Qxa3
+37.Qd4+ Ke7 38.c4 Ke8 39.Qb6 Qc5 40.Qxc5 Bxc5 41.h5 Bd4 42.Kg2 Kd7 43.Bf4 Bg7
+44.Be3 Kd6 45.Kf1 e5 46.Ke2 f5 47.f3 Kc6 48.Kd3 Bf8 49.Bc1 Bg7 50.Ba3 Bf6  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.27"]
+[Round "11"]
+[White "Aronian,L"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteElo "2752"]
+[BlackElo "2723"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5
+9.dxe5 Nxe5 10.Bf4 Nfd7 11.Bg2 f6 12.O-O Nc5 13.Ne3 Bg6 14.b4 Ne6 15.a5 a6
+16.Qa4 Bd6 17.Ned5 Qf7 18.Bxe5 fxe5 19.Ne4 Rd8 20.Ndc3 O-O 21.e3 Be7 22.Qa3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.28"]
+[Round "12"]
+[White "Sokolov,Iv"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2689"]
+[BlackElo "2717"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.c5 Nbd7 6.Bf4 Nh5 7.Bd2 Nhf6 8.Bf4 Nh5
+9.e3 b6 10.b4 Nxf4 11.exf4 Qc7 12.g3 g6 13.Rc1 Bg7 14.Be2 O-O 15.O-O a5 16.b5 bxc5
+17.dxc5 Nxc5 18.Nxd5 cxd5 19.Qxd5 Be6 20.Qxc5 Qxc5 21.Rxc5 Bxa2 22.Ne5 Bxe5
+23.fxe5 Rfc8 24.Rxc8+ Rxc8 25.Ra1 Rc2 26.Bf3 Rb2 27.b6 Bc4 28.b7 Ba6  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.28"]
+[Round "12"]
+[White "Tiviakov,S"]
+[Black "Leko,P"]
+[Result "1/2-1/2"]
+[WhiteElo "2669"]
+[BlackElo "2740"]
+[ECO "C54"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 Bc5 5.c3 d6 6.Bb3 a6 7.h3 Ba7 8.Nbd2 O-O
+9.Nf1 d5 10.Qe2 Be6 11.Ng3 dxe4 12.dxe4 Bxb3 13.axb3 Ne8 14.Nf5 Nd6 15.O-O Qf6
+16.Bg5 Qe6 17.Nxd6 Qxd6 18.Qc4 Rfe8 19.Rfd1 Qe6 20.Qxe6 Rxe6 21.Rd7 f6 22.Bd2 Re7
+23.Rxe7  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.28"]
+[Round "12"]
+[White "Van Wely,L"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2647"]
+[BlackElo "2707"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 O-O 8.Rc1 d5
+9.cxd5 Nxd5 10.Bg2 Nd7 11.Nxd5 exd5 12.O-O Re8 13.Bf4 c5 14.dxc5 Bxc5 15.Qxd5 Nf6
+16.Qxd8 Raxd8 17.Ne5 Nd5 18.Bf3 Nxf4 19.gxf4 Rd2 20.Rfd1 Red8 21.Rxd2 Rxd2
+22.b4 Bxb4 23.Rc7 g6 24.e3 f5 25.Rxa7 Be2 26.Bxe2 Rxe2 27.Nd7 Be7 28.Nxb6 Bh4
+29.a4 Rb2 30.Nd5 Rd2 31.Rd7 Bxf2+ 32.Kf1 Bxe3 33.Nf6+ Kf8 34.Nxh7+ Ke8 35.Nf6+ Kf8
+36.Nh7+ Ke8 37.Nf6+ Kf8 38.Rxd2 Bxd2 39.Nd5 Kf7 40.Ke2 Ba5 41.Kd3 Ke6 42.Kc4 Bd2
+43.Kc5 Kd7 44.Kb5 Kd6 45.Nb6 Kc7 46.a5 Kb8 47.Nd5 Ka7 48.h3 g5 49.fxg5 Bxg5
+50.Nb4 f4 51.Nc6+ Kb7 52.Nd4 Bf6 53.Nf3 Ka7 54.h4 Bg7 55.h5 Kb7 56.a6+ Ka7
+57.Ka5 Bc3+ 58.Kb5 Bg7 59.Nd2 Bh6 60.Nf3  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.28"]
+[Round "12"]
+[White "Topalov,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2801"]
+[BlackElo "2792"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.a4 Rb8 8.c3 O-O
+9.d4 Bb6 10.axb5 axb5 11.dxe5 Ng4 12.Na3 Ncxe5 13.h3 d6 14.Qe2 Nxf3+ 15.Qxf3 Ne5
+16.Qg3 Be6 17.Bxe6 fxe6 18.Nxb5 Rxf2 19.Rxf2 Bxf2+ 20.Qxf2 Rxb5 21.Qe2 Rb8
+22.Bf4 Qf6 23.Rf1  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.28"]
+[Round "12"]
+[White "Gelfand,B"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2723"]
+[BlackElo "2729"]
+[ECO "E15"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.O-O d5
+9.Qc2 Nbd7 10.Rd1 O-O 11.Bf4 Rc8 12.Nc3 Nh5 13.Bc1 Nhf6 14.Bf4 Nh5 15.Bc1 Nhf6
+16.Bf4 Re8 17.e4 dxc4 18.bxc4 Bxc4 19.Nd2 Ba6 20.Qa4 Bd3 21.Ndb1 b5 22.Qxa7 e5
+23.Rxd3 exf4 24.Rd1 b4 25.e5 bxc3 26.Nxc3 Bb4 27.Rdc1 Bxc3 28.Rxc3 Nd5 29.Rc2 Ra8
+30.Qb7 Rb8 31.Qa7 Re7 32.Qa3 Re6 33.Rac1 Nf8 34.Rxc6 Rxc6 35.Rxc6 Rb1+ 36.Bf1 h5
+37.Rd6 Qc8 38.Qd3 Nc3 39.Kg2 Ne6 40.Qc4 Qxc4 41.Bxc4 Ne4 42.Bd3 Re1 43.Rb6 g6
+44.Bxe4 Rxe4 45.d5 Nf8 46.gxf4 Rxf4 47.Rb8 Rd4 48.e6 fxe6 49.dxe6 Re4 50.Re8 Kg7
+51.f3 Re5 52.Re7+ Kh6 53.f4 Re2+ 54.Kf3 Rxa2 55.Re8 Nh7 56.e7 Ra3+ 57.Kf2 Ra7
+58.h4 Nf6 59.Rh8+ Kg7 60.e8=Q Nxe8 61.Rxe8  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.28"]
+[Round "12"]
+[White "Karjakin,Sergey"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2752"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 b4
+9.d3 d6 10.a5 Be6 11.Nbd2 Qc8 12.Nc4 h6 13.h3 Rb8 14.Be3 Rd8 15.Qe2 Bf8 16.Nfd2 Ne7
+17.d4 Ng6 18.d5 Bd7 19.Rec1 Re8 20.c3 Nf4 21.Qd1 Qd8 22.Ba4 Qe7 23.b3 g6
+24.Nb2 Rec8 25.Bxd7 Qxd7 26.c4 Qe8 27.Qf1  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.28"]
+[Round "12"]
+[White "Mamedyarov,S"]
+[Black "Kamsky,G"]
+[Result "0-1"]
+[WhiteElo "2709"]
+[BlackElo "2686"]
+[ECO "D94"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 g6 5.Nf3 Bg7 6.Be2 O-O 7.O-O a6 8.a4 Bg4 9.a5 dxc4
+10.h3 Bxf3 11.Bxf3 Ne8 12.Ne4 Nd6 13.Nxd6 exd6 14.b3 c3 15.Qd3 d5 16.Qxc3 Nd7
+17.Ba3 Re8 18.Bd6 Nf8 19.Bg3 Ne6 20.Qb4 Qd7 21.Qd6 Qc8 22.Bh2 Rd8 23.Qg3 Qd7
+24.h4 f5 25.Qh3 h5 26.b4 Qe7 27.Rfc1 Qxb4 28.Rab1 Qa3 29.Rc2 Rd7 30.Rcb2 Rf8
+31.Kh1 Rff7 32.Qg3 Kh7 33.Qb8 Qe7 34.Kg1 Nd8 35.Bg3 Bf6 36.Qf4 Rf8 37.Qb8 Kg8
+38.Qa7 Rf7 39.Be2 Bxh4 40.Bxh4 Qxh4 41.g3 Qg5 42.Bxa6 bxa6 43.Qxa6 h4 44.Qe2 Ra7
+45.a6 hxg3 46.f4 Qh5 47.Qxh5 gxh5 48.Rb8 Rf8  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.29"]
+[Round "13"]
+[White "Anand,V"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteElo "2792"]
+[BlackElo "2723"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e5 7.Nb3 Be6 8.Be3 Nbd7
+9.Qd2 b5 10.O-O-O Nb6 11.Qf2 Nc4 12.Bxc4 bxc4 13.Na5 Qd7 14.Rd2 Be7 15.Rhd1 Rb8
+16.Bc5 Qc7 17.Rxd6 Qxa5 18.Rxe6 fxe6 19.Bxe7 Rb7 20.Bd6 Nd7 21.Qh4 Qd8 22.Qh5+ g6
+23.Qh6 Qf6 24.Ne2 Kf7 25.h4 g5 26.hxg5 Qxh6 27.gxh6 Rg8 28.g4 Rg6 29.Rh1 Rb6
+30.Ba3 Rf6 31.Rh3 Kg6 32.Kd2 Rf7 33.Ke3 Nf6 34.Nc3 Rd7 35.Rh1 Rc6 36.Na4 Rb7
+37.Nc3 Rb8 38.Nd1 Ng8 39.Rh5 Nxh6 40.Rxe5 Nf7 41.Rh5 Rb5 42.Rh1 e5 43.Nc3 Rb7
+44.Nd5 Re6 45.Bb4 Kg7 46.Rh2 Ng5 47.Bc3 Kg8 48.Rf2 Rf7 49.Rf1 Re8 50.Ke2 Ref8
+51.Bxe5 Nxe4 52.Ke3 Nc5 53.f4 Re8 54.Kd4 Nd7 55.Re1 Re6 56.Re2 Nxe5 57.fxe5 Rg7
+58.Nf6+ Kf7 59.Kxc4 Rg5 60.Kd4 Rb6 61.c4 Ke6 62.b3 Rb8 63.Re4 h6 64.Nd5 Rbg8
+65.Nf4+ Ke7 66.e6  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.29"]
+[Round "13"]
+[White "Bacrot,E"]
+[Black "Van Wely,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2647"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Bd3 Nbd7 6.b3 b6 7.O-O Bb7 8.Bb2 Be7
+9.Nc3 O-O 10.Qe2 Re8 11.Rfd1 Qc7 12.Rac1 Rad8 13.a3 a5 14.h3 Qb8 15.Ne5 Nxe5
+16.dxe5 dxc4 17.Bxc4 Nd7 18.f4 b5 19.Bd3 Nc5 20.Bc2 b4 21.axb4 axb4 22.Ne4 Nxe4
+23.Bxe4 c5 24.Bd3 g6 25.e4 Rd7 26.f5 Bg5 27.Bc4 Bc8 28.Rxd7 Bxd7 29.Rd1 Qc7
+30.Qd3 Bc8 31.f6 Bb7 32.Qd6 Qc6 33.Qd7 h5 34.Qxc6 Bxc6 35.Re1 Rd8 36.Re2 Bf4
+37.Kf2 h4 38.Kf3 g5 39.g3 Bxg3 40.Bc1 Bxe5 41.Bxg5 Rd1 42.Rg2 Kh8 43.Rg4 Rh1
+44.Rxh4+ Kg8 45.Rh5 Bb7 46.Bh4 Bd4 47.Rg5+ Kf8 48.Rh5 Rxh3+ 49.Kg2 Rxh4 50.Rxh4 Bxf6
+51.Rg4 Ke7 52.Kf3 Kd6 53.Kf4 Be5+ 54.Ke3 Bb2 55.Rh4 Bc6 56.Rh7 Bc1+ 57.Ke2 Ke7
+58.Kd3 Bb2 59.Rh2 Be5 60.Ra2 f5 61.exf5 exf5 62.Ra7+ Kd8 63.Be6 f4 64.Rf7 Bd6
+65.Bc4 Bg2 66.Ke2 Ke8 67.Kf2 Be4 68.Ke2 Be5 69.Ra7 Bd4 70.Rf7 Be5 71.Ra7 Kd8
+72.Rf7 Bc6 73.Rf5 Bd6 74.Bd5 Bd7 75.Rf7 Be8 76.Rh7 Be5 77.Kf3 Bd6 78.Rh6 Ke7
+79.Ke4 Bd7 80.Rh7+ Kd8 81.Bc4 Bc6+ 82.Kf5 f3 83.Ke6 Bg3 84.Rg7 Bh2 85.Rh7 Bg3
+86.Bd5 f2 87.Rf7 Bb5 88.Bg2 c4 89.Bf1 Be8 90.Bxc4 Bxf7+ 91.Kxf7  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.29"]
+[Round "13"]
+[White "Kamsky,G"]
+[Black "Tiviakov,S"]
+[Result "0-1"]
+[WhiteElo "2686"]
+[BlackElo "2669"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6 4.d4 Nf6 5.Bc4 a6 6.Nf3 Bg4 7.h3 Bh5 8.g4 Bg6
+9.Ne5 Nc6 10.Nxg6 hxg6 11.Be3 e5 12.d5 Na5 13.Qe2 Nxc4 14.Qxc4 b5 15.Qd3 Nxg4
+16.O-O-O Nf6 17.f4 exf4 18.Ne4 Nxe4 19.Qxe4+ Be7 20.Bd4 f5 21.Qf3 O-O-O 22.Bxg7 Rhg8
+23.Bc3 b4 24.Be1 g5 25.Qd3 Rgf8 26.Bf2 Kb7 27.Rhe1 Bf6 28.Qf3 Rfe8 29.Rf1 Re4
+30.Kb1 Qe5 31.Qb3 a5 32.c3 Qd6 33.a3 Ra8 34.axb4 axb4 35.Rfe1 Rae8 36.c4 Rxe1
+37.Bxe1 Re2 38.Bxb4 Qb6 39.c5 Qb5 40.c6+ Kb8 41.d6 Rxb2+ 42.Qxb2 Bxb2 43.d7 Bf6  0-1
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.29"]
+[Round "13"]
+[White "Aronian,L"]
+[Black "Sokolov,Iv"]
+[Result "1-0"]
+[WhiteElo "2752"]
+[BlackElo "2689"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5
+9.dxe5 Nxe5 10.Bf4 Nfd7 11.Bg2 f6 12.O-O Nc5 13.Ne3 Bg6 14.b4 Ne6 15.Qb3 Bf7
+16.Qb1 Nxf4 17.gxf4 Ng6 18.b5 Qxf4 19.Rd1 Bd6 20.Rxd6 Qxd6 21.bxc6 O-O 22.Nb5 Qc5
+23.cxb7 Rab8 24.Qf5 Ne5 25.Qc2 Qb6 26.Qc7 Rfd8 27.Rc1 Qa6 28.Nf5 Qb6 29.Qxb8 Rxb8
+30.Rc8+ Qd8 31.Nxa7 Be8 32.Rxd8 Rxd8 33.Bd5+ Bf7 34.Ne7+ Kf8 35.Nec6  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.29"]
+[Round "13"]
+[White "Leko,P"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2801"]
+[ECO "B91"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3 Be7 8.Bg2 O-O
+9.O-O Be6 10.a4 Nbd7 11.a5 Qc7 12.Re1 Rfc8 13.h3 h6 14.Be3 b5 15.axb6 Nxb6
+16.Na5 Nc4 17.Nxc4 Bxc4 18.Na4 Rab8 19.b3 Bb5 20.c4 Bxa4 21.Rxa4 Qb7 22.Qa1 Qxb3
+23.Rc1 Rc6 24.c5 Nd7 25.Rxa6 Rxa6 26.Qxa6 Nxc5 27.Bxc5 dxc5 28.Bf1 h5 29.h4 Qf3
+30.Qe2 Qxe2 31.Bxe2 g6 32.Bc4 Rb2 33.Ra1 Rc2 34.Bb3 Rc3 35.Bd5 c4 36.Ra7 Kf8
+37.Ra8+ Kg7 38.Ra7 Kf8 39.Ra8+ Kg7 40.Ra7 Kf8  1/2-1/2
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.29"]
+[Round "13"]
+[White "Ivanchuk,V"]
+[Black "Karjakin,Sergey"]
+[Result "1-0"]
+[WhiteElo "2729"]
+[BlackElo "2660"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.a3 d5 8.d4 exd4
+9.Nxd4 Nxd4 10.Qxd4 c5 11.Qh4 Be6 12.cxd5 Nxd5 13.Qxe7+ Nxe7 14.Bb5+ Bd7
+15.Be2 f6 16.e4 Kf7 17.Be3 Rhc8 18.f3 Be6 19.Rc1 b6 20.Ba6 Rd8 21.b4 cxb4
+22.axb4 Bc8 23.Be2 Be6 24.Kf2 Rac8 25.Ra1 Nc6 26.Ba6 Rb8 27.Bb5 Nxb4 28.Rxa7+ Kg8
+29.Re7 Bf7 30.Ra1 Ra8 31.Rd7 Rdc8 32.Rxa8 Rxa8 33.Bxb6 h6 34.Kg3 Rc8 35.Rd6 Be8
+36.Be2 Rc6 37.Rxc6 Nxc6 38.Kf4 Ne5 39.Bc7 Bd7 40.Ke3 Kf8 41.Kd4 Nf7 42.Ba5 Ne5
+43.Bb4+ Ke8 44.Kc5 Ng6 45.Bd2 Ne5 46.Kd6 Ba4 47.f4 Nf7+ 48.Kc7 Bd7 49.Bb4 Ba4
+50.Bc4 Nh8 51.g3 Nf7 52.h4 Nh8 53.Bd6 Ng6 54.Be2 Nh8 55.Bc4 Ng6 56.e5 fxe5
+57.fxe5 Ne7 58.e6 g6 59.Bc5 Nf5 60.Bd3 Ne7 61.Kd6 h5 62.Ke5 Nf5 63.Kf6 Bc6
+64.e7  1-0
+
+[Event "Corus A"]
+[Site "Wijk aan Zee NED"]
+[Date "2006.01.29"]
+[Round "13"]
+[White "Adams,Mi"]
+[Black "Mamedyarov,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2707"]
+[BlackElo "2709"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.d4 Bb6
+9.a4 Bg4 10.h3 Bh5 11.d5 Ne7 12.axb5 axb5 13.Rxa8 Qxa8 14.Na3 O-O 15.Bg5 Qe8
+16.Bxf6 gxf6 17.Qd3 Ng6 18.g3 Kh8 19.Kh2 Rg8 20.Ne1 Qf8 21.Bd1 Qh6 22.Ng2 Bxd1
+23.Qxd1 f5 24.exf5 Ne7 25.Nc2 Nxf5 26.Qf3 Qg5 27.Nce3 Bxe3  1/2-1/2
