@@ -4,6 +4,8 @@
 
 	public class AIPlayer : Player {
 
+		const int bookMoveDelayMillis = 250;
+
 		Search search;
 		AISettings settings;
 		bool moveFound;
@@ -28,7 +30,6 @@
 		public override void Update () {
 			if (moveFound) {
 				moveFound = false;
-				(Move move, int eval) = search.GetSearchResult ();
 				ChoseMove (move);
 			}
 
@@ -59,7 +60,8 @@
 				search.searchDiagnostics.isBook = true;
 				search.searchDiagnostics.moveVal = Chess.PGNCreator.NotationFromMove (FenUtility.CurrentFen(board), bookMove);
 				settings.diagnostics = search.searchDiagnostics;
-				ChoseMove (bookMove);
+				Task.Delay (bookMoveDelayMillis).ContinueWith ((t) => PlayBookMove (bookMove));
+				
 			}
 		}
 
@@ -87,10 +89,16 @@
 			}
 		}
 
+		void PlayBookMove(Move bookMove) {
+			this.move = bookMove;
+			moveFound = true;
+		}
+
 		void OnSearchComplete (Move move) {
 			// Cancel search timer in case search finished before timer ran out (can happen when a mate is found)
 			cancelSearchTimer?.Cancel ();
 			moveFound = true;
+			this.move = move;
 		}
 	}
 }

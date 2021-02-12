@@ -90,8 +90,13 @@ namespace Chess.Game {
 		}
 
 		public void NewGame (bool humanPlaysWhite) {
-			boardUI.SetPerspective(humanPlaysWhite);
+			boardUI.SetPerspective (humanPlaysWhite);
 			NewGame ((humanPlaysWhite) ? PlayerType.Human : PlayerType.AI, (humanPlaysWhite) ? PlayerType.AI : PlayerType.Human);
+		}
+
+		public void NewComputerVersusComputerGame () {
+			boardUI.SetPerspective (true);
+			NewGame (PlayerType.AI, PlayerType.AI);
 		}
 
 		void NewGame (PlayerType whitePlayerType, PlayerType blackPlayerType) {
@@ -130,7 +135,7 @@ namespace Chess.Game {
 				evalString = "Book";
 			} else {
 				float displayEval = d.eval / 100f;
-				if (blackPlayer is AIPlayer) {
+				if (playerToMove is AIPlayer && !board.WhiteToMove) {
 					displayEval = -displayEval;
 				}
 				evalString = ($"{displayEval:00.00}").Replace (",", ".");
@@ -155,6 +160,10 @@ namespace Chess.Game {
 			t.text = pgn;
 			t.SelectAll ();
 			t.Copy ();
+		}
+
+		public void QuitGame () {
+			Application.Quit ();
 		}
 
 		void NotifyPlayerToMove () {
