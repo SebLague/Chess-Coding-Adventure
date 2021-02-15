@@ -2,10 +2,9 @@
 To preserve memory during search, moves are stored as 16 bit numbers.
 The format is as follows:
 
-bit  0-5: from square (0 to 63)
-bit  6-11: to square (0 to 63)
-bit 12-13: promotion piece type: rook (0), knight (1), bishop (2), queen (3)
-bit 14-15: special move flag: promotion (1), en passant capture (2), castling (3)
+bit 0-5: from square (0 to 63)
+bit 6-11: to square (0 to 63)
+bit 12-15: flag
 */
 namespace Chess {
 
