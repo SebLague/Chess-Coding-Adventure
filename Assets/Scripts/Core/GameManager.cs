@@ -51,8 +51,7 @@ namespace Chess.Game {
 			gameMoves = new List<Move> ();
 			board = new Board ();
 			searchBoard = new Board ();
-			aiSettings.diagnostics = new Search.SearchDiagnostics ();
-
+			
 			NewGame (whitePlayerType, blackPlayerType);
 
 		}
@@ -90,6 +89,7 @@ namespace Chess.Game {
 		}
 
 		public void NewGame (bool humanPlaysWhite) {
+			aiSettings.diagnostics = new Search.SearchDiagnostics ();
 			boardUI.SetPerspective (humanPlaysWhite);
 			NewGame ((humanPlaysWhite) ? PlayerType.Human : PlayerType.AI, (humanPlaysWhite) ? PlayerType.AI : PlayerType.Human);
 		}
