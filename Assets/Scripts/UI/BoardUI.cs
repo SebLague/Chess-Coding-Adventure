@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
 
 namespace Chess.Game {
@@ -58,8 +59,8 @@ namespace Chess.Game {
 		}
 
 		public bool TryGetSquareUnderMouse (Vector2 mouseWorld, out Coord selectedCoord) {
-			int file = (int) (mouseWorld.x + 4);
-			int rank = (int) (mouseWorld.y + 4);
+			int file = (int)Math.Floor(mouseWorld.x + 4);
+			int rank = (int)Math.Floor(mouseWorld.y + 4);
 			if (!whiteIsBottom) {
 				file = 7 - file;
 				rank = 7 - rank;
