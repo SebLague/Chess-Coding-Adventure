@@ -145,7 +145,6 @@
 			if (moveFlag == Move.Flag.PawnTwoForward) {
 				int file = BoardRepresentation.FileIndex (moveFrom) + 1;
 				currentGameState |= (ushort) (file << 4);
-				ZobristKey ^= Zobrist.enPassantFile[file];
 			}
 
 			// Piece moving to/from rook square removes castling right for that side
@@ -167,8 +166,11 @@
 			ZobristKey ^= Zobrist.piecesArray[movePieceType, ColourToMoveIndex, moveFrom];
 			ZobristKey ^= Zobrist.piecesArray[Piece.PieceType (pieceOnTargetSquare), ColourToMoveIndex, moveTo];
 
-			if (oldEnPassantFile != 0)
-				ZobristKey ^= Zobrist.enPassantFile[oldEnPassantFile];
+			uint newEnPassantFile = (currentGameState >> 4) & 15;
+			if (newEnPassantFile != oldEnPassantFile) {
+				ZobristKey ^= Zobrist.enPassantFile[oldEnPassantFile]; // remove old en passant file
+				ZobristKey ^= Zobrist.enPassantFile[newEnPassantFile]; // add new en passant file
+			}
 
 			if (newCastleState != originalCastleState) {
 				ZobristKey ^= Zobrist.castlingRights[originalCastleState]; // remove old castling rights state
@@ -228,8 +230,6 @@
 			ZobristKey ^= Zobrist.piecesArray[toSquarePieceType, ColourToMoveIndex, movedTo]; // remove piece from square it moved to
 
 			uint oldEnPassantFile = (currentGameState >> 4) & 15;
-			if (oldEnPassantFile != 0)
-				ZobristKey ^= Zobrist.enPassantFile[oldEnPassantFile];
 
 			// ignore ep captures, handled later
 			if (capturedPieceType != 0 && !isEnPassant) {
@@ -290,8 +290,10 @@
 
 			fiftyMoveCounter = (int) (currentGameState & 4294950912) >> 14;
 			int newEnPassantFile = (int) (currentGameState >> 4) & 15;
-			if (newEnPassantFile != 0)
-				ZobristKey ^= Zobrist.enPassantFile[newEnPassantFile];
+			if (newEnPassantFile != oldEnPassantFile) {
+				ZobristKey ^= Zobrist.enPassantFile[oldEnPassantFile]; // remove old en passant file
+				ZobristKey ^= Zobrist.enPassantFile[newEnPassantFile]; // add new en passant file
+			}
 
 			uint newCastleState = currentGameState & 0b1111;
 			if (newCastleState != originalCastleState) {
