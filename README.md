@@ -1,5 +1,5 @@
 # Chess-AI
-A fairly simple chess program, implementing in C# in the Unity game engine.
+A fairly simple chess program, implemented in C# in the Unity game engine.
  
 [Watch video](https://www.youtube.com/watch?v=U4ogK0MIzqk)
 
