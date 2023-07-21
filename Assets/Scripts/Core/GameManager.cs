@@ -94,6 +94,11 @@ namespace Chess.Game {
 			NewGame ((humanPlaysWhite) ? PlayerType.Human : PlayerType.AI, (humanPlaysWhite) ? PlayerType.AI : PlayerType.Human);
 		}
 
+		public void HotseatGame (){
+			boardUI.SetPerspective(true);
+			NewGame(PlayerType.Human, PlayerType.Human);
+		}
+
 		public void NewComputerVersusComputerGame () {
 			boardUI.SetPerspective (true);
 			NewGame (PlayerType.AI, PlayerType.AI);
@@ -111,15 +116,11 @@ namespace Chess.Game {
 			onPositionLoaded?.Invoke ();
 			boardUI.UpdatePosition (board);
 			boardUI.ResetSquareColours ();
-
 			CreatePlayer (ref whitePlayer, whitePlayerType);
 			CreatePlayer (ref blackPlayer, blackPlayerType);
-
 			gameResult = Result.Playing;
 			PrintGameResult (gameResult);
-
 			NotifyPlayerToMove ();
-
 		}
 
 		void LogAIDiagnostics () {
@@ -169,7 +170,6 @@ namespace Chess.Game {
 		void NotifyPlayerToMove () {
 			gameResult = GetGameState ();
 			PrintGameResult (gameResult);
-
 			if (gameResult == Result.Playing) {
 				playerToMove = (board.WhiteToMove) ? whitePlayer : blackPlayer;
 				playerToMove.NotifyTurnToMove ();
