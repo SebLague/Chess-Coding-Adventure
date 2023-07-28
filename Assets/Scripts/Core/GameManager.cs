@@ -1,16 +1,13 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
 namespace Chess.Game {
 	public class GameManager : MonoBehaviour {
-
 		public enum Result { Playing, WhiteIsMated, BlackIsMated, Stalemate, Repetition, FiftyMoveRule, InsufficientMaterial }
-
 		public event System.Action onPositionLoaded;
 		public event System.Action<Move> onMoveMade;
-
 		public enum PlayerType { Human, AI }
 
 		public bool loadCustomPosition;
@@ -27,6 +24,14 @@ namespace Chess.Game {
 		public TMPro.TMP_Text aiDiagnosticsUI;
 		public TMPro.TMP_Text resultUI;
 
+		//Scene Control
+		private int playerChoice;
+		public AIDifficulty AIDifficulty;
+
+		//UI Control
+		public GameObject export;
+		public GameObject exit; 
+
 		Result gameResult;
 
 		Player whitePlayer;
@@ -40,21 +45,77 @@ namespace Chess.Game {
 		Board searchBoard; // Duplicate version of board used for ai search
 
 		void Start () {
-			//Application.targetFrameRate = 60;
-
-			if (useClocks) {
+			/*if (useClocks) {
 				whiteClock.isTurnToMove = false;
 				blackClock.isTurnToMove = false;
-			}
+			}*/
+			
+			//UI Control
+			export.SetActive(false);
+			exit.SetActive(false);
 
+			//Board Set Up
 			boardUI = FindObjectOfType<BoardUI> ();
 			gameMoves = new List<Move> ();
 			board = new Board ();
 			searchBoard = new Board ();
 			aiSettings.diagnostics = new Search.SearchDiagnostics ();
-
 			NewGame (whitePlayerType, blackPlayerType);
+			
+			//Start Control
+			playerChoice = PlayerPrefs.GetInt("StartValue", 0);
 
+        	switch(playerChoice){
+            	case 1:
+                	//Hotseat
+                	HotseatGame();
+                	break;
+            	case 2:
+                	//White Easy
+					AIDifficulty.difficulty = 1;
+					AIDifficulty.SetDifficulty();
+                	NewGame(true);
+                	break;
+            	case 3: 
+                	//Black
+					AIDifficulty.difficulty = 1;
+					AIDifficulty.SetDifficulty();
+                	NewGame(false);
+                	break;
+            	case 4:
+                	//AI Spectate
+					AIDifficulty.difficulty = 3;
+					AIDifficulty.SetDifficulty();
+                	NewComputerVersusComputerGame();
+                	break;
+				case 5:
+					//White Medium
+					AIDifficulty.difficulty = 2;
+					AIDifficulty.SetDifficulty();
+                	NewGame(true);
+					break;
+				case 6:
+					//White Hard
+					AIDifficulty.difficulty = 3;
+ 					AIDifficulty.SetDifficulty();
+                	NewGame(true);
+					break;
+				case 7: 
+					//Black Medium
+					AIDifficulty.difficulty = 2;
+					AIDifficulty.SetDifficulty();
+                	NewGame(false);	
+					break;			
+				case 8:
+					//Black Hard
+					AIDifficulty.difficulty = 3;
+					AIDifficulty.SetDifficulty();
+                	NewGame(false);	
+					break;			
+            	default:
+                	Debug.LogError("Accessed Impossible Choice");
+                	break;
+        	}
 		}
 
 		void Update () {
@@ -91,11 +152,20 @@ namespace Chess.Game {
 
 		public void NewGame (bool humanPlaysWhite) {
 			boardUI.SetPerspective (humanPlaysWhite);
+        	aiDiagnosticsUI.enabled = true;
 			NewGame ((humanPlaysWhite) ? PlayerType.Human : PlayerType.AI, (humanPlaysWhite) ? PlayerType.AI : PlayerType.Human);
+		}
+
+		public void HotseatGame (){
+			boardUI.SetPerspective(true);
+			aiDiagnosticsUI.enabled = false;
+			NewGame(PlayerType.Human, PlayerType.Human);
 		}
 
 		public void NewComputerVersusComputerGame () {
 			boardUI.SetPerspective (true);
+			AIDifficulty.SetDifficulty();
+			aiDiagnosticsUI.enabled = true;
 			NewGame (PlayerType.AI, PlayerType.AI);
 		}
 
@@ -111,22 +181,17 @@ namespace Chess.Game {
 			onPositionLoaded?.Invoke ();
 			boardUI.UpdatePosition (board);
 			boardUI.ResetSquareColours ();
-
 			CreatePlayer (ref whitePlayer, whitePlayerType);
 			CreatePlayer (ref blackPlayer, blackPlayerType);
-
 			gameResult = Result.Playing;
 			PrintGameResult (gameResult);
-
 			NotifyPlayerToMove ();
-
 		}
 
 		void LogAIDiagnostics () {
 			string text = "";
 			var d = aiSettings.diagnostics;
 			//text += "AI Diagnostics";
-			text += $"<color=#{ColorUtility.ToHtmlStringRGB(colors[3])}>Version 1.0\n";
 			text += $"<color=#{ColorUtility.ToHtmlStringRGB(colors[0])}>Depth Searched: {d.lastCompletedDepth}";
 			//text += $"\nPositions evaluated: {d.numPositionsEvaluated}";
 
@@ -140,7 +205,7 @@ namespace Chess.Game {
 				}
 				evalString = ($"{displayEval:00.00}").Replace (",", ".");
 				if (Search.IsMateScore (d.eval)) {
-					evalString = $"mate in {Search.NumPlyToMateFromScore(d.eval)} ply";
+					evalString = $"Mate in {Search.NumPlyToMateFromScore(d.eval)} Play";
 				}
 			}
 			text += $"\n<color=#{ColorUtility.ToHtmlStringRGB(colors[1])}>Eval: {evalString}";
@@ -169,7 +234,6 @@ namespace Chess.Game {
 		void NotifyPlayerToMove () {
 			gameResult = GetGameState ();
 			PrintGameResult (gameResult);
-
 			if (gameResult == Result.Playing) {
 				playerToMove = (board.WhiteToMove) ? whitePlayer : blackPlayer;
 				playerToMove.NotifyTurnToMove ();
@@ -185,21 +249,32 @@ namespace Chess.Game {
 
 			if (result == Result.Playing) {
 				resultUI.text = "";
+				resultUI.text += subtitleSettings + "";
 			} else if (result == Result.WhiteIsMated || result == Result.BlackIsMated) {
 				resultUI.text = "Checkmate!";
+				EndToggle();
 			} else if (result == Result.FiftyMoveRule) {
 				resultUI.text = "Draw";
 				resultUI.text += subtitleSettings + "\n(50 move rule)";
+				EndToggle();
 			} else if (result == Result.Repetition) {
 				resultUI.text = "Draw";
 				resultUI.text += subtitleSettings + "\n(3-fold repetition)";
+				EndToggle();
 			} else if (result == Result.Stalemate) {
 				resultUI.text = "Draw";
 				resultUI.text += subtitleSettings + "\n(Stalemate)";
+				EndToggle();
 			} else if (result == Result.InsufficientMaterial) {
 				resultUI.text = "Draw";
 				resultUI.text += subtitleSettings + "\n(Insufficient material)";
+				EndToggle();
 			}
+		}
+
+		void EndToggle(){
+			export.SetActive(true);
+			exit.SetActive(true);
 		}
 
 		Result GetGameState () {
