@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ea222b713a9e459caf3ca327745aa40, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  mode: 0
+  searchTimeMillis: 1000
+  fixedSearchDepth: 0
+  runOnMainThread: 0
+  useBook: 1
+  book: {fileID: 4900000, guid: a8f75ad0d5c0c6248a093ed04a3f3db5, type: 3}
+  maxBookPly: 16
+  bookMoveDelayMs: 150
+  bookMoveDelayRandomExtraMs: 250
+  diagnostics:
+    numCompletedIterations: 9
+    numPositionsEvaluated: 969419
+    numCutOffs: 907465
+    moveVal: 
+    move: e7e5
+    eval: -7
+    moveIsFromPartialSearch: 0
+    NumQChecks: 0
+    numQMates: 0
+    isBook: 0
+    maxExtentionReachedInSearch: 0
