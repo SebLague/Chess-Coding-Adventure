@@ -110,7 +110,7 @@ namespace Chess.Game {
 			}
 			onPositionLoaded?.Invoke ();
 			boardUI.UpdatePosition (board);
-			boardUI.ResetSquareColours ();
+			boardUI.ResetSquareColours(false);
 
 			CreatePlayer (ref whitePlayer, whitePlayerType);
 			CreatePlayer (ref blackPlayer, blackPlayerType);
