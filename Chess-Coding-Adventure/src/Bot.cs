@@ -20,7 +20,7 @@ public class Bot
 
 	// References
 	readonly Searcher searcher;
-	readonly Board board;
+	public Board board;
 	readonly OpeningBook book;
 	readonly AutoResetEvent searchWaitHandle;
 	CancellationTokenSource? cancelSearchTimer;
