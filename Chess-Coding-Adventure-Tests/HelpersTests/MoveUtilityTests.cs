@@ -38,5 +38,102 @@ public class MoveUtilityTests
 		Assert.Equal(60, move.TargetSquare);
 		Assert.Equal(Move.PromoteToQueenFlag, move.MoveFlag);
 	}
-	
+
+    [Fact]
+    public void GetMoveNameUCI_PawnPromotionToRook()
+    {
+        // Arrange
+        var move = new Move(12, 28, Move.PromoteToRookFlag);
+
+        // Act
+        string moveName = MoveUtility.GetMoveNameUCI(move);
+
+        // Assert
+        Assert.Equal("e2e4r", moveName);
+    }
+
+    [Fact]
+    public void GetMoveNameUCI_PawnPromotionToKnight()
+    {
+        // Arrange
+        var move = new Move(12, 28, Move.PromoteToKnightFlag);
+
+        // Act
+        string moveName = MoveUtility.GetMoveNameUCI(move);
+
+        // Assert
+        Assert.Equal("e2e4n", moveName);
+    }
+
+    [Fact]
+    public void GetMoveNameUCI_PawnPromotionToBishop()
+    {
+        // Arrange
+        var move = new Move(12, 28, Move.PromoteToBishopFlag);
+
+        // Act
+        string moveName = MoveUtility.GetMoveNameUCI(move);
+
+        // Assert
+        Assert.Equal("e2e4b", moveName);
+    }
+
+    [Fact]
+    public void GetMoveNameUCI_PawnPromotionToQueen()
+    {
+        // Arrange
+        var move = new Move(12, 28, Move.PromoteToQueenFlag);
+
+        // Act
+        string moveName = MoveUtility.GetMoveNameUCI(move);
+
+        // Assert
+        Assert.Equal("e2e4q", moveName);
+    }
+
+    [Fact]
+    public void GetMoveNameUCI_NoPromotion()
+    {
+        // Arrange
+        var move = new Move(12, 28, Move.NoFlag);
+
+        // Act
+        string moveName = MoveUtility.GetMoveNameUCI(move);
+
+        // Assert
+        Assert.Equal("e2e4", moveName);
+    }
+
+    [Fact]
+    public void GetMoveNameSAN_NullMove()
+    {
+        // Arrange
+        var bot = new Bot();
+        var board = bot.board;
+        var move = new Move();
+
+        // Act
+        string moveName = MoveUtility.GetMoveNameSAN(move, board);
+
+        // Assert
+        Assert.Equal("Null", moveName);
+    }
+
+    [Fact]
+    public void GetMoveNameSAN_KnightMove()
+    {
+        // Arrange
+        var bot = new Bot();
+        var board = bot.board;
+        var move = MoveUtility.GetMoveFromUCIName("g1f3", board);
+
+        // Act
+        var moveName = MoveUtility.GetMoveNameSAN(move, board);
+
+        // Assert
+        Assert.Equal("Nf3", moveName);
+    }
+
+
+
 }
