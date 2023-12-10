@@ -1,3 +1,6 @@
+using System;
+using System.Linq;
+
 namespace Chess.Core
 {
 	public class RepetitionTable

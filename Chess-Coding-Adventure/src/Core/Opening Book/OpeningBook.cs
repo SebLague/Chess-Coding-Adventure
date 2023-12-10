@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace Chess.Core
 {
 	public class OpeningBook

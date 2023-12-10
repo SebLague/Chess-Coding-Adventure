@@ -1,5 +1,6 @@
 ﻿namespace Chess.Core
 {
+	using System;
 	using static System.Math;
 
 	public class Searcher

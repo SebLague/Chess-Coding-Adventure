@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace Chess.Core
 {
 	public static class MagicHelper

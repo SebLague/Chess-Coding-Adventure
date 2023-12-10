@@ -1,3 +1,5 @@
+using System;
+
 namespace Chess.Core
 {
 	public static class MoveUtility

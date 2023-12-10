@@ -1,4 +1,7 @@
-﻿namespace Chess.Core
+﻿using System;
+using System.Collections.Generic;
+
+namespace Chess.Core
 {
 	// Represents the current state of the board during a game.
 	// The state includes things such as: positions of all pieces, side to move,
