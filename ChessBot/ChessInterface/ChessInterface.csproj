@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Board.png" />
+    <None Remove="Assets\b_bishop_png_shadow_128px.png" />
+    <None Remove="Assets\b_king_png_shadow_128px.png" />
+    <None Remove="Assets\b_knight_png_shadow_128px.png" />
+    <None Remove="Assets\b_pawn_png_shadow_1024px.png" />
+    <None Remove="Assets\b_pawn_png_shadow_128px.png" />
+    <None Remove="Assets\b_queen_png_shadow_1024px.png" />
+    <None Remove="Assets\b_queen_png_shadow_128px.png" />
+    <None Remove="Assets\b_rook_png_shadow_1024px.png" />
+    <None Remove="Assets\b_rook_png_shadow_128px.png" />
+    <None Remove="Assets\square brown dark_png_shadow_1024px.png" />
+    <None Remove="Assets\square brown dark_png_shadow_128px.png" />
+    <None Remove="Assets\square brown light_png_shadow_1024px.png" />
+    <None Remove="Assets\square brown light_png_shadow_128px.png" />
+    <None Remove="Assets\square gray dark _png_shadow_1024px.png" />
+    <None Remove="Assets\square gray dark _png_shadow_128px.png" />
+    <None Remove="Assets\square gray light _png_shadow_1024px.png" />
+    <None Remove="Assets\square gray light _png_shadow_128px.png" />
+    <None Remove="Assets\strategy_horse_chess_icon_187180.ico" />
+    <None Remove="Assets\w_bishop_png_shadow_1024px.png" />
+    <None Remove="Assets\w_bishop_png_shadow_128px.png" />
+    <None Remove="Assets\w_king_png_shadow_1024px.png" />
+    <None Remove="Assets\w_king_png_shadow_128px.png" />
+    <None Remove="Assets\w_knight_png_shadow_1024px.png" />
+    <None Remove="Assets\w_knight_png_shadow_128px.png" />
+    <None Remove="Assets\w_pawn_png_shadow_1024px.png" />
+    <None Remove="Assets\w_pawn_png_shadow_128px.png" />
+    <None Remove="Assets\w_queen_png_shadow_1024px.png" />
+    <None Remove="Assets\w_queen_png_shadow_128px.png" />
+    <None Remove="Assets\w_rook_png_shadow_1024px.png" />
+    <None Remove="Assets\w_rook_png_shadow_128px.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChessLogic\ChessLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Board.png" />
+    <Resource Include="Assets\b_bishop_png_shadow_128px.png" />
+    <Resource Include="Assets\b_king_png_shadow_128px.png" />
+    <Resource Include="Assets\b_knight_png_shadow_128px.png" />
+    <Resource Include="Assets\b_pawn_png_shadow_1024px.png" />
+    <Resource Include="Assets\b_pawn_png_shadow_128px.png" />
+    <Resource Include="Assets\b_queen_png_shadow_1024px.png" />
+    <Resource Include="Assets\b_queen_png_shadow_128px.png" />
+    <Resource Include="Assets\b_rook_png_shadow_1024px.png" />
+    <Resource Include="Assets\b_rook_png_shadow_128px.png" />
+    <Resource Include="Assets\square brown dark_png_shadow_1024px.png" />
+    <Resource Include="Assets\square brown dark_png_shadow_128px.png" />
+    <Resource Include="Assets\square brown light_png_shadow_1024px.png" />
+    <Resource Include="Assets\square brown light_png_shadow_128px.png" />
+    <Resource Include="Assets\square gray dark _png_shadow_1024px.png" />
+    <Resource Include="Assets\square gray dark _png_shadow_128px.png" />
+    <Resource Include="Assets\square gray light _png_shadow_1024px.png" />
+    <Resource Include="Assets\square gray light _png_shadow_128px.png" />
+    <Resource Include="Assets\strategy_horse_chess_icon_187180.ico" />
+    <Resource Include="Assets\w_bishop_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_bishop_png_shadow_128px.png" />
+    <Resource Include="Assets\w_king_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_king_png_shadow_128px.png" />
+    <Resource Include="Assets\w_knight_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_knight_png_shadow_128px.png" />
+    <Resource Include="Assets\w_pawn_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_pawn_png_shadow_128px.png" />
+    <Resource Include="Assets\w_queen_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_queen_png_shadow_128px.png" />
+    <Resource Include="Assets\w_rook_png_shadow_1024px.png" />
+    <Resource Include="Assets\w_rook_png_shadow_128px.png" />
+  </ItemGroup>
+
+</Project>
