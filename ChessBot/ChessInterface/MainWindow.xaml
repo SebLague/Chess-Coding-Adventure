@@ -5,9 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ChessInterface"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="750"
-        Icon="Assets/strategy_horse_chess_icon_187180.ico">
-    <Grid>
-        <Image Source="/Assets/Board.png" Stretch="Fill" Margin="150,0,0,0"/>
-    </Grid>
+        Title="Chess" Height="600" Width="600"
+        Icon="Assets/strategy_horse_chess_icon_187180.ico"
+        WindowStartupLocation="CenterScreen"
+        Background="#181818">
+    <Viewbox>
+        <Grid x:Name="BoardGrid"
+            Width="600"
+            Height="600">
+            <Image Source="/Assets/Board.png"/>
+            <UniformGrid x:Name="PieceGrid"
+                         Rows="8"
+                         Columns="8"
+                         RenderOptions.BitmapScalingMode="HighQuality">
+            </UniformGrid>
+        </Grid>
+        
+    </Viewbox>
 </Window>
