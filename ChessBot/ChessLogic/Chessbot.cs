@@ -11,7 +11,7 @@ public class GameState
 }
 
 // Define the output schema for the data
-public class Move
+public class MoveBot
 {
     [ColumnName("Move"), Column("0")]
     public float[] move;
@@ -46,7 +46,7 @@ public class ChessNeuralNetwork
     public float[] PredictMove(float[] boardState)
     {
         // Create a prediction engine
-        var predictionEngine = context.Model.CreatePredictionEngine<GameState, Move>(model);
+        var predictionEngine = context.Model.CreatePredictionEngine<GameState, MoveBot>(model);
 
         // Make a prediction
         var prediction = predictionEngine.Predict(new GameState { BoardState = boardState });
