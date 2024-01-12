@@ -41,3 +41,6 @@ D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\runtimes\osx-x64\nativ
 D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\runtimes\win-arm64\native\LdaNative.dll
 D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\runtimes\win-x64\native\LdaNative.dll
 D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\runtimes\win-x86\native\LdaNative.dll
+D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\App.baml
+D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\PromotionMenu.g.cs
+D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\PromotionMenu.baml

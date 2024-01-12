@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 D:\Chess\ChessBot\ChessInterface\App.xaml
-11407045341
+2222993295
 
-4-615590328
+5-1611122582
 210-261118383
-MainWindow.xaml;
+MainWindow.xaml;PromotionMenu.xaml;
 
 False
 

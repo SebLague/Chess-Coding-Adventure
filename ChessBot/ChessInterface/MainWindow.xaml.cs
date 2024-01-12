@@ -56,13 +56,19 @@ namespace ChessInterface
 
         private void DrawBoard(Board board)
         {
-            for (int r=0; r < 8; r++)
+            for (int r = 0; r < 8; r++)
             {
-                for (int c=0; c < 8;c++)
+                for (int c = 0; c < 8; c++)
                 {
                     Piece piece = board[r, c];
-                    pieceImages[r, c].Source = Images.GetImage(piece);
-
+                    if (piece != null)
+                    {
+                        pieceImages[r, c].Source = Images.GetImage(piece);
+                    }
+                    else
+                    {
+                        pieceImages[r, c].Source = null;
+                    }
                 }
             }
         }
@@ -119,13 +125,43 @@ namespace ChessInterface
 
             if (moveCache.TryGetValue(pos, out Move move))
             {
-                HandleMove(move);
+                if (move.Type == MoveType.PawnPromotion)
+                {
+                    HandlePromotion(move.FromPos, move.ToPos);
+                }
+                else
+                {
+                    HandleMove(move);
+                }
+
             }
+        }
+
+        private void HandlePromotion(Position from, Position to)
+        {
+            pieceImages[to.Row, to.Column].Source = Images.GetImage(gameState.CurrentPlayer, PieceType.Pawn);
+            pieceImages[from.Row, from.Column].Source = null;
+
+            PromotionMenu proMenu = new PromotionMenu(gameState.CurrentPlayer);
+            MenuContainer.Content = proMenu;
+
+            proMenu.PieceSelected += type =>
+            {
+                MenuContainer.Content = null;
+                Move promMove = new PawnPromotion(from, to, type);
+                HandleMove(promMove);
+
+            };
         }
         private void HandleMove(Move move)
         {
             gameState.MakeMove(move);
             DrawBoard(gameState.Board);
+
+            if (gameState.IsGameOver())
+            {
+                Restart();
+            }
         }
 
         public void BoardGrid_MouseDown(object sender, MouseButtonEventArgs e)
@@ -141,6 +177,19 @@ namespace ChessInterface
             {
                 OnToPositionSelected(pos);
             }
+        }
+
+        private void Restart()
+        {
+            HideHighlights();
+            moveCache.Clear();
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial());
+            DrawBoard(gameState.Board);
+        }
+
+        private bool IsMenuOnScreen()
+        {
+            return MenuContainer.Content != null;
         }
     }
 }
