@@ -50,6 +50,16 @@
             {
                 yield return new NormalMove(from, to);
             }
+
+            if (CanCastleKingSide(from, board))
+            {
+                yield return new Castleing(MoveType.CastleKS, from);
+            }
+
+            if (CanCastledQueenSide(from, board))
+            {
+                yield return new Castleing(MoveType.CastleQS, from);
+            }
         }
 
         public override bool CanCaptureOpponentKing(Position from, Board board)
@@ -59,6 +69,44 @@
                 Piece piece = board[to];
                 return piece != null && piece.Type == PieceType.King;
             });
+        }
+
+        private static bool IsRookUnmoved(Position pos, Board board)
+        {
+            if (board.IsEmpty(pos))
+            {
+                return false;
+            }
+
+            Piece piece = board[pos];
+            return piece.Type == PieceType.Rook && !piece.HasMoved;
+        }
+        private static bool AllEmpty(IEnumerable<Position> positions, Board board)
+        {
+            return positions.All(pos => board.IsEmpty(pos));
+        }
+        private bool CanCastleKingSide(Position from, Board board)
+        {
+            if (HasMoved)
+            {
+                return false;
+            }
+            Position rookPos = new Position(from.Row, 7);
+            Position[] betweenPositions = new Position[] { new Position(from.Row, 5), new Position(from.Row, 6) };
+
+            return IsRookUnmoved(rookPos, board) && AllEmpty(betweenPositions, board);
+        }
+
+        private bool CanCastledQueenSide(Position from, Board board)
+        {
+            if (HasMoved)
+            {
+                return false;
+            }
+            Position rookPos = new Position(from.Row, 0);
+            Position[] betweenPositions = new Position[] { new Position(from.Row, 1), new Position(from.Row, 2), new Position(from.Row, 3) };
+
+            return IsRookUnmoved(rookPos, board) && AllEmpty(betweenPositions, board);
         }
     }
 }
