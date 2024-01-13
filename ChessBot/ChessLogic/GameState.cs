@@ -12,10 +12,17 @@ namespace ChessLogic
         public Player CurrentPlayer { get; private set; }
         public Result Result { get; private set; } = null;
 
+        public int noCaptureOrPawnMoves = 0;
+        private string stateString;
+
+        private readonly Dictionary<string, int> stateHistory = new Dictionary<string, int>();
         public GameState(Player player, Board board)
         {
             CurrentPlayer = player;
             Board = board;
+
+            stateString = new PosString(CurrentPlayer, board).ToString();
+            stateHistory[stateString] = 1;
         }
 
         public IEnumerable<Move> LegalMoveForPiece(Position pos)
@@ -32,8 +39,19 @@ namespace ChessLogic
         public void MakeMove(Move move)
         {
             Board.SetPawnSkipPosition(CurrentPlayer, null);
-            move.Execute(Board);
+            bool captureOrPawn = move.Execute(Board);
+
+            if (captureOrPawn)
+            {
+                noCaptureOrPawnMoves = 0;
+                stateHistory.Clear();
+            }
+            else
+            {
+                noCaptureOrPawnMoves++; 
+            }
             CurrentPlayer = CurrentPlayer.Opponent();
+            UpdateStateString();
             CheckForGameOver();
         }
            // Getting ALL moves
@@ -65,11 +83,44 @@ namespace ChessLogic
             {
                 Result = Result.Draw(EndReason.InsufficientMaterial);
             }
+            else if (FiftyMoveRule())
+            {
+                Result = Result.Draw(EndReason.FiftyMoveRule);
+            }
+            else if (Repetition())
+            {
+                Result = Result.Draw(EndReason.ThreefoldRepetition);
+            }
         }
 
         public bool IsGameOver()
         {
             return Result != null;
         }
+
+        private bool FiftyMoveRule()
+        {
+            int fullMoves = noCaptureOrPawnMoves / 2;
+            return fullMoves == 50;
+        }
+
+        private void UpdateStateString()
+        {
+            stateString = new PosString(CurrentPlayer, Board).ToString();
+
+            if (!stateHistory.ContainsKey(stateString))
+            {
+                stateHistory[stateString] = 1;
+            }
+            else
+            {
+                stateHistory[stateString]++;
+            }
+        }
+        private bool Repetition()
+        {
+            return stateHistory[stateString] == 3;
+        }
+
     }
 }
