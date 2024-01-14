@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="ChessInterface.GameModeSelectScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChessInterface"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Border Width="400"
+                Height="200"
+                Style="{StaticResource BoarderStyle}">
+            <Grid RenderOptions.BitmapScalingMode="HighQuality">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="1.5*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="CHOSE A GAMEMODE"
+                           Style="{StaticResource TextStyle}"
+                           FontSize="32"/>
+
+                <UniformGrid Grid.Row="1"
+                             Rows="1"
+                             Columns="3"
+                             Cursor="Hand">
+                    <Image x:Name="HumanVSHumanImg"
+                           MouseDown="HumanVSHumanImg_MouseDown"
+                           Source="Assets/Icons/human-vs-human.png"/>
+                    <Image x:Name="HumanVSAiImg"
+                           MouseDown="HumanVSAiImg_MouseDown"
+                           Source="Assets/Icons/human-vs-ai.png"/>
+                    <Image x:Name="AiVSAiImg"
+                           MouseDown="AiVSAiImg_MouseDown"
+                           Source="Assets/Icons/ai-vs-ai.png"/>
+                </UniformGrid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

@@ -8,13 +8,16 @@
         Title="Chess" Height="600" Width="600"
         Icon="Assets/strategy_horse_chess_icon_187180.ico"
         WindowStartupLocation="CenterScreen"
-        Background="#181818">
+        Background="#181818"
+        KeyDown="o">
     <Viewbox>
+
         <Grid x:Name="BoardGrid"
-            Width="600"
-            Height="600"
-            MouseDown="BoardGrid_MouseDown">
+              Width="600"
+              Height="600"
+              MouseDown="BoardGrid_MouseDown">
             <Image Source="/Assets/Board.png"/>
+
 
             <UniformGrid x:Name="HighlightGrid"
                          Rows="8"
@@ -26,10 +29,13 @@
                          Rows="8"
                          Columns="8"
                          RenderOptions.BitmapScalingMode="HighQuality">
+
             </UniformGrid>
 
             <ContentControl x:Name="MenuContainer"/>
         </Grid>
         
+        
     </Viewbox>
+
 </Window>

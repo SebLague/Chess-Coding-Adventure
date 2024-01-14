@@ -44,3 +44,5 @@ D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\runtimes\win-x86\nativ
 D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\App.baml
 D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\PromotionMenu.g.cs
 D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\PromotionMenu.baml
+D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\GameModeSelectScreen.g.cs
+D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\GameModeSelectScreen.baml

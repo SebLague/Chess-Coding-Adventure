@@ -11,18 +11,51 @@ namespace ChessLogic
         public Board Board { get; }
         public Player CurrentPlayer { get; private set; }
         public Result Result { get; private set; } = null;
+        private readonly ChessBot chessBot;
 
         public int noCaptureOrPawnMoves = 0;
         private string stateString;
 
+        private List<GameState> gameStates = new List<GameState>();
+        private List<Move> moves = new List<Move>();
+
         private readonly Dictionary<string, int> stateHistory = new Dictionary<string, int>();
-        public GameState(Player player, Board board)
+        public GameState(Player player, Board board, ChessBot chessBot)
         {
             CurrentPlayer = player;
             Board = board;
+            this.chessBot = chessBot;
 
             stateString = new PosString(CurrentPlayer, board).ToString();
             stateHistory[stateString] = 1;
+        }
+
+        public void MakeBotMove()
+        {
+            // Use the chess bot to predict a move
+            float[] move = chessBot.PredictMove(stateString);
+
+            // Convert the predicted move to a Move object
+            Move predictedMove = chessBot.ConvertPredictedMoveToMove(move);
+
+            // Execute the predicted move
+            MakeMove(predictedMove);
+            // Store the game state and move
+            gameStates.Add(this);
+            moves.Add(predictedMove);
+            chessBot.neuralNetwork.Train(gameStates, moves);
+        }
+
+        public float[] PredictMove(GameState gameState)
+        {
+            // Get the current game state as a string
+            string stateString = gameState.stateString;
+
+            // Use the chess bot to predict a move
+            float[] move = chessBot.PredictMove(stateString);
+
+            // Return the predicted move
+            return move;
         }
 
         public IEnumerable<Move> LegalMoveForPiece(Position pos)
@@ -53,6 +86,7 @@ namespace ChessLogic
             CurrentPlayer = CurrentPlayer.Opponent();
             UpdateStateString();
             CheckForGameOver();
+
         }
            // Getting ALL moves
         public IEnumerable<Move> AllLegalMovesFor(Player player)
@@ -121,6 +155,16 @@ namespace ChessLogic
         {
             return stateHistory[stateString] == 3;
         }
+        public void SelfPlay()
+        {
+            while (!IsGameOver())
+            {
+                MakeBotMove();
+                chessBot.neuralNetwork.Train(gameStates, moves);
+            }
+
+        }
+
 
     }
 }

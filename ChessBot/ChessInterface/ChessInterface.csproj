@@ -18,6 +18,15 @@
     <None Remove="Assets\b_queen_png_shadow_128px.png" />
     <None Remove="Assets\b_rook_png_shadow_1024px.png" />
     <None Remove="Assets\b_rook_png_shadow_128px.png" />
+    <None Remove="Assets\Icons\ai-vs-ai.png" />
+    <None Remove="Assets\Icons\human-vs-ai.png" />
+    <None Remove="Assets\Icons\human-vs-human.png" />
+    <None Remove="Assets\Sound\capture.mp3" />
+    <None Remove="Assets\Sound\castle.mp3" />
+    <None Remove="Assets\Sound\checkmate.mp3" />
+    <None Remove="Assets\Sound\move-check.mp3" />
+    <None Remove="Assets\Sound\move.mp3" />
+    <None Remove="Assets\Sound\promote.mp3" />
     <None Remove="Assets\square brown dark_png_shadow_1024px.png" />
     <None Remove="Assets\square brown dark_png_shadow_128px.png" />
     <None Remove="Assets\square brown light_png_shadow_1024px.png" />
@@ -60,6 +69,21 @@
     <Resource Include="Assets\b_queen_png_shadow_128px.png" />
     <Resource Include="Assets\b_rook_png_shadow_1024px.png" />
     <Resource Include="Assets\b_rook_png_shadow_128px.png" />
+    <Resource Include="Assets\Icons\ai-vs-ai.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Icons\human-vs-ai.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Icons\human-vs-human.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Sound\capture.mp3" />
+    <Resource Include="Assets\Sound\castle.mp3" />
+    <Resource Include="Assets\Sound\checkmate.mp3" />
+    <Resource Include="Assets\Sound\move-check.mp3" />
+    <Resource Include="Assets\Sound\move.mp3" />
+    <Resource Include="Assets\Sound\promote.mp3" />
     <Resource Include="Assets\square brown dark_png_shadow_1024px.png" />
     <Resource Include="Assets\square brown dark_png_shadow_128px.png" />
     <Resource Include="Assets\square brown light_png_shadow_1024px.png" />

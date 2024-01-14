@@ -27,7 +27,6 @@ namespace ChessInterface
             {PieceType.Queen, LoadImage("Assets/w_queen_png_shadow_128px.png")},
             {PieceType.King, LoadImage("Assets/w_king_png_shadow_128px.png")}
         };
-
         private static ImageSource LoadImage(string filepath)
         {
             try

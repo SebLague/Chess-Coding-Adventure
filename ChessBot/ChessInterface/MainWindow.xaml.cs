@@ -1,17 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 using ChessLogic;
 
@@ -28,14 +21,19 @@ namespace ChessInterface
 
         private ChessLogic.GameState gameState;
         private Position selectedPos = null;
+        ChessBot chessBot = new ChessBot();
+
+
 
         public MainWindow()
         {
             InitializeComponent();
             InitializeBoard();
-            gameState = new ChessLogic.GameState(Player.White, Board.Initial());
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), chessBot);
             DrawBoard(gameState.Board);
+
         }
+
 
         private void InitializeBoard()
         {
@@ -179,17 +177,30 @@ namespace ChessInterface
             }
         }
 
-        private void Restart()
+        public void Restart()
         {
             HideHighlights();
             moveCache.Clear();
-            gameState = new ChessLogic.GameState(Player.White, Board.Initial());
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), chessBot);
             DrawBoard(gameState.Board);
         }
 
         private bool IsMenuOnScreen()
         {
             return MenuContainer.Content != null;
+        }
+
+
+        private void o(object sender, KeyEventArgs e)
+        {
+            GameModeSelectScreen gameModeMenu = new GameModeSelectScreen(this);
+            MenuContainer.Content = gameModeMenu;
+        }
+
+        public void HumanVSHuman()
+        {
+            Restart();
+            MenuContainer.Content = null;
         }
     }
 }
