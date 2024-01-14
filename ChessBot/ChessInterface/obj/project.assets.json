@@ -2,6 +2,114 @@
   "version": 3,
   "targets": {
     "net7.0-windows7.0": {
+      "Accord/3.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Accord.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/_._": {}
+        }
+      },
+      "Accord.Genetic/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Math": "3.8.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Accord.Genetic.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Genetic.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Accord.MachineLearning/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Math": "3.8.0",
+          "Accord.Statistics": "3.8.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Accord.MachineLearning.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.MachineLearning.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Accord.Math/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Accord.Math.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard2.0/Accord.Math.dll": {
+            "related": ".Core.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Math.Core.dll": {
+            "related": ".xml"
+          },
+          "lib/netstandard2.0/Accord.Math.dll": {
+            "related": ".Core.xml;.xml"
+          }
+        }
+      },
+      "Accord.Neuro/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Genetic": "3.8.0",
+          "Accord.Math": "3.8.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Accord.Neuro.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Neuro.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Accord.Statistics/3.8.0": {
+        "type": "package",
+        "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.Math": "3.8.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Accord.Statistics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Accord.Statistics.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.ML/3.0.0": {
         "type": "package",
         "dependencies": {
@@ -380,6 +488,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Accord": "3.8.0",
+          "Accord.MachineLearning": "3.8.0",
+          "Accord.Neuro": "3.8.0",
           "Microsoft.ML": "3.0.0"
         },
         "compile": {
@@ -392,6 +503,226 @@
     }
   },
   "libraries": {
+    "Accord/3.8.0": {
+      "sha512": "7kJrB570dO5ELim+2KWQNozuvWO9/BuZfZspdFy36fcWPNF2CEccblLuILeUlI8QJYd2DlBy0bfK8BlCx/uayA==",
+      "type": "package",
+      "path": "accord/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.3.8.0.nupkg.sha512",
+        "accord.nuspec",
+        "build/Accord.dll.config",
+        "build/Accord.targets",
+        "lib/net35-unity full v3.5/Accord.dll",
+        "lib/net35-unity full v3.5/Accord.xml",
+        "lib/net35-unity micro v3.5/Accord.dll",
+        "lib/net35-unity micro v3.5/Accord.xml",
+        "lib/net35-unity subset v3.5/Accord.dll",
+        "lib/net35-unity subset v3.5/Accord.xml",
+        "lib/net35-unity web v3.5/Accord.dll",
+        "lib/net35-unity web v3.5/Accord.xml",
+        "lib/net35/Accord.dll",
+        "lib/net35/Accord.xml",
+        "lib/net40/Accord.dll",
+        "lib/net40/Accord.xml",
+        "lib/net45/Accord.dll",
+        "lib/net45/Accord.xml",
+        "lib/net46/Accord.dll",
+        "lib/net46/Accord.xml",
+        "lib/net462/Accord.dll",
+        "lib/net462/Accord.xml",
+        "lib/netstandard1.4/Accord.dll",
+        "lib/netstandard1.4/Accord.xml",
+        "lib/netstandard2.0/Accord.dll",
+        "lib/netstandard2.0/Accord.xml"
+      ]
+    },
+    "Accord.Genetic/3.8.0": {
+      "sha512": "dR8HfxjsZwMAgIEADbiNps7dVfcLY4fgReYyQ5r4JCANqtxD+swxvvgtjm01KgiOK9TbFxgQAdswMK87gF9coQ==",
+      "type": "package",
+      "path": "accord.genetic/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.genetic.3.8.0.nupkg.sha512",
+        "accord.genetic.nuspec",
+        "lib/net35-unity full v3.5/Accord.Genetic.dll",
+        "lib/net35-unity full v3.5/Accord.Genetic.xml",
+        "lib/net35-unity micro v3.5/Accord.Genetic.dll",
+        "lib/net35-unity micro v3.5/Accord.Genetic.xml",
+        "lib/net35-unity subset v3.5/Accord.Genetic.dll",
+        "lib/net35-unity subset v3.5/Accord.Genetic.xml",
+        "lib/net35-unity web v3.5/Accord.Genetic.dll",
+        "lib/net35-unity web v3.5/Accord.Genetic.xml",
+        "lib/net35/Accord.Genetic.dll",
+        "lib/net35/Accord.Genetic.xml",
+        "lib/net40/Accord.Genetic.dll",
+        "lib/net40/Accord.Genetic.xml",
+        "lib/net45/Accord.Genetic.dll",
+        "lib/net45/Accord.Genetic.xml",
+        "lib/net46/Accord.Genetic.dll",
+        "lib/net46/Accord.Genetic.xml",
+        "lib/net462/Accord.Genetic.dll",
+        "lib/net462/Accord.Genetic.xml",
+        "lib/netstandard1.4/Accord.Genetic.dll",
+        "lib/netstandard1.4/Accord.Genetic.xml",
+        "lib/netstandard2.0/Accord.Genetic.dll",
+        "lib/netstandard2.0/Accord.Genetic.xml"
+      ]
+    },
+    "Accord.MachineLearning/3.8.0": {
+      "sha512": "6d8HY6/S4t5LBgD4YWrHISDX4q9s/caBu4fbHhq5RH2U4ETbtnDcvwgtsqGHKH1FyPylWFOniYjLO4B4xkEEuw==",
+      "type": "package",
+      "path": "accord.machinelearning/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.machinelearning.3.8.0.nupkg.sha512",
+        "accord.machinelearning.nuspec",
+        "lib/net35-unity full v3.5/Accord.MachineLearning.dll",
+        "lib/net35-unity full v3.5/Accord.MachineLearning.xml",
+        "lib/net35-unity micro v3.5/Accord.MachineLearning.dll",
+        "lib/net35-unity micro v3.5/Accord.MachineLearning.xml",
+        "lib/net35-unity subset v3.5/Accord.MachineLearning.dll",
+        "lib/net35-unity subset v3.5/Accord.MachineLearning.xml",
+        "lib/net35-unity web v3.5/Accord.MachineLearning.dll",
+        "lib/net35-unity web v3.5/Accord.MachineLearning.xml",
+        "lib/net35/Accord.MachineLearning.dll",
+        "lib/net35/Accord.MachineLearning.xml",
+        "lib/net40/Accord.MachineLearning.dll",
+        "lib/net40/Accord.MachineLearning.xml",
+        "lib/net45/Accord.MachineLearning.dll",
+        "lib/net45/Accord.MachineLearning.xml",
+        "lib/net46/Accord.MachineLearning.dll",
+        "lib/net46/Accord.MachineLearning.xml",
+        "lib/net462/Accord.MachineLearning.dll",
+        "lib/net462/Accord.MachineLearning.xml",
+        "lib/netstandard1.4/Accord.MachineLearning.dll",
+        "lib/netstandard1.4/Accord.MachineLearning.xml",
+        "lib/netstandard2.0/Accord.MachineLearning.dll",
+        "lib/netstandard2.0/Accord.MachineLearning.xml"
+      ]
+    },
+    "Accord.Math/3.8.0": {
+      "sha512": "K3dzeQjDIrwRnoTRoMOoIbul2Uc0B8cnEtdrSlirmIo37C+jVkmYpJzme/z4Kg99XR2Vj5W5TTNlhjn+AKR+8A==",
+      "type": "package",
+      "path": "accord.math/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.math.3.8.0.nupkg.sha512",
+        "accord.math.nuspec",
+        "lib/net35-unity full v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity full v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity full v3.5/Accord.Math.dll",
+        "lib/net35-unity full v3.5/Accord.Math.xml",
+        "lib/net35-unity micro v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity micro v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity micro v3.5/Accord.Math.dll",
+        "lib/net35-unity micro v3.5/Accord.Math.xml",
+        "lib/net35-unity subset v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity subset v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity subset v3.5/Accord.Math.dll",
+        "lib/net35-unity subset v3.5/Accord.Math.xml",
+        "lib/net35-unity web v3.5/Accord.Math.Core.dll",
+        "lib/net35-unity web v3.5/Accord.Math.Core.xml",
+        "lib/net35-unity web v3.5/Accord.Math.dll",
+        "lib/net35-unity web v3.5/Accord.Math.xml",
+        "lib/net35/Accord.Math.Core.dll",
+        "lib/net35/Accord.Math.Core.xml",
+        "lib/net35/Accord.Math.dll",
+        "lib/net35/Accord.Math.xml",
+        "lib/net40/Accord.Math.Core.dll",
+        "lib/net40/Accord.Math.Core.xml",
+        "lib/net40/Accord.Math.dll",
+        "lib/net40/Accord.Math.xml",
+        "lib/net45/Accord.Math.Core.dll",
+        "lib/net45/Accord.Math.Core.xml",
+        "lib/net45/Accord.Math.dll",
+        "lib/net45/Accord.Math.xml",
+        "lib/net46/Accord.Math.Core.dll",
+        "lib/net46/Accord.Math.Core.xml",
+        "lib/net46/Accord.Math.dll",
+        "lib/net46/Accord.Math.xml",
+        "lib/net462/Accord.Math.Core.dll",
+        "lib/net462/Accord.Math.Core.xml",
+        "lib/net462/Accord.Math.dll",
+        "lib/net462/Accord.Math.xml",
+        "lib/netstandard1.4/Accord.Math.Core.dll",
+        "lib/netstandard1.4/Accord.Math.Core.xml",
+        "lib/netstandard1.4/Accord.Math.dll",
+        "lib/netstandard1.4/Accord.Math.xml",
+        "lib/netstandard2.0/Accord.Math.Core.dll",
+        "lib/netstandard2.0/Accord.Math.Core.xml",
+        "lib/netstandard2.0/Accord.Math.dll",
+        "lib/netstandard2.0/Accord.Math.xml"
+      ]
+    },
+    "Accord.Neuro/3.8.0": {
+      "sha512": "fr8w/qCXf+cmsCKaFiB6RgJHbnqaKtnDGcftp3b4ijDMl7fMS8HItaZ7R5QVfrDwHuGs9C6RdK+k6yQdtXRYVQ==",
+      "type": "package",
+      "path": "accord.neuro/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.neuro.3.8.0.nupkg.sha512",
+        "accord.neuro.nuspec",
+        "lib/net35-unity full v3.5/Accord.Neuro.dll",
+        "lib/net35-unity full v3.5/Accord.Neuro.xml",
+        "lib/net35-unity micro v3.5/Accord.Neuro.dll",
+        "lib/net35-unity micro v3.5/Accord.Neuro.xml",
+        "lib/net35-unity subset v3.5/Accord.Neuro.dll",
+        "lib/net35-unity subset v3.5/Accord.Neuro.xml",
+        "lib/net35-unity web v3.5/Accord.Neuro.dll",
+        "lib/net35-unity web v3.5/Accord.Neuro.xml",
+        "lib/net35/Accord.Neuro.dll",
+        "lib/net35/Accord.Neuro.xml",
+        "lib/net40/Accord.Neuro.dll",
+        "lib/net40/Accord.Neuro.xml",
+        "lib/net45/Accord.Neuro.dll",
+        "lib/net45/Accord.Neuro.xml",
+        "lib/net46/Accord.Neuro.dll",
+        "lib/net46/Accord.Neuro.xml",
+        "lib/net462/Accord.Neuro.dll",
+        "lib/net462/Accord.Neuro.xml",
+        "lib/netstandard2.0/Accord.Neuro.dll",
+        "lib/netstandard2.0/Accord.Neuro.xml"
+      ]
+    },
+    "Accord.Statistics/3.8.0": {
+      "sha512": "8WsmCE31Qdy3FmRvwtAY3F9/fJEi/6uyLQrhOvSI6pP6gpoaacmCrJRIphkGf2EB8gKHRWLAc4UXr1OOPHxkmQ==",
+      "type": "package",
+      "path": "accord.statistics/3.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "accord.statistics.3.8.0.nupkg.sha512",
+        "accord.statistics.nuspec",
+        "lib/net35-unity full v3.5/Accord.Statistics.dll",
+        "lib/net35-unity full v3.5/Accord.Statistics.xml",
+        "lib/net35-unity micro v3.5/Accord.Statistics.dll",
+        "lib/net35-unity micro v3.5/Accord.Statistics.xml",
+        "lib/net35-unity subset v3.5/Accord.Statistics.dll",
+        "lib/net35-unity subset v3.5/Accord.Statistics.xml",
+        "lib/net35-unity web v3.5/Accord.Statistics.dll",
+        "lib/net35-unity web v3.5/Accord.Statistics.xml",
+        "lib/net35/Accord.Statistics.dll",
+        "lib/net35/Accord.Statistics.xml",
+        "lib/net40/Accord.Statistics.dll",
+        "lib/net40/Accord.Statistics.xml",
+        "lib/net45/Accord.Statistics.dll",
+        "lib/net45/Accord.Statistics.xml",
+        "lib/net46/Accord.Statistics.dll",
+        "lib/net46/Accord.Statistics.xml",
+        "lib/net462/Accord.Statistics.dll",
+        "lib/net462/Accord.Statistics.xml",
+        "lib/netstandard1.4/Accord.Statistics.dll",
+        "lib/netstandard1.4/Accord.Statistics.xml",
+        "lib/netstandard2.0/Accord.Statistics.dll",
+        "lib/netstandard2.0/Accord.Statistics.xml"
+      ]
+    },
     "Microsoft.ML/3.0.0": {
       "sha512": "r3G3ak3BFvu9B/sH2pX0fuFcPT1vTVMF0t595vjRwg7ZcxYQ0YG8zT8f8bGxyXAk16764GWHwOxuALDdFWjMEQ==",
       "type": "package",

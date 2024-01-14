@@ -40,6 +40,18 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Accord": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.MachineLearning": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.Neuro": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
             "Microsoft.ML": {
               "target": "Package",
               "version": "[3.0.0, )"

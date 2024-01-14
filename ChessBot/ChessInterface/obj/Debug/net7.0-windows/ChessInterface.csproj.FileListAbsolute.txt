@@ -46,3 +46,11 @@ D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\PromotionMenu.g.cs
 D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\PromotionMenu.baml
 D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\GameModeSelectScreen.g.cs
 D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\GameModeSelectScreen.baml
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.dll.config
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.dll
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.Genetic.dll
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.MachineLearning.dll
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.Math.Core.dll
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.Math.dll
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.Neuro.dll
+D:\Chess\ChessBot\ChessInterface\bin\Debug\net7.0-windows\Accord.Statistics.dll

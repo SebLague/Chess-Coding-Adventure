@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,52 +13,23 @@ namespace ChessLogic
         public Board Board { get; }
         public Player CurrentPlayer { get; private set; }
         public Result Result { get; private set; } = null;
-        private readonly ChessBot chessBot;
+        private ChessBot bot;
 
         public int noCaptureOrPawnMoves = 0;
         private string stateString;
 
-        private List<GameState> gameStates = new List<GameState>();
-        private List<Move> moves = new List<Move>();
-
         private readonly Dictionary<string, int> stateHistory = new Dictionary<string, int>();
-        public GameState(Player player, Board board, ChessBot chessBot)
+        public GameState(Player player, Board board, ChessBot bot)
         {
             CurrentPlayer = player;
             Board = board;
-            this.chessBot = chessBot;
+            this.bot = bot;
 
             stateString = new PosString(CurrentPlayer, board).ToString();
             stateHistory[stateString] = 1;
         }
 
-        public void MakeBotMove()
-        {
-            // Use the chess bot to predict a move
-            float[] move = chessBot.PredictMove(stateString);
 
-            // Convert the predicted move to a Move object
-            Move predictedMove = chessBot.ConvertPredictedMoveToMove(move);
-
-            // Execute the predicted move
-            MakeMove(predictedMove);
-            // Store the game state and move
-            gameStates.Add(this);
-            moves.Add(predictedMove);
-            chessBot.neuralNetwork.Train(gameStates, moves);
-        }
-
-        public float[] PredictMove(GameState gameState)
-        {
-            // Get the current game state as a string
-            string stateString = gameState.stateString;
-
-            // Use the chess bot to predict a move
-            float[] move = chessBot.PredictMove(stateString);
-
-            // Return the predicted move
-            return move;
-        }
 
         public IEnumerable<Move> LegalMoveForPiece(Position pos)
         {
@@ -88,7 +61,20 @@ namespace ChessLogic
             CheckForGameOver();
 
         }
-           // Getting ALL moves
+
+        public Move MakeBotMove()
+        {
+            float output = bot.FeedForward(FenToArray(stateString))[0];
+            Trace.WriteLine(output);
+            Move[] legalMoveFor = AllLegalMovesFor(CurrentPlayer).ToArray();
+            output *= legalMoveFor.Length - 1;
+
+            output = MathF.Round(output);
+            MakeMove(legalMoveFor[(int)output]);
+            return legalMoveFor[(int)output];
+        }
+
+        // Getting ALL moves
         public IEnumerable<Move> AllLegalMovesFor(Player player)
         {
             IEnumerable<Move> moveCandidates = Board.PiecePositionsFor(player).SelectMany(pos =>
@@ -155,16 +141,57 @@ namespace ChessLogic
         {
             return stateHistory[stateString] == 3;
         }
-        public void SelfPlay()
-        {
-            while (!IsGameOver())
-            {
-                MakeBotMove();
-                chessBot.neuralNetwork.Train(gameStates, moves);
-            }
 
+        private float GetPieceValue(char piece)
+        {
+            switch (Char.ToUpper(piece))
+            {
+                case 'P': return 1;
+                case 'R': return 2;
+                case 'N': return 3;
+                case 'B': return 4;
+                case 'Q': return 5;
+                case 'K': return 6;
+                default: throw new ArgumentException("Invalid piece character");
+            }
         }
 
+        public float[] FenToArray(string fen)
+        {
+            // Split the FEN string into its constituent parts
+            string[] parts = fen.Split(' ')[0].Split('/');
 
+            // Initialize an empty array to hold the board representation
+            float[] board = new float[8 * 8];
+
+
+            // Iterate over each row of the board
+            for (int i = 0; i < 8; i++)
+            {
+                int currentSquare = 0;
+                // Iterate over each character in the row
+                foreach (char c in parts[i])
+                {
+                    // If the character is a number, skip that many spaces
+                    if (Char.IsDigit(c))
+                    {
+                        int numSpaces = Int32.Parse(c.ToString());
+                        for (int j = 0; j < numSpaces; j++)
+                        {
+                            board[(i * 8) + j] = 0;
+                            currentSquare++;
+                        }
+                    }
+                    // Otherwise, map the piece to an integer and add it to the board
+                    else
+                    {
+                        float pieceValue = GetPieceValue(c);
+                        board[(i * 8) + currentSquare] = pieceValue;
+                        currentSquare++;
+                    }
+                }
+            }
+            return board;
+        }
     }
 }

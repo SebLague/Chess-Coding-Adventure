@@ -44,14 +44,14 @@ namespace ChessInterface
         }
 
 
-        public void HumanVSHumanImg_MouseDown(object sender, MouseButtonEventArgs e)
+        private void HumanVSHumanImg_MouseDown(object sender, MouseButtonEventArgs e)
         {
             mainWindow.HumanVSHuman();
         }
 
         private void AiVSAiImg_MouseDown(object sender, MouseButtonEventArgs e)
         {
-
+            mainWindow.BotVsBot();
         }
 
         private void HumanVSAiImg_MouseDown(object sender, MouseButtonEventArgs e)

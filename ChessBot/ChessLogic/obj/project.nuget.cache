@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "9G9NYppZJeQETeCSxkUopISeMWtvEwoTavWfIFBz7qhF90qAH3DjSJMjSercyytSFMMDfJA+Dm7cGNBrcyYVoA==",
+  "dgSpecHash": "46LpZVSVtu2tHd2i5ExLzasB4GP3+PExWqa0g8F2KaWSmEnOwvn2j1DjkNP7QGe2dCP8R2HI5usc6Y5nHBRqcA==",
   "success": true,
   "projectFilePath": "D:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\timot\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\accord.genetic\\3.8.0\\accord.genetic.3.8.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\accord.neuro\\3.8.0\\accord.neuro.3.8.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
     "C:\\Users\\timot\\.nuget\\packages\\microsoft.ml\\3.0.0\\microsoft.ml.3.0.0.nupkg.sha512",
     "C:\\Users\\timot\\.nuget\\packages\\microsoft.ml.cpumath\\3.0.0\\microsoft.ml.cpumath.3.0.0.nupkg.sha512",
     "C:\\Users\\timot\\.nuget\\packages\\microsoft.ml.dataview\\3.0.0\\microsoft.ml.dataview.3.0.0.nupkg.sha512",

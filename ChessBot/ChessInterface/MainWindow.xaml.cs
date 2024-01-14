@@ -21,15 +21,16 @@ namespace ChessInterface
 
         private ChessLogic.GameState gameState;
         private Position selectedPos = null;
-        ChessBot chessBot = new ChessBot();
 
-
+        private ChessBot bot;
 
         public MainWindow()
         {
             InitializeComponent();
+            int[] layers = new int[] { 64, 1000, 1 };
+            bot = new ChessBot(layers);
             InitializeBoard();
-            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), chessBot);
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), bot);
             DrawBoard(gameState.Board);
 
         }
@@ -162,6 +163,14 @@ namespace ChessInterface
             }
         }
 
+        private void HandleBotMove(Move move)
+        {
+            DrawBoard(gameState.Board);
+
+            
+
+        }
+
         public void BoardGrid_MouseDown(object sender, MouseButtonEventArgs e)
         {
             Point point = e.GetPosition(BoardGrid);
@@ -181,8 +190,11 @@ namespace ChessInterface
         {
             HideHighlights();
             moveCache.Clear();
-            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), chessBot);
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), bot);
             DrawBoard(gameState.Board);
+            int[] layers = new int[] { 64, 1000, 1 };
+            bot = new ChessBot(layers);
+            
         }
 
         private bool IsMenuOnScreen()
@@ -201,6 +213,22 @@ namespace ChessInterface
         {
             Restart();
             MenuContainer.Content = null;
+        }
+
+        public void BotVsBot()
+        {
+            Restart();
+            MenuContainer.Content = null;
+            for (int i = 0; i < 500; i++)
+            {
+                HandleBotMove(gameState.MakeBotMove());
+                if (gameState.IsGameOver())
+                {
+                    break;
+                    //restart;
+                }
+            }
+            
         }
     }
 }
