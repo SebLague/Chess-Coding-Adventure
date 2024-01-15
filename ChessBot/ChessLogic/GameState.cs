@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Accord.Math.Distances;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -13,23 +14,30 @@ namespace ChessLogic
         public Board Board { get; }
         public Player CurrentPlayer { get; private set; }
         public Result Result { get; private set; } = null;
-        private ChessBot bot;
+        private Individual whiteIndividual;
+        private Individual blackIndividual;
 
         public int noCaptureOrPawnMoves = 0;
-        private string stateString;
+        public string stateString;
 
         private readonly Dictionary<string, int> stateHistory = new Dictionary<string, int>();
-        public GameState(Player player, Board board, ChessBot bot)
+        public GameState(Player player, Board board, Individual whiteIndividual, Individual blackIndividual)
         {
             CurrentPlayer = player;
             Board = board;
-            this.bot = bot;
-
+            this.whiteIndividual = whiteIndividual;
+            this.blackIndividual = blackIndividual;
             stateString = new PosString(CurrentPlayer, board).ToString();
             stateHistory[stateString] = 1;
         }
 
-
+        public GameState(Player player, Board board)
+        {
+            CurrentPlayer = player;
+            Board = board;
+            stateString = new PosString(CurrentPlayer, board).ToString();
+            stateHistory[stateString] = 1;
+        }
 
         public IEnumerable<Move> LegalMoveForPiece(Position pos)
         {
@@ -59,19 +67,68 @@ namespace ChessLogic
             CurrentPlayer = CurrentPlayer.Opponent();
             UpdateStateString();
             CheckForGameOver();
-
         }
 
-        public Move MakeBotMove()
+        public Move MakeBotMove(Player player)
         {
-            float output = bot.FeedForward(FenToArray(stateString))[0];
-            Trace.WriteLine(output);
+            // selects the bot corresponding to the current player
+            var currentBot = player == Player.White ? whiteIndividual.ChessBot : blackIndividual.ChessBot;
+
+            // calculate move
+            float output = currentBot.FeedForward(FenToArray(stateString))[0];
             Move[] legalMoveFor = AllLegalMovesFor(CurrentPlayer).ToArray();
             output *= legalMoveFor.Length - 1;
-
             output = MathF.Round(output);
-            MakeMove(legalMoveFor[(int)output]);
-            return legalMoveFor[(int)output];
+
+            if (float.IsNaN(output))
+            {
+                MakeMove(legalMoveFor[0]); 
+                return legalMoveFor[0];
+            }
+            else
+            {
+                MakeMove(legalMoveFor[(int)output]);
+                return legalMoveFor[(int)output];
+            }
+
+            
+        }
+
+
+
+        public int CalculatePoints(Player player)
+        {
+            
+            Piece[] pieceOnPos = Board.PieceOnBoard(player).ToArray();
+            int points = 0;
+            for (int i = 0; i < pieceOnPos.Length; i++)
+            {
+                if (pieceOnPos[i].Type == PieceType.Pawn)
+                {
+                    points += 1;
+                }
+                else if (pieceOnPos[i].Type == PieceType.Knight)
+                {
+                    points += 3;
+                }
+                else if (pieceOnPos[i].Type == PieceType.Bishop)
+                {
+                    points += 3;
+                }
+                else if (pieceOnPos[i].Type == PieceType.Rook)
+                {
+                    points += 5;
+                }
+                else if (pieceOnPos[i].Type == PieceType.Queen)
+                {
+                    points += 9;
+                }
+                else
+                {
+                    points += 0;
+                }
+            }
+            return points;
         }
 
         // Getting ALL moves
@@ -139,19 +196,19 @@ namespace ChessLogic
         }
         private bool Repetition()
         {
-            return stateHistory[stateString] == 3;
+            return stateHistory[stateString] >= 3;
         }
 
         private float GetPieceValue(char piece)
         {
             switch (Char.ToUpper(piece))
             {
-                case 'P': return 1;
-                case 'R': return 2;
-                case 'N': return 3;
-                case 'B': return 4;
-                case 'Q': return 5;
-                case 'K': return 6;
+                case 'P': return 0.1f;
+                case 'R': return 0.2f;
+                case 'N': return 0.3f;
+                case 'B': return 0.4f;
+                case 'Q': return 0.5f;
+                case 'K': return 0.6f;
                 default: throw new ArgumentException("Invalid piece character");
             }
         }
@@ -192,6 +249,27 @@ namespace ChessLogic
                 }
             }
             return board;
+        }
+
+        public void AssignFitness()
+        {
+            // best in terms of piece count
+            whiteIndividual.Fitness += CalculatePoints(Player.White);
+            blackIndividual.Fitness += CalculatePoints(Player.Black);
+
+            float multiplier = 2;
+
+            switch (Result.Winner)
+            {
+                case Player.Black:
+                    blackIndividual.Fitness *= multiplier;
+                    break;
+                case Player.White:
+                    whiteIndividual.Fitness *= multiplier;
+                    break;
+            }
+
+            stateHistory.Clear();
         }
     }
 }

@@ -1,5 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
 using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Threading;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;
@@ -18,21 +26,18 @@ namespace ChessInterface
         private readonly Image[,] pieceImages = new Image[8, 8];
         private readonly Rectangle[,] highlights = new Rectangle[8, 8];
         private readonly Dictionary<Position, Move> moveCache = new Dictionary<Position, Move>();
+        
 
         private ChessLogic.GameState gameState;
         private Position selectedPos = null;
-
-        private ChessBot bot;
-
+        private EvolutionarySystem evo;
+        private FenSave fenSave = new FenSave();
         public MainWindow()
         {
             InitializeComponent();
-            int[] layers = new int[] { 64, 1000, 1 };
-            bot = new ChessBot(layers);
             InitializeBoard();
-            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), bot);
-            DrawBoard(gameState.Board);
-
+            evo = new(20, 5);
+            HumanVSHuman();
         }
 
 
@@ -163,13 +168,7 @@ namespace ChessInterface
             }
         }
 
-        private void HandleBotMove(Move move)
-        {
-            DrawBoard(gameState.Board);
 
-            
-
-        }
 
         public void BoardGrid_MouseDown(object sender, MouseButtonEventArgs e)
         {
@@ -186,16 +185,41 @@ namespace ChessInterface
             }
         }
 
-        public void Restart()
+        public bool Restart()
         {
             HideHighlights();
             moveCache.Clear();
-            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), bot);
+            MenuContainer.Content = null;
+            // try getting new contenders
+            Individual[] i = evo.GetContenders();
+            if (i == null)
+            {
+                if (evo.EndGeneration())
+                {
+                    
+                    HumanVSHuman();
+                    return false;
+                }
+                else
+                {
+                    BotVsBot();
+                    return false;
+                }
+            }
+
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), i[0], i[1]);
             DrawBoard(gameState.Board);
-            int[] layers = new int[] { 64, 1000, 1 };
-            bot = new ChessBot(layers);
-            
+            return true;
         }
+        public void RestartHuman()
+        {
+            HideHighlights();
+            moveCache.Clear();
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial());
+            DrawBoard(gameState.Board);
+
+        }
+
 
         private bool IsMenuOnScreen()
         {
@@ -211,24 +235,75 @@ namespace ChessInterface
 
         public void HumanVSHuman()
         {
-            Restart();
+            RestartHuman();
             MenuContainer.Content = null;
         }
+        
 
         public void BotVsBot()
         {
-            Restart();
-            MenuContainer.Content = null;
-            for (int i = 0; i < 500; i++)
+            if (!Restart()) return;
+
+            var isWhitePlaying = true;
+
+            while (!gameState.IsGameOver())
             {
-                HandleBotMove(gameState.MakeBotMove());
-                if (gameState.IsGameOver())
-                {
-                    break;
-                    //restart;
-                }
+                gameState.MakeBotMove(isWhitePlaying ? Player.White : Player.Black);
+                DrawBoard(gameState.Board);
+                isWhitePlaying = !isWhitePlaying;
             }
-            
+
+            fenSave.AddFen(gameState.stateString);
+            gameState.AssignFitness();
+
+            BotVsBot();
+        }
+
+        public void HumanVsBot()
+        {
+
+        }
+    }
+
+    [Serializable]
+    public class FenSave
+    {
+        public List<string> Fens { get; set; } = new();
+
+        public FenSave()
+        {
+            try
+            {
+                Fens.AddRange(LoadFromFile<List<string>>("D:/Chess/ChessBot/ChessLogic/Json/Fen.json"));
+            }
+            catch
+            {
+                Trace.WriteLine("Cannot load fen from file");
+                // ignored
+            }
+        }
+
+        public void AddFen(string fen)
+        {
+            Fens.Add(fen);
+            Trace.WriteLine(fen);
+            SaveToFile();
+        }
+
+        private void SaveToFile()
+        {
+            var options = new JsonSerializerOptions
+            {
+                WriteIndented = true
+            };
+            var json = JsonSerializer.Serialize(this, options);
+            File.WriteAllText("D:/Chess/ChessBot/ChessLogic/Json/Fen.json", json);
+        }
+
+        private T LoadFromFile<T>(string path)
+        {
+            var json = File.ReadAllText(path);
+            return JsonSerializer.Deserialize<T>(json);
         }
     }
 }

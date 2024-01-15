@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
@@ -89,13 +90,26 @@ namespace ChessLogic
                 {
                     Position pos = new Position(r, c);
 
-                    if (!IsEmpty(pos))
+                    if (
+                        !IsEmpty(pos))
                     {
                         yield return pos;
                     }
                 }
             }
         }
+        public IEnumerable<Piece> PieceOnBoard(Player player)
+        {
+            List<Piece> piecesOnPos = new List<Piece>();
+            foreach (Position pos in PiecePositions().Where(pos => this[pos].Color == player))
+            {
+                Piece piece = this[pos];
+                piecesOnPos.Add(piece);
+
+            }
+            return piecesOnPos;
+        }
+
         public IEnumerable<Position> PiecePositionsFor(Player player)
         {
             return PiecePositions().Where(pos => this[pos].Color == player);
