@@ -36,7 +36,7 @@ namespace ChessInterface
         {
             InitializeComponent();
             InitializeBoard();
-            evo = new(20, 5);
+            evo = new(20, 10);
             HumanVSHuman();
         }
 
@@ -194,6 +194,7 @@ namespace ChessInterface
             Individual[] i = evo.GetContenders();
             if (i == null)
             {
+                fenSave.AddFen("------END OF GENERATION-----");
                 if (evo.EndGeneration())
                 {
                     

@@ -12,13 +12,13 @@ using Newtonsoft.Json;
 namespace ChessLogic
 {
     [Serializable]
-    public struct ChessBot
+    public class ChessBot
     {
         private int[] layers;
         private float[][] neurons;
         private float[][] biases;
         private float[][][] weights;
-        private Individual individual;
+        public Individual individual;
 
         public int[] Layers { get => layers; set => layers = value; }
         public float[][] Neurons { get => neurons; set => neurons = value; }
@@ -36,12 +36,40 @@ namespace ChessLogic
             InitNeurons();
             InitBiases();
             InitWeights();
-            CalculateGeneModification();
+        }
+
+        public ChessBot(ChessBot source)
+        {
+            layers = new int[source.layers.Length];
+            for (int i = 0; i < layers.Length; i++)
+            {
+                this.layers[i] = source.layers[i];
+            }
+            CopyWeights(source);
+            CopyBiases(source);
+
+            InitNeurons();
+        }
+
+        public ChessBot()
+        {
+
+        }
+
+        private void CopyBiases(ChessBot s)
+        {
+            Biases = EvolutionarySystem.Copy2DJaggedArray(s.Biases);
+        }
+
+        private void CopyWeights(ChessBot s)
+        {
+            Weights = EvolutionarySystem.Copy3DJaggedArray(s.Weights);
         }
 
         public void CalculateGeneModification()
         {
-            int currentGene = 0;
+            Random rng = new Random();
+            int currentGene = rng.Next(0, 24);
             int totalWeight = 0;
             for (int x = 0; x < Weights.Length; x++)
             {
@@ -98,7 +126,7 @@ namespace ChessLogic
                     weights[j] = new float[layers[i]];
                     for (int k = 0; k < layers[i]; k++)
                     {
-                        weights[j][k] = (float)(rand.NextDouble() * 1.0 - 0.5);
+                        weights[j][k] = (float)(rand.NextDouble() * 2.0 - 1.0);
                     }
                 }
                 weightsList.Add(weights);
@@ -150,6 +178,7 @@ namespace ChessLogic
                     }
                 }
                 weightsList.Add(weights);
+
             }
             Weights = weightsList.ToArray();
         }

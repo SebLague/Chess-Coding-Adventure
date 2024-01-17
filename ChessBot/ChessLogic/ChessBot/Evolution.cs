@@ -29,6 +29,38 @@ namespace ChessLogic
             int x = 1;
         }
 
+        public static float[][] Copy2DJaggedArray(float[][] originalArray)
+        {
+            float[][] newArray = new float[originalArray.Length][];
+            for (int i = 0; i < originalArray.Length; i++)
+            {
+                // Copy the inner arrays to the new array
+                newArray[i] = new float[originalArray[i].Length];
+                Array.Copy(originalArray[i], newArray[i], originalArray[i].Length);
+            }
+
+            return newArray;
+        }
+        
+
+        public static float[][][] Copy3DJaggedArray(float[][][] originalArray)
+        {
+            float[][][] newArray = new float[originalArray.Length][][];
+
+            for (int i = 0; i < originalArray.Length; i++)
+            {
+                newArray[i] = new float[originalArray[i].Length][];
+
+                for (int j = 0; j < originalArray[i].Length; j++)
+                {
+                    newArray[i][j] = new float[originalArray[i][j].Length];
+                    Array.Copy(originalArray[i][j], newArray[i][j], originalArray[i][j].Length);
+                }
+            }
+
+            return newArray;
+        }
+
         public Individual[] GetContenders()
         {
             if (count + 1 >= populationSize)
@@ -75,7 +107,6 @@ namespace ChessLogic
             for (int i = 0; i < populationSize; i++)
             {
                 var child = CrossOver(parents[0], parents[1]);
-                child.Mutate();
                 currentPopulation.Individuals.Add(child);
             }
 
@@ -90,12 +121,12 @@ namespace ChessLogic
             var json = JsonSerializer.Serialize(obj, options);
             File.WriteAllText(path, json);
         }
-
         public static Individual CrossOver(Individual parent1, Individual parent2)
         {
             // Create new child
-            ChessBot bot = parent1.ChessBot;
+            ChessBot bot = new ChessBot(parent1.ChessBot);
             Individual child = new Individual(bot, parent1.Genes.Count);
+            bot.individual = child;
 
             // Choose a random point in the parent chromosomes
             Random rnd = new Random();
@@ -114,6 +145,7 @@ namespace ChessLogic
             }
 
             child.Fitness = 0;
+            child.Mutate();
 
             return child;
         }
@@ -126,6 +158,11 @@ namespace ChessLogic
 
         public ChessBot ChessBot { get => chessBot; set => chessBot = value ; }  
         private ChessBot chessBot;
+
+        public ChessBot GetChessBot()
+        {
+            return chessBot;
+        }
         public Individual(int[] layers, int geneCount)
         {
             Genes = new List<float>(geneCount);
@@ -158,7 +195,7 @@ namespace ChessLogic
             for (int i = 0; i < Genes.Count; i++)
             {
                 // Alter gene (always happens
-                Genes[i] += (float)mutationFactor * 0.02f - 0.01f;
+                Genes[i] += (float)mutationFactor * 0.4f - 0.2f;
                 Genes[i] = Math.Max(0.5f, Math.Min(Genes[i], 2f));
 
             }
@@ -184,6 +221,7 @@ namespace ChessLogic
             // try loading from file
             try
             {
+
                 Individual loadedParent1 =
                     LoadFromFile<Individual>("D:/Chess/ChessBot/ChessLogic/Json/Parent1.json");
                 Individual loadedParent2 =
@@ -191,9 +229,8 @@ namespace ChessLogic
 
                 for (int i = 0; i < individuals.Capacity; i++)
                 {
-                    int[] layers = { 64, 1000, 1 };
-                    individuals.Add(new Individual(layers, 24));
-                    individuals[i].ChessBot.TransferWeights(loadedParent1.ChessBot.Weights);
+                    Individual child = EvolutionarySystem.CrossOver(loadedParent1, loadedParent2);
+                    individuals.Add(child);
                 }
 
             }
@@ -203,7 +240,9 @@ namespace ChessLogic
                 for (int i = 0; i < individuals.Capacity; i++)
                 {
                     int[] layers = { 64, 1000, 1 };
-                    individuals.Add(new Individual(layers, 24));
+                    Individual newDude = new Individual(layers, 24);
+                    newDude.GetChessBot().individual = newDude;
+                    individuals.Add(newDude);
                 }
             }
 
