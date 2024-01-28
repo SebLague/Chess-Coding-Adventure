@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\
+C:\Chess\ChessBot\ChessInterface\obj\Debug\net7.0-windows\
 ChessInterface
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-D:\Chess\ChessBot\ChessInterface\App.xaml
+C:\Chess\ChessBot\ChessInterface\App.xaml
 32061413828
 
 81295223444
-2171651697990
+217156299539
 GameModeSelectScreen.xaml;MainWindow.xaml;PromotionMenu.xaml;
 
-True
+False
 

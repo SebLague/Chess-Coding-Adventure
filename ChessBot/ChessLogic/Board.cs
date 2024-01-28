@@ -124,13 +124,26 @@ namespace ChessLogic
             });
         }
 
-        public Board Copy()
+        /*public Board Copy()
         {
             Board copy = new Board();
             foreach (Position pos in PiecePositions())
             {
                 copy[pos] = this[pos].Copy();
             }
+
+            return copy;
+        }*/
+
+        public Board Copy()
+        {
+            Board copy = new Board();
+
+            // Use AsParallel() to enable parallel processing
+            var positions = PiecePositions().AsParallel();
+
+            // Use ForAll to iterate in parallel
+            positions.ForAll(pos => copy[pos] = this[pos].Copy());
 
             return copy;
         }
@@ -206,7 +219,7 @@ namespace ChessLogic
             return king.Type == PieceType.King && rook.Type == PieceType.Rook && !king.HasMoved && !rook.HasMoved;
         }
 
-        public bool CastleRightKS(Player player)
+        public bool CastleRightKs(Player player)
         {
             return player switch
             {
@@ -216,7 +229,7 @@ namespace ChessLogic
             };
         }
 
-        public bool CastleRightQS(Player player)
+        public bool CastleRightQs(Player player)
         {
             return player switch
             {

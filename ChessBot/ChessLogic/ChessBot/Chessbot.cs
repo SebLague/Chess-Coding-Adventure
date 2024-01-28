@@ -12,79 +12,41 @@ using Newtonsoft.Json;
 namespace ChessLogic
 {
     [Serializable]
-    public class ChessBot
+    public class ChessBot : IDisposable
     {
         private int[] layers;
         private float[][] neurons;
         private float[][] biases;
         private float[][][] weights;
-        public Individual individual;
+        private Genes genes;
 
+        public Genes Genes
+        {
+            get => genes; set => genes = value;
+        }
         public int[] Layers { get => layers; set => layers = value; }
         public float[][] Neurons { get => neurons; set => neurons = value; }
         public float[][] Biases { get => biases; set => biases = value; }
         public float[][][] Weights { get => weights; set => weights = value; }
+        public double Fitness { get; set; }
 
-        public ChessBot(int[] layers, Individual individual)
-        {
-            this.individual = individual;
-            this.layers = new int[layers.Length];
-            for (int i = 0; i < layers.Length; i++)
-            {
-                this.layers[i] = layers[i];
-            }
-            InitNeurons();
-            InitBiases();
-            InitWeights();
-        }
-
-        public ChessBot(ChessBot source)
-        {
-            layers = new int[source.layers.Length];
-            for (int i = 0; i < layers.Length; i++)
-            {
-                this.layers[i] = source.layers[i];
-            }
-            CopyWeights(source);
-            CopyBiases(source);
-
-            InitNeurons();
-        }
 
         public ChessBot()
         {
+            this.genes = new Genes();
+            genes.Reset();
 
-        }
-
-        private void CopyBiases(ChessBot s)
-        {
-            Biases = EvolutionarySystem.Copy2DJaggedArray(s.Biases);
-        }
-
-        private void CopyWeights(ChessBot s)
-        {
-            Weights = EvolutionarySystem.Copy3DJaggedArray(s.Weights);
-        }
-
-        public void CalculateGeneModification()
-        {
-            Random rng = new Random();
-            int currentGene = rng.Next(0, 24);
-            int totalWeight = 0;
-            for (int x = 0; x < Weights.Length; x++)
+            int numberOfLayers = (int)genes.NextBetween0And1() * 10;
+            this.layers = new int[EvolutionarySystem.layers.Length];
+            for (int i = 0; i < layers.Length; i++)
             {
-                for (int y = 0; y < Weights[x].Length; y++)
-                {
-                    for (int z = 0; z < Weights[x][y].Length; z++)
-                    {
-                        Weights[x][y][z] *= individual.Genes[currentGene];
-                        currentGene++;
-                        totalWeight++;
-                        if (currentGene >= individual.Genes.Count) currentGene = 0;
-
-                    }
-                }
+                layers[i] = EvolutionarySystem.layers[i];
             }
+            
+
+            InitNeurons();
+            InitBiases();
+            InitWeights();
         }
 
 
@@ -97,17 +59,44 @@ namespace ChessLogic
             }
             neurons = neuronsList.ToArray();
         }
+        public float[] FeedForward(float[] inputs)
+        {
+            // Set the input layer
+            Parallel.For(0, inputs.Length, i => neurons[0][i] = inputs[i]);
+
+            // Process the remaining layers in parallel
+            for (int i = 1; i < layers.Length; i++)
+            {
+                int layer = i - 1;
+                Parallel.For(0, neurons[i].Length, j =>
+                {
+                    float value = 0f;
+                    for (int k = 0; k < neurons[i - 1].Length; k++)
+                    {
+                        value += Weights[i - 1][j][k] * neurons[i - 1][k];
+                    }
+                    neurons[i][j] = Activate(value + biases[i][j]);
+                });
+            }
+
+            return neurons[neurons.Length - 1];
+        }
+        public float Activate(float value)
+        {
+            if ((1 + (float)Math.Exp(-value)) == 0) return 0;
+            return 1 / (1 + (float)Math.Exp(-value));
+        }
 
         private void InitBiases()
         {
             List<float[]> biasList = new List<float[]>();
-            Random rand = new Random();
-            for (int i = 0; i < layers.Length; i++)
+            genes.Reset();
+            foreach (var t in layers)
             {
-                float[] bias = new float[layers[i]];
-                for (int j = 0; j < layers[i]; j++)
+                float[] bias = new float[t];
+                for (int j = 0; j < t; j++)
                 {
-                    bias[j] = (float)(rand.NextDouble() * 1.0 - 0.5);
+                    bias[j] = (float)genes.NextBetween0And1() * 0.2f - 0.1f; // Multiply by 2f - 1f instead of .5f - .25f
                 }
                 biasList.Add(bias);
             }
@@ -117,7 +106,7 @@ namespace ChessLogic
         private void InitWeights()
         {
             List<float[][]> weightsList = new List<float[][]>();
-            Random rand = new Random();
+            genes.Reset();
             for (int i = 0; i < layers.Length - 1; i++)
             {
                 float[][] weights = new float[layers[i + 1]][];
@@ -126,7 +115,7 @@ namespace ChessLogic
                     weights[j] = new float[layers[i]];
                     for (int k = 0; k < layers[i]; k++)
                     {
-                        weights[j][k] = (float)(rand.NextDouble() * 2.0 - 1.0);
+                        weights[j][k] = (float)genes.NextBetween0And1() * 0.2f - 0.1f; // Multiply by 2f - 1f instead of .5f - .25f
                     }
                 }
                 weightsList.Add(weights);
@@ -134,53 +123,9 @@ namespace ChessLogic
             Weights = weightsList.ToArray();
         }
 
-        public float[] FeedForward(float[] inputs)
+        public void Dispose()
         {
-            for (int i = 0; i < inputs.Length; i++)
-            {
-                neurons[0][i] = inputs[i];
-            }
-            for (int i = 1; i < layers.Length; i++)
-            {
-                int layer = i - 1;
-                for (int j = 0; j < neurons[i].Length; j++)
-                {
-                    float value = 0f;
-                    for (int k = 0; k < neurons[i - 1].Length; k++)
-                    {
-                        value += Weights[i - 1][j][k] * neurons[i - 1][k];
-                    }
-                    neurons[i][j] = activate(value + biases[i][j]);
-                }
-            }
-            return neurons[neurons.Length - 1];
-        }
-
-        public float activate(float value)
-        {
-            if ((1 + (float)Math.Exp(-value)) == 0) return 0;
-            return 1 / (1 + (float)Math.Exp(-value));
-        }
-
-        public void TransferWeights(float[][][] w)
-        {
-            List<float[][]> weightsList = new List<float[][]>();
-            Random rand = new Random();
-            for (int i = 0; i < layers.Length - 1; i++)
-            {
-                float[][] weights = new float[layers[i + 1]][];
-                for (int j = 0; j < layers[i + 1]; j++)
-                {
-                    weights[j] = new float[layers[i]];
-                    for (int k = 0; k < layers[i]; k++)
-                    {
-                        weights[j][k] = w[i][j][k];
-                    }
-                }
-                weightsList.Add(weights);
-
-            }
-            Weights = weightsList.ToArray();
+            Genes = null;
         }
     }
 }

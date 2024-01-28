@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46LpZVSVtu2tHd2i5ExLzasB4GP3+PExWqa0g8F2KaWSmEnOwvn2j1DjkNP7QGe2dCP8R2HI5usc6Y5nHBRqcA==",
+  "dgSpecHash": "CrlvW2AmxiyXYG8zZTNv171hcHY0SqMWZ0qNjTcS6/t/guQhnFazbTd6umORmcMoEoOO4QtP1Xwlkf+NcJTgEg==",
   "success": true,
-  "projectFilePath": "D:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj",
+  "projectFilePath": "C:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timot\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
     "C:\\Users\\timot\\.nuget\\packages\\accord.genetic\\3.8.0\\accord.genetic.3.8.0.nupkg.sha512",

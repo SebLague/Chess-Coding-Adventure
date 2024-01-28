@@ -3,6 +3,7 @@ using Accord.Math.Random;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,49 +20,18 @@ namespace ChessLogic
         private int currentGeneration;
         private int populationSize;
         private int count = 0;
+        public static int[] layers = {64, 1000, 1};
+        public static Random rng = new Random();
 
         public EvolutionarySystem(int populationSize, int maxGenerations)
         {
-            this.populationSize = populationSize;
+            this.populationSize = populationSize -1;
             this.maxGenerations = maxGenerations;
             currentPopulation = new Population(populationSize);
             currentPopulation.Initialize();
-            int x = 1;
         }
 
-        public static float[][] Copy2DJaggedArray(float[][] originalArray)
-        {
-            float[][] newArray = new float[originalArray.Length][];
-            for (int i = 0; i < originalArray.Length; i++)
-            {
-                // Copy the inner arrays to the new array
-                newArray[i] = new float[originalArray[i].Length];
-                Array.Copy(originalArray[i], newArray[i], originalArray[i].Length);
-            }
-
-            return newArray;
-        }
-        
-
-        public static float[][][] Copy3DJaggedArray(float[][][] originalArray)
-        {
-            float[][][] newArray = new float[originalArray.Length][][];
-
-            for (int i = 0; i < originalArray.Length; i++)
-            {
-                newArray[i] = new float[originalArray[i].Length][];
-
-                for (int j = 0; j < originalArray[i].Length; j++)
-                {
-                    newArray[i][j] = new float[originalArray[i][j].Length];
-                    Array.Copy(originalArray[i][j], newArray[i][j], originalArray[i][j].Length);
-                }
-            }
-
-            return newArray;
-        }
-
-        public Individual[] GetContenders()
+        public ChessBot[] GetContenders()
         {
             if (count + 1 >= populationSize)
             {
@@ -70,8 +40,8 @@ namespace ChessLogic
             }
             else
             {
-                Individual[] returnValue =
-                    { currentPopulation.Individuals[count], currentPopulation.Individuals[count + 1] };
+                ChessBot[] returnValue =
+                    { currentPopulation.Bots[count], currentPopulation.Bots[count + 1] };
 
                 count += 2;
                 return returnValue;
@@ -86,29 +56,28 @@ namespace ChessLogic
             if (currentGeneration >= maxGenerations)
             {
                 currentGeneration = 0;
-                object obj = currentPopulation.SelectBest(2)[0];
-                SaveToFile("D:/Chess/ChessBot/ChessLogic/Json/Parent1.json", obj);
-
-                obj = currentPopulation.SelectBest(2)[1];
-                SaveToFile("D:/Chess/ChessBot/ChessLogic/Json/Parent2.json", obj);
+                object obj = currentPopulation.SelectBest(2)[0].Genes;
+                SaveToFile("C:/Chess/ChessBot/ChessLogic/Json/Parent1.json", obj);
 
                 return true;
             }
 
             // if it is not the last generation, repopulate from the 2 best individuals of last gen
             // Select the best individuals
-            var parents = currentPopulation.SelectBest(2);
-
+            ChessBot bestLookingGuy = currentPopulation.SelectBest(1)[0];
 
             // Create new population for next generation
+            Population lastPopulation = currentPopulation;
             currentPopulation = new Population(populationSize);
 
             // Perform crossover and mutation to create new individuals
             for (int i = 0; i < populationSize; i++)
             {
-                var child = CrossOver(parents[0], parents[1]);
-                currentPopulation.Individuals.Add(child);
+                var child = CrossOver(bestLookingGuy, lastPopulation.Bots[i]);
+                currentPopulation.Bots.Add(child);
             }
+
+            lastPopulation.Dispose();
 
             return false;
         }
@@ -121,97 +90,35 @@ namespace ChessLogic
             var json = JsonSerializer.Serialize(obj, options);
             File.WriteAllText(path, json);
         }
-        public static Individual CrossOver(Individual parent1, Individual parent2)
+        public static ChessBot CrossOver(ChessBot parent1, ChessBot parent2)
         {
             // Create new child
-            ChessBot bot = new ChessBot(parent1.ChessBot);
-            Individual child = new Individual(bot, parent1.Genes.Count);
-            bot.individual = child;
+            ChessBot bot = new ChessBot();
 
             // Choose a random point in the parent chromosomes
-            Random rnd = new Random();
-            int crossOverPoint = rnd.Next(parent1.Genes.Count);
+            int crossOverPoint = rng.Next(parent1.Genes.genome.Length);
 
             // Copy the bits of the first parent to the child
-            for (int i = 0; i < crossOverPoint; i++)
-            {
-                child.Genes.Add(parent1.Genes[i]);
-            }
+            Array.Copy(parent1.Genes.genome, bot.Genes.genome, crossOverPoint);
 
             // Copy the bits of the second parent to the child
-            for (int i = crossOverPoint; i < parent2.Genes.Count; i++)
-            {
-                child.Genes.Add(parent2.Genes[i]);
-            }
+            Array.Copy(parent2.Genes.genome, crossOverPoint, bot.Genes.genome, crossOverPoint, parent2.Genes.genome.Length - crossOverPoint);
 
-            child.Fitness = 0;
-            child.Mutate();
+            bot.Fitness = 0;
 
-            return child;
+            bot.Genes.Mutate();
+
+            return bot;
         }
     }
-    [Serializable]
-    public class Individual
-    {
-        public List<float> Genes { get; set; }
-        public double Fitness { get; set; }
-
-        public ChessBot ChessBot { get => chessBot; set => chessBot = value ; }  
-        private ChessBot chessBot;
-
-        public ChessBot GetChessBot()
-        {
-            return chessBot;
-        }
-        public Individual(int[] layers, int geneCount)
-        {
-            Genes = new List<float>(geneCount);
-
-            Random rand = new Random();
-            for (int i = 0; i < geneCount; i++)
-            {
-                Genes.Add(rand.NextSingle() * 1.5f + 0.5f); // Random number between 0.5 - 2
-            }
-
-            this.chessBot = new ChessBot(layers, this);
-        }
-
-        public Individual(ChessBot bot, int geneCount)
-        {
-            Genes = new List<float>(geneCount);
-            chessBot = bot;
-        }
-
-        public Individual()
-        {
-        }
-
-        public void Mutate()
-        {
-            Random rnd = new Random();
-
-            double mutationFactor = rnd.NextDouble();
-
-            for (int i = 0; i < Genes.Count; i++)
-            {
-                // Alter gene (always happens
-                Genes[i] += (float)mutationFactor * 0.4f - 0.2f;
-                Genes[i] = Math.Max(0.5f, Math.Min(Genes[i], 2f));
-
-            }
-
-            chessBot.CalculateGeneModification();
-        }
-    }
-
-    public class Population
+    public class Population : IDisposable
     {
         private bool Initialized { get; set; } = false;
-        private List<Individual> individuals;
+        private List<ChessBot> bots;
 
         public Population(int size)
         {
-            individuals = new List<Individual>(size);
+            bots = new List<ChessBot>(size);
         }
 
         public void Initialize()
@@ -222,27 +129,26 @@ namespace ChessLogic
             try
             {
 
-                Individual loadedParent1 =
-                    LoadFromFile<Individual>("D:/Chess/ChessBot/ChessLogic/Json/Parent1.json");
-                Individual loadedParent2 =
-                    LoadFromFile<Individual>("D:/Chess/ChessBot/ChessLogic/Json/Parent2.json");
+                ChessBot loadedParent1 =
+                    LoadFromFile<ChessBot>("C:/Chess/ChessBot/ChessLogic/Json/Parent1.json");
 
-                for (int i = 0; i < individuals.Capacity; i++)
+                bots.Add(loadedParent1);
+
+                for (int i = 0; i < bots.Capacity - 2; i++)
                 {
-                    Individual child = EvolutionarySystem.CrossOver(loadedParent1, loadedParent2);
-                    individuals.Add(child);
+                    ChessBot child = EvolutionarySystem.CrossOver(loadedParent1, new ChessBot());
+
+                    bots.Add(child);
                 }
 
             }
-            // else create new randomly generated individuals
-            catch (Exception _)
+            // else create new randomly generated bots
+            catch (Exception)
             {
-                for (int i = 0; i < individuals.Capacity; i++)
+                for (int i = 0; i < bots.Capacity; i++)
                 {
-                    int[] layers = { 64, 1000, 1 };
-                    Individual newDude = new Individual(layers, 24);
-                    newDude.GetChessBot().individual = newDude;
-                    individuals.Add(newDude);
+                    ChessBot chessBot = new ChessBot();
+                    bots.Add(chessBot);
                 }
             }
 
@@ -255,23 +161,27 @@ namespace ChessLogic
             return JsonSerializer.Deserialize<T>(json);
         }
 
-        public List<Individual> Individuals
+        public List<ChessBot> Bots
         {
-            get { return individuals; }
+            get { return bots; }
         }
 
-        public double TotalFitness()
+        public List<ChessBot> SelectBest(int count)
         {
-            return individuals.Sum(individual => individual.Fitness);
-        }
+            // Sort the bots in descending order of fitness
+            var sortedIndividuals = bots.OrderByDescending(individual => individual.Fitness).ToList();
 
-        public List<Individual> SelectBest(int count)
-        {
-            // Sort the individuals in descending order of fitness
-            var sortedIndividuals = individuals.OrderByDescending(individual => individual.Fitness).ToList();
-
-            // Return the top count individuals
+            // Return the top count bots
             return sortedIndividuals.Take(count).ToList();
+        }
+
+        public void Dispose()
+        {
+            foreach (var bot in bots)
+            {
+                bot.Dispose();
+            }
+            bots = null;
         }
     }
 

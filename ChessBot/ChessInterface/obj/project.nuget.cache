@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcZnUQ3cGcJdOz5w5sa+BKNkcfTC1h+OJEmjWyRM4f3dOqZ6fuR83cBQAU3JCzQ1S+HWlh4n8B7WYm44mjyEqA==",
+  "dgSpecHash": "JBjg0OxZP3nmSuZt9wea470u76dokAVklp2VFTRyxuGv6NEs8L0vxWXVbuQMc+gJzCw94GjDU7CA99XpRa005A==",
   "success": true,
-  "projectFilePath": "D:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj",
+  "projectFilePath": "C:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timot\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
     "C:\\Users\\timot\\.nuget\\packages\\accord.genetic\\3.8.0\\accord.genetic.3.8.0.nupkg.sha512",

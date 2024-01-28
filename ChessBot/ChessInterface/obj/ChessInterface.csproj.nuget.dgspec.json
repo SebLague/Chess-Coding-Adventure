@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj": {}
+    "C:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj": {}
   },
   "projects": {
-    "D:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj": {
+    "C:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj",
+        "projectUniqueName": "C:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj",
         "projectName": "ChessInterface",
-        "projectPath": "D:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj",
+        "projectPath": "C:\\Chess\\ChessBot\\ChessInterface\\ChessInterface.csproj",
         "packagesPath": "C:\\Users\\timot\\.nuget\\packages\\",
-        "outputPath": "D:\\Chess\\ChessBot\\ChessInterface\\obj\\",
+        "outputPath": "C:\\Chess\\ChessBot\\ChessInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timot\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "D:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj": {
-                "projectPath": "D:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj"
+              "C:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj": {
+                "projectPath": "C:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj": {
+    "C:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "C:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "D:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj",
+        "projectPath": "C:\\Chess\\ChessBot\\ChessLogic\\ChessLogic.csproj",
         "packagesPath": "C:\\Users\\timot\\.nuget\\packages\\",
-        "outputPath": "D:\\Chess\\ChessBot\\ChessLogic\\obj\\",
+        "outputPath": "C:\\Chess\\ChessBot\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\timot\\AppData\\Roaming\\NuGet\\NuGet.Config",

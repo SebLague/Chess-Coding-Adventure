@@ -56,7 +56,7 @@ namespace ChessInterface
 
         private void HumanVSAiImg_MouseDown(object sender, MouseButtonEventArgs e)
         {
-
+            mainWindow.HumanVsBot();
         }
     }
 }

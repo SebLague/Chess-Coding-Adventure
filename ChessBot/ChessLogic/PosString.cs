@@ -101,10 +101,10 @@ namespace ChessLogic
 
         private void AddCastleingRights(Board board)
         {
-            bool castleWKS = board.CastleRightKS(Player.White);
-            bool castleWQS = board.CastleRightQS(Player.White);
-            bool castleBKS = board.CastleRightKS(Player.Black);
-            bool castleBQS = board.CastleRightQS(Player.Black);
+            bool castleWKS = board.CastleRightKs(Player.White);
+            bool castleWQS = board.CastleRightQs(Player.White);
+            bool castleBKS = board.CastleRightKs(Player.Black);
+            bool castleBQS = board.CastleRightQs(Player.Black);
 
             if (!(castleWKS && castleWQS && castleBKS && castleBQS))
             {

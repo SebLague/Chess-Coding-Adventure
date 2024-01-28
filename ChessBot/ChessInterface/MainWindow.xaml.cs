@@ -18,6 +18,7 @@ using ChessLogic;
 
 namespace ChessInterface
 {
+    
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -27,16 +28,17 @@ namespace ChessInterface
         private readonly Rectangle[,] highlights = new Rectangle[8, 8];
         private readonly Dictionary<Position, Move> moveCache = new Dictionary<Position, Move>();
         
-
+        
         private ChessLogic.GameState gameState;
         private Position selectedPos = null;
         private EvolutionarySystem evo;
         private FenSave fenSave = new FenSave();
+        private int blackOrWhite;
         public MainWindow()
         {
             InitializeComponent();
             InitializeBoard();
-            evo = new(20, 10);
+            evo = new(100, 100);
             HumanVSHuman();
         }
 
@@ -167,9 +169,6 @@ namespace ChessInterface
                 Restart();
             }
         }
-
-
-
         public void BoardGrid_MouseDown(object sender, MouseButtonEventArgs e)
         {
             Point point = e.GetPosition(BoardGrid);
@@ -191,13 +190,12 @@ namespace ChessInterface
             moveCache.Clear();
             MenuContainer.Content = null;
             // try getting new contenders
-            Individual[] i = evo.GetContenders();
+            ChessBot[] i = evo.GetContenders();
             if (i == null)
             {
                 fenSave.AddFen("------END OF GENERATION-----");
                 if (evo.EndGeneration())
                 {
-                    
                     HumanVSHuman();
                     return false;
                 }
@@ -212,22 +210,30 @@ namespace ChessInterface
             DrawBoard(gameState.Board);
             return true;
         }
+
         public void RestartHuman()
         {
             HideHighlights();
             moveCache.Clear();
+
             gameState = new ChessLogic.GameState(Player.White, Board.Initial());
             DrawBoard(gameState.Board);
-
         }
-
-
-        private bool IsMenuOnScreen()
+        public void RestartHumanVsBot()
         {
-            return MenuContainer.Content != null;
+            HideHighlights();
+            moveCache.Clear();
+            ChessBot bot = new ChessBot();
+            try
+            {
+                bot = FenSave.LoadFromFile<ChessBot>("C:/Chess/ChessBot/ChessLogic/Json/Parent1.json");
+            }
+            catch { }
+            gameState = new ChessLogic.GameState(Player.White, Board.Initial(), bot, blackOrWhite);
+            DrawBoard(gameState.Board);
+            gameState.stateString = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -";
+
         }
-
-
         private void o(object sender, KeyEventArgs e)
         {
             GameModeSelectScreen gameModeMenu = new GameModeSelectScreen(this);
@@ -239,31 +245,68 @@ namespace ChessInterface
             RestartHuman();
             MenuContainer.Content = null;
         }
-        
 
-        public void BotVsBot()
+
+        public async void BotVsBot()
         {
             if (!Restart()) return;
 
             var isWhitePlaying = true;
 
-            while (!gameState.IsGameOver())
+            await Task.Run(() =>
             {
-                gameState.MakeBotMove(isWhitePlaying ? Player.White : Player.Black);
-                DrawBoard(gameState.Board);
-                isWhitePlaying = !isWhitePlaying;
-            }
+                while (!gameState.IsGameOver())
+                {
+                    gameState.MakeBotMove(isWhitePlaying ? Player.White : Player.Black);
 
-            fenSave.AddFen(gameState.stateString);
-            gameState.AssignFitness();
+                    // Update UI on the main thread
+                    Dispatcher.Invoke(() =>
+                    {
+                        DrawBoard(gameState.Board);
+                    });
 
+                    isWhitePlaying = !isWhitePlaying;
+                }
+
+                fenSave.AddFen(gameState.stateString);
+                gameState.AssignFitness();
+            });
+
+            // Restart the game or perform other actions after completion
             BotVsBot();
         }
+        
 
         public void HumanVsBot()
         {
-
+            Random rng = new Random(); 
+            blackOrWhite = rng.Next(0, 2);
+            RestartHumanVsBot();
+            MenuContainer.Content = null;
+            gameState.onPlayerMoved += PlayerMoved;
+            if (blackOrWhite == 0)
+            {
+                gameState.MakeBotMove(blackOrWhite == 0 ? Player.White : Player.Black);
+                DrawBoard(gameState.Board);
+            }
         }
+
+        private void PlayerMoved(object _, EventArgs e)
+        {
+            if (gameState.IsGameOver())
+            {
+                gameState.onPlayerMoved -= PlayerMoved;
+                HumanVSHuman();
+                return;
+            }
+
+            if (gameState.CurrentPlayer == (blackOrWhite == 0 ? Player.White : Player.Black))
+            {
+                gameState.MakeBotMove(blackOrWhite == 0 ? Player.White : Player.Black);
+                DrawBoard(gameState.Board);
+            }
+        }
+
     }
 
     [Serializable]
@@ -275,7 +318,7 @@ namespace ChessInterface
         {
             try
             {
-                Fens.AddRange(LoadFromFile<List<string>>("D:/Chess/ChessBot/ChessLogic/Json/Fen.json"));
+                Fens.AddRange(LoadFromFile<List<string>>("C:/Chess/ChessBot/ChessLogic/Json/Fen.json"));
             }
             catch
             {
@@ -298,10 +341,10 @@ namespace ChessInterface
                 WriteIndented = true
             };
             var json = JsonSerializer.Serialize(this, options);
-            File.WriteAllText("D:/Chess/ChessBot/ChessLogic/Json/Fen.json", json);
+            File.WriteAllText("C:/Chess/ChessBot/ChessLogic/Json/Fen.json", json);
         }
 
-        private T LoadFromFile<T>(string path)
+        public static T LoadFromFile<T>(string path)
         {
             var json = File.ReadAllText(path);
             return JsonSerializer.Deserialize<T>(json);
